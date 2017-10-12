@@ -52,7 +52,7 @@ for name in docNames:
     else:
         presentVector.append(0)
 
-vectorizer = CountVectorizer(ngram_range=(1, 3), stop_words='english')
+vectorizer = TfidfVectorizer(ngram_range=(1, 3))
 vectorsWithDigitFeatures = vectorizer.fit_transform(bodies)
 vocabWithDigitFeatures = vectorizer.get_feature_names()
 
@@ -72,7 +72,7 @@ x_new = topKFeatures.fit_transform(vectors, presentVector)
 top50Scores = sorted(enumerate(topKFeatures.scores_), key=lambda x: x[1], reverse=True)[:49]
 top50Indices = map(list, zip(*top50Scores))[0]
 
-outFile = open("./output/Top50CountVectorizerTrainingOnly.txt", 'w')
+outFile = open("../output/Top50TfidfVectorizerTrainingOnlyNoStop.txt", 'w')
 outFile.write("Word\tP-Value\tScore\n")
 
 for index, word in enumerate(map(lambda x: vocab[x], top50Indices)):

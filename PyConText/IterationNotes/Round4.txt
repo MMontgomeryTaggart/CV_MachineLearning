@@ -1,0 +1,8 @@
+Round 4:
+
+(Results using TargetsV5 and ModifiersV4)
+Results with target-span-splitter, excluding doc class and docs without mention level adjudication(recall, precision, FScore, agreement):0.85593220339, 0.821138211382, 0.838174273859, 0.618556701031
+
+Results with builtin splitter, excluding doc class and docs without mention level adjudication(recall, precision, FScore, agreement): 
+0.65873015873, 0.89247311828, 0.75799086758, 0.509803921569
+

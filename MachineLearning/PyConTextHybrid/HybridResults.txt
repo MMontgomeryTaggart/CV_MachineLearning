@@ -1,0 +1,77 @@
+*************** Using output from pycontext produced using TargetsV6 and ModifiersV5 **************************
+Using <class 'sklearn.ensemble.forest.RandomForestClassifier'>
+Optimized for sensitivity
+{'min_samples_split': 15, 'n_estimators': 45, 'max_depth': None}
+Sensitivity: 0.8622
+Specificity: 0.9558
+Precision: 0.8586
+F-Score: 0.8544
+
+Run 2:
+Using <class 'sklearn.ensemble.forest.RandomForestClassifier'>
+Optimized for sensitivity
+{'min_samples_split': 2, 'n_estimators': 25, 'max_depth': None}
+Sensitivity: 0.8479
+Specificity: 0.9558
+Precision: 0.8607
+F-Score: 0.8456
+Accuracy: 0.9313
+
+Using <class 'sklearn.ensemble.forest.RandomForestClassifier'>
+Optimized for specificity
+{'min_samples_split': 2, 'n_estimators': 25, 'max_depth': 1}
+Sensitivity: 0.0544
+Specificity: 1.0000
+Precision: 0.3063
+F-Score: 0.0903
+
+Using <class 'sklearn.ensemble.forest.RandomForestClassifier'>
+Optimized for precision
+{'min_samples_split': 20, 'n_estimators': 10, 'max_depth': 3}
+Sensitivity: 0.4032
+Specificity: 0.9838
+Precision: 0.9159
+F-Score: 0.5298
+
+Using <class 'sklearn.ensemble.forest.RandomForestClassifier'>
+Optimized for F-Score
+{'min_samples_split': 15, 'n_estimators': 25, 'max_depth': None}
+Sensitivity: 0.8475
+Specificity: 0.9558
+Precision: 0.8555
+F-Score: 0.8457
+
+Using <class 'sklearn.ensemble.bagging.BaggingClassifier'>
+Optimized for sensitivity
+{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 10}
+Sensitivity: 0.7935
+Specificity: 0.9478
+Precision: 0.8267
+F-Score: 0.8003
+
+Using <class 'sklearn.ensemble.bagging.BaggingClassifier'>
+Optimized for sensitivity
+{'max_features': 1.0, 'max_samples': 0.7, 'n_estimators': 35}
+Sensitivity: 0.8345
+Specificity: 0.9438
+Precision: 0.8216
+F-Score: 0.8202
+
+
+Using <class 'sklearn.ensemble.bagging.BaggingClassifier'>
+Optimized for F-Score
+{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 25}
+Sensitivity: 0.8069
+Specificity: 0.9438
+Precision: 0.8183
+F-Score: 0.8042
+
+*************** Using output from pycontext produced using TargetsV7 and ModifiersV6 **************************
+Using <class 'sklearn.ensemble.forest.RandomForestClassifier'>
+Optimized for sensitivity
+{'min_samples_split': 20, 'n_estimators': 25, 'max_depth': None}
+Sensitivity: 0.7957
+Specificity: 0.9295
+Precision: 0.7722
+F-Score: 0.7815
+Accuracy: 0.8990

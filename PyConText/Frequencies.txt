@@ -1,0 +1,4 @@
+bleed	hematoma	hemorrhage	gib	sdh	brbpr	guaiac	hemoptysis	blood loss	stool	ecchymosis	hematuria	ich	bloody	coffee grounds	blood per rectum	epistaxis	exsanguination	hematemesis	melena	occult blood	hematochezia	hemoperitoneum	ng lavage post	ng lavage pre	sah	vomitting	
+114	26	25	21	11	10	10	8	6	5	4	4	4	3	2	1	1	1	1	1	1	0	0	0	0	0	0	
+88	21	22	16	11	10	8	4	2	1	3	4	4	3	1	1	1	1	1	1	1	0	0	0	0	0	0	
+26	5	3	5	0	0	2	4	4	4	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	

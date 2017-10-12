@@ -1,0 +1,38 @@
+Regex: "bleed"
+Positive Count: 160
+Positive Percentage: 0.711
+Positive Average: 2.227
+Positive Max: 20.0
+Positive Min: 0.0
+
+Negative Count: 143
+Negative Percentage: 0.187
+Negative Average: 0.305
+Negative Max: 8.0
+Negative Min: 0.0
+
+Regex:(?<!non)(?<!non )(?<!non-)bleed
+Positive Count: 160
+Positive Percentage: 0.711
+Positive Average: 2.227
+Positive Max: 20.0
+Positive Min: 0.0
+
+Negative Count: 143
+Negative Percentage: 0.187
+Negative Average: 0.302
+Negative Max: 6.0
+Negative Min: 0.0
+
+Regex: (?<!non)(?<!non )(?<!non-)(?<!no )bleed
+Positive Count: 160
+Positive Percentage: 0.711
+Positive Average: 2.213
+Positive Max: 20.0
+Positive Min: 0.0
+
+Negative Count: 138
+Negative Percentage: 0.180
+Negative Average: 0.290
+Negative Max: 6.0
+Negative Min: 0.0

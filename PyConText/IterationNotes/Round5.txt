@@ -1,0 +1,22 @@
+Round 5:
+
+Shane's Suggestions:
+1. The distance from the phrases "history of" or "denies" to be counted as negative are not long enough for notes that have run on lists in a single sentence. This resulting in phrases being counted as positive when they are a long list of negatives
+2. I think "chronic" should be consider negative
+3. I think "can result in" should be consider hypothetical and so be counted as negative
+4. "Bleeding time" should be a negative phrase since it is a lab test
+5. (-) needs to be added as negative
+6. "Denying" needs to be added as negative
+7. "Hx" of needs to be added as historical and therefore negative
+8. Multiple bleeding events were identified in the patients allergy section of the note
+9. "PMH" added as historical and therefore negative
+10. "in the past" occurring a few words after a bleeding event. The events were historical but the rules identified them as positive.
+11. "PMHx" could be added as a negative modifier
+12. "unrevealing" could be added as a negative modifier. I noticed a few entries that noted imaging to be unrevealing for bleeding
+13. "splinter hemorrhage" should not be counted as a bleeding event 
+
+
+Using target-span splitter, counting missing annotations as bleeding absent using TargetsV7 and ModifiersV6:
+After a brief and non-exhaustive search 8 words on either side was found to give the best results.
+Using 8 words on either side:(precision, recall, fscore, agreement)  0.853107344633 0.794736842105 0.822888283379 0.780405405405
+

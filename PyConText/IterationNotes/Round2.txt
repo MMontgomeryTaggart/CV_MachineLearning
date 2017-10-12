@@ -1,0 +1,36 @@
+Round2:
+
+(Results using TargetsV3 and ModifiersV2)
+Results with target-span-splitter, excluding doc class and docs without mention level adjudication(recall, precision, FScore, agreement): 0.813559322034, 0.780487804878, 0.796680497925, 0.59375
+
+Results with builtin splitter, excluding doc class and docs without mention level adjudication(recall, precision, FScore, agreement):0.656, 0.845360824742, 0.738738738739, 0.515151515152 
+
+For this round, implement all the proposed changes (i.e. add all the changes that were not preceeded by a dash) from Round1 and re-evaluate.
+
+Copied from Round 1 for convenience:
+Possible Alterations:
+
+Targets to Modify:
+-1. Add an optional hyphen to coffee grounds.
+-2. add '[a-z]*' to the end of bleed to allow it to capture bleeding, bleeder, etc with span-based splitter, may contain modifying terms after the target which will not be grabbed currently. e.g. 1018
+-3. Fix spelling of epistaxis, currently reads epistaxsis. e.g. 10642.
+4. Consider adding ecchymosis. e.g. 10645.
+5. Consider adding exsanguination, e.g. 10645 "exsanguination from head injury."
+-6. Add optional hyphen to guaiac positive, e.g. guaiac-positive from 11055.
+7. Consider adding "g positive" as option for guaiac positive, e.g. 393043.
+8. Regex to cover "guaiac(+)", e.g. 542107.
+-9. Alternative spelling of guaiac: guiac, e.g. 582899.
+
+Modifiers to Modify:
+-1. "if" is matching all instances of if, including the middle of words e.g. significant is being marked as "bleeding_absent".
+2. Consider adding "negative" to the modifiers. e.g. Note 10992 "His head CT was negative for any intracranial hemorrhage."
+-3. Consider adding "ddx" as negated existence, since it implies hypothetical-ness. e.g. 542107.
+4. Consider adding "previous", e.g. 10162 and 11662: Has had previous episodes of gastritis and GI bleed. Marked by PyConText as bleeding present.
+5. Consider adding "ago" to negative modifiers. e.g. 11515, GI "bleed two years ago."
+6. Consider adding "suspicion" or "suspicion for" as negative modifier. e.g. 11662: "Suspicion for gastrointestinal bleed."
+7. "unlikely". e.g. 393043, unlikely variceal bleed.
+8. Consider adding "concern for" as negative modifier? e.g. 542107. "concern for DIC, TTP, or blood loss"
+9. Add "r/o" as an alternative to "rule out". e.g. 582899.
+10. Consider modifying "monitor for" to just "monitor", e.g. 702187 "Monitor wound site closely for signs of bleeding."
+
+
