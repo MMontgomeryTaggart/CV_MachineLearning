@@ -2,23 +2,6 @@
 # folds have similar ratios of positive to negative labels, and options for shuffling the data before creating folds,
 # which is useful if the data are sorted by class, as they are with us.
 
-# Parameters to vary:
-# 1. SVM kernel type and parameters (gamma, coef0, and degree, depending on which kernel you use)
-# 2. C, the error term
-# 3. The number of features
-# 4. The use of bigrams, trigrams, unigrams, stopwords, etc.
-
-# Steps:
-# 1. Feature selection
-# 2. Training feature extraction
-# 3. Model Fitting
-# 4. Test feature extraction
-# 5. Model evaluation
-
-# POssible modifications:
-# 1. change tokenizer to remove words that contain numbers
-
-from sklearn.model_selection import StratifiedKFold
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 import FeatureSelection
@@ -27,8 +10,37 @@ import numpy as np
 import pandas as pd
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import GridSearchCV
+from sklearn.feature_selection import SelectKBest
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
 
 import re
+def specificity(true, predicted):
+    numTrueNegatives = np.sum(np.where(true == 0, 1., 0.))
+    numAgreedNegatives = np.sum(((predicted - 1) * -1) * ((true - 1) * -1))
+    return float(numAgreedNegatives) / float(numTrueNegatives)
+
+def NPV(true, predicted):
+    true = (true - 1) * -1
+    predicted = (predicted - 1) * -1
+    return sklearn.metrics.precision_score(true, predicted)
+
+def truePositives(true, predicted):
+    return np.sum(np.where(true * predicted == 1, 1, 0))
+
+def trueNegatives(true, predicted):
+    true = true - 1
+    predicted = predicted - 1
+    return np.sum(np.where(true * predicted == 1, 1, 0))
+
+def falseNegatives(true, predicted):
+    predicted = (predicted - 1) * -1
+    return np.sum(np.where(true * predicted == 1, 1, 0))
+
+def tokenizer(doc):
+    tokenPattern = re.compile(r"\b[a-zA-Z]+\b")
+    tokens = [token for token in tokenPattern.findall(doc)]
+    return tokens
 
 def getNotesAndClasses(corpusPath, truthPath):
     truthData = pd.read_csv(truthPath, dtype={"notes": np.str, "classes": np.int}, delimiter='\t',
@@ -71,62 +83,46 @@ kernelParam = "rbf"
 gammaParam = "auto"
 stopWords = None
 
-stratifiedKFold = StratifiedKFold(n_splits=folds)
-averageResults = [0., 0., 0., 0., 0.]
-count = 0
-indicesCombinations = []
-for trainingIndices, testingIndices in stratifiedKFold.split(noteBodies, noteClasses):
-    indicesCombinations.append((trainingIndices, testingIndices))
-for combination in indicesCombinations:
-    trainingIndices = combination[0]
-    testingIndices = combination[1]
+pipeline = Pipeline([("extraction", FeatureSelection.FeatureExtraction((1, 3), 100)),
+                     ("prediction", SVC())])
 
-    count +=1
-    print "Fold %i" % count
-    # print "Training:"
-    # print trainingIndices
-    # print noteClasses[trainingIndices]
-    # print "Testing:"
-    # print testingIndices
-    # print noteClasses[testingIndices]
-
-    #Generate the raw feature matrix and vocabulary
-    extraction = FeatureSelection.FeatureExtraction(nGramRange, kFeatures, maxDf=maxDf, minDf=minDf, stopWords=stopWords, reportTopFeatures=True)
-    trainingFeatures, trainingClasses, trainingVocab = extraction.extractFeatures(noteBodies[trainingIndices], noteClasses[trainingIndices])
+param_grid = {}
 
 
-    # print tfidfVectorizerTrain.get_feature_names()
-    # print tfidfMatrixTrain.toarray()
-    # print tfidfVectorizerTrain.vocabulary_
+count +=1
+print "Fold %i" % count
+# print "Training:"
+# print trainingIndices
+# print noteClasses[trainingIndices]
+# print "Testing:"
+# print testingIndices
+# print noteClasses[testingIndices]
+
+#Generate the raw feature matrix and vocabulary
+extraction = FeatureSelection.FeatureExtraction(nGramRange, kFeatures, maxDf=maxDf, minDf=minDf, stopWords=stopWords, reportTopFeatures=True)
+trainingFeatures, trainingClasses, trainingVocab = extraction.extractFeatures(noteBodies[trainingIndices], noteClasses[trainingIndices])
 
 
-    ############ Fit the SVM model ##################
-
-    from sklearn.svm import SVC
-    from sklearn.ensemble import RandomForestClassifier
-
-    model = SVC(C=C, kernel=kernelParam, gamma=gammaParam)
-    model = RandomForestClassifier(n_jobs=2, n_estimators=25)
-    model.fit(trainingFeatures, trainingClasses)
+# print tfidfVectorizerTrain.get_feature_names()
+# print tfidfMatrixTrain.toarray()
+# print tfidfVectorizerTrain.vocabulary_
 
 
-    ############# Test on test notes #################
+############ Fit the SVM model ##################
 
-    testFeatures, testClasses, vocab = extraction.extractFeatures(noteBodies[testingIndices], noteClasses[testingIndices], vocab=trainingVocab)
 
-    predictions = model.predict(testFeatures)
 
-    precision, recall, fscore, support = precision_recall_fscore_support(noteClasses[testingIndices], predictions, average="binary")
-    averageResults[0] += precision
-    averageResults[1] += recall
-    averageResults[2] += fscore
-    # calculate specificity:
-    numTrueNegatives = np.sum(np.where(noteClasses[testingIndices] == 0, 1., 0.))
-    numAgreedNegatives = np.sum(((predictions - 1) * -1) * ((noteClasses[testingIndices] - 1) * -1))
-    specificity = float(numAgreedNegatives) / float(numTrueNegatives)
-    averageResults[3] += specificity
-    accuracy = float(np.sum(np.where(noteClasses[testingIndices] == predictions, 1, 0))) / float(len(predictions))
-    averageResults[4] += accuracy
+model = SVC(C=C, kernel=kernelParam, gamma=gammaParam)
+model = RandomForestClassifier(n_jobs=2, n_estimators=25)
+model.fit(trainingFeatures, trainingClasses)
+
+
+############# Test on test notes #################
+
+testFeatures, testClasses, vocab = extraction.extractFeatures(noteBodies[testingIndices], noteClasses[testingIndices], vocab=trainingVocab)
+
+predictions = model.predict(testFeatures)
+
 
 print "Average results: Precision (PPV): %.4f, Sensitivity (Recall): %.4f, F-Score: %.4f, Specificity: %.4f, Accuracy: %.4f" % tuple(map(lambda x: x/float(folds), averageResults))
 

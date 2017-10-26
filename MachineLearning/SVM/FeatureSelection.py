@@ -108,7 +108,7 @@ class FeatureExtraction(object):
 
 
 
-    def extractFeatures(self, notes, classes, vocab=None):
+    def fit_transform(self, notes, classes, vocab=None):
         """Returns a list of n-grams to use as features when generating the training and test data."""
 
         nGramsVocab, nGramsVectors = self.extractNGrams(notes, classes, vocab=vocab)
