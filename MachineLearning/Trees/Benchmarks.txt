@@ -1,0 +1,1 @@
+Sensitivity: 0.91111 Specificity: 0.84889 PPV: 0.85774 NPV: 0.90521 Accuracy: 0.88000
