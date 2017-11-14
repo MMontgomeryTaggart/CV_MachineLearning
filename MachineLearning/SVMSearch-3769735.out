@@ -1,0 +1,10 @@
+/uufs/kingspeak.peaks/sys/var/slurm/slurmd.spool/job3769735/slurm_script: line 12: pyvenv: command not found
+/uufs/kingspeak.peaks/sys/var/slurm/slurmd.spool/job3769735/slurm_script: line 13: VENV/bin/activate: No such file or directory
+/uufs/kingspeak.peaks/sys/var/slurm/slurmd.spool/job3769735/slurm_script: line 15: pip: command not found
+/uufs/kingspeak.peaks/sys/var/slurm/slurmd.spool/job3769735/slurm_script: line 16: pip: command not found
+/uufs/kingspeak.peaks/sys/var/slurm/slurmd.spool/job3769735/slurm_script: line 17: pip: command not found
+/uufs/kingspeak.peaks/sys/var/slurm/slurmd.spool/job3769735/slurm_script: line 18: pip: command not found
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u0585767/ShahNLP/MachineLearning/SVM/SVM_TFIDF_Only.py", line 3, in <module>
+    from sklearn.feature_extraction.text import TfidfVectorizer
+ImportError: No module named sklearn.feature_extraction.text

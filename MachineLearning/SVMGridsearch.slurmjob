@@ -8,8 +8,10 @@
 #SBATCH --partition=kingspeak-guest
 #SBATCH --mem=0
 
+module load python/2.7.11
+virtualenv --system-site-packages VENV
+module unload python/2.7.11
 
-pyvenv --system-site-packages ~/VENV
 source VENV/bin/activate
 
 pip install numpy
@@ -17,6 +19,6 @@ pip install scikit-learn
 pip install pandas
 pip install nltk
 
-OUTFILE=$HOME/ShahNLP/SVMSearch.out
+OUTFILE=$HOME/ShahNLP/MachineLearning/SVM/SVMSearch.out
 
 python $HOME/ShahNLP/MachineLearning/SVM/SVM_TFIDF_Only.py > $OUTFILE
