@@ -17,6 +17,7 @@ import pandas as pd
 import re
 import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
+from os.path import expanduser
 
 def selectTopKFeatures(fullFeatures, featureNames, labels, k):
     selector = SelectKBest(chi2, k=k)
@@ -87,8 +88,9 @@ def getNotesAndClasses(corpusPath, truthPath, balanceClasses=False):
             noteBodies.append(inFile.read())
     return np.array(noteBodies), noteClasses.astype(int)
 if __name__ == "__main__":
-    corpusPath = "/users/shah/Box Sync/MIMC_v2/Corpus_TrainTest/"
-    truthDataPath = "/users/shah/Box Sync/MIMC_v2/Gold Standard/DocumentClasses.txt"
+    homeDir = expanduser("~")
+    corpusPath = homeDir + "/Box Sync/MIMC_v2/Corpus_TrainTest/"
+    truthDataPath = homeDir + "/Box Sync/MIMC_v2/Gold Standard/DocumentClasses.txt"
 
     noteBodies, labels = getNotesAndClasses(corpusPath, truthDataPath, balanceClasses=False)
 
