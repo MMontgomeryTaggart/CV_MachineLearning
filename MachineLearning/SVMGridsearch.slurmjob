@@ -22,3 +22,5 @@ pip install nltk
 OUTFILE=$HOME/ShahNLP/MachineLearning/SVM/SVMSearch.out
 
 python $HOME/ShahNLP/MachineLearning/SVM/SVM_TFIDF_Only.py > $OUTFILE
+
+rm -fr VENV
