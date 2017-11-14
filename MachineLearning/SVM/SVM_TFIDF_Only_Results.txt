@@ -111,7 +111,7 @@ specificity: 0.9830
 [[752  13]
  [149  76]]
 
-
+BEST specificity and NPV*********************************************************
  Using <class 'sklearn.svm.classes.SVC'>
 Optimized for Sensitivity
 {'vectorize__min_df': 0.001, 'vectorize__ngram_range': (1, 3), 'vectorize__max_df': 0.5, 'feature_selection__k': 100, 'vectorize__stop_words': 'english', 'estimation__kernel': 'linear', 'estimation__C': 1000.0}
@@ -147,3 +147,157 @@ precision, recall, etc:
 specificity: 0.9111
 [[697  68]
  [ 50 175]]
+
+
+ Using lemmatization with same settings as above:
+ Using <class 'sklearn.svm.classes.SVC'>
+Optimized for Sensitivity
+{'vectorize__min_df': 0.001, 'vectorize__ngram_range': (1, 3), 'vectorize__max_df': 0.5, 'feature_selection__k': 100, 'vectorize__stop_words': 'english', 'estimation__kernel': 'linear', 'estimation__C': 1000.0}
+Sensitivity: 0.7324
+Specificity: 0.9098
+PPV: 0.7053
+NPV: 0.9215
+Accuracy: 0.8697
+params:
+{'vectorize__min_df': 0.001, 'vectorize__preprocessor': None, 'estimation__class_weight': None, 'estimation__C': 1000.0, 'estimation__decision_function_shape': 'ovr', 'estimation__tol': 0.001, 'vectorize__max_df': 0.5, 'vectorize__lowercase': True, 'feature_selection__k': 100, 'vectorize__use_idf': True, 'vectorize': TfidfVectorizer(analyzer=u'word', binary=False, decode_error=u'strict',
+        dtype=<type 'numpy.int64'>, encoding=u'utf-8', input=u'content',
+        lowercase=True, max_df=0.5, max_features=None, min_df=0.001,
+        ngram_range=(1, 3), norm=u'l2', preprocessor=None, smooth_idf=True,
+        stop_words='english', strip_accents=None, sublinear_tf=False,
+        token_pattern=u'(?u)\\b\\w\\w+\\b',
+        tokenizer=<function tokenizer at 0x1068439b0>, use_idf=True,
+        vocabulary=None), 'feature_selection': SelectKBest(k=100, score_func=<function f_classif at 0x10377c5f0>), 'vectorize__tokenizer': <function tokenizer at 0x1068439b0>, 'estimation__probability': False, 'vectorize__encoding': u'utf-8', 'vectorize__binary': False, 'memory': None, 'vectorize__input': u'content', 'vectorize__sublinear_tf': False, 'vectorize__smooth_idf': True, 'feature_selection__score_func': <function f_classif at 0x10377c5f0>, 'vectorize__analyzer': u'word', 'estimation__max_iter': -1, 'vectorize__decode_error': u'strict', 'vectorize__strip_accents': None, 'estimation__shrinking': True, 'vectorize__norm': u'l2', 'estimation__degree': 3, 'estimation__gamma': 'auto', 'estimation__random_state': None, 'estimation__cache_size': 200, 'vectorize__stop_words': 'english', 'estimation__coef0': 0.0, 'vectorize__vocabulary': None, 'vectorize__max_features': None, 'steps': [('vectorize', TfidfVectorizer(analyzer=u'word', binary=False, decode_error=u'strict',
+        dtype=<type 'numpy.int64'>, encoding=u'utf-8', input=u'content',
+        lowercase=True, max_df=0.5, max_features=None, min_df=0.001,
+        ngram_range=(1, 3), norm=u'l2', preprocessor=None, smooth_idf=True,
+        stop_words='english', strip_accents=None, sublinear_tf=False,
+        token_pattern=u'(?u)\\b\\w\\w+\\b',
+        tokenizer=<function tokenizer at 0x1068439b0>, use_idf=True,
+        vocabulary=None)), ('feature_selection', SelectKBest(k=100, score_func=<function f_classif at 0x10377c5f0>)), ('estimation', SVC(C=1000.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False))], 'vectorize__token_pattern': u'(?u)\\b\\w\\w+\\b', 'estimation__verbose': False, 'vectorize__dtype': <type 'numpy.int64'>, 'estimation': SVC(C=1000.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False), 'vectorize__ngram_range': (1, 3), 'estimation__kernel': 'linear'}
+precision, recall, etc:
+(0.70512820512820518, 0.73333333333333328, 0.71895424836601318, None)
+specificity: 0.9098
+[[696  69]
+ [ 60 165]]
+
+ BEST Sensitivity and F-Score ***************************************************
+Equalizing the number of positive and negative notes, random seed not fixed, unfortunately:
+ Using <class 'sklearn.svm.classes.SVC'>
+Optimized for Sensitivity
+{'vectorize__min_df': 0.001, 'vectorize__ngram_range': (1, 3), 'vectorize__max_df': 0.5, 'feature_selection__k': 100, 'vectorize__stop_words': 'english', 'estimation__kernel': 'linear', 'estimation__C': 1000.0}
+Sensitivity: 0.8844
+Specificity: 0.7911
+PPV: 0.8106
+NPV: 0.8766
+Accuracy: 0.8378
+params:
+{'vectorize__min_df': 0.001, 'vectorize__preprocessor': None, 'estimation__class_weight': None, 'estimation__C': 1000.0, 'estimation__decision_function_shape': 'ovr', 'estimation__tol': 0.001, 'vectorize__max_df': 0.5, 'vectorize__lowercase': True, 'feature_selection__k': 100, 'vectorize__use_idf': True, 'vectorize': TfidfVectorizer(analyzer=u'word', binary=False, decode_error=u'strict',
+        dtype=<type 'numpy.int64'>, encoding=u'utf-8', input=u'content',
+        lowercase=True, max_df=0.5, max_features=None, min_df=0.001,
+        ngram_range=(1, 3), norm=u'l2', preprocessor=None, smooth_idf=True,
+        stop_words='english', strip_accents=None, sublinear_tf=False,
+        token_pattern=u'(?u)\\b\\w\\w+\\b',
+        tokenizer=<function tokenizer at 0x10a41d848>, use_idf=True,
+        vocabulary=None), 'feature_selection': SelectKBest(k=100, score_func=<function f_classif at 0x10735a488>), 'vectorize__tokenizer': <function tokenizer at 0x10a41d848>, 'estimation__probability': False, 'vectorize__encoding': u'utf-8', 'vectorize__binary': False, 'memory': None, 'vectorize__input': u'content', 'vectorize__sublinear_tf': False, 'vectorize__smooth_idf': True, 'feature_selection__score_func': <function f_classif at 0x10735a488>, 'vectorize__analyzer': u'word', 'estimation__max_iter': -1, 'vectorize__decode_error': u'strict', 'vectorize__strip_accents': None, 'estimation__shrinking': True, 'vectorize__norm': u'l2', 'estimation__degree': 3, 'estimation__gamma': 'auto', 'estimation__random_state': None, 'estimation__cache_size': 200, 'vectorize__stop_words': 'english', 'estimation__coef0': 0.0, 'vectorize__vocabulary': None, 'vectorize__max_features': None, 'steps': [('vectorize', TfidfVectorizer(analyzer=u'word', binary=False, decode_error=u'strict',
+        dtype=<type 'numpy.int64'>, encoding=u'utf-8', input=u'content',
+        lowercase=True, max_df=0.5, max_features=None, min_df=0.001,
+        ngram_range=(1, 3), norm=u'l2', preprocessor=None, smooth_idf=True,
+        stop_words='english', strip_accents=None, sublinear_tf=False,
+        token_pattern=u'(?u)\\b\\w\\w+\\b',
+        tokenizer=<function tokenizer at 0x10a41d848>, use_idf=True,
+        vocabulary=None)), ('feature_selection', SelectKBest(k=100, score_func=<function f_classif at 0x10735a488>)), ('estimation', SVC(C=1000.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False))], 'vectorize__token_pattern': u'(?u)\\b\\w\\w+\\b', 'estimation__verbose': False, 'vectorize__dtype': <type 'numpy.int64'>, 'estimation': SVC(C=1000.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False), 'vectorize__ngram_range': (1, 3), 'estimation__kernel': 'linear'}
+precision, recall, etc:
+(0.80894308943089432, 0.88444444444444448, 0.84501061571125269, None)
+specificity: 0.7911
+[[178  47]
+ [ 26 199]]
+
+
+Equalizing numbers in each class. Random seed fixed at 175:
+Using <class 'sklearn.svm.classes.SVC'>
+Optimized for Sensitivity
+{'vectorize__min_df': 0.001, 'vectorize__ngram_range': (1, 3), 'vectorize__max_df': 0.5, 'feature_selection__k': 100, 'vectorize__stop_words': 'english', 'estimation__kernel': 'linear', 'estimation__C': 1000.0}
+Sensitivity: 0.8489
+Specificity: 0.7422
+PPV: 0.7723
+NPV: 0.8387
+Accuracy: 0.7956
+F-Score: 0.8052
+params:
+{'vectorize__min_df': 0.001, 'vectorize__preprocessor': None, 'estimation__class_weight': None, 'estimation__C': 1000.0, 'estimation__decision_function_shape': 'ovr', 'estimation__tol': 0.001, 'vectorize__max_df': 0.5, 'vectorize__lowercase': True, 'feature_selection__k': 100, 'vectorize__use_idf': True, 'vectorize': TfidfVectorizer(analyzer=u'word', binary=False, decode_error=u'strict',
+        dtype=<type 'numpy.int64'>, encoding=u'utf-8', input=u'content',
+        lowercase=True, max_df=0.5, max_features=None, min_df=0.001,
+        ngram_range=(1, 3), norm=u'l2', preprocessor=None, smooth_idf=True,
+        stop_words='english', strip_accents=None, sublinear_tf=False,
+        token_pattern=u'(?u)\\b\\w\\w+\\b',
+        tokenizer=<function tokenizer at 0x1074c4848>, use_idf=True,
+        vocabulary=None), 'feature_selection': SelectKBest(k=100, score_func=<function f_classif at 0x1043ff488>), 'vectorize__tokenizer': <function tokenizer at 0x1074c4848>, 'estimation__probability': False, 'vectorize__encoding': u'utf-8', 'vectorize__binary': False, 'memory': None, 'vectorize__input': u'content', 'vectorize__sublinear_tf': False, 'vectorize__smooth_idf': True, 'feature_selection__score_func': <function f_classif at 0x1043ff488>, 'vectorize__analyzer': u'word', 'estimation__max_iter': -1, 'vectorize__decode_error': u'strict', 'vectorize__strip_accents': None, 'estimation__shrinking': True, 'vectorize__norm': u'l2', 'estimation__degree': 3, 'estimation__gamma': 'auto', 'estimation__random_state': None, 'estimation__cache_size': 200, 'vectorize__stop_words': 'english', 'estimation__coef0': 0.0, 'vectorize__vocabulary': None, 'vectorize__max_features': None, 'steps': [('vectorize', TfidfVectorizer(analyzer=u'word', binary=False, decode_error=u'strict',
+        dtype=<type 'numpy.int64'>, encoding=u'utf-8', input=u'content',
+        lowercase=True, max_df=0.5, max_features=None, min_df=0.001,
+        ngram_range=(1, 3), norm=u'l2', preprocessor=None, smooth_idf=True,
+        stop_words='english', strip_accents=None, sublinear_tf=False,
+        token_pattern=u'(?u)\\b\\w\\w+\\b',
+        tokenizer=<function tokenizer at 0x1074c4848>, use_idf=True,
+        vocabulary=None)), ('feature_selection', SelectKBest(k=100, score_func=<function f_classif at 0x1043ff488>)), ('estimation', SVC(C=1000.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False))], 'vectorize__token_pattern': u'(?u)\\b\\w\\w+\\b', 'estimation__verbose': False, 'vectorize__dtype': <type 'numpy.int64'>, 'estimation': SVC(C=1000.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False), 'vectorize__ngram_range': (1, 3), 'estimation__kernel': 'linear'}
+precision, recall, etc:
+(0.76706827309236947, 0.84888888888888892, 0.80590717299578052, None)
+specificity: 0.7422
+[[167  58]
+ [ 34 191]]
+
+BEST Sensitivity and F-Score with fixed random seed *************************************
+Equalizing the classes, random seed fixed at 8229:
+Using <class 'sklearn.svm.classes.SVC'>
+Optimized for Sensitivity
+{'vectorize__min_df': 0.001, 'vectorize__ngram_range': (1, 3), 'vectorize__max_df': 0.5, 'feature_selection__k': 100, 'vectorize__stop_words': 'english', 'estimation__kernel': 'linear', 'estimation__C': 1000.0}
+Sensitivity: 0.8800
+Specificity: 0.7333
+PPV: 0.7788
+NPV: 0.8675
+Accuracy: 0.8067
+F-Score: 0.8209
+params:
+{'vectorize__min_df': 0.001, 'vectorize__preprocessor': None, 'estimation__class_weight': None, 'estimation__C': 1000.0, 'estimation__decision_function_shape': 'ovr', 'estimation__tol': 0.001, 'vectorize__max_df': 0.5, 'vectorize__lowercase': True, 'feature_selection__k': 100, 'vectorize__use_idf': True, 'vectorize': TfidfVectorizer(analyzer=u'word', binary=False, decode_error=u'strict',
+        dtype=<type 'numpy.int64'>, encoding=u'utf-8', input=u'content',
+        lowercase=True, max_df=0.5, max_features=None, min_df=0.001,
+        ngram_range=(1, 3), norm=u'l2', preprocessor=None, smooth_idf=True,
+        stop_words='english', strip_accents=None, sublinear_tf=False,
+        token_pattern=u'(?u)\\b\\w\\w+\\b',
+        tokenizer=<function tokenizer at 0x115f8a848>, use_idf=True,
+        vocabulary=None), 'feature_selection': SelectKBest(k=100, score_func=<function f_classif at 0x112ecb488>), 'vectorize__tokenizer': <function tokenizer at 0x115f8a848>, 'estimation__probability': False, 'vectorize__encoding': u'utf-8', 'vectorize__binary': False, 'memory': None, 'vectorize__input': u'content', 'vectorize__sublinear_tf': False, 'vectorize__smooth_idf': True, 'feature_selection__score_func': <function f_classif at 0x112ecb488>, 'vectorize__analyzer': u'word', 'estimation__max_iter': -1, 'vectorize__decode_error': u'strict', 'vectorize__strip_accents': None, 'estimation__shrinking': True, 'vectorize__norm': u'l2', 'estimation__degree': 3, 'estimation__gamma': 'auto', 'estimation__random_state': None, 'estimation__cache_size': 200, 'vectorize__stop_words': 'english', 'estimation__coef0': 0.0, 'vectorize__vocabulary': None, 'vectorize__max_features': None, 'steps': [('vectorize', TfidfVectorizer(analyzer=u'word', binary=False, decode_error=u'strict',
+        dtype=<type 'numpy.int64'>, encoding=u'utf-8', input=u'content',
+        lowercase=True, max_df=0.5, max_features=None, min_df=0.001,
+        ngram_range=(1, 3), norm=u'l2', preprocessor=None, smooth_idf=True,
+        stop_words='english', strip_accents=None, sublinear_tf=False,
+        token_pattern=u'(?u)\\b\\w\\w+\\b',
+        tokenizer=<function tokenizer at 0x115f8a848>, use_idf=True,
+        vocabulary=None)), ('feature_selection', SelectKBest(k=100, score_func=<function f_classif at 0x112ecb488>)), ('estimation', SVC(C=1000.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False))], 'vectorize__token_pattern': u'(?u)\\b\\w\\w+\\b', 'estimation__verbose': False, 'vectorize__dtype': <type 'numpy.int64'>, 'estimation': SVC(C=1000.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False), 'vectorize__ngram_range': (1, 3), 'estimation__kernel': 'linear'}
+precision, recall, etc:
+(0.76744186046511631, 0.88, 0.81987577639751563, None)
+specificity: 0.7333
+[[165  60]
+ [ 27 198]]
