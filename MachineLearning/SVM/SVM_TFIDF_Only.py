@@ -104,22 +104,22 @@ if __name__ == "__main__":
         ("estimation", svm)
     ])
 
-    parameters = {"vectorize__ngram_range" : [(1, 1), (1, 2), (1, 3)],
-                  "vectorize__min_df" : [0.001, 0.01, 0.1],
-                  "vectorize__max_df" : [.5, .75, .9, .99],
-                  "vectorize__stop_words" : ["english", None],
-                  "feature_selection__k" : [50, 100, 500, "all"],
-                  "estimation__C" : [100., 1000., 3000., 5000.],
-                  "estimation__kernel" : ["linear"]}
-
-    # #Best Params
-    # parameters = {"vectorize__ngram_range" : [(1, 3)],
-    #               "vectorize__min_df" : [0.001],
-    #               "vectorize__max_df" : [.5],
-    #               "vectorize__stop_words" : ["english"],
-    #               "feature_selection__k" : [100],
-    #               "estimation__C" : [1000.],
+    # parameters = {"vectorize__ngram_range" : [(1, 1), (1, 2), (1, 3)],
+    #               "vectorize__min_df" : [0.001, 0.01, 0.1],
+    #               "vectorize__max_df" : [.5, .75, .9, .99],
+    #               "vectorize__stop_words" : ["english", None],
+    #               "feature_selection__k" : [50, 100, 500, "all"],
+    #               "estimation__C" : [100., 1000., 3000., 5000.],
     #               "estimation__kernel" : ["linear"]}
+
+    #Best Params
+    parameters = {"vectorize__ngram_range" : [(1, 3)],
+                  "vectorize__min_df" : [0.001],
+                  "vectorize__max_df" : [.5],
+                  "vectorize__stop_words" : ["english"],
+                  "feature_selection__k" : [100],
+                  "estimation__C" : [1000.],
+                  "estimation__kernel" : ["linear"]}
 
     #parameters = {"feature_selection__k" : [100], "estimation__C" : [5000.], "estimation__kernel" : ["linear"]}
     scores = {"Sensitivity" : "recall",
@@ -130,19 +130,19 @@ if __name__ == "__main__":
               "TruePos" : make_scorer(truePositives),
               "F-Score" : "f1"}
     refitScore = "Sensitivity"
-    model = GridSearchCV(estimator=pipeline, param_grid=parameters, n_jobs=-1, scoring=scores, refit=refitScore, cv=10, verbose=5)
+    model = GridSearchCV(estimator=pipeline, param_grid=parameters, n_jobs=-1, scoring="recall", refit=True, cv=10, verbose=5)
     model.fit(noteBodies, labels)
 
     print "Using %s" % type(svm)
     print "Optimized for %s" % refitScore
     print model.best_params_
-    bestIndex = model.best_index_
-    print "Sensitivity: %.4f" % model.cv_results_["mean_test_Sensitivity"][bestIndex]
-    print "Specificity: %.4f" % model.cv_results_["mean_test_Specificity"][bestIndex]
-    print "PPV: %.4f" % model.cv_results_["mean_test_PPV"][bestIndex]
-    print "NPV: %.4f" % model.cv_results_["mean_test_NPV"][bestIndex]
-    print "Accuracy: %.4f" % model.cv_results_["mean_test_Accuracy"][bestIndex]
-    print "F-Score: %.4f" % model.cv_results_["mean_test_F-Score"][bestIndex]
+    # bestIndex = model.best_index_
+    # print "Sensitivity: %.4f" % model.cv_results_["mean_test_Sensitivity"][bestIndex]
+    # print "Specificity: %.4f" % model.cv_results_["mean_test_Specificity"][bestIndex]
+    # print "PPV: %.4f" % model.cv_results_["mean_test_PPV"][bestIndex]
+    # print "NPV: %.4f" % model.cv_results_["mean_test_NPV"][bestIndex]
+    # print "Accuracy: %.4f" % model.cv_results_["mean_test_Accuracy"][bestIndex]
+    # print "F-Score: %.4f" % model.cv_results_["mean_test_F-Score"][bestIndex]
 
     predicted = cross_val_predict(model.best_estimator_, noteBodies, labels, cv=10, n_jobs=-1)
     print "params:"
