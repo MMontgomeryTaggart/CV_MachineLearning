@@ -1,0 +1,2 @@
+Fitting 10 folds for each of 1152 candidates, totalling 11520 fits
+[CV] vectorize__min_df=0.001, vectorize__ngram_range=(1, 2), vectorize__max_df=0.5, feature_selection__k=50, vectorize__stop_words=english, estimation__kernel=linear, estimation__C=100.0 

@@ -1,0 +1,607 @@
+PYTHONHOME is set.  You *must* activate the virtualenv before using it
+New python executable in /uufs/chpc.utah.edu/common/home/u0585767/ShahNLP/MachineLearning/VENV/bin/python
+Installing setuptools, pip, wheel...done.
+Requirement already satisfied: numpy in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/numpy-1.12.1-py2.7-linux-x86_64.egg
+Requirement already satisfied: scikit-learn in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages
+Requirement already satisfied: pandas in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/pandas-0.19.2-py2.7-linux-x86_64.egg
+Requirement already satisfied: python-dateutil in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/python_dateutil-2.5.3-py2.7.egg (from pandas)
+Requirement already satisfied: pytz>=2011k in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/pytz-2016.4-py2.7.egg (from pandas)
+Requirement already satisfied: numpy>=1.7.0 in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/numpy-1.12.1-py2.7-linux-x86_64.egg (from pandas)
+Requirement already satisfied: six>=1.5 in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/six-1.10.0-py2.7.egg (from python-dateutil->pandas)
+Requirement already satisfied: nltk in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/nltk-3.2.2-py2.7.egg
+Requirement already satisfied: six in /uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/six-1.10.0-py2.7.egg (from nltk)
+[nltk_data] Downloading collection u'all'
+[nltk_data]    | 
+[nltk_data]    | Downloading package abc to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package abc is already up-to-date!
+[nltk_data]    | Downloading package alpino to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package alpino is already up-to-date!
+[nltk_data]    | Downloading package biocreative_ppi to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package biocreative_ppi is already up-to-date!
+[nltk_data]    | Downloading package brown to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package brown is already up-to-date!
+[nltk_data]    | Downloading package brown_tei to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package brown_tei is already up-to-date!
+[nltk_data]    | Downloading package cess_cat to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package cess_cat is already up-to-date!
+[nltk_data]    | Downloading package cess_esp to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package cess_esp is already up-to-date!
+[nltk_data]    | Downloading package chat80 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package chat80 is already up-to-date!
+[nltk_data]    | Downloading package city_database to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package city_database is already up-to-date!
+[nltk_data]    | Downloading package cmudict to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package cmudict is already up-to-date!
+[nltk_data]    | Downloading package comparative_sentences to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package comparative_sentences is already up-to-
+[nltk_data]    |       date!
+[nltk_data]    | Downloading package comtrans to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package comtrans is already up-to-date!
+[nltk_data]    | Downloading package conll2000 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package conll2000 is already up-to-date!
+[nltk_data]    | Downloading package conll2002 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package conll2002 is already up-to-date!
+[nltk_data]    | Downloading package conll2007 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package conll2007 is already up-to-date!
+[nltk_data]    | Downloading package crubadan to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package crubadan is already up-to-date!
+[nltk_data]    | Downloading package dependency_treebank to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package dependency_treebank is already up-to-date!
+[nltk_data]    | Downloading package dolch to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package dolch is already up-to-date!
+[nltk_data]    | Downloading package europarl_raw to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package europarl_raw is already up-to-date!
+[nltk_data]    | Downloading package floresta to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package floresta is already up-to-date!
+[nltk_data]    | Downloading package framenet_v15 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package framenet_v15 is already up-to-date!
+[nltk_data]    | Downloading package framenet_v17 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package framenet_v17 is already up-to-date!
+[nltk_data]    | Downloading package gazetteers to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package gazetteers is already up-to-date!
+[nltk_data]    | Downloading package genesis to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package genesis is already up-to-date!
+[nltk_data]    | Downloading package gutenberg to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package gutenberg is already up-to-date!
+[nltk_data]    | Downloading package ieer to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package ieer is already up-to-date!
+[nltk_data]    | Downloading package inaugural to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package inaugural is already up-to-date!
+[nltk_data]    | Downloading package indian to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package indian is already up-to-date!
+[nltk_data]    | Downloading package jeita to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package jeita is already up-to-date!
+[nltk_data]    | Downloading package kimmo to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package kimmo is already up-to-date!
+[nltk_data]    | Downloading package knbc to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package knbc is already up-to-date!
+[nltk_data]    | Downloading package lin_thesaurus to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package lin_thesaurus is already up-to-date!
+[nltk_data]    | Downloading package mac_morpho to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package mac_morpho is already up-to-date!
+[nltk_data]    | Downloading package machado to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package machado is already up-to-date!
+[nltk_data]    | Downloading package masc_tagged to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package masc_tagged is already up-to-date!
+[nltk_data]    | Downloading package moses_sample to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package moses_sample is already up-to-date!
+[nltk_data]    | Downloading package movie_reviews to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package movie_reviews is already up-to-date!
+[nltk_data]    | Downloading package names to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package names is already up-to-date!
+[nltk_data]    | Downloading package nombank.1.0 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package nombank.1.0 is already up-to-date!
+[nltk_data]    | Downloading package nps_chat to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package nps_chat is already up-to-date!
+[nltk_data]    | Downloading package omw to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package omw is already up-to-date!
+[nltk_data]    | Downloading package opinion_lexicon to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package opinion_lexicon is already up-to-date!
+[nltk_data]    | Downloading package paradigms to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package paradigms is already up-to-date!
+[nltk_data]    | Downloading package pil to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package pil is already up-to-date!
+[nltk_data]    | Downloading package pl196x to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package pl196x is already up-to-date!
+[nltk_data]    | Downloading package ppattach to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package ppattach is already up-to-date!
+[nltk_data]    | Downloading package problem_reports to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package problem_reports is already up-to-date!
+[nltk_data]    | Downloading package propbank to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package propbank is already up-to-date!
+[nltk_data]    | Downloading package ptb to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package ptb is already up-to-date!
+[nltk_data]    | Downloading package product_reviews_1 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package product_reviews_1 is already up-to-date!
+[nltk_data]    | Downloading package product_reviews_2 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package product_reviews_2 is already up-to-date!
+[nltk_data]    | Downloading package pros_cons to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package pros_cons is already up-to-date!
+[nltk_data]    | Downloading package qc to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package qc is already up-to-date!
+[nltk_data]    | Downloading package reuters to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package reuters is already up-to-date!
+[nltk_data]    | Downloading package rte to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package rte is already up-to-date!
+[nltk_data]    | Downloading package semcor to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package semcor is already up-to-date!
+[nltk_data]    | Downloading package senseval to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package senseval is already up-to-date!
+[nltk_data]    | Downloading package sentiwordnet to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package sentiwordnet is already up-to-date!
+[nltk_data]    | Downloading package sentence_polarity to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package sentence_polarity is already up-to-date!
+[nltk_data]    | Downloading package shakespeare to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package shakespeare is already up-to-date!
+[nltk_data]    | Downloading package sinica_treebank to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package sinica_treebank is already up-to-date!
+[nltk_data]    | Downloading package smultron to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package smultron is already up-to-date!
+[nltk_data]    | Downloading package state_union to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package state_union is already up-to-date!
+[nltk_data]    | Downloading package stopwords to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package stopwords is already up-to-date!
+[nltk_data]    | Downloading package subjectivity to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package subjectivity is already up-to-date!
+[nltk_data]    | Downloading package swadesh to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package swadesh is already up-to-date!
+[nltk_data]    | Downloading package switchboard to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package switchboard is already up-to-date!
+[nltk_data]    | Downloading package timit to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package timit is already up-to-date!
+[nltk_data]    | Downloading package toolbox to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package toolbox is already up-to-date!
+[nltk_data]    | Downloading package treebank to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package treebank is already up-to-date!
+[nltk_data]    | Downloading package twitter_samples to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package twitter_samples is already up-to-date!
+[nltk_data]    | Downloading package udhr to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package udhr is already up-to-date!
+[nltk_data]    | Downloading package udhr2 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package udhr2 is already up-to-date!
+[nltk_data]    | Downloading package unicode_samples to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package unicode_samples is already up-to-date!
+[nltk_data]    | Downloading package universal_treebanks_v20 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package universal_treebanks_v20 is already up-to-
+[nltk_data]    |       date!
+[nltk_data]    | Downloading package verbnet to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package verbnet is already up-to-date!
+[nltk_data]    | Downloading package webtext to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package webtext is already up-to-date!
+[nltk_data]    | Downloading package wordnet to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package wordnet is already up-to-date!
+[nltk_data]    | Downloading package wordnet_ic to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package wordnet_ic is already up-to-date!
+[nltk_data]    | Downloading package words to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package words is already up-to-date!
+[nltk_data]    | Downloading package ycoe to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package ycoe is already up-to-date!
+[nltk_data]    | Downloading package rslp to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package rslp is already up-to-date!
+[nltk_data]    | Downloading package hmm_treebank_pos_tagger to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package hmm_treebank_pos_tagger is already up-to-
+[nltk_data]    |       date!
+[nltk_data]    | Downloading package maxent_treebank_pos_tagger to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package maxent_treebank_pos_tagger is already up-
+[nltk_data]    |       to-date!
+[nltk_data]    | Downloading package universal_tagset to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package universal_tagset is already up-to-date!
+[nltk_data]    | Downloading package maxent_ne_chunker to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package maxent_ne_chunker is already up-to-date!
+[nltk_data]    | Downloading package punkt to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package punkt is already up-to-date!
+[nltk_data]    | Downloading package book_grammars to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package book_grammars is already up-to-date!
+[nltk_data]    | Downloading package sample_grammars to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package sample_grammars is already up-to-date!
+[nltk_data]    | Downloading package spanish_grammars to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package spanish_grammars is already up-to-date!
+[nltk_data]    | Downloading package basque_grammars to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package basque_grammars is already up-to-date!
+[nltk_data]    | Downloading package large_grammars to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package large_grammars is already up-to-date!
+[nltk_data]    | Downloading package tagsets to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package tagsets is already up-to-date!
+[nltk_data]    | Downloading package snowball_data to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package snowball_data is already up-to-date!
+[nltk_data]    | Downloading package bllip_wsj_no_aux to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package bllip_wsj_no_aux is already up-to-date!
+[nltk_data]    | Downloading package word2vec_sample to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package word2vec_sample is already up-to-date!
+[nltk_data]    | Downloading package panlex_swadesh to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package panlex_swadesh is already up-to-date!
+[nltk_data]    | Downloading package mte_teip5 to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package mte_teip5 is already up-to-date!
+[nltk_data]    | Downloading package averaged_perceptron_tagger to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package averaged_perceptron_tagger is already up-
+[nltk_data]    |       to-date!
+[nltk_data]    | Downloading package perluniprops to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package perluniprops is already up-to-date!
+[nltk_data]    | Downloading package nonbreaking_prefixes to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package nonbreaking_prefixes is already up-to-date!
+[nltk_data]    | Downloading package vader_lexicon to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package vader_lexicon is already up-to-date!
+[nltk_data]    | Downloading package porter_test to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package porter_test is already up-to-date!
+[nltk_data]    | Downloading package wmt15_eval to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package wmt15_eval is already up-to-date!
+[nltk_data]    | Downloading package mwa_ppdb to
+[nltk_data]    |     /uufs/chpc.utah.edu/common/home/u0585767/nltk_dat
+[nltk_data]    |     a...
+[nltk_data]    |   Package mwa_ppdb is already up-to-date!
+[nltk_data]    | 
+[nltk_data]  Done downloading collection all
+Traceback (most recent call last):
+  File "/uufs/chpc.utah.edu/common/home/u0585767/ShahNLP/MachineLearning/SVM/SVM_TFIDF_Only.py", line 134, in <module>
+    model.fit(noteBodies, labels)
+  File "/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/model_selection/_search.py", line 945, in fit
+    return self._fit(X, y, groups, ParameterGrid(self.param_grid))
+  File "/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/model_selection/_search.py", line 564, in _fit
+    for parameters in parameter_iterable
+  File "/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/externals/joblib/parallel.py", line 768, in __call__
+    self.retrieve()
+  File "/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/externals/joblib/parallel.py", line 719, in retrieve
+    raise exception
+sklearn.externals.joblib.my_exceptions.JoblibTypeError: JoblibTypeError
+___________________________________________________________________________
+Multiprocessing exception:
+...........................................................................
+/uufs/chpc.utah.edu/common/home/u0585767/ShahNLP/MachineLearning/SVM/SVM_TFIDF_Only.py in <module>()
+    129               "Accuracy" : "accuracy",
+    130               "TruePos" : make_scorer(truePositives),
+    131               "F-Score" : "f1"}
+    132     refitScore = "Sensitivity"
+    133     model = GridSearchCV(estimator=pipeline, param_grid=parameters, n_jobs=-1, scoring=scores, refit=refitScore, cv=10, verbose=5)
+--> 134     model.fit(noteBodies, labels)
+    135 
+    136     print "Using %s" % type(svm)
+    137     print "Optimized for %s" % refitScore
+    138     print model.best_params_
+
+...........................................................................
+/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/model_selection/_search.py in fit(self=GridSearchCV(cv=10, error_score='raise',
+       ...(NPV), 'Accuracy': 'accuracy'},
+       verbose=5), X=array([ "Admission Date:  [**2714-12-23**]      ...-4-4**]\n\n\nDOC CLASS'], 
+      dtype='|S36221'), y=array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0]), groups=None)
+    940 
+    941         groups : array-like, with shape (n_samples,), optional
+    942             Group labels for the samples used while splitting the dataset into
+    943             train/test set.
+    944         """
+--> 945         return self._fit(X, y, groups, ParameterGrid(self.param_grid))
+        self._fit = <bound method GridSearchCV._fit of GridSearchCV(...NPV), 'Accuracy': 'accuracy'},
+       verbose=5)>
+        X = array([ "Admission Date:  [**2714-12-23**]      ...-4-4**]\n\n\nDOC CLASS'], 
+      dtype='|S36221')
+        y = array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0])
+        groups = None
+        self.param_grid = {'estimation__C': [100.0, 1000.0, 3000.0, 5000.0], 'estimation__kernel': ['linear'], 'feature_selection__k': [50, 100, 500, 'all'], 'vectorize__max_df': [0.5, 0.75, 0.9, 0.99], 'vectorize__min_df': [0.001, 0.01, 0.1], 'vectorize__ngram_range': [(1, 1), (1, 2), (1, 3)], 'vectorize__stop_words': ['english', None]}
+    946 
+    947 
+    948 class RandomizedSearchCV(BaseSearchCV):
+    949     """Randomized search on hyper parameters.
+
+...........................................................................
+/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/model_selection/_search.py in _fit(self=GridSearchCV(cv=10, error_score='raise',
+       ...(NPV), 'Accuracy': 'accuracy'},
+       verbose=5), X=array([ "Admission Date:  [**2714-12-23**]      ...-4-4**]\n\n\nDOC CLASS'], 
+      dtype='|S36221'), y=array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0]), groups=None, parameter_iterable=<sklearn.model_selection._search.ParameterGrid object>)
+    559                                   fit_params=self.fit_params,
+    560                                   return_train_score=self.return_train_score,
+    561                                   return_n_test_samples=True,
+    562                                   return_times=True, return_parameters=True,
+    563                                   error_score=self.error_score)
+--> 564           for parameters in parameter_iterable
+        parameters = undefined
+        parameter_iterable = <sklearn.model_selection._search.ParameterGrid object>
+    565           for train, test in cv_iter)
+    566 
+    567         # if one choose to see train score, "out" will contain train score info
+    568         if self.return_train_score:
+
+...........................................................................
+/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/externals/joblib/parallel.py in __call__(self=Parallel(n_jobs=-1), iterable=<generator object <genexpr>>)
+    763             if pre_dispatch == "all" or n_jobs == 1:
+    764                 # The iterable was consumed all at once by the above for loop.
+    765                 # No need to wait for async callbacks to trigger to
+    766                 # consumption.
+    767                 self._iterating = False
+--> 768             self.retrieve()
+        self.retrieve = <bound method Parallel.retrieve of Parallel(n_jobs=-1)>
+    769             # Make sure that we get a last message telling us we are done
+    770             elapsed_time = time.time() - self._start_time
+    771             self._print('Done %3i out of %3i | elapsed: %s finished',
+    772                         (len(self._output), len(self._output),
+
+---------------------------------------------------------------------------
+Sub-process traceback:
+---------------------------------------------------------------------------
+TypeError                                          Tue Nov 14 15:12:24 2017
+PID: 15233Python 2.7.11: /uufs/chpc.utah.edu/common/home/u0585767/ShahNLP/MachineLearning/VENV/bin/python
+...........................................................................
+/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/externals/joblib/parallel.py in __call__(self=<sklearn.externals.joblib.parallel.BatchedCalls object>)
+    126     def __init__(self, iterator_slice):
+    127         self.items = list(iterator_slice)
+    128         self._size = len(self.items)
+    129 
+    130     def __call__(self):
+--> 131         return [func(*args, **kwargs) for func, args, kwargs in self.items]
+        func = <function _fit_and_score>
+        args = (Pipeline(steps=[('vectorize', TfidfVectorizer(an...e, shrinking=True,
+  tol=0.001, verbose=False))]), memmap([ "Admission Date:  [**2714-12-23**]     ...-4-4**]\n\n\nDOC CLASS'], 
+      dtype='|S36221'), array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0]), {'Accuracy': 'accuracy', 'F-Score': 'f1', 'NPV': make_scorer(NPV), 'PPV': 'precision', 'Sensitivity': 'recall', 'Specificity': make_scorer(specificity), 'TruePos': make_scorer(truePositives)}, array([ 23,  24,  25,  26,  27,  28,  29,  30,  ..., 982, 983,
+       984, 985, 986, 987, 988, 989]), array([  0,   1,   2,   3,   4,   5,   6,   7,  ...    293, 294, 295, 296, 297, 298, 299, 300, 301]), 5, {'estimation__C': 100.0, 'estimation__kernel': 'linear', 'feature_selection__k': 50, 'vectorize__max_df': 0.5, 'vectorize__min_df': 0.001, 'vectorize__ngram_range': (1, 1), 'vectorize__stop_words': 'english'})
+        kwargs = {'error_score': 'raise', 'fit_params': {}, 'return_n_test_samples': True, 'return_parameters': True, 'return_times': True, 'return_train_score': True}
+        self.items = [(<function _fit_and_score>, (Pipeline(steps=[('vectorize', TfidfVectorizer(an...e, shrinking=True,
+  tol=0.001, verbose=False))]), memmap([ "Admission Date:  [**2714-12-23**]     ...-4-4**]\n\n\nDOC CLASS'], 
+      dtype='|S36221'), array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0]), {'Accuracy': 'accuracy', 'F-Score': 'f1', 'NPV': make_scorer(NPV), 'PPV': 'precision', 'Sensitivity': 'recall', 'Specificity': make_scorer(specificity), 'TruePos': make_scorer(truePositives)}, array([ 23,  24,  25,  26,  27,  28,  29,  30,  ..., 982, 983,
+       984, 985, 986, 987, 988, 989]), array([  0,   1,   2,   3,   4,   5,   6,   7,  ...    293, 294, 295, 296, 297, 298, 299, 300, 301]), 5, {'estimation__C': 100.0, 'estimation__kernel': 'linear', 'feature_selection__k': 50, 'vectorize__max_df': 0.5, 'vectorize__min_df': 0.001, 'vectorize__ngram_range': (1, 1), 'vectorize__stop_words': 'english'}), {'error_score': 'raise', 'fit_params': {}, 'return_n_test_samples': True, 'return_parameters': True, 'return_times': True, 'return_train_score': True})]
+    132 
+    133     def __len__(self):
+    134         return self._size
+    135 
+
+...........................................................................
+/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/model_selection/_validation.py in _fit_and_score(estimator=Pipeline(steps=[('vectorize', TfidfVectorizer(an...e, shrinking=True,
+  tol=0.001, verbose=False))]), X=memmap([ "Admission Date:  [**2714-12-23**]     ...-4-4**]\n\n\nDOC CLASS'], 
+      dtype='|S36221'), y=array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0]), scorer={'Accuracy': 'accuracy', 'F-Score': 'f1', 'NPV': make_scorer(NPV), 'PPV': 'precision', 'Sensitivity': 'recall', 'Specificity': make_scorer(specificity), 'TruePos': make_scorer(truePositives)}, train=array([ 23,  24,  25,  26,  27,  28,  29,  30,  ..., 982, 983,
+       984, 985, 986, 987, 988, 989]), test=array([  0,   1,   2,   3,   4,   5,   6,   7,  ...    293, 294, 295, 296, 297, 298, 299, 300, 301]), verbose=5, parameters={'estimation__C': 100.0, 'estimation__kernel': 'linear', 'feature_selection__k': 50, 'vectorize__max_df': 0.5, 'vectorize__min_df': 0.001, 'vectorize__ngram_range': (1, 1), 'vectorize__stop_words': 'english'}, fit_params={}, return_train_score=True, return_parameters=True, return_n_test_samples=True, return_times=True, error_score='raise')
+    255                              " numeric value. (Hint: if using 'raise', please"
+    256                              " make sure that it has been spelled correctly.)")
+    257 
+    258     else:
+    259         fit_time = time.time() - start_time
+--> 260         test_score = _score(estimator, X_test, y_test, scorer)
+        test_score = undefined
+        estimator = Pipeline(steps=[('vectorize', TfidfVectorizer(an...e, shrinking=True,
+  tol=0.001, verbose=False))])
+        X_test = memmap([ "Admission Date:  [**2714-12-23**]     ...ill\r\n\n\n\nDOC CLASS"], 
+      dtype='|S36221')
+        y_test = array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0])
+        scorer = {'Accuracy': 'accuracy', 'F-Score': 'f1', 'NPV': make_scorer(NPV), 'PPV': 'precision', 'Sensitivity': 'recall', 'Specificity': make_scorer(specificity), 'TruePos': make_scorer(truePositives)}
+    261         score_time = time.time() - start_time - fit_time
+    262         if return_train_score:
+    263             train_score = _score(estimator, X_train, y_train, scorer)
+    264 
+
+...........................................................................
+/uufs/chpc.utah.edu/sys/installdir/python/2.7.11-c7/lib/python2.7/site-packages/sklearn/model_selection/_validation.py in _score(estimator=Pipeline(steps=[('vectorize', TfidfVectorizer(an...e, shrinking=True,
+  tol=0.001, verbose=False))]), X_test=memmap([ "Admission Date:  [**2714-12-23**]     ...ill\r\n\n\n\nDOC CLASS"], 
+      dtype='|S36221'), y_test=array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0]), scorer={'Accuracy': 'accuracy', 'F-Score': 'f1', 'NPV': make_scorer(NPV), 'PPV': 'precision', 'Sensitivity': 'recall', 'Specificity': make_scorer(specificity), 'TruePos': make_scorer(truePositives)})
+    283 def _score(estimator, X_test, y_test, scorer):
+    284     """Compute the score of an estimator on a given test set."""
+    285     if y_test is None:
+    286         score = scorer(estimator, X_test)
+    287     else:
+--> 288         score = scorer(estimator, X_test, y_test)
+        score = undefined
+        scorer = {'Accuracy': 'accuracy', 'F-Score': 'f1', 'NPV': make_scorer(NPV), 'PPV': 'precision', 'Sensitivity': 'recall', 'Specificity': make_scorer(specificity), 'TruePos': make_scorer(truePositives)}
+        estimator = Pipeline(steps=[('vectorize', TfidfVectorizer(an...e, shrinking=True,
+  tol=0.001, verbose=False))])
+        X_test = memmap([ "Admission Date:  [**2714-12-23**]     ...ill\r\n\n\n\nDOC CLASS"], 
+      dtype='|S36221')
+        y_test = array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,...0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0])
+    289     if hasattr(score, 'item'):
+    290         try:
+    291             # e.g. unwrap memmapped scalars
+    292             score = score.item()
+
+TypeError: 'dict' object is not callable
+___________________________________________________________________________

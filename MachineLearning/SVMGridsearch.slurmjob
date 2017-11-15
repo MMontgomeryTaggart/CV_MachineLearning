@@ -18,9 +18,10 @@ pip install numpy
 pip install scikit-learn
 pip install pandas
 pip install nltk
+python -m nltk.downloader all
 
 OUTFILE=$HOME/ShahNLP/MachineLearning/SVM/SVMSearch.out
 
-python $HOME/ShahNLP/MachineLearning/SVM/SVM_TFIDF_Only.py > $OUTFILE
+python $HOME/ShahNLP/MachineLearning/SVM/SVM_TFIDF_Only.py
 
 rm -fr VENV
