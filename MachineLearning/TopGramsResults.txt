@@ -1,0 +1,28 @@
+TfidfVectorizer(ngram_range=(1, 3), min_df=0.001, max_df=.5, stop_words="english", tokenizer=tokenizer)
+def tokenizer(text):
+    tokens = [word for sent in nltk.sent_tokenize(text) for word in nltk.word_tokenize(sent)]
+    filtered_tokens = [token for token in tokens if re.search('(^[a-zA-Z]+$)', token)]
+    a = []
+    for i in filtered_tokens:
+        a.append(WordNetLemmatizer().lemmatize(i, 'v'))
+    return a
+bleed: 9.062
+gi: 6.311
+gi bleed: 5.913
+egd: 3.540
+gib: 3.328
+hematoma: 2.952
+gastrointestinal bleed: 2.774
+hemorrhage: 2.738
+subdural: 2.495
+bleed gib: 2.422
+gi bleed gib: 2.422
+ffp: 2.347
+bleed gi bleed: 2.106
+gastrointestinal bleed gi: 2.106
+bleed gi: 2.067
+units units units: 2.032
+octreotide: 1.919
+prbcs: 1.906
+hematuria: 1.628
+units units: 1.626
