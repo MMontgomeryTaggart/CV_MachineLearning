@@ -1,0 +1,178 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**3354-10-20**] 01:25 AM
+   > Restarted home meds.
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3354-10-20**] 08:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 36.6
+C (97.8
+   HR: 88 (88 - 106) bpm
+   BP: 126/89(97) {117/67(80) - 217/142(160)} mmHg
+   RR: 9 (8 - 17) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 49.5 kg (admission): 49 kg
+             Total In:
+                                                                    303 mL
+                                                                    399 mL
+   PO:
+                                                                    150 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                    153 mL
+                                                                    159 mL
+   Blood products:
+   Total out:
+                                                                    150 mL
+                                                                      0 mL
+   Urine:
+                                                                    150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    153 mL
+                                                                    399 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: left enucleation
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Crackles : bases bilateral)
+   Abdominal: Soft, Bowel sounds present, Distended, Tender: diffusely
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   9.9 g/dL
+   147 K/uL
+   30.4 %
+   4.3 K/uL
+        [image002.jpg]
+                             [**3354-10-20**]  07:18 AM
+   WBC
+   4.3
+   Hct
+   30.4
+   Plt
+   147
+   Other labs: PT / PTT / INR:/150.0/, Lactic Acid:0.8 mmol/L
+   Ascites clx: NGTD
+   Ascites
+                                    Value
+                                    Units
+                               Reference Range
+   [**3354-10-19**]
+                                                                   11:00PM
+   ANALYSIS
+                         WBC, Ascites
+                                                                     1265*
+                                    #/uL
+                                    0 - 0
+                         PERFORMED AT WEST STAT LAB
+   RBC, Ascites
+                                                                     1680*
+                                    #/uL
+                                    0 - 0
+                         PERFORMED AT WEST STAT LAB
+   Polys
+                                                                       43*
+                                      %
+                                    0 - 0
+                         PERFORMED AT WEST STAT LAB
+   Lymphocytes
+                                                                        1*
+                                      %
+                                    0 - 0
+                         PERFORMED AT WEST STAT LAB
+   Monocytes
+                                                                        2*
+                                      %
+                                    0 - 0
+                         PERFORMED AT WEST STAT LAB
+   Mesothelial Cell
+                                                                       11*
+                                      %
+                                    0 - 0
+                         Macrophage
+                                                                       43*
+                                      %
+                                    0 - 0
+   Assessment and Plan
+   24 yo F with h/o SLE, ESRD on HD (prior PD), malignant HTN and
+   abdominal pain admitted with HTN urgency. The source of the abdominal
+   pain may be her
+   HTN: She has a history of labile malignant hypertension. Given her
+   complicated history her goal blood pressure target is < 180/100 mmHg.
+   Her home regimen includes aliskiren, labetalol, clonidine patch,
+   hydralazine, and nifedipine. She has had multiple admissions to MICU
+   for labile BP (see last D/c summary)
+    -          clonidine patch
+   -          restart PO meds as she tolerates
+   -          Goal BP <180/100 mmHg
+   >Hemodialysis: Received HD today (T, Th, Sat schedule), notably her K
+   on admission was in normal range. Will cont home renal regimen. Unclear
+   why she has ascites will confer with renal.
+   >Abdominal pain: unclear source, she has had an extensive workup
+   including ex lap. Abd CT reveals only ascites and still with in
+   dwelling PD line.  The peritoneal fluid is consistent with infection
+   (ie 2^nd bact peritonitis). She has a nidus for infection in the PD
+   catheter. We will need to discuss with renal whether they want to keep
+   this cath in place.
+   - Cover for 2^nd BP: Vancomycin + GNR coverage: Levoflox and
+   Metronidazole  (Renal dosing). With next dose HD.
+   - Will f/u clx data
+   - Will d/w with ID and renal: appropriate coverage  (IV vs peritoneal
+   instillation) and whether PD cath needs to be removed.
+   >SVC clot and left subclavian thrombosis:  related to catheter with neg
+   anti phos wrk up. She has a  hx of non compliance with coumadin and she
+   is subtherapeutic at present,. Clot was in [**3351**] but she will need to be
+   antii-coagulated, will start hep gtt and add back coumadin.
+   Other issues per ICU resident note.
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**3354-10-20**] 01:24 AM
+   Dialysis Catheter - [**3354-10-20**] 01:25 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: None, Gi bleed)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 35 minutes
+   Patient is critically ill

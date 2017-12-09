@@ -1,0 +1,317 @@
+TITLE: CCU Progress Note
+   Chief Complaint:
+   24 Hour Events:
+   - Changed to insulin drip with better glycemic control
+   - Catheter tip grew MSSA
+   - ECHO showed EF 14% with a dilated left ventricle with severe global
+   and regional systolic dysfunction, c/w multivessel CAD including a
+   prior extensive inferior wall infarction. Mild right ventricular
+   systolic dysfunction. Aortic stenosis, probably moderate. Mild aortic
+   regurgitation. Moderate to severe mitral regurgitation. Mild pulmonary
+   hypertension. Dilated aortic root.
+   - Aline placed after several attempts
+   - Initially weaned off vasopressin but MAPS in the 50s. Started
+   dopamine 2.5 with improved MAPS
+   - Held off on CVVH filtration and tried Lasix 40mg IVx1 with minimal
+   UOP
+   - Attempted pressure support ventilation but Pt became agitated and
+   tachypneic
+   - CVPs dropped to 3 with also lower MAPs and BP. Held off on
+   ultrafiltration
+   - Running even given low CVP
+   - Rising WBC. Concerning for Cdiff versus need to broaden Abx
+   - Switched to midazolam drip for better sedation and improved liver
+   function
+   - PLT falling. Now 117 from 183 on admission
+   - BCx still coming up positive concerning for endocarditis. TEE
+   tomorrow (Friday). NPO after MN
+ ARTERIAL LINE - START [**3041-3-18**] 06:00 PM
+ SPUTUM CULTURE - At [**3041-3-18**] 11:00 PM
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3041-3-16**] 12:00 PM
+   Vancomycin - [**3041-3-16**] 02:50 PM
+   Levofloxacin - [**3041-3-18**] 11:00 PM
+   Nafcillin - [**3041-3-19**] 02:00 AM
+   Gentamicin - [**3041-3-19**] 05:00 AM
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Dopamine - 2.5 mcg/Kg/min
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Heparin Sodium - 1,600 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3041-3-18**] 12:00 PM
+   Midazolam (Versed) - [**3041-3-19**] 05:40 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3041-3-19**] 05:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 36.2
+C (97.2
+   HR: 83 (71 - 95) bpm
+   BP: 88/50(62) {84/46(50) - 120/61(78)} mmHg
+   RR: 19 (16 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+    CVP: 4 (2 - 12)mmHg
+   Total In:
+                                                                  4,533 mL
+                                                                    838 mL
+   PO:
+   TF:
+                                                                    785 mL
+   IVF:
+                                                                  3,610 mL
+                                                                    838 mL
+   Blood products:
+                                                                     38 mL
+   Total out:
+                                                                  3,892 mL
+                                                                    829 mL
+   Urine:
+                                                                    371 mL
+                                                                    105 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    641 mL
+                                                                      9 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 480 (480 - 480) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 58
+   PIP: 18 cmH2O
+   Plateau: 20 cmH2O
+   SpO2: 100%
+   ABG: 7.37/37/121/19/-3
+   Ve: 12.5 L/min
+   PaO2 / FiO2: 303
+   Physical Examination
+   General Appearance: No acute distress, intubated, sedated
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: Regular rhythm (PMI Hyperdynamic), (S1: Normal), (S2:
+   Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Abdominal: Soft, non-tender, bowel sounds present
+   Extremities: Right: Trace, Left: Trace. L A-line
+   Skin:  Warm
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Movement: Not assessed, Sedated, Tone: Not assessed, moves all 4
+   extremities
+   Neck: RIJ in place c/di.  LIJ also in place also c/d/i.
+   Labs / Radiology
+   117 K/uL
+   9.7 g/dL
+   81 mg/dL
+   1.7 mg/dL
+   19 mEq/L
+   3.7 mEq/L
+   36 mg/dL
+   102 mEq/L
+   134 mEq/L
+   28.1 %
+   25.9 K/uL
+        [image002.jpg]
+                             [**3041-3-17**]  09:48 PM
+                             [**3041-3-17**]  10:03 PM
+                             [**3041-3-18**]  02:39 AM
+                             [**3041-3-18**]  08:59 AM
+                             [**3041-3-18**]  02:57 PM
+                             [**3041-3-18**]  04:43 PM
+                             [**3041-3-18**]  09:42 PM
+                             [**3041-3-18**]  09:59 PM
+                             [**3041-3-19**]  04:09 AM
+                             [**3041-3-19**]  04:46 AM
+   WBC
+   17.7
+   18.9
+   25.9
+   Hct
+   25.4
+   24.8
+   28.1
+   Plt
+   105
+   106
+   117
+   Cr
+   2.1
+   2.1
+   1.9
+   1.9
+   1.7
+   TCO2
+   27
+   24
+   22
+   Glucose
+   [**Telephone/Fax (3) 4155**]11
+   168
+   98
+   81
+   Other labs: PT / PTT / INR:14.4/65.7/1.3, CK / CKMB /
+   Troponin-T:1151/17/13.50, ALT / AST:1052/185, Alk Phos / T
+   Bili:213/4.1, Differential-Neuts:84.0 %, Band:5.0 %, Lymph:2.0 %,
+   Mono:4.0 %, Eos:0.0 %, Lactic Acid:1.2 mmol/L, Albumin:2.5 g/dL,
+   LDH:663 IU/L, Ca++:8.9 mg/dL, Mg++:2.4 mg/dL, PO4:1.4 mg/dL
+   Assessment and Plan
+   67 y/o M with PMH of CAD s/p MI, DM, hyperlipidemia and recent fall who
+   presents with nausea and vomiting and ongoing CP, found to have
+   elevated CE and EKG changes without multivessel disease on cardiac
+   catherization now with cardiogenic and septic shock
+   .
+   # CARDIOGENIC SHOCK:  IABP d/c
+d on [**3-17**].
+   - Shock picture now is a combination of cardiogenic with
+   distributative.
+   - Patient only maintained on low dose dopamine with MAPs >60.  Now off
+   vasopressin
+   - Low CVP and clinically dry so running even now
+   - Consider stopped CVVH today and following volume status and
+   electrolytes
+   .
+   # SEPSIS/BACTEREMIA: Coag + S. aureus bacteremia as of [**3041-3-15**].
+   Febrile overnight with elevated WBC count.
+   - Continue daily surveillance blood cultures
+   - switched vanco to nafcillin yesterday as per ID with sensitivies
+   Will d/w ID re temps, WBC count.
+   - Continue low dose gent dosed for CVVH
+   - Continue levaquin for Morexella in sputum
+   - Appreciate ID recs
+   - Lines changed [**3-16**] with HD line changed and PA sheath pulled.
+   - weaned off IABP [**3-17**]
+   - Tylenol PRN for now to control temp and reduce drive for tachycardia
+   and ectopy
+   - Rising WBC overnight. Diff pending. Consider broadening ABx
+   - Given ongoing bacteremia, concern for endocarditis. TEE today. Was
+   made NPO after MN.
+   .
+   # PNEUMONIA: ? Community acquired given moraxella.
+   Ongoing Respiratory distress: Pt with rib fractures from fall +
+   pulmonary edema from acute systolic CHF. Intubated [**3-1**] respiratory
+   distress and tiring from effort. Now with left sided infiltrate and
+   sputum with GNR, GPC, and GN Dip
+   - Continue intubation for now
+ was unable to do pressure support trial
+   yesterday will try today, check RISBI in am
+   - Continue to pull off fluid with CVVH.
+   - Extubate as soon as possible once volume status controlled.
+   - Continue Nafcillin/levo/gentamicin per ID recs
+   - Tried lasix
+   .
+   # Acute hepatitis
+ patient with LFTs in the 1000s suspect  secondary
+   to cardiogenic shock which continue to improve.
+   - trend LFTs, improving
+   - continue pressors to maintain adequate MAP
+ wean today.
+   - low dose Tylenol for fever
+   .
+   # Acute Kidney Injury: Unknown baseline.  Cr at OSH was 1.9.  On
+   arrival patient with Cr 2.5 now trended up to 3.6, now improved on
+   CVVH. No known h/o renal disease.  feNa < 1% on urine lytes. Etiology
+   includes hypotension, poor forward flow in setting of heart failure,
+   cardiogenic shock.  Renal was consulted and started CVVH in order to
+   remove fluid.
+   - continue CVVH for now.  Per renal plan to continue CVVH until UOP
+   1000cc/day.
+   - follow up daily renal recs
+   - Renally dose meds
+   - Avoid nephrotoxins
+   .
+   # CORONARIES: Patient has a history of CAD, 3VD on cath in [**10-5**].
+   Recent NSTEMI in [**10-5**] in setting of acute GIB which was treated
+   medically.  Now has significantly elevated biomarkers with associated
+   EKG changes with a cath that demonstrates no evidence of acute infarct
+   so likely that patient has global hypoperfusion in the setting of
+   hypotension.  Stat bedside ECHO shows significantly depressed LV
+   function, however did have severe global LV dysfunction on TTE on
+   [**Month (only) **].  CK and MB trending up indicative of evolving MI, trop 3.88.
+   Patient had balloon pump placed to increase coronary perfusion.
+   - cont. ASA, statin, hep drip
+   - hold beta blocker in the setting of hypotension
+   - monitor on telemetry
+   .
+   # PUMP:  Has h/o dilated cardiomyopathy, likely ischemic given 3VD on
+   cath.  Previous EF 25%. Bedside TTE suggests worsened global LV
+   hypokinesis in setting of acute MI.  Had significant pulmonary edema
+   requiring intubation.   - Monitor I/O with goal -100mL/hr with CVVH.
+   - BB on hold given relative hypotension
+   - cont aspirin, statin
+   - ACE inhibitor on hold in the setting of hypotension and renal failure
+   .
+   # RHYTHM: Sinus rhythm, in the setting of respiratory distress patient
+   developed sinus tachycardia to 130s
+   - cont. tele, less ectopy.
+   .
+   # DM: On 3 oral medications at home.  Received contrast at OSH so
+   holding metformin.  In setting of acute illness will hold all oral
+   meds.  Patient has had has elevated fingersticks.  Started patient on
+   long acting Lantus yesterday and increased sliding scale.  BGs 400
+   today.
+   - Will need to start insulin gtt for better BG control today with q1H
+   finger sticks.
+   - FS qid
+   - HISS
+   .
+   # ANEMIA (CKD): Baseline appears to be in low 30s, was 31.6 in [**3038**].
+   On procrit and iron as outpatient.  Hct slightly below baseline at 29.
+   Given h/o recent GIB is at risk for rebleeding.  Repeated iron studies
+   here with low iron 14 and elevated ferritin which suggests likely
+   anemia of chronic disease rather than solely iron deficiency anemia.
+   Patient got 1 unit of blood yesterday without appropriate bump in
+   hematocrit.
+   - Cont to follow [**Hospital1 **]
+   - guaiac stools.  Negative so far.
+   - Transfuse for HCT <25.
+   .
+   # Hyperlipidemia: On vytorin at home.  In setting of NSTEMI will start
+   atorvastatin 80mg. On admission here HDL 36, LDL 56
+   - cont atorvastatin
+   .
+   # Peripheral neuropathy: On gabapentin as outpatient.
+   - Restart once stable
+   .
+   FEN:  OG tube placed yesterday, TFs at goal.
+   ACCESS: PIV's x 3 (20g x 2, 18g x 1), L IJ HD line, R IJ.  Needs Aline
+   placed.
+   PROPHYLAXIS:  Hep gtt, PPI given intubated
+   CODE: Full, confirmed with wife [**3-14**] (though pt would not want to be
+   maintained on lifelong vent)
+   CONTACT: Wife [**Name (NI) 4021**] [**Name (NI) 4022**] [**Telephone/Fax (1) 4023**] (H), [**Telephone/Fax (1) 4024**] (C)
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3041-3-16**] 04:37 PM
+   Dialysis Catheter - [**3041-3-16**] 06:52 PM
+   Arterial Line - [**3041-3-18**] 06:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

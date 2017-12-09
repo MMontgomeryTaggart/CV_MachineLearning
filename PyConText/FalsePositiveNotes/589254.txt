@@ -1,0 +1,212 @@
+TITLE:
+   Chief Complaint: 62 year old woman with pmh significant for dilated
+   right sided systolic heart failure and diastolic left sided heart
+   failure, presenting with hypoxia and hypotension in the setting of
+   diarrhea.
+   24 Hour Events:
+   Weaned off dopamine
+   Weaned off oxygen
+   Allergies:
+   Lisinopril
+   Rash; Abdominal
+   Kefzol (Intraven.) (Cefazolin Sodium)
+   Hives;
+   Sulfa (Sulfonamide Antibiotics)
+   Hives; Nausea/V
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2861-3-11**] 01:10 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2861-3-12**] 08:10 PM
+   Other medications: 1. Insulin sliding scale
+   2. Tylenol prn
+   3. Mesalamine 800mg TID
+   4. Albuterol prn
+   5. Flagyl topical gel prn
+   6. Dopamine drip
+   7. Miconazole cream prn
+   8. Ferrous sulfate 325mg daily
+   9. Percocet q6 prn
+   10. Folic acid 1mg daily
+   11. Pantoprazole 40mg IV q12
+   12. Gabapentin 100mg hs
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2861-3-13**] 07:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96
+   Tcurrent: 35.1
+C (95.2
+   HR: 86 (69 - 98) bpm
+   BP: 106/76(88) {87/57(67) - 136/118(310)} mmHg
+   RR: 13 (10 - 22) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 63 Inch
+    CVP: 44 (25 - 45)mmHg
+   Total In:
+                                                                  1,443 mL
+                                                                     95 mL
+   PO:
+                                                                    820 mL
+   TF:
+   IVF:
+                                                                    623 mL
+                                                                     95 mL
+   Blood products:
+   Total out:
+                                                                    845 mL
+                                                                    280 mL
+   Urine:
+                                                                    845 mL
+                                                                    280 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    598 mL
+                                                                   -186 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///21/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   121 K/uL
+   9.1 g/dL
+   95 mg/dL
+   2.3 mg/dL
+   21 mEq/L
+   4.4 mEq/L
+   61 mg/dL
+   101 mEq/L
+   131 mEq/L
+   28.6 %
+   3.7 K/uL
+        [image002.jpg]
+                             [**2861-3-10**]  04:00 AM
+                             [**2861-3-10**]  05:07 AM
+                             [**2861-3-10**]  06:07 AM
+                             [**2861-3-10**]  03:48 PM
+                             [**2861-3-10**]  04:18 PM
+                             [**2861-3-10**]  11:20 PM
+                             [**2861-3-11**]  02:45 AM
+                             [**2861-3-11**]  03:44 AM
+                             [**2861-3-12**]  03:08 AM
+                             [**2861-3-13**]  04:06 AM
+   WBC
+   6.3
+   5.3
+   3.7
+   Hct
+   33.5
+   32.5
+   28.6
+   Plt
+   194
+   182
+   121
+   Cr
+   3.3
+   3.4
+   3.2
+   2.8
+   2.3
+   TCO2
+   20
+   21
+   22
+   20
+   20
+   Glucose
+   106
+   103
+   119
+   131
+   95
+   Other labs: PT / PTT / INR:15.7/38.1/1.4, CK / CKMB /
+   Troponin-T:56/23/0.53, ALT / AST:[**10/2807**], Alk Phos / T Bili:392/0.7,
+   Differential-Neuts:80.8 %, Lymph:8.5 %, Mono:9.0 %, Eos:1.6 %, Lactic
+   Acid:1.5 mmol/L, Albumin:3.9 g/dL, LDH:231 IU/L, Ca++:8.8 mg/dL,
+   Mg++:2.6 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   62 year old woman with pmh significant for dilated right sided systolic
+   heart failure and diastolic left sided heart failure, presenting with
+   hypoxia and hypotension in the setting of diarrhea.
+   Presumed pathophysiology: Diastolic left heart failure with secondary
+   pulmonary hypertension and right heart failure.  In setting of volume
+   depletion, left sided pressures dropped more than right, allowing for
+   increased shunting via dilated PFO. Now improved with volume repletion.
+   Plan: Right heart cath to evaluate for safety and response to
+   vasodilators
+ concern of pulmonary edema given left heart failure. If
+   able to lower pulmonary pressures, ultimately may undergo PFO closure.
+ HYPOXEMIA- Poorly responsive to O2 from shunt physiology, now
+   improving with stabilization of hemodynamics.
+ HYPOTENSION (NOT SHOCK) - Likely secondary to known L sided heart
+   failure, in the setting of volume depletion, myocardial
+   ishemia/infarction. Patient was initially volume depleted, now appear
+   total body overloaded by exam, although intravascular volume may still
+   be low. Now off dopamine
+   - Fluid restrict with goal for euvolemia.
+ HEART FAILURE (CHF), DIASTOLIC, CHRONIC: Pt with poor R heart
+   function, markedly dilated RV and RA. Now with significant R->L shunt
+   via large PFO, as well as TR. Difficult situation as PFO may be
+   offloading some RV pressure but leading to significant hypoxia.
+   - Appreciate cardiology recommednations.
+   - Avoid significant systemic vasodilatation
+   - Plan for R heart cath next week and trial of NO to access pt
+   ability to tolerate pulmonary vasodilators, in hopes of eventually
+   closing PFO.
+   - wean dopamine as tolerated
+   - Cardiac enzymes: CK peaked trending down, Trop still elevated. Likely
+   demand ischemia.
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF) Cr peaked at 3.4, now
+   2.8 today. Increasing urine output, now oliguric. Likely ATN given poor
+   perfusion on admission.
+   - Appreciate renal recommendations
+   - Follow Creatinine and urine output.
+   - Hold torsemide, spironolactone until improvement in renal function
+   - Workup for glomerular etiology given proteinuria and hematuria is
+   pending, though less likely as continues to improve.
+   #.Hyponatremia: Stable/slightly worse since admission. Hypervolemic,
+   likely due to CHF exacerbation and diarrhea.
+   - Will continue to monitor as renal function improves and pt self
+   diuresis.
+   - stop salt restriction in diet.
+   # LFT abnormalities: Elevated AST but not ALT. Also Alk phos, GGT but
+   not bilirubin. Liver US shows no pathology. Multiple possible causes:
+   congestion secondary to right heart failure and TR, etoh induced. PSC
+   ruled out with neg AMA
+   - unclear if function compromised (INR 1.4, Alb ?, no thrombocytopenia
+   or megaloblastic anemia) or if findings are due to malnutrition. Could
+   consider trial of vit K to eval for response and rule in/out liver
+   cause.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2861-3-8**] 11:29 PM
+   22 Gauge - [**2861-3-9**] 12:38 PM
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] - [**2861-3-9**] 08:13 PM
+   Arterial Line - [**2861-3-9**] 11:21 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

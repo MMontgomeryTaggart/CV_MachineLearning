@@ -1,0 +1,287 @@
+Chief Complaint:
+   24 Hour Events:
+   -discontinued vancomycin and weaned hydrocortisone to 25 mg q 6hr
+   -xigris discontinued
+   -insulin drip changed from gtt to SQ
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2807-9-6**] 07:57 PM
+   Ciprofloxacin - [**2807-9-8**] 12:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2807-9-8**] 02:00 AM
+   Infusions:
+   Norepinephrine - 0.03 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2807-9-7**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2807-9-8**] 07:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96.1
+   Tcurrent: 35.6
+C (96
+   HR: 56 (55 - 68) bpm
+   BP: 138/55(83) {104/47(65) - 142/93(102)} mmHg
+   RR: 14 (7 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 115.7 kg (admission): 100 kg
+   Height: 71 Inch
+    CVP: 7 (6 - 12)mmHg
+   Total In:
+                                                                  2,410 mL
+                                                                    751 mL
+   PO:
+   TF:
+                                                                  1,083 mL
+                                                                    327 mL
+   IVF:
+                                                                  1,327 mL
+                                                                    424 mL
+   Blood products:
+   Total out:
+                                                                  2,025 mL
+                                                                    590 mL
+   Urine:
+                                                                  2,025 mL
+                                                                    590 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    385 mL
+                                                                    161 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 860 (755 - 910) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 7
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   PIP: 25 cmH2O
+   SpO2: 100%
+   ABG: 7.36/47/161/24/0
+   Ve: 5.5 L/min
+   PaO2 / FiO2: 322
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: Endotracheal tube, NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: , Rhonchorous: )
+   Abdominal: Soft, Non-tender, Obese
+   Extremities: Right lower extremity edema: 2+, Left lower extremity
+   edema: 2+
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   67 K/uL
+   7.5 g/dL
+   201 mg/dL
+   4.2 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   97 mg/dL
+   109 mEq/L
+   143 mEq/L
+   22.8 %
+   7.9 K/uL
+        [image002.jpg]
+                             [**2807-9-6**]  09:39 PM
+                             [**2807-9-7**]  04:00 AM
+                             [**2807-9-7**]  04:12 AM
+                             [**2807-9-7**]  06:12 AM
+                             [**2807-9-7**]  03:32 PM
+                             [**2807-9-7**]  03:55 PM
+                             [**2807-9-7**]  09:11 PM
+                             [**2807-9-7**]  10:35 PM
+                             [**2807-9-8**]  04:28 AM
+                             [**2807-9-8**]  05:01 AM
+   WBC
+   7.0
+   7.9
+   Hct
+   22.3
+   21.7
+   23.0
+   22.8
+   Plt
+   73
+   67
+   Cr
+   4.5
+   4.2
+   TCO2
+   24
+   24
+   24
+   25
+   24
+   28
+   Glucose
+   125
+   201
+   Other labs: PT / PTT / INR:11.6/32.4/1.0, CK / CKMB /
+   Troponin-T:739/98/0.09, ALT / AST:48/25, Alk Phos / T Bili:50/0.3,
+   Differential-Neuts:65.0 %, Band:21.0 %, Lymph:5.0 %, Mono:0.0 %,
+   Eos:0.0 %, Fibrinogen:626 mg/dL, Lactic Acid:1.4 mmol/L, LDH:275 IU/L,
+   Ca++:7.1 mg/dL, Mg++:2.7 mg/dL, PO4:5.4 mg/dL
+   Imaging: Single AP chest radiograph compared to [**2807-9-6**] shows
+   unchanged left
+   mid lower lung consolidation. Right lower lobe airspace opacity and
+   perihilar
+   hazziness continues to improve compatible with decreased fluid
+   overload. The
+   cardiomediastinal contour is stable. There is no pneumothorax. Right IJ
+   central venous catheter tip overlies the proximal SVC. NG tube tip is
+   in the
+   stomach. ET tube terminates 3 cm above the carina.
+   Microbiology: [**2807-9-7**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B
+   TEST-FINAL INPATIENT
+   [**2807-9-6**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT
+   [**2807-9-5**]  SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-PRELIMINARY
+   {YEAST, GRAM NEGATIVE ROD(S)} INPATIENT
+   [**2807-9-5**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT
+   [**2807-9-5**]  URINE URINE CULTURE-FINAL INPATIENT
+   [**2807-9-5**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT
+   [**2807-9-4**]  SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {YEAST,
+   GRAM NEGATIVE ROD(S)} INPATIENT
+   [**2807-9-4**]  URINE Legionella Urinary Antigen -FINAL INPATIENT
+   [**2807-9-4**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT
+   [**2807-9-3**]  Influenza A/B by DFA DIRECT INFLUENZA A ANTIGEN TEST-FINAL;
+   DIRECT INFLUENZA B ANTIGEN TEST-FINAL INPATIENT
+   [**2807-9-3**]  MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR METHICILLIN
+   RESISTANT STAPH AUREUS} INPATIENT
+   [**2807-9-3**]  URINE URINE CULTURE-FINAL {ENTEROCOCCUS SP.} INPATIENT
+   [**2807-9-3**]  BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY [**Hospital1 **]
+   Assessment and Plan
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ CONSTIPATION (OBSTIPATION, FOS)
+ HYPERGLYCEMIA
+ IMPAIRED SKIN INTEGRITY
+ ACIDOSIS, METABOLIC
+ ACIDOSIS, MIXED
+ SHOCK, HYPOVOLEMIC OR HEMORRHAGIC
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ SHOCK, SEPTIC
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+   Assessment and Plan
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ CONSTIPATION (OBSTIPATION, FOS)
+ HYPERGLYCEMIA
+ IMPAIRED SKIN INTEGRITY
+ ACIDOSIS, METABOLIC
+ ACIDOSIS, MIXED
+ SHOCK, HYPOVOLEMIC OR HEMORRHAGIC
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ SHOCK, SEPTIC
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+   This is a 74 y.o. Male with h.o. hypothyroidism p/w septic shock,
+   NSTEMI, hypothermia with suspected pulmonary versus urine source.
+   .
+   ##. Septic Shock: Pt noted to be in septic shock on admission to the
+   ED. Found to have GNRs in sputum and VRE in urine. Per family pt has a
+   history of PNA versus aspiration PNA, hospitalized three times over the
+   past year
+   - influenza antigen and legionella negative
+   - off pressors since this AM
+   - will continue on broad coverage with Zosyn, Cipro. currently growing
+   vre sensitive to amp, gnrs from sputum gram stain x2 and coag neg staph
+   from blood (likely contaminant) from [**Location (un) **]. dc'ed vancomycin
+   yesterday
+   - f/u panculture results
+   - will continue on IV Hydrocortisone, currently on 25q6h (=3.75 daily
+   of decadron, pt on 2 daily of decadron at home)
+   - pt finished course of xygris yesterday.
+   .
+   ##. Respiratory Failure:
+   - will aim for SBT today
+   - off sedation
+   .
+   # [**Last Name (un) 2359**]:  baseline 1.8-2, current Cr is 4.2 down from 4.5 yesterday.
+   Likely this is [**1-15**] ATN. UOP has gone from low to high so perhaps renal
+   function is in process of improving.
+   -will trend
+   -no acute indications for HD at this point
+   -pt is on 40mg lasix PO BID at home; will give 40mg IV lasix this AM
+   and follow UOP for goal of 1.5L negative today
+   .
+   ##. MI: Pt showed no ischemic EKG changes in the ED but cardiac enzymes
+   were noted to be positive with a CK of 1836, CKMB 230, CKMBI 12.5,
+   troponin 0.06. TWI in I, avL, q in Lead III, small R-wave and aVF
+   inferiorly. Pt ruled in, likely ischemic from his prolonged episode of
+   hypotension.
+   - consider add bblocker and ace pending improvement of bradycardia and
+   RF respectively
+   - restart ASA now that xigris is off
+   .
+   ##. Bradycardia: Pt noted to be bradycardic, requiring atropine in the
+   field for HR in the 40s. Bradycardia initially thought to likely be due
+   to his hypothermia. However, had additional episode of sinus brady 2
+   nights ago
+   -consider cards consult when pt clinically improved for ? sick sinus
+   syndrome if pt has recurrent bradycardia
+   - will continue to monitor heart rate on tele
+   .
+   # Anemia: pt
+s crit trending down throughout admission. Likely [**1-15**]
+   aggressive fluid hydration. Pt does also have h/o peptic ulcers, hct
+   stable.
+   -keep active type and screen
+   -on PPI
+   -stool guiac negative
+   .
+   ##. Hypothyroidism: Will continue on home regimen of levothyroxine,
+   switch back to po as pt improves
+   .
+   #Schizophrenia: holding clozaril and perphenazine while intubated and
+   sedated
+   -consider restart home psych med now that sedation off
+   -consider psych consult.
+   .
+   #COPD: continue atrovent and albuterol prn, usually on nebs but will
+   switch to inh while intubated.
+   #? adrenal insufficiency: on dexamethasone 2mg at home, will continue
+   to wean hydrocort slowly and restart dexamethasone at home dose.
+   .
+   # DM: now back on insulin SQ
+   .
+   .# SW: will consult sw re concerns about pt's home situation
+   .
+   # FEN: replete electrolytes, tube feeds at goal
+   .
+   # Prophylaxis: Subcutaneous heparin , bowel reg
+   .
+   # Access: Peripherals, Right IJ, A-line
+   .
+   # Code: DNR (chemical code ok)
+   .
+   # Disposition: ICU for now
+   PCP Dr [**Last Name (STitle) 8232**] [**Telephone/Fax (1) 8233**]
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2807-9-7**] 11:36 PM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2807-9-3**] 10:10 PM
+   Arterial Line - [**2807-9-3**] 10:11 PM
+   Prophylaxis:
+   DVT: SQ heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up
+   Comments:
+   Communication:  Comments: family
+   Code status: DNR (do not resuscitate)
+   Disposition:ICU

@@ -16,6 +16,10 @@ from keras.preprocessing.sequence import pad_sequences
 from keras.utils import to_categorical
 from keras.layers import Embedding, Conv1D, MaxPooling1D, Flatten, Dense, Input
 from keras.models import Model
+from keras.callbacks import TensorBoard
+import sklearn
+from sklearn.metrics import precision_recall_fscore_support
+import os
 
 
 MAX_NUM_WORDS = 2000
@@ -25,6 +29,18 @@ GLOVE_EMBEDDINGS_PATH = '/Users/shah/Developer/NLPClass/nlp_final_project/code/g
 EMBEDDING_DIM = 100
 GOLD_STANDARD_PATH = "/Users/shah/Box Sync/MIMC_v2/Gold Standard/DocumentClasses.txt"
 CORPUS_TRAIN_PATH = "/Users/shah/Box Sync/MIMC_v2/Corpus_TrainTest/"
+
+# Metrics
+def specificity(true, predicted):
+    numTrueNegatives = np.sum(np.where(true == 0, 1., 0.))
+    numAgreedNegatives = np.sum(((predicted - 1) * -1) * ((true - 1) * -1))
+    return float(numAgreedNegatives) / float(numTrueNegatives)
+
+def NPV(true, predicted):
+    true = (true - 1) * -1
+    predicted = (predicted - 1) * -1
+    return sklearn.metrics.precision_score(true, predicted)
+
 
 # Obtain and preprocess the texts:
 def preprocessText(text):
@@ -73,9 +89,11 @@ def getNotesAndClasses(corpusPath, truthPath, balanceClasses=False):
     return np.array(noteBodies), noteClasses.astype(int)
 
 myPath = os.path.dirname(os.path.realpath(__file__))
+baseDir = "./TensorBoardLogs/"
+runName = "Batch.8.Epochs.12"
+os.makedirs(baseDir + runName,)
 
-
-cleanTexts, labels = getNotesAndClasses(CORPUS_TRAIN_PATH, GOLD_STANDARD_PATH)
+cleanTexts, labels = getNotesAndClasses(CORPUS_TRAIN_PATH, GOLD_STANDARD_PATH, balanceClasses=True)
 #labels = np.where(numberLabels == 1, "Positive", "Negative")
 numLabels = 2
 
@@ -135,8 +153,8 @@ sequence_input = Input(shape=(MAX_NUM_WORDS,), dtype='int32')
 embedded_sequences = embedding_layer(sequence_input)
 x = Conv1D(128, 5, activation='relu')(embedded_sequences)
 x = MaxPooling1D(5)(x)
-x = Conv1D(128, 5, activation='relu')(x)
-x = MaxPooling1D(5)(x)
+# x = Conv1D(128, 5, activation='relu')(x)
+# x = MaxPooling1D(5)(x)
 x = Conv1D(128, 5, activation='relu')(x)
 x = MaxPooling1D(35)(x)  # global max pooling
 x = Flatten()(x)
@@ -148,6 +166,19 @@ model.compile(loss='binary_crossentropy',
               optimizer='rmsprop',
               metrics=['acc'])
 
+tensorboardCallback = TensorBoard(log_dir=baseDir + runName)
+
 # happy learning!
 model.fit(xTrain, yTrain, validation_data=(xTest, yTest),
-          epochs=11, batch_size=16 )
+          epochs=12, batch_size=8, callbacks=[tensorboardCallback])
+model.save("./SerializedModel/CNN.h5")
+
+predictions = model.predict(xTest)
+reshapedPreds = np.reshape(np.where(predictions > .5, 1, 0), (predictions.shape[0],))
+
+precision, recall, fscore, _ = precision_recall_fscore_support(yTest, reshapedPreds, average="binary")
+npv = NPV(yTest, reshapedPreds)
+specificity_score = specificity(yTest, reshapedPreds)
+
+print"F-Score: %.3f\nPrecision: %.3f\nRecall (Sensitivity): %.3f\nSpecificity: %.3f\nNPV: %.3f" \
+    % (fscore, precision, recall, specificity_score, npv)

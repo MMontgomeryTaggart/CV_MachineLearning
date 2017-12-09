@@ -1,0 +1,280 @@
+Admission Date:  [**3081-4-3**]              Discharge Date:   [**3081-4-6**]
+
+Date of Birth:  [**3011-9-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Iron / Latex
+
+Attending:[**First Name3 (LF) 1008**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+
+History of Present Illness:
+69 yo F w/PMHx sx for PVD, COPD who presents with shortness of
+breath over the course of the last several days. Patient states
+that she developed a nonproductive cough last week, and saw her
+PCP who diagnosed her with bronchitis and treated her with
+ciprofloxacin and guaifenesin with codeine, and then with
+albuterol inhalers. She states that the symptoms did not
+improve, and she developed SOB at rest, with marked worsening
+over the last two days, to the point that she has had to sleep
+upright in a chair. She denies any fevers, chills, night sweats.
+She states that she develops some chest pain with coughing, but
+does not have chest pain at rest. She also notes nausea and
+vomiting after fits of coughing. She has never had these
+episodes before.
+.
+Patient was initially seen in the ED where her initial VS were
+T97.0 BP 123/60 HR 119 RR 28 O2sat 90% RA. She was felt to have
+a pneumonia and CHF, and was given azithromycin, nitro paste,
+nebulizers, ceftriaxone, furosemide 40 mg IV, aspirin 325,
+zofran, and morphine. Her initial EKG showed sinus tachycardia
+with 2 mm STE in V3. She had a CTA which showed bilateral
+pleural effusions and GGO c/w pulmonary edema, and she developed
+worsening respiratory distress and was placed on BiPap, with
+good resolution of her symptoms. Her first set of CE were
+positive.
+.
+Per patient report, she had a recent chemical stress test at her
+cardiologist's office 3 weeks ago, which was negative.
+.
+On review of symptoms, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, myalgias, joint
+pains, cough, hemoptysis, black stools or red stools. She denies
+recent fevers, chills or rigors. She does note exertional calf
+pain, as well as the development of a hematoma at the time of
+prior bypass surgery. All of the other review of systems were
+negative.
+.
+*** Cardiac review of systems is notable for chest pain, dyspnea
+on exertion, paroxysmal nocturnal dyspnea, orthopnea. She denies
+ankle edema, palpitations, syncope or presyncope.
+
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Peripheral vascular disease s/p multiple interventions
+Retroperitoneal hematoma in setting of PVD fem bypass
+Tobacco use
+Hx osteomyelitis of left heel
+Thyroid resection with resultant hypoparathyroidism
+Abdominal aortic aneurysm
+Chronic diarrhea
+
+Cardiac Risk Factors: Diabetes, Dyslipidemia, Hypertension
+
+
+Social History:
+She lives alone, and continues to work part time as a cashier.
+She has a 40 pack year smoking history, quit sometime this year.
+Drinks socially. Denies any illicit drugs. Has a son in the area
+who is involved.
+
+
+Family History:
+Has 13 siblings, one with MI < 60 years of age.
+
+Physical Exam:
+VS: T97.0, BP 133/69, HR 113, RR 24, O2 100% on BiPap
+Gen: well appearing, frail elderly appearing female in mild
+respiratory distress on BiPap
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with JVP to tragus.
+CV: PMI located in 5th intercostal space, tachycardic. Normal
+S1/S2. 2/6 SEM at RUSB. I/IV soft diastolic murmur at RUSB.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Increased WOB. Dull at bases. Inspiratory crackles bilaterally
+[**11-18**] both lung fields. Expiratory wheezing.
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Ext: Trace edema at ankles. Cool, hairless.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 1+ with bruit; Femoral 1+ with bruit; 1+ DP
+Left: Carotid 1+ without bruit; Femoral 1+ with bruit; 1+ DP
+
+
+Pertinent Results:
+[**3081-4-3**] 02:00PM BLOOD WBC-11.4* RBC-5.07 Hgb-14.6 Hct-43.5
+MCV-86 MCH-28.8 MCHC-33.6 RDW-14.0 Plt Ct-374
+[**3081-4-4**] 11:07PM BLOOD WBC-15.5* RBC-4.05* Hgb-11.7* Hct-34.0*
+MCV-84 MCH-28.8 MCHC-34.3 RDW-14.5 Plt Ct-253
+[**3081-4-5**] 07:10AM BLOOD WBC-19.8* RBC-3.97* Hgb-11.8* Hct-33.6*
+MCV-85 MCH-29.8 MCHC-35.2* RDW-14.8 Plt Ct-271
+[**3081-4-5**] 04:18PM BLOOD WBC-18.0* RBC-3.68* Hgb-10.7* Hct-31.7*
+MCV-86 MCH-29.1 MCHC-33.8 RDW-14.9 Plt Ct-235
+[**3081-4-5**] 09:30PM BLOOD WBC-20.4* RBC-3.61* Hgb-10.4* Hct-31.4*
+MCV-87 MCH-29.0 MCHC-33.2 RDW-14.8 Plt Ct-222
+[**3081-4-4**] 12:00AM BLOOD PT-13.5* PTT-66.2* INR(PT)-1.2*
+[**3081-4-5**] 09:30PM BLOOD PT-28.3* PTT-78.3* INR(PT)-2.9*
+[**3081-4-3**] 02:00PM BLOOD Glucose-120* UreaN-25* Creat-1.1 Na-136
+K-5.4* Cl-96 HCO3-22 AnGap-23*
+[**3081-4-4**] 11:07PM BLOOD Glucose-111* UreaN-38* Creat-1.6* Na-139
+K-4.2 Cl-101 HCO3-21* AnGap-21*
+[**3081-4-5**] 07:10AM BLOOD Glucose-153* UreaN-45* Creat-2.0* Na-137
+K-4.9 Cl-97 HCO3-26 AnGap-19
+[**3081-4-5**] 12:23PM BLOOD Glucose-134* UreaN-51* Creat-2.7* Na-135
+K-5.8* Cl-96 HCO3-17* AnGap-28*
+[**3081-4-5**] 04:18PM BLOOD Glucose-149* UreaN-55* Creat-3.1* Na-134
+K-5.3* Cl-92* HCO3-22 AnGap-25*
+[**3081-4-5**] 09:30PM BLOOD Glucose-287* UreaN-56* Creat-3.4* Na-128*
+K-5.5* Cl-87* HCO3-18* AnGap-29*
+[**3081-4-3**] 02:00PM BLOOD CK(CPK)-498*
+[**3081-4-4**] 12:00AM BLOOD CK(CPK)-656*
+[**3081-4-4**] 08:38AM BLOOD CK(CPK)-546*
+[**3081-4-4**] 11:07PM BLOOD ALT-130* AST-409* CK(CPK)-1299*
+AlkPhos-65 TotBili-0.4
+[**3081-4-5**] 07:10AM BLOOD CK(CPK)-2391*
+[**3081-4-5**] 09:30PM BLOOD ALT-1597* AST-4489* CK(CPK)-2939*
+AlkPhos-61 TotBili-0.6
+[**3081-4-3**] 02:00PM BLOOD cTropnT-0.91*
+[**3081-4-3**] 06:15PM BLOOD cTropnT-1.44*
+[**3081-4-4**] 12:00AM BLOOD CK-MB-59* MB Indx-9.0* cTropnT-1.92*
+[**3081-4-4**] 08:38AM BLOOD CK-MB-40* MB Indx-7.3* cTropnT-2.74*
+[**3081-4-4**] 11:07PM BLOOD CK-MB-73* MB Indx-5.6 cTropnT-7.73*
+[**3081-4-5**] 07:10AM BLOOD CK-MB-70* MB Indx-2.9 cTropnT-9.86*
+[**3081-4-5**] 09:30PM BLOOD CK-MB-43* MB Indx-1.5 cTropnT-11.87*
+[**3081-4-4**] 12:00AM BLOOD Calcium-8.7 Phos-7.2*# Mg-1.6
+[**3081-4-5**] 04:18PM BLOOD Calcium-8.5 Phos-9.4* Mg-2.5
+[**3081-4-5**] 04:26PM BLOOD Type-ART pO2-126* pCO2-38 pH-7.33*
+calTCO2-21 Base XS--5
+[**3081-4-5**] 04:54PM BLOOD Type-MIX pH-7.26*
+[**3081-4-4**] 03:09PM BLOOD Glucose-342* Lactate-3.2* Na-126* K-4.5
+Cl-97*
+[**3081-4-4**] 05:54PM BLOOD Lactate-10.9*
+[**3081-4-5**] 09:40AM BLOOD Lactate-4.6*
+[**3081-4-5**] 04:26PM BLOOD Glucose-131* Lactate-6.7*
+.
+EKG:
+[**3081-4-3**] 16:10: Sinus tachycardia. STE 3 mm in V3. STE 1 mm V4.
+LVH.
+.
+2D-ECHOCARDIOGRAM performed on [**11-23**] demonstrated: EF 45-50%.
+Moderate regional left ventricular dysfunction with moderate
+hypokinesis of the basal to mid inferior segments. Moderate to
+severe mitral regurgitation. Moderate aortic regurgitation.
+Moderate pulmonary artery systolic hypertension.
+.
+[**3081-4-4**] ECHO:
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. There is moderate regional left ventricular systolic
+dysfunction with mid to distal anterior, septal and apical
+hypokinesis - LAD territory). No masses or thrombi are seen in
+the left ventricle. There is no ventricular septal defect. The
+number of aortic valve leaflets cannot be determined. The aortic
+valve leaflets are moderately thickened. The aortic valve is not
+well seen. There is mild aortic valve stenosis (area
+1.2-1.9cm2). Mild to moderate ([**11-17**]+) aortic regurgitation is
+seen. The aortic regurgitation vena contracta is >0.6cm. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. At least moderate (2+), eccentric mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**3080-11-29**],
+regional LV systolic dysfunction is new.
+.
+[**3081-4-4**] Cardiac cath:
+COMMENTS:
+1. Selective coronary angiography of this right-dominant system
+demonstrated two vessel coronary artery disease. The LMCA was
+free from
+angiographically-apparent disease. The LAD was severely
+calcified
+proximally and had 99% stenosis at mid vessel. The LCX was
+mildly
+diseasd. The RCA was a smaller vessel (2.0 mm) with long 70%
+stenosis.
+2. Resting hemodynamic assessmet revealed severely elevated
+left-sided
+filling pressure (mean PCWP 35 mmHg) and moderately elevated
+right-sided
+filling pressures (RVEDP 13 mmHg). The opening systemic arterial
+blood
+pressur was normal (104/56 mmHg) and the pulmonary arterial
+pressure was
+moderately elevated (52/31/41 mmHg). The cardiac output and
+cardiac
+index were low (2.06 l/min and 1.5 l/min/m2) indicative of
+cardiogenic
+shock.
+3. Left ventriculography was deferred.
+4.  Unsuccessful attempt at PCI of mid LAD due to inability to
+deliver
+any devices to lesion.
+5.  Cardiogenic shock proceeding to PEA from worsening ischemia
+necessitating intubation and IABP.
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Cardiogenic shock
+3. Unsuccessful PCI.
+
+
+Brief Hospital Course:
+Ms. [**Name14 (STitle) 35038**] is a 69 yo F w/hx HTN, hyperlipidemia, PVD, and
+tobacco use who presents with SOB [**12-18**] pulmonary edema in the
+setting of an NSTEMI.
+.
+# CAD/Ischemia: Patient with severe PVD, no history of any
+cardiac catheterizations. On presentation she had isolated ST
+elevation in V3.  Cardiac enzymes were positive and she ruled in
+for NSTEMI.  She was given a Plavix load and started on
+Metoprolol, ASA 325mg, Atorvastatin 80mg, Heparin drip and
+integrillin.  She was taken to the cardiac catheterization lab
+on  [**3081-4-4**] which showed two vessel disease with a 99% LAD and
+70% RCA.  PCI was attempted on LAD but unsuccessful.  Patient
+then suffered from a PEA arrest which resulted in cardiogenic
+shock.  An Intra-Aortic Balloon pump was placed and the patient
+was transferred to the CCU for further care.  While in the CCU
+she remained on IABP.  She was hypotensive and required pressors
+for blood pressure support.  The patient was DNR/DNI and the
+family agreed to not attempt aggressive measures and to not
+escalate care.  The patient went into Ventricular Tachycardia on
+the morning of [**3081-4-6**] and expired from cardiac arrest.  The
+family was present at the time of death and declined autopsy.
+
+
+Medications on Admission:
+Meprobamate 400 mg QID PRN
+Calcium lactate 10 mg - 4 tabs [**Hospital1 **]
+Belladona 1 tab qam 2 tabs qpm
+Calcitriol 0.25 mcg QD
+Levoxyl 100 mg qd
+Nifedipine 30 mg qd
+Pravastatin 80 mg qd
+Cyanocobalamin 1000 mcg qmonth
+ASA 81 mg qd
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+ST- elevation MI
+Anuric renal failure
+Respiratory failure
+Suspected aspiration vs. hospital acquired pneumonia
+
+
+Discharge Condition:
+expired
+
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+none
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1020**] MD, [**MD Number(3) 1021**]
+

@@ -1,0 +1,205 @@
+Chief Complaint: respiratory failure, urosepsis
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Diuresis.  Back to trach collar for part of day.  PMV placed
+   Lasix held due due increasing creatinine.
+   On ventilator overnight
+                                                  History obtained from ICU team
+   Allergies:
+   Captopril
+   Renal Toxicity;
+   Neurontin (Oral) (Gabapentin)
+   Unknown;
+   Shellfish
+   Hives;
+   Nsaids
+   Unknown;
+   Promethazine
+   abnormal moveme
+   Valproate Sodium
+   hyperammonemia;
+   Last dose of Antibiotics:
+   Cefipime - [**3017-6-25**] 08:19 PM
+   Ciprofloxacin - [**3017-6-27**] 06:00 PM
+   Ceftazidime - [**3017-6-27**] 08:15 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3017-6-28**] 04:03 AM
+   Morphine Sulfate - [**3017-6-28**] 04:30 AM
+   Hydralazine - [**3017-6-28**] 06:03 AM
+   Metoprolol - [**3017-6-28**] 06:03 AM
+   Other medications:
+   colace, SQH, SQI, nystatin, ASA, statin, MVI, oxacarb., fluticasone,
+   CHG, MDIs/nebs, diltiazem, ceftaz, cipro, prednisone 7.5, lopressor,
+   hydralazine, PPI, duragesic 50
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3017-6-28**] 11:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.5
+C (97.7
+   HR: 92 (81 - 105) bpm
+   BP: 158/58(82) {87/49(62) - 161/75(95)} mmHg
+   RR: 15 (13 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 95.4 kg (admission): 85 kg
+   Height: 65 Inch
+             Total In:
+                                                                    807 mL
+                                                                     54 mL
+   PO:
+                                                                    120 mL
+             TF:
+   IVF:
+                                                                    687 mL
+                                                                     54 mL
+   Blood products:
+   Total out:
+                                                                  2,385 mL
+                                                                    530 mL
+   Urine:
+                                                                  2,285 mL
+                                                                    530 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,578 mL
+                                                                   -476 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 409 (409 - 502) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 42
+   PIP: 10 cmH2O
+   SpO2: 100%
+   ABG: ///20/
+   Ve: 6.5 L/min
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Clear : anteriorly, Crackles : )
+   Abdominal: Bowel sounds present, wound dsg C/D/I
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Verbal stimuli, Movement:
+   Purposeful, Tone: Normal, says "yes" to almost all questions
+   Labs / Radiology
+   8.6 g/dL
+   368 K/uL
+   104 mg/dL
+   3.6 mg/dL
+   20 mEq/L
+   4.4 mEq/L
+   53 mg/dL
+   99 mEq/L
+   130 mEq/L
+   25.2 %
+   13.9 K/uL
+        [image002.jpg]
+                             [**3017-6-24**]  01:18 AM
+                             [**3017-6-24**]  07:00 PM
+                             [**3017-6-25**]  04:37 AM
+                             [**3017-6-25**]  01:58 PM
+                             [**3017-6-25**]  08:26 PM
+                             [**3017-6-26**]  05:18 AM
+                             [**3017-6-26**]  02:50 PM
+                             [**3017-6-27**]  01:44 AM
+                             [**3017-6-27**]  05:51 PM
+                             [**3017-6-28**]  06:00 AM
+   WBC
+   13.3
+   13.2
+   12.8
+   13.9
+   Hct
+   20.3
+   23.1
+   24.6
+   24.9
+   25.2
+   Plt
+   294
+   343
+   409
+   368
+   Cr
+   3.6
+   3.4
+   3.6
+   3.5
+   3.4
+   3.0
+   3.4
+   3.6
+   3.6
+   TCO2
+   38
+   Glucose
+   147
+   167
+   149
+   279
+   146
+   105
+   88
+   104
+   Other labs: PT / PTT / INR:11.6/27.3/1.0, ALT / AST:70/27, Alk Phos / T
+   Bili:131/0.3, Differential-Neuts:60.0 %, Band:14.0 %, Lymph:26.0 %,
+   Mono:0.0 %, Eos:0.0 %, Fibrinogen:394 mg/dL, Lactic Acid:1.0 mmol/L,
+   Albumin:3.0 g/dL, LDH:328 IU/L, Ca++:9.2 mg/dL, Mg++:1.9 mg/dL, PO4:4.3
+   mg/dL
+   Assessment and Plan
+   69-year-old woman with acute-on-chronic respiratory failure,
+   re-admitted with sepsis, pneumonia, and UTI.  She has improved
+   significantly.
+   Respiratory failure
+   -          improving with diuresis
+   -          TC trial as she tolerates today
+   -          keep even to slightly (+) today
+   Renal failure
+   -          hold diuresis given slighly increased creatinine
+   -          may be at new baseline
+   VRE UTI
+   - s/p linezolid rx
+   Pseudomonal pneumonia (VAP from rehab)
+   - complete course of ABX (plan to finish [**6-30**])
+   Rectus sheath hematoma
+   - wound looks OK
+   Hypertension
+   - convert meds back to enteral
+   ICU Care
+   Nutrition: PO diet as per speech/swallow
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3017-6-24**] 02:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to rehab / long term care facility
+   Total time spent: 40 minutes

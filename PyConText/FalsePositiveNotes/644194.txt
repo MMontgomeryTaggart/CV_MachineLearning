@@ -1,0 +1,169 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   49yo man with a h/o HIV on IDDM, HTN, schistosomiasis, Serratia
+   infections with bacteremia requiring 6 weeks of [**Last Name (LF) **], [**First Name3 (LF) 1809**]-[**Doctor Last Name 108**]
+   tear ([**7-19**]) HAART (last CD4 500) and ESRD on HD, PE on Warfarin, who
+   was noted to have rigors, a fever of 102 in the setting of some
+   discharge from his tunneled line. The line site was swabbed and sent
+   for culture, and sent blood cultures as well.  He received Vanc and
+   Tylenol. In the ED he was afebrile and tachycardic to 130 with normal
+   BP.  He was bolused 1.5 liters of NS. He underwent a CT abdomen /
+   pelvis without acute abnormalities. Blood cultures (4 out of 4) grew
+   out CNS. He received Zosyn. Cardiology was consulted for an isoloated
+   ST elevated in V2.
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**3404-10-22**] 05:57 PM
+ FEVER - 101.2
+F - [**3404-10-22**] 10:00 PM
+ He had an episode of guaiac positive hematemesis which is a chronic
+   issue for him.
+   Allergies:
+   Clindamycin
+ Rash;
+   Ace Inhibitors
+ angioedema;
+   Valsartan
+ angioedema;
+   Last dose of Antibiotics:
+   Piperacillin - [**3404-10-22**] 10:00 PM
+   Infusions:
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Other medications:
+   Vanc with HD
+   Codeine
+   Protonix
+   Zosyn
+   HAART
+   Neurontin
+   Fexofenadine
+   Insulin
+   Heparin IV gtt
+   Flowsheet Data as of  [**3404-10-23**] 07:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.2
+   Tcurrent: 36.2
+C (97.1
+   HR: 92 (79 - 107) bpm
+   BP: 160/82 {123/61 - 174/90} mmHg
+   RR: 10 (10 - 20) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,605 mL
+                                                                     78 mL
+   PO:
+                                                                    300 mL
+             TF:
+   IVF:
+                                                                    155 mL
+                                                                     78 mL
+   Blood products:
+   Total out:
+                                                                     75 mL
+                                                                     75 mL
+   Urine:
+   NG:
+                                                                     75 mL
+                                                                     75 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,530 mL
+                                                                      3 mL
+   Respiratory support
+   SpO2: 100%
+   Physical Examination
+   General: NAD, frustated, non-toxic.
+   HEENT: PERRL, anicteric, no adenopathy.
+   CV: S1S2 RRR w/o m/r/g
+   Lungs: CTA bilaterally without crackles or wheezing.
+   Ab: Positive BS
+s, NT/ND. No HSM.
+   Ext: Mild peripheral edema. No clubing.
+   Neuro: Alert, oriented, no focal deficits on gross exam.
+   Labs / Radiology
+   12.0 g/dL
+   234 K/uL
+   6.6 mg/dL
+   25 mEq/L
+   4.6 mEq/L
+   34 mg/dL
+   97 mEq/L
+   134 mEq/L
+   37.4 %
+   15.8 K/uL
+        [image002.jpg]
+                            [**3404-10-22**]  04:10 PM
+                            [**3404-10-23**]  12:19 AM
+                            [**3404-10-23**]  05:56 AM
+   WBC
+   15.8
+   Hct
+   37.4
+   Plt
+   234
+   Cr
+   6.6
+   TropT
+   0.40
+   0.51
+   Other labs:
+   PT / PTT / INR:17.0/65.7/1.5,
+   CK / CKMB / Troponin-T:86//0.51,
+   ALT / AST:14/81,
+   Ca++:9.7 mg/dL, Mg++:2.3 mg/dL, PO4:4.5 mg/dL
+   Assessment and Plan
+   49yo man with a h/o HIV on IDDM, HTN, schistosomiasis, Serratia
+   infections with bacteremia requiring 6 weeks of [**Last Name (LF) **], [**First Name3 (LF) 1809**]-[**Doctor Last Name 108**]
+   tear ([**7-19**]) HAART (last CD4 500) and ESRD on HD, PE on Warfarin, who
+   was noted to have rigors, a fever of 102 in the setting of some
+   discharge from his tunneled line.
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+   The most likley source of his fevers is a line infection given it
+s in
+   the setting of a purulent line and there is no other obvious source. He
+   is undergoing a TTE today to ensure that there is no seeding or
+   component of endocarditis (which seems unlikely but warrants
+   evaluation.) He is currently being
+treated through
+ rather than
+   d/c
+ing his line given his access is very limited (he has multiple
+   clots throughout. He is to go for bilateral uper extremity U/Ss to
+   further delineate his vasculature. Will await the sensitivities of his
+   CNS and continue Vanc for the time being.
+ ESRD
+   He undergoes dialysis on MWF. Continue Vanc with HD as mentioned above.
+   Access issues as above.
+ HISTORY OF PULMONARY EMBOLISM
+   He is on a heparin gtt as we hold his Warfarin while determining the
+   plan for his HD line.
+ ISOLATED ST ELEVATION
+   Troponins are up but this is in the setting of his ESRD and being
+   post-HD. Will recheck an EKG this morning and follow-up his enzymes
+   which are pending. Doubt that this represents a plaque rupture.
+ ISOLATED ST ELEVATION
+   HIV on HAART.
+   ICU Care
+   Nutrition: Regular diet.
+   Glycemic Control:
+   Lines: 20 Gauge - [**3404-10-22**] 05:56 PM, Dialysis Catheter - [**3404-10-22**]
+   05:57 PM
+   Prophylaxis:
+   DVT: Heparin gtt
+   Stress ulcer: PPI [**Hospital1 **]
+   VAP: N/A
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition : Stable for transfer to the floor.
+   Total time spent:

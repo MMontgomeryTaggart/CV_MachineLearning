@@ -1,0 +1,261 @@
+Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**3264-2-27**] 12:02 PM
+ INVASIVE VENTILATION - START [**3264-2-27**] 12:04 PM
+ ARTERIAL LINE - START [**3264-2-27**] 05:08 PM
+ BRONCHOSCOPY - At [**3264-2-27**] 06:15 PM
+   - CTA: no evidence of PE, but did show LLL consolidation and abdominal
+   ascites
+   - Head CT: negative for bleed
+   - Patient had bronch; fluid evident for mucus plugs; cx sent and are
+   pending
+   - He was hypotensive after intubation, started on pressors.  Got 1L NS
+   bolus x2 overnight.
+   - A-line placed.
+   - Repeat CXR didn't look like pneumothorax
+   - RISBI 135, but patient agitated once sedation off
+   - TF have been held overnight
+   - Pressors off since 5am
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**3264-2-27**] 07:38 PM
+   Levofloxacin - [**3264-2-27**] 08:10 PM
+   Vancomycin - [**3264-2-27**] 09:14 PM
+   Acyclovir - [**3264-2-28**] 04:09 AM
+   Infusions:
+   Midazolam (Versed) - 2 mg/hour
+   Fentanyl (Concentrate) - 50 mcg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3264-2-27**] 11:50 PM
+   Fentanyl - [**3264-2-28**] 04:00 AM
+   Midazolam (Versed) - [**3264-2-28**] 04:17 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3264-2-28**] 06:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**66**] AM
+   Tmax: 38.3
+C (100.9
+   Tcurrent: 37.8
+C (100
+   HR: 105 (81 - 135) bpm
+   BP: 105/71(83) {85/40(64) - 134/81(102)} mmHg
+   RR: 24 (14 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  2,454 mL
+                                                                    180 mL
+   PO:
+             TF:
+                                                                     19 mL
+                                                                     50 mL
+   IVF:
+                                                                  2,336 mL
+                                                                    130 mL
+   Blood products:
+   Total out:
+                                                                  1,990 mL
+                                                                    740 mL
+   Urine:
+                                                                  1,990 mL
+                                                                    740 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    464 mL
+                                                                   -560 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 350 (350 - 350) mL
+   Vt (Spontaneous): 294 (294 - 294) mL
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 136
+   PIP: 22 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 25 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.38/64/544/30/10
+   Ve: 8.8 L/min
+   PaO2 / FiO2: 1,360
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   135 K/uL
+   9.9 g/dL
+   83 mg/dL
+   0.4 mg/dL
+   30 mEq/L
+   4.3 mEq/L
+   21 mg/dL
+   101 mEq/L
+   138 mEq/L
+   31.8 %
+   11.0 K/uL
+        [image002.jpg]
+                             [**3264-2-27**]  01:08 PM
+                             [**3264-2-27**]  01:40 PM
+                             [**3264-2-28**]  04:29 AM
+   WBC
+   11.0
+   Hct
+   35.6
+   31.8
+   Plt
+   135
+   Cr
+   0.4
+   0.4
+   TropT
+   0.02
+   TCO2
+   39
+   Glucose
+   168
+   83
+   Other labs: PT / PTT / INR:12.9/37.0/1.1, CK / CKMB /
+   Troponin-T:31/4/0.02, ALT / AST:76/72, Alk Phos / T Bili:297/1.2,
+   Differential-Neuts:79.0 %, Band:8.0 %, Lymph:5.0 %, Mono:7.0 %, Eos:0.0
+   %, Lactic Acid:1.3 mmol/L, LDH:332 IU/L, Ca++:7.8 mg/dL, Mg++:1.6
+   mg/dL, PO4:1.4 mg/dL
+   Imaging: CT HEAD:
+   No intracranial hemorrhage or edema.
+   CTA:
+   1. No PE or acute aortic pathology.
+   2. Small L pleural effusion. LLL consolidation, concerning for
+   infectious process.
+   3. Small-to-moderate intra-abdominal ascites.
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+   38M with NHL s/p alloBMT complicated by multi-organ GVHD and BO with
+   severe baseline lung disease and CO2 retention, presenting with dyspnea
+   and cough, now transfered to [**Hospital Unit Name 42**] for hypercarbic respiratory failure.
+   .
+   # Hypercarbic respiratory failure.  Baseline lung disease from
+   bronchiolitis obliterans with CO2 retention, severe restrictive disease
+   on PFTs and very low diffusion capacity.  Admitted with pneumonia and
+   new left pleural effusion, now s/p full treatment with cefepime and
+   levofloxacin with mild general improvement.  However, today with severe
+   respiratory compromise and failure leading to intubation.  Events
+   leading to decompensation unclear.  Differential includes worsening
+   infection, aspiration, bronchospasm, primary CNS process (head bleed),
+   PE, respiratory muscle weakness, infection/sepsis or other global
+   decompensation (though hemodynamics initially okay).  PE a concerning
+   possibilitiy given acuity of change and lack of DVT prophylaxis.  CNS
+   process also a concern given some posturing and tremor following
+   intubation (though more likely med related).
+   Mucus plug
+   No PE, flash pulm edema
+   Infection
+   Acute on chronic hypercarbic respiratory failure as detailed above
+   Could potentially be fungal or atypical mycobacterium.
+   - PECT now.  Will hold off on empiric treatment for now.
+   - Head CT now.
+   - Keep intubated on AC while undergoing workup.  ABG and Aline now.
+   Goal pCO2 likely in 60-70 range (aim for very slightly acidemic pH
+   given chronicity of respiratory acidosis).
+   - Will continue treatment for HAP with cefepime, vanc, levofloxacin for
+   now.
+   - ?benefit from higher dose steroids if GVHD related.
+   - Send sputum culture, PCP [**Name Initial (PRE) **].
+   - Consider eval of left pleural effusion, though small and may be
+   difficult.
+   - Send viral panel.
+   - Likely bronch now that intubated given desire to do as outpatient and
+   lack of resolution of symptoms with current regimen for pneumonia
+   (though vanc new today).
+   .
+   # Hypotension.  Normotensive prior to intubation but now with prolonged
+   low BPs - ?positive pressure effect vs. sedation meds vs. worsening
+   infection vs. obstructive process/PE vs. cardiogenic cause.
+   - Repeat ECG (cannot find floor ECG here).
+   - TTE.
+   - CTA as above.
+   - Check lactate.
+   - Reculture.
+   - Consider stress dose steroids (increase from current 30 mg pred).
+   - Neosynephrine via PICC for now, consider change to norepi if
+   continues.
+   .
+   # Tremor.  Occurring on BMT floor prior to events, though ?med effect
+   from tacro.  Low suspicion for seizure activity given chronicity and
+   with normal mental status prior.
+   - Continue to monitor for now.
+   - Holding tacro.
+   .
+   # Edema.  New this admission.  ?Effect of getting IVFs.  Past echos
+   within normal limits.
+   - Check TTE.
+   .
+   # Non-Hodgkin's lymphoma s/p allo BMT: Most recent PET scan with no
+   evidence of recurrent disease and he remains in remission.
+   -Monitor counts and toxicities
+   .
+   # GVHD.
+   - Respiratory plan as above.
+   - Prednisone and MMF.
+   - PPx with bactrim DS and Acyclovir (acyclovir had been changed to
+   famvir in house due to ?elevation in bili, but cannot crush.
+   .
+   # Elevated LFTs.  At baseline from GVHD.
+   - Continue to monitor.
+   .
+   # Hypothyroidism.
+   - Levothyroxine 125 mcg daily M-Saturday
+   .
+   # Gastric varices.  Asymptomatic.
+   - Holding BB given hypotension.
+   .
+   # FEN: Will resume TPN, tube feed recs.
+   # PPx: H2B, heparin SC.
+   # Comm: With wife [**Name (NI) **] (updated at admission).
+   # Code: FULL
+   # Dispo: ICU
+   ICU Care
+   Nutrition: TPN/tube feeds if able to tolerate
+   Glycemic Control: ISS
+   Lines:
+   PICC Line - [**3264-2-27**] 12:02 PM
+   20 Gauge - [**3264-2-27**] 02:00 PM
+   Prophylaxis:
+   DVT: HSQ
+   Stress ulcer: H2B
+   VAP:  bundle
+   Comments:
+   Communication:  Comments:
+   Code status: full
+   Disposition: ICU
+   Lungs with BS bilaterally, no rhonchi, crackles  Tachycardic, regular
+   Abdomen distended, soft, no bowel sounds  2+ bipedal edema.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3264-2-27**] 12:02 PM
+   20 Gauge - [**3264-2-27**] 02:00 PM
+   Arterial Line - [**3264-2-27**] 05:08 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

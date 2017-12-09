@@ -1,0 +1,241 @@
+Chief Complaint:  Milrinone administration
+   HPI:
+   Mr. [**Known patient lastname **] is an 86M with cardiomyopathy (EF 15-20%), CAD s/p PCI's x 3,
+   mod-severe AS, prior MVR, and atrial flutter who presents with acute on
+   chronic renal failure on outpatient follow up. He was recently admitted
+   to hospital for increased fatigue and diarrhea and discharged on
+   [**2640-10-11**]. This hospitalization was complicated by hypotension requiring
+   fluid resuscitation in the MICU. He was discharged home on torsemide 20
+   mg [**Hospital1 **] which was an increase from previous home regimen of lasix 20mg
+   [**Hospital1 **]. He presented to his cardiologist's office for routine labs. His
+   creatinine increased to 4.5 with increased lower extremity edema.
+   .
+   In the ED, VS were stable. EKG showed RBBB with no acute changes. His
+   creatinine increased from 2.9 on [**2640-10-11**] to 4.9. Patient denied
+   dietary indiscretions. He was started on a new medication, minocycline
+   prior to having his labs drawn for a pruritic rash on his torso. Other
+   relatively new medications include coumadin for his atrial flutter.
+   .
+   He was admitted to the [**Hospital1 2208**] service where his ACE was held given renal
+   failure. He was started on hydral for afterload reduction and lasix gtt
+   for diuresis. He is followed by Dr. [**First Name8 (NamePattern2) 340**] [**Last Name (NamePattern1) **] who recommended milrinone
+   + lasix gtt for treatment of his decompensated end stage CHF. He was
+   transferred to the CCU for further management.
+   .
+   On review of systems, he denies any prior history of stroke, TIA,
+   pulmonary embolism, bleeding at the time of surgery, myalgias, joint
+   pains, cough, hemoptysis, black stools or red stools. He denies recent
+   fevers, chills or rigors. He denies exertional buttock or calf pain.
+   Cardiac review of systems is notable for absence of chest pain, dyspnea
+   on exertion, paroxysmal nocturnal dyspnea, orthopnea, palpitations,
+   syncope or presyncope. He admits to significant chronic lower extremity
+   edema.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Medical records
+   Allergies:
+   Vasotec (Oral) (Enalapril Maleate)
+   Cough;
+   Niacin
+   Facial erythema
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Other medications:
+   Warfarin 0.5mg daily
+   Digoxin 0.0675 mg PO daily
+   Torsemide 20mg PO BID
+   Lisinopril 2.5mg PO daily
+   Simvastatin 20mg PO daily
+   Metoprolol 12.5mg PO BID
+   ASA 81mg daily
+   Omeprazole 20mg daily
+   Docusate Sodium 100 mg [**Hospital1 **]
+   Minocycline 100 mg [**Hospital1 **] (started on wednesday)
+   Past medical history:
+   Family history:
+   Social History:
+   1  CAD: s/p PCI to LAD, LMCA and LCX in [**2636**]; chronically occluded RCA
+   with L->R collaterals
+   2  History of Colon cancer - last scope [**2635**] with polyp
+   3  Atrial fibrillation/flutter - on coumadin
+   4  History of Basal cell carcinoma
+   5  Mitral valve replacement [**11/2637**] - (#29 Perimount Thermafix
+   pericardial valve).
+   6  Hypertension
+   7  Gout
+   8  Peripheral vascular disease (PVD)
+   9  Mild aortic stenosis
+   10 History of deep venous thrombosis - IVF filter placed [**2636**]
+   11 Hypercholesterolemia
+   12 Spinal stenosis
+   13 Familial hand tremor
+   14 Hernia repair, R-side inguinal
+   15 Cataract repair, last [**2639-6-12**]
+   16 Nephrolithiasis
+   17 Chronic kidney disease  ( baseline Cr 2-2.7 per recent labs)
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: - Former orthodontist.
+   - Smoked until early 40s at 1-1.5 packs/day since age 22. Denies
+   smoking since. Denies drinking.
+   - Lives with wife in [**Location (un) 321**].
+   Review of systems:
+   Constitutional: No(t) Fever
+   Ear, Nose, Throat: Dry mouth
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, Edema, No(t)
+   Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria
+   Neurologic: No(t) Headache
+   Flowsheet Data as of [**2640-10-16**] 05:00 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.6
+C (97.8
+   HR: 72 (72 - 72) bpm
+   BP: 78/49(64) {78/49(64) - 143/121(126)} mmHg
+   RR: 15 (15 - 19) insp/min
+   SpO2: 99%
+   Heart rhythm: A Flut (Atrial Flutter)
+             Total In:
+             350 mL
+   PO:
+             TF:
+   IVF:
+   10 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    705 mL
+   Urine:
+   80 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -355 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 99%
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal, Distant)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Percussion: Resonant : ), (Breath Sounds: Clear :
+   )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 3+, Left: 3+
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Imaging: TTE 11/18?08
+   The left atrium is markedly dilated. There is mild symmetric left
+   ventricular hypertrophy. The left ventricular cavity is mildly dilated.
+   There is severe global left ventricular hypokinesis (LVEF = 15-20% %).
+   The right ventricular cavity is mildly dilated with moderate global
+   free wall hypokinesis. The aortic root is mildly dilated at the sinus
+   level. The aortic valve leaflets are moderately thickened. There is
+   moderate to severe aortic valve stenosis (area 0.8-1.0cm2). Mild to
+   moderate ([**11-20**]+) aortic regurgitation is seen. A bioprosthetic mitral
+   valve prosthesis is present. Mild (1+) mitral regurgitation is seen.
+   [Due to acoustic shadowing, the severity of mitral regurgitation may be
+   significantly UNDERestimated.] The tricuspid valve leaflets are mildly
+   thickened. Moderate to severe tricuspid regurgitation is seen. The
+   estimated pulmonary artery systolic pressure is normal. The pulmonic
+   valve leaflets are thickened. There is no pericardial effusion.
+   ECG: [**2640-10-16**]: Atrial flutter, rate 71, nl axis, wide QRS, RBBB, ST
+   depression in I, avL
+   Assessment and Plan
+   86M with cardiomyopathy (EF 15-20%), CAD, AS, prior MVR, and atrial
+   flutter who presents with acute on chronic renal failure and worsening
+   lower extremity edema.
+   .
+   #. Acute on chronic systolic CHF: Secondary to ischemic cardiomyopathy
+   with an estimated EF of 15-20% in [**9-26**]. Minimal response to lasix gtt.
+   BNP is [**Numeric Identifier 6634**] up from [**Numeric Identifier 6424**] on [**2640-10-5**]. Will begin milrinone to improve
+   forward flow and encourage diuresis.
+   - Milrinone, 50 microgram/kg bolus over 15 min
+   - Milrinone gtt at 0.375 microgram/kg/min continuous infusion. If
+   tolerates dose, can increase to 0.5 microgram/kg/min overnight.
+   - Milrinone may drop SVR; If so, neo gtt and CVL. [**Month (only) 56**] also exacerbate
+   aflutter. Will control with bblockers.
+   - Increase lasix gtt to 12mg/min
+   - monitor urine output and creatinine to assess response to milrinone
+   - continue digoxin and ck drug level
+   - fluid restrict; low salt diet
+   - continue to hold lisinopril in setting of ARF
+   .
+   # CAD: ST depressions in I and avL. No complaints of CP or SOB. CKs
+   flat and Tn's trending down from last admission.
+   - continue ASA, statin, bblocker
+   - holding ACE for renal failure
+   .
+   #. Acute on Chronic Renal Failure: Cr improved from admission 4.9 to
+   4.5 (Baseline 2.7). Likely secondary to poor forward flow. FENA and
+   Feurea indeterminate at 1.8, 35.5.
+   - hold lisinopril for ARF
+   - No eos in urine; unlikely to be AIN
+   - monitor UO and creatinine on milrinone
+   .
+   #. Atrial Flutter:  Recently started on coumadin. INR subtherapeutic at
+   1.3.
+   - continue to monitor daily INR; goal [**12-22**]
+   - continue to monitor on telemetry
+   - bblocker for rate control
+   .
+   # HTN: continue bblocker
+   .
+   # Hyperlipidemia: continue statin
+   .
+   #. Rash: Hx of pemphigus. Started on minocycline by outpatient derm.
+   Biopsy completed.
+   - continue to monitor; will follow up outpatient biopsy results
+   - Restart minocycline after dig level results as can increase dig level
+   in patient who metabolize dig through GI tract. Can also increase INR.
+   Will monitor.
+   - sarna lotion prn pruritis
+   .
+   #. FEN: Follow and replete electrolytes. Cardiac diet. Fluid
+   restriction
+   .
+   #. Access: PIV
+   .
+   #. PPx: ppi (home med); cont anticoagulation; bowel regimen prn; SQH
+   until INR therapeutic
+   .
+   #. Code: FULL; contact person is wife [**Name (NI) 6635**] H [**Telephone/Fax (1) 6636**]; C
+   [**Telephone/Fax (1) 6637**]
+   .
+   #. Dispo: CCU
+   .
+   .
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2640-10-16**] 03:00 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

@@ -1,0 +1,193 @@
+CVICU
+   HPI:
+   s/p CABGx3 (LIMA to LAD, SVG to Ramus, SVG to RCA
+   Chief complaint:
+   PMHx:
+   PMHx:Hypertension, Polycystic kidney disease, Kidney Allograft failure,
+   Hemodialysis MWF -> Right Subclavian tunneled catheter and a
+   non-matured left arm AV fistula, Gout, Anemia, Incarcerated Hernia as
+   an infant (Surgically repaired), Skin cancer s/p excision on back,  s/p
+   kidney allograft [**2501**] complicated by severe BK nephropathy,  CMV
+   disease and hematuria for PKD, s/p hernia repair, Left AV Fistula,
+   Right chest subclavian port/Hemodialysis catheter x3, Left Knee
+   Reconstruction
+   Current medications:
+   Acetaminophen , Aspirin EC , Calcium Gluconate , CefazoLIN,  Colchicine
+   ,  Docusate Sodium , Esmolol , Insulin ,
+    Ketorolac , Leflunomide , Magnesium Sulfate , Metoclopramide ,
+   Metoprolol Tartrate , Milk of Magnesia ,
+    Nitroglycerin ,Oxycodone-Acetaminophen , Phenylephrine , Ranitidine ,
+   Sodium Chloride 0.9% Flush
+   24 Hour Events:
+ OR RECEIVED - At [**2503-11-8**] 12:50 PM
+ NASAL SWAB - At [**2503-11-8**] 12:51 PM
+ INVASIVE VENTILATION - START [**2503-11-8**] 12:51 PM
+ ARTERIAL LINE - START [**2503-11-8**] 12:55 PM
+ [**Location (un) 330**] LINE - START [**2503-11-8**] 12:56 PM
+ PA CATHETER - START [**2503-11-8**] 12:56 PM
+ DIALYSIS CATHETER - START [**2503-11-8**] 12:57 PM
+ EKG - At [**2503-11-8**] 01:48 PM
+ EXTUBATION - At [**2503-11-8**] 04:48 PM
+ INVASIVE VENTILATION - STOP [**2503-11-8**] 04:49 PM
+   Post operative day:
+   POD#1 - c x 3
+   Allergies:
+   Tetanus Toxoid
+   Adsorbed
+   swelling;
+   Last dose of Antibiotics:
+   Cefazolin - [**2503-11-9**] 07:40 AM
+   Infusions:
+   Esmolol - 50 mcg/Kg/min
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2503-11-8**] 04:00 PM
+   Morphine Sulfate - [**2503-11-8**] 05:03 PM
+   Metoprolol - [**2503-11-8**] 06:00 PM
+   Dextrose 50% - [**2503-11-9**] 03:40 AM
+   Insulin - Regular - [**2503-11-9**] 09:24 AM
+   Other medications:
+   Flowsheet Data as of  [**2503-11-9**] 03:26 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**05**] a.m.
+   HR: 104 (85 - 122) bpm
+   BP: 130/54(80) {96/44(64) - 162/75(106)} mmHg
+   RR: 24 (8 - 30) insp/min
+   SPO2: 90%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 109.4 kg (admission): 97.8 kg
+   Height: 67 Inch
+   CVP: 11 (5 - 15) mmHg
+   PAP: (29 mmHg) / (12 mmHg)
+   CO/CI (Fick): (7.7 L/min) / (3.7 L/min/m2)
+   CO/CI (CCO): (7.6 L/min) / (3.5 L/min/m2)
+   SvO2: 61%
+   Total In:
+                                                                  3,365 mL
+                                                                    780 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  3,365 mL
+                                                                    730 mL
+   Blood products:
+   Total out:
+                                                                    140 mL
+                                                                    130 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,225 mL
+                                                                    650 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 90%
+   ABG: 7.34/39/101/30/-4
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   138 K/uL
+   8.7 g/dL
+   107 mg/dL
+   3.2 mg/dL
+   30 mEq/L
+   3.6 mEq/L
+   13 mg/dL
+   104 mEq/L
+   143 mEq/L
+   27.7 %
+   4.3 K/uL
+        [image002.jpg]
+                            [**2503-11-8**]  07:28 PM
+                            [**2503-11-8**]  07:37 PM
+                            [**2503-11-8**]  11:30 PM
+                            [**2503-11-9**]  12:47 AM
+                            [**2503-11-9**]  02:00 AM
+                            [**2503-11-9**]  02:51 AM
+                            [**2503-11-9**]  03:00 AM
+                            [**2503-11-9**]  04:30 AM
+                            [**2503-11-9**]  06:00 AM
+                            [**2503-11-9**]  01:12 PM
+   WBC
+   4.3
+   Hct
+   29.9
+   28.0
+   27.7
+   Plt
+   138
+   Creatinine
+   7.3
+   3.2
+   TCO2
+   21
+   22
+   Glucose
+   123
+   134
+   91
+   116
+   92
+   97
+   101
+   95
+   107
+   Other labs: PT / PTT / INR:14.5/32.6/1.3, Fibrinogen:501 mg/dL, Lactic
+   Acid:1.3 mmol/L, Ca:7.2 mg/dL, Mg:1.5 mg/dL, PO4:3.2 mg/dL
+   Imaging: CXR: all lines in good position, clear
+   Microbiology: Neg
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), .H/O RENAL FAILURE, CHRONIC
+   (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY DISEASE), ACUTE PAIN,
+   HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA)
+   Assessment and Plan: Pt. doing very well post op.  He had hyperkalemia
+   last PM but did well with HD and his K+ is now 3.7.  Lopressor started
+   and Esmolol d/c'd.  Cont. present care and transfer to the floor.
+   Neurologic:
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: HD, Had HD today.
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: Neg
+   Lines / Tubes / Drains: Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: Nephrology, P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2503-11-8**] 12:55 PM
+   [**First Name4 (NamePattern1) 330**] [**Last Name (NamePattern1) **] - [**2503-11-8**] 12:56 PM
+   PA Catheter - [**2503-11-8**] 12:56 PM
+   Dialysis Catheter - [**2503-11-8**] 12:57 PM
+   16 Gauge - [**2503-11-8**] 01:14 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor

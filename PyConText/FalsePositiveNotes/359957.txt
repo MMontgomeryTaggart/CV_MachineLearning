@@ -1,0 +1,165 @@
+TITLE: Cardiology Physician Note
+   History of Present Illness
+   Date: [**3226-2-1**]
+   Events / History of present illness: Overnight, pt remained on levo for
+   pressure support and still is intubated. She was started on steriods
+   and nebulizers. Cardiac index was calclulated at 2.4.
+   Medications
+   Unchanged
+   Physical Exam
+   BP: 114 / 57 mmHg
+   HR: 71 bpm
+   Tmax C last 24 hours: 37.3 C
+   Tmax F last 24 hours: 99.2 F
+   T current C: 36.9 C
+   T current F: 98.4 F
+   O2 sat: 96 %
+   Previous day:
+   Intake: 1,130 mL
+   Output: 295 mL
+   Fluid balance: 835 mL
+   Today:
+   Intake: 569 mL
+   Output: 180 mL
+   Fluid balance: 389 mL
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: intubated)
+   Neck:  (Jugular veins: Not visible)
+   Back / Musculoskeletal: (Chest wall structure: large area of ecchymoses
+   on chest wall, tenderness parasternally
+   Respiratory:  (Auscultation: WNL
+   Cardiac: (Rhythm: Regular), (Palpation / PMI: WNL), (Auscultation: S1:
+   WNL)
+   Femoral Artery: (Right femoral artery: No bruit), (Left femoral artery:
+   No bruit), left femoral artery with venous catheter and arterial
+   sheath, small amount of bleeding around the area without significant
+   hematoma
+   Ext: no edema, DP 2+ bilaterally, cool extremities, hematoma of the
+   right antecubital fossa.  Marked stable
+   Labs
+   412
+   11.4
+   257
+   1.0
+   17
+   4.5
+   20
+   108
+   135
+   32.7
+   23.6
+        [image002.jpg]
+                            [**3226-1-31**]  07:04 PM
+                            [**3226-1-31**]  07:07 PM
+                            [**3226-1-31**]  09:47 PM
+                            [**3226-1-31**]  10:07 PM
+                            [**3226-1-31**]  11:31 PM
+                            [**3226-2-1**]  12:08 AM
+                            [**3226-2-1**]  12:13 AM
+                            [**3226-2-1**]  03:43 AM
+                            [**3226-2-1**]  04:50 AM
+                            [**3226-2-1**]  04:55 AM
+   WBC
+   27.5
+   23.6
+   Hgb
+   14.1
+   14.1
+   14.1
+   12.0
+   11.4
+   Hct (Serum)
+   33.7
+   32.7
+   Plt
+   480
+   412
+   PTT
+   86.5
+   K + (Serum)
+   4.5
+   CK
+   93
+   O2 sat (mixed venous)
+   53
+   61
+   66
+   67
+   O2 sat (arterial)
+   100
+   98
+   98
+   94
+   ABG: 7.31 / 39 / 83 /  / -6   Values as of [**3226-2-1**] 04:50 AM
+   Assessment and Plan
+ CARDIAC DYSRHYTHMIA OTHER
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+   61 yo F with a history of possible asthma found to have a PEA arrest in
+   outside [**Hospital1 17**].
+   .
+   # PEA arrest: The cause is unclear, given the normal cardiac
+   catheterization, coronary artery disease is unlikely a cause.  However,
+   acute pulmonary edema could have occurred given the elevated LVEDP/PCWP
+   Other potential causes include hypoxia secondary to status asthmaticus,
+   pulmonary embolism.  Thus will treat both currently.  Other potential
+   causes include hypokalemia. Though only 3.5 on admission, this was with
+   significant acidosis and thus total body potassium could be much lower
+   than normal.  Hypothermia unlikely, cardiac tamponade ruled out from
+   echo.  Acidosis present on initial gas, but could be secondary to
+   hypoperfusion as a result of the arrest rather than the cause of it.
+   Hypoglycemia cannot be ruled out as no glucose levels were measured
+   prior to getting dextrose.
+   Thus given the myriad of possibilities, will continue to gather
+   information and treat empirically for acute asthma and PE.
+   Additionally will get CT scan of Chest in AM, trend Cardiac
+   output/index, follow and replete electrolytes
+   - CT chest in AM
+   - heparin gtt
+   - Methylprednisolone/abx empirically
+   - trend lytes
+   .
+   # Hypoxia/ Pulmonary: as above the patient has a history of asthma and
+   was found to have significant improvement in 02 sats and airway
+   pressures after albuterol.  Thus this may be secondary to acute severe
+   asthma exacerbation.  Will treat for now with methylprednisolone at
+   0.5mg/kg x 5 days.  As well, there may be multifocal pneumonia on CXR
+   possibly due to aspiration in the setting of the arrest.  Nonetheless,
+   will treat empirically with antibiotics for both aspiration and
+   community acquired pneumonia.
+   - Azithromycin/zosyn
+   - heparin gtt
+   - methylprednisolone
+   .
+   # CORONARIES:  no significant coronary artery disease
+   .
+   # PUMP:  significant cardiac dysfunction on echo with EF of 20%,
+   elevated PCWP on cardiac catheterization.  Will continue with inotropic
+   support and will continue to follow cardiac indices.  If the patient
+   has clinical signs of hypoperfusion, will consider adding dopamine.
+   Otherwise, will not give additional IVF for now.
+   - repeat echo on Monday
+   - follow PCWP
+   .
+   # RHYTHM:  Continues in sinus with LBBB
+   .
+   #  Leukocytosis: likely secondary to steroids and pneumonia in the
+   setting of acute stress.  Will continue antibiotics, trend
+   .
+   # HCT drop: mild decrease.  Likely secondary to blood loss durin the
+   procedure.  However, may also have RP bleed.  Will evaluate in AM with
+   CT scan if continue to drop
+   .
+   FEN:  hypervolemic, lytes okay, NPO with NGT in plac
+   ACCESS: PIV's, left fem line with PA catheter
+   PROPHYLAXIS:
+   -DVT ppx with heparin gtt, pantoprazole IV while intubated, on steroids
+   and with NGT
+   -Pain managment  and sedation with fentanyl/versed gtt
+   -Bowel regimen
+   CODE: Presumed full
+   DISPO: Cardiology floor service for now
+   -Partner [**First Name4 (NamePattern1) 523**] [**Last Name (NamePattern1) 4866**]- [**Telephone/Fax (1) 4867**] (awaiting okay from family to share
+   info with her)
+   -Sister [**Name (NI) 776**] [**Telephone/Fax (1) 4868**]
+   -Son [**Name (NI) 4869**]

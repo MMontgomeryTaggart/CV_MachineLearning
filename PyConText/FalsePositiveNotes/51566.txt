@@ -1,0 +1,469 @@
+Admission Date:  [**3264-10-2**]              Discharge Date:   [**3264-10-28**]
+
+Date of Birth:  [**3217-11-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2216**]
+Chief Complaint:
+s/p fall
+
+Major Surgical or Invasive Procedure:
+C4-6 corpectomy
+Washout of cervical spine surgical site
+
+
+History of Present Illness:
+46 yo M s/p renal transplant 17 yrs ago and ESRD on HD secondary
+to focal glomerulosclerosis status post deceased donor kidney
+transplantation on [**3247-4-5**] withgraft loss in [**3263-11-2**],
+with multiple placements of HD catheters and recent
+transposition of right upper arm arteriovenous fistula on
+[**3264-10-1**]. He was found on the bathroom floor w/ blood on face
+and in the mouth by family. Per EMS the patinet was
+hypertensive, tachycardiac and intially unresponsive but MS
+improved on way to [**Hospital3 4325**]. On arrival to OSH, his MS
+declined and he had a witnessed seized. He was then intubated
+with vecuronium and loaded with fosphenytoin at that time. BO
+was recorded as high as 220/110. Electrolytes were WNL and TnI
+was positive.
+.
+Per report, episdoe of arrythmnia (?afib) in field, terminated
+w/ diltiazem. Rec'd dilantin. Head CT no bleed at OSH. Neck CT:
+cervical fx, transferred to [**Hospital1 52**].
+.
+Of note urine tox was positive for cocaine and opiates.
+
+
+Past Medical History:
+-Cadaveric Renal Transplant 16 yrs ago on immunosuppressants
+-HTN poorly controlled
+-Anemia on Procrit
+-Chronic Allograft Nephropathy baseline Cr 4.2 ([**3262-12-3**])
+-Admitted last [**Month (only) 193**] to MICU with acute on chronic renal
+failure, coagulase negative staphylococcal bacteremia, community
+
+acquired pneumonia, duodenal ulcers status post thermal
+therapy/injection and pericardial effusion
+No history of seizures.
+
+
+Social History:
+lives with 2 children and mother
+
+
+Family History:
+unknown
+
+Physical Exam:
+Vitals - T:97.9 BP:131/91 HR:99 RR:16
+VENT SETTINGS: AC 600x14 80% PEEP5
+GENERAL: intubated and sedated
+SKIN: palpable thrill in RUE, warm and well perfused, no
+excoriations or lesions, no rashes
+HEENT: AT, dried blood in right nare, small contusion on L
+maxilla, anicteric sclera, pink conjunctiva, no JVD
+CARDIAC: RRR, blowing holosystolic 2/6 SEM @ apex, S1/S2, no mrg
+
+LUNG: CTAB
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+M/S: moving all extremities well, no cyanosis, clubbing or
+edema, no obvious deformities
+PULSES: 2+ DP pulses bilaterally
+NEURO: CN II-XII intact
+
+
+Pertinent Results:
+Admission Labs:
+Ca: 7.0 Mg: 2.9 P: 9.9 D
+LDH: 332
+[**Doctor First Name 323**]: 84
+Lip: 36
+.
+WBC 11.2
+Hct: 40
+Plt: 205
+N:80.7 L:11.4 M:5.7 E:2.0 Bas:0.2
+.
+PT: 14.2  PTT: 28.6  INR: 1.3
+ABG: 7.38/54/204/33 Lactate 1.2
+.
+U/A: opiates and cocaine positive initially.
+.
+136  91  47
+--------------< 117
+5.9  26  10.2
+CRP: 48.3
+ESR: 80
+.
+Trends:
+Hct: 42 - 40 - 34 - 33 - 29 - 30 ([**10-14**])
+CK: [**Telephone/Fax (1) 17685**] - 2960 - 2967 - 1717 - 5493 - 5378 - 1591
+Trop: 0.15 - 0.18 - 0.16
+.
+Imaging:
+[**10-2**] KUB: NG tube in the stomach. No metal is seen in the
+abdomen and pelvis
+.
+[**10-2**] CT Head/Neck:
+1. Compression fractures of C4 and C5 with fracture lines
+extending through the right transverse foramen of C5. Vascular
+injury cannot be excluded at this level.
+2. Grade I retrolisthesis of C4 on C5 with likely ligamentous
+disruption is identified.
+3. Fracture of the posterior-superior facet of C6.
+.
+[**10-2**]: CT Head: No intracranial hemorrhage or edema. No fracture
+.
+[**10-3**]: MRI/MRA head/neck:
+BRAIN:
+IMPRESSION: No evidence of acute infarct. Small vessel disease
+and chronic right-sided lacunar infarct. Soft tissue changes
+right-sided maxillary, frontal, and ethmoid sinuses.
+NECK
+IMPRESSION: The right vertebral artery is small in size which
+could be congenital variation as the vertebral artery is not
+occluded or affected at the site of abnormality seen at C4-5
+level. However, the MRA is limited by motion and for better
+evaluation repeat MRA or CT angiography are recommended.
+MRA OF THE HEAD:
+IMPRESSION: Except for nonvisualization of distal right
+vertebral artery, no other abnormalities are seen.
+.
+[**10-3**]: ECHO:
+IMPRESSION: suboptimal image quality. Mild symmetric left
+ventricular hypertrophy with preserved global and regional
+biventricular systolic function. Dilated ascending aorta. No
+structural cardiac cause of syncope identified.  Compared with
+the prior study (images reviewed) of [**3263-11-15**], the seveirty
+mitral regurgitation is reduced and a resting LVOT gradient is
+no longer identified.
+.
+[**10-4**] MRI thoracic and lumbar spine:
+FINDINGS: There is no evidence to support the presence of either
+discitis or osteomyelitis within either the thoracic or lumbar
+spine.
+The visualized spinal cord, conus medullaris, and cauda equina
+appear within normal limits. Within the limitations of coverage
+of this study, there are no overt paraspinal abnormalities
+discerned, either.
+CONCLUSION: No evidence for discitis or osteomyelitis, or other
+causes for spinal cord compression are seen.
+.
+[**10-4**]: EEG: This is an abnormal portable EEG due to bursts of
+generalized mixed frequency slowing in the setting of a slow,
+disorganized, poorly reactive background with the tracing also
+notable
+for triphasic waves. This constellation of findings is
+consistent with
+a moderate encephalopathy suggesting dysfunction of bilateral
+subcortical or deep midline structures. Medications, metabolic
+disturbance, infections, and anoxia are among the common causes
+of
+encephalopathy. There were no clearly focal or lateralized
+features
+although encephalopathic patterns can sometimes obscure focal
+findings.
+There were no clearly epileptiform features and no
+electrographic
+seizures were noted.
+.
+[**10-5**]: Prevertebral pathology:
+A.  Prevertebral tissue:
+Fibrovascular and adipose tissue with reactive vascular and
+fibroblastic proliferation and mild chronic inflammation.
+B.  C4 vertebral body:
+1.  Fragments of reactive bone.
+2.  Maturing trilineage hematopoiesis.
+3.  No malignancy identified.
+.
+[**10-7**]: CT Sinus:
+There is complete opacification of the right frontal sinus,
+ethmoid air cells, and near complete opacification of the
+sphenoid sinus and the right maxillary sinus. Moderate mucosal
+thickening and retention cysts versus polyps of the left
+maxillary sinus are seen. The OMUs are obstructed bilaterally.
+High- density material is seen within the sphenoid sinus, which
+may represent inspissated secretions versus fungal colonization
+and less likely hemorrhage.
+.
+[**10-7**] CT Chest w contrast:
+1. No central or segmental pulmonary emboli, however,
+subsegmental emboli in the lower lobes cannot be excluded due to
+atelectasis in the lower lobes.
+2. Atelectasis and consolidation at the lung bases as described
+above. Subcentimeter ground-glass opacity in the right middle
+lobe is likely infectious or inflammatory.
+3. Extensive atherosclerosis is present in the coronary arteries
+4. Findings concerning for pulmonary artery hypertension.
+.
+[**10-7**] ECHO:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is normal (LVEF>55%). There
+is a mild resting left ventricular outflow tract obstruction
+(measurement of gradient was technically suboptimal; ?peak of 11
+mmHg). Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) are mildly thickened.
+There is a no significant aortic stenosis (slightly increased
+velocities due to left ventricular outflow gradient). No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is mild functional mitral stenosis (mean
+gradient 4 mmHg) due to mitral annular calcification. Trivial
+mitral regurgitation is seen. [Due to acoustic shadowing, the
+severity of mitral regurgitation may be significantly
+UNDERestimated.] The tricuspid valve leaflets are mildly
+thickened. There is borderline pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+.
+[**10-12**]: LENI: no DVT
+.
+MR CERVICAL SPINE W/O CONTRAST  [**3264-10-22**]
+IMPRESSION:
+
+Anterior and posterior cervical fusion as described above. There
+is fluid within the bone graft and surrounding the bone graft in
+the corpectomy defect extending from C3 to C5 without adjacent
+bone marrow edema which likely represents postoperative change.
+
+There is a large superficial fluid collection dorsal to the
+cervical spine which likely represents a postoperative seroma,
+although an infected fluid collection cannot be excluded.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 720**] is a 46 y.o. M s/p fall with resultant C4-6
+nonsurgical fracture s/p corpectomy now being treated for
+cervical osteomyelitis and pneumonia, s/p recent fever and
+leukocytosis with fluid collection around cervical surgical site
+that had 2+ PML, s/p [**Known patient lastname **] spine washout of cervical lesion.
+.
+#S/P fall: Unclear etiology but felt that it may be that the
+patient had a seizure vs. syncope in the setting of arrythmia.
+Patient was also noticed to have high BPs and suggests
+hypertensive encephalopathy, which could be related to cocaine
+use (pt  had one positive tox screen).   A definitive cause was
+not determined; however these were all treated as below.
+.
+#Seizure: On arrival to OSH, the patients mental status declined
+and he had a witnessed seizure.  He was initially loaded with
+Dilantin.  The possible precipitants included cocaine use and/or
+hypertension. Head imaging was negative. An LP did not show
+evidence of infection. Neurology followed for the seizure and
+dilantin levels and the dilantin was adjusted to goal level of
+[**9-20**].  The patient was continued on maintenance doses of
+dilantin throughout his hospital stay.  No further seizures
+occured.  He was discharged with dilantin for an additional 4
+weeks and instructions to follow up with neurology as an
+outpatient.
+.
+#Osteomyelitis and C4-6 Fracture: Patient sustained C4-6 acute
+fracture, although CT scan suggested ? infection vs fluid
+collection. [**Month/Year (2) **] was consulted who recommended MRI head/neck
+which showed chronic-appearing endplate changes at C4-5 level
+which could be trauma related vs ligament injury vs chronic
+disckitis or spondylarthritis without spinal cord compression.
+MR T/L/S was also performed which showed no evidence for
+discitis or osteomyelitis, or other causes for spinal cord
+compression are seen. [**Month/Year (2) **] spine was following, and on [**3264-10-5**],
+pt underwent C4-C5 corpectomy and reconstruction. In the OR,
+C4-C6 appearance was suspicious for infection/osteomyelitis, and
+prevertebral tissue biopsy, bone biopsy, prevertebral fluid
+culture were obtained.  THe patient was intially started on
+Ceftriaxone and vancomuycin started on the night of [**10-5**]. As
+there was a concern for ?TB per surgery, so consulted ID for abx
+and planted ppd on [**10-6**] which was negative. Pt remained in
+collar and continued prednisone for cervical swelling.  On [**10-6**],
+pt had a temp to 102 and later on [**10-7**] became hypotensive
+requiring a pressor. ABX was broadened to Zosyn and vanc, and
+also stress dose steroid was started given his chronic steroid
+use for renal transplant. Later on [**10-7**], tissue culture grew GP
+bacteria. On [**10-9**] patient went back to OR for posterior fusion.
+Patient was followed by ID and [**Month/Day (4) **] thorughout his stay.  ID
+felt the patient needed 8-12 weeks of Vancomycin to cover the
+osteomyelitis and he will follow up with ID as an outpatient.
+[**Month/Day (4) **] felt the surgery was successful and patient will follow up
+as an outpatient.  However, post-operatively, his incision site
+began to drain some yellowish fluid and he had a low grade
+fever. Blood cultures were obtained and pending at this time.
+Wound culture showed 2+ PML with no organisms.  Orthopedic spine
+felt that the area needed to be washed out.  The patient was
+taken to the OR on Friday, [**10-24**] for cervical spine
+washout.  Samples of the bone, soft tissue, and superficial and
+deep fluid were obtained that showed [**12-4**]+ PML without organisms.
+Cultures negative.  He remained afebrile.  Pt has follow up with
+orthopedic spine ~2 weeks after discharge.
+.
+#Ventilator Associated Pneumonia-Patient had an episode of
+hypontension thought to be due to sepsis from E.Coli VAP and was
+started on pressors as well as Vanc and Zosyn; later changed to
+Cipro for pna coverage. The hypotension resolved and he was
+quickly weaned off pressors. He also was found to have
+pansinusitis on CT. Patient was continued on Cipro for the
+pneumonia to complete a 10 day course.
+.
+#AFib: PT had AF with RVR right before going to OR for spine
+reconstruction as well as when febrile and hypotensive. Although
+he responded with IV beta blocker and diltiazem. On [**10-7**], he had
+a hypotensive episode and amiodarone was started in the setting
+of septic shock picture.  A CTA chest done on [**10-7**] to rule out
+PE in the setting of AF with RVR post-operatively which was
+negative.  Amioradone was loaded and then changed to PO.  This
+was discontinued on [**10-15**] and Lopressor was titrated up. The
+patient was subsequently in sinus rhythem and did not require
+further amiodarone.
+.
+# Melena: On [**10-14**] pt had episode of melena. He had received
+stress dose steroids and motrin intermittently for fevers and
+has a history of PUD. GI was consulted and the patient had an
+EGD which showed antral erosions but no active bleeding. THe
+patient was placed on a PPI which was continued throughout his
+stay and upon d/c.  No further intervention was needed.
+.
+#Renal: Patient is s/p failed transplant with recent revision of
+AV fisula. Transplant team followed the patient while in the
+hospital.  HIs was Cr 10.2 on admission.  He was continued on
+dialysis during his stay.  He was continued on Bactrim
+prophylactically and once the stress dose steroids were
+discontinued as above, he was placed on his home dose of
+Prednisone for the rest of his stay.  He was also started on
+Lanthanum.  He continued dialysis while in the hospital and will
+return to his home schedule on discharge. He will need to remain
+on vancomycin per HD schedule until [**3264-12-15**].
+.
+#Respiratory: Patient was intially intubated on admission for
+airway protection.  He was extubated on [**10-13**] and did well on
+room air.  He was weaned off of nasal canula adn his respiratory
+status remained stable
+.
+#HTN: Patient was hypertensive when he was transferred from the
+ICU to the floor.  His medications were changed from Captopril
+to Lisinopril.  He is Metoprolol wasincreased to 125 mg TID.
+.
+#Hypothyroid: Patient was continued on home Synthroid.
+.
+#Delirium-Patient was agitated while on the floor, most notably
+he tended to sundown in the evening.  In addition, he was not
+oriented  This was initially treated with Haldol.  Psychiatry
+was consulted and felt the delirium was normal given the
+patients long ICU stay.  Patient was continued on Haldol and his
+MS improved over time.
+
+Medications on Admission:
+- metoprolol 50mg TID
+- sulfamethoxazole TMP 1 tab MWF
+- prednisone 10mg QOD
+- lisinopril 20mg QD
+- levothyroxine 75mcg QD
+- diltiazem 90mg QID
+- omeprazole 20mg [**Hospital1 9**]
+- mirtazapine 7.5mg QPM
+- Renagel 800mg TID W/MEALS
+
+
+Discharge Medications:
+1. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO QMWF ().
+2. Levothyroxine 25 mcg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+3. Diltiazem HCl 90 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO twice a day.
+5. Prednisone 10 mg Tablet Sig: One (1) Tablet PO EVERY OTHER
+DAY (Every Other Day).
+6. Outpatient Lab Work
+please draw weekly CBC, chem 7, LFTs, and vanc trough while on
+IV therapy. Please fax results to [**Telephone/Fax (1) 579**]
+7. Lanthanum 500 mg Tablet, Chewable Sig: Two (2) Tablet,
+Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+8. Hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed.
+9. Hydrocortisone 0.5 % Ointment Sig: One (1) Appl Topical TID
+(3 times a day) as needed.
+10. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+DAILY (Daily) as needed.
+11. Metoprolol Tartrate 50 mg Tablet Sig: 2.5 Tablets PO three
+times a day.
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+13. Phenytoin Sodium Extended 100 mg Capsule Sig: Three (3)
+Capsule PO qAM for 4 weeks: last day of therapy [**11-23**].
+14. Phenytoin Sodium Extended 100 mg Capsule Sig: Four (4)
+Capsule PO qPM for 4 weeks: last day of therapy [**11-23**].
+15. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every six (6)
+hours as needed for pain.
+16. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+17. Haloperidol Lactate 5 mg/mL Solution Sig: One (1) injection
+Injection Q4H (every 4 hours) as needed.
+18. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO twice a day.
+19. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+20. Vancomycin 1,000 mg Recon Soln Sig: 1000 (1000) mg
+Intravenous qHD: per HD protocol
+last dose [**3264-12-15**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 194**] Rehabilitation Hospital - [**Location (un) **]
+
+Discharge Diagnosis:
+C4-6 Fracture
+Vertebral Osteomyelitis
+Ventilator Associated Pneumonia
+Seizure Disorder NOS
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted to the hospital after a fall.  It is unclear
+what caused the fall but it is thought that it might be due to a
+seizure or an arrhythmia in your heart. You sustained a fracture
+to your cervical spine which was operated on by orthopedic
+surgery.  You were also found to have an infection of the bone
+at this site. You will need to continue IV antibiotics to
+complete a [**7-13**] week course. Your surgical site started to drain
+some fluid, and you were taken back to surgery by the orthopedic
+surgeons where the fluid was drained out successfully.
+
+You were also treated for a pneumonia.  You complete the
+antibiotics while you were in the hospital.
+
+You were evaluated by neurology and you were started on a
+medicine called Dilantin.  You will need to continue this
+medication for 1 month and follow up with them as an outpatient.
+
+You will need to follow up with neurology, infectious disease
+and your PCP as below.
+
+If you have any fever,chills, pain in your neck, neck stiffness,
+headache, nausea, vomiting, abdominal pain, or any other
+concerning symptoms, please call your PCP or return to the ED.
+
+Followup Instructions:
+Please call to make an appointment with neurology: ([**Telephone/Fax (1) 17686**]
+
+Please follow up with infectious disease:Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 3666**],
+MD Phone:[**Telephone/Fax (1) 579**] Date/Time:[**3264-11-17**] 11:00
+
+Please follow up with [**Month/Day/Year **] spine: Provider: [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 993**] on
+[**3264-11-5**]. Please arrive at 11:40 for your 12PM appointment
+Provider: [**Name10 (NameIs) 1371**] XRAY (SCC 2) Phone:[**Telephone/Fax (1) 361**]
+Date/Time:[**3264-11-5**] 11:40
+Provider: [**First Name8 (NamePattern2) 716**] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 361**]
+Date/Time:[**3264-11-5**] 12:00
+
+
+

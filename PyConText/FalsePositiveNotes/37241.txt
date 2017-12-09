@@ -1,0 +1,300 @@
+Admission Date:  [**2674-1-11**]              Discharge Date:   [**2674-1-14**]
+
+Date of Birth:  [**2619-10-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 7148**]
+Chief Complaint:
+complete heart block
+
+Major Surgical or Invasive Procedure:
+Transesophageal echocardiography
+Left sided permanent pacemaker placement
+
+
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 54 yo M with bicuspid aortic valve presents with
+pre-syncope and found to be in complete heart block.  The
+patient was in his normal state of health until 2 days PTA when
+he felt fatigued and weak.  Today he had 2 episodes of
+pre-syncope and a few seconds of syncope today while walking his
+dog.  He felt like he was going to fall and had to go to his
+knees.  He took 2 full dose ASA at home and presented to [**Location (un) **]
+and was found to be in complete heart block with 5-7s pauses.
+He was given 2g calcium transferred to [**Hospital1 22**] for further
+management.
+
+In the ED: 98.6 93 181/101 18 100%RA.  His ECG showed complete
+heart block with 3-4s pauses. A RIJ was placed and as well as a
+temporary pacer. CXR showed no PTX and was pacing at 50's.
+
+On the floor the patient is doing well. He denied any CP,
+palpitations, light-headedness, dizziness, SOB or other
+symptoms.  The patient reports that 6 months prior he noticed a
+tick on his skin after walking his dog. He did not have a rash
+or fevers associated with the bite.
+
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. he denies recent fevers, chills or rigors.
+he denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+1. CARDIAC RISK
+FACTORS:(-)Diabetes,(-)Dyslipidemia,(-)Hypertension
+2. CARDIAC HISTORY:
+Bicusid Aortic Valve
+3. OTHER PAST MEDICAL HISTORY:
+h/o retinal detachment and multiple eye surgeries
+
+Social History:
+Self-employed as an engineer. He lives with his wife and
+children.
+-Tobacco history: denied
+-ETOH: 1 beer/wk
+-Illicit drugs: denied
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+VS: T=99.5...BP=126/71...HR=49...RR=17...O2 sat=97% RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of flat cm. RIJ cordis in place
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. III/VI SEM with radiation to the
+carotids No r/g. No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+ADMISSION LABS [**2674-1-11**]:
+[**2674-1-11**] 05:50PM WBC-11.7* Hgb-13.8* Hct-38.7* Plt Ct-235
+[**2674-1-11**] 05:50PM Neuts-83.7* Lymphs-12.4* Monos-3.1 Eos-0.5
+Baso-0.3
+[**2674-1-11**] 05:50PM PT-12.6 PTT-25.0 INR(PT)-1.1
+[**2674-1-11**] 05:50PM Glucose-115* UreaN-19 Creat-1.2 Na-144 K-3.8
+Cl-110* HCO3-24 AnGap-14
+[**2674-1-11**] 05:50PM CK(CPK)-188*
+[**2674-1-11**] 05:50PM CK-MB-3 cTropnT-<0.01
+[**2674-1-11**] 05:50PM Calcium-9.6 Phos-2.2* Mg-2.1
+
+OTHER PERTINENT LABS:
+[**2674-1-12**] 05:51AM ESR-14
+[**2674-1-12**] 05:51AM TSH-3.1
+[**2674-1-12**] 05:51AM CRP-0.9
+[**2674-1-11**] 05:50PM CK(CPK)-188*
+[**2674-1-12**] 05:51AM CK(CPK)-177*
+[**2674-1-11**] 05:50PM CK-MB-3 cTropnT-<0.01
+[**2674-1-12**] 05:51AM CK-MB-3 cTropnT-0.03*
+
+MICRO:
+[**2674-1-11**] Lyme: negative
+[**2674-1-12**] Lyme: pending
+12/13-15/09 BCx: pending
+
+STUDIES:
+[**2674-1-11**] EKG
+Sinus rhythm with paroxysmal complete heart block. Right
+bundle-branch block. No previous tracing available for
+comparison
+
+[**2674-1-11**] EKG
+Baseline artifact is present. Sinus rhythm with paroxysmal
+complete heart
+block and demand ventricular pacing. Right bundle-branch block.
+Compared to the previous tracing demand ventricular pacing is
+new
+
+[**2674-1-11**] CXR
+No acute cardiopulmonary process
+
+[**2674-1-12**] TTE
+The left atrium is mildly dilated. Left ventricular wall
+thickness, cavity size and regional/global systolic function are
+normal (LVEF >55%). The estimated cardiac index is normal
+(>=2.5L/min/m2). Right ventricular chamber size and free wall
+motion are normal. The aortic root is mildly dilated at the
+sinus level. The aortic arch is mildly dilated. There are focal
+calcifications in the aortic arch. The aortic valve is bicuspid
+with mildly thickened leaflets that display systolic doming.
+There is moderate aortic valve stenosis (valve area 1.1cm2). An
+eccentric jet of mild to moderate ([**1-31**]+) aortic regurgitation is
+seen, directed toward the anterior mitral leaflet. The mitral
+valve appears structurally normal with trivial mitral
+regurgitation. There is no mitral valve prolapse. The estimated
+pulmonary artery systolic pressure is normal. There is no
+pericardial effusion.
+
+IMPRESSION: Bicuspid aortic valve with thickened leaflets and
+moderate aortic stenosis/mild-moderate aortic regurgitation. No
+discrete vegetation seen (does not exclude). Normal
+biventricular cavity sizes with preserved global and regional
+biventricular systolic function.
+If clinically indicated, a TEE would be better able to define
+the aortic valve for possible vegetations
+
+[**2674-1-12**] TEE
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. No atrial septal defect is seen
+by 2D or color Doppler. Overall left ventricular systolic
+function is normal. Right ventricular chamber size and free wall
+motion are normal. The aortic valve is bicuspid with moderately
+thickened leaflets that display systolic doming. No masses or
+vegetations are seen on the aortic valve. Significant aortic
+stenosis is present (not quantified). Mild to moderate ([**1-31**]+)
+aortic regurgitation is seen directed towards the anterior
+mitral leaflet.. The mitral valve appears structurally normal
+with trivial mitral regurgitation. There is no mitral valve
+prolapse. No mass or vegetation is seen on the mitral valve. No
+vegetation/mass is seen on the pulmonic valve. There is no
+pericardial effusion.
+
+IMPRESSION: Bicuspid aortic valve with thickened leaflets but
+without discrete vegetation. Mild-to-moderate aortic
+regurgitation. Significant aortic stenosis.
+
+[**2674-1-12**] EKG
+Sinus rhythm. Paroxysmal complete heart block. Right
+bundle-branch block.
+Compared to the previous tracing pacing is no longer evident
+
+DISCHARGE LABS:
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] is a 54 yo M with bicuspid aortic valve presents with
+pre-syncope and found to be in complete heart block.
+
+1. RHYTHM: Pt was found to be in complete heart block with 3-7s
+pauses. Acute onset and unclear cause. Patient no history of
+ischemia or MI. Possible AS with calcification leading to
+conduction disorder, lyme, abscess are other possibilities.  The
+patient was started empirically on doxycycline for treatment of
+lymes carditis but this was discontinued prior to discharge,
+when lymes titer returned negative.  A temp wire was
+successfully placed and intracardiac electrocardiogram showed
+infranodal block. The patient had TTE and TEE, which showed
+bicuspid aortic valve with thickened leaflets but without
+discrete vegetation, mild-to-moderate aortic regurgitation, and
+significant aortic stenosis. The patient had persistent paced VT
+overnight on [**1-12**] - the pacing wire was adjusted, and the
+patient had no further episodes of VT. A permanent pacemaker was
+placed on his left side on [**2674-1-13**]. He was given a dose of Vanc
+after the procedure, and will need to take Clindamycin for 2
+days.  he will follow up in the device clinic for wound check in
+1 week and with EP in approximately 6 weeks.
+
+2. CORONARIES: No evidence of ischemia. Cardiac enzymes negative
+x2. Pt was started on ASA 325mg PO daily.  Recommeded to take
+ASA 81 mg daily for primary prevention based on cardiac risk
+factors following discharge.
+
+3. Bicuspid AS: Pt reports he has bicuspid AS. + murmur on exam.
+No CHF or CP. Syncopal episode most likely from complete heart
+block rather then AS. TTE and TEE both noted AS with mild to
+moderate AR.  Will likely need to have AVR in future.  Of note,
+the patient should receive prophylaxis for endocarditis prior to
+any invasive procedures.
+
+4. PUMP: Euvolemic on exam. EF 60-65% on ECHO.
+
+5. Leukocytosis: WBC 11.7 on admission, afebrile and no
+localizing symptoms; likely acute stress response. CXR with no
+consolidation. No bandemia on diff. Pt remained afebrile during
+hospitalization.
+
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain.
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO every six (6) hours as needed for pain.
+Disp:*28 Tablet(s)* Refills:*0*
+3. Clindamycin HCl 150 mg Capsule Sig: Two (2) Capsule PO Q6H
+(every 6 hours) for 2 days.
+Disp:*12 Capsule(s)* Refills:*0*
+4. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis
+Complete heart block
+
+Secondary Diagnosis
+Bicuspid aortic stenosis
+
+
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+
+Discharge Instructions:
+Dear Mr. [**Known patient lastname **],
+
+You were admitted to the hospital with feelings of fainting. You
+were found to have an abnormal heart rhythm. You had a temporary
+pacing wire placed until you were able to have a permanent
+pacemaker placed in your chest.
+
+The following changes were made to your medications:
+1. Take Clindamycin every 6 hours for 2 days
+2. Take Percocet every 6 hours as needed for pain.  Please do
+not drink or drive with this medication as it can make you
+drowsy.
+3. Take a baby aspirin daily to help prevent against future
+cardiovascular events
+
+Please keep the left side of your chest dry for 7 days.
+Limit your arm movement at the left shoulder joint. No heavy
+lifting for the next 6 weeks.
+
+Please call your physician or go to the emeergency room if you
+develop shortness of breath, dizziness/ faintness, chest
+discomfort, fever, redness at the site of your pacemaker or any
+other concerning symptom.
+
+Followup Instructions:
+Please follow up with your electrophysiologist/cardiologist to
+ensure that your new pacemaker is working properly and to check
+your wound:
+Provider:  [**Name10 (NameIs) 127**] CLINIC
+Phone:[**Telephone/Fax (1) 854**]
+Date/Time:[**2674-1-21**] 11:00
+
+Please follow up with Dr. [**Last Name (STitle) **] (Heart Ryhthm Specialist) on
+[**2674-2-27**] at 1:00pm ([**Telephone/Fax (1) 1544**]
+
+
+

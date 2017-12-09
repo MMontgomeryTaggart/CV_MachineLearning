@@ -26,3 +26,25 @@ octreotide: 1.919
 prbcs: 1.906
 hematuria: 1.628
 units units: 1.626
+
+With Classes Inverted:
+bleed: 9.062
+gi: 6.311
+gi bleed: 5.913
+egd: 3.540
+gib: 3.328
+hematoma: 2.952
+gastrointestinal bleed: 2.774
+hemorrhage: 2.738
+subdural: 2.495
+bleed gib: 2.422
+gi bleed gib: 2.422
+ffp: 2.347
+bleed gi bleed: 2.106
+gastrointestinal bleed gi: 2.106
+bleed gi: 2.067
+units units units: 2.032
+octreotide: 1.919
+prbcs: 1.906
+hematuria: 1.628
+units units: 1.626

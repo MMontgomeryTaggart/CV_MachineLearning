@@ -1,0 +1,194 @@
+Chief Complaint:
+   24 Hour Events:
+   -no overnight events
+   S: Cough improved, breathing better. No CP, palp, SOB.
+   Allergies:
+   Codeine
+   Nausea/Vomiting
+   Vasotec (Oral) (Enalapril Maleate)
+   Cough; Rash; mu
+   Cortisporin (Otic) (Neomy Sulf/Polymyx B Sulf/Hc)
+   Rash;
+   Ciloxan (Ophthalmic) (Ciprofloxacin Hcl)
+   Unknown;
+   Atenolol
+   Unknown;
+   Last dose of Antibiotics:
+   Azithromycin - [**3184-4-10**] 09:00 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3184-4-12**] 12:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3184-4-13**] 05:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.1
+C (97
+   HR: 63 (60 - 87) bpm
+   BP: 112/94(98) {111/34(56) - 154/94(124)} mmHg
+   RR: 33 (13 - 33) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 96.5 kg (admission): 96.7 kg
+                  Total In:
+                                                                    800 mL
+                  PO:
+                                                                    800 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  2,230 mL
+                                                                    410 mL
+   Urine:
+                                                                  2,230 mL
+                                                                    410 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,430 mL
+                                                                   -410 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///29/
+   Physical Examination
+   Gen: Awake and alert
+   HEENT: MMM
+   Neck: L IJ. JVP at 10 cm.
+   CV: RRR no m/r/g
+   Pulm: Bases with diminished BS and crackles
+   Abd: NABS, S/NT/ND.
+   Ext: Pneumoboots in place. 2+ radial pulses, 1+ DP pulses, trace ankle
+   and thigh edema bilaterally
+   Labs / Radiology
+   325 K/uL
+   8.8 g/dL
+   176 mg/dL
+   2.2 mg/dL
+   30 mEq/L
+   4.3 mEq/L
+   58 mg/dL
+   99 mEq/L
+   138 mEq/L
+   26.3 %
+   9.9 K/uL
+        [image002.jpg]
+                             [**3184-4-10**]  05:15 PM
+                             [**3184-4-11**]  12:00 AM
+                             [**3184-4-11**]  12:43 AM
+                             [**3184-4-11**]  05:57 AM
+                             [**3184-4-11**]  06:08 AM
+                             [**3184-4-11**]  11:47 AM
+                             [**3184-4-11**]  12:08 PM
+                             [**3184-4-12**]  04:15 AM
+                             [**3184-4-12**]  04:22 AM
+                             [**3184-4-12**]  02:45 PM
+   WBC
+   15.0
+   10.1
+   Hct
+   23.1
+   24.0
+   25.3
+   24.6
+   Plt
+   277
+   281
+   Cr
+   2.4
+   2.1
+   2.0
+   2.3
+   2.5
+   TCO2
+   30
+   34
+   28
+   31
+   32
+   Glucose
+   120
+   177
+   119
+   173
+   178
+   Other labs: PT / PTT / INR:13.0/24.3/1.1, ALT / AST:19/43, Alk Phos / T
+   Bili:108/0.5, Differential-Neuts:92.2 %, Band:8.0 %, Lymph:4.0 %,
+   Mono:3.6 %, Eos:0.2 %, Lactic Acid:1.2 mmol/L, Albumin:3.1 g/dL,
+   LDH:259 IU/L, Ca++:8.8 mg/dL, Mg++:2.3 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   85 year old woman with history of CAD s/p prior PCI, PVD, DM2
+   presenting unstable angina and evidence of decompensated heart failure,
+   s/p BMS x 2 to prox RCA.  Transferred to the CCU for ongoing CP/SOB and
+   contrast nephropathy leading to anuria now with improved renal function
+   and CHF
+   .
+   # Contrast Nephropathy: UOP continues to improve, cr also improved
+   today (baseline ~1.6)
+   - Consider removing L IJ CVVH line
+   - Continue lasix with 40mg IV today and follow I/O, pm lytes
+   - Appreciate renal recs
+   .
+   # Acute diastolic CHF exacerbation:  Volume overload leading to heart
+   failure, improving with decreased O2 req.
+   - Continue metoprolol
+   - Continue lasix with goal 1-1.5 L negative
+   - Will restart diovan once renal function has stabilized
+   - Wean O2 as tolerated by SpO2 over 92.
+   .
+   # CAD/unstable angina:  Patient during cath found to have prox RCA
+   disase, s/p BMS x 2.  Patient's typical anginal pain was occuring at
+   rest and had ST depressions in V4-6.  Currently chest pain free.
+   - aspirin/statin/plavix
+   - hold [**Last Name (un) 281**] given large dye load in cath lab
+   - Continue metoprolol
+   .
+   #Pulmonary Infiltates ?Multifocal pneumonia vs. DAH vs. aspiration
+   - Appreciate pulm c/s
+   - Steroids tapered off
+   - On azithro day [**6-12**] for possible atypical infection
+   .
+   # Bleeding / Anemia
+ Hct stable
+   - Trend daily and transfuse <21 or active dropping
+   .
+   # Rhythm: currently sinus rhythm, has had PAF
+   - tele monitoring
+   .
+   # Diabetes mellitus: controlled per recent A1c with use of oral meds +
+   insulin.  Received 22 units HISS yesterday.
+   - Increase glargine to 20 units and observe QID FS for improvement now
+   off steroids
+   .
+   # FEN: diabetic, low salt, Kosher.
+   .
+   # ACCESS: PICC, L IJ
+   .
+   # PROPHYLAXIS: pneumoboots, bowel regimen, PPI
+   .
+   # DISPO: call out to floor today
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3184-4-8**] 09:00 PM
+   Arterial Line - [**3184-4-9**] 05:00 PM
+   PICC Line - [**3184-4-11**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP:  NA
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: as above

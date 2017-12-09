@@ -1,0 +1,141 @@
+TITLE: CCU Progress Note
+   Chief Complaint:
+   24 Hour Events:
+   - No overnight events
+   - Comfortable on room air.
+   - Requesting to go home
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2730-3-20**] 07:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.8
+C (98.2
+   HR: 75 (75 - 93) bpm
+   BP: 96/46(58) {84/44(55) - 103/58(69)} mmHg
+   RR: 22 (17 - 34) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    530 mL
+                                                                    295 mL
+   Urine:
+                                                                    530 mL
+                                                                    295 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -530 mL
+                                                                   -295 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///31/
+   Physical Examination
+   Gen: WDWN elderly male in NAD, appears younger than stated age.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+   pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+   Neck: Supple with JVP elevated to earlobe
+   CV: RR, 3/6 systolic murmur LUSB raditaing to carotids. No thrills,
+   lifts. No S3 or S4.
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+   were unlabored, no accessory muscle use. Crackles to halfway B/L.
+   Speaking in full sentences.
+   Abd: Soft, NTND. No HSM or tenderness.
+   Ext: 2 pitting edema B/L.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   .
+   Pulses:
+   Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+   Labs / Radiology
+   1.3 mg/dL
+   31 mEq/L
+   3.9 mEq/L
+   34 mg/dL
+   100 mEq/L
+   139 mEq/L
+        [image002.jpg]
+                             [**2730-3-19**]  10:33 PM
+   Cr
+   1.3
+   TropT
+   0.02
+   Other labs: CK / CKMB / Troponin-T:31//0.02, Mg++:2.0 mg/dL
+   Assessment and Plan
+   The patient is a [**Age over 90 **] year-old male with a PMH of CAD, moderate AS, and
+   COPD admitted with acute onset dyspnea.
+   .
+   #. Dyspnea - The patient presents with acute onset dyspnea, similar to
+   prior admissions, differential diagnosis includes acute diastolic CHF
+   vs COPD exacerbation. Patients symptoms most likely secondary to CHF
+   exacerbation given evidence of volume overload on exam and CXR. BNP
+   elevated though decreased from prior. The patient has no evidence of CE
+   elevation or new ischemic ECG changes. He likley has episodes of
+   transient ischemia leading to acute-on-chronic diastolic dysfunction
+   and pulmonary edema as described prior. The patient also reports brief
+   feeling of "chest spasm" relieved with neb in ED, suggests possible
+   component of reactive airway disease. No wheezing on exam currently.
+   - Trend CE, negative x2 so far
+   - Continue lasix IV, goal 1L negative
+   - Continue lisinopril and metoprolol
+   - Continue nebs PRN
+   - Hold on further abx/steroids for now
+   .
+   #. Coronary Artery Disease - s/p BMS to OM2, D1, Left circumflex in
+   [**2728-11-26**] for unstable angina - pt has declined further attempts at
+   revascularization. No current acute ischemic changes on ECG
+   - Trend CE, negative x2 so far
+   - Continue ASA, metoprolol and lisinopril
+   - Goal HCT ~30 given history of ischemia
+   .
+   #. Moderate Aortic Stenosis - careful diuresis given increased preload
+   dependence
+   - BB and ACE-I as above
+   .
+   # Gout: On allopurinol. Started cholchicine at home dose
+   #. COPD - continued home Ipratropium in neb form Q6H standing,
+   scheduled for outpatient PFTs
+   .
+   #. Chronic GI Bleeds - Pt has had GIB in past on plavix, monitor HCT
+   .
+   #. FEN - cardiac diet, replete lytes PRN
+   .
+   #. Access:  PIV
+   .
+   #. PPx:  heparin SC
+   .
+   #. Code:  FULL
+   .
+   #. Dispo:  Home v floor today
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2730-3-19**] 06:50 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

@@ -1,0 +1,132 @@
+TITLE: Sub-Intern (4^th year medical student) Admission Note
+   CHIEF COMPLAINT: transfer from OSH for chest pain
+   HISTORY OF PRESENT ILLNESS:
+   The patient is a 48 y/o M Bulgarian with h/o dyslipidemia, possible DM,
+   who was admitted to the CCU for further management of NSTEMI. The
+   patient and his wife state that last evening at 9:30PM he was at the
+   gym on the elliptical machine when he started to feel severe 9.5/10
+   chest pain radiating to both shoulders without nausea or sweating. He
+   was taken by ambulance to [**Hospital3 7317**] Hospital where an EKG
+   showed [**Street Address(2) 3911**] elevation in aVR and 2-4 mm ST segment depressions in
+   V3-V5. Initial biomarkers were normal, but subsequently returned this
+   am with CK 443, MB 62, TnI 2.10. He was unresponsive to nitroglycerin
+   and morphine, and continued to have 3/10 chest pain throughout the
+   night.  This morning he was given plavix 600 mg [**Last Name (LF) 4**], [**First Name3 (LF) **], heparin, iv
+   NTG, and Integrilin and transferred to [**Hospital1 17**] via helicopter for
+   emergent cardiac cath which showed 100% occlusion of proximal LAD with
+   thrombus. He underwent thrombectomy and Cypher stent placement which
+   resulted in decent flow through LAD but poor flow through D1. He also
+   had elevated filling pressures (RVEDP 24 mm Hg and PCWP mean 30), and
+   low cardiac outcome (CI of 1.8). An echocardiogram showed severe
+   wall-motion abnormality in the anterior wall distal [**3-3**] to apex (EF
+   ~30%). Patient was then [**Last Name (un) 2089**] to the CCU and is now lying in bed flat
+   without chest pain.
+   Of note, in [**2575-12-29**] the patient had a stress ECG that showed no
+   ST changes during exercise, stress echo with normal left ventricular
+   wall motion; a resting echo showed EF of 55%. His first episode of
+   similar chest pain occured at rest in [**2569**] and he has been having chest
+   pain at rest for the past couple of months. He also used to take
+   medication for cholesterol but stopped because of discomfort and
+heaviness in my liver.
+   PAST MEDICAL HISTORY:
+   Dyslipidemia
+Pre-diabetes
+   GERD
+ two years
+   Gout
+   Prostatitis
+   Recurrent UTIs
+   PAST SURGICAL HISTORY:
+   s/p hernia repair
+   s/p repair of congenitally twisted leg/foot
+   MEDICATIONS:
+   Bactrim [**Hospital1 7**]
+ for prostatitis and recurrent UTIs
+   Omeprazole 20mg for GERD
+   Flomax QHS
+   Indomethacin 50mg PRN for gout
+   ALLERGIES:
+   None
+   SOCIAL HISTORY:
+   Has a 30 pack-year smoking history, occasional EtOH (1-2 times per
+   week), no illicit drugs. Diet consists of a lot of fish and rare meat.
+   Married and lives with wife in [**Name (NI) 291**]. Has one son. [**Name (NI) 3687**] as a
+   computer modeller.  His PCP is at [**Name9 (PRE) 3574**].
+   FAMILY HISTORY:
+   Mother is alive but has some heart problems, HTN, and DM. Father died
+   [**3-2**] [**Name2 (NI) 112**] CA, did not have any heart disease.
+   REVIEW OF SYSTEMS:
+   Endorses some back pain, a little cough, burning on urination but no
+   hematuria, and right knee pain/gout pain. Otherwise denied any HA,
+   runny nose, sore throat, chest pain, SOB, palpitations, abdominal pain,
+   n/v/d/c, bloody stools, numbness and tingling.
+   PHYSICAL EXAMINATION:
+   VS: HR 90, BP 96/65, RR 20, SpO2 92%
+   Gen: pleasant middle-aged man lying comfortable in bed in nad
+   HEENT: eomi, perrl
+   Heart: regular rate and rhythm, normal s1/s2, no m/r/g
+   Pulm: ctab, no wheezing or crackles
+   Abd: soft, nt/nd, no masses
+   Extremities: 1+ edema, peripheral pulses 2+
+   LABS:
+   Chemistries: 139/4.2/102/27/12/1.3/103/9.0/2.0/4.1
+   CBC: 12.5/36.5/273
+   Coags: 13.5/37.6/1.2
+   Liver: 96/512/0.4/54
+   LDH: 769
+   CK: 4867
+   CK-MB: >500
+   TropnT: 10.33
+   HbA1C: 5.8
+   Cholesterol: pending
+   ASSESSMENT AND PLAN:
+   The patient is a 48 y/o M Bulgarian with h/o dyslipidemia, possible DM,
+   who was admitted to the CCU for further management of NSTEMI that
+   occurred in the context of exertion. He was found to have severe
+   occlusion of the LAD that most likely resulted in infarction of the
+   myocardium and diastolic dysfunction, resulting in elevated filling
+   pressures, decreased cardiac outcome, severe anterior wall motion
+   abnormality, and EF of 30%. At this point the goal is to (1) prevent
+   further infarction of myocardium with anticoagulation and by minimizing
+   stress to the heart; (2) preserve cardiac function by minimize
+   remodeling of his heart; (3) and control potential symptoms of heart
+   failure (i.e. sob).
+   # CV: The patient had an NSTEMI. In order to minimize the chance of
+   further myocardial damage, we will administed the following:
+   - [**Name2 (NI) **], plavix daily to decrease platelet response and risk of further
+   clot.
+   - Integrillin x24-48 h due to recent PCI.
+   - Low-dose beta-blocker with goal HR 60s to decrease work-load on
+   heart. Watch SBP to prevent hypotension.
+   - Low-dose ace-inhibitor to decrease remodelling of heart and hopefully
+   improve long-term outcome
+   - High dose statin to decrease his dyslipidemia. He will need a fasting
+   lipid panel to more formally evaluate his cholesterol.
+   - Heparin IV, no boluses, to decrease the function of anti-thrombin and
+   decrease his risk of further clot
+   - Cycle CKs to look for resolution of his MI.
+   # PULM: No issues. He is sating well on nasal canula.
+   # GI: The patient has a history of GERD. Continue his PPI and
+   administer [**Name2 (NI) **] with food. Patient can start a house diet once he is
+   sitting up.
+   # GU: He has a history of recurrent UTIs and prostatitis. We will
+   continue him on his home meds of Bactrim [**Hospital1 7**].
+   # MSK: Patient has history of gout. Although currently he does not have
+   an acute attack, if symptoms return may consider starting indomethacin
+   PRN.
+   # ENDO: His fasting glucose was normal at 103 and HbA1C at 5.8, despite
+   not taking any anti-diabtetes medications. He most likely does not have
+   diabetes at this time and will not need insulin sliding scale during
+   his stay.
+   # NEURO: The patient has no evidence of any peripheral or central
+   nervous system dysfunction. Due to decreased heart wall motion, we may
+   become concerned for embolic stroke if his mental status changes
+   acutely.
+   # ACCESS: He currently has [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] in his groin (due to recent cardiac
+   cath). We will need to watch daily for bleeding (due to
+   anti-coagulation) and for infection (watch white count and
+   temperature). This line is currently being used but can be DC
+d if it
+   becomes problem, peripheral Ivs can be inserted instead.
+   # CODE: Full
+   # DISPO: Will consider the floor in a few days if he remains stable.

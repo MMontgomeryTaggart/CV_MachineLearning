@@ -1,0 +1,433 @@
+Admission Date:  [**3102-4-23**]              Discharge Date:   [**3102-4-26**]
+
+Date of Birth:  [**3052-11-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1489**]
+Chief Complaint:
+CHIEF COMPLAINT:  chest pain
+REASON FOR CCU ADMISSION: STEMI
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterizaztion [**3102-4-23**]
+
+
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 49y/o gentleman with HTN, HLD, hiatal
+hernia/GERD and gout who presented to the ED with chest pain and
+is admitted to the CCU s/p cardiac catheterization after being
+found to have a STEMI.
+.
+He is a software programmer and is not very active at baseline,
+though he walks at work and says he can climb 5 flights of
+stairs without ever having chest pain but might have mild
+shortness of breath.  He has a hiatal hernia & GERD which causes
+frequent heartburn.
+.
+He was in this usual state of health until 2 days ago when he
+felt the gradual onset of heartburn/reflux, not associated with
+exertion or with food.  It was persistent and he was surprised
+that it was not relieved with his PPI or by chewing gum as his
+usual heartburn is; the pain kept him awake that night.  Then
+yesterday around dinnertime the discomfort changed and he began
+experiencing dull substernal chest pain that was worse with
+breathing, causing a feeling of shortness of breath because he
+has been trying to take very shallow breaths.  The pain only
+came on with breathing, and with deep breaths extended to
+include his [**Last Name (un) 23262**]/jaw/shoulders.  No diaphoresis.  The discomfort
+seemed to be worse when lying down so he slept in a chair.  When
+the pain was still there in the morning he decided to come to
+the ED.
+.
+In the ED, initial vitals were T97.8, HR 88, BP 131/98, RR 16,
+POx  97% RA.  EKG showed I + aVL, as well as V2-V6, and Q waves
+in II, III, aVF and V3-V6.  Labs were notable for troponin 2.53,
+Cr 1.2, WBC 23.3.  He received ASA 325mg, Plavix 600mg,
+Metoprolol 15mg IV, received a Heparin bolus, and was started on
+an Integrillin drip.  Due to evidence of anterior STEMI, he was
+taken to the cath lab.  Was found to have LAD with diffuse
+proximal and mid irregularities, distal totally occluded; no
+collaterals.  No intervention was pursued.
+.
+On arrival to the floor, patient feels fine but does have [**6-1**]
+chest pain with inspiration, exactly the same as last night and
+this morning.  The pain was not present during the procedure
+today but is there now.  Otherwise feels fine.
+.
+REVIEW OF SYSTEMS
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is pertinent for intermittent ankle
+swelling (which he says started after starting Norvasc, and
+happens at the end of the day).  No dyspnea on exertion,
+paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope
+or presyncope.
+
+Past Medical History:
+HTN
+HLD
+gout (resolved after stopping diuretics)
+s/p L4-L5 discectomy [**3077**]
+S1 radiculopathy
+
+Social History:
+-Home: Lives alone, has no family in the area.  Close with his
+brother, who does not live here.  Friends are his main support.
+-Occupation: Software programmer.
+-Tobacco history:  Never.
+-ETOH:  No history of heavy use, and now no EtOH due to reflux.
+-Illicit drugs:  Never.
+
+Family History:
+Paternal GF died of MI, paternal uncle died of MI in his 50's.
+Brother had an MI last year at age 50.
+No family history of arrhythmia, cardiomyopathies, or sudden
+cardiac death; otherwise non-contributory.
+
+Physical Exam:
+ADMISSION EXAM
+VS: T 99.5, HR 84, BP 141/97, RR 30, POx 92% 2L NC
+GENERAL: overweight gentleman in NAD, lying in bed with 2
+pillows, breathing comfortably, alert & oriented x3
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with no JVD.
+CARDIAC: PMI non-displaced, S1 and S2, no murmur, no rub, no
+chest wall tenderness
+LUNGS: CTA throughout all fields bilaterally
+ABDOMEN: obese, nondistended, no masses
+EXTREMITIES: no edema
+SKIN: no stasis dermatitis, ulcers, scars, or xanthomas
+PULSES:
+Right: Carotid 2+ DP 2+ PT 2+
+Left: Carotid 2+ DP 2+ PT 2+
+
+DISCHARGE EXAM
+GENERAL: 49 yo male in no acute distress
+HEENT: PERRLA, no pharyngeal erythemia, mucous membs moist, no
+lymphadenopathy, JVP non elevated
+CHEST: CTABL no wheezes, no rales, no rhonchi
+CV: S1 S2 Normal in quality and intensity RRR no murmurs rubs or
+gallops
+ABD: soft, non-tender, non-distended, BS normoactive. no
+rebound/guarding, neg HSM. neg [**Doctor Last Name 150**] sign.
+EXT: Right radial cath approach, soft, no bleeding/ hematoma/
+ecchymosis noted. 2+ radial and ulnar pulses, + CSM right hand.
+No pedal edema, 2+ DP/PTs.
+NEURO: CNs II-XII intact. 5/5 strength in U/L extremities. DTRs
+2+ BL (biceps, achilles, patellar). sensation intact to LT,
+pain, temperature, vibration, proprioception. cerebellar fxn
+intact (FTN, HTS). gait normal.
+SKIN: no rash, skin intact
+PSYCH:  appropriate
+
+Pertinent Results:
+ADMISSION LABS:
+[**3102-4-23**] 11:50AM BLOOD WBC-23.3*# RBC-5.17 Hgb-15.5 Hct-44.5
+MCV-86 MCH-29.9 MCHC-34.8 RDW-12.9 Plt Ct-311
+[**3102-4-23**] 11:50AM BLOOD Neuts-87* Bands-0 Lymphs-5* Monos-8 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**3102-4-23**] 11:50AM BLOOD Glucose-119* UreaN-15 Creat-1.2 Na-140
+K-3.5 Cl-94* HCO3-32 AnGap-18
+
+CARDIAC ENZYME TREND:
+[**3102-4-23**] 11:50AM BLOOD CK-MB-66* MB Indx-3.2
+[**3102-4-23**] 11:50AM BLOOD cTropnT-2.53*
+[**3102-4-23**] 11:50AM BLOOD CK(CPK)-[**3137**]*
+[**3102-4-23**] 09:57PM BLOOD CK-MB-27* MB Indx-2.1 cTropnT-2.08*
+[**3102-4-23**] 09:57PM BLOOD CK(CPK)-1314*
+
+DISCHARGE LABS:
+[**3102-4-26**] 08:20AM BLOOD WBC-9.7 RBC-4.06* Hgb-11.9* Hct-36.4*
+MCV-90 MCH-29.3 MCHC-32.8 RDW-12.9 Plt Ct-235
+[**3102-4-26**] 08:20AM BLOOD PT-16.5* PTT-56.5* INR(PT)-1.6*
+[**3102-4-26**] 08:20AM BLOOD Glucose-95 UreaN-21* Creat-1.2 Na-142
+K-3.5 Cl-102 HCO3-34* AnGap-10
+[**3102-4-26**] 08:20AM BLOOD Calcium-8.6 Phos-3.5 Mg-2.3
+
+CARDIAC RISK FACTOR LABS:
+[**3102-4-23**] 11:50AM BLOOD %HbA1c-5.5 eAG-111
+[**3102-4-23**] 11:50AM BLOOD Triglyc-84 HDL-55 CHOL/HD-3.0 LDLcalc-92
+
+EKG [**3102-4-23**]:
+Sinus rhythm. Diffuse ST segment elevation in the context of
+evidence of
+recent or ongoing inferoposterolateral myocardial infarction and
+probable
+acute anterior ischemic process as well. Clinical correlation is
+suggested.
+
+CXR [**3102-4-23**]:
+As compared to the previous radiograph, there is a substantial
+decrease in lung volumes. Moderate cardiomegaly with signs of
+mild fluid
+overload. The presence of a small left pleural effusion cannot
+be excluded.
+Relatively extensive retrocardiac and left basal atelectasis but
+no indication for pneumonia.
+
+CARDIAC CATHETERIZATION [**3102-4-23**]: [final report pending]
+LAD with diffuse proximal and mid irregularities, distal totally
+occluded; no collaterals.  No intervention was pursued.
+
+TTE [**3102-4-23**]:
+The left atrium is mildly dilated. The left atrium is elongated.
+The estimated right atrial pressure is 0-5 mmHg. There is mild
+symmetric left ventricular hypertrophy. The left ventricular
+cavity is mildly dilated. Overall left ventricular systolic
+function is moderately depressed (LVEF= 35-40 %) secondary to
+akinesis of the apex and distal segments of all LV walls. The
+remaining segments contract normally. No masses or thrombi are
+seen in the left ventricle. Right ventricular chamber size and
+free wall motion are normal. The aortic root is mildly dilated
+at the sinus level. The ascending aorta is mildly dilated. The
+aortic arch is mildly dilated. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic stenosis or aortic regurgitation. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+moderate regional and global systolic dysfunction c/w CAD or
+takotsubo cardiomyopathy. No significant valvular disease.
+
+CXR [**3102-4-24**]:
+1. Improved aeration in the lungs.
+2. Left basilar atelectasis and small pleural effusion.
+
+EKG [**3102-4-25**]:
+Sinus rhythm. Q waves in leads II, III and aVF indicating an old
+inferior
+myocardial infarction. Q waves in leads V4-V6 with ST segment
+elevation
+in leads V3-V6 and biphasic T waves in lead V2 and that inverted
+T wave
+in lead V1 indicating an acute anterior myocardial infarction.
+However, there are also ST segment elevations in leads I, II,
+and ST segment depressions in lead aVR which may indicate a
+pericarditis process. Clinical correlation is suggested.
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] is a 49y/o gentleman with coronary risk factors of
+HTN, HLD, and family history of early CAD who presented with
+STEMI.  During this admission, his MI was treated medically (no
+intervention), and he was treated for pericarditis as well as
+apical aneurysm/akinesis with no complications and he was
+discharged home.
+.
+#. Anterior/lateral/inferior STEMI: totally occluded distal LAD.
+His "heartburn" 2 days prior to admission that was different
+from his usual GERD likely represented ACS.  Presented 48 hours
+out from that event, with no more heartburn (though had
+pleuritic pain - please see below).  Q waves already present, no
+hemodynamic instability or dynamic changes to suggest that
+intervention at this point would be beneficial (and besides,
+lesion was 100% occluded) so his STEMI was managed medically.
+His pleuritic pain likely represents post-MI pericarditis (see
+below).  Other complications of his MI included apical
+aneurysm/akinesis (see below).  He was monitored in the CCU for
+more serious complications of STEMI, but he had none.  Note that
+persistent ST elevations could reflect his recent ACS, his
+pericarditis (there are some PR depressions), and/or LV
+aneurysm.  He was discharged on ASA (will take anti-inflammatory
+dose for 1 week then continue with 81mg indefinitely); statin
+was changed from Crestor 5mg to Atorvastatin 80mg; his beta
+blocker (Carvedilol) was uptitrated; his RAAS blocker (Losartan)
+was continued at lower dose.  He was Plavix-loaded but no
+indication to continue Plavix.  He will follow-up with his
+Cardiologist after discharge.
+.
+#. Peri-infarct pericarditis: still has mild pleuritic chest
+pain.
+He has pleuritic chest pain that is somewhat positional, and EKG
+could be consistent.  No rub.  No effusion on TTE.  He is being
+treated with high-dose ASA (650mg PO TOD x1 week).  Colchicine
+was not started; his pain was reasonably controlled on aspirin.
+
+.
+#. Apical akinesis, ?LV aneurysm: started on Warfarin.
+TTE showed symmetric akinesis of the apex, mild aneurysm as
+well.  He was started on Heparin gtt and was transitioned to
+Warfarin (note, was discharged before fully anticoagulated as no
+clear evidence for bridge).  He was discharged on Warfarin and
+will follow up at his Cardiologist's office for INR check and
+management of anticoagulation.
+.
+#. LV EF 25-30%: euvolemic on discharge.
+No intervention was pursued for his lesion but it is possible
+that his EF will improve somewhat.  He is already on a beta
+blocker and a RAAS blocker.  He will follow up with his
+Cardiologist and will likely have a follow-up TTE in the future.
+.
+#. Mild hypoxia: resolved.
+He was 88%RA on the morning after presentation.  Differential
+included pulmonary edema (mildly depressed EF, but CXR was not
+very convincing for edema, and he seemed otherwise euvolemic).
+PE was considered but did not fit with clinical picture and ABG
+was not concerning.  With deep breaths his O2 rose to 91%RA; the
+most likely etiology for his hypoxia was splinting from
+pericarditis pain, along with likely underlying obesity
+hypoventilation.  His pain was controlled and by the time of
+discharge his O2 sat was >90%RA.  He might benefit from
+outpatient sleep study.
+
+#. Leukocytosis: resolved, likely related to MI.
+No localizing signs/symptoms to suggest infection.  Leukocytosis
+likely from MI or pericarditis.  CXR was not concerning and his
+WBC normalized by discharge.
+
+#. HTN: BP reasonably controlled.
+He was continued on Carvedilol, which was uptitrated for better
+HR control.  As a result, he was able to be discharged off
+Amlodipine.  His Losartan dose was decreased.  He will follow up
+with his PCP and Cardiologist.
+.
+#. HLD: stable.
+His statin was chaned from Crestor 5mg to Atorvastatin 80mg
+daily.
+.
+TRANSITIONAL ISSUES:
+-PCP [**Name Initial (PRE) **]/or Cardiologist to follow up lipid control (changed
+from Crestor 5mg to Atorvaststin 80mg)
+-Cardiologist might wish to repeat TTE in the future
+-[**Month (only) 10**] benefit from outpatient sleep study
+-Code status this admission: Full Code
+-Emergency contact: [**Name (NI) **] [**Name (NI) **] (brother) [**Telephone/Fax (1) 23263**]
+
+Medications on Admission:
+ASA 81mg daily
+Losartan 50mg daily
+Crestor 5mg daily
+Carvedilol 18.75mg [**Hospital1 9**]
+Norvasc 10mg daily
+Pantoprazole 40mg [**Hospital1 9**]
+Fish oil 1200mg daily
+Centrum 1 tab daily
+Glucosamine sulfate 1200mg daily
+Coenzyme Q-10 100mg daily
+Ibuprofen 800mg PRN
+
+Discharge Medications:
+1. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. omega-3 fatty acids     Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+3. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. aspirin 325 mg Tablet Sig: Two (2) Tablet PO TID (3 times a
+day) for 3 days: UNTIL [**3102-4-29**].
+Disp:*18 Tablet(s)* Refills:*0*
+5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO once a day: START ON [**3102-4-29**] AND CONTINUE INDEFINITELY.
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+6. carvedilol 25 mg Tablet Sig: Two (2) Tablet PO twice a day.
+Disp:*120 Tablet(s)* Refills:*2*
+7. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+Disp:*30 Tablet(s)* Refills:*2*
+8. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain.
+Disp:*30 Tablet, Sublingual(s)* Refills:*0*
+9. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+10. losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Coronary artery disease (s/p ST elevation myocardial infarction)
+Peri-infarct pericarditis
+LV apical aneurysm/akinesis
+Hypertension
+Dyslipidemia
+GERD
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr. [**Known patient lastname **],
+
+It was a pleasure treating you during your hospitalization. You
+were admitted to [**Hospital1 170**] after
+having a heart attack. You have a complete blockage in your left
+anterior descending artery (LAD) which we are treating with
+medications at this time. As a result of the heart attack you
+have some apical wall motion abnormalities in your heart which
+will have to be monitored.
+
+Because your heart is not pumping normally after the heart
+attack you need to be cautious about fluid build up. You should
+weigh yourself every morning and call your doctor if weight goes
+up more than 3 lbs in 3 days or 5 lbs in 2 days.  Follow a low
+salt diet and try to restrict your fluid intake to [**3089**] ml per
+day.
+
+In addition, due to the abnormal movement/shape of the bottom of
+the heart (apical aneurysm, apical akinesis), you are at risk
+for blood clot formation in the heart so you are being
+discharged home on a blood thinner (Warfarin).  You will need to
+have the blood level of this medication checked frequently (INR,
+goal is between 2 and 3).  Please follow up at Dr.[**Name (NI) 1370**] office
+on Tuesday to have the blood level checked.
+
+The chest pain you are experiencing that is worse with breathing
+is likely due to "pericarditis," or inflammation of the tissue
+layer around the heart, which can happen after a heart attack.
+For this, you are being treated with high-dose aspirin for 1
+week (and then you will be decreased to the lower-dose Aspirin,
+which you will continue indefinitely for your coronary artery
+disease.  If you experience chest pressure of atypical heartburn
+again, take Nitroglycerin under your tongue as directed. If the
+pain does not go away, call 911.
+
+Medication changes:
+- STOP your Norvasc (Amlodipine)
+- STOP your Crestor
+- STOP taking Ibuprofen
+- DECREASE your Losartan to 25mg daily
+- INCREASE your Carvedilol to 50mg twice daily
+- INCREASE your Aspirin to 650mg three times a day until [**3102-4-29**]
+- After [**3102-4-29**] resume Aspirin 81mg daily (baby aspirin)
+- START Atorvastatin 80mg Daily
+- START Coumadin (Warfarin) at 5mg daily:
+
+Followup Instructions:
+ANTICOAGULATION - DR.[**Last Name (STitle) **] OFFICE
+***You will need to have blood work on Tuesday [**4-29**] to check
+the INR (measure of blood thinning), electrolytes and kidney
+function.  These should be followed up by Dr. [**Last Name (STitle) **].
+
+PRIMARY CARE
+Name: [**Last Name (LF) **],[**First Name3 (LF) 375**] J.
+Location: [**Hospital6 12221**] MEDICAL GROUP
+Address: [**Location (un) 12222**], STE 530, [**Location (un) **],[**Numeric Identifier 4369**]
+Phone: [**Telephone/Fax (1) 10118**]
+When: Thursday, [**3101-4-30**]:00 AM
+***In 6 weeks you will need to have your cholesterol and liver
+function tests repeated (to make sure the Lipitor is working).
+
+CARDIOLOGY
+Name: [**Last Name (LF) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 18**]/CARDIOLOGY
+Address: [**Street Address(2) **],STE 7C, [**Location (un) **],[**Numeric Identifier 1509**]
+Phone: [**Telephone/Fax (1) 6141**]
+When: Wednesday, [**5-21**], 1:00 PM
+
+
+

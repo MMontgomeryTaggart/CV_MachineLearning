@@ -1,0 +1,172 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Self D/C'd NGT today.
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3151-12-18**] 08:00 AM
+   Other medications:
+   Rifaximin, carafate, lactulose
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3151-12-18**] 11:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.3
+   Tcurrent: 36.3
+C (97.4
+   HR: 102 (79 - 115) bpm
+   BP: 118/67(79) {108/52(69) - 135/69(84)} mmHg
+   RR: 21 (15 - 23) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  1,720 mL
+                                                                  1,629 mL
+   PO:
+             850 mL
+   TF:
+   IVF:
+                                                                  1,240 mL
+                                                                    689 mL
+   Blood products:
+   Total out:
+                                                                  3,355 mL
+                                                                    400 mL
+   Urine:
+                                                                  1,205 mL
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,635 mL
+                                                                  1,229 mL
+   Respiratory support
+   FiO2: 2L
+   SpO2: 98%
+   ABG: ///16/
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4,
+   (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed, No(t) Rash: , Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   9.5 g/dL
+   91 K/uL
+   105 mg/dL
+   1.0 mg/dL
+   16 mEq/L
+   2.9 mEq/L
+   26 mg/dL
+   125 mEq/L
+   149 mEq/L
+   27.9 %
+   8.8 K/uL
+        [image002.jpg]
+                             [**3151-12-15**]  04:46 PM
+                             [**3151-12-15**]  10:56 PM
+                             [**3151-12-16**]  02:13 AM
+                             [**3151-12-16**]  04:29 AM
+                             [**3151-12-16**]  10:21 AM
+                             [**3151-12-17**]  03:49 AM
+                             [**3151-12-18**]  04:10 AM
+   WBC
+   6.5
+   5.6
+   6.8
+   7.4
+   8.8
+   Hct
+   27.6
+   27.9
+   26.3
+   27.3
+   27.9
+   27.9
+   Plt
+   67
+   64
+   74
+   81
+   91
+   Cr
+   2.2
+   2.0
+   1.9
+   1.7
+   1.0
+   TCO2
+   17
+   Glucose
+   146
+   153
+   113
+   107
+   105
+   Other labs: PT / PTT / INR:23.0/45.0/2.2, CK / CKMB / Troponin-T:98//,
+   ALT / AST:75/224, Alk Phos / T Bili:260/11.6, Amylase / Lipase:203/,
+   Lactic Acid:2.5 mmol/L, Albumin:2.3 g/dL, LDH:271 IU/L, Ca++:7.8 mg/dL,
+   Mg++:1.7 mg/dL, PO4:2.5 mg/dL
+   Microbiology: No new micro data
+   Assessment and Plan
+   56 yo M with h/o etoh cirrhosis admitted with recent vomiting and now
+   unresponsiveness.  Found to be in renal failure with hyperammonemia.
+   Altered mental status:  Much better today.  Putting picture together,
+   seems most c/w hepatic encephalopathy in the setting of recent increase
+   in vomiting and dehydration and respiratory alkalosis
+     -Continue Lactulose and rifaximin
+    Renal Failure: Prerenal from dehydration vs HRS.  Both GFR and
+   potassium have improved with hydration.
+   ?GIB:  Some blood in his mouth and per partner some hematemesis
+   recently.  No signs of active bleeding, HCT stable.
+     -PPI and carafate
+     -Possible EGD at some point in the future.
+    Cirrhosis:
+     -Lactulose and rifaximin as above
+     -Diuretics on hold in setting of dehydration
+    Etoh abuse:  Should be out of the window for withdrawal at this point.
+     -Vitamin Support
+     -Addiction consult
+   FEN: Will po challenge today as he removed his NGT.
+      -If needed, will use D5 1/2 NS for maintence given hyperchloremic
+   non-gap acidosis.
+   Rest of plan per Resident Note
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3151-12-15**] 03:44 PM
+   18 Gauge - [**3151-12-16**] 10:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 25 minutes

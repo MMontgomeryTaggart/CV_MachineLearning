@@ -1,0 +1,356 @@
+Admission Date:  [**3274-11-28**]              Discharge Date:   [**3274-12-5**]
+
+Date of Birth:  [**3202-7-28**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Iodine; Iodine Containing / Gadolinium-Containing Agents
+
+Attending:[**First Name3 (LF) 2557**]
+Chief Complaint:
+Bilateral claudication and rest pain
+
+Major Surgical or Invasive Procedure:
+[**11-28**] OR: Aplasty prox anastomosis Left Ax-Fem; Jump Graft (6mm
+PTFE) from Ax-Fem to SFA
+
+
+History of Present Illness:
+72 female with bilateral LE claudication and rest pain admitted
+for Angiogram.
+
+Past Medical History:
+PMH: rheumatoid arthritis, cad, mi, osteoarthritis, lung ca with
+rul resection s/p chem and xrt. gerd, HTN,
+PSH: ballon angioplasty x 2 rle [**3261**], rul resection with xrt /
+chemo, TAH with b/l saplingoopherectomy, Appy, carpal tunnel
+release x 2 b/l, lipoma removal, [**Hospital Ward Name **] cyst b/l hands, RCIA to
+bifemoral BPG with 6mm dacron PTFE [**3269**] / complicated by
+thrombus then had Left axillary to fem - fem BPG [**3269**], benign
+growth removal colon
+
+
+Social History:
+lives at home, uses wheel chair
+
+
+Family History:
+n/c
+
+Physical Exam:
+Vs: 98.2   HR:58 BP 120/60  RR:18  Spo2 97% RA
+Gen: NAD
+Neuro: Alert and oriented x3
+CV: [**Last Name (un) **]
+Resp: CTA
+Abd: soft, NT, ND
+Pulses:    Fem   [**Doctor Last Name **]    DP    PT
+[**Name (NI) 2291**]       palp   palp  dop  dop
+Right      palp   palp  dop  dop
+Extremities without cyanosis. Resloving ecchymosis to left
+anterior thigh.
+Left groin incision intact with dermabond.
+
+
+Pertinent Results:
+[**3274-12-5**] 04:51AM BLOOD WBC-5.6 RBC-2.88* Hgb-8.5* Hct-26.1*
+MCV-91 MCH-29.7 MCHC-32.7 RDW-14.4 Plt Ct-252
+
+[**3274-12-5**] 04:51AM BLOOD Plt Ct-252
+
+[**3274-12-5**] 04:51AM BLOOD Glucose-101 UreaN-13 Creat-1.5* Na-139
+K-3.8 Cl-104 HCO3-30 AnGap-9
+
+[**3274-12-5**] 04:51AM BLOOD Calcium-8.4 Phos-2.7 Mg-2.3
+
+[**3274-11-30**] 8:55 pm URINE      Source: CVS.
+
+                            **FINAL REPORT [**3274-12-2**]**
+
+   URINE CULTURE (Final [**3274-12-2**]):    <10,000 organisms/ml.
+OPERATIVE REPORT
+
+[**Last Name (LF) 1096**],[**First Name3 (LF) 1097**] B.
+Signed Electronically by [**Last Name (LF) 1096**],[**First Name3 (LF) 1097**] B. on MON [**3274-12-3**]
+6:38 PM
+
+Name:  [**Known patient lastname 27201**], [**Known patient firstname **]           Unit No:  [**Numeric Identifier 27202**]
+
+Service:                          Date:  [**3274-11-28**]
+
+Date of Birth:                    Sex:
+
+Surgeon:  [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD 2287
+
+PREOPERATIVE DIAGNOSIS:  Malfunction of left axillary-
+bifemoral graft.
+
+POSTOPERATIVE DIAGNOSIS:  Malfunction of left axillary-
+bifemoral graft.
+
+PROCEDURE:  Left axillary artery angioplasty with 6-mm
+balloon, arteriography, and jump graft from left axillary-
+femoral graft to superficial femoral artery with 6-mm, thin-
+walled, ringed PTFE graft.
+
+ASSISTANT:  [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 27203**], M.D.
+
+ANESTHESIA:  General endotracheal.
+
+ESTIMATED BLOOD LOSS:  150 mL.
+
+COMPLICATIONS:  None.
+
+INDICATIONS:  This 72-year-old lady with severe peripheral
+vascular disease has previously had a left axillary-bifemoral
+graft. This has been revised a couple of times. She recently
+developed recurrent symptoms of claudication and early, mild
+ischemic rest pain in her left foot. Duplex ultrasound
+suggested a stenosis at the proximal anastomosis of the
+axillary graft to the axillary artery and also a focal high-
+grade stenosis in the superficial femoral artery just distal
+to the distal anastomosis on the left side. This was
+confirmed by arteriography through a left brachial approach a
+couple of weeks ago. She is now undergoing definitive
+treatment.
+
+DESCRIPTION OF PROCEDURE:  Under adequate general
+endotracheal anesthesia, the left groin was prepped and
+draped in the usual sterile fashion. A lateral incision was
+made through the old incision, incising the deep fascia and
+reflecting the proximal sartorius muscle. The superficial
+femoral artery was then dissected free underneath the muscle
+and encircled with vessel loops proximally and distally. The
+artery had no pulse present within it at all but was very
+soft. A longitudinal incision was made just proximal to the
+groin incision, directly over the axillary femoral graft, at
+about the level of the iliac crest before it entered the
+groin. The graft was dissected free here and encircled with
+vessel loops proximally and distally. A number of rings were
+removed from the graft, and a subcutaneous tunnel was created
+across the inguinal ligament and down to the level of the
+femoral dissection done previously. The C-arm was then draped
+and rolled into place. The axillary-femoral graft was
+punctured with a Cook needle, a wire advanced into the graft
+under fluoroscopy, and a 7-French sheath placed. We then
+directed an angled glide wire into the axillary artery
+proximal to the proximal anastomosis and, over this, advanced
+a Omni Flush catheter, which was then connected to the power
+injector. Arteriography confirmed the presence of what
+appeared to be only about a 50%-60% stenosis of the
+anastomosis into the origin of the left axillary graft;
+however, the ultrasound had suggested a far more significant
+stenosis, and we had noted a weak pulse in the axillary-
+femoral graft when dissecting it free. We then did an
+exchange for a stiffer wire and advanced a 6 x 40 angioplasty
+balloon up, so that most was in the graft, with just a small
+amount crossing into the axillary artery. This balloon was
+then inflated to a high pressure of about 20 atmospheres. We
+then replaced the Omni Flush catheter and shot a completion
+arteriogram, which showed complete resolution of the waist
+previously seen in the graft. A catheter was then placed and
+connected to a pressure transducer and a pull-back pressure
+done, which showed about a 5-mm systolic pressure gradient
+across the anastomosis, with no change in diastolic blood
+pressures, and about a 2- to 3-mm drop in the mean arterial
+pressure. We thought that this was satisfactory. We then
+returned our attention to the groin. Proximal and distal
+control was obtained on the axillary-femoral graft. The
+sheath was removed and the sheath puncture extended
+proximally and distally into an arteriotomy. A 6-mm, thin-
+walled, ringed PTFE graft was taken and spatulated and an end-
+to-side anastomosis fashioned between the new graft and old
+graft with running continuous 6-0 [**Doctor Last Name 4660**]-Tex sutures from
+either end. When this anastomosis was completed, the suture
+holes were sealed with BioGlue. Flow was tested through the
+new conduit and found to be excellent. It was pulled through
+the tunnel at the proximity with the superficial femoral
+artery, where proximal-distal control was again obtained, and
+a longitudinal arteriotomy was made. Antegrade bleeding was
+extremely poor, but backbleeding was brisk. The distal end of
+the graft was trimmed and spatulated appropriately and a 2nd
+end-to-side anastomosis fashioned, again with 6-0 [**Doctor Last Name 4660**]-Tex
+sutures. Flow was reestablished without difficulty. The
+superficial femoral artery plumped up nicely and had a
+strongly triphasic Doppler signal noted within it. Hemostasis
+was then secured, the heparin was fully reversed with
+protamine, and the wounds were closed in layers with 3-0
+Vicryl and 4-0 Monocryl subcuticular sutures. Dermabond skin
+dressing was applied over the wounds. The patient tolerated
+this procedure well and, upon awakening, being extubated, was
+taken to the recovery room in stable condition. All counts
+reported correct.
+
+
+Brief Hospital Course:
+[**3274-11-28**]
+Taken to the OR for Angioplasty of Left Proximal Anastomosis
+Ax-Bifem and Jump Graft Ax-Fem SFA with 6mm PTFE (see Op
+note)Tolerated procedure well. Transferred to VICU. Left DP, PT
+pulses dopperable. PCA for pain management.
+
+[**3274-11-29**]
+Vitals stable. Hct 22.3 OOB to chair. Foley, PCA.
+
+[**3274-11-30**]
+Vitals stable. Continue pain management. Foley and PCA DC'ed.
+Restarted on Coumadin.
+
+[**3274-12-1**]
+Tmax 102.6 Blood cultures drawn. UA negative. Started on empiric
+antibiotics
+
+[**3274-12-2**]
+Tmax 100.3 No acute events. Blood cultures pending. Cardiology
+consult for nausea and stomach "fullness" without CP or SOB. +
+ECG changes. Rec included continuation of ASA, statin, BBlocker.
+Serial CE negative.
+
+[**3274-12-3**]
+NO acute events. VSS.
+
+[**3274-12-4**]
+Additional episodes of nausea. Afebrile. Blood cx and portacath
+cultures show no growth.
+
+[**3274-12-5**]
+DC home with [**Location (un) 86**] [**Location (un) 265**] . No antibiotics.
+Follow-up with Dr. [**Last Name (STitle) **] in [**3-17**] weeks
+
+Follow-up with Dr. [**Last Name (STitle) 11533**] in Cardiology next week- patient is
+aware and plans to schedule appointment
+
+Follow-up with Dr. [**Last Name (STitle) **] outpatient. Will continue follow INR
+levels for goal [**3-17**].
+A copy of this discharge summary will be sent to Dr. [**Last Name (STitle) **]
+
+Medications on Admission:
+doxepin 25'', tenormin 12.5', lipitor 40', asa 81', prilosec
+20'', colace 100'', iron, B6, meclizine 12.5'(4pm), coumadin 4'
+(last dose 10/13), ativan 0.5' qhs, aldactazide 25 MWF, lasix 20
+T Th Sat, lidoderm patch, fentanyl patch 25 and 50 q72hrs,
+oxycodone.
+.
+
+
+Discharge Medications:
+1. Doxepin 25 mg Capsule Sig: One (1) Capsule PO BID (2 times a
+day).
+2. Tenormin 25 mg Tablet Sig: One (1) one half Tablet PO once a
+day.
+3. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO twice a day.
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Iron (Ferrous Sulfate) 325 (65) mg Tablet Sig: One (1) Tablet
+PO once a day.
+8. Pyridoxine 25 mg Tablet Sig: One (1) Tablet PO once a day:
+take your usual dosage per PCP.
+9. Meclizine 12.5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Coumadin 4 mg Tablet Sig: One (1) Tablet PO once a day:
+INR goal is [**3-17**] / Have Dr. [**Last Name (STitle) **] your Oncologist to monitor your
+INR in the usual fashion.
+11. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed.
+12. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO QMOWEFR
+(Monday -Wednesday-Friday).
+13. Furosemide 20 mg Tablet Sig: One (1) Tablet PO QTUTHSA
+(TU,TH,SA).
+14. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical 11PM TO 11AM ().
+15. Outpatient Lab Work
+Have your INR checked Friday [**3274-12-7**] and weekly and have the
+results sent to Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 27204**] fax:[**Telephone/Fax (1) 27205**]
+16. Coumadin dose 10/24
+DO NOT TAKE COUMADIN TONIGHT [**12-5**], you will have your blood
+checked on Friday [**12-7**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] [**Location (un) 265**]
+
+Discharge Diagnosis:
+Graft stenosis
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Lower Extremity Angioplasty/Stent Discharge Instructions
+
+Medications:
+??????	Take Aspirin 325mg (enteric coated) once daily
+??????	If instructed, take Plavix (Clopidogrel) 75mg once daily
+??????	Continue all other medications you were taking before surgery,
+unless otherwise directed
+??????	You make take Tylenol or prescribed pain medications for any
+post procedure pain or discomfort
+
+What to expect when you go home:
+It is normal to have slight swelling of the legs:
+??????	Elevate your leg above the level of your heart (use [**3-17**]
+pillows or a recliner) every 2-3 hours throughout the day and at
+night
+??????	Avoid prolonged periods of standing or sitting without your
+legs elevated
+??????	It is normal to feel tired and have a decreased appetite, your
+appetite will return with time
+??????	Drink plenty of fluids and eat small frequent meals
+??????	It is important to eat nutritious food options (high fiber,
+lean meats, vegetables/fruits, low fat, low cholesterol) to
+maintain your strength and assist in wound healing
+??????	To avoid constipation: eat a high fiber diet and use stool
+softener while taking pain medication
+
+What activities you can and cannot do:
+??????	When you go home, you may walk and go up and down stairs
+??????	You may shower (let the soapy water run over groin incision,
+rinse and pat dry)
+??????	Your incision may be left uncovered, unless you have small
+amounts of drainage from the wound, then place a dry dressing or
+band aid over the area that is draining, as needed
+??????	No heavy lifting, pushing or pulling (greater than 5 lbs) for
+1 week (to allow groin puncture to heal)
+??????	After 1 week, you may resume sexual activity
+??????	After 1 week, gradually increase your activities and distance
+walked as you can tolerate
+??????	No driving until you are no longer taking pain medications
+??????	Call and schedule an appointment to be seen in [**4-15**] weeks for
+post procedure check and ultrasound
+
+What to report to office:
+??????	Numbness, coldness or pain in lower extremities
+??????	Temperature greater than 101.5F for 24 hours
+??????	New or increased drainage from incision or white, yellow or
+green drainage from incisions
+??????	Bleeding from groin puncture site
+
+SUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site)
+??????	Lie down, keep leg straight and have someone apply firm
+pressure to area for 10 minutes. If bleeding stops, call
+vascular office [**Telephone/Fax (1) 1223**]. If bleeding does not stop, call
+911 for transfer to closest Emergency Room.
+
+
+Followup Instructions:
+call Dr [**Last Name (STitle) **] office at [**Telephone/Fax (1) 3073**]. Schedule an
+appointment for 4 weeks.
+
+Follow-up with your Cardiologist Dr. [**Last Name (STitle) 11533**] in 1 Week
+
+Follow-up with Dr. [**Last Name (STitle) **] for your INR level weekly
+
+
+Completed by:[**3274-12-5**]

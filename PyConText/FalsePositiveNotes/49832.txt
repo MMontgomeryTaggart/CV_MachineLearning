@@ -1,0 +1,145 @@
+Admission Date:  [**3345-9-26**]              Discharge Date:   [**3345-9-28**]
+
+Date of Birth:  [**3269-9-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 259**]
+Chief Complaint:
+Inferior MI
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+
+History of Present Illness:
+Patient is a 76 y/o make who presented today to [**Hospital3 2026**]
+with chest pain. The family reports that the pt at 1:30 for the
+first time complained of substernal chest prssure. He tried tums
+without relief. He then went to the bathroom. When his daughter
+opened the door a few minute later, he fell towards her. she was
+able to catch him and lay him on the ground. He lost
+consciousness for several secondas and then woke up again,
+unable tp express himself, goaning only. 911 was called.
+The pt was brought to [**Hospital3 2026**]. There on EKG he was found
+to have ST elevations in II,III and aVF, as well as V3,v4, v5.
+He was also in complete heart [**Doctor Last Name **],. Atropine was given.
+Dopamine was started for hypotension. Heparin was started. he
+was tranferred to [**Hospital1 52**] for urgent intervention.
+.
+At [**Hospital1 52**] the patient arrived hypotensive with systolic BP 59, HR
+50. He went into asystole and was given stropine. A temporary
+pacer wire was placed. Cardiac Catherization revealed a
+completely accluded RCA and high grade stenosis of the LCX. The
+pt had a BM stent placed to the RCA and amgioplasty of the Lt
+Cx. A right heart cath showed PA pressure of 40/24, AO pressure
+of 72/45. An IABP was placed., Dopamine was continued. Several
+doses of Atrpine were given throughout the procedure. During the
+prcedure the pt experienced vagal symptoms including pause of a
+few seconds duration as well as nausea and vomiting. He had a
+documented aspiratione vent and was intubated for airway
+protection. The patietn then developed hypotension and was
+started on neosynepherine and phenylepherine for pressure
+support.  A total of 6L NS was given. The pt was Plavix loaded
+with 600mg. An ECHO did not reveal ventricular wall rupture,
+acute valvular dysfunction or tamponade. The LV appeared largely
+normal. 3 amps of NaHCO3 was given for acidemia.
+.
+On review of symptoms the family denies hx of stroke, DVT, PE,
+bleeding at tiem of surgery, black or red stools.
+.
+Cardiac review of symptoms is notable for absence of chest pain,
+PND, PA ,orthopnea, palpatations.
+.
+Pn arrival to the CCU, te pt was hypotensive. Intial ABG
+revealed pH of 7.09. 3 amps of bicarb given. Neosynepherine,
+dopamine and phynepherine were titrated to max doses. Pacing
+rate increased to 86. MAP imorved to 60's./ Family was informed
+of grave prognosis
+
+Past Medical History:
+COPD. no baseline O2 req
+c/p cholecystectomy
+s/p b/l knee surgery
+h/o TIA on ASA
+Macular degeneration, legally blind
+
+Social History:
+non contributory
+
+Family History:
+non contributory
+
+Physical Exam:
+VS: T 90.6, BP 83/43, HR 80, RR 38, o2 sat 100 on AC
+600/28/5/0.4.
+Gen: intubated, sedated, cool, cyanotic extremities
+HEENT: sclera anicteric, chemtic conjuctiva, dilated pupils , +
+corneal reflex, cyanosis of lips
+NECK: supple with elevated JVP
+CV: PMI in 5th intercostal space, midclavilcular line, distant
+heart sounds.
+CHEST: no chest wall  deformaties, scoliosis or lyphiosis, resp
+were labored with increased accessory muscle use to force
+expiration. + wheezes. cracles at bases
+ABD: Obsese, soft, distended, nontender, organs  not maplated.
+No abd bruits. ubilical hernia
+Ext: no c/c/e. IABP with arterial sheeth in place on the Rt.
+Venous sheath with PA cath on Lt.
+
+
+Pertinent Results:
+Cardiac cath [**3345-9-27**]
+
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Profound systemic arterial hypotension.
+3. Acute inferior myocardial infarction, managed by acute PCI,
+IABP, and
+temporary pacemaker.
+4. Successful PTCA and stenting of 100% proximal RCA lesion.
+
+Brief Hospital Course:
+Inferior MI:
+PAtient was transferred from OSH for cardiac catheterization.
+the RCA was stented, and following this, he had became
+bradycardic, nauseous and vomited, with witness aspirtation. He
+was unresponsive, and there was a code blue. He was given
+atropine, and asytole resolved. He received a temporary pacer.
+He was persistently hypotensive despite fuid hydration and was
+put on levophed, dopamine and neosynepherine. He was transferred
+to he ICU in critical condition. Repeat ABGs revieled pH below
+7.2, and was given several amps of bicarb. The family was
+informed of the grave prognosis, and they made the decision to
+withdraw care. The pressors were discontinued, and the patient
+was declared dead on [**3345-9-28**].
+
+Medications on Admission:
+ASA 325mg
+Inhalers
+Vitamins.
+
+Discharge Medications:
+none.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Inferior MI
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+rest in peace
+
+Followup Instructions:
+none
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 264**] MD, [**MD Number(3) 265**]
+
+Completed by:[**3345-12-16**]

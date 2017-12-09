@@ -1,0 +1,362 @@
+Admission Date:  [**3413-4-5**]              Discharge Date:   [**3413-4-16**]
+
+Date of Birth:  [**3340-7-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Phenobarbital / Sulfa (Sulfonamides) / Latex
+
+Attending:[**First Name3 (LF) 4496**]
+Chief Complaint:
+sob, hyponatremia
+
+Major Surgical or Invasive Procedure:
+BiV pacemaker placement
+
+
+History of Present Illness:
+72-year-old woman with recent onset atrial fibrillation on
+coumadin (s/p unsuccessful cardioversion), hypertension/LVH,
+type 2 diabetes (HbA1c 6 on [**8-12**]), moderate aortic stenosis,
+left bundle-branch block, prior tobacco use, diastolic and
+systolic CHF s/p multiple admissions, hypothyroidism, and prior
+traumatic brain injury ([**3388**])p/w worsening LE edema, increasing
+DOE, and found to have new hyponatremia to 109 from 125 on
+[**3413-3-26**].
+
+Of note, she was recently discharged on [**3413-2-28**] with CHF
+exacerbation/new afib/renal failure. TTE that admission showed
+dilated LV with depressed EF and moderate-severe mitral
+regurgitation, and PAP were mildly elevated (32-34 mmHg). This
+was presumed due to her tachyarrythmia. The severity of aortic
+stenosis could not adequately be assessed. She had a
+cardioversion and was discharged in NSR, but appears to have
+gone back into afib shortly thereafter. She is on amiodarone,
+digoxin, and coumadin.
+.
+Her dry weight is 138 pounds, and patient reports gaining 12
+pounds over the past two weeks. On [**3413-3-18**], she had been told to
+hold her home lasix (20mg PO BID) because her weight was
+decreasing and she was felt to be clinically dry with low BP's.
+Then, because she was having increasing weight/edema/DOE, she
+called her cardiologist who advised her to restart lasix 20mg
+and hold home lisinopril. Patient was still complaining of sx
+and advised to increase lasix to 40mg daily. She was also c/o
+nausea, told OK to hold digoxin and coumadin, but to come in on
+Monday AM for lab testing. Found to have sodium of 109 and
+referred to ED.
+.
+In the ED, initial vitals were T 96.3, P 101, BP 115/78, R 20,
+95% on RA and then 99% on 2L NC. Patient had two sets of labs to
+confirm her new hyponatremia to 109. She also had a CXR that
+showed mild CHF. No medications were given in the ED. Cardiology
+and nephrology were consulted. Her hematocrit was noted to be
+slightly lower, but guaiac was negative. Her INR is 3.9.
+.
+Upon speaking with the patient and her son, 5 days ago patient
+had onset of fatigue, weakness, DOE, low UOP, which has been
+progressing to the point where she only has the energy to sit up
+and eat. She denies CP, denies angina. She does endorse
+intermittent nausea, +vomiting on Saturday. Constipated x 2
+days, but passing flatus, no abdominal pain. No blood in stool,
+no black stools. Son also notes she has been increasingly
+confused, with memory difficulty. She denies any new neurologic
+deficits.
+.
+On review of systems, she denies any prior history of deep
+venous thrombosis, pulmonary embolism, bleeding at the time of
+surgery, myalgias, joint pains, cough, hemoptysis, black stools
+or red stools. She denies recent fevers, chills or rigors. She
+denies exertional buttock or calf pain. All of the other review
+of systems were negative.
+
+
+Past Medical History:
+Diabetes
+Afib s/p multiple cardioversions
+Dyslipidemia
+Hypertension
+Aortic stenossis
+LBBB
+LVH
+diastolic +systolic CHF, last EF 30% in [**3412**]
+Hypothyroid
+Traumatic Brain Injury [**3388**]
+
+
+Social History:
+-Tobacco history: quit in [**3364**] (smoked 2ppd x 10-15 years)
+-ETOH: none
+-Illicit drugs: none
+Divorced, lives alone, 3 sons. Writing a memoir of a life s/p
+Traumatic brain injury
+
+
+Family History:
+Mother had multiple MIs. No other heart disease, sudden death or
+dysrhythmia in other relatives.
+
+Physical Exam:
+GENERAL: WDWN female in NAD. Alert, Oriented x3. Slow to speak,
++memory difficulty, defers many questions to son
+[**Name (NI) 1998**]: [**Name (NI) 2421**]. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP to the angle of the jaw at 45 degrees.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. tachycardic rate, normal S1, S2. III/VI systolic murmur.
+LUNGS: rales to [**1-6**] lung fields b/l.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: 1+ pitting edema b/l. WWP.
+NEURO: +Pronator drift on left, mild weakness in LUE c/w
+baseline. CN II-XII intact, FTN intact b/l.
+
+
+Pertinent Results:
+Labs on admission:
+
+[**3413-4-5**] 10:55AM   GLUCOSE-172* UREA N-24* CREAT-0.9 SODIUM-109*
+CHLORIDE-71* TOTAL CO2-24
+[**3413-4-5**] 10:55AM   cTropnT-<0.01
+[**3413-4-5**] 10:55AM   proBNP-9867*
+[**3413-4-5**] 10:55AM   WBC-6.8 RBC-3.21* HGB-9.7* HCT-27.8* MCV-87
+MCH-30.1 MCHC-34.7 RDW-14.8
+[**3413-4-5**] 10:55AM   PT-38.0* PTT-34.5 INR(PT)-3.9*
+.
+Labs on Discharge:
+[**3413-4-16**] 07:55AM BLOOD WBC-7.5 RBC-3.31* Hgb-9.2* Hct-28.2*
+MCV-85 MCH-27.7 MCHC-32.5 RDW-15.6* Plt Ct-226
+[**3413-4-16**] 07:55AM BLOOD Glucose-133* UreaN-37* Creat-1.5* Na-132*
+K-4.5 Cl-92* HCO3-31 AnGap-14
+[**3413-4-16**] 07:55AM BLOOD Calcium-9.0 Mg-2.3
+[**3413-4-10**] 06:15AM BLOOD VitB12-[**3400**]* Folate-GREATER TH
+[**3413-4-6**] 02:19PM BLOOD calTIBC-372 Hapto-274* Ferritn-59 TRF-286
+[**3413-4-6**] 02:19PM BLOOD Free T4-1.9*
+[**3413-4-6**] 02:19PM BLOOD TSH-4.7*
+.
+Imaging:
+CXR:
+FINDINGS: The heart size is enlarged. Mild prominence of the
+central
+pulmonary vasculature is noted as well as small bilateral
+pleural effusions, consistent with mild CHF. Unchanged left
+retrocardiac atelectasis. There is no pneumothorax. Unchanged
+orthopedic intramedullary nail in the right
+humerus.
+
+IMPRESSION: Findings consistent with mild CHF.
+
+Echo:
+The left atrium is dilated. Left ventricular wall thicknesses
+are normal. The left ventricular cavity is mildly dilated.
+Overall left ventricular systolic function is severely depressed
+(LVEF= 20 %) with inferior akinesis, septal dyskinesis and
+apical akinesis/dyskinesis with hypokinesis elsewhere (lateral
+base moves best). The right ventricular cavity is dilated with
+mild global free wall hypokinesis. [Intrinsic right ventricular
+systolic function is likely more depressed given the severity of
+tricuspid regurgitation.] The aortic valve leaflets are
+moderately thickened.
+
+There is an echogenic structure associated with the right cusp
+(see clip [**Clip Number (Radiology) **]) that is likely due to cusp thickening/deformation
+or prominent Lambl's excrescence (generally an incidental
+finding); cannot definitively exclude vegetation. This echogenic
+structure was not seen in the prior study but the aortic valve
+was not as well visualized in the prior study.
+
+There is moderate aortic valve stenosis (valve area 1.0-1.2cm2).
+Trace aortic regurgitation is seen. The mitral valve leaflets
+are mildly thickened. Moderate to severe (3+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. Moderate [2+] tricuspid regurgitation is seen. There
+is mild pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**3413-2-27**],
+left ventricular systolic function appears more depressed. The
+septum is now dyskinetic. Right ventricular systolic function
+appears slightly more depressed. Echogenic structure asosciated
+with aortic valve as noted above.
+
+MRI head & C-spine: No definite evidence for acute intracranial
+pathology
+
+
+Brief Hospital Course:
+Ms. [**Known patient lastname 5963**] is a 72-year-old woman with recent onset atrial
+fibrillation on coumadin (s/p unsuccessful cardioversion),
+hypertension/LVH, type 2 diabetes (HbA1c 6 on [**8-12**]), moderate
+aortic stenosis, left bundle-branch block, prior tobacco use,
+diastolic and systolic CHF s/p multiple admissions,
+hypothyroidism, and prior traumatic brain injury ([**3388**])p/w CHF
+exacerbation and severe hyponatremia.
+
+1. Hyponatremia: Patient with drop in sodium from 125-->109 in
+less than two weeks (though likely in last week based on
+history). Likely hypervolemic in nature, given history and exam.
+Sodium trended up to 129 with IV lasix, no acute mental status
+changes. Na 132-135 aat discharge, free water restriction in
+place.
+
+2. Acute on Chronic Systolic and Diastolic CHF: Last EF 30%, now
+depressed to 20%. Thought to be secondary to tachyarrythmia. In
+the past, atrial fibrillation has contributed significantly to
+her exacerbations, so she was evaluated by EP for ablation. This
+was done (see below) and rates now 65-70 paced. Could not
+tolerate ACEi and beta-blocker given hypotension so these were
+held at discharge. Weight 60.1 on day of discharge and
+Furosemide 10 mg cont QOD. Lungs are clear and pt has diffuse
+[**12-5**]+ peripheral edema. Please weigh daily and consider changing
+Furosemide to 10 mg daily if weight increases.
+
+3. Atrial Fibrillation/flutter: Rate in low 100's on admission.
+Has had multiple unsuccessful cardioversions for afib in the
+past. EP was consulted and AV Node ablation with BiV pacer was
+done on [**3413-4-15**]. Her pacer site is near left shoulder and has no
+ecchymosis or significant tenderness. She will be on Clindamycin
+PO for total of 3 days to prevent infection at the site. A
+device clinic appt was made for one week after procedure in
+conjunction with an ECHO. She will see her outpt cardiologist at
+the end of the month. Amiodarone and Digoxin was discontinued
+after ablation. INR in mid 2's on 3 mg Warfarin daily. Would
+check INR QOD while pt on Clindamycin.
+
+4. Coronaries: No caths in past, not thought to have ischemic
+cardiomyopathy as cause of heart failure. Troponins flat on
+admission despite several days of symptoms, so likely not
+causing her symptoms. Not currently on ASA. [**Month (only) 115**] consider baby
+ASA due to [**Name (NI) 27337**].
+
+5. Anemia: Found to be Fe deficient with drop from 28 to 22 in
+few days. Stool OB negative and no other obvious signs of
+bleeding. Thought that phlebotomy was a contributing factor but
+should consider repeat colonoscpoy if this continues to be an
+issue after discharge. Ferrous sulfate was started on [**4-15**].
+Hemolysis labs were negative on [**3413-4-6**].
+
+6. Diabetes: On metformin at home, last HgA1C 6%.  HISS inhouse.
+ Given rising creatinine, Metformin was not started on d/c but
+should be restarted when creatinine stable.
+
+7. Hypothyroidism: Continued synthroid.
+
+8. Dyslipidemia: Continued atorvastatin
+
+10. Hypertension: Pt has been hypotensive for most of hospital
+stay. Lisinopril was held but should be restarted if systolic BP
+consistantly > 100.
+
+
+Medications on Admission:
+# Acetaminophen 500 mg q8hrs PRN
+# Digoxin 62.5 mcg daily
+# Docusate Sodium 200 mg [**Hospital1 **]
+# Levothyroxine 37.5 mcg daily
+# Metformin 1000 mg [**Hospital1 **] (not taking [**1-5**] nausea)
+# Multivitamin 1 tab daily
+# Simvastatin 10 mg daily
+# Bisacodyl 10 mg daily
+# Senna 8.6 mg [**Hospital1 **]
+# Amiodarone 200 mg daily
+# Warfarin 3 mg daily
+# Furosemide 40 mg daily
+
+
+Discharge Medications:
+1. Clindamycin HCl 300 mg Capsule Sig: One (1) Capsule PO every
+six (6) hours for 2 days.
+2. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Levothyroxine 25 mcg Tablet Sig: 1.5 Tablets PO DAILY
+(Daily).
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO every eight
+(8) hours as needed for pain.
+6. Psyllium 1.7 g Wafer Sig: [**12-5**] Wafers PO BID (2 times a day):
+Take with full glass of water.
+7. Furosemide 20 mg Tablet Sig: 0.5 Tablet PO EVERY OTHER DAY
+(Every Other Day).
+8. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at
+4 PM: Goal INR [**1-6**].
+11. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for insomnia.
+12. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for constipation.
+13. Bisacodyl 5 mg Tablet Sig: Two (2) Tablet PO once a day:
+hold for diarrhea.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1079**] for the Aged - [**Location (un) 1266**]
+
+Discharge Diagnosis:
+Supraventricular tachycardia
+Acute on Chronic Systolic Congestive Heart Failure
+Hypertention
+Diabetes Mellitus Type 2
+Hypothyroidism
+Hyponatremia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+You had an exacerbation of your congetive heart failure and your
+low sodium level worsened. You were diuresed to take of the
+fluid and it is thought that your high heart rate is
+contributing to the congestive heart failure. We were unable to
+slow your heart rate with medicines and you did not tolerate the
+beta blocker. You had an AV node ablation and a biventricular
+pacemaker was placed on [**4-15**]. You tolerated this without
+complications. You became quite anemic during your hospital
+stay, possibly becuase of frequent lab tests but possibly
+because of some bleeding in your GI tract. You will need to have
+your blood counts followed closely and should consider another
+colonoscopy if you continue to be anemic. We have started you on
+Iron tablets to help your body make more blood.
+WE made the following changes to your medicines:
+1. Discontinue the amiodarone and digoxin
+2. Discontinue the Lisinopril because your blood pressures are
+low
+3. Started Clindamycin for 3 days total to prevent an infection
+at the pacer site.
+4. Start Metamucil wafer and Colace to prevent constipation
+5. Start Ferrous sulfate (Iron) to help your body make blood.
+6. Decrease the Lasix to 10 mg every other day
+7. Stop Metformin for now with creatinine rising.
+8. Start Trazadone to help you sleep at night.
+.
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Primary Care:
+[**Last Name (LF) 4172**],[**First Name3 (LF) **] R. Phone: [**Telephone/Fax (1) 4173**] Date/Time: please make
+an appt to see Dr. [**Last Name (STitle) **] when you get home.
+.
+Cardiology:
+Provider: [**Name10 (NameIs) 4317**] Phone:[**Telephone/Fax (1) 113**] Date/Time:[**3413-4-22**]
+1:00
+Provider:  [**Name10 (NameIs) 2884**] CLINIC Phone:[**Telephone/Fax (1) 113**] Date/Time:[**3413-4-22**]
+2:30pm. [**Hospital Ward Name 60**] Clinical Center, [**Hospital1 4**], [**Hospital Ward Name 38**], [**Location (un) **].
+Provider: [**Name10 (NameIs) **] [**Last Name (NamePattern4) 9032**], MD Phone:[**Telephone/Fax (1) 113**]
+Date/Time:[**3413-4-30**] 11:30. [**Hospital Ward Name 60**] Clinical Center, [**Hospital1 4**], [**Hospital Ward Name 1032**], [**Location (un) **].
+
+
+
+Completed by:[**3413-4-16**]

@@ -1,0 +1,191 @@
+Admission Date:  [**3198-10-18**]              Discharge Date:   [**3198-10-23**]
+
+Date of Birth:  [**3146-5-22**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Syncope
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+History of Present Illness:
+52 M w/ PMH of MVP presented to [**Hospital3 **] after collapsing
+at a football field and was found to be unresponsive w/o a
+pulse.  Off-duty nurse [**First Name (Titles) **] [**Last Name (Titles) 22731**].  ECHO at OSH w/ severe AS.
+.
+He states that he has been under a great deal of stress late
+recently and had not been eating well.  As he was walking down a
+grass incline, he began to feel lightheaded.  He sat down and
+next awoke  w/ bystanders around him.  He believes that he was
+unconscious for approximately 30 seconds.  He thinks [**Last Name (Titles) 22731**] was
+briefly performed on him and that a "plastic airway" was placed.
+ He has not had an episode like this before except for possibly
+when the wind was knocked out of him when playing ball at a
+young age.
+.
+On arrival to the floor, he feels well without complaints.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+.
+
+
+Past Medical History:
+? SVT/afib (admitted to [**Hospital6 **] 10 yrs ago)
+R Rotator cuff repair
+R Knee [**Doctor First Name 97**]
+L Clavicle fx
+nasal fx
+
+
+Social History:
+Social history is significant + tob, 1ppd X 14 yrs. There is no
+history of alcohol abuse although he drinks 1-2 drinks
+frequently.  He is going through a divorce.
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.  Mother passed away from [**Name (NI) 2867**]. Father has
+arthritis and some form of cancer of the bone.
+
+
+Physical Exam:
+VS -  97.9, 120/81, 56, 18, 95% on RA
+Gen: WDWN middle aged male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple with flat neck veins.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. IV/VI systolic murmur heard in RUSB; IV/VI
+Systolic murmur heard at LLSB w/ radiation to axilla. No
+thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+.
+Pulses:
+Right: Carotid 2+ DP 2+ PT 2+
+Left: Carotid 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**3198-10-18**] 05:15PM BLOOD WBC-7.9 RBC-4.75 Hgb-15.1 Hct-43.6 MCV-92
+MCH-31.8 MCHC-34.7 RDW-13.7 Plt Ct-214
+[**3198-10-18**] 05:15PM BLOOD Neuts-56.1 Lymphs-33.3 Monos-6.9 Eos-2.7
+Baso-1.0
+[**3198-10-18**] 05:15PM BLOOD PT-11.6 PTT-31.3 INR(PT)-1.0
+[**3198-10-18**] 05:15PM BLOOD Glucose-77 UreaN-14 Creat-0.9 Na-139
+K-4.3 Cl-103 HCO3-27 AnGap-13
+[**3198-10-18**] 05:15PM BLOOD CK(CPK)-48
+[**3198-10-18**] 05:15PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3198-10-18**] 05:15PM BLOOD Calcium-9.4 Phos-4.7* Mg-2.4
+[**3198-10-18**] 05:15PM BLOOD TSH-1.9
+.
+2D-ECHOCARDIOGRAM performed on [**3198-10-18**] demonstrated:  EF 70%,
+LVH, severe AS (valve area 0.9 cm2)
+.
+OSH:
+Trop I 0.04 -> 0.12 -> 0.07
+CK 90 -> 85 -> 56
+.
+
+Brief Hospital Course:
+ASSESSMENT AND PLAN, AS REVIEWED AND DISCUSSED IN
+MULTIDISCIPLINARY ROUNDS
+Patient is a 52 M w/ pmh of SVT and MVP who presents s/p syncope
+after exertion.
+Syncope: OSH w/ ECHO showing severe AS w/ valve area of 0.9.  He
+also was found to have LVH so this could also be consistent w/
+outflow-tract obstruction from HOCM.  Also could have been [**2-27**]
+VT.  Currently hemodynamically stable without further symptoms.
+If found to have HOCM, could be a candidate for alcohol septal
+ablation vs surgical myomectomy.  Would also potentially need an
+ICD.  If found to have critical AS as the cause, would likely
+need AVR.
+- tele
+- ECHO
+- low-dose metoprolol to inc filling time
+CAD: no history. Had trop leak in the setting of [**Month/Day (2) 22731**] so would
+not consider this ACS.
+- fasting lipids
+Taken to the OR on [**10-20**], underwent AVR (tissue), please see
+operative report for details of surgical procedure.  He was
+weaned from mechanical ventilation, and extubated the day of
+surgery.  His chest tubes were removed on POD # 1, and he was
+transferred from the ICU to the telemetry unit.  He has remained
+hemodynamically stable, and is ready to be discharged home.  Due
+to relatively low BP (asymptomatic), he is being discharged with
+no beta blockers per Dr. [**Last Name (STitle) **].
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for
+5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+2. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO once a day for 5 days.
+Disp:*10 Capsule, Sustained Release(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+6. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+AS
+HTN
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+no driving for 1 month
+may shower, no bathing or swimming for 1 month
+no lifting > 10# for 10 weeks
+no lotions, creams or powders to any incisions
+
+Followup Instructions:
+[**Last Name (STitle) 14331**] in [**2-28**] weeks
+with Dr. [**Last Name (STitle) 3953**] in [**2-28**] weeks
+with Dr. [**Last Name (STitle) **] in 4 weeks
+Please call for appointments
+
+
+
+Completed by:[**3198-10-23**]

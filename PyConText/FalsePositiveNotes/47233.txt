@@ -1,0 +1,253 @@
+Admission Date:  [**2624-7-22**]              Discharge Date:   [**2624-7-24**]
+
+Date of Birth:  [**2559-6-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**Last Name (NamePattern1) 1064**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization s/p drug-eluting stent to LAD
+
+
+History of Present Illness:
+65 F with pmh of DL p/w chest pain.
+
+patient was in USOH until ~ 945pm on the day of admission. She
+even walked the streets of [**Location (un) **] the prior week. Never any
+history of chest pain, pressure, nausea, indigestion. Watching
+TV, had burning, non-radiating, stuttering SS CP. Called 911,
+went upstairs, took 81mg of ASA and 20 mg of Atorvastatin.
+
+En route, at 2146, mild STE in [**Last Name (LF) **], [**First Name3 (LF) **] STE in V1-V3, STD in
+II. At 2200, only marginal STE in V2. At 2215, original pattern
+reccurred.
+
+In the ED, p/w HR80 BP 160/80. Received 600 mg Plavix, Heparin
+gtt, Nitro gtt, morphine, zofran. Presenting trop is 0.02. In
+the lab at 1058, maintained on IV heparin (1100/hr), NTG
+(20mcg/hr), Bivalrudin. Received bolus Nicardipine (200mcg), NTG
+(200mch) and Fent (25 mcg) received PROMUS DES to 90% LAD
+lesion. Also had several discrete tight LCX lesions with 30%
+lesions in RCA. No integrillin. Post-cath EKG with TWFlattening
+in III, aVF and V2.
+
+In the CCU, patient is pleasant and symptom free.
+
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, hemoptysis, black stools
+or red stools. S/he denies recent fevers, chills or rigors. S/he
+denies exertional buttock or calf pain. All of the other review
+of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia
+2. CARDIAC HISTORY: none
+3. OTHER PAST MEDICAL HISTORY:
+- Chronic Cough with spirometry WNL as of [**1-/2623**]
+- Postnasal drip
+- possibly treated for HTN in
+
+
+Social History:
+She is a widow.  Her husband died approximately 20 years ago.
+She
+lives alone.  She works as a travel [**Doctor Last Name 47**].  She does not have
+any
+animals in her home.  She quit smoking 32 years ago.  She rarely
+drinks alcohol.  She knows of no asbestos or TB exposure.
+
+Family History:
+Her family history is notable for a mother dying at age 85 of
+heart disease.  Her father died of myocardial infarction when he
+was 52.  Her brother had coronary artery disease status post 4
+vessel CABG
+
+Physical Exam:
+Admission Exam
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 5 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits. No obvious hematoma
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**2624-7-22**] 10:14PM BLOOD WBC-8.6 RBC-4.33 Hgb-13.9 Hct-38.0 MCV-88
+MCH-32.1* MCHC-36.5* RDW-13.5 Plt Ct-198
+[**2624-7-24**] 06:30AM BLOOD WBC-6.7 RBC-4.17* Hgb-12.7 Hct-37.0
+MCV-89 MCH-30.6 MCHC-34.4 RDW-13.7 Plt Ct-167
+
+[**2624-7-22**] 10:14PM BLOOD Glucose-124* UreaN-24* Creat-0.8 Na-140
+K-4.2 Cl-103 HCO3-22 AnGap-19
+[**2624-7-24**] 06:30AM BLOOD Glucose-105* UreaN-20 Creat-1.0 Na-143
+K-4.4 Cl-105 HCO3-27 AnGap-15
+
+[**2624-7-22**] 10:14PM BLOOD cTropnT-0.02*
+[**2624-7-23**] 11:14PM BLOOD CK-MB-9 cTropnT-0.24*
+[**2624-7-24**] 06:30AM BLOOD CK-MB-7 cTropnT-0.17*
+
+[**2624-7-23**] 12:16AM BLOOD %HbA1c-5.6 eAG-114
+
+Cardiac Cath ([**2624-7-22**])
+95% Prox LAD lesion, significant LCx and 30% RCA's. s/p DES to
+LAD
+
+TTE ([**2624-7-23**])
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thicknesses and cavity size are normal. There
+is mild regional left ventricular systolic dysfunction with fcal
+hypokinesis of the mid septum and distal inferior walls. The
+remaining segments contract normally (LVEF = 55 %). Right
+ventricular chamber size and free wall motion are normal. The
+diameters of aorta at the sinus, ascending and arch levels are
+normal. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are structurally normal. There is no
+mitral valve prolapse. Mild (1+) mitral regurgitation is seen.
+The estimated pulmonary artery systolic pressure is normal.
+There is no pericardial effusion.
+
+IMPRESSION: Normal left ventricular cavity size with mild
+regional systolic dysfunction c/w CAD. Mild mitral
+regurgitation.
+
+
+Brief Hospital Course:
+65 female with Anterior STEMI
+
+1. CAD:  Patient with proximal LAD thrombus, 50% LMCA, and
+significant LCx disease. She received DES to the culprit LAD
+lesion and plan to medically manage the remaining lesions.  Her
+aspirin was increased to 325 mg po qdaily.  She was started on
+plavix 150 mg PO daily for 7 days followed by 75 mg daily for at
+least one year thereafter.  She was also started on lisinopril 5
+mg po qdaily, metoprolol succinate 25 mg po qdaily and
+atorvastatin 80 mg po qdaily.  She was given phone numbers to
+set up appointment with her future cardiologist.
+
+2. questionable history of HTN: She is currently on
+cardioprotective antihypertensives which can be adjusted per her
+cardiologist or PCP
+
+3. Dyslipidemia: Atorvastatin 80 mg po qdaily per PROVE IT
+trial.  Can be adjusted per her cardiologist or PCP in the
+future.
+
+4. Chronic cough: Continued on home omeprazole, mucinex and
+fluticasone.
+
+Medications on Admission:
+Aspirin 81 mg daily
+ATORVASTATIN [LIPITOR] - 20 mg Tablet qd
+GUAIFENESIN [MUCINEX] - 600 mg x 2 [**Hospital1 **]
+.
+Historical meds
+FLUTICASONE - 50 mcg Spray IN [**Hospital1 **]
+HYDROCHLOROTHIAZIDE - 25 mg Tablet - 1 Tablet(s) by mouth daily
+
+OMEPRAZOLE - 20 mg Capsule
+
+
+Discharge Medications:
+1. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*90 Tablet, Delayed Release (E.C.)(s)* Refills:*3*
+2. clopidogrel 75 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 5 days.
+3. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): 2 tablets per day for 5 days, then 1 tablet per day for
+at least 1 year.
+Disp:*90 Tablet(s)* Refills:*2*
+4. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+5. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig:
+One (1) Tablet Extended Release 24 hr PO once a day.
+Disp:*90 Tablet Extended Release 24 hr(s)* Refills:*2*
+6. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+7. nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1)
+Sublingual prn as needed for chest pain.
+Disp:*30 tablets* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+ST elevation myocardial infarction
+.
+Secondary:
+Hyperlipidemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure caring for you at the [**Hospital1 1890**]. You were admitted for a heart attack (an
+ST-elevation MI) and went directly to the catheterization lab
+where a stent was placed in one of your coronary arteries - your
+left anterior descending artery. Your EKG and cardiac enzymes
+after the cath procedure were all improved. We changed several
+of your medications to help improve your heart health. The most
+important medications are aspirin and Plavix - these medications
+will help keep your stent patent. Take Plavix every day and do
+not stop the medication unless directed by your cardiologist. It
+will be important for you to watch your diet and to exercise to
+prevent a second heart attack.
+.
+We made the following changes to your medications:
+We INCREASED Aspirin to 325 mg per day
+We INCREASED Atorvastatin to 80 mg per day
+We STARTED Plavix - 150 mg for the next 5 days, then 75 mg per
+day for at least 1 year
+We STARTED Lisinopril 5 mg per day
+We STARTED Metoprolol Succinate 25 mg per day
+Sublingual nitroglycerin 0.4 mg as needed for chest pain. Please
+call your cardiologist office as well.
+.
+The information for follow-up is listed below.
+
+Followup Instructions:
+It will be important for you to have a cardiologist. The
+cardiologist who performed your catheterization was Dr. [**First Name8 (NamePattern2) 225**]
+[**Last Name (NamePattern1) 3666**]. To set up an appointment with him, please call
+[**Telephone/Fax (1) 27154**]. If you choose to see a cardiologist closer to
+home, one recommendation is Dr. [**First Name (STitle) **] [**Name (STitle) **] at [**Hospital1 **]- [**Location (un) **]. Her
+office # is [**Telephone/Fax (1) 6167**].
+.
+You should also call Dr.[**Name (NI) 31107**] office to make an appointment
+to see her this week so that she is up to date about your recent
+hospitalization and medication changes.
+
+
+

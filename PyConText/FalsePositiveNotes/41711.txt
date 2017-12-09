@@ -1,0 +1,247 @@
+Admission Date:  [**2719-11-11**]              Discharge Date:   [**2719-11-24**]
+
+Date of Birth:  [**2649-6-21**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 356**]
+Chief Complaint:
+SOB, Palpitations, Chest pain
+
+
+Major Surgical or Invasive Procedure:
+[**2719-11-13**]
+Coronary artery bypass grafting x4
+(LIMA-LAD,SVG-PLVB,SVG-D2,SVG-RI)
+
+History of Present Illness:
+This 70 year old male was admitted to another institution on
+[**11-6**]
+with shortness of breath, chest discomfort and confusion.  He
+was
+seen the day prior to admission by Dr [**First Name4 (NamePattern1) 886**] [**Last Name (NamePattern1) **] and had a
+Holter monitor placed. He was found to be in rapid atrial
+fibrillation with a rate in the 150's when he presented to the
+ED. He was brought to the cath lab [**11-6**] which showed EF 10-15%
+as well as a
+100% LAD and RCA and Cx lesions. He was ruled out for MI and
+started
+on Lovenox for the atrial fibrillation. He was transferred to
+[**Hospital1 4**] for evaluation for revascularization.
+
+
+Past Medical History:
+Coronary Artery Disease
+s/p Coronary Artery Bypass [**2719-11-13**]
+Atrial Fibrillation
+Cerebrovascular Accident
+Hypertension
+
+
+Social History:
+Lives with: Wife, dtr, son in law
+Contact:                      Phone #
+Occupation: Retired - goes back and forth between USA and
+[**Country 2591**] Republic every few months
+Cigarettes: Smoked no [x] yes [] last cigarette _____ Hx:
+Other Tobacco use:
+ETOH: < 1 drink/week [x]  [**2-17**] drinks/week [] >8 drinks/week []
+Illicit drug use - none
+
+
+Family History:
+Premature coronary artery disease - none
+
+
+Physical Exam:
+Pulse:82 Resp:18  O2 sat: 99% RA
+B/P  Right:129/84    Left:
+Height:68"     Weight:153#
+
+General: AAO x 3 in NAD, Spanish speaking, pleasant
+Skin: Dry [x] intact [x] Vitaligo left hand
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM []
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema trace LE edema
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:groin hematoma, + TTP   Left:2+
+DP           Right:1+   Left:1+
+PT           [**Name (NI) **]:1+   Left:1+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right:none    Left:none
+
+
+Pertinent Results:
+[**2719-11-19**] 06:05AM BLOOD WBC-7.9 RBC-3.50* Hgb-10.2* Hct-31.9*
+MCV-91 MCH-29.1 MCHC-31.9 RDW-15.2 Plt Ct-213
+[**2719-11-19**] 06:05AM BLOOD Glucose-102* UreaN-23* Creat-1.0 Na-137
+K-4.7 Cl-97 HCO3-31 AnGap-14
+
+[**2719-11-13**] Intra-op TEE
+Conclusions
+Pre-CPB:
+Mild spontaneous echo contrast is present in the left atrial
+appendage.
+A patent foramen ovale is present. A left-to-right shunt across
+the interatrial septum is seen at rest.
+Overall left ventricular systolic function is severely depressed
+(LVEF= 10 - 15 %), with septal, lateral and anterior
+hypokinesis, and inferior akinesis. There is mild echo contrast
+in all [**Doctor Last Name 1858**].
+There is mild global free wall hypokinesis.
+There are simple atheroma in the descending thoracic aorta.
+The aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. No aortic regurgitation is seen.
+The mitral valve leaflets are moderately thickened. Mild to
+moderate ([**1-12**]+) mitral regurgitation is seen.
+There is no pericardial effusion.
+There is a small left pleural effusion.
+The tip of the SGC is at the PA bifurcation.
+
+Post-CPB:
+The patient is AV-Paced, on infusions of epinephrine and
+nitroglycerine.
+RV systolic fxn is unchanged.
+The LV is slightly improved, with all walls moving slightly
+better than pre-bypass. EF is now 15 - 20%.
+The PFO is unchanged.
+MR is trace - 1+. No AI. Aorta intact.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) 163**] [**Last Name (NamePattern1) 706**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2719-11-14**] 11:07
+
+
+Brief Hospital Course:
+The patient was brought to the Operating Room on [**2719-11-13**] where
+he underwent Coronary Artery Bypass x 4 with Dr. [**Last Name (STitle) **].  Overall
+the patient tolerated the procedure well and post-operatively
+was transferred to the CVICU in stable condition for recovery
+and invasive monitoring.
+
+POD 1 found the patient extubated, alert and oriented and
+breathing comfortably.  He developed rapid atrial fibrillation
+and was bolused with Amiodarone.  He did require epicardial
+pacing and NeoSynephrine for blood pressure support.  He
+converted to Sinus Rhythm.  The patient was neurologically
+intact. Hemodynamics improved and he was weaned from inotropic
+and vasopressor support.  Beta blocker was initiated and the
+patient was gently diuresed toward the preoperative weight.  The
+patient was transferred to the telemetry floor for further
+recovery.  Chest tubes and pacing wires were discontinued
+without complication.  Lisinopril was started for further blood
+pressure control in the setting of systolic heart failure with
+an EF 10-15%.  The patient was evaluated by the Physical Therapy
+service for assistance with strength and mobility.
+
+As he had no benefits for rehabilitation admission he was kept
+in house for further recovery prior to returning home with his
+wife.  By the time of discharge on POD 13 the patient was
+ambulating with his walker, the wound was healing and pain was
+controlled with oral analgesics.  The patient was discharged  in
+good condition with appropriate follow up instructions.
+
+PT WILL TAPER HIS AMIO, NO COUMADIN
+
+Medications on Admission:
+Toprol 50 daily, ASA 81 daily
+
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+3. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever.
+4. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. metoprolol succinate 25 mg Tablet Extended Release 24 hr Sig:
+0.5 Tablet Extended Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*2*
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+7. lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+Disp:*30 Suppository(s)* Refills:*0*
+9. amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day): PLEASE TAPER 200 MG BO [**Hospital1 **] X 7 DAYS, THEN 200 QD UNTIL
+YOU FOLLOW UP WITH YOUR PCP.
+10. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+11. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 7
+days.
+Disp:*7 Tablet(s)* Refills:*0*
+12. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO once a day for 7 days.
+Disp:*14 Tablet Extended Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Coronary Artery Disease
+s/p Coronary Artery Bypass [**2719-11-13**]
+Atrial Fibrillation
+Cerebrovascular Accident
+Hypertension
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Wound Check at Cardiac Surgery Office [**Telephone/Fax (1) 294**]
+Surgeon: Dr. [**Last Name (STitle) **]  ([**Telephone/Fax (1) 294**]) on [**2719-12-25**] at 1pm
+        Wound check on [**2719-11-27**] at 10:30pm at [**Last Name (NamePattern1) 68**],
+[**Hospital Unit Name 387**]
+Cardiologist Dr. [**Last Name (STitle) **] on [**2719-12-1**] at 1:30pm
+Please call to schedule the following:
+Primary Care Dr. [**Last Name (STitle) **],[**Last Name (un) 14488**] [**Doctor Last Name **] [**Telephone/Fax (1) 14489**] in [**4-15**]
+weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2719-11-23**]

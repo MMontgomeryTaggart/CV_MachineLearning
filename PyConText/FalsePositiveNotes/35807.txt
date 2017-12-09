@@ -1,0 +1,308 @@
+Admission Date:  [**3333-11-25**]              Discharge Date:   [**3333-12-11**]
+
+Date of Birth:  [**3259-9-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Demerol / Heparin Agents
+
+Attending:[**First Name3 (LF) 1430**]
+Chief Complaint:
+VT storm
+
+Major Surgical or Invasive Procedure:
+VT ablation
+Endotracheal intubation and mechanical ventilation
+
+History of Present Illness:
+Pt is a 74-year-old male with a history of idiopathic dilated
+cardiomyopathy s/p CRT/D (ICD), VT on amioderone, admitted to
+OSH with VT, transfered to [**Hospital1 22**] for possible VT ablation.
+Patient is poor historian, and information taken from transfer
+paperwork. Patient began to experience ICD firing 2 months prior
+to presentation. At that time, he was advised to take
+amioderone/mexiletine, but patient declined mexiletine due to
+concern of polypharmacy. On [**11-16**], patient's ICD again fired,
+and was admitted to [**Hospital **] hospital. It appears that patient
+was asymptomatic to VT, and only felt a premonatory fluttering
+before shock. He denies any chest pain, SOB, lightheadedness, or
+syncope. While admitted, patient had recurrent VT, and was
+transfered to [**Hospital 31481**] Hospital for VT ablation on [**11-23**]. During
+that hospitalization, he was on azithro/zosyn, but does not
+appear patient had any clear infection.
+.
+At [**Location (un) 31481**], despite being managed on amioderone/lidocaine,
+patient had recurrent VT, which was reportedly broken with both
+ATP pacing and ICD firing. Dr. [**First Name4 (NamePattern1) 12**] [**Last Name (NamePattern1) 31482**] attempted a VT
+ablation. The patient became hypotensive and hypoxic during the
+procedure, and case was aborted. The patient was continued on
+amiodarone/lidocaine, and intially transitioned to mexiletine,
+but with recurrent VT, lidocaine was re-intiated. Patient
+transfered to [**Hospital1 22**] for further manegement.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, cough, hemoptysis, black stools or
+red stools. He denies recent fevers, chills or rigors. He denies
+exertional buttock or calf pain. The patient says he has been
+experiencing a productive cough. All of the other review of
+systems were negative.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS:: Dyslipidemia
+2. CARDIAC HISTORY:
+-PACING/ICD: BiV-ICD
+3. OTHER PAST MEDICAL HISTORY:
+.
+Idiopathic CM with NYHF III
+Mod-Sev MR
+Mild AS
+VT on amioderone
+B/L Knee OA s/p R Knee replacement [**3331**]
+Gout
+Unclear why on coumadin
+
+
+Social History:
+-Tobacco history: No Quit smoking:
+-ETOH: Denies
+-Illicit drugs: No
+
+
+Family History:
+No family history of early MI, otherwise non-contributory.
+
+Physical Exam:
+VS: T=98 BP=114/63 HR=92 RR=14
+GENERAL: Diaphoretic male, appears uncomfortable, moaning in
+pain. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. Right pupil RRL, Anasacoria of
+left pupil EOMI. Conjunctiva were pink, no pallor or cyanosis of
+the oral mucosa. No xanthalesma.
+NECK: Supple with JVP of 8 cm.
+CARDIAC: PMI laterally displaced RR, normal S1, ? paradoxically
+spit s2, + s4, [**1-8**] early intiated blowing murmur loudest at
+apex. No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: Trace UE edema, no pre-tibial edema
+SKIN: ? infected papule in LUE, LLE slightly cool
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 1+ DP diminished
+Left: Carotid 2+ Femoral 2+ Popliteal 1+ DP diminished
+
+
+Pertinent Results:
+LABS ON ADMISSION:
+.
+HEMATOLOGY:
+[**3333-11-25**] 10:22PM BLOOD WBC-16.0* RBC-4.49* Hgb-13.2* Hct-38.9*
+MCV-87 MCH-29.5 MCHC-34.0 RDW-15.4 Plt Ct-361
+[**3333-11-25**] 10:22PM BLOOD Neuts-90.1* Lymphs-6.3* Monos-2.8 Eos-0.6
+Baso-0.2
+[**3333-11-25**] 10:22PM BLOOD PT-15.2* PTT-23.5 INR(PT)-1.3*
+.
+CHEMISTRY:
+[**3333-11-25**] 10:22PM BLOOD Glucose-103 UreaN-33* Creat-1.2 Na-135
+K-4.6 Cl-98 HCO3-27 AnGap-15
+[**3333-11-25**] 10:22PM BLOOD ALT-36 AST-51* LD(LDH)-479* AlkPhos-82
+TotBili-0.9
+[**3333-11-25**] 10:22PM BLOOD Albumin-3.1* Calcium-8.6 Phos-3.4 Mg-2.2
+[**3333-11-25**] 10:22PM BLOOD TSH-2.2
+[**3333-11-27**] 01:36PM BLOOD Type-ART pO2-186* pCO2-33* pH-7.48*
+calTCO2-25 Base XS-2
+[**3333-11-26**] 06:11AM BLOOD Lactate-1.5
+.
+MICROBIOLOGY:
+Bl Cx - negative
+Urine Cx - negative
+Sputum - yeast, oropharyngeal flora
+.
+CARDIOLOGY:
+.
+EKG [**11-26**]: Atrial sensed, ventricular paced rhythm. No previous
+tracing available for comparison.
+.
+ECHO [**11-27**]: The left atrium is mildly dilated. Left ventricular
+wall thicknesses are normal. The left ventricular cavity is
+severely dilated. There is an inferobasal left ventricular
+aneurysm. There is severe regional left ventricular systolic
+dysfunction with akinesis of the inferior, inferolateral and
+lateral walls, as well as the distal [**12-5**] of the ventricle.
+Anterior and septal wall function is relatively preserved,
+though not normal (LVEF = 20-25%). The right ventricular cavity
+is mildly dilated with severe focal hypokinesis of the apical
+free wall, and milder hypokinesis of the rest of the free wall.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Mild to moderate ([**12-4**]+) aortic
+regurgitation is seen. Mitral valve leaflets are mildly
+thickened. There is bileaflet systolic tenting, secondary to LV
+dilatation and chordal tension. There is no mitral valve
+prolapse. A slightly eccentric, posteriorly-directed jet of
+moderate to severe (3+) mitral regurgitation is seen. There is
+severe pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+IMPRESSION: Dilated left ventricle with an inferobasal LV
+aneurysm and severe regional systolic dysfunction. Regional
+right ventricular dysfunction. Mild to moderate aortic
+regurgitation. Moderate to severe mitral regurgitation. Severe
+pulmonary hypertension.
+
+Findings are overall most consistent with a prior extensive
+inferoposterior and right ventricular myocardial infarction
+followed by adverse LV remodeling.
+.
+.
+RADIOLOGY:
+.
+[**11-26**] CXR: Single portable radiograph of the chest demonstrates
+no interval change in the right internal jugular central venous
+catheter, seen on the chest radiograph obtained nine hours
+prior. No pneumothorax. Cardiomediastinal contours are
+unchanged. There is megaly. There are small bilateral pleural
+effusions and mild bibasilar atelectasis. Increased airspace
+opacity involving both lungs persists, although somewhat less
+conspicuous than seen previously. Increased airspace opacity
+involving the left lower lung corresponds to the retrocardiac
+opacity seen on the previous study. The trachea is midline. No
+pneumothorax.
+IMPRESSION:
+Persistent mild CHF and retrocardiac opacity. Finding represents
+pneumonia.
+.
+.
+[**12-2**] CXR:
+IMPRESSION:
+1. Improvement of the right lung base opacity.
+2. Unchanged appearance of the left lung base opacity that could
+represent
+aspiration pneumonia.
+
+
+Brief Hospital Course:
+Patient expired on [**3333-12-11**].
+
+Pt is 74-y/o male with chronic CHF [**1-4**] idiopathic dilated CMP
+(LVEF 20-25%) and h/o VT on amioderone s/p BiV-ICD placement,
+who originally p/w VT and ICD firings to an OSH, and was
+subsequently transferred to [**Hospital1 22**] for further management.
+.
+# PUMP: Per report, hx of idiopathic dilated CMP, unknown EF
+upon arrival. Patient euvolemic on exam on presentation, with no
+impressive LE edema, no fluid overload on CXR, CVP at 7cm. He
+was continued on his home regimen of [**Last Name (un) **], Carvedilol,
+Spironolactone, and Lasix. Digoxin was held in the setting of
+VT. TTE was obtained which showed EF 20-25% with akineseis of
+interior, interolateral, lateral walls and distal [**12-5**] of the
+ventricle as well as severe focal hypokinesis of the apical free
+wall of the right ventricle + moderate to severe MR (3+) and
+severe pulmonary artery hypertension. He became hypotensive, was
+given multiple fluid boluses, and was tranferred to the CCU for
+dopamine drip.  A central line was placed, and he was found to
+have elevated CVP consistent with worsening heart failure. The
+decision was made after converations with his family to
+transition to comfort measures only.  Pressors and other
+medications were stopped except morphine for comfort.  He
+expired two days later.
+.
+# RHYTHM: Patient with reports of multiple recurrent VT and ICD
+firings, but no EKG of VT in records or EPS performed at OSH.
+Unclear if patient symptomatic during episodes. Per records,
+attempt at ablation was aborted [**1-4**] to hypoxia/hypotension at
+[**Location (un) 31481**]. Patient transferred in A-sense/V-paced rhythm, on
+amiodarone gtt and lidocaine gtt, with PRN lidocaine boluses. On
+further investigation was found to have poor LV lead placement
+and this lead was deactivated. On [**11-27**] he was brought to the EP
+lab for limited VT endocardial ablation, but arrhythmia could
+not be induced. It was felt that he would need an epicardial
+ablation, however this was not performed at this time because of
+elevated WBC count and finding of pneumonia on CXR. He was
+intubated during the procedure and remained on mechanical
+ventilation until [**11-30**]. Pt was switched to amiodarone PO and
+mexilitene PO was started. Lidocaine gtt weaned and
+discontinued. All anti-arrhythmics were discontinued when the
+decision was made to transition to comfort care.
+.
+# CORONARIES: Patient denies history of MI or CP, and no hx of
+CAD per OSH records.
+.
+# VALVES: 2+ AR, 3+ MR likely [**1-4**] dilated CMP.
+.
+# Respiratory failure: Pt transferred with episodes of VT and
+hospital-acquired PNA. Ablation was attempted urgently given
+difficulty to control with meds. Pt required reintubation
+post-procedure because of hypoxemia likely [**1-4**] worsening PNA and
+pulmonary edema. Pt's condition improved with diuresis and abx.
+Extubation was successfully performed on [**3333-11-30**].
+.
+# Acute renal failure:  Pt developed progressively decreasing
+urine output and increasing creatinine, likely secondary to poor
+forward flow from CHF.
+.
+# Hospital-acquired Pneumonia: Patient with temp of 101.2
+rectally on admission, and later spiked to 102F on [**11-27**]. WBC of
+16 w left-shift. CXR showed a LLL pneumonia, and he was treated
+with a 10-day course of Zosyn and Vancomycin to cover for
+hospital-acquired pneumonia given that pt has been hospitalized
+since [**3333-11-16**]. Blood, urine and sputum cultures were
+negative. When he became hypotensive and urine output decreased,
+he was again short of breath, adn vancomycin and zosyn were
+restarted empirically for potentially incompletely treated
+hospital-acquired pneumonia.  These were stopped when he
+transitioned to comfort measures only.
+.
+# Hypothyroidism: Patient with markedly elevated TSH at OSH.
+Normal here.
+.
+# Hyperlipidemia: Continued lipitor.
+.
+# Hiccups: pt developed episodes of hiccups. Promethazine was
+started.
+.
+# Anxiety/?AMS: Pt received ativan prn anxiety. Social work was
+consulted for stress management and family coping.
+.
+
+Medications on Admission:
+Home Medications:
+Lipitor 40mg daily
+Lorazepam 0.25mg PRN
+Spironolactone 50mg daily
+Lasix 60mg qam; 20mg qPM
+Amiodarone 200mg daily
+Digoxin 0.125mg daily
+Cozaar 25mg daily
+Coreg 3.125 [**Hospital1 **]
+Coumadin
+Allopurinol
+.
+Medications at Transfer:
+Spironolactone 50mg daily
+Lasix 20mg qpm
+Lasix 60mg qam
+Carvedilol 3.125mg [**Hospital1 **]
+Lipitor 40mg daily
+Losartan 25mg daily
+Allopurinol 100mg [**Hospital1 **]
+Lidocaine gtt
+Baclofen 10mg q8 PRN
+Alprazolam 0.25mg q12 PRN
+Amiodarone ggt
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+patient expired
+
+Discharge Condition:
+expired
+
+
+Completed by:[**3333-12-11**]

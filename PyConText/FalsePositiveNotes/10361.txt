@@ -1,0 +1,377 @@
+Admission Date:  [**2583-5-20**]              Discharge Date:   [**2583-5-27**]
+
+Date of Birth:  [**2508-4-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2512**]
+Chief Complaint:
+Dehydration, anion gap metabolic acidosis
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This is a 75 y.o. male with past medical history of coronary
+artery disease s/p CABG, pacemaker placement, ? of cirrhosis,
+and EtOH abuse who presented on [**2583-5-20**] with four or five days
+of nausea/vomiting, malaise, and poor PO intake.  He denied any
+bloody emesis, hematochezia/melena, or diarrhea and was still
+passing normal bowel movements and flatus.  He reported that his
+nausea wasn't constant but seemed to be increasing in frequency
+and severity over the days just prior to presentation.  He
+reports abdominal pain was a minimal portion of this syndrome.
+He reported some occasional right sided, non-radiating,
+non-exertional chest pain that had been going on about a month.
+
+
+In the ED, VS:T98.3 HR94 BP120/96 RR 20 98%RA. Given  his
+history of alcohol abuse he received thiamine, folate, K, and
+NS, as well as D50 followed by NS, prochlorperazine, and
+ondansetron for nausea.  He continued to have non-bloody and
+non-bilious but profuse emesis despite antiemetics.  He
+continued to vomit profusely while in the ED. Labs revealed an
+elevated lactate at 2.9 and an anion gap metabolic acidosis with
+HCO3 of 10.  VBG with pH of 7.19, HCT 32, Tn 0.03. He was
+transferred to medicine for further management.  On arrival to
+the floor the patient was more comfortable and vomiting less,
+however, ABG showed a pH of  7.15.  Given concern about the
+possible dangers of this acidemia and presumed need for closer
+cardiac monitoring he was transferred to the MICU.
+
+Past Medical History:
+-Coronary artery disease status post coronary artery bypass
+graft in [**2580**]
+-Hypercholesterolemia
+-Hypertension
+-Status post pacemaker placement
+-Depression
+-Gastroesophageal Reflux Disease
+-Chronic anemia with pancytopenia
+-Alcohol abuse
+-History of asthma
+-History of allergic rhinitis
+-Status post tonsillectomy
+<br>
+<b><u>HOME MEDICATIONS</b></u>
+-Sertraline
+-Atorvastatin
+-MVI
+
+
+Social History:
+History is significant for 10 years of smoking that ended
+greater than 40 years ago (stopped at age 31).  He continues to
+abuse alcohol and drinks 2-4 shots/night, but he denies any
+history of alcohol withdrawal or seizures.  No illicit drug use.
+ He is separated from his wife but continues to see her
+regularly and wants her informed of his condition.
+
+
+Family History:
+His parents both died in their 80's of malignancies.
+
+Physical Exam:
+VS: T 97.6, P 88, BP 121/61, RR 19, O2 95% on RA
+Gen: Chronically ill appearing elderly man in NAD
+HEENT: Normocephalic, anicteric, OP benign, poor dentition, MMM
+Neck: No masses or lymphadenopathy, no thyroid nodules
+appreciated
+CV: RRR, no M/R/G; there is no jugular venous distension
+appreciated; pacemaker in left upper chest with round nodule
+superior and lateral to it
+Pulm: Breathing appears unlabored and speaking in complete
+sentences, expansion equal bilaterally, diffuse wheezes on
+auscultation particularly at bases
+Abd: Soft, NT, ND, BS+, no organomegaly or masses appreciated,
+no fluid wave appreciated
+Extrem: Warm and well perfused, no C/C/E, 1+ PT and DP pulses
+bilaterally
+Neuro: A and O*3
+Psych: Pleasant, cooperative
+
+
+
+
+Pertinent Results:
+LABORATORY RESULTS
+===================
+On Presentation:
+WBC-6.0 RBC-3.20* Hgb-10.6* Hct-32.0* MCV-100* RDW-13.3 Plt
+Ct-172#
+----Neuts-88.9* Lymphs-7.3* Monos-3.3 Eos-0.1 Baso-0.4
+PT-13.4 PTT-25.2 INR(PT)-1.1
+Glucose-40* UreaN-24* Creat-1.3* Na-141 K-4.7 Cl-101 HCO3-10*
+AnGap-35*
+ALT-22 AST-71* CK(CPK)-18* AlkPhos-123* TotBili-0.8
+Calcium-7.2* Phos-3.4 Mg-1.6
+Ethanol-53*
+ALT-22 AST-71* CK(CPK)-18* AlkPhos-123* TotBili-0.8
+
+On Discharge:
+Hct-28.2*
+PT-14.6* PTT-25.9 INR(PT)-1.3*
+Glucose-121* UreaN-14 Creat-1.2 Na-140 K-4.4 Cl-112* HCO3-12*
+
+Other Studies:
+CK(CPK): 18-24*
+CK-MB: NotDone-NotDone
+cTropnT: 0.03*-0.03*
+
+MICROBIOLOGY
+============
+Stool Culture [**2583-5-23**]:
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2583-5-24**]):
+               FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+
+OTHER STUDIES
+================
+Right Upper Quadrant U/S [**2583-5-21**]:
+IMPRESSION: Somewhat limited evaluation. Liver appears
+echogenic, a finding which can be seen in fatty infiltration.
+More advanced forms of liver disease, such as cirrhosis or
+fibrosis cannot be completely excluded.  Gallbladder is
+contracted and filled with stones.
+
+Chest Radiograph [**2583-5-24**]:
+IMPRESSION:
+New patchy opacity at right base of uncertain significance -- ?
+new
+atelectasis versus early infiltrate versus differences in
+appearance due to
+change in positioning. If clinically indicated, a lateral view
+may help to
+further assess this finding.
+
+ECG [**2583-5-20**]:  Sinus rhythm. Left atrial abnormality and
+occasional ventricular ectopy.  Right bundle-branch block. Left
+anterior fascicular block. Probable prior inferior myocardial
+infarction. Compared to the previous tracing of [**2581-12-3**]
+ventricular ectopy has appeared. Otherwise, no diagnostic
+interim change.
+
+
+Brief Hospital Course:
+This is a 75 year old male with past medical history of coronary
+artery disease status post CABG, EtOH abuse, hypertension,
+hyperlipidemia, and pacemaker placement who presented with
+probable viral gastroenteritis causing nausea, vomiting, and
+dehydration with hospital course complicated by C difficile
+colitis and pneumonia.
+
+1) Anion-Gap Metabolic Acidosis: The patient presented with an
+anion gap metabolic acidosis in the context of poor PO intake
+and significant vomiting.  Given elevated lactic acid and
+improvement with IVF this was presumed due to dehydration in the
+patient's GI complaints and poor PO intake.  This had resolved
+by transfer to the floor and did not recur.
+
+2) Nausea/Vomiting: Given lack of any localizing signs of acute
+bacterial infection and lack of abdominal pain or other symptoms
+as well as lack of diarrhea on presentation this was thought
+most likely to be consistent with a rather severe case of viral
+gastroenteritis with dehydration exacerbated by the patient's
+generally poor self care and deconditioning.  As he had some
+right sided abdominal pain at presentation he also had an
+ultrasound of this area, which showed no choleycystitis.  The
+patient's symptoms improved with anti-emetics and he had less
+vomiting but he remained somewhat reluctant to eat out of fear
+of nausea.  He then developed C difficile colitis with frank
+diarrhea and had some worsening of his baseline nausea on PO
+metronidazole therapy.  Prior to discharge (on [**2583-5-27**]) he was
+switched to PO vancomycin given his persistent severe diarrhea
+and the patient's ICU stay suggesting he met criteria for severe
+disease and thus vancomycin might be the preferred [**Doctor Last Name 176**].
+
+3) Dehydration: The patient was considerably dehydrated at
+presentation, presumably due to his vomiting nausea causing
+extremely poor PO intake in the context of baseline poor
+nutrition and poor self care.  This improved with IV fluids as
+well as the patient's general symptoms.  Given the patient's
+continued poor PO intake and nausea he continued to require IV
+fluid through the time of discharge to prevent dehydration and
+hypotension.
+
+4) Acute Kidney Injury: His creatinine was elevated at 1.3 at
+presentation but had fallen back to 1.1-1.2, which is within
+this patient's normal range, by time of transfer back to the
+floor.  This was thought to be consistent with prerenal injury
+secondary to dehydration/hypovolemia.
+
+5) Hypoglycemia: Initial blood glucose of 40 at presentation.
+This was thought likely secondary to poor PO intake and alcohol
+use.  This resolved with dextrose and never recurred.
+
+6) Clostridium Difficile Colitis: The patient did not have
+diarrhea or abdominal pain at presentation and had no history of
+antibiotic treatment.  Therefore, there were no major risk
+factors for C. difficile colitis and this was not checked.  When
+he developed diarrhea on [**2583-5-23**], however, the decision was made
+to check for C difficile colitis as he was post-ICU stay.  He
+remained afebrile and without abdominal pain.  When this assay
+returned positive he was started on metronidazole on [**2583-5-24**].  He
+was switched to PO vancomycin on [**2583-5-27**] given persistent nausea
+and concern this could be associated with metronidazole.  He
+will need to take this medication for at least seven days after
+discontinuation of levofloxacin for pneumonia.
+
+7) Asthma: The patient has a history of asthma and had
+persistent issues with wheezing though he was never hypoxic on
+room air.  This was responsive to bronchodilators.  He may
+ultimately need combined inhaled corticosteroid therapy or more
+aggressive regimen in the long term but this was not initiated
+during his acute illness and in the context of possible
+pneumonia.
+
+6) Delirium: The patient developed delirium on [**2583-5-23**] in the
+context of recent transfer to the floor and dehydration.  He
+went from alert and oriented *3 to alert and oriented *1.  He
+had a history of delirium and is probably predisposed to this
+due to chronic EtOH toxicity on the brain and age.  Dehydration
+and a possible pneumonia may have also contributed to his
+general appearance of toxic-metabolic delirium.  This resolved
+after approximately two days and he remained at baseline mental
+status.
+
+7) Pneumonia: The patient's chest radiograph was benign at
+presentation but as of [**2583-5-24**] had developed a questionable
+infiltrate.  He remained afebrile at that time and really had no
+cough or other typical symptoms of pneumonia, but given his
+delirium this was treated as there was concern an infection
+could be contributing to his delirium.  Possibly, the patient
+had a pneumonia at presentation and this simply became more
+visible on chest radiograph after hydration.  He will need a
+total of ten days of levofloxacin therapy.  This was initially
+PO but switched to IV prior to discharge given the patient's
+poor PO intake and concern of malabsorption.
+
+8) ETOH: ETOH level was 53 on presentation and the patient
+continued to report last drink on the evening of [**5-19**].  He has
+no history of complicated withdrawal and never showed clear
+signs of alcohol withdrawal.  The patient's CIWA scale was
+discontinued on [**2583-5-23**] as he had been having minimal scores on
+CIWA.  The patient was seen by social work to discuss his
+alcohol use.
+
+9) Decubitus ulcer: The patient was incidentally noted to have a
+decubitus ulcer on presentation to the CCU.  This was presumably
+due to his minimal mobility at home and presumably somewhat to
+his poor nutrition.  There was never considerable erythema
+around this or frank purulence.  Good wound care was instituted
+and nutrition consult offered supplement suggestions that were
+implemented to help healing.
+
+10) General Deconditioning: The patient was noted to be very
+weak and on examination by the PT service and was considered
+unsafe to return home unsupervised.  Acute rehab was recommended
+and the patient was initially reluctant to go to rehab but then
+agreed to go.
+
+11) Anemia/Thrombocytopenia: This is chronic and he has
+previously undergone bone marrow biopsy, which showed
+hypocellularity but no strict dyserythropoesis.  This is most
+likely due to chronic myelosuppresion due to his alcohol use.
+His anemia and thrombocytopenia remained stable throughout his
+hospitalization.  Haptoglobin was normal and no schistocytes on
+smear.
+
+Prior to discharge the patient was tolerating very little PO but
+was intermittently consuming a low residue diet without event.
+He received SC heparin for DVT prophylaxis.  He was continued on
+his home H2 blocker for GI ppx.  He was full code.  His HCP was
+his separated wife, Mrs [**Name (NI) **] [**Name (NI) 1121**] at [**Telephone/Fax (1) 5597**] or
+[**Telephone/Fax (1) 5598**].
+
+
+Medications on Admission:
+-Setraline
+-Atorvastatin
+-MVI
+
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day): Use until patient is
+ambulating TID.
+4. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain, fever.
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours).
+9. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) puff Inhalation Q2H (every 2 hours) as
+needed for wheezing.
+10. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Vitamin A 10,000 unit Capsule Sig: One (1) Capsule PO DAILY
+(Daily) for 7 days.
+12. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO
+Q6H (every 6 hours) as needed for nausea.
+13. Levofloxacin 25 mg/mL Solution Sig: Seven [**Age over 90 538**]y
+(750) mg Intravenous Q48hours for 6 days: Last day of treatment
+on [**2583-6-2**].
+14. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 14 days: Last dose on [**2583-6-9**].
+15. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: Four (4) mg
+Injection Q8H (every 8 hours) as needed for nausea.
+16. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Rehab
+
+Discharge Diagnosis:
+Probable viral gastroenteritis
+Dehydration
+Pneumonia
+Clostridium Difficile Colitis
+Stage 4 decubitus ulcer
+
+
+Discharge Condition:
+With wheezes on auscultation bilaterally, 93-95% at rest on room
+air, very weak and requiring help with turning or ambulation
+
+
+Discharge Instructions:
+You were admitted because you had what was probably a viral
+infection of your digestive tract that caused your vomiting and
+nausea.  This led you to have problems eating and get
+dehydrated.  We gave you IV fluids, which helped you feel
+better.  While in the hospital, we also discovered you had an
+infection of your lungs for which we gave you antibiotics.  You
+also had an infection of your colon for which you received
+antibiotics.  Finally, we were concerned about how weak you were
+in the hospital so you were discharged to a rehabilitation
+facility to work on your strength and help care for your ulcer.
+
+Your medications have been changed.  You have been started on
+LEVOFLOXACIN and METRONIDAZOLE to treat pneumonia and C.
+difficile colitis respectively.  Please take all your
+medications as presecribed.
+
+Please return to your local ED or call your doctor if you have
+chest pain, shortness of breath, inability to tolerate food by
+mouth, or any other concerning changes in your health.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) 5591**] about 1-2 weeks after being
+discharged from rehab.  Office number [**Telephone/Fax (1) 5595**].
+
+
+

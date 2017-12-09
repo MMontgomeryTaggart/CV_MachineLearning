@@ -1,0 +1,277 @@
+Chief Complaint:
+   24 Hour Events:
+   - In the AM: Pressors were weaned off in the AM.  Patients BP/MAP
+   dropped.  She received 1.5L of NS with some response.  However, she was
+   restarted on levo as she was anasarcic and sats dropped from 98% to 91%
+   w/ fluids.  She was started on midodrine 5mg tid, to be uptitrated as
+   tolerated.
+   - KUB final read: no contrast material within the stomach identified.
+   - [**Doctor First Name 3**] does not think there is a leak, are monitoring overnight
+   - Wound consult left recs
+   - Urine cx grew: PSEUDOMONAS AERUGINOSA I-cefepime/ceftaz/gent; R
+   cipro/zosyn; and S to meropenem/tobramycin
+   - Discontinued gent given sensitivities above; continued meropenem
+   - As patient continued to require pressors, got a CT abdomen/pelvis to
+   r/o abcess/infxn (which was a somewhat limited study as iv contrast
+   given through central line):
+   1. Definite intra-abdominal fluid collection; small amount of ascites.
+   2. Bl pleural effus with lung collapse and pneumonia bl
+   3. Multiple renal & ureteral stones
+   4. Anasarca
+   5. Subcutaneous gas R forearm ? [**2-1**] IV placement vs infx
+   6. Hypodense liver lesions
+   7. Skin erosion at sacrum w/ exposure of sacrum & coccyx concerning for
+   severe decubitus ulcer and underlying osteomyelitis
+   - Couldn't place peripheral ivs, nurse tried and iv nurse tried, kept
+   the femoral central line
+   - In the AM: discontinued vanc; But restarted Vanc after CT results due
+   to concern for HAP and/or osteo. Checked ESR and CRP w/ AM labs.
+   Allergies:
+   Erythromycin (Oral) (Erythromycin Base)
+   Unknown;
+   Penicillins
+   Unknown;
+   Latex
+   Unknown;
+   Ciprofloxacin
+   localized rash
+   Last dose of Antibiotics:
+   Gentamicin - [**3481-2-17**] 09:49 AM
+   Vancomycin - [**3481-2-18**] 12:30 AM
+   Meropenem - [**3481-2-18**] 02:00 AM
+   Infusions:
+   Norepinephrine - 0.03 mcg/Kg/min
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**3481-2-17**] 10:43 AM
+   Heparin Sodium (Prophylaxis) - [**3481-2-17**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3481-2-18**] 07:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**82**] AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.1
+C (97
+   HR: 111 (82 - 111) bpm
+   BP: 105/61(78) {71/42(51) - 119/71(89)} mmHg
+   RR: 16 (7 - 18) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  4,827 mL
+                                                                    674 mL
+   PO:
+                                                                    720 mL
+             TF:
+                                                                    131 mL
+                                                                    239 mL
+   IVF:
+                                                                  3,721 mL
+                                                                    390 mL
+   Blood products:
+   Total out:
+                                                                  3,358 mL
+                                                                    680 mL
+   Urine:
+                                                                  2,708 mL
+                                                                    680 mL
+   NG:
+                                                                    650 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,469 mL
+                                                                     -6 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///20/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   227 K/uL
+   11.3 g/dL
+   77 mg/dL
+   0.3 mg/dL
+   20 mEq/L
+   3.8 mEq/L
+   9 mg/dL
+   110 mEq/L
+   137 mEq/L
+   33.7 %
+   19.6 K/uL
+        [image002.jpg]
+                             [**3481-2-15**]  04:23 PM
+                             [**3481-2-15**]  10:03 PM
+                             [**3481-2-16**]  04:56 AM
+                             [**3481-2-16**]  02:21 PM
+                             [**3481-2-16**]  09:29 PM
+                             [**3481-2-16**]  09:31 PM
+                             [**3481-2-17**]  05:20 AM
+                             [**3481-2-18**]  03:37 AM
+   WBC
+   13.2
+   28.4
+   36.5
+   26.7
+   27.7
+   19.6
+   Hct
+   38.3
+   24.3
+   37.0
+   29.4
+   32.1
+   32.8
+   33.7
+   Plt
+   335
+   284
+   272
+   [**Telephone/Fax (3) 10855**]
+   Cr
+   0.4
+   0.4
+   0.4
+   0.4
+   0.3
+   TropT
+   0.53
+   0.49
+   0.38
+   Glucose
+   118
+   101
+   138
+   108
+   77
+   Other labs: PT / PTT / INR:14.0/35.0/1.2, CK / CKMB /
+   Troponin-T:607/12/0.38, ALT / AST:13/35, Alk Phos / T Bili:71/1.3,
+   Differential-Neuts:94.0 %, Band:7.0 %, Lymph:3.5 %, Mono:1.7 %, Eos:0.6
+   %, D-dimer:[**Numeric Identifier 10824**] ng/mL, Lactic Acid:1.4 mmol/L, LDH:280 IU/L, Ca++:7.7
+   mg/dL, Mg++:1.9 mg/dL, PO4:2.2 mg/dL
+   Imaging: 1. Limited study as delayed images were not obtained and also
+   secondary to hand injection due to lack of peripheral access.
+   2. Definite intra-abdominal fluid collection. There is a small amount
+   of
+   intra-abdominal ascites.
+   3. Bilateral pleural effusions with adjacent lung collapse and
+   pneumonia bilaterally.
+   4. Multiple renal and ureteral stones which appears more fragmented
+   than prior study. Status post nephrostomy tube placement. Multiple
+   hyperdense
+   material in the urinary bladder, likely stones, decreased since prior
+   exam.
+   Trace pericardial effusion, extensive subcutaneous edema and small
+   amount of intra-abdominal ascites most compatible with anasarca.
+   5. Subcutaneous gas in the right forearm subcutaneous tissues may be
+   secondary to IV line placement. Clinical correlation for infectious
+   etiology is recommended.
+   6. Two hypodense liver lesions, stable since [**3480-2-29**]. As recommended
+   previously an MRI may be helpful in further evaluation of the
+   heterogeneous lesion in the right lobe. Multiple other liver lesions
+   seen on [**3-12**] study are not well appreciated on the current study,
+   likely due to timing of contrast.
+   7. Skin erosion at the sacral region and apparent exposure of sacrum
+   and
+   coccyx to open air is concerning for severe decubitus ulcer and
+   underlying
+   osteomyelitis. Clinical correlation is recommended.
+   Microbiology: Urine:
+   PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..
+   GRAM NEGATIVE ROD #2.    [**3470**]/ML.
+                                 SENSITIVITIES: MIC expressed in MCG/ML
+   _________________________________________________________
+                                PSEUDOMONAS AERUGINOSA
+                                |
+   CEFEPIME--------------    16 I
+   CEFTAZIDIME-----------    16 I
+   CIPROFLOXACIN---------   =>4 R
+   GENTAMICIN------------     8 I
+   MEROPENEM-------------     4 S
+   PIPERACILLIN/TAZO----- =>128 R
+   TOBRAMYCIN------------   <=1 S
+   Assessment and Plan
+ URINARY TRACT INFECTION (UTI)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ NEPHROLITHIASIS (KIDNEY STONES)
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+ IMPAIRED SKIN INTEGRITY
+ ANXIETY
+ ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+ CHRONIC PAIN
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   61F with MS, history of urosepsis, bilateral nephrolithiasis, and
+   bilateral percutaneous nephrostomy tubes who presents with hypotension
+   following a right-sided ureteroscopy and lithotripsy.
+   # Septic shock.  Secondary to urosepsis after operative manipulation.
+   Urine cultures growing GNR, speciation pending, suspect pseudomonas.
+   Blood cx remain pending. Patient off pressors and then restarted over
+   night.  Cortisol wnl.  Echo wnl and enzymes. Foley has been changed.
+   - Continue: meropenem (given PCN allergy) and gent for double coverage
+   given strong possibility of pseudomonas
+   - D/c vanc as cx growing GNR
+   - f/u bloods and urine cx.
+   - f/u urology recs
+   - Check C.diff, not sent yet
+   - Monitor decubs - no active infection evident currently.
+   - Wean pressors today and monitor hemodynamics
+   - Place PICC once off pressors
+   - Can add midodrine or given fluids if becomes hypotensive
+   # Hospital Aquired Pneumonia:
+   - Restarted Vanc
+   # ? Osteomyelitis: ? probe to bone; ESR/CRP
+   - Restarted Vanc
+   -
+   # Leaking from G tube: No contrast seen in repeat XRay.  Not leaking
+   internally.  Nolonger leaking through dressing changes.
+   - Appreciate surgery recs.
+   LEUKOCYTOSIS: Secondary to urosepsis.
+   - f/u cultures
+   - Stool for cdiff, patient has not yet stooled
+   ELEVATED INR: Unclear etiology. Consider DIC. DIC labs normal, except
+   D-dimer elevated. Platelets stable.
+   - Monitor INR and platelets
+   # Nephrolithiasis s/p perc neph tubes.  ALso neurogenic bladder with
+   foley.  Foley has been changed.
+   - f/u urology recs.
+   # NSTEMI.  Likely demand in setting of hypotension.  No ischemic ECG
+   changes. Troponin peaked at 0.53. Now trending down. No wall motion
+   abnormalities on echo.
+   - No further intervention for now, start statin
+   - start aspirin after acute illness
+   # MS.  Painful UEs and now bedbound
+   - Change back to PO home dilaudid regimen 4mg PO Q4H PRN pain now that
+   pt is advancing diet
+   - when taking POs, continue home pain, anxiety regimen.
+   # Sacral decubs.
+   - wound care consult.
+   # Depression - home meds. Feels depressed, pt has flat affect, pt
+   having difficulty coping with being debilitated.
+   - SW consult
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**3481-2-17**] 10:00 PM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3481-2-15**] 05:30 PM
+   Arterial Line - [**3481-2-15**] 10:28 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

@@ -1,0 +1,229 @@
+Chief Complaint: Hypotension
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**2656-2-11**] 08:35 PM
+   patient is on reg HD? last HD on [**2-10**]
+   -Hypotensive off pressors during the day, gave 500cc fluid bolus, still
+   hypotensive so restarted low dose levophed
+   -Cardiac Enzymes negative x2
+   -Renal to dialyze today
+   Allergies:
+   Clindamycin
+   Diarrhea;
+   Zemplar (Intraven.) (Paricalcitol)
+   Rash;
+   Levofloxacin
+   Nausea/Vomiting
+   Trazodone
+   Unknown;
+   Doxycycline
+   Nausea/Vomiting
+   Haldol (Injection) (Haloperidol Lactate)
+   pruritus;
+   Last dose of Antibiotics:
+   Vancomycin - [**2656-2-11**] 09:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2656-2-12**] 12:42 AM
+   Infusions:
+   Norepinephrine - 0.03 mcg/Kg/min
+   Other ICU medications:
+   Dextrose 50% - [**2656-2-11**] 06:20 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fatigue
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations
+   Respiratory: No(t) Cough, Dyspnea
+   Gastrointestinal: Nausea
+   Flowsheet Data as of  [**2656-2-12**] 07:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 112 (100 - 112) bpm
+   BP: 91/54(61) {75/44(50) - 110/63(74)} mmHg
+   RR: 13 (12 - 31) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  4,744 mL
+                                                                    146 mL
+   PO:
+                                                                    480 mL
+             TF:
+   IVF:
+                                                                  1,739 mL
+                                                                    146 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,744 mL
+                                                                    146 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: Well nourished, Anxious
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4, No(t)
+   Rub
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Not assessed), (Right DP pulse: Not assessed), (Left DP pulse: Not
+   assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : bilaterally but
+   improved from previously)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: 2+, Left: 2+
+   Musculoskeletal: Muscle wasting, Unable to stand
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   524 K/uL
+   9.0 g/dL
+   154 mg/dL
+   4.3 mg/dL
+   29 mEq/L
+   3.9 mEq/L
+   30 mg/dL
+   100 mEq/L
+   139 mEq/L
+   28.2 %
+   18.8 K/uL
+        [image002.jpg]
+                            [**2656-2-11**]  06:00 AM
+                            [**2656-2-11**]  03:00 PM
+                            [**2656-2-12**]  05:23 AM
+   WBC
+   10.7
+   18.8
+   Hct
+   28.4
+   28.2
+   Plt
+   468
+   524
+   Cr
+   4.0
+   4.3
+   TropT
+   0.14
+   0.14
+   0.13
+   Glucose
+   359
+   154
+   Other labs: PT / PTT / INR:14.9/27.6/1.3, CK / CKMB /
+   Troponin-T:9//0.13, ALT / AST:[**7-28**], Alk Phos / T Bili:205/1.3, Lactic
+   Acid:1.3 mmol/L, Albumin:2.3 g/dL, LDH:182 IU/L, Ca++:9.5 mg/dL,
+   Mg++:1.8 mg/dL, PO4:4.5 mg/dL
+   Imaging: CXR:
+   IMPRESSION:
+   1. Diffuse patchy airspace opacities with central prominence near the
+   hila
+   consistent with alveolar edema.
+   2. Cardiomegaly, stable.
+   3. Probable small right pleural effusion.
+   ----------
+   Ultrasound:
+   IMPRESSION:
+   1. Layering echogenic material in the gallbladder which may represent
+   stones,
+   sludge or possibly milk of calcium. No evidence of cholecystitis.
+   2. Ascites.
+   Microbiology: NGTD
+   Assessment and Plan
+ INEFFECTIVE COPING
+ IMPAIRED SKIN INTEGRITY
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+ DIABETES MELLITUS (DM), TYPE I
+ HYPOTENSION (NOT SHOCK)
+   .
+   Assessment and Plan: 44 y/o F w. DM, CAD, prior CABG h/o MRSA line
+   infections presents from HD with hypotension.
+   .
+   # Hypotension: Increasing concern for line infection.  Given rising WBC
+   count, ongoing pressor requirement and tachycardia.  However, no growth
+   from cultures to date.  Would repeat surveillance cultures today.  [**Month (only) 56**]
+   also be pneumonia although CXR most c/w volume overload.  Reinspect
+   wound today for changes although this is unlikely site of infection
+   based on initial inspection.  SBP is additional consideration given
+   moderate ascites, but in absence of liver disease is very unlikely.
+   -Will wean pressors and assess need for BP support by mental status.
+   -Consider fluid boluses although appears volume overloaded on exam
+   - Pan culture with Blood, sputum (if any), CXR, do not feel tap for SBP
+   warranted at this time given exam/history/labs.
+   - continue empiric vanco/zosyn for now, narrow at 48 hours if no
+   pressor requirement and no culture growth
+   - Consider ECHO for interval change in systolic function, tamponade,
+   other cardiac cause for hypotension
+   - r/o C. Diff
+   - Wound culture
+   .
+   #Volume/ESRD: Renal planning for HD today.  Unclear if she will be able
+   to tolerate HD and may need CVVH given hypotension and pressor
+   requirement.
+   -Total body volume overloaded.
+   .
+   # Diarrhea: resolved, follow stools.  Given nursing home resident
+   taking abx as outpatient would rule out C. Diff infection.
+   - c. diff studies
+   - guaiac stools.
+   .
+   # CAD: Continue outpatient medications except BP meds
+   - hold lisinopril, atenolol
+   .
+   # Diabetes: Last A1c was 7.4, erratic glucose control last 24 hours
+   with PM hypoglycemia.  Continue sliding scale for now, and dial down PM
+   doses as needed for hypoglycemia.
+   - Continue insulin regimen.
+   - Clarify home doses.
+   .
+   # Anemia: Likely Anemia of chronic disease due to ESRD, but given
+   report of bloody stools, and patient mildly off baseline would guaiac
+   stools.  Ferritin 490 in [**Month (only) **] so not likely to be iron deficient
+   unless having acute blood loss in stools.
+   - Hct stable, continue to trend
+   .
+   #Psych: Ongoing difficulty with participating in care plan, but able to
+   negotiate with patient at this time.  If continues to be refusing care
+   would recommend psychiatry involvement for assistance.
+   .
+   # FEN: replete electrolytes, regular diet
+   .
+   # Prophylaxis: Subcutaneous heparin,
+   .
+   # Access: femoral line placed on night of admission in ED, TDC,
+   consider change of TDC if cultures turn positive
+   .
+   # Code: presumed full
+   .
+   # Communication: Patient
+   .
+   # Disposition: pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2656-2-11**] 02:30 AM
+   20 Gauge - [**2656-2-11**] 02:32 AM
+   Dialysis Catheter - [**2656-2-11**] 08:35 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: Sucralafate
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

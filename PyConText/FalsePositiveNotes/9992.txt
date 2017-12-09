@@ -1,0 +1,241 @@
+Admission Date:  [**2708-6-23**]              Discharge Date:   [**2708-6-26**]
+
+Date of Birth:  [**2636-3-16**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Declomycin
+
+Attending:[**First Name3 (LF) 303**]
+Chief Complaint:
+Chief Complaint:L sided chest pain x5 days
+
+
+Major Surgical or Invasive Procedure:
+[**2708-6-24**]  ENDOVASCULAR REPAIR of THORACIC AORTA ANEURYSM
+
+History of Present Illness:
+History of Present Illness:
+72 yo retired nurse developed L sided chest pain about 5 days
+ago.  The pain is described as sharp and increases with movement
+or respiration and is reproducible by palpation under her L
+breast in the anterior axillary line.  Her PCP was concerned for
+a pulmonary embolism and checked a D-Dimer which was positive.
+She was sent for CTA at [**Hospital 315**] Hospital which was negative for
+pulmonary embolism but showed multiple penetrating aortic ulcers
+ which were not apparent on CT scan from [**3-1**].  She was
+transferred to [**Hospital1 68**] for further evaluation.
+
+Past Medical History:
+Past Medical History
+polymyalgia rhumatica
+hypertension
+abdominal aortic aneurysm
+
+Past Surgical History
+s/p spinal fusion
+s/p bilateral total knee replacement
+GERD
+
+
+Social History:
+No etoh/tob, no illicits
+
+
+
+Family History:
+Family history of early cardiac death
+
+
+Physical Exam:
+Physical Exam:
+Alert and oriented x 3
+VS:BP133/78   HR78      Carotids: 2+, no bruits or JVD
+Resp: Lungs clear
+Abd: Soft, non tender
+Ext: Pulses:      Left  Femoral palp,    DP palp  ,PT palp
+                  Right Femoral palp,    DP palp  ,PT palp
+Feet warm, well perfused.  No open areas.
+Left and right groin puncture sites: Dressing clean dry and
+intact. Soft, no hematoma or ecchymosis.
+
+
+Pertinent Results:
+[**2708-6-26**] 07:25AM BLOOD WBC-8.9 RBC-3.15* Hgb-8.8* Hct-28.4*
+MCV-90 MCH-28.1 MCHC-31.1 RDW-15.0 Plt Ct-185
+[**2708-6-26**] 07:25AM BLOOD Glucose-93 UreaN-12 Creat-0.8 Na-139
+K-3.9 Cl-103 HCO3-28 AnGap-12
+[**2708-6-26**] 07:25AM BLOOD Calcium-8.5 Phos-3.2# Mg-1.9
+
+CIMPRESSION:
+1.  Dilatation of the thoracic aorta to 4.7 cm in the descending
+aorta and 4.6 cm in the ascending aorta with multiple areas of
+ulceration in the arch and descending aorta (including a long
+segment portion along the posterior descending thoracic aorta)
+with eccentric mural thickening seen in the arch and descending
+aorta.
+
+This mural thickening was actually present on the previous scan
+with
+hyperdense appearance involving both the ascending and
+descending thoracic
+aortas and thought to perhaps represent intramural hematoma,
+which resolved in the ascending aorta and persisted in the
+descending aorta with subsequent ulceration in the descending
+aorta.
+
+Differential also includes aortitis given the patient's history
+of polymyalgia rheumatica with subsequent ulceration, though
+that this would persist in one area and resolve in the other
+make this less likely.  A third option is clotted dissection,
+though again why this should persist in one area and resolve in
+another is uncertain.
+
+2.  11-mm pulmonary nodule in the right lower lobe, which is
+unchanged from the prior CT in [**Month (only) 1702**].  A followup CT in nine
+months' time is recommended unless alternate consideration is
+given for other imaging for surgical evaluation.  Alternatively,
+comparison with priors can be done to determine stability.
+
+3.  Intrathoracic stomach with rotation suggesting increased
+risk of
+developing subsequent mesenteroaxial volvulus.
+
+4.  Left ninth posterior rib fracture appears acute. Correlation
+with point tenderness is recommended.
+
+
+Brief Hospital Course:
+The patient is a reasonably healthy 72-year-old female who
+presented to the emergency department on [**2708-6-23**] with a syndrome
+of left-sided chest discomfort.  She had undergone serial CAT
+scans separated by 3 months which showed significant thoracic
+aortic changes.  She has a known 4.7-cm thoracic aneurysm and
+over 3 months has developed 3 discrete areas of penetrating
+aortic ulcer with intramural hematoma. Despite good blood
+pressure control, her pain persisted over night.  Because of the
+symptomatic nature of the aneurysm and changes seen on
+subsequent CAT scans, she is taken to the operating room
+semi-urgently for endovascular repair on [**2708-6-24**].  The procedure
+was without complications. She was closely monitored in the ICU
+and then transferred to the floor in stable condition where  she
+remained hemodynamically stable.  Her diet was gradually
+advanced.  She is ambulatory with ad lib. She was discharged to
+home on POD # 2 in stable condition.  Follow-up has been
+arranged with her PCP/cardiologist Dr. [**Last Name (STitle) **] for BP and statin
+monitoring in one week and  Dr. [**Last Name (STitle) **] in one month with
+surveillance CTA.
+
+
+Medications on Admission:
+Toprol XL 100mg daily
+mobic 15mg daily
+prilosec 20mg daily
+multivitamin daily
+vitamin A daily
+magnesium daily
+cyanocobalamin
+
+
+Discharge Medications:
+1. prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. metoprolol succinate 100 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+4. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+5. meloxicam 15 mg Tablet Sig: One (1) Tablet PO once a day.
+6. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+7. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO every [**4-24**]
+hours.
+8. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for Pain.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+THORACIC AORTA ULCERATION
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were transferred to [**Hospital1 68**] after a CTA done at [**Hospital 315**]
+Hospital for your complaints of chest pain showed new
+ulcerations and dilatin your aorta. We stabilized this area with
+a stent.
+
+We restarted you on simvastatin at 20mg. Please discuss
+tolerance and monitoring of this medication at your followup
+appointment with Dr. [**Last Name (STitle) **].
+
+Division of Vascular and Endovascular Surgery
+Thoracic Endovascular Aortic Aneurysm Discharge Instructions
+
+Medications:
+??????	Take Aspirin 81mg (enteric coated) once daily
+??????	Do not stop Aspirin unless your Vascular Surgeon instructs you
+to do so.
+??????	Continue all other medications you were taking before surgery,
+unless otherwise directed
+??????	You make take Tylenol or prescribed pain medications for any
+post procedure pain or discomfort
+
+What to expect when you go home:
+It is normal to have slight swelling of the legs:
+??????	Elevate your leg above the level of your heart (use [**2-21**]
+pillows or a recliner) every 2-3 hours throughout the day and at
+night
+??????	Avoid prolonged periods of standing or sitting without your
+legs elevated
+It is normal to feel tired and have a decreased appetite, your
+appetite will return with time
+??????	Drink plenty of fluids and eat small frequent meals
+??????	It is important to eat nutritious food options (high fiber,
+lean meats, vegetables/fruits, low fat, low cholesterol) to
+maintain your strength and assist in wound healing
+??????	To avoid constipation: eat a high fiber diet and use stool
+softener while taking pain medication
+
+What activities you can and cannot do:
+??????	When you go home, you may walk and go up and down stairs
+??????	You may shower (let the soapy water run over groin incision,
+rinse and pat dry)
+??????	Your incision may be left uncovered, unless you have small
+amounts of drainage from the wound, then place a dry dressing or
+band aid over the area that is draining, as needed
+??????	No heavy lifting, pushing or pulling (greater than 5 lbs) for
+1 week (to allow groin puncture to heal)
+??????	After 1 week, gradually increase your activities and distance
+walked as you can tolerate
+??????	No driving until you are no longer taking pain medications
+
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **]: Friday [**2708-7-3**] at 11AM
+
+Department: RADIOLOGY
+When: THURSDAY [**2708-8-6**] at 10:00 AM
+With: CAT SCAN [**Telephone/Fax (1) 3279**]
+Building: CC [**Location (un) 102**] [**Location (un) **]
+Campus: WEST     Best Parking: [**Street Address(1) 621**] Garage
+
+Department: VASCULAR SURGERY
+When: THURSDAY [**2708-8-6**] at 11:30 AM
+With: [**Name6 (MD) 125**] [**Last Name (NamePattern4) 309**], MD [**Telephone/Fax (1) 310**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) 651**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+
+Completed by:[**2708-6-26**]

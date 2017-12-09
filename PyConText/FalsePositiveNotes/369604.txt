@@ -1,0 +1,215 @@
+CVICU
+   HPI:
+   [**2-6**] POD 12
+   59M s/p Emergency Type A dissection repair/replacement of ascending
+   aorta(24mm gelweave graft)/Resuspension of AV [**1-25**]
+   Wt: 95 kg  Cr: 1.4  EF: 45% HgA1c: 5.5
+   PMH: ^chol., BPH
+   [**Last Name (un) **]: Finasteride
+   Current medications:
+   Acetaminophen, Albuterol-Ipratropium, Amlodipine, Artificial Tears
+   Preserv. Free, Aspirin, Atorvastatin, Bisacodyl,  Ciprofloxacin HCl,
+   Docusate Sodium, Finasteride, Fluticasone Propionate 110mcg,
+   Furosemide, Heparin, HydrALAzine, Insulin, Lactulose, Metoprolol
+   Tartrate, Metoclopramide, OxycoDONE-Acetaminophen Elixir, Potassium
+   Chloride, Ranitidine, Vancomycin
+   24 Hour Events:
+   Remains in ICU intubated
+   Apnea episodes requiring change to MMV ventilation
+   MRI to evaluate for changes
+   Vancomycin started for + blood culture
+   Lasix restarted for diuresis
+ MAGNETIC RESONANCE IMAGING - At [**2522-2-5**] 01:00 PM
+   Post operative day:
+   POD#12 - Ascending aorta replacement
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2522-2-5**] 06:59 PM
+   Ciprofloxacin - [**2522-2-5**] 08:35 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2522-2-5**] 03:00 PM
+   Heparin Sodium (Prophylaxis) - [**2522-2-6**] 04:24 AM
+   Other medications:
+   Flowsheet Data as of  [**2522-2-6**] 05:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**24**] a.m.
+   Tmax: 37.2
+C (98.9
+   T current: 37
+C (98.6
+   HR: 87 (74 - 95) bpm
+   BP: 144/55(79) {106/46(66) - 161/76(99)} mmHg
+   RR: 19 (18 - 26) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 98.2 kg (admission): 95.4 kg
+   Height: 73 Inch
+             Total In:
+                                                                  3,268 mL
+                                                                    545 mL
+   PO:
+             Tube feeding:
+                                                                  1,263 mL
+                                                                    381 mL
+   IV Fluid:
+                                                                    745 mL
+                                                                    164 mL
+   Blood products:
+   Total out:
+                                                                  2,120 mL
+                                                                    510 mL
+   Urine:
+                                                                  2,120 mL
+                                                                    510 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,148 mL
+                                                                     35 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: MMV/PSV/AutoFlow
+   Vt (Set): 500 (500 - 550) mL
+   Vt (Spontaneous): 495 (413 - 509) mL
+   PS : 5 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 80
+   PIP: 11 cmH2O
+   SPO2: 97%
+   ABG: 7.46/47/98.[**Numeric Identifier 170**]/31/8
+   Ve: 14.5 L/min
+   PaO2 / FiO2: 245
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, BM
+   [**2-5**]
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), right groin
+   Neurologic: (Responds to: Noxious stimuli), No(t) Moves all
+   extremities, (RUE:weakness), (LUE weakness ), (RLE: Weakness), (LLE:
+   Weakness), extremity response to noxious stimuli lower extremity better
+   than upper extremities
+   Labs / Radiology
+   280 K/uL
+   8.3 g/dL
+   127 mg/dL
+   0.9 mg/dL
+   31 mEq/L
+   3.9 mEq/L
+   44 mg/dL
+   111 mEq/L
+   146 mEq/L
+   25.2 %
+   17.2 K/uL
+        [image002.jpg]
+                             [**2522-2-4**]  03:02 AM
+                             [**2522-2-4**]  08:00 AM
+                             [**2522-2-4**]  12:00 PM
+                             [**2522-2-5**]  12:11 AM
+                             [**2522-2-5**]  04:12 AM
+                             [**2522-2-5**]  04:35 AM
+                             [**2522-2-5**]  02:37 PM
+                             [**2522-2-5**]  11:01 PM
+                             [**2522-2-6**]  03:19 AM
+                             [**2522-2-6**]  03:40 AM
+   WBC
+   16.8
+   17.2
+   Hct
+   25.3
+   25.2
+   Plt
+   316
+   280
+   Creatinine
+   0.9
+   0.9
+   0.9
+   TCO2
+   34
+   31
+   31
+   31
+   34
+   Glucose
+   145
+   147
+   138
+   136
+   128
+   118
+   131
+   127
+   Other labs: PT / PTT / INR:13.6/26.7/1.2, ALT / AST:104/170, Alk-Phos /
+   T bili:133/0.7, Amylase / Lipase:47/, Differential-Neuts:88.2 %,
+   Lymph:4.6 %, Mono:6.9 %, Eos:0.1 %, Fibrinogen:76 mg/dL, Lactic
+   Acid:1.0 mmol/L, LDH:389 IU/L, Ca:8.5 mg/dL, Mg:2.0 mg/dL, PO4:3.2
+   mg/dL
+   Fluid Analysis / Other Labs: pathology
+   Aorta, fragments:
+   Elastic artery wall with medial hemorrhage and fibrin thrombus
+   consistent with dissection.
+   Microbiology: [**2-3**] blood culture [**12-28**] + gram positive cocci
+   Sputum klebsiella pneumonia
+   Assessment and Plan
+   PNEUMONIA, OTHER, RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**]),
+   HYPERGLYCEMIA, ALTERED MENTAL STATUS (NOT DELIRIUM), PLEURAL EFFUSION,
+   ACUTE, AORTIC DISSECTION, .H/O PROSTATIC HYPERTROPHY, BENIGN (BPH)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 2 hr, Pain controlled, percocet prn, MRI
+   [**2-5**] showed no significant changes, note evolution of previous infarcts
+   no new infarctions noted
+   Cardiovascular: Aspirin, Beta-blocker, - discontinue statin due to
+   increased LFT
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), remains intubated
+   unable to protect airway
+   Gastrointestinal / Abdomen: bowel regimen, increased LFT but tbili
+   normal abdomen soft, nontender
+ dc statin and will trend LFT
+   Nutrition: Tube feeding, with 250 ml water q4h
+   Renal: Foley, Adequate UO, sodium 146, free water deficit calculates to
+   2.4, continues with 1500 water q24h with feeds, change to diuril for
+   diuresis with goal even to 500 negative for 24 hours
+   Hematology: stable anemia
+   Endocrine: RISS, increase sliding scale - goal BG < 150, last 24 hours
+   less than 200
+   Infectious Disease: WBC increased from 16 ^ 17, afebrile - cipro for
+   klebsiella in sputum, vancomycin for + blood culture [**12-28**] from
+   peripheral draw awaiting speciation
+   Lines / Tubes / Drains: Foley, OGT, ETT
+   Wounds: Dry dressings
+   Imaging: CXR
+   Consults: Neurology, P.T., Nutrition
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2522-2-5**] 03:00 PM 80 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2522-1-29**] 06:00 PM
+   Arterial Line - [**2522-1-29**] 06:15 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting planning, ICU consent signed Comments: family meeting today at
+   2pm with family, CT surgery, Intensivist, neurology, social work
+   Code status: Full code
+   Disposition: ICU

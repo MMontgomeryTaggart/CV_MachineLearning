@@ -1,0 +1,215 @@
+SICU
+   HPI:
+   75M admitted to OSH for dyspnea, treated for PNA with levaquin,
+   developed worsening abd distension/colonic pseudo-obstruction,
+   transferred to [**Hospital1 **].  Found to have free air on KUB on [**2-6**].  Treated
+   conservatively but became peritoneal on [**2-8**].  In OR was found to have
+   cecal perforation, now s/p extended R colectomy, end ileostomy
+   ([**2-8**]).  Developed persistent resp failure s/p trach.  Wound
+   dehiscense s/p fascial closure [**2-20**].
+   Chief complaint:
+   Cecal perforation, wound dehiscence
+   PMHx:
+   CVA x 2 s/p left vertebral artery stent in [**3298**], s/p b/l CEA in [**3298**],
+   CAD s/p 5 vessel CABG [**3289**], s/p cath in [**1-/3299**] (preop) with stent to
+   SVG-RCA, HTN, Prostate cancer, hyperlipidemia, COPD, emphysema, s/p
+   RULobectomy for adenocarcinoma [**3291**], s/p hernia repair, thrombosed
+   pseudoaneurysm, CRI baseline creatinine 2.5-3.0, Cavitary RLL
+   abscess/PNA in [**4-19**] (treated with levo/flagyl), PVD, s/p R common and
+   external iliac stents.
+   Current medications:
+   Acetaminophen (Liquid). Albuterol 0.083% Neb Soln.
+   Albuterol-Ipratropium. Albumin 5% (25g / 500mL). Albumin 25% (12.5g /
+   50mL). Amiodarone. Ascorbic Acid. Calcium Gluconate. Chlorhexidine
+   Gluconate 0.12% Oral Rinse. Fentanyl Citrate. Fluticasone Propionate
+   110mcg. Fluconazole. Insulin. Linezolid. Magnesium Sulfate. Metoprolol
+   Tartrate. Midazolam. Pantoprazole. Phenylephrine.
+   Piperacillin-Tazobactam Na. PredniSONE. Salmeterol Xinafoate Diskus (50
+   mcg). Vitamin A
+   24 Hour Events:
+   Intermittently hypotensive overnight
+   TPN stopped
+   Intermittent desaturations to low 90s
+   Allergies:
+   Neurontin (Oral) (Gabapentin)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3303-2-19**] 10:15 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3303-2-21**] 08:00 AM
+   Linezolid - [**3303-2-22**] 12:02 AM
+   Piperacillin - [**3303-2-22**] 08:51 AM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3303-2-22**] 09:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**06**] a.m.
+   Tmax: 38.3
+C (101
+   T current: 37.9
+C (100.3
+   HR: 82 (73 - 97) bpm
+   BP: 150/50(82) {0/0(0) - 0/0(0)} mmHg
+   RR: 18 (4 - 23) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 76 kg (admission): 77 kg
+   Height: 68 Inch
+   CVP: 14 (9 - 19) mmHg
+   Total In:
+                                                                  2,693 mL
+                                                                    849 mL
+   PO:
+   Tube feeding:
+                                                                    497 mL
+                                                                    290 mL
+   IV Fluid:
+                                                                    930 mL
+                                                                    559 mL
+   Blood products:
+   Total out:
+                                                                  3,165 mL
+                                                                    595 mL
+   Urine:
+                                                                  1,365 mL
+                                                                    315 mL
+   NG:
+   Stool:
+                                                                    300 mL
+                                                                    100 mL
+   Drains:
+                                                                  1,350 mL
+                                                                    180 mL
+   Balance:
+                                                                   -472 mL
+                                                                    254 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 29 cmH2O
+   Plateau: 21 cmH2O
+   SPO2: 95%
+   ABG: ///23/
+   Ve: 12.6 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : )
+   Abdominal: Soft, Distended, dressing intact
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: [**Last Name (un) 7272**] skin with tears, ecchymoses
+   Neurologic: Sedated
+   Labs / Radiology
+   81 K/uL
+   9.5 g/dL
+   105 mg/dL
+   1.8 mg/dL
+   23 mEq/L
+   4.1 mEq/L
+   76 mg/dL
+   98 mEq/L
+   132 mEq/L
+   26.9 %
+   7.6 K/uL
+        [image002.jpg]
+                             [**3303-2-19**]  01:14 PM
+                             [**3303-2-19**]  02:41 PM
+                             [**3303-2-19**]  10:43 PM
+                             [**3303-2-20**]  02:50 AM
+                             [**3303-2-20**]  03:24 AM
+                             [**3303-2-20**]  09:33 AM
+                             [**3303-2-20**]  10:35 PM
+                             [**3303-2-21**]  03:28 AM
+                             [**3303-2-21**]  03:59 PM
+                             [**3303-2-22**]  03:53 AM
+   WBC
+   7.0
+   6.4
+   7.8
+   6.5
+   7.6
+   Hct
+   32.5
+   28.0
+   29.5
+   27.0
+   26.9
+   Plt
+   87
+   102
+   103
+   79
+   81
+   Creatinine
+   1.8
+   1.8
+   1.8
+   1.7
+   1.8
+   TCO2
+   25
+   26
+   25
+   26
+   24
+   Glucose
+   82
+   148
+   120
+   134
+   105
+   Other labs: PT / PTT / INR:13.9/30.5/1.2, CK / CK-MB / Troponin
+   T:577/10/1.01, ALT / AST:107/85, Alk-Phos / T bili:116/1.3, Amylase /
+   Lipase:406/517, Differential-Neuts:86.0 %, Band:0.0 %, Lymph:7.0 %,
+   Mono:6.0 %, Eos:0.0 %, Fibrinogen:824 mg/dL, Lactic Acid:0.9 mmol/L,
+   Albumin:1.8 g/dL, LDH:377 IU/L, Ca:7.7 mg/dL, Mg:2.0 mg/dL, PO4:4.5
+   mg/dL
+   Assessment and Plan
+   WOUND DEHISCENCE, ACUTE CONFUSION, ATRIAL FIBRILLATION (AFIB),
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **]), RENAL FAILURE, ACUTE (ACUTE
+   RENAL FAILURE, ARF), IMPAIRED PHYSICAL MOBILITY, AIRWAY, INABILITY TO
+   PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH),
+   HYPERTENSION, BENIGN, HYPOTENSION (NOT SHOCK), ACIDOSIS, METABOLIC,
+   INTESTINE, PERFORATION OF (PERFORATION OF HOLLOW VISCUS), IMPAIRED SKIN
+   INTEGRITY, CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS,
+   EMPHYSEMA) WITH ACUTE EXACERBATION
+   Assessment and Plan: Neuro: fentanyl gtt, prn versed
+   CV: amio for a-fib, prn lopressor, resuscitate with albumin
+   Resp: respiratory acidosis [**3-19**] COPD, on pred/nebs, wean to CPAP/PS
+   GI: DHT in place, hold tube feeds while on Neo
+   GU: adequate UOP, creatinine trending down, start 25% albumin
+   FEN: no IVF, will start diuresis [**2-22**] if blood pressure stable
+   Heme: HIT negative, Hct is stable
+   Endo: RISS
+   ID: Linezolid (VRE in blood) and Zosyn (cecal perf) Fluconazole (urine)
+   TLD: Foley, A-line, R SubClav, trach, Dobhoff
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3303-2-22**] 07:05 AM 30 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3303-2-10**] 10:40 AM
+   Multi Lumen - [**3303-2-12**] 10:54 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   Total time spent:

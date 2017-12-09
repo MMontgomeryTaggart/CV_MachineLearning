@@ -1,0 +1,177 @@
+Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2771-9-30**] 12:30 AM
+ CHEST PAIN - At [**2771-9-30**] 12:30 AM
+ INVASIVE VENTILATION - START [**2771-9-30**] 02:23 AM
+ MULTI LUMEN - START [**2771-9-30**] 02:27 AM
+ ARTERIAL LINE - START [**2771-9-30**] 02:56 AM
+   Pt stable throughout day after arrival to floor.  Called to bedside at
+   MN for acute distress. Pt found to be tachypneic, 02 sats high 90s.
+   Very cold and clammy.  Slightly altered. BP initially stable. Unable to
+   get oral temperature, rectal temp 98. Given Nebs, 02. c/o chest pain.
+   Given 0.5mg morphine. ECG unchanged/uninterpretable in setting of known
+   LBBB.  CXR unchanged. BPs erratic, unable to measure pressure or 02 sat
+   as pt became more clamped down.  Became more obtunded.  Initial labs
+   notable for neg CEs, Hct increased to 50, persistent leukocytosis.
+   Right femoral access was obtained. Initial attempts to place a-line
+   unsuccsesful due to absence of peripheral pulses. Pt bolused 3L,
+   started on pressors, initially dopamine, then levo added once CVL
+   placed.   Due to obtundation, inability to monitor 02 sat and
+   difficulty acquiring information from arterial blood gas, anaesthesia
+   was called and emergent intubation was performed with etomidate.
+   Anaesthesia able to place femoral arterial line.  Pt had emergent TTE
+   that showed new global hypokinesis with EF ~10% (last [**3-12**] was
+   40-50%).  Initial ABG after intubation: 7.12/42/341, lactate 7.7 up
+   from 2.8 at time of admission.  Pt transitioned to dobutamine, RR
+   increased.  Skin perfusion improved, however repeat ABG worse at
+   7.06/44/251 lactate 8.  Vent settings changed to CPAP.  Zosyn started.
+   Bicarb gtt started.  Pt hyperkalemic to 6, given insulin/D5, ca
+   gluconate. [**Name (NI) **] brother [**Name (NI) **] [**Name (NI) 4716**] was called and notified of
+   patient's status.  Dopamine added back on.  LFTs continue to rise.  Pt
+   headed to CT for CT with gastrograffin contrast only.  Oliguric.
+   Allergies:
+   Univasc (Oral) (Moexipril Hcl)
+   Cough;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   leg cramps;
+   Vitamin E
+   epistaxis;
+   Ambien (Oral) (Zolpidem Tartrate)
+   disorientatio
+   Last dose of Antibiotics:
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Dobutamine - 8 mcg/Kg/min
+   Dopamine - 5 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2771-9-29**] 04:00 PM
+   Morphine Sulfate - [**2771-9-30**] 12:31 AM
+   Midazolam (Versed) - [**2771-9-30**] 04:39 AM
+   Dextrose 50% - [**2771-9-30**] 05:49 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2771-9-30**] 06:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96
+   Tcurrent: 35.6
+C (96
+   HR: 75 (69 - 106) bpm
+   BP: 109/53(75) {109/53(75) - 160/101(122)} mmHg
+   RR: 21 (9 - 41) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+             Total In:
+                                                                    130 mL
+                                                                  2,797 mL
+   PO:
+                                                                     60 mL
+             TF:
+   IVF:
+                                                                     70 mL
+                                                                  2,747 mL
+   Blood products:
+   Total out:
+                                                                    495 mL
+                                                                     25 mL
+   Urine:
+                                                                    495 mL
+                                                                     25 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -365 mL
+                                                                  2,772 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 627 (627 - 627) mL
+   PS : 10 cmH2O
+   RR (Set): 20
+   RR (Spontaneous): 21
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 16 cmH2O
+   Plateau: 13 cmH2O
+   SpO2: 93%
+   ABG: 7.06/44/251/11/-17
+   Ve: 12.6 L/min
+   PaO2 / FiO2: 502
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   133 K/uL
+   13.2 g/dL
+   101 mg/dL
+   2.1 mg/dL
+   11 mEq/L
+   6.0 mEq/L
+   67 mg/dL
+   109 mEq/L
+   140 mEq/L
+   42.3 %
+   9.5 K/uL
+        [image002.jpg]
+                             [**2771-9-29**]  04:12 PM
+                             [**2771-9-30**]  12:22 AM
+                             [**2771-9-30**]  03:04 AM
+                             [**2771-9-30**]  03:59 AM
+                             [**2771-9-30**]  04:32 AM
+   WBC
+   14.3
+   16.4
+   9.5
+   Hct
+   41.1
+   50.2
+   42.3
+   Plt
+   129
+   127
+   133
+   Cr
+   2.1
+   2.1
+   TropT
+   0.03
+   TCO2
+   15
+   13
+   Glucose
+   146
+   110
+   101
+   Other labs: PT / PTT / INR:22.4/53.4/2.1, CK / CKMB /
+   Troponin-T:64//0.03, ALT / AST:809/733, Alk Phos / T Bili:176/2.9,
+   Amylase / Lipase:190/19, Differential-Neuts:87.3 %, Lymph:9.8 %,
+   Mono:2.9 %, Eos:0.0 %, Lactic Acid:8.0 mmol/L, LDH:1358 IU/L, Ca++:7.5
+   mg/dL, Mg++:2.6 mg/dL, PO4:8.7 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2771-9-29**] 02:49 PM
+   Multi Lumen - [**2771-9-30**] 02:27 AM
+   Arterial Line - [**2771-9-30**] 02:56 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

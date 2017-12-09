@@ -1,0 +1,390 @@
+Admission Date:  [**2524-10-31**]              Discharge Date:   [**2524-11-3**]
+
+Date of Birth:  [**2450-10-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Morphine Sulfate
+
+Attending:[**First Name3 (LF) 11580**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+
+
+History of Present Illness:
+74yo woman with h/o CAD s/p MI and CABG, MVR with porcine valve
+in [**2520**], chronic GI bleed [**1-21**] AVMs, recent tibial, fibular, and
+pelvic fractures, who presents from rehab with chest pain and
+dyspnea.  Patient reports that 2 nights prior to admission, she
+had acute chest pain to the left of her sternum radiating to her
+arm and back.  Pain felt like a pressure and was associated with
+dyspnea, nausea, and sweating.  She also notes increased dyspnea
+that does not have a positional component over the last week.
+Patient received nitroglycerin and ASA without relief of her
+pain, and she was transferred to an OSH, where she ruled in for
+NSTEMI with peak TnI of 1.17.  Echo done at OSH was significant
+for newly depressed EF (10-20% vs normal EF in [**2524-8-19**]).
+Heparin and integrilin gtt were started.  Patient also had b/l
+LE ultrasound which was negative for DVT.
+.
+She is now transferred to [**Hospital1 68**] for cardiac cath.  Of note, the
+patient woke at 4am today with 15/10 chest pain across her
+chest, relieved by fentanyl but not by nitroglycerin.  Pain was
+reproducible on exam.  She now c/o [**2527-1-22**] chest pain; she is not
+feeling SOB.
+
+Past Medical History:
+Dyslipidemia
+IMI in [**2514**] treated with thrombolytics
+CABG:  SVG to Ramus in [**2520**], concurrent MVR with 25mm porcine
+valve
+Occult GI bleeding [**1-21**] upper and lower AVMs, for which she has
+required numerous transfusions, most recently 1 unit [**Unit Number **] weeks ago
+and 2 units about 3 weeks ago
+GERD
+Diverticulosis
+s/p bilateral hip replacements with revision on the right
+recent fall with R tibia-fibula fractures
+recent pelvic fracture--3 weeks ago
+costochondritis
+pseudogout
+fibromyalgia
+anxiety
+depression
+.
+PCP: [**Name10 (NameIs) 39066**] [**Name11 (NameIs) **]
+Cardiologist: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+.
+ALLERGIES:
+PCN-->rash and pruritus and hands swell
+morphine -->pruritus, reports she tolerates morphine when given
+benadryl
+
+Social History:
+Currently in rehab/short term [**Hospital1 1279**] at [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1863**] in
+[**Location (un) 1368**]; otherwise, lives with husband in [**Name (NI) 1368**].  Quit
+smoking 25 years ago (+tob x 15-20 years).  No etoh, or illicit
+drug use.
+
+Family History:
++Mother w/ MI at 54yo (also a diabetic)
+Maternal uncle with MI at 42yo
+2 half-sisters with DM
+
+Physical Exam:
+VS: 98.2   97.0   88/50 (SBP 88-125),  61   16   100% 3L
+GENERAL: No apparent distress, alert & oriented x 3, appropriate
+
+HEENT: EOMI, pale conjunctiva. Oral mucosa moist and clear.
+NECK: supple. No carotid bruits. No thyromegaly or nodule.
+CHEST: scar from prior sternotomy w/ minor scabbing, no
+scoliosis or kyphosis.  Lungs clear b/l
+CVS: RRR, nl S1/S2. No M/R/G.
+ABD: +BS. soft, NT/ND. The abdominal aorta was not palpated. No
+hepatosplenomegaly.
+EXT: Warm, without edema.
+NEURO:  alert, oriented, answers questions appropriately
+.
+Pulses:
+Right: Carotid 2+ Femoral 2+ DP 2+
+Left: Carotid 2+ Femoral 2+ DP 2+
+
+Pertinent Results:
+[**2524-10-31**] 09:44PM BLOOD WBC-5.2 RBC-4.16* Hgb-12.4 Hct-37.1
+MCV-89 MCH-29.9 MCHC-33.6 RDW-13.2 Plt Ct-259
+[**2524-11-3**] 07:50AM BLOOD WBC-6.3 RBC-3.98* Hgb-11.9* Hct-34.8*
+MCV-88 MCH-29.8 MCHC-34.1 RDW-13.0 Plt Ct-205
+[**2524-11-3**] 07:50AM BLOOD PT-13.1 PTT-31.0 INR(PT)-1.1
+[**2524-10-31**] 09:44PM BLOOD Glucose-111* UreaN-23* Creat-1.3* Na-139
+K-3.6 Cl-100 HCO3-30 AnGap-13
+[**2524-11-1**] 04:45AM BLOOD Glucose-202* UreaN-23* Creat-1.5* Na-137
+K-3.8 Cl-96 HCO3-30 AnGap-15
+[**2524-11-1**] 07:44PM BLOOD Glucose-125* UreaN-19 Creat-1.2* Na-140
+K-3.7 Cl-102 HCO3-29 AnGap-13
+[**2524-11-3**] 07:50AM BLOOD Glucose-98 UreaN-19 Creat-1.1 Na-139
+K-4.6 Cl-101 HCO3-29 AnGap-14
+[**2524-10-31**] 09:44PM BLOOD ALT-32 AST-39 LD(LDH)-223 CK(CPK)-48
+AlkPhos-72 TotBili-0.5
+[**2524-11-3**] 07:50AM BLOOD ALT-74* AST-76* LD(LDH)-276* AlkPhos-82
+Amylase-51 TotBili-0.5
+[**2524-10-31**] 09:44PM BLOOD CK-MB-NotDone cTropnT-0.17* proBNP-[**Numeric Identifier **]*
+[**2524-11-1**] 04:45AM BLOOD CK-MB-NotDone cTropnT-0.24*
+[**2524-11-2**] 03:34AM BLOOD CK-MB-NotDone cTropnT-0.18*
+[**2524-10-31**] 09:44PM BLOOD ALT-32 AST-39 LD(LDH)-223 CK(CPK)-48
+AlkPhos-72 TotBili-0.5
+[**2524-11-1**] 04:45AM BLOOD CK(CPK)-93
+[**2524-10-31**] 09:44PM BLOOD Triglyc-99 HDL-54 CHOL/HD-2.5 LDLcalc-61
+.
+EKG:
+NSR with normal axis, inf Q waves and TWI in inferior and
+lateral leads, new compared to [**2520**] (T waves flat at that time).
+
+.
+2D-ECHOCARDIOGRAM:
+[**2524-9-4**] (report from [**Hospital1 **]): "LVH, normal LV fxn, mild
+to mod pulmonic insufficiency"
+[**2524-10-31**] (report from [**Hospital1 **]): "limited
+2d-echocardiogram: dense septal and apical akinesis with EF
+10-20%, profoundly changed from prior."
+.
+ETT:
+p-[**First Name9 (NamePattern2) **] [**2524-9-8**] (report from [**Hospital1 **]): "no significant
+perfusion defects"
+.
+CARDIAC CATH:
+([**Hospital1 **] in [**2520**]): 40% occluded RCA, 50% LMCA
+.
+LABORATORY DATA:
+from [**Hospital1 **]:
+CPK 28-->43-->44
+TnI 0.04-->1.17-->1.10
+.
+CXR [**10-31**]:
+Cardiac size is top normal. The patient is post median
+sternotomy CABG and MVR. The lungs are grossly clear. There is
+no evidence of CHF or pneumonia. There are no sizeable pleural
+effusions.
+.
+CT abdomen/pelvis without contrast [**2524-11-1**]:
+1. No evidence of intra-abdominal or retroperitoneal hematoma to
+account for patient's hematocrit drop. Hematoma in the left
+iliopsoas region likely relates to subacute pelvic fractures.
+2. Left lobe hepatic cyst.
+3. Small bilateral pleural effusions and atelectasis.
+.
+TTE [**2524-11-2**]:
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and cavity size are normal. Regional left
+ventricular wall motion is normal. There is mild global left
+ventricular hypokinesis (LVEF = 45-50%). The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. A bioprosthetic mitral
+valve prosthesis is present. The mitral prosthesis appears well
+seated, with normal leaflet/disc motion and transvalvular
+gradients. Trivial mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion
+IMPRESSION: Mild global left ventricular systolic dysfunction.
+Normally-functioning mitral valve bioprosthesis.
+.
+Cardiac Cath [**2524-11-1**] (prelim report):
+No flow-limiting lesions; patent graft
+
+Brief Hospital Course:
+74yo woman with CAD s/p CABG, chronic GI bleed from AVMs, and
+recent pelvic fracture who presents with chest pain.
+.
+# Chest pain:
+In setting of small troponin leak and new LV dysfunction,
+patient was initially suspected of having CAD, put on heparin
+gtt, and brought to cath lab.  She did not have any
+flow-limiting lesions and her graft was patent (final report
+pending).  Alternative explanations for her presentation were
+considered, including viral myocarditis or Takotsubo syndrome.
+Repeat echocardiogram done at [**Hospital1 68**], however, showed only mild
+global hypokinesis with EF 45%, which did not suggest Takutsobu
+syndrome.  Moreover, her CKs were never elevated.  The patient
+has multiple other potential causes of chest pain, including
+costochondritis, fibromyalgia, and anxiety. PE was deemed
+unlikely given that patient has been on lovenox and her RV
+pressures were not significantly elevated at cath. Some of her
+pain is reproducible on exam, suggesting a musculoskeletal
+component.  She was put on IV morphine with good control of her
+pain and no symptomatic itch (although morphine is listed as an
+allergy for her).  She was transitioned to MS contin with
+oxycodone for breakthrough pain.
+.
+# Acute systolic heart failure:
+Patient had no clinical evidence of heart failure by history or
+exam.  She was put on lisinopril and metoprolol for medical
+management.  Her doses of metoprolol and lisinopril should be
+increased as tolerated by her blood pressure.  Also, her
+creatinine and K+ should be checked in one week given recent
+initiation of ACE I.
+.
+# Hypotension:
+Patient had asymptomatic hypotension with SBP in 70s after her
+cardiac catheterization.  She was felt to be oversedated after
+receiving IV fentanyl on top of her fentanyl patch.  Her
+fentanyl patch was stopped and she was monitored overnight in
+the unit.  Her blood pressures improved and remained stable
+thereafter.
+.
+# CAD s/p CABG:
+Patient had no flow-limiting lesions on cath.  Her troponins
+peaked at 0.24 and her CK was never elevated.  She was medically
+treated for CAD with ASA, beta blocker, and simvastatin.  Of
+note, her pain responded to opiates but not to nitrates.
+.
+# QT prolongation:
+Noted on EKG.  QT prolonging agents should be avoided.
+.
+# multiple fractures, chronic pain/fibromyalgia:
+Pain control as discussed above.  Bowel regimen while on
+narcotics.  Continued gabapentin and lidoderm patch to right
+back.  DVT prophylaxis with lovenox continued.  Patient should
+follow-up with her orthopedist to determine her weight-bearing
+status and continue to have care with physical therapy.
+.
+# h/o GI bleeding from AVMs and GERD; Hematocrit drop:
+After cardiac cath, Hct was drawn and dropped from 37->22.  CT
+abdomen/pelvis did not show evidence of retroperitoneal bleed,
+and recheck of Hct was 33.  The hematocrit of 22 was felt to be
+lab error.  She did receive a transfusion of 1 unit of pRBCs,
+and her Hct remained stable at 33-34 throughout the rest of
+admission.  Protonix [**Hospital1 **], sucralfate, and ranitidine were
+continued.
+.
+# Mild transaminase elevation:
+Patient ALT and AST increased from 30s to 70s while on zocor.
+Her simvastatin was stopped and her ALT and AST should be
+rechecked in one week.  Her cardiologist, Dr. [**First Name (STitle) **], should
+advise the patient as to whether to continue with simvastatin.
+.
+# Gout:
+Colchicine.
+.
+# Depression, Anxiety:
+Lorazepam continued.  Patient's trazodone had been held at
+rehab.  It was held during admission as well because of her
+hypotension.  It can be restarted at 150mg QHS and titrated up
+as necessary by her PCP.
+
+Medications on Admission:
+vicodin 5/500 1-2 tabs Q6 prn
+compazine 5mg po Q6 prn
+tylenol prn
+bisacodyl PR prn
+MVI daily
+simethicone 80mg tid
+baclofen 10mg tid
+gabapentin 300mg tid
+lidoderm to R hip
+lovenox 40mg subcut. daily
+NTG patch 0.2mg/hour on 12 hrs/off 12 hours
+ranitidine 150mg QHS
+zocor 40mg QHS
+sucralfate 1gm tid with meals
+fentanyl 50mcg/hr patch Q3D
+Aciphex 20mg [**Hospital1 **]
+ASA 81mg daily
+colace [**Hospital1 12**] prn
+Folate 1mg QHS
+Colchicine 0.6mg po BID
+Lorazepam 1mg HS PRN anxiety
+Trazodone 600mg QHS
+[**Doctor First Name 132**]
+Vitamin D
+Vitamin B shot monthly
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Aciphex 20 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO twice a day.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+5. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+6. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO QID (4 times a day) as needed for indigestion.
+7. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+8. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times
+a day).
+9. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+10. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+11. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed for constipation.
+12. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+13. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+14. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+15. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+16. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for anxiety.
+17. Enoxaparin 40 mg/0.4 mL Syringe Sig: Forty (40) mg
+Subcutaneous DAILY (Daily): Until instructed to stop by
+orthopedics.
+18. Vitamin D  Oral
+19. Vitamin B-12  Injection
+20. [**Doctor First Name 132**]  Oral
+21. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+
+22. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+23. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every six (6)
+hours as needed for pain.
+24. Morphine 15 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO Q12H (every 12 hours).
+25. Trazodone 150 mg Tablet Sig: One (1) Tablet PO at bedtime.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 39067**] [**Hospital 1863**] - [**Location (un) 1368**]
+
+Discharge Diagnosis:
+Primary Diagnosis:  Chest pain
+Secondary Diagnoses:  Coronary Artery Disease s/p CABG; Chronic
+GI bleed from AVMs; recent pelvic fracture; Depression;
+Costochondritis
+
+
+Discharge Condition:
+Patient had chest pain felt to be musculoskeletal, responding to
+oral medications.  Her blood pressure was stable and repeat
+echocardiogram demonstrated only mildly depressed ejection
+fraction.  Vitals were stable, no fevers.
+
+
+Discharge Instructions:
+You were admitted with chest pain.  You had a cardiac
+catheterization that showed that you have no blockages of the
+artieries to your heart muscle.
+1. Please take all medications as prescribed.
+2. Please attend all follow-up appointments listed below.
+3. Please call your doctor or return to the hospital if you
+develop chest pain, shortness of breath, fevers, palpitations,
+or any other concerning symptom.
+Medication changes:
+- Stop your zocor (simvastatin) because your liver enzymes were
+a little elevated.  Your liver tests will be rechecked in a week
+and your doctors [**Name5 (PTitle) **] let [**Name5 (PTitle) **] know whether you should restart
+zocor.
+- Stop your fentanyl patch because your blood pressure was very
+low when you were on fentanyl.  Instead, you are on morphine and
+oxycodone pills for pain control.
+- Stop your nitroglycerin patch for now.  You did not appear to
+benefit from the nitro patch, so we stopped it.  If you find you
+have chest pain that responds to the nitroglycerin patch, you
+can restart it.
+- We started lisinopril and metoprolol, which are medications
+that will be good for your heart and blood pressure.  Lisinopril
+is once a day; metoprolol is twice a day.
+- We also started senna to keep your bowels moving while you are
+on narcotics.
+- We are restarting your trazodone at a lower dose.  Your
+primary doctor may need to adjust this as needed in the future.
+
+Followup Instructions:
+1. Please arrange to see your primary care doctor in the next
+month.  His number is [**Telephone/Fax (1) 39068**], Dr. [**Doctor Last Name 39069**] [**Name (STitle) **]
+2. Please follow-up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], your cardiologist, in
+the next 3-4 weeks.
+3. Please see your orthopedics doctor to continue care for your
+hip.
+
+
+Completed by:[**2524-11-3**]

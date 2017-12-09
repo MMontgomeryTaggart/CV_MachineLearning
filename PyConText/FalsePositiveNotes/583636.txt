@@ -1,0 +1,166 @@
+Chief Complaint:  Ventricular Tachycardia
+   HPI:
+   This patient is a 67 y/o with a history of nonischemic cardiomyopathy
+   s/p ICD for primary prevention (VT in past, [**12-12**], VF- shocked
+   appropriately). He has been on amiodarone since since end of [**2887**], and
+   developed thyroid dysfunction. He wishes to come off the arrythmia and
+   presented to Dr. [**Last Name (STitle) **] [**11-13**] for EP study for the possibilty of
+   ablation to terminate the VT. He discontinued amiodarone 1 month ago.
+   The patient had EP study for VT/VF ablation, and was shocked externally
+   for VF. He LV and RV were mapped and there ws no scar seen, normal
+   voltage. Given that there was no scar to ablate and he had VF in the
+   lab, the plan is for dofetilide load. Of note, he had an 8 french
+   arterial sheeth and 3 venous sheeths on the right.
+   On admission to the CCU, patient was complaining of pain in his mid
+   back. he denied chest pain, lightheadedness, palpatations, shortness of
+   nreath
+   On review of systems:
+   - he denies any prior history of stroke, TIA, deep venous thrombosis,
+   pulmonary embolism, bleeding at the time of surgery, myalgias, joint
+   pains, cough, hemoptysis, black stools or red stools.
+   - He denies recent fevers, chills or rigors. He denies exertional
+   buttock or calf pain. All of the other review of systems were negative.
+   Cardiac review of systems is notable for absence of chest pain, dyspnea
+   on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+   palpitations, syncope or presyncope.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Coreg 3.125mg twice a day
+   Levothyroxine 25mcg daily every morning
+   Pravastatin 20mg daily every evening
+   Uroxatral 10mg daily every evening
+   Aspirin 81mg daily every morning
+   Amiodarone discontinued one month ago
+   Past medical history:
+   Family history:
+   Social History:
+   Nonischemic cardiomyopathy, LVEF 35%
+   s/p ICD implantation in [**2884**]
+   Ventricular Tachycardia
+   BPH
+   Resection of skin cancer
+   s/p resection of a lipoma from the back
+   His father is deceased.  He died at 76 due to congestive heart
+   failure.  His mother died of breast cancer.  He has one brother in the
+   [**Hospital3 6217**] Systems who has multiple medical problems, mostly due to
+   chronic alcohol abuse.  He has two sisters who are healthy.  There is
+   no family history of sudden cardiac death.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: He is married.  He has two daughters who are
+   healthy one [**Doctor Last Name 1236**] daughter who is also healthy.  He denies any
+   tobacco use and has alcohol on rare occasions.
+   Review of systems:
+   Flowsheet Data as of [**2889-3-21**] 08:39 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.6
+   Tcurrent: 35.9
+C (96.6
+   HR: 56 (50 - 61) bpm
+   BP: 122/62(84) {114/55(77) - 127/67(90)} mmHg
+   RR: 6 (6 - 13) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+             Total In:
+             1,440 mL
+   PO:
+             240 mL
+   TF:
+   IVF:
+   1,200 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,570 mL
+   Urine:
+   370 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -130 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   VS: T 96.2, 55, 122/62, 100% RA
+   GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pall
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi anteriorly and laterally
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. left and right groin, minimal pain, no hematoma,
+   no bruits
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+   Labs / Radiology
+        EKG: sinus brady, QTc 471 before dofetilide
+   Fluid analysis / Other labs:
+   INR: 0.9
+   141  105  19
+   ---------------< 92
+   4.5  31  0.9
+           12.9
+   5.5  >---< 219
+          37.0
+   PT: 14.1  PTT: 27.2  INR: 1.2
+   Imaging: ECHOCARDIOGRAM: Per report, EF 35%
+   CARDIAC CATH: in [**2887**], per report normal
+   Assessment and Plan
+   67 y/o M with history of nonischemic cardiomypathy with VT s/p EP
+   study, during which VF was induced, no ablation, now being loaded with
+   dofetilide.
+   Ventricular Tachycardia/Fibrillation: Patient s/p ICD, has had
+   appropriate shock for VT in the past. Had been on amiodarone, but wants
+   to discontinue secondary to toxicities. He has been off amiodarone for
+   1 month. At the EP study, he had 1 episode of VF, that was shocked, and
+   no scar to ablate.
+   - Dofetilide load, first dose 6pm. 500mg twice daily for 6 doses
+   - EKG 2 hours after first Dofetilide dose
+   - Monitor on telemetry
+   Nonischemic Cardiomyopathy: per report, EF is 20%. currently euvolemic
+   - continue Coreg 3.125mg twice a day
+   - Aspirin 81mg
+   - start lisinoprol
+   - continue pravastatin
+   Hypothyroidism: continue synthroid 25mcg
+   FEN: low salt cardiac diet
+   ACCESS: PIVs
+   ICU Care
+   Nutrition:
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   Arterial Line - [**2889-3-21**] 04:15 PM
+   18 Gauge - [**2889-3-21**] 04:27 PM
+   20 Gauge - [**2889-3-21**] 04:27 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: Not indicated
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Addendum to Physical Exam:
+   CARDIAC: nondisplaced PMI. RR, normal S1, S2. No m/r/g. No thrills,
+   lifts. No S3 or S4
+   ------ Protected Section Addendum Entered By:[**Name (NI) 2091**] [**Name8 (MD) 338**], MD
+   on:[**2889-3-21**] 21:04 ------

@@ -1,0 +1,173 @@
+CVICU
+   HPI:
+   HD4   POD 2-MV repair 28mm ring
+   Ejection Fraction:65
+   Pre-Op Weight:258 lbs   117.03 kgs
+   Baseline Creatinine:1.3
+   PMH: CHF, CAD s/p CABGx4 [**2-18**], MR, hiatal hernia, GERD, asthma,
+   ^lipids, htn, post-op A-fib- s/p DCCV [**3-21**], obesity, GI bleed [**6-20**], CRI
+   (ARF [**6-20**]), gout, anemia, rheumatic fever
+   [**Last Name (un) **]: proventil HFA 90 mcg, 2puffs QID
+   omeprazole 20', allopurinol 300', FeSO4 325', Nasonex 50mcg
+   2sprays each nostril daily, KCl 10'', Bumex 4mg am, 2mg pm, asa
+   81', lisiinopril 10', simvastatin 20', advair diskus 250/50'',
+   albuterol neb prn, mirapex qhs, lopressor 100'', norvasc 5',
+   coumadin- last dose [**2999-12-5**], bisoprolol
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen, Albuterol 0.083% Neb Soln, Allopurinol, Aspirin EC,
+   CefazoLIN, Ciprofloxacin, Docusate, Fluticasone-Salmeterol Diskus,
+   Furosemide, Insulin, Lorazepam, Metoprolol, Miconazole Powder 2%,
+   Omeprazole, Ondansetron, Oxycodone-Acetaminophen, Simvastatin, TraMADOL
+   24 Hour Events:
+   Remains in ICU on levophed, weaned off overnight, hct dropped cxr okay,
+   transfused with PRBC
+ EXTUBATION - At [**2999-12-11**] 07:59 AM
+ CHEST TUBE REMOVED - At [**2999-12-11**] 02:30 PM
+ CCO PAC - STOP [**2999-12-11**] 04:03 PM
+   Post operative day:
+   POD#2 - [**12-10**] redo sternotomy mv repair
+   Allergies:
+   Amoxicillin
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2999-12-11**] 05:20 AM
+   Cefazolin - [**2999-12-11**] 12:00 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2999-12-12**] 06:02 AM
+   Other medications:
+   Flowsheet Data as of  [**2999-12-12**] 10:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**01**] a.m.
+   Tmax: 37.3
+C (99.2
+   T current: 36.5
+C (97.7
+   HR: 77 (66 - 94) bpm
+   BP: 97/46(66) {91/35(53) - 139/49(76)} mmHg
+   RR: 17 (12 - 23) insp/min
+   SPO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 128.5 kg (admission): 117 kg
+   Height: 65 Inch
+   CVP: 15 (11 - 15) mmHg
+   PAP: (57 mmHg) / (23 mmHg)
+   CO/CI (Fick): (7 L/min) / (3.2 L/min/m2)
+   CO/CI (CCO): (6.4 L/min) / (2.9 L/min/m2)
+   SvO2: 67%
+   Total In:
+                                                                  2,122 mL
+                                                                  1,413 mL
+   PO:
+                                                                     60 mL
+                                                                    360 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,287 mL
+                                                                    103 mL
+   Blood products:
+                                                                    750 mL
+                                                                    950 mL
+   Total out:
+                                                                  2,090 mL
+                                                                    557 mL
+   Urine:
+                                                                  1,640 mL
+                                                                    557 mL
+   NG:
+                                                                    175 mL
+   Stool:
+   Drains:
+                                                                    105 mL
+   Balance:
+                                                                     32 mL
+                                                                    856 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 93%
+   ABG: 7.40///23/
+   Physical Examination
+   Labs / Radiology
+   111 K/uL
+   7.1 g/dL
+   112 mg/dL
+   1.2 mg/dL
+   23 mEq/L
+   4.5 mEq/L
+   27 mg/dL
+   108 mEq/L
+   138 mEq/L
+   26.7 %
+   5.8 K/uL
+        [image002.jpg]
+                            [**2999-12-11**]  03:13 AM
+                            [**2999-12-11**]  05:17 AM
+                            [**2999-12-11**]  07:43 AM
+                            [**2999-12-11**]  09:59 AM
+                            [**2999-12-11**]  12:00 PM
+                            [**2999-12-11**]  12:31 PM
+                            [**2999-12-11**]  04:46 PM
+                            [**2999-12-12**]  03:08 AM
+                            [**2999-12-12**]  03:33 AM
+                            [**2999-12-12**]  09:42 AM
+   WBC
+   5.8
+   Hct
+   28.2
+   21.8
+   21.0
+   26.7
+   Plt
+   111
+   Creatinine
+   1.2
+   TCO2
+   26
+   23
+   24
+   Glucose
+   113
+   82
+   155
+   99
+   112
+   Other labs: PT / PTT / INR:14.6/37.3/1.3, Fibrinogen:303 mg/dL, Lactic
+   Acid:1.6 mmol/L, Ca:8.3 mg/dL, Mg:2.4 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   VALVE REPAIR (ALL VALVES), CARDIAC DYSRHYTHMIA OTHER, MITRAL
+   REGURGITATION (MITRAL INSUFFICIENCY)
+   Assessment and Plan:
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   [**First Name4 (NamePattern1) 534**] [**Last Name (NamePattern1) **] - [**2999-12-10**] 02:00 PM
+   18 Gauge - [**2999-12-10**] 02:00 PM
+   Arterial Line - [**2999-12-10**] 02:40 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor

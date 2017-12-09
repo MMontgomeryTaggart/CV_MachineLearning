@@ -1,0 +1,223 @@
+Admission Date:  [**2583-1-30**]              Discharge Date:   [**2583-2-5**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Clarithromycin / Doxycycline
+
+Attending:[**Last Name (NamePattern1) 107**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization on [**2583-1-30**] for monitoring during
+milrinone initiation.
+
+
+History of Present Illness:
+85 yoM w/ class III CHF [**2-22**] ischemic cardiomyopathy s/p BiV ICD,
+CAD s/p CABG x2 and multiple PCIs, s/p bioprosthetic MVR,
+pacemaker dependent due to complete heart block [**2-22**] cardiac
+surgery, PAF, CRI who presents w/ worsening DOE after a recent
+admission and discharge from the hospital in [**2583-1-13**].
+.
+At the time of discharge, he was feeling at his best meaning
+that he was able to walk 2 blocks before becoming SOB. However,
+since returning home, he has become progressively more
+letharigic, SOB, and DOE to the point that he can only walk
+minimally. He is still able to do ADLs such as drive, shop,
+wash, etc. He called his PCP today because of the lethargy and
+PCP spoke to Dr. [**First Name (STitle) 90**], and patient electively admitted for
+tailored milrinone therapy.
+.
+Upon arrival to CCU, patient walked in himself, and reports
+feeling more fatigued, but breathing comfortably if he does not
+move. He denies any CP, palpitations. He does have dyspnea on
+exertion, paroxysmal nocturnal dyspnea every night, 3 pillow
+orthopnea, and ankle edema. His weight this morning was 109.
+.
+Cardiac review of systems is notable for absence of chest pain,
+palpitations, syncope or presyncope.
+.
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+
+
+Past Medical History:
+1. CAD s/p CABG in [**2556**] with a redo in [**4-/2575**]
+- stent to LAD in [**2576-1-22**].
+3. Mitral valve replacement porcine [**2575**]
+4. CHF with an EF of less then 20%.
+5. Pacemaker/DDD for post surgical complete heart block [**2575**]
+6. Atrial fibrillation - Anticoagulation stopped secondary to
+hemoptysis in [**2575-7-22**], but now resumed on coumadin
+7. CRI (baseline creatinine of 2.4 to 2.9)
+8. Prostate cancer.
+9. L eye lens replacement
+10. Dyslipidemia
+11. Hypertension
+12. Anemia: baseline HCT 38-40
+
+
+Social History:
+The patient lives lone and wife died 4 years ago. He had sons in
+[**Name (NI) 17924**] and [**Name (NI) 2336**]. Tobacco, he has a fifteen pack year
+history. He quit greater then 50years ago. Occasional alcohol.
+No elicits. Independent in all of his ADLS and recently moved to
+a retirement community in [**Location (un) **]
+
+
+Family History:
+all siblings and both parents have CAD.
+
+Physical Exam:
+VS: T , BP 110/78, HR 80 , RR 21, O2 % on
+Gen: thin, elderly aged male in mild resp distress. Oriented x3.
+Mood, affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with JVP at earlobe.
+CV: Regular, II/VI holosystolic murmur, split S2
+Chest: No crackles, but very coarse breath sounds throughout
+Abd: soft, NTND, No HSM or tenderness. No abdominial bruits.
+Ext: No c/c/e. warm
+Skin: mild erythema around a small skin abrasion at left shin
+Pulses:
+Right: Carotid 2+ without bruit; 2+ DP
+Left: Carotid 2+ without bruit; 2+ DP
+
+
+Pertinent Results:
+CARDIAC CATHETERIZATION:
+1. Resting hemodynamics prior to milrinone administration
+revealed elevated left and right sided filling pressures with
+mean PCW
+of 26 mmHg and RVEDP of 14 mmHg. There was moderate-severe
+pulmonary
+arterial hypertension with PASP of 51 mmHg. The cardiac index
+was
+depressed at 1.78 L/min/m2. The SVR was calculated to be [**2531**]
+dyne*sec/cm5.
+2. After administration of milrinone (25 mg IV bolus followed by
+0.3
+mcg/kg/min IV drip), mean noninvasive aortic pressure fell from
+80 to 63
+mmHg, arterial sat fell from 99 to 95% and SVR fell from [**2531**] to
+1195
+dyne*sec/cm5. The cardiac index increased from 1.78 to 2.16
+L/min/m2 and
+mean PCW decreased from 26 to 21 mmHg.
+
+FINAL DIAGNOSIS:
+1. Baseline moderate-severe pulmonary arterial hypertension,
+right and
+left ventricular diastolic dysfunction and severe left
+ventricular
+systolic function.
+2. Succesful milrinone trial.
+
+
+Brief Hospital Course:
+The patient was admitted for evaluation for home milrinone
+therapy.  He has a history of severe systolic heart failure,
+with multiple admissions where he has required milrinone.  We
+performed a trial of milrinone with  PA catheter in the cath lab
+to see how his cardiac index, PA pressures, and SVR responded,
+and all responses were favorable.  A PICC line was placed, and
+the patient was discharged with home milrinone.
+
+Medications on Admission:
+Amiodarone 200 mg daily
+Atorvastatin 10 mg daily
+Captopril ????
+Carvedilol 6.25 mg [**Hospital1 9**]
+Isosorbide Mononitrate 90 mg daily
+Digoxin 125 mcg as directed
+Furosemide 80 mg [**Hospital1 9**]
+Allopurinol 50 mg daily
+Warfarin 2.5 mg daily
+Albuterol IH
+Colchicine 0.3 mg daily PRN
+Epogen 10,000 unit/mL every other week
+
+
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO MWF
+(Monday-Wednesday-Friday).
+3. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Captopril 12.5 mg Tablet Sig: 0.25 Tablet PO BID (2 times a
+day).
+5. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr
+Sig: Three (3) Tablet Sustained Release 24 hr PO DAILY (Daily).
+
+6. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO MONDAY AND
+THURSDAY ().
+7. Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO DAILY16 (Once
+Daily at 16).
+10. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q4H (every 4 hours) as needed for shortness of breath.
+11. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1) mL
+Injection QMOWEFR (Monday -Wednesday-Friday).
+12. Saline flushes: Instill 2-10 cc flushes daily and prn
+13. Heparin flushes: Please instill 3-5cc flushes of heparin
+100units/mL daily and prn
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Critical Care Systems
+
+Discharge Diagnosis:
+Congestive heart failure
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+You were admitted to evaluate the utility of a drug therapy
+called milrinone for your heart failure.  We have determined
+that this medication improves your heart function, and would
+like for you to get it at home.  We placed a PICC line for long
+term intravenous therapy, which will allow you to get the
+milrinone at home.  Please do the following:
+-Weigh yourself every morning, [**Name8 (MD) 15**] MD if weight > 3 lbs.
+-Adhere to 2 gm sodium diet
+.
+.
+Please follow up with Dr. [**First Name (STitle) 90**] as indicated below
+.
+.
+Please take all of your medications as directed.
+.
+.
+If you develop any concerning symptoms please come to the
+Emergency department.
+
+
+Followup Instructions:
+Provider: [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 98**] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 441**] Date/Time:[**2583-2-17**]
+1:30
+Provider:  [**Name10 (NameIs) 1430**] CLINIC Phone:[**Telephone/Fax (1) 513**] Date/Time:[**2583-3-25**]
+2:30
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], [**MD Number(3) 1781**]:[**Telephone/Fax (1) 441**]
+Date/Time:[**2583-3-25**] 3:00
+
+
+

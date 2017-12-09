@@ -1,0 +1,177 @@
+Chief Complaint:
+   24 Hour Events:
+   Hypotensive in the low 90s, received 3 boluses 500cc NS with BP's
+   maintained in low 100s, mentating well throughout. Initially UOP <50cc,
+   then incontinent of urine. Catheter has now been placed.
+   Blood Cx from ED with 2/4 bottles growing GNRs.
+   DC'd flagyll, started on zosyn.
+   cdiff negative, resumed suppression dose p.o vanc.
+   Diarrhea x 1, O and P, stool Cx sent.
+   O: no CP, no abd pain, no nausea, vomiting, no light headedness, no
+   palpitations.
+   Allergies:
+   Ticlid (Oral) (Ticlopidine Hcl)
+   melena;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   hx of causing g
+   Last dose of Antibiotics:
+   Metronidazole - [**2579-3-31**] 01:03 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-3-31**] 07:19 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 34.7
+C (94.5
+   HR: 101 (55 - 103) bpm
+   BP: 103/61(71) {86/48(59) - 105/65(74)} mmHg
+   RR: 16 (13 - 27) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                  1,100 mL
+                                                                  3,050 mL
+   PO:
+                                                                    100 mL
+                                                                    200 mL
+   TF:
+   IVF:
+                                                                  1,000 mL
+                                                                    600 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    900 mL
+   Urine:
+   100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,100 mL
+                                                                  2,150 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///18/
+   Physical Examination
+   GEN: comfortable, pale
+   NC/AT/OPC
+   CVS: RRR, Split S2, seems to disappear with inspiration
+   Abd: +bs, soft, mildly tense, no rebound, ? involuntary guarding.
+   Ext: cool, DP/PT dopplerable, no edema, no JVP, poor cap refill.
+   Labs / Radiology
+   182 K/uL
+   10.1 g/dL
+   217 mg/dL
+   1.9 mg/dL
+   18 mEq/L
+   4.7 mEq/L
+   42 mg/dL
+   111 mEq/L
+   142 mEq/L
+   31.8 %
+   20.0 K/uL
+        [image002.jpg]
+                             [**2579-3-30**]  10:56 PM
+                             [**2579-3-31**]  04:54 AM
+   WBC
+   20.0
+   Hct
+   30.0
+   31.8
+   Plt
+   182
+   Cr
+   1.9
+   TropT
+   4.12
+   Glucose
+   217
+   Other labs: PT / PTT / INR:15.0/26.5/1.3, CK / CKMB /
+   Troponin-T:529/50/4.12, ALT / AST:194/345, Alk Phos / T Bili:128/0.4,
+   Amylase / Lipase:224/, Lactic Acid:3.6 mmol/L, Albumin:3.7 g/dL,
+   LDH:459 IU/L, Ca++:8.5 mg/dL, Mg++:2.0 mg/dL, PO4:4.5 mg/dL
+   Assessment and Plan
+ .H/O C. DIFFICILE INFECTION (C DIFF, CDIFF COLITIS, CLOSTRIDIUM
+   DIFFICILE)
+   Patient is a  83 y/o M w PAF, CAD s/p CABG/PCI and chronic C. diff
+   infection who p/w hypotension, a. fib with RVR, and leukocytosis c/w
+   sepsis initially thought to be c.diff related, now with GNR
+s growing.
+   Also has continued risk troponins with ? cardiac component.
+   .
+   #. Sepsis: volume resuscitated with 3.5LNS since admission with BPs
+   stable in low 100s systolic,mentating well and good UOP. Although
+   lactate is rising.
+   Continue zosyn IV, f/u s/s. Broaden if deteriorates.
+   Surveillance blood cultures.
+   Trend lactate
+   Maintenance fluids.
+   - Continue suppression dose vanc (? Set of 3 c.diff)
+   f/u O and P, fecal leukococytes, stool cx.
+   .
+   # Rythm : hx paroxysmal afib. Presented with afib, hemodynamically
+   unstable. Now slow afib, borderline tachycardia, although
+   HR slows to 50's in sleep. Rate has been in 80s to 90s
+   Hold home lopressor for now.
+   CHADS score 2 with prior anticoagulation with warfarin however hx
+   hemoperitoneum.
+   Continue ASA 81
+   -continue telemetry.
+   .
+   #. Coronaries : CAD s/p CABG in [**2558**] with LIMA to LAD which is totally
+   occluded after D1,  SVG-D1 (stent in graft), SVG-OM (chronically
+   occluded), with most recent PCI in [**6-2**] with stenting Lcx, s/p hip
+   replacement. EKG shows Afib with aberrancy, question slow VT s/p
+   cardioversion.  Also troponins continue to elevate although CK-MB
+   peaked. Etiology troponin leak is
+    hypotension [**3-2**] sepsis and Afib, demand ischemia in the setting of
+   fixed coronary lesions.
+   etting of Afib with demand ischemia likely underlying coronary
+   component. Also has elevated LFTs with AST >ALT suggesting non liver
+   source, may be hypotension, cardiac related.
+   -Increase ASA to 325.
+   -am EKG
+   -HCT (baseline(25-30).
+   Anemia: Chronic normocytic anemia (MCV 92).near or above baseline, has
+   a history of chronic anemia of unknown origin requiring multiple
+   transfusions, no active issues. HCT stable currently.
+   Consider transfusing for HCT <25 or if HD unstable, symptomatic.
+   -type and cross.
+   -[**Hospital1 **] HCT checks.
+   -guiac all stools
+   .
+   # Diarrhea: Patient has a history of C. diff infection x 5 years. On
+   treatment dose vanco p.o and IV flagyl.
+   Cdiff x 1 negative, GNRs in blood most likely from GI translocation.
+   LFTs not consistent with biliary source with AP wnl.
+   Continue zosyn, broaden if necessary.
+   f/u O and P, leukocytes
+   KUB this am
+   Abdominal CT with p.o contrast.
+   .
+   # Gap Acidosis: Lactate worsened. Continue IVF, abx.
+   Trend lactate.
+   ICU Care
+   Nutrition: NPO for now, resume diet until after abdominal CT.
+   Glycemic Control:  none
+   Lines: PIVs x 2.
+   18 Gauge - [**2579-3-30**] 10:29 PM
+   Prophylaxis:
+   DVT: Hep SC
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments: Daughter [**First Name4 (NamePattern1) 11560**]
+   [**Last Name (NamePattern1) 62**] status: DNR. Ok to intubate.
+   Disposition: ICU for now

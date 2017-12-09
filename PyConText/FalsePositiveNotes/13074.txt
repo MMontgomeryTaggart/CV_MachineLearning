@@ -1,0 +1,189 @@
+Admission Date:  [**2599-9-19**]              Discharge Date:   [**2599-9-23**]
+
+Date of Birth:  [**2538-10-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Apple / Lactose
+
+Attending:[**First Name3 (LF) 1858**]
+Chief Complaint:
++ETT
+
+Major Surgical or Invasive Procedure:
+[**2599-9-20**] - CABGx4 (left internal mammary->Left anterior
+descending artery, Vein->Diagonal artery, Vein->Ramus artery,
+Vein->Obtuse marginal artery).
+
+
+History of Present Illness:
+60 year old man who had an agioplasty 15 years ago who underwent
+an ETT which was suggestive of ischemia. He was referred for a
+cardiac catheterization which revealed severe left main and left
+anterior descending artery disease. He was thus transferred to
+the [**Hospital1 68**] for surgical revascularization.
+
+Past Medical History:
+CAD s/p PTCA
+HTN
+Hyperlipidemia
+OSA
+Insomnia
+
+
+Social History:
+Quit smoking 35 years ago after a 10 pack year history. He works
+as an automobile dealer. Rarely drinks alcohol. Lives with wife.
+
+Family History:
+Father and brother with [**Name (NI) 14568**] age <55
+
+Physical Exam:
+Admission
+VS T 97.6  HR 117  BP 115/80  RR 20 O2sat 97%-RA
+Gen NAD
+Neuro A&Ox3, nonfocal exam
+Pulm CTA-bilat
+CV RRR-tachy. No murmur noted
+Abdm soft NT/+BS
+Ext warm, no edema, no varicosities
+
+Discharge
+VS T 98.5 HR 106ST BP 110/60 RR 20 O2sat 94%-RA
+Gen NAD
+Neuro nonfocal exam
+Pulm CTA-Bilat
+CV RRR, no murmur. Sternum stable, incision CDI
+Abdm soft, NT/ND/+BS
+Ext warm well perfused no CCE. Left EVH site with Steri strips
+CDI
+
+Pertinent Results:
+[**2599-9-19**] 05:45PM   PT-13.2 PTT-29.7 INR(PT)-1.1
+[**2599-9-19**] 05:45PM   WBC-9.0 RBC-5.12 HGB-15.7 HCT-44.3 MCV-87
+MCH-30.7 MCHC-35.5* RDW-13.7
+[**2599-9-19**] 05:45PM   ALT(SGPT)-27 AST(SGOT)-24 LD(LDH)-189 ALK
+PHOS-79 TOT BILI-0.4
+[**2599-9-19**] 05:45PM   GLUCOSE-102 UREA N-15 CREAT-1.0 SODIUM-140
+POTASSIUM-3.5 CHLORIDE-106 TOTAL CO2-27 ANION GAP-11
+[**2599-9-21**] 02:01AM BLOOD WBC-12.4* RBC-3.42* Hgb-10.4* Hct-29.6*
+MCV-87 MCH-30.3 MCHC-35.0 RDW-13.8 Plt Ct-137*
+[**2599-9-21**] 02:01AM BLOOD Plt Ct-137*
+[**2599-9-20**] 12:36PM BLOOD PT-14.7* PTT-44.3* INR(PT)-1.3*
+[**2599-9-21**] 02:01AM BLOOD Glucose-80 UreaN-10 Creat-0.7 Na-134
+K-4.0 Cl-109* HCO3-23 AnGap-6*
+[**2599-9-19**] 05:45PM BLOOD %HbA1c-5.7
+
+[**Known patient lastname 6266**],[**Known patient firstname **] P. [**PT ID Number 14569**] M  60  [**2538-10-28**]
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 14570**]
+Final Report
+AP CHEST, 3 P.M. ON [**9-22**]
+HISTORY: Status post CABG.
+IMPRESSION: AP chest compared to [**9-20**] and [**9-21**]:
+Left lower lobe remains fully consolidated, probably collapsed,
+accompanied by moderate left pleural effusion. Right basal
+atelectasis has improved.  Bulging mediastinal contours suggest
+postoperative hematoma, stable since at least [**9-21**]. Dr.
+[**Last Name (STitle) 547**] was paged to report these findings at the time of
+dictation.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2088**]
+Approved: SUN [**2599-9-22**] 8:19 PM
+
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted to the [**Hospital1 68**] on [**2599-9-19**] via transfer
+for surgical management of his coronary artery disease. He was
+worked-up in the usual preoperative manner and found to be ready
+for surgery. On [**2599-9-20**], Mr. [**Known patient lastname **] was taken to the operating
+room where he underwent coronary artery bypass grafting to four
+vessels. Please see operative note for details. In summary he
+had CABGx4 with LIMA-LAD, SVG-Daig, SVG-OM, SVG-Ramus. His
+bypass time was 98 minutes with a crossclamp of 83 minutes. He
+tolerated the operation well and postoperatively he was taken to
+the intensive care unit for hemodynamic monitoring. He did well
+in the immediate postoperative period. His anesthesia was
+reversed and sedation stopped he was neurologically intact and
+was extubated. On POD he remained hemodynamically stable and was
+transferred to teh stepdown floor for continued care and
+monitoring. Once on the floor his hospitalization was
+uneventful, his Betablockers and diuretics were titrated, his
+activity was advanced and on POD3 he was discharged home with
+visiting nurses.
+
+Medications on Admission:
+Diovan/HCTZ 160/12.5, lipitor 40, niaspan 1.5 g,, MVI,
+[**Last Name (LF) 14571**], [**First Name3 (LF) **] 81
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+6. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO three
+times a day.
+Disp:*135 Tablet(s)* Refills:*2*
+7. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Niacin 500 mg Capsule, Sustained Release Sig: Three (3)
+Capsule, Sustained Release PO DAILY (Daily).
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day for
+2 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Doctor First Name **] Home Care
+
+Discharge Diagnosis:
+CAD s/p CABG
+HTN
+Hyperlipidemia
+Sleep apnea
+Insomnia
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 1878**] at
+([**Telephone/Fax (1) 143**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks.
+6) No driving for 1 month or while taking narcotics for pain.
+7) Call with any questions or concerns.
+
+Followup Instructions:
+Wound clinic in 2 weeks
+ Dr. [**Last Name (STitle) **] in 2 weeks.
+ Dr. [**Last Name (STitle) 14572**] in 1 month.
+ Dr. [**Last Name (STitle) 771**] in [**1-22**] weeks. [**Telephone/Fax (1) 14573**]
+
+
+
+Completed by:[**2599-9-23**]

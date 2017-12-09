@@ -1,0 +1,201 @@
+Admission Date:  [**3271-8-13**]              Discharge Date:   [**3271-8-14**]
+
+Date of Birth:  [**3202-7-27**]             Sex:   F
+
+Service: [**Hospital Unit Name 336**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 311**]
+Chief Complaint:
+Patient was admitted for elective carotid stenting and
+[**Hospital 24245**] transferred to CCU for blood pressure management
+
+Major Surgical or Invasive Procedure:
+Carotid catheterization, R ICA stent placement [**3271-8-13**].
+
+
+History of Present Illness:
+69 yo female with CAD, PVD, HTN, HPL who was admitted [**8-13**] for
+elective right internal carotid angioplasty/steniting stent
+procedure that was complicated by TIA manifesting with slurred
+speech and LLE symptoms. She was transferred to CCU after her
+procedure for neuro checks and blood pressure control.
+
+**** ECHO [**3270-8-1**]
+EF 45% E/A 1.38, small ASD, septal apical HK, apical HK, +1 TR
+**** Carotid cath [**3271-8-13**]
+cb slurred speech, left sided weakness
+RCCA normal. [**Country 313**] 99% lesion after the bifurcation with the ECA
+stented with Cypher stent.
+
+Meds:
+A/P:
+1. TIA - symptoms have resulved
+- Neuro checks q 1 hour; continue q 2 hours
+- Neo titrate to goal BP >130 LUE and >160 aortic
+- Hold BP meds
+2. CAD/carotid stent
+- ASA, Plavix, lipitor
+- will hold ACEI and Beta-blocker for now
+3. PPX bowel regimen, pneumoboots, cardiac low fat
+
+
+Past Medical History:
+1. CAD s/p 2 vessel CABG in [**3241**]; MI in [**3241**] and [**3268**] ([**11/3269**]
+PTCA of SVG to LAD graft)
+2. PVD
+3. HTN
+4. hyperlipidemia
+5. cardiomyopathy EF 35%, on coumadin
+6. R renal artery TO
+7. s/p stent/PTCA celiac artery, SMA
+8. s/p stent L subclavian
+9. L inguinal hernia repair
+10. TAH, age 29 secondary to vaginal bleeding
+11. c. difficile colitis in [**3269**]
+12. colon polyps, s/p resection [**3269**]
+
+Social History:
+Used to work in manufacturing of medical instruments (exposure
+ot paints, chemicals). Widowed. Retired. Smokes currently 1 ppd,
+trying to quit. Was able to stop smoking x 6 months in the past.
+Denies alcohol or tobacco use.
+
+Family History:
+Mother died at age 59 from heart disease. Father died age 75
+from "old age". She has 17 siblings. Three brothers died of
+premature CAD (in their 40s). One brother died of intracerebral
+hemorrhage.
+
+Physical Exam:
+97.6  HR 55    BP   128/30   O2sat 100%
+General: [**Last Name (un) **] and oriented, NAD, resting comfortably
+Neck: no elevated JVP, no carotic bruits
+HEENT: NC, AT, sclera white, EOM intact, PERRLA
+Pulm: CTA bilaterally
+CV: regular, nl S1, S2, 2/6 SEM at LSB
+Abd: soft, NT, ND, NABS
+Extr: no c/c/e
+Neuro: CN 2-12 intact, muscle strength 5/5 bilaterally in upper
+and lower extremities
+
+Pertinent Results:
+[**3271-8-13**] 08:45AM   INR(PT)-0.9
+[**3271-8-14**] 05:46AM BLOOD WBC-10.1# RBC-3.41* Hgb-10.9* Hct-31.8*
+MCV-93 MCH-32.0 MCHC-34.3 RDW-15.1 Plt Ct-190
+[**3271-8-14**] 05:46AM BLOOD Plt Ct-190
+[**3271-8-14**] 05:46AM BLOOD Glucose-100 UreaN-23* Creat-1.0 Na-137
+K-5.2* Cl-107 HCO3-24 AnGap-11 (hemolyzed specimen)
+[**3271-8-14**] 05:46AM BLOOD Mg-2.3
+
+CT head [**3271-8-13**]:
+Limited study secondary to motion artifact. No definite evidence
+of acute infarct.
+
+Carotic catheterization [**3271-8-13**]:
+Carotid/vertebral arteries:  The RCCA is normal.  The [**Country 313**] has a
+
+focal 99% lesion after bifurcation with the ECA.  The ICA filled
+the
+ipsilateral ACA and MCA with cross filling of the contralateral
+ACA.
+The vertebral artery was patent. Successful stenting of the [**Country 313**]
+was performed with a 8.0 x 30 mm. Precise stent, complicated by
+slurring of speech and LLE weakness that improved but did not
+resolve by the end of the case.
+
+FINAL DIAGNOSIS:
+1. Critical [**Country 313**] disease.
+2. Stenting of the [**Country 313**] complicated by CVA.
+
+
+
+Brief Hospital Course:
+Following the catheterization procedure, the patient was
+transferred to CCU.
+
+1. s/p TIA - The patient had a head CT done which did not reveal
+any evidence of acute stroke. The patient was observed closely
+overnight. She did well overninght and her symptoms completely
+resolved. The patient was seen and evaluated by Dr. [**Last Name (STitle) 6053**] from
+Neurology. In the CCU, the patient was started on Phenyephrine
+drip for blood pressure control and the rate was titirateed to
+keep left arm cuff systolic blood pressure 130 to 160. All her
+home blood pressure meds were held. She was slowly weaned off
+Phenylephrine drip. She received several 500 cc bolus of NS to
+help keep her systolic blood pressure above 130. She was
+discharged without her BP meds and was instructed to have her BP
+checked in 3 days at Dr.[**Name (NI) 7036**] office and to consult Dr.
+[**Last Name (STitle) **]/or Dr. [**First Name (STitle) **] regarding whether she should resume her BP
+medications.
+
+2. CAD  - She was continued on ASA, Plavix, lipitor. Her last
+coumadin dose was on [**3271-8-10**]. The decision was made not to
+resume her on coumadin.
+
+3. PPX - while hospitalized she was started on bowel regimen,
+pneumoboots for DVT prevention, and received cardiac low fat
+diet.
+
+4. Disposion - The patient was discharged [**Last Name (un) **] on ASA, plavix,
+lipitor. She will consult Dr. [**Last Name (STitle) **] on [**8-17**] regarding
+restarting Atenolol, Lisinopril/Hctz, Imdur, Lasix, Digoxin. She
+has BP machine at home and will be checking her BP as well. She
+known that her goal is SBP >130 but not higher than 150 as she
+had a recent TIA. Coumadin was stopped. The patient will follow
+up with Dr. [**First Name (STitle) **] on [**10-27**] and will have carotid US done
+on the same day. The patient was warned about symptoms of
+TIA/CVA and heart failure and was instructed to call her
+physican or go to the emergency room if necessary. On the day of
+discharge, she was able to ambulate without any problems.
+
+
+Medications on Admission:
+ASA 325 po qd, Digozin 0.125 mg po qd, Plavix 75 mg po qd, Lasix
+40 mg po qd, Imdur 60 mg po qd, Atenolol 75 mg po qd, Librium hs
+prn, Coumadin 5 mg po qd.
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+(once a day) for 300 days.
+Disp:*300 Tablet(s)* Refills:*2*
+3. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Please do not restart the following medications until you see
+Dr. [**Last Name (STitle) **].
+Lisinopril/HCTZ 20/12.5 mg po qd, Atenolol 75 mg qd, Digoxin
+0.125 mg po qd, Lasix 40 mg po qd, Imdur 60 mg po qd.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. s/p internal carotid artery stent placement
+2. hypertension
+3. hyperlipidemia
+4. cardiomyopathy
+5. coronary artery disease
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Please call your primary care physician, [**Name10 (NameIs) 5452**], or go to
+the emergency room if you develop slurring of speech, vision
+changes, one-sided weakness or other concerning symptoms.
+
+Have your blood pressure checked on [**Last Name (LF) 1817**], [**3271-8-17**] in
+Dr.[**Name (NI) 7036**] office. Do not take your blood pressure medicines
+until you see Dr. [**Last Name (STitle) **]. He will let you know whether you
+should resume your blood pressure medications.
+
+
+Completed by:[**3271-8-15**]

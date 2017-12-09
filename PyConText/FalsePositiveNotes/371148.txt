@@ -1,0 +1,310 @@
+TITLE: CCU Resident Progress Note
+   Chief Complaint: sepsis
+   24 Hour Events:
+   - FS glucose 414. Gave 21U humalog and increased SS
+   - issues with dialysis line working, renal advanced line over wire and
+   line began to work
+   - spoke with ID, plan to change antibiotics from Vancomycin to
+   Nafcillin, continue gentamicin and levoquin for now
+   - pharmacy initially concerned with Nafcillin dosing - based on
+   abnormal liver function tests thought that dose should be cut in half,
+   however discussed with [**Doctor First Name **] and [**Last Name (un) **] and decided to keep current dose
+   where it is
+   - started patient on glargine 10 units at bedtime as well as increased
+   insulin sliding scale for eleavted glucose
+   - initial plan to place an arterial line however RN felt like patient
+   had been through a lot already today and was getting good readings with
+   manual blood pressure cuff so decided to defer and readdress tomorrow,
+   discuss with [**First Name8 (NamePattern2) **] [**Male First Name (un) **] who was fine with this
+   - ordered for blood tranfusion with repeat crit 23.5
+   - balloon pump was discontinued
+   - ET tube was advanced and chest x-ray repeated: which demonstrated:
+   - cath tip was cultured and demonstrated coag + staph, other cultures
+   unchanged from previous
+   - echo still not done today
+   - repeat chest x-ray PM not read but per our read ET tube 4 cm above
+   carina so did not advance
+   - will do pressure support trial in the AM (deferred this evening as
+   trouble earlier with CVVH machine which is working better now)
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3041-3-16**] 12:00 PM
+   Vancomycin - [**3041-3-16**] 02:50 PM
+   Levofloxacin - [**3041-3-16**] 09:55 PM
+   Gentamicin - [**3041-3-18**] 02:00 AM
+   Nafcillin - [**3041-3-18**] 02:00 AM
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Fentanyl - 25 mcg/hour
+   Heparin Sodium - 1,600 units/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**3041-3-18**] 06:00 AM
+   Other medications:
+   Changes to medical and family history: none
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: unable to obtain
+   Flowsheet Data as of  [**3041-3-18**] 06:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.6
+C (101.4
+   Tcurrent: 37.3
+C (99.2
+   HR: 94 (76 - 99) bpm
+   BP: 100/49(57) {77/47(55) - 106/70(79)} mmHg
+   RR: 27 (16 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+    CVP: 6 (4 - 11)mmHg
+   Total In:
+                                                                  3,249 mL
+                                                                  1,158 mL
+   PO:
+   TF:
+                                                                    535 mL
+                                                                    190 mL
+   IVF:
+                                                                  2,347 mL
+                                                                    930 mL
+   Blood products:
+                                                                    338 mL
+                                                                     38 mL
+   Total out:
+                                                                  1,468 mL
+                                                                    437 mL
+   Urine:
+                                                                    546 mL
+                                                                     87 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,781 mL
+                                                                    721 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 229 (229 - 229) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 86
+   PIP: 25 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 37.5 cmH2O/mL
+   SpO2: 100%
+   ABG: ///24/
+   Ve: 9.3 L/min
+   Physical Examination
+   General Appearance: No acute distress, intubated, sedative
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Hyperdynamic), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Warm
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Movement: Not assessed, Sedated, Tone: Not assessed, moves all 4
+   extremities
+   Labs / Radiology
+   105 K/uL
+   8.7 g/dL
+   307 mg/dL
+   2.1 mg/dL
+   24 mEq/L
+   4.4 mEq/L
+   47 mg/dL
+   98 mEq/L
+   132 mEq/L
+   25.4 %
+   17.7 K/uL
+        [image002.jpg]
+                             [**3041-3-16**]  02:20 PM
+                             [**3041-3-16**]  02:47 PM
+                             [**3041-3-16**]  10:32 PM
+                             [**3041-3-16**]  10:45 PM
+                             [**3041-3-17**]  03:10 AM
+                             [**3041-3-17**]  03:27 AM
+                             [**3041-3-17**]  12:36 PM
+                             [**3041-3-17**]  09:48 PM
+                             [**3041-3-17**]  10:03 PM
+                             [**3041-3-18**]  02:39 AM
+   WBC
+   10.7
+   11.7
+   12.4
+   12.1
+   17.7
+   Hct
+   24.4
+   26.3
+   25.8
+   23.5
+   25.4
+   Plt
+   133
+   127
+   134
+   107
+   105
+   Cr
+   3.0
+   2.6
+   2.3
+   2.5
+   2.1
+   2.1
+   TCO2
+   26
+   25
+   25
+   Glucose
+   183
+   200
+   232
+   [**Telephone/Fax (3) 4119**]
+   307
+   Other labs: PT / PTT / INR:14.3/78.8/1.2, CK / CKMB /
+   Troponin-T:1151/17/13.50, ALT / AST:1052/355, Alk Phos / T
+   Bili:156/2.5, Differential-Neuts:84.0 %, Band:5.0 %, Lymph:2.0 %,
+   Mono:4.0 %, Eos:0.0 %, Lactic Acid:1.8 mmol/L, Albumin:2.6 g/dL,
+   LDH:812 IU/L, Ca++:10.1 mg/dL, Mg++:2.6 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+   67 y/o M with PMH of CAD s/p MI, DM, hyperlipidemia and recent fall who
+   presents with nausea and vomiting and ongoing CP, found to have
+   elevated CE and EKG changes without multivessel disease on cardiac
+   catherization now with cardiogenic and septic shock
+   .
+   # CARDIOGENIC SHOCK:
+   - Shock picture now is a combination of cardiogenic with
+   distributative.
+   - Patient only maintained on low dose Vasopressin
+   - intra aortic balloon pump was d/c yesterday
+   - Continue vasopressin for now
+   - unable to run patient more negative given borderline blood pressures
+   on CVVH
+   .
+   # SEPSIS/BACTEREMIA: Coag + S. aureus bacteremia as of [**3041-3-15**]. Once
+   off levophed PVR < WNL consistent with a distributive shock.
+   - Continue daily surveillance blood cultures
+   - switched vanco to nafcillin yesterday as per ID with sensitivies
+   - Continue low dose gent dosed for CVVH
+   - Continue levaquin for Morexella in sputum
+   - Appreciate ID recs
+   - Lines changed yest with HD line changed and PA sheath pulled.
+   - weaned off IABP yesterday
+   - Tylenol PRN for now to control temp and reduce drive for tachycardia
+   and ectopy
+   .
+   # VENTILATOR ASSOCIATED PNEUMONIA:
+   Ongoing Respiratory distress: Pt with rib fractures from fall +
+   pulmonary edema from acute systolic CHF. Intubated [**3-1**] respiratory
+   distress and tiring from effort. Now with left sided infiltrate and
+   sputum with GNR, GPC, and GN Dip
+   - Continue intubation for now
+ was unable to do pressure support trial
+   yesterday will try today, check RISBI in am
+   - Continue to pull off fluid with CVVH
+   - Extubate as soon as possible once volume status controlled.
+   - Continue Nafcillin/levo/gentamicin per ID recs
+   .
+   # Acute hepatitis
+ patient with LFTs in the 1000s suspect  secondary
+   to cardiogenic shock which continue to improve.
+   - trend LFTs, improving
+   - continue pressors to maintain adequate MAP
+   - low dose Tylenol for fever
+   ..
+   # Acute Kidney Injury: Unknown baseline.  Cr at OSH was 1.9.  On
+   arrival patient with Cr 2.5 now trended up to 3.6. No known h/o renal
+   disease.  feNa < 1% on urine lytes. Etiology includes hypotension, poor
+   forward flow in setting of heart failure, cardiogenic shock.  Renal was
+   consulted and started CVVH in order to remove fluid.
+   - continue CVVH for now
+   - follow up daily renal recs
+   - Renally dose meds
+   - Avoid nephrotoxins
+   .
+   # CORONARIES: Patient has a history of CAD, 3VD on cath in [**10-5**].
+   Recent NSTEMI in [**10-5**] in setting of acute GIB which was treated
+   medically.  Now has significantly elevated biomarkers with associated
+   EKG changes with a cath that demonstrates no evidence of acute infarct
+   so likely that patient has global hypoperfusion in the setting of
+   hypotension.  Stat bedside ECHO shows significantly depressed LV
+   function, however did have severe global LV dysfunction on TTE on
+   [**Month (only) **].  CK and MB trending up indicative of evolving MI, trop 3.88.
+   Patient had balloon pump placed to increase coronary perfusion.
+   - cont. ASA, statin, hep drip
+   - hold beta blocker in the setting of hypotension
+   - monitor on telemetry
+   .
+   # PUMP:  Has h/o dilated cardiomyopathy, likely ischemic given 3VD on
+   cath.  Previous EF 25%. Bedside TTE suggests worsened global LV
+   hypokinesis in setting of acute MI.  Had significant pulmonary edema
+   requiring intubation.   - Monitor I/O with goal -100mL/hr with CVVH.
+   - BB on hold given relative hypotension
+   - cont aspirin, statin
+   - ACE inhibitor on hold in the setting of hypotension and renal failure
+   .
+   # RHYTHM: Sinus rhythm, in the setting of respiratory distress patient
+   developed sinus tachycardia to 130s
+   - cont. tele, less ectopy.
+   .
+   # DM: On 3 oral medications at home.  Received contrast at OSH so
+   holding metformin.  In setting of acute illness will hold all oral
+   meds.  Patient has had has elevated fingersticks.  Started patient on
+   long acting Lantus yesterday and increased sliding scale.
+   - consider uptitiration of lantus as required
+   - FS qid
+   - HISS
+   .
+   # ANEMIA (CKD): Baseline appears to be in low 30s, was 31.6 in [**3038**].
+   On procrit and iron as outpatient.  Hct slightly below baseline at 29.
+   Given h/o recent GIB is at risk for rebleeding.  Repeated iron studies
+   here with low iron 14 and elevated ferritin which suggests likely
+   anemia of chronic disease rather than solely iron deficiency anemia.
+   Patient got 1 unit of blood yesterday without appropriate bump in
+   hematocrit.
+   - Cont to follow [**Hospital1 **]
+   - guaiac stools
+   - Transfuse for HCT <25
+   .
+   # Hyperlipidemia: On vytorin at home.  In setting of NSTEMI will start
+   atorvastatin 80mg. On admission here HDL 36, LDL 56
+   - cont atorvastatin
+   .
+   # Peripheral neuropathy: On gabapentin as outpatient.
+   - Restart once stable
+   .
+   FEN:  OG tube placed yesterday, nutrition consult for TFs
+   ACCESS: PIV's x 3 (20g x 2, 18g x 1), L IJ HD line, R IJ
+   PROPHYLAXIS:  Hep gtt, PPI given intubated
+   CODE: Full, confirmed with wife [**3-14**] (though pt would not want to be
+   maintained on lifelong vent)
+   CONTACT: Wife [**Name (NI) 4021**] [**Name (NI) 4022**] [**Telephone/Fax (1) 4023**] (H), [**Telephone/Fax (1) 4024**] (C)
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3041-3-14**] 12:55 AM
+   Multi Lumen - [**3041-3-16**] 04:37 PM
+   Dialysis Catheter - [**3041-3-16**] 06:52 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:

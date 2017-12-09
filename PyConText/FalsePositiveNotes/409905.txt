@@ -1,0 +1,231 @@
+Chief Complaint:  Chest pain
+   HPI:
+   The patient is a 53 yo man with h/o HTN and gout, who presented with
+   acute onset chest pain.  The patient states that he was in his normal
+   state of health until approximately 8 PM last night, when he developed
+   acute onset chest pain in the setting of moving a mattress.  The
+   patient states that the pain was [**8-28**], "pressure," located substernally
+   and radiating to his left shoulder and back.  He had associated
+   diaphoresis.  His wife, who was a RN in [**Country **], convinced him to come
+   to the ED, where he presented at approximately  1:30 am.
+   .
+   In the ED, the patient's VS were T 97.9, BP 126/87, P 82, R 20, O2 97%
+   on RA.  A Code STEMI was called, and the patient was taken emergently
+   to the cath lab at 3 am.  He was given ASA 325 mg, O2, NTG SL, Plavix
+   600 mg, Morphine, and he was started on a heparin gtt.
+   .
+   In the cath lab, the patient was found to have a 100% occlusion of the
+   proximal LAD.  A thrombectomy was performed, and a DES was placed in
+   the LAD.  He was then admitted to the CCU for further observation.
+   .
+   On arrival to the floor, the patient states that he is no longer
+   experiencing chest pain.  He has stomach pain which began shortly after
+   the procedure, but he states that this is markedly different from the
+   pain which brought him into the hospital.
+   .
+   On review of systems, he denies any prior history of stroke, TIA, deep
+   venous thrombosis, pulmonary embolism, bleeding at the time of surgery,
+   myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+   He denies recent fevers, chills or rigors. He denies exertional buttock
+   or calf pain. All of the other review of systems were negative.
+   .
+   Cardiac review of systems is notable for absence of dyspnea on
+   exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+   palpitations, syncope or presyncope.
+   Patient admitted from: [**Hospital1 5**] ER
+   History obtained from Patient, Family / Friend
+   Allergies:
+   Tetracycline
+   Rash;
+   Clarithromycin
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Eptifibatide (Integrilin) - 2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Allopurinol 150 mg daily
+   Metoprolol 12.5 mg TID
+   Captopril 6.25 mg TID
+   Lasix 20 mg IV once
+   ASA 325 mg daily
+   Clobetasol Propionate [**Hospital1 **]
+   Plavix 75 mg daily
+   Colace 100 mg [**Hospital1 **]
+   NTG SL prn
+   Ranitidine 150 mg [**Hospital1 **]
+   Senna 1 tablet [**Hospital1 **] prn
+   Past medical history:
+   Family history:
+   Social History:
+   PAST MEDICAL HISTORY:
+   1. CARDIAC RISK FACTORS: (-) Diabetes, (+) Dyslipidemia, (+)
+   Hypertension
+   2. CARDIAC HISTORY:
+   -CABG:
+   -PERCUTANEOUS CORONARY INTERVENTIONS:
+   -PACING/ICD:
+   3. OTHER PAST MEDICAL HISTORY:
+   GERD
+   IBS
+   PUD with negative H.pylori
+   h/o NASH
+   B12 deficiency
+   Vitamin D deficiency
+   Nephrolithiasis
+   Gout
+   Seasonal allergies
+   s/p cholecystectomy in [**2732**].
+   The patient's mother passed away from pancreatic cancer.  His father
+   died when the patient was 10 in [**Country **].  No known family history of
+   early MI, arrhythmia, cardiomyopathies, or sudden cardiac death;
+   otherwise non-contributory.
+   Occupation: Taxi driver
+   Drugs: None
+   Tobacco: Quit in [**2725**] but smoked for 30 years
+   Alcohol: On holidays
+   Other:
+   Review of systems:
+   Constitutional: diaphoresis
+   Cardiovascular: Chest pain
+   Gastrointestinal: Abdominal pain, Diarrhea
+   Musculoskeletal: Joint pain
+   Neurologic: Headache
+   Flowsheet Data as of [**2739-7-28**] 06:48 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 90 (85 - 92) bpm
+   BP: 112/75(83) {112/70(81) - 114/77(84)} mmHg
+   RR: 15 (15 - 17) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             761 mL
+   PO:
+             TF:
+   IVF:
+   161 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    761 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese, Anxious
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to):
+   person, place, and time, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   217
+   15.2
+   109
+   1.4
+   18
+   20
+   105
+   4.1
+   144
+   45.1
+   14.2
+        [image002.jpg]
+   Other labs: PT / PTT / INR:14.3/99.4/1.2, CK / CKMB /
+   Troponin-T:755/32/0.31
+   Assessment and Plan
+   ASSESSMENT AND PLAN:  The patient is a 53 yo man with h/o HTN and
+   hyperlipidemia who presented with chest pain and was found to have an
+   anterolateral STEMI, now s/p DES to the LAD.
+   .
+   # Coronary Artery Disease:  The patient presented with acute onset
+   chest pain and associated diaphoresis in the setting of lifting a
+   mattress.  He was found to have ST elevations in V2-V4, concerning for
+   STEMI.  In the cath lab, he had a 100% occlusion and thrombus of the
+   proximal LAD, now s/p thrombectomy and [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 1850**].  His CEs on
+   admission were elevated (Troponin: 0.31 CK 755, MB 32, MBI 4.2)
+    - Continue ASA 325 mg daily, Plavix 75 mg daily, SL NTG
+    - Continue Integrilin gtt for total duration of 18 hours (until 9 PM)
+    - Start Metoprolol 12.5 mg TID and uptitrate as tolerated
+    - Continue to hold Atorvastatin, given the patient's previous history
+   of fatty liver [**2-20**] Tricor.
+    - Start Captopril 6.25 mg TID and uptitrate as tolerated.  Consider
+   restarting home dose of Diovan if BP improves this morning.
+    - Change Prilosec to Ranitidine [**Hospital1 **]
+   .
+   # Congestive Heart Failure:  The patient does not have a history of
+   CHF, though he did have elevated RVEDP on cardiac catheterization
+   (24).  He is currently satting 94% on 4L, and he was given IVFs in the
+   cath lab.
+    - Give one dose of Lasix 20 mg IV now for goal -500 cc to 1 L
+    - TTE this morning.
+    - Continue to monitor O2 sats closely
+   .
+   # RHYTHM:  The patient is currently in NSR, though he had 6 beats of
+   VTach this morning.  This is most likely [**2-20**] reperfusion arrythmia.
+    - Continue to monitor on telemetry
+    - Replete K > 4.0 and Mg > 2.0
+   .
+   #. Hyperlipidemia:  The patient has a history of hyperlipidemia, though
+   he developed NASH in the setting of TriCor.
+    - Check LFTs this morning
+    - Start Atorvastatin if LFTs are wnl
+   .
+   #. Gout:  Continue Allopurinol, but decrease dose to 150 mg daily given
+   creatinine clearance.
+   .
+   #. GERD:  The patient is currently taking Omeprazole for his GERD at
+   home.
+    - Change Omeprazole to Ranitidine in the setting of Plavix use.
+   .
+   # FEN: Cardiac, heart healthy diet.  Replete K > 4.0 and Mg > 2.0
+   .
+   # ACCESS: PIV's
+   .
+   # PROPHYLAXIS:
+   -DVT ppx with pneumoboots and integrilin gtt
+   -Pain management with Morphine prn
+   -Bowel regimen with Senna and Colace
+   .
+   # CODE: Full
+   .
+   # COMM:  With patient, wife, and son, who will be back today at 1 PM.
+   .
+   # DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Comments: Cardiac, heart healthy diet
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2739-7-28**] 04:47 AM
+   Prophylaxis:
+   DVT: Boots(Integrilin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: Family meeting held  Comments:
+   Code status: Full code
+   Disposition: ICU

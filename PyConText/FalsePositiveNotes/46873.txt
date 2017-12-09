@@ -1,0 +1,427 @@
+Admission Date:  [**2557-9-13**]              Discharge Date:   [**2557-9-17**]
+
+Date of Birth:  [**2481-11-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Keflex / Lisinopril / Amiodarone / Percocet / Flecainide
+
+Attending:[**Doctor First Name 761**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+Pulmonary Vein Isolation Ablation
+
+
+History of Present Illness:
+Patient is a 75 year old woman with PMHx monomorphic VT arrest
+while on Flecainide, CAD s/p mid RCA and proximal LAD stenting
+in [**2551**], paroxysmal atrial fibrillation previously treated with
+Sotalol, Flecainide, Amiodarone and dronedarone who comes to the
+CCU after becoming hypotensive and 1 pressor dependent after a
+PVI.  The patient was previously treated with multiple agents
+for her A fib, most recently amiodarone which was d/c'd due to
+concern over pulmonary toxicity and dronedarone which was
+stopped in advance of the PVI.  She also underwent a TEE/DC
+Cardioversion on [**2557-6-13**], however reverted back to atrial
+fibrillation within a few weeks of the cardioversion.  The
+patient decided to undergo a PVI at that time and presented
+today for the procedure.  She was noted to be hypotensive in the
+PACU and received a DOSE of neosynephrine which increased her
+SBP to 110, however, her heart rate was in the high 40s and 50s.
+ She was switched to dopamine which kept her SBP 97-100.  She is
+being transferred to the CCU for management of her hypotension.
+
+.
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. She denies recent fevers, chills or
+rigors. S/he denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+paroxysmal nocturnal dyspnea, orthopnea, ankle edema, syncope or
+presyncope.
+
+
+Past Medical History:
+# CAD
+# PAF
+# Hypertension
+# Glucose Intolerance
+# Breast Cancer - DCIS Right Breast Dx [**2540**] s/p mastectomy with
+reconstruction.
+# Non-Hodgkin's Lymphoma Indolent
+# GERD/Barrett's Esophagus
+# Rectal bleeding
+# Glaucoma
+# Alopecia
+# Sleep apnea
+# Hypothyroidism
+# Trochanteric bursitis
+# Perennial Rhinitis
+# Stress Incontinence
+# Hyperlipidemia
+.
+Past Surgical History:
+.
+# TAH-BSO for fibroid bleeding,
+# Rotator cuff surgery-bilateral-asymptomatic
+# Cataract-bilateral lens replacement
+.
+Cardiac Risk Factors: + Diabetes, +Dyslipidemia, +Hypertension
+
+Social History:
+Two children-grown, on their own one in near its city and one
+lives in [**Location **]. Works as a consultant and a webmaster. Not
+exercising, no tobacco, quit in [**2536**], has a 40 pack-year
+history. Rare alcohol.
+
+
+Family History:
+Mother-non-[**Name (NI) **] lymphoma age 73
+
+Physical Exam:
+Gen: alert, oriented
+
+HEENT: supple, JVD 1/3 up to mandible
+
+CV: RRR, no M/R/G
+
+RESP: Faint crackles right base, no wheezes
+
+ABD: soft, NT, pos BS
+
+EXTR: no peripheral edema, feet warm, pulses palp
+
+NEURO: A/O
+
+Extremeties: Bilat Groin wtih some ecchymosis, no heamtoma or
+bruit.
+
+Pulses:
+
+Right: DP 2+ PT 1+
+Left: DP 2+ PT 1+
+
+Skin: intact
+
+
+Pertinent Results:
+[**2557-9-13**] 06:55AM BLOOD WBC-6.1 RBC-4.20 Hgb-12.5 Hct-37.5 MCV-89
+MCH-29.7 MCHC-33.3 RDW-15.5 Plt Ct-202
+[**2557-9-14**] 12:09AM BLOOD WBC-6.1 RBC-3.44* Hgb-10.4* Hct-30.7*
+MCV-89 MCH-30.3 MCHC-34.0 RDW-15.6* Plt Ct-158
+[**2557-9-14**] 06:11AM BLOOD WBC-6.4 RBC-3.50* Hgb-10.6* Hct-32.0*
+MCV-91 MCH-30.3 MCHC-33.1 RDW-15.7* Plt Ct-179
+[**2557-9-15**] 07:45AM BLOOD WBC-7.7 RBC-3.37* Hgb-10.2* Hct-30.5*
+MCV-90 MCH-30.3 MCHC-33.5 RDW-15.7* Plt Ct-151
+[**2557-9-16**] 07:25AM BLOOD WBC-5.8 RBC-3.65* Hgb-11.0* Hct-33.4*
+MCV-92 MCH-30.0 MCHC-32.8 RDW-15.7* Plt Ct-190
+[**2557-9-17**] 05:00AM BLOOD WBC-6.2 RBC-3.44* Hgb-10.4* Hct-31.4*
+MCV-91 MCH-30.2 MCHC-33.0 RDW-15.7* Plt Ct-169
+[**2557-9-12**] 08:55AM BLOOD PT-24.3* INR(PT)-2.3*
+[**2557-9-13**] 06:55AM BLOOD PT-25.2* INR(PT)-2.4*
+[**2557-9-14**] 12:09AM BLOOD PT-28.2* PTT-31.2 INR(PT)-2.8*
+[**2557-9-14**] 06:11AM BLOOD PT-26.7* PTT-31.4 INR(PT)-2.6*
+[**2557-9-15**] 07:45AM BLOOD PT-23.2* PTT-30.7 INR(PT)-2.2*
+[**2557-9-17**] 05:00AM BLOOD PT-20.0* INR(PT)-1.8*
+[**2557-9-13**] 06:55AM BLOOD Glucose-126* UreaN-17 Creat-0.6 Na-141
+K-4.1 Cl-108 HCO3-23 AnGap-14
+[**2557-9-14**] 12:09AM BLOOD Glucose-178* UreaN-12 Creat-0.6 Na-138
+K-3.6 Cl-107 HCO3-22 AnGap-13
+[**2557-9-14**] 06:11AM BLOOD Glucose-121* UreaN-9 Creat-0.5 Na-139
+K-3.7 Cl-108 HCO3-23 AnGap-12
+[**2557-9-16**] 07:25AM BLOOD Glucose-108* UreaN-9 Creat-0.6 Na-140
+K-4.3 Cl-106 HCO3-28 AnGap-10
+[**2557-9-16**] 03:05PM BLOOD Na-138 K-4.9 Cl-103
+[**2557-9-17**] 05:00AM BLOOD Glucose-105* UreaN-14 Creat-0.6 Na-141
+K-4.3 Cl-106 HCO3-28 AnGap-11
+[**2557-9-14**] 12:09AM BLOOD LD(LDH)-194 TotBili-0.8 DirBili-0.2
+IndBili-0.6
+[**2557-9-14**] 12:09AM BLOOD Calcium-8.3* Phos-3.8 Mg-1.7
+[**2557-9-14**] 06:11AM BLOOD Calcium-8.2* Phos-3.1 Mg-2.5
+[**2557-9-15**] 07:45AM BLOOD Calcium-8.7 Phos-2.4* Mg-2.0
+[**2557-9-13**] 06:55AM BLOOD TSH-6.2*
+[**2557-9-14**] 12:09AM BLOOD Hapto-141
+[**2557-9-16**] 01:14PM URINE RBC-[**4-15**]* WBC-[**7-21**]* Bacteri-MOD Yeast-NONE
+Epi-[**12-31**]
+[**2557-9-17**] 12:42PM URINE RBC-0-2 WBC-21-50* Bacteri-MANY
+Yeast-RARE Epi-[**7-21**]
+[**2557-9-16**] 01:14PM URINE Blood-TR Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-4* pH-7.0 Leuks-SM
+[**2557-9-17**] 12:42PM URINE Blood-SM Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-1 pH-6.5 Leuks-SM
+[**2557-9-16**] 01:14PM URINE Color-Amber Appear-Hazy Sp [**Last Name (un) **]-1.022
+[**2557-9-17**] 12:42PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.010
+
+MRSA SCREEN (Final [**2557-9-16**]):    No MRSA isolated.
+
+ECG: [**9-13**]: Atrial fibrillation with rapid ventricular response.
+Modest ST-T wave changes
+are non-specific. Since the previous tracing of the same date
+the
+QTc interval appears shorter but there may be no significant
+change
+
+[**9-13**]: Atrial fibrillation. The QTc interval appears prolonged but
+it is difficult to
+measure. Modest ST-T wave changes. Findings are non-specific.
+Clinical
+correlation is suggested. Since the previous tracing of [**2557-9-6**]
+probably no
+significant change
+
+[**9-14**]: Atrial fibrillation with rapid ventricular response.
+Delayed R wave
+progression with late precordial QRS transition. Modest ST-T
+wave changes.
+Findings are non-specific. Since the previous tracing of [**2557-9-13**]
+no significant
+change.
+
+[**9-14**]: Sinus rhythm with a single ventricular premature beat.
+There is borderline
+prolonged A-V conduction. Compared to the previous tracing of
+[**2557-9-14**] atrial
+fibrillation is no longer present
+
+[**9-15**]: Sinus rhythm. Borderline prolongation of the P-R interval.
+Poor R wave
+progression is likely a normal variant but consider prior
+anteroseptal
+myocardial infarction. Compared to the previous tracing of
+[**2557-9-15**] no
+diagnostic interim change
+
+[**9-15**]: Sinus rhythm. Borderline prolonged A-V conduction. Compared
+to tracing #1 ventricular premature beat is no longer present
+
+Echo: PERICARDIUM: No pericardial effusion. There is an anterior
+space which most likely represents a fat pad, though a loculated
+anterior pericardial effusion cannot be excluded.
+Conclusions
+On very limited imaging there is no definite pericardial
+effusion. There is an anterior space which most likely
+represents a prominent fat pad
+
+CXR [**9-15**]: Portable AP chest radiograph was compared to [**2556-5-4**].
+
+Cardiomediastinal silhouette is unchanged, but there is slight
+interval
+progression of interstitial opacities, finding that might
+represent
+interstitial pulmonary edema that has developed. Widening of the
+left
+mediastinum is present, but this may reflect asymmetric position
+of the
+patient. Repeated radiograph after diuresis, preferably in PA
+and lateral
+upright technique is recommended for precise characterization of
+the
+mediastinum and documentation of resolution of mild pulmonary
+edema.
+
+Brief Hospital Course:
+Patient is a 75 y/o female with PMHx monomorphic VT arrest while
+on Flecainide, CAD s/p mid RCA and proximal LAD stenting in
+[**2551**], paroxysmal atrial fibrillation previously treated with
+Sotalol, Flecainide, Amiodarone and dronedarone who comes to the
+CCU after becoming hypotensive and 1 pressor dependent after a
+PVI.
+
+# Hypotension - The patient underwent a PVI, afterwards which
+she developed hypotension and required dopamine to maintain her
+pressures.  This was able to be discontinued soon after her
+arrival to the CCU.  Her pressure was maintained without need
+for pressors or IVF.  She was able to be called out the the
+floors after one night in the CCU.
+
+# Atrial fibrillation - She remained in atrial fibriallation
+after her PVI.  She was started on dofetilide 500mg [**Hospital1 **] and
+remained in the hospital for 3 days while this medication was
+started for monitoring of her EKG.  After the first day, her QT
+interval was noted to have elongated slightly.  Her dose was
+decreased to 250mg [**Hospital1 **].  Her rhythm converted to sinus with an
+enlongated PR interval.  Her QT interval, while elongated from
+baseline, was stable.  She was provided with a 7 day supply of
+dofetilide on discharge from the hospital to cover her until she
+is able to fill her prescription.  She was continued on her
+coumadin at 5mg Tuesday/Thursday and 4 mg every other day.  She
+was sent home with a Kings Monitor which will be followed by Dr.
+[**Last Name (STitle) 763**].
+
+# Hypertension - The patient was restarted on her valsartan but
+at a lower dose of 80mg.  She was given a prescription for 160mg
+pills and instructed to take [**2-12**] a pill daily.  The patient did
+have one episode of hypoxia overnight after she got up to use
+the bathroom.  Her EKG showed no changes, a CXR showed pulmonary
+edema.  It was thought the patient had flash pulmonary edema.
+She was given nitro paste and then started on a nitro drip, and
+lasix 20mg IV with good urine output.  Her shortness of breath
+resolved and she was comfortable lying in bed.
+
+# UA - The patient complained of dysuria on one occasion.  Her
+UA was contaminated by epithelial cells.  A repeat was performed
+and also showed contamination.  Her dipsticks showed no signs of
+infection.  The patient was called and informed of her second UA
+results as she was discharged before the results came back.  She
+was instructed to call her PCP if she developed UTI symptoms.
+
+Medications on Admission:
+ATENOLOL -  (Prescribed by Other Provider) - 25 mg Tablet - 3
+Tablet(s) by mouth in the am, 2 tablets in the PM
+ESTRADIOL [ESTRACE] - 0.01 % Cream - insert intravaginally twice
+weekly
+FEXOFENADINE [[**Doctor First Name **]] - 180 mg Tablet - 1 Tablet(s) by mouth
+once a day as needed for allergy symptoms
+FLUTICASONE -  (Dose adjustment - no new Rx) - 50 mcg Spray,
+Suspension - 2 sprays(s) itn once a day as needed for congestion
+FOLIC ACID - 1 mg Tablet - 1 Tablet(s) by mouth once a day
+GABAPENTIN -  (Prescribed by Other Provider) - 100 mg Capsule -
+1
+Capsule(s) by mouth once a day
+HYDROCORTISONE ACETATE -  (Not Taking as Prescribed) - 25 mg
+Suppository - 1 suppository rectally at bedtime insert 1
+suppository rectally QHS for 5 nights
+LEVOTHYROXINE - 50 mcg Tablet - 1 Tablet(s) by mouth qd on empty
+stomach
+METFORMIN - 500 mg Tablet - 1 Tablet(s) by mouth twice a day
+NITROFURANTOIN MACROCRYSTAL -  (Prescribed by Other Provider)
+(On
+Hold from [**2557-7-30**] to unknown for rx w/ amox) - 50 mg Capsule
+-
+1 Capsule(s) by mouth once a day
+OMEPRAZOLE -  (Prescribed by Other Provider) - 20 mg Capsule,
+Delayed Release(E.C.) - 2 (Two) Capsule(s) by mouth once a day
+SIMVASTATIN - 20 mg Tablet - 1 Tablet(s) by mouth at bedtime
+TIMOLOL [BETIMOL] -  (Prescribed by Other Provider) - 0.25 %
+Drops - 1 left eye daily
+VALSARTAN [DIOVAN] -  (Prescribed by Other Provider) - 320 mg
+Tablet - 1 Tablet(s) by mouth in the am
+WARFARIN - 1 mg Tablet - [**2-12**] Tablet(s) by mouth qd prn INR
+WARFARIN - 2 mg Tablet - [**2-12**] Tablet(s) by mouth based on INR
+
+Medications - OTC
+ASPIRIN - 81 mg Tablet - 1 Tablet(s) by mouth qd with meal
+MULTIVITAMIN WITH IRON-MINERAL [MULTILEX] -  (OTC) -   Tablet -
+1
+Tablet(s) by mouth once a day
+POLYETHYLENE GLYCOL 3350 [MIRALAX] -  (Prescribed by Other
+Provider) - Dosage uncertain
+
+Discharge Medications:
+1. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1)
+Sublingual Q5MIN () as needed for chest pain.
+Disp:*25 tablets* Refills:*0*
+2. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) for 1 months:
+then decrease to 81 mg daily.
+3. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Timolol Maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic
+DAILY (Daily): LEFT eye.
+10. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+11. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)
+PO DAILY (Daily).
+12. Warfarin 4 mg Tablet Sig: One (1) Tablet PO 5X/WEEK
+([**Doctor First Name **],MO,WE,TH,SA).
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO 2X/WEEK (TU,FR).
+
+14. Nitrofurantoin Macrocrystal 50 mg Capsule Sig: One (1)
+Capsule PO HS (at bedtime).
+15. Dofetilide 250 mcg Capsule Sig: One (1) Capsule PO Q12H
+(every 12 hours).
+16. Estradiol 0.01 % (0.1 mg/g) Cream Sig: One (1) unit Vaginal
+twice weekly.
+17. [**Doctor First Name 2238**] 180 mg Tablet Sig: One (1) Tablet PO once a day.
+18. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2)
+sprays Nasal once a day as needed for allergy symptoms.
+19. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+20. Valsartan 160 mg Tablet Sig: [**2-12**] Tablet PO once a day.
+Disp:*15 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Atrial fibrillation
+CAD, s/p VT arrest [**2-14**] RCA and LAD stent
+Hypertension
+Hyperlipidemia
+glucose intolerance
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+VS: 68-18  122/81
+lungs clear
+AP RRR
+Abdomen is soft, nontender, nondistended (+) bowel sounds
+Bilateral grpins without hematoma, bruit (+) peripheral pulses
+INR =
+
+
+Discharge Instructions:
+You had a pulmonary vein isolation for your atrial fibrillation.
+This was complicated by low blood pressure that required you to
+be admitted to the intensive care unit. Your heart rhythm is
+mostly a normal rhythm with some brief episodes of atrial
+fibrillation. You were started on Dofetalide to keep you in a
+regular rhythm. We needed to monitor your heart while we started
+this medicine, you appear to be tolerating it well. You will
+take Dofetalide twice daily and will use a Heart monitor at home
+to send information back to Dr.[**Name (NI) 13613**] office.
+.
+Medication changes:
+1. Decrease Atenolol to 50 mg daily
+2. Decrease Diovan to 80 mg daily - Take [**2-12**] of a 160mg pill
+daily
+3. Start Nitroglycerin as needed for chest pain as directed
+Weigh yourself every morning, call Dr. [**Last Name (STitle) 763**] if weight goes
+up more than 3 lbs in 1 day or 5 pounds in 3 days.
+
+Followup Instructions:
+Cardiology:
+We are working on a follow up appointment with your Cardiologist
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 763**] or [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6451**] NP within 30 days. The
+office will contact you at home with an appointment. If you have
+not heard or have any questions please call [**Telephone/Fax (1) 113**]
+.
+Department: INTERNAL MEDICINE
+When: MONDAY [**2557-9-26**] at 3:00 PM
+With: [**First Name8 (NamePattern2) 543**] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 544**]
+Building: [**Location (un) 545**] ([**Location (un) 546**], MA) [**Location (un) 61**]
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+Department: HEMATOLOGY/BMT
+When: WEDNESDAY [**2557-11-2**] at 10:00 AM
+With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 7388**], RNC [**Telephone/Fax (1) 1456**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+Department: HEMATOLOGY/BMT
+When: WEDNESDAY [**2557-11-2**] at 10:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1463**], MD [**Telephone/Fax (1) 744**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+
+
+Completed by:[**2557-9-19**]

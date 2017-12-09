@@ -1,0 +1,279 @@
+Admission Date:  [**3272-11-11**]              Discharge Date:   [**3272-11-13**]
+
+Date of Birth:  [**3205-5-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Pneumococcal Vaccine
+
+Attending:[**First Name3 (LF) 2353**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+This is a 67 year old man with a history of kidney/liver
+transplant on immunosupression, DM2, PVD s/p right [**Doctor Last Name **]-AT and
+atrial fibrillation s/p DCCV on [**3272-11-10**] who presents with
+shortness of breath.
+
+Around [**7-13**] pm on the night prior to admission he developed
+insidius shortness of breath associated with chest pressure. He
+describes the pressures as constant, [**3273-7-13**] in severity. He had
+a hard time laying flat overnight and did not get much sleep. He
+also reported fatigue with minimal activity. He denied fever,
+chills, palpitations, LE edema, cough or sputum production. He
+denied radiation of the pain to his jaw or arm and denied
+diaphoresis or lightheadedness. He has had similar symtoms in
+the past, most recently in [**May 3272**], when they were associated
+with LE edema. His symptoms persisted untill the morning and he
+presented to the ED.
+
+Apparently he had been on asymtomatic atrial fibrillation since
+[**May 3272**]. An echocardiogram in [**September 3272**] showed mild
+symmetric left ventricular hypertrophy (LVEF >55%) with
+preserved global and regional biventricular systolic function.
+Also notable were mild diastolic LV dysfunction and mild
+moderate mitral regurgitation.  Yesterday, [**3272-11-10**], he underwent
+succesfull DCCV. He was feeling well after the procedure. He
+reports however, that he missed his dose of lasix for the day.
+He had been taking his antihypertensive medications and blood
+thiners.
+
+In the ED, he was noted to be hypertensive with BP 180/87,
+tachypneic with RR 40 and had a SaO2 of 76% RA. He was placed on
+NRB and subsequently on BiPAP. His respirations decreased to 20
+and was subsequently placed on NC. His CXR showed worsening of
+his pleural effusions. He received nitro ggt, lasix 60 mg IV and
+Lovenox (given a subtherapeutic INR). Prior to transfer his
+vitals were 98 74 119/66 23 97%4Lt.
+
+On review of systems, he denies ankle edema, palpitations,
+syncope or presyncope, any prior history of stroke, TIA, deep
+venous thrombosis, pulmonary embolism, bleeding at the time of
+surgery, myalgias, joint pains, cough, hemoptysis, black stools
+or red stools. S/he denies recent fevers, chills or rigors. S/he
+denies exertional buttock or calf pain. All of the other review
+of systems were negative.
+
+Past Medical History:
+- Renal and Liver transplant in [**3263**]; ESLD [**2-8**] EtOH use, ESRD
+thought [**2-8**] DM2
+- DM type II
+- Hypertension
+- Bilateral lower extremity neuropathy
+- Peripheral Vascular Disease
+- Right foot BKA [**9-/3272**]
+- MRSA
+- Osteomyelitis
+- s/p R [**Doctor Last Name **]-AT bypass [**3269**]
+- Hernia Repair X2
+- Arthritis
+- Tonsillectomy
+- Cholecystectomy
+
+Social History:
+No tobacco
+h/o significant EtOH abuse, stopped before transplant
+lives with wife
+
+
+Family History:
+Father:CM, asbestos poisoning, lung cancer, DM.  Mother: died of
+natural causes, had DM
+
+
+Physical Exam:
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with no JVD or HJR
+CARDIAC: Pectus excavatum. PMI located in 5th intercostal space,
+midclavicular line. RR, normal S1, S2. No m/r/g. No thrills,
+lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: RUQ surgical scar. Soft, NTND. No HSM or tenderness.
+Abd aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: R BKA. No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+[**3272-11-11**] 10:55AM BLOOD WBC-9.5# RBC-4.98 Hgb-10.8* Hct-34.8*
+MCV-70* MCH-21.7* MCHC-31.0 RDW-18.5* Plt Ct-254
+[**3272-11-13**] 06:05AM BLOOD WBC-5.4 RBC-4.71 Hgb-10.3* Hct-33.0*
+MCV-70* MCH-21.8* MCHC-31.1 RDW-18.1* Plt Ct-219
+[**3272-11-10**] 09:00AM BLOOD PT-20.3* INR(PT)-1.9*
+[**3272-11-13**] 06:05AM BLOOD PT-22.4* PTT-35.9* INR(PT)-2.1*
+[**3272-11-13**] 06:05AM BLOOD Glucose-157* UreaN-41* Creat-1.4* Na-136
+K-4.8 Cl-102 HCO3-24 AnGap-15
+[**3272-11-11**] 10:55AM BLOOD CK-MB-NotDone proBNP-9331*
+[**3272-11-11**] 10:55AM BLOOD CK(CPK)-62
+[**3272-11-11**] 10:55AM BLOOD cTropnT-0.02*
+[**3272-11-11**] 08:04PM BLOOD CK(CPK)-58
+[**3272-11-11**] 08:04PM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**3272-11-12**] 04:50AM BLOOD CK(CPK)-51
+[**3272-11-12**] 04:50AM BLOOD CK-MB-NotDone cTropnT-0.06*
+[**3272-11-13**] 06:05AM BLOOD Calcium-9.5 Phos-4.4 Mg-1.6
+[**3272-11-12**] 04:50AM BLOOD tacroFK-15.3
+[**3272-11-11**] 10:55AM URINE Blood-LG Nitrite-NEG Protein->300
+Glucose-100 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**3272-11-11**] 10:55AM URINE RBC-[**11-25**]* WBC-0-2 Bacteri-OCC Yeast-NONE
+Epi-0
+EKG [**11-10**]: Normal sinus rhythm with occasional ventricular
+premature beats. No other diagnostic abnormality. Since the
+previous tracing [**3272-9-14**] no diagnostic interim change.
+.
+CXR [**11-11**]: Interval increase in size of small bilateral pleural
+effusions.
+No evidence of CHF.
+
+Brief Hospital Course:
+# SOB - Likely [**2-8**] LV dysfunction in setting of elevated BP,
+BNP.  Patient in NSR on initial presentation.  Ruled out for MI.
+ Pt's SOB resolved after IV lasix and was placed back on his
+home PO lasix dose, on which he continued to diurese well.
+.
+# AF s/p DCCV - was in NSR throughout hospitalization until AM
+of [**11-13**], at which time he converted back to atrial fibrillation
+at a rate between 80s-100s.  Currently rate-controlled,
+asymptomatic.
+- uptitrate home metoprolol dose to 100 mg po bid
+- continue warfarin, goal INR 2.0 - 3.0.  Pt was found to be
+slightly subtherapeutic on admission, home dose was slightly
+uptitrated to 6 mg/d from 5 mg/d.
+- patient remained well rate-controlled and asymptomatic after
+converting to atrial fibrillation.  It was discussed that he
+should follow up closely with his cardiologist (Dr. [**Last Name (STitle) **] and
+discuss further management options, including repeat attempt at
+cardioversion.
+.
+# HTN - Increased nifedipine, metoprolol doses.
+.
+# s/p kidney, liver transplant - Found to have significantly
+elevated tacrolimus level on admission.  Decreased dose during
+admission with plans for repeat check at home this coming
+Thursday following discharge.  Nephrology follows patient
+closely as an outpatient and will f/u on repeat drug level.
+- continue mycophenolate, tacrolimus
+- f/u tacro level
+
+Medications on Admission:
+Furosemide 20mg three tablets once daily
+Metoprolol Succinate 100mg one tablet by mouth daily
+Mycophenolate Mofetil 500mg one tablet by mouth twice daily
+Pregabalin (lyrica) 100mg once daily
+Tacrolimus (prograf) 1mg three capsules twice daily
+Warfarin 5.0mg once daily
+Insulin NPH and Regular Human (Humulin 70/30)
+Ranitidine HCL 75mg tablet twice daily
+Nifedipine 30mg once daily
+
+Discharge Medications:
+1. Warfarin 2 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4
+PM.
+2. Ranitidine HCl 150 mg Tablet Sig: 0.5 Tablet PO BID (2 times
+a day).
+3. Pregabalin 100 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+4. Mycophenolate Mofetil 250 mg Capsule Sig: Two (2) Capsule PO
+BID (2 times a day).
+5. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+6. Humulin 70/30 100 unit/mL (70-30) Suspension Sig: AS DIRECTED
+  Subcutaneous  .
+7. Outpatient Lab Work
+Please draw serum tacrolimus level, PT/INR, blood urea nitrogen,
+serum creatinine, serum potassium on [**3272-11-17**].  Results showed
+be faxed to Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 17156**]) and Dr. [**Last Name (STitle) **]
+([**Telephone/Fax (1) 21049**]).
+8. Tacrolimus 1 mg Capsule Sig: Two (2) Capsule PO twice a day.
+Disp:*120 Capsule(s)* Refills:*1*
+9. Metoprolol Tartrate 100 mg Tablet Sig: One (1) Tablet PO
+twice a day.
+Disp:*60 Tablet(s)* Refills:*0*
+10. Nifedipine 60 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO once a day.
+Disp:*30 Tablet Sustained Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+Primary Diagnosis: acute diastolic heart failure, paroxysmal
+atrial fibrillation
+
+Secondary Diagnoses:
+1. hypertension
+2. end-stage liver disease s/p liver transplant
+3. end-stage renal disease s/p renal transplant
+4. peripheral vascular disease s/p below-knee amputation
+5. anemia
+
+
+Discharge Condition:
+Level of Consciousness:Alert and interactive
+Activity Status:Out of Bed with assistance to chair or
+wheelchair
+Mental Status:Clear and coherent
+
+
+Discharge Instructions:
+You were seen at [**Hospital1 18**] for shortness of breath.  You were found
+to have excess fluid in your body which was likely causing your
+symptoms.  You received intravenous diuretics which removed the
+extra fluid from your body and improved your symptoms.
+
+During your hospitalization, it was discovered that you returned
+to a rhythm of atrial fibrillation.  It is currently at a
+reasonable rate, controlled with medication.  You should discuss
+long-term management of this rhythm with your cardiologist, Dr.
+[**Last Name (STitle) **].
+
+The following medications were changed during your
+hospitalization:
+INCREASED metoprolol from 100 mg daily (succinate) to 100 mg
+twice daily (tartrate) to better control heart rate
+INCREASED nifedipine to better control blood pressure
+INCREASED warfarin to ensure adequate thinning of blood
+DECREASED tacrolimus to 2mg twice daily, as you were found to
+have a blood level of this medication that was too high during
+your hospitalization
+
+Please weigh yourself daily if possible and notify your
+physician if you notice a weight change > 3 lbs.  Adhere to a
+low-salt, low-cholesterol diet.  You will need your blood
+checked this Thursday, [**11-17**], to recheck your tacrolimus level,
+as well as to monitor your kidney function and warfarin dosage.
+
+If you experience worsened shortness of breath, chest pain,
+fevers, or any other symptoms that worry you, please contact
+your PCP or go to the Emergency Department.
+
+Followup Instructions:
+Please contact your cardiologist, Dr. [**Last Name (STitle) **], to schedule an
+appointment within the next 1-2 weeks to discuss a plan for
+managing your atrial fibrillation, which recurred during this
+hospitalization.  You can contact his office at [**Telephone/Fax (1) 7865**].
+
+Provider: [**Name10 (NameIs) 13776**] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 2931**]
+Date/Time:[**3272-11-16**] 9:30
+Provider: [**First Name4 (NamePattern1) 959**] [**Last Name (NamePattern1) 958**], MD Phone:[**Telephone/Fax (1) 666**]
+Date/Time:[**3272-11-25**] 10:50
+
+
+
+Completed by:[**3272-11-13**]

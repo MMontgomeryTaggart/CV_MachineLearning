@@ -1,0 +1,243 @@
+Admission Date:  [**2649-8-6**]              Discharge Date:   [**2649-8-7**]
+
+Date of Birth:  [**2580-8-4**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Iodine; Iodine Containing
+
+Attending:[**First Name3 (LF) 5589**]
+Chief Complaint:
+Carotid Artery Stenosis
+
+Major Surgical or Invasive Procedure:
+right carotid endarterectomy
+
+
+History of Present Illness:
+Pt with known R carotid stenosis
+
+Past Medical History:
+Surgical history is also notable for breast biopsy, which was
+benign last [**Month (only) **].  He also has  esophageal stricture,
+which is intermittently dilated most recently in [**Month (only) 626**] with good
+effect.  He remains asymptomatic from a coronary artery
+standpoint at this point and has had stress test and
+echocardiography showing preserved function without myocardium
+risk.
+
+
+Social History:
+not known
+
+Family History:
+not known
+
+Physical Exam:
+PE:
+
+AFVSS
+
+NEURO:
+
+PERRL / EOMI
+
+MAE equally
+
+Answers simple commands
+
+Neg pronator drift
+
+Sensation intact to ST
+
+2 plus DTR
+
+Neg Babinski
+
+HEENT:
+
+NCAT
+
+Neg lesions nares, oral pharnyx, auditory
+
+Supple / FAROM
+
+neg lyphandopathy, supra clavicular nodes
+
+LUNGS: CTA b/l
+
+CARDIAC: RRR without murmers
+
+ABDOMEN: Soft, NTTP, ND, pos BS, neg CVA tenderness
+
+EXT:
+
+rle - palp fem, [**Doctor Last Name 410**], pt, dp
+
+lle - palp fem, [**Doctor Last Name 410**], pt, dp
+
+
+Pertinent Results:
+[**2649-8-7**] 03:56AM BLOOD WBC-6.3 RBC-2.87* Hgb-9.8* Hct-27.9*
+MCV-98 MCH-34.3* MCHC-35.1* RDW-13.0 Plt Ct-159
+[**2649-8-7**] 03:56AM BLOOD Glucose-99 UreaN-10 Creat-0.9 Na-135
+K-4.0 Cl-106 HCO3-24 AnGap-9
+[**2649-8-7**] 03:56AM BLOOD Calcium-7.3* Mg-1.9
+
+Brief Hospital Course:
+Mr.[**Known patient lastname 6079**],[**Known patient firstname **] was admitted on [**8-16**] with Carotid artery
+stenosis. He agreed to have an elective surgery.
+Pre-operatively, he was consented. A CXR, EKG, UA, CBC,
+Electrolytes, T/S - were obtained,  all other preperations were
+made.
+
+It was decided that she would undergo a RCEA
+.
+He was prepped, and brought down to the operating room for
+surgery. Intra-operatively, she/he was closely monitored and
+remained hemodynamically stable. She/He tolerated the procedure
+well without any difficulty or complication.
+
+Post-operatively, he was extubated and transferred to the PACU
+for further stabilization and monitoring.
+
+He was then transferred to the VICU for further recovery. While
+in the VICU he recieved monitered care. When stable he was
+delined. His diet was advanced. A PT consult was obtained. When
+he was stabalized from the acute setting of post operative care,
+he was transfered to floor status
+
+On the floor, he remained hemodynamically stable with his pain
+controlled. He progressed with physical therapy to improve her
+strength and mobility. He continues to make steady progress
+without any incidents. He was discharged home in stable
+condition.
+
+Medications on Admission:
+  Discharge Worksheet-Discharge
+Medicatons-Finalized:[**Last Name (LF) 2318**],[**First Name3 (LF) **], PA on [**8-7**] @ 0955
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily). Disp:*30 Tablet(s)* Refills:*0*
+3. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Percocet 5-325 mg Tablet Sig: One (1) Tablet PO three times a
+day: PRN. Disp:*30 Tablet(s)* Refills:*0*
+8. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Percocet 5-325 mg Tablet Sig: One (1) Tablet PO three times a
+day: PRN.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+right carotid artery stenosis
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Division of [**Month/Year (2) 1037**] and Endovascular Surgery
+Carotid Endarterectomy Surgery Discharge Instructions
+
+What to expect when you go home:
+1. Surgical Incision:
+??????	It is normal to have some swelling and feel a firm ridge along
+the incision
+??????	Your incision may be slightly red and raised, it may feel
+irritated from the staples
+
+2. You may have a sore throat and/or mild hoarseness
+??????	Try warm tea, throat lozenges or cool/cold beverages
+
+3. You may have a mild headache, especially on the side of your
+surgery
+??????	Try ibuprofen, acetaminophen, or your discharge pain
+medication
+??????	If headache worsens, is associated with visual changes or
+lasts longer than 2 hours- call [**Month/Year (2) **] surgeon??????s office
+
+4. It is normal to feel tired, this will last for 4-6 weeks
+??????	You should get up out of bed every day and gradually increase
+your activity each day
+??????	You may walk and you may go up and down stairs
+??????	Increase your activities as you can tolerate- do not do too
+much right away!
+
+5. It is normal to have a decreased appetite, your appetite will
+return with time
+??????	You will probably lose your taste for food and lose some
+weight
+??????	Eat small frequent meals
+??????	It is important to eat nutritious food options (high fiber,
+lean meats, vegetables/fruits, low fat, low cholesterol) to
+maintain your strength and assist in wound healing
+??????	To avoid constipation: eat a high fiber diet and use stool
+softener while taking pain medication
+
+What activities you can and cannot do:
+??????	No driving until post-op visit and you are no longer taking
+pain medications
+??????	No excessive head turning, lifting, pushing or pulling
+(greater than 5 lbs) until your post op visit
+??????	You may shower (no direct spray on incision, let the soapy
+water run over incision, rinse and pat dry)
+??????	Your incision may be left uncovered, unless you have small
+amounts of drainage from the wound, then place a dry dressing
+over the area that is draining, as needed
+??????	Take all the medications you were taking before surgery,
+unless otherwise directed
+??????	Take one full strength (325mg) enteric coated aspirin daily,
+unless otherwise directed
+??????	Call and schedule an appointment to be seen in 2 weeks for
+staple/suture removal
+
+What to report to office:
+??????	Changes in vision (loss of vision, blurring, double vision,
+half vision)
+??????	Slurring of speech or difficulty finding correct words to use
+??????	Severe headache or worsening headache not controlled by pain
+medication
+??????	A sudden change in the ability to move or use your arm or leg
+or the ability to feel your arm or leg
+??????	Trouble swallowing, breathing, or talking
+??????	Temperature greater than 101.5F for 24 hours
+??????	Bleeding, new or increased drainage from incision or white,
+yellow or green drainage from incisions
+
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] LAB Phone:[**Telephone/Fax (1) 310**] Date/Time:[**2649-9-6**]
+1:30
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1476**], MD Phone:[**Telephone/Fax (1) 310**]
+Date/Time:[**2649-9-6**] 2:00
+
+
+
+Completed by:[**2649-8-7**]

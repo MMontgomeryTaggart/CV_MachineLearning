@@ -1,0 +1,54 @@
+Run on Corpus_TrainTest with "At least one positive annotation" scoring heuristic.
+
+Scores for splitter: Span Splitter, 10 before, 10 after
+Accuracy: 0.869
+F-Score: 0.764
+Precision (PPV): 0.646
+Recall (Sensitivity): 0.933*
+Specificity: 0.850
+NPV: 0.977* (barely)
+
+After changing "bleed" target to exclude "rebleed".
+Scores for splitter: Span
+Accuracy: 0.869
+F-Score: 0.764
+Precision: 0.646
+Recall (Sensitivity): 0.933
+Specificity: 0.850
+NPV: 0.977
+
+After adding "\brecent" to the list of negative modifiers
+Scores for splitter: Span
+Accuracy: 0.872
+F-Score: 0.766
+Precision: 0.654
+Recall (Sensitivity): 0.924
+Specificity: 0.856
+NPV: 0.975
+
+
+Scores for splitter: SpacySplitter
+Accuracy: 0.894*
+F-Score: 0.798*
+Precision (PPV): 0.703*
+Recall (Sensitivity): 0.924
+Specificity: 0.885*
+NPV: 0.976
+
+After changing "bleed" target to exclude "rebleed".
+Scores for splitter: Spacy
+Accuracy: 0.894
+F-Score: 0.798
+Precision: 0.703
+Recall (Sensitivity): 0.924
+Specificity: 0.885
+NPV: 0.976
+
+After adding "\brecent" to the list of negative modifiers
+Scores for splitter: Spacy
+Accuracy: 0.893
+F-Score: 0.794
+Precision: 0.706
+Recall (Sensitivity): 0.907
+Specificity: 0.889
+NPV: 0.970

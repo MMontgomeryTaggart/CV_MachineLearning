@@ -1,0 +1,209 @@
+Chief Complaint:  shortness of breath, coughs
+   HPI:
+   85-year-old woman with history of asthma, COPD, afib on warfarin, HTN,
+   sick sinus syndrome on pacemaker, recent possible septic knee joint in
+   [**2925-12-7**] presented with a 4 days of shortness of breath and
+   productive coughs with increased oxygen requirement at nursing home.
+   She is not very mobile at baseline, needing to use a walker for
+   ambulation. She also reported generalized fatigue, poor PO intake.
+   Patient denied chest pain. CXR at nursing home was reportedly negative
+   the day prior to admission, but patient was nevertheless started on
+   levofloxacin. Patient also reported having had 2 loose stools per day
+   for the past 2 days (baseline 1 regular stool per day), with no
+   abdominal pain, no blood in the stools. Her stool on the day of
+   admission was more formed.
+   .
+   In the ED, initial VS: T 96.4, HR 90, BP 144/86, RR 22, 100% on BiPAP.
+   Lungs were wheezy. Her CXR was unremarkable. WBC was 14,000 (8,000 1
+   week prior). Cardiac enzymes negative. ABG was 7.41/61/119. BNP was
+   8461. She received ipratropium-albuterol nebs, furosemide 40 mg x 1
+   with reportedly minimal urine output. Also got vancomycin and cefepime.
+   BiPAP was eventually weaned off to 4L NC, sating 94%. Admitted to MICU
+   for further management.
+   .
+   On arrival to MICU, patient was clinically stable, breathing
+   comfortably on nasal cannula.
+   .
+   ROS: Denies fever, chills, night sweats, headache, vision changes,
+   rhinorrhea, congestion, sore throat, chest pain, abdominal pain,
+   nausea, vomiting, constipation, BRBPR, melena, hematochezia, dysuria,
+   hematuria.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Amiodarone
+   Nausea/Vomiting
+   Lopressor (Oral) (Metoprolol Tartrate)
+   Wheezing;
+   Aspirin
+   blood doesn't c
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Donepezil 5 mg qhs
+   Fluticasone 110 mcg/Actuation Aerosol 2 Puffs [**Hospital1 **]
+   Ipratropium-Albuterol 18-103 mcg/Actuation 1-2 Puffs Q6H
+   Metoprolol Tartrate 50 mg [**Hospital1 **]
+   Ranitidine HCl 150 mg [**Hospital1 **]
+   Flecainide 100 mg q12h
+   Temazepam 15 mg qhs
+   Senna prn, docusate prn
+   Lisinopril 40 mg qday
+   Acetaminophen 650 mg q6h
+   Oxycodone 2.5-5 mg q6h prn
+   Furosemide 20 mg [**Hospital1 **]
+   Past medical history:
+   Family history:
+   Social History:
+   - R septic knee: hospitalized from [**2925-12-9**] to [**2925-12-14**] during which she
+   underwent arthrocentesis then I&D and washout on [**2925-12-9**], on ceftriaxone
+   then cephalexin
+   - Breast cancer status post lumpectomy in [**2913-5-7**], also with six
+   weeks of radiation therapy.
+   - Chronic low back pain followed at the Pain Clinic
+   - Paroxysmal atrial fibrillation on warfarin
+   - History of asthma: Spirometry: Mixed obstructive and restrictive
+   ventilatory defect
+   - Exercise treadmill test echocardiogram in [**2913-6-6**] without
+   evidence of angina or ischemia after four minutes,
+   mild-to-moderate mitral regurgitation.
+   - Sick sinus syndrome with a DDI pacemaker placed.
+   - Herpes zoster in [**2919-1-7**].
+   - Hypertension
+   - ? Alzheimer's dementia
+   Father died of heart disease.
+   Mother died of CVA.
+   Sister: Died of emphysema at age 59.
+   Occupation: retired
+   Drugs: none
+   Tobacco: quit 10 years ago
+   Alcohol: none
+   Other: from [**Hospital 978**] nursing home
+   Review of systems:
+   Flowsheet Data as of [**2926-1-24**] 10:16 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**27**] AM
+   Tmax: 36.2
+C (97.1
+   Tcurrent: 36.2
+C (97.1
+   HR: 111 (106 - 112) bpm
+   BP: 121/68(81) {121/59(73) - 128/80(91)} mmHg
+   RR: 24 (20 - 26) insp/min
+   SpO2: 94%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+             275 mL
+   PO:
+             240 mL
+   TF:
+   IVF:
+   35 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    300 mL
+   Urine:
+   300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -25 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   Physical Examination
+   GENERAL: elderly woman in NAD, sitting up in bed talking
+   HEENT: EOMI, conjunctivae clear, sclerae aniteric, MMM slightly dry
+   Neck: flat JVP
+   CARDIAC: irregularly irregular, nl S1/S2, [**2-9**] holosystolic murmur best
+   heard at L and RUSB
+   LUNG: scattered expiratory wheezes
+   ABDOMEN: soft, NT, ND, BS present, no HSM
+   EXT: R knee cool without effusion, with well-healed scar; no edema
+   NEURO:  oriented x 3, appropriate
+   Labs / Radiology
+   418
+   13.4
+   171
+   0.7
+   22
+   38
+   91
+   3.5
+   137
+   40.8
+   14.0
+        [image002.jpg]
+   Other labs: PT / PTT / INR:38.8 / 31.8 / 4.1, CK / CKMB / Troponin-T:45
+   / not done / < 0.01
+   Imaging: CXR: The exam is limited due to rotation and low lung volumes.
+   Cardiomediastinal
+   silhouette appears unremarkable. Apart from mild chronic interstitial
+   markings, the lungs are clear without pleural effusion or pneumothorax.
+   [**Hospital1 **]-apical scarring is unchanged. There is a pacer overlying the left
+   axilla
+   with leads in the right atrium and right ventricle in appropriate
+   position.
+   The osseous structures are unremarkable.
+   IMPRESSION:
+   No acute intrathoracic abnormality.
+   Assessment and Plan
+   85-year-old woman with history of asthma, COPD, afib on warfarin, HTN,
+   sick sinus syndrome on pacemaker, recent possible septic knee joint in
+   [**2925-12-7**] presented with a few days of shortness of breath with
+   increased oxygen requirement, productive cough, generalized fatigue,
+   poor PO intake at nursing home.
+   # SOB: wheezing on exam. A possible pneumonia, discussed below, might
+   trigger a COPD exacerbation. There is no evidence of CHF flare on exam
+   or chest Xray.
+   - standing and prn nebs
+   - prednisone 40 mg qday
+   - treat possible pneumonia as below
+   - chest PT as needed
+   - supplemental O2 as needed
+   .
+   # Possible pneumonia: productive coughs with dyspnea, with leukocytosis
+   in the 14,000 with mild left shift. Concurrent loose stools
+   - continue empiric rx with vanco and cefepime and levoflox (for
+   possible Legionella); adjust once cx comes back
+   - sputum cx
+   - Legionella urinary Ag
+   - blood cx
+   - supplemental O2 as needed
+   .
+   # Afib with RVR: slightly tachycardic in the 100s--missed her beta
+   blocker dose earlier today. Pulmonary process also likely contributes
+   to RVR. Stable BP.
+   - restart home regimen of metoprolol and flecaine
+   - if persistently tachycardic, will give IV nodal [**Doctor Last Name **] boluses prn
+   - hold warfarin given supratherapeutic INR
+   .
+   # HTN:
+   - continue metoprolol and lisinopril
+   .
+   # FEN: IVFs / replete lytes prn / regular diet
+   # PPX: supratherapeutic INR; hence, holding heparin SQ
+   # ACCESS: PIV
+   # CODE:  Full - discussed with patient
+   # CONTACT:
+   # DISPO: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2926-1-24**] 08:29 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

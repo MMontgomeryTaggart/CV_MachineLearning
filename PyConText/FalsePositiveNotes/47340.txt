@@ -1,0 +1,243 @@
+Admission Date:  [**3099-8-31**]              Discharge Date:   [**3099-9-3**]
+
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1812**]
+Chief Complaint:
+CODE STROKE
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+HPI: 83 yo M PMH presents as CODE STROKE.  History provided by
+patient's wife.
+
+Patient was usual state of health all yesterday when he went to
+bed at 11:30pm.  Wife states he was normal.  Then at 7:30am she
+was awoken by him snorting and noted he was having trouble
+breathing.  She tried to wake him but he wouldn't open his eyes
+or speak to her.  She notes that he was having trouble getting
+out of bed whereas he usually just jumps right out.  She did not
+notice any facial distortion.
+
+Upon EMS arrival, they noted left sided weakness particularly in
+the leg.  Transported to [**Hospital1 4**] ED as CODE STROKE.  Due to
+decreased alertness and not protecting airway, patient was
+emergently intubated.
+
+Called at 8:05am at bedside within minutes.
+Last seen well @11:30pm.
+Onset of symptoms @7:30am.
+
+NIHSS
+1a. alert 2
+1b. LOC questions 2
+1c. LOC commands 2
+2. Gaze 2
+3. Visual 0
+4. Facial palsy 1
+5. Motor L arm 3
+5. Motor R arm 2
+6. Motor L leg 3
+6. Motor R leg 2
+7. Limb ataxia x
+8. Sensory 1
+9. Best language 3
+10. Dysarthria x
+11. Extinction x
+
+NIHSS Total 23
+GCS 9
+
+Head CT performed at 8:32am without obvious signs of acute
+stroke or bleed, +dense L-MCA sign and CTA perfusion shows no
+[**Doctor First Name 4876**] and decreased vessels particularly in left superior
+division
+of MCA.  Labs INR PND, Cr 1.1 and FS 111.
+
+Of note, pt had minor prostate scraping procedure on [**3099-8-14**]
+where
+he was off coumadin and resumed it on [**8-21**], last INR was checked
+2
+days ago 1.6.
+
+ROS: unable
+
+
+Past Medical History:
+lone afib
+cold weather asthma
+BPH
+hypercholesterolemia
+hernia repair
+knee surgery
+
+
+Social History:
+No tobacco, etoh or drugs.  Still works as a real estate
+[**Doctor Last Name 47**] and very active.
+
+
+Family History:
+[**Name (NI) 10729**] brother with stroke and HTN.  No known
+clotting/bleeding disorders.
+
+
+Physical Exam:
+Exam:
+T- AF 98.5 BP- 148/75 HR- 71 RR- 18 100 O2Sat RA
+Gen: Lying in stretcher flailing, mild distress
+HEENT: NC/AT, moist oral mucosa, frothing
+Neck: supple, no carotid bruit
+CV: irreg irreg, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+aBd: +BS soft, nontender
+ext: no edema
+
+Neurologic examination:
+Mental status: Opened eyes to voice, not following commands,
+moaning, not regarding.  Inattentive.  Attending to the
+left>right side.
+
+Cranial Nerves:
+Right pupil 2mm->1.5mm briskly reactive.  Left pupil 2mm
+sluggish
+nonreactive.  Conjugate in midline but with left gaze deviation
+has right esotropia.  Decreased blink to threat from the right.
+Corneal's intact bilaterally.  Oculocephalic maneuvers, eyes
+don't cross midline position.  Left NLF flattening.
+
+Motor/Sensory
+Normal bulk bilaterally.  Increased tone in right hand in
+flexion.  No observed myoclonus or tremor.  Moving all
+extremities spontaneously.  No noxious stim, decreased L sided
+movement in arm and leg.
+
+Reflexes:
++3 right side and +2 brisk on left.  Toes mute bilaterally.
+
+Coordination: unable
+Gait: unable
+Romberg: unable
+
+
+Pertinent Results:
+Labs:
+CK: 44  MB: Notdone  Trop-T: Pnd
+
+141  105  16  95   AGap=10
+----------------
+4.1  30  1.1
+Ca: 9.1 Mg: 2.3 P: 2.7
+ALT: 18 AP: 102 Tbili: 0.3 Alb: 4.0
+AST: 21 LDH:  Dbili:  TProt:
+[**Doctor First Name 589**]: 59 Lip:
+Serum ASA, EtOH, Acetmnphn, Benzo, Barb, Tricyc Pending
+TSH:Pnd
+Dig: Pnd
+MCV 83
+9.7  >12.3<  271
+      37.3
+N:57.6 L:31.3 M:5.0 E:4.7 Bas:1.5
+PT: 16.4  PTT: 30.3  INR: 1.5
+
+Imaging:
+CTA [**8-31**]:
+1. Perfusion-weighted images showing a large left middle
+cerebral artery territory infarct.
+2. Tapered narrowing of the lumen of the proximal cervical left
+internal carotid artery is suggestive of a dissection. Complete
+occlusion of the left internal carotid artery at both its
+cervical and intracranial portions distal to the dissection.
+3. Abrupt cut off of the contrast column within the A1 segment
+of the left ACA, which is being filled by a prominent anterior
+communicating artery. This abrupt cut off is suggestive of an
+acute thromboembolism.
+4. Reconstitution of the M3 and M4 branches of the left middle
+cerebral artery presumably from leptomeningeal collaterals.
+
+MRI/A [**8-31**]: Limited evaluation showing occlusion of the cervical
+portion of the left internal carotid artery. Signal is seen
+within portions of the intracranial left ICA and the proximal
+left MCA, which may represent reconstitution of flow since the
+preceding CTA versus signal from thrombosis.
+
+TEE [**9-1**]: Probable left atrial appendage thrombus. Patent
+foramen ovale.
+
+CT Head [**9-2**]: Marked progression to parenchymal edema involving
+the entire left cerebral hemisphere with new 16 mm subfalcine
+herniation and uncal herniation.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 31402**] was an 83-year-old man who presented with aphasia
+and right hemiparesis, and who was found to have a left MCA
+stroke. His hospital course is as follows:
+
+1. Neuro: L MCA stroke. Initially, this appeared to be isolated
+to the superior division of the L MCA. He was not a candidate
+for tPA as his last known well time was eight hours prior to
+presentation, when he went to bed. There was an appearance on
+CTA of dissection of the L MCA, so he was started on IV heparin.
+Unfortunately, over the next 24-48 hours, his mental status
+declined, becoming less responsive even when off sedation.
+Repeat CT scans showed involvement of the entire L MCA
+territory. After ~72 hours, a repeat CT showed significantly
+increased edema with subfalcine and uncal herniation. His family
+was present and decided to make him comfort measures only (CMO).
+Care was withdrawn, including extubation, although his family
+requested that the fluids continue. He died within hours of
+extubation.
+
+
+Medications on Admission:
+1. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO ONCE (Once) for 1
+
+doses.
+2. Warfarin 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*2*
+5. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+8. Senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+
+ALL: NKDA
+
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Left Middle Cerebral Artery stroke, likely embolic.
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number(3) 1816**]
+
+Completed by:[**3099-9-4**]

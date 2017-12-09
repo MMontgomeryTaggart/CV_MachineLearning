@@ -1,0 +1,278 @@
+Chief Complaint: indigestion, nausea
+   24 Hour Events:
+   DIVISION OF CARDIOLOGY CCU COMPREHESIVE ADMISSION NOTE
+   .
+   OUTPATIENT CARDIOLOGIST:  none
+   .
+   PCP:  [**Name10 (NameIs) **] [**First Name (STitle) 1725**], [**Hospital1 13645**]: [**Telephone/Fax (1) 13646**]
+   .
+   CHIEF COMPLAINT:indigestion
+   .
+   .
+   HISTORY OF PRESENTING ILLNESS:  75 M male with hx IDDM, HTN with 2 days
+   nausea,GERD like symptoms, lack of appetite presented to ER today.On
+   the night prior to admission he noted anterior chest discomfort very
+   similar to prior episodes of heartburn  and had emesis x1 with mild
+   improvement with drinking gingerale. He denied any diaphoresis,
+   weakness, light headedness, CP or SOB at the time. Of note he has had a
+   left thumb infection s/p nail removal and was started on bactrim and
+   clinda on Friday.
+   .
+    Initially in triage his pulse with 57 with sinus bradycardia. On
+   repeat vitals his pulse was in the 30s and found to be in CHB on ECG.
+   Patient became diaphoretic and nauseous and had drop in BP from 130
+   systolic to 100s. He was externally paced and cardiolofy was called. On
+   labs was found to have renal failure and hyperkalemia. Given K+
+   treatment with insulin, D50, calcium, and bicarbonate. No kayexalate
+   was given. ECG with no concerning signs of ischemia. EP placed a
+   transvenous pacer wire and being paced at 70. NPO at midnight for
+   possible intervention.
+   .
+   In the ED, initial vitals were HR 60 BP 138/62 afebrile 100% RA RR:16
+   HR 36 feeling more fatigued. Repeat EKG at this point showed complete
+   heart block HR dropped to 20 with 60/49 more symptomatic, nauseated
+   diaphoretic, cards called. EP came, loaded pacer wire 9pm.
+   Noted to have K of 7.9 Got ins, D5, switched fluids to D5. No
+   kayexelate given.
+   .
+   Patient with known diabetes, HTN had never been to a hospital before.
+   unclear how often he sees doctors. Patient also received Zofran and
+   fentanyl and feeling much better after pacing at 70 as well.
+   .
+   On review of systems, he denies any prior history of stroke, TIA, deep
+   venous thrombosis, pulmonary embolism, bleeding at the time of surgery,
+   myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+   he denies recent fevers, chills or rigors. S/he denies exertional
+   buttock or calf pain. All of the other review of systems were
+   negative.
+   .
+   Cardiac review of systems is notable for absence of chest pain, dyspnea
+   on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+   palpitations, syncope or presyncope.
+   .
+   On arrival to the floor patient noted to be in 1st degree heart block
+   on EKG. Kayexalate was administered given hyperkalemia in ED.
+   .
+   PAST MEDICAL HISTORY:
+   1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+   MEDICATIONS:
+   .
+   bactrim 800/160 DS started on [**3452-3-26**]
+   clindamycin 150 2 tabs TID started on [**3452-3-26**]
+   Novolog sliding scale
+   Lantus 50 units [**Name (NI) **] (pt unsure)
+   metformin 500 [**Hospital1 7**]
+   zocor 20 daily
+   ASA 81 daily
+   xalatan eye drops 0.005%
+   lantoprost.
+   ALLERGIES: NKDA
+   .
+   .
+   SOCIAL HISTORY
+   -Tobacco history: distant, 20ppy hx
+   -ETOH: quit 3 years ago, liquor
+   -Illicit drugs: none
+   -lives with wife, retired building supervisor
+   .
+   FAMILY HISTORY: mother with diabetes, hx MI, brother diabetes.
+   [**Name2 (NI) **] family history of early MI, arrhythmia, cardiomyopathies, or sudden
+   cardiac death; otherwise non-contributory.
+   .
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3452-3-30**] 12:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**54**] AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 37.1
+C (98.7
+   HR: 85 (83 - 86) bpm
+   BP: 144/75(92) {127/54(79) - 152/75(92)} mmHg
+   RR: 20 (13 - 20) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+             Total In:
+                                                                    150 mL
+                                                                     98 mL
+   PO:
+             TF:
+   IVF:
+                                                                    150 mL
+                                                                     98 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     25 mL
+   Urine:
+   25 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    150 mL
+                                                                     73 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///22/
+   Physical Examination
+   VS: T=98/7  BP=152/54 HR= 85 RR=16 O2 sat=99%
+   GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple no JVP.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4. Transcutaneous
+   pacer wire/pads in place.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   .
+   LABS/STUDIES
+   EKG:  ED 6pm: sinus brady, borderline peaked T waves
+   ED: [**8-5**]: complete AV dissociation, 3RD degree heart block
+   EKG: 19:58: sinus, paced
+   EKG: 23:37: floor PR prolonged to 300
+   .
+   Labs / Radiology
+   296 mg/dL
+   2.1 mg/dL
+   22 mEq/L
+   5.5 mEq/L
+   27 mg/dL
+   101 mEq/L
+   132 mEq/L
+        [image002.jpg]
+                             [**3452-3-29**]  11:08 PM
+   Cr
+   2.1
+   Glucose
+   296
+   Assessment and Plan
+   ASSESSMENT AND PLAN: 75 y/o male with hx DM, HTN admitted with
+   nausea,indigestion found on EKG to have 3rd degree h/b s/p transvenous
+   pacing. Pt now in 1st degree hb. Heart block likely [**2-24**] hyperkalemia in
+   setting new bactrim use in conjunction with chronic lisinopril with
+   subsequent aldosterone inhibition/hyperkalemia. DD includes ischemia
+   although EKG/CE not consistent,cardiomyopathy, no hx AV nodal agents,
+   increased vagal tone,hyperhypothyroidism although no symptoms
+   consistent with this.
+   .
+   # heart block: Transcutaneous pacer in place set below 60 however pt at
+   own intrinsic rhythm currently in 70s
+   Floor EKG shows PR prolongation, 1st degree AV block. Rapid improvement
+   with treatment hyperkalemia suggests this is etiology
+   Hypotension in ED likely [**2-24**] poor perfusion given bradychardia
+   Appreciate EP recs.
+   trend K+
+   -check TSH
+   -per cards, ID consult, ? lyme titres prior to possible PPM
+   continue to hold nephrotoxins
+   .
+   #Renal Failure: Baseline unknown. Cr  2.2 on admission.
+   ? [**2-24**] combined insult chronic lisinopril + bactrim
+   Holding neprotoxins.
+   -check Urine lytes/osms/eos
+   -check renal US in am
+   -trend Cr
+   -IVF
+   f/u PCP [**Name Initial (PRE) **]
+   .
+   #Hyperkalemia: Likely med related. Denies high dietary K+. K+ 5.5 after
+   kayex. Continue to trend
+   -check Am EKG.
+   -IVF
+   -kayex PRN
+   .
+   # CORONARIES:no evidence CAD.
+   check HgA1C, lipid panel.
+   2nd set CE in am
+   .
+   # PUMP:No hx heart failure however given new heart block will check
+   echo in am to r/o cardiomyopathy.
+   .
+   # Leukocytosis: Known thumb osteomyelitis. WBC to 13.9. Pt afebrile.
+   Appears like a superficial infection.
+   -check blood cx.
+   -hold bactrim/clinda until get records from PCP.
+   [**Name10 (NameIs) 13647**] WBC
+   .
+   #Diabetes: poorly controlled with HgA1C 10.2
+   Pt unsure of home insulin dose, thinks its 50U [**Name10 (NameIs) 7749**]
+   Confirm lantus dose with PCP.
+   [**Name Initial (NameIs) 13648**] 10U for now
+   RISS, GFS
+   ICU Care
+   Nutrition: NPO after midnight for possible PPM
+   Glycemic Control:  RISS, GFS, lantus
+   Lines:
+   Cordis/Introducer - [**3452-3-29**] 10:40 PM
+   18 Gauge - [**3452-3-29**] 10:41 PM
+   20 Gauge - [**3452-3-29**] 10:42 PM
+   .
+   PROPHYLAXIS:
+   -DVT:pneumoboots
+   -Pain management:none
+   -Bowel regimen with kayexalate prn hyperkalemia
+   .
+   CODE: Confirmed Full
+   .
+   COMM: [**Name (NI) 371**], Wife [**Name (NI) **]: [**Telephone/Fax (1) 13649**]
+   DISPO: CCU for now
+   Code status: Full code
+   ------ Protected Section ------
+   EP staff [**Location (un) 888**]
+   Agree with H+P and A+P of Dr. [**Last Name (STitle) 9338**].
+   Pt is a 75yo male with poorly controlled DM2 and CRI (bl crt 1.5) who
+   presented with one-two days of nausea and decreased PO intake.  In ER,
+   initial rhythm was sinus brady at 50
+s with intact AV conduction and
+   narrow QRS (iRBB) who then developed CHB with junctional escape in the
+   30
+s.  The sinus rate is about 60bpm.  Ca was administered and and a
+   temp pacing wire was placed via the right IJ. Shortly thereafter, he is
+   noted to conduct 1:1 in sinus at 86 bpm with PR about 210ms.  All night
+   in the CCU he has remained in sinus with intact AV conduction and no
+   need for V pacing.  Labs signif for acute on chronic renal failure with
+   hyperkalemia.
+   Of note, he has had problems with [**Name2 (NI) 13661**] s/p nail debridment of
+   left thumb and MRI demonstrating findings consistent with
+   osteomyelitis.
+   No additions to make on physical exam
+   A/P: Not clear the mechanism of the heart block, but appears possibly
+   at the level of the AV node  given that he was conducting 1:1 at a
+   higher sinus rate shortly after temp wire.  In addition, if he does
+   have osteomyelitis of the thumb, then it would be risky to put in a
+   pacemaker at this time.
+   1-       ID consult to help with possible osteomyelitis
+   2-       Plan for EP study tomorrow to evaluate AV conduction and gain
+   insight into mechanism of AV block.
+   3-       If needs a pacemaker, will need to discuss with ID the risk of
+   pacer infection.  [**Month (only) 47**] potentially get a screw-in temp wire for now and
+   defer permanent implant for later on.
+   4-       ------ Protected Section Addendum Entered By:[**Name (NI) 5268**] [**Name8 (MD) **], MD
+   on:[**3452-3-30**] 16:18 ------
+   5-
+   6-
+   7-       Electronically signed by [**First Name8 (NamePattern2) 5268**] [**Name8 (MD) **], MD  [**3452-3-30**] 16:18
+   8-
+   9-

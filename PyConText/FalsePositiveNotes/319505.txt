@@ -1,0 +1,174 @@
+Chief Complaint:
+   24 Hour Events:
+   MS changes in the ED.  Patient was intubated in ED and transfered to
+   [**Hospital Unit Name 1**].
+   Spiked temp to 101.7 this morning.
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Levofloxacin - [**2981-5-29**] 05:40 AM
+   Infusions:
+   Midazolam (Versed) - 5 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2981-5-29**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 37.5
+C (99.5
+   HR: 74 (74 - 86) bpm
+   BP: 154/72(91) {123/60(74) - 154/72(91)} mmHg
+   RR: 18 (12 - 18) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             608 mL
+   PO:
+             TF:
+   IVF:
+   108 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,400 mL
+   Urine:
+   900 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -792 mL
+   Respiratory support
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 19
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   PIP: 35 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 36.5 cmH2O/mL
+   SpO2: 97%
+   ABG:7.35 / 66/162/38/8
+   Ve: 8.9 L/min
+   Physical Examination
+   GEN:intubated and sedated, does not repond to voice, responds to
+   noxious stimuli
+   HEENT: NCAT, Pupils small equal, reactive to light, OG & ET in place
+   LUNGS: CTA anteriorly, ventilated
+   CV: RRR, s1 & S2 nl, no m/r/g
+   ABD:no bs, obese abdomen, non-distended.
+   EXT: lymphedematous legs and arms, chronic skin thickening on LE bilat,
+   no areas of erythema,
+   PIVx3 (2 20s and 1 22)
+   Back: not examened
+ by report sacral decubitus
+ will exam later
+   today.
+   Labs / Radiology
+   194 K/uL
+   12.3 g/dL
+   37.4 %
+   8.3 K/uL
+        [image002.jpg]
+   Lytes
+   Na 139       Ca 8.8
+   K4.1           Mg 2.0
+   CL 99         Phos 3.6
+   HCO3 33
+   BUN 13
+   Cr 0.5
+   COAGs pending
+   Vanco level   6.9
+                             [**2981-5-29**]  06:07 AM
+   WBC
+   8.3
+   Hct
+   37.4
+   Plt
+   194
+   NON-CONTRAST CT HEAD: There is no evidence of intracranial hemorrhage,
+   shift
+   of normally midline structures, mass, mass effect, or edema. There is
+   dilation of the lateral, third, and fourth ventricles noted. The
+   osseous
+   structures are grossly unremarkable. Scattered opacification of the
+   maxillary, ethmoid and sphenoid sinuses is noted.
+   IMPRESSION: Limited exam without evidence of acute intracranial
+   process.
+   CTA chest: [**2981-5-28**]
+   IMPRESSION:
+   1. No evidence of pulmonary embolus to the lobar level.
+   2. An endotracheal tube lies 1 cm above the carina.
+   3. Bilateral patchy consolidative changes may represent atelectasis,
+   edema or
+   aspiration pneumonia as secretions are noted in the airways.
+   Assessment and Plan
+   Mr. [**Known patient lastname 885**] is a 49 yo M with dwarfism, chronic LE lymphedema with
+   recent admission for lower extremity cellulitis c/b tachycardia,
+   dyspnea and hypercarbic respiratory failure requiring intubation.
+   .
+   # Hypercarbic respiratory failure/Altered Mental Status - unclear
+   inciting cause for acute hypercarbia in the ED which prompted
+   intubation, Other considerations include pulmonary edema vs.
+   pneumonia.  Concern re: CHF   An intracranial event such as CVA or
+   hemorrhage although not seen on CT scan.
+   -continue with mechanical ventillation
+   -check ABG
+   -consider SBT later today
+   -bolus sedation with versed
+   -check ECHO for evidence of CHF.  Consider lasix if evidence of CHF.
+   Obtain record of previous ECHO from [**Hospital1 595**].
+   .
+   #dyspnea, sinus tachycardia- unclear etiology, main concern at OSH was
+   for pulmonary embolus, however not seen on preliminary report of CTA,
+   other possibilities include pulmonary edema
+   .
+   #Bilateral LE cellulitis - unclear if new cellulitis or just chronic
+   stasis in setting of lymphedema.  No WBC or fever at OSH, unclear if
+   appearance has changed since IV abx.
+   -continue vancomycin for now
+   -elevated LE
+   -examen back later today.
+   .
+   #Hypertension - currently normotensive
+   -hold outpatient regimen of metoprolol and terazosin
+   .
+   #Stage II Sacral Decubitus - noted at osh
+   -wound care
+   -consdier wound consult for reccs
+   .
+   #FEN - replete lytes prn, volume status unclear, NPO continue with OGT
+   to suction
+   .
+   #PPX: heparin sq, PPI, bowel reg prn, HOB at 30 deg, mouth care
+   .
+   #Code
+ full code
+   #Access
+ 1 PIV 22 g. Obtain central line today.
+   # Contact
+ wife (number in chart)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2981-5-29**] 05:56 AM
+   20 Gauge - [**2981-5-29**] 05:59 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:

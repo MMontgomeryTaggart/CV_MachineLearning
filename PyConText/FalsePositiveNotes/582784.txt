@@ -1,0 +1,201 @@
+Chief Complaint:
+   24 Hour Events:
+ BLOOD CULTURED - At [**2788-2-24**] 03:30 AM
+   - OMFS ([**Doctor Last Name 3064**]) to see pt [**2-24**] after 5pm for possible extraction that
+   pm.
+   - Increased glargine from 33 to 40 units.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Penicillin G potassium - [**2788-2-24**] 04:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2788-2-23**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2788-2-24**] 06:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 80 (80 - 82) bpm
+   BP: 129/55(83) {91/39(65) - 153/116(125)} mmHg
+   RR: 19 (19 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: V Paced
+   Height: 70 Inch
+             Total In:
+                                                                  1,854 mL
+                                                                    475 mL
+   PO:
+                                                                  1,080 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                    774 mL
+                                                                    235 mL
+   Blood products:
+   Total out:
+                                                                    840 mL
+                                                                    600 mL
+   Urine:
+                                                                    840 mL
+                                                                    600 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,014 mL
+                                                                   -125 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///26/
+   Physical Examination
+   GEN: looks well at bedside
+   HEENT: OP clear, MMM
+   CV: RRR, diastolic murmur
+   ABD: NT NT +BS soft
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   238 K/uL
+   8.6 g/dL
+   122 mg/dL
+   2.7 mg/dL
+   26 mEq/L
+   4.1 mEq/L
+   35 mg/dL
+   103 mEq/L
+   139 mEq/L
+   26.1 %
+   8.3 K/uL
+        [image002.jpg]
+                             [**2788-2-21**]  07:46 PM
+                             [**2788-2-21**]  08:04 PM
+                             [**2788-2-22**]  01:09 AM
+                             [**2788-2-22**]  04:46 AM
+                             [**2788-2-22**]  05:01 AM
+                             [**2788-2-22**]  07:06 AM
+                             [**2788-2-22**]  03:39 PM
+                             [**2788-2-22**]  04:21 PM
+                             [**2788-2-23**]  03:59 AM
+                             [**2788-2-24**]  03:32 AM
+   WBC
+   12.7
+   9.9
+   8.3
+   Hct
+   21.8
+   25.2
+   29.3
+   25.4
+   26.1
+   Plt
+   286
+   258
+   238
+   Cr
+   3.4
+   3.6
+   3.6
+   3.4
+   2.7
+   TCO2
+   25
+   25
+   25
+   25
+   24
+   Glucose
+   103
+   281
+   166
+   122
+   Other labs: PT / PTT / INR:13.5/27.7/1.2, ALT / AST:[**7-24**], Alk Phos / T
+   Bili:64/0.9, Differential-Neuts:80.3 %, Lymph:12.5 %, Mono:4.7 %,
+   Eos:2.0 %, Lactic Acid:1.1 mmol/L, Albumin:2.5 g/dL, LDH:207 IU/L,
+   Ca++:8.0 mg/dL, Mg++:2.1 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   53 year-old male with a history of type II diabetes mellitus, aortic
+   root replacement with aortic homograft [**9-19**], AVR with abscess repair
+   at aortic root [**3-20**], CHB s/p PPM, now with group B Strep endocarditis
+   complicated by infected pacemaker, infected aortic valve now with
+   persistent fever despite maximal medical therapy.
+   1. Group B Strep Endocarditis: Pt with involvement of pacer leads,
+   tricuspid valve, and aortic valve and s/p lead extraction on [**2788-2-15**].
+   Regarding antibiotic course, patient has received gentamicin ([**Date range (1) 4495**])
+   and penicillin ([**1-30**]
+ present).  Penicillin course started on [**1-30**],
+   received gentamicin course ([**Date range (1) 4495**]).   Repeat echo has demonstrated
+   worsened MR.  [**Name13 (STitle) **] surgery, he has an extremely high risk for operative
+   repair/replacement and they will hold off on surgical intervention at
+   this time.
+   - continue antibiotics with penicillin G
+   - appreciate surgery recs, ID, and EP recs
+   - follow-up with OFMS regarding teeth extraction
+   - follow-up blood cultures
+   - repeat TEE today or tomorrow for further evaluation of valvular
+   disease
+ TEE currently will likely not change management at this time.
+   - Dr. [**Last Name (STitle) 3064**] to take to OR today after 5pm for dental extraction; will
+   hold SC heparin
+   2. Bilateral Foot Ulcers
+   Pt was evaluated by podiatry on admission with wound cultures grew
+   Group B strep and no evidence of osteomyelitis at that time.
+   - continue current local wound care
+   3. Infected Pacer Leads
+   EP removed leads on [**2788-2-16**], temporary pacer placed
+   - Appreciate EP recs and will follow-up with EP regarding further long
+   term plan options whether he does or doesn
+t have surgery
+   - Increase HR to 80s to help with forward flow and ideally renal
+   perfusion.
+   4. Complete Heart Block
+   Pt s/p pacer lead explant as above, heart block related to damage of
+   conduction system from endocarditis and multiple previous surgeries
+   - Continue on telemetry
+   - Will follow-up with EP as above
+   5. Acute on Chronic renal failure
+   Patient has a baseline creatinine 1.3-5 and has worsened to the mid 3s
+   over the last 72 hours. Etiology thought likely related to ATN in the
+   setting of gentamicin, hypotension, and sepsis.
+   - appreciate renal recs
+   - avoid further nephrotoxic medications
+   - continue to monitor, renally dose meds
+   6. Anemia
+   Likely blood loss and inflammation as dual contributors.  Persistently
+   low reticulocyte count with elevated ferritin. While patient was
+   intubated had Gastroocult + NGT secretions. Did have oozing from pacer
+   site but no hematoma
+   - Continue Pantoprazole 40 mg PO Q12H
+   - Transfuse PRN for HCT < 21 or signs of ischemia
+   7. Diabetes Mellitus Type 2
+   Stable
+   - cont RISS  / Glargine
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2788-2-15**] 06:40 PM
+   Arterial Line - [**2788-2-20**] 06:09 PM
+ d.c today
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

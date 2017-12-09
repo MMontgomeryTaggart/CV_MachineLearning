@@ -1,0 +1,19 @@
+Epochs = 20
+Batch Size = 8
+Balanced = True
+F-Score: 0.627
+Precision: 0.604
+Recall (Sensitivity): 0.653
+Specificity: 0.488
+NPV: 0.541
+
+
+Current Serialized Model:
+Epochs = 12
+Batch Size = 8
+Balanced = True
+F-Score: 0.660
+Precision: 0.647
+Recall (Sensitivity): 0.673
+Specificity: 0.561
+NPV: 0.590

@@ -1,0 +1,362 @@
+TITLE:
+   Chief Complaint:  shortness of breath, somnolence
+   HPI:
+   Ms. [**Known patient lastname 8261**] is an 82 year old female with MDS, Crohn's disease, CAD s/p
+   NSTEMI, CRI, h/o DVT with saddle embolus on weekly lovenox due to h/o
+   GIBs, h/o breast cancer, on home O2 who presents with dyspnea, AMS. Of
+   note, patient was discharged 6 days ago with left upper extremity DVT
+   from PICC and subsequent port placement.
+   In ED, patient presented somnolent with marked tachypnea from
+   ambulance. ABG 7.21/80/76 given baseline pCO2 60 patient was started on
+   BiPAP. CXR with effusions, but unclear if any consolidation. Mildly
+   positive UA, minimal urine output. Patient was started on Vanc/Zosyn
+   and given methylpred 125mg empirically. Patient with troponin at
+   baseline. K noted to be 7.0: 60 gm kayexelate enema (with no
+   significant bowel movement), amp D50, 10 unit insulin iv,
+   albuterol/ipratropium nebs, and 1 gm calcium gluconate. EKG no peaked
+   Ts, QRS 130 which is baseline and no other concerning ST/T changes.
+   Patient repeat K pending. Renal aware of K+ but given EKG felt no need
+   for urgent HD. Given recent left upper extremity DVT, patient got 60 mg
+   lovenox in ED as has not gotten today. Unable to get PE CTA given renal
+   failure. Minimal improvement on BiPAP in terms of mental status.
+   Current vitals: temp afebrile by rectal, BP 140/40s, HR 50s, O2sat 97%
+   on bipap 8/5, 2LNC.
+   Event prior to transfer: SBP 70s suddenly, and SBP improved 100s off
+   BiPAP, still sinus brady. Patient slightly more awake now off BiPAP,
+   getting 500 ml bolus. ABG just prior 7.27/68/74.
+   Upon arrival to MICU, patient somnolent off BiPAP. Patient placed back
+   on BiPAP and want unable to answer questions. Daughter provided the
+   following history. Daughter reports since discharge from hospital
+   patient has been weak, not interested in eating, and intermittently
+   very somnolent. Daughter reports her mother is [**Name2 (NI) 4615**] and then not
+   confused. [**Name2 (NI) 7930**] describes 2 episodes of confusion this week in the
+   setting of document hypoxia to 70s, that resolved upon increasing
+   oxygen. Daughter reports mother [**Name (NI) 9642**] hot w/o fever by thermometer, and
+   w/o chills. Over the week the daughter has noted she issues with
+   oxygenation and has changed her O2 between 1.5 to 3LNC. Usually her
+   mother is only on O2 at night, but has been on it continuously since
+   just prior to last hospitalization. Daughter has been giving her
+   Bactrim and vitamins to help. She also gave her mother [**Doctor Last Name 1730**]
+   yesterday, because she wanted her to retain water and was concerned she
+   was becoming dehydrated. Daughter reports increased UOP earlier in the
+   week followed by minimal urine output today. Early on day of admission
+   patient called out to daughter and reports not seeing well and wanting
+   to get out of bed. Per daughter, these are symptoms of hypercarbia in
+   her mother. Daughter also report mother has had non-productive cough,
+   but without coughing after eating. Per daughter [**Name (NI) **] [**Name2 (NI) **] check was K
+   =5.3 from VNA labs.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Unresponsive, Language barrier
+   Allergies:
+   Belladonna Alkaloids
+   itching; swolle
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2830-7-15**] 02:05 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   HOME MEDS:
+   Folic Acid 1 mg daily
+   Mesalamine 1200 mg daily
+   Bone Reenforcement (MVI/Ca/D/Mg/vitC)
+   Trimethoprim-Sulfamethoxazole 80-400 mg every other day -- took daily
+   for 10 days for UTI prior to last hospital presentation and has been
+   taking almost daily since discharge from last hospitalization for [**Year (4 digits) 9642**]
+   fevers.
+   Ciprofloxacin 250 mg [**Hospital1 **], taken PRN for diarrhea, last taken [**1-22**] wks
+   ago
+   Epoetin Alfa 40,000 unit/mL weekly
+   Miconazole Nitrate 2 % Powder TID:PRN rash
+   Omeprazole EC 20 mg daily
+   Lasix 10mg daily:PRN leg swelling - got tues or wed this past wk
+   Cyanocobalamin 1,000 mcg/mL INJ monthly - due this week
+   Triamcinolone Acetonide 0.025 % Cream to affected area [**Hospital1 **]
+   Prednisone 20 mg daily
+   Lovenox 60 mg INJ daily - got Wed-Fri, missed Mon/Tues due to no
+   supply, missed Sat/Sun as not feeling well and daughter worried about
+   giving
+   Metoprolol Tartrate 12.5 mg prn SBP >130 (daughter checks at home) last
+   given Saturday.
+   Past medical history:
+   Family history:
+   Social History:
+   -h/o hyperkalemia
+   -PICC associated left upper extremity DVT and hematoma [**3-28**]
+   -BL DVTs and saddle embolus in [**2825**] and [**2828**], previously on
+   warfarin, on weekly lovenox due to prior UGIB, recently [**7-8**] increased
+   to daily lovenox for upper extremity DVT.
+   -Multifactorial anemia ([**1-21**] CRI, chronic disease, MDS)
+   -MDS dx 3 yrs ago
+   -Crohn's disease
+   -CAD s/p NSTEMI '[**24**] AND chronic diastolic congestive heart failure: EF
+   60-70%
+   -CRI w baseline Cr 1.4-1.7
+   -Chronic BL LE edema
+   -Breast cancer s/p lumpectomy & XRT
+   -GERD
+   -Intracranial bleed and fx after pedestrian vs car 20 yrs ago
+   -Cataracts
+   -Venous stasis dermatitis
+   -Tinea pedis
+   -?Arrhythmia unspecified which daughter says is tx with
+   metoprolol
+   - CPAP at home started after [**3-28**] hospitalization, but patient did
+   not tolerate and stopped. no sleep study in OMR.
+   Surgical History:
+   -s/p CCY 10 yrs ago
+   -s/p Lumpectomy 13 yrs ago
+   Russian speaking only. Married; lives with her daughter [**Name (NI) 7930**], [**Name2 (NI) 8543**]
+   husband and 6 [**Name2 (NI) **] granddaughter. [**Name (NI) 7930**] is the caretaker for both of her
+   parents. Has daily visiting nurse at home.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other:
+   Review of systems:
+   Constitutional: per HPI
+   Integumentary (skin): Rash, groin
+   Flowsheet Data as of [**2830-7-15**] 02:27 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.4
+C (95.8
+   Tcurrent: 35.4
+C (95.8
+   HR: 63 (63 - 70) bpm
+   BP: 120/51(64) {120/51(64) - 173/156(161)} mmHg
+   RR: 23 (13 - 23) insp/min
+   SpO2: 90%
+   Heart rhythm: 1st AV (First degree AV Block)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    104 mL
+   Respiratory
+   O2 Delivery Device: Bipap mask
+   Ventilator mode: CPAP/PPS
+   PS : 10 cmH2O
+   RR (Spontaneous): 25
+   PEEP: 5 cmH2O
+   FiO2: 30%
+   PIP: 16 cmH2O
+   SpO2: 90%
+   ABG: 7.27/68/74//1
+   Ve: 7.9 L/min
+   PaO2 / FiO2: 185
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: No(t) Pupils dilated, No(t) Conjunctiva pale,
+   conjugate gaze
+   Head, Ears, Nose, Throat: Normocephalic, on BiPAP
+   Lymphatic: No(t) Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Distant), (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ),
+   anterior, lateral
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: 1+ edema, Left: 1+ edema, legs wrapped in ACE
+   bandages
+   Skin:  Warm, Rash: in groin erythematous.
+   Neurologic: No(t) Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+                                  [**2826-12-21**]
+                          2:33 A7/27/[**2829**]  12:34 AM
+                                  [**2826-12-25**]
+                                   10:20 P
+                                  [**2826-12-26**]
+                                   1:20 P
+                                  [**2826-12-27**]
+                                   11:50 P
+                                  [**2826-12-28**]
+                                   1:20 A
+                                  [**2826-12-29**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2827-1-21**]
+                                   1:20 P
+                                  [**2827-1-21**]
+                                   11:20 P
+                                  [**2827-1-21**]
+                                   4:20 P
+   TC02
+                                     33
+   Fluid analysis / Other labs: Na: 140 CL: 105  BUN:31 BG: 115
+   K :7.0  CO2: 34  Cr: 1.9  (baseline 1.4-1.7, but this is recovering
+   from ARF up to 2.7 during last hospitalization)
+   K: Not Hemolyzed
+   Ca: 8.7 Mg: 2.7 P: 4.1
+   ALT: 7 AP: 103 Tbili: 0.3 AST: 11
+   Lip: 61
+   WBC: 5.9
+   N:51.8 L:36.6 M:8.3 E:2.6 Bas:0.8
+   Hgb 8.5
+   HCT 27.3 (baseline 26-28)
+   MCV: 114
+   PLT: 244
+   Lactate 0.5
+   CK 16, troponin 0.03
+   PT: 10.5  PTT: 22.3  INR: 0.9
+   Imaging: CXR: my read: scoliosis of spine, port in right chest wall,
+   bilateral pleural effusions L >> R, prominent aortic nob, increased
+   retrocardiac opacity and blurring of right diaphragm, and hilar
+   fullness with cephalization. compared with prior [**2830-3-28**] port is new,
+   left pleural effusion is new and retrocardiac opacity is new,  and all
+   other findings are similar to prior.
+   CT Head [**7-14**]: prelim, no acute pathology. stable multiple
+   encephalomalaci changes. if there is clinical concern for acute
+   infarct, MRI would be more sensitive.
+   UE U/S [**2830-7-5**]:
+   1. Nearly occlusive thrombus in the left axillary vein.
+   2. Large 10 x 2.5 x 3 bilobed hematoma in the left arm.
+   UE U/S [**2830-7-8**]: 1. Deep vein thrombosis again seen in the left axillary
+   vein, and today it is identified in one of the two brachial veins. No
+   thrombus is identified within the left subclavian or left IJ veins. 2.
+   Stable-appearing left upper arm hematoma.
+   ECHO [**2830-2-26**]: Mild LVH. LV EF > 75%. RV dilated with normal free wall
+   contractility. There is abnormal septal motion/position consistent with
+   right ventricular pressure/volume overload. 2+ TR, moderate pulmonary
+   artery systolic hypertension. There is no pericardial effusion. Doppler
+   study suggests probably normal diastolic function.
+   Assessment and Plan
+   82 year old female with MDS, Crohn's disease, CAD s/p NSTEMI, CRI, h/o
+   DVT with saddle embolus on weekly lovenox due to h/o GIBs, h/o breast
+   cancer, on home O2 who presents with dyspnea, somnulence.
+   # Dyspnea: CXR w/ concern for retrocardiac opacity most c/w PNA. h/o PE
+   and recent upper extremity DVT, unable to get CTA. Concern for
+   heparinization due to hx massive GI bleed w/ heparin. Also with hx
+   diastolic heart failure although last ECHO just hyperdynamic w/ right
+   heart strain and dry on exam.
+   -- ECHO for RV strain
+   -- Vanc/Cefepime/Cipro for PNA given recent hospitalization,
+   immunocompromized
+   -- sputum, urine, blood cultures
+   -- anticoagulation with lovenox 60 mg daily
+   -- stress dose steroids, given home pred 20 mg daily
+   -- gentle IVFs
+   # Somnolence: unable to determine if also underlying confusion given
+   current mental status. likely due to hypercarbia. Baseline bicarb on
+   chemistries is 28-30, so CO2 likely in 40s.
+   -- cont BiPAP
+   -- O2 goal > 88%
+   -- Monitor CO2
+   # Hyperkalemia. Concern for med effect, and poor nutrition/
+   dehydration.  Prior episode during last admission felt to be due to
+   blood resorbtion from her hematoma. CK 16. Patient got Ca gluconate in
+   ED.
+   -- recheck K 6.8, repeat Kayexalate
+   -- hold bactrim
+   -- serial EKGs
+   -- CEs *3
+   -- repeat LUE U/S to assess clot
+   # PICC associated left upper extremity DVT and hematoma [**3-28**]
+   -- cont lovenox, monitor HCT as below
+   # MDS dx 3 yrs ago, transfusion dependent
+   -- cont folic acid
+   -- HOLD bactrim for ppx as can cause hyperkalemia
+   -- c/s heme/onc and/or ID on alter ppx given likely bactrim is reason
+   for intermittent hyperkalemia
+   # Crohn's disease:
+   -- cont mesalamine (does not have listed SE of hyperkalemia)
+   -- stress dose steroids as above
+   # CAD s/p NSTEMI
+   -- not on ASA due GI bleed
+   -- unclear why not on statin last LDL in [**2825**] was 116, will discuss
+   restarting once acute illness has resolved.
+   -- on BB PRN will discuss restarting continuously once acute illness
+   has resolved
+   # Chronic diastolic congestive heart failure: hyperdynamic by ECHO, on
+   exam patient is dry.
+   -- hold lasix
+   # Chronic b/l LE edema/Chronic Venous Stasis
+   -- cont triamcinolone cream
+   -- feel intravascularly euvolemic, so hold lasix in this acute setting
+   -- c/s wound
+   # GERD
+   -- cont omeprazole as protonix IV
+   # Chronic Kidney Disease: Cr 1.9 recovering from acute renal failure,
+   baseline 1.4-1.7
+   -- trend
+   -- continue EPO
+   # Anemia: chronic attributed to CKD, chronic disease, MDS
+   -- trend [**Hospital1 **] given hx GIB on heparin previously, but has tolerated
+   lovenox well
+   -- guaiac all stools
+   -- B12 shots monthly
+ give today
+   # Groin Rash: c/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 176**]
+   -- miconazole QID, monitor
+   #COMMUNICATION: patient, daughter [**Name (NI) 7930**] [**Known patient lastname 8261**]-[**Last Name (un) 9641**]
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   - replete lytes PRN
+   - Ca/Vit D daily
+   - hold MVI given hyperkalemia
+   Glycemic Control: Comments: HISS
+   Lines:
+   Indwelling Port (PortaCath) - [**2830-7-15**] 01:12 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: LMWH Heparin)
+   Stress ulcer: PPI
+   VAP:  HOB at 30 degrees
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: DNR / DNI
+   Disposition: ICU
+   ------ Protected Section ------
+   EKG: rate 61, wnl axis, interval pr 254, qrs 128, Qtc 365. RBBB, 1^st
+   degree AV block. NSSST changes. T upright in V3 c/w prior likely lead
+   placement. Mild peaking to t-wave with similar morphology to [**2830-3-28**].
+   EKG similar to prior [**2830-3-28**].
+   ------ Protected Section Addendum Entered By:[**Name (NI) 3025**] [**Last Name (NamePattern1) 5050**], MD
+   on:[**2830-7-15**] 03:15 ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   outstanding note above by Dr. [**Last Name (STitle) 5050**], including the assessment and
+   plan. I would emphasize and add the following points: 82F complex PMH
+   notable for chronic hypercarbic respiratory insufficiency, DVT/PE, MDS,
+   IBD / Crohn's disease, CRI, episodic hyperkalemia now admitted with
+   somnolence, hyperkalemia and ABG 7.21/80/76.
+   Exam notable for Tm 95.8 BP 120/50 (transient drop on NPPV to 80/40) HR
+   63 RR 23 with sat 90 on CPAP 10. Frail woman, intermittent moaning.
+   Coarse BS B. RRR s1s2. Soft +BS. 1+ edema. Labs notable for WBC 6K, HCT
+   27, K+ 7.0, Cr 1.9, lactate 0.5. CXR with B effusions, retrocardiac
+   opacity; EKG c long PR, NSSTTW changes.
+   Agree with plan to manage recurrent hypercarbic respiratory failure
+   with NPPV (CPAP 10 for now), serial ABGs (OK to place art line per
+   daughter), and broad abx coverage with vanco / zosyn / cipro while
+   awaiting culture data. Will place on stress steroids given chronic
+   prednisone and hypotension. PE is difficult to exclude given her known
+   clots and ARF. Will continue home lovenox and check echo in AM re R
+   heart function, but will hold off on IV heparin given IBD with bleeding
+   complications in the past. Hyperkalemia in the setting of worsening ARF
+   may be due to bactrim, which has been given on a daily basis. Will hold
+   for now and continue kayexalate PR; renal aware but no immediate plans
+   for HD given lack of EKG changes. For ARF, will check lytes, [**Street Address(1) 9643**]
+   meds while gently hydration overnight. Access is via portacath, pt is
+   DNR/I, above d/w daughter at bedside by Dr. [**Last Name (STitle) 5050**]. Remainder of
+   plan as outlined above.
+   Patient is critically ill
+   Total time: 50 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**2830-7-15**] 03:55 ------

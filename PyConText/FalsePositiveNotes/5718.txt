@@ -1,0 +1,212 @@
+Admission Date:  [**3094-4-16**]       Discharge Date:  [**3094-4-27**]
+
+Date of Birth:   [**3017-4-19**]       Sex:  M
+
+Service:  [**Doctor Last Name 1166**]
+
+HISTORY OF PRESENT ILLNESS:  This is a 76 year old white male
+with a history of coronary artery disease, diabetes mellitus,
+and venous stasis disease, peripheral vascular disease,
+status post history of left below the knee amputation, who
+developed increased pain and swelling and redness of both
+legs for an unknown length of time.  The legs were painful
+and blood sugar also had been elevated per the patient.  His
+primary care physician arranged for the patient to be
+directly admitted to the Vascular Surgery service.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease.
+2.  Diabetes mellitus with neuropathy and retinopathy.
+3.  Venous stasis disease.
+4.  Arthritis of the left knee.
+5.  Peripheral vascular disease.
+6.  History of Methicillin resistant Staphylococcus aureus
+and VRE.
+
+PAST SURGICAL HISTORY:
+1.  Left thyroid lobectomy for nodule.
+2.  Amputation of the right first toe in [**3085-5-5**].
+3.  Amputation of the right second toe [**3087-9-4**].
+4.  Right below the knee popliteal to dorsalis pedis with an
+arm vein [**3087-9-4**].
+5.  Left below the knee popliteal angioplasty [**3088-8-5**].
+6.  Left below the knee amputation in [**3088-12-5**].
+7.  Question fracture of the left upper arm.
+
+MEDICATIONS ON ADMISSION:
+1.  Nitro-Dur 0.6 mg patch on in morning and remove at night.
+2.  Imdur 120 mg p.o. q.d.
+3.  Lasix 80 mg p.o. q.a.m.
+4.  Tenormin 100 mg p.o. q.d.
+5.  Plavix 75 mg p.o. q.d.
+6.  Aspirin 81 mg p.o. q.d.
+7.  Zocor 40 mg p.o. q.h.s.
+8.  Multivitamin one q.d.
+9.  Insulin NPH 38 units in the morning and sliding scale
+insulin b.i.d.
+10. Maxitrol one drop O.S. b.i.d.
+11. Alphagan 0.2% one drop O.S. b.i.d.
+
+SOCIAL HISTORY:  The patient lives in Senior Housing with
+close following by his daughter.
+
+PHYSICAL EXAMINATION:  On presentation to the Vascular
+Surgery service, temperature was 98.0, pulse 62, respiratory
+rate 18, blood pressure 140/70, oxygen saturation 98% in room
+air.  In general, the patient is an alert and cooperative
+white male in no apparent distress.  Skin is warm and dry.
+Eyes - Sclera anicteric.  The pupils are equal, round, and
+reactive to light and accommodation.  Extraocular movements
+are intact.  Pulses - 2+ radial bilateral pulses, 1+ right
+femoral pulse, left femoral pulse weakly dopplerable. Chest
+is clear to auscultation bilaterally with diffuse wheezes.
+Abdomen is soft, nontender, nondistended.  Left stump site
+was erythematous with no drainage and nontender. Right venous
+stasis changes with no ulcerations.
+
+LABORATORY DATA:  On admission, white blood cell count 6.8,
+hematocrit 30.0, platelets 212,000.  Sodium 142, potassium
+5.1, chloride 102, bicarbonate 30, blood urea nitrogen 69,
+creatinine 2.1, glucose 124.  INR was 1.0.
+
+Chest x-ray revealed left ventricle decompensation without
+overt signs of congestive heart failure.  Ultrasound of the
+left lower extremity revealed cellulitis of the left below
+the knee amputation stump with no drainable fluid collection.
+
+HOSPITAL COURSE:  The patient was admitted to the Vascular
+Surgery service for management of presumed stump infection.
+He was treated with Levofloxacin and Flagyl.  He had an
+ultrasound to rule out fluid collection as described above.
+This was determined not to be surgically debridable.  During
+the course of the patient's admission on the Vascular Surgery
+service, routine laboratories revealed that the patient was
+suffering from acute on chronic renal failure.  Additionally,
+a routine electrocardiogram revealed new onset left bundle
+branch block.  The patient was ruled out for myocardial
+infarction by serial CKs and the patient did complain of
+primarily exertional chest pain.
+
+On [**3094-4-18**], the patient was transferred to the Medical
+service for further evaluation of chest pain and renal
+failure.  Additional data prior to transfer to the Medical
+service, electrocardiogram revealed 70 beats per minute, wide
+complex regular sinus, left bundle branch block which was new
+from baseline electrocardiogram in [**3089**].  The PR interval was
+within normal limits.
+
+MEDICAL SERVICE HOSPITAL COURSE:
+1.  Infectious disease - For the patient's cellulitis, he was
+continued on Levaquin and Flagyl.  These were renally dosed.
+He will complete a total fourteen day course of this
+antibiotic.  The cellulitis did resolve over the course of
+his time on the Medical service and the patient remained
+afebrile.
+
+2.  Cardiovascular - On [**3094-4-19**], the patient was taken to
+cardiac catheterization to evaluate for his rest anginal
+pain.  He was maintained on a Heparin drip prior to this and
+was given Mucomyst to prophylax against renal damage.
+Cardiac catheterization revealed three vessel disease and he
+received no intervention.
+
+3.  The patient was seen in consultation by the cardiac
+surgery service who felt that the patient was not a surgical
+candidate.  In light of this information, the patient
+underwent repeat cardiac catheterization with the intention
+of high risk intervention.  This cardiac catheterization
+revealed left main and three vessel coronary disease as
+determined on the prior catheterization with severe systolic
+ventricular dysfunction and successful left main coronary
+artery stenting and OM1 stenting with rescue percutaneous
+transluminal coronary angioplasty of the AV groove circumflex
+artery.
+
+Given the high risk nature of the patient's intervention, he
+was maintained on an intra-aortic balloon pump and was
+admitted to the Coronary Care Unit for overnight observation.
+He then returned to the Medical service following this
+catheterization and CCU stay, he has since had no further
+episodes of chest pain.  Cardiac medications included a beta
+blocker.  The patient's Lasix was held because of renal
+function described below.
+
+4.  Renal - For the patient's acute on chronic renal failure,
+he was seen in consultation by the renal service and was felt
+to have acute on chronic renal failure likely secondary to
+worsening diabetic nephropathy and likely renal artery
+vascular disease.  In order to treat this renal artery
+vascular disease, the patient underwent left renal
+angioplasty during the cardiac catheterization on [**3094-4-19**].
+The left renal artery was stented as well.  Following this
+procedure, the patient's creatinine remained stable.
+However, over the course of [**3094-4-22**], to [**3094-4-23**], the
+patient's creatinine began to rise and it was felt that the
+patient likely had acute tubular necrosis secondary to the
+two dye loads he had received during the two cardiac
+catheterizations.  The patient became anuric and was followed
+by the renal service.  The renal service recommended that the
+patient be started on hemodialysis and that the prognosis for
+recovery of renal function is borderline to unlikely.  On
+[**3094-4-24**], a permacath was placed using a tunneled fashion.
+The patient started on hemodialysis on [**3094-4-24**], and
+[**3094-4-25**].  His electrolytes remained stable with
+hemodialysis.
+
+5.  Hematologic - The patient's hematocrit was generally
+stable throughout the admission, however, on [**3094-4-22**], the
+patient's hematocrit dropped approximately ten points to a
+low of 20.0.  The patient was hemodynamically stable during
+this and asymptomatic.  CT scan of the abdomen and pelvis
+were negative for bleeding.  No source was identified,
+however, the patient's hematocrit rose appropriately after
+two units of packed red blood cells and remained stable
+thereafter.  Once started on hemodialysis, the patient
+received Epogen during dialysis.
+
+6.  Musculoskeletal - A right knee effusion was appreciated
+and confirmed by ultrasound.  The patient underwent
+arthrocentesis on [**3094-4-23**].  Results of fluid analysis were
+consistent with osteoarthritis with no crystals and less than
+300 white blood cells.  Gram stain was negative.  Culture was
+negative.  The patient had relief of some of his knee pain
+following this but the effusion was felt to have
+reaccumulated at the time of this dictation.
+
+7.  Endocrine - The patient was managed with regular insulin
+sliding scale and NPH insulin.  He had stable blood glucoses
+during the admission.
+
+8.  Additional laboratory studies during this admission - CT
+abdomen with contrast and CT pelvis without contrast
+[**3094-4-22**], looking for signs of bleeding revealed no evidence
+for retroperitoneal hematoma, bulky inguinal lymphadenopathy
+of uncertain clinical significance, small bilateral fat
+containing inguinal hernia, bilateral small effusions,
+greater on the left than the right, and atrophic appearing
+kidneys which demonstrated patchy areas of delayed
+enhancement felt to be possibly consistent with multifocal
+renal infarction.  Renal ultrasound performed on [**3094-4-23**],
+revealed no hydronephrosis.  Femoral ultrasound performed on
+[**3094-4-22**], looking for femoral pseudoaneurysm, status post
+cardiac catheterization, revealed no pseudoaneurysm.
+
+The patient's creatinine peaked at 7.7 on [**3094-4-24**], prior to
+institution of hemodialysis.  The patient's lowest hematocrit
+was 20.7 on [**3094-4-22**].
+
+A list of discharge diagnoses, follow-up instructions,
+discharge instructions and discharge medications will be
+dictated at a later date by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+
+
+
+
+                         [**Last Name (LF) **], [**Name8 (MD) **]  M.D. [**MD Number(1) 9655**]
+
+Dictated By:[**Name8 (MD) 2621**]
+MEDQUIST36
+
+D:  [**3094-4-26**]  17:35
+T:  [**3094-4-26**]  18:00
+JOB#:  [**Job Number 22518**]

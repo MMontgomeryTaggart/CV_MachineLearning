@@ -1,0 +1,346 @@
+Admission Date:  [**3353-4-17**]              Discharge Date:   [**3353-4-20**]
+
+Date of Birth:  [**3330-7-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Oxycodone Hcl/Acetaminophen
+
+Attending:[**First Name3 (LF) 19314**]
+Chief Complaint:
+Feeling unwell, Hypertensive urgency
+
+Major Surgical or Invasive Procedure:
+dialysis
+
+
+History of Present Illness:
+Pt is a 22 yo female with Lupus, end-stage renal disease on HD,
+HTN, multiple other medical problems as below who presents with
+feeling unwell and found to be in hypertensive urgency. Pt
+states that last Thursday, five days ago, she started to feel
+unwell. States that she had chills, no fever, a "weird feeling
+in my stomach" with cramps, and no cough. No diarrhea. No
+dysuria. Pt missed her dialysis session on Saturday because she
+was feeling unwell (3 days ago). Per patient she started to feel
+better that day, but today, started to feel unwell with the same
+symptoms. No sick contacts.
+.
+In the ED, VS on arrival were: HR: 73; BP: 222/128, 100% RA. She
+was given labetalol 20 mg IV, 40 mg IV, and then started on a
+labetaolol gtt.She was also calcium gluconate 1 am IV,
+kayexalate 30 mg po x 1, 10 units of insulin IV, and 1 amp of
+d50.
+.
+Of note, pt was recently admitted to [**Hospital1 **] at the end of [**Month (only) 626**] for
+Left uveitis/endophthalmitis. She the developed [**Female First Name (un) 498**]
+endophthalmitis and had her L eye enucleation. She states that
+she went to her appt at [**Hospital **] 5 days ago. They said
+that her eye "looked good" and she was to continue on the same
+amount of prednisone that she is on.
+.
+Her last admission she was also noted to have coag negative
+staph bacteremia. She was discharged on 14 day course of
+vancomycin but she somehow did not receive this at dialysis. She
+has now had 4 sets bld cx + for coag negative staph and was
+started on vancomycin.
+
+Past Medical History:
+1. Lupus - [**3346**]. Diagnosed after she began to have swolen
+fingers, a rash and painful joints.
+2. ESRD secodary to SLE - [**3347**]. Was initially on cytoxan, 1 dose
+
+every 3 months for 2 years until began dialysis 3 times a week
+in [**3349**] (T, Th, Sat). Awaiting living donor transplant from
+mother.
+3. HTN - [**3349**]. Normal BPs run 180's/120's. Has had 1
+hypertensive crisis that precipitated seizures in the past.
+4. Uveitis secondary to SLE - [**3-16**]
+5. HOCM - per Echo in [**3349**]
+6. Vaginal bleeding [**3352-8-20**]
+7. Mulitple episodes of dialysis reactions
+8. Anemia
+9. Coag neg. Staph bacteremia and HD line infection - [**5-16**]
+10. H/O UE clot, was on coumadin, but no longer
+
+Social History:
+Lives in [**Location **] with mother and 16 year old brother. Graduated
+[**Name2 (NI) **] School and then got sick so currently is not working or
+attending school. Denies any T/E/D.
+
+Family History:
+No family history of SLE. GF: HTN. No clotting disorders in
+family. No history of autoimmune disease.
+
+Physical Exam:
+VS: T: 97.8; BP: 203/133; HR: 100; RR: 15; O2: 100 RA
+Gen: Speaking in full sentences in NAD
+HEENT: Left eye patch. Refuses to let examine/look. Right eye
+reactive. Sclera anicteric. OP clear.
+Neck: No LAD
+CV: RRR S1S2. No M/R/G
+Lungs: CTA b/l with good air entry and flow
+Abd: Soft, NT, ND.
+Back: No spinal, paraspinal, or CVA tenderness
+Ext: No edema. DP 2+
+Neuro: A&O x 3, MS intact.
+
+Pertinent Results:
+EKG: sinus at 75. Normal axis. Normal intervals. Early
+repolarization in anterior precordium. No acute changes. LVH.
+.
+Radiology:
+CXR PA/LAT [**3353-4-17**]-
+Large-bore inferior approaching right-sided dialysis catheter is
+unchanged in position terminating within the right atrium.  The
+lungs are clear and cardiomediastinal silhouette, hilar
+contours, and pleural surfaces are normal. No evidence of
+pneumothorax or pulmonary edema.
+.
+[**3353-4-17**] 06:20AM   WBC-7.4 RBC-3.85*# HGB-11.2*# HCT-35.3*#
+MCV-92 MCH-29.1 MCHC-31.8 RDW-20.9*
+[**3353-4-17**] 06:20AM   NEUTS-91.1* LYMPHS-7.7* MONOS-1.1* EOS-0.1
+BASOS-0
+[**3353-4-17**] 06:20AM   PLT COUNT-202
+.
+[**3353-4-17**] 06:20AM   GLUCOSE-100 UREA N-40* CREAT-5.2* SODIUM-138
+POTASSIUM-6.3* CHLORIDE-109* TOTAL CO2-18* ANION GAP-17
+.
+[**3353-4-17**] 04:10PM   WBC-5.6 RBC-3.47* HGB-10.3* HCT-31.4* MCV-91
+MCH-29.6 MCHC-32.7 RDW-20.6*
+.
+[**3353-4-17**] 04:10PM   CALCIUM-9.1 PHOSPHATE-3.6# MAGNESIUM-2.3
+[**3353-4-17**] 04:10PM   LIPASE-54
+[**3353-4-17**] 04:10PM   ALT(SGPT)-20 AST(SGOT)-38 ALK PHOS-74
+AMYLASE-267* TOT BILI-0.3
+[**3353-4-17**] 04:10PM   GLUCOSE-89 UREA N-40* CREAT-4.9* SODIUM-139
+POTASSIUM-5.2* CHLORIDE-109* TOTAL CO2-20* ANION GAP-15
+.
+[**4-17**] and [**4-18**] with blood cultures 4/4 + coag negative
+staphylococcus.  [**4-19**] and [**4-20**] bld cultures no growth to date.
+.
+Ecchocardiogram: Severe symmetric LVH. Normal LV cavity size.
+Normal regional LV systolic function. Hyperdynamic LVEF >75%.
+Moderate resting LVOT gradient. LVOT gradient increases with
+Valsalva.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta
+diameter. Normal aortic arch diameter. No 2D or Doppler evidence
+of distal arch coarctation.  AORTIC VALVE: Normal aortic valve
+leaflets (3). Trace AR.  MITRAL VALVE: Normal mitral valve
+leaflets with trivial MR. No MVP.
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+Indeterminate PA systolic pressure.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with
+physiologic PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: Echocardiographic results were reviewed with
+the
+houseofficer caring for the patient.
+Conclusions:
+The left atrium is elongated. The estimated right atrial
+pressure is 0-5mmHg. There is severe symmetric left ventricular
+hypertrophy with normal cavity size and dynamic systolic
+function (LVEF>80%). Regional left ventricular wall motion is
+normal. There is a moderate (25mmHg peak) resting left
+ventricular outflow tract obstruction that increased (64mmHg)
+with the Valsalva manuever. Right ventricular chamber size and
+free wall motion are normal. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion. Trace
+aortic regurgitation is seen. The mitral valve appears
+structurally
+normal with trivial mitral regurgitation. There is no mitral
+valve prolapse. The pulmonary artery systolic pressure could not
+be determined. There is no pericardial effusion.
+
+IMPRESSION: Marked symmetric left ventricular hypertrophy with
+dynamic
+systolic function and resting LVOT gradient that increased with
+Valsalva.
+Compared with the prior study (images reviewed) of [**3350-11-4**],
+the severity of left ventricular hypertrophy has increased and
+trace aortic regurgitation is now identified. Dynamic LV
+systolic function and the resting intracavitary gradient are
+similar.
+.
+UE ultrasound
+1.  Abrupt occlusion of the right internal jugular vein and its
+distal most aspect as it joins with the distal subclavian vein.
+2.  Recanalization of the left subclavian vein with some
+peripheral residual clot.  Recommend analysis of the SVC,
+central subclavians and internal jugular veins with dedicated
+magnetic resonance venography, which can be performed without
+intravenous contrast for a global assessment of the venous
+patency.
+
+
+Brief Hospital Course:
+Pt is a 22 yo female with SLE, ESRD on HD, amongst other
+problems who presented with symptoms likely [**1-12**] bacteremia.
+Found to be in hypertensive urgency after missing a run of
+dialysis. She is now transferred to the floor for further
+managment after dialysis x 1 and starting vancomycin.
+.
+In the MICU she was started kept briely on a labetalol gtt, and
+then restarted on her home antihypertensives and dialyzed x 1
+with resolution of hypertension. She was found to be bacteremic
+and was started on vancomycin. She felt well and was transferred
+to the floor.
+.
+1. Hypertensive urgency- Pt with long history of very
+difficult-to-control HTN. She was initially on a labetalol gtt
+as above, was dialyzed with resolution of her HTN urgency.  She
+was then transitioned to her her outpatient medication regimen
+of valsartan, lisinopril, clonidine, labetalol, terazosin, and
+nicardipine at max doses, but because of persistent HTN to the
+180's she was started on hydralazine 50mg po tid on discharge.
+.
+2. Coag negative staph bacteremia: most likely source is line
+sepsis.  She was started on vancomycin and her blood cultures
+cleared after 2 days in the hospital.  The patient felt strongly
+about keeping her HD line, which was felt to be reasonable
+because her infection was coag negative staph.  Ecchocardiogram
+did not show any valvular vegitations.  She will continue on
+vancomycin for 3 weeks at hemodialysis.
+.
+3. ESRD on dialysis-euvolemic clinically.  Had dialysis inhouse.
+ Continued sevelamer.
+.
+4. Left uveitis/endopthalmitis-Continued prednisone 30 mg po
+qday. Will also continue bacitracin-polymyxin b.
+.
+5. Lupus- not on any other medications than above.
+.
+F/E/N- insists on regular diet
+.
+Access: Right dialysis catheter
+.
+Prophylaxis: Heparin sc, PPI per outpatient
+.
+Code Status: Full Code
+
+
+Medications on Admission:
+Nephrocaps 1 CAP PO DAILY
+Vancomycin 1000 mg IV HD PROTOCOL
+Vancomycin 1000 mg IV X1 Duration: 1 Doses
+DiphenhydrAMINE 25 mg PO Q6H:PRN
+Labetalol 600 mg PO TID
+Heparin 5000 UNIT SC TID
+Acetaminophen 325-650 mg PO Q4-6H:PRN
+OxycoDONE (Immediate Release) 10 mg PO Q3H:PRN
+Bacitracin/Polymyxin B Sulfate Opht. Oint 1 Appl BOTH EYES Q8H
+Terazosin HCl 8 mg PO BID
+Gabapentin 100 mg PO QTUESDAY, THURSDAY, SATURDAY
+Sevelamer 800 mg PO TID
+NiCARdipine 40 mg PO Q8H
+PredniSONE 30 mg PO DAILY
+Sulfameth/Trimethoprim DS 1 TAB PO QMONDAY, WEDNESDAY, FRIDAY
+Lorazepam 1 mg PO Q4-6H:PRN
+Senna 1 TAB PO BID:PRN
+Docusate Sodium 100 mg PO BID
+Pantoprazole 40 mg PO Q24H
+Clonidine TTS 3 Patch 1 PTCH TD QFRI
+Lisinopril 40 mg PO BID
+Valsartan 320 mg PO DAILY
+Ondansetron 4 mg IV Q8H:PRN
+Oxycodone SR (OxyconTIN) 70 mg PO Q8H
+
+
+Discharge Medications:
+1. Clonidine 0.3 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly
+Transdermal QFRI (every Friday).
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO QMONDAY, WEDNESDAY, FRIDAY ().
+4. Prednisone 20 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+5. Nicardipine 20 mg Capsule Sig: Three (3) Capsule PO Q8H
+(every 8 hours).
+6. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+7. Valsartan 160 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+8. Terazosin 2 mg Tablet Sig: Four (4) Tablet PO BID (2 times a
+day).
+9. Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO Q3H (every 3
+hours) as needed.
+10. OxyContin 20 mg Tablet Sustained Release 12 hr Sig: 3.5
+Tablet Sustained Release 12 hrs PO every eight (8) hours.
+11. Sevelamer 400 mg Tablet Sig: Two (2) Tablet PO TID (3 times
+a day).
+12. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO QTUESDAY,
+THURSDAY, SATURDAY ().
+13. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+14. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+Intravenous per hemodialysis for per hd days: per hemodialysis.
+
+15. Bacitracin-Polymyxin B 500-10,000 unit/g Ointment Sig: One
+(1) Appl Ophthalmic Q8H (every 8 hours).
+16. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+17. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO QTUESDAY,
+THURSDAY, SATURDAY ().
+18. Labetalol 200 mg Tablet Sig: Five (5) Tablet PO TID (3 times
+a day).
+19. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4
+to 6 hours) as needed for anxiety.
+20. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+Intravenous HD PROTOCOL (HD Protochol): 1g Q dialysis.
+21. Hydralazine 50 mg Tablet Sig: One (1) Tablet PO three times
+a day.
+Disp:*90 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 211**] VNA
+
+Discharge Diagnosis:
+Primary diagnosis:
+Hypertensive urgency
+Coagulase negative Staphylococcus Bacteremia
+
+Secondary diagnosis:
+Lupus
+ESRD
+s/p L eye enucleation
+
+
+Discharge Condition:
+Good. Blood pressure is in the 130s-150s systolic. Her vitals
+are stable, she is ambulatory, and taking in PO
+
+
+Discharge Instructions:
+Please follow up as below; I have also made a new cardiology
+appointment for you
+.
+Take all medications as prescribed; Other than giving you
+vancomycin we have added hydralazine (a blood pressure
+medicine), but otherwise we have not changed any of your
+medicines.  If you have fevers, chills, light-headedness, or
+other problems then you should contact your doctor because this
+may be a sign that your infection is not resolving.
+
+You should go for hemodialysis as scheduled Saturday where they
+should give you vancomycin.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 16129**], M.D. Phone:[**Telephone/Fax (1) 1156**]
+Date/Time:[**3353-4-30**] 1:00
+
+Dr. [**Last Name (STitle) 7396**] [**Telephone/Fax (1) 517**]
+
+Tuesday [**5-1**] at 3pm with Dr. [**Last Name (STitle) 387**] in Cardiology.
+[**Telephone/Fax (1) 1511**]
+
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 19317**]
+

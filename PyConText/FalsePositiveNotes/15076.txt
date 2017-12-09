@@ -1,0 +1,169 @@
+Admission Date:  [**3293-1-7**]       Discharge Date:  [**3293-1-11**]
+
+Date of Birth:   [**3227-12-11**]       Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Coronary artery disease.
+
+HISTORY OF PRESENT ILLNESS:  This is a 65 year old gentleman,
+status post multiple coronary stenting, most recently in [**3292-6-10**].  The patient had stenting of his left anterior
+descending with a Cypher stent.  The patient now presents to
+[**Hospital1 58**] with a one week history
+of recurrent angina with tightness sensation in his chest and
+discomfort in his shoulder.  The patient states that the
+discomfort resolved with Nitroglycerin.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Hypercholesterolemia.
+3.  Coronary artery disease with multiple left anterior
+descending/diagonal stents.
+4.  Colon cancer, status post partial bowel resection in
+[**3292-10-11**].
+
+SOCIAL HISTORY:  The patient lives with his wife and denies
+any alcohol or tobacco use.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Aspirin 325 mg p.o. once daily.
+2.  Plavix 75 mg p.o. once daily.
+
+REVIEW OF SYSTEMS:  The patient denies any current chest
+pain, palpitations, no paroxysmal nocturnal dyspnea,
+orthopnea, dyspnea on exertion, transient ischemic attack,
+cerebrovascular accident, dysphagia, diplopia,
+gastrointestinal bleed, melena, bleeding, clotting problems,
+diabetes [**Name2 (NI) 7137**], thyroid problems.
+
+PHYSICAL EXAMINATION:  The patient is alert and oriented
+times three.  Cardiovascular was regular rate and rhythm,
+normal S1 and S2.  Lungs clear to auscultation bilaterally,
+breathing even and unlabored.  Gastrointestinal - positive
+bowel sounds, soft, nontender, nondistended with a 6.0 to 7.0
+millimeter surgical scar in the left lower quadrant which is
+well healed.  No masses or hepatosplenomegaly were noted.
+Extremities - positive spider veins with no varicosities.  No
+erythema or edema was noted.  Pulses - popliteal 1+
+bilaterally, dorsalis pedis 1+ bilaterally, posterior
+tibialis 2+ bilaterally, radial pulses 2+ bilaterally,
+carotids with no bruits.
+
+LABORATORY DATA:   Pertinent laboratories on admission
+included complete blood count with white blood cell count of
+8.2, hematocrit 37.0, platelet count 200,000.  Chem7 showed a
+sodium of 137, potassium 3.9, chloride 105, bicarbonate 26,
+blood urea nitrogen 18, creatinine 0.9, blood sugar 131.
+Prothrombin time 12.8, INR 1.1, partial thromboplastin time
+25.8.  AST 26, ALT 26, alkaline phosphatase 72, total
+bilirubin 0.3.
+
+HOSPITAL COURSE:  This 65 year old gentleman came in for an
+off pump coronary artery bypass graft times one with an
+attempted thoracoscopic left internal mammary artery harvest.
+The patient had his left internal mammary artery to left
+anterior descending placed.  The attending was Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] and he was assisted by nurse practitioner, [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **].  In the operating room, the patient had an arterial
+line and a Swan-Ganz catheter placed.  Following a brief stay
+in the Post Anesthesia Care Unit, the patient was transferred
+to the CSRU on a Propofol drip titrated to maintain sedation
+while the patient was intubated.  On the evening of
+postoperative day, the patient was extubated without any
+difficulty and the patient was able to maintain his oxygen
+saturation with nasal cannula oxygen.
+
+On postoperative day number one, the patient had his chest
+tube removed, was completely off all his Propofol drips and
+was able to maintain oxygen saturation while staying in
+normal sinus rhythm.  The patient was then transferred down
+to the surgical floor for further recovery.  When the patient
+reached the floor, the patient continued to have a good
+recovery.  The only complication during his recovery was a
+run of atrial fibrillation on postoperative day number two.
+For the atrial fibrillation, the patient was placed on
+intravenous Lopressor and following that he had an Amiodarone
+bolus and drip.  The patient converted from atrial
+fibrillation to sinus rhythm without any further incident and
+the patient was maintained on Amiodarone 400 mg p.o. twice a
+day.  The remainder of the patient's recovery was uneventful.
+The patient had his wires pulled on postoperative day number
+four.  The patient had been seen and evaluated by physical
+therapy as soon as he reached the floor and their
+recommendations were to send him home following a couple
+therapy sessions with them.  By [**3293-1-11**], the patient and the
+surgical team deemed that the patient was ready to be
+discharged to home.
+
+Physical examination on the day of discharge revealed the
+patient was afebrile with temperature maximum 98.9, pulse 69
+and sinus rhythm, blood pressure 116/62, respiratory rate 18
+breaths per minute, and oxygen saturation 93% in room air.
+The patient was alert and oriented with no apparent distress.
+The surgical site was clean, dry and intact with staples.
+The patient was breathing evenly and unlabored.  His lungs
+were clear to auscultation bilaterally.  Cardiac examination
+was regular rate and rhythm, S1 and S2 were noted.  The
+abdomen was soft, nontender, nondistended. Extremities - no
+erythema and no edema.
+
+Pertinent laboratories on discharge showed a white blood cell
+count of 8.8, hematocrit 32.8, platelet count 201,000.
+Prothrombin time 12.4, partial thromboplastin time 23.8, INR
+1.0.  Chem7 showed a sodium 141, potassium 4.0, chloride 104,
+bicarbonate 27, blood urea nitrogen 21, creatinine 0.8, and
+blood glucose 106.  Calcium 8.5, magnesium 2.0, phosphate
+3.2.
+
+DISCHARGE DISPOSITION:  The patient will be discharged to
+home with instructions to follow-up with his primary care
+physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 298**] [**Last Name (NamePattern1) 958**], in one to two weeks, his
+cardiologist in two to three weeks, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in six
+weeks.  The patient was instructed to please call these
+doctors to arrange the appointments.
+
+CONDITION ON DISCHARGE:  The patient will be discharged in
+good condition, afebrile, tolerating p.o. pain medications,
+on regular diet without any difficulty, able to ambulate
+without assistance.
+
+DISCHARGE DIAGNOSES:
+1.  Status post coronary artery bypass graft times one, left
+internal mammary artery to left anterior descending, on
+[**3293-1-7**].
+2.  Attempts at thoracoscopic left internal mammary artery
+harvest.
+3.  Hypertension.
+4.  Hypercholesterolemia.
+5.  Coronary artery disease, status post multiple left
+anterior descending/diagonal stents.
+6.  Colon cancer.
+7.  Status post partial bowel resection in [**3292-10-11**].
+
+MEDICATIONS ON DISCHARGE:
+1.  Amiodarone 400 mg p.o. twice a day times seven days, 200
+mg p.o. twice a day times fourteen days, 200 mg p.o. once
+daily times seven days.
+2.  Aspirin 325 mg p.o. once daily.
+3.  Plavix 75 mg p.o. once daily.
+4.  Metoprolol 25 mg p.o. twice a day.
+5.  Lasix 20 mg p.o. twice a day times seven days.
+6.  Potassium Chloride 20 mEq p.o. twice a day times seven
+days.
+7.  Colace 100 mg p.o. twice a day.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 186**], M.D.  [**MD Number(1) 187**]
+
+Dictated By:[**Name8 (MD) 11146**]
+MEDQUIST36
+
+D:  [**3293-1-11**]  11:30
+T:  [**3293-1-11**]  13:06
+JOB#:  [**Job Number 20005**]
+
+cc:[**Last Name (NamePattern4) 20006**]

@@ -1,0 +1,271 @@
+Chief Complaint:
+   Leg pain and altered mental status.
+   24 Hour Events:
+   Just one 22 g PIV at present and poor access and unable to get coags
+   this a.m.
+   Head CT clear (old L infarct and global atrophy with no acute bleed)
+   One non-sustained run of tachycardia. Different morphology to sinus
+   QRS, but not wide enough for ventricular. Likely alternate pacemaker or
+   tract.
+   Pain somewhat localized to hip. X-ray of the hip shows erosion of the
+   acetabulum and subchonral sclerosis worse on the right
+ fitting with
+   pain (our read
+ pending read by radiology)
+   Allergies:
+   Penicillins
+   Unknown;
+   Hydrochlorothiazide
+   high blood [**Last Name (un) 2131**]
+   Ibuprofen
+   gi irritation;
+   Zosyn (Intraven) (Piperacillin Sodium/Tazobactam)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2611-12-19**] 03:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2611-12-19**] 07:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**13**] AM
+   Tmax: 35.9
+C (96.7
+   Tcurrent: 35.7
+C (96.3
+   HR: 54 (49 - 58) bpm
+   BP: 107/51(64) {98/35(52) - 121/88(92)} mmHg
+   RR: 19 (14 - 21) insp/min
+   SpO2: 98%
+                  Total In:
+                                                                    255 mL
+                                                                    348 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+                                                                    255 mL
+                                                                    348 mL
+   Total out:
+                                                                      0 mL
+                                                                    510 mL
+   Urine:
+   510 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    255 mL
+                                                                   -162 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///16/
+   Physical Examination
+   GENERAL: Obese, elderly female, mild R sided facial droop, drowsy at
+   falling asleep easily at times.
+   HEENT: Normocephalic, atraumatic. No scleral icterus. PERRL/EOMI. MMM.
+   OP clear.
+   Neck: JVD appears elevated to approx 5 ASA.  No adenopathy.
+   CARDIAC: Bradycardic rate, irregular rhythm. Normal S1, S2. No murmurs,
+   rubs or [**Last Name (un) 2856**].
+   LUNGS: CTAB, fair air movement bilaterally, some decrease at the bases.
+   ABDOMEN: NABS. Obese, soft, NT, ND. No HSM.
+   EXTREMITIES: Bilaterally warm LEs.  [**1-8**]+ edema, R>L.  No current TTP.
+   No apparent posterior knee mass/cyst.  R leg slightly warmer with mild
+   diffuse erythema.  R knee not warm or erythematous; effusion not
+   obvious (has significant overlying subcutaneous edema.  Pulses
+   dopplerable, R>L.
+   Labs / Radiology
+   390 (last night)
+   160 mg/dL
+   1.2 mg/dL
+   16 mEq/L
+   4.2 mEq/L
+   47 mg/dL
+   117 mEq/L
+   143 mEq/L
+   22 (last night)
+   5.7
+        [image002.jpg] BNP 9000s, last 14000s, baseline likely [**2601**].
+   CBC from last night
+ not drawn yet this a.m.
+                             [**2611-12-19**]  03:45 AM
+   Cr
+   1.2
+   Glucose
+   160
+   Other labs: ALT / AST:54/47, Alk Phos / T Bili:271/0.4, Ca++:8.7 mg/dL,
+   Mg++:2.2 mg/dL, PO4:3.6 mg/dL
+   Micro: Legionella negative and sputum and urine cultures pending. No
+   blood cultures.
+   CXR from this a.m.: Improved from last with opacity at R base > L,
+   difficult to evaluate for effusion at right base. Little cephalization.
+   Pain somewhat localized to hip. X-ray of the hip shows erosion of the
+   acetabulum and subchonral sclerosis worse on the right
+ fitting with
+   pain. (Our read
+ pending final)
+   Echo
+ done, but no results on OMR as yet.
+   Assessment and Plan
+   77F with PVD s/p LLE endarterectomy stenting; bilateral DVT on coumadin
+   and s/p IVC filter placement; admitted with RLE pain and found to have
+   nonocclusive bilateral DVT.  Transferred to MICU for further management
+   of access issues, coagulopathy, and anemia in setting of DVT.
+   # Coagulopathy
+   INR of 8.1 with relative hematocrit drop. INR of 8.1 likely related to
+   her chronic diarrhea plus coumadin.  No recent antibiotics known.
+   Verbal report of being guaiac negative in ED.  Some ?of hematuria and
+   hemoptysis as per HPI.
+   - Guaiac stools.
+   - Correct INR for line placement with 3 units FFP.
+   - Consider transfusion if Hct < 21 or evidence of bleeding.
+   - No evidence of respiratory compromise currently but closely monitor
+   with recheck of CXR in AM given ?hemoptysis.
+   - Check UA.
+   - Consider vitamin K 10 mg, but latency not immediately helpful.
+   # Afib/bradycardia/ Rhythm
+   Likely bypass tract with possible reentry given rate. Electrolytes WNLs
+   this a.m.
+ e.g. no hypocalcemia.Afib relatively recent diagnosis.
+   Anticoagulated already and on nodal agents. Typically has therefore had
+   asymptomatic slow ventricular response with some alarms for < 40 bpm on
+   floor. She may need PPM given slow rates. Now with rapid possible
+   atrial tachycardia. Seen by Dr. [**Last Name (STitle) 274**] already on [**12-16**].
+   - If consistent with goals of care, ensure Cardiology/EP following
+   given new event and already consideration of PPM (may need ICD)
+   - Will monitor on tele for now.
+   # Bilateral DVT
+   Nonocclusive in all veins.  Last LENIs from [**10/2611**] also with bilateral
+   nonocclusive thrombi, but involving less of the veins that current
+   study seems to suggest.  She has been therapeutic on coumadin; unclear
+   why progression of clot despite coumadin therapy (even supratherapeutic
+   currently).  Possibly due to inter-rater variability. Will need to d/w
+   ultrasound. Patient with IVC filter in place as well.
+   - Review comparisons with radiology.
+   - Given access issues, will cautiously give FFP for planned line
+   placement.
+   - Daily INRs and will likely start lovenox vs. heparin gtt once INR <
+   [**1-8**].  Hold off on coumadin for now given need for line and anemia.
+   - Heme consult for hypercoaguable workup and guidance on management of
+   refractory clot; highly suspicious of malignancy.
+   - ?Change of coumadin to lovenox as ?represents coumadin failure.
+   - Needs review of malignancy workup (particularly needs colonoscopy
+   given GI issues).
+   # Leg pain
+   Concern that this was related to DVT, but patient with PVD and can
+   certainly have other causes for acute onset leg pain.  Pulses
+   dopplerable (no sign of acute arterial occlusion).  No evidence or
+   reason for compartment syndrome.  Also has ?popliteal cyst, though no
+   clear evidence of effusion (overlying edema makes it difficult to
+   tell).  Pain well controlled with APAP. Pain somewhat localized to hip.
+   X-ray of the hip shows erosion of the acetabulum and subchonral
+   sclerosis worse on the right
+ fitting with pain. CK normal. Likely
+   osteoarthritis of the right hip is contributing, although DVT needs
+   further investigation.
+   - D/w ultrasound LENI results as above.
+   - Management of DVT as above.
+   - APAP prn.
+   # Anemia
+   Was originally to come in for scope. Baseline anemia with now 4 point
+   Hct drop.  Coagulopathic as well.  No evidence of major active bleeding
+   anywhere.  B12 and folate recently normal; recent TSH normal.  Has not
+   had Fe studies in >1 year.  No past colonoscopies. Crit came back later
+   this a.m. at 21.
+   - Add on Fe studies.
+   - D/w GI about need for scope (may be based on desired level of
+   aggression and d/w family about goals
+ also see below for issues
+   surrounding diarrhea)
+   - Guaiac stools
+   - f/u Haptoglobin.
+   - Transfuse < 21 or evidence of active bleeding.
+   - Given now 21, will given 1 unit PRBCs
+   # Abnormal CXR.
+   R lower lung field with opacity greater than left base with some
+   collapse on right that is now resolving. Improved slightly overnight
+   with diuresis although not prominent cephalization. Concern for
+   consolidation, although appears somewhat diffuse. Possible pneumonia.
+   Legionella negative. Has significant hospital and health care exposure
+   recently.  Also with dysphagia and some concern that she could be
+   aspirating. No fever, leukocytosis, or reported cough per patient and
+   daughter, though do provide history of ?hemoptysis. No WBC. Will hold
+   on treatment for now.
+   - Antibiotic cover : planned meropenem last night. Considered adding
+   vancomycin but suspicion for PNA now lower.
+   - F/u sputum culture
+   - Repeat TTE to look at RV function given appearance of film.
+   # UTI
+   Based on UA.
+   - Follow culture
+   - Meropenem (penicillin allergy)
+   # Diastolic heart failure
+   Appears mildy volume overloaded with elevated JVD and LE edema.
+   However, no clear evidence of pulmonary edema.  Patient unclear re:
+   weight changes or progression of edema. Need to repeat echo to
+   determine reliability of physical signs (tricuspid disease, pulmonary
+   hypertension, change in systolic function. BNP elevated from probable
+   baseline but lower than [**Month (only) 1924**] presentation ([**2601**] and [**Numeric Identifier 10209**]
+   respectively)
+   - Hold lasix and lisinopril for now given renal failure.
+   - Check BNP to compare to priors
+   - Strict Is/Os, daily weights
+   - Repeat TTE mainly to eval for change in R sided pressures as with
+   significant peripheral edema, valvular dysfunction.
+   # ARF
+   Creatinine 1.3 -> 1.2 this a.m. Mildly elevated compared to recent
+   baseline. Overall volume overloaded, but may have poor left sided
+   forward flow. Likely pre-renal whether due to decreased perfusion or
+   desiccation. FE urea will be decision point for further investigations.
+   - Hold lasix and ACEI for now pending determination of nature of ARF
+   - Urine lytes added on to UA
+ need to f/u but likely pre-renal
+   - Consider renal ultrasound and further w/u depending on above.
+   # Diarrhea
+   One month history.  Unclear etiology, C diff seems unlikely given
+   multiple negative studies, though does have past history of this.  Was
+   supposed to go for inpatient colonoscopy. No medications that would
+   cause this.
+   - Will d/w GI given that now admitted - ?further stool studies or
+   colonoscopy this admission.
+   # Transaminitis
+   Mild elevations today for unclear reasons. Cardiogenic versus biliary
+   tract (more likely given AP).
+   - Add on GGT and direct bilirubin
+   - Recheck in AM.
+   - RUQ US depending on further LFTs.
+   # Lethargy
+   Resolving. Likely a product of poor sleep due to pain/illness +/- acute
+   infection, etc. Head CT negative for bleed. B12 and TSH normal within
+   last month. Head CT negative.
+   - Continue to monitor.
+   # FEN: No IVF, replete electrolytes, aspiration diet
+   # Prophylaxis: supratherapeutic on coumadin
+   # Access: peripheral 22 g only, will place EJ today most likely, before
+   heading to the floor. PICC line possible but INR very high, therefore
+   go for EJ instead for now.
+   # Communication: Patient
+   # Code:  Full (discussed with patient and HCP
+ daughter [**Name (NI) 7863**])
+   # Disposition: Access and call out to floor
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2611-12-19**] 03:21 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

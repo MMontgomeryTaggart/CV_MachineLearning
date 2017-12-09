@@ -1,0 +1,384 @@
+Admission Date:  [**3418-10-2**]              Discharge Date:   [**3418-10-10**]
+
+Date of Birth:  [**3349-12-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Latex
+
+Attending:[**First Name3 (LF) 6510**]
+Chief Complaint:
+leg weakness, chest pain
+
+Major Surgical or Invasive Procedure:
+Persantine MIBI.
+Central line placement.
+
+
+History of Present Illness:
+Pt is a 68 yo M with very complicated hx including diastolic
+CHF, probable CAD, s/p pacer for CHB, PE ([**3416**]), htn,
+dyslipidemia, tracheal stenosis s/p multiple T-tubes, dilations,
+stents, COPD, OSA, h/o pneumothorax, AAA s/p repair and s/p
+graft infection, axillary DVT, h/o seizure disorder, adrenal
+insufficiency on prednisone, h/o pseudomonas sepsis, h/o ARDS,
+h/o MRSA bronchitis, h/o c.diff, GIB, gout, balanitis, reflex
+sympathetic dystrophy, and depression who presents today with hx
+of multiple falls over the past few weeks and en route for an
+outpatient head CT was noted to have decreased BP in the 90s and
+slurred speech. He was also noted to have one minute of chest
+pain en route to the ED.
+.
+He states that since his hospitalization in [**Month (only) 201**] for toe
+surgeries, he has noticed that he has not been able to walk and
+has been dependent on a walker and wheelchair. Before this
+hospitalization, he was able to walk 30 steps. He also has had
+multiple leg surgeries and states he has had a right foot drop
+for a while. However, 3 weeks ago, he noticed that he has been
+falling ore. His first fall 3 weeks ago, he states that his
+hands were shaking uncontrollably but not similar to his
+previous seizures. He denies any bowel or bladder incontinence
+with this. He was lightheaded at the time. He states he was
+referred to a neurologist who increased his neurontin dose at
+that time. He then had his second fall on [**9-24**] where he noticed
+his legs were shaking uncontrollably. He also complained of
+lightheadedness at that time and had subsequent blurry/double
+vision. At [**Hospital1 52**], he had a normal head CT, negative UA/lytes and
+was discharged home. He subsequently saw an ophthalmologist 2
+days ago who stated his "eyes were fine". He was enroute to have
+a repeat head CT today and in the ambulance was noted to have a
+slight decrease in BP to the 90's and ?slurred speech (which he
+states is not slurred, just his mouth is very dry). He also had
+1 minute of chest pain which he describes as SSCP [**2-2**], no
+associated N/V, +lightheadedness, no fevers, no radiation of
+chest pain. +chronic SOB. Thus, he was brought into the ED. He
+states that he has chronic SOB and lately, if he bends over to
+feed his cat, his SOB worsens. He also states he sleeps upright
+in his wheelchair at night because he doesn't like his hospital
+bed at home.
+.
+In the AM of [**3418-10-6**], the patient was noted to have a SBP around
+80, and was given a 500cc fluid bolus. Later that AM, the
+patient was again found to have SBP in the 80s, asymptomatic,
+and was given another 250cc fluid bolus. The patient then became
+unresponsive, slumped over, and mumbling. His O2 saturation
+dropped and his SBP went from 80s to 50-60 range. A code blue
+was called. The patient was placed on NRB with good O2 response.
+He was then started on levophed 0.04 with good response and SBP
+into the 100-110s. He was given a head CT and torso CT
+(negative) and admitted to the CCU. He was started on stress
+dose hydrocortisone, and maintained adequate BP from 110-140
+systolic. He was then transferred back to the primary medical
+team for further care.
+
+
+Past Medical History:
+PMHx:
+1.  Presumed Coronary artery disease with last evaluation [**1-26**]
+(negative P-MIBI)
+2.  CHF with preserved EF of about 57%
+3.  CHB s/p [**Month/Year (2) **] implantation in [**3413-2-23**] with CPI
+Discovery SR.
+2.  Hypertension.
+3.  Seizure disorder after head trauma.
+4.  COPD and a history of prior ARDS.
+5.  Abdominal aortic aneurysm, status post repair andcomplicated
+by graft infection.
+6.  History of pseudomonas sepsis.
+7.  History of DVTs and right lower lobe pulmonary embolism in
+[**3416-1-24**].
+8.  Depression.
+9.  Reflex sympathetic dystrophy of the right lower extremity.
+10. History of GI bleeding.
+11. History of C. difficile colitis.
+12. Obstructive sleep apnea.
+13. Gout.
+
+
+Social History:
+SOCIAL HISTORY:  Lives with wife and four children.  Went to
+Korean War and received blood transfusions.  Denies alcohol. Has
+a history of three-and-a-half-pack-per-year smoking;stopped in
+[**3412**].  Denies intravenous drug use.  Was an arbitration lawyer.
+[**Name (NI) **] is Catholic.
+
+
+Family History:
+non contributory
+
+Physical Exam:
+Gen- lying in bed flat in NAD, speaking full sentences, no
+slurred speech, AAOx3
+HEENT- EOMI, +horizontal nystagmus, PERRL
+NECK- supple, no JVD appreciated but thick neck
+CV- RR, nl S1/S2, no M/G/R
+CHEST- CTAB
+ABD- obese, soft, NT/ND, +BS
+EXT- + bilat. plastic posterior splints with attached neoprene
+orthopedic shoes; 2(+) pedal edema BLE; no cyanosis, clubbing,
+joint inflammation
+NEURO- CN2-12 intact, bilateral UE strength 5/5, RLE strength
+[**4-28**], LLE strength 5/5, R. foot drop noted with multiple ankle
+surgical scars, +1 patellar reflexes bilaterally. AAOx3.
+
+
+Pertinent Results:
+[**3418-10-2**] 03:00PM   GLUCOSE-121* UREA N-32* CREAT-1.1 SODIUM-141
+POTASSIUM-4.4 CHLORIDE-105 TOTAL CO2-23 ANION GAP-17
+[**3418-10-2**] 03:00PM   CK(CPK)-89
+[**3418-10-2**] 03:00PM   CK-MB-NotDone cTropnT-0.02*
+[**3418-10-2**] 03:00PM   PHENYTOIN-34.2*
+[**3418-10-2**] 03:00PM   WBC-7.8 RBC-4.38* HGB-13.9* HCT-41.2 MCV-94
+MCH-31.8 MCHC-33.8 RDW-13.8
+[**3418-10-2**] 03:00PM   NEUTS-75.9* LYMPHS-15.7* MONOS-4.2 EOS-3.7
+BASOS-0.6
+[**3418-10-2**] 03:00PM   PLT COUNT-197
+[**3418-10-2**] 03:00PM   PT-12.5 PTT-23.4 INR(PT)-1.0
+[**3418-10-1**] 12:48PM   GLUCOSE-154*
+[**3418-10-1**] 12:48PM   CREAT-1.1 POTASSIUM-4.1
+[**3418-10-1**] 12:48PM   PHENYTOIN-29.5*
+[**3418-10-1**] 12:48PM   WBC-9.8 RBC-4.16* HGB-13.0* HCT-39.5* MCV-95
+MCH-31.2 MCHC-32.9 RDW-13.5
+[**3418-10-1**] 12:48PM   PLT COUNT-211
+.
+MIBI: Normal Persantine MIBI study with a left ventricular
+ejection
+fraction calculated to be 52%.
+.
+CT head: No evidence of acute mass effect, hemorrhage or
+territorial infarction. Question raised about possible
+abnormality in the right basal ganglia. See above discussion.
+.
+CT OF THE CHEST WITHOUT AND WITH IV CONTRAST: A large bleb in
+the right lung is unchanged. There is minor bibasilar
+atelectasis with tiny bilateral pleural effusions. No
+lymphadenopathy is identified in the mediastinum, hila or
+axillae. The aorta is not dilated, although it contains mural
+calcifications. There is a right-sided dual lead [**Month/Day/Year **]. A
+calcified granuloma is seen in the left lung base.
+.
+CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST: There is poor
+vascular enhancement by IV contrast, which may be due to the
+patient's cardiac status. On this limited scan, the liver,
+gallbladder, spleen, stomach, adrenals, pancreas and right
+kidney are unremarkable. Multiple round low-density lesions are
+seen in left kidney. No lymphadenopathy is identified. There is
+no free fluid in the abdomen. The aorta is normal in caliber and
+contains mural calcifications, however, there is no unusual
+retroperitoneal density to suggest a hematoma.
+.
+CT OF THE PELVIS WITHOUT AND WITH IV CONTRAST: There are
+calcifications within the iliac vessels, without evidence of an
+extravasation. Bowel loops, distal ureters, and Foley containing
+bladder are unremarkable.
+
+
+Brief Hospital Course:
+#. Chest Pain:  The patient was admitted to internal medicine.
+An EKG was performed which revealed no changes from previous.
+Cardiac troponins were drawn and were shown to be flat.  Because
+the patient has a history of CAD s/p PCI in [**1-/3418**], a Persantine
+MIBI scan was performed to assess for restenosis.  This scan
+revealed normal cardiac perfusion with an estimated 52% EF.  The
+patient experienced a resurgence of his chest pain during the
+period of hypotension that occurred during his hospitalization.
+Repeat EKG again showed no change, and repeated serial troponins
+were negative.
+.
+#. Hypotension:  as noted in the HPI, the patient experienced
+brief hypotension in the ambulance PTA.  The patient had stable
+BP for the majority of his stay.  However, in the AM on [**10-5**] the
+patient experienced an episode of unresponsiveness with BP
+falling into the 60s systolic.  The BP responded to Levophed at
+0.04 with SBP rising to 100-110.  The patient was transferred to
+the CCU, and was placed on Hydrocortisone 50mg IV Q6h, with
+rising BP to the 110-140 SBP range off Levophed.  He was then
+transferred back to the floor.  Hydrocortisone was converted to
+Prednisone 60mg PO QD on discharge.  He should continue 60mg PO
+QD for 3 days, then 40mg PO QD for 3 days, then 20mg PO QD
+indefinitely.  He experienced no further episodes of
+hypotension.  The etiology of this episode is unclear.  However,
+the patient has had several episodes similar to this in the
+past.  It has been at least partially attributed to his
+narcotics regimen, however, Narcan was administered during his
+hypotension with no resolution of his signs.  The attending
+physician was able to get the patient do decrease his Oxycontin
+dose somewhat on discharge.  The patient had been taking large
+doses of Tizanidine prior to arrival for unclear reasons.
+Because of the alpha-blockade with this medication, it was held
+after his episode of hypotension.
+.
+#. Leg weakness:  The patient's primary complaint on admission
+was his leg weakness, which has been going on since his foot
+surgery in [**3418-6-24**].  Neurology was consulted, and concluded
+that the weakness was likely multifactorial, at least partially
+due to a steroid myopathy.  Deconditioning likely also plays a
+central role, particularly given that the problems all started
+after the patient had been bedbound for several days.  He will
+likely benefit from an acute rehabilitation stay.  In the
+future, it would likely be beneficial if the patient could
+titrate back his steroid requirements, but in the context of his
+lung disease this may not be possible.
+.
+#. LLL lung nodule:  A nodule has been noted in a previous CT
+scan of the chest which was going to be followed up as an
+outpatient for CT-guided biopsy.  However, this was scheduled
+twice and the patient never had it done.  The procedure has been
+rescheduled for [**3418-10-14**], and the patient was instructed not to
+take his Plavix or Aspirin 325 for 5 days prior to the
+procedure.  He was instead placed on ASA 81mg during the interim
+to prevent in-stent restenosis.  This was discussed with the
+patient's primary cardiologist, Dr. [**Last Name (STitle) 956**].
+.
+#. Diplopia:  The patient complained of diplopia throughout his
+stay.  He reported that it all started after a fall several
+months ago.  He has seen an outpatient ophthalmologist, who
+concluded that everything was normal.  He has had 2 outpatient
+CT head with no abnormalities seen.  This should be followed up
+as an outpatient.  If intractable, the patient may need an eye
+patch, per neurology recommendations.
+.
+#. CHF/CAD:  The patient was continued on his B-blocker, statin,
+ACE-I, ASA, Plavix until his episode of hypotension, when they
+were discontinued.  If the patient continues to maintain good
+BPs as his steroids are tapered down, then Lisinopril 10mg PO
+QD, Metoprolol 50mg PO BID, and Lasix 40mg PO BID can be added
+back as tolerated.  The patient had a 2L O2 requirement
+throughout his stay.  He received a large amount of fluids with
+his period of hypotension, but actually tolerated it
+surprisingly well.  His CXR was consistent with mild volume
+overload, but he had no exacerbation of his CHF during his stay.
+ If his BP can tolerate, he really would benefit from getting
+back onto his anti-hypertensive and diuretic.
+.
+#. Seizure disorder s/p TBI:  The patient was noted to have a
+grossly elevated dilantin level in the 40s on admission.  This
+may in fact have been a factor in his recent falls.  Dilantin
+was held and the level was followed down.  Per the PCP, [**Name10 (NameIs) **]
+patient typically requires around 600mg-800mg divided TID to
+maintain phenytoin levels between [**11-12**].  Dilantin was restarted
+at 200mg PO TID, and should be titrated as needed to maintain
+therapeutic dose range.
+.
+#. Gout: allopurinol was continued throughout the
+hospitalization with no changes made on discharge.
+
+Medications on Admission:
+ALLOPURINOL 100MG--One by mouth every day
+CALCIUM CARBONATE 650MG--One by mouth twice a day
+DIFLUCAN 100MG--One by mouth every day
+DILANTIN 100 mg--3 capsule(s) by mouth three times a day
+FERROUS SULFATE 325MG--One tablet by mouth twice a day
+HUMABID 600 MG--2 tablets by mouth twice a day
+IMIPRAMINE HCL 25MG--3 tabs by mouth at bedtime
+LASIX 40 mg--1 tablet(s) by mouth twice a day
+LIPITOR 20MG--Take one by mouth every day
+LISINOPRIL 10MG--Take one by mouth every day
+METOPROLOL TARTRATE 50MG--One tablet(s) by mouth twice a day
+MUPIROCIN 2 %--apply to affected skin three times a day
+NEURONTIN 400MG--2 tabs by mouth three times a day
+NEXIUM 20 mg--1 capsule(s) by mouth once a day
+NITROGLYCERIN 0.6 mg--1 tablet(s) sublingually every 5 minutes
+times 3, then call 911
+OXYCONTIN 80 mg--1 tablet(s) by mouth three times a day as
+needed
+PERCOCET 5-325MG--One by mouth every 4 hours as needed
+PLAVIX 75MG--One tablet(s) by mouth once a day
+POTASSIUM CHLORIDE 20MEQ/15ML--One tbsp. three times a day
+PREDNISONE 20 mg--1 tablet(s) by mouth once a day
+SERZONE 150MG--One by mouth [**Hospital1 **], as directed
+ZANAFLEX 4MG--2 by mouth three times a day
+ZINCATE 220MG--One by mouth every day
+
+Discharge Medications:
+1. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day).
+3. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+4. Imipramine HCl 25 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime).
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed).
+8. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+11. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+12. Guaifenesin 600 mg Tablet Sustained Release Sig: Two (2)
+Tablet Sustained Release PO q12h ().
+13. Gabapentin 400 mg Capsule Sig: Three (3) Capsule PO BID (2
+times a day).
+14. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+15. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for constipation.
+16. Methyl Salicylate-Menthol 15-15 % Ointment Sig: One (1) Appl
+Topical  TID (3 times a day) as needed for local muscle pain.
+17. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for itching, burning.
+18. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+19. Fluconazole 100 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+20. Phenytoin Sodium Extended 100 mg Capsule Sig: Two (2)
+Capsule PO TID (3 times a day).
+21. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+22. OxyContin 20 mg Tablet Sustained Release 12HR Sig: Three (3)
+Tablet Sustained Release 12HR PO every eight (8) hours.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 659**] & Rehab Center - [**Hospital1 141**]
+
+Discharge Diagnosis:
+Primary Dx:
+Chest pain
+Hypotension
+Leg weakness
+
+
+Discharge Condition:
+Stable, tolerating PO and ambulating with assistance.
+
+
+Discharge Instructions:
+If you experience fevers, chills, nausea, vomiting, chest pain,
+shortness of breath, or any other concerning symptoms, contact
+your physician or return to the emergency room.
+.
+You have an appointment for a CT-guided lung biopsy on [**3418-10-14**]
+at 9:30 AM on the [**Location (un) **] of the [**Hospital Unit Name 1515**] on the [**Hospital Ward Name **] of [**Hospital1 52**].
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) 3789**] in the next 2-4 weeks.  Call
+[**Telephone/Fax (1) 151**] for an appointment.
+.
+Your scheduled appointments are as follows:
+.
+Provider: [**Name10 (NameIs) **] Where: RA [**Hospital Unit Name **] ([**Hospital Ward Name **]/[**Hospital Ward Name **]
+COMPLEX) RADIOLOGY Phone:[**Telephone/Fax (1) 416**] Date/Time:[**3418-10-14**] 10:30
+.
+Provider:  [**Name10 (NameIs) 1430**] CLINIC Where: [**Hospital6 64**] CARDIAC
+SERVICES Phone:[**Telephone/Fax (1) 513**] Date/Time:[**3418-10-20**] 2:00
+.
+Provider: [**Name10 (NameIs) 3128**] Where: [**Hospital6 64**] CARDIAC
+SERVICES Phone:[**Telephone/Fax (1) 1615**] Date/Time:[**3418-10-20**] 3:00
+
+
+
+Completed by:[**3418-10-9**]

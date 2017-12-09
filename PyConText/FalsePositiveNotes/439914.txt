@@ -1,0 +1,281 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ CARDIAC ARREST - At [**2832-10-4**] 11:12 AM chest compressions ongoing
+   while pt came in the door
+ INVASIVE VENTILATION - START [**2832-10-4**] 11:12 AM
+ PICC LINE - START [**2832-10-4**] 11:15 AM
+ MULTI LUMEN - START [**2832-10-4**] 11:15 AM
+ ARTERIAL LINE - START [**2832-10-4**] 11:35 AM
+ NASAL SWAB - At [**2832-10-4**] 11:43 AM admission MRSA swab
+ EEG - At [**2832-10-4**] 04:00 PM
+   - arctic sun protocol was initiated
+   - hypertension to 200's SBP given IV hydral 10mg, then started nitro
+   gtt.
+   - CK is flat, trop is mildly elevated (likely from leak/compression).
+   - MRI of spine: 2.5 cm (CC) relatively thick rim-enhancing fluid
+   collection, dorsal to and significantly compressing the thecal sac and
+   centered at the L5 level - epidural abscess. At least two small
+   rim-enhancing fluid collections the right paraspinal muscles, likely
+   representing small focal abscess, which may relate to septic
+   arthritis of the right L4-L5 facet joint. (neurosurgery is aware).
+   - on empiric abx cefepime, vanco, flagyl, clarithromycin.
+   - low urine output 10-20CC per hour.
+   Allergies:
+   Penicillins
+   Rash;
+   Morphine
+   Confusion/Delir
+   Codeine
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Cefipime - [**2832-10-4**] 03:45 PM
+   Metronidazole - [**2832-10-4**] 11:00 PM
+   Infusions:
+   Heparin Sodium - 650 units/hour
+   Fentanyl (Concentrate) - 100 mcg/hour
+   Midazolam (Versed) - 4 mg/hour
+   Pantoprazole (Protonix) - 8 mg/hour
+   Lidocaine - 2 mg/min
+   Other ICU medications:
+   Hydralazine - [**2832-10-4**] 04:40 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2832-10-5**] 07:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 43 (43 - 141) bpm
+   BP: 98/51(67) {82/40(52) - 187/104(139)} mmHg
+   RR: 18 (0 - 24) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 110.5 kg (admission): 105.5 kg
+             Total In:
+                                                                  2,356 mL
+                                                                    736 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,236 mL
+                                                                    736 mL
+   Blood products:
+   Total out:
+                                                                    280 mL
+                                                                    160 mL
+   Urine:
+                                                                    280 mL
+                                                                    160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,076 mL
+                                                                    576 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 600) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: No Spon Resp
+   PIP: 25 cmH2O
+   Plateau: 19 cmH2O
+   SpO2: 100%
+   ABG: 7.45/36/170/22/2
+   Ve: 9.2 L/min
+   PaO2 / FiO2: 425
+   Physical Examination
+   General: Intubated, nonresponsive to pain.
+   HEENT: Sclera anicteric, MM dry, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: Scarce inspiratory crackles at the bases, no wheezes, or ronchi
+   CV: Irregularly irregular, normal S1 + S2, no murmurs, rubs, gallops,
+   well healed CABG scar
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   GU: no foley
+   Ext: severe peripheral vascular disease, multiple toe amputations,
+   small ulcer near nailbed on right second toe, 2 x 2 cm healing ulcer on
+   medial plantar right foot, decreased sensation in lower extremities
+   throughout. Right shoulder with mild erythema
+   Labs / Radiology
+   189 K/uL
+   9.0 g/dL
+   108 mg/dL
+   1.1 mg/dL
+   22 mEq/L
+   3.8 mEq/L
+   20 mg/dL
+   109 mEq/L
+   139 mEq/L
+   27.7 %
+   5.5 K/uL
+        [image002.jpg]
+                             [**2832-10-4**]  01:20 PM
+                             [**2832-10-4**]  04:29 PM
+                             [**2832-10-4**]  04:37 PM
+                             [**2832-10-4**]  05:00 PM
+                             [**2832-10-4**]  08:12 PM
+                             [**2832-10-4**]  08:17 PM
+                             [**2832-10-4**]  11:00 PM
+                             [**2832-10-4**]  11:11 PM
+                            [**2832-10-5**]  03:11 AM
+                            [**2832-10-5**]  03:22 AM
+   WBC
+   10.4
+   5.5
+   Hct
+   28.8
+   31.2
+   29.4
+   27.7
+   Plt
+   221
+   189
+   Cr
+   1.0
+   1.1
+   TropT
+   0.14
+   0.12
+   TCO2
+   19
+   24
+   23
+   23
+   26
+   Glucose
+   150
+   152
+   108
+   Other labs: PT / PTT / INR:17.8/91.9/1.6, CK / CKMB /
+   Troponin-T:50/4/0.12, ALT / AST:[**2-19**], Alk Phos / T Bili:63/0.3, Lactic
+   Acid:1.8 mmol/L, Albumin:2.3 g/dL, LDH:262 IU/L, Ca++:7.8 mg/dL,
+   Mg++:2.1 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   78 year old male with type II diabetes, severe peripheral vascular
+   disease, coronary artery disease s/p CABG and atrial fibrillation  who
+   is transfered to CCU after a cardiac arrest.
+   .
+   # Cardiac arrest: Most likely ACS leading to anteroseptal infarction
+   (given TTE findings and new onset VT). Alternative precipitants for his
+   VT are unlikely and include anesthetic for his MRI procedure,
+   electrolyte abdonormalities or decompensated LV dysfunction.
+   - consider cath
+   - on lidocaine ggt for VT control
+   - replete Mg, Ca, K prn and correct any acidosis
+   - arctic sun protocol
+   - monitor for coagulopathy, electrolyte abnormalities & bleeding
+   .
+   # Presumed ACS:  Echo after VT arrest showed new hypokinetic areas in
+   anterior septal.  Possible new area of infarct that precipitated the VT
+   arrest.  Prior to his arrest he had not been complaining of active
+   chest pain. He had been continued on simvastatin, metoprolol tartrate,
+   and lisinopril but his ASA was held due to GI bleed.
+   - f/u final TTE results
+   - arctic sun treatment protocol
+   - medical management with ASA and heparin; continue statin; will add on
+   bb and ACEi when his BP stabilizes. Will consider plavix, but he's at a
+   significant risk of bleeding at this time.
+   - follow CE
+   .
+   # Hypotension: Differential includes cardiogenic shock in setting of VT
+   or medication adverse event (lidocain, amiodarone). Required pressor
+   (initially DA then phenylephrine) initially but now stable without
+   pressors.
+   - Goal MAP>60 with phenylephrine
+   .
+   # Neurological signs: Unresponsive to pain or verbal stimuli. currently
+   undergoing arctic sun protocol will need to monitor for neurological
+   improvement.
+   - neuro c/s
+   - continous EEG study
+   - currently on fentanyl and versed for sedation
+   .
+   # Bacteremia/epidural abscess: BCx positive on [**9-19**] for MSSA, neg
+   daily since, last BCx [**2832-9-25**]. Source unclear but suspect skin ulcers.
+   MRI positive for 1 cm abscess, neurosurgery has been followed.
+   - f/u with neurosurgery
+   - Change from cefazolin to vanc/cefephime
+   - continue flagyl and clarythromicin for presumtive h pylori
+   .
+   # GI bleed: s/p GIB on [**2832-9-28**], HCT stable since then. Know peptic
+   ulcers that are healing. Was supposed to have colonoscopy today but
+   this postponed for cardiac arrest.
+   - Transfuse for Hct<30
+   - IV access pIV and triple lumen
+   - T+C+C
+   - Pantoprazole ggt
+   - Since H. Pylori serologies equivocal, continue 2 week course of
+   metronidazoe and clarithromycin (Now Day 5, started [**2832-9-30**])
+   - Monitor for bleeding
+   .
+   # Peripheral Vascular Disease: s/p multiple surgeries, currently with
+   ulcer on medial plantar right foot previously followed by podiatry and
+   vascular.
+   - Wound care per podiatry/vascular recs - clean dry dressing
+   .
+   #  Type 2 diabetes: Diet controlled, last HbA1c was 5.7%. Has not
+   required insulin while in house.
+   - Diabetic diet, RISS
+   .
+   # ? Mesothelioma: Pleural thickening (in the setting of prior asbestos
+   exposure) noted on [**2832-9-19**] Chest CT, concerning for mesothelioma.
+   Bilateral calcified pleural plaques consistent with possible asbestosis
+   on CXR [**2832-9-30**].
+   - Follow-up with Thoracic Surgery, Dr. [**First Name (STitle) **] as outpatient
+   .
+   # Depression: Given multiple medical issues and procedures, coping may
+   be difficult.
+   - Continue celexa 20 mg daily
+   - Ask social work to check-in
+   .
+   FEN: Diabetic diet with soft consistency and thin liquids ([**12-29**]
+   dentures, passed video swallow) as well as boost glucose supplements,
+   NPO after midnight for colonoscopy tomorrow, lytes PRN, IVF/blood
+   products PRN, nutrition following
+   - AM K = 3.6 -> 40 meq K over 4h through PICC
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   DVT ppx: Heparin SC, holding coumadin
+   -Bowel regimen: senna, colace, bisacodyl
+   -GI PPx: IV PPI
+   -Pain management with: percocet, acetaminophen, and lidocaine patch PRN
+   .
+   ACCESS: PICC placed [**9-22**]
+   .
+   CODE: Confirmed full by primary medicine team
+   .
+   COMM: [**Name (NI) 51**], Daughter [**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 10546**] [**Telephone/Fax (1) 10547**].  Also, pls contact
+   PCP [**First Name8 (NamePattern2) 6479**] [**Last Name (NamePattern1) 6480**] ([**Company 300**]) or [**Name (NI) 245**] [**Last Name (NamePattern1) 10624**] (NP). (Will call PCP when [**Name Initial (PRE) **]/c
+   to rehab.), previously intern and resident ([**Numeric Identifier 10625**], [**Numeric Identifier 10626**])
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2832-10-4**] 11:15 AM
+   Multi Lumen - [**2832-10-4**] 11:15 AM
+   Arterial Line - [**2832-10-4**] 11:35 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

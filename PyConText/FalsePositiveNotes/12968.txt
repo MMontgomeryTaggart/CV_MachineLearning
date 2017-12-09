@@ -1,0 +1,392 @@
+Admission Date:  [**3203-8-18**]              Discharge Date:   [**3203-8-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2556**]
+Chief Complaint:
+Chest pain.
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization.
+
+
+History of Present Illness:
+This is an 87 year old man with past medical history significant
+for coronary artery disease with multiple stents to LCx and LAD,
+diabetes, hypertension, who was admitted two months ago for GI
+bleed and NSTEMI and now presents from OSH with chest pain.
+This morning, he was using stationary bicycle at home for less
+than five minutes when he developed burning substernal chest
+pain [**7-6**], similar in quality to previous ischemic episodes.
+Took 3 nitros with minimal relief and decided to go to hospital.
+ At [**Initials (NamePattern4) 2808**] [**Last Name (NamePattern4) 2809**] Hospital ED, he was found to have TropI
+5.02, BNP 2699; he was transferred by helicopter to [**Hospital1 68**] for
+possible intervention.
+.
+In the ED at [**Hospital1 68**], T 99.9, HR 104, BP 150/68, RR 24, 96% on 3L
+NC.  ECG notable for sinus tach with ST depression across
+anterior precordium.  Initially pain free and plan was cath next
+AM.  Patient then had return of chest pain with SBP in 80's.  No
+change in EKG.  Taken to Cath lab emergently.
+.
+In cath lab [**8-18**]: LMCA was patent; LAD had 80% restenosis at
+ostium; LCx had 100% in-stent restenosis.  DES was placed to L
+main distal into the opening of LAD.  DES was also placed to
+ostium/proximal LCx.  Right heart catheterization showed a wedge
+pressure of 35.  PASP was 67. CI was 1.69.  He was transiently
+on levophed and dopamine during the procedure and was
+transferred from the cath to the CCU for further monitoring
+.
+Now in the CCU, patient denies lightheadedness; no palpitations.
+ Now endorses CP [**2-3**], never fully disappeared during or after
+cath.
+.
+Of note, he presented with CP in setting of GI bleed and NSTEMI
+in [**3203-5-27**].  He had 100% occlusion of LCx stent; this was
+balloon angioplastied.  There was also 70% occlusion of ostial
+LAD; BMS was placed to this occlusion.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+Cardiac Risk Factors:
++ve Diabetes
++ve Dyslipidemia
++ve Hypertension
+..
+CARDIAC HISTORY:
+CABG: None
+Percutaneous coronary intervention: Multiple stents to LAD and
+LCx most recent on [**6-15**]
+Pacemaker/ICD: None
+..
+OTHER PAST HISTORY:
+# Chronic obstructive pulmonary disease
+# Coronary artery disease s/p PCI with LAD stent [**3189**], [**3192**].
+Cypher stent to the ostial CX in 06, chronically occluded RCA.
+Circumflex received a DES in [**3201**]. 2 DES to LAD in [**9-2**]
+# Type II Diabetes ?? diet-controlled
+# CRI baseline cr: 1.3-1.7
+# Hypertension
+# Hyperlipidemia
+# Diverticulosis
+# Peripherial vascular disease
+# Peptic ulcer disease - EGD on [**3203-6-3**]
+
+Social History:
+Retired gunsmith. Lives with wife on MV. Prior alcoholic, last
+drink 20 years ago. Smoked 2 ppd x 50 years; quit 15 years
+prior. No IVDU.
+
+Family History:
+Brother with hemorrhagic CVA [**12-28**] aneurysm; father with HTN;
+brother had "[**Last Name **] problem", sister had ovarian cancer.
+
+Physical Exam:
+PHYSICAL EXAM AT ADMISSION:
+VITALS: T HR 110, BP 110/64, RR 16, 94% on 2L O2
+GENERAL:  AAOx3, NAD, lying and speaking comfortably in bed
+HEENT:  EOMI; PERRLA
+NECK:  supple; no JVD appreciated
+LUNGS:  scattered rhonchi and faint expiratory wheezes; no
+crackles
+HEART:  RRR; distant heart sounds; no murmurs
+ABDOMEN:  obese; non-tender with normal bowel sounds; no HSM;
+negative [**Doctor Last Name 1441**] sign left and right sides
+EXTREMITIES:  no pitting edema; skin hyperpigmentation over the
+medial malleolus indicative of venous stasis disease
+..
+PHYSICAL EXAM AT DISCHARGE:
+
+
+Pertinent Results:
+LAB RESULTS AT ADMISSION:
+..
+[**3203-8-18**] 09:06PM   GLUCOSE-187* UREA N-64* CREAT-2.5* SODIUM-133
+POTASSIUM-4.1 CHLORIDE-95* TOTAL CO2-25 ANION GAP-17
+[**3203-8-18**] 09:06PM   PLT COUNT-225
+[**3203-8-18**] 06:59PM   TYPE-ART PO2-73* PCO2-32* PH-7.44 TOTAL
+CO2-22 BASE XS-0 INTUBATED-NOT INTUBA COMMENTS-2L NP
+[**3203-8-18**] 06:59PM   O2 SAT-93
+[**3203-8-18**] 03:00PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 11**]-1.012
+[**3203-8-18**] 03:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**3203-8-18**] 03:00PM URINE  RBC-1 WBC-<1 BACTERIA-FEW YEAST-NONE
+EPI-0
+[**3203-8-18**] 03:00PM URINE  HYALINE-25*
+[**3203-8-18**] 03:00PM URINE  MUCOUS-RARE
+[**3203-8-18**] 02:35PM   LACTATE-2.4*
+[**3203-8-18**] 02:20PM   GLUCOSE-158* UREA N-64* CREAT-2.6* SODIUM-134
+POTASSIUM-4.4 CHLORIDE-96 TOTAL CO2-23 ANION GAP-19
+[**3203-8-18**] 02:20PM   estGFR-Using this
+[**3203-8-18**] 02:20PM   CK(CPK)-134
+[**3203-8-18**] 02:20PM   CK-MB-17* MB INDX-12.7*
+[**3203-8-18**] 02:20PM   cTropnT-1.20*
+[**3203-8-18**] 02:20PM   CALCIUM-9.2 PHOSPHATE-4.7*# MAGNESIUM-2.5
+[**3203-8-18**] 02:20PM   WBC-19.6* RBC-4.19* HGB-11.9* HCT-36.2*
+MCV-86 MCH-28.5 MCHC-33.0 RDW-15.6*
+[**3203-8-18**] 02:20PM   NEUTS-92.4* LYMPHS-3.5* MONOS-3.9 EOS-0.2
+BASOS-0
+[**3203-8-18**] 02:20PM   PT-17.3* PTT-117.4* INR(PT)-1.6*
+..
+STUDIES:
+.
+EKG: NSR 100 with PACs.  RBBB with LAFB.  Diffuse ST-segment
+depression in leads V1-V5.  TWI in I and aVL.
+.
+CORONARY CATHETERIZATION ([**3203-8-18**]):
+1. Successful stenting of the ostial LAD restenosis with a
+3.0x16mm
+Taxus stent that was postdilated to 3.5mm. Final angiography
+revealed no
+residual stenosis, no angiogrpahically apparent dissection and
+TIMI 3
+flow (see PTCA comments).
+2. Successful stenting of the ostial LCX restenosis with a
+2.5x12mm
+Taxus and a 3.0x8mm Taxus stents in overlapping fashion. Final
+angiography revealed little residual stenosis, no
+angiographically
+apparent dissection and TIMI 3 flow (see PTCA comments).
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Normal ventricular function.
+3. Successful stenting of the LAD and LCX.
+.
+TRANSTHORACIC ECHOCARDIOGRAM ([**3203-8-20**]):
+The left atrium is moderately dilated. The right atrium is
+moderately dilated. No atrial septal defect is seen by 2D or
+color Doppler. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity is moderately dilated.
+No masses or thrombi are seen in the left ventricle. Overall
+left ventricular systolic function is severely depressed (LVEF=
+25 %) with inferior and infero-lateral akinesis. The remaining
+segments are hypokinetic. There is no ventricular septal defect.
+The right ventricular cavity is moderately dilated with moderate
+global free wall hypokinesis. The aortic valve leaflets (3) are
+mildly thickened but aortic stenosis is not present. Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Moderate
+(2+) mitral regurgitation is seen. The tricuspid valve leaflets
+are mildly thickened. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+.
+RIGHT GROIN DOPPLER ULTRASOUND ([**3203-8-20**]):
+FINDINGS: Views of the right groin demonstrate a patent common
+femoral artery and common femoral vein with adequate
+wall-to-wall flow. There is no evidence of a pseudoaneurysm,
+hematoma, or arteriovenous fistula.
+.
+RENAL ULTRASOUND ([**3203-8-21**]):
+FINDINGS: The right kidney measures 11.5 cm and the left kidney
+measures 11.3 cm. There is no hydronephrosis and no stones or
+solid masses are identified in either kidney. A simple cyst is
+seen in the lower pole of the right kidney measuring 3.6 x 4.4 x
+3.2 cm.
+DOPPLER EXAMINATION: Note is made that this is a limited study
+due to the
+patient's body habitus and the patient's ability to hold his
+breath. Color
+Doppler and pulse-wave Doppler images were obtained. Arterial
+waveforms of
+the main renal arteries bilaterally demonstrate sharp upstrokes.
+RIs of the
+intraparenchymal arteries in the right kidney range from
+0.69-0.80. RIs of
+the intraparenchymal arteries of the left kidney range from
+0.73-0.76.
+Appropriate flow is seen in the main renal vein bilaterally.
+IMPRESSION:
+1. No hydronephrosis and no renal stones identified. Simple
+4.4-cm right
+renal cyst.
+2. Within the technical limits of the examination there is no
+evidence of
+renal artery stenosis.
+
+Brief Hospital Course:
+In summary, this is an 87 year old man with PMHx of CAD with
+multiple stents most recently to proximal LAD and angioplasty of
+ostial LCx in [**3203-5-27**] presents with exertional substernal
+chest pain not responsive to nitrate, positive troponins, and
+ST-segment depressions indicative of antero-lateral ischemia.
+Now s/p PTCA and DES to LAD and LCx, admitted to the CCU for
+closer monitoring.
+..
+# CAD/ISCHEMIA:  He went straight to the cath lab and had DES
+placed to his left circumflex and left anterior descending
+arteries.  Post-procedure, his chest pain gradually improved and
+he was continued on aspirin, Plavix, and Integrillin.  The
+Integrillin was stopped after 18 hours. During the rest of his
+stay Mr. [**Known patient lastname **] was continued on Aspirin, Plavix, Simvastatin and
+a Beta Blocker.
+..
+# PUMP:  His most recent TTE at time of admission showed an LVEF
+of 40% with regional left ventricular systolic dysfunction
+consistent with coronary artery disease.  After the heart attack
+and catheterization repeat echo showed EF of 30%.
+Post-procedure, physical exam and oxygen requirements indicated
+that he was slightly volume overloaded.  He was diuresed with IV
+Lasix, then Lasix drip for about two days at which point his UOP
+decreased and his creatinine began to rise.  The Lasix was
+stopped he was kept even. His SBP remained in the mid 90s to
+100s throughout his hospitalization.
+.
+As noted, he was continued on metoprolol and ACEI was held due
+to acute renal failure.
+..
+# RHYTHM:  During this hospitalization he developed new atrial
+fibrillation.  His ventricular rate was well controlled w/
+metoprolol.  He was started on amiodorone with the goal to
+convert him back to normal sinus rhythm.  Anticoagulation was
+started with heparin and bridged to coumadin. At time of
+discharge the patient was on 2.5 mg Coumadin daily and INR was
+1.6, Heparin had been continued until discharge. The patient was
+instructed to follow-up the day after discharge with his PCP,
+[**Last Name (NamePattern4) **]. [**Last Name (STitle) **], to follow his continued Warfarin monitoring and INR
+checks with the therapeutic goal of [**12-29**] INR. The patient had
+better controlled atrial fibrillation but was still having less
+frequent, asymptomatic atrial fibrillation on telemetry with
+evidence of fascicular block and bradycardia. He denied any
+chest pain, palpitations, dizziness or shortness of breath at
+the time of discharge. He will plan to continue rhythm control
+with 200mg daily of Amiodarone. Given the patient's bradycardia
+he will hold his beta blocker, Metoprolol, for now and he will
+follow-up with his PCP and Dr. [**Last Name (STitle) 771**] regarding restarting this
+medication. He will continue telemonitoring on [**Hospital3 4683**]
+with the services of local VNA.
+..
+# ACUTE ON CHRONIC RENAL FAILURE:  He has chronic kidney disease
+with a baseline creatinine of 1.4 to 1.7, elevated at time of
+admission to 2.6 likely due to hypoperfusion in the setting of
+NSTEMI and low-cardiac output.  He was treated pre and post-cath
+with sodium bicarbonate and n-acetylcytsteine.  However, after
+the procedure his creatinine continued to rise.  A renal
+ultrasound was negative for obstruction or hydronephrosis.
+Urine electrolytes were indicative of prerenal azotemia.  Urine
+eosinophils were negative.  There were granular casts on
+urinalysis which indicated ATN. A renal consult corroborated
+this diagnosis.  His ACEI was held, as above, and his Is/Os were
+kept even given the concern of hypovolemia and renal
+hypoperfusion. Mr. [**Known patient lastname 14281**] Cr eventually plateaud and began to
+trend down and fortunately he did not need any dialysis
+intervention. At time of discharge the patient's BUN was 92 and
+Cr 3.2. The patient's baseline Cr is 1.7 range. The patient was
+instructed to follow-up with a local nephrologist in [**Location (un) **] regarding a renal follow up over the coming 1-2 weeks
+time. Dr. [**Last Name (STitle) **], Mr. [**Known patient lastname 14281**] PCP, [**Name10 (NameIs) **] also continue to monitor
+the patient's electrolytes and renal funtion as well. The
+patient's Allopurinol dose was renally adjusted to 100mg daily.
+
+..
+# RIGHT AV FISTULA: This was seen on cardiac catheterization and
+subsequently not seen on duplex ultrasound.  Vascular is
+involved and he will need follow-up with Dr. [**Last Name (STitle) 163**] in 6 to
+8 weeks.
+..
+# DM:  He was given a diabetic diet and insulin sliding scale.
+..
+# COPD:  We continued his home albuterol and ipratropium.
+..
+# GERD:  We continued his home PPI at twice daily dosing.
+..
+# GOUT:  We continued his home allopurinol at decreased dose due
+to development of acute renal failure.
+..
+During the hospitalization, he was kept on a diabetic and
+heart-healthy diet.  DVT prophylaxis was achieved first with
+heparin subQ, and when he developed atrial fibrillation he was
+started on heparin drip and bridged to warfarin.  GI
+prophylaxis, as above, with PPI twice daily.  His code status
+was full code throughout his hospital stay.
+
+Medications on Admission:
+# Simvastatin 80 mg QHS
+# Ipratropium Bromide 17 mcg/Actuation Aerosol; 2 puffs QID
+# Omeprazole 20 mg Tablet [**Hospital1 **]
+# Clopidogrel 75 mg Tablet QDAY
+# Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs q6H
+# Aspirin 325 mg QDAY
+# Captopril 12.5 mg [**Hospital1 **]
+# Metoprolol Tartrate 12.5 mg [**Hospital1 **]
+# Furosemide 80 mg [**Hospital1 **]
+# Isosorbide 30 mg [**Hospital1 **]
+# Allopurinol 300 mg QDAY
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNS
+
+Discharge Diagnosis:
+Acute Renal Failure / Acute Tubular Necrosis
+Non ST elevation myocardial infarction
+Systolic congestive heart failure
+Atrial fibrillation
+
+
+Discharge Condition:
+stable
+Hct:30.4
+Bun:92
+creat:3.2
+
+
+Discharge Instructions:
+You had a heart attack with drug eluting stents to two coronary
+arteries to repair a narrowing. Your kidneys were not working
+very well so we adjusted your medicines. Your heart is weak so
+you are on medicines to help it pump better (metoprolol and
+captopril) You have a tendency to retain fluid so please weigh
+yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs in 1 day or 6
+pounds in 3 days.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 2000cc
+You have a heart rhythm irregularity called atrial fibrillation.
+We are controlling your heart rate with metoprolol and
+amiodarone and preventing strokes with coumadin. For now, please
+do not take your Metoprolol until you follow-up with Dr. [**Last Name (STitle) **]
+and Dr. [**Last Name (STitle) 771**].
+.
+New medicines:
+warfarin ( a blood thinner)
+amiodarone( to slow your heart rate)
+Metoprolol Succinate (a long acting medicine to slow your heart
+rate)
+
+Your usual Allopurinol dose was decreased to 100mg daily due to
+your renal impairment. Please continue to take this dose until
+your PCP informs you that your renal function is back to normal.
+
+
+Please call Dr. [**Last Name (STitle) **] if you have any chest pain, trouble
+breathing, fluid accumulating in your arms or legs, a new cough
+or nausea. For now, please do not take your Metoprolol until you
+follow-up with Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 771**]. You may need to take some
+Lasix to help you to promote additional urine production but
+this will be discussed at your follow-up appointment with Dr.
+[**Last Name (STitle) **].
+
+Followup Instructions:
+Primary care:
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD Phone: [**Telephone/Fax (1) 13946**] Date/Time: Friday
+[**8-29**] at 11:45am.
+.
+Cardiology:
+Provider: [**First Name4 (NamePattern1) 1163**] [**Last Name (NamePattern1) 771**], MD Phone: ([**Telephone/Fax (1) 14282**] Date/Time:
+Please call to make a follow-up appointment with Dr. [**Last Name (STitle) 771**] in [**1-28**]
+weeks time
+
+Nephrology: Please follow-up with Nephrologist in [**Location (un) **],
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1910**] at [**Telephone/Fax (1) 1915**] within the next week
+
+Vascular Department -please follow-up with Dr. [**Last Name (STitle) 163**] in [**5-4**]
+weeks time . Office phone # [**Telephone/Fax (1) 2950**]
+
+
+
+Completed by:[**3203-8-27**]

@@ -1,0 +1,224 @@
+TITLE:
+   CVICU
+   HPI:
+   HD9
+   [**12-30**] POD 7
+   72F CABGX3 (LIMA-LAD,SVG-OM,SVG-PDA)IABP in preop [**12-24**]
+   EF:40% CR:1.3 WT: 64kg HgA1c:5.1
+   PMH;COPD,depression,DJD,FeDef.anemia,HTN,monoclonal gammopathy
+   [**Last Name (un) 500**]:albuterol1-2p prn,alprazolam 0.5 HS,Atenolol100/D,Tricor
+   145/D,Spiriva 1 IH/D,Verapamil 200/HS,Torsemide 20BID,Lisinopril
+   40/D,Advair 1p [**Hospital1 **],Fluoxetine 20/D ASA, FeSO4 [**Hospital1 **] VitD .
+   Current medications:
+   Acetaminophen, Albuterol Inhaler, Artificial Tears Preserv. Free,
+   Aspirin, Beclomethasone, Digoxin, Docusate Sodium, Furosemide, Insulin,
+   Ipratropium Bromide MDI, Lactulose, Metoprolol Tartrate,  Micafungin,
+   Pantoprazole, Piperacillin-Tazobactam Na, Vancomycin
+   24 Hour Events:
+   Tolerated CPAP but returned to AC for tachypnea
+   Continued with rapid atrial fibrillation started digoxin and then
+   betablockers when levophed weaned off
+ FEVER - 103.4
+F - [**3104-12-29**] 06:00 PM
+   Post operative day:
+   POD#6 - cabg x3
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin - [**3104-12-28**] 02:00 AM
+   Vancomycin - [**3104-12-28**] 03:27 PM
+   Caspofungin - [**3104-12-29**] 07:52 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3104-12-30**] 04:00 AM
+   Micafungin - [**3104-12-30**] 05:41 AM
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**3104-12-30**] 04:00 AM
+   Furosemide (Lasix) - [**3104-12-30**] 05:40 AM
+   Other medications:
+   Flowsheet Data as of  [**3104-12-30**] 09:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**07**] a.m.
+   Tmax: 39.7
+C (103.4
+   T current: 36.8
+C (98.3
+   HR: 78 (78 - 132) bpm
+   BP: 108/44(63) {106/44(63) - 151/64(90)} mmHg
+   RR: 22 (22 - 35) insp/min
+   SPO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 79.6 kg (admission): 62.7 kg
+   Height: 56 Inch
+   CVP: 15 (12 - 20) mmHg
+   Total In:
+                                                                  1,931 mL
+                                                                    752 mL
+   PO:
+                                                                     30 mL
+   Tube feeding:
+                                                                    840 mL
+                                                                    328 mL
+   IV Fluid:
+                                                                    951 mL
+                                                                    344 mL
+   Blood products:
+   Total out:
+                                                                  1,655 mL
+                                                                    890 mL
+   Urine:
+                                                                  1,655 mL
+                                                                    890 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    276 mL
+                                                                   -138 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 350 (350 - 350) mL
+   Vt (Spontaneous): 342 (317 - 414) mL
+   PS : 18 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 30 cmH2O
+   Plateau: 27 cmH2O
+   SPO2: 99%
+   ABG: 7.34/48/127/25/0
+   Ve: 8.5 L/min
+   PaO2 / FiO2: 318
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular), rate controlled Afib
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : ), (Sternum: Stable ), ecchymosis mid incision no
+   drainage
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, no
+   bowel movement
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), right thigh with eccyhmosis,
+   lower extremity edema trace upper extremity edema +1
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   No(t) Moves all extremities, (RUE: Weakness), (LUE: Weakness), (RLE:
+   Weakness), (LLE: Weakness), right upper extremity less movement than
+   left
+   Labs / Radiology
+   181 K/uL
+   9.3 g/dL
+   119 mg/dL
+   1.4 mg/dL
+   25 mEq/L
+   4.2 mEq/L
+   35 mg/dL
+   111 mEq/L
+   145 mEq/L
+   27.8 %
+   18.4 K/uL
+                             [**3104-12-28**]  10:21 PM
+                             [**3104-12-29**]  02:37 AM
+                             [**3104-12-29**]  02:59 AM
+                             [**3104-12-29**]  04:42 AM
+                             [**3104-12-29**]  09:30 AM
+                             [**3104-12-29**]  03:29 PM
+                             [**3104-12-29**]  09:54 PM
+                             [**3104-12-30**]  02:54 AM
+                             [**3104-12-30**]  03:17 AM
+                             [**3104-12-30**]  05:43 AM
+   WBC
+   22.9
+   22.5
+   18.4
+   Hct
+   30.1
+   29.1
+   27.8
+   Plt
+   145
+   145
+   181
+   Creatinine
+   1.6
+   1.4
+   TCO2
+   26
+   27
+   26
+   25
+   26
+   27
+   Glucose
+   111
+   120
+   93
+   119
+   Other labs: PT / PTT / INR:15.2/32.7/1.3, ALT / AST:90/90, Alk-Phos / T
+   bili:50/9.5, Amylase / Lipase:58/189, Differential-Neuts:86.4 %,
+   Lymph:7.8 %, Mono:5.0 %, Eos:0.6 %, Fibrinogen:609 mg/dL, Lactic
+   Acid:1.3 mmol/L, Albumin:2.6 g/dL, LDH:380 IU/L, Ca:8.3 mg/dL, Mg:2.1
+   mg/dL, PO4:2.7 mg/dL
+   Imaging: CXR resolving right lower lobe infiltrate and continues with
+   pulmonary edema
+   Assessment and Plan
+   ALTERATION IN NUTRITION, ALTERATION IN ELIMINATION RELATED TO
+   CONSTIPATION, HYPOKALEMIA (LOW POTASSIUM, HYPOPOTASSEMIA), [**Last Name **]
+   PROBLEM - ENTER DESCRIPTION IN COMMENTS, ACIDOSIS, RESPIRATORY, ATRIAL
+   FIBRILLATION (AFIB), HYPONATREMIA (LOW SODIUM, HYPOSMOLALITY), FEVER
+   (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN), RENAL FAILURE,
+   ACUTE (ACUTE RENAL FAILURE, ARF), CORONARY ARTERY DISEASE (CAD,
+   ISCHEMIC HEART DISEASE)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 2 hr, Improving mental status, continuing
+   to hold sedation, no evidence of pain continue to assess
+   Cardiovascular: Aspirin, Beta-blocker, Statin current off due to
+   increased LFT reassess in am [**12-31**], resolved vasodilatory shock,
+   continues in Afib with rate control on lopressor and digoxin,
+   amiodarone was discontinued due to increased tbil
+   Pulmonary: Spontaneous breathing trial, (Ventilator mode: CPAP + PS),
+   CPAP today, adequate ABG on current settings, resolving right lower
+   lobe infiltrate, continue antibiotics
+   Gastrointestinal / Abdomen: bowel regimen, continue to trend lft they
+   are improving most likely cholestatic jaundice likely medication and
+   critical illness induced
+   Nutrition: Tube feeding
+   Renal: Foley, Adequate UO, Resolving acute renal failure with stable Cr
+   1.4, continue with diuresis goal [**Telephone/Fax (1) 1813**] ml negative for 24 hours
+   Hematology: stable anemia, platelet count continues to improve
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: Micafungin for [**Female First Name (un) 439**] in blood, vanco and zosyn
+   for VAP RLL infiltrate - due to skin rash on back that presented [**12-29**] pm
+   change zosyn will discuss with ID, still febrile but decreasing WBC 22
+   down to 18
+   Lines / Tubes / Drains: Foley, OGT, ETT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery, ID dept, P.T., Nutrition
+   Billing Diagnosis: Arrhythmia, (Respiratory distress: Insufficiency /
+   Post-op), Post-op hypotension, Acute renal failure
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3104-12-30**] 06:06 AM 35 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3104-12-28**] 01:19 PM
+   Multi Lumen - [**3104-12-28**] 01:42 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU

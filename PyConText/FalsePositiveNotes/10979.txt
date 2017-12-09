@@ -1,0 +1,702 @@
+Admission Date:  [**2525-2-22**]              Discharge Date:   [**2525-3-24**]
+
+Date of Birth:  [**2466-11-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 88**]
+Chief Complaint:
+CC:  worsening pleural effusion and SOB
+
+Major Surgical or Invasive Procedure:
+Paracentesis [**2525-2-23**]
+Thoracentesis x 2
+Pleurodesis
+Pleural biopsy
+Swan-Ganz catheter placement [**2525-3-14**]
+
+History of Present Illness:
+This is a 58 yo woman with a history of cirrhosis and portal HTN
+likely [**1-11**] sarcoidosis who is s/p failed TIPS procedure on
+[**2525-1-9**] due to clots in the intrahepatic and extrahepatic portal
+vein with short segment portal vein occlusion and cavernous
+transformation.  Patient also has a history of esophageal
+varices and variceal bleeds and is s/p band ligation therapy
+most recently on [**2524-12-21**].  Patient was recently hospitalized at
+[**Hospital1 68**] between [**2525-1-2**] and [**2525-1-26**] during which she was found to
+have a polymycrobial right thigh abcess likely [**1-11**]
+?endocarditis--patient had MSSA bacteremia, but had a negative
+TTE (TEE contraindicated given patient's severe esophageal
+varices).  Patient is currently being treated with an [**7-19**] week
+course of vancomycin and levofloxacin, and continued diuresis on
+lasix and aldactone as an outpatient.  She had a large volume
+paracentesis on [**2525-2-14**] with removal of 4.5L, which reportedly
+helped ameliorate her abdominal discomfort.
+.
+She then presented to OSH in [**State 65**] experiencing 3 days of
+worsening SOB/DOE and L sided chest pain.  She rates the pain as
+an [**7-19**] described as a "rubber band tightening up more and
+more."  Patient was r/o for MI and was found to have normal LV
+function by Echo.  She was found to have worsening pleural
+effusion, and underwent a left thoracentesis on [**2525-2-21**] that
+provided significant improval in her symptoms.  Discussion
+regarding possible chest tube placement with pleurodiesis was
+initiated at the OSH, and deferred to our further management
+here.
+
+Past Medical History:
+1) Hepatic sarcoid (dx [**2498**]) -> cirrhosis s/p liver biopsy X 3;
+significant portal hypertension with massive splenomegaly and
+esophageal varices
+2) Sarcoidosis - pulm involvement, s/p mediastinsocopy and
+biopsy
+[**2488**]
+3) Esophageal varices s/p bleeds in [**3-14**] and another one in
+[**11-13**] in spite of band ligation therapy (most recent [**2524-12-21**])
+4) ? Endocarditis ([**Date range (1) 8053**])
+5) Thigh abscesses (?rel to septic emboli, [**Date range (1) 8053**])
+6) Hypersplenism - splen 19 cm -> thrombocytopenia
+7) History of dysphagia
+8) GERD
+9) Hypertension
+10) OSA
+11) Bipolar disorder, type II
+12) Spastic bladder with incontinence
+13) Constipation
+
+
+Social History:
+Denies smoking, EtOH, and illicits. Married with 2 adult
+daughters.  Retired from her position as a surgical residency
+administrator 2 years ago.
+
+
+Family History:
+Denies h/o CVA, heart attack. Mother lung cancer (smoker).
+
+Physical Exam:
+Physical Exam on Admission [**2525-2-23**]
+Vitals: T 98.9 (max 99.5) BP 108/58  HR 94 (max 107) RR 18
+O2sat 98% on 3L (90% on RA earlier in the AM)
+General: ill-appearing woman in NAD who is lying in bed
+comfortably--she is not using accessory mm of breathing, but
+becomes SOB after talking for extended periods of time
+HEENT:  PERRL; slight scleral icterus; OP clear of erythema,
+lesions, or exudates, but notable for poor dentition and white
+film lining the tongue
+Neck:  no TMG or LAD
+Chest:  notable for decreased breath sounds in the entire L lung
+field and decreased breath sounds starting half way down on the
+R side with bronchial breath sounds in the upper field
+Cardiac:  tachycardic; normal S1 and S2 with a II/VI systolic
+murmur heard best in the LUSB with no radiation to the carotids;
+no JVD
+Abdomen:  soft, non-tended, non-distended but full at the
+flanks; she has dullness to percussion laterally and has
+shifting dullness to percussion; she denies any rebound
+tenderness and has no other peritoneal signs; hepatomegaly,
+splenomegaly, and any other masses not appreciated; active BSX4
+Extremites: 1+ pitting edema at the ankles b/l; distal pulses
+2+; r thigh notable for a 3 inch well-healed scar with no signs
+of infection, including erythema, warmth, or tenderness
+Neuro: A&OX3; no asterixis; good affect; pleasant and
+appropriately interactive
+
+
+Pertinent Results:
+CBC
+[**2525-2-23**] 02:24AM BLOOD WBC-5.7 RBC-2.78* Hgb-9.8* Hct-28.3*
+MCV-102*# MCH-35.1* MCHC-34.5 RDW-17.3* Plt Ct-103*
+[**2525-2-24**] 06:12AM BLOOD WBC-4.7 RBC-2.80* Hgb-9.7* Hct-28.6*
+MCV-102* MCH-34.5* MCHC-33.8 RDW-17.2* Plt Ct-125*
+[**2525-2-24**] 06:12AM BLOOD Neuts-76.0* Lymphs-15.5* Monos-7.1
+Eos-1.2 Baso-0.1
+[**2525-2-25**] 05:45AM BLOOD WBC-5.9 RBC-2.87* Hgb-9.9* Hct-29.1*
+MCV-101* MCH-34.4* MCHC-33.9 RDW-17.1* Plt Ct-146*
+[**2525-2-26**] 06:10AM BLOOD WBC-4.1 RBC-2.65* Hgb-9.1* Hct-27.0*
+MCV-102* MCH-34.1* MCHC-33.5 RDW-16.8* Plt Ct-123*
+[**2525-2-27**] 05:56AM BLOOD WBC-8.8# RBC-3.04* Hgb-10.5* Hct-31.2*
+MCV-103* MCH-34.4* MCHC-33.6 RDW-16.5* Plt Ct-178
+[**2525-2-28**] 04:29AM BLOOD WBC-5.2 RBC-2.57* Hgb-8.9* Hct-26.3*
+MCV-102* MCH-34.5* MCHC-33.7 RDW-16.4* Plt Ct-109*
+[**2525-3-1**] 05:14AM BLOOD WBC-5.4 RBC-2.54* Hgb-8.7* Hct-26.2*
+MCV-103* MCH-34.4* MCHC-33.4 RDW-16.4* Plt Ct-111*
+[**2525-3-2**] 05:51AM BLOOD WBC-4.0 RBC-2.47* Hgb-8.2* Hct-25.6*
+MCV-103* MCH-33.3* MCHC-32.2 RDW-16.5* Plt Ct-102*
+[**2525-2-23**] 02:24AM BLOOD PT-15.6* PTT-30.9 INR(PT)-1.4*
+[**2525-3-2**] 05:51AM BLOOD PT-14.7* PTT-34.0 INR(PT)-1.3*
+.
+Chemistry
+[**2525-2-23**] 02:24AM BLOOD Glucose-111* UreaN-21* Creat-1.0 Na-129*
+K-3.6 Cl-95* HCO3-29 AnGap-9
+[**2525-2-26**] 06:10AM BLOOD Glucose-102 UreaN-20 Creat-1.1 Na-131*
+K-3.6 Cl-94* HCO3-28 AnGap-13
+[**2525-3-2**] 05:51AM BLOOD Glucose-109* UreaN-17 Creat-1.0 Na-132*
+K-3.8 Cl-97 HCO3-27 AnGap-12
+[**2525-2-23**] 02:24AM BLOOD ALT-16 AST-43* AlkPhos-213* TotBili-3.3*
+[**2525-2-24**] 06:12AM BLOOD ALT-16 AST-46* LD(LDH)-163 AlkPhos-227*
+TotBili-2.7*
+[**2525-2-25**] 05:45AM BLOOD ALT-18 AST-46* AlkPhos-244* TotBili-2.6*
+[**2525-2-26**] 06:10AM BLOOD ALT-16 AST-39 AlkPhos-208* TotBili-3.0*
+[**2525-2-27**] 05:56AM BLOOD ALT-15 AST-42* LD(LDH)-163 AlkPhos-204*
+TotBili-2.7*
+[**2525-2-28**] 04:29AM BLOOD ALT-14 AST-42* AlkPhos-204* TotBili-2.6*
+[**2525-3-1**] 05:14AM BLOOD ALT-14 AST-42* AlkPhos-203* TotBili-2.4*
+[**2525-3-2**] 05:51AM BLOOD ALT-14 AST-42* LD(LDH)-150 AlkPhos-204*
+TotBili-2.2*
+[**2525-2-23**] 06:23AM BLOOD Albumin-2.7* Calcium-8.9 Phos-2.0* Mg-1.8
+[**2525-2-24**] 06:12AM BLOOD Albumin-2.6* Calcium-8.9 Phos-2.3* Mg-2.0
+[**2525-2-27**] 05:56AM BLOOD TotProt-6.3* Albumin-3.2* Globuln-3.1
+Calcium-8.5 Phos-1.7* Mg-1.7
+[**2525-3-2**] 05:51AM BLOOD TotProt-5.9* Albumin-2.7* Globuln-3.2
+Calcium-9.4 Phos-2.0* Mg-1.8
+.
+Vancomycin Level
+[**2525-2-27**] 10:00PM BLOOD Vanco-22.6*
+.
+Cardiac Enzymes Negative X 3
+[**2525-2-23**] 06:23AM BLOOD CK-MB-NotDone
+[**2525-2-23**] 01:41PM BLOOD CK-MB-NotDone
+[**2525-2-23**] 09:02PM BLOOD CK-MB-NotDone cTropnT-0.01
+.
+STUDIES:
+Abdominal US [**2-23**] COMPARISONS: MR [**First Name (Titles) **] [**2525-1-20**].
+FINDINGS: There are no stones within the gallbladder. There is
+no intra- or extra-hepatic biliary ductal dilatation. A large
+amount of ascites is again noted. The liver is quite
+heterogeneous and irregular, consistent with cirrhosis.
+On duplex Doppler examination, again noted is occlusive
+thrombosis of the main portal vein. No portal venous flow is
+detectable in the main portal vein or regions which would
+correspond to its major tributaries. However, the main, right,
+and left hepatic arteries are patent. The right, middle, and
+left hepatic veins are also patent with appropriate directional
+flow.
+IMPRESSION:
+1. Large amount of ascites.
+2. Cirrhosis.
+3. Patency of the main hepatic artery and the major hepatic
+veins.
+4. Occlusive thrombosis of the main portal vein, as noted
+previously.
+.
+CXR [**2-23**] Comparison is made to [**2525-1-23**].
+AP UPRIGHT RADIOGRAPH OF THE CHEST: The heart size, mediastinal
+and hilar contours are within normal limits and unchanged.
+Left-sided PICC line appears to be in unchanged position with
+the tip in the lower SVC. There has been interval development of
+retrocardiac consolidations with air bronchograms and
+obscuration of the left hemidiaphragm. In addition, there is
+increase in the bilateral pleural effusions, predominantly on
+the left. These findings are consistent with interval
+development of a left lower lobe pneumonia. There are stable
+mild fibrotic lung changes.
+IMPRESSION: New left lower lobe pneumonia. Increased bilateral
+pleural effusions.
+.
+EKG [**2-23**] Sinus rhythm. Minimal ST segment elevation in the
+lateral and anterolateral leads with minimal ST segment
+depression in the anterior leads consistent with possible
+ischemia or infarction. Compared to the previous tracing these
+changes are more apparent
+.
+Chest CT [**2-25**]
+1. No evidence of pulmonary.
+2. Moderate to severe layering bilateral pleural effusions with
+associated compressive atelectasis and patchy bilateral ground
+glass opacity suggestive of fluid overload.
+.
+CXR [**2-25**] CHEST: PA and lateral views are compared to previous
+examination of [**2525-2-23**]. Again seen left lower lobe
+parenchymal opacity with bilateral pleural effusions greater on
+the left. There is diffuse increased interstitial marking,
+suggesting chronic interstitial lung disease. There is no
+evidence of pulmonary edema.
+IMPRESSION: Left lower lobe pneumonia vs atelectsis without
+significant change since the previous examination of [**2525-2-23**]. Moderate left and small right pleural effusions.
+.
+EKG [**2-25**] Sinus tachycardia
+Poor R wave progression - ? lead placement Nonspecific ST
+segment elevation in leads l, aVL, V5-V6 with ST segment
+depression in leads V1-V2 - clinical correlation is suggested
+Since previous tracing, sinus tachycardia present
+.
+CXR [**2-26**] INDICATION: Left-sided thoracentesis, now with
+worsening shortness of breath and chest pain, evaluate for
+pneumothorax. Comparison is made with radiograph obtained
+earlier on [**2525-2-26**]. The cardiac silhouette is unchanged
+and unremarkable. Small bilateral pleural effusions are again
+noted. No pneumothorax is noted. Lung volumes are low
+bilaterally with bibasilar atelectasis. Chest wall is
+unremarkable.
+IMPRESSION:
+1. No pneumothorax.
+2. Persistent small bilateral effusions with bibasilar
+atelectasis.
+.
+CXR [**2-26**] COMPARISON: [**2525-2-25**] at 09:03.
+FINDINGS: The radiograph is not significantly different from
+yesterday. Again seen is a left lower lobe opacity. In addition,
+bilateral pleural effusions are present, left greater than the
+right, and that do not appear significantly different from
+yesterday.
+IMPRESSION:
+1. No significant change in bilateral pleural effusions, left
+greater than right.
+2. Left lower lobe opacity that is unchanged from yesterday.
+.
+EKG [**2-26**] Sinus tachycardia. Delayed precordial R wave
+progression as recorded on tracing of [**2525-2-25**]. Technically
+limited study. There is continued ST segment elevation in leads
+I and aVL and V5-V6 consistent with lateral ischemic process.
+Rule out myocardial infarction. Followup and clinical
+correlation are suggested.
+.
+Esophagus, biopsy [**2-27**]: Tiny strips of squamous epithelium with
+acute inflammation and fungi consistent with [**Female First Name (un) 498**].
+.
+CXR [**2-28**] COMPARISON: [**2525-2-26**]. FINDINGS: There is a
+moderate/large left-sided effusion markedly increased compared
+to the prior examination. Given the history hemothorax cannot be
+excluded. The right lung is clear. The osseous structures are
+unremarkable. IMPRESSION: Increased moderate/large left-sided
+effusion. Please note that a hemothorax cannot be excluded.
+Short-term follow-up is recommended.
+.
+Ankle Plain Film Right ankle: Three views, shows mild soft
+tissue swelling about the ankle. There may be small joint
+effusion posteriorly, however, the lateral view of the ankle is
+obtained in plantar-flexed position. A posterior calcaneal spur
+is seen. There is no bone destruction or erosion. The joint
+space and articular cortices are preserved.
+.
+LE US [**2-28**] TECHNIQUE: Limited extremity ultrasound of the right
+ankle.
+FINDINGS: These views show subcutaneous edema but no evidence of
+a well-defined fluid collection. To assess for symmetry, a few
+images of the left ankle in a similar location were taken along
+the medial ankle, and show symmetry of the subcutaneous edema.
+IMPRESSION: Subcutaneous edema, without evidence of a
+well-defined fluid collection.
+.
+Thigh MRI [**2-28**] TECHNIQUE: T1, inversion recovery and pre- and
+post-gadolinium T1 fat sat sequences were performed in multiple
+planes.
+COMPARISON: Thigh MRI dated [**2525-1-5**].
+FINDINGS: The multiple fluid collections within the soft tissues
+of the right thigh are no longer identified. There is persistent
+edema within the subcutaneous tissues of both thighs, right side
+greater than left. This subcutaneous edema has not significantly
+changed from prior exam.
+No new fluid collections are identified. There are no hip
+effusions. Bone marrow signal is normal. Post-gadolinium imaging
+demonstrates no abnormal enhancement.
+IMPRESSION: Interval resolution of the multiple fluid
+collections within the right thigh. Persistent subcutaneous
+edema
+.
+MRI [**3-1**] TECHNIQUE: Multiplanar T1- and T2-weighted images were
+obtained including axial in- and out-of-phase, axial and coronal
+HASTE, 2D time-of-flight and 3D VIBE pre-, during, and
+post-gadolinium enhancement with subtractions in each phase.
+3D reconstructions were made in a separate workstation.
+FINDINGS: Bilateral pleural effusions, right greater than left,
+unchanged from the prior study. There is a small pericardial
+effusion with possible pericardial enhancement post-gadolinium
+administration. The significance of this finding is unknown and
+linical correlation is recommended.
+The liver is atrophic with a background of innumerable nodules
+surrounded by extensive fibrosis. There is no biliary duct
+dilatation. There are no focal arterial enhancing lesions. The
+spleen shows heterogeneous enhancement likely related to portal
+hypertension. There is a tiny 7-mm cystic lesion projecting
+anteriorly through the main pancreatic duct in the body of the
+pancreas, unchanged from prior studies back to [**2522**]. Otherwise
+the pancreas is unremarkable. The adrenal glands, left kidney,
+and gallbladder are unremarkable. The right kidney is atrophic,
+unchanged from prior studies.
+The proximal main portal vein and the right portal veins are
+attenuated but patent. There is a very thin vessel within the
+left lobe that may represent a recanalized left portal vein,
+however, we cannot see connection with the main portal vein.
+The superior mesenteric is attenuated but patent. The splenic
+vein is widely patent. There are extensive varices within the
+abdomen as well as esophageal varices. There is a large amount
+of ascites throughout the abdomen.
+3D reconstructions were helpful in the delineation of anatomy
+and pathology.
+IMPRESSION:
+Cirrhotic liver consistent with patient's history sarcoidosis.
+No suspicious hepatic lesions
+Attenuated patent main and right portal veins. There is a very
+thin vessel within the left lobe that may represent a
+recanalized left portal vein, however, we cannot see connection
+with the main portal vein.
+Attenuated but patent SMV. The splenic vein is widely patent.
+Bilateral pleural effusions, ascites, and splenomegaly,
+unchanged from prior studies.
+Chronically atrophic right kidney and small cystic lesion in the
+body of the pancreas, unchanged from prior study.
+Small pericardial effusion with pericardial enhancement
+post-gadolinium administration. Correlate clinically and if
+indicated with echocardiogram.
+.
+CXR [**3-2**] COMPARISON: Chest x-rays [**2-26**] and [**2525-2-28**].
+FINDINGS: Since the previous exam, there has been slight
+decrease in size of the moderate left pleural effusion. Small
+right pleural effusion persists. Left lower lobe
+consolidation/collapse is again noted with air bronchograms. The
+right lung appears predominantly clear. There is no
+pneumothorax. The heart size appears unchanged although slightly
+difficult to assess given the left pleural effusion.
+IMPRESSION: Decrease in size of still moderate left pleural
+effusion. No change in size of small right pleural effusion.
+.
+ECHO [**3-2**]
+
+Conclusions:
+1. The left ventricular cavity size is normal. Regional left
+ventricular wall
+motion is normal. Left ventricular systolic function is
+hyperdynamic (EF>75%).
+2. There is a small to moderate sized pericardial effusion with
+thick
+fibrin/thrombus deposits on the surface of the heart. There are
+no
+echocardiographic signs of tamponade.
+3. Compared with the findings of the prior study of [**2525-1-12**], the
+size of the
+pericardial effusion has increased.
+ Echo: [**3-13**]:
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is
+unusually small. Left ventricular systolic function is
+hyperdynamic (EF>75%).
+There is a small to moderate sized pericardial effusion. There
+is sustained
+right atrial collapse, consistent with low filling pressures or
+early
+tamponade.
+
+Compared with the prior study (images reviewed) of [**2525-3-2**],
+the effusion
+appears similar. Right atrial collapse was also present
+previously
+
+Echo: [**3-14**]
+Left ventricular systolic function is hyperdynamic (EF>75%).
+There is a small
+to moderate sized pericardial effusion. There is sustained right
+atrial
+collapse, consistent with low filling pressures or early
+tamponade (however
+views are technically suboptimal).
+Echo: [**2525-3-19**]
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right
+ventricular chamber size and free wall motion are normal. The
+mitral valve
+appears structurally normal with trivial mitral regurgitation.
+The estimated
+pulmonary artery systolic pressure is normal. There are no
+echocardiographic
+signs of tamponade. No right atrial diastolic collapse is seen.
+No right
+ventricular diastolic collapse is seen. There is borderline
+accentuated
+respiratory variation in mitral/tricuspid valve inflows (approx
+20% variation
+which is not diagnostic).
+
+Compared with the prior study (images reviewed) of [**2525-3-14**], the
+effusion
+appears smaller. RA diastolic collapse is no longer seen.
+
+IMPRESSION: Small pericardial effusion without tamponade.
+Pleural Biopsy:
+
+Pleural biopsies:
+
+a.  Pleural tissue with fibrinous exudate, and granulation
+tissue.
+
+b.  No granulomas seen.
+
+c.  No malignancy identified.
+Pleural Fluid Cytology and Flow Cytometry
+FLOW CYTOMETRY REPORT
+
+FLOW CYTOMETRY IMMUNOPHENOTYPING
+
+The following tests (antibodies) were performed: HLA-DR, FMC-7,
+and CD antigens 3, 4, 5, 8, 10, 19, 20, 23, and 45.
+
+
+
+RESULTS:
+
+
+
+Three color gating is performed (light scatter vs. CD45) to
+optimize lymphocyte yield.
+
+Cell marker analysis demonstrates a reduction in the percentage
+of B cells.
+
+T cells express mature lineage antigens and have a
+helper-cytotoxic ratio of 0.5.
+
+
+
+INTERPRETATION
+
+
+
+Non-specific T-cell dominant reactive lymphoid profile; no
+phenotypic evidence of lymphoma in specimen.  Correlation with
+clinical findings and morphology is recommended.  Flow cytometry
+immunophenotyping may not detect all lymphoma as due to
+topography, sampling or artifacts of sample preparation.
+
+Lower Extremity Non-Invasive Studies: No DVT identified
+Cardiac MRI: read pending upon discharge from [**Hospital1 68**]
+Abdominal Ultrasound:
+
+FINDINGS: There is a 1.1 cm stone in the nondistended
+gallbladder. The liver is nodular and heterogeneous in
+echotexture and significantly decreased in size consistent with
+the patient's known cirrhosis. The hepatic artery, hepatic vein,
+and portal vein are patent with appropriate direction of flow.
+The common duct is not dilated. A 1.5 cm periportal lymph node
+is identified. The pancreas is unremarkable. Note is made of
+tortuous collateral vessels in the epigastric region. The spleen
+is markedly enlarged measuring 19 cm. There are bilateral
+pleural effusions. A moderate amount of ascites is identified. A
+spot was marked in the left flank for paracentesis.
+
+IMPRESSION:
+1. Spot marked in left flank for bedside paracentesis.
+2. Cirrhotic liver and marked splenomegaly.
+3. Cholelithiasis without evidence of cholecystitis.
+4. Bilateral pleural effusions.
+
+
+
+
+
+
+Brief Hospital Course:
+This is a 58 yo woman with cirrhosis [**1-11**] to sarcoidosis
+complicated by esophageal varices and a failed TIPS procedure
+attempted in in [**12-15**] who presents from an OSH for evaluation of
+worsening pleural effusions (s/p L thoracentesis on [**2-21**] at
+OSH).
+.
+*  Pleural Effusion (presented w/ CP, tachycardia, &
+SOB)--likely hepatic hydrothorax [**1-11**] to cirrhosis and ascites
+(requires therapeutic paracentesis every week).  Ddx also
+includes hypoalbuminemia (albumin 2.7 on [**2-23**]) vs. pulmonary
+complication of sarcoidosis vs. possible infectious process (WBC
+not elevated, afebrile) vs. malignancy (no recent Hx of weight
+loss) vs. recent onset diastolic dysfunction [**1-11**] sarcoidosis
+(new Echo results pending) vs. heart failure [**1-11**] pericardial
+effusion (seen on MRI, slight PR depressions on EKG).  No h/o
+heart failure (most recent echo in [**1-15**] shows normal LV
+function), cardiac enzymes negative X 3, Pt is s/p Right-sided
+thoracentesis on [**2-26**] in which 1.5 L of fluid was taken off--she
+was repleted with 12 g of albumin following her procedure.
+Follow-up CXR showed no significant change in bilateral pleural
+effusions and no pneumothorax.  Pleural specimen results were
+consistent with an exudative process--LDH effusion/LDH serum is
+157/163 which is significantly > 0.6 (Light's Criteria).
+However, has been on long-term chronic diuretic therapy which
+increases the concentration of LDH in peritoneum.  However, the
+serum-albumin gradient is > 1.2 meeting criteria for a
+transudative process.  Pulmonary was consulted regarding her
+recurrent pleural effusions--they opine that effusions are
+likely transudative [**1-11**] to asctes, but would like to r/o
+malignancy and diastolic heart dysfunction.  Pleuredesis may not
+be effective in this patient due to the frequent recurrence of
+effusion.  Patient eventually underwent pleurodesis+pleural bx
+which has stopped the fluid from re-accumulating.  Pleural
+biopsy showed inflammation, but no granulomas, no malignancy was
+identified.  Pleural effusions were shown to be stable by
+multiple xrays.  Patient does retain some degree of dyspnea most
+likely due to atelectasis and deconditioning.
+.
+Pericardial effusion: Earlier in the week, Mrs. [**Known patient lastname **] was
+noted so be a bit more hypotensive and a bit more short of
+breath.  An Echocardiogram revealed a small to moderate sized
+pericardial effusion with right atrial collapse during diastole.
+ This could have been low intravascular volume or early
+tamponade.  Pulsus paradoxus ranged from [**3-21**] over a few days.
+On [**3-15**], bc seemed even more dyspneic and despite the lower
+concern for tamponade, it was felt important to accurately make
+the diagnosis so she was brought to the CCU for Right heart
+catheterization.  RHC showed low filling pressures (PCWP 11, CVP
+7, PAP 22/5).  After fluid resusitation (albumin and rbcs
+given), pressures were better (PCWP 16, CVP 13, PAP 32/20).
+Systolic pressures remained in 80s.  This was NOT felt to be
+tamponade physiology.  The effusion has not enlarged based on
+multiple echos.  A cardiac MRI was performed and the read was
+pending on the time of discharge.  ? cardiac sarcoid, causing
+pericardial effusion.
+.
+*  Cirrhosis/Ascites--[**1-11**] sarcoid liver disease--patient has
+persistently elevated Tbili & AlkPhos and slightly elevated AST.
+ Thrombocytopenia and hypoalbuminemia indicate synthetic
+dysfunction.  Initially, abdominal U/S shows a large amount of
+ascites--the ascites chemistries are notable for only 5% PMNs
+arguing against a bacterial infection.  The SAAG is calculated
+to be 1.6, confirming portal hypertension related ascites.
+Abdominal/Pelvic MRI showed attenuated patent main and right
+portal veins, a very thin vessel within the left lobe that may
+represent a recanalized left portal vein, (however, connection
+with the main portal vein is not appreciated), an attenuated but
+patent SMV, and a widely patent splenic vein.  Patient has grade
+II varices, s/p 1 banding, was due for the second banding, not
+performed during this admission due to complicated medical
+situation.  The patient will follow up this issue after
+discharge.
+.
+*  h/o bacteremia (Blood Cx Staph Aureus Coag + on
+[**2524-11-21**])/thigh abcesses (wound cx positive for Strep Milleri on
+[**2524-12-8**]) [**1-11**] ?endocarditis
+--Vancomycin was D/C on [**3-2**] as MRI showed interval resolution
+of the multiple fluid collections within the right thigh as
+compared to imaging done on [**2525-1-5**].
+.
+So, in summary:
+
+58 yo woman with hepatic sarcoid. Diagnosed with pulmonary
+sarcoid in [**2515**], stopped chronic Prednisone for pulmonary
+sarcoid in [**2519**] as per the pulmonary clinc. Had esophageal
+variceal bleed in [**3-14**] requiring banding. Subsequent banding
+sessions not successful at eradicating esophageal varices.
+Developed presumed endocarditis and R thigh abscess (cx grew out
+Strep milleri, TTE negative for vegetations) in [**11-13**]. Has been
+on chronic iv Vancomycin and Levofloxacin since [**11-13**] and is
+closely followed by ID. Admitted to [**Hospital1 68**] on [**2525-1-2**] to [**2525-1-26**]
+for elective TIPS placement due to esophageal varices. This was
+attempted but not successful due to distal main PV clot and
+clotted intrahepatic portal veins. She became hypotensive
+peri-TIPS procedure, requiring stay in ICU. During admission,
+had pretransplant evaluation, and right thigh abscess was
+reassessed, right thigh MRI showed decreased size of abscess,
+with no fluid collection that was amenable to drainage by
+radiology. ID recommends long-term Vanc and Levo, and plans to
+do repeat MRIs periodically. Negative P-MIBI. As for
+pretransplant status, still willing to consider for liver
+transplant, despite PV clots, because SMV was patent on
+abdominal MRI. Presented to Hospital in [**State 65**] on [**2525-2-20**] with 1
+day chest pain and shortness of breath. Found to have bilateral
+pleural effusions, which were tapped. Transferred to [**Hospital1 68**] for
+further eval. During long [**2525-1-2**] to [**2525-1-26**] hospital course,
+would typically get progressively short of breath as abdominal
+ascites reaccumulated, and generally needed a large volume
+paracentesis about once a week, when more than 3 L was removed,
+became hypotensive despite pre procedure Albumin, requiring
+short ICU stays. Last LVP at [**Hospital1 68**] was 4.5 L and tolerated OK.
+Shortness of breath was different from when ascites
+reaccumulated, chest pain is new, does not feel like her usual
+GERD pain. Large volume paracentesis. Recurrent exudative
+pleural effusions, also small-mod pericardial effusion, ?hepatic
+hydrothorax vs. other process. Got pleuroscopy with pleural bx
+and pleurodesis [**2525-3-9**]. Repeat MRI of thigh showed resolution
+of thigh abscess and now off abx. Repeat MRI abd shows patent
+SMV.
+[**Date range (1) 8058**]
+Pleural biopsy w/o granulomas. Has had low BP, hyponatremia.
+Holding off on diuretics due to dehydration. Bursts of atrial
+tachycardia and increased pulsus. ECHO with mod pericardial
+effusion. Started on Nadolol. Trnasferred to CCU for Swan to
+check pressure and R/O tamponade. PA diastolic pressures low
+suggesting underfilling. Replenished with improvement in PAD.
+Not a candidate for drainage since effusion is stable on
+repeated echo, ?cardiac sarcoid. Pulmonary does not feel this is
+pulm/cardiac sarcoid, rather there may be another reason for
+serositis. No steroids for now. Called out to floor. Stable from
+hepatology standpoint, ascites small, no peripheral edema,
+continuing to hold diuretics. Had slight drop in blood pressure,
+Nadolol held, afebrile.
+Still dyspneic, hypoxic, CXR showed persistent pleural effusion.
+No further W/U needed, but need aggressive pulm toilet and
+rehab.
+Card: fluid restriction
+Pulm: W/U for other serositis
+[**3-19**] ECHO: small pericardial effusion
+[**3-19**] US: mod ascites
+[**3-20**] card MRI: pending
+Plan:
+Patient will follow up with Dr. [**Last Name (STitle) **] to discuss further
+options about liver transplantation, esophageal banding and sbp
+prophylaxis, since last abdominal ultrasound showed
+re-accumulating ascites.
+
+
+Medications on Admission:
+Medications on Transfer
+1. Vancomycin 750 mg Q 24H for right thigh abscess which needs
+to be continued for 8-10 weeks (started at end of [**December 2524**])
+2. Lasix 20mg IV qd
+3.  Ditropan 10mg qd
+4. Levofloxacin 250mg qd
+5. Lamictal 25mg qd (pt states she take 50mg qd at home)
+6. Protonix 40mg qd
+7. Prozac 20mg qd
+8. Ursodiol 300mg [**Hospital1 12**]
+9. Lactulose tid
+10. nystatin swish and swallow
+11. albuterol inhaler
+.
+Additional Home Medications per Patient:
+Aldactone 50 mg tid (not given at OSH)
+Sucralfate 1 g [**Hospital1 **] - not given at OSH
+Nadolol 20mg qd  - d/c'ed [**1-11**] hypotension
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 213**] for the Aged - Acute Rehab
+
+Discharge Diagnosis:
+L pleural effusion
+Sarcoidosis-related liver cirrhosis
+Pericardial effusion
+Esophageal candidiasis
+Polyserositis
+Ascites
+Paroxysmal Atrial Tachycardida
+Hypotension
+
+
+Discharge Condition:
+stable, afebrile, ambulating with assistance
+
+
+Discharge Instructions:
+-please take your medications as directed
+-please follow up all outpatient appointments
+-please call your [**Hospital6 1130**] or go to the ER should you experience more
+shortness of breath, abdominal pain, fevers, chills, nausea,
+vomiting, diarrhea.
+
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 204**]
+Date/Time:[**2525-4-4**] 1:00
+.
+Dr. [**Last Name (STitle) 295**] (cardiology):  appointment to be arranged. Please
+call ([**Telephone/Fax (1) 1728**] to arrange an appointment.
+.
+please call your [**Telephone/Fax (1) 1130**] to make an appontment after discharge from
+extended care facility.
+
+
+
+Completed by:[**2525-3-27**]

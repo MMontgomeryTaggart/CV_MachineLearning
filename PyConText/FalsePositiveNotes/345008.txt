@@ -1,0 +1,224 @@
+Chief Complaint:
+   24 Hour Events:
+ BLOOD CULTURED - At [**2603-10-28**] 06:30 PM
+   Bl cultures x2 PICC and venipunctiure
+   [**10-26**] Blood cultures showed Gram Positive Cocci and he was started on
+   Daptomycin
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Daptomycin - [**2603-10-28**] 09:00 PM
+   Cefipime - [**2603-10-29**] 03:54 AM
+   Meropenem - [**2603-10-29**] 03:54 AM
+   Metronidazole - [**2603-10-29**] 03:54 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2603-10-28**] 12:00 PM
+   Enoxaparin (Lovenox) - [**2603-10-29**] 01:53 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**2603-10-29**] 08:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36
+C (96.8
+   HR: 102 (92 - 116) bpm
+   BP: 102/48(61) {92/39(57) - 141/63(79)} mmHg
+   RR: 27 (7 - 38) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 69 Inch
+    CVP: 7 (7 - 7)mmHg
+   Total In:
+                                                                  3,755 mL
+                                                                    876 mL
+   PO:
+   TF:
+                                                                  2,555 mL
+                                                                    486 mL
+   IVF:
+                                                                    950 mL
+                                                                    300 mL
+   Blood products:
+   Total out:
+                                                                  4,980 mL
+                                                                    280 mL
+   Urine:
+                                                                  4,130 mL
+                                                                    280 mL
+   NG:
+   Stool:
+                                                                    650 mL
+   Drains:
+   Balance:
+                                                                 -1,225 mL
+                                                                    596 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 395 (356 - 562) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 60
+   PIP: 26 cmH2O
+   SpO2: 100%
+   ABG: ///33/
+   Ve: 11.1 L/min
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Head, Ears, Nose, Throat: Normocephalic, Tracheostomy
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Bronchial:
+   , Wheezes : )
+   Abdominal: Soft, No(t) Non-tender, Bowel sounds present
+   Extremities: Right: 2+, Left: Trace
+   Skin:  Warm
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   256 K/uL
+   8.2 g/dL
+   140 mg/dL
+   0.4 mg/dL
+   33 mEq/L
+   3.9 mEq/L
+   28 mg/dL
+   113 mEq/L
+   147 mEq/L
+   26.1 %
+   8.4 K/uL
+        [image002.jpg]
+                            [**2603-10-23**]  05:15 AM
+                            [**2603-10-24**]  03:44 AM
+                            [**2603-10-25**]  04:16 AM
+                            [**2603-10-26**]  03:06 AM
+                            [**2603-10-27**]  03:08 AM
+                            [**2603-10-27**]  09:50 AM
+                            [**2603-10-27**]  08:46 PM
+                            [**2603-10-28**]  12:03 AM
+                            [**2603-10-28**]  03:28 PM
+                            [**2603-10-29**]  03:37 AM
+   WBC
+   6.6
+   7.2
+   6.2
+   8.7
+   7.5
+   10.1
+   8.4
+   Hct
+   30.1
+   28.1
+   29.2
+   30.8
+   23.8
+   24.0
+   26.0
+   28.1
+   26.3
+   26.1
+   Plt
+   274
+   282
+   288
+   [**Telephone/Fax (3) 6645**]
+   256
+   Cr
+   0.3
+   0.3
+   0.3
+   0.3
+   0.4
+   0.4
+   0.4
+   0.4
+   Glucose
+   89
+   94
+   101
+   119
+   139
+   135
+   126
+   140
+   Other labs: PT / PTT / INR:14.9/40.0/1.3, CK / CKMB /
+   Troponin-T:20/3/0.16, ALT / AST:[**9-18**], Alk Phos / T Bili:69/0.2,
+   Amylase / Lipase:36/25, Differential-Neuts:87.0 %, Band:0.0 %,
+   Lymph:6.8 %, Mono:5.7 %, Eos:0.4 %, D-dimer:881 ng/mL, Fibrinogen:386
+   mg/dL, Lactic Acid:0.7 mmol/L, Albumin:1.7 g/dL, LDH:142 IU/L, Ca++:7.6
+   mg/dL, Mg++:2.2 mg/dL, PO4:2.8 mg/dL
+   Assessment and Plan
+   75 year old man with CAD, PVD and chronic nonhealing ulcers, with a
+   complicated hospitalization most notable for recurrent
+   ventilator-associated pneumonias, now with persistent respiratory
+   failure possibly from a new right lung VAP
+   1.       Respiratory failure: possibly from new right lung VAP; volume
+   overload likely contributing; has numerous resistant organisms on prior
+   sputum/BAL cultures and has been lacking adequate gram-positive
+   coverage, in part due to allergies
+   -          Cont current regimen of meropenem/cefepime given patient
+   pulmonary function has remained stable and he is currently on trach
+   with O2 during the day; ID input appreciated in regards to [**10-24**] sputum
+   culture
+   -          Continue gentle diuresis as pressures tolerate to improve
+   volume status and lung effusions
+   -          Vent support as needed
+   -          Continue inhalers to help with wheezing, may be due to
+   volume
+   2.       Hypotension; improved on steroids, and increased cefepime dose
+   likely from pneumonia/sepsis as above; pleural effusion not consistent
+   with empyema
+   -          Wean hydrocortisone to 25 mg q12hr
+   -          Cont to hold beta blockers for now, if pressures stable
+   today with diuresis may consider low dose BB for heart rate control in
+   pm
+   3.       Anemia; source unclear, responded appropriately to blood
+   transfusion [**10-27**]. [**Month (only) 56**] be delayed bleed s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1120**] [**10-25**]
+   -          Guaiac stools
+   -          Trend HCT
+   4.       Fevers: likely pulmonary source as above; afebrile now for
+   48hrs, though steroids could be masking fevers
+   -          Follow up pending micro data; resend C Diff
+   -          F/u ID recs
+   -          Cont current antibiotics for now; can likely d/c
+   metronidazole if C Diff remains negative
+   5.       DVT
+   -          cont enoxaparin but hold warfarin given the likelihood of
+   him needing an additional invasive procedure
+   6.       Atrial fibrillation
+   -          hold beta blockade and warfarin as above; cont enoxaparin
+   7.       Ileus; resolving
+   -          cont metoclopramide and follow abdominal exam; minimize
+   opiods
+   8.       PVD
+   -          cont current analgesia regimen
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2603-10-28**] 11:59 PM 60 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2603-10-25**] 12:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

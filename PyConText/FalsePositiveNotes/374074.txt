@@ -1,0 +1,213 @@
+CVICU
+   HPI:
+   [**1-21**] POD4/1/0
+   61M s/p redo sternotomy, replace ascending aorta and hemiarch,
+   reimplantation of SVG to PDA, Fem-fem bypass, LLE fasciotomy, R
+   axillary artery cannulation, AVR (23 mm pericardial) [**1-16**]
+   Chest closure [**1-19**]. Ex lap, subtotal colectomy and Abd washout [**1-20**].
+   EF 35 Wt 80 Cre 1.1
+   PMHx: Duodenal ulcer, s/p CABG x2 [**66**] yrs ago, hyperlipidemia
+   [**Last Name (un) 500**]:[**Last Name (LF) 4372**], [**First Name3 (LF) 66**] 81, prilosec 40
+   ABX: zosyn
+   cultures: P
+   [**1-16**]- hypoxic,shock,GIbleed. Fluid,scoped,IV PPI gtt.GI and [**Last Name (NamePattern4) 4402**]
+   seeing.~1515 PEA episodes/hypoxic,etc. Chest opened, E lap. CV
+   better,massive ascites ,bowel OK. Paralyzed vec->cisatr/Fent/versed.
+   Belly/chest open. Reopened/retractor in.
+   [**1-19**] chest closed. HIT neg
+   [**1-20**] ex lap subtotal colectomy, washout.
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Albuterol-Ipratropium 5. Beclomethasone Dipropionate 6. Calcium
+   Gluconate
+   7. Chlorhexidine Gluconate 0.12% Oral Rinse 8. Ciprofloxacin 9.
+   Dextrose 50% 10. Epinephrine HCl
+   11. Fentanyl Citrate 12. Furosemide 13. Heparin 14. Influenza Virus
+   Vaccine 15. Insulin 16. Ipratropium Bromide Neb
+   17. Magnesium Sulfate 18. Midazolam 19. Milrinone 20. Norepinephrine
+   21. Pantoprazole 22. Piperacillin-Tazobactam Na
+   23. Potassium Chloride 24. Sodium Chloride 0.9% Flush 25. Sodium
+   Chloride 0.9% Flush 26. Vancomycin
+   27. Vasopressin
+   24 Hour Events:
+ [**1-20**]:Back to the OR for Abd. washout-subtotal colectomy-open ABD.
+   OR SENT - At [**3465-1-20**] 08:00 AM
+ OR RECEIVED - At [**3465-1-20**] 11:12 AM
+ ARTERIAL LINE - STOP [**3465-1-20**] 02:40 PM
+ ARTERIAL LINE - START [**3465-1-20**] 02:56 PM
+   Post operative day:
+   POD#1 - e lap, abd wash out,  subtotal colectomy
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ampicillin/Sulbactam (Unasyn) - [**3465-1-19**] 06:14 AM
+   Ciprofloxacin - [**3465-1-21**] 04:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3465-1-21**] 10:30 AM
+   Vancomycin - [**3465-1-21**] 11:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3465-1-20**] 04:56 PM
+   Insulin - Regular - [**3465-1-20**] 06:43 PM
+   Other medications:
+   Flowsheet Data as of  [**3465-1-21**] 04:07 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**67**] a.m.
+   HR: 98 (81 - 102) bpm
+   BP: 205/201(203) {113/54(71) - 205/201(203)} mmHg
+   RR: 29 (21 - 34) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 98.7 kg (admission): 80 kg
+   Height: 72 Inch
+   CVP: 18 (16 - 24) mmHg
+   PAP: (41 mmHg) / (27 mmHg)
+   CO/CI (Fick): (5 L/min) / (2.5 L/min/m2)
+   CO/CI (CCO): (6.1 L/min) / (3 L/min/m2)
+   SvO2: 60%
+   Mixed Venous O2% sat: 65 - 65
+   Total In:
+                                                                  4,664 mL
+                                                                  1,919 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  2,753 mL
+                                                                    838 mL
+   Blood products:
+                                                                    750 mL
+   Total out:
+                                                                  5,075 mL
+                                                                  2,969 mL
+   Urine:
+                                                                  3,425 mL
+                                                                  1,655 mL
+   NG:
+                                                                    500 mL
+                                                                    550 mL
+   Stool:
+   Drains:
+                                                                    430 mL
+                                                                    430 mL
+   Balance:
+                                                                   -411 mL
+                                                                 -1,049 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 521 (521 - 660) mL
+   PS : 15 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 32
+   PEEP: 12 cmH2O
+   FiO2: 50%
+   PIP: 28 cmH2O
+   Plateau: 21 cmH2O
+   SPO2: 95%
+   ABG: 7.44/40/91/25/2
+   Ve: 16.4 L/min
+   PaO2 / FiO2: 182
+   Physical Examination
+   Labs / Radiology
+   71 K/uL
+   10.8 g/dL
+   124 mg/dL
+   1.9 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   52 mg/dL
+   110 mEq/L
+   143 mEq/L
+   30.5 %
+   12.3 K/uL
+        [image002.jpg]
+                             [**3465-1-20**]  09:56 PM
+                             [**3465-1-21**]  03:47 AM
+                             [**3465-1-21**]  03:58 AM
+                             [**3465-1-21**]  05:27 AM
+                             [**3465-1-21**]  06:28 AM
+                             [**3465-1-21**]  07:05 AM
+                             [**3465-1-21**]  08:30 AM
+                             [**3465-1-21**]  08:59 AM
+                             [**3465-1-21**]  09:07 AM
+                             [**3465-1-21**]  03:47 PM
+   WBC
+   9.6
+   12.3
+   Hct
+   28.3
+   30.5
+   Plt
+    70
+   71
+   Creatinine
+   1.9
+   TCO2
+   28
+   30
+   29
+   28
+   28
+   Glucose
+   120
+   69
+   113
+   110
+   149
+   124
+   Other labs: PT / PTT / INR:16.5/31.4/1.5, ALT / AST:43/88, Alk-Phos / T
+   bili:227/8.9, Amylase / Lipase:105/30, Differential-Neuts:81.2 %,
+   Lymph:15.4 %, Mono:2.4 %, Eos:0.9 %, Fibrinogen:637 mg/dL, Lactic
+   Acid:1.4 mmol/L, Albumin:2.1 g/dL, LDH:473 IU/L, Ca:8.1 mg/dL, Mg:2.6
+   mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   ALTERED MENTAL STATUS (NOT DELIRIUM), HYPOXEMIA, .H/O ACIDOSIS,
+   RESPIRATORY, .H/O ABDOMINAL COMPARTMENT SYNDROME / INTRAABDOMINAL
+   HYPERTENSION (IAH, ACS), .H/O PEPTIC ULCER DISEASE (PUD), .H/O
+   TOBACCO USE, CURRENT, ALTERATION IN TISSUE PERFUSION, VALVE
+   REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan: [**1-21**] POD4/1/0
+   61M s/p redo sternotomy, replace ascending aorta and hemiarch,
+   reimplantation of SVG to PDA, Fem-fem bypass, LLE fasciotomy, R
+   axillary artery cannulation, AVR (23 mm pericardial) [**1-16**]
+   Chest closure [**1-19**]. Ex lap, subtotal colectomy and Abd washout [**1-20**].
+   Neurologic: Neuro checks Q: 2 hr, All sedation on hold. Need to assess
+   mental status.
+   Cardiovascular: Weaned Milrinone to off. All pressors weaned to
+   off.Hemodynamically stable.
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), Continue vent
+   support. +A/L all CTs->left PTX. increased sxn-open communication.
+   Dr.[**First Name (STitle) **] aware. Wean FIO2/ PEEP as tol.
+   Gastrointestinal / Abdomen:
+   Nutrition: TPN, Cont nutritional support via TPN
+   Renal: Foley, Adequate UO, Negative fluid balance goal 1-1.5L in 24H.
+   Responds weel to Lasix. BUN/Cr: 50/2.0
+   Hematology: Stable anemia. thrombocytopenia persists PLTs:70
+   Endocrine: RISS
+   Infectious Disease: Check cultures, CXs pnd. Cont VAP ABX empirically
+   Lines / Tubes / Drains: Foley, OGT, ETT, Surgical drains (hemovac, JP),
+   Chest tube - pleural , Chest tube - mediastinal, Pacing wires
+   Wounds: Open ABD.
+   Imaging: CXR today
+   Fluids:
+   Consults: General surgery, CT surgery
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3465-1-20**] 04:56 PM 68 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Insulin in TPN
+   Lines:
+   CCO PAC - [**3465-1-19**] 02:33 PM
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] - [**3465-1-19**] 04:51 PM
+   Arterial Line - [**3465-1-20**] 02:56 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU

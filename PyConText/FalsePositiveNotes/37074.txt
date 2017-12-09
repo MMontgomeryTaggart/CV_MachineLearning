@@ -1,0 +1,374 @@
+Admission Date:  [**2996-12-24**]              Discharge Date:   [**2996-12-27**]
+
+Date of Birth:  [**2941-3-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Gadolinium-Containing Agents
+
+Attending:[**First Name3 (LF) 107**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterisation
+
+History of Present Illness:
+55 y/o M with PMH of prostate cancer s/p XRT but no other
+significant past medical history and no cardiac risk factors who
+presents with an STEMI. Around 1:30 PM noted the sudden onset of
+chest pain and presented to [**First Name4 (NamePattern1) 294**] [**Last Name (NamePattern1) **] where na ECG showed [**Street Address(2) **] elevations in leads I, aVL, V4-6. Got ASA, plavix lead, and
+heparin, and was transfered emergently to the [**Hospital1 22**] cath lab
+where angiography demonstrated a total occlusion of the very
+distal LAD. LV gram showed a normal EF with apical AK. An
+attempt was made to open the lesion with a wire as it was too
+small for stention or balloon angioplasty, but this was not
+effective. Given the small area at risk, a decision was made to
+treat medically to avoid a potential procedural complication.
+Post procedure the patient had some mild [**2994-12-20**] chest discomfort
+that was similar to his presenting pain. In the setting of
+hypertension to the 160s, the patient was started on a nitro
+drip with improvement of his pain, although he continues to
+complain of intermittent chest pain. The patient is admitted to
+the CCU in stable condition.
+
+In the CCU, he contiues to complain of intermettient [**2994-12-20**]
+chest pain, no palpitations, dyspnea/ abdominal pain.  Has been
+eating, drinking, urinating normally.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. he denies recent fevers, chills or rigors.
+S/he denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Hypertension
+2. CARDIAC HISTORY:  none
+3. OTHER PAST MEDICAL HISTORY:
+prostate cancer s/p TURP, hormonal therapy, EBRT.  Last PSA
+([**2996-6-23**]) was at nadir at 0.2
+
+Social History:
+He is accompanied to this visit by his wife.  [**Name (NI) **]
+is currently living in [**Location (un) 1211**], [**State 1289**].  He is a federal
+auditor who works downtown.  He denies a history of tobacco
+consumption.  He notes seldom alcohol use.
+
+Family History:
+He reports a history of throat cancer in his
+father diagnosed at the age of 69 and a history of prostate
+cancer in his paternal cousin diagnosed at the age of 60.
+Mother and maternal uncles died of heqart disease in their 70s
+and 80s.
+
+Physical Exam:
+On admission:
+VS: 66, 140/72, 14, 100/2L NC
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 7 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.  TR band in place
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+At discharge:
+Vitals: Tm 100.6 at 6pm yesterday. 109-130s/60-80s, 57-64 18
+99%RA
+2L in >1.4out
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 7 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.  TR band in place.
+right foot tender to palpation on lateral mid dorsum of foot
+with mildly swollen ankle compared to left foot. extremely
+tender to palpation and with passive or active movement.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**2996-12-24**] 06:31PM BLOOD WBC-11.0# RBC-4.94 Hgb-13.1* Hct-38.2*
+MCV-77* MCH-26.6* MCHC-34.3 RDW-14.6 Plt Ct-UNABLE TO
+[**2996-12-25**] 04:19AM BLOOD WBC-10.1 RBC-4.55* Hgb-12.0* Hct-34.8*
+MCV-77* MCH-26.3* MCHC-34.4 RDW-14.7 Plt Ct-273
+[**2996-12-26**] 04:30AM BLOOD WBC-10.2 RBC-5.46 Hgb-14.3 Hct-42.6
+MCV-78* MCH-26.2* MCHC-33.6 RDW-15.0 Plt Ct-265
+[**2996-12-27**] 05:15AM BLOOD Neuts-75.3* Lymphs-15.8* Monos-5.8
+Eos-1.9 Baso-1.3
+[**2996-12-24**] 06:27PM BLOOD PT-12.1 PTT-63.5* INR(PT)-1.1
+[**2996-12-25**] 04:19AM BLOOD PT-13.2* PTT-150* INR(PT)-1.2*
+[**2996-12-25**] 04:19AM BLOOD Plt Ct-273
+[**2996-12-27**] 05:15AM BLOOD PT-13.7* PTT-65.5* INR(PT)-1.3*
+[**2996-12-27**] 05:15AM BLOOD Plt Ct-270
+[**2996-12-24**] 06:31PM BLOOD Glucose-142* UreaN-14 Creat-1.2 Na-139
+K-3.7 Cl-102 HCO3-23 AnGap-18
+[**2996-12-25**] 04:19AM BLOOD Glucose-121* UreaN-11 Creat-1.1 Na-139
+K-3.4 Cl-105 HCO3-23 AnGap-14
+[**2996-12-25**] 11:58AM BLOOD Na-137 K-4.3 Cl-105
+[**2996-12-26**] 04:30AM BLOOD Glucose-101* UreaN-15 Creat-1.4* Na-140
+K-4.5 Cl-103 HCO3-26 AnGap-16
+[**2996-12-26**] 05:15PM BLOOD UreaN-15 Creat-1.3*
+[**2996-12-27**] 05:15AM BLOOD Glucose-105* UreaN-13 Creat-1.4* Na-140
+K-3.9 Cl-105 HCO3-28 AnGap-11
+[**2996-12-25**] 04:19AM BLOOD CK(CPK)-5734*
+[**2996-12-25**] 11:58AM BLOOD CK(CPK)-6034*
+[**2996-12-25**] 09:00PM BLOOD CK(CPK)-5426*
+[**2996-12-26**] 04:30AM BLOOD CK(CPK)-4517*
+[**2996-12-27**] 05:15AM BLOOD CK(CPK)-[**2933**]*
+[**2996-12-24**] 06:31PM BLOOD CK-MB-9 cTropnT-0.05*
+[**2996-12-25**] 04:19AM BLOOD CK-MB-50* MB Indx-0.9 cTropnT-1.03*
+[**2996-12-25**] 11:58AM BLOOD CK-MB-62* MB Indx-1.0 cTropnT-1.37*
+[**2996-12-25**] 09:00PM BLOOD CK-MB-30* MB Indx-0.6 cTropnT-1.20*
+[**2996-12-26**] 04:30AM BLOOD CK-MB-18* MB Indx-0.4 cTropnT-1.09*
+[**2996-12-24**] 06:31PM BLOOD Calcium-9.3 Phos-2.4* Mg-2.2 Cholest-211*
+[**2996-12-25**] 04:19AM BLOOD Calcium-8.4 Phos-3.9 Mg-2.0 Cholest-176
+[**2996-12-26**] 04:30AM BLOOD Calcium-9.5 Phos-3.4 Mg-1.9
+[**2996-12-27**] 05:15AM BLOOD Calcium-9.0 Phos-2.7 Mg-1.9 UricAcd-6.6
+[**2996-12-25**] 04:19AM BLOOD Triglyc-38 HDL-70 CHOL/HD-2.5 LDLcalc-98
+[**2996-12-26**] 09:45PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.013
+[**2996-12-25**] 09:45PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.010
+[**2996-12-26**] 09:45PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+[**2996-12-25**] 09:45PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+.
+[**2996-12-25**] CXR
+IMPRESSION: AP chest reviewed in the absence of prior chest
+radiographs:
+
+Normal heart, lungs, hila, mediastinum and pleural surfaces. No
+evidence of
+pneumonia or CHF.
+.
+[**2996-12-26**] Echocardiogram
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). No masses or
+thrombi are seen in the left ventricle. There is no ventricular
+septal defect. Right ventricular chamber size and free wall
+motion are normal. The right ventricular cavity is mildly
+dilated with normal free wall contractility. The diameters of
+aorta at the sinus, ascending and arch levels are normal. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic stenosis or aortic
+regurgitation. No masses or vegetations are seen on the aortic
+valve. The mitral valve leaflets are structurally normal. There
+is no mitral valve prolapse. No mass or vegetation is seen on
+the mitral valve. Mild (1+) mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. There is mild
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+A patent foramen ovale is present with right to left shunting of
+agitated saline contrast during Valsalva.
+.
+[**2996-12-26**] Lower Extremity doppler ultrasound
+No evidence of deep venous thrombosis in right or left lower
+extremity.
+.
+[**2995-12-25**] Cardiac Catheterisation
+Change for 6 French XB3 guide.  The initial plan was to pass the
+wire as the primary reperfusion device.  A Pilot 50 Wire was
+passed in a prolapsed fashion but this did not restore flow.
+Given that the patient was pain free and the small territory at
+risk, it was decided to avoid further attempts at recanalization
+(with balloon angioplasty) given risk of dissection,
+perforation.
+The patient had intermittent chest pain at the end of the
+procedure and was started on IV TNG and administered opiates
+with
+resolution of chest pain.  He left the laboratory in stable
+condition.
+.
+[**2996-12-27**] Foot XRay
+Three views show the bony structures and joint spaces to be
+essentially within normal limits. No dorsal swelling or evidence
+of erosion
+is appreciated. No calcaneal spurs.
+
+Brief Hospital Course:
+55 y/o M w/ PMH of prostate CA, HTN, presenting with distal
+apical NSTEMI.
+.
+# APICAL LAD STEMI:  Distal LAD thrombosis with distal apical
+infarct, s/p unsuccessful recanalisation during cardiac
+catheterisation.  No other evidence of coronoary atherosclerosis
+was found. Echocardiogram whowed preserved EF and no ventricular
+wall motion abnormalities. However, he was noted to have a
+patent formane ovale.  Given absence of atherosclerotic disease,
+PFO and known CA prostate, thromboembolic event from a possible
+proximal DVT remains a possible etiology for his STEMI.  Cardiac
+enzymes peaked [**2996-12-25**] and trended down prior to discharge. He
+was treated with a heparin drip for 2 days after the procedure,
+as well as aspirin, clopidogrel, metoprolol.  He was started on
+lisinopril and atorvastatin, but these were held in the setting
+of acute kidney injury.  He will need to continue aspirin
+lifelong and clopidogrel for at least one year given his
+prothrombotic state.  Atorvastation was restarted at the time of
+discharge.
+.
+# s/p CATH: unsuccessful attempt at wire recanalisation of
+distal LAD.
+.
+# THROMBOEMBOLISM: Cardiac cath shows no evidence of coronary
+atherosclerosis.  MI site is unusual and patient has PFO,
+history of prostate cancer, prothrombotic state. LENIs were
+negative, but did not include an evaluation of the iliac
+arteries.  He will continue aspirin and plavix for
+anticoagulation following discharge.
+.
+# Fever: Etiology unclear. UA, CXR clear.  Urine cultures and
+blood cultures pending.  However, timing of fever suggests
+possible link with gout flare.  Other etiologies include:
+infection, post-MI, thromboembolism/PE, B-symptoms from cancer.
+His fever curve trended down spontaneously prior to discharge.
+.
+# Thigh pain - bilateral. Could be from strenous workout pt
+reports. CKs coming down but CK so out of proportion elevated
+compared to MB. We just started statin which can cause myopathy
+but states thigh pain since presentation. Pt without significant
+CAD that we know of.  We held his statin, but restarted it at
+the time of discharge.
+.
+# [**Last Name (un) **]: Cr of 1.4 on [**2995-12-28**] up from baseline of 1.0.  Could be
+secondary to high
+CK. Uric acid was 6.6, urinalysis was clear.  We gave him a
+small fluid bolus.
+.
+# Right ankle pain - Most likely gout flair. pt with history of
+gout. A foot Xray was performed which showed no pathology.  His
+pain was controlled with percocet and colchicine.
+.
+# HTN: BP was high on presentation and he was initially on a
+nitro drip, but this was rapidly weaned and he was treated with
+metoprolol instead.  He was also started on lisinopril, but this
+was held given [**Last Name (un) **]. He will need reevaluation
+.
+# Cardiac Risk factors: patient has hypertension.
+Lipid panel was unremarkable.  HbA1C was pending at the time of
+discharge.
+.
+TRANSITIONAL ISSUES: ACE inhibitor was held due to creatinine
+elevation.
+Please reassess hypertension and creatinine as an outpatient and
+consider restarting an ACE inhibitor if indicated.
+
+Medications on Admission:
+BENZAPRIL 20 daily.  Patient not taking aspirin or vitamin D.
+
+Discharge Medications:
+1. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+as needed for pain.
+Disp:*14 Tablet(s)* Refills:*0*
+5. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for foot pain: please hold for sedation, if you
+feel drowsy, or if you have trouble breathing.  Please do not
+drive while taking this medication.
+Disp:*15 Tablet(s)* Refills:*0*
+6. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: ST elevation myocardial infarction
+Secondary: gout flare
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr. [**Known patient lastname **],
+
+It was a pleasure taking care of you at the [**Hospital1 2943**].  You were admitted with a heart
+attack. We performed a cardiac catheterization which showed a
+small blockage in the blood supply to the apex of your heart,
+but no other abnormalities in the blood flow to your heart.  We
+attempted to open this blockage, but were unable to do so and
+did not attempy further since the reduction of heart function
+was very small.  An echocardiogram was performed and this
+confirmed that your heart was beating normally.  The
+echocardiogram also showed that you have an open flap in your
+heart forming an abnormal connection between the right and left
+sides of your heart (a patent foramen ovale).  This kind of flap
+is found in over 10% of people.
+.
+We made the following changes to your medications:
+-STARTED Aspirin
+-STARTED Clopidogrel
+-STARTED Metoprolol
+-STARTED Atorvastatin
+-STARTED Oxycodone and Colchicine for pain
+-STOPPED your home benzapril
+
+Followup Instructions:
+Name: [**Last Name (LF) 13015**],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) **]: CARDIOLOGY/PRIMARY CARE
+Address: [**Street Address(2) 34198**],2ND FL, [**Location (un) **],[**Numeric Identifier 11162**]
+Phone: [**Telephone/Fax (1) 13016**]
+Appointment: TUESDAY [**1-3**] AT 4PM
+
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**2997-2-1**] at 9:00 AM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D. [**Telephone/Fax (1) 854**]
+Building: [**Hospital6 402**] [**Location (un) 855**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+.
+Please also followup with your oncologist: please call their
+office to make an appointment to see them within one month of
+this hospitalization.
+
+Department: SURGICAL SPECIALTIES
+When: THURSDAY [**2997-8-3**] at 10:30 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], M.D. [**Telephone/Fax (1) 2899**]
+Building: [**Hospital6 402**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+
+
+Completed by:[**2996-12-27**]

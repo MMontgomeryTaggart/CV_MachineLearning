@@ -1,0 +1,215 @@
+CVICU
+   HPI:
+   [**10-25**] POD 1
+   s/p CABG (LIMA>LAD, SVG>DIAG, SVG>OM) [**10-24**]
+   EF 35   Wt 105  Cr 1.0
+   PMH AWMI [**8-13**], LAD stent (DES)[**8-13**], apical LV thrombus, CAD,
+   hyperlipidemia, HTN, GERD, Anemia
+   [**Last Name (un) **] ASA 81', Plavix 75', Niaspan 1000', Prilosec 20', Wellbutrin 150',
+   Toprol xl 200', Lisinopril 10', Coumadin (LV thrombus), Lipitor 80'
+   Current medications:
+   Albuterol MDI  Aspirin Atorvastatin  BuPROPion  Clopidogrel  Docusate
+   Sodium  Morphine Sulfate  Niaspan. Oxycodone-Acetaminophen.
+   Pantoprazole Sucralfate
+   24 Hour Events:
+ INTUBATION - At [**3252-10-24**] 01:28 PM
+ INVASIVE VENTILATION - START [**3252-10-24**] 01:28 PM
+ OR RECEIVED - At [**3252-10-24**] 01:30 PM
+   s/p cabg x3
+ ARTERIAL LINE - START [**3252-10-24**] 01:30 PM
+ CORDIS/INTRODUCER - START [**3252-10-24**] 01:30 PM
+ PA CATHETER - START [**3252-10-24**] 01:30 PM
+ SPUTUM CULTURE - At [**3252-10-25**] 05:00 AM
+ FEVER - 102.6
+C - [**3252-10-24**] 08:00 PM
+   Post operative day:
+   POD#1 - s/p cabg x3
+   24hr. events   - Post op bleeding that was treated with protamine and
+   products.   hemodynamic  instability requiring escalation of pressors
+   and inotrope due to decreased cardiac ouput.  Remained sedated due to
+   hemodynamic instability.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**3252-10-25**] 09:00 AM
+   Infusions:
+   Fentanyl - 150 mcg/hour
+   Insulin - Regular - 3 units/hour
+   Norepinephrine - 0.2 mcg/Kg/min
+   Vasopressin - 3.6 units/hour
+   Epinephrine - 0.04 mcg/Kg/min
+   Midazolam (Versed) - 4 mg/hour
+   Other ICU medications:
+   Insulin - Regular - [**3252-10-24**] 08:00 PM
+   Pantoprazole (Protonix) - [**3252-10-25**] 12:00 AM
+   Fentanyl - [**3252-10-25**] 09:25 AM
+   Midazolam (Versed) - [**3252-10-25**] 09:35 AM
+   Vecuronium - [**3252-10-25**] 09:54 AM
+   Flowsheet Data as of  [**3252-10-25**] 11:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**56**] a.m.
+   Tmax: 39.2
+C (102.6
+   T current: 38
+C (100.4
+   HR: 92 (78 - 92) bpm
+   BP: 107/71(84) {77/50(60) - 140/88(108)} mmHg
+   RR: 0 (0 - 20) insp/min
+   SPO2: 98%
+   Heart rhythm: A Paced
+   Wgt (current): 112.1 kg (admission): 105 kg
+   Height: 69 Inch
+   CVP: 14 (10 - 25) mmHg
+   PAP: (34 mmHg) / (26 mmHg)
+   CO/CI (Thermodilution): (5.69 L/min) / (2.6 L/min/m2)
+   CO/CI (Fick): (5.1 L/min) / (2.3 L/min/m2)
+   SVR: 675 dynes*sec/cm5
+   SvO2: 56%
+   Mixed Venous O2% sat: 54 - 56
+   SV: 62 mL
+   SVI: 28 mL/m2
+   Total In:
+                                                                  8,092 mL
+                                                                  4,043 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  6,001 mL
+                                                                  3,138 mL
+   Blood products:
+                                                                  2,091 mL
+                                                                    875 mL
+   Total out:
+                                                                  2,040 mL
+                                                                  1,485 mL
+   Urine:
+                                                                  1,235 mL
+                                                                  1,120 mL
+   NG:
+                                                                    100 mL
+   Stool:
+   Drains:
+                                                                     15 mL
+   Balance:
+                                                                  6,052 mL
+                                                                  2,558 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 444 (283 - 6,000) mL
+   PS : 10 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 80%
+   RSBI Deferred: No Spon Resp
+   PIP: 29 cmH2O
+   Plateau: 24 cmH2O
+   SPO2: 98%
+   ABG: 7.29/46/95.[**Numeric Identifier 243**]/20/-4
+   Ve: 10.4 L/min
+   PaO2 / FiO2: 119
+   Physical Examination
+   General Appearance: Intubated / sedated
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   diffuse L>R), (Sternum: Stable )
+   Abdominal: Soft nontender, nondistended, hypoactive Bowel sounds
+   Left Extremities: (Edema: +1), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: +1), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Moves all extremities spontaneously no purposeful movement
+   Labs / Radiology
+   276 K/uL
+   9.4 g/dL
+   107 mg/dL
+   1.0 mg/dL
+   20 mEq/L
+   4.4 mEq/L
+   15 mg/dL
+   112 mEq/L
+   138 mEq/L
+   26.9 %
+   17.7 K/uL
+                             [**3252-10-24**]  06:10 PM
+                             [**3252-10-24**]  09:01 PM
+                             [**3252-10-24**]  09:10 PM
+                             [**3252-10-24**]  11:00 PM
+                             [**3252-10-24**]  11:26 PM
+                             [**3252-10-25**]  12:17 AM
+                             [**3252-10-25**]  12:18 AM
+                             [**3252-10-25**]  04:10 AM
+                             [**3252-10-25**]  04:22 AM
+                             [**3252-10-25**]  09:56 AM
+   WBC
+   17.7
+   Hct
+   27.5
+   27.3
+   26.9
+   Plt
+   293
+   276
+   Creatinine
+   1.0
+   TCO2
+   22
+   22
+   22
+   23
+   Glucose
+   168
+   106
+   116
+   98
+   118
+   107
+   Other labs: PT / PTT / INR:14.5/28.6/1.3, Fibrinogen:353 mg/dL, Lactic
+   Acid:1.2 mmol/L, Mg:2.5 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan: maintains hemodynamic stability with pressors. TEE
+   at bedside shows no echo evidence of tamponade. Plan to continue
+   present course and transfuse blood as needed.
+   Neurologic: Neuro checks Q 1 hr
+   Cardiovascular: Aspirin, Statins, plavix
+   Pulmonary: maintain ventilation, (Ventilator mode: CMV)
+   Gastrointestinal / Abdomen:  no tube feeds due to pressors
+   Renal: Foley
+ adequate urine output
+   Hematology:  transfuse with PRBC maintain HCT > 30
+   Endocrine:  cont insulin gtt
+   Infectious Disease: Check cultures
+   Lines / Tubes / Drains: Foley, OGT, ETT, Surgical drains (JP), Chest
+   tube - pleural , Chest tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today, TEE
+   Consults:  PT
+   ICU [**Name (NI) 146**]
+   Glycemic Control:  Insulin Gtt
+   Lines:
+   Arterial Line - [**3252-10-24**] 01:30 PM
+   Cordis/Introducer - [**3252-10-24**] 01:30 PM
+   PA Catheter - [**3252-10-24**] 01:30 PM
+   16 Gauge - [**3252-10-24**] 01:50 PM
+   Prophylaxis:
+   DVT: SCD
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above.   On multiple inotropes/pressors now.  Will check
+   echo to see if any evidence of tamponade.  He may need to be
+   reexplored.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 749**] [**Last Name (NamePattern1) **], MD
+   on:[**3252-10-25**] 12:49 ------

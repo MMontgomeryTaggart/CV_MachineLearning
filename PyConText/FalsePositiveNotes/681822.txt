@@ -1,0 +1,236 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - increasing respiratory distress requiring BiPAP in am which was able
+   to be weaned off in pm
+   - Bumex held, Chlorothiazide 500mg IV x1 and Lasix 120mg IV bolus in AM
+   - CXR with pulmonary edema vs PNA
+   - restarted vanco/ cipro/ cefepime
+   - decreased rate of carvedilol, d/ced isosorbide/nifedipine
+   - started nitro gtt
+   - restarted home Lantus at 10 Units (takes 14 at home)
+   Allergies:
+   Indomethacin
+   GIB;
+   Ace Inhibitors
+   HYPERKALEMIA;
+   Anti-Inflam/Antiarth Agents Misc. Classf
+   GIB;
+   Last dose of Antibiotics:
+   Vancomycin - [**3372-12-14**] 10:30 AM
+   Ciprofloxacin - [**3372-12-14**] 12:00 PM
+   Cefipime - [**3372-12-14**] 02:00 PM
+   Infusions:
+   Nitroglycerin - 0.24 mcg/Kg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**3372-12-14**] 08:30 AM
+   Other medications:
+   Plavix
+   Atorvostatin
+   Aspirin
+   Carvedilol
+   Albuterol
+   Ipratroprium
+   Folic acid
+   Senna
+   docusate
+   Changes to medical and family history:
+   Breathing improved, productive cough; denies any chest discomfort, PND
+   or orthopnea.  Still c/o constipation Review of systems is unchanged
+   from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3372-12-15**] 06:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 36.8
+C (98.3
+   HR: 75 (69 - 88) bpm
+   BP: 125/55(72) {95/46(63) - 133/72(81)} mmHg
+   RR: 16 (13 - 34) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+             Total In:
+                                                                  1,120 mL
+                                                                    196 mL
+   PO:
+                                                                    580 mL
+                                                                    180 mL
+   TF:
+   IVF:
+                                                                    540 mL
+                                                                     16 mL
+   Blood products:
+   Total out:
+                                                                  2,105 mL
+                                                                    540 mL
+   Urine:
+                                                                  2,105 mL
+                                                                    540 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -985 mL
+                                                                   -344 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Spontaneous): 477 (460 - 477) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 26
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   PIP: 15 cmH2O
+   SpO2: 94%
+   ABG: 7.34/56/99.[**Numeric Identifier 237**]/32/2
+   Ve: 10.9 L/min
+   PaO2 / FiO2: 167
+   Physical Examination
+   GENERAL: lying in bed, in mild respiratory distress
+   HEENT: Normocephalic, atraumatic. No conjunctival pallor. No scleral
+   icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No LAD, No
+   thyromegaly.
+   CARDIAC: Regular rhythm, normal rate. Normal S1, S2. 3/6 SEM at LUSB.
+   JVP at 10cm
+   LUNGS: tachypnea, using accessory muscle of respiration; diffuse
+   expiratory  wheeze with bibasilar rales
+   ABDOMEN: NABS. Soft, NT. Distended. No HSM
+   EXTREMITIES: +[**1-17**] PE to mid-ankles b/L.  no calf pain, 2+ dorsalis
+   pedis/ posterior tibial pulses.
+   SKIN: No rashes/lesions, ecchymoses.
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+   186 K/uL
+   8.6 g/dL
+   177 mg/dL
+   1.8 mg/dL
+   32 mEq/L
+   3.4 mEq/L
+   57 mg/dL
+   99 mEq/L
+   139 mEq/L
+   27.4 %
+   5.0 K/uL
+        [image002.jpg]
+                            [**3372-12-11**]  04:09 PM
+                            [**3372-12-12**]  06:41 AM
+                            [**3372-12-12**]  05:08 PM
+                            [**3372-12-13**]  12:26 AM
+                            [**3372-12-13**]  06:31 AM
+                            [**3372-12-14**]  03:57 AM
+                            [**3372-12-14**]  09:23 AM
+                            [**3372-12-14**]  10:27 AM
+                            [**3372-12-14**]  02:55 PM
+                             [**3372-12-15**]  05:11 AM
+   WBC
+   5.9
+   5.8
+   5.7
+   5.0
+   Hct
+   29.1
+   28.8
+   28.7
+   27.4
+   Plt
+   164
+   199
+   193
+   186
+   Cr
+   1.4
+   1.4
+   1.4
+   2.2
+   2.1
+   1.8
+   TropT
+   <0.01
+   0.03
+   0.76
+   0.97
+   0.86
+   TCO2
+   32
+   32
+   Glucose
+   93
+   118
+   185
+   255
+   277
+   177
+   Other labs: PT / PTT / INR:13.3/35.4/1.1, CK / CKMB /
+   Troponin-T:116/11/0.86, ALT / AST:[**12-29**], Alk Phos / T Bili:73/0.3,
+   Differential-Neuts:82.5 %, Lymph:11.0 %, Mono:5.6 %, Eos:0.7 %, Lactic
+   Acid:1.0 mmol/L, Albumin:3.4 g/dL, Ca++:8.6 mg/dL, Mg++:2.3 mg/dL,
+   PO4:4.2 mg/dL
+   Assessment and Plan
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+   Mr [**Known patient lastname 10311**] is a [**Age over 90 363**] year-old man with a history of severe CAD s/p CABG x
+   2 and multiple PCIs, dCHF, DM, and CKD who presents with shortness of
+   breath and respiratory distress
+   # Respiratory failure:  Exacerbation of respiratory distress yesterday:
+   pulmonary edema secondary to ischemia vs new PNA improved with
+   conservative management.  Saturating 97% on 4LNC.  S/p diuresis of 3.7
+   L since admission, now appears euvolemic to hypovolemic.   Remains
+   afebrile with no leukocytosis, productive cough.
+   - CXR this am to further delineate PNA vs pulmonary edema
+   - cont vanco/cefepime/clinda for empiric ABX HAP
+   - restart abx for HAP and asp pneumonia: vancomycin/ cefepime/
+   clindamycin
+   - start nitro gtt for presumed
+   - strict I/O with goal fluid balance equal
+   .
+   # CAD s/p CABGx2 and multiple stents, currently on medical
+   mangagement:  Pt with substernal CP and back pain (anginal equivalent)
+   yesterday. Newly CE + in the setting of renal insufficiency, suggestive
+   of ischemic event.
+   - continue ASA, clopidogrel, atorvastatin
+   - start on nitro gtt
+   - repeat EKG
+   # HTN: Currently controlled. Home regimen includes BB and CCB.
+   -          decrease dose carvedilol, d/c nifedepine and Isosorbid
+   -          start on nitro gtt in setting presumed pulmonary edema
+   #  Acute on Chronic kidney injury:  Increased creatinine with
+   aggressive diuresis: creatinine 2.2 from baseline of 1.3.  Likely
+   indicative of  intravascular depletion.  Has had acute renal failure in
+   setting of diuresis in past, including previous admission for CHF
+   exacerbation.
+   - trend creatinine
+   - renally dose meds
+   - strict I/O with goal fluid balance 0 cc/24hrs
+   #  MDS/ Chronic Normocytic Anemia: Patient has known chronic anemia at
+   baseline thought [**2-17**] myelodysplasia. Followed by Heme as outpatient. On
+   Epo injections.
+   - trend hct
+   # Diabetes type 2: hyperglycemia improved with lantus dose
+   - finger sticks qachs
+   - continue lantus and ISS
+   FEN:
+   PPX:  SQH
+   ACCESS: PIV's
+   CODE STATUS: Full
+   DISPOSITION:  CCU
+   ICU Care
+   Nutrition: regular diet
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3372-12-12**] 05:13 PM
+   20 Gauge - [**3372-12-12**] 10:09 PM
+   Prophylaxis:
+   DVT: heparin
+   Stress ulcer: ranitidine
+   VAP:
+   Comments: Bowel regimen: docusate, senna, bisacodyl; add milk of
+   magnesia
+   Communication:  Comments: wife [**Name (NI) 9053**] [**Telephone/Fax (1) 10305**]
+   [**Name2 (NI) 62**] status: Full code
+   Disposition:

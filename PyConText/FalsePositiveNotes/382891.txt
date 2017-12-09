@@ -1,0 +1,359 @@
+Chief Complaint:
+   24 Hour Events:
+ PAN CULTURE - At [**3391-2-16**] 12:00 PM
+   Urine,stool,sputum
+ BLOOD CULTURED - At [**3391-2-16**] 12:20 PM
+ EKG - At [**3391-2-16**] 11:15 PM
+ CARDIOVERSION/DEFIBRILLATION - At [**3391-2-17**] 12:02 AM
+   150J
+ CARDIOVERSION/DEFIBRILLATION - At [**3391-2-17**] 01:38 AM
+   24 Hour Events:
+   She was restarted on CVVH during the afternoon after being off for 8
+   hours
+   TPN was d/c'd as she was at goal on her tube feedings
+   Started long acting insulin, glargine 15 units SQ (was on [**Hospital1 **] glargine
+   as outpatient)
+   temp up to 100.8, blood cultures sent
+   Around midnight she went into SVT at 150bpm Aflutter/fib and dropped
+   her pressure to systolic 80's in the setting of CVVH at 200 ml/hr.  She
+   was given IVF bolus of 1.5L total with no improvement.  SBP's further
+   dropped to the 70's systolic, she was briefly started on levophed while
+   preparing to cardiovert and she was cardioverted with 150 Joules x1
+   with conversion to NSR.  Levophed was d/c'd immediately following
+   cardioversion.  After 1.5 hours she again went into afib/flutter and
+   dropped her blood pressure.  She was given amiodarone bolus of 150mg
+   and started on a drip and again cardioverted with 150 J.  She had
+   several short episodes of recurrant afib/flutter and dips in her blood
+   pressure to MAP's 45-50.  She was briefly restarted on levophed however
+   this was discontinued due to recurrant afib.  She was then given 100mg
+   albumin with stabilization of her BP with MAP's in the 50's.
+   Allergies:
+   Aspirin
+   rectal bleeding
+   Penicillins
+   Rash; Hives;
+   Sulfonamides
+   aseptic menigi
+   Biaxin (Oral) (Clarithromycin)
+   Diarrhea;
+   Levaquin (Oral) (Levofloxacin)
+   Rash;
+   Cefzil (Oral) (Cefprozil)
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   aseptic meningi
+   Erythromycin Base
+   Rash;
+   Last dose of Antibiotics:
+   Metronidazole - [**3391-2-14**] 08:34 AM
+   Fluconazole - [**3391-2-14**] 08:00 PM
+   Meropenem - [**3391-2-17**] 12:00 AM
+   Infusions:
+   Norepinephrine - 0.15 mcg/Kg/min
+   Amiodarone - 1 mg/min
+   KCl (CRRT) - 1 mEq./hour
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3391-2-16**] 08:00 PM
+   Hydromorphone (Dilaudid) - [**3391-2-16**] 08:00 PM
+   Midazolam (Versed) - [**3391-2-17**] 01:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3391-2-17**] 07:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 36.2
+C (97.1
+   HR: 72 (72 - 160) bpm
+   BP: 92/48(63) {62/27(42) - 121/58(78)} mmHg
+   RR: 24 (12 - 28) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 59.9 kg (admission): 64 kg
+   Height: 64 Inch
+    CVP: 26 (8 - 26)mmHg
+   Total In:
+                                                                  8,700 mL
+                                                                  2,139 mL
+   PO:
+   TF:
+                                                                  1,464 mL
+                                                                     66 mL
+   IVF:
+                                                                  5,636 mL
+                                                                  1,579 mL
+   Blood products:
+                                                                    373 mL
+   Total out:
+                                                                  6,551 mL
+                                                                    542 mL
+   Urine:
+                                                                    254 mL
+                                                                     82 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  1,195 mL
+                                                                    460 mL
+   Balance:
+                                                                  2,149 mL
+                                                                  1,597 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 450 (402 - 450) mL
+   PS : 10 cmH2O
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 34 cmH2O
+   Plateau: 29 cmH2O
+   SpO2: 97%
+   ABG: 7.38/38/110/20/-1
+   Ve: 8 L/min
+   PaO2 / FiO2: 275
+   Physical Examination
+   General Appearance: jaundiced, anasarca, intubated and sedated,
+   tremulous with stimulation
+   Eyes / Conjunctiva: PERRL, conjunctival icterus
+   Head, Ears, Nose, Throat: NG tube
+   Cardiovascular: RRR s1 s2 no appreciable murmur
+   Lungs: vented breath sounds, decreased BS at the bases, no wheezing
+   Peripheral Vascular: extremities warm, pitting edema throughout upper
+   and lower extremities
+   Abdominal: distended, Soft, grimaces with palpation, no peritoneal
+   signs, positive bowel sounds, prior paracentesis site continues to
+   drain high volume of ascites fluid
+   Skin:  Jaundice, no bleeding
+   Neurologic: opens eyes to voice, tremulous with stimulous,
+   intermittently makes eye contact
+   [**Name (NI) 347**] / Radiology
+   83 K/uL
+   9.0 g/dL
+   227 mg/dL
+   0.5 mg/dL
+   20 mEq/L
+   4.7 mEq/L
+   37 mg/dL
+   104 mEq/L
+   139 mEq/L
+   26.0 %
+   24.1 K/uL
+        [image002.jpg]
+                             [**3391-2-16**]  05:29 PM
+                             [**3391-2-16**]  09:49 PM
+                             [**3391-2-16**]  10:10 PM
+                             [**3391-2-16**]  11:30 PM
+                             [**3391-2-16**]  11:34 PM
+                             [**3391-2-17**]  01:18 AM
+                             [**3391-2-17**]  02:08 AM
+                             [**3391-2-17**]  02:16 AM
+                             [**3391-2-17**]  03:51 AM
+                             [**3391-2-17**]  04:01 AM
+   WBC
+   22.6
+   24.1
+   Hct
+   27.6
+   26.0
+   Plt
+   71
+   83
+   Cr
+   0.6
+   0.6
+   0.5
+   TCO2
+   29
+   30
+   23
+   22
+   24
+   23
+   Glucose
+   194
+   176
+   246
+   227
+   Other [**Year (4 digits) **]: PT / PTT / INR:34.4/101.4/3.6, CK / CKMB /
+   Troponin-T:19//0.05, ALT / AST:51/152, Alk Phos / T Bili:122/34.9,
+   Amylase / Lipase:15/26, Differential-Neuts:93.0 %, Band:1.0 %,
+   Lymph:3.0 %, Mono:3.0 %, Eos:0.0 %, D-dimer:6342 ng/mL, Fibrinogen:175
+   mg/dL, Lactic Acid:2.4 mmol/L, Albumin:2.9 g/dL, LDH:307 IU/L,
+   Ca++:10.5 mg/dL, Mg++:2.5 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+ TACHYCARDIA, OTHER
+ HEPATORENAL SYNDROME
+ IMPAIRED SKIN INTEGRITY
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ OLIGURIA/ANURIA
+ HYPOGLYCEMIA
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**])
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ AROUSAL, ATTENTION, AND COGNITION, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ ALTERATION IN NUTRITION
+ ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name 73**])
+ [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   42 y/o F with Common VID, HepC cirrhosis/ESLD, h/o cryptosporidium in
+   the past, Type 1 DM, presenting with c. diff sepsis, c/b ARDS and
+   respiratory failure s/p trach, as well as pseudomonal VAP and [**Female First Name (un) 459**],
+   now with ARF on CVVH
+   .
+   #Unstable Atrial fibrillation
+ required amiodarone gtt and
+   cardioversion for Afib with RVR with MAP ~39-45, since starting
+   amiodarone and giving 100g IV albumin.  Likely [**12-20**] underlying
+   multiorgan dysfunction and volume shifts with CVVH.
+   -continue amio gtt
+   -conservative volume removal with CVVH
+   .
+   # Sepsis/Infection:  Initially presented with C.diff sepsis now s/p
+   Xigris and IVIG.  Her colitis appeared improved on serial CT scans of
+   the abdomen.  She has remained afebrile with stable lactate.   Scope
+   was deferred due to risk of perforation.  She then developed fever,
+   respiratory distress, and concern for VAP.  Initial BAL neg but treated
+   with meropenem [**1-30**] x8 days.  Sputum cx on [**2-9**] grew pseudomonas.  She
+   was restarted on meropenem, vanco D/Cd [**2-4**].  Micofungin added [**1-31**],
+   d/c
+d [**2-3**].  Sinus CT findings raised concern for  sinusitis but was
+   impossible to say definitively, getting nasal NS.   WBC also started to
+   increase from 22 to 34 but remained afebrile.  Cultured broadly, so far
+   negative except [**Female First Name (un) 459**] in urinet.   CT abdomen/pelvic [**2-10**] was
+   unremarkable.   Paracentesis [**2-10**] unremarkable.
+   Now patient is stable on broad antimicrobials, being treated for her C.
+   diff, pseudomonal VAP, as well as urinary [**Female First Name (un) 459**]/thrush.  She remains
+   afebrile off pressors.
+   - C. diff colitis: Cont PO Vanco for C.diff (Flagyl D/Cd due to
+   thrombocytopenia) -> cont to 2wks after completing other antbx
+   - Pseudomonal VAP: Cont meropenem x15 days through [**2-24**] (d1=[**2-10**]).  Was
+   on vanco initially though stopped [**2-12**].
+   - Cont to trend WBC, fever curve
+   - f/u blood cultures
+   -dose IVIG weekly Q Saturday
+   - check SPEP on [**3391-2-18**]
+   - On trophic TFs
+   .
+   # HCV Cirrhosis/ESLD:  Chronic HCV infection. Liver consult team
+   following.  Transaminases stable.  Bilirubin has been trending
+   upwards.  Likely related to acute infection and poor liver
+   compensation.  [**Month (only) 8**] also be related to medications.  [**Month (only) 8**] also have
+   component of hemolysis.  U/S [**2-14**] with poor portal flow, no other acute
+   processes.  No obvious thrombosis.  INR also indicative of
+   decompensated liver disease, INR 3.2 today.  Also malnuourished.  DIC
+   panel negative.  Vit K no help.
+   Coagulopathy:
+   - Cont to trend INR
+   - Transfuse FFP prn for bleeding
+   - Close monitoring for other causes -> ie DIC [**Month/Year (2) **]
+   - No signs of bleeding currently
+   .
+   # Respiratory failure:  Stable.  Likely related to sepsis and
+   pneumonia.  Given deconditioning, it likely resulted in failure to
+   wean.  Now s/p trach.  Intermittently becomes agitated on the vent.
+   Oxygenating well.  ABGs stable.
+   - Continue vent for now; try to place on TM with only vent for
+   transitioning once acute issues stabilized
+   - Wean FIO2 prn
+   - Attempted diuresis [**2-11**], now on CVVH -> MAP 55 acceptable
+   - Trial of pressure support for comfort prn
+   # Mental status: Was somewhat decreased over the last few days, with
+   concern for new infection given abx stopped on [**2-6**]. CT head [**2-10**] w/o
+   acute process.  Likely some component of hepatic / toxic metabolic
+   encephalopathy as was not getting lactulose.  Unchanged today.
+   - Limit sedating meds; treat infection as above
+   - CVVH per Renal to potentially clear uremia
+   - Starting lactulose today
+   .
+   # SVT- likely volume and electrolytes changes related vs MOSD
+   - s/p CV
+   - amiodarone gtt, no clear guidelines for liver disease
+   - will continue amio loading for now given unclear trigger
+   - decrease amount of volume removal on CVVH given this was possible
+   trigger
+   .
+   # Renal Failure:  Likely HRS vs ATN or severe pre-renal, though total
+   body overloaded. FeUrea <.1, EOS in urine.  ? related to Vanco and [**Last Name (un) 339**]
+   though unclear.  Hyperkalemic [**2-4**] treated for hyperK with calcium,
+   bicarb, insulin, dextrose, and kayexalate. Checked 4h CrCl on [**2-7**]
+   which was 22 (very poor).
+   - Appreciate Renal c/s,  started CVVH [**2-12**] -> held for 8hrs today, will
+   resume afterwards
+   - Albumin PRN, but will not give standing
+   - Renally dose meds
+   - On Midodrine / Octreotine for HRS (started once urine lytes [**2-11**] with
+   Na < 10)
+   - No need to give kayexalate as is on CVVH
+   # Anemia/Thrombocytopenia:  HCT stable.  Neg DIC [**Month/Year (2) **].  s/p 2 units
+   prbcs 2/29/09.  Likely multifactorial, no obvious signs of bleeding.
+   Plt <100 [**2-12**] though appears to be stabilizing.  Increased to 93
+   today.  ? medication effect.  Had been worsening over the last few days
+   in the setting of vanco and other antibiotics.  [**Month (only) 8**] also be related to
+   liver failure and low thrombopoeitin, as well as splenic
+   sequestration.  Not thought to be HIT given many other reasons to be
+   thrombocytopenic
+   - Trend HCT, transfuse for HCT<21; last transfused 2u PRBC [**3391-2-13**]
+   - IV PPI [**Hospital1 **]
+   - Active T/S
+   - Guaiac stools & daily HCT
+   - Started epo [**2-11**]
+   - Trend Plts -> DIC neg
+   - D/C Flagyl yesterday
+   - Blood smear with 2+ schistocytes, ? low grade DIC, cont to monitor
+   # DM Type I: Developed DKA while here. Hypoglycemic intermittently
+   overnight, glucose has been difficult to control.
+   - trophic TFs restart [**3391-2-13**]
+   - D/C TPN
+   - Will need insulin support
+   Hyperbili:
+   - Cont to trend
+   - f/u with liver re: U/S and poor portal flow, hold off CT scan given
+   this would not change mgmt, ie anticoagulation
+   Transaminases:
+   - Cont to trend
+   Encephalopathy:
+   - Restart lactulose PO
+   # Pain Management: Less of an issue given current mental status
+   - Dilaudid prn; not using currently given her AMS for ?sepsis
+   # Weakness: Likely ICU myopathy [**12-20**] prolonged illness, paralytics.
+   Once improves pursue PT/OT & ultimately plan to rehab
+   # FEN:   trophic TF /  TPN w/ Lipids if unable to take TFs - [**3391-2-12**]
+   05:14 AM 53 mL/hour
+   - restart TF
+   # PPx:   Pneumoboots as DVT prophylaxis / VAP bundle / PPI as GI ppx.
+    # Access
+   PICC Line - [**3391-1-26**] 03:00 PM
+   Multi Lumen - [**3391-2-1**] 03:35 P
+   Arterial Line - [**3391-2-10**] 05:10 PM
+   # Contact: With [**Last Name (LF) 4413**]
+, [**First Name8 (NamePattern2) **] [**Name (NI) 1959**] [**Telephone/Fax (1) 2693**] (HCP)
+   # Code: Full Code
+   # Dispo: ICU
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3391-2-15**] 05:39 PM 53 mL/hour
+   Vivonex (Full) - [**3391-2-16**] 01:52 AM 50 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3391-1-26**] 03:00 PM
+   Multi Lumen - [**3391-2-1**] 03:35 PM
+   Arterial Line - [**3391-2-10**] 05:10 PM
+   Dialysis Catheter - [**3391-2-12**] 06:49 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: MICU

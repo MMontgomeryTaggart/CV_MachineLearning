@@ -1,0 +1,141 @@
+Admission Date:  [**3295-11-18**]       Discharge Date:  [**3295-11-20**]
+
+Date of Birth:   [**3258-10-26**]       Sex:  M
+
+Service:  CCU
+
+CHIEF COMPLAINT:  Aortic dissection.
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 67-year-old male
+with longstanding hypertension who presented to [**Hospital 891**]
+Hospital on [**11-18**] with approximately 16 hours of sharp
+internal chest pain with radiation to the back.  It did not
+change with movement.  In the Emergency Room at the outside
+hospital he received morphine, which improved the chest pain.
+A CT of the chest was done that showed an aortic dissection
+with a type B and supradiaphragmatic in nature.  At that
+time, the patient was transferred to [**Hospital6 2138**].
+
+At [**Hospital6 656**], he was chest pain
+free and blood pressure and heart rate were stable.  Prior to
+transfer, the patient was started on an esmolol drip.  At
+[**Hospital6 656**] this was changed to a
+labetalol drip.  The patient was admitted to the Coronary
+Care Unit for placement of an arterial line for closed blood
+pressure monitoring and management.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Seizure disorder.
+3.  Subarachnoid hemorrhage in [**3289**], status post craniotomy.
+4.  Hernia repair.
+5.  Peptic ulcer disease, status post a Billroth II.
+6.  Retinal detachment.
+
+SOCIAL HISTORY:  He is married.  He has two children.
+Patient is retired.  Occasional alcohol use.  He has a 50
+pack year of current one pack per day tobacco use.
+
+FAMILY HISTORY:  Mother with rheumatic heart disease.
+
+MEDICATIONS AT HOME:
+1.  Univasc 15 mg po q.d.
+2.  Depakote.
+3.  Aspirin.
+
+UPON TRANSFER:  Patient was on an aspirin, nitropaste,
+Norvasc, morphine and Protonix.
+
+ALLERGIES:  Patient has no known drug allergies.
+
+PHYSICAL EXAMINATION ON ADMISSION TO THE CORONARY CARE UNIT:
+Vital signs:  Afebrile.  Blood pressure 130/50.  Pulse of 52,
+breathing at 16, saturating at 97% on room air.  Blood
+pressure was equal in both arms.  General:  Thin, older man
+in no acute distress.  Oropharynx is moist without lesions.
+No jugular venous distention.  Lungs are clear.  Heart is
+regular rate and rhythm, S1, S2 are normal.  No murmurs, rubs
+or gallops.  Abdomen is benign with no palpable masses or
+bruits.  Extremities:  No cyanosis, clubbing or edema.
+Distal pulses 2+ in all extremities.  There is a bruit over
+the right femoral artery.
+
+LABORATORY DATA:  Notable for BUN and creatinine of 11 and
+0.7, hematocrit 36.1, platelet count 258,000.  LFTs normal.
+Troponin normal.
+
+Electrocardiogram:  Sinus bradycardia at 54, no Q waves, no
+evidence of ischemia.
+
+CT of the chest reviewed at this institution revealed a type
+B aortic dissection just distal to the aortic arch and
+takeoff the great vessels extending down to the level of the
+cardiac apex.  It is clearly supradiaphragmatic.
+
+ASSESSMENT:  This is a 67-year-old male with risk factors of
+longstanding hypertension and tobacco use who presents with
+chest pain.  CT of the chest revealed a type B aortic
+dissection and is supradiaphragmatic.  Patient was admitted
+to the Coronary Care Unit for intensive and invasive blood
+pressure monitoring and control.
+
+HOSPITAL COURSE:  The patient was continued on his labetalol
+drip overnight.  In the morning he was changed over to
+captopril by mouth.  this was titrated up as his labetalol
+drip was titrated down and then turned off with a goal blood
+pressure less than 120.  The drip was discontinued on
+[**11-19**] with consistently good blood pressure control and
+correlation between the arterial line and the blood pressure
+cuff.  The arterial line was discontinued and the patient was
+called out and transferred to the floor on [**3295-11-19**].
+Physical Therapy Consult saw the patient and checked the
+blood pressure with exertion.  Patient had no limitations to
+exercise and walked 175 feet without a problem and his blood
+pressure increased minimally.  A cholesterol panel was
+checked and revealed a total cholesterol of 158, LDL 86, HDL
+58.  This is a very good lipid profile, however, the patient
+was started Lipitor 10 mg for added benefit.  While in the
+hospital, the patient did experience some epigastric
+discomfort consistent with his usual reflux disease.  This
+was relieved with ranitidine po.  On [**3295-11-20**], the
+patient's blood pressure was under good control and the
+patient was otherwise stable and he was deemed safe for
+discharge to home.  The patient was discharged with the
+following medications:
+
+DISCHARGE MEDICATIONS:
+1.  Valproic acid 500 mg delayed released po b.i.d.
+2.  Atorvastatin 10 mg po q.d.
+3.  Lisinopril 20 mg po q.d.
+
+DISCHARGE INSTRUCTIONS:  The patient was instructed to
+discard his prior blood pressure pills, in particular
+Univasc. The patient was instructed to follow-up with
+cardiologist, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].  Phone number:  [**Telephone/Fax (1) 1708**] and
+to see him within two weeks.  The patient was also instructed
+to call his primary care physician for referral and to see
+his primary care physician as needed.
+
+DISCHARGE DIAGNOSES:
+1.  Aortic dissection, type B requiring critical care for 48
+hours.
+2.  Hypertension.
+
+DISCHARGE CONDITION:  Patient was discharged in stable
+condition on [**3295-11-20**] to home.
+
+
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 300**], M.D.  [**MD Number(1) 2550**]
+
+Dictated By:[**Last Name (NamePattern1) 5348**]
+MEDQUIST36
+
+D:  [**3295-11-20**]  11:22
+T:  [**3295-11-20**]  11:50
+JOB#:  [**Job Number 31094**]

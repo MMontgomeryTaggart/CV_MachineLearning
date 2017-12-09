@@ -1,0 +1,93 @@
+[**Hospital Unit Name 42**] Resident Admission Note
+   Reason for MICU Admission: Observation post-procedure
+   Primary Care Physician: [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]
+   CC: s/p bladder cystectomy, ileal conduit
+   HPI: This is a 59yoM with h/o CAD s/p 4v CABG [**2627**], multinodular goiter
+   s/p right thyroid lobectomy, and recent dx of high grade urothelial
+   carcinoma of the bladder s/p recent subtotal cystectomy and now s/p
+   total bladder cystectomy w/ileal conduits. Pt notes that this was a
+   scheduled procedure. He had dysuria at home, but was otherwise well w/o
+   abdominal pain. He was tolerating food well. He notes that he is able
+   to complete 4 mets at home.
+   Per OR/anesthesia notes, pt had a totaly cystectomy w/bilateral ileal
+   conduits placed. The procedure was done under general anesthesia. He
+   received 5L IVF and had 950cc UOP; he received no blood products and
+   there were no complications.
+   ROS: The patient edorses 2 pillow orthopnea, o/w denies any fevers,
+   chills, weight change, nausea, vomiting, diarrhea, constipation,
+   melena, hematochezia, chest pain, shortness of breath, PND, lower
+   extremity edema, cough, lightheadedness, gait unsteadiness, focal
+   weakness, vision changes, headache, rash or skin changes.
+   Past Medical History:
+   high grade papillary urothelial carcinoma s/p subtotal transurethral
+   bladder resection [**2633-9-10**]
+   MI x 4 in the [**2604**]'s s/p CABG [**2627**] outpt cardiologist, Dr. [**First Name (STitle) 6300**]
+   [**Name (STitle) 6301**] at [**Location (un) 1375**]
+   - last cath [**12-2**] w/Patent LIMA to LAD, SVG to OM, SVG to RI; occluded
+   SVG to RCA.
+   - last TTE EF 40%, mild MR [**2630**]
+   HTN
+   diet controlled DM
+   h/o benign thyroid nodules s/p right thyroid lobectomy [**2611**], known
+   benign nodule in left lobe
+   Medications:
+   Atenolol 25 mg p.o. daily
+   Crestor 20 mg p.o. daily
+   Aspirin 81 mg p.o. daily
+   Gemfibrozil 300 mg p.o. twice a day
+   Xanax prn insomnia
+   Allergies:  NKDA
+   Social History: Disabled after [**Year (4 digits) **] in 80s, prior to that did
+   construction work. [**11-28**] ppd daily x 30years. No etoh/illicits. Lives
+   w/his wife at home.
+   Family Medical History: Parents w/[**Month/Day (2) **] at unknown age, sisters w/[**Name2 (NI) **] at
+   age 46y and 49 y. No other known FH.
+   Physical Exam:
+   Vitals: T: 98.3 BP: 144/72 HR: 67 RR: 18 O2Sat: 95% 3LNC
+   GEN: mild pain, no acute distress
+   HEENT: [**Last Name (LF) **], [**First Name3 (LF) **] minimally RL, sclera anicteric, no epistaxis or
+   rhinorrhea, MMM, OP Clear, NGT in place
+   NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+   lymphadenopathy, trachea midline
+   COR: RRR, no M/G/R, normal S1 S2, radial pulses +2
+   PULM: Lungs CTAB, no W/R/R
+   ABD: Soft, hypoactive BS, diffusely tender, JP drain and ostomy in
+   place, midline wound covered, bandages clean
+   EXT: 2+/4 PT/DP pulses, No C/C/E, no palpable cords
+   NEURO: alert, oriented to person, place, and time. CN II
+ XII grossly
+   intact. Moves all 4 extremities. Strength 5/5 in upper and lower
+   extremities.
+   SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+   Laboratories: notable for WBC 16.2
+   No Micro data
+   ECG: pending
+   Imaging:
+   [**2633-10-4**] CXR(my read): No evidence of fluid overload, PNX, effusion, or
+   infiltrate
+   [**2633-10-4**] KUB(prelim report):  Bilateral ureteral stent extending from
+   the renal pelves to the expected location of the ileal conduit.
+   Post-surgical changes in the pelvis. Normal bowel gas pattern. No free
+   air.
+   Assesment: This is a 59yoM with h/o CAD s/p 4v CABG and recent dx of
+   high grade urothelial carcinoma of the bladder now s/p total bladder
+   cystectomy w/ileal conduits doing well.
+   Plan:
+   # s/p cystectomy, ileal conduits: w/o complications
+   - NPO including meds
+   - pain control w/PCA
+   - continue Ancef/Flagyl for 48 hours
+   # CAD: s/p multiple [**Month/Day/Year **] and CABG, last cath in [**12-2**] revealed 3 patent
+   grafts, occluded SVG to RCA, last EF 40%.
+   - EKG tonight
+   - currently appears euvolemic
+   - continue metoprolol, change to home atenolol when tolerates
+   - restart ASA and antihyperlipidemics when able to take PO meds
+   # FEN:  gently IVF hydration while NPO
+   # Access: right IJ in place
+   # PPx: heparin SC, famotidine IV
+   # Code: Full
+   # Dispo: ICU overnight, likely able to d/c to regular surgical floor in
+   the AM
+   .
+   # Comm: with his wife [**Telephone/Fax (1) 6302**]

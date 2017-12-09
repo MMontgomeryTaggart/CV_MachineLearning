@@ -1,0 +1,344 @@
+Admission Date:  [**2501-11-28**]              Discharge Date:   [**2501-11-30**]
+
+Date of Birth:  [**2440-5-20**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2063**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+left heart catheterization with percutaneous coronary
+intervention
+
+History of Present Illness:
+The patient is a 61 year old female with a past medical history
+of diabetes, hypertension, hyperlipidemia who presents with
+substernal chest pain for three days. She was in her normal
+state of health until Saturday when she developed sudden onset
+[**7-20**] substernal chest pressure - "like someone was sitting on my
+chest." She initially attributed this to her upper respiratory
+tract illness. The pain did not radiate, was not pleurtic, and
+was associated with diaphoresis and some shortness of breath.
+She went to bed for the rest of the day and all of Sunday. She
+woke up Monday morning and the pain was still present. She went
+to an oncology appointment (s/p resection of lung nodule several
+months ago) where she relayed the above history, so she was sent
+to urgent care for evaluation. EKG there reportedly showed 1.5mm
+STE III, 1mm STE AVF. She was given one aspirin and was
+transferred to [**Hospital1 52**].
+.
+Of note, pt notes intermittent chest pain with activity for past
+six months. She an had abnormal stress test in [**9-/2501**] with
+small to moderate intensity perfusion defect in the basal and
+mid inferolateral and lateral wall with complete reversibility.
+This was managed medically.
+.
+In the ED, her initial vitals were 104/54 HR:77, RR: 15, 100%O2
+on 2LNC . Labs notable for a WBC count of 17, creatinine of 1.0,
+and troponin of 0.9. EKG notable for 1mm ST elevation in lead
+III. She was started on heparin and was taken to the cardiac
+catheterization lab.  Access was right radial, she was found to
+have mid RCA 100% occlusion that underwent POBA as well as LCX
+with focal 70% OM1 stenosis.
+.
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. S/he denies recent fevers, chills or
+rigors. S/he denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Diabetes, +Dyslipidemia, +Hypertension
+
+2. OTHER PAST MEDICAL HISTORY:
+-Lung carcinoid s/p right upper lobe wedge resection in [**9-/2501**]
+at [**Hospital1 592**], complicated by wound dehiscence
+-Left adrenal adenoma
+-Adjustment disorder with depression
+-Thyroidectomy in [**2468**] not on thyroid replacement
+-Obstructive sleep apnea not on CPAP
+-Cataract surgery in [**2500**]
+-Obesity hypoventilation with [**2501-10-11**] PFTs showing some
+restrictive physiology
+-Suburethral sling in [**12/2500**]
+
+
+Social History:
+- works for school department in special ed
+- married, three children
+- Tobacco history: former 80 pack year smoker, quit 14wks ago
+- ETOH:  denies
+- Illicit drugs: denies
+
+Family History:
+- Mother:  MI [**63**]
+- Father:  MI [**57**]
+
+Physical Exam:
+ADMISSION EXAM
+VS: afebrile, 125/61   66  98%2L NC
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: JVP difficult to assess due to body habitus
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: right wrist in band, no edema
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+.
+DISCHARGE EXAM:
+Vitals - Tm/Tc:9.9/98.6 HR: 82-86 BP:103-113/61-65 RR: 16-18 02
+sat: 95% RA
+In/Out:
+Last 24H:
+Last 8H: [**Telephone/Fax (1) 9626**]
+.
+Tele: SR, no VEA
+GENERAL: 61 yo F in no acute distress
+HEENT: PERRLA, no pharyngeal erythemia, mucous membs moist, no
+lymphadenopathy, JVP non elevated
+CHEST: CTABL no wheezes, no rales, no rhonchi
+CV: S1 S2 Normal in quality and intensity RRR no murmurs rubs or
+gallops
+ABD: soft, non-tender, non-distended, BS normoactive.
+EXT: wwp, no edema. DPs, PTs 2+. right wrist with no ecchymosis
+or hematoma.
+NEURO: CNs II-XII intact. 5/5 strength in U/L extremities. gait
+WNL.
+SKIN: no rash
+PSYCH: A/O, somewhat sad this am.
+
+
+Pertinent Results:
+ADMISSION LABS
+
+[**2501-11-28**] 12:15PM BLOOD WBC-17.0* RBC-4.10* Hgb-12.4 Hct-37.6
+MCV-92 MCH-30.3 MCHC-33.0 RDW-13.2 Plt Ct-228
+[**2501-11-28**] 12:15PM BLOOD Neuts-82.0* Lymphs-14.9* Monos-2.6
+Eos-0.3 Baso-0.2
+[**2501-11-28**] 12:15PM BLOOD PT-11.3 PTT-32.8 INR(PT)-1.0
+[**2501-11-28**] 12:15PM BLOOD Glucose-140* UreaN-23* Creat-1.0 Na-137
+K-4.2 Cl-98 HCO3-26 AnGap-17
+[**2501-11-29**] 05:03AM BLOOD ALT-24 AST-83* LD(LDH)-500* CK(CPK)-626*
+AlkPhos-65 TotBili-1.2
+[**2501-11-29**] 05:03AM BLOOD Calcium-9.1 Phos-3.0 Mg-1.9
+
+PERTINENT LABS AND STUDIES
+[**2501-11-28**] 12:15PM BLOOD %HbA1c-6.3* eAG-134*
+[**2501-11-28**] 12:15PM BLOOD CK-MB-75* MB Indx-9.8*
+[**2501-11-28**] 12:15PM BLOOD cTropnT-0.90*
+[**2501-11-28**] 09:53PM BLOOD CK-MB-58* MB Indx-6.8*
+[**2501-11-29**] 05:03AM BLOOD CK-MB-34* MB Indx-5.4 cTropnT-2.00*
+[**2501-11-29**] 07:23PM BLOOD CK-MB-10 MB Indx-3.5 cTropnT-2.06*
+[**2501-11-30**] 01:36AM BLOOD CK-MB-7 cTropnT-2.59*
+[**2501-11-28**] 12:15PM BLOOD CK(CPK)-762*
+[**2501-11-28**] 09:53PM BLOOD CK(CPK)-857*
+[**2501-11-29**] 07:23PM BLOOD CK(CPK)-283*
+[**2501-11-30**] 01:36AM BLOOD CK(CPK)-229*
+[**2501-11-30**] 06:50AM BLOOD Triglyc-212* HDL-37 CHOL/HD-3.9
+LDLcalc-64
+
+[**2501-11-28**] LEFT HEART CATH (prelim) 1. Selective coronary
+angiography of this right dominant system demonstrated two
+vessel disease. The LMCA was patent. The LAD had less than 30%
+lumen irregularities. The LCX had a focal 70% OM1 stenosis, and
+a difuse 80% stenosis OM2. The RCa had 100% occlusion of mid RCA
+with contrast staining.
+2. Limited resting hemodynamics revealed normal systemic
+arterial
+pressures at the central aortic level 102/52 mmHg.
+3. Successful aspiration thrombectomy and balloon angioplasty of
+the RCA
+(see PTCA comments).
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Successful PCI of the RCA.
+
+[**2501-11-28**] CXR Heart size is enlarged. Mediastinum is
+unremarkable. Bilateral perihilar interstitial opacities are
+most likely consistent with pulmonary edema.  Underlying
+infectious process might be obscured, in particular in the right
+lower lung. Evaluation of the patient after diuresis is
+recommended.
+No evidence of pneumothorax is seen. Small amount of pleural
+effusion cannot be excluded.
+
+[**2501-11-29**] ECHOCARDIOGRAM The left atrium is mildly dilated. Left
+ventricular wall thicknesses and cavity size are normal. There
+is mild regional left ventricular systolic dysfunction with mild
+basal inferior hypokinesis. The remaining segments contract
+normally (LVEF = 50-55%). Right ventricular chamber size and
+free wall motion are normal. The aortic root is mildly dilated
+at the sinus level. The aortic valve leaflets are mildly
+thickened (?#). There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. Mild (1+) mitral regurgitation is seen. The
+estimated pulmonary artery systolic pressure is normal. There is
+no pericardial effusion.
+
+IMPRESSION: Mild regional left ventricular systolic dysfunction,
+c/w CAD. No echocardiographic evidence of right ventricular
+involvement with the recent infarction. Mild mitral
+regurgitation.
+
+DISCHARGE LABS
+[**2501-11-30**] 06:50AM BLOOD WBC-11.7* RBC-3.71* Hgb-11.4* Hct-33.5*
+MCV-90 MCH-30.8 MCHC-34.1 RDW-13.1 Plt Ct-205
+[**2501-11-30**] 06:50AM BLOOD Glucose-152* UreaN-17 Creat-0.9 Na-140
+K-3.8 Cl-103 HCO3-29 AnGap-12
+
+
+Brief Hospital Course:
+The patient is a 61 year old female with [**Location (un) **] risk factors
+of diabetes, hypertension, hyperlipidemia, tobacco use
+presenting with several day of chest pain found to have late
+presentation ST elevation inferior myocardial infarction with
+100% mid RCA occlusion now s/p balloon angioplasty
+.
+#INFERIOR STEMI: Late presentation of inferolateral STEMI
+(elevations in III>II), found to have two vessel CAD on
+catheterization with culprit thought to be mid RCA lesion, with
+successful recanalization using balloon PTCA. She has remained
+chest pain free since the cath. She was started on medical
+management with aspirin, prasugrel, heparin x24hours,
+atorvastatin, metoprolol, lisinopril.
+.
+#DIABETES: A1c is 6.3%, suggesting good control prior to
+admission.  On 50-56 units of Lantus qAM at home as well as
+metformin.  AM FS was 142 today, treated with ISS during
+hospitalization.
+.
+#HYPERTENSION:  Systolic BP remains in the 90-100s since
+admission, is currently on metoprolol and lisinopril. Also on
+amlodipine and hctz as an outpatient, but this was held at time
+of d/c as the patient's BP was consistently 90-100 systolic.
+.
+#HYPERLIPIDEMIA: LDL 91, HDL 46, TG 377 in [**10/2501**] in Atrius
+records.  On simvastatin 80mg daily at home, this was changed to
+atorvastatin 80mg. She may benefit from better dietary control
+or fibrate for TG control as an outpatient.
+.
+# FULL CODE
+# CONTACT: [**Name (NI) 25**], husband
+# ISSUES TO ADDRESS AT FOLLOW UP:
+-Consider fibrate for improved TG control
+-LCX with untreated disease:  focal 70% OM1 stenosis, and a
+diffuse 80% stenosis OM2.
+# PENDING STUDIES AT TIME OF DISCHARGE: final cardiac cath
+report.
+
+
+Medications on Admission:
+-Metoprolol Tartrate 25 mg [**Hospital1 9**]
+-Hydrochlorothiazide 12.5 mg daily
+-Nystatin (NYSTOP) Topical Powder apply under breast [**Hospital1 **]
+-Simvastatin 80mg QHS
+-Lisinopril 40 mg daily
+-Amlodipine 5 mg daily
+-Oxybutynin Chloride 10 mg daily
+-Metformin 1,000 mg Oral [**Hospital1 9**]
+-Insulin Glargine (LANTUS SOLOSTAR) 58-65 units daily
+-BETAMETHASONE DIPROPIONATE NON-AUGMENTED 0.05 % OINTMENT [**Hospital1 9**]
+
+Discharge Medications:
+1. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO twice
+a day.
+2. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. prasugrel 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. insulin glargine 100 unit/mL Solution Sig: 52-65 units
+Subcutaneous once a day: resume home dosing.
+6. oxybutynin chloride 10 mg Tablet Extended Rel 24 hr Sig: One
+(1) Tablet Extended Rel 24 hr PO at bedtime.
+7. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+8. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+ST Elevation Myocardial Infarction
+.
+Secondary Diagnosis:
+Hypertension
+Hyperlipidemia
+Diabetes mellitus Type 2
+Lung Carcinoid
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You had chest pain and was found to be having a heart attack.
+You were transferred to [**Hospital1 52**] and a cardiac catheterization was
+performed that showed blockages in 2 arteries. The right
+coronary artery was opened with a balloon procedure because it
+was felt that this blockage was causing the heart attack. The
+second blockage was not treated at this time. You will be
+started on medicines to help keep the blockages open and help
+your heart recover from the heart attack. It is very important
+that you take these medicines every day and see your new
+cardiologist, Dr. [**First Name (STitle) **]. An echocardiogram was done that showed
+your heart function is nearly normal and your heart vavles are
+working well.
+.
+We made the following changes to your medicines:
+1. START taking prasugrel to keep the blockage that was treated
+open and prevent more clots in your heart arteries. Do not stop
+taking this medicine until Dr. [**First Name (STitle) **] tells you it is OK.
+2. INCREASE your aspirin to 325 mg daily for now to work with
+the prasugrel
+3. STOP taking simvastatin, take atrovastatin (Lipitor) instead
+to lower your cholesterol.
+4. DECREASE your lisinopril to 10 mg daily for now as your blood
+pressures have been a bit lower during your hospital stay.
+5. STOP Hydrochlorothiazide and amlodipine for now as your blood
+pressure have been somewhat low
+
+
+Followup Instructions:
+Cardiology:
+Dr. [**First Name4 (NamePattern1) 2557**] [**Last Name (NamePattern1) **], [**First Name3 (LF) 9627**] [**Location 1544**], [**2501-12-6**] 8:40 AM
+Phone:
+.
+Name: [**Last Name (LF) 7254**], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 18**]
+Location: [**Hospital1 19**]
+Address: 291 INDEPENDENCE DR, [**Location **],[**Numeric Identifier 2179**]
+Phone: [**Telephone/Fax (1) 9628**]
+Appointment: Wednesday [**2501-12-14**] 3:45pm
+
+
+

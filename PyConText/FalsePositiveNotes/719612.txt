@@ -1,0 +1,336 @@
+Chief Complaint: VF arrest.
+   24 Hour Events:
+   - 5:30P developed bigemeny for 15 mins, lytes okay, resolved
+   spontaneously
+   - dilantin stopped
+   - ET tube changed from 6 to 8 (received paralytic for this)
+   - ET tube advanced, still seems 6.6cm above, need to f/u final read
+   - CXR demonstrates right lower lobe and partial right middle lobe
+   collapse
+   - increasing FiO2 and PEEP requirements over course of day; adjusted
+   vent settings without significant improvement. Added fentanyl to
+   increase sedation, not effective. Re-paralysed.
+   - He was desynchronous with the ventilator, so re-paralysed.
+   Unfortunately, Neurology came by when ETT was being changed, and
+   paralytics had been started more by protocol than by necessity, it
+   would seem. Neurology ask that we hold paralysis and then sedation
+   before they come in the morning, so that they can evaluate more
+   usefully.
+   - discussed with IP; suggest no major changes, consider pulm consult
+   tomorrow
+   - pt spiked fever to 104, started to develop brown sputum purulent
+   appaering, despite lack of infiltrate we started emperic
+   vanc/zosyn/levo given profound hypoxia
+   - now sputum growing GNRs 4+ in a good sample, good thing we started
+   abx!!
+   Allergies:
+   Ibuprofen
+   GI upset;
+   Procainamide
+   Diarrhea;
+   Sotalol
+   Fatigue;
+   Amiodarone
+   'Slight decrea
+   Last dose of Antibiotics:
+   Levofloxacin - [**2773-4-19**] 09:00 PM
+   Vancomycin - [**2773-4-19**] 09:23 PM
+   Piperacillin - [**2773-4-20**] 01:53 AM
+   Infusions:
+   Midazolam (Versed) - 7 mg/hour
+   Propofol - 15 mcg/Kg/min
+   Other ICU medications:
+   Metoprolol - [**2773-4-20**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2773-4-20**] 08:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**75**] AM
+   HR: 100 (79 - 107) bpm
+   BP: 111/55(73) {101/47(66) - 189/76(111)} mmHg
+   RR: 31 (14 - 31) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+             Total In:
+                                                                  3,316 mL
+                                                                    343 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,316 mL
+                                                                    343 mL
+   Blood products:
+   Total out:
+                                                                  1,065 mL
+                                                                    675 mL
+   Urine:
+                                                                    465 mL
+                                                                    675 mL
+   NG:
+                                                                    600 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,251 mL
+                                                                   -332 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 933 (657 - 933) mL
+   PS : 12 cmH2O
+   RR (Set): 26
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 100%
+   PIP: 25 cmH2O
+   Plateau: 23 cmH2O
+   SpO2: 99%
+   ABG: 7.30/44/95.[**Numeric Identifier 243**]/23/-4
+   Ve: 14.3 L/min
+   PaO2 / FiO2: 95
+   Physical Examination
+   GENERAL: Overweight man with myoclonus every 10 to 20 seconds involving
+   limbs, primarily. GCS 3. Looks stated age.
+   HEENT: NCAT. Sclera anicteric. Pupils fixed in mid-position.
+   Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No
+   xanthalesma.
+   NECK: Supple, JVP not evaluated - patient flat.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: Intubated with mechanical ventilation, occasional overbreaths of
+   vent initially. Bilateral air entry. No loud adventitious sounds
+   anteriorly, laterally.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   NEUROLOGIC: Myoclonus every 10 to 20 seconds involving limbs,
+   primarily, but only when Versed and propofol stopped.  GCS 3. Comatose.
+   No puposive movements. Myoclonus only. No withdrawal to very firm
+   nail-bed pressure. No brainstem reflexes (apart from breathing on PSV
+   as evidence of some brainstem function). Spinal reflexes 3+ throughout
+   without plantar response. Tone flacid. Bulk normal. Myoclonus present
+   in all limbs, but strength could not be assessed.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. Trophic
+   changes evident at feet/ankles.
+   Labs / Radiology
+   200 K/uL
+   11.3 g/dL
+   181 mg/dL
+   1.5 mg/dL
+   23 mEq/L
+   4.7 mEq/L
+   38 mg/dL
+   107 mEq/L
+   139 mEq/L
+   34.4 %
+   14.7 K/uL
+        [image002.jpg]
+                             [**2773-4-19**]  05:17 AM
+                             [**2773-4-19**]  06:15 AM
+                             [**2773-4-19**]  12:06 PM
+                             [**2773-4-19**]  01:09 PM
+                             [**2773-4-19**]  03:30 PM
+                             [**2773-4-19**]  06:11 PM
+                             [**2773-4-19**]  08:36 PM
+                             [**2773-4-20**]  12:56 AM
+                             [**2773-4-20**]  03:10 AM
+                             [**2773-4-20**]  03:27 AM
+   WBC
+   16.5
+   14.7
+   Hct
+   35.0
+   34.4
+   Plt
+   238
+   200
+   Cr
+   2.0
+   1.5
+   TropT
+   0.09
+   TCO2
+   22
+   23
+   22
+   22
+   22
+   21
+   24
+   23
+   Glucose
+   135
+   181
+   Other labs: PT / PTT / INR:39.6/38.9/4.1, CK / CKMB /
+   Troponin-T:561/8/0.09, ALT / AST:29/89, Alk Phos / T Bili:60/0.4,
+   Differential-Neuts:79.9 %, Lymph:16.7 %, Mono:2.3 %, Eos:0.4 %, Lactic
+   Acid:1.2 mmol/L, Albumin:3.3 g/dL, LDH:344 IU/L, Ca++:7.8 mg/dL,
+   Mg++:1.9 mg/dL, PO4:4.4 mg/dL
+   Fluid analysis / Other labs: None.
+   Imaging: No CXR since yesterday.
+   Microbiology: GNRs in sputum - covered.
+   ECG: No new today.
+   ASSESSMENT
+   .
+   This 70-year-old man has had a witnessed cardiac arrest at home with
+   CRP by his daughter at the scene. VF was noted in EMS. He was rapidly
+   cooled, but his neurologic unresponsiveness and myoclonus is concerning
+   for severe hypoxic injury. The etiology of this presentation is
+   unclear.
+   .
+   PLAN
+   .
+   Coma
+      Neurology have been very helpful in understanding deficits and
+   prognosis. He has at least some preserved medullary function, as
+   evidenced by breathing well on pressure support. He had a sluggish
+   response to caloric stimulation, but is otherwise without other
+   evidence of pontine/midbrain function. No evidence of cortical
+   function. Per Neurology, good outcome can not be expected
+ please see
+   their note.
+   - Discuss with family
+   - Appreciate Neurology input as above
+   .
+   Cardiorespiratory (VF?) Arrest
+     Differential diagnosis includes arhythmia, pulmonary embolism,
+   myocardial ischemia, perhaps resulting in arhythmia, toxic. CTA was
+   negative on wet read, ischemia appears not to be profound, given
+   enzymes and EKG, toxicity is possible. Arhythmia is possible,
+   particularly if digoxin was being taken incorrectly, if too much
+   methylphenidate was being taken (he was recorded as taking 20 mg).
+   Given low level of digoxin (0.7) and history of non-compliance with
+   glipizide dosing (per PCP), medication non-compliance or error is also
+   possible. He takes three anti-arhythmic medications (atenolol,
+   diltiazem and digoxin). Was likely VF arrest based on EMS report. Given
+   that he struck his head, likely arrhythmia (sudden LOC).
+   - Telemetry
+   - Was on diltiazem 300 mg/d and atenolol 100 mg/d, so may need to add
+   some block back
+   - metoprolol 5 mg IV q4h
+   .
+   Arhythmia, Ventricular ectopy
+     Substantial ventricular ectopy, short runs of VT. Patient takes
+   diltiazem, atenolol, digoxin at home. Given frequent ectopy will add
+   back small doses, given cooling.
+   - Metoprolol 5 mg IV q4h
+   - Hold digoxin, diltiazem
+   - Telemetry
+   - EKG in a.m.
+   - Hold warfarin - supratherapeutic
+   .
+   Gastroparesis
+     In context of arrest, possible hypoperfusion, then paralysis
+   - Try pro-cholinergics if desire to give PO meds or tube feeds
+ hold
+   off for now
+   .
+   Fluid status
+     No Pos given above and now quite negative by Is&Os.
+   - Maintenance 1/2NSD5W at 125 cc/hr for 1 L then reevaluate
+   .
+   Hypotension (and hypertension)
+     Improved with some fluid and brief phenylephrine. Was transient after
+   catheterization, sedation, cooling. Now improved, but only relative
+   given that we are hold antihypertensive meds.
+   - Fluids and pressors to support pressure (phenylephrine)
+   - Hold antihypertensives (enalapril, atenolol, diltiazem)
+   .
+   Coronary Artery Disease
+     Active disease that is not thought to be sufficiently flow-limiting
+   to produce symptomatic disease. Troponin/enzyme leak not surprising
+   given DC cardioversion x 2 or 3 (unclear) and chest compressions, along
+   with hypotension, hypoxia.
+   - Telemetry
+   - Continue rosuvastatin 20 mg
+   - ASA 325 mg
+   .
+   Question of Gastrointestinal Bleeding
+     Low suspicion now. Will not impact management at present. Some likely
+   clot as cast within OG tube and then removed retaining shape. No other
+   blood or concerning output. Could not suction stomach - think may be
+   against wall. Low suspicion at present and Hct stable.
+   - Continue ASA 325 given CAD
+   - Follow hematocrit
+   .
+   Diabetes
+     Insulin IV for now, given hyperglycemia on arrival.
+   - Convert to sliding scale
+   - Hold metformin and glipizide while inpatient
+   .
+   Critical Care and Ventilator
+   CMV on Arctic Sun. Now PSV and hypoxia despite good pH and CO2,
+   suggestive of exchange limit
+ likely secretions.
+   - Intubation - change endotracheal tube for larger size in a.m. if any
+   difficulties suctioning (only a 6)
+   - Continue PSV, increase PEEP and try to wean FiO2
+   .
+   Head Injury
+     Head CT clears for bleed and facture. Neck CT/spine CT not performed.
+   - Keep in [**Location (un) 396**] J collar for now
+   .
+   Liver Enzyme Abnormalities
+     Likely early shock liver, but may be medication induced or other.
+   Will rise rapidly if shock liver.
+   - Follow in a.m.
+   .
+   Acidosis
+     Lactic acidosis, along with respiratory acidosis. Has gap that is
+   closing and tracking lactate. Will check blood and urine cultures also,
+   but likely secondary to hypoxia. Trending down.
+   - Follow blood gas
+   .
+   Depression
+   - Hold fluoxetine (t1/2 4 - 6 days)
+   .
+   GERD
+     Given some possible UGIB:
+   - Hold omeprazole
+   - Give IV pantoprazole 40 mg [**Hospital1 **]
+   .
+   Inattentiveness
+   - Hold methylphenidate 20 mg for now
+   .
+   BPH
+   - Hold finasteride 5 mg for now
+   .
+   FEN:
+   - No fluid for now
+   - Electrolytes: Keep K > 4 and Mg > 2
+   - No nutrition for tonight
+   .
+   ACCESS: PIV, femoral central venous line, femoral arterial line
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin SC
+   -Pain management with fentanyl
+   -Bowel regimen with colace, senna, bisacodyl
+   .
+   CODE: Full code
+   .
+   COMM:
+   Mrs. [**Known patient lastname 12368**] [**Telephone/Fax (1) 12371**], home [**Telephone/Fax (1) 12372**], daughter ([**Name (NI) 273**]) [**Telephone/Fax (1) 12373**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2773-4-17**] 02:55 PM
+   Multi Lumen - [**2773-4-17**] 05:15 PM
+   Arterial Line - [**2773-4-17**] 05:23 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:ICU

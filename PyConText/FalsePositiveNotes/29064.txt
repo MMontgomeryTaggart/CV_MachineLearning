@@ -1,0 +1,323 @@
+Admission Date:  [**2609-10-28**]              Discharge Date:   [**2609-11-1**]
+
+
+Service: MEDICINE
+
+Allergies:
+Lactose
+
+Attending:[**First Name3 (LF) 247**]
+Chief Complaint:
+Fever, shortness of breath, cough.
+
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+HPI:  85 y/o lady with chronic CHF, atrial fibrillation on
+coumadin, h/o thromboembolic CVA in [**2596**], presents with
+worsening dyspnea, fever, and cough.  Patient has experienced
+chronic cough for ? weeks worse in the last week.  Non
+productive.  She has felt warm and occasionally cold during this
+time period.  She has had substernal chest discomfort with
+coughing.  She felt genaralized weakness and decided to go to
+[**Hospital 974**] Hospital.  ? Headache per previous records.  She had
+decreased appetite and did not eat much yesterday.  She denies
+any abdominal pain, nausea, vomitting, diarrhea, dysuria,
+hematuria, blood in stool, orthopnea, PND, focal weakness or
+numbness.  Recent fall 2 weeks ago without traumatic injuries.
+She feels generally week.
+.
+She presented to [**Hospital 974**] hospital.  Her BNP was elevated there
+and with complaints of dyspnea she was thought to have CHF
+exacerbation and given furosemide 40 mg IV.  Her heart rate was
+rapid at 120s afib there and she was started on dilt drip.  She
+also had fever to 101, WBC 14 and bands 18% and was started on
+Zosyn.  Given her headache CT head was attempted but due to
+technical difficulties they weren't able to get it.  She was
+transfered to [**Hospital1 22**] ED to obtain a head CT.
+.
+On arrival to ED here vitals were T 98 SBP 90-100s.  Heart rates
+were in 70-80s and dilt was discontinued.  Respiratory rates
+were 19-20s.  Oxygen saturation was in low 80s in room air, low
+90s on 6L NC and 99 on 100% NRB.  She did not have any headache.
+ Exam was significant for bilateral crackles, trace guaic
+positive brown stool.
+.
+CXR was concerning for multifocal pneumonia and was given
+cetriaxone 1 gm and levofloxacin 750 mg on top of the Zosyn from
+OSH. Given the new findings, she was given 1L of NS and 2 gram
+of calcium gluconate (to reverse dilt). Head CT did not show any
+acute intracranial pathology.  Her potassium was repleted.
+
+Past Medical History:
+PMHx:
+- CHF chronic diastolic ? some systolic component
+- Atrial fibrillation on coumadin, h/o CVA when INR
+subtherapeutic in [**2596**], target INR 2.5-3.5
+- h/o CVA as above
+- Lymphoma of neck 30 yrs ago s/p chemo,rads
+- Hypothyroidism
+- Cataracts
+
+
+Social History:
+Smoked 30 pk-yrs, quit 25 yrs ago.  NO ETOH.  Lives alone in ?
+[**Hospital3 266**] facility in [**Hospital1 974**].  Has 2 sons and a daughter.
+
+Family History:
+Father had MI.
+
+
+Physical Exam:
+Vitals: T 98  HR 92  BP 107/72  RR 18  91% 4LNC
+Gen: Alert and awake, dry cough, pleasant lady following
+commands
+HEENT: EOM-I, dry mucous membranes, JVP not elevated
+Heart:  S1S2 irregluary irregular, II/VI holosystolic murmur
+best heard at apex.
+Lungs:  Diffuse crackles in bilateral mid to low lung fields,
+diminished BS at bases, no wheezes
+Abdomen:  BS present, soft NTND, no mass, no organomegaly
+Ext:  Dry skin, warm
+Neuro:  Following commands, Strenth [**4-3**] bilaterally, normal
+muscle tone
+
+
+Pertinent Results:
+[**2609-10-28**] 07:00AM   PT-20.1* PTT-23.3 INR(PT)-1.9*
+[**2609-10-28**] 07:00AM   NEUTS-93* BANDS-2 LYMPHS-3* MONOS-2 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2609-10-28**] 07:00AM   WBC-17.6*# RBC-4.02* HGB-13.5 HCT-39.0 MCV-97
+MCH-33.6* MCHC-34.6 RDW-14.1
+[**2609-10-28**] 07:00AM   ALT(SGPT)-12 AST(SGOT)-27 CK(CPK)-65 ALK
+PHOS-45 TOT BILI-0.9
+[**2609-10-28**] 07:00AM   GLUCOSE-146* UREA N-34* CREAT-1.3*
+SODIUM-146* POTASSIUM-3.4 CHLORIDE-102 TOTAL CO2-32 ANION GAP-15
+[**2609-10-28**] 08:13AM   LACTATE-3.4*
+[**2609-10-28**] 04:38PM   TYPE-ART PO2-68* PCO2-47* PH-7.40 TOTAL
+CO2-30 BASE XS-2 COMMENTS-SIMPLE FAC
+[**2609-10-28**] 09:06PM   WBC-17.1* RBC-3.18* HGB-10.8* HCT-31.3*
+MCV-98 MCH-34.0* MCHC-34.6 RDW-13.7
+[**2609-10-28**] 09:06PM   GLUCOSE-117* UREA N-36* CREAT-1.3* SODIUM-142
+POTASSIUM-3.5 CHLORIDE-103 TOTAL CO2-29 ANION GAP-14
+[**2609-10-28**] 09:21PM   LACTATE-1.6
+[**2609-10-29**] 05:55AM BLOOD WBC-12.4* RBC-3.03* Hgb-10.0* Hct-29.9*
+MCV-99* MCH-32.9* MCHC-33.4 RDW-13.7 Plt Ct-161
+[**2609-10-29**] 05:55AM BLOOD Glucose-101 UreaN-33* Creat-1.1 Na-145
+K-3.4 Cl-106 HCO3-32 AnGap-10
+.
+Blood culture ([**10-28**]): negative
+Urine legionalla: negative
+Rapid respiratory viral screen: negative
+.
+[**2609-10-28**] CXR:  Moderate cardiomegaly with a mildly unfolded
+atherosclerotic thoracic aorta are unchanged. There are
+multifocal areas of airspace opacities predominantly involving
+the mid and lower lungs bilaterally, compatible with multifocal
+pneumonia. There is no pulmonary edema. No pleural effusion or
+pneumothorax is seen. Osseous structures are grossly
+unremarkable.
+IMPRESSION: Multifocal pneumonia.
+.
+[**2609-10-29**] CXR:  The heart is markedly enlarged. Aorta is somewhat
+calcified and tortuous.  The lungs are hyperinflated consistent
+with COPD. There are patchy perihilar opacities as well as mild
+bibasilar atelectasis. The appearance of the chest has not
+changed much since the prior study.
+.
+[**2609-10-28**] CT head:  1. No acute intracranial hemorrhage.  2. Left
+sphenoid sinus air-fluid level may represent sinusitis in the
+appropriate clinical context.
+.
+[**2609-10-30**] Video swallow study:  Multiple oral and pharyngeal
+phase defects with associated penetration and aspiration,
+partially reduced with chin tuck position. Please see the speech
+and swallow note in the online medical record for further
+details.
+
+Brief Hospital Course:
+An 85 year-old lady with chronic diastolic CHF, atrial
+fibrillation on coumadin, h/o thromboembolic CVA in [**2596**], now
+presenting with worsening dyspnea, fever, and cough. She is
+admitted to the ICU for oxygen requirement and hypotension.
+.
+FEVER/DYSPNEA
+She presented with worsening cough, fever, leukocytosis, diffuse
+crackles, and CXR consistent with multifocal pneumonia versus
+aspiration pneumonitis.  Her BP dropped after presenting to the
+ICU to 70s requiring IVF boluses, concerning for sepsis.  She
+was bolused with normal saline and started on levofloxacin and
+vancomycin for empiric broad spectrum coverage, given that she
+had already received doses of Zosyn at OSH and ceftriaxone in
+the ED.  Blood and sputum samples were sent for culture.
+   Overnight there was significant clinical improvement.  She
+was afebrile and had decreasing oxygen requirements to 4L to
+maintain O2 sats in mid 90s.  Her blood pressure was stable and
+white count was normal. She was transferred to the floors on
+hospital day 1.  Her antibiotic regimen was narrowed to
+levofloxacin for empiric treatment of CAP.  She remained stable
+on this regimen, with no white count, no fevers, and a steady
+improvement in symptoms.  At time of discharge, she will take
+two more days of levofloxacin to complete a 7-day course.  She
+is off of oxygen, with ambulatory O2 sats of 94-95%.  She is no
+longer dyspneic.
+   We believe that she may have had an aspiration event, causing
+a pneumonitis.  This would account for her rather rapid
+improvement in symptoms.  The other possibility, given CXR
+findings of multifocal infiltrate, is that she has had an
+atypical pneumonia, either bacterial or viral, in which case a
+7-day course of levofloxacin should provide sufficient
+antimicrobial coverage.  There was no positive culture data from
+urine, blood, or sputum.
+.
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+This was evident on her chest x-rays and consistent with her
+significant smoking history.  She had wheezes on exam and we
+treated with standing and prn albuterol/ipratropium nebs.  She
+is discharged with Combivent inhaler.
+.
+ANEMIA
+Her hematocrit trended from 36.9 to 39 to 31.3, to 29.9.  We
+believe this was a dilutional effect in the setting of
+aggressive fluid rescusitation as all cell lines were
+decreasing.  After hospital day 1, her hematocrit was stable in
+the high twenties.
+.
+CHRONIC DIASTOLIC HEART FAILURE
+She had a TTE in [**2607-10-30**] that showed moderately
+decreased left ventricular function with 3+ MR and 4+ TR.  On
+exam during this admission she appeared euvolemic, with no lower
+extremity pitting edema and mild crackles at the bases which
+were hard to interpret in the setting of multifocal pneumonia
+and diffuse scattered crackles.  We held her Lasix due to her
+hypotension and concern that she was volume depleted.  With her
+Lasix held, her creatinine returned to 0.8 from 1.3 at
+admission.  Her BUN similarly decreased to 19 from 34 at
+admission.  We have recommended that she stop the Lasix until
+following up with her primary care physician.
+.
+ATRIAL FIBRILLATION
+She was monitored on telemetry and continued on outpatient
+digoxin.  Her rate was well-controlled.  We continued her
+outpatient coumadin at 1 mg daily.  Her INR rose to 3.8 after
+she was started on levofloxacin.  We held her coumadin for two
+nights.  At time of discharge her INR is therapeutic and we have
+resumed the coumadin, at alternating doses of 1 mg every other
+day and 0.5 mg every other day.  She will have blood draws two
+days after discharge and five days after discharge to recheck
+coumadin levels.
+.
+ACUTE RENAL FAILURE
+This resolved with intravenous fluids.
+.
+HISTORY OF CVA
+CT head without contrast was normal.  There were no focal
+neurologic deficits, apart from her difficulty swallowing (see
+below), which may be unrelated to her history of cerebrovascular
+accident.
+.
+DYSPHAGIA
+Because she came in after a likely aspiration event, she was
+evaluated by the speech and swallow pathologists.  After video
+swallow study showed significant aspiration risk, they
+recommended a po diet of soft solids and honey thick liquids
+with meds crushed in puree.  She should sit upright when eating
+and alternate sips with bites.  The S&S specialists also
+recommended for home speech and swallow evaluation, which we
+have arranged.
+.
+HYPOTHYROID
+We continued her outpatient levothyroxine.
+.
+She was kept on a heart-healthy diet with prethickened liquids
+and soft solids.  She was anticoagulated on warfarin throughout.
+ Her code status is full code.
+
+Medications on Admission:
+Home Medications:
+Confirmed with primary care doctor
+Coumadin 1 mg daily
+Digoxin 0.125 mg daily
+Furosemide 20 mg daily
+Simvastatin 20 mg daily
+Potassium 10 mEq daily
+Levothyroxine 25 mcg daily
+Megace three times a day
+
+
+Discharge Medications:
+1. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Simvastatin 40 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+3. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Levofloxacin 250 mg Tablet Sig: Three (3) Tablet PO Q48H
+(every 48 hours) for 2 doses.
+Disp:*6 Tablet(s)* Refills:*0*
+5. Megace Oral  Oral
+6. Combivent 18-103 mcg/Actuation Aerosol Sig: [**11-30**]  Inhalation
+four times a day.
+Disp:*5 qs* Refills:*3*
+7. Coumadin 1 mg Tablet Sig: 0.5-1.0 Tablet PO once a day:
+Please take 1 mg on Monday, Wednesday, Friday, and Sunday.
+Please take 0.5 mg on Tuesday, Thursday, and Saturday.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Home Health VNA
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Aspiration pneumonia or pnuemonitis
+.
+SECONDARY DIAGNOSES
+Atrial fibrillation on coumadin
+Hypothyroidism
+History of cerebrovascular accident
+
+
+Discharge Condition:
+Vital signs stable.  Afebrile.  Satting mid 90s on room air.
+
+
+Discharge Instructions:
+You were hospitalized for treatment of pneumonia.  A chest x-ray
+confirmed this diagnosis.  We treated you with an antibiotic
+called levofloxacin, which you should continue to take for a
+full 7-day course.  Please continue to take levofloxacin at a
+dose of 750 mg once every other day.  You will have two more
+doses to take after you leave the hospital.
+.
+We found that the levels of coumadin in your blood were slightly
+elevated during the last few days.  We will have visiting nurses
+come to your house to measure the INR and will have the results
+faxed to Dr. [**Last Name (STitle) 5949**] so that he can make adjustments to your
+coumadin dose.  For the time being, please take 1 mg each night
+on Monday, Wednesday, Friday, and Sunday.  Please take 0.5 mg
+each night on Tuesday, Thursday, and Saturday.
+.
+We stopped the Lasix (furosemide) because we thought that you
+were dehydrated, and Lasix could cause this to worsen.  Please
+do not take the Lasix until you see your primary care provider
+next week.
+.
+You can use the Advair inhaler two to three times as needed for
+shortness of breath.
+.
+Please follow-up with your primary care provider in one week.
+We have scheduled an appointment that is listed below.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **] on Monday, [**11-13**] at
+2:15PM (the appointment has already been arranged). If you would
+like to reschedule his office phone number is ([**Telephone/Fax (1) 15668**].
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 252**]
+
+Completed by:[**2609-11-1**]

@@ -1,0 +1,619 @@
+Admission Date:  [**2943-8-19**]              Discharge Date:   [**2943-8-31**]
+
+Date of Birth:  [**2879-7-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1596**]
+Chief Complaint:
+fatigue, shortness of breath, fever
+
+Major Surgical or Invasive Procedure:
+Endotrachial intubation
+Cardioversion - [**8-21**]
+Trans esophageal Echocardiogram
+
+
+History of Present Illness:
+64-year-old M with h/o single-vessel CABG in [**2929**], hypertension,
+hyperlipidemia, diabetes, as well as PAF who presented with 3
+days of fatigue and shortness of breath along with recent onset
+of fevers.  He was not feeling well in general over several
+days, but got acutely ill at a barbeque with his family.  He was
+sitting in a chair at the event and he felt so weak that he
+could not stand.  He needed multiple family members to help him
+up out of the chair and noted that he felt extremely hot at this
+time.  He has had chills at home on a relatively regular basis
+since the late [**2924**].  He endorsed fever to 101 over the weekend
+as well as nausea and decreased PO intake with one day of
+diarrhea.
+.
+In the ED, initial vitals were 98.9 77 105/74 24 99%RA. On
+monitor SBP in 70s. He went into afib with RVR 176 at fastest.
+Given 4L fluid and HR decrease 120-130, SBP to 100-119. Given
+calcium, dilt 10mg(5mg+5mg) IV. Took asa today. Spiked to 102.7
+in ED and CXR showed lingular opacity. After about 4L fluid his
+O2 sats dropped and he was given an atrovent neb, his HR
+increased to 180 and he was started on a dilt drip at 5mg/hr. On
+transfer to the CCU he is [**Age over 90 **]-100% on NRB, HR 158, BP 139/118, T
+102.7, RR 28.
+
+Past Medical History:
+Cardiac Risk Factors: (+)Diabetes, (+)Dyslipidemia,
+(+)Hypertension
+.
+Cardiac History: CABG in [**2929**]
+.
+Other Past History:
+#. CAD s/p CABG [**2929**] at [**Hospital1 821**], stress test in [**12-23**] negative
+for ischemia
+#. CHF, EF 60 % on stress test in [**12-23**]
+#. HTN
+#. Hyperlipidemia
+#. Type 2 diabetes mellitus - on lantus
+#. CRI - baseline mid 2s, peak at 4.1
+#. b/l leg ulcers w/chronic peripheral edema
+#. Neuropathy
+
+Social History:
+He is retired retail manager.  He is married and lives in
+[**Location 2988**].  He has 3 adult children.
+-Tobacco history: He used to smoke three packs a day for several
+years, but has quit 15 years ago
+-ETOH: He drinks alcohol in social situations only.
+-Illicit drugs:  None. No Hx of IVDU. No Hx of recent travel, no
+tick bites. No Hx of MSM. Only international travel Hx to [**Country 8465**]
+many years ago. No sick contacts.
+
+Family History:
+There is no family history of sudden cardiac death, premature
+CAD or arrhythmias, even though diabetes is strong in his
+family.
+
+Physical Exam:
+VS: T=97.0 BP=116/71 HR=84 RR= 20 O2 sat= 99% 3L NC
+GENERAL:  Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, slightly injected, no pallor or cyanosis of the oral
+mucosa. No xanthalesma.
+NECK: Supple with JVP not visible, No cervical LAD.
+CARDIAC: Regular rate and rhythm. No M/R/G
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Bibasilar inspiratory
+crackles
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: Bilateral 2+ pitting edema- currently wrapped.
+Stasis ulcer on R shin and surrounding erythema.
+
+PULSES:
+Right: Carotid 2+  DP dopplerable PT dopplerable
+Left: Carotid 2+  DP dopplerable PT dopplerable
+
+Pertinent Results:
+ECHO [**8-19**]:  The left atrium is mildly dilated. No left atrial
+mass/thrombus seen (best excluded by transesophageal
+echocardiography). There is mild symmetric left ventricular
+hypertrophy with normal cavity size and regional/global systolic
+function (LVEF>55%). The estimated cardiac index is normal
+(>=2.5L/min/m2). Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Trivial mitral regurgitation is seen. There is
+borderline pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+.
+Tib/fib X-ray [**8-19**]:  No radiographic evidence of osteomyelitis.
+.
+CT torso [**8-20**]:
+1. Airspace opacification at the right lung base with air
+bronchogram, and
+possible cavitation. Small right pleural effusion. Scattered
+lymph nodes in mediastinum, with prominent lymph nodes in the
+right hilum, could be reactive.
+2. Enlarged kidneys with perinephric stranding.
+3. Stable appearance of calcified splenic lesion.
+4. Mass vs abscess, 4 x 4.3 cm size, in liver
+.
+RUQ U/S [**8-21**]:
+1. Mixed echogenic lesion within the gallbladder fossa is
+consistent with resolving hematoma as seen on prior CT scan from
+one year ago.
+2. Diffuse fatty infiltration of the liver. Please note that
+other more
+severe forms of liver disease including significant hepatic
+fibrosis/cirrhosis cannot be excluded.
+.
+ECHO [**8-21**] (TEE)- No spontaneous echo contrast or thrombus is seen
+in the body of the left atrium or left atrial appendage. No
+atrial septal defect is seen by 2D or color Doppler. Overall
+left ventricular systolic function is normal (LVEF>55%). The
+aortic valve leaflets (3) are mildly thickened. No masses or
+vegetations are seen on the aortic valve. No mass or vegetation
+is seen on the mitral valve. Mild (1+) mitral regurgitation is
+seen. There is no pericardial effusion.
+
+IMPRESSION: No LA/LAA thromubs seen. No valvular vegetations
+seen on the aortic, tricuspid or mitral valves. Moderate TR
+seen.
+.
+RUQ U/S ([**8-21**])
+1. Mixed echogenic lesion within the gallbladder fossa is
+consistent with
+resolving hematoma as seen on prior CT scan from one year ago.
+2. Diffuse fatty infiltration of the liver. Please note that
+other more
+severe forms of liver disease including significant hepatic
+fibrosis/cirrhosis
+cannot be excluded.
+.
+CXR [**8-21**]- There has been previous median sternotomy and coronary
+bypass
+surgery. New vascular congestion and left-sided interstitial
+opacities
+suggest worsening volume status of the patient. There remains
+marked
+elevation of the right hemidiaphragm, present dating back to
+[**2942-3-22**]
+chest radiograph, with adjacent atelectasis involving right
+middle and right lower lobes. There is also a small right
+pleural effusion.
+.
+CXR [**8-22**]: There is newly developed left lung consolidation that
+given its rapid development is highly concerning for massive
+aspiration. Rapidly progressing infection is unlikely. There is
+no evidence of pulmonary edema. There is still high position of
+right hemidiaphragm and stable appearance of cardiomediastinal
+silhouette.
+.
+CXR ([**8-23**])- Slight interval improvement in the extensive left mid
+and lower
+lung consolidation, presumably related to massive aspiration,
+stable large
+right pleural effusion with new left lower lobe collapse.
+.
+CXR ([**8-25**])- There has been some clearing of the left opacities
+since the two prior chest x-rays. Atelectasis of the right base
+persists.
+.
+[**2943-8-19**] 12:46AM BLOOD WBC-4.3 RBC-3.32* Hgb-8.6* Hct-27.2*
+MCV-82 MCH-26.0* MCHC-31.8 RDW-16.4* Plt Ct-129*
+[**2943-8-19**] 10:39AM BLOOD WBC-4.3 RBC-3.07* Hgb-8.0* Hct-25.7*
+MCV-84 MCH-25.9* MCHC-31.0 RDW-16.6* Plt Ct-128*
+[**2943-8-20**] 05:20AM BLOOD WBC-3.0* RBC-3.08* Hgb-8.0* Hct-25.7*
+MCV-84 MCH-25.8* MCHC-30.9* RDW-16.7* Plt Ct-119*
+[**2943-8-21**] 04:19AM BLOOD WBC-4.4 RBC-3.07* Hgb-8.3* Hct-25.2*
+MCV-82 MCH-27.0 MCHC-32.8 RDW-17.5* Plt Ct-132*
+[**2943-8-22**] 04:18AM BLOOD WBC-4.9 RBC-3.24* Hgb-8.7* Hct-27.0*
+MCV-83 MCH-26.8* MCHC-32.1 RDW-17.2* Plt Ct-123*
+[**2943-8-23**] 03:00AM BLOOD WBC-4.7 RBC-3.16* Hgb-8.2* Hct-26.8*
+MCV-85 MCH-26.0* MCHC-30.6* RDW-16.2* Plt Ct-142*
+[**2943-8-24**] 05:43AM BLOOD WBC-4.0 RBC-2.74* Hgb-7.2* Hct-22.8*
+MCV-83 MCH-26.4* MCHC-31.8 RDW-16.5* Plt Ct-177
+[**2943-8-24**] 02:26PM BLOOD WBC-3.6* RBC-2.69* Hgb-7.0* Hct-22.9*
+MCV-85 MCH-26.1* MCHC-30.6* RDW-15.7* Plt Ct-179
+[**2943-8-24**] 02:26PM BLOOD WBC-3.6* RBC-2.69* Hgb-7.0* Hct-22.9*
+MCV-85 MCH-26.1* MCHC-30.6* RDW-15.7* Plt Ct-179
+[**2943-8-25**] 05:06AM BLOOD WBC-4.4 RBC-2.85* Hgb-7.3* Hct-24.0*
+MCV-84 MCH-25.7* MCHC-30.5* RDW-15.7* Plt Ct-190
+[**2943-8-26**] 05:21AM BLOOD WBC-4.9 RBC-2.91* Hgb-7.4* Hct-24.2*
+MCV-83 MCH-25.4* MCHC-30.4* RDW-15.7* Plt Ct-214
+[**2943-8-27**] 06:41AM BLOOD WBC-5.8 RBC-2.78* Hgb-7.1* Hct-23.2*
+MCV-84 MCH-25.6* MCHC-30.7* RDW-16.0* Plt Ct-246
+[**2943-8-28**] 04:57AM BLOOD WBC-6.0 RBC-2.78* Hgb-7.0* Hct-22.7*
+MCV-82 MCH-25.1* MCHC-30.8* RDW-17.0* Plt Ct-257
+[**2943-8-29**] 05:10AM BLOOD WBC-5.9 RBC-2.92* Hgb-7.2* Hct-24.1*
+MCV-83 MCH-24.5* MCHC-29.7* RDW-16.2* Plt Ct-242
+[**2943-8-30**] 04:41AM BLOOD WBC-5.8 RBC-2.75* Hgb-6.9* Hct-22.2*
+MCV-81* MCH-25.1* MCHC-31.1 RDW-17.6* Plt Ct-249
+[**2943-8-31**] 05:44AM BLOOD WBC-6.2 RBC-2.68* Hgb-6.9* Hct-22.1*
+MCV-83 MCH-25.6* MCHC-31.0 RDW-16.8* Plt Ct-264
+[**2943-8-19**] 10:39AM BLOOD Neuts-83.2* Lymphs-11.9* Monos-4.2
+Eos-0.3 Baso-0.4
+[**2943-8-23**] 03:00AM BLOOD Neuts-72* Bands-0 Lymphs-19 Monos-9 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2943-8-26**] 05:21AM BLOOD Neuts-42* Bands-3 Lymphs-23 Monos-1*
+Eos-2 Baso-1 Atyps-2* Metas-0 Myelos-0 Other-26*
+[**2943-8-27**] 06:41AM BLOOD Neuts-40* Bands-3 Lymphs-50* Monos-2
+Eos-2 Baso-1 Atyps-2* Metas-0 Myelos-0
+[**2943-8-28**] 04:57AM BLOOD Neuts-32* Bands-4 Lymphs-18 Monos-8 Eos-0
+Baso-2 Atyps-36* Metas-0 Myelos-0
+[**2943-8-29**] 05:10AM BLOOD Neuts-40* Bands-2 Lymphs-26 Monos-8 Eos-0
+Baso-0 Atyps-24* Metas-0 Myelos-0
+[**2943-8-30**] 04:41AM BLOOD Neuts-45* Bands-1 Lymphs-33 Monos-10
+Eos-1 Baso-1 Atyps-9* Metas-0 Myelos-0
+[**2943-8-23**] 03:00AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-NORMAL
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**2943-8-26**] 05:21AM BLOOD Hypochr-NORMAL Anisocy-OCCASIONAL
+Poiklo-OCCASIONAL Macrocy-OCCASIONAL Microcy-OCCASIONAL
+Polychr-NORMAL Ovalocy-OCCASIONAL Schisto-OCCASIONAL
+[**2943-8-27**] 06:41AM BLOOD Hypochr-NORMAL Anisocy-NORMAL
+Poiklo-OCCASIONAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+Ovalocy-OCCASIONAL
+[**2943-8-28**] 04:57AM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-OCCASIONAL
+Macrocy-NORMAL Microcy-3+ Polychr-1+ Ovalocy-OCCASIONAL
+Stipple-OCCASIONAL
+[**2943-8-29**] 05:10AM BLOOD Hypochr-3+ Anisocy-2+ Poiklo-1+
+Macrocy-NORMAL Microcy-2+ Polychr-NORMAL Burr-1+
+[**2943-8-30**] 04:41AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL
+Macrocy-NORMAL Microcy-1+ Polychr-NORMAL
+[**2943-8-19**] 12:46AM BLOOD Plt Ct-129*
+[**2943-8-19**] 12:46AM BLOOD PT-16.5* PTT-30.3 INR(PT)-1.5*
+[**2943-8-19**] 10:39AM BLOOD Plt Ct-128*
+[**2943-8-19**] 08:29PM BLOOD PT-19.2* PTT-124.9* INR(PT)-1.8*
+[**2943-8-20**] 05:20AM BLOOD PT-22.2* PTT-62.0* INR(PT)-2.1*
+[**2943-8-20**] 05:20AM BLOOD Plt Ct-119*
+[**2943-8-21**] 04:19AM BLOOD PT-31.8* PTT-37.4* INR(PT)-3.2*
+[**2943-8-21**] 04:19AM BLOOD Plt Ct-132*
+[**2943-8-22**] 04:18AM BLOOD PT-36.2* PTT-45.2* INR(PT)-3.7*
+[**2943-8-22**] 04:18AM BLOOD Plt Ct-123*
+[**2943-8-22**] 09:08PM BLOOD PT-44.0* PTT-60.6* INR(PT)-4.7*
+[**2943-8-23**] 03:00AM BLOOD PT-26.2* PTT-46.4* INR(PT)-2.5*
+[**2943-8-23**] 03:00AM BLOOD Plt Smr-LOW Plt Ct-142*
+[**2943-8-24**] 05:43AM BLOOD PT-15.2* PTT-41.7* INR(PT)-1.3*
+[**2943-8-24**] 05:43AM BLOOD Plt Ct-177
+[**2943-8-24**] 02:26PM BLOOD Plt Ct-179
+[**2943-8-25**] 05:06AM BLOOD PT-16.8* PTT-50.0* INR(PT)-1.5*
+[**2943-8-25**] 05:06AM BLOOD Plt Ct-190
+[**2943-8-26**] 05:21AM BLOOD PT-18.8* PTT-51.3* INR(PT)-1.7*
+[**2943-8-26**] 05:21AM BLOOD Plt Smr-NORMAL Plt Ct-214
+[**2943-8-26**] 03:37PM BLOOD PT-21.2* PTT->150* INR(PT)-2.0*
+[**2943-8-26**] 11:54PM BLOOD PT-22.7* PTT-111.7* INR(PT)-2.1*
+[**2943-8-27**] 06:41AM BLOOD PT-24.5* PTT-127.6* INR(PT)-2.3*
+[**2943-8-27**] 06:41AM BLOOD Plt Smr-NORMAL Plt Ct-246
+[**2943-8-28**] 04:57AM BLOOD PT-28.0* PTT-60.4* INR(PT)-2.8*
+[**2943-8-28**] 04:57AM BLOOD Plt Smr-NORMAL Plt Ct-257
+[**2943-8-29**] 05:10AM BLOOD PT-27.4* PTT-61.4* INR(PT)-2.7*
+[**2943-8-29**] 05:10AM BLOOD Plt Ct-242
+[**2943-8-30**] 04:41AM BLOOD PT-25.9* PTT-53.7* INR(PT)-2.5*
+[**2943-8-30**] 04:41AM BLOOD Plt Smr-NORMAL Plt Ct-249
+[**2943-8-31**] 05:44AM BLOOD PT-20.9* PTT-54.0* INR(PT)-1.9*
+[**2943-8-31**] 05:44AM BLOOD Plt Ct-264
+[**2943-8-19**] 10:39AM BLOOD FDP-0-10
+[**2943-8-19**] 10:39AM BLOOD FDP-0-10
+[**2943-8-30**] 04:41AM BLOOD ESR-137*
+[**2943-8-28**] 04:57AM BLOOD Ret Aut-4.4*
+[**2943-8-19**] 12:30AM BLOOD Glucose-199* UreaN-72* Creat-4.4*#
+Na-130* K-5.1 Cl-95* HCO3-24 AnGap-16
+[**2943-8-19**] 10:39AM BLOOD Glucose-191* UreaN-60* Creat-3.4* Na-136
+K-4.2 Cl-108 HCO3-17* AnGap-15
+[**2943-8-20**] 05:20AM BLOOD Glucose-180* UreaN-66* Creat-3.4* Na-134
+K-4.8 Cl-103 HCO3-19* AnGap-17
+[**2943-8-21**] 04:19AM BLOOD Glucose-243* UreaN-59* Creat-3.1* Na-130*
+K-4.7 Cl-100 HCO3-20* AnGap-15
+[**2943-8-22**] 04:18AM BLOOD Glucose-223* UreaN-59* Creat-3.1* Na-133
+K-4.8 Cl-101 HCO3-18* AnGap-19
+[**2943-8-22**] 09:08PM BLOOD Glucose-130* UreaN-61* Creat-3.4* Na-134
+K-4.4 Cl-103 HCO3-21* AnGap-14
+[**2943-8-23**] 03:00AM BLOOD Glucose-143* UreaN-61* Creat-3.5* Na-135
+K-4.5 Cl-101 HCO3-23 AnGap-16
+[**2943-8-24**] 05:43AM BLOOD Glucose-119* UreaN-68* Creat-3.5* Na-136
+K-4.2 Cl-100 HCO3-25 AnGap-15
+[**2943-8-25**] 05:06AM BLOOD Glucose-116* UreaN-71* Creat-3.4* Na-135
+K-4.4 Cl-99 HCO3-25 AnGap-15
+[**2943-8-26**] 05:21AM BLOOD Glucose-147* UreaN-71* Creat-3.1* Na-135
+K-3.9 Cl-97 HCO3-26 AnGap-16
+[**2943-8-27**] 06:41AM BLOOD Glucose-133* UreaN-71* Creat-3.2* Na-131*
+K-3.9 Cl-93* HCO3-26 AnGap-16
+[**2943-8-28**] 04:57AM BLOOD Glucose-191* UreaN-75* Creat-3.3* Na-133
+K-4.2 Cl-96 HCO3-28 AnGap-13
+[**2943-8-29**] 05:10AM BLOOD Glucose-154* UreaN-79* Creat-4.1* Na-131*
+K-4.1 Cl-95* HCO3-28 AnGap-12
+[**2943-8-29**] 02:14PM BLOOD Glucose-217* UreaN-85* Creat-4.0* Na-129*
+K-4.6 Cl-94* HCO3-25 AnGap-15
+[**2943-8-30**] 04:41AM BLOOD Glucose-154* UreaN-82* Creat-3.6* Na-129*
+K-4.3 Cl-94* HCO3-28 AnGap-11
+[**2943-8-30**] 03:07PM BLOOD Glucose-150* UreaN-80* Creat-3.3* Na-130*
+K-4.5 Cl-95* HCO3-27 AnGap-13
+[**2943-8-19**] 12:30AM BLOOD ALT-16 AST-21 LD(LDH)-261* CK(CPK)-223*
+AlkPhos-61 TotBili-0.4
+[**2943-8-23**] 03:00AM BLOOD ALT-19 AST-21 AlkPhos-52 TotBili-0.5
+[**2943-8-24**] 05:43AM BLOOD ALT-20 AST-24 AlkPhos-68 TotBili-0.4
+[**2943-8-25**] 05:06AM BLOOD ALT-20 AST-23 LD(LDH)-288* AlkPhos-63
+TotBili-0.4
+[**2943-8-26**] 05:21AM BLOOD ALT-19 AST-25 AlkPhos-59 TotBili-0.4
+[**2943-8-29**] 02:14PM BLOOD ALT-30 AST-43* LD(LDH)-328* AlkPhos-73
+Amylase-115* TotBili-0.4
+[**2943-8-30**] 04:41AM BLOOD LD(LDH)-335* Amylase-120*
+[**2943-8-30**] 03:07PM BLOOD AlkPhos-89 Amylase-118*
+[**2943-8-29**] 02:14PM BLOOD Lipase-149*
+[**2943-8-30**] 04:41AM BLOOD Lipase-181*
+[**2943-8-30**] 03:07PM BLOOD Lipase-157*
+[**2943-8-19**] 12:30AM BLOOD cTropnT-0.19*
+[**2943-8-19**] 12:30AM BLOOD CK-MB-5
+[**2943-8-19**] 10:39AM BLOOD Albumin-2.7* Calcium-6.2* Phos-3.5 Mg-2.0
+[**2943-8-20**] 05:20AM BLOOD Calcium-7.6* Phos-3.5 Mg-2.4
+[**2943-8-21**] 04:19AM BLOOD Calcium-7.7* Phos-3.0 Mg-2.2
+[**2943-8-22**] 04:18AM BLOOD Calcium-8.0* Phos-3.7 Mg-2.4
+[**2943-8-23**] 03:00AM BLOOD Albumin-3.7 Calcium-8.2* Phos-4.2 Mg-2.4
+[**2943-8-24**] 05:43AM BLOOD Calcium-8.0* Phos-3.2 Mg-2.3
+[**2943-8-25**] 05:06AM BLOOD Albumin-3.5 Calcium-8.4 Phos-2.4* Mg-2.4
+[**2943-8-26**] 05:21AM BLOOD Albumin-3.4 Calcium-8.5 Phos-2.6* Mg-2.4
+Iron-35*
+[**2943-8-27**] 06:41AM BLOOD TotProt-6.8 Calcium-8.0* Phos-3.0 Mg-2.4
+[**2943-8-28**] 04:57AM BLOOD Calcium-8.3* Phos-3.1 Mg-2.5
+[**2943-8-29**] 05:10AM BLOOD Calcium-8.3* Phos-3.9 Mg-2.7*
+[**2943-8-29**] 02:14PM BLOOD Albumin-3.2* Cholest-80
+[**2943-8-30**] 04:41AM BLOOD Calcium-8.3* Phos-3.0 Mg-2.7* Iron-45
+[**2943-8-30**] 03:07PM BLOOD Calcium-8.4 Phos-2.9 Mg-2.7*
+[**2943-8-19**] 10:39AM BLOOD Hapto-176
+[**2943-8-26**] 05:21AM BLOOD calTIBC-280 Ferritn-126 TRF-215
+[**2943-8-27**] 06:41AM BLOOD VitB12-706 Folate-12.3
+[**2943-8-30**] 04:41AM BLOOD calTIBC-306 Ferritn-126 TRF-235
+[**2943-8-29**] 02:14PM BLOOD Triglyc-330* HDL-9 CHOL/HD-8.9 LDLcalc-5
+[**2943-8-20**] 05:20AM BLOOD Osmolal-300
+[**2943-8-29**] 02:14PM BLOOD Osmolal-312*
+[**2943-8-23**] 03:00AM BLOOD TSH-0.42
+[**2943-8-29**] 02:14PM BLOOD CRP-27.0*
+[**2943-8-27**] 06:41AM BLOOD PEP-TRACE ABNO IgG-1629* IgA-146 IgM-275*
+IFE-TRACE MONO
+[**2943-8-21**] 01:32AM BLOOD Type-ART pO2-66* pCO2-31* pH-7.40
+calTCO2-20* Base XS--3
+
+Brief Hospital Course:
+64 yo M with single-vessel CABG in [**2929**], HTN, HLD, DM, PAF,
+presented with fatigue, fever of unknown origin, found to be in
+Afib with RVR, s/p cardioversion to NSR, s/p treatment for CAP
+and aspiration pneumonia.
+.
+# Afib with RVR: initially presented with atrial fibrillation
+with rapid ventricular response (HR 160s). TEE showed no
+vegetations or atrial clots, and cardioversion performed [**8-21**].
+Initially went back into Afib and started on rate control with
+diltiazem 60mg QID as well as metoprolol.  Patient converted
+into NSR again [**2943-8-28**]. Diltiazem was discontinued and
+metoprolol was continued. Patient remained hemodynamically
+stable. Suspect that patient will remain in NSR as amiodarone
+stores build up.  Plan is for patient to continue 400 mg
+amiodarone until [**9-6**], then he will switch to 200 mg daily
+indefinitely.  He is to continue is home dose metoprolol on
+discharge.  He will remain off diltiazem.
+.
+#Fever/atypical lymphocytes/lymphocytic predominance on diff:
+Likely due to CAP (RLL air bronchograms) and aspiration
+pneumonia (on later CXR findings, LLL infiltrate, s/p
+extubation).  Patient completed 9 day course of vancomycin, 10
+day course of zosyn, and 6 day course of ciprofloxacin (with
+prior levofloxacin), as per ID recs.  With regard to potential
+source of fevers: Pulmonary was consulted and bronch/right
+thoracentesis was deferred, as his clinical picture was
+improving and the fact that his R pleural effusion was
+chronic/stable.  Liver US showed ?abscess vs. resolving
+hematoma, but after discussion with radiology and ID, the
+findings were felt to be more c/w resolving hematoma, and US
+guided needle aspiration was not performed.  On chest CT, some
+question of cavitary lesion/RLL air bronchograms, which was
+followed by TB rule out with three negative sputum samples.
+LFTs were wnl, influenza DFA negative, blood cx were negative,
+urine cx negative, C. diff negative, urinary Legionella
+negative, RPR negative, CMV IgG/IgM negative, TB sputum x 3 was
+negative, tib/fib negative for osteomyelitis, TEE negative for
+vegetations.  Patient was afebrile for 72+ hours on discharge.
+Of note, patient had EBV VCA-IgM Ab positivity, which may
+suggest recent infection. Discussed positive EBV with ID, who
+mentioned that it was likely cross-reactivity with other tests,
+and that his viral syndrome/course will likely be self-limited.
+HIV was discussed with patient (and risk factors were
+discussed), but testing was deferred at this time, as per
+patient request.
+.
+# CORONARIES: Troponin leak (peak 0.19) likely [**2-18**] ARF as well
+as demand given RVR to 160s. Baseline trop about 0.10 and pt.
+denies chest pain.  As such clinical suspicion for ACS was low.
+Patient was continued on his metoprolol.  His lisinopril was,
+and will be, held given ARF on CKD.  His simvastatin was
+decreased to 10 mg given his unusual lipid panel (LDL 5, HDL 9)
+which is similar to [**2942**] studies.
+.
+# PUMP: CXR with initial signs c/w volume overload and was
+initially diuresed with IV lasix for pulmonary edema.  TEE on
+[**2943-8-21**] showed preserved EF with normal valvular function, no
+vegetations.
+.
+# Oxygen requirement: possibly secondary to post-pneumonia
+reactive airways vs. (more likely) deconditioning.  He has
+worked with physical therapy as an inpatient and will be
+discharged to home with PT services and home oxygen.  Of note,
+patient will likely need PFTs on discharge, and this can be
+addressed by Dr. [**Last Name (STitle) **] (PCP).
+.
+# Anemia: H/H 6.9/22.1 on discharge and it is apparent that
+patient has some component of anemia of chronic disease from his
+CKD. Renal was consulted and patient is to follow-up with Dr.
+[**Last Name (STitle) **] for possible Procrit injections and IV iron therapy. Stool
+guiacs were negative. No signs/symptoms of bleeding.
+.
+# Diabetes: Poorly controlled, last A1c 10.5% with complications
+of nephropathy and neuropathy.  Patient's home glargine was
+increased to 54U QAM, and he will be discharged on this regimen,
+given his insulin requirements.  He is to follow-up with his
+outpatient endocrinologist and has voiced understanding.
+.
+# Hyponatremia: renal feels this may be related to initial
+hyervolemic hyponatremia (given volume overload), and now
+possible hyponatremic hyponatremia.  PO intake was encouraged
+near time of discharge, Na was uptrending, and on discharge Na
+was 131.  Patient is to follow-up Na levels with Dr. [**Last Name (STitle) **]
+(in PCP [**Name Initial (PRE) 28733**]) as well as with Dr. [**Last Name (STitle) **] (nephrology).
+.
+# ARF on CKD: Baseline Cr~2. Cr jumped to 4.4 on admission and
+was 3.4 on discharge.  Renal was consulted and they felt this
+was most c/w ATN due to relative hypoperfusion during his afib
+with rvr as well as possible AIN given his cipro/vanco Abx
+regimen.  Patient will f/u with Dr. [**Last Name (STitle) **] in nephrology clinic.
+.
+# Anticoagulation: patient is on anticoagulation for PAF, was
+bridged with heparin while INR was subtherapeutic.  His coumadin
+requirements were decreased to 3 mg, as his amiodarone stores
+built up.  INR goal [**2-19**] and on discharge, INR 1.9 on discharge.
+Patient will be discharged on 3 mg coumadin, with close f/u with
+coumadin clinic.
+.
+# Lower extremity edema/ulcers: stable without signs of
+osteomyelitis on exam or imaging. Wound care was consulted, legs
+were kept elevated, and wound care recs continued while
+admitted.
+.
+# Dispo - patient will be discharged home with VNA services, PT
+services, and home oxygen.  He is to call for PCP [**Name9 (PRE) 368**] with
+Dr. [**Last Name (STitle) **], and will f/u with Dr. [**Last Name (STitle) **] (nephrology) as he may
+be candidate for Procrit.  He has ID f/u on [**2943-10-7**].
+
+Medications on Admission:
+Bumetanide 2 mg Tablet 1 Tablet(s) by mouth DAILY
+Diltiazem HCl [DILT-XR] 180 mg Capsule,Degradable Cnt Release 1
+Capsule(s) by mouth daily
+Insulin Glargine [Lantus] 100 unit/mL Solution 44 units once a
+day
+Insulin Lispro [Humalog KwikPen] 100 unit/mL Insulin Pen
+injection per scale given below before meals 150-199:4 units;
+200-249: 8; 250-299: 12; 300-349: 16; 350-400: 20
+Lisinopril 10 mg Tablet 1 Tablet(s) by mouth once a day
+Metoprolol Tartrate 100 mg Tablet 1 Tablet(s) by mouth two times
+daily pt has been taking 1 tab once a day, had reduced on his
+own from 200 mg [**Hospital1 **]; advised to do 1 tab [**Hospital1 **]
+Niacin [Niaspan] 500 mg Tablet Sustained Release one Tablet(s)
+by mouth daily
+Pantoprazole 40 mg Tablet, Delayed Release (E.C.)
+1 Tablet(s) by mouth every twenty-four(24) hours
+Simvastatin [Zocor] 40 mg Tablet 1 Tablet(s) by mouth daily
+
+Warfarin 5 mg Tablet 1 (One) Tablet(s) by mouth once a day or as
+directed by [**Company **] Coumadin Clinic
+Acetaminophen 325 mg Tablet [**1-18**] Tablet(s) by mouth q6 hours as
+needed for fever or pain
+Aspirin 325 mg Tablet 1 Tablet(s) by mouth DAILY (Daily)
+Blood Sugar Diagnostic [One Touch Ultra Test] Strip to test
+blood sugar tid and prn
+
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily): Take 2 pills daily until [**2943-9-6**], then decrease to 1
+pill daily.
+Disp:*60 Tablet(s)* Refills:*2*
+2. Outpatient Lab Work
+Please check CBC and chem 7 on Wednesday [**2943-9-4**] and call
+results to Dr. [**Last Name (STitle) 28734**] at [**Telephone/Fax (1) 19**]
+3. Humalog KwikPen 100 unit/mL Insulin Pen Sig: One (1) pen
+Subcutaneous four times a day: as per sliding scale.
+Disp:*90 cartridges* Refills:*2*
+4. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Bumetanide 1 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO four times a
+day as needed for pain, fever.
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+8. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4
+PM: Or as directed by the coumadin clinic.
+9. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for constipation.
+10. Polyethylene Glycol 3350 100 % Powder Sig: One (1) packet PO
+DAILY (Daily) as needed for constipation.
+11. Niaspan 500 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO once a day.
+12. Metoprolol Tartrate 100 mg Tablet Sig: One (1) Tablet PO
+twice a day.
+13. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID
+(3 times a day) as needed for itching.
+Disp:*1 tube* Refills:*0*
+14. Lantus 100 unit/mL Solution Sig: Fifty Four (54) units
+Subcutaneous once a day: Please adjust down if your blood sugars
+are low. .
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Greater [**Location (un) 3324**] VNA
+
+Discharge Diagnosis:
+Atrial fibrillation
+Acute Renal Failure
+Anemia
+Hyponatremia
+[**Doctor Last Name **] [**Doctor Last Name **] Virus positive serologies
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You had a pneumonia that was treated with antibiotics. Your
+atrial fibrillation was very fast which required a cardioversion
+and treatment with amiodarone, a medicine that slows your heart
+rate and hopfully will keep you in normal sinus rhythm. You
+still will need to take your couamdin and follow-up with the
+coumadin clinic here at [**Hospital1 4**] to keep your INR between 2.0 and
+3.0.
+.
+Medication changes:
+1. Amiodarone: take 2 tablets (400mg total) daily until [**2943-9-6**],
+then change to one tablet daily to be continued indefinitely.
+2. Your simvastatin was decreased to 10 mg
+3. Stop taking your Lisinopril because your kidney function is
+poor. Dr. [**Last Name (STitle) **] will tell you when to start taking the Lisinopril
+again.
+4. Decrease your Bumetanide to 1 mg daily from 2 mg daily
+5. Decrease your coumadin to 3mg daily. Your last INR was 1.9 on
+discharge and you will need less coumadin now that you are on
+amiodarone. The coumadin clinic will resume responsibility for
+your coumadin dosing after you leave the hospital.
+6. Stop taking your Diltiazem XR
+7. Your senna and Miralax should be taken when you are home if
+you are still constipated. These are available over the counter.
+
+8. Your Lantus was increased to 54 units daily from 44 units
+daily.  Please adjust down if your blood sugars are low at home.
+
+.
+Please call Dr. [**Last Name (STitle) **] if you have any chest pain, trouble
+breathing, palpitations, fevers that you record on a
+thermometer, new cough, increasing abdominal pain, nausea or
+inability to eat or drink, or any other unusual symptoms.
+.
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs in 1 day
+or 6 lbs in 3 days. Please check your blood sugar before each
+meal and give Humalog insulin according to the sliding scale.
+.
+You are being sent home with physical therapy services and home
+oxygen while you return to your baseline mobility and state of
+health.
+
+Followup Instructions:
+Primary Care:
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 28734**] Phone: [**Telephone/Fax (1) 19**] Date/Time: Please draw
+CBC with manual diff during appt.  Please call the office and
+make an appointment within 1-2 weeks time.
+.
+Nephrology:
+Dr. [**Known patient firstname **] [**Last Name (NamePattern1) **] Phone: ([**Telephone/Fax (1) 28735**] Date/time: Office will
+call you with an appt once you are home.  If you do not hear
+from the office regarding an appointment, please call by
+Wednesday, [**9-5**].  As discussed, you may qualify for Procrit
+injections to build up your blood levels.
+.
+Infectious Disease:
+Dr. [**First Name (STitle) **] [**Name (STitle) **] Phone: ([**Telephone/Fax (1) 8411**] Date/Time: Monday [**10-7**]
+at 11:30am. Infectious Disease Clinic. [**Hospital **] Medical Building,
+Ground floor. [**Last Name (NamePattern1) 99**], [**Location (un) 100**]. You may park in the
+parking garage right next to the building.
+.
+Endocrinology:
+Please follow up as scheduled with your outpatient physician.
+.
+Cardiology:
+Dr. [**First Name4 (NamePattern1) 225**] [**Last Name (NamePattern1) 28736**] Phone: ([**Telephone/Fax (1) 228**] Date/time: please make
+an appt to be seen in [**1-18**] months.
+
+
+
+Completed by:[**2943-8-31**]

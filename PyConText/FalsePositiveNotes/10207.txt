@@ -1,0 +1,222 @@
+Admission Date:  [**2711-9-24**]              Discharge Date:   [**2711-9-27**]
+
+Date of Birth:  [**2631-6-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4077**]
+Chief Complaint:
+s/p pulseless arrest
+
+Major Surgical or Invasive Procedure:
+Intubation
+Arctic sun cooling/warming protocol
+
+History of Present Illness:
+Mr. [**Known patient lastname 3711**] is an 80 yo M with PMH of parkinsonism, autonomic
+instability and labile blood pressures admitted to the CCU
+following PEA arrest and resuscitation.  His wife reports that
+on the day prior to admission he was in his usual state of
+health without any complaints.  He went to bed at 11pm with his
+CPAP on.  His wife awoke at 1:30AM and noted that he had a
+strange breathing pattern.  She again awoke at 2:30 am and noted
+that he continued to be breathing strangely and then made
+several soft choking noises and stopped breathing.  She
+attempted to awaken him with no response so she called EMS who
+reportedly arrived withing 5-10minutes.
+.
+On EMS arrival he was noted to be in PEA arrest he was given 7mg
+epinephrine, 2mg atropine, 2 amps sodium bicarb, 100mg
+lidocaine, 300mg amiodarone, DCCV x 5.  He was started on
+amiodarone gtt and dopamine gtt.  His pupils were noted to be
+fixed and dilated by EMS.
+.
+On review of systems, his wife denies any prior history of
+stroke, TIA, deep venous thrombosis, pulmonary embolism,
+bleeding at the time of surgery, myalgias, joint pains, cough,
+hemoptysis, black stools or red stools. He does not have any
+recent fevers, chills or rigors.  Cardiac review of systems is
+notable for absence of chest pain, paroxysmal nocturnal dyspnea,
+orthopnea, ankle edema, palpitations.
+.
+In the ED, initial vitals were T34.8 rectal 128/77 HR 122 sinus
+tachycardia RR 18 99% RA.  He had an EKG showing sinus
+tachycardia and a bedside echocardiogram showing hyperdynamic LV
+function, no wall motion abnormalities.  He was started on artic
+sun protocol however his initial temperature was 34 degrees
+celsius.  He had a head CT which showed evidence of global
+anoxic insult.  He was admitted to the CCU for further care.
+
+Past Medical History:
+Primary autonomic dysfunction
+- Syncopal events since [**2705**] secondary to orthostatic
+hypotension
+- h/o positive tilt table test and othostatic hypotension,
+followed Dr. [**First Name (STitle) 493**] at [**Hospital1 68**]
+Neurogenic bladder
+- Has had foley catheter for 2 years due to urinary frequency
+- Patient has not had Foley changed for 4 weeks
+- h/o Klebsiella and Pseuodomonal UTIs in [**2710**], Enterobacter
+urosepsis
+Hypothyroidism
+Chronic low back pain
+GERD
+OSA
+Hospital admission for partial small bowel obstruction and
+constipation [**8-23**]
+Empty sella syndrome - endocrine w/u negative
+Benign bladder mass - s/p cystoscopy and biopsy
+h/o idiopathic pancytopenia
+
+
+Social History:
+Patient lives in a house in [**Hospital1 532**], MA with his wife of 56 years
+who is his main support and primary care provider. [**Name10 (NameIs) **] helps him
+with all of his IADL's and ADL's, including dressing, showering
+and medications. He has 5 children and 6 grandchildren. He used
+to work in the construction business as a manager and has had
+asbestos exposure in the past. He denies current smoking though
+he does have a remote history of ~15 pack years of smoking. He
+denies EtOH or drug use. He does not drive currently.
+
+Family History:
+Mother - DM, passed away at 84
+Father - colon CA, passed away at 67
+
+Physical Exam:
+VS: T=34 celsius on artic sun BP=107/81 HR= 150 regular RR=18 O2
+sat= 98%  AC 100%/550/16/5
+Gen: intubated, unresponsive to any stimulus, no posturing noted
+HEENT: NC AT, intubated pupils are fixed and dilated at 6mm
+bilaterally, right pupil appears to be post surgical, left eye
+with large cataract visible
+Neck: right EJ 18G iv in place, no significant jvd
+CV: RRR s1 s2 no appreciable murmur
+Lungs: CTAB anteriorly, unable to ausculate lung bases as artic
+sun cooling pads in place, no wheezing
+Abd: distended, soft, unable to assess for tenderness given
+mental status, positive bowel sounds
+Ext: cool, palpable DP's bilaterally
+
+Pertinent Results:
+72 hour EEG: This is an abnormal video EEG study because of a
+lack of discernible cortical activity. This study was not
+performed under a brain death protocol, however. There were no
+epileptiform features noted.
+.
+Head CT without contrast: Markedly limited study secondary to
+streak artifact from metallic scalp leads. Hypodensities within
+the bilateral basal ganglia and thalami in addition to
+decreasing size of the lateral ventricles, which are barely
+visible, all suggestive of increasing cerebral edema. A repeat
+evaluation may be obtained once the metallic scalp leads have
+been removed. These findings were communicated to Dr. [**Last Name (STitle) 4853**] on
+[**2711-9-25**] at 4:00 a.m.
+.
+NOTE ADDED AT ATTENDING REVIEW: I agree with the above
+interpretation.
+However, in addition to diffuse hypodensity of the deep grey
+matter
+structures, there is strking hypodensity of essentially all
+cortical grey
+matter. This is so severe that the cortex is of lower density
+than the white matter. This is associated with effacement of
+cortical sulci. These findings indicate severe global cortical
+edema. Given the history, this is most likely due to global
+hypoperfusion and infarction.
+
+Brief Hospital Course:
+80 y/o male with parkinsonism, autonomic instability, who was
+admitted to CCU following PEA arrest, likely secondary to
+aspiration, now s/p Arctic sun protocol, re-warmed and off
+sedation, with anoxic brain injury and worsening cerebral edema
+on CT scan, with flat lining EEG, no brainstem reflexes, and no
+spontaneous breathing.
+.
+# s/p PEA arrest: unlikely to be from primary cardiac etiology,
+at this time most like due to hypoxia from possible aspiration
+event given that main laboratory abnormality is hypoxia and also
+with new bilateral infiltrate.  No evidence of pericardial
+effusion on echo, no evidence of pneumothorax.  No evidence of
+acute MI on admission.  He did have a lactic acidosis, likely
+[**3-20**] prolonged pea arrest in the field.  He was in sinus
+tachycardia with occasional 2nd degree heart block type I on
+telemetry since admission.  He was bolused with amiodarone and
+lidocaine in the field and started on an amiodarone gtt by EMS.
+In the CCU, pt went into PEA arrest again.  CPR was performed,
+epi x 1 and atropine x 1 given, with cardiac function returning
+within 3-5 minutes.  CT scan showed diffuse anoxic brain injury
+with poor prognosis (flat EEG, CT head showing worsening
+cerebral edema, physical exam without brainstem reflexes).  Pt
+completed Arctic sun cooling, then warming protocol.  His
+sedation was weaned when re-warmed.  Neuro evaluated the
+patient, and noted absence of brainstem reflexes, fixed dilated
+pupils, and no response to cold caloric testing.  Pt was made
+DNR/DNI.  Amiodarone gtt was discontinued as PEA arrest felt to
+be very unlikely to be primary cardiac.  Apnea test, combined
+with neuro eval, confirmed brain death and patient was
+pronounced dead at 4:23 pm on [**2711-9-27**].  Family at bedside,
+declined autopsy.  [**Location (un) **] Organ bank felt that pt is not a
+candidate for organ donation.
+.
+#Hypoxia - Most likely etiology of PEA arrest, with significant
+AA gradient.  Unclear etiology at this time, possibly [**3-20**]
+aspiration event given LLL opacity and air bronchograms on CXR.
+Pulmonary embolus was a consideration; however no evidence of
+right heart strain on echocardiogram or PE on CTA.  Initially
+started on vancomycin and zosyn for aspiration pneumonia, but
+discontinued when family transitioned patient to CMO status.
+.
+#Anoxic Brain Injury - head ct on admission with evidence of
+global anoxic injury likely [**3-20**] prolonged PEA arrest of unknown
+duration.  Pt completed cooling protocol, then rewarmed, with
+unchanged exam.  He was taken off fentanyl/versed with no
+brainstem reflexes and poor prognosis, as per neuro.  72 hour
+EEG showed no waveform.
+.
+# Hypotesion/Autonomic Instability - long h/o labile BP and
+severe orthostasis.  He is on numerous doses of midodrine at
+baseline as well as salt tabs.  Per his family it is not unusual
+for him to have blood pressure in the 80's - 90's systolic then
+up to the 160's in the evening.  Anoxic injury likely
+contributing to labile BP.
+.
+# Dispo: patient declared brain dead at 4:23 pm on [**2711-9-27**].
+Extubated soon thereafter.  Family at bedside, declined autopsy.
+ Patient did not qualify for organ donation.
+
+Medications on Admission:
+AMANTADINE - 100 mg three times a day
+CARBIDOPA-LEVODOPA 25 mg-100 mg Tablet - 1 Tablet(s) [**Hospital1 **]
+CITALOPRAM 20mg daily
+MIDODRINE - 10mg q6am, 10mg q10am, 5mg q2pm and 5mg at 6pm (hold
+2pm and 6pm doses for sbp >160)
+SODIUM CHLORIDE - 1G Tablet - TAKE UP TO TEN TABLETS A DAY
+TRIMETHOPRIM-SULFAMETHOXAZOLE 800 mg-160 mg Tablet 1 tab [**Hospital1 **]
+prilosec 20mg daily
+levothyroxine 50mcg daily
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+out of hospital PEA arrest, felt to be related to aspiration
+event
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+.
+
+Followup Instructions:
+.
+
+
+Completed by:[**2711-9-27**]

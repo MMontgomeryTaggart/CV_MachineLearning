@@ -1,0 +1,132 @@
+TITLE:
+   Chief Complaint: Hypotension
+   24 Hour Events:
+   - Levophed weaned to off, 250cc bolus + IVF 100cc/hr
+   Allergies:
+   Penicillins
+   Rash;
+   Sulfa (Sulfonamides)
+   Rash;
+   Shellfish Derived
+   Hives; Wheezing
+   Aspirin
+   Unknown;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3151-1-15**] 06:00 PM
+   Vancomycin - [**3151-1-15**] 06:39 PM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**3151-1-16**] 03:06 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3151-1-16**] 06:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**52**] AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 37.3
+C (99.1
+   HR: 88 (80 - 103) bpm
+   BP: 112/55(68) {94/49(62) - 127/81(92)} mmHg
+   RR: 21 (15 - 29) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+    CVP: 11 (8 - 15)mmHg
+   Total In:
+                                                                  4,218 mL
+                                                                    438 mL
+   PO:
+                                                                    120 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                  1,098 mL
+                                                                    378 mL
+   Blood products:
+   Total out:
+                                                                    220 mL
+                                                                    210 mL
+   Urine:
+                                                                    220 mL
+                                                                    210 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,998 mL
+                                                                    228 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ////
+   Physical Examination
+   General Appearance: Anxious, pain
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   Diminished: b/l)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+        [image002.jpg]
+   Assessment and Plan
+   83 F with HTN s/p recent [**Last Name (un) **] with right hip fracture admitted to MICU
+   in setting of hypotension likely secondary to volume depletion and
+   medications
+   .
+   # Hypotension: Most likely related to decrease PO intake in the setting
+   of continue anti hypertensive therapy. No signs of infection. ECHO
+   without concern for saddle embolus.  Cardiac Enzymes flat
+   - f/u blood, urine cx
+   - f/u TTE final read
+   - Discontinue vanco/levo emprically for 48 hrs given unclear etiology
+   of hypotension
+   - Active T&S
+   .
+   # Right Acetabular hip fracture- non operative per orthopedics
+   - Fu portable AP pelvis per ortho recs
+   - Breakthrough pain control with IV morphine
+   - Standing Acetaminophen
+   .
+   # Acute on chronic kidney injury: Resolved with fluid repletion. Urine
+   lytes consitent with pre renal etiology.
+   - IVF hydration and follow CVP and UOP
+   - place foley catheter
+   .
+   # Anemia: HCT down overnight. All cell lines down, most likely partly
+   dilutional. Given recent pelvis fracture small concern for bleed into
+   pelvis. Family reports patient has not been taking EPO recently.
+   - [**1-23**] CKD, monitor given no evidence of bleeding
+   .
+   # Hypertension- currently hypotension, hold home meds
+   .
+   # GERD- continue outpatient lansoprazole
+   .
+   # FEN: NPO
+   # Prophylaxis: Subcutaneous heparin
+   # Access: R IJ
+ pull if goes to floor.
+   # Communication: Patient
+   # Code:  Full (discussed with patient)
+   # Disposition: ICU pending clinical improvement
+   ICU Care
+   Nutrition:  Regular Diet
+   Lines:
+   Multi Lumen - [**3151-1-15**] 06:34 PM
+   Prophylaxis:
+   DVT: Subcutaneous
+   Stress ulcer:  PPI
+   Communication:  Comments:
+   Code status: FULL
+   Disposition: To Floor

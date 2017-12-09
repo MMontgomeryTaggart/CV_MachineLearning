@@ -1,0 +1,327 @@
+Admission Date:  [**2644-11-3**]              Discharge Date:   [**2644-11-13**]
+
+Date of Birth:  [**2571-1-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1807**]
+Chief Complaint:
+ICD Firing
+
+Major Surgical or Invasive Procedure:
+PICC line placement
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 9312**] is a 73 y/o man with a history of diabetes, coronary
+artery disease s/p CABG >20 years ago, h/o VT s/p abdominal ICD
+and admission in [**8-9**] for VT storm w/exchange of ICD, Ischemic
+dilated cardiomyopathy with an EF 25-30%, severe mitral and
+tricuspid regurgitation, Chronic renal failure, hypertension,
+who is admitted to the CCU after presenting to [**Hospital3 **] in [**Location (un) 1762**] when his ICD fired several times in
+succession this morning.
+.
+Approximetly 1 week prior to this episode, he was admitted to
+[**Hospital1 **] with a similar presentation. During that admission he
+was apparently loaded with IV amiodarone and discharged on
+amiodarone 200mg po qday. Full discharge summary pending.
+.
+He did well until sunday [**11-3**], the morning of his
+admission here. He was getting dressed for the morning when his
+ICD began firing. He believes that it went off 5 or 6 times. He
+presented to [**Hospital1 **] where he was started on an amiodarone
+drip as well as given a bolus of lidocaine 50mg IV. He was not
+started on a lido drip. He was subsequently transfered to [**Hospital1 22**]
+for consideration of further EP study.
+.
+On review of systems he denies increased dyspnea, denies angina
+or resting chest pain (outside of ICD shocks), and denies
+syncope or pre-syncope. He has not had orthopnea or lower
+extremity edema. He denies fevers or chills. He does note that
+he had nausea when amiodarone was tried in the past, and that he
+seems to be developing that again with recently restarting amio
+earlier this week.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+-CABG: > 20 years ago @ [**Hospital1 110**]
+-PERCUTANEOUS CORONARY INTERVENTIONS: none per patient reports
+-PACING/ICD: Abdominal ICD placed in [**2625**]. Admitted to BIDin
+[**2644-8-2**] with VT and multiple shocks had removal of abdominal
+ICD and placement of Pacer/ICD in left upper shoulder. Had EP
+study in [**2644-8-2**] with multiple areas of enhanced
+automaticity, s/p attempted ablation
+3. OTHER PAST MEDICAL HISTORY:
+# Systolic Congestive Heart Failure, EF 25-30%
+# Diabetes Mellitus type II
+# Hypercholesterolemia (intolerant of statins)
+# Probably depression/anxiety due to recent experiences with VT
+storm
+# Atrial fibrillation, anticoagulated on coumadin
+# s/p AICD in abdomen with residual hematoma
+# Renal insufficiency
+# Severe TR & MR
+# Cardiomyopathy
+# s/p MV reconstruction
+# CAD s/p CABG
+# s/p AAA repair
+# Hypertension
+
+Social History:
+-Tobacco history: none
+-ETOH: minimal
+-Illicit drugs: none
+
+Family History:
+No family history of early MI, otherwise non-contributory.
+
+
+Physical Exam:
+98.7 70 128/70 20 965RA
+GEN: not in acute distress, but appears chronically ill and
+fatigued
+HEENT: MMM, JVP not elevated while patient sitting up in bed
+CV: rrr, s1 is obscurred by a III/VI holosystolic murmur heard
+best at LLSB and over mitral area that does not radiate to
+carotids
+RESP: crackles bilaterally @ bases of lungs
+ABD: soft, NT, palpaple mass over site of previous abdominal ICD
+site
+EXT: 2+ pulses bilaterally, right toe noted to be blue, but with
+good capillary refill and intact sensation, no pain. (patient
+states happens when feet get cold)
+
+
+Pertinent Results:
+LABS: From [**Hospital **] hospital drawn on day of admission to [**Hospital1 22**]
+([**11-3**]) were notable for Cr 2.2, CO2 21, Troponin T 0.34, Hct 37,
+WBC 10, PLT 179
+.
+EKG: atrial pacing @ 70bpm, QRS 130 with LBBB pattern. nl axis.
+
+.
+TELEMETRY: frequent runs of NSVT
+.
+2D-ECHOCARDIOGRAM [**2644-8-29**]:
+EF 25-30%, inferior hypokinesis, 3+MR, 4+TR
+.
+[**2644-11-5**] 12:20 pm BLOOD CULTURE STAPH AUREUS COAG +
+ERYTHROMYCIN---------- =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN---------- 0.25 S
+OXACILLIN------------- =>4 R
+PENICILLIN G---------- =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE---------- <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------ <=1 S
+
+CARDIAC ECHO [**10-12**]: No distinct vegetations are seen. However,
+there appears to be a para-mitral annular ring leak at the base
+of the anterior leaflet. Marked left atrial dilation. Complex
+atheromas. Moderate mitral regurgitation. Moderate tricuspid
+regurgitation.
+
+CT HEAD: In comparison with the prior study, no significant
+changes are demonstrated. Persistent areas of low attenuation in
+the subcortical white matter and left frontal lobe consistent
+with a chronic ischemic event and small vessel disease. Dense
+atherosclerotic calcifications noted in the carotid siphons and
+left vertebral artery. If there is any clinical concern related
+with an acute/subacute ischemic event, correlation with MRI is
+recommended if clinically warranted.
+
+
+Brief Hospital Course:
+73 y/o man with CAD, CHF, admitted for refractory ventricular
+tachycardia
+.
+# Ventricular Tachycardia: He has failed several drug regemins,
+largely due to GI intolerence, as well as the multiple foci of
+excitable ventricular myocardium.  He was recently on
+quinidine/mexilitine, but quinidine was discontinued due to GI
+intolerance.  Had breakthrough VT on mexilitine on presentation
+to [**Hospital1 **].  There he was loaded on amiodarone IV and
+continued on mexilitine on discharge along with 200mg
+amiodarone, but continued to have VT, apparently refractory to
+his anti-tachycardic pacing.  EP evaluation considered him
+unlikely to respond well to further ablation.  He was loaded
+with amiodorone IV and transitioned to PO, as well as mixilitine
+TID.  He has some significant apprehesive nausea and was given
+omeprazole and zofran for nausea.  He was monitored on telemetry
+and had no episodes.  EP had recommended lidocaine 50-100mg
+bolus then [**1-3**]/min gtt in the event of an episode.
+.
+# MRSA Bacteremia: On [**11-5**], he became febrile to 102 PO (104
+rectal) and developed dyspnea.  He was started on Levaquin and
+Vancomycin [**11-5**].  Blood cultures eventually grew [**4-5**] MRSA.  Pt
+also noted to have purulent drainage from left IV site started
+at OSH (culture now growing Staph Aureus).  Subsequent LUE
+Ultrasound positive for DVT.  Pt hads been HD stable afebrile
+since [**11-5**] however o/n he became hypotensive o/n requiring
+transient pressors.  A right IJ central line was placed for HD
+monitoring and was subsequently removed.  A TTE showed a small
+vegitation which was not seen on TTE, but TTE showed para-mitral
+annular ring leak at the base of the anterior leaflet.  He will
+need to complete 6 weeks of IV vancomycin from [**11-6**].  He has a
+chronic abdominal hematoma.  Ultrasound showed 6.8 cm complex
+cystic mass, without sign of infection, thus it was not drained.
+.
+# UE DVT: Patient had a UE thrombophlebitis that was was
+confirmed by US.  He will remain on anticoagulation with lovenox
+bridge to Coumadin and 6 weeks of IV antibiotics [**2644-11-6**]-
+[**2644-12-11**].
+.
+# Cardiac asthma: He was noted to have positional expiratory
+wheezing that worsened in the setting of volume overload and
+appeared to improve with diuresis.  A neck CT to r/o subglottic
+lesion was considered but deferred given his improvement with
+diuresis.
+.
+# Acute on Chronic Renal Failure:   Cr peaked at 3.5 from
+baseline of 2.3 in setting of hypoperfusion during sepsis.  He
+returned to baseline prior to discharge.
+.
+# CAD: He was continued on aspirin and ezetimibe (intolerant of
+statins).  Pt's BB and ACE were held given sepsis, and restarted
+slowly based on BP and renal function. Prior to discharge ACEi
+was returned to home dose and BB dose adjusted.
+.
+# DM: Outpatient glyburide was held and he was maintainted on a
+regular insulin sliding scale.
+
+
+Medications on Admission:
+ASA 81mg
+Zetia 10mg po Qday
+Mexilitine 150mg po BID
+Metoprolol Succinate 100mg po Qday
+Glyburide 2.5mg po Qday
+Furosimide 80mg po BID
+Prevacid 30mg po BID
+Amiodarone 200mg po Qday
+Lisinopril 2.5mg po QPM
+Coumadin 5mg Qday, 2.5mg QTues/Fri
+Fish Oil QHS
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable [**Month/Day/Year 345**]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Omega-3 Fatty Acids     Capsule [**Month/Day/Year 345**]: 1000 (1000) mg PO HS (at
+bedtime).
+3. Ezetimibe 10 mg Tablet [**Month/Day/Year 345**]: One (1) Tablet PO DAILY (Daily).
+
+4. Ipratropium Bromide 0.02 % Solution [**Month/Day/Year 345**]: One (1) vial
+Inhalation Q6H (every 6 hours) as needed for Wheezing.
+5. Amiodarone 200 mg Tablet [**Month/Day/Year 345**]: Two (2) Tablet PO twice a day:
+take until [**11-17**]. .
+6. Menthol-Cetylpyridinium 3 mg Lozenge [**Month/Year (2) 345**]: One (1) Lozenge
+Mucous membrane PRN (as needed) as needed for sore throat.
+7. Furosemide 80 mg Tablet [**Month/Year (2) 345**]: One (1) Tablet PO BID (2 times a
+day).
+8. Vancomycin in Dextrose 1 gram/200 mL Piggyback [**Month/Year (2) 345**]: One (1)
+gram Intravenous Q48H (every 48 hours): for 5 weeks. Last dose
+[**2644-12-17**].
+9. Heparin, Porcine (PF) 10 unit/mL Syringe [**Month/Day/Year 345**]: Two (2) ML
+Intravenous PRN (as needed) as needed for line flush.
+10. Saline Flush 0.9 % Syringe [**Month/Day/Year 345**]: Ten (10) cc Injection prn
+for flush.
+11. Lorazepam 0.5 mg Tablet [**Month/Day/Year 345**]: One (1) Tablet PO Q6H (every 6
+hours) as needed for anxiety.
+12. Amiodarone 400 mg Tablet [**Month/Day/Year 345**]: One (1) Tablet PO once a day:
+Start [**2644-11-18**].
+13. Mexiletine 150 mg Capsule [**Month/Day/Year 345**]: One (1) Capsule PO Q8H (every
+8 hours).
+14. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) [**Month/Day/Year 345**]: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+15. Enoxaparin 60 mg/0.6 mL Syringe [**Month/Day/Year 345**]: One (1) syringe
+Subcutaneous DAILY (Daily): use daily until INR> 2.0. then d/c.
+.
+16. Glyburide 2.5 mg Tablet [**Month/Day/Year 345**]: One (1) Tablet PO twice a day.
+
+17. Outpatient Lab Work
+Please check weekly random vanco trough, CBC, BUN, creatinine, K
+and call results to Dr. [**First Name4 (NamePattern1) 614**] [**Last Name (NamePattern1) 13715**] at BIDMD fax:
+[**Telephone/Fax (1) 1395**] phone:[**Telephone/Fax (1) 302**]. Also fax results to pt's PMD
+Dr. [**Last Name (STitle) **]: [**Telephone/Fax (1) 28995**].
+18. Lisinopril 5 mg Tablet [**Telephone/Fax (1) 345**]: 0.5 Tablet PO DAILY (Daily).
+19. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+[**Telephone/Fax (1) 345**]: 1.5 Tablet Sustained Release 24 hrs PO DAILY (Daily).
+20. Senna 8.6 mg Tablet [**Telephone/Fax (1) 345**]: 1-2 Tablets PO at bedtime as needed
+for constipation.
+21. Warfarin 2.5 mg Tablet [**Telephone/Fax (1) 345**]: One (1) Tablet PO Once Daily at
+4 PM.
+22. Outpatient Lab Work
+Please check INR on
+friday [**2644-11-15**], call results to provider
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Doctor First Name **] [**Doctor Last Name 778**] Nursing & Rehabilitation Center - [**Location (un) 335**]
+
+Discharge Diagnosis:
+Ventricular Tachycardia
+Methcillin Resistant Staph Endocarditis
+Chronic Systolic congestive Heart Failure
+Left Arm Thrombophlebitis
+Acute on Chronic Renal Failure
+Hypertension
+Diabetes
+Post Traumatic Stress Disorder
+
+
+Discharge Condition:
+stable
+BUN=70,
+creat=2.3
+hct=29.9
+wbc=7.3
+
+
+Discharge Instructions:
+You had an infection in your blood, likely from your abdominal
+pacer pocket, and thisinfected one of your heart valves. We did
+not see any infection on your pacer or ICD. You will need
+intravenous vancomycin for 6 weeks to treat this infection. You
+will also need Lovenox injections until your INR is > 2.0. We
+started you on admiodarone to prevent your ICD from firing. You
+will need pulmonary function tests in [**Month (only) 314**] and some
+additional labs at that time to check to see if you are
+tolerating the amiodarone.
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight > 3 lbs in 1 day
+or 6 pounds in 3 days.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1.5 liters/day.
+New Medicines:
+Furosemide increased
+Metoprolol succinate decreased
+Lovenox: to prevent blood clots until after INR> 2.0
+Vancomycin: antibiotic to treat the bacteria in your blood
+Amiodarone increased to 400 mg daily
+.
+
+
+Followup Instructions:
+Pt will need PFT's, TFT's in [**2645-1-2**]
+
+Infectious Disease:
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 13715**], MD Phone:[**Telephone/Fax (1) 302**]
+Date/Time:[**2645-1-9**] 9:30. [**Last Name (NamePattern1) **]. [**Hospital Unit Name **], Suite
+GB (basement)
+
+Cardiology:
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Phone: [**Telephone/Fax (1) 334**] Date/time: please make appt
+for patient to see in 2 weeks.
+
+
+
+Completed by:[**2644-11-13**]

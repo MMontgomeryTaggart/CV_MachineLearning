@@ -1,0 +1,310 @@
+Chief Complaint:  s/p PEA arrest
+   HPI:
+   Mr. [**Known patient lastname 9807**] is an 80 yo M with PMH of parkinsonism, autonomic
+   instability and labile blood pressures admitted to the CCU following
+   PEA arrest and resuscitation.  His wife reports that on the day prior
+   to admission he was in his usual state of health without any
+   complaints.  He went to bed at 11pm with his CPAP on.  His wife awoke
+   at 1:30AM and noted that he had a strange breathing pattern.  She again
+   awoke at 2:30 am and noted that he continued to be breathing strangely
+   and then made several soft choking noises and stopped breathing.  She
+   attempted to awaken him with no response so she called EMS who
+   reportedly arrived withing 5-10minutes.
+   .
+   On EMS arrival he was noted to be in PEA arrest he was given 7mg
+   epinephrine, 2mg atropine, 2 amps sodium bicarb, 100mg lidocaine, 300mg
+   amiodarone, DCCV x 5.  He was started on amiodarone gtt and dopamine
+   gtt.  His pupils were noted to be fixed and dilated by EMS.
+   .
+   On review of systems, his wife denies any prior history of stroke, TIA,
+   deep venous thrombosis, pulmonary embolism, bleeding at the time of
+   surgery, myalgias, joint pains, cough, hemoptysis, black stools or red
+   stools. He does not have any recent fevers, chills or rigors.  Cardiac
+   review of systems is notable for absence of chest pain, paroxysmal
+   nocturnal dyspnea, orthopnea, ankle edema, palpitations.
+   .
+   In the ED, initial vitals were T34.8 rectal 128/77 HR 122 sinus
+   tachycardia RR 18 99% RA.  He had an EKG showing sinus tachycardia and
+   a bedside echocardiogram showing hyperdynamic LV function, no wall
+   motion abnormalities.  He was started on artic sun protocol however his
+   initial temperature was 34 degrees celsius.  He had a head CT which
+   showed evidence of global anoxic insult.  He was admitted to the CCU
+   for further care.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Unresponsive
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Midazolam (Versed) - 0.5 mg/hour
+   Fentanyl - 25 mcg/hour
+   Dopamine - 5 mcg/Kg/min
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2711-9-24**] 02:00 PM
+   Heparin Sodium (Prophylaxis) - [**2711-9-24**] 04:00 PM
+   Other medications:
+   MEDICATIONS:
+   AMANTADINE - 100 mg three times a day
+   CARBIDOPA-LEVODOPA 25 mg-100 mg Tablet - 1 Tablet(s) [**Hospital1 **]
+   CITALOPRAM 20mg daily
+   MIDODRINE - 10mg q6am, 10mg q10am, 5mg q2pm and 5mg at 6pm (hold 2pm
+   and 6pm doses for sbp >160)
+   SODIUM CHLORIDE - 1G Tablet - TAKE UP TO TEN TABLETS A DAY
+   TRIMETHOPRIM-SULFAMETHOXAZOLE 800 mg-160 mg Tablet 1 tab [**Hospital1 **]
+   prilosec 20mg daily
+   levothyroxine 50mcg daily
+   Past medical history:
+   Family history:
+   Social History:
+   -Parkinsonism
+   -Autonomic Instability
+   - Syncopal events since [**2705**] secondary to orthostatic
+   hypotension
+   - h/o positive tilt table test and othostatic hypotension,
+   followed Dr. [**First Name (STitle) 1681**] at [**Hospital1 52**]
+   -Neurogenic bladder
+   - Has had foley catheter for 2 years due to urinary frequency
+   - h/o Klebsiella and Pseuodomonal UTIs in [**2710**], Enterobacter
+   urosepsis
+   -Hypothyroidism
+   -Chronic low back pain
+   -GERD
+   -OSA
+   -Hospital admission for partial small bowel obstruction and
+   constipation [**8-23**]
+   -Empty sella syndrome - endocrine w/u negative
+   -Benign bladder mass - s/p cystoscopy and biopsy
+   -h/o idiopathic pancytopenia
+   Mother - DM, passed away at 84
+   Father - colon CA, passed away at 67
+   Occupation:
+   Drugs: denies
+   Tobacco: remote history of ~15 pack years of smoking
+   Alcohol: denies
+   Other: lives with wife who assists him with all ADLs/IADL's
+   Review of systems:
+   Flowsheet Data as of [**2711-9-24**] 05:08 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   HR: 93 (76 - 105) bpm
+   BP: 127/84(101) {104/71(83) - 127/84(101)} mmHg
+   RR: 9 (9 - 28) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+             3,822 mL
+   PO:
+             TF:
+   IVF:
+   762 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    555 mL
+   Urine:
+   555 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  3,267 mL
+   Respiratory
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 100%
+   PIP: 36 cmH2O
+   Plateau: 29 cmH2O
+   SpO2: 98%
+   ABG: 7.39/39/94.[**Numeric Identifier 120**]/24/0
+   Ve: 8.5 L/min
+   PaO2 / FiO2: 94
+   Physical Examination
+   VS: T=34 celsius on artic sun BP=107/81 HR= 150 regular RR=18 O2 sat=
+   98%  AC 100%/550/16/5
+   Gen: intubated, unresponsive to any stimulus, no posturing noted
+   HEENT: NC AT, intubated pupils are fixed and dilated at 6mm
+   bilaterally, right pupil appears to be post surgical, left eye with
+   large cataract visible
+   Neck: right EJ 18G iv in place, no significant jvd
+   CV: RRR s1 s2 no appreciable murmur
+   Lungs: CTAB anteriorly, unable to ausculate lung bases as artic sun
+   cooling pads in place, no wheezing
+   Abd: distended, soft, unable to assess for tenderness given mental
+   status, positive bowel sounds
+   Ext: cool, palpable DP's bilaterally
+   Labs / Radiology
+   148 K/uL
+   12.3 g/dL
+   38.2 %
+   8.1 K/uL
+        [image002.jpg]
+                                  [**2708-2-17**]
+                          2:33 A8/9/[**2711**]  01:32 PM
+                                  [**2708-2-21**]
+                          10:20 P8/9/[**2711**]  04:21 PM
+                                  [**2708-2-22**]
+                                   1:20 P
+                                  [**2708-2-23**]
+                                   11:50 P
+                                  [**2708-2-24**]
+                                   1:20 A
+                                  [**2708-2-25**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2708-3-19**]
+                                   1:20 P
+                                  [**2708-3-19**]
+                                   11:20 P
+                                  [**2708-3-19**]
+                                   4:20 P
+   WBC
+                                     8.1
+   Hct
+                                    38.2
+   Plt
+                                     148
+   TC02
+                                     24
+   Other labs: Lactic Acid:4.0 mmol/L
+   Fluid analysis / Other labs: [**2711-9-24**] ABG: 7.37/44/90/26
+   lactate 7.1
+   .
+   6:45 am Na 141 K 3.9 Cl 98 HCO 24 BUN 23 Creat 1 Gluc 303 AG: 19
+   CKMB 12 Trop:0.16
+   AST 374 ALT 109 AP 114 Lip 38 Tbili 0.4 alb 4.1
+   WBC 9.9 HCT 40.9 PLT 166
+   Serum tox: negative
+   Urine tox: negative
+   .
+   UA: large blood, nitr neg, leukocytes neg, 0-2 epi
+   Imaging: [**9-24**] Head CT (prelim) - interval development of
+   hypo-attenuation of bilateral basal ganglia, corpus callosum and
+   thalamus since [**2711-7-25**] and diffuse loss of grey-white matter
+   differentiation compatible with acute anoxic event.  No evidence of
+   hemorrhage or mass effect.  Normal ventricles, air fluid level in left
+   maxillary sinus with mucosal thickening of ethmoid and left frontal
+   sinuses.
+   No acute fractures.
+   .
+   [**9-24**] CXR (prelim) - mild pulmonary edema, retrocardiac airspace opacity
+   could represent atelectasis vs infection, probable small left pleural
+   effusion, NGT in stomach, ET tube 3.3cm above the carina.
+   Microbiology: [**2711-9-24**] Sputum Culture: pending
+   [**2711-9-24**] Blood culture: pending
+   [**2711-9-24**] Urine culture: pending
+   ECG: [**2711-9-24**] 6:26 EKG: sinus tachycardia at 127 bpm, left axis
+   deviation, left anterior fasicular block, QTc  poor baseline upsloping
+   ST depressions in V2-V4.  Compared with prior EKG from [**2711-7-25**]
+   tachycardia is new as are the likely rate related ST depressions in
+   precordial leads, otherwise no significant changes.
+   Assessment and Plan
+ ANOXIC BRAIN DAMAGE (ANOXIC ENCEPHALOPATHY, HYPOXIC ISCHEMIC)
+ VENTRICULAR FIBRILLATION (VF)
+   Mr. [**Known patient lastname 9807**] is an 80 yo M with PMH of parkinsonism, autonomic
+   instability and labile blood pressures admitted to the CCU following
+   PEA arrest and resuscitation.
+   .
+   # s/p PEA arrest, unlikely to be from primary cardiac etiology, at this
+   time most like due to hypoxia from possible aspiration event given that
+   main laboratory abnormality is hypoxia and also with new left sided
+   infiltrate.  No evidence of pericardial effusion on echo, no evidence
+   of pneumothorax.  No evidence of acute MI on admission.  He does have a
+   lactic acidosis, likely [**3-20**] prolonged pea arrest in the field.  He has
+   been in sinus tachycardia with occasional 2nd degree heart block type I
+   o telemetry since admission.  He was bolused with amiodarone and
+   lidocaine in the field and started on an amiodarone gtt by EMS.
+   -d/c amiodarone gtt as PEA arrest seems very unlikely to be primary
+   cardiac
+   -monitor on telemetry
+   -on artic sun cooling protocol x18 hours, monitor coagulation profile
+   -blood, sputum, urine cultures pending
+   .
+   # CORONARIES: No evidence of acute ischemia on EKG, no evidence of wall
+   motion abnormality on echo on admission.  Cardiac enzymes slightly
+   elevated however expected in the setting of several DCCV.
+   -trend CE's to peak
+   -serial EKG's
+   .
+   # PUMP: Echocardiogram on admission with hyperdynamic LV in the setting
+   of resuscitation with numerous epinephrine boluses.  No evidence of
+   wall motion abnormality or major valvular lesions.
+   .
+   #Hypoxia - Most likely etiology of PEA arrest, still with significant
+   AA gradient with PaO2 in the 90's on 100%FIO2.  Unclear etiology at
+   this time, possibly [**3-20**] aspiration event given LLL opacity and air
+   bronchograms on CXR.  Pulmonary embolus is also a consideration however
+   no evidence of right heart strain on echocardiogram.
+   -wean FIO2 as tolerated
+   -will start abx if concern for pneumonia vs pneumonitis
+   -consider CTA to eval for PE if remains hypoxic without clear cause
+   .
+   #Anoxic Brain Injury - head ct on admission with evidence of global
+   anoxic injury likely [**3-20**] prolonged PEA arrest of unkown duration.
+   -cooling protocol
+   -low dose fentanyl/versed advised by cardiac arrest consult in case he
+   is in a locked in state even though
+   - neurology consult in the am
+   -48 hour EEG
+   .
+   #Lactic acidosis - [**3-20**] PEA arrest and prolonged hypoperfusion, lactate
+   trending down now that HD stable.
+   -monitor serial lactates
+   .
+   #Transaminitis - likely [**3-20**] ischemic insult
+   -monitor trend
+   .
+   # Hypotesion/Autonomic Instability - long h/o labile BP and severe
+   orthostasis.  He is on numerous doses of midodrine at baseline as well
+   as salt tabs.  Per his family it is not unusual for him to have blood
+   pressure in the 80's - 90's systolic then up to the 160's in the
+   evening.  Anoxic injury likely contributing to labile BP
+   -continue midodrine four times daily
+   -on dopamine currently to maintain MAP >60
+   -monitor urine output
+   .
+   #Urinary retention - chronic indwelling foley catheter, no evidence of
+   infection on UA.
+   .
+   FEN: NPO for now, NGT in place, change to OGT if prolonged intubation,
+   replete lytes prn, consider starting tube feeds in the AM
+   .
+   ACCESS: three 18G PIV's, left radial aline
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin sq
+   -Pain management with fentanyl gtt
+   -Bowel regimen with colace/senna
+   -famotidine for stress ulcer prophylaxis
+   -RISS q6 hours
+   .
+   CODE: full (confirmed with family)
+   .
+   COMM: with wife
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2711-9-24**] 10:00 AM
+   Arterial Line - [**2711-9-24**] 01:02 PM
+   20 Gauge - [**2711-9-24**] 04:00 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU

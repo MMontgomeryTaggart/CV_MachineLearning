@@ -1,0 +1,98 @@
+Admission Date:  [**2881-3-19**]       Discharge Date:  [**2881-3-21**]
+
+Date of Birth:   [**2834-6-15**]       Sex:  M
+
+Service:  CARDIOTHORACIC SURGERY
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 46-year-old white
+male patient with a known history of aortic regurgitation
+which has been followed over the past few years by serial
+echocardiography.  The most recent one showed worsening
+aortic regurgitation and the patient was referred for aortic
+valve replacement.  The patient had a cardiac catheterization
+which revealed a normal left ventricular ejection fraction,
+normal coronary arteries, and severe aortic regurgitation.
+
+PAST MEDICAL HISTORY:
+1.  Aortic regurgitation, per HPI.
+2.  GERD.
+3.  Intermittent hematuria with negative cystoscopy.
+
+PAST SURGICAL HISTORY:
+1.  Wisdom teeth extraction.
+2.  Skin lesion removal.
+
+ADMISSION MEDICATIONS:
+1.  Prilosec 20 mg p.o. q.d.
+2.  Ibuprofen p.r.n.
+
+ALLERGIES:  Penicillin, unknown reaction.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Unremarkable.
+
+LABORATORY/RADIOLOGIC DATA:  The preoperative laboratory
+values were unremarkable.
+
+HOSPITAL COURSE:  The patient was taken to the Operating Room
+on [**2881-3-19**] with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1882**] where he underwent a
+limited access aortic valve replacement with a #29
+[**Last Name (un) 1768**]-[**Doctor Last Name 529**] pericardial valve.  Postoperatively, he
+was transported from the operating room to the cardiac
+surgery recovery unit in good condition.
+
+On the day of surgery, he was weaned from mechanical
+ventilation and extubated.  On postoperative day number one,
+he remained hemodynamically stable and his chest tube/[**Doctor Last Name 890**]
+drain was discontinued and he was transferred from the
+Intensive Care Unit to the telemetry floor, at which point
+the patient began to progress with physical therapy and
+ambulation and cardiac rehabilitation.
+
+Today, postoperative day number two, the patient remains
+hemodynamically stable.  His epicardial pacing wires were
+removed this morning.  He remained in normal sinus rhythm
+with a heart rate of 69, blood pressure of 116/59, and he is
+ready to be discharged home today.  He has progressed to
+physical therapy level V, ambulating without any difficulty.
+
+PHYSICAL CONDITION UPON DISCHARGE:  Neurologically, the
+patient has no apparent deficits.  The patient's lung
+examination is clear to auscultation bilaterally.  His
+cardiac examination revealed a regular rate and rhythm.  His
+wounds were clean, dry, and intact.  The most recent chest
+x-ray was from [**2881-3-19**] which showed no pneumothorax
+and no pleural effusion.  The most recent laboratory values
+are from today, [**2881-3-21**], which include a white blood
+cell count of 10, hematocrit 27.8, platelet count 120,000.
+Sodium 138, potassium 5.1, chloride 102, C02 32, BUN 23,
+creatinine 0.9, glucose 103.
+
+DISCHARGE MEDICATIONS:
+1.  Enteric coated aspirin 325 mg p.o. q.d.
+2.  Metoprolol 25 mg p.o. b.i.d.
+3.  Colace 100 mg p.o. b.i.d.
+4.  Lasix 20 mg p.o. q. 12 hours times seven days.
+5.  Potassium chloride 20 mEq p.o. q. 12 hours times seven
+days.
+6.  Ibuprofen 400 mg p.o. q. six hours p.r.n. pain.
+7.  Percocet 5/325 one to two tablets p.o. q. four to six
+hours p.r.n. pain.
+
+FOLLOW-UP:  The patient is to follow-up with his primary care
+physician in two to three weeks.  He is to follow-up in the
+Cardiac Surgery office in four weeks for postoperative check.
+
+DISCHARGE DIAGNOSIS:  Aortic regurgitation, status post
+aortic valve replacement.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1887**], M.D.  [**MD Number(1) 1888**]
+
+Dictated By:[**Name8 (MD) 1500**]
+MEDQUIST36
+
+D:  [**2881-3-21**]  12:21
+T:  [**2881-3-21**]  14:45
+JOB#:  [**Job Number 27770**]

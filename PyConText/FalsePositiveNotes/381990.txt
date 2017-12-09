@@ -1,0 +1,184 @@
+Chief Complaint:
+   24 Hour Events:
+   [**2496-2-25**]:
+   - Made NPO Sunday night for possible cardioversion Monday
+   AM
+   - Weaned off dopamine, with still relatively low SBPs in the 70s - 80s
+   however at baseline for patient, mentating fine
+   - INR still supratherapeutic, restart coumadin when < 3
+   - Gave 5mg of metolazone prior to PM torsemide dosing to help diuresis
+   as only -133 at 7pm, put out a little more overnight with metolazone,
+   but only minimal
+   Allergies:
+   Penicillins
+   Unknown;
+   Quinidine
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2496-2-26**] 05:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.1
+   Tcurrent: 35.6
+C (96
+   HR: 79 (75 - 87) bpm
+   BP: 92/56(65) {69/40(47) - 97/57(67)} mmHg
+   RR: 17 (9 - 38) insp/min
+   SpO2: 98%
+   Heart rhythm: V Paced
+                  Total In:
+                                                                    587 mL
+                                                                    240 mL
+   PO:
+                                                                    510 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                     77 mL
+   Blood products:
+   Total out:
+                                                                    700 mL
+                                                                    300 mL
+   Urine:
+                                                                    700 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -113 mL
+                                                                    -60 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///30/
+   Physical Examination
+   GENERAL: elderly man in NAD
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink.
+   Hematoma on left anterior forehead with surrounding ecchymoses.
+   NECK: Supple with JVP of anterior ear
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. [**1-27**] early to mid systolic murmur at LLSB. With RV heave
+   and thrill over LLSB. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, ascites present, NTND. No HSM or tenderness. Abd aorta
+   not enlarged by palpation. No abdominial bruits.
+   EXTREMITIES: 2+ pitting edema to the thigh BL LE. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ DP 1 PT 1
+   Left: Carotid 2+ Femoral 2+ DP 1 PT 1
+   Labs / Radiology
+   180 K/uL
+   10.3 g/dL
+   92 mg/dL
+   2.1 mg/dL
+   30 mEq/L
+   3.7 mEq/L
+   64 mg/dL
+   95 mEq/L
+   134 mEq/L
+   30.6 %
+   5.4 K/uL
+        [image002.jpg]
+                             [**2496-2-22**]  07:52 PM
+                             [**2496-2-23**]  05:25 AM
+                             [**2496-2-24**]  03:42 AM
+                             [**2496-2-25**]  07:21 AM
+                             [**2496-2-26**]  04:31 AM
+   WBC
+   4.5
+   5.8
+   5.7
+   5.3
+   5.4
+   Hct
+   29.4
+   32.5
+   33.5
+   32.2
+   30.6
+   Plt
+   153
+   203
+   190
+   201
+   180
+   Cr
+   2.0
+   1.9
+   1.9
+   1.9
+   2.1
+   Glucose
+   113
+   112
+   138
+   126
+   92
+   Other labs: PT / PTT / INR:24.6/34.2/2.4, Ca++:8.9 mg/dL, Mg++:2.2
+   mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   81 yo man with history of biventricular failure, CAD, CABG in [**2466**],
+   admitted for evalution of likely CHF exacerbation.
+   #  CHF exacerbation:  Biventricular failure, NYHA Stage 4.
+   - Switched to oral torsemide given aggressive diuresis accomplished.
+   - Patient did not tolerate milrinone, switched back to dopamine for
+   pressure control, but attempting to wean
+   - Continue digoxin
+   - Restarted carvedilol, midodrine and aminophylline yesterday,
+   aminophylline at increased dose of 100mg QD, can titrate up to [**Hospital1 **].
+   - Unclear if the patient has been taking losartan at home, however will
+   not start [**Last Name (un) 281**] in the setting of hypotension.
+   - Palliative care consulted
+   # Atrial Flutter:  The patient has been in atrial fibrillation
+   regardless of attempts at chemical cardioversion with amiodarone in the
+   past.  It appears on 12 lead from admission that the patient is in
+   atrial flutter at a rate of 150bpm.  If the patient remains stable and
+   improves clinically, may consider cardioversion at the end of this week
+   or beginning of next.
+   - Continue amiodarone
+   - continue to hold coumadin for suprathrapeutic INR
+   - Restarted carvedilol as above
+   # CAD s/p CABG:
+   - Continue simvastatin, aggrenox
+   - carvedilol as above
+   # History of TIAs:
+   - Continue aggrenox
+   # BPH:
+   - Continue flomax, with holding parameters
+   - condom cath
+   # Cataracts:
+   - Continue opthalmic treatments including predfort, acular, zymar, and
+   cosopt.
+   # Gout:
+   - Continue colchicine
+   # Hypothyroidism:  The patient's daughter reports that they did not
+   initiate levothyroxine therapy given unclear [**Name2 (NI) **] results.
+   - TSH showed elevation, however Free T4 also elevated, unclear etiology
+   likely subclinical hypothyroidism
+   ICU Care
+   Nutrition:  heart healthy
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2496-2-25**] 03:00 PM
+   Prophylaxis:
+   DVT:  therapeutic INR
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:  pending

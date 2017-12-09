@@ -1,0 +1,301 @@
+Admission Date:  [**2914-7-30**]              Discharge Date:   [**2914-8-3**]
+
+Date of Birth:  [**2846-1-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 387**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Hemodialysis (CVVH)
+
+History of Present Illness:
+Mrs. [**Known patient lastname **] is a 68 year old female with a history of systolic
+congestive heart failure (EF 15%), ESRD on HD, CAD and DMII who
+presents with two days of worsening shortness of breath.  The
+patient has had multiple admissions to this hospital between
+[**2914-4-22**] and present for shortness of breath and was most
+recently discharged on [**2914-7-21**].  The patient reports that she
+was in her usual state of health until two days prior to
+admission.  She received dialysis as [**Date Range 3083**] on [**2914-7-28**].  She
+began to feel short of breath on [**2914-7-29**] with associated dyspnea
+on exertion and worsening orthopnea.  She reports that she has
+had a cough productive of clear sputum for the past month but
+this has not worsened acutely over the past two days.  She
+reports that she does have pressure in her chest and that this
+has been present essentially constantly over the past 48 hours.
+The chest pressure is associated with her shortness of breath.
+It is not clearly associated with exertion.  The patient reports
+three pillow orthopnea which has not clearly worsened.  She does
+report a worsening of her dyspnea on exertion.  She says that
+her daughter helps her taker her medications and that she has
+been compliant to her knowledge.  She does not report any
+dietary indiscretion. The patient uses 3 L oxygen by nasal
+cannula at home and has not needed to increase her O2.  She also
+has been compliant with her home CPAP. The patient reports that
+she presented to the emergency room on [**2914-7-29**].  At that time
+she had a chest xray which showed improved but persistent
+pulmonary edema and small pleural effusions.  She had one set of
+cardiac enzymes which were notable for a troponin of 0.21 which
+is within her baseline.  She was discharged with plans to follow
+up with her PCP.  [**Name10 (NameIs) **] reports that her shortness of breath
+acutely worsened the following morning and she represented to
+the emergency room.
+.
+In the emergency room her initial vital signs were T: 95. HR:
+100 BP: 131/68 RR: 24 O2: 95% on 100% NRB (88% on RA). Initially
+she was hemodynamically stable but while in the emergency room
+her blood pressure decreased to the 70s systolic transiently and
+she required fluid bolus.  She received 0.5 mg IV ativan and was
+subsequently noted to be more somnolent.  ABG performed revealed
+a ph of 7.31, PCO2 of 70 and PO2 of 73.  She was placed on BIPAP
+with improvement in her mental status.  She had a CXR which
+showed a new right basilar opacity and increasing pulmonary
+congestion.  She received 20 mg IV lasix with minimal urine
+output.  She received ceftriaxone 1 gram, azithromycin 500 mg
+PO, Aspirin 325 mg PO, tylenol 500 mg PO and levofloxacin 750 mg
+IV.  Her EKG showed a ventricularly paced rhythm with no
+significant changes from prior tracings.  A left IJ central line
+was attempted with misplacement in the carotid.  Pressure was
+held.  While in the emergency room her blood pressure improved
+to the 100s systolic.  Her mental status improved and at the
+time of transfer she was satting well on 3 L NC.  She was
+transferred to the [**Hospital Unit Name 2**] for further management.
+.
+On review of systems she reports that her shortness of breath is
+slightly improved from this morning.  She continues to have
+constant chest pressure.  She denies fevers, chills,
+lightheadedness, dizziness, nausea, vomiting, abdominal pain,
+dysuria, hemturia, diarrhea, constipation, melena, hematochezia,
+leg swelling.  She does have persistent left stump pain which is
+unchanged from baseline.
+
+Past Medical History:
+1. CHF with EF of 15% s/p BiV pacer on coumadin
+2. ESRD - on HD since [**2914-5-8**], *EDW 60 kg* at last admit,
+T,TH, Sat dialysis
+3. CAD s/p MI & CABG x 2 ([**2902**] and revised in [**2912**])
+4. DMII x 4yrs on insulin
+5. s/p L AKA
+6. Hypothyroidism
+7. Atrial fibrillation on coumadin
+8. No formal diagnosis of reactive airway disease although on
+albuterol and fluticasone at home
+9. No formal diagnosis of OSA although uses CPAP machine at home
+
+Social History:
+Lives at home with daughter who helps her with her medications.
+She has VNA services.  She has a remote smoking history of less
+than 1 year total but her daughter does [**Name2 (NI) **].  She does not
+currently drink alcohol.  She does not have a history of IVDU.
+She is wheelchair bound and does not have a prosthetic.
+
+
+Family History:
+No family history of coronary artery disease.  Otherwise
+non-contributory.
+
+Physical Exam:
+Vitals: T 97.3 HR: 74 BP: 110/68 RR: 24 O2: 100% on 3L
+General: Alert, oriented, no acute distress, speaking in full
+sentences
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: Right sided tunnelled catheter site intact, left neck with
+bandage, JVP 12 cm
+Chest: Expiratory wheezing diffusely, decreased breath sounds on
+the right, no egophony
+CV: RRR, s1 + s2, no murmurs, II/VI SEM at LUSB
+GI: soft, non-tender, non-distended, +BS
+Ext: Left AKA, right foot with 1 cm ulcer with clean base,
+middle toe with small ulcer
+Neurologic: Alert and oriented, moving all extremities
+
+Pertinent Results:
+[**2914-7-30**] 10:56PM   PT-93.5* PTT->150* INR(PT)-12.2*
+[**2914-7-30**] 09:56PM   GLUCOSE-145* UREA N-28* CREAT-2.6* SODIUM-137
+POTASSIUM-4.4 CHLORIDE-97 TOTAL CO2-32 ANION GAP-12
+[**2914-7-30**] 09:56PM   CALCIUM-8.9 PHOSPHATE-4.8*# MAGNESIUM-2.0
+[**2914-7-30**] 07:09PM   TYPE-ART TEMP-36.7 PO2-120* PCO2-54* PH-7.40
+TOTAL CO2-35* BASE XS-7
+[**2914-7-30**] 07:09PM   LACTATE-0.9
+[**2914-7-30**] 07:09PM   O2 SAT-97
+[**2914-7-30**] 07:09PM   freeCa-1.23
+[**2914-7-30**] 02:20PM   PT-15.3* PTT-95.9* INR(PT)-1.4*
+[**2914-7-30**] 12:54PM   TYPE-ART PO2-73* PCO2-70* PH-7.31* TOTAL
+CO2-37* BASE XS-5
+[**2914-7-30**] 11:06AM URINE  HOURS-RANDOM
+[**2914-7-30**] 11:06AM URINE  GR HOLD-HOLD
+[**2914-7-30**] 11:06AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 9**]-1.026
+[**2914-7-30**] 11:06AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-TR BILIRUBIN-MOD UROBILNGN-NEG PH-5.0 LEUK-SM
+[**2914-7-30**] 11:06AM URINE  RBC-0-2 WBC-[**5-1**]* BACTERIA-MOD YEAST-MOD
+EPI-[**1-24**]
+[**2914-7-30**] 10:30AM   GLUCOSE-191* UREA N-25* CREAT-2.4* SODIUM-140
+POTASSIUM-4.5 CHLORIDE-97 TOTAL CO2-31 ANION GAP-17
+[**2914-7-30**] 10:30AM   CK(CPK)-35 ALK PHOS-231* TOT BILI-0.3
+[**2914-7-30**] 10:30AM   cTropnT-0.20*
+[**2914-7-30**] 10:30AM   CK-MB-NotDone proBNP-[**Numeric Identifier 27554**]*
+[**2914-7-30**] 10:30AM   CK-MB-NotDone proBNP-[**Numeric Identifier 27554**]*
+[**2914-7-30**] 10:30AM   ALBUMIN-3.5
+[**2914-7-30**] 10:30AM   WBC-7.7 RBC-4.14* HGB-12.4 HCT-41.4 MCV-100*
+MCH-29.9 MCHC-29.8* RDW-19.4*
+[**2914-7-30**] 10:30AM   PLT COUNT-263
+[**2914-7-29**] 12:25PM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 9**]-1.026
+[**2914-7-29**] 12:25PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-15 BILIRUBIN-MOD UROBILNGN-1 PH-5.0 LEUK-TR
+[**2914-7-29**] 12:25PM URINE  RBC-0-2 WBC-[**1-24**] BACTERIA-MOD YEAST-NONE
+EPI-[**1-24**]
+[**2914-7-29**] 10:15AM   GLUCOSE-190* LACTATE-1.0 K+-4.1
+[**2914-7-29**] 09:50AM   UREA N-17 CREAT-2.1*# SODIUM-139 CHLORIDE-96
+TOTAL CO2-35*
+[**2914-7-29**] 09:50AM   estGFR-Using this
+[**2914-7-29**] 09:50AM   CK(CPK)-25*
+[**2914-7-29**] 09:50AM   cTropnT-0.21*
+[**2914-7-29**] 09:50AM   CK-MB-NotDone proBNP-9430*
+[**2914-7-29**] 09:50AM   CALCIUM-9.3 PHOSPHATE-2.7 MAGNESIUM-1.8
+[**2914-7-29**] 09:50AM   WBC-5.9 RBC-4.12* HGB-12.1 HCT-41.0 MCV-100*
+MCH-29.3 MCHC-29.5* RDW-19.2*
+[**2914-7-29**] 09:50AM   NEUTS-75.5* LYMPHS-13.6* MONOS-6.6 EOS-3.9
+BASOS-0.6
+[**2914-7-29**] 09:50AM   PLT COUNT-261
+[**2914-7-29**] 09:50AM   PT-15.4* PTT-33.0 INR(PT)-1.4*
+
+Brief Hospital Course:
+1. ACUTE ON CHRONIC SYSTOLIC HEART FAILURE: Continued management
+with hemodialysis. Due to mild hypotension, lisinopril was held
+and carvedilol was continued.
+2. CKD STAGE V ON HD: stable.
+3. HYPOTENSION: Resolved
+4. ACUTE RESPIRATORY FAILURE: Appears to be secondary to
+sedation after receiving benzodiazepines - resolved. During her
+ICU admission she was treated empirically for PNA, but the
+antibiotics were discontinued when it was determined that she
+did not have PNA.
+5. CORONARY ARTERY DISEASE: Stable
+6. ATRIAL FIBRILLATION: Stable.
+7. DIABETES MELLITUS YYPE II: Stable.
+8. ISCHEMIC ANKLE ULCER: Followed by podiatry, no role for
+revascularization, and they recommended continuing local wound
+care.
+9. PERIPHERAL VASCULAR DISEASE: The patient will be continued on
+aspirin, ACE if she can tolerate by BP, warfarin, per report did
+not tolerate statin therapy.
+10. END OF LIFE CARE: I had an extensive conversation with the
+patients daughter, [**Name (NI) 3581**] [**Name (NI) **] the details of which can be
+found in the OMR note dated [**2914-8-2**]. In brief, she is not ready
+for hospice yet, but is open to the concept, she did agree that
+the patient's code status would be DNR/DNI. A palliative care
+consult was obtained so that the daughter will have an
+established relationship when the time comes to transition to
+comfort measures.Note, the patient defers all medical decision
+making to her daughter, and was not part of these conversations.
+
+
+Medications on Admission:
+On Admission:
+Oxycontin 10mg [**Hospital1 **]
+Oxycodone 5mg PRN
+.
+Meds on transfer:
+Ciprofloxacin  400mg IV Q12H
+Albuterol nebs Q6H prn
+Chlorhexidine oral rinse [**Hospital1 **]
+Colace 100mg [**Hospital1 **]
+Heparin SC TID
+Hydrocortisone 100mg IV Q8H
+Ipratropium Neb Q6H prn
+Magnesium sliding scale
+Oxycontin 10mg [**Hospital1 **]
+Oxycodone 5mg Q4H prn
+Pantoprazole 40mg po Q24H
+Zosyn 4.5mg IV Q8H day#1 [**7-29**]
+Potassium sliding scale
+Prochlorperazine 10mg Q6H prn
+Senna 1 tab po BID
+Vancomycin 1000 mg IV Q 12H D#1 [**7-29**]
+
+
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4H (every 4 hours) as needed.
+7. Sevelamer HCl 400 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+8. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+11. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+12. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed.
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM: To be titrated at hemodialysis - last dose 5 mg on [**8-3**].
+14. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q24H
+(every 24 hours).
+15. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+16. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+17. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed.
+18. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+19. Insulin Glargine
+10 units each evening
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 268**] VNA
+
+Discharge Diagnosis:
+Acute on chronic systolic heart failure
+Hypotension
+Hypercarbic repiratory failure
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction:
+
+You will not be on your lisinopril because your blood pressure
+is too low. This medication can be restarted by your doctor at
+the time of follow-up.
+
+You coumadin dose will be changed as needed until your INR is in
+the correct range.
+
+
+Followup Instructions:
+Hemodialysis T/Th/Sat
+Provider: [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 340**] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 854**] Date/Time:[**2914-8-6**]
+1:00
+
+I spent > 30 minutes on discharge related activities for this
+patient.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD
+
+

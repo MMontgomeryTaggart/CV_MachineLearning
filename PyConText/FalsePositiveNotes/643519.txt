@@ -1,0 +1,206 @@
+CVICU
+   HPI:
+   HD5   POD 4-AVR (25mm Porcine) [**Company **] mosaic
+    POD 4-Takeback for bleeding
+   Ejection Fraction:60
+   Hemoglobin A1c:5.9
+   Pre-Op Weight:174.16 lbs   79 kgs
+   Baseline Creatinine:2.0
+   TLD:rt IJ-cordis:Day5
+   Foley:Day3
+   PMH: AS, HTN, Hyperlipidemia, GERD, BPH - urinary incont., OA, Bladder
+   stone - chronic ABX, Skin Cancer s/p removal on nose, s/p Appendectomy,
+   s/p Umbilical and hernia repair, s/p Cataract surgery
+   [**Last Name (un) **]: HCTZ 25', Zocor 20', Protonix 40', Flomax 0.4', Cipro 500"
+   Events:
+   [**3122-11-15**] OR-takeback for bleeding
+   Assessment:84 year old male s/p AVR (25mm Porcine)[**Company **]
+   mosaic([**11-15**])/takeback for bleeding
+   Plan:-Wires removed
+   -No confusion today
+   -CXR
+   -Foley trial at rehab
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 4. Amiodarone 5. Aspirin 6. Ciprofloxacin HCl 7. Docusate
+   Sodium
+   8. FoLIC Acid 9. Furosemide 10. Heparin 11. Pantoprazole 12.
+   Phenylephrine 13. Pneumococcal Vac Polyvalent
+   14. Potassium Chloride 15. Propofol 16. Simvastatin 17. Tamsulosin 18.
+   Thiamine
+   24 Hour Events:
+# 1 -CVICU readmit for AFlutter/CP 140s
+   ARTERIAL LINE - START [**3122-11-19**] 06:17 AM
+   Post operative day:
+   HD5   POD 4-AVR (25mm Porcine) [**Company **] mosaic
+    POD 4-Takeback for bleeding
+   #1 -CVICU readmit for AFlutter/CP 140s
+   Allergies:
+   Codeine
+   Unknown;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Unknown;
+   Oxycontin (Oral) (Oxycodone Hcl)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Cefazolin - [**3122-11-16**] 04:48 PM
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Diltiazem - [**3122-11-19**] 07:50 AM
+   Propofol - [**3122-11-19**] 08:20 AM
+   Other medications:
+   Flowsheet Data as of  [**3122-11-19**] 01:57 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**25**] a.m.
+   Tmax: 37.3
+C (99.2
+   T current: 36.7
+C (98
+   HR: 63 (59 - 152) bpm
+   BP: 109/44(66) {77/42(55) - 113/68(81)} mmHg
+   RR: 15 (14 - 26) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 91.3 kg (admission): 79 kg
+   Height: 67 Inch
+            Total In:
+            1,436 mL
+   PO:
+            Tube feeding:
+   IV Fluid:
+   1,066 mL
+   Blood products:
+   250 mL
+   Total out:
+                                                                      0 mL
+                                                                    680 mL
+   Urine:
+   680 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    756 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: 7.44/39/101/26/1
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : coarse (B) on auscultation, Wheezes : audible upper airway,
+   Rhonchorous : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   241 K/uL
+   9.8 g/dL
+   118 mg/dL
+   1.2 mg/dL
+   26 mEq/L
+   4.0 mEq/L
+   25 mg/dL
+   107 mEq/L
+   140 mEq/L
+   29.1 %
+   8.1 K/uL
+        [image002.jpg]
+                            [**3122-11-16**]  01:00 AM
+                            [**3122-11-16**]  02:30 AM
+                            [**3122-11-16**]  02:39 AM
+                            [**3122-11-16**]  04:00 AM
+                            [**3122-11-16**]  05:00 AM
+                            [**3122-11-16**]  06:00 AM
+                            [**3122-11-16**]  07:14 AM
+                            [**3122-11-17**]  02:00 AM
+                            [**3122-11-19**]  06:14 AM
+                            [**3122-11-19**]  06:21 AM
+   WBC
+   10.0
+   13.4
+   8.1
+   Hct
+   29.8
+   30.2
+   29.1
+   Plt
+   [**Telephone/Fax (3) 10642**]
+   Creatinine
+   1.2
+   1.3
+   1.2
+   Troponin T
+   2.33
+   TCO2
+   25
+   22
+   27
+   Glucose
+   118
+   120
+   118
+   110
+   111
+   104
+   88
+   119
+   118
+   Other labs: PT / PTT / INR:12.2/24.2/1.0, CK / CK-MB / Troponin
+   T:563/9/2.33, ALT / AST:12/42, Alk-Phos / T bili:44/0.4, Amylase /
+   Lipase:34/28, Differential-Neuts:69.6 %, Lymph:21.0 %, Mono:5.3 %,
+   Eos:3.7 %, Fibrinogen:243 mg/dL, Lactic Acid:1.4 mmol/L, Albumin:2.9
+   g/dL, LDH:240 IU/L, Ca:7.6 mg/dL, Mg:2.1 mg/dL, PO4:1.5 mg/dL
+   Assessment and Plan
+   VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan: HD5   POD 4-AVR (25mm Porcine) [**Company **] mosaic
+    POD 4-Takeback for bleeding
+   #1 -CVICU readmit for AFlutter/CP 140s
+   Neurologic: Neuro checks Q: 4 hr, [**Last Name (un) **] prn pain. No narcs due to
+   previous confusion/?ileus. OOB-PT eval. No issues. Cont
+   Thiamine/Folate.
+   Cardiovascular: Aspirin, Statins, AFlutter 140s->Dilt/Amio/IV
+   Lopressor->no response. DCCV x1 @300J->NSR. Transient Neo requirement
+   after sedation with Propofol. Amio po.Cont statin/ASA. Trop =2.33-will
+   cont to cycle to follow trend. TTE done= prelim NL LVEF/trace AI per
+   cards fellow
+   Pulmonary: IS, Cont to encourage DB&C,IS.
+   Gastrointestinal / Abdomen: Post-op ileus, +flatus/BM. KUB= ^gas
+   pattern
+   Nutrition: DAT, prophylaxis.
+   Renal: Foley, Adequate UO, BUN/cr= 25/1.2
+   Hematology: stable.
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging: KUB today
+   Fluids:
+   Consults: CT surgery, Cardiology, P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3122-11-19**] 06:17 AM
+   20 Gauge - [**3122-11-19**] 10:00 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU

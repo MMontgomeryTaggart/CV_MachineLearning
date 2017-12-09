@@ -1,0 +1,238 @@
+Admission Date:  [**3304-4-22**]              Discharge Date:   [**3304-4-26**]
+
+
+Service: MEDICINE
+
+Allergies:
+Morphine Sulfate / Ciprofloxacin / Demerol
+
+Attending:[**First Name3 (LF) 893**]
+Chief Complaint:
+88 year old man with hx of internal hemorrhoids, A. fib on
+coumadin, MDS w/ chronic anemia and thrombocytopenia presents w/
+BRBPR and worsening Hct.
+
+Major Surgical or Invasive Procedure:
+Colonscopy
+
+History of Present Illness:
+Mr. [**Known patient lastname 17833**] is an 88 year old man with a history of interal
+hemorrhoids, myelodysplasia with chronic anemia and
+thrombocytpenia, and  A fib. on coumadin who presents after
+being sent to ED by PCP to be transfused for Hct of 25 on
+routine weekly INR checks. Pt recalls "feeling tired" over the
+past week and noticing bright red blood on this toilet paper
+after bowel mov'ts for the past wk. Admits to constipation,
+straining, ? tenesmus over past wk. Denies abdominal pain,
+diarrhea, change in color of stools?, melena, chest pain, SOB.
+Last colonscopy was 3 yrs ago, polyps on past studies. Has
+reported occasional BRBPR in the past, guiaics by PCP all
+negative per daughter's report. Hx of internal hemorrhoids dx 4
+yrs ago.
+
+In [**Name (NI) **], pt's vitals: HR 70, BP 124/62--> 84/26 (asx?) O2sat 97%
+4L NC 86% RA. Exam notable for pale conjunctivae, irregular HR,
+grossly bloody rectum, no external hemorrhoids, anoscope:
+internal hemorrhoids, not actively bleeding. Gastric lavage was
+negative. Received 1 unit of packed RBCs, Vit 5mg po, 5mg sc, 1
+unit of FFP. Labs remarkable for Cr 2.0, Hct 26.9, PT 22.1, INR
+3.1, Plt 90. EKG 64 atrial fibrillation nl axis ST depressions
+(1mm) V3-V6, TWI V4-V6, prolonged QTc. Compared to prior EKG, ST
+depressions in same leads slight more depressed on this more
+current EKG.
+
+
+Past Medical History:
+PMH
+Myelodysplasia - dx'd 2 [**1-20**] yrs ago
+Atrial fibrillation
+CAD s/p CABG/quadruple '[**93**], CHF-EF 40% in [**3302**]
+AI s/p valvuloplasty
+Aortic stenosis
+Melanoma or basal cell ca? - face, dx in '70s s/p radiation
+Acute pancreatitis -
+Cholelithiasis
+"Mild Parkinson's"
+Internal Hemorrhoids
+GERD
+Dyplastic polyps on colonscopy
+
+
+Social History:
+Lives in the same house as his adult daugher who appears
+supportive and actively involved in this care. He occupies the
+apt below hers and uses a baby [**Name (NI) **]-[**Name2 (NI) 17834**] to stay in constant
+communication with him. Uses a walker to ambulate at home.
+
+
+Family History:
+Family Hx: Daughter, Crohn's Disease
+
+Physical Exam:
+VS BP 112/66 HR 61 RR 16   SaO2 99% 4L NC
+General: elderly male, conversant, engaging
+HEENT: actinic skin changes, conj. b/l red, appears irritated,
+purulent discharge in right eye, no JVD, nl JVP, MMM
+Chest: Lungs clear, no crackles, wheezes, good chest expansion
+Cardiac: irregular rhythm, III/VI crescendo-descr. systolic
+murmur best heard at the 2nd intercostal space radiated to
+clavicles, ? II/VI diastolic murmur at LSB
+Abd: soft obese nontender no HSM normal bowel sounds, no masses
+palpated
+Ext: warm well-perfused,  2+ DPs, trace pedal edema
+Neuro: alert, oriented x 3, grossly intact
+
+
+Pertinent Results:
+[**3304-4-22**] 07:20PM   WBC-6.1 RBC-2.67* HGB-8.6* HCT-26.9*
+MCV-101*# MCH-32.3*# MCHC-32.0 RDW-18.7*
+[**3304-4-22**] 07:20PM   CK(CPK)-44
+[**3304-4-22**] 07:20PM   CK-MB-2 cTropnT-0.10*
+[**3304-4-22**] 07:20PM   PLT SMR-LOW PLT COUNT-90* LPLT-2+
+[**3304-4-22**] 07:20PM   PT-22.1* PTT-41.1* INR(PT)-3.1
+[**3304-4-23**] 04:00AM BLOOD WBC-6.0 RBC-2.58* Hgb-8.5* Hct-25.5*
+MCV-99* MCH-33.0* MCHC-33.3 RDW-19.6* Plt Ct-67*
+[**3304-4-23**] 10:00AM BLOOD Hct-27.6*
+[**3304-4-23**] 05:40PM BLOOD Hct-29.7*
+[**3304-4-24**] 05:26AM BLOOD WBC-5.4 RBC-2.95* Hgb-9.5* Hct-28.3*
+MCV-96 MCH-32.2* MCHC-33.6 RDW-19.9* Plt Ct-69*
+[**3304-4-22**] 07:20PM BLOOD Plt Smr-LOW Plt Ct-90* LPlt-2+
+[**3304-4-23**] 04:00AM BLOOD Plt Ct-67* LPlt-2+
+[**3304-4-24**] 05:26AM BLOOD Plt Smr-VERY LOW Plt Ct-69* LPlt-1+
+[**3304-4-22**] 07:20PM BLOOD CK-MB-2 cTropnT-0.10*
+[**3304-4-23**] 04:00AM BLOOD CK-MB-NotDone cTropnT-0.09*
+[**3304-4-23**] 10:00AM BLOOD CK-MB-2 cTropnT-0.12*
+[**3304-4-24**] 05:26AM BLOOD CK-MB-2 cTropnT-0.13*
+
+Brief Hospital Course:
+1. [**Name (NI) 17835**]
+Pt remained hemodynamically stable while on the floor with no
+signs of active bleeding. He received an additional unit of
+PRBC. His Hct bumped appropriately and remained stable in the
+high 20s. Colonscopy performed on [**4-24**] demonstrated grade 1
+non-bleeding internal hemorrhoids w/ anal tage, non-bleeding
+diverticulosis of the sigmoid colon, small polyp in sigmoid
+colon o/w normal. Likely source of bleed thought to be internal
+hemorrhoids.
+
+2. Anemia
+As above, Hct increased with additional unit of PRBC, remaining
+stable. Hemolysis and Fe studies were WNL. Likely an acute on
+chronic picture with [**Month/Day (4) 17835**] worsening baseline anemia from MDS.
+Now back to baseline crit which hovers around 30.
+
+3. ST depressions on EKG
+Present on EKG from a yr ago. Likely not ischemia as they have
+persisted.
+
+4. Elevated troponins
+Pt presented w/ increased troponins which continued to be high
+on serial enzymes. At baseline troponins have been elevated in
+the past, so likely [**2-20**] to chronic renal insuff. and not demand
+ischemia
+
+5. CHF
+Pt with no overt signs of volume overload on exam while in unit.
+Lasix dose reduced to 40mg qd vs [**Hospital1 **] while in unit.
+
+6. A. fib
+Coumadin held during MICU stay in setting of [**Hospital1 17835**], then
+restarted.
+
+7. CRI
+Pt with Cr of 2.0 on admission, which then improved
+
+8. Thrombocytopenia
+Plts remain in the 60s, at baseline plts have hovered in this
+range and higher. [**2-20**] to MDS
+
+9. DISPO - pt was evaluated by physical therapy, and was felt to
+benifit from Rehab placment
+
+Medications on Admission:
+MEDS
+Epogen 20,000/ml 1 ml SQ qwk
+Sinemet 25/100 1 tab [**Hospital1 **]
+Lasix 40mg 2 tabs qd
+Aldactone 25mg 1 tab qd
+Toprol XL 50mg tab qd
+Protonix 40mg 1 tab qd
+Lipitor 10mg 1 tab qd
+Paxil CR 12.5 mg qd
+Pepcid AC 10mg 2 tabs qd
+Coumadin 1.0 mg qd
+Alphagan 10ml one drop to left eye [**Hospital1 **]
+Xalatan 0.005% one frop to left eye qhs
+IC Erythromycin ointment tid prn
+
+
+Discharge Medications:
+1. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+3. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+4. Brimonidine Tartrate 0.15 % Drops Sig: One (1) Drop
+Ophthalmic  [**Hospital1 **] (2 times a day).
+5. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic  HS
+(at bedtime).
+6. Carbidopa-Levodopa 25-100 mg Tablet Sig: One (1) Tablet PO
+BID (2 times a day).
+7. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily) as needed
+for CHF, HTN, A fib.
+8. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day) as needed for anemia.
+9. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+12. Warfarin Sodium 1 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+13. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Last Name (un) 1668**] - [**Location (un) 738**]
+
+Discharge Diagnosis:
+Lower GI Bleeding
+Myelodysplasia - dx'd 2 [**1-20**] yrs ago
+Atrial fibrillation
+CAD s/p CABG/quadruple '[**93**], CHF-EF 40% in [**3302**]
+AI s/p valvuloplasty
+Aortic stenosis
+Melanoma or basal cell ca? - face, dx in '70s s/p radiation
+Cholelithiasis
+"Mild Parkinson's"
+Internal Hemorrhoids
+GERD
+Dyplastic polyps on colonscopy
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please continue all medications as prescribed, and monitor for
+any further episodes of bleeding. Please continue to work with
+physical therapy. If you you have any chest pain, further
+bleeding, shortness of breath, or any other concerning symptoms
+please seek further medical attention.
+
+Followup Instructions:
+Please make a follow-up appointment within 1 week of discharge
+with your PCP Dr [**Last Name (STitle) **]. [**Telephone/Fax (1) 17836**]
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 999**], M.D. Where: [**Hospital6 29**]
+CARDIAC SERVICES Phone:[**Telephone/Fax (1) 126**] Date/Time:[**3304-5-13**] 10:45
+
+
+                             [**Name6 (MD) 248**] [**Name8 (MD) **] MD [**MD Number(1) 898**]
+

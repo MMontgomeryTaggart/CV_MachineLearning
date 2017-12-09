@@ -1,0 +1,810 @@
+Admission Date:  [**3035-2-6**]              Discharge Date:   [**3035-3-2**]
+
+Date of Birth:  [**2972-3-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Aspirin / Motrin
+
+Attending:[**First Name3 (LF) 4882**]
+Chief Complaint:
+enlarging vegetation on tricuspid valve
+
+Major Surgical or Invasive Procedure:
+tricuspid valve vegectomy
+
+
+History of Present Illness:
+62 year old female with history of recurrent prosthetic
+tricuspid valve endocarditis with remote repair of tricuspid
+valve, tricuspid valve replacement at [**Hospital1 577**] in [**3015**] and most
+recently a redo tricuspid valve replacement in [**3015**] [**Male First Name (un) 657**]
+tissue valve in [**3030**] for MSSA and Enterococcal prosthetic valve
+endocarditis.
+.
+She was admitted in early [**3034-12-14**] with [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 8833**]
+tricuspid prosthetic valve endocarditis with pulmonary embolic
+phenomena. She was initially seen at [**Hospital3 751**] [**12-16**], with
+respiratory distress and found to have multiple pulmonary septic
+emboli on CT scan and tricuspid valve vegetations on ECHO. She
+was in shock at the time of transfer. Blood cultures drawn on
+[**12-16**] grew GPC and yeast(GPC ultimately found to be CONS
+contaminant) and she was started onto echinocandin therapy on
+[**3034-12-17**]. She was subsequently transferred to [**Hospital1 **] for ongoing
+managment. At the time of transfer, she was on echinocandin
+therapy alone as her antifungal [**Doctor Last Name 176**] and was persistently
+fungemic. She was transitioned to ambisome on [**12-18**] as monotherapy
+and then micafungin was added back on [**12-27**]. Her fungemia
+quenched on [**3034-12-27**]. She was on ambisome and micafungin from
+[**Date range (1) 38839**] and then was subsequently transitioned to micafungin
+monotherapy on [**1-10**] soon after discharge to rehab. During this
+admission, she was determined to be a non-operative candidate.
+.
+Her echo on [**3035-1-1**] revealed a 1.8 x 1.1 cm tricuspid
+vegetation with severe tricuspid regurgitation. At rehab, she
+had a persistent oxygen requirement prompting chest film. When
+abnormalities were noted on that study, she had a CT scan of the
+chest done on [**3035-2-4**] which revealed a question of possible
+new cavitary lesion related to ? possible new septic emboli when
+the CT was compared with the initial CT done at [**Hospital3 **]
+on [**3034-12-16**].
+.
+Plan was for patient to have ECHO on day of admission followed
+by appointment
+in [**Hospital **] clinic. Due to transport issues, patient was unable to
+make
+it to [**Hospital **] clinic appointment. Given the findings of increased
+size
+of vegetation(4.9 cm in greatest dimention) on todays ECHO in
+the
+context of her overall clinical status and findings on chest CT,
+decision made to transport to ER from ECHO for admission. At the
+time IDs recommendations were:
+-mycolytic and routine blood cultures(multiple sets)
+-Continue Micafungin 100 mg IV Q 24 hours
+-Would add liposomal amphoterocin B at 5 mg/kg/day
+-Evaluation by Cardiology and Cardiothoracic surgical services
+-Would consult ID for further detail regarding evaluation and
+treatment plan
+.
+In the ED, initial VS were 100 84 98/56 16 100% 6L Nasal Cannula
+
+As per call-in by Dr [**Last Name (STitle) 5293**] (pager [**Numeric Identifier 38840**])Pt was attending outpt
+echo from [**Hospital 38841**] rehab hosp, + SOB. 62 year old female with
+chief complaint of [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 8833**] endocarditis, now with
+persistent oxygen requirement, worsened chest CT and worsening
+tricuspid vegetation on most recent echo on micafungin.Needs
+admission to start onto combination salvage antifungal therapy
+and reconsideration of cardiothoracic surgical intervention
+
+
+Past Medical History:
+1. s/p TV repair '[**05**], s/p TVR/PFO closure '[**15**], s/p Redo
+tricuspid valve replacement with a St. [**Male First Name (un) 659**] tissue valve and
+placement of epicardial permanent pacing leads
+([**3031-3-19**])arrest
+2. Breast CA s/p left lumpectomy + axial node
+dissection/Chemo/XRT '[**24**]
+3. sepsis related to Portacath
+4. Afib/fibrilation - s/p ablation at [**Hospital1 **]; also h/o SSS -
+currently with pacer wires w/o battery.
+5. multiple spinal surgeries, stimulator placed [**3020-8-29**] with a
+revision [**3021-3-21**].
+6. COPD
+7. Left ing hernia repair.
+8. BCC X3.
+9. Cerebrovascular accident ([**3015**]).
+right renal hydronephrosis
+
+
+Social History:
+Lives with partner of 30 years ([**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4535**]) who has not
+been in contact during this admission. Talked to patient's
+brother [**Name (NI) **] [**Name (NI) 38828**] (home: [**Telephone/Fax (1) 38829**], cell:
+[**Telephone/Fax (1) 38830**]), he is patient's HCP and will send paperwork to
+that effect. Lives in Fort-[**First Name9 (NamePattern2) 38831**] [**State 210**] and will travel
+here within the next few days. There are two more brothers in
+the [**Name (NI) 211**] Area who have
+been visiting. Patient's daughter lives in area. Has + tobacco -
+about [**12-15**] ppd
+
+Family History:
+Mother- Diabetes/HTN
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+General: Patient is alert, appears uncomfortable, opens eyes to
+command but otherwise not cooperative, intubated, ventilated, on
+IV fentanyl + IV levophed
+HEENT: Sclera anicteric, MMM, thrush on tongue, Pupils sluggish
+and unequal, R 4mm, L 2mm
+Neck: supple, JVP at jaw angle, no LAD, left IJ in place with
+some hematoma around site.
+CV: IRRegular rate and rhythm, minimal systolic murmur [**12-19**] at
+LLSB, no rubs, gallops. Wires are palpable in right anterior
+chest subcutaneously.
+Lungs: bil air entery other Clear to auscultation bilaterally
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Back: bony protrusion at midline @ ~ T10 level, no tenderness or
+erythema, surgical scars along spine.
+Ext: clubbing of fingers, large subcutaneous hematoma over left
+groin and thigh, femoral pulses palpable bilaterally, warm, well
+perfused, DP's + radials thready and symetrical, faint, no
+cyanosis, bil tibial edema right > left, no calf tenderness.
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred, finger-to-nose intact
+Skin: No stigmata of endocarditis seen. Multiple echymosis,
+Stage 3 decub ulcer on left elbow.
+.
+DISCHARGE PHYSICAL EXAM:
+98.1  90/34  62  18  94% on 3L
+I/O: 1200/2200
+General: Patient is alert and oriented x3, cachectic
+HEENT: Sclera anicteric, MMM
+CV: RRR ,systolic murmur [**1-19**] at LLSB
+Lungs: fair air movement, some crackles at bases
+Abdomen: soft, non-distended, BS+, mild diffuse tenderness
+Ext: warm, well perfused, bilateral edema
+Neuro: no gross abnl
+Skin: large excavated lesion (covered w/ clean dressing) in
+upper lumbar back approx 4cm x 6cm in diameter, with scalloped
+interior, heaped up rounded edges, with wound cleaning material
+on wound, covered w/ clean, dry dressing.
+
+Pertinent Results:
+Radiology:
+ECHO ([**2-27**]):
+The left atrium is mildly dilated. The coronary sinus is dilated
+(diameter >15mm). There is mild symmetric left ventricular
+hypertrophy with normal cavity size and regional/global systolic
+function (LVEF>55%). The right ventricular cavity is moderately
+dilated with moderate global free wall hypokinesis. The
+diameters of aorta at the sinus, ascending and arch levels are
+normal. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic stenosis or aortic
+regurgitation. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion. There is a minimally
+increased gradient consistent with minimal aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse. A bioprosthetic tricuspid
+valve is present with thickened leaflets and increased gradient.
+There is a moderate size (7mm) long mobile
+echodensity/vegetation on the tricuspid valve. Mild tricuspid
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of tricuspid regurgitation may be significantly UNDERestimated.]
+There is borderline pulmonary artery systolic hypertension. The
+main pulmonary artery is dilated. Abnormal flow consistent with
+a possible patent ductus arteriosus is seen. There is no
+pericardial effusion.
+IMPRESSION: Well seated bioprosthetic tricuspid valve with
+increased gradient and mobile echodensity c/w vegetation (may
+also involve the leaflets). Right ventricular cavity dilation
+with free wall hypokinesis. Possible PDA (vs. coronary artery
+fistula). Minimal aortic valve stenosis. Mild pulmonary artery
+hypertension.
+.
+Bone Scan ([**2-18**]):
+1. Increased uptake in the lumbar spine may be related to
+degenerative change, but concurrent infection is not excluded.
+Correlation with gallium scan and SPECT-CT should be considered,
+if clinically helpful.
+2. Pooling of tracer in the right renal collecting system could
+be within normal limits, but partial obstruction is also
+possible. Clinical correlation advised.
+.
+KUB ([**2-15**]):
+There is no evidence of bowel obstruction. There are a few
+air-fluid levels in small bowel loops. There is air in the
+colon. There is increase in fecal material throughout the
+ascending and descending colon. There is severe scoliosis and
+degenerative changes in the lumbar spine. Surgical clips project
+in the hips bilaterally. Increased density in the left upper
+quadrant suggests splenomegaly. There is no evidence of free
+air.
+.
+CXR ([**2-13**]):
+Lung volumes have improved, and mild pulmonary edema is still
+present.
+Additionally, there are small focal pulmonary abnormalities
+attributable to septic emboli. No new large consolidation has
+developed. Small bilateral pleural effusions and mild
+cardiomegaly persists.
+.
+CXR ([**2-6**]):
+IMPRESSION: Interval development of pulmonary edema. Other
+findings of
+peripheral opacities previously described as septic emboli and
+bilateral small pleural effusions are unchanged.
+.
+EKG ([**2-6**]): rate of 91. Normal sinus rhythm with occasional
+premature atrial contractions. Right axis deviation. Incomplete
+right bundle-branch block. T wave inversions in  leads V1-V2
+suggestive of possible anteroseptal ischemia. Compared to the
+previous tracing of [**3035-1-1**] the T wave inversions in leads V1-V2
+are new.
+.
+EKG ([**2-14**]): rate 58. Possible ectopic atrial rhythm versus sinus
+rhythm with premature atrial contraction. Short P-R interval
+without other signs of pre-excitation. Non-specific
+intraventricular conduction delay. Right axis deviation. RSR'
+pattern in lead V1 could be a normal variant. Non-specific T
+wave changes in leads V1-V2. Compared to the previous tracing of
+[**3035-2-11**] premature atrial contractions are less frequent.
+.
+EKG ([**2-26**]): rate 93. Sinus rhythm with atrial premature
+depolarizations. Compared to the previous tracing there is no
+diagnostic change.
+.
+TTE ([**2-6**]): The left atrium is elongated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is top
+normal/borderline dilated. Overall left ventricular systolic
+function is normal (LVEF>60%). Tissue Doppler imaging suggests
+an increased left ventricular filling pressure (PCWP>18mmHg).
+The right ventricular cavity is mildly dilated with moderate
+global free wall hypokinesis. There is a mass in the right
+ventricle. The aortic valve leaflets (3) are mildly thickened.
+There is no valvular aortic stenosis (increased transaortic
+velocity is likely related to high cardiac output). Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Physiologic mitral
+regurgitation is seen (within normal limits). A well-seated
+bioprosthetic tricuspid valve is present with a large, highly
+mobile vegetation (5.2x1.7 cm in maximum dimension) seen
+prolapsing between the right ventricle and right atrium, with
+likely significant tricuspid regurgitation [Due to acoustic
+shadowing, the severity of tricuspid regurgitation may be
+significantly UNDERestimated.] . There appears to be another
+smaller (sub-centimeter) highly mobile mass associated with the
+moderator band in the right ventricle (clips #57, 60). The
+estimated pulmonary artery systolic pressure is normal. There is
+no pericardial effusion.
+IMPRESSION: Large highly mobile vegetation attached to the
+prosthetic tricuspid valve, with likely significant tricuspid
+regurgitation. Possible small vegetation associated with the
+moderator band. Mildly dilated right ventricle with moderate
+global free wall hypokinesis.
+Compared with the prior study (images reviewed) of [**3035-1-1**],
+the vegetation is larger in size (significantly elongated).
+.
+CT Chest [**3035-2-4**]
+1. Wedge compression deformity at thorocalumbar junction with
+focal vertebral body sclerosis. Given history of breast cancer
+and reported back pain, findings could represent metastases.
+Recommend bone scan.
+2. New cavitated peribronchial opacities in right middle lobe
+likely represent new area of septic emboli. Previously
+identified septic emboli have decreased  in size.
+3. Bilateral moderately sized low density (no hemorrhagic)
+pleural effusions, with left effusion decreased in size.
+4. Fibrotic changes in lingula with adjacent increased ground
+glass opacities likely represent combination of post-radition
+fribrosis and pulmonary edema.
+5. Increased mediastinal and hilar lymphadenopathy with necrotic
+9 cm right paratracheal lymph node.
+6. Enlarged incompletley visualized right renal pelvis, may
+represent
+parapelvic cyst.
+7. Foci of calcification in right kidney, possibly
+nephrolithiasis or wall calfication of an incompletey
+demonstrated renal cyst.
+8. Stable moderate cardiomegaly.
+.
+ADMISSION LABS:
+[**3035-2-8**] 04:50AM BLOOD WBC-8.7 RBC-3.07* Hgb-9.0* Hct-27.0*
+MCV-88 MCH-29.2 MCHC-33.2 RDW-17.2* Plt Ct-47*
+[**3035-2-6**] 05:30PM BLOOD Glucose-86 UreaN-24* Creat-0.9 Na-129*
+K-6.6* Cl-98 HCO3-25 AnGap-13
+[**3035-2-6**] 05:30PM BLOOD ALT-16 AST-38 AlkPhos-328* TotBili-0.5
+[**3035-2-6**] 05:30PM BLOOD Calcium-9.4 Phos-4.4 Mg-1.9
+[**3035-2-7**] 04:45AM BLOOD Cortsol-11.2
+[**3035-2-8**] 04:32AM BLOOD Type-ART Temp-37.0 O2 Flow-7 pO2-57*
+pCO2-42 pH-7.46* calTCO2-31* Base XS-5 Intubat-NOT INTUBA
+.
+PERTINENT INTERVAL LABS:
+[**3035-2-18**] 08:45AM BLOOD WBC-6.4 RBC-3.09* Hgb-8.7* Hct-27.1*
+MCV-88 MCH-28.1 MCHC-32.0 RDW-16.6* Plt Ct-77*
+[**3035-2-14**] 05:38AM BLOOD Ret Aut-1.3
+[**3035-2-8**] 04:50AM BLOOD Glucose-116* UreaN-29* Creat-1.1 Na-130*
+K-5.2* Cl-97 HCO3-27 AnGap-11
+[**3035-2-8**] 04:15PM BLOOD Glucose-143* UreaN-33* Creat-1.3* Na-131*
+K-5.5* Cl-98 HCO3-24 AnGap-15
+[**3035-2-15**] 06:14AM BLOOD Glucose-92 UreaN-38* Creat-1.5* Na-135
+K-4.2 Cl-103 HCO3-26 AnGap-10
+[**3035-2-19**] 10:20AM BLOOD Glucose-116* UreaN-29* Creat-1.1 Na-131*
+K-4.4 Cl-101 HCO3-24 AnGap-10
+[**3035-2-12**] 06:41AM BLOOD ALT-7 AST-18 AlkPhos-268* TotBili-0.5
+[**3035-2-12**] 06:41AM BLOOD Lipase-19
+[**3035-2-19**] 10:20AM BLOOD Calcium-8.9 Phos-3.9 Mg-1.8
+[**3035-2-14**] 05:38AM BLOOD Hapto-64
+[**3035-2-7**] 04:45AM BLOOD Cortsol-11.2
+[**3035-2-8**] 04:32AM BLOOD freeCa-1.27
+[**3035-2-24**] 05:29AM BLOOD WBC-5.6 RBC-2.92* Hgb-8.2* Hct-25.2*
+MCV-86 MCH-28.1 MCHC-32.5 RDW-16.6* Plt Ct-78*
+[**3035-2-28**] 06:21AM BLOOD WBC-4.3 RBC-2.73* Hgb-7.5* Hct-24.8*
+MCV-91 MCH-27.5 MCHC-30.2* RDW-16.6* Plt Ct-82*
+[**3035-2-28**] 06:21AM BLOOD PT-10.9 PTT-30.9 INR(PT)-1.0
+[**3035-2-22**] 08:00AM BLOOD Glucose-98 UreaN-31* Creat-1.2* Na-131*
+K-4.7 Cl-100 HCO3-30 AnGap-6*
+[**3035-2-28**] 06:21AM BLOOD Glucose-110* UreaN-35* Creat-1.3* Na-132*
+K-4.6 Cl-99 HCO3-30 AnGap-8
+[**3035-2-24**] 05:29AM BLOOD ALT-13 AST-20 LD(LDH)-139 AlkPhos-309*
+TotBili-0.4
+[**3035-2-28**] 06:21AM BLOOD Calcium-8.4 Phos-4.9* Mg-2.0
+.
+URINE:
+[**3035-2-6**] 06:51PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.009
+[**3035-2-6**] 06:51PM URINE Blood-SM  Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-NEG
+[**3035-2-6**] 06:51PM URINE RBC-18* WBC-2 Bacteri-NONE Yeast-NONE
+Epi-1
+[**3035-2-6**] 06:51PM URINE Hours-RANDOM Creat-22 Na-144 K-41 Cl-119
+[**3035-2-6**] 06:51PM URINE Osmolal-466
+[**3035-2-14**] 12:18AM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.011
+[**3035-2-14**] 12:18AM URINE Blood-SM  Nitrite-POS Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+[**3035-2-14**] 12:18AM URINE RBC-17* WBC->182* Bacteri-MANY Yeast-NONE
+Epi-<1 TransE-1
+.
+MICRO:
+Blood cultures ([**2-6**], [**2-6**], [**2-8**], [**2-10**], [**1-/2952**], [**2-12**]): no growth
+.
+[**3035-2-6**] 6:53 pm BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)
+      Source: Venipuncture.
+   BLOOD/FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+   BLOOD/AFB CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+.
+Urine culture ([**2-6**]): no growth
+.
+MICRO:
+Superficial Wound Swab:
+   GRAM STAIN (Final [**3035-2-7**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+.
+   WOUND CULTURE (Final [**3035-2-9**]):
+      STAPH AUREUS COAG +.    SPARSE GROWTH.
+         This isolate is presumed to be resistant to clindamycin
+based on
+         the detection of inducible resistance .
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Final [**3035-2-11**]):    NO ANAEROBES ISOLATED.
+.
+Urine Cx ([**2-12**]):
+   URINE CULTURE (Final [**3035-2-15**]):
+      ENTEROBACTER AEROGENES.    >100,000 ORGANISMS/ML..
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+         Cefazolin interpretative criteria are based on a dosage
+regimen of
+         2g every 8h.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROBACTER AEROGENES
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------             =>32 R
+AMPICILLIN/SULBACTAM--               16 I
+CEFAZOLIN-------------              <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CIPROFLOXACIN---------<=0.25 S   <=0.25 S
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------    64 I       32 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S     =>16 R
+.
+[**3035-2-26**] 1:00 pm FOREIGN BODY      TV VEGETATION WITH SALINE .
+
+   GRAM STAIN (Final [**3035-2-26**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+
+Brief Hospital Course:
+==================
+BRIEF PATIENT SUMMARY
+==================
+Ms. [**Known patient lastname **] is a 62 yo F w/ hx of A-fib, h/o IVDA, remote
+tricuspid valvue replacement/repair x 3 who was admitted to the
+medical ICU with marked enlargement of tricuspid valve Candidal
+vegetation and borderline blood pressures.  The patient has been
+deemed to not be a surgical candidate for valve
+repair/replacement by [**Hospital1 68**] thoracic surgery and a second
+opinion from [**Hospital1 577**] thoracic surgery. The patient has been treated
+with ambisome for her fungal endocarditis, but the prognosis is
+poor.  She also has a significant wound at the level of the
+lower back, at the site of a previous spinal stimulator removal,
+that has been evaluated by the wound care nurse, ID and
+neurosurgery/back.  Unfortunately, considering her clinical
+status (renal failure and hardware in body), there is not a
+reasonable definitive imaging study, and she is not a surgical
+candidate currently due to her functional status and nutrition,
+to have the spinal hardware removed.  During the course of this
+hospitalization, she had a percutaneous catheter-based vegectomy
+by Dr. [**Last Name (STitle) **] of Interventional Cardiology ([**3035-2-26**]) to debulk
+the tricuspid valve vegetation.  It was found that she had
+thrombus in addition to vegetation, and thus was started on
+coumadin for a goal INR 2.
+
+==================
+ACTIVE ISSUES
+==================
+# Fungal Endocarditis with valvular incompetence and complicated
+by septic emboli - TTE prior to admission showed significant
+enlargement (5.2x1.7cm) of patient's known tricuspid valve
+vegetation. Infectious disease team was consulted. Infectious
+disease recommended that patient be continued on ambisome.  We
+appreciated ID input throughout entire hospital course. CT
+surgery reiterated that patient is not a surgical candidate.
+While in the ICU, a family meeting was held regarding patient's
+poor prognosis without surgery, and decided they would like to
+proceed with obtaining a second opinion at an OSH. The patient
+was called out of the MICU on [**3035-2-9**].  While on the medical
+floor, the patient was followed closely by ID.  We continued
+ambisome, decreasing dose (to 300mg qd) once, secondary to a
+decrement in renal function.  All blood cultures culture were
+negative.  Multiple family meetings were held with the patient
+and two brothers.  Prognosis was explained (very poor). Second
+opinion from [**Hospital6 588**] also deemed the
+patient to not be a surgical candidate. The patient's family is
+actively pursuing other opinions.  The patient was offered a
+salvage catheter-based vegectomy, performed by interventional
+cardiology on [**2-26**].  The vegetation was significantly debulked
+during the procedure, and it was noted that there was a
+thrombotic component to the vegatation.  Thus, the patient was
+iniatiated on warfarin 2mg qd, with a goal INR [**1-16**] (goal closer
+to 2). Social work, patient relations and the ethics
+consultation service were also consulted in relation to this
+patient. The patient will be seen in infectious disease clinic,
+and should have CBC, Chem 7 basic metabolic panel and LFTs
+trended every week.
+.
+# Back Wound from spinal stimulator surgeries - Large, 4x6cm
+wound located midline in the mid-back region. It is a large,
+rounded edged, likely chronic wound, largely unchanged over the
+course of the hospital stay. Wound care was consulted and has
+been giving us recommendations regarding the wound.
+.
+Their current wound recommendations are:
+Continue pressure relief measures per pressure ulcer guidelines.
+Limit sit time to one hour.
+Use pressure relief cushion when OOB to chair.
+Continue frequent turn and repositioning.
+
+Change wound care treatment to:
+Spine: Cleanse with commercial wound spray.  Pat tissue dry.
+Wipe periwound skin with barrier wipe.
+Pack wound with regular Aquacel (Discontinue use of Aquacel AG).
+
+Cover with DSD and ABD.  Secure with Medipore tape.
+
+Coccyx: Cleanse with commercial wound spray.  Pat dry.  Cover
+with heart shaped Mepilex.  Change q 3 days and prn.
+
+Elbows: Moisturize [**Hospital1 **] with aloe vesta lotion.  Frequent turn
+and
+reposition.  Pad bony prominence to reduce pressure.  If patient
+continues to favor her left elbow would consider applying a
+waffle boot to off load pressure.
+.
+Pain control was achieved with morphine SR 30mg q8hrs and
+dilaudid 2mg PO q3hrs PRN for breakthrough pain. Patient's pain
+adequately controlled on this regimen. We restricted pressure on
+this site by propping up lateral aspects of torso with cushions.
+A bone scan was  performed [**3035-2-18**] to investigate for
+osteomyelitis, and was inconclusive.  Neurosurg/back team
+evaluated pt on [**2-19**], and they agreed that there were no feasible
+options to further image the back to r/o osteo, considering pt's
+tenuous renal function (CT w/ contrast) and significant amt of
+hardware in body (MRI). There was extensive discussion with
+infectious disease team and neurosurgery regarding potential
+back wound surgical exploration and closure.  Given the
+inconclusive bone scan and lack of other data supporting deep
+infection as well as the risks involved with this surgery, we
+felt the risks of pursuing surgery outweighed the benefits at
+patient's current functional status.  The patient may benefit
+from eventual removal of back hardware, as it may be a source of
+infection.  If patient's functional and nutritional status
+improve, the patient may consider surgical intervention in
+future.
+.
+# Hypotension - The patient has had blood pressures stably in
+the 80s-100s throughout entire hospitalization, and has been
+asymptomatic. Likely secondary to poor forward flow from
+tricuspid valve regurgitation. Patient did not require pressor
+support or fluid resuscitation as she continued to mentate
+appropriately. Clinic BP was recently 98/54 in medical record.
+In setting of relative hypotension we have been holding ACE/BB.
+.
+# Urinary tract infection: pt w/ mild symptoms and repeat UA w/
+e/o UTI on [**2-14**].  Treated complicated (foley) UTI w/ cipro (prior
+pathogens sensitive) x 10d. Final day for abx was [**2-23**].
+.
+# Acute renal failure:  Pt's Cr on admission 0.9, peaking at
+1.5, and now back down to 1.1.  Also, pt had UTI which has now
+been treated. We renally dosed meds while she she was here.
+.
+# Tachycardia: patient with tachycardia early in hospitalization
+secondary to atrial tachycardia.  the patient received 500cc
+fluid bolus and tachycardia resolved.  For past two weeks of
+hospitalization, HR has been 60s-80s primarily.
+.
+# Anemia: Stable 24-27 throughout admission.  No gross e/o
+bleeding.  No e/o hemolysis.  No e/o bleeding.  Most likely
+secondary to poor production in setting of severe illness.
+Stable today
+.
+# Thrombocytopenia: stable. platelets have ranged from 70K-90K
+.
+# Hypoxemia: Likely secondary to poor tricuspid valve, pulmonary
+emboli secondary to endocarditis and atelectasis from poor
+functional status. O2 has been able to be titrated down to 3L,
+with saturations 91-95% on 3L of O2.
+.
+# Hyponatremia - Likely SIADH from pulmonary disease. Sodium was
+131-133 for most of hospitalization, and was 135 at the time of
+discharge.
+.
+# Code status: patient is a full code.
+.
+# Emergency Contacts:
+[**Name (NI) 164**] (son from Ca) [**Telephone/Fax (1) 38834**]
+brother in [**Name (NI) 210**] and HCP [**Name (NI) **] [**Name (NI) 38828**] (home:
+[**Telephone/Fax (1) 38829**], cell: [**Telephone/Fax (1) 38830**]),
+==========================
+TRANSITIONAL ISSUES
+==========================
+1. continue ambisome for a total course of at least 2 months
+(starting [**3035-2-6**]). pt will be followed in [**Hospital **] clinic
+
+2. Patient should have Chem 7, LFTs and CBC w/ differential
+drawn once per week. All laboratory results should be faxed to
+Infectious disease R.Ns. at ([**Telephone/Fax (1) 3044**].
+
+3. f/u appointments:
+Department: INFECTIOUS DISEASE
+When: TUESDAY [**3035-3-3**] at 11:15 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10528**], MD [**Telephone/Fax (1) 202**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) Basement
+Campus: WEST Best Parking: [**Hospital Ward Name **] Garage
+
+Department: INFECTIOUS DISEASE
+When: MONDAY [**3035-3-16**] at 10:00 AM
+With: [**Name6 (MD) 23064**] [**Last Name (NamePattern4) 23065**], MD [**Telephone/Fax (1) 202**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) Basement
+Campus: WEST Best Parking: [**Hospital Ward Name **] Garage
+
+Department: CARDIAC SERVICES
+When: THURSDAY [**3035-3-12**] at 2:40 PM
+With: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 654**]
+Building: SC [**Hospital Ward Name 44**] Clinical Ctr [**Location (un) **]
+Campus: EAST Best Parking: [**Hospital Ward Name 44**] Garage
+
+Department: NEUROSURGERY
+When: TUESDAY [**3035-3-17**] at 1 PM
+With: [**Name6 (MD) **] [**Last Name (NamePattern4) 3655**], MD [**Telephone/Fax (1) 81**]
+Building: LM [**Hospital Unit Name **] [**Location (un) **]
+Campus: WEST Best Parking: [**Hospital Ward Name **] Garage
+
+Medications on Admission:
+1. bisacodyl 5 mg prn
+2. senna 8.6 mg [**Hospital1 **] prn.
+3. docusate sodium [**Hospital1 **]
+4. ascorbic acid 500 mg [**Hospital1 **]
+5. zinc sulfate 220 mg daily
+6. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler
+7. thiamine HCl 100 mg
+8. trazodone 25 mg HS
+9. lisinopril 2.5 mg Tablet qd
+10. metoprolol tartrate 12.5 mg TID
+11. acetaminophen 650 mg q6
+12. multivitamin
+13. heparin (porcine) 5,000 sq TID
+14. methocarbamol 750 mg TID
+15. oxycodone 20 mg Q12H
+16. oxycodone 5 mg Tablet [**12-15**] q6prn
+17. furosemide 20 mg qd
+18. ipratropium bromide 0.02 % q6
+19. benzonatate 100 mg Capsule TID
+20. Ambisome 400 mg IV Q24H
+21. Ondansetron 4 mg IV Q8H:PRN n/v
+22. Micafungin 100 mg IV Q24H
+
+
+Discharge Medications:
+1. senna 8.6 mg Tablet [**Month/Day (2) 38**]: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+2. morphine 30 mg Tablet Extended Release [**Month/Day (2) 38**]: One (1) Tablet
+Extended Release PO Q8H (every 8 hours): hold for sedation, RR <
+12.
+3. acetaminophen 325 mg Tablet [**Month/Day (2) 38**]: One (1) Tablet PO Q6H (every
+6 hours).
+4. docusate sodium 100 mg Capsule [**Month/Day (2) 38**]: One (1) Capsule PO BID (2
+times a day).
+5. temazepam 15 mg Capsule [**Month/Day (2) 38**]: One (1) Capsule PO HS (at
+bedtime) as needed for insomnia.
+6. sodium chloride 0.65 % Aerosol, Spray [**Month/Day (2) 38**]: [**12-15**] Sprays Nasal
+QID (4 times a day) as needed for dry mucosae.
+7. hydromorphone 2 mg Tablet [**Month/Day (2) 38**]: One (1) Tablet PO Q3H (every 3
+hours) as needed for breakthrough pain: hold for sedation, rr <
+12.
+8. Ondansetron 4-8 mg IV Q8H:PRN nausea
+9. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+10. Ambisome 300 mg IV Q24H
+Please space by 2 hours from platelet transfusions.
+11. Outpatient Lab Work
+Patient should have Chem 7, LFTs and CBC w/ differential drawn
+once per week. All laboratory results should be faxed to
+Infectious disease R.Ns. at ([**Telephone/Fax (1) 3044**]
+
+12. multivitamin     Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO DAILY
+(Daily).
+13. warfarin 2 mg Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO Once Daily at 4
+PM.
+14. alprazolam 0.25 mg Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO TID (3
+times a day) as needed for anxiety: hold for sedation, rr < 12.
+
+15. Vital Signs
+Note that patient's blood pressures for the past 4 weeks while
+in house have been stable in the systolic range of 80-95.  Heart
+rates have been 70-90s.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1096**] - [**Location (un) 211**]
+
+Discharge Diagnosis:
+primary diagnoses:
+fungal endocarditis
+back wound
+acute renal failure
+urinary tract infection, complicated
+hypoxia
+anemia
+thrombocytopenia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Dear Ms. [**Known patient lastname **],
+
+You were admitted to the hospital for an enlargening infectious
+mass on your tricuspic heart valve.  It is not amenable to
+surgery.  We are treating you with an IV anti-fungal medication.
+You also had a procedure to debulk or make smaller the infection
+on your heart valve. You also have a wound on your back that we
+have been treating with wound care.
+
+We have made the following changes to the medications you had
+previously been on:
+STOP:
+bisacodyl 5 mg prn
+ascorbic acid 500 mg [**Hospital1 **]
+zinc sulfate 220 mg daily
+albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler
+thiamine HCl 100 mg
+trazodone 25 mg HS
+lisinopril 2.5 mg Tablet qd
+metoprolol tartrate 12.5 mg TID
+methocarbamol 750 mg TID
+oxycodone 20 mg Q12H
+oxycodone 5 mg Tablet [**12-15**] q6prn
+furosemide 20 mg qd
+ipratropium bromide 0.02 % q6
+benzonatate 100 mg Capsule TID
+Micafungin 100 mg IV Q24H
+
+START:
+morphine  30 mg Tablet Extended Release  [**Month/Day (2) 38**]:  One (1) Tablet
+Extended Release PO Q8H (every 8 hours): hold for sedation, RR <
+12.
+
+alprazolam 0.25 mg PO three times per day PRN for anxiety
+
+temazepam  15 mg Capsule  [**Month/Day (2) 38**]:  One (1) Capsule PO HS (at
+bedtime) as needed for insomnia.
+
+sodium chloride  0.65 % Aerosol, Spray  [**Month/Day (2) 38**]:  [**12-15**] Sprays Nasal
+QID (4 times a day) as needed for dry mucosae.
+
+hydromorphone  2 mg Tablet  [**Month/Day (2) 38**]:  One (1) Tablet PO Q3H (every 3
+hours) as needed for breakthrough pain: hold for sedation, rr <
+12.
+
+warfarin 2mg PO daily at 4pm.  Your LTAC should adjust this dose
+based upon your INR. (goal INR around 2).
+
+CHANGE: Ambisome to 300 mg IV Q24H
+
+Otherwise, you should continue to take all of the medications as
+you previously had prior to this current hospitalization.
+
+Followup Instructions:
+Department: INFECTIOUS DISEASE
+When: TUESDAY [**3035-3-3**] at 11:15 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10528**], MD [**Telephone/Fax (1) 202**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) Basement
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+Department: INFECTIOUS DISEASE
+When: MONDAY [**3035-3-16**] at 10:00 AM
+With: [**Name6 (MD) 23064**] [**Last Name (NamePattern4) 23065**], MD [**Telephone/Fax (1) 202**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) Basement
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+Department: CARDIAC SERVICES
+When: THURSDAY [**3035-3-12**] at 2:40 PM
+With: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 654**]
+Building: SC [**Hospital Ward Name 44**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+Department: NEUROSURGERY
+When: TUESDAY [**3035-3-17**] at 1 PM
+With: [**Name6 (MD) **] [**Last Name (NamePattern4) 3655**], MD [**Telephone/Fax (1) 81**]
+Building: LM [**Hospital Unit Name **] [**Location (un) **]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+

@@ -1,0 +1,256 @@
+Date of service: [**2551-12-28**]
+   Requesting physician: [**Name10 (NameIs) **]
+   Initial visit, Cardiology service: CCU
+   Presenting complaint: (Other: Milrinone therapy)
+   History of present illness: 33 yo male with a history of dilated
+   cardiomyopathy (TTE [**8-7**]: EF 20%), h/o ventricular tachycardia s/p ICD,
+   atrial fibrillation on Coumadin, h/o L PCA CVA, and hypothyroidism
+   secondary to Amiodarone who presents for diuresis and milrinone
+   infusion.  Patient was admitted for aggressive treatment by his
+   outpatient Cardiologist.  Per the patient, he has been admitted to the
+   hospital 3 times in the last month for CHF exacerbations.  First on
+   [**11-30**] and again 8 days after discharge.  Most recently he was admitted
+   4 days ago with worsening LE edema and abdominal distention.  He was
+   admitted overnight for IV diuresis.  His edema improved and he was
+   discharged home.  The patient's wife came to [**Hospital1 **] today to pick up
+   medications for her husband and she conveyed to his Cardiologist that
+   the patient has had multiple recent hospitalizations.  Given this, the
+   decision was made for admission for more aggressive treatment and
+   consideration of home milrinone therapy.
+   .
+   In the ED vitals were T 96.8 HR 90 BP 96/61 RR 16 100% RA.  CXR showed
+   no significant change.  He was admitted to the CCU for milrinone gtt.
+   Currently the patient feels well.  He denies CP or SOB.  He denies
+   orthopnea.  He reports that his LE edema is improved.
+   Past medical history:
+    -Dilated Cardiomyopathy, TTE [**8-7**]: EF 20%, diagnosed after presenting
+   with Class III CHF symptoms in [**10-2**], thought to be viral etiology, s/p
+   AICD
+   -CHF, dry weight 100 kg
+   -Ventricular Tachycardia, first noted in [**10-2**], s/p syncope from VT in
+   [**9-6**], ICD in place
+   -Atrial Fibrillation, on Coumadin, diagnosed in the setting of
+   hyperthyroidism
+   -CVA (L PCA, thought to be cardioembolic)
+   -Hyperthyroidism, secondary to Amiodarone (d/ced [**3-6**]), s/p prednisone
+   and methimazole-->hypothyroidism
+   -SDH s/p fall [**1-3**] syncope in [**9-6**] (Coumadin held [**Date range (1) 2727**])
+   -Fe deficiency Anemia
+   -Obesity
+   -Depression
+   -Osteoporosis
+   -s/p R knee surgery
+   -CRI, baseline 1.7
+   CAD Risk Factors
+   CAD Risk Factors Absent
+   Diabetes mellitus, Dyslipidemia, Hypertension,
+   Family Hx of CAD, Family Hx of sudden cardiac death
+   (Tobacco: No)
+   Cardiovascular Procedural History
+   Pacemaker / ICD
+   There is no history of:
+   PCI
+   CABG
+   Allergies:
+   Amiodarone
+   Hyperthyroidism
+   Current medications:
+   Digoxin 125 mcg daily
+   Torsemide 100mg [**Hospital1 **]
+   Levothyroxine 75 mcg daily
+   Lisinopril 2.5 mg [**Hospital1 **]
+   Metoprolol 100mg tid
+   Spironolactone 25 mg daily
+   Warfarin 5mg daily, except 7.5mg on sundays
+   Colcicine 0.6mg qod
+   Keppra 250mg [**Hospital1 **]
+   Vit D 800 units daily
+   Allopurinol 100mg daily
+   Calcium 500mg [**Hospital1 **]
+   Cardiovascular ROS
+   Cardiovascular ROS Details: Cardiac review of systems is notable for
+   absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea,
+   palpitations, syncope or presyncope.  ROS + per HPI.
+   Review of Systems
+   Organ system ROS normal
+   Constitutional, Eyes, ENT, Respiratory, Gastrointestinal,
+   Musculoskeletal, Neurological
+   ROS Details: On review of systems, denies h/o deep venous thrombosis,
+   pulmonary embolism, bleeding at the time of surgery, myalgias, joint
+   pains, cough, hemoptysis, black stools or red stools. He denies recent
+   fevers, chills or rigors. He denies exertional buttock or calf pain.
+   All of the other review of systems were negative.
+   Social History
+   Marital status: Married
+   Children: 2
+   (Alcohol: No), (Recreational drug use: No)
+   Family history: Father with "[**Last Name **] problem" at age 52; mother with
+   "[**Last Name **] problem" at age 25, also with a thyroid condition.
+   Social history details: Social history is significant for the absence
+   of current tobacco use. There is no history of alcohol abuse.
+   Portuguese speaker, moved from [**Country 206**] in [**2542**]. Lives with wife and two
+   young children. Pt does not work. Used to have job as dishwasher. Wife
+   works at Honey Dew Donuts and this is the only income source for the
+   family. Pt is primary child caretaker.
+   Physical Exam:
+   VS - T 98.4 HR 85, irreg, 95/59, R 20, 99% RA
+   Gen: Lying flat, comfortable, NAD. Oriented x3. Mood, affect
+   appropriate. Portugese speaking.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   Neck: supple. JVP 6mm
+   CV: Irregularly irregular, I/VI HSM LLSB,
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   Abd: Soft, NTND, obese. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   Ext: Trace LE edema b/l, warm.
+   Skin: b/l venous stasis changes
+   Tests
+   ECG: (Date: [**2551-12-28**]), afib at 77, diffuse low voltage with no
+   significant change compared with prior.
+   Echocardiogram: (Date: [**8-8**]), The left atrium is moderately dilated.
+   No left atrial mass/thrombus seen (best excluded by transesophageal
+   echocardiography). The right atrium is markedly dilated. Left
+   ventricular wall thicknesses and cavity size are normal. There is
+   severe global left ventricular hypokinesis (LVEF = 20 %). No masses or
+   thrombi are seen in the left ventricle. Right ventricular chamber size
+   is normal with moderate global free wall hypokinesis. The ascending
+   aorta is mildly dilated. The aortic valve leaflets (3) appear
+   structurally normal with good leaflet excursion and no aortic
+   regurgitation. The mitral valve leaflets are structurally normal. There
+   is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen.
+   The estimated pulmonary artery systolic pressure is normal. There is no
+   pericardial effusion.
+   .
+   Compared with the prior study (images reviewed) of [**2551-1-1**], the
+   findings are similar (left ventricular cavity size was similar on
+   review of the prior study).
+   Stress Testing: (Date: [**2547-9-25**]), (Protocol: ETT), INTERPRETATION: 29
+   yo man h/o ideopathic dilated cardiomyopathy;
+   LVEF ~20%) was referred to evaluate changes in exercise tolerance. The
+   patient completed 16.5 minutes of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6707**] protocol. Exercise was
+   stopped at the patient's request secondary to fatigue. No chest, back,
+   neck or arm discomforts were reported. No significant ST segment
+   changes were noted. The rhythm was sinus with no ectopy noted. The
+   blood pressure response to exercise was flat. The heart rate response
+   response to exercise was appropriate.
+   Resting oxygen consumption (V02) and respiratory exchange ratio (R)
+   were 3.7 ml/kg/min and 0.89, respectively. VO2peak was 24.9 ml/kg/min
+   with an R of 1.28. This represents 56% of the patient's age-predicted
+   VO2max (pred max 44.0 ml/kg/min). Ventilatory threshold by v-slope was
+   calculated at 20.8 ml/kg/min.
+   IMPRESSION: Limited to fair functional exercise tolerance for age. No
+   anginal symptoms or ECG changes. No exercise-induced arrhythmias.
+   Blunted blood pressure response to exercise.
+   Cardiac Cath: (Date: [**2551-1-7**]),
+    1.  Selective coronary angiography of this left dominant system
+   revealed no angiographically apparent coronary artery disease.  The
+   LMCA, LAD, LCX and RCA had no angiographically apparent flow-limiting
+   stenoses.
+   2.  Resting hemodynamics revealed mildly elevated right and left sided
+   filling pressures with RVEDP of 12 mm Hg and PCWP mean of 19 mm Hg at
+   baseline.  There was moderate pulmonary arterial hypertension of 45/21
+   mm Hg.  Systemic arterial blood pressure was normal at 103/65 mm Hg.
+   Cardiac index was depressed at a baseline value of 1.7 l/min/m2. After
+   milrinone bolus of 0.5 mcg/kg IV over 10 minutes, left sided filling
+   pressure were unchanged with a PCWP mean of 19 mm Hg.  Pulmonary
+   arterial pressure decreased to 40/18 mm Hg.  Pulmonary vascular
+   resistance also decreased.  Cardiac index improved to 2.2 l/min/m2.
+   There was no change in systemic arterial blood pressure.
+   3.  Left ventriculography was not performed.
+   .
+   FINAL DIAGNOSIS:
+   1. Coronary arteries are normal.
+   2. Low cardiac index with improvement after milrinone therapy.
+   3. Mildly increased left sided filling pressures.
+   Assessment and Plan
+    Patient is a 32M with idiopathic dilatated CM (EF 20%), afib, CVA,
+   SDH, and hypothyroidism who is admitted for diuresis and milrinone.
+   .
+   # PUMP: CHF/Dilated Cardiomyopathy: TTE [**8-8**] showed EF 20%, diagnosed
+   after presenting with Class III CHF symptoms in [**10-2**], thought to be
+   viral etiology, s/p AICD. His dry weight is 100 kg, currently below dry
+   weight at 93kg. Had recent admission at OSH where he presented with LE
+   swelling and received IV lasix.  Currently does not appear volume
+   overloaded, JVP flat, lungs clear and only trace edema. Plan as
+   outlined by Dr. [**First Name (STitle) **]:
+   - Inc. BB to 200mg tid given arrythmogenic effects of milrinone
+   - Milrinone bolus of 50mcg/kg, followed by infusion 0.25mcg/kg/min, can
+   titrate up to 0.75mcg/kg/min.
+   - Maintain SBP>80, MAP>40
+   - continue digoxin
+   - Holding torsemide for now, will consider lasix gtt for diuresis if BP
+   remains stable on milrinone.
+   - holding ace-i for now, can consider starting in am
+   - SW consult for possible milrinone therapy at home
+   .
+   # RHYTHM: Chronic atrial fibrillation, on Coumadin, diagnosed in the
+   setting of hyperthyroidism. Coumadin held [**Date range (1) 2727**] s/p SDH.
+   - holding coumadin given INR supratherapeutic, restart once INR<2.5
+   - uptitrate metoprolol as above
+   .
+   # h/o Ventricular Tachycardia: first noted in [**10-2**], had non sustained
+   30 second run seen on Holter [**9-3**], s/p syncope from VT in [**9-6**].
+   - monitor on telemetry
+   - ICD in place
+   - maintain K >4, Mg >2
+   .
+   # NEURO: s/p CVA as well as SDH. On Keppra for sz prophylaxis.
+   Admitted to OSH in [**9-7**] after seizure at home and he was started on
+   Keppra. Has been seizure free.
+   - Cont Keppra 250mg [**Hospital1 **]
+   .
+   # Thyroid dysfunction: Originally had hyperthyroidism, secondary to
+   Amiodarone (d/ced [**3-6**]), s/p prednisone and methimazole-->
+   hypothyroidism
+   -continue synthroid
+   .
+   # CRI: Baseline Cr 1.7-1.8, currently as baseline.  Likely related to
+   poor forward flow.
+   - Cont to follow with diuresis
+   - renally dose meds
+   .
+   # Anemia: Baseline Hct in low 30s.  Iron studies c/w chronic disease.
+   Currently Hct 36, no signs of bleeding
+   -Cont. to follow
+   .
+   # Osteoporosis: continue Ca, Vitamin D
+   .
+   # FEN: low Na diet, follow and replete lytes
+   .
+   # Access: PIV x2, ? PICC for home milrinone
+   .
+   # PPx: Hep SC
+   .
+   # Code: FULL
+   .
+   ------ Protected Section ------
+   Cardiology Fellow Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   per housestaff note
+   Physical Examination
+   per housestaff note
+   Medical Decision Making
+   33 yo male with a history of dilated cardiomyopathy (TTE [**8-7**]: EF 20%),
+   h/o ventricular tachycardia s/p ICD, atrial fibrillation on Coumadin,
+   h/o L PCA CVA, and hypothyroidism secondary to Amiodarone who presents
+   for diuresis and milrinone infusion.
+   Start infusion at 50 mcg/kg bolus and 0.250 mcg/min/kg continuous
+   infusion, titrate to urine output.  If BP stable start lasix drip; if
+   hypotensive start vasopressin coinfusion.  We will continue the
+   infusion for 3 days for a inotrop-holiday.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 598**] [**Last Name (NamePattern1) 7492**], MD
+   on:[**2551-12-29**] 07:47 ------
+   We will plan to implement a 3 day milrinone course in an effort to
+   interrupt the vicious cycle of repeated chf hospitalizations (4 in 4
+   weeks); he will also receive beta blocker, lasix gtt, and afterload
+   reduction as tolerated; he is not a candidate for cardiac
+   transplantation or vad support due to his undocumented alien status
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) 3116**]  on:[**2551-12-29**]
+   12:40 ------

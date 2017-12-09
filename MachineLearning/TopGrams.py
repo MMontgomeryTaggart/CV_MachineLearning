@@ -40,7 +40,7 @@ def tokenizer(text):
     #return filtered_tokens
 
 
-def getNotesAndClasses(corpusPath, truthPath, balanceClasses=False):
+def getNotesAndClasses(corpusPath, truthPath, balanceClasses=False, invertClasses=False):
     truthData = pd.read_csv(truthPath, dtype={"notes": np.str, "classes": np.int}, delimiter='\t',
                             header=None).as_matrix()
 
@@ -63,6 +63,10 @@ def getNotesAndClasses(corpusPath, truthPath, balanceClasses=False):
         noteNames = allNotes
         noteClasses = labels
 
+    if invertClasses:
+        invertedClasses = np.where(noteClasses == 1, 0, 1)
+        noteClasses = invertedClasses
+
     noteBodies = []
 
     for name in noteNames:
@@ -74,7 +78,7 @@ if __name__ == "__main__":
     corpusPath = homeDir + "/Box Sync/MIMC_v2/Corpus_TrainTest/"
     truthDataPath = homeDir + "/Box Sync/MIMC_v2/Gold Standard/DocumentClasses.txt"
 
-    noteBodies, labels = getNotesAndClasses(corpusPath, truthDataPath, balanceClasses=False)
+    noteBodies, labels = getNotesAndClasses(corpusPath, truthDataPath, balanceClasses=False, invertClasses=False)
 
     vectorizer = TfidfVectorizer(ngram_range=(1, 3), min_df=0.001, max_df=.5, stop_words="english", tokenizer=tokenizer)
 

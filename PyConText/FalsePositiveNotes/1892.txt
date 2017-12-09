@@ -1,0 +1,409 @@
+Admission Date:  [**2827-5-19**]              Discharge Date:   [**2827-5-24**]
+
+Date of Birth:  [**2741-7-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Wellbutrin
+
+Attending:[**First Name3 (LF) 2834**]
+Chief Complaint:
+Fatgue, dyspnea
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+85 yo F with hx of HTN, CHF, PPM for 2 degree AV block, presents
+with increasing fatigue. The patient's family reports that she
+has been sleeping 5-7 hours per night, rather than her usual
+three. The patient herself reports that she has been sleepy much
+more often than usual. The patient's sone reports that her
+appetite has been dwindling over the past few weeks as well. The
+patient's son also think she may have had a temperature, but
+there is no objective data for a fever. The patient has been
+having difficulty breathing as well, especially when she lies
+flat. She has been sleeping sitting up intermittently over the
+last few weeks. The patient denies any chest pain or
+palpitations. She further reports some cough. She denies any
+nausea, vomiting, or GI symptoms.
+.
+In the ED, initial vitals were T 98.2, HR 84, BP 124/62, RR 22,
+O2Sat 95% on 2L. EKG reportedly unchanged from prior; patient in
+sinus rhythm. Supplemental oxygen was removed and patient had a
+desat to 84% on RA. After 2L NC applied her O2Sat was in the
+mid-90s though again had a desat to the 80s when lying flat. CXR
+showing pulmonary edema. BNP elevated to 5053. 18g IV placed and
+patient given 40 mg IV furosemide. Vitals on transfer were: HR
+84 28 114/52 97% 2L NC.
+.
+On arrival to the floor, patient was comfortable in bed. The
+patient is profoundly deaf and required handwritten notes as
+part of interview.
+
+Past Medical History:
+1. Hypertension, hyperlipidemia, history of tobacco abuse
+2. Chronic obstructive pulmonary disease.
+3. Osteoporosis.
+4. H/o pacemaker insertion for 2nd degree AV block (Mobitz type
+I) on Holter monitor with associated symptoms of presyncope.
+5. Remote history of colon carcinoma (ascending colon), s/p
+resection
+6. Peripheral vascular disease status post aortoiliac
+reconstruction
+7. Left ventricular hypertrophy with hypertrophic obstructive
+cardiomyopathy physiology.
+8. Hearing loss
+
+Social History:
+Lives with husband. She has been retired for at least last ten
+years and worked previously in accounting. There is evidently
+some difficulty at home and patient does not get along with
+husband.
+Smoking : h/o smoking for 60 years, 1 pack/day, stopped in [**December 2824**]
+EtOH : none
+Illicit drugs : none
+She has 4 living children.
+HCP: [**Name (NI) **] [**Name (NI) 10412**] [**Telephone/Fax (1) 10414**]
+
+
+Family History:
+Mother had diabetes and died at 77 of complications of diabetes
+and an MI. Father died at 52 of a massive MI. Brother died at 67
+of bone cancer.
+Son died in [**8-/2824**] of meningitis.
+
+Physical Exam:
+Admission physical exam:
+VS: T = 99.6  P = 81 BP = 118/58 RR = 30 O2Sat = 93% 2L
+GENERAL:  Frail female sitting up in bed. She is in no acute
+distress.
+HEENT: PERRL, EOMI, no scleral icterus or injection, MMM, no
+lesions noted in oropharynx
+Neck: supple, no LAD
+Respiratory: Crackles heard through bottom [**12-21**] of lungs.
+Back: Significantly kyphotic
+Cardiovascular: S1, S2, [**2-21**] holosytolic murmur heard at all
+listening sites for heart
+Gastrointestinal: soft, non-tender, BS+
+Extremities: Radial/pedal pulses 2+, no edema noted.
+Mental status: Alert, oriented x 3. Able to relate history
+without difficulty. Very hard of hearing; other CNs grossly
+intact, 4/5 strength in all extremities.
+.
+Discharge physical exam:
+VS: Tm 98.1 HR 57-66 BP 81-136/40-70 RR 16-18 O2Sat = 95-99% on
+room air
+Wt.: 41.3 kg <-- 41.5 kg
+Is/Os: [**Telephone/Fax (1) 10415**]
+GENERAL:  NAD, frail woman, hard of hearing
+HEENT: No scleral icterus or injection, MMM, oropharynx clear
+and without erythema
+Neck: Supple, no LAD
+Respiratory: Clear to auscultation bilaterally.
+Back: Significant kyphosis.
+Cardiovascular: S1, S2, [**2-21**] holosytolic murmur heard globally
+across auscultation sites.
+Gastrointestinal: Soft, non-tender, BS+
+Extremities: Radial/pedal pulses 2+, no edema noted.
+
+
+Pertinent Results:
+Admission labs:
+[**2827-5-19**] 01:40PM   WBC-13.0*# RBC-3.71* HGB-11.5* HCT-34.2*
+MCV-92 MCH-31.0 MCHC-33.5 RDW-12.9
+[**2827-5-19**] 01:40PM   NEUTS-88.8* LYMPHS-5.6* MONOS-5.0 EOS-0.4
+BASOS-0.3
+[**2827-5-19**] 01:40PM   proBNP-5053*
+[**2827-5-19**] 01:40PM   GLUCOSE-120* UREA N-20 CREAT-1.4* SODIUM-137
+POTASSIUM-4.2 CHLORIDE-95* TOTAL CO2-32 ANION GAP-14
+[**2827-5-19**] 04:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5
+LEUK-NEG
+.
+[**2827-5-19**] 01:40PM BLOOD proBNP-5053*
+[**2827-5-19**] 01:40PM BLOOD cTropnT-<0.01
+[**2827-5-20**] 06:00AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2827-5-20**] 08:30PM BLOOD CK-MB-2 cTropnT-<0.01
+[**2827-5-21**] 04:10AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2827-5-21**] 04:10AM BLOOD CK(CPK)-40
+[**2827-5-20**] 08:30PM BLOOD CK(CPK)-37
+[**2827-5-20**] 06:00AM BLOOD CK(CPK)-39
+.
+Discharge labs:
+[**2827-5-24**] 07:35AM BLOOD WBC-7.0 RBC-3.12* Hgb-9.7* Hct-28.8*
+MCV-92 MCH-31.1 MCHC-33.7 RDW-12.9 Plt Ct-278
+[**2827-5-24**] 07:35AM BLOOD Ret Aut-1.7
+[**2827-5-24**] 07:35AM BLOOD Glucose-98 UreaN-24* Creat-1.3* Na-134
+K-4.3 Cl-96 HCO3-29 AnGap-13
+[**2827-5-24**] 07:35AM BLOOD Iron-50
+[**2827-5-24**] 07:35AM BLOOD calTIBC-274 Ferritn-156* TRF-211
+.
+[**5-21**] CXR: IMPRESSION: AP chest compared to [**2-4**] through
+[**2827-5-20**]: Pulmonary vascular congestion and mild
+interstitial edema has improved since [**5-19**]. Uniform
+opacification of the right lower lung is probably atelectasis.
+Mild cardiomegaly is chronic. Small bilateral pleural effusions
+are unchanged. Transvenous right atrial and right ventricular
+pacer leads are in standard placements.
+.
+[**5-19**] CXR: IMPRESSION:
+1. Mild congestive heart failure superimposed on severe chronic
+obstructive airway disease.
+2. No evidence of pneumonia.
+.
+2D-ECHOCARDIOGRAM: [**2827-5-20**]
+The left atrium and right atrium are normal in cavity size.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+There is a severe resting left ventricular outflow tract
+obstruction. There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+descending thoracic aorta is moderately dilated. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. There is no aortic valve stenosis. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is systolic anterior motion of the mitral valve
+leaflets. Moderate (2+) mitral regurgitation is seen. Due to the
+eccentric nature of the regurgitant jet, its severity may be
+significantly underestimated (Coanda effect). The tricuspid
+valve leaflets are mildly thickened. There is borderline
+pulmonary artery systolic hypertension. There is a very small
+pericardial effusion.
+.
+IMPRESSION: Mild symmetric LVH. During systole mitral valve and
+chordae are pulled towards the hypertrophied upper septum and a
+severe LVOT obstruction develops. At least moderate, posteriorly
+directed mitral regurgitation. Very small pericardial effusion
+without evidence of tamponade.
+.
+Compared with the report of the prior study (images unavailable
+for review) of [**2827-2-5**], the LVOT gradient has increased
+significantly. LV systolic function is not quite hyperdynamic on
+the current study. The estimated pulmonary artery pressures are
+lower. Pericardial fluid amount is probably similar.
+.
+
+Brief Hospital Course:
+The patient is an 85-year-old woman who presented with loss of
+appetite, lethargy, dyspnea.
+.
+# PUMP: On presentation, the patient appeared to be having an
+exacerbation of her diastolic CHF, based on her physical exam
+and the imaging taken in the emergency department. The patient
+reports she is compliant with her medications, but she has a
+complicated home life that may make compliance difficult. She
+may have had a dietary indiscretion (unlikely given reports of
+her diminished appetite) or a worsening of her heart function,
+although her troponins were negative. Her echocardiogram did
+demonstrate worsening of her left ventricular outflow tract
+obstruction, which may be contrinuting to this exacerbation. The
+patient also had suggestion of infection by white count and
+differential, but no source was found and leukocytosis resolved.
+ Urinalysis not suggestive of infection; urine culture positive
+for G+ bacteria (alpha-strep or lactobacillus), but
+asymptomatic. The patient does have a foreign body (pacemaker),
+but did not become febrile during hospitalization. Chest X-rays
+not suggestive of pneumonia. Leukocystosis resolved. The
+original mild pulmonary congestion was likely secondary to
+severe MR. [**First Name (Titles) **] [**Last Name (Titles) 2928**], [**5-21**], the patient had to be transferred
+to the CCU due to tachypnea and hypotension unresponsive to
+gentle boluses. In the CCU, the patient produced 500 mL over 24
+hours with IV lasix 10 mg x 1 and responded well to metoprolol.
+She did not have a recurrence of hypotension or of tachypnea. On
+[**2827-5-23**], the patient was orhtostatic during physical therapy, but
+she had received an extra dose of furosemide. She received
+gentle hydration (250 cc) to which she responded well. By the
+time of her discharge, she was back on room air, and Physical
+Therapy had cleared her to return home. Social Work also
+consulted, and she will receive nursing services at home,
+including medicine checks, and also a visit from Elder Services
+with a home safety evaluation.
+.
+# CORONARIES: Patient has significant risk factors for CAD,
+given hypertension, peripheral vascular disease, long smoking
+history, hyperlipidemia, etc. EKG did not suggest acute changes.
+She was continued on aspirin, clopidogrel, simvastatin
+therapies. Continued low-dose beta-blocker (metoprolol);
+lisinopril held initially due to concern for acute kidney
+injury, but returned to regimen on discharge.
+.
+# RHYTHM: The patient has a pacemaker implanted, but has been in
+normal sinus rhythm.
+.
+#  COPD: Likely contributing to patient's dyspnea, although the
+patient did not have wheezing on exam. She was provided with
+albuterol and ipratropium nebulizers standing and as needed and
+continued on home fluticasone.
+.
+# Kidney injury: Patient has had increased creatinine since
+early in [**Month (only) 115**]. Baseline appears to 1.0 for creatinine, but may
+well be higher. [**Month (only) 115**] be acute from dehydration or part of longer
+process. FeUrea 56%, suggestive of intrinsic process, may be
+from diuresis (although patient came in with elevated
+creatinine) or ATN secondary to episode of hypotension that sent
+patient to CCU. Creatinine had returned closer to baseline by
+discharge. She may need additional investigation as an
+outpatient to determine her kidney status.
+.
+# Anemia: The patient has had a slow decline in hematocrit since
+admission. The anemia is normocytic. The patient denies any
+frank blood in stool, though she has been trace guaiac positive.
+The patient does endorse hemorrhoids, however. Her reticulocyte
+index ws 1.7, which suggests a proliferative deficit as opposed
+to bleeding. Her MCV was within normal limits. Iron studies were
+not suggestive of iron deficiency. She has been ordered for a
+re-check of her hematocrit and hemoglobin and can be followed as
+an outpatient.
+.
+# Hypertension: Continued home amlodipine therapy. Held
+lisinopril early in hospital course.
+.
+# Hyperthyroidism: Continued methimazole therapy.
+
+Medications on Admission:
+alendronate [Fosamax]
+70 mg Tablet
+One (1) Tablet by mouth once a week.
+aspirin
+325 mg Tablet
+One (1) Tablet by mouth DAILY (Daily).
+clopidogrel
+75 mg Tablet
+One (1) Tablet by mouth DAILY (Daily).
+docusate sodium
+100 mg Capsule
+One (1) Capsule by mouth twice a day.
+furosemide
+20 mg Tablet
+One (1) Tablet by mouth DAILY (Daily).
+lisinopril
+40 mg Tablet
+One (1) Tablet by mouth HS (at bedtime): Please take at bed
+time. 30  Tablet(s) 2
+methimazole
+5 mg Tablet
+One (1) Tablet by mouth DAILY (Daily).
+metoprolol succinate
+25 mg Tablet Extended Release 24 hr
+0.5 Tablet Extended Release 24 hr by mouth DAILY (Daily): Please
+take at bed time. 30  Tablet Extended Release 24 hr(s) 2
+multivitamin
+Tablet
+One (1) Tablet by mouth DAILY (Daily).
+simvastatin
+40 mg Tablet
+One (1) Tablet by mouth DAILY (Daily).
+tiotropium bromide [Spiriva with HandiHaler]
+18 mcg Capsule, w/Inhalation Device
+One (1) Inhalation once a day.
+
+
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+2. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. methimazole 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+8. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+9. alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.
+
+10. lisinopril 40 mg Tablet Sig: One (1) Tablet PO at bedtime.
+11. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every 4-6 hours as needed for shortness of
+breath or wheezing.
+12. ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1)
+Capsule PO every other week.
+13. metoprolol succinate 25 mg Tablet Extended Release 24 hr
+Sig: 0.5 Tablet Extended Release 24 hr PO once a day.
+Disp:*15 Tablet Extended Release 24 hr(s)* Refills:*0*
+14. Outpatient Lab Work
+Check CBC on [**2827-5-31**]. Fax results to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at
+[**Telephone/Fax (1) 3945**].
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 2173**] VNA
+
+Discharge Diagnosis:
+Exacerbation of diastolic congestive heart failure
+.
+Secondary:
+COPD
+Anemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Ms. [**Known patient lastname 10412**],
+.
+It was a pleasure participating in your care at [**Hospital1 764**].
+.
+You were admitted to the hospital because of fatigue and
+shortness of breath. We think those symptoms were caused by an
+exacerbation of your chronic heart failure. We were able to
+remove some fluid and control your heart rate, which helped your
+breathing. We also gave you nebulizer treatments to improve your
+breathing problems caused by your COPD. It was also discovered
+that you were anemic during your hospitalization, which may also
+be contributing to your fatigue.
+.
+We will set up nursing to come check up after you and make sure
+that you are doing well.
+.
+You should follow up with the appointments listed below to make
+sure you do not become imbalanced in your fluids and that your
+anemia can be further worked up. Dr. [**Last Name (STitle) **] is a colleague of
+your primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **].
+.
+No longterm changes were made to your medications. You should
+continue to take your usual medications as directed.
+.
+Weigh yourself every morning, [**Name8 (MD) 137**] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Department: [**Hospital3 246**]
+When: MONDAY [**2827-5-31**] at 9:20 AM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD/[**Company 189**] POST DISCHARGE CLINIC [**Telephone/Fax (1) 247**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 883**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+This appointment is with a hospital-based doctor as part of your
+transition from the hospital back to your primary care provider.
+[**Name10 (NameIs) 610**] this visit, you will see your regular primary care doctor
+in follow up.
+.
+Name: [**Last Name (LF) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Location: [**Hospital1 18**] - CARDIOLOGY DIVISION
+Address: [**Location (un) **], SL 423C, [**Location (un) **],[**Numeric Identifier 711**]
+Phone: [**Telephone/Fax (1) 10416**]
+We are working on a follow up appointment with Dr. [**Last Name (STitle) **] within
+2 weeks. You will be called at home with the appointment. If you
+have not heard from the office within 2 days or have any
+questions, please call the number above.
+.
+
+
+                             [**First Name11 (Name Pattern1) 888**] [**Last Name (NamePattern1) 2836**] MD, [**MD Number(3) 2837**]
+

@@ -1,0 +1,199 @@
+CVICU
+   HPI:
+   HD6   POD 5-AVR(21mm St. [**Male First Name (un) **] Porcine) via hemi sternotomy
+    POD 4-Reexploration for bleeding/open chest at bedside
+   Ejection Fraction:>55%
+   Hemoglobin A1c:5.5
+   Pre-Op Weight:170 lbs   77.11 kgs
+   Baseline Creatinine:0.8
+   PMH: hyperlipidemia,Hodgkin's lympjhoma rx w/mantle RT and splenectomy
+   [**3399**],cholangitis w/Gm neg sepsis and Kleb. pneumonia [**8-2**],
+   ERCP/sphincterotomy(no stones- [**8-7**],splenectomy 70's,tonsillectomy,LT
+   hip [**Doctor First Name 204**].
+   [**Last Name (un) **]: Lipitor 10mg/D,ASA 81mg/D,Cipro/flagyl recently for
+   cholangitis/pneumonia.
+   4-5 drinks/wk,remote tobacco use.
+   Micro/Imaging:
+   [**3439-9-1**] CXR LT effusion. rt lung better
+   Events:
+   [**3439-9-2**] LT thoracentesis
+   Current medications:
+   Acetaminophen 3. Albuterol 0.083% Neb Soln 4. Amiodarone 5. Amiodarone
+   6. Aspirin EC 7. Calcium Gluconate
+   8. Captopril 9. Dextrose 50% 10. Docusate Sodium 11. Furosemide 12.
+   Furosemide 13. HYDROmorphone (Dilaudid) 14. Insulin 15. Influenza Virus
+   Vaccine 16. Ipratropium Bromide Neb 17. Magnesium Sulfate 18.
+   Metoclopramide 19. Metoprolol Tartrate 20. Metoprolol Tartrate 21. Milk
+   of Magnesia 22. Potassium Chloride 23. Ranitidine 26. Vancomycin
+   24 Hour Events:
+ PA CATHETER - STOP [**3439-9-3**] 09:37 AM
+ ARTERIAL LINE - STOP [**3439-9-3**] 11:30 PM
+   Post operative day:
+   POD#5 - min invasive avr
+   POD#4 - [**8-31**]-Chest exploration and evacuation of cardiac tamponade
+   Allergies:
+   Tetracycline
+   mouth sores;
+   Last dose of Antibiotics:
+   Vancomycin - [**3439-9-3**] 08:12 PM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**3439-9-3**] 08:00 PM
+   Metoprolol - [**3439-9-3**] 09:35 PM
+   Furosemide (Lasix) - [**3439-9-4**] 01:44 AM
+   Other medications:
+   Flowsheet Data as of  [**3439-9-4**] 06:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**41**] a.m.
+   Tmax: 37
+C (98.6
+   T current: 36.1
+C (97
+   HR: 67 (63 - 135) bpm
+   BP: 110/49(64) {91/49(64) - 125/84(92)} mmHg
+   RR: 20 (6 - 30) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 97 kg (admission): 59 kg
+   Height: 68 Inch
+   CVP: 21 (16 - 21) mmHg
+   PAP: (47 mmHg) / (24 mmHg)
+   CO/CI (Thermodilution): (3.72 L/min) / (2.2 L/min/m2)
+   SVR: 1,548 dynes*sec/cm5
+   SV: 54 mL
+   SVI: 32 mL/m2
+   Total In:
+                                                                  1,696 mL
+                                                                    148 mL
+   PO:
+                                                                    500 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,196 mL
+                                                                    148 mL
+   Blood products:
+   Total out:
+                                                                  2,369 mL
+                                                                    658 mL
+   Urine:
+                                                                  1,889 mL
+                                                                    508 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -673 mL
+                                                                   -511 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: 7.43///29/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous; Diminished: ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   109 K/uL
+   11.5 g/dL
+   139 mg/dL
+   1.0 mg/dL
+   29 mEq/L
+   4.4 mEq/L
+   39 mg/dL
+   98 mEq/L
+   133 mEq/L
+   34.6 %
+   16.4 K/uL
+        [image002.jpg]
+                             [**3439-9-1**]  08:42 AM
+                             [**3439-9-1**]  12:32 PM
+                             [**3439-9-2**]  03:37 AM
+                             [**3439-9-2**]  05:57 AM
+                             [**3439-9-2**]  07:44 AM
+                             [**3439-9-2**]  02:24 PM
+                             [**3439-9-3**]  03:03 AM
+                             [**3439-9-3**]  08:50 AM
+                             [**3439-9-3**]  10:51 PM
+                             [**3439-9-4**]  01:06 AM
+   WBC
+   20.9
+   16.3
+   17.4
+   16.4
+   Hct
+   35.9
+   35.0
+   36.6
+   34.6
+   Plt
+   117
+   90
+   90
+   109
+   Creatinine
+   1.1
+   1.0
+   1.0
+   1.0
+   TCO2
+   28
+   26
+   30
+   20
+   24
+   Glucose
+   127
+   127
+   109
+   139
+   Other labs: PT / PTT / INR:14.2/25.1/1.2, ALT / AST:332/347, Alk-Phos /
+   T bili:62/1.4, Amylase / Lipase:59/9, Fibrinogen:123 mg/dL, LDH:412
+   IU/L, Ca:7.8 mg/dL, Mg:3.3 mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), CORONARY ARTERY BYPASS GRAFT
+   (CABG), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan:
+   Neurologic: Pain controlled, Percocet PRN
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Paroxysal Afib with RVR
+   --> cont Amio and Lopressor.
+   Pulmonary: OOB/ IS / PT [**Name (NI) **]
+   Gastrointestinal / Abdomen: standard bowel regimen
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, cont lasix diuresis
+   Hematology: Mild thrombocytopenia
+   Endocrine: RISS
+   Infectious Disease: No issues currently.
+   Lines / Tubes / Drains: Foley, Chest tube - pleural
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Arrhythmia, (Respiratory distress: Insufficiency /
+   Post-op), Post-op complication
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**3439-8-30**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Tx to floor
+   Total time spent: 12 minutes

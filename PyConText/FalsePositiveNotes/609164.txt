@@ -1,0 +1,230 @@
+Chief Complaint:  2:1 AV block
+   HPI:
+   88yo woman w hx of HTN, hypothyroidism, hyperlipidemia who came in with
+   presyncope.  She apparently fell 10d ago with unclear details.  Again
+   yesterday, she was walking to TV to change channel and suddnely felt
+   LH/dizzy and hit the TV with her right side of ribs.  She remembers
+   falling and did not hit head/neck.  She came to OSH ED for her rib
+   pain.
+   .
+   At [**Location (un) 76**] she was noted to be in 2:1 heart block with bradycardia to
+   30s-40s and BP 170-200/40-60.  She was given glucagon 3mg and zofran
+   4mg.  HR had minimal response but blood pressure remained stable at SBP
+   160s.  Patient transferred here for EP eval.
+   .
+   In our ED:  VS: HR 40s, 188/56, 97% 2L, RR 20.  EKG with intermittent
+   2:1 heart block noted w ventricular rate 50; LBBB (old) and prolonged
+   QTc.  CXR w ? pulm edema but no rib fractures.  SL ntg x1 given for
+   hypertension and she was admitted to CCU for EP eval.
+   .
+   Currently, she reports slight right rib pain which worsens with deep
+   inspiration.  She denies LH, dizziness, CP, palpitations, SOB.  She
+   reports taking normal amounts of PO intake and her meds over last week.
+   .
+   On review of systems, s/he denies any prior history of stroke, TIA,
+   deep venous thrombosis, pulmonary embolism, bleeding at the time of
+   surgery, myalgias, joint pains, cough, hemoptysis, black stools or red
+   stools. She denies recent fevers, chills or rigors. She denies
+   exertional buttock or calf pain. All of the other review of systems
+   were negative.
+   .
+   Cardiac review of systems is notable for absence of chest pain, dyspnea
+   on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+   palpitations, syncope or presyncope.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   lisinopril 20 daily
+   atenolol 25 daily
+   fluoxetine 20 daily
+   lipitor 10 daily
+   levothyroxine 75 daily
+   ativan ?
+   ASA 81
+   .
+   ALLERGIES: NKDA
+   Past medical history:
+   Family history:
+   Social History:
+   1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+   2. CARDIAC HISTORY:
+   -CABG: none
+   -PERCUTANEOUS CORONARY INTERVENTIONS: none
+   -PACING/ICD: none
+   3. OTHER PAST MEDICAL HISTORY:
+   hypothyroidism
+   s/p ear surgery
+   s/p hysterectomy
+   neurocardiogenic vasovagal reaction [**10-1**]
+   No family history of early MI, arrhythmia, cardiomyopathies, or sudden
+   cardiac death; otherwise non-contributory.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: -Tobacco history: never
+   -ETOH: prior social
+   -Illicit drugs: no IVDU or other rec drugs
+   -Bookkeeper for construction outfit (retired 10 yrs ago)
+   Review of systems:
+   Constitutional: Fatigue
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   Constipation
+   Neurologic: No(t) Headache
+   Flowsheet Data as of [**2537-6-22**] 03:26 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 36.1
+C (96.9
+   HR: 46 (46 - 46) bpm
+   RR: 14 (14 - 14) insp/min
+   SpO2: 98%
+   Heart rhythm: 2nd AV M2 (Second degree AV Block - Mobitz 2)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   Physical Examination
+   General Appearance: Well nourished, Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic), irregular and brady
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   No(t) Crackles : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender:
+   Extremities: Right: Absent, Left: Absent, No(t) Cyanosis, No(t)
+   Clubbing
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: [**Location (un) 76**]:
+   WBC 8.5
+   HCT: 35
+   PLT 256
+   INR 1 w PTT 31
+   138   102   27
+   ---------------< 113
+   4.4    27   1.5
+   baseline cr 1.1-1.3
+   Trop <0.01
+   CK 77, CKMB <1
+   .
+   STUDIES
+   EKG: 2:1 AV block w vent rate 50 (intermittent), NA, prolonged QTc,
+   LBBB
+   .
+   2D-ECHOCARDIOGRAM: [**2536**]:
+   Conclusions
+   The left atrium is elongated. Left ventricular wall thickness, cavity
+   size and regional/global systolic function are normal (LVEF >55%).
+   There is mild (non-obstructive) focal hypertrophy of the basal septum.
+   Transmitral Doppler and tissue velocity imaging are consistent with
+   Grade I (mild) LV diastolic dysfunction. Right ventricular chamber size
+   and free wall motion are normal. The aortic valve leaflets (3) are
+   mildly thickened. There is no aortic valve stenosis. No aortic
+   regurgitation is seen. The mitral valve leaflets are mildly thickened.
+   Mild (1+) mitral regurgitation is seen. The tricuspid valve leaflets
+   are mildly thickened. There is mild pulmonary artery systolic
+   hypertension. There is no pericardial effusion.
+   IMPRESSION: Normal left ventricular systolic function. No transthoracic
+   evidence of PFO by color doppler.
+   Mild pulmonary hypertension is noted.
+   Assessment and Plan
+   88yo woman w hx of HTN, hypothyroidism, hyperlipidemia who came in with
+   syncope and found to have 2:1 AV block.  .
+   .
+   RHYTHM:  Mobitz type I or II could present with 2:1 block. Could
+   perform vagal maneuvers to eval for block at AV node or perform
+   exercise, atropine rx, etc to eval for block below AV node.  Will hold
+   on these measures since she is stable.
+   - Etiology likely from atenolol and slight worsening renal function.
+   Also consider ischemic (accounts for 40% cases of AV block), increased
+   vagal tone, or calcification of mitral valve.  She is maintaining BP
+   but will monitor for hemodynamic instability.
+   - d/w EP urgently at night if HD unstable.
+   - atropine and [**Hospital1 **] pads at bedside
+   - hold atenolol and consider more glucagon if bradycardia worsens.
+   - EKG in am
+   - will d/w EP in am re ? pacer as this appears to be symptomatic
+   bradycardia a/w 2nd degree AV block.
+   .
+   CORONARIES: no known CAD.  EKG without ischemic changes.  Given that
+   ischemia can lead to AV block, will continue cycle CE.
+   - hold atenolol
+   - continue asa
+   .
+   PUMP: Lungs clear but perhaps some mild pulmonary congestion on exam.
+   Will keep I/O even for now but consider lasix if pulm edema worsens.
+   Suspect cardiac output will improve with increasing HR
+   .
+   Rib Pain: No fracture and no effusion seen on CXR.
+   - morphine and tylenol for pain control
+   - Ice
+   .
+   Hypertension: on atenolol and lisinopril as outpatient.  Hold ACE in
+   setting of renal dysfunction and try hydral prn.  Hold atenolol w
+   bradycardia.  Treat pain with morphine.  Tolerate SBP 170s
+   .
+   ARF: Baseline creatinine 1.1-1.3 and now 1.5 with GFR 35.  Will hold
+   ACE tonight and keep I/O even.  Check urine lytes
+   .
+   Hyperlipidemia: statin
+   .
+   Depression: fluoxetine 20 but hold ativan.  Monitor for delirium
+   - check u/a to risk assess for delirium
+   .
+   Hypothyroidism: levothyroxine 75.  Will check TSH given the
+   bradycardia.
+   .
+   FEN: NPO for now until stabilizes
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with SQH
+   -Pain management with morphine IV and tylenol PO
+   -Bowel regimen with senna/colace
+   CODE: full
+   DISPO: CCU for now
+   CONTACT: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6184**] is nephew [**Name (NI) 115**]
+   ICU [**Name (NI) 228**]
+   Nutrition:
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: Not indicated
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU

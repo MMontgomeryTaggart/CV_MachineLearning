@@ -1,0 +1,442 @@
+Admission Date:  [**2737-11-6**]              Discharge Date:   [**2737-11-16**]
+
+Date of Birth:  [**2660-6-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / Lasix / Monosodium Glutamate / Cucumber (Cucumis
+Sativus) / lisinopril
+
+Attending:[**First Name3 (LF) 13425**]
+Chief Complaint:
+fatigue
+
+Major Surgical or Invasive Procedure:
+[**2737-11-6**] - Synchronized electrical cardioversion
+[**2737-11-8**] - AVNRT ablation
+
+
+History of Present Illness:
+The patient is a 77 year old male with medical history that
+includes non-ischemic cardiomyopathy thought to be secondary to
+velcade/rituxan (now with normalized left ventricular function),
+paroxysmal atrial fibrillation on coumadin, supraventricular
+tachycardia,  severe tricuspid regurgitation, ESRD secondary to
+waldenstroms macroglobulinemia, and metastatic prostate cancer
+who is transferred from [**Hospital 974**] Hospital with hypotension and
+supraventricular tachycardia.  For the past couple weeks he
+reports worsening dyspnea. At baseline his functional status is
+limited as he becomes dyspniec with ambulation of 10-20feet.
+Lately, however he becomes short of breath just with
+transitioning from sitting to standing or any ambulation. He
+also endorses episodes of waking up at night feeling very short
+of breath. He also endorses worsening lower extremity edema but
+is not clear if his weight has changed. He denies chest pain,
+fever, chills. He reports stable bone pain related to his
+metastatic prostate cancer.  At dialysis this past week, he was
+felt to be volume overloaded and underwent extra ultrafiltration
+with removal of 6.5kg Tuesday, 2.5kg Wednesday, and 1kg Thursday
+with some improvement in his breathing and lower extremity
+edema. Per notes, he usually tolerates a blood pressure in the
+80s during dialysis.
+.
+He is followed by Dr. [**First Name (STitle) 130**] for cardiomyopathy and was referred
+to Dr. [**Last Name (STitle) **] in [**Month (only) 528**] for evaluation of supraventricular
+tachycardia. In [**4-/2737**], he underwent successful DCCV for atrial
+fibrillation. During the procedure, he went into
+supraventricular tachycardia that did not respond to vagal
+maneuvers but broke with adenosine. Since that time he has been
+noted during dialysis session to be in SVT, limiting fluid
+removal. He underwent Holter monotoring where he was
+predominantly in an ectopic atrial rhythm with  episodes up to
+14hrs in duration of atrial tachycardia. He was seen by Dr.
+[**Last Name (STitle) **] in [**Month (only) 528**] and was started on amiodarone after declining
+invasive procedures to further characterize/treat his rhythm.
+.
+He presented to [**Hospital 974**] hospital on [**2737-11-5**] complaining of
+generalized weakness and fatigue where initial vitals were 98.2
+82/53, HR 129, and 98%RA. EKG revealed regular narrow complex
+tachycardia. He was felt to be volume overloaded on exam. He
+underwent hemodialysis on Saturday with removal of 1kg of fluid.
+Cardiology recommended starting dobutamine for hypotension. He
+was transferred to [**Hospital1 22**] on 5 of dobutamine with 2PIV.
+.
+On arrival to CCU, blood pressure was 71/40, HR 140s regular
+narrow complex tachycardia, respiratory rate of 20 with O2 sat
+mid 90s on room air. EKG showed narrow complex tachycardia with
+rate of 148 with long R-P interval.  He was given adesonine 6mg
+and then 12mg without significant change in rate (130s) or
+rhythm.  Bedside TTE showed hyperdynamic LV and dilated RV with
+adequate wall motion and moderate/severe TR. He was then given 2
+mg versed and underwent DCCV 200J after which he transiently
+went into an atrial ectopic rhythm with rate in 80s and then
+atrial fibrillation with rates in 80s-90s. His blood pressure
+improved to 88/50 and then later to 90s/50s.
+
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. S/he denies recent fevers, chills or
+rigors. S/he denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+1. Non-ischemic cardiomyopathy attributed to Velcade and Rituxin
+(with improved LVEF following discontinuation)
+2. Waldenstrom's macroglobulinemia s/p Velcade and Rituxan (last
+Rx in [**7-/2734**])
+3. Metastatic prostate cancer - Lupron every 3 months
+4. ESRD due to Waldenstrom's macroglobulinemia - HD Tues, Thurs
+and Sat
+5. Hypertension
+6. Hypercholesterolemia
+7. s/p RV perforation and surgery with complication from RV
+biopsy to rule out amyloidosis
+
+
+Social History:
+Retired photographer who lives with his wife, [**Name (NI) **] [**Name (NI) 24658**]
+(she is also is HCP). Quit smoking since [**2687**]. Denies current
+alcohol use; none since [**2732**].
+
+
+Family History:
+Father died of throat cancer at age 58 (prior smoker) and mother
+died in her 90's - ? brain tumor.
+
+
+Physical Exam:
+ON ADMISSION:
+.
+VS:  97.8  71/44  147  22  95%RA
+GENERAL: Oriented x 3. Affect appropriate, speak full sentences.
+
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP elevated to 10 cm, prominent V waves.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. normal S1, S2.III/VI systolic murmur heard at LLSB
+worsened by inspiration, regular rhythm, increased rate
+LUNGS: Tachypnic, no accessory muscle use. Decreased BS at bases
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No cyanosis or clubbing with 2+ peripheral edema to
+the level of the mid-thighs bilaterally. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+[**2737-11-7**] 06:19AM BLOOD WBC-3.5* RBC-3.24* Hgb-9.4* Hct-31.1*
+MCV-96 MCH-29.1 MCHC-30.3* RDW-23.8* Plt Ct-157
+.
+[**2737-11-6**] 09:50PM BLOOD Neuts-79.5* Lymphs-15.9* Monos-3.0
+Eos-1.0 Baso-0.5
+.
+[**2737-11-6**] 09:50PM BLOOD PT-54.3* PTT-56.9* INR(PT)-5.4*
+.
+[**2737-11-6**] 09:50PM BLOOD Glucose-121* UreaN-23* Creat-3.1* Na-140
+K-4.2 Cl-96 HCO3-30 AnGap-18
+.
+[**2737-11-6**] 09:50PM BLOOD ALT-19 AST-52* LD(LDH)-399* CK(CPK)-53
+AlkPhos-662* TotBili-1.8*
+.
+[**2737-11-6**] 09:50PM BLOOD CK-MB-2 cTropnT-0.13* proBNP-[**Numeric Identifier 24722**]*
+.
+[**2737-11-6**] 09:50PM BLOOD Albumin-2.9* Calcium-8.4 Phos-4.1 Mg-2.0
+.
+MICROBIOLOGIC DATA:
+[**2737-11-6**] Blood culture - pending
+[**2737-11-6**] MRSA screen - negative
+[**2737-11-7**] Blood culture - pending
+.
+IMAGING STUDIES:
+[**2737-11-6**] 2D-ECHO - There is mild symmetric left ventricular
+hypertrophy with normal cavity size. Overall left ventricular
+systolic function is normal (LVEF>55%). The right ventricular
+free wall is hypertrophied. The right ventricular cavity is
+moderately dilated with normal free wall contractility. There is
+abnormal septal motion/position consistent with right
+ventricular pressure/volume overload. The number of aortic valve
+leaflets cannot be determined. The aortic valve leaflets are
+moderately thickened. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. No mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+Severe [4+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion. Normal LV function. Dilated and hypertrophied RV with
+pressure and volume overload. Severe tricuspid regurgitation.
+Moderate pulmonary hypertension. Compared with the findings of
+the prior study (images reviewed) of [**2737-4-18**], there are now
+signs of worsening RV pressure and volume overload.
+.
+[**2737-11-6**] CHEST (PORTABLE AP) - Bilateral effusions slighly
+increased since [**10-19**]. Old displaced anterior third rib
+fracture. Intact sternal wires. Left subclavian stent.
+
+
+Brief Hospital Course:
+77M with medical history that includes non-ischemic
+cardiomyopathy thought to be secondary to velcade/rituxan (now
+with normalized left ventricular function), history of
+paroxysmal atrial fibrillation on coumadin, supraventricular
+tachycardia, severe tricuspid regurgitation, ESRD secondary to
+Waldenstrom??????s macroglobulinemia, and metastatic prostate cancer
+who [**Hospital 24723**] transferred from [**Hospital 974**] Hospital with hemodynamically
+unstable supraventricular tachycardia with improvement in blood
+pressure following electrical cardioversion.
+.
+# SUPRAVENTRICULAR, NARROW-COMPLEX TACHYCARDIA - The patient
+presented with a regular, narrow complex tachycardia with
+predominantly no P (or P in QRS). Adenosine did not terminate
+(as typically occurs in AVNRT; he received 6 mg IV push followed
+by 12 mg IV push without resolve) his rhythm or bring out P
+waves (as typically occurs in atrial tachycardia). In the past
+he was not interested in formal EP studies and potential
+ablation but this was re-addressed this admission. Following
+electrical cardioversion, his rhythm converted to atrial
+fibrillation with a HR in the 80-90 bpm range; he reverted back
+to an atypical tachyarrhythmia with a rate of 130-140 bpm within
+1-2 hours following cardioversion. He was prepared for an
+electrophysiology study on [**2737-11-8**] given his persistent rhythm
+issues. He was started on Amiodarone 100 mg IV loading followed
+by a 0.5 mcg/min continuous infusion with improvement in his HR
+to the 100-120s with improvement in his BP to the 80/60s range.
+We initially held his AV-nodal blocking agents. His TSH on
+admission was 6.4. We also initially held his anticoagulation
+(indication being atrial fibrillation) on admission, given that
+his INR was 5.4 - and he received 3 mg Vitamin K PO x 1 given
+his supratherapeutic INR and the need for an EP study. On
+[**2737-11-8**] he went to the Electrophysiology lab and underwent an
+AVNRT ablation with successful ablation of his re-entry pathway;
+although the passage of the wire was difficult given his
+wide-open tricuspid regurgitation. He was also transitioned to
+Amiodarone 200 mg PO daily following the procedure, however, he
+developed thrombocytopenia which was thought to be related to
+the IV amiodarone load he received, and this was briefly
+discontinued. After the procedure, he remained predominantly in
+NSR with frequent PACs but had some episodes of AFib.  Prior to
+discharge, he had reverted back into Afib and will be restarted
+on amiodarone in an attempt to maintain NSR.  The
+thrombocytopenia was thought to be related to the IV amiodarone
+as he had previously tolerated IV amio with no observed drop in
+platelets.
+.
+# HYPOTENSION - The patient presented with hypotension in the
+setting of a supra-ventricular tachyarrhythmia, improved
+following electrical cardioversion initially, but then he
+spontaneously reverted to an atypical tachyarrhythmia with a
+blood pressure in the 70/50 mmHg range. While he met SIRS
+criteria on admission, there was no clear source of infection at
+that time. Culture data was obtained on admission, which was
+unrevealing, and we held off on empiric antibiotics. His
+admission CXR showed bilateral pleural effusions with no
+evidence of consolidation. His hypotension did improved with
+cardioversion and with initiation of anti-arrhythmic medication.
+He notably has blood pressures in the 80/60 mmHg range while at
+dialysis, per his records; without notable symptoms.
+.
+# DECOMPENSATED HEART FAILURE WITH PRESERVED EJECTION FRACTION -
+The patient has a history of non-ischemic cardiomyopathy with a
+previous ejection fraction of 50-55% on most recent
+echocardiogram (prior LVEF was 20% while on chemotherapy
+agents). He has stage III/IV NYHA heart failure and appeared to
+be volume overloaded on exam when admitted (lower extremity
+edema, JVD in setting of moderate-severe TR). His labs (elevated
+BNP) and imaging studies (pleural effusions, mild pulmonary
+edema) supported these findings. He appeared to have moderate
+pulmonary artery hypertension with a dilated right ventricle and
+severe (4+) tricuspid regurgitation with overall worsened right
+ventricular function compared to his prior exam; with abnormal
+septal motion/position consistent with right ventricular
+pressure/volume overload (LVEF 55%). The development of his
+tachyarrhythmia likely contributed to this acute decompensation.
+He has not been on ACEI/[**Last Name (un) **] therapy (creatinine 3.1 on
+hemodialysis). We initially held beta-blocker therapy given his
+hypotension; his home dose being Metoprolol succinate 250 mg PO
+daily. This was restarted fir rate control when he returned to
+Afib.  Nephrology was consulted given the concern for volume
+overload and the need for ultrafiltration. We were only able to
+remove fluid by ultrafiltration and his volume status slowly
+improved during admission, he will continue to have fluid
+removed by ultrafiltration at HD after discharge.
+.
+# THROMBOCYTOPENIA: During this admission, his platelets trended
+down from 100-150 at admission to 15 on HD5. The patient did not
+have any bleeding.  HIT antibody was negative, and the patient
+has been receiving heparin at dialysis routinely, making HIT
+unlikely. No evidence of DIC on labs. Hematology was consulted,
+and he was treated with prednisone 50mg which was quickly
+tapered down and the patient's platetets improved. The etiology
+of his thrombocytopenia was thought to be antibody-mediated
+amiodarone toxicity from the IV amiodarone load he received at
+admission. Hematology recommended avoiding PO amiodarone if
+possible, although this will be necessary to control his rate.
+At admission, he had been on PO amiodarone and had maintained
+his platelet count.
+.
+# ESRD ON HEMODIALYSIS - Thought to be secondary to light chain
+cast nephropathy from Waldenstrom's macroglobulinemia, on
+hemodialysis since [**2733**]. He presented with volume overload, but
+without significant metabolic derangements warranting urgent
+dialysis. Nephrology was consulted and he continued to receive
+HD on a TuThSa this admission. He was maintained on Nephrocaps 1
+tablet PO daily and all medications were renally dosed.
+.
+# PROSTATE CANCER - The patient is followed by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+for castrate-resistant metastatic prostate cancer that has been
+refractory to Docetaxel with a rising PSA (most recently 1883 in
+[**2737-9-28**]) on Zytiga and prednisone at home. He has also
+received radiation to his right hip in the past for metastatic
+disease.  We continued his home Oxycodone medication (as needed)
+for pain control given his bone metastasis.
+.
+# ANEMIA/LEUKOPENIA - His anemia and leukopenia are stable
+compared to prior recent labs and are thought to be due to bone
+marrow involvement of his prostate cancer; less likely due to
+Waldenstrom's. His counts were serially trended on this
+admission.
+.
+# CODE STATUS - FULL CODE (discussed with patient)
+.
+# TRANSITION OF CARE ISSUES:
+1. Will need INR monitored - was therapeutic at discharge and he
+will be continued on home dose of 1 mg daily
+2. Currently on Tuesday, Thursday, Saturday hemodialysis
+schedule
+3. [**Month (only) 255**] need uptitration of his Metoprolol dose if tachycardia
+persists. We decreased from 250 to 100 mg daily because of
+hypotension.
+4. Should have platelets monitored after discharge to ensure
+that he is not thrombocytopenic; given that he is going home on
+Amiodarone.
+
+Medications on Admission:
+-amiodarone 200mg daily (started [**9-/2737**])
+-metoprolol succinate 100 mg daily
+-nephrocaps 1 capsule po daily
+-Lanthanum 1000 mg tablet po TID with meals
+-prednisone 5 mg po daily
+-coumadin 1 mg po daily
+-oxycodone 5mg Q4 hours PRN pain
+-vitamin E 400-800 mg po qd
+-hydroxyzine 25-50mg po BID prn
+-prochlorperazine maleate 10 mg po q8 hrs prn nausea
+-leuprolide 7.5 mg injected q 12 weeks
+
+Discharge Medications:
+1. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): Take this medication with food.
+Disp:*30 Tablet(s)* Refills:*0*
+2. abiraterone 250 mg Tablet Sig: Four (4) Tablet PO Daily ():
+Take 1-2 hours before prednisone.
+3. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. warfarin 1 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+5. hydroxyzine HCl 25 mg Tablet Sig: 1-2 Tablets PO BID (2 times
+a day) as needed for itching.
+6. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4)
+hours as needed for pain.
+7. vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day.
+
+8. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO
+every six (6) hours as needed for nausea.
+9. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO three
+times a day: Hold SBP < 100, HR < 55.
+10. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+11. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO
+three times a day: Hold SBP< 100, HR < 55.
+12. leuprolide 7.5 mg Syringe Kit Sig: One (1) injection
+Intramuscular every 12 weeks.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 24724**] Rehabilitation and Skilled Nursing Center - [**Hospital1 974**]
+
+Discharge Diagnosis:
+Primary diagnosis:
+.
+AV node re-entrant tachycardia s/p ablation procedure
+Hypotension
+Paroxysmal atrial fibrillation
+.
+Secondary diagnoses:
+.
+End stage renal disease
+Waldenstrom's macroglobulinemia
+Metastatic prostate cancer
+Chronic diastolic heart failure
+Severe tricuspid regurgitation
+Thrombocytopenia of unclear etiology
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Dear Mr. [**Known patient lastname 24658**],
+
+It was a pleasure taking care of you during your admission at
+[**Hospital1 22**].  You were admitted to the Cardiac Care Unit because your
+heart was beating very fast and your blood pressure was low.  We
+treated you with an antiarrhythmic drug called amiodarone and
+performed an ablation procedure in an attempt to prevent this
+event from happening again.  You tolerated the procedure well.
+You also continued to receive dialysis during your admission to
+remove extra fluid that was causing swelling in your arms and
+legs. Your platelet count dropped and have now increased again.
+You did not have any signs that you were bleeding. You will
+follow up with Dr. [**Last Name (STitle) **] next week and will need to get your
+platelet count followed regularly.
+.
+The following changes were made to your medications:
+1. Change metoprolol to tartrate and increase the dose to 50 mg
+three times a day to lower your heart rate
+2. START Amiodarone to slow your heart rate and keep you in a
+normal rhythm.
+
+
+Followup Instructions:
+Department: HEMATOLOGY/ONCOLOGY
+When: TUESDAY [**2737-11-23**] at 2:00 PM
+With: [**First Name11 (Name Pattern1) 371**] [**Last Name (NamePattern4) 7904**], MD [**Telephone/Fax (1) 208**]
+Building: SC [**Hospital Ward Name 211**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**2737-11-24**] at 11:00 AM
+With: ECHOCARDIOGRAM [**Telephone/Fax (1) 854**]
+Building: SC [**Hospital Ward Name 211**] Clinical Ctr [**Location (un) 855**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**2737-11-24**] at 11:40 AM
+With: [**First Name11 (Name Pattern1) 340**] [**Last Name (NamePattern4) 430**], M.D. [**Telephone/Fax (1) 854**]
+Building: SC [**Hospital Ward Name 211**] Clinical Ctr [**Location (un) 855**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+
+Department: CARDIAC SERVICES
+When: THURSDAY [**2737-12-23**] at 4:00 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8536**], MD [**Telephone/Fax (1) 854**]
+Building: SC [**Hospital Ward Name 211**] Clinical Ctr [**Location (un) 855**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+
+
+

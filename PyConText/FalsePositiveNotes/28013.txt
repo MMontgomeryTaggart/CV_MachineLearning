@@ -1,0 +1,119 @@
+Admission Date:  [**2852-7-5**]              Discharge Date:   [**2852-7-10**]
+
+Date of Birth:  [**2780-3-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Myocardial infarction
+
+Major Surgical or Invasive Procedure:
+1. Placement of extracorporeal membrane oxygenation circuit and
+cannulae in the catheterization laboratory.
+2. Emergent coronary artery bypass grafting x3 with the
+saphenous vein grafts to the marginal artery, left anterior
+descending artery and right coronary artery.
+3. Placement of Abiomed BVS 5000 left ventricular assist device.
+4. Bilateral groin exploration with repair of arterial and
+venous puncture sites.
+5. Exploration, evacuation of hematoma
+6. Exploratory laparotomy, left colectomy
+
+
+History of Present Illness:
+This is a 72-year-old male who had a h/o coronary artery disease
+and underwent a left anterior descending artery stent about a
+month ago. He persisted in
+having chest pains and he was brought back to the
+catheterization lab in an attempt to angioplasty his left
+anterior descending artery as well as his right coronary artery.
+During his catheterization, he developed a clot in his left main
+and left anterior descending artery. He went into ventricular
+tachycardia and arrested. Chest compressions were initiated. CT
+surgery was called down to the catheterization lab where we set
+up an ECMO circuit and reinserted a 15-French cannula in the
+right femoral artery percutaneously followed by a 24-French
+venous cannula up to the right femoral vein percutaneously. The
+ECMO was initiated and we stopped chest compressions. We then
+brought him to the
+operating room emergently for a coronary artery bypass grafting
+and a possible left ventricular assist device placement. We had
+discussed the risks and benefits with his daughter, who agreed
+with us to proceed.
+
+Past Medical History:
+Hypercholesterolemia, HTN, CAD s/p LAD stenting [**5-21**], severe
+COPD, pituitary disorder, carotid a. dz s/p L CEA [**2848**], ?h/o
+TIA, BPH, herpes
+PSH: L CEA, orchiectomy age 16 after trauma, R arm injury, b/l
+cataract surgery
+
+
+Social History:
+Patient is married with three adult children. He previously was
+a truck driver.
+
+Family History:
+No h/o CAD
+
+Physical Exam:
+expired
+
+Pertinent Results:
+[**2852-7-10**] 07:20AM BLOOD WBC-16.4* RBC-3.85* Hgb-12.2* Hct-33.3*
+MCV-86 MCH-31.7 MCHC-36.7* RDW-15.5 Plt Ct-108*
+[**2852-7-10**] 07:20AM BLOOD PT-26.1* PTT-63.1* INR(PT)-2.7*
+[**2852-7-10**] 07:20AM BLOOD UreaN-36* Creat-4.0* Na-139 Cl-92*
+HCO3-18*
+[**2852-7-10**] 07:20AM BLOOD ALT-819* AST-4319* AlkPhos-161*
+TotBili-8.6*
+[**2852-7-10**] 10:52AM BLOOD Type-ART pO2-74* pCO2-43 pH-7.22*
+calTCO2-19* Base XS--9
+[**2852-7-10**] 10:52AM BLOOD Glucose-88 Lactate-19.8* K-5.6*
+
+Brief Hospital Course:
+On [**2852-7-5**], Mr. [**Known patient lastname **] was admitted to the cardiac surgery service
+under the care of Dr. [**Last Name (STitle) **] following an emergent CABG. For
+details of the operation please see Dr.[**Name (NI) 12611**] operative
+report. Post-operatively Mr. [**Known patient lastname **] had a very complicated course.
+He was in critical condition from the start. He was cared for in
+the CSRU with a left ventricular assist device. He underwent an
+exploratory laparotomy on [**7-8**] with resection of his left colon
+secondary to ischemic colitis. Mr. [**Known patient lastname 12612**] cardiovascular status
+never recovered from the initial infarct, and required
+defibrillation multiple times throughout the course of his ICU
+stay. On [**2852-7-10**], after long discussion with family members, it
+was decided to make him comfort measures only. He expired at
+2:35 pm.
+
+Medications on Admission:
+ASA 325, Zocor 20, Quinine sulfate 260, Plavix 75, Minitran
+0.2mg patch 2 patches qAM, Combivent INH prn, Spiriva INH qd,
+Lisinopril-HCTZ 20-12.5mg qAM, Lopid 600", HCTZ 25 q M/W/F,
+Lasix 40prn for leg swelling, Norvasc 7.5", Folic acid 1mg', KCL
+20meq', Bromocriptine 2.5", Doxazosin 2 qhs, Imdur 30, Acyclovir
+400 prn herpes outbreaks, Centrum silver
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Myocardial infarction
+
+
+Discharge Condition:
+Expired
+
+
+Followup Instructions:
+N/A
+
+
+

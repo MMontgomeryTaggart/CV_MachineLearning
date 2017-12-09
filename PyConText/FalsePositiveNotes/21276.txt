@@ -1,0 +1,215 @@
+Admission Date:  [**2809-4-1**]              Discharge Date:   [**2809-4-14**]
+
+Date of Birth:  [**2750-11-7**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1030**]
+Chief Complaint:
+Right lower extemity ischemia, rest pain
+
+Major Surgical or Invasive Procedure:
+[**4-9**] Right profundaplasty, right superficial femoral artery
+endarterectomy with superficial femoral artery patch angioplasty
+of common femoral and profunda arteries on the right side. Right
+femoral thrombectomy
+
+
+History of Present Illness:
+58 year old f with PVD, s/p RT CFA-AKpop with PTFE in [**6-3**] and
+s/p RT ileofem embolectomy with Dacron angioplasty in [**12-7**] now
+presents with RLE rest pain, numbness, coolness.
+
+Past Medical History:
+PMH: PVD, benign breast tumors, TIAs/R-hemispheric embolic CVA
+PSH: R-CFA-akPop w PTFE 6mm ('[**05**]--failed), L-CFA:akPop with
+NRGSV ([**2806-6-14**]),s/p R-CIA/EIA stenting on [**2807-11-15**]
+
+
+Social History:
+lives with her husband.works at [**Name (NI) **] Brothers.occasional
+EtOH.15 pack years smoking
+
+
+Family History:
+non contribituary
+
+Physical Exam:
+99.5, 120/68 75 94%RA
+GEN: NAD
+CARDS:RRR
+ABD: soft, NT +BS
+RT groin incision C/D/I
+B/L dop DP
+
+Pertinent Results:
+[**2809-4-13**] 04:22AM BLOOD WBC-8.8 RBC-3.19* Hgb-8.6* Hct-25.8*
+MCV-81* MCH-27.0 MCHC-33.5 RDW-19.5* Plt Ct-221
+[**2809-4-12**] 07:59PM BLOOD Hct-26.2*
+[**2809-4-14**] 05:55AM BLOOD PT-30.0* PTT-34.9 INR(PT)-3.2*
+[**2809-4-13**] 04:22AM BLOOD Glucose-98 UreaN-7 Creat-0.6 Na-138 K-3.5
+Cl-105 HCO3-27 AnGap-10
+
+Brief Hospital Course:
+Admitted through ED for RLE ischemia. RLE rest pain, coolness
+and mild numbness started prior to arrival. Started on Heparin
+gtt and angio scheduled.
+[**2809-4-2**] No overnight events, Underwent diagnostic angiogram. LT
+groin c/d/i, no hematoma. Surgery required. Remained on Heparin
+gtt (titrated to maintain ptt 60-80). Pain with ambulation and
+RT foot rest pain.
+[**2809-4-9**] Underwent Right profundaplasty, right superficial
+femoral artery endarterectomy with superficial femoral artery
+patch angioplasty of common femoral and profunda arteries on the
+right side. Right femoral thrombectomy. Extubated and
+transferred to PACU. On Dilaudid gtt for pain.
+[**2809-4-10**] VSS HCT 25 Transfused 1uPRBCs, RT DP dopplerable.
+Heparin gtt resumed.
+[**2809-4-11**] VSS, Dilaudid PCA discontinued. Tolerating diet.
+[**Date range (1) 34573**] No events Coumadin restarted, Levo for UTI OOB with
+nursing and PT. RT DP dopplerable, LT DP/PT dopplerable. Will
+save RT arm veins in case of need for future distal bypass.
+patient and husband aware of plan.
+[**2809-4-14**]: VSS, no overnight events. OOB ambulating. Pain
+decreased. Will follow up with Dr. [**Last Name (STitle) **] next week. VNA and PT
+arranged to monitor wound, draw INR and home safety eval/PT. Dr.
+[**First Name (STitle) 16396**] will continue anticoagulation monitoring.
+
+
+Medications on Admission:
+ ASA 81', Atorvastatin 40', coumadin 5', tramadol 2 in am / 1 pm
+(leg pain), neurontin 300"' (leg pain)
+
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day): [**Name6 (MD) **] primary MD [**First Name (Titles) **] [**Last Name (Titles) 25461**]: [**Last Name (LF) **],[**First Name3 (LF) **] D
+[**Telephone/Fax (1) 22301**].
+Disp:*30 Tablet(s)* Refills:*0*
+3. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime):
+Continue monitoring by Dr. [**First Name (STitle) 16396**].
+4. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day).
+5. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4
+to 6 hours) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3-4H (Every 3
+to 4 Hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+10. Outpatient Lab Work
+Labwork: INR/pt 2x per week and prn. Results to Dr. [**First Name (STitle) **],[**First Name3 (LF) **]
+D [**Telephone/Fax (1) 22301**]
+11. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 891**] VNA
+
+Discharge Diagnosis:
+RLE ischemia
+
+PMH: PVD, benign breast tumors, TIAs/R-hemispheric embolic CVA
+PSH: R-CFA-akPop w PTFE 6mm ('[**05**]--failed), L-CFA:akPop with
+NRGSV ([**2806-6-14**]),s/p R-CIA/EIA stenting on [**2807-11-15**]
+[**Last Name (un) 1421**]: ASA 81', Atorvastatin 40', coumadin 5', tramadol 2 in am /
+1 pm (leg pain), neurontin 300"' (leg pain)
+
+
+Discharge Condition:
+INR 3.2
+
+
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+Lower Extremity Surgery Discharge Instructions
+
+What to expect when you go home:
+1. It is normal to feel tired, this will last for 4-6 weeks
+??????	You should get up out of bed every day and gradually increase
+your activity each day
+??????	Unless you were told not to bear any weight on operative foot:
+you may walk and you may go up and down stairs
+??????	Increase your activities as you can tolerate- do not do too
+much right away!
+
+2. It is normal to have swelling of the leg you were operated
+on:
+??????	Elevate your leg above the level of your heart (use [**1-3**]
+pillows or a recliner) every 2-3 hours throughout the day and at
+night
+??????	Avoid prolonged periods of standing or sitting without your
+legs elevated
+
+3. It is normal to have a decreased appetite, your appetite will
+return with time
+??????	You will probably lose your taste for food and lose some
+weight
+??????	Eat small frequent meals
+??????	It is important to eat nutritious food options (high fiber,
+lean meats, vegetables/fruits, low fat, low cholesterol) to
+maintain your strength and assist in wound healing
+??????	To avoid constipation: eat a high fiber diet and use stool
+softener while taking pain medication
+
+What activities you can and cannot do:
+??????	No driving until post-op visit and you are no longer taking
+pain medications
+??????	Unless you were told not to bear any weight on operative foot:
+
+??????	You should get up every day, get dressed and walk
+??????	You should gradually increase your activity
+??????	You may up and down stairs, go outside and/or ride in a car
+??????	Increase your activities as you can tolerate- do not do too
+much right away!
+??????	No heavy lifting, pushing or pulling (greater than 5 pounds)
+until your post op visit
+??????	You may shower (unless you have stitches or foot incisions) no
+direct spray on incision, let the soapy water run over incision,
+rinse and pat dry
+??????	Your incision may be left uncovered, unless you have small
+amounts of drainage from the wound, then place a dry dressing
+over the area that is draining, as needed
+??????	Take all the medications you were taking before surgery,
+unless otherwise directed
+??????	Take one full strength (325mg) enteric coated aspirin daily,
+unless otherwise directed
+??????	Call and schedule an appointment to be seen in 2 weeks for
+staple/suture removal
+
+What to report to office:
+??????	Redness that extends away from your incision
+??????	A sudden increase in pain that is not controlled with pain
+medication
+??????	A sudden change in the ability to move or use your leg or the
+ability to feel your leg
+??????	Temperature greater than 100.5F for 24 hours
+??????	Bleeding, new or increased drainage from incision or white,
+yellow or green drainage from incisions
+
+Followup Instructions:
+You have a post op visit scheduled with Dr. [**Last Name (STitle) 222**] on [**4-21**] at
+315pm. Call [**Telephone/Fax (1) 367**] with any questions.
+
+Provider: [**Name10 (NameIs) **] [**Name11 (NameIs) **], [**Name Initial (NameIs) **].D. Phone:[**Telephone/Fax (1) 1178**]
+Date/Time:[**2809-5-19**] 1:30
+
+
+
+Completed by:[**2809-4-14**]

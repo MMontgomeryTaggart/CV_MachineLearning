@@ -1,0 +1,367 @@
+Admission Date:  [**3396-10-3**]              Discharge Date:   [**3396-10-7**]
+
+Date of Birth:  [**3312-10-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1008**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Percardial Drain Placement
+Atrial Flutter Ablation
+
+
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS: Mr. [**Known patient lastname 15661**] is a 83yo M with
+history of CAD s/p RCA PCI in [**5-23**], dyslipidemia and CRI who
+presents with sharp chest pain radiating to this back.
+.
+About two weeks PTA pt was diagnosed with pericarditis at [**Hospital1 68**]
+ED.  At the time his ECG showed  slight diffuse ST elevation,
+biomarkers were negative.  Denies having URI or flu like
+symptoms prior to diagnosis of pericarditis.  Over the past
+several days he has been experiencing worsening doe and chest
+pain.  Pain is worse when sitting upright and is worse with
+inspiration.
+.
+In the ED, initial vitals were 98.4, 66, 127/80, 16, 97% RA.  He
+had a bedside echo which showed pericardial effusion and
+cardiology was consulted.  Formal echo was performed which
+preliminarily showed early tamponade physiology with
+invagination of RV.  His pulsus was in the high teens to low 20s
+but he was hemodynamically stable.  Vitals on transfer to the
+CCU were 67, 129/66, 24, 95% RA.
+.
+.
+On floor vitals are 116/65, 86, 20 92% RA, with pulsus of
+10hgmg.  Pt went into afib w/ rvr for several minutes and
+converted to sinus spontaneously.  He was asymptomatic at the
+time.
+.
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. S/he denies recent fevers, chills or
+rigors. S/he denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. CARDIAC RISK FACTORS: Dyslipidemia
+2. CARDIAC HISTORY:
+- CABG: none
+- PERCUTANEOUS CORONARY INTERVENTIONS: RCA PCI in [**3394-5-16**]
+- PACING/ICD: none
+3. OTHER PAST MEDICAL HISTORY:
+Depression
+CVD (L ICA 60-69% stenosis)
+Chronic Renal Insufficiency (baseline Cr. 1.5)
+
+
+Social History:
+SOCIAL HISTORY: Ran an eyeglass manufacturer, retired in [**3379**],
+works out three times/week.
+- Tobacco history: Never
+- ETOH: occ
+- Illicit drugs:  no
+
+Family History:
+non-contributory to this admission
+
+Physical Exam:
+ON ADMISSION:
+VS: T= 99 BP=136/67 HR= 67 RR=12 O2 sat=92% RA, pulsus 10
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with flat JVP
+CARDIAC: RRR no rub appreciated.  No murmurs or gallops
+LUNGS: CTAB
+ABDOMEN: Soft, NT, mildly distended. No HSM or tenderness. Abd
+aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+ON DISCHARGE:
+T:98.8 BP 132/58 HR 78 RR 16 O2 sat 97%
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with flat JVP
+CARDIAC: RRR no rub appreciated.  No murmurs or gallops
+LUNGS: CTAB
+ABDOMEN: Soft, NT, mildly distended. No HSM or tenderness. Abd
+aorta not enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+LABS
+==============
+ON ADMISSION:
+
+[**3396-10-3**] 05:30PM BLOOD WBC-10.7 RBC-3.43* Hgb-11.9* Hct-35.4*
+MCV-103* MCH-34.7* MCHC-33.7 RDW-12.8 Plt Ct-342#
+
+[**3396-10-3**] 05:30PM BLOOD Neuts-80* Bands-0 Lymphs-7* Monos-12*
+Eos-0 Baso-1 Atyps-0 Metas-0 Myelos-0
+
+[**3396-10-3**] 05:30PM BLOOD Glucose-121* UreaN-32* Creat-1.7* Na-135
+K-4.2 Cl-100 HCO3-26 AnGap-13
+
+[**3396-10-4**] 05:53AM BLOOD Calcium-8.1* Phos-4.2 Mg-2.3
+
+DIAGNOSIS:	 Pericardial fluid:
+ 	
+ 	 NEGATIVE FOR MALIGNANT CELLS.
+ 	
+ 	 Blood, lymphocytes, and neutrophils.
+
+ON DISCHARGE
+
+[**3396-10-7**] 06:00AM BLOOD WBC-6.5 RBC-3.38* Hgb-11.5* Hct-34.2*
+MCV-101* MCH-34.0* MCHC-33.5 RDW-12.8 Plt Ct-403
+
+[**3396-10-7**] 06:00AM BLOOD Glucose-94 UreaN-33* Creat-1.4* Na-137
+K-4.4 Cl-105 HCO3-26 AnGap-10
+
+[**3396-10-7**] 06:00AM BLOOD Calcium-8.4 Phos-3.3 Mg-2.3
+
+IMAGING
+=================
+ECHO [**10-3**]:
+There is a moderate sized pericardial effusion. There is brief
+right atrial diastolic collapse. There is right ventricular
+diastolic compression, consistent with impaired
+fillling/tamponade physiology.
+
+Compared with the prior study (images reviewed) of [**3396-9-23**], the
+pericardial effusion and tamponoade are new.
+
+ECHO [**10-7**]:
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. There
+is no pericardial effusion.
+
+IMPRESSION: No residual pericardial effusion.
+
+PROCEDURES:
+==================
+CARDIAC CATH:
+
+COMMENTS:
+1. Pericardiocentesis was performed with needle entry from the
+subxiphoid position. The opening pericardial pressure was 20
+mmHg.
+2. Subsequent removal of 200 mL of pericardial fluid (all sent
+for
+studies) and confirmation by echocardiography of only a small
+anterior
+rim of pericardial fluid with the catheter positioned in the
+anterior
+pericardium. The pericardial pressure decreased to a mean of 7
+mmHg.
+
+FINAL DIAGNOSIS:
+1. Pericardial tamponade with improvement in pericardial
+pressure after
+removal of 200 mL of straw colored fluid.
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 15661**] is a 83yo M with history of CAD s/p RCA PCI in
+[**5-23**], CRI, recently diagnosed with pericarditis, who presented
+with chest pain and worsening SOB and diagnosed with cardiac
+tamponade.
+
+# Pericardial Effusion/tamponade: Patient was diagnosed with
+pericarditis 2 weeks prior to admission.  In the week leading to
+admission patient had worsening SOB and DOE.  In the ED ECHO
+showed early tamponade physiology with invagination of RV,
+pulsus was 15-20 at that time.  Patient was given several large
+fluid boluses with normalization of his puslus and started on
+colchicine and prednisone.  A pericardial drain was placed with
+serosanginous drainage which did not show malignant cells on
+review by pathology.  The drain stayed in place for 4 days until
+ECHO confirmed resolution of the effusion and the drain was
+removed.  Patient's underlying inflammation was treated with
+colchicine and high dose Aspirin for a 3 day course.  Omprezole
+was added to the patient's medication list for gastric
+protection while on aspirin 650 mg.
+.
+# RHYTHM:  Prior to drainage patient developed afib with RVR to
+the 130s and frequent bradycardic episodes with rates in the 30s
+that would spontaneously resolve.  He remained asymptomatic and
+hemodyanmically stable during these episodes.  On the way to
+pericardial drain placement patient had a 6 second conduction
+pause with junctional escape suggesting an underlying
+tachy-brady syndrome.  Subsequently post drainage patient
+developed atrial flutter, EP was consulted and recommended an
+ablation procedure which was successfully completed with return
+to sinus rhythm.
+.
+# CKD: patient had baseline creatinine of 1.7 and elevated to
+1.9 at presentation, likely secondary to poor renal perfusion.
+He returned to baseline after pericardial drainage.
+.
+# Dislipidemia:  stable, patient continued on outpatient
+regimen.
+.
+# Depression:  stable, patient was continued on outpatient
+regimen.
+
+Medications on Admission:
+ATORVASTATIN [LIPITOR] - 40 mg Tablet - 1 Tablet(s) by mouth
+once a day
+BRIMONIDINE -  (Prescribed by Other Provider; 1 gtt right eye
+[**Hospital1 **]) - 0.15 % Drops - one drop eye 1 gtt right eye [**Hospital1 **]
+BUPROPION HCL -  (Prescribed by Other Provider) - 75 mg Tablet -
+1 Tablet(s) by mouth twice a day
+DORZOLAMIDE-TIMOLOL [COSOPT] -  (Prescribed by Other Provider) -
+0.5 %-2 % Drops - 1 gtt OU twice a day
+EZETIMIBE [ZETIA] -  (Prescribed by Other Provider) - 10 mg
+Tablet - 1 Tablet(s) by mouth once a day
+MULTIPLE VITAMINS AND MINERALS -  (Prescribed by Other Provider)
+-   -
+NITROGLYCERIN - 0.4 mg Tablet, Sublingual - 1 (One) Tablet(s)
+sublingually every 5 minutes X 3 doses as needed for chest pain
+If 3rd tablet is needed, call 911.
+SERTRALINE -  (Prescribed by Other Provider) - 50 mg Tablet - 1
+Tablet(s) by mouth once a day
+TESTOSTERONE [ANDROGEL] -  (Prescribed by Other Provider) - 50
+mg/5 gram (1 %) Gel in Packet - as needed
+ASPIRIN -  (Prescribed by Other Provider) - 325 mg Tablet - 1
+Tablet(s) by mouth once a day
+OMEGA-3 FATTY ACIDS [FISH OIL] -  (Prescribed by Other Provider)
+- 500 mg Capsule - 2 Capsule(s) by mouth once a day
+
+Discharge Medications:
+1. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2
+times a day): in right eye.
+3. dorzolamide-timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic [**Hospital1 **] (2 times a day): right eye.
+4. Zetia 10 mg Tablet Sig: One (1) Tablet PO once a day.
+5. multivitamin with minerals     Capsule Sig: One (1) Capsule
+PO once a day: as previously taking.
+6. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)
+Sublingual every 5 minutes as needed for chest pain: If 3rd
+tablet is needed, call 911.
+.
+7. sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. bupropion HCl 75 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+11. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every six (6) hours as needed for shortness
+of breath or wheezing.
+Disp:*1 inhaler* Refills:*0*
+12. aspirin 325 mg Tablet Sig: Two (2) Tablet PO three times a
+day: For 3 days.  Return to home dose (1 tab daily) on Tuesday
+[**10-11**].
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Pericardial Effusion
+Cardiac Tamponade
+Atrial Flutter status post ablation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to the hospital due to a collection of fluid
+around your heart (pericardial effusion).  You had a drain
+placed to drain the fluid around the heart.  You were placed on
+medications to quell any inflammation and hopefully prevent
+re-accumulation of the fluid around your heart.  Repeat imaging
+of your heart showed no re-accumulation of fluid around your
+heart after the drain was removed.  Sometimes aspirin can cause
+irritation to the stomach and cause bleeding - if you develope
+light headedness, dark black stools or blood in your stool, you
+should call your physician or seek medical care.
+
+You also developed an abnormal heart rhythm (atrial flutter)
+during your admission.  You underwent an ablation to resolve
+this and you had a normal heart rhythm on discharge.
+
+You also had some wheezing during the admission - this may very
+well be the sequelae to a viral infection that may have also
+caused your pericarditis/effusion.  You have been given an
+inhaler to use as needed for wheezing over the next few days.
+If you have any shortness of breath or other concerning symptoms
+you should see your physician or go to the emergency room.
+
+You are being discharged home to follow-up with your outpatient
+cardiologist in a few weeks.  You will need to take Aspirin for
+the next 4 days and will need to be on colchicine for about 3
+months - your outpatient cardiologist may decide to change this
+plan at your follow-up appointment.
+
+Changes in Medication:
+- Start Aspirin 650mg three times a day through [**10-10**] - on [**10-11**]
+return to 325 mg daily (your previous dose)
+- Start Omeprazole 20 mg daily (protect your stomach while
+taking aspirin)
+- Start Colchicine 0.6 mg daily for 3 months
+- Start Albulterol inhaler 1-2 puffs every 4-6h as needed for
+shortness of breath or wheezing
+
+- Please continue all other medications as previously prescribed
+
+Followup Instructions:
+Please call your outpatient cardiologist to arrange a follow-up
+appointment.
+
+Name: [**Last Name (LF) **],[**First Name3 (LF) 676**] A.
+Address: [**Street Address(2) 5433**],STE 206, [**Location (un) **],[**Numeric Identifier 5434**]
+Phone: [**Telephone/Fax (1) 15662**]
+Appointment: Thursday [**3396-10-20**] 1:15pm
+
+Department: CARDIAC SERVICES
+When: MONDAY [**3396-11-14**] at 1:40 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2219**], MD [**Telephone/Fax (1) 654**]
+Building: SC [**Hospital Ward Name 44**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+Department: WEST SPECIALTIES CLINIC
+When: THURSDAY [**3397-2-9**] at 8:00 AM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 619**]
+Building: De [**Hospital1 **] Building ([**Hospital Ward Name 75**] Complex) [**Location (un) 620**]
+Campus: WEST     Best Parking: [**Street Address(1) 621**] Garage
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1020**] MD, [**MD Number(3) 1021**]
+

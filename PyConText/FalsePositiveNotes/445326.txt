@@ -1,0 +1,255 @@
+Chief Complaint:  respiratory distress
+   HPI:
+   Ms. [**Known patient lastname 468**] is a 74 yo woman with a history of ESRD on hemodialysis, DM,
+   HTN, PVD, afib, and hyperlipidemia who presents to ED with respiratory
+   distress. Of note, patient returned at 8:30pm after being discharged
+   today at 7pm after an overnight admission in which she was treated for
+   hypotension with dialysis which is a typical presentation for her on
+   multiple admission in the past. Per report she was dialyzed 4.5L off.
+   Her dialysis was stopped and she was given 800cc of IVF at dialysis and
+   another 500cc in the ED. She was also found to have a supratherapeutic
+   INR to 20 she was given 10mg PO VitK and her coumadin was held. This
+   was thought to be [**1-20**] increased dose of amiodarone.
+   .
+   In the ED, thought to be in failure put on Bipap on OSH for sats in
+   80s, still on Bipap. Renal said to consult in am. 70-80s, BP
+   130-140s/60-80s sats 100% on [**9-22**] breathing at 20. CXR increased
+   opacitiy at bases. EKG unchanged.
+   .
+   Currently, the patient was in no distress reporting that she felt 100%
+   better than before.  She reported no feeling any respiratory symptoms
+   at all.  She describes getting home and getting up to make a [**Location (un) 297**]
+   and then becoming acutely SOB. She describes a feeling of increasing
+   difficulty breathing and catching her breath. This was associated with
+   some palpitations but no chest pain. She also denied fever, chills, and
+   cough.
+   .
+   ROS: Denies fever, chills, night sweats, headache, vision changes,
+   rhinorrhea, congestion, sore throat, cough, chest pain, abdominal pain,
+   nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia,
+   dysuria, hematuria.
+   Patient admitted from: [**Hospital1 52**] ER
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   (per recent discharge summary)
+   Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+   1-2 Puffs Inhalation Q6H (every 6 hours) as needed for cough,
+   2. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+   PO DAILY (Daily).
+   Disp:*30 Cap(s)* Refills:*2*
+   3. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2
+   times a day).
+   Disp:*1 * Refills:*2*
+   4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+   Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+   Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+   5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO HS (at
+   bedtime).
+   Disp:*30 Tablet(s)* Refills:*2*
+   6. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+   (Daily).
+   Disp:*30 Tablet(s)* Refills:*2*
+   7. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+   One (1) Cap Inhalation DAILY (Daily).
+   Disp:*30 Cap(s)* Refills:*2*
+   8. Verapamil 40 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+   hours). Disp:*90 Tablet(s)* Refills:*2*
+   9. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID
+   W/MEALS (3 TIMES A DAY WITH MEALS).
+   Disp:*90 Capsule(s)* Refills:*2*
+   10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+   (2 times a day).
+   Disp:*60 Capsule(s)* Refills:*2*
+   11. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+   Disp:*30 Tablet(s)* Refills:*2*
+   12. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+   Spray Nasal [**Hospital1 **] (2 times a day).
+   Disp:*1 1* Refills:*2*
+   13. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+   Ophthalmic [**Hospital1 **] (2 times a day).
+   Disp:*1 1 bottle* Refills:*2*
+   14. Lidocaine-Prilocaine 2.5-2.5 % Cream Sig: One (1) Appl
+   Topical ASDIR (AS DIRECTED).
+   Disp:*1 1* Refills:*2*
+   15. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS
+   (at bedtime): 1 DROP LEFT EYE HS . Disp:*1 1 bottle* Refills:*2*
+   16. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+   Disp:*30 Tablet(s)* Refills:*2*
+   17. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+   (2 times a day).
+   Disp:*60 Tablet(s)* Refills:*2*
+   18. Acetaminophen 500 mg Capsule Sig: One (1) Capsule PO once a
+   day as needed for headache.
+   Disp:*30 Capsule(s)* Refills:*0*
+   19. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+   Disp:*30 Tablet(s)* Refills:*2*
+   20. Amiodarone 400 mg Tablet Sig: One (1) Tablet PO once a day
+   for 2 weeks: After 2 weeks, please decrease back to 200mg daily.
+   Disp:*14 Tablet(s)* Refills:*0*
+   21. Warfarin  Oral
+   22. Novolin N 100 unit/mL Suspension Sig: Four (4) unit
+   Subcutaneous twice a day.
+   Past medical history:
+   Family history:
+   Social History:
+   1.  Hypertension.
+   2.  Atrial flutter, status post ablation with recurrent atrial
+   fibrillation.
+   3.  Significant left ventricular hypertrophy with LVOT gradient
+   and severe diastolic dysfunction.
+   4.  End-stage renal disease on hemodialysis.
+   5.  Diabetes.
+   6.  COPD - home O2, 2-3L
+   7.  Hyperlipidemia
+   8.  PVD s/p bilateral BKAs
+   9.  glaucoma, left eye blindness
+   10. GERD
+   (per OMR)
+   Father with DM2, Mother deceased of stroke.  Siblings died of
+   cancer (unknown type), stroke and brain cancer.  Seven health
+   children.  Extended family history positive for CAD, cancer and
+   DM.
+   .
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: -EtOH: Denies use-Tobacco: 30 pack year history, now smokes
+   about 6 cigarettes per day, re-lighting the butts intermittantly
+   throughout the
+   day.
+   -Drugs: IV drug use. She lives alone in [**Hospital3 **], has once
+   weekly [**Location (un) 211**] VNA and 5 days a week home health aide. Is mobile with
+   prostheses and walker or her wheelchair.
+   Review of systems:
+   Cardiovascular: No(t) Chest pain, Palpitations, No(t) Edema, No(t)
+   Orthopnea
+   Respiratory: Dyspnea, Tachypnea
+   Gastrointestinal: No(t) Abdominal pain
+   Flowsheet Data as of [**2927-9-24**] 02:22 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 84 (78 - 84) bpm
+   BP: 148/81(96) {145/81(96) - 148/86(97)} mmHg
+   RR: 21 (11 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  60 mL
+   PO:
+                  60 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                     60 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Thin
+   Eyes / Conjunctiva: Pupils dilated, Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition, No(t)
+   Endotracheal tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), (Murmur:
+   Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Dullness :
+   b/l bases), (Breath Sounds: Crackles : b/l bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent, b/l BKA
+   Skin:  Warm, No(t) Rash:
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): x3, Movement: Purposeful, Tone: Increased
+   Labs / Radiology
+        [image002.jpg]
+   Imaging: CXR: [**9-23**] Increased opacities at the lung bases suggesting
+   atelectasis or aspiration. No evidence of fluid overload.
+   ECG: EKG:NSR at 80, NA, NI, Jpoint elevation in V1-V3 with STD in
+   V5-V6, I, AvL unchanged from prior
+   Assessment and Plan
+    Ms. [**Known patient lastname 468**] is a 74 yo woman with a history of ESRD on hemodialysis,
+   DMs, HTN, PVD, afib, and hyperlipidemia who presented to ED with
+   respiratory distress after a discharge earlier in the day.
+   # Hypoxia/respiratory distress: Likely [**1-20**] to underdiuresis on monday
+   prior to admission and then subsequent IVF she received resulting an
+   acute pulmonary edema. She does have a history of dCHF and clinically
+   the story fits. She improved dramatically on Bipap. Ischemia should be
+   ruled out but also unlikely given lack of chest pain or EKG changes.
+   Other etiologies of acute dyspnea include PE which in unlikely as she
+   was therapeutic on coumadin. She is also in sinus although Paroxsymal
+   burst of Afib might have thrown her into failure. In addition, has
+   history of COPD but unlikely this is a flare given quick resolution
+   without inhalers/steroids/antibiotics. Also less likely is pna given
+   lack of fever ior clincal symptoms.
+   -wean oxygen as tolerated
+   -dialysis in am
+   -cont home metoprolol, lisinopril, and verapamil for BP control
+   -EKG in am
+   -cycle enzymes
+   .
+   # ESRD: Currently patient mildly volume overload but not indication for
+   emergent dialysis. Renal aware.
+   -plan to dialyze in am
+   -renal recs
+   -cont nephrocaps
+   .
+   # Afib: Currently in sinus and rate control, likely converted with
+   elevated dose of amiodarone. INR supratherapeutic on admission.
+   -cont amiodarone 400mg PO BID for rhythm control with plans to taper to
+   200mg PO BID in two weeks
+   -cont rate control with verapamil and metoprolol
+   -follow INR in am and consider restarting coumadin at lower does
+   -monitor on tele
+   .
+   # COPD: on oxygen at home, no documents PFTS in OMR
+   -cont home prn albuterol
+   -cont home spiriva, fluticasone
+   .
+   # DM2: cont current regimen of NPH 4 units [**Hospital1 **], add on RISS with QID FS
+   -cont asa, statin
+   .
+   # Glaucoma: cont home eye drops
+   .
+   # GERD: cont home PPI and H2 blocker
+   .
+   # FEN: no IVFs / replete lytes with dialysis / regular diet
+   # PPX: home PPI, therapeutic on coumadin, bowel regimen
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**2927-9-24**] 12:26 AM
+   22 Gauge - [**2927-9-24**] 12:26 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication: ICU consent signed Comments: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] DAUGHTER
+   Phone: [**Telephone/Fax (1) 10355**]
+   Code status: Full code
+   Disposition: ICU

@@ -1,0 +1,294 @@
+TITLE:
+   Chief Complaint: Failure to wean from vent/delirium
+   24 Hour Events:
+ BLOOD CULTURED - At [**2635-12-9**] 08:00 AM X2
+ URINE CULTURE - At [**2635-12-9**] 08:00 AM
+ PICC LINE - START [**2635-12-9**] 10:30 AM
+ MULTI LUMEN - STOP [**2635-12-9**] 03:45 PM
+ BLOOD CULTURED - At [**2635-12-9**] 03:56 PM tip of MLC
+   - IP to drain effusion tomorrow.  Stop Agatroban at 7am, coags at 11am,
+   NPO/G after midnight.
+   - renal recs re: AIN: likely AIN from antibiotics.  Rec bladder
+   pressure and renal USG, no steroids, strict I and O, free water in PEG
+   to 300 q4 for hypernat
+   - aft Hct:improved from 23 in am to 25 in aft.  No need to transfuse.
+   - hep recs: cont tx for SBP, Lasix gtt, possible TIPS and some
+   illegible attending recs
+   - Fam mtg: We will try aggressively for 1 wk then see where we stand,
+   try to get him off vent and talking and see what his goals are. Plan
+   for thoraco tomorrow. If acute decompensation, no escalation of care.
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2635-12-7**] 10:15 AM
+   Cefipime - [**2635-12-9**] 12:15 PM
+   Infusions:
+   Argatroban - 0.2 mcg/Kg/min
+   Furosemide (Lasix) - 15 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2635-12-10**] 06:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.1
+C (100.5
+   Tcurrent: 36.8
+C (98.3
+   HR: 70 (68 - 81) bpm
+   BP: 116/48(69) {113/44(63) - 153/67(318)} mmHg
+   RR: 12 (12 - 31) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 71 Inch
+             Total In:
+                                                                  3,650 mL
+                                                                    144 mL
+   PO:
+             TF:
+                                                                    812 mL
+   IVF:
+                                                                    671 mL
+                                                                    144 mL
+   Blood products:
+                                                                    147 mL
+   Total out:
+                                                                  3,775 mL
+                                                                  1,390 mL
+   Urine:
+                                                                  3,375 mL
+                                                                    940 mL
+   NG:
+   Stool:
+                                                                    400 mL
+   Drains:
+   Balance:
+                                                                   -125 mL
+                                                                 -1,246 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 433 (340 - 492) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 78
+   PIP: 14 cmH2O
+   SpO2: 98%
+   ABG: ///30/
+   Ve: 8.5 L/min
+   Physical Examination
+   Awake, alert, answering questions but appears confused. Trach in place.
+   Lungs with fair air movement, clear bilaterally. Heart benign. Abdomen
+   still distended but not tender to palpation. No edema noted in BLE
+   Labs / Radiology
+   401 K/uL
+   7.1 g/dL
+   114 mg/dL
+   2.2 mg/dL
+   30 mEq/L
+   4.3 mEq/L
+   43 mg/dL
+   109 mEq/L
+   147 mEq/L
+   23.8 %
+   9.9 K/uL
+        [image002.jpg]
+                            [**2635-12-8**]  03:33 AM
+                            [**2635-12-8**]  03:48 AM
+                            [**2635-12-8**]  12:04 PM
+                            [**2635-12-8**]  12:45 PM
+                            [**2635-12-8**]  01:08 PM
+                            [**2635-12-8**]  06:03 PM
+                            [**2635-12-9**]  02:17 AM
+                            [**2635-12-9**]  02:58 AM
+                            [**2635-12-9**]  03:18 PM
+                            [**2635-12-10**]  03:07 AM
+   WBC
+   12.6
+   9.1
+   9.9
+   Hct
+   25.7
+   23.0
+   25.0
+   23.8
+   Plt
+   [**Telephone/Fax (3) 11440**]
+   Cr
+   2.5
+   2.4
+   2.4
+   2.2
+   TCO2
+   31
+   29
+   32
+   32
+   28
+   Glucose
+   124
+   142
+   107
+   114
+   Other labs: PT / PTT / INR:20.0/41.5/1.8, CK / CKMB /
+   Troponin-T:23/2/0.16, Amylase / Lipase:29/36, Differential-Neuts:78.0
+   %, Lymph:11.1 %, Mono:5.5 %, Eos:5.0 %, Lactic Acid:0.8 mmol/L,
+   Albumin:4.5 g/dL, LDH:207 IU/L, Ca++:8.4 mg/dL, Mg++:2.5 mg/dL, PO4:2.9
+   mg/dL
+   Imaging: [**12-10**] CXR: linear R opacity, costophrenic angle slightly
+   opacified.
+   Microbiology: Blood cx pending
+   Urine cx pending
+   Line tip cx pending
+   Assessment and Plan
+ BALANCE, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ TRANSFERS, IMPAIRED
+ VENTILATION, IMPAIRED
+ ANXIETY
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ ATRIAL FIBRILLATION (AFIB)
+ ASCITES
+ DEPRESSION
+ TACHYCARDIA, OTHER
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ IMPAIRED SKIN INTEGRITY
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ RESPIRATORY FAILURE, CHRONIC
+   A 73 year old gentleman who presented with signs of urosepsis with
+   atrial tachycardia/AFib presenting for g-tube evaluation.  His g-tube
+   appears to be properly functioning and is no longer an active issue.
+   His urine has grown out <[**2626**] GNR
+s, so unlikely a true infection and
+   no longer and active issue. He also has sputum with Pseudomonas,
+   currently being treated, which likely is a true infection. In his
+   workup at this hospital it was learned that he has a cirrhotic liver,
+   with positive [**Doctor First Name **], anti smooth muscle, and elevated IgG, and had
+   significant ascites w/ 9L tapped and apparent SBP, and now s/p a second
+   tap to assess for resolution. Current active issues are the
+   etiology/workup/management plan of this cirrhosis, managing the
+   arrhythmia that he presented with (currently continues in sinus),
+   managing his h/o HIT with anticoagulation needs (DVT prophy), and
+   managing his trach/vent dependence, Pseudomonas pneumonia, and now most
+   currently, a positive UA with eosinophils and CT chest showing
+   loculated effusions.
+   #. Liver failure:  Patient
+s SAAG>1.1, making differential once again
+   cirrhosis vs right heart failure.  Amylase and lipase negative.  His
+   altered mental status may in part be to
+   - continue cefepime.  Consider changing to aztreonam because of AIN,
+   but we will wait to check sensitivities before making that change.
+   - given hepatohydrothorax, need to consider [**Last Name (un) 2979**] per hepatology.
+   - f/u hepatology recs.
+   #. Acute on chronic renal failure: Seen by renal yesterday.  Thought
+   etiology ATN and AIN given elevated FENa off of diuretics.  Recommended
+   bladder pressure and renal USG.  UA with persistent eosinophils, DDx
+   includes allergic rxn to drugs, infxns including pyelonephritis, and
+   infiltrative diseases like sarcoid, lymphoma, leukemia.
+   - Continue diuresis but give free water for hypernatremia.
+   - f/u bladder pressure
+   #. Arrhythmia: Per cards, pt was in Atach, Afib on admission, was given
+   Adenosine and BBlocker. Now in sinus and dig loaded.  Dig level this
+   morning is reassuring.
+   - Dig level is not elevated, will continue dosage as is.
+   - Will get Dig level tomorrow morning
+   - Received some IV Labatelol yesterday
+   #. PNA: Pseudomonas cultured, is sensitive to Cefipime, but resistant
+   to [**Name (NI) **]
+   - Pt was on Cefepime/[**Name (NI) **], but yesterday d/c'd [**Name (NI) **]
+   - Today is day 7 of Cefepime of 15 day course
+   #. Positive UA--Yesterday. On admission, concern for urosepsis but UCx
+   only grow out <[**2626**] GNR's. Now with UA conerning for infxn yesterday,
+   and have sent off UCx this am. Having low grade 100 temps for a couple
+   days. WBC's at 9
+   - F/u UCx.
+   - Continues on Cefepime.
+   - Hold off on starting new ABx for now but will consider broadening if
+   urine Cx grows out
+   #. Persistent respiratory failure: IP will do a thoracentesis today.
+   Patient changed to argatroban in preparation.
+   Reportedly on vent for the last 6 mos.  Failure to wean could be both
+   pneumonia as well as component of weakness, echo findings of RV
+   dysfunction suggesting possible PE (unable to anticoagulate d/t
+   persistent GI bleed) or pulmonary HTN, or persistent pleural effusions
+   due to persistent ascites.
+   - Had SBT yesterday but got tachy and sweaty after several hours so put
+   back on PS 8/5
+   - Had good RSBI this morning at 74
+   - Will have SBT with Passy Muir valve this morning
+   - ABG and VBG yesterday correlated well
+   #. Loculated pleural effusions, R > L.
+   - Unsure what to do with this result in face of overall goals of care.
+   Will be addressed at family meeting today whether to be aggressive with
+   this or not.
+   - Will need f/u of final CT read
+   - Consult IP about draining them today, and if we proceed, will need to
+   have Argatroban stopped for procedure.
+   #. Anemia: Has been slowly going down through admission and likely a
+   consequence of phlebotomizing with q4 coag checks due to argatroban. No
+   obvious source of bleeding and no hemodynamic changes. Had iron studies
+   this admission showing low level iron and labs consistent with anemia
+   of chronic disease. Also, had hematuria on most recent UA, but urine is
+   clear and blood loss in urine unlikely to be hemodynamically relevant,
+   but will need to watch and consider if continued drop in Hct.
+   - As PTT is stabilizing, can space q4 coags to q6 and if continued
+   stable PTT, likely just [**Hospital1 **]
+   - Guiac all stools
+   - Watch vitals signs
+   - Will get pm Hct
+   - Has triple lumen subclavian and L PIV
+   - Type and screen this morning, transfuse for <21
+   #. Hypernatremia: Hypovolemic hypernatremia on admission. Back up this
+   morning to 147
+   - Will increase free water via G tube to 300 q4hrs, but is a delicate
+   balance between lowering pt
+s hypernatremia and trying to get fluids
+   off him with Lasix gtt
+   - Measure pm Na
+   #. Hypotension: The patient was hypotensive with poor urine output on
+   admission, and thought to be distributive shock from urosepsis or PNA
+   and started on ABx. Was started on pressors which have now been weaned.
+   No longer an active issue
+   - Watch hemodynamics through the day
+   - Control tachycardia as above with BBlockade, as tolerated by bp
+   - Cefipime for Pulm (pseudomonas) infectious sources
+   - NS bolus to improve urine output prn
+   #. Agitation / delirium: Have started seroquel and appears to be well
+   tolerating
+   -increase dose of seroquel today if needed.
+   #. S/P CABG: Concerned about dehiscence of sternotomy wound.
+   Elevated troponins likely rate/renal function related.
+   - ASA
+   - Statin has been d/c
+   #. Depression:
+   - Continue Paxil
+   #. DM: ISS, no standing for now
+   FEN: IVF as above, replete electrolytes, tube feeds (Nutren)
+   Prophylaxis: Boots, PPI, Bowel reg, systemic Argatroban
+   Access: L PICC. R art line, L PIV.
+   Code:  DNR, already tracheally intubated.
+   Communication: Patient, daughter [**Name (NI) **]: [**Telephone/Fax (1) 11280**] (home); cell:
+   [**Telephone/Fax (1) 11281**]
+   Disposition: ICU pending clinical improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2635-12-4**] 05:30 AM
+   PICC Line - [**2635-12-9**] 10:30 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:

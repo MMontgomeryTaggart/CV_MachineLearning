@@ -1,0 +1,444 @@
+Admission Date:  [**3280-7-16**]              Discharge Date:   [**3280-7-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Wellbutrin / Kaopectate
+
+Attending:[**First Name3 (LF) 3016**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Diagnostic thoracentesis [**7-18**]
+PICC line placement [**7-20**], left arm, single lumen 51cm
+
+
+History of Present Illness:
+85yo woman w recent dx PE, refractory HTN, DM, CKD (bl Cr
+1.4-1.6), anemia who presents from NH with increasing SOB. Per
+NH records, she became febrile to 103 w HR 79, BP 180, O2 sat
+89% RA. Per patient, she noted increasing DOE over the last 24h.
+She has had increasing fatigue and has been less mobile for [**1-10**]
+days. Per d/w her son, he noticed she was more dyspneic
+yesterday while walking. He also noted increased fluid retention
+of her legs.
+.
+In the ED: initial VS 102.1 79 193/63 40 97% 4L. SBP ranged from
+159-202 and not treated. RR 30, 97% 3L, HR 70s. Rectal temp was
+103.4 then improved to 101.1 w tylenol 500mg. Initially noted to
+have bibasilar crackles. Lactate 1.5, WBC elevated to 17.1. CXR
+read as "possible PNA" so given ceftriaxone/levaquin. ? wheezes
+so given nebulizer. Also had positive UA.
+.
+Currently she feels quite well. She denies any recent CP, HA,
+photophobia, abd pain, diarrhea, change in urinary frequency.
+.
+Of note, recently at [**Hospital1 68**] in [**Month (only) 626**] for bilateral PE with RV
+strain. Now on coumadin
+
+
+Past Medical History:
+-Bilat PE in [**3280-4-9**] with RV strain. On coumadin
+-diastolic dysfunction: weight recorded at NH up 4 pounds over
+last week. Echo in [**Month (only) 626**] with high E/e' and symmetric LVH
+-Bipolar d/o
+-Mild dementia
+-Refractory HTN
+-DM type II
+-Hypothyroidism
+-Chronic Kidney Disease - new baseline Cr 1.6
+-Bilateral hearing loss
+-Arthritis
+-Bilateral carotid stenosis
+-hx Cdiff infection, now on suppressive therapy
+
+
+Social History:
+Lives at [**Location 664**] House Nursig Home since [**3280-1-9**]. Son, [**Name (NI) **],
+is the HCP at [**Telephone/Fax (1) 13572**].
+[**Name2 (NI) **]ant smoking history (50 pack years), distant social EtOH.
+
+
+Family History:
+per OMR: mother w psych dz
+
+Physical Exam:
+per Dr. [**First Name (STitle) **]
+VS 101.4 74 139/38 64 25 91%
+Gen: AAO to person, place, situation, time. pleasant, NAD
+Neuro: cn ii-xii intact. Motor: 4+/5 bilat upper extensors, [**5-13**]
+bilat lower. [**Last Name (un) 1288**] to light touch intact. toes down bilat
+HEENT: MMM, JVP 16cm. no nuchal rig or photophobia
+Cards: RRR iii/vi systolic m at base. no heave
+Lungs: decreased BS left base. Rales 1/2 up bilat.
+Abd: BS+ NT ND soft no masses
+Rectal: OB neg in ED
+Ext: 3+ edema bilat legs
+
+Discharge Exam:
+===============
+VS: T 98.1 BP 166/77 HR 78 RR 22 96%RA
+General: Elderly woman sitting in chair, NAD.
+Neuro: Alert and oriented x 3.  Pleasant, cooperative with care.
+Follows commands.  Muscle strentgh [**5-13**] bilaterally.
+HEENT: Dry MM.
+CV: RRR, II/VI SEM.
+Chest: Lung sounds with crackles at right base, left base
+diminished with crackles.  No wheezes.  Fair air exchange.
+Abd: + BS. soft, nontender, nondistended.  BM [**7-22**] loose x 4.
+Ext: 1+ DP pulses.  No peripheral edema.  Left arm PICC.
+
+
+Pertinent Results:
+Admission tests:
+===============
+EKG: NSR, LAFB, RBBB, TWI V1-V3 which are old
+admit CXR: appears to have bilateral cephalization with bilat
+pleural effusions L>R. Possible LLL opacity
+.
+Lactate:1.5
+141 106 26
+--------------< 127
+3.8 24 1.6
+Ca: 8.2 Mg: 1.8 P: 3.4
+.
+WBC: 17.1 - diff 88% PMNs
+HCT: 28.3 - at baseline
+PLT: 408
+.
+PT: 16.1 PTT: 25.5 INR: 1.4
+.
+[**3280-4-11**] CTA: Pulmonary embolism involving the bifurcation of both
+
+the right and left main pulmonary arteries with extension into
+all bilateral lobar branches.
+.
+[**4-16**] Echo: LA normal, mild symmetric LVH. Hyperdynamic EF. High
+E/e' ratio with increased LV filling pressure. Mild MR. [**First Name (Titles) **] [**Last Name (Titles) 13573**]n
+
+Troponin [**3280-7-16**]: 0.03
+Troponin [**3280-7-17**]: 0.02
+
+[**3280-7-16**] Urine Cx: E.coli
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFTRIAXONE-----------  =>64 R
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+NITROFURANTOIN--------   128 R
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**3280-7-16**] Blood Cx: E.coli
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------       R
+CEFTRIAXONE-----------       R
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------       R
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+[**3280-7-18**] Pleural Fluid
+Gram Stain: No PMNs; No microorganisms
+Culture: (Prelim) No growth
+
+Pleural fluid analysis:
+WBC   RBC   Hct,Fl Polys Lymphs Monos Macro
+565*  1830*   <1    44*    20*   22*   14*
+
+TotProt Glucose LD(LDH) Albumin Cholest pH
+1.2       99      73       <1     10    7.55
+
+Anemia workup:
+calTIBC VitB12 Folate Ferritn TRF
+  316     276   10.6    56    243
+
+BNP [**3280-7-16**]: 8145
+
+Legionella Urinary Antigen  (Final [**3280-7-19**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN
+
+CT CHEST W/O CONTRAST Study Date of [**3280-7-22**] 11:32 AM
+HRCT OF THE CHEST: New non-hemorrhagic bilateral pleural
+effusions, small to moderate on the left and small on the right,
+have resulted in near-complete collapse of the left lower lobe
+and less extensive atelectasis in the right lower lobe. Two
+nodular opacities in the lingula may be atelectasis or a small
+regions of infection. A more wedge-shaped consolidative opacity
+at the right lung apex could be infection or infarction. Diffuse
+moderate ground- glass opacities and interlobular septal
+thickening reflect volume overload. There is no evidence of
+fibrosis.
+Heart size is top normal. There is no pericardial effusion.
+Atherosclerotic calcification is extensive--in the coronary
+arteries, aortic root, and aorta and extending into the carotid
+and subclavian arteries. Dystrophic calcification of the mitral
+valve annulus could be hemodynamically signficiant since the
+left atrium is dilated. Pulmonary arterial size is also top
+normal. Left PICC tip in the right atrium, is 3.5 cm below the
+SVC- right atrial junction. A precarinal node is 10 mm wide
+(2:32); no other nodes are pathologically enlarged.
+This exam is not tailored for subdiaphragmatic assessment. The
+imaged
+portion of the unenhanced upper abdomen is normal.
+There are no concerning osseous lesions.
+IMPRESSION:
+1. New moderate cardiac decompensation manifested in bilateral
+pleural
+effusions and interstitial and alveolar edema.
+2. Small areas of right apical and lingular infection or
+infarction.
+3. No pulmonary fibrosis
+
+CHEST PORT. LINE PLACEMENT Study Date of [**3280-7-20**] 11:55 AM
+FINDINGS: Comparison is made to previous study from [**3280-7-19**].
+There is a left-sided PICC line with distal lead tip in the
+cavoatrial
+junction. No pneumothoraces are seen. There is a persistent
+left-sided
+retrocardiac opacity and left-sided pleural effusion, stable.
+
+Discharge labs:
+==============
+
+[**3280-7-23**] 05:27AM BLOOD WBC-11.8* RBC-3.40* Hgb-9.6* Hct-29.8*
+MCV-88 MCH-28.2 MCHC-32.1 RDW-15.6* Plt Ct-284
+[**3280-7-22**] 05:41AM BLOOD PT-24.1* PTT-32.3 INR(PT)-2.3*
+[**3280-7-23**] 05:27AM BLOOD Glucose-115* UreaN-18 Creat-1.2* Na-145
+K-3.7 Cl-106 HCO3-33* AnGap-10
+[**3280-7-23**] 05:27AM BLOOD Calcium-8.1* Phos-3.4 Mg-1.9
+[**3280-7-20**] 07:36AM BLOOD TSH-2.4
+[**3280-7-17**] 04:48AM BLOOD Lithium-0.7
+
+Brief Hospital Course:
+85yo woman with hx of recent bilat PE, refractory HTN, DM, CKD
+here with worsening DOE.  Was admitted to the ICU [**Date range (1) 13574**],
+transferred to floor [**7-20**]:
+
+# fever/ e.coli bacteremia/ UTI: Had positive U/A, grew E.coli
+sensitive only to meropenem in blood and urine cultures.
+Initially on broad spectrum antibiotics, but switched to
+meropenem on [**7-18**] and had improvement in fever curve and mental
+status.  Meropenum course complete [**7-31**].
+.
+# Hypoxia: Initially felt to be pna given fever. Began treatment
+for possible PNA with levaquin, ceftriaxone (double cover strep
+and also cover atypical, GNR) and vancomycin (since NH
+resident). Final read on cxr was pulm edema, no infiltrate. Also
+with moderate left pleural effusion and small right.(see below)
+She was treated for diastolic dysfunction with better BP control
+and fluid status. She received several doses of IV lasix in ICU
+with good response and was restarted on po lasix on [**7-20**]. She
+continued to have O2 requirement, so CT chest was obtained to
+rule out interstitial process.  Please see full report above,
+including evidence of pulmonary edema, bilateral pleural
+effusions and apical parynchymal consolidation consistent with
+infarction from known pulmonary embolus.  Thoracentesis was
+performed and consistent with transudative process.  She
+sucessfully weaned off with further diureseis.  She will be
+discharged on lasix 40mg [**Hospital1 **] (home dose 20mg daily) and volume
+status as well as electrolytes should be followed closely.
+.
+# acute of chronic diastolic CHF: Recent echo with documented
+increased filling pressures. This may have been in setting of
+her PE. However, has longstanding hypertension and symmetric
+LVH. Appeared overloaded on admission exam. BNP ([**3280-7-16**]): 8145.
+Effusion seen on cxr. Diagnosic thoracentesis performed on
+[**3280-7-18**] - 10 cc straw-colored fluid; transudate by light's
+criteria (ph 7.55, gluc 99, GS, cx negative). Given IV lasix for
+diuresis in ICU and restarte PO lasix [**7-20**]. Foley d/c'd [**7-21**].
+Chest CT indicates bilateral pleural effusions and interstitial
+and alveolar edema.
+- Rate controled with BB and afterload reduced with captopril.
+- Slowly increase to home dose of metoprolol 150mg TID, she is
+now on 50mg TID.
+- Home dose of norcasc started [**7-23**].
+.
+# Anemia: she had fluctuating hct from 22-27.  Iron studies
+suggest [**Doctor First Name **].  Fluid shifts likely accounted for changes in hct.
+Given 2u pRBCs while in unit (with lasix) and pt responded well.
+Hct remained stable and all stools guiaic negative.  Discharged
+on home dose of ferrous sulfate.
+.
+# CAD: no clear new ischemic pattern on EKG. CE at baseline.
+Continued BB, statin.  Unclear why not on aspirin, but may be
+[**2-10**] high risk for bleed with coumadin.
+.
+# Cards rhythm: reportedly with hx of [**Month/Day (2) **].
+- BB and amio
+.
+# hx PE: subtherapeutic on INR.  Possible that hypoxia is
+related to persistent/recurrent PE. treated w heparin gtt and
+continued coumadin.
+- Follow INR.
+.
+# HTN: difficult to control per recent d/c summaries.  We
+started low on BP meds and uptitrated slowly.  Need to continue
+uptitration of beta blocker at rehab to previous home dose.
+.
+# CKD: at baseline renal dysfunction. Monitor meds and fluid
+status.
+- Meropenum renally dosed.
+- Follow renal function with diuresis.
+.
+# DMII: She had several low blood sugars in ICU while not eating
+well. Her lantus was held and maintained on humalog insulin
+sliding scale. Rare coverage needed in the hospital, 2-6 units
+of sliding scale per day.  Glucose levels [**7-22**] were 143, 148,
+162, 184.
+- On discharge ordered for lantus 4 units daily, home dose is 8
+units.  Titrate up as oral intake improves.
+.
+# h/o c.diff -- continued previous dose of oral vanco, end date
+[**7-24**].
+.
+# history of [**Month/Year (2) **] - continued on home amiodarone
+.
+# Hypothyroidism - continued on levothyroxine
+.
+# Depression/Bipolar - continued on celexa, risperdal, lithium
+.
+# history of constipation - intially constipated and given
+several laxatives.  BM x 4 [**7-22**], meds held [**7-23**].  To resume home
+regimen at discharge.
+.
+# Comm: HCP is son, [**Name (NI) **] [**Name (NI) 3635**] at [**Telephone/Fax (1) 13572**]. [**Location (un) 664**] NH
+[**Telephone/Fax (1) 13575**]
+
+
+Medications on Admission:
+Medications per NH:
+vanco 125 PO QOD as of [**7-16**]
+Lantus 8 qam
+vitamin C daily
+metop 150 [**Hospital1 **]
+Prilosec 20 [**Hospital1 **]
+lasix 20 daily
+iron 325 daily
+amio 200 daily
+amlodipine 5 daily
+captopril 100 tid
+citalopram 40 daily
+clonidine 0.1 [**Hospital1 12**]
+levothyroxine 175
+colace qhs
+senna
+sucralfate 1 tid
+warfarin 2.5 qhs
+MVI
+lipitor 10 daily
+lithium 150 qhs
+remeron 7.5 qhs
+risperdal 0.25 qhs
+tylenol prn
+bisacodyl prn
+fleets prn
+mom
+
+
+Discharge Medications:
+1. Prilosec 20 mg Capsule, Delayed Release(E.C.) [**Hospital1 38**]: One (1)
+Capsule, Delayed Release(E.C.) PO twice a day.
+2. Metoprolol Tartrate 50 mg Tablet [**Hospital1 38**]: One (1) Tablet PO BID
+(2 times a day): Hold for SBP<100 HR <55.
+3. Vancomycin 125 mg Capsule [**Hospital1 38**]: One (1) Capsule PO once a day
+for 1 days: Please give on [**7-24**].  This is the last dose of every
+other day.
+4. Lasix 40 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO twice a day: Give
+at 0800 and 1200.
+5. Ferrous Sulfate 325 mg (65 mg Iron) Tablet [**Month/Year (2) 38**]: One (1)
+Tablet PO DAILY (Daily).
+6. Amiodarone 200 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO DAILY
+(Daily).
+7. Amlodipine 5 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO DAILY (Daily).
+
+8. Captopril 100 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO three times a
+day: Hold for SBP <110.
+9. Celexa 40 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO once a day.
+10. Clonidine 0.1 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO BID (2 times
+a day).
+11. Docusate Sodium 100 mg Capsule [**Month/Year (2) 38**]: One (1) Capsule PO at
+bedtime.
+12. Senna 8.6 mg Tablet [**Month/Year (2) 38**]: Two (2) Tablet PO HS (at bedtime).
+
+13. Sucralfate 1 gram Tablet [**Month/Year (2) 38**]: One (1) Tablet PO three times
+a day: one hour before meals.
+14. Warfarin 2.5 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO Once Daily at
+4 PM.
+15. Acetaminophen 325 mg Tablet [**Month/Year (2) 38**]: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+16. Multivitamin     Tablet [**Month/Year (2) 38**]: One (1) Cap PO DAILY (Daily).
+17. Levothyroxine 175 mcg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO DAILY
+(Daily): give at 6:30am.
+18. Atorvastatin 10 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO DAILY
+(Daily).
+19. Lithium Carbonate 150 mg Capsule [**Month/Year (2) 38**]: One (1) Capsule PO QHS
+(once a day (at bedtime)).
+20. Remeron 15 mg Tablet [**Month/Year (2) 38**]: 7.5mg Tablets PO at bedtime.
+21. Risperidone 0.25 mg Tablet [**Month/Year (2) 38**]: One (1) Tablet PO HS (at
+bedtime) as needed for anxiety.
+22. Lantus 100 unit/mL Solution [**Month/Year (2) 38**]: Four (4) units Subcutaneous
+once a day.
+23. Meropenem 500 mg Recon Soln [**Month/Year (2) 38**]: One (1) Recon Soln
+Intravenous Q12H (every 12 hours) for 8 days: last dose [**3280-7-31**].
+
+24. Heparin, Porcine (PF) 10 unit/mL Syringe [**Month/Day/Year 38**]: Two (2) ML
+Intravenous three times a day as needed for line flush: Flush
+with 10mL sormal saline followed by heparin.  Daily and after
+use of PICC.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 664**] House Nursing & Rehab center
+
+Discharge Diagnosis:
+Primary: ESBL e.coli bacteremia/UTI, refractory HTN, recent
+bilateral PEs, UTI
+Secondary: CKD, anemia, DMt2, hypothyroidism, mild dementia, hx
+of C.diff
+
+
+Discharge Condition:
+Good.  Room air, ambilating with assist.  Able to participate in
+ADLs with supervision.
+
+
+Discharge Instructions:
+You were admitted to ICU with fever, shortness of breath, and
+elevated white blood cell count suggestive of pneumonia.  Your
+lab work indicated that you had a urinary tract infection as
+well as bacteria in your blood.  Your chest x-ray and lung exam
+showed fluid on your lungs.  We treated your infections with
+antibiotics.  Your fever resolved and your breathing improved.
+
+
+Followup Instructions:
+Please follow up with your primary care provider [**Name Initial (PRE) 744**] 2 weeks
+of discharge from the hospital.
+
+Name: [**Doctor Last Name **],LAURAINE E. MD
+Location: [**Hospital1 **]
+Address: 26 CITY [**Doctor Last Name **] MALL, [**Location (un) **],[**Numeric Identifier 13576**]
+Phone: [**Telephone/Fax (1) 13577**]
+Fax: [**Telephone/Fax (1) 13578**]
+
+Recommend:  repeat chest CT to evalutate LLL re-expansion in [**1-11**]
+months.
+
+
+

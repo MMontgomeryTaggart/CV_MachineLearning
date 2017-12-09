@@ -1,0 +1,229 @@
+Chief Complaint:
+   24 Hour Events:
+ MULTI LUMEN - START [**2995-12-17**] 05:47 PM
+   - got  4 units of PRBCs, 4 units FFP, 1 unit Cryo
+   - reticulocyte count of 3.8, inappropriate for degree of anemia
+   - PTT rising
+   - Fibrinogen 62 --> 1 unit of cryo --> 108 --> 120
+   - Hct 18.7 --> 2 units PRBCs --> 22.8 --> 2 units PRBCs --> 28.9 -->
+   29.8
+   - Ceftriaxone switched to cipro for UTI given pancycotopenia
+   - Heme concerned that pancycotopenia is related to drug reaction
+   (zosyn, ceftriaxone), versus infection (EBV, CMV, parvo),
+   hemophagocytic syndrome, versus splenic sequestration (/splenic
+   thrombosis).  No indication for BMBx at present.
+   - Ordered for abdominal ultrasound with dopplers but could not be
+   performed yet
+   - left femoral line placed because unable to pass wire beyond 10 cm at
+   right IJ and left IJ was not compressable --> concern for thrombus
+   - Patient listed for transplant on [**2995-12-15**]
+   - cellcept stopped for concern for etiology of pancyotopenia
+   Allergies:
+   Sulfisoxazole
+   Unknown;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2995-12-16**] 02:00 PM
+   Ciprofloxacin - [**2995-12-17**] 06:17 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2995-12-18**] 07:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 35.9
+C (96.7
+   HR: 61 (48 - 71) bpm
+   BP: 124/63(79) {99/51(63) - 124/72(79)} mmHg
+   RR: 19 (12 - 20) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+                  Total In:
+                                                                  2,121 mL
+                                                                    214 mL
+   PO:
+                                                                    180 mL
+                                                                    160 mL
+   TF:
+   IVF:
+                                                                    100 mL
+   Blood products:
+                                                                  1,721 mL
+                                                                     54 mL
+   Total out:
+                                                                    423 mL
+                                                                  1,055 mL
+   Urine:
+                                                                    423 mL
+                                                                    255 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,698 mL
+                                                                   -841 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///27/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   47 K/uL
+   10.2 g/dL
+   193 mg/dL
+   1.0 mg/dL
+   27 mEq/L
+   3.5 mEq/L
+   39 mg/dL
+   108 mEq/L
+   142 mEq/L
+   29.8 %
+   2.4 K/uL
+        [image002.jpg]
+                            [**2995-12-15**]  03:06 AM
+                            [**2995-12-15**]  03:39 PM
+                            [**2995-12-16**]  05:30 AM
+                            [**2995-12-16**]  12:22 PM
+                            [**2995-12-17**]  06:35 PM
+                            [**2995-12-18**]  12:00 AM
+                            [**2995-12-18**]  05:00 AM
+   WBC
+   4.6
+   9.3
+   1.9
+   2.5
+   2.4
+   Hct
+   30.9
+   32.1
+   29.9
+   22.8
+   28.9
+   29.8
+   Plt
+   69
+   80
+   46
+   43
+   47
+   Cr
+   1.1
+   1.7
+   1.4
+   0.9
+   1.0
+   Glucose
+   180
+   175
+   246
+   234
+   193
+   Other labs: PT / PTT / INR:29.5/50.3/3.0, ALT / AST:64/146, Alk Phos /
+   T Bili:86/6.9, Differential-Neuts:64.8 %, Band:0.0 %, Lymph:23.6 %,
+   Mono:9.9 %, Eos:1.3 %, D-dimer:652 ng/mL, Fibrinogen:120 mg/dL, Lactic
+   Acid:3.8 mmol/L, Albumin:2.4 g/dL, LDH:340 IU/L, Ca++:8.8 mg/dL,
+   Mg++:2.1 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   Mr. [**Known patient lastname 1638**] is a 57 year old female with cirrhosis here with resolving
+   hepatic encephalopathy and UTI, transferred to floor from MICU on
+   [**12-16**], now retransferred to MICU for pancytopenia, coagulopathy,
+   concern for DIC, TTP, or blood loss.
+   # heme/pancytopenia/
+ ddx: dic, ttp-hus, med effect with marrow
+   hypo-production, blood loss anemia.  Hct drop 10pts over 24hr period,
+   guaiac(+) brown stool, hemodynamically stable, no signs of bleed.  With
+   hx of liver disease, difficult to interpret platelets and coagulopathy,
+   but has elevation in INR to >5, drop in platelets of 20pts, fibrinogen
+   drop from 90 to 65.  Of note, pt
+s mental status and not changed
+   significantly in past 48hrs and has not had a fever during this
+   process.  No bleeding from pIV sites or focal sites on exam.   Although
+   fibrinogen has dropped and platelets are decreased, overall picture not
+   supportive of DIC or TTP/HUS.  Blood loss anemia not likely given
+   stable hemodynamics, no site of bleed, and no e/o of overt blood loss
+   in stool.  Has been on ctx for 3^rd day.  Ceftriaxone only new
+   medication over past 3 days, has been known.  Exam not supportive of
+   splenomegaly, CT done [**12-14**] does not comment on spleen size
+ appears
+   mildly enlarged.  Other infectious source possible with marrow
+   suppression, CMV viral load not sent.  Parvovirus/EBV possible, these
+   are send outs, will hold until consul input.  No abd pain to support
+   thrombosis, but should rule out acute splenic vein thrombosis as
+   etiology.
+   - blood smear, fibrinogen/platelet trend
+ r/o DIC, hemolysis.
+   Heme-onc following
+   - cryo transfusion for fibrinogen <70, prbc for hct <23, plat for <20
+   or trend downward
+   - hct q8 hr until stable, transfuse 2uPRBC for low hct, trend
+   ldh/retic, now stable, HD stable
+   - medication effect possible, med changes have been DC of cellcept
+   [**12-16**], addition of ceftriaxone [**12-14**] (has hx of
+allergy
+ to sulfa
+   groups, with sulfur present on ctx molecule).  Will research ctx
+   effect, DC med now.
+   - trend LFTs for worsening liver disease, incuding worsening of splenic
+   sequestration
+   - trend ldh as was elevated in setting of arf; check cxr so no
+   developing pulmonary source of ldh rise (also on o2)
+   - abd U/S with dopplers to assess splenic vein for thrombosis
+   - cmv, parvo, ebv viral loads
+   # renal failure
+ cr  from 1.1 to 1.7 [**12-16**], then with decrease to 1.1
+   with albumin.  Thought likely [**3-7**] pre-renal in setting of iv diuresis
+   and diarrhea with Lactulose, concern for hepatorenal.  Now stabilized.
+   - follow cr
+   - hold lasix
+   # hepatic encephalopathy
+ thought triggered by UTI.  Imaging Not
+   enough ascites to tap, low suspicion for SBP.
+   - lactulose q4 hrs
+   - cont rifaximin
+   - change ctx to cipro iv (diarrhea significant, question absorption),
+   to complete 7d course to end [**12-21**] (defer bactrim for pancytopenia,
+   watch possible worsened coagulopathy from cipro)
+   .
+   # cirrhosis s/p transplant
+ being followed by liver transplant, being
+   listed for a second transplant.  +significant coaguloapthy, low albumin
+   with significant malnourishment, albumin of 2.4.
+   - hold cellcept as per E-[**Doctor Last Name **] team, continue tacrolimus
+   - liver recs
+   - cont Lactulose
+   - hold lasix
+   - vitamin K PO x2 days
+   - trend MELD score
+   #  DM  - insulin sliding scale, keep 80% glucose <150
+   PPx: therapeutic INR, PPI
+   FULL CODE, confirmed with husband [**Name (NI) 115**]
+   FEN: regular diet as tolerated
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2995-12-17**] 11:38 AM
+   22 Gauge - [**2995-12-17**] 12:58 PM
+   Multi Lumen - [**2995-12-17**] 05:47 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:

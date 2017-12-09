@@ -1,0 +1,334 @@
+Admission Date:  [**3403-1-30**]              Discharge Date:   [**3403-2-2**]
+
+Date of Birth:  [**3355-10-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Clindamycin
+
+Attending:[**First Name3 (LF) 1982**]
+Chief Complaint:
+Hypertensive Crisis, Blurry Vision
+
+Major Surgical or Invasive Procedure:
+Hemodialysis
+
+History of Present Illness:
+47 yo male with HIV (last CD4 238, viral load 882 in [**12-18**]) on
+HAART, DM, ESRD on HD, h/o PE on coumadin (dx [**7-18**]), h/o
+medication noncompliance, h/o malignant hypertension, who awoke
+this morning with L eye monocular blurry vision and
+dysequilibrium with standing. When he first awoke, he was seeing
+double, worse with R gaze. He also felt as though he was losing
+his balance when standing, but thinks this is due to the double
+vision in his L eye. He does have some mild pain in his L eye.
+He deniess vertigo, pre-syncopal symptoms, syncope,
+lightheadedness, or LE weakness. He had one episode of n/v this
+AM. He also has had a R temporal HA over the past week which is
+not throbbing and fairly constant.  He rates this HA as [**10-21**],
+but does not wish to take any pain medications for it. He denies
+slurred speech, CP, SOB, abd pain, new weakness or numbness in
+any of his extremities, BRBPR, diarrhea, constipation. He states
+he has been compliant with taking all of his medications.
+.
+In the ED, the pts vitals were: T 99.2, BP 159-204/88-106, HR
+80s-90s, R 15-22, sat 93-98% RA. He was noted to have R eye
+disconjugate gaze and monocular blurry vision. He received
+lebatolol 5 mg IVx1/10 mg IVx1, valsartan 160 mg po x 1,
+Nifedipine CR 90mg po x1, Ativan, and heparin gtt. Code stroke
+was called. CT head and MRI head were negative for acute
+process. He was started on a labetolol gtt. He was seen by neuro
+and felt to have L 3rd nerve palsy with pupillary sparing. As
+soon as the pt arrived to the MICU, his lebatolol gtt was
+discontinued as his SBP was 140s.
+
+Past Medical History:
+- Type 1 diabetes
+- HIV (lamivudine, stavudine), dx'd [**3390**]  VL 882, CD4 238 in
+[**12-18**])
+- ESRD on HD, attempted on PD on transplant list
+(clinical study for HIV/solid organ transplant)
+- PE, on Coumadin, diagnosed [**7-18**]
+- Malignant Hypertension
+- hx Serratia bacteremia (presumed AV graft) tx 6 wks meropenem
+
+- Hx schistosomiasis
+- Restless leg syndrome
+- Peripheral neuropathy on gabapentin
+- S/p cholecystectomy
+- s/p R nephrectomy in [**3386**] secondary renal nephrolithiasis
+
+Social History:
+Moved from [**Country 22076**] in [**3385**]. Lives with wife in [**Location (un) 79**].
+Works in support services for a law firm. Denies any alcohol or
+IV drug use. Quit smoking last year; previous 30 pack-year
+history.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Physical Exam on MICU admission:
+VS: Temp: 99.2 BP: 141/61 HR: 95  RR: 20 O2sat: 95% 2LNC
+GEN: pleasant, laying flat, comfortable, NAD
+HEENT: patch over R eye, PERRL, L eye unable to adduct or look
+up/down but able to abduct, anicteric, MMM, op without lesions,
+no diplopia, clear optic disc margins on left but unable to
+visualize on R, no hemorrhages on L or R fundoscopic exam
+NECK: no supraclavicular or cervical lymphadenopathy, no jvd, no
+carotid bruits, no thyromegaly or thyroid nodules
+RESP: faint expiratory wheezing at the bilateral bases but no
+rales/ronchi
+CV: RR, S1 and S2 wnl, no m/r/g
+ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+EXT: no c/c/e, warm, 1+dp/pt pulses BL
+SKIN: no rashes/no jaundice
+NEURO: AAOx3. Cn II-XII intact with the exception of the L 3rd
+CN. 5/5 strength throughout. No sensory deficits to light touch
+appreciated. No pass-pointing on finger to nose. toes downgoing.
+
+
+Pertinent Results:
+Admission labs:
+[**3403-1-30**] 09:55AM   WBC-5.9# RBC-4.03*# HGB-14.1# HCT-40.2
+MCV-100*# MCH-34.9* MCHC-35.0 RDW-14.0
+[**3403-1-30**] 09:55AM   PLT COUNT-159
+[**3403-1-30**] 09:55AM   GLUCOSE-120* UREA N-54* CREAT-9.2*
+SODIUM-132* POTASSIUM-4.7 CHLORIDE-91* TOTAL CO2-27 ANION GAP-19
+[**3403-1-30**] 07:54PM   ALT(SGPT)-9 AST(SGOT)-11 CK(CPK)-136 ALK
+PHOS-71 AMYLASE-116* TOT BILI-0.3
+[**3403-1-30**] 07:54PM   LIPASE-46
+[**3403-1-30**] 09:55AM   PT-15.0* PTT-30.3 INR(PT)-1.3*
+.
+Pertinent labs:
+[**3403-1-30**] 09:55AM   CK(CPK)-139
+[**3403-1-30**] 09:55AM   CK-MB-19* MB INDX-13.7*
+[**3403-1-30**] 09:55AM   cTropnT-0.29*
+[**3403-1-30**] 07:54PM   CK-MB-18* MB INDX-13.2* cTropnT-0.43*
+[**3403-1-31**] 03:56AM BLOOD CK(CPK)-98
+[**3403-1-31**] 03:56AM BLOOD CK-MB-NotDone cTropnT-0.56*
+[**3403-2-1**] 03:35PM BLOOD %HbA1c-4.9
+[**3403-2-1**] 06:10AM BLOOD Triglyc-87 HDL-35 CHOL/HD-3.7 LDLcalc-77
+.
+EKG on admission: Sinus rhythm. Left atrial abnormality. Tall T
+waves in leads V2-V4. Consider acute ischemia or hyperkalemia.
+Compared to the previous tracing of [**3402-8-19**] T waves are now
+upright and more acute.
+.
+Imaging:
+CHEST (PORTABLE AP)  [**3403-1-30**]
+IMPRESSION: No acute cardiopulmonary disease.
+.
+MRA BRAIN W/O CONTRAST  [**3403-1-30**]
+IMPRESSION:
+1. Normal MRA of the head.
+2. Ventriculomegaly and low-lying cerebellar tonsils as before.
+3. Minimal amount of chronic microangiopathic changes.
+.
+CTA HEAD W&W/O C & RECONS  [**3403-1-30**]
+IMPRESSION:
+1. Ventriculomegaly and low-lying cerebellar tonsils as before.
+2. Normal CTP.
+3. Normal CTA of the head and neck.
+
+Brief Hospital Course:
+47 yo male with HIV (last CD4 238, viral load 882 in [**12-18**]) on
+HAART, DM, ESRD on HD, h/o PE on coumadin (dx [**7-18**]), h/o
+medication noncompliance, h/o malignant hypertension, who
+presents with hypertensive urgency and left 3rd nerve palsy.
+.
+# Hypertensive Crisis:  Pt was admitted to the MICU.  This is
+likely secondary to medication noncompliance given that pt's BP
+rapidly normalized after pt received his home BP meds. Pt has
+possible mild resultant cardiac ischemia from this event
+(positive MB index). He has prior h/o malignant HTN in the past,
+treated with nitro gtts and lebatolol gtts. Labetolol gtt was
+d/c'd once pt came into MICU.  He was restarted on home
+medications with few modificaitons and his BP has been
+well-controlled.  He was continued on his home diovan 160 mg po
+bid, nifedipine CR 60 mg daily, clonidine TTS 2 patch qSun,
+Toprol XL 25 mg daily.  His lisinopril was increased from 10 mg
+tid to 20 mg [**Hospital1 **].
+.
+# Transient 3rd nerve palsy:  Neurology was consulted and felt
+his vision changes were likely secondary to 3rd nerve palsy on
+the L, which is usually caused by DM or HTN.  There was no
+pupillary defect nor papilledema or hemorrhages on fundoscopic
+exam.  Ophthomology also evaluated the pt and reported
+resolution of the 3rd nerve palsy.  His vision changes had
+resolved by discharge.  Pt will follow up with outpatient
+ophthomology.
+.
+# Elevated cardiac enzymes:  With his elevated cardiac enzymes,
+he was initially started on heparin gtt.  This was likely due to
+leakage of enzymes from hypertensive emergency as opposed to
+ischemic event.  His elevated Tpn is likely due to CRF. No had
+no EKG changes.  CK plateaued at 139 and trended down.  Heparin
+gtt was stopped given low suspicion and INR near therapeutic for
+distant DVT.  He was continued on his aspirin.
+.
+# Hypoxia:  On admission he was hypoxic wtih mild wheezing at
+lung bases, likely either [**2-12**] to atelectasis vs. volume overload
+from hypertensive crisis.  CXR had no evidence of acute
+cardiopulmonary process.  He was weaned to RA [**1-31**] without
+desaturation and remained on RA for the remainder of his
+hospitalization.
+.
+# N/V:  This was likely related to hypertensive crisis as it
+resolved with BP control.  Amylase/lipase, LFTs were not
+indicative of an acute processs.  His known gastroparesis may
+have also contributed, and he was continued on his outpatient
+regimen of Reglan.
+.
+# ESRD: Pt cont. to have hemodialysis qMWF.  He was continued on
+lanthanum.
+.
+# HIV: He follow ups poorly with both Dr. [**Last Name (STitle) 252**] (ID) and his PCP,
+[**Last Name (NamePattern4) **]. [**Last Name (STitle) 1549**].  Per ID, given his history of medical noncompliance,
+his HAART medications were held.  He will follow up with Dr.
+[**Last Name (STitle) 252**] as an outpatient regarding reinitiation of HAART.
+.
+# h/o PE: Pt was admitted with subtherapeutic INR of 1.3.  His
+coumadin was increased to 5 mg daily and was therapeutic upon
+discharge.
+.
+# ?Depression: Per his nephrologist Dr. [**Last Name (STitle) **] & PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 1549**],
+there has been some concern for worsening depression/coping,
+which may be possibly contributing to his medical noncompliance.
+ Psychiatry was consulted and felt that he did appear to be
+somewhat dysthymic but without overt depressive symptoms.  Pt
+denies any medical noncompliance.
+.
+# Restless leg syndrome:  Pt was continued on neurontin.
+.
+# DM: Pt was continued on home NPH and ISS with adqueate control
+of BS.
+.
+# Code Status: Full
+
+Medications on Admission:
+Lamivudine 25 mg QD
+Zerit 20 mg QD
+?Ritonavir 100 mg daily
+?Atazanavir 300 mg daily
+?Tenofovir 100 mg weekly
+Diovan 160 mg [**Hospital1 **]
+NPH 10 U QAM, 7 U QPM
+Insulin regular 5 U QPM
+Ativan 1 mg TID PRN
+Lisinopril 10 mg TID
+Ambien 10 mg QHS PRN
+Nifedipine SR 30 mg QD
+Coumadin 4 mg on non-HD days, 5 mg on HD days
+Neurontin 100 mg [**Hospital1 **] to TID (depending on how bad restless legs
+are)
+Catapress 2 patch weekly
+Reglan 10 mg qachs
+fosrenol 1 gm tid
+Metoprolol Succinate 25 mg daily
+.
+Allergies: Clindamycin-rash
+
+Discharge Medications:
+1. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+3. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO once a day.
+4. Valsartan 160 mg Tablet Sig: One (1) Tablet PO twice a day.
+5. Clonidine 0.2 mg/24 hr Patch Weekly Sig: Two (2) Patch Weekly
+Transdermal QSUN (every Sunday).
+6. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Lanthanum 500 mg Tablet, Chewable Sig: Two (2) Tablet,
+Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+8. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4
+times a day (before meals and at bedtime)).
+9. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+11. Ativan 1 mg Tablet Sig: One (1) Tablet PO three times a day
+as needed for anxiety.
+12. Ambien 10 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+14. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed.
+15. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: [**7-21**]
+units Subcutaneous twice a day: Please take 10 units in the
+morning, 7 units in the evening.
+16. Insulin Regular Human 100 unit/mL Solution Sig: 2-10 units
+Injection four times a day: Please take according to attached
+sliding scale.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Hypertensive Emergency
+Cranial nerve palsy
+.
+Secondary:
+HIV
+Chronic renal failure, stage V
+Diabetes mellitus type 1
+Pulmonary embolus
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted for dangerously high blood pressure with
+changes in vision.  Your vision changes have resolved.
+Neurology and Ophthalmology have seen you and Ophthalmology
+recommends outpatient follow up.  Your lisinopril has been
+changed from 10 mg three times a day to 20 mg twice a day.  Your
+blood pressure has been well-controlled with these medications.
+
+.
+Please continue to take your medications except as above.  In
+addition, please take coumadin (warfarin) 5 mg every evening as
+your INR was noted to be low.  Please follow up with your
+primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] to follow your INR and adjust
+your coumadin dose.  In addition, the Infectious Diseases team
+recommends that you stop taking your HIV medications for now.
+Please follow up with Dr. [**Last Name (STitle) 252**] of Infectious Diseases regarding
+when to resume taking these drugs.
+.
+If you develop worsening headache, dizziness, lightheadedness,
+chest discomfort, palpitations, shortness of breath, or any
+other concerning symptoms, please call your primary care
+physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] at [**Telephone/Fax (1) 19**] or go to the Emergency
+Department.
+
+Followup Instructions:
+Please follow up with Ophthalmology (Eye).  You have an
+[**Telephone/Fax (1) **] for Tuesday, [**3-29**] at 1PM.  Please confirm your
+[**Month (only) **] by calling the clinic at([**Telephone/Fax (1) 4930**].
+.
+Please also follow up with Dr. [**Last Name (STitle) 252**] of Infectious Diseases
+regarding your medications for HIV.  You have an [**Last Name (STitle) **] for
+Tuesday, [**2-8**] at 10AM.  Please confirm your [**Month (only) **]
+by calling the clinic at ([**Telephone/Fax (1) 8411**].
+.
+Please keep the following appointments as well:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **], [**MD Number(3) 3249**]:[**Telephone/Fax (1) 19**]
+Date/Time:[**3403-2-15**] 9:40
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 354**], MD Phone:[**Telephone/Fax (1) 176**]
+Date/Time:[**3403-3-15**] 9:00
+Provider: [**First Name11 (Name Pattern1) 4383**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **], O.D. Phone:[**Telephone/Fax (1) 200**]
+Date/Time:[**3403-3-29**] 1:00
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1984**] MD, [**MD Number(3) 1985**]
+

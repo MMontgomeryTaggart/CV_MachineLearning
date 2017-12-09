@@ -1,0 +1,187 @@
+TITLE:
+   24 Hour Events: [**12-7**]: Opening of abdominal wound.  Held coumadin for
+   INR 5.7. Lactate of 4 unclear etiology.
+   HPI: 67yo man with multiple medical problems including DM type 2, [**Hospital 9947**] mechanical AVR, Ascending aorta repair with graft CAD s/p CABG,hx
+   of VF arrest s/p AICD [**2705**] who presents s/p ileal resection for
+   ischemic bowel secondary to volvulus.  Pt had porlonged SICU stay post
+   operatively due to respiratory failure, and CHF. He was extubated
+   earlier this week after aggressive diueresis.  Pt transferred to the
+   floor.  Pt became increasingly tachypneic with increasing work of
+   breathing.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Linezolid - [**2708-12-7**] 09:16 PM
+   Meropenem - [**2708-12-8**] 12:33 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2708-12-7**] 08:15 AM
+   Lorazepam (Ativan) - [**2708-12-7**] 06:00 PM
+   Morphine Sulfate - [**2708-12-7**] 06:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2708-12-8**] 02:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**10**] AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.4
+C (97.5
+   HR: 72 (61 - 93) bpm
+   BP: 99/47(59) {82/43(55) - 135/70(85)} mmHg
+   RR: 18 (14 - 25) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 114.2 kg (admission): 114 kg
+   Height: 72 Inch
+             Total In:
+                                                                  1,320 mL
+                                                                    220 mL
+   PO:
+                                                                    420 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    900 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  2,690 mL
+                                                                     90 mL
+   Urine:
+                                                                  2,690 mL
+                                                                     90 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,370 mL
+                                                                    130 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: 7.44/47/58/31/6
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), S4
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Percussion: Resonant : ), (Breath Sounds:
+   Crackles : improved from prior exams, at bases, Diminished: bases)
+   Abdominal: Soft, Bowel sounds present, Tender: at inciosion with slight
+   opening of anterior abdominal wound packed with gauze
+   Extremities: Right lower extremity edema: 1+, Left lower extremity
+   edema: 1+
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   163 K/uL
+   9.0 g/dL
+   203
+   0.8 mg/dL
+   31 mEq/L
+   3.9 mEq/L
+   16 mg/dL
+   94 mEq/L
+   132 mEq/L
+   28.8 %
+   5.2 K/uL
+        [image002.jpg]
+                             [**2708-12-5**]  01:26 PM
+                             [**2708-12-6**]  01:41 AM
+                             [**2708-12-6**]  08:00 AM
+                             [**2708-12-6**]  03:00 PM
+                             [**2708-12-7**]  01:54 AM
+                             [**2708-12-7**]  08:00 AM
+                             [**2708-12-7**]  10:46 AM
+                             [**2708-12-7**]  02:00 PM
+                             [**2708-12-7**]  04:06 PM
+                             [**2708-12-7**]  08:00 PM
+   WBC
+   6.5
+   5.2
+   Hct
+   30.4
+   28.8
+   Plt
+   155
+   163
+   Cr
+   0.9
+   1.0
+   0.8
+   0.8
+   TCO2
+   33
+   Glucose
+   66
+   158
+   157
+   147
+   135
+   237
+   184
+   143
+   203
+   Other labs: PT / PTT / INR:51.9/52.1/5.7, CK / CKMB /
+   Troponin-T:22/4/0.15, ALT / AST:18/33, Alk Phos / T Bili:65/0.9,
+   Amylase / Lipase:38/32, Fibrinogen:418 mg/dL, Lactic Acid:4.1 mmol/L,
+   Albumin:2.8 g/dL, LDH:253 IU/L, Ca++:8.2 mg/dL, Mg++:1.8 mg/dL, PO4:1.9
+   mg/dL
+   Imaging: [**12-7**] CXR:Mild-to-moderate pulmonary edema has improved since
+   [**12-5**]
+   Microbiology: [**11-26**] BAL: Negative
+   [**11-28**] C diff neg
+   [**12-2**] Catheter tip neg
+   Assessment and Plan
+   DIABETES MELLITUS (DM), TYPE I, PULMONARY EDEMA, .H/O VALVE
+   REPLACEMENT, AORTIC MECHANICAL (AVR), HYPERNATREMIA (HIGH SODIUM),
+   ELECTROLYTE & FLUID DISORDER, OTHER, RESPIRATORY FAILURE, ACUTE (NOT
+   ARDS/[**Doctor Last Name **]), FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN),
+   HYPOTENSION (NOT SHOCK), HYPERGLYCEMIA, AIRWAY, INABILITY TO PROTECT
+   (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH), ABDOMINAL
+   PAIN (INCLUDING ABDOMINAL TENDERNESS)
+   67yo M with multiple chronic illnesses including CAD s/p CABG,
+   mechanical aortic valve, T2DM, h/o Vfib arrest s/p ICD placement p/w
+   bowel ischemia, s/p small bowel resection [**2708-11-19**]. Course complicated
+   by flash pulmonary edema s/p NSTEMI.
+   .
+   Neurologic: old L frontal stroke, no active issue AOX3 Oxycodone prn
+   for pain, morphine for breakthrough.
+   CVS: cardiogenic pulmonary edema, mechanical AV, poor EF10-15%
+   anticoagulate PTT 50-70 and bridge to Coumadin 5q day (hold dose today
+   given INR 5.7), Lasix to 60BID, carvedilol 15 [**Hospital1 **]
+   Pulm: linezolid and meropenem ([**Date range (1) 11143**]) for MRSA and GNR in sputum.
+   Pulmonary edema resolving continue Lasix [**Hospital1 **]; Bipap at night, restarted
+   ace-i, aldactone. Pulm consult if tx to floor w cpap.
+   GI: Elevated lactate 4 unknown etiology hisotry of  slow GIB, no scope
+   per primary team, daily hct,guiac stools
+   Hematology: heparin gtt for mech valve, bridge to Coumadin (held dose
+   [**12-7**] for INR 5.7) goal INR 2.5
+   Renal: AUOP
+   Endocrine: lantus + ISS
+   ID: linezolid + [**Last Name (un) 411**] for MRSA PNA and GNR ([**Date range (1) 11143**])
+   TLD: PICC, foley
+   Fluids:  HL
+   Billing Diagnosis: SIRs, ischemic bowel, CHF
+   ICU Care
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2708-12-5**] 08:08 AM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:Transfer to floor
+   Total time spent: 34 minutes
+   Patient is critically ill
