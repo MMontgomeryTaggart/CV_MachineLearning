@@ -1,0 +1,217 @@
+Chief Complaint:
+   24 Hour Events:
+ BLOOD CULTURED - At [**3288-7-23**] 10:59 AM
+   via picc and peripheral stick
+ NON-INVASIVE VENTILATION - STOP [**3288-7-23**] 01:09 PM
+ NON-INVASIVE VENTILATION - START [**3288-7-23**] 07:00 PM
+   PT WS ALREADY ON THESE SETTING AT START OF SHIFT
+ URINE CULTURE - At [**3288-7-23**] 10:00 PM
+ FEVER - 101.2
+F - [**3288-7-23**] 08:00 PM
+   Insulin drip improved to 7units/hr with glucose of 120
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**3288-7-21**] 02:42 PM
+   Vancomycin - [**3288-7-23**] 08:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3288-7-24**] 12:00 AM
+   Infusions:
+   Insulin - Regular - 7 units/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3288-7-24**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3288-7-24**] 06:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.2
+   Tcurrent: 38
+C (100.4
+   HR: 102 (98 - 123) bpm
+   BP: 134/73(88) {95/50(63) - 151/89(100)} mmHg
+   RR: 18 (18 - 31) insp/min
+   SpO2: 91%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 74 Inch
+             Total In:
+                                                                  4,313 mL
+                                                                    935 mL
+   PO:
+             TF:
+                                                                  2,040 mL
+                                                                    520 mL
+   IVF:
+                                                                  1,793 mL
+                                                                    205 mL
+   Blood products:
+   Total out:
+                                                                  1,450 mL
+                                                                    230 mL
+   Urine:
+                                                                  1,450 mL
+                                                                    230 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,863 mL
+                                                                    705 mL
+   Respiratory support
+   O2 Delivery Device: CPAP mask
+   SpO2: 91%
+   ABG: 7.48/39/75//5
+   PaO2 / FiO2: 125
+   Physical Examination
+   Gen: Sleeping but easily arousable
+   HEENT: MMM
+   Heart: RRR, no m,r,g
+   Lungs: CTA
+   Abdomen: Soft, NT, morbidly obese
+   Extremities: Warm, well perfused
+   Labs / Radiology
+   236 K/uL
+   13.9 g/dL
+   264 mg/dL
+   0.8 mg/dL
+   28 mEq/L
+   3.8 mEq/L
+   16 mg/dL
+   99 mEq/L
+   137 mEq/L
+   41.5 %
+   9.6 K/uL
+        [image002.jpg]
+                             [**3288-7-18**]  05:14 AM
+                             [**3288-7-19**]  04:37 AM
+                             [**3288-7-20**]  02:03 AM
+                             [**3288-7-20**]  01:26 PM
+                             [**3288-7-21**]  03:09 AM
+                             [**3288-7-21**]  06:00 AM
+                             [**3288-7-22**]  04:03 AM
+                             [**3288-7-23**]  03:32 AM
+                             [**3288-7-23**]  10:07 AM
+                             [**3288-7-24**]  04:58 AM
+   WBC
+   6.1
+   7.0
+   6.7
+   9.6
+   10.1
+   8.2
+   9.6
+   Hct
+   39.5
+   41.9
+   42.0
+   43.3
+   44.6
+   43.7
+   41.5
+   Plt
+   [**Telephone/Fax (3) **]74
+   277
+   266
+   236
+   Cr
+   0.7
+   0.6
+   0.7
+   0.7
+   0.6
+   0.8
+   TCO2
+   25
+   30
+   Glucose
+   174
+   234
+   240
+   272
+   250
+   305
+   264
+   Other labs: PT / PTT / INR:13.9/25.2/1.2, Amylase / Lipase:/23,
+   Differential-Neuts:63.6 %, Band:0.0 %, Lymph:24.9 %, Mono:8.7 %,
+   Eos:2.2 %, Lactic Acid:2.1 mmol/L, Ca++:9.1 mg/dL, Mg++:2.2 mg/dL,
+   PO4:2.9 mg/dL
+   Vanc level: 6.4
+   Assessment and Plan
+   Mr. [**Known patient lastname 3895**] is a 55M who presents with AMS found to have multiple CVAs
+   #) CVA: Bilateral thalamic infarcts and R pontine infarct.  Likely
+   reason for his somnolence and persistent R sided weakness.
+   -Continue ASA, statin
+   - f/u Neuro recs
+   #)DM: Difficult to control, with some improvement overnight
+   -- Continue insulin gtt and NPH 100 units [**Hospital1 **]
+   #) Fevers/SOB: Started on Vancomycin and Zosyn for HAP. He spiked
+   overnight again, vanc level sub therapeutic
+   -- Surveillance cultures
+   -- Continued Vanc/Zosyn, adjust dose of Vanc to 1000mg Q8H
+   -- Keep sacro-iliitis in differential diagnosis
+   -- Would also consider possible reaction to drugs given question of
+   rash to ceftriaxone
+   -- Would also consider possibility of PE given sinus tachycardia and
+   fever
+   #) HTN: Continue to titrate Captopril
+   #) OSA: Continue auto-CPAP
+   ICU Care
+   Nutrition:
+   Replete (Full) - [**3288-7-23**] 02:05 PM 85 mL/hour
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3288-7-21**] 06:08 PM
+   PICC Line - [**3288-7-22**] 10:02 AM
+   Prophylaxis:
+   DVT: SC Heparin
+   Stress ulcer: n/a
+   VAP:  n/a
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 55M DM, HTN, OSA and multiple CVAs c/b
+   altered mental status, fevers likely [**1-17**] HAP, and poor glycemic
+   control, now on high dose insulin drip  with new PICC line.
+   Overnight events : Pan cx for repeat spike to 101.2. Bolus 500 cc x 1
+   for tachycardia with fever. Increased NPH to 80 [**Hospital1 **] and getting 7 units
+   hr of IV insulin
+   Exam notable for Tm 101.2 BP 120-150/50 HR 90-110 RR 18 with sat 97% on
+   CPAP.  JVD 6cm, lungs with distant BS, RRR s1s2. Abd soft, + BS, mild
+   to mod pedal edema. Hemiplegia RUE >RLE.
+   Labs notable for WBC 8K, HCT 44%, Cr 0.8, FSG 158. VBG 7.45/ PvCo2 44
+   CXR with decreased RLL infiltrate
+   Fevers: Agree with plan to continue antibiotics for likely
+   HAP/aspiration with close monitoring of respiratory status and CPAP
+   O/N. Vanco has been subtherapuetic, adjust dose to 1OOO TID and repeat
+   levels. Other possible sources would be prostatitis
+ given pelvic
+   adenopathy on MRI and + UA, sinusitis, sacro- ilitis.  Start with
+   getting Vanco in proper range but if persistent spikes may need repeat
+   imaging.
+   Glycemic control: Will continue CZI gtt while on TFs and increase NPH
+   to 100 [**Hospital1 **] given poor glycemic control, get [**Last Name (un) 257**] consult today to
+   assist with very difficult glycemic control.
+   Neuro: Will continue ASA / lipitor s/p CVA; neuro following. Mental
+   status waxes and wanes.
+   Resp: ABGs have previously reflected good gas exchange; OSA has been
+   controlled with autoset CPAP at 8-15 overnight. VBG stable.
+   Patient is critically ill.
+   Total time: 45 minutes.
+   Addendum: extopy at 10:30 AM with frequent PVCs. Stat K and Mg. Check
+   12 lead ecg and cycle enzymes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1828**] [**Last Name (NamePattern1) 1829**], MD
+   on:[**3288-7-24**] 10:58 ------
+
+
+DOC CLASS

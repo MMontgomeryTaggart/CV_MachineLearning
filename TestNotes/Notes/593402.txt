@@ -1,0 +1,198 @@
+Chief Complaint: acute on chronic diastolic CHF, pulm HTN
+   24 Hour Events:
+   -records from PCP reflect therapeutic INR while on coumadin for PE;
+   however Afib reportedly new
+   -goal pre-transplant mean PAP < 35 mmHg per Dr. [**Last Name (STitle) **]
+   [**Name (STitle) 5564**] lasix 20/40/40 IV with 2850 cc UOP  (-1800 cc balance)
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown; Hives;
+   Cardizem (Oral) (Diltiazem Hcl)
+   Unknown; Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3221-6-9**] 09:00 PM
+   Other medications:
+   Changes to medical and family history: n/a
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: c/o nausea, 2 episodes brown, non-bloody emesis O/N
+   attributed to dinner
+not agreeing with me;
+ now feels fine; no f/c,
+   abd pain, diarrhea, melena, hematochezia
+   Flowsheet Data as of  [**3221-6-10**] 07:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 37.5
+C (99.5
+   HR: 76 (69 - 90) bpm
+   BP: 112/74(83) {96/63(75) - 132/85(119)} mmHg
+   RR: 20 (16 - 27) insp/min
+   SpO2: 91%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 75 Inch
+    CVP: 8 (-5 - 16)mmHg
+   PAP: (62 mmHg) / (31 mmHg)
+   CO/CI (Fick): (6.2 L/min) / (2.9 L/min/m2)
+   Mixed Venous O2% Sat: 71 - 71
+   Total In:
+                                                                  1,732 mL
+                                                                    178 mL
+   PO:
+                                                                    900 mL
+   TF:
+   IVF:
+                                                                    832 mL
+                                                                    178 mL
+   Blood products:
+   Total out:
+                                                                  3,350 mL
+                                                                    340 mL
+   Urine:
+                                                                  2,850 mL
+                                                                    340 mL
+   NG:
+                                                                    500 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,618 mL
+                                                                   -162 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 91%
+   ABG: ///27/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   156 K/uL
+   14.5 g/dL
+   97 mg/dL
+   1.6 mg/dL
+   27 mEq/L
+   3.7 mEq/L
+   18 mg/dL
+   103 mEq/L
+   141 mEq/L
+   40
+   11.6 K/uL
+        [image002.jpg]
+                             [**3221-6-8**]  03:50 AM
+                             [**3221-6-8**]  04:14 AM
+                             [**3221-6-8**]  11:49 AM
+                             [**3221-6-8**]  02:38 PM
+                             [**3221-6-8**]  11:11 PM
+                             [**3221-6-9**]  04:23 AM
+                             [**3221-6-9**]  04:53 AM
+                             [**3221-6-9**]  02:10 PM
+                             [**3221-6-10**]  03:59 AM
+                             [**3221-6-10**]  04:28 AM
+   WBC
+   6.8
+   8.1
+   11.6
+   Hct
+   42.5
+   44
+   45
+   44
+   44.8
+   47
+   43.7
+   40
+   Plt
+   180
+   162
+   156
+   Cr
+   1.5
+   1.6
+   1.5
+   1.6
+   1.6
+   Glucose
+   97
+   107
+   119
+   128
+   97
+   Other labs: PT / PTT / INR:23.7/150.0/2.3, Differential-Neuts:58.3 %,
+   Lymph:30.8 %, Mono:7.5 %, Eos:2.5 %, Ca++:7.4 mg/dL, Mg++:1.7 mg/dL,
+   PO4:2.6 mg/dL
+   Assessment and Plan
+   53 M h/o cryptogenic cirrhosis awaiting transplant, portal HTN, pulm
+   HTN, chronic diastolic dysfunction, PE and Afib on coumadin admitted
+   for elective RHC demonstrating acute on chronic LV diastolic CHF and
+   pulmonary hypertension.
+   .
+   #Acute on chronic diastolic CHF: negative 2.4L LOS; PAD improving with
+   diuresis and afterload reduction but not yet optimal; borderline low CI
+   and elev. SVR may suggest need for further afterload reduction
+   -cont diuresis to goal PAD 21-23 mmHg (PCWP 16-18 mmHg)
+   -assess wedge today
+   -goal -1 L today
+   -incr. captopril prn for improved afterload reduction
+   .
+   #Pulm HTN
+ PAD remain elevated due to left-sided CHF; not
+   NO-responsive per cath [**3221-4-5**]
+   -cont amlodipine although not likely to produce substantial response
+   given lack of vasodilator responsive
+   -treat left-sided CHF, as above
+   .
+   #DVT/PE
+   -resume heparin for subtherapeutic INR
+   -cont coumadin goal INR [**3-16**]
+   .
+   #Afib
+ rate well-controlled, however he would benefit from being in
+   NSR with improved cardiac filling from atrial kick
+   -obtain OSH information re:duration of afib and anti-coagulation
+   -cont heparin/coumadin
+   -cont lopressor
+   .
+   #Cirrhosis - awaiting transplant. Will discuss with transplant team
+   re:appropriate parameters that would be acceptable for surgical
+   intervention
+   -continue rifaxamin, lactulose
+   .
+   #HTN: well-controlled
+   -continue BB, CCB
+   .
+   #FEN: low Na diet; replete lytes prn
+   .
+   #Access:  PIV; Swan
+   .
+   #PPx:  PPI, bowel regimen, systemic AC
+   .
+   #. Emergency contact: sister [**Name (NI) **] [**Telephone/Fax (1) 5518**]
+   .
+   #. Code: FULL
+   .
+   #. Dispo: CCU for hemodynamic monitoring while swan in place
+   ICU Care
+   Nutrition: low Na diet
+   Glycemic Control:
+   Lines:
+   PA Catheter - [**3221-6-7**] 10:30 AM
+   20 Gauge - [**3221-6-7**] 11:00 AM
+   Prophylaxis:
+   DVT: systemic AC
+   Stress ulcer: PPI
+   Communication:  sister [**Name (NI) **] [**Telephone/Fax (1) 5518**]
+   [**Name2 (NI) 127**] status: FULL
+   Disposition: CCU for hemodynamic monitoring while swan in place
+
+
+DOC CLASS

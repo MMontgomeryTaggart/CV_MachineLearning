@@ -1,0 +1,162 @@
+TSICU
+   HPI:
+   83M s/p [**2578**]4 hours ago.  He was ambulating with his
+   walker when he lost his balance and fell hitting the left side of
+   his chest on the edge of a table or chair.  No LOC, he remembers the
+   event.  He felt well until today when he felt very lethargic and
+   tired.  He called his PCP who told him to go to the ED to be
+   evaluated.  He does report left sided chest pain similar to his
+   angina symptoms and shortness of breath.  He does have a history
+   of recent falls so he has stopped taking his coumadin.  In the ED he
+   received nitroglycerin SL 0.4 mg x 3, and zofran 4 mg IV x 1, as well
+   as 1 unit pRBCs.
+   Injuries:
+   Small hemoperitoneum overlying liver
+   Left sided rib fx, 11, 10, 9, 8th
+   2 arterially enhancing foci in spleen
+   Chief complaint:
+   s/p fall
+   PMHx:
+   OA, CAD, CHF (EF 35-40%), pulmonary HTN, a-fib, HTN, hyperlipidemia,
+   anemia (baseline hct 28-30), prostate cancer s/p XRT, h/o C.diff in
+   [**2575**]
+   PSH: CABG '[**58**] with multiple stents (last in [**2574**]), Left hip surgery,
+   s/p TURP
+   Current medications:
+   Calcium Gluconate 3. Famotidine 4. Insulin 5. Magnesium Sulfate 6.
+   Metoprolol Tartrate
+   7. Morphine Sulfate 8. Potassium Chloride 9. Potassium Phosphate
+   24 Hour Events:
+   Allergies:
+   Ticlid (Oral) (Ticlopidine Hcl)
+   melena;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   hx of causing g
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2578-11-27**] 08:30 PM
+   Midazolam (Versed) - [**2578-11-27**] 09:27 PM
+   Other medications:
+   Flowsheet Data as of  [**2578-11-28**] 01:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**81**] a.m.
+   Tmax: 35.9
+C (96.6
+   T current: 35.6
+C (96.1
+   HR: 82 (81 - 103) bpm
+   BP: 123/52(71) {115/50(71) - 126/66(81)} mmHg
+   RR: 20 (13 - 23) insp/min
+   SPO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 69 Inch
+             Total In:
+                                                                  2,270 mL
+                                                                     45 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    313 mL
+                                                                     45 mL
+   Blood products:
+                                                                    657 mL
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,270 mL
+                                                                     45 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///21/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), TTP over L lower chest wall
+   Abdominal: slightly distended, firm.  Ecchymosis over L flank
+   Left Extremities: (Edema: Absent), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Present)
+   Skin: pale
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   213 mg/dL
+   1.2 mg/dL
+   21 mEq/L
+   4.0 mEq/L
+   30 mg/dL
+   108 mEq/L
+   139 mEq/L
+   26.6 %
+        [image002.jpg]
+                            [**2578-11-27**]  06:47 PM
+   Hct
+   26.6
+   Creatinine
+   1.2
+   Troponin T
+   0.14
+   Glucose
+   213
+   Other labs: PT / PTT / INR:13.6/20.9/1.2, CK / CK-MB / Troponin
+   T:166/10/0.14, Ca:8.2 mg/dL, Mg:1.9 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING), TRAUMA,
+   S/P
+   Assessment and Plan: 83 yo man s/p fall w/ L rib fx and active splenic
+   extrav, s/p coiling and transfusion.
+   Neurologic: NEURO: Alert, oriented x 3, MAE
+   Neuro checks Q: 4 hr
+   Pain: Morphine prn
+   Cardiovascular: Pt c/o CP in ED, EKG with new V2-V6 T-wave inversions.
+   Rec'd ntg x 3, trop elevated to 0.14, not cantidate for anticoagulation
+   given active bleeding, on metoprolol 5 mg IV q6.  Needs cards consult
+   per primary team.
+   Pulmonary: Multiple rib fx, not complaining of pain, incentive
+   spirometer, O2 NC prn
+   Gastrointestinal / Abdomen: NPO for now, consider diet in AM.
+   Nutrition: NPO
+   Renal: LR @ 50/hr, low UOP in condom cath but appears to have urine in
+   bladder.  Plan to place foley after returns from IR, Cr 1.4 -> 1.2.
+   Hematology: Baseline Hct 28-30, initial hct in ED 20.5.  Rec'd total of
+   4 units of pRBCs.  T&C x 4.  q 4 hr hct, goal hct > 25 for now.  Plan
+   to also tx FFP if reqires additional blood.
+   Endocrine: RISS
+   Infectious Disease: afebrile, no abx.
+   Lines / Tubes / Drains: PIV x 2, foley
+   Wounds:
+   Imaging: CXR today
+   Fluids: LR @ 50/hr
+   Consults: trauma surgery, cardiology
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2578-11-27**] 06:23 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: ICU consent signed Comments: Full code, DNR/DNI is on
+   hold for acute illness.
+   Code status: Full code
+   Disposition: ICU
+   Total time spent:
+
+
+DOC CLASS

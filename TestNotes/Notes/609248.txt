@@ -1,0 +1,242 @@
+CVICU
+   HPI:
+   HD16
+   [**7-1**] POD 14
+   73M s/p urgentCABG x 3(LIMA-LAD,SVG-OM2,SVG-PDA)/AVR(21mm CE Magna)/
+   MVR(27mm Mosaic [**Company 1958**] Porcine) [**6-17**]
+   CEFTRIAXONE - uti F/u SENSITIVES
+   EF:55%, Cr:0.9 , wt:128 kgs, HbA1c: 7.1
+   PMH: DM2, ^chol, Depression, osteoarthritis, Prostate CA,Obesity
+   PSH: Bilat TKR, ORIF Rt femur [**2635-2-18**], Appy, lft shoulder surgery,
+   TURP
+   [**Last Name (un) **]: Metformin 1000", Lisinopril 20', Atorvastatin 80', HCTZ25', Cartia
+   XR 300', Ambien 10-hs, Paxil 40', Lorazepam 0.5 TID/prn, MVI,
+   Glucosamine, Oxycodone 5 Q3hr/prn, Enoxaparin 30", colace 100", Senna
+   8.6", CaCarbonate 500-tid, VitD
+   Current medications:
+   Acetaminophen, Albumin 25% (12.5g / 50mL), Amiodarone, Argatroban,
+   Aspirin,  Docusate Sodium, Erythromycin 0.5% Ophth Oint, Insulin,
+   Metoprolol Tartrate,  Metolazone, Paroxetine, Ranitidine
+   24 Hour Events:
+   -          Lasix gtt stopped yesterday as pt >2 L negative
+   -          RUQ u/s performed w/o acute pathology
+   -          Remains on Argatroban, therapeutic
+   -          PICC placed
+   -          R IJ CVL removed, tip sent for cx
+   -          Overnight feet noted to be cooler than previously noted with
+   some mottling noted, with R palp DP and L dopplerable DP (previously
+   both had been palpable)
+                  Weaned CPAP yesterday
+ URINE CULTURE - At [**2635-6-30**] 08:03 AM
+ ULTRASOUND - At [**2635-6-30**] 08:38 AM
+   abdominal ultrasound
+ PICC LINE - START [**2635-6-30**] 06:00 PM
+   Basilic
+ MULTI LUMEN - STOP [**2635-6-30**] 09:52 PM
+ URINE CULTURE - At [**2635-7-1**] 05:38 AM
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Argatroban - 2.75 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**2635-7-1**] 03:30 AM
+   Metoprolol - [**2635-7-1**] 05:35 AM
+   Other medications:
+   Flowsheet Data as of  [**2635-7-1**] 05:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**38**] a.m.
+   Tmax: 38.2
+C (100.8
+   T current: 37.7
+C (99.8
+   HR: 107 (93 - 118) bpm
+   BP: 115/66(80) {94/50(62) - 127/69(87)} mmHg
+   RR: 25 (18 - 33) insp/min
+   SPO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 150.7 kg (admission): 129 kg
+   Height: 70 Inch
+   CVP: 17 (9 - 21) mmHg
+   Total In:
+                                                                  1,046 mL
+                                                                    394 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                    616 mL
+                                                                    174 mL
+   Blood products:
+                                                                    100 mL
+                                                                    100 mL
+   Total out:
+                                                                  4,800 mL
+                                                                    785 mL
+   Urine:
+                                                                  4,800 mL
+                                                                    785 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,754 mL
+                                                                   -391 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 451 (398 - 477) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 28
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 61
+   PIP: 23 cmH2O
+   SPO2: 98%
+   ABG: 7.45/43/108/28/4
+   Ve: 10.6 L/min
+   PaO2 / FiO2: 216
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese, Intubated
+   HEENT: PERRL, Anicteric, left eye with erythema and drainage
+ started
+   on erythromycin ointment
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: bases B)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   Obese, Flexiseal in place, stooling
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Non-palpable, + doppler), PT dopplerable
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), PT dopplerable
+   Skin: Rash: R lateral neck, (Incision: Clean / Dry / Intact), Knee skin
+   tears from tape, covered with Xeroform; L foot skin mottled, cap refill
+   >5 secs
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities
+   Labs / Radiology
+   166 K/uL
+   9.9 g/dL
+   75 mg/dL
+   2.1 mg/dL
+   28 mEq/L
+   3.7 mEq/L
+   87 mg/dL
+   105 mEq/L
+   144 mEq/L
+   29.6 %
+   16.3 K/uL
+        [image002.jpg]
+                             [**2635-6-29**]  02:35 PM
+                             [**2635-6-29**]  05:16 PM
+                             [**2635-6-30**]  03:17 AM
+                             [**2635-6-30**]  03:46 AM
+                             [**2635-6-30**]  09:34 AM
+                             [**2635-6-30**]  11:33 AM
+                             [**2635-6-30**]  01:59 PM
+                             [**2635-6-30**]  04:25 PM
+                             [**2635-7-1**]  01:09 AM
+                             [**2635-7-1**]  01:13 AM
+   WBC
+   16.4
+   16.3
+   Hct
+   29.6
+   30.2
+   29.6
+   Plt
+   133
+   166
+   Creatinine
+   2.7
+   2.4
+   2.0
+   2.1
+   TCO2
+   29
+   29
+   29
+   22
+   31
+   31
+   Glucose
+   118
+   95
+   75
+   Other labs: PT / PTT / INR:34.9/71.9/3.7, ALT / AST:195/105, Alk-Phos /
+   T bili:70/1.5, Amylase / Lipase:221/246, Differential-Neuts:85.4 %,
+   Band:0.0 %, Lymph:8.1 %, Mono:4.3 %, Eos:1.9 %, Fibrinogen:280 mg/dL,
+   Lactic Acid:1.2 mmol/L, Albumin:3.7 g/dL, LDH:409 IU/L, Ca:8.7 mg/dL,
+   Mg:2.6 mg/dL, PO4:3.9 mg/dL
+   Imaging: ultrasound - 1. No gallstones and no biliary obstruction
+   identified. The pancreas was not
+   visualized due to the patient's surgical incision.
+   2. 1 cm non-obstructing right renal stone.
+   3. Large bilateral pleural effusions. No ascites identified.
+   CXR atelectasis and bilateral effusion L>R
+   Microbiology: all pending or no growth to date except previous UTI that
+   was treated and yeast in sputum no intervention
+   Assessment and Plan
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**]), CORONARY ARTERY BYPASS GRAFT
+   (CABG), VALVE REPLACEMENT, MITRAL MECHANICAL (MVR), VALVE REPLACEMENT,
+   AORTIC MECHANICAL (AVR)
+   Assessment and Plan: 73M s/p urgent CABG x
+   3(LIMA-LAD,SVG-OM2,SVG-PDA)/AVR(21mm CE Magna)/ MVR(27mm Mosaic
+   [**Company 1958**] Porcine) [**6-17**], course complicated by thrombocytopenia,
+   respiratory failure, and difficulty weaning from ventilator
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Mental status
+   continues to improve, Using small dose morphine only as needed, with
+   good effect.
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Stopped
+   statin [**2-23**] elevated LFTs, ? drug-induced cholestasis. Back in AF this
+   AM, restart Amio gtt for rhythm control. Noted to have cooler L foot
+   with previously palp DP now dopplerable in that foot, with some
+   mottling, possibility of embolic event in setting of pAF although pt
+   has been anticoagulated on Argatroban and therapeutic; follow q2H pulse
+   checks, Vascular consulted.
+   Pulmonary: Cont ETT, Spontaneous breathing trial, (Ventilator mode:
+   CPAP + PS), Currently on PS [**5-29**] 50% this AM, with adequate ABG; RSBI 61
+   this AM, plan for trial of extubation this AM.
+   Gastrointestinal / Abdomen: Dobhoff in place. LFTs, [**Doctor First Name **]/lipase had been
+   elevated, now trending down. RUQ u/s w/o acute pathology. Abd is
+   completely non-tender to palpation. LFTs trending down, will follow.
+   Hold TF in anticipation of extubation this AM, if [**Doctor First Name **]/lip continue to
+   decrease, resume TF tomorrow.
+   Nutrition: NPO in setting of [**Doctor First Name **]/lip elevation, extubation.
+   Renal: Foley, Adequate UO, diuresed well yesterday, Lasix gtt stopped,
+   continue Metolazone, Lasix x 1 this AM. Creat stabilized 2.1. Goal 1 L
+   negative today. Check PM lytes.
+   Hematology: Stable anemia. PLTs improving daily. Serotonin assay
+   POSITIVE for HIT. Continue Argatroban. Once  successfully extubated,
+   start coumadin, otherwise if needs trach hold on coumadin.
+   Endocrine: RISS, Stopped Lantus [**2-23**] NPO status.
+   Infectious Disease: Continues with WBC count but appears stable,
+   afebrile, CVL tip cx pending, Urine cx pending. No indication for abx
+   at this time, will f/u cx results, pan-culture if spikes..
+   Lines / Tubes / Drains: Foley change, Dobhoff, Pacing wires, PICC.
+   Wounds: Dry dressings
+   Imaging: None.
+   Fluids: KVO
+   Consults: Nephrology, P.T., Nutrition, Vascular
+   ICU Care
+   Nutrition:
+   Comments: NPO for now
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2635-6-17**] 07:25 PM
+   PICC
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Argatroban (TM))
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments: Daily wake-up: NOT on sedation.
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

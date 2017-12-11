@@ -1,0 +1,257 @@
+Chief Complaint: multifocal pneumonia
+   24 Hour Events:
+   -renal ultrasound negative for hydro
+   -prelim CT torso reveals worsening multifocal pneumonia, no change in
+   abd/pelvis
+   -multiple attempts at R and L radial a lines and L DP aline failed
+   -empiric treatment of C diff started as WBC climbed to 40, PR and PO
+   vanc as well as IV flagyl, C diff ordered
+   -diagnositic para performed with 300 wbcs and 66% polys
+   -vanc levle ordered for a.m.
+   -sc heparin continued as hct imporoved from 25 to 27
+   -albumin discontinued
+   History obtained from Medical records
+   Allergies:
+   History obtained from Medical recordsHaldol (Oral) (Haloperidol)
+   Confusion/Delir
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Vancomycin - [**3209-5-17**] 09:00 PM
+   Ampicillin - [**3209-5-18**] 06:00 AM
+   Piperacillin - [**3209-5-19**] 12:00 AM
+   Meropenem - [**3209-5-19**] 06:07 PM
+   Metronidazole - [**3209-5-19**] 11:36 PM
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Norepinephrine - 0.3 mcg/Kg/min
+   Vasopressin - 2.4 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3209-5-19**] 08:30 PM
+   Heparin Sodium (Prophylaxis) - [**3209-5-19**] 11:36 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3209-5-20**] 06:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 36.2
+C (97.2
+   HR: 98 (72 - 99) bpm
+   BP: 122/53(70) {90/44(57) - 133/59(72)} mmHg
+   RR: 23 (14 - 27) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+             Total In:
+                                                                  3,330 mL
+                                                                    733 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,330 mL
+                                                                    733 mL
+   Blood products:
+   Total out:
+                                                                    542 mL
+                                                                    193 mL
+   Urine:
+                                                                    442 mL
+                                                                    143 mL
+   NG:
+                                                                    100 mL
+   Stool:
+   Drains:
+   50 mL
+   Balance:
+                                                                  2,788 mL
+                                                                    540 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 599 (468 - 812) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 23
+   PEEP: 10 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10, FiO2 > 60%
+   PIP: 26 cmH2O
+   SpO2: 94%
+   ABG: 7.30/41/43/19/-5
+   Ve: 14 L/min
+   PaO2 / FiO2: 72
+   Physical Examination
+   GEN: sedated and intubated
+   HEENT: sluggish dilated 4mm L pupil, R pupil is reactive, bilateral
+   corneal reflexes
+   CHEST: CTAB no w/r/r anteriorly
+   CV: RRR, nl S1, S2, no m/r/g
+   ABD: NDNT, soft, NABS
+   EXT: [**12-19**]+ pitting edema to knees bilaterally
+   Labs / Radiology
+   182 K/uL
+   8.8 g/dL
+   87 mg/dL
+   2.0 mg/dL
+   19 mEq/L
+   4.5 mEq/L
+   41 mg/dL
+   108 mEq/L
+   140 mEq/L
+   27.1 %
+   32.4 K/uL
+        [image002.jpg]
+                             [**3209-5-18**]  03:28 AM
+                             [**3209-5-18**]  11:26 AM
+                             [**3209-5-18**]  04:32 PM
+                             [**3209-5-19**]  12:14 AM
+                             [**3209-5-19**]  04:13 AM
+                             [**3209-5-19**]  04:27 AM
+                             [**3209-5-19**]  06:30 AM
+                             [**3209-5-19**]  02:13 PM
+                             [**3209-5-19**]  10:21 PM
+                             [**3209-5-20**]  03:44 AM
+   WBC
+   17.6
+   26.3
+   37.2
+   40.0
+   32.4
+   Hct
+   32.2
+   31.3
+   25.9
+   27.3
+   27.1
+   Plt
+   185
+   192
+   174
+   185
+   182
+   Cr
+   1.8
+   2.2
+   2.3
+   2.2
+   2.0
+   TCO2
+   21
+   22
+   22
+   22
+   21
+   Glucose
+   66
+   25
+   68
+   58
+   87
+   Other labs: PT / PTT / INR:22.2/51.9/2.1, CK / CKMB /
+   Troponin-T:177/5/, ALT / AST:39/73, Alk Phos / T Bili:130/7.5,
+   Differential-Neuts:78.0 %, Band:9.0 %, Lymph:5.0 %, Mono:3.0 %, Eos:1.0
+   %, Fibrinogen:219 mg/dL, Lactic Acid:3.3 mmol/L, LDH:301 IU/L, Ca++:8.3
+   mg/dL, Mg++:1.9 mg/dL, PO4:5.1 mg/dL
+   Assessment and Plan
+   58 y/o M with history of ETOH cirrhosis c/b encephalopathy, ascites and
+   portal gastropathy with recent UGIB.  Found today to be apneic with
+   respiratory arrest and likely aspiration s/p intubation and transferred
+   to the MICU.
+   # Resp. failure:  Most likely etiology is aspiration event and
+   subsequent respiratory arrest given patient was found in vomitus and
+   gastric contents suctioned post-extubation.  CXR slightly improved but
+   may be due to increased PEEP.  Was already being treated for possible
+   asp. PNA with vanc/meropenem (day 1 [**5-19**] of [**Last Name (un) 411**]) x 10 days, day 1
+   [**5-11**].  Unfortunately ABG was unable to be obtained during code so
+   unclear how hypoxic patient was, however oxygenating well currently.
+   - Continue vancomycin / meropenem
+   - Change to dexmedetomidine for sedation
+   - Wean vent as tolerated
+   - Daily wake-up, RSBI
+   - check ABG after A-line placement
+   - f/u sputum culture
+   # Leukocytosis: with bandemia.  Consider aspiration pneumonia, SBP,
+   intraabdominal abscess, translocation of gut flora due to ileus,
+   c.difficile
+   - f/u culture data
+   - pan culture today
+   - send c. diff today
+   - continue current abx
+   - add po vancomycin and IV flagyl for empiric C. difficile
+   - diagnostic para today
+   - CT chest/abdomen/pelvis today with po/PR contrast
+   # Hypotension
+   [**Month (only) 56**] in part relate to sedatives. Sepsis also clearly a concern.
+   - Antibiotics as above
+   - Changing to dexmedetomidine
+   - CVL to better measure CVP
+   - Cont. pressors
+   # ARF: DDx includes pre-renal from overdiuresis, ATN from hypotension.
+   Given cirrhosis must also consider hepatorenal syndrome or abdominal
+   compartment syndrome.
+   - f/u renal U/S
+   - Hold diuretics
+   - if renal function worsens, continue to check bladder pressures
+   - f/u urine lytes
+   - Follow Cr/urine output
+   - Talk with renal re ?midodrine and octreotide
+   - d/c standing albumin (less likely HRS)
+   # Anemia: on [**5-6**] showed severe portal gastropathy and grade II
+   varices. The patient is s/p banding x4. Hct 26 down from low 30s on
+   admission.  [**Month (only) 56**] be dilutional vs. hemolysis vs. slow UGIB
+   - urine hemosiderin if hapto low
+   - f/u hemolysis labs today
+   - active T&S
+   - transfuse
+   - IV PPI
+   - check 1 PM Hct
+   - ? octreotide if 1 PM Hct does not remain stable
+   - d/c SQ heparin if 1 PM Hct low
+   - transfuse for Hct <23 or active bleeding
+   #. Ileus: Diagnosed on CT.  Decompressed with NGT and had resolved on
+   recent KUB which was negative for obstruction.  Abdomen mote tense and
+   tympanic today concerning for obstruction. [**Month (only) 56**] have been inciting event
+   for aspiration on the floor.
+   - surgery following, appreciate their input
+   - OG tube to low wall suction
+   - NPO
+   - CT abd/pelvis with po/PR contrast
+   # EtoH Cirrhosis: Complicated by encephalopathy, ascites, varices with
+   recent UGIB.  LFTs improving. Encephalopathy management as above.
+   - hold lasix/spironolactone given borderline BPs
+   - cont Pentoxifylline
+   - cont to trend LFTs
+   # Hepatic Encephalopathy: Mental status was stable on floor, slowly
+   improving. Lactulose was restarted, no stools here.
+   - change to lactulose enemas
+   - cont rifaxamin
+   - d/c standing albumin
+   # Coagulopathy: INR stable at 1.9 Secondary to EtOH cirrhosis. No signs
+   of bleeding.
+   - Trend coags
+   # Diabetes type II:
+   - continue home insulin regimen
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3209-5-17**] 07:48 PM
+   Multi Lumen - [**3209-5-18**] 03:35 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

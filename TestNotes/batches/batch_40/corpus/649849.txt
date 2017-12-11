@@ -1,0 +1,251 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**12-4**]
+   - Gen [**Doctor First Name **] ok'd for G-tube on monday, however family refused surgery
+   - Gen [**Doctor First Name **] to try some sort of stabilizing ring
+   - PRN opiates consolidated to fentanyl patch for AM
+   Allergies:
+   Penicillamine
+   rash;
+   Doxycycline
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3475-12-4**] 08:00 AM
+   Heparin Sodium (Prophylaxis) - [**3475-12-4**] 04:30 PM
+   Morphine Sulfate - [**3475-12-5**] 06:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3475-12-5**] 06:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.7
+   Tcurrent: 38.2
+C (100.7
+   HR: 95 (72 - 99) bpm
+   BP: 123/56(73) {100/36(55) - 190/93(117)} mmHg
+   RR: 24 (13 - 29) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 57.2 kg (admission): 52.8 kg
+   Height: 60 Inch
+                  Total In:
+                                                                  2,091 mL
+                                                                    763 mL
+   PO:
+                  TF:
+                                                                  1,081 mL
+                                                                    373 mL
+   IVF:
+                                                                    410 mL
+   Blood products:
+   Total out:
+                                                                  1,265 mL
+                                                                    510 mL
+   Urine:
+                                                                  1,235 mL
+                                                                    510 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     30 mL
+   Balance:
+                                                                    826 mL
+                                                                    253 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   SpO2: 95%
+   ABG: ///30/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   480 K/uL
+   9.9 g/dL
+   141 mg/dL
+   0.4 mg/dL
+   30 mEq/L
+   3.9 mEq/L
+   12 mg/dL
+   101 mEq/L
+   136 mEq/L
+   30.2 %
+   14.3 K/uL
+        [image002.jpg]
+                             [**3475-11-30**]  04:29 AM
+                             [**3475-11-30**]  07:32 AM
+                             [**3475-11-30**]  10:33 AM
+                             [**3475-11-30**]  05:54 PM
+                             [**3475-12-1**]  06:37 AM
+                             [**3475-12-2**]  06:30 AM
+                             [**3475-12-3**]  05:08 AM
+                             [**3475-12-3**]  12:39 PM
+                             [**3475-12-4**]  06:32 AM
+                             [**3475-12-5**]  04:26 AM
+   WBC
+   11.9
+   10.9
+   14.1
+   10.7
+   14.3
+   Hct
+   29.9
+   30.8
+   30.3
+   29.4
+   30.2
+   Plt
+   [**Telephone/Fax (3) 11140**]70
+   480
+   Cr
+   0.3
+   0.4
+   0.3
+   0.3
+   0.4
+   TCO2
+   21
+   18
+   22
+   21
+   20
+   Glucose
+   86
+   62
+   60
+   78
+   141
+   Other labs: PT / PTT / INR:11.6/42.1/1.0, CK / CKMB /
+   Troponin-T:110/5/0.02, ALT / AST:[**9-21**], Alk Phos / T Bili:41/1.5,
+   Differential-Neuts:81.2 %, Band:0.0 %, Lymph:8.5 %, Mono:7.4 %, Eos:2.5
+   %, Lactic Acid:0.9 mmol/L, Albumin:2.3 g/dL, LDH:291 IU/L, Ca++:7.7
+   mg/dL, Mg++:1.8 mg/dL, PO4:1.7 mg/dL
+   Assessment and Plan
+   Assessment and Plan
+   86 yo F c h/o RA, HTN, hyperlipidemia, and symptomatic AS who initially
+   presented for elective valvuloplasty, now s/p ruptured right groin
+   pseudoaneurysm and repair.
+   # S/P tracheostomy: Reported laryngeal edema after multiple intubation
+   attempts.  On trach mask with good oxygen saturation.
+   - monitoring acid-base status with ABG.  last ABG shows evidence of
+   respiratory alkalosis.  Could be [**3-1**] pain response.  Continuing pain
+   control c morphine.  S+S saw her again, as need to eval for ability to
+   swallow
+   - Trach management per thoracics, downsized to #6
+   - Continue Passimure trial, able to make good effort, but not able to
+   voice, CT showed edema.
+   - will discuss methods for reducing inflamation with ENT
+   .
+   #Vomiting/Nutrition:  Possibly related to fentanyl induced
+   gastroparesis and inability to check tube feed residuals, though
+   vomiting was mostly bilious. Patient pulled out OG tube on [**11-29**].
+   Pulled out dobhoff [**11-30**].  Doing well with Zofran, reduced opiates.
+   Dobhoff replaced yesterday, restarting tubefeeds.
+   - standing zofran fixed nausea
+   - Re-start tubefeeds
+   .
+   # leukocytosis/UTI: multiple reasons
+ right groin incision, dvt, uti,
+   underlying RA, tracheostomy/possible pneumonia (CXR
+ retrocardiac
+   opacity), chronic steroid use.  Last diff 97 PMN / 1 lymph / 2 mono
+   without bandemia. Continues to downtrend.  Found to have klebsiella
+   UTI.  WBC increased after off cipro, added on differential.   Other Bcx
+   are negative so far.
+   - completed ciprofloxacin, trend CBC
+   - f/u cultures, CXR read CIS
+   - f/u differential,
+   - f/u reculture before empiric coverage.
+   .
+   # Pseudoaneursym s/p repair: Vascular surgery is following. Hct
+   initially trended down with repeat after two units from 29-31, but now
+   stable.  U/S of R groin shows no evidence of continued aneurysm.  On
+   [**11-27**], right groin site had increased swelling and hematoma, reeval for
+   hematoma.  Had mild resp. alkalosis
+ vent readjusted, resolved.
+   - continuing to trend Hct, remaining stablem, serial right leg exam,
+   holding heparin
+   - If suspect re-bleed, will R-CT of R leg, surgery onboard.
+   - appropriate wound care, watch for infection.
+   - pain control with oxycodone prn
+ increased to q4h PRN
+   - switched to PO dosaging now that she is able to swallow.
+   -  Vascular placing wound vac
+   - PT c/s
+ need to eval prior to rehab placement.
+   .
+   # LUE DVT
+ provoked, likely [**3-1**] cordis
+   - serial left arm exam given thrombus in brachial and cephalic vein.
+   - Serial measurement
+   - No heparin after hematoma development on [**11-27**].
+   .
+   # UOP: Initially oliguric, but significantly positive over the last 24
+   hours with UOP ~200 cc/hr. Renal function remains normal.  [**Month (only) 47**] be
+   autodiuresis [**3-1**] remobilzation of third-spaced fluids.
+   - continue to monitor; IVF if clinically volume depleted on exam
+   - keep I/O negative given 8kg up.
+   - goal is to boost UOP
+   # A. tach: Curbside by EP yesterday suggested BB alone with no further
+   management. Started metoprolol 25mg PO Q6H with good effect and no
+   recurrence.
+   - well controlled on metoprolol
+   - bolus to even/slight positive I/O
+   # delirium / agitation: Unclear etiology; could be ICU delirium vs.
+   sundowning vs. infection vs. steroid-induced delirium vs. drug-induced
+   (trazodone).  Rheum agrees that likely due to steroid induced
+   delirium.  Currently not active. Hold all delirium inducing meds.  Much
+   improved in last 24 hours.
+   - consider olanzapine and haldol as needed.
+   - standing PM zydis if agitated
+   - rheum c/s -  cont. chronic steroid dose, watch for steroid induced
+   delirium
+   # Valves: s/p balloon valvuloplasty with good effect. No signs of
+   volume overload currently.
+   -Continue ASA 81mg
+   # RA: Con't prednisone and methotrexate/leucovorin.  Will need to
+   discuss with rheumatology how to dose DMARDs as patient cannot receive
+   POs currently and MTX cannot be given via NGT.
+   - starting leukovorin and hold SQ MTX for now
+   - started po steroids
+   - pain control with fentanyl patch and oxycodone
+   # Hyperlipidemia: Con't statin
+   FEN:  NPO for now, pt refusing Dobhoff.  Discuss Sedation and PEG with
+   family
+   ACCESS: PIV's, PICC pull A-Line
+   PROPHYLAXIS:
+   -DVT ppx with HSC
+   -Pain management with fentanyl patch + prn IV morphine
+   CODE:  full
+   COMM:  [**Name (NI) 4470**] [**Name (NI) 10876**] (Son and HCP) [**Telephone/Fax (1) 10879**]
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**3475-12-5**] 02:13 AM 55 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3475-11-25**] 06:01 PM
+   22 Gauge - [**3475-12-2**] 07:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

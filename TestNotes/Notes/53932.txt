@@ -1,0 +1,247 @@
+Admission Date:  [**2630-3-17**]              Discharge Date:   [**2630-3-26**]
+
+Date of Birth:  [**2552-8-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 242**]
+Chief Complaint:
+Positive stress test
+
+Major Surgical or Invasive Procedure:
+[**2630-3-22**] Two Vessel Coronary Artery Bypass Grafting utilizing a
+free left internal mammary artery to left anterior descending
+artery with saphenous vein graft to obtuse marginal.
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 24513**] is a 77 year old male with multiple cardiac risk
+factors and known cardiomyopathy. He recently underwent ETT
+which revealed a large fixed anterior wall defect, suggestive of
+prior MI with an overall LVEF of 35%. He was subsequently
+referred for cardiac catheterization which revealed a 90% left
+main lesion. He remained pain free on medical therapy and was
+transferred to the [**Hospital1 52**] for surgical revascularization.
+
+Past Medical History:
+Coronary artery disease
+Non-insulin Dependent Diabetes Mellitus
+Chronic Systolic Heart Failure
+Chronic Wenckebach rhythm
+Abdominal Aortic Aneurysm
+s/p Herniorrhaphy [**2561**]
+
+
+Social History:
+Race: Caucasian
+Lives: Alone
+Occupation: Works in a wine store
+Cigarettes: Quit 27 years ago
+ETOH: [**1-26**] drinks/week
+Illicit drug use: Denies
+
+
+Family History:
+Denies premature coronary artery disease
+
+Physical Exam:
+ADMIT EXAM
+BP  142/86  Pulse: 90 Resp:18  O2 sat: 96% on RA
+Height: 74"    Weight: 93.4 kg
+
+General: WDWN male in no acute distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR []  Irregular [x]  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema: None
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: cath site  Left: 2+
+DP           Right: 1+  Left: 1+
+PT           [**Name (NI) 278**]: 1+  Left: 1+
+Radial       Right: 2+  Left: 2+
+Carotid Bruit        Right: no   Left: no
+
+Pertinent Results:
+[**2630-3-17**] WBC-5.0 RBC-4.03* Hgb-12.9* Hct-41.2 MCV-102*  RDW-12.1
+Plt Ct-206
+[**2630-3-17**] PT-11.4 PTT-28.0 INR(PT)-1.1
+[**2630-3-17**] Glucose-109* UreaN-21* Creat-0.9 Na-139 K-4.5 Cl-104
+HCO3-30
+[**2630-3-17**] ALT-18 AST-29 LD(LDH)-179 AlkPhos-51 Amylase-107*
+TotBili-0.8
+[**2630-3-17**] %HbA1c-5.8 eAG-120
+.
+[**2630-3-18**] Echocardiogram:
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is mildly
+dilated. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is severely depressed
+with global hypokinesis and a relative sparing of the basal
+inferolateral segment (LVEF= 15 %). Right ventricular chamber
+size and free wall motion are normal. The aortic root is mildly
+dilated at the sinus level. The aortic arch is mildly dilated.
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic stenosis or aortic
+regurgitation. The mitral valve appears structurally normal with
+trivial mitral regurgitation. The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+IMPRESSION: Mildly dilated left ventricle with normal wall
+thickness and severe global left ventricular hypokinesis. Mildly
+dilated aortic root and aortic arch. No clinically signficant
+valvular regurgitation or stenosis. Normal pulmonary artery
+systolic pressure.
+.
+[**2630-3-18**] Carotid Ultrasound:
+Right antegrade vertebral artery flow. Left antegrade vertebral
+artery flow. Right ICA <40% stenosis. Left ICA <40% stenosis.
+.
+[**2630-3-19**] Cardiac MR:
+1. Moderately increased left ventricular cavity size. Global
+left ventricular hypokinesis with severe hypokinesis to akinesis
+of the mid to distal anterior wall, apex, and entire inferior
+wall. Abnormal motion of the septum and left ventricular
+intraventricular dyssynchrony. The LVEF was severely depressed
+at 23%.
+2. No CMR evidence of prior myocardial scarring/infarction.
+3. Normal right ventricular cavity size with normal global and
+regional
+systolic function. The RVEF was normal at 49%.
+4. Mild tricuspid regurgitation.
+5. Mild biatrial enlargement.
+.
+
+[**2630-3-25**] 05:48AM BLOOD WBC-7.4 RBC-2.64* Hgb-8.5* Hct-25.4*
+MCV-96 MCH-32.3* MCHC-33.6 RDW-11.8 Plt Ct-116*
+[**2630-3-25**] 05:48AM BLOOD Glucose-130* UreaN-15 Creat-0.7 Na-137
+K-4.0 Cl-99 HCO3-33* AnGap-9
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 24513**] was admitted to cardiac surgical service and
+underwent further preoperative evaluation. Echocardiogram
+confirmed severely depressed LV function with an EF 15%. There
+was no aortic valve disease with only trivial mitral
+regurgitation. Cardiac MR [**First Name (Titles) 4547**] [**Last Name (Titles) 24514**] myocardium. He remained
+pain free on medical therapy, and was eventually cleared for
+surgery. On [**3-22**], Dr. [**Last Name (STitle) **] performed two vessel coronary
+artery bypass grafting. For surgical details, please see
+operative note. Given his prolonged hospital stay, Vancomycin
+was used for perioperative antibiotic coverage. Following
+surgery, he was brought to the CVICU for invasive monitoring.
+
+Within 24 hours, he awoke neurologically intact and was
+extubated without incident. He maintained stable hemodynamics
+and transferred to the floor on postoperative day one. He
+remains on Imdur for his free left internal mammary artery graft
+for three months.  Low dose beta blocker was started and the
+Electrophysiology Service was consulted due to his chronic
+Wenchebach block. This was changed to Carvedilol due to his
+systolic dysfunction. An echocardiogram prior to discharge
+demonstrated a left ventricular ejection fraction of 20% (v.
+10-15% immediaetly off bypass).
+
+
+Medications on Admission:
+Actos 22.5mg daily, Metformin 500mg [**Hospital1 **], Glipizide ER 5mg daily,
+Lovastatin 40mg daily, Aspirin daily, Multivitamin daily, Fish
+oil 100mg daily, Vitamin D [**2617**] units daily, Vitamin b complex
+daily
+
+
+Discharge Medications:
+1. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+3. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain, fever.
+4. pioglitazone 15 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+
+5. metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+6. glipizide 5 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet
+Extended Rel 24 hr PO DAILY (Daily).
+7. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily) for
+3 months.
+8. B complex vitamins     Capsule Sig: One (1) Cap PO DAILY
+(Daily).
+9. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+10. omega-3 fatty acids     Capsule Sig: [**12-21**] Capsules PO DAILY
+(Daily).
+11. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+12. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+13. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **] House Nursing Home - [**Location 3250**]
+
+Discharge Diagnosis:
+Coronary Artery Disease
+s/p coronary artery bypass grafts
+Chronic Systolic Congestive Heart Failure
+Non-insulin Dependent Diabetes Mellitus
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Left - healing well, no erythema or drainage.
+Edema trace
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 279**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Provider: [**Last Name (NamePattern4) **].[**First Name (STitle) **] R. [**Doctor Last Name **] ([**Telephone/Fax (1) 279**]) on [**2630-4-28**] at 1:45
+Cardiologist: Dr. [**First Name4 (NamePattern1) 445**] [**Last Name (NamePattern1) **] office will call with an
+appointment.
+
+Please call to schedule appointments with your
+Primary Care: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6289**] in [**3-25**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2630-3-26**]
+
+DOC CLASS

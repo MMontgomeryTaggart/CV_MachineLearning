@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="488963.txt">
+    <annotation>
+        <mention id="EHOST_Instance_165" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="3380" end="3403" />
+        <spannedText>presents with melena</spannedText>
+        <creationDate>Mon Nov 06 09:10:22 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_176">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_165">
+        <hasSlotMention id="EHOST_Instance_176" />
+        <mentionClass id="bleeding_present">presents with melena</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_166" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="3413" end="3422" />
+        <spannedText># Melena:</spannedText>
+        <creationDate>Mon Nov 06 09:10:34 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_177">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_166">
+        <hasSlotMention id="EHOST_Instance_177" />
+        <mentionClass id="bleeding_present"># Melena:</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_167" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="3626" end="3662" />
+        <spannedText>unlikely to produce melanotic stools</spannedText>
+        <creationDate>Mon Nov 06 09:10:42 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_178">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_167">
+        <hasSlotMention id="EHOST_Instance_178" />
+        <mentionClass id="bleeding_hypothetical">unlikely to produce melanotic stools</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_168" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="3885" end="3902" />
+        <spannedText>No further melena</spannedText>
+        <creationDate>Mon Nov 06 09:10:48 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_179">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_168">
+        <hasSlotMention id="EHOST_Instance_179" />
+        <mentionClass id="bleeding_absent">No further melena</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_169" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4553" end="4573" />
+        <spannedText>given above bleeding</spannedText>
+        <creationDate>Mon Nov 06 09:10:56 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_180">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_169">
+        <hasSlotMention id="EHOST_Instance_180" />
+        <mentionClass id="bleeding_present">given above bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_170" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4689" end="4715" />
+        <spannedText>given concern for bleeding</spannedText>
+        <creationDate>Mon Nov 06 09:11:00 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_181">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_170">
+        <hasSlotMention id="EHOST_Instance_181" />
+        <mentionClass id="bleeding_present">given concern for bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_171" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4933" end="4960" />
+        <spannedText>if pt has additional melena</spannedText>
+        <creationDate>Mon Nov 06 09:11:08 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_182">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_171">
+        <hasSlotMention id="EHOST_Instance_182" />
+        <mentionClass id="bleeding_hypothetical">if pt has additional melena</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_172" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="5209" end="5230" />
+        <spannedText>given concern for GIB</spannedText>
+        <creationDate>Mon Nov 06 09:11:14 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_183">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_172">
+        <hasSlotMention id="EHOST_Instance_183" />
+        <mentionClass id="bleeding_present">given concern for GIB</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_173" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6094" end="6129" />
+        <spannedText>presented with 3 episodes of melena</spannedText>
+        <creationDate>Mon Nov 06 09:11:22 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_184">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_173">
+        <hasSlotMention id="EHOST_Instance_184" />
+        <mentionClass id="bleeding_present">presented with 3 episodes of melena</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_174" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6433" end="6464" />
+        <spannedText>no evidence of further bleeding</spannedText>
+        <creationDate>Mon Nov 06 09:11:29 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_185">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_174">
+        <hasSlotMention id="EHOST_Instance_185" />
+        <mentionClass id="bleeding_absent">no evidence of further bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_175" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6699" end="6708" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Mon Nov 06 09:11:34 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_186">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_187">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_175">
+        <hasSlotMention id="EHOST_Instance_186" />
+        <hasSlotMention id="EHOST_Instance_187" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

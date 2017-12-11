@@ -1,0 +1,242 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   NPO for [** 1571**] on Monday
+   Received Lasix for volume status
+   Continues to have upper airway breath sounds.
+   Delirious overnight, stripping, removing monitors, argumentative
+   S: No complaints.  No chest pain, shortness of breath.  Feels a cold
+   coming on.
+   Tele: PVCs
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2644-11-8**] 09:00 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2644-11-9**] 04:00 PM
+   Pantoprazole (Protonix) - [**2644-11-9**] 10:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2644-11-10**] 06:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.3
+C (97.3
+   HR: 70 (70 - 72) bpm
+   BP: 134/70(86) {110/56(67) - 162/88(127)} mmHg
+   RR: 27 (19 - 32) insp/min
+   SpO2: 95%
+   Heart rhythm: A Paced
+   Wgt (current): 73.8 kg (admission): 71.6 kg
+   Height: 66 Inch
+                  Total In:
+                                                                    720 mL
+                                                                    240 mL
+   PO:
+                                                                    720 mL
+                                                                    240 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  2,185 mL
+                                                                    440 mL
+   Urine:
+                                                                  2,185 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,465 mL
+                                                                   -200 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   ABG: ///22/
+   Physical Examination
+   GEN: NAD.  A&Ox1
+Where am I?
+  cleared in mental status by rounds.
+   HEENT: MMM, JVP not elevated while patient sitting up in bed
+   CV: rrr,  III/VI holosystolic murmur heard best at LLSB and over mitral
+   area that does not radiate to carotids
+   RESP: belabored breathing with expiratory grunts and trace wheezing.
+   Trace  crackles @ bases of lungs
+   ABD: soft, NT, palpaple mass over site of previous abdominal ICD site
+   Skin: R PICC, R IJ C/D/I
+   Labs / Radiology
+                                     138
+                               [image002.gif]
+                                     102
+                               [image002.gif]
+                                     84
+   [image004.gif]
+   78
+                                                                   AGap=16
+   [image005.gif]
+   3.7
+                               [image002.gif]
+                                     24
+                               [image002.gif]
+                                     2.9
+   [image007.gif]
+   Mg: 2.1
+   Other Blood Chemistry:
+   Vanco: 18.9
+   Source: Line-rij triple
+   100
+                                                                      10.7
+                                                            [image007.gif]
+                                    10.2
+   [image004.gif]
+   136
+                 [image008.gif]
+   [image004.gif]
+                                    29.7
+   [image007.gif]
+   Source: Line-rij triple
+   PT: 23.9
+   PTT: 37.4
+   INR: 2.3
+   Comments:
+   PT: Verified By Replicate Analysis
+                             [**2644-11-6**]  12:07 AM
+                             [**2644-11-6**]  04:02 AM
+                             [**2644-11-6**]  06:09 AM
+                             [**2644-11-6**]  01:07 PM
+                             [**2644-11-7**]  04:50 AM
+                             [**2644-11-7**]  04:06 PM
+                             [**2644-11-8**]  04:28 AM
+                             [**2644-11-8**]  06:24 PM
+                             [**2644-11-9**]  06:00 AM
+                             [**2644-11-9**]  04:15 PM
+   WBC
+   29.6
+   12.3
+   13.4
+   10.1
+   10.5
+   Hct
+   34.9
+   28.9
+   30.0
+   28.3
+   30.9
+   Plt
+   200
+   117
+   118
+   114
+   131
+   Cr
+   3.2
+   3.5
+   3.4
+   2.8
+   2.9
+   2.9
+   3.0
+   TropT
+   0.15
+   0.11
+   TCO2
+   13
+   16
+   Glucose
+   145
+   181
+   96
+   94
+   107
+   211
+   Other labs: PT / PTT / INR:36.1/43.9/3.8, CK / CKMB /
+   Troponin-T:71//0.11, Differential-Neuts:96.7 %, Lymph:1.7 %, Mono:1.4
+   %, Eos:0.1 %, Lactic Acid:1.3 mmol/L, Ca++:8.3 mg/dL, Mg++:2.1 mg/dL,
+   PO4:4.1 mg/dL
+   No new growth since (+) Bcx on [**10-5**] with MRSA.
+   No new imaging.
+   Assessment and Plan
+   73 y/o man with CAD, CHF, and refractory ventricular tachycardia with
+   MRSA sepsis and endocarditis.
+   # MRSA Sepsis and endocarditis of MR ring: Treated with Vancomycin.
+   Now stable for >1-2 days off pressers.  Likely source left arm
+   thrombophlebitis,
+   - will D/C IJ today & culture tip.
+   - Daily EKGs
+   - [**Month/Day (4) 1571**] on Mon, NPO Sunday night
+   - will likely need 6 weeks of IV Vanc
+   # Resp status
+ expiratory upper airway wheezes, bilateral basal
+   crackles but good oxygen saturations
+   - Neb treatment and Lasix 80mg IV x 1 today with I/O goal of negative
+   [**Telephone/Fax (1) 1296**]
+   - CXR to r/o infectious source for respiratory discomfort
+   # Acute on Chronic Renal Failure: Due to hypoperfusion during sepsis,
+   now improving
+   # Ventricular Tachycardia:
+   - No episodes, stable on Mexiletine and Amio, beta-blocker
+   - Avoiding Compazine for GI intolerance, on Zofran.
+   - If goes into VT, give lidocaine 50-100mg bolus then [**1-3**]/min gtt.
+   # CAD: On Zetia (intolerant of statins), ASA
+   - On Metoprolol [**Hospital1 **]
+   - Would continue to hold ACEi given renal function
+   # Hypertension: S BB but holding Lasix and ACEi until renal function
+   stabilizes.
+   # DM: RISS
+   # UE DVT: confirmed by US, already anticoagulated on coumadin. [**Month (only) 56**] have
+   to increase length of Abx treatment if endovascular infection.
+   # Abdominal Hematoma: Will hold off on draining based on improvement.
+   # Mental status changes: Likely ICY delirium.  Will call out today.
+   Would give zyprexa if necessary.
+   # FEN: HH, no IVF, lytes prn. NPO for EGD
+   # ppx: therapeutic INR.  PPI.
+   # Dispo: following [**Last Name (LF) 1571**], [**First Name3 (LF) **] be ready for rehab
+   # Full Code
+           1. IV access: Peripheral line Order date: [**11-10**] @ 1326
+   13. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+   PICC, heparin dependent: Flush with 10mL Normal Saline followed by
+   Heparin as above daily and PRN per lumen.  Order date: [**11-10**] @ 1326
+   2. IV access: PICC, heparin dependent Location: Right cephalic, Date
+   inserted: [**2644-11-8**] Order date: [**11-10**] @ 1326
+   14. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+   PICC, heparin dependent: Flush with 10mL Normal Saline followed by
+   Heparin as above daily and PRN per lumen.  Order date: [**11-10**] @ 1326
+   3. IV access: PICC, heparin dependent Order date: [**11-10**] @ 1326
+   15. Insulin SC  (per Insulin Flowsheet)
+         Sliding Scale Order date: [**11-10**] @ 1326
+   4. Acetaminophen 325-650 mg PO Q6H:PRN  Order date: [**11-10**] @ 1326
+   16. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN Wheezing  Order date:
+   [**11-10**] @ 1326
+   5. Amiodarone 400 mg PO QAM  Order date: [**11-10**] @ 1326
+   17. Lidocaine Jelly 2% (Urojet) 1 Appl TP PRN  Order date: [**11-10**] @ 1326
+   6. Amiodarone 400 mg PO QPM
+   14 Days from [**11-4**] to [**11-17**]  Order date: [**11-10**] @ 1326
+   18. Lorazepam 0.5-1 mg PO/IV Q6H:PRN anxiety  Order date: [**11-10**] @ 1326
+   7. Aspirin 81 mg PO DAILY  Order date: [**11-10**] @ 1326
+   19. Mexiletine 150 mg PO Q8H  Order date: [**11-10**] @ 1326
+   8. Cepacol (Menthol) 1 LOZ PO PRN sore throat  Order date: [**11-10**] @ 1343
+   20. Metoprolol Tartrate 25 mg PO TID
+   Hold for HR<60, SBP <110  Order date: [**11-10**] @ 1326
+   9. Ezetimibe 10 mg PO DAILY Start: In am Order date: [**11-10**] @ 1326
+   21. Ondansetron 4 mg IV Q8H:PRN  Order date: [**11-10**] @ 1326
+   10. Fish Oil (Omega 3) 1000 mg PO HS  Order date: [**11-10**] @ 1326
+   22. Pantoprazole 40 mg PO Q12H  Order date: [**11-10**] @ 1326
+   11. Furosemide 80 mg IV ONCE Duration: 1 Doses Order date: [**11-10**] @ 1326
+   23. Sodium Chloride 0.9% Flush 3 mL IV Q8H:PRN line flush
+   Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.
+   Order date: [**11-10**] @ 1326
+   12. Heparin Flush (100 units/ml) 5 mL IV PRN  Order date: [**11-10**] @ 1326
+   24. Vancomycin 1000 mg IV Q48H
+   Day 1: [**2644-11-5**]  Order date: [**11-10**] @ 1326
+
+
+DOC CLASS

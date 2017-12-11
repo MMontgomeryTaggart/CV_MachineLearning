@@ -1,0 +1,173 @@
+CVICU
+   HPI:
+   L fem endart, L ant tib angio, ext iliac, SFA stent [**2584-1-20**]
+   Chief complaint:
+   PMHx:
+   ESRD s/p CRT '[**76**] (cr [**11-10**] =2.0), DMII (insulin-dependent) c/b
+   neuropathy, retinopathy, nephropathy, systolic/diastolic CHF(LVEF
+   30-35% in [**7-/2583**]), s/p NSTEMI w/ PTCA/stent, afib, HTN,
+   hypercholesterolemia, PVD, [**Country 1996**] stenosis, cholelithiasis,
+   hypothyroidism, chronic anemia, OSA, OA, obesity, GERD, gout
+   PSH: cadaveric renal transplant '[**76**], appy, eye surgery, PTCA w/ stents
+   Current medications:
+   Aspirin 81 mg PO/NG DAILY, Clopidogrel 75 mg PO/NG DAILY, Levothyroxine
+   Sodium 88 mcg PO/NG DAILY,  Diazepam 2 mg PO/NG ONCE, Pantoprazole 40
+   mg PO Q12H, Docusate Sodium 100 mg PO BID, PredniSONE 5 mg PO/NG DAILY,
+   Simvastatin 40 mg PO/NG DAILY, Ezetimibe 10 mg PO DAILY, Ferrous
+   Sulfate 325 mg PO/NG DAILY, Gabapentin 100 mg PO/NG TID, Gentamicin 60
+   mg IV QHD, Vancomycin 1000 mg IV ONCE, HYDROmorphone (Dilaudid) 2 mg
+   PO/NG Q4H:PRN pain, Warfarin 4 mg PO/NG ONCE
+   24 Hour Events:
+ URINE CULTURE - At [**2584-1-21**] 09:44 AM
+   Allergies:
+   Codeine
+   Nausea/Vomiting
+   Phenergan (Oral) (Promethazine Hcl)
+   hallucinations;
+   Tylenol (Oral) (Dm Hb/Pseudoephed/Acetamin/Cp)
+   Unknown;
+   Quinolones
+   Unknown;
+   Oxycodone
+   Unknown;
+   Enalapril
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2584-1-21**] 10:23 PM
+   Heparin Sodium (Prophylaxis) - [**2584-1-21**] 10:23 PM
+   Other medications:
+   Flowsheet Data as of  [**2584-1-22**] 10:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**85**] a.m.
+   Tmax: 37
+C (98.6
+   T current: 37
+C (98.6
+   HR: 70 (51 - 70) bpm
+   BP: 130/35(67) {99/28(49) - 151/46(73)} mmHg
+   RR: 22 (9 - 28) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 82.4 kg (admission): 80 kg
+   Height: 63 Inch
+   CVP: 15 (6 - 22) mmHg
+   Total In:
+                                                                    641 mL
+   PO:
+                                                                    360 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    281 mL
+   Blood products:
+   Total out:
+                                                                     45 mL
+                                                                      0 mL
+   Urine:
+                                                                     45 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    596 mL
+                                                                      0 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: Anxious
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   161 K/uL
+   8.6 g/dL
+   194
+   2.8 mg/dL
+   29 mEq/L
+   5.7 mEq/L
+   37 mg/dL
+   104 mEq/L
+   139 mEq/L
+   27.6 %
+   6.9 K/uL
+        [image002.jpg]
+                             [**2584-1-21**]  03:07 AM
+                             [**2584-1-22**]  02:42 AM
+                             [**2584-1-22**]  09:00 AM
+   WBC
+   11.9
+   6.9
+   Hct
+   29.5
+   27.6
+   Plt
+   224
+   161
+   Creatinine
+   2.4
+   2.8
+   Glucose
+   117
+   165
+   194
+   Other labs: PT / PTT / INR:16.7/34.1/1.5, Fibrinogen:470 mg/dL, Ca:9.1
+   mg/dL, Mg:2.4 mg/dL, PO4:4.1 mg/dL
+   Imaging: CXR [**1-20**]: sm right pleural effusion
+   Microbiology: NGTD
+   ECG: SR
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), IMPAIRED SKIN INTEGRITY, RENAL
+   FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+   Assessment and Plan: L fem endart, L ant tib angio, ext iliac, SFA
+   stent [**2584-1-20**] now hemodynamically stable with MAP >60 ready for
+   transfer to VICU after HD
+   Neurologic: Neuro checks Q: 4 hr, Pain poorly controlled per patient on
+   dilaudid and neurontin (the latter was initiated yesterday) but patient
+   is often sleeping.  Will maintain current doses.
+   Cardiovascular: Aspirin, Statins, Beta blockade has been held for
+   hypotension which has resolved.  Hemodynamically stable without Epi
+   since yesterday.  Coumadin for afib history.
+   Pulmonary: IS
+   Gastrointestinal / Abdomen: Bowel regimen
+   Nutrition: Regular diet
+   Renal: Oliguric on HD, plan for HD today.
+   Hematology: post-operative anemia
+   Endocrine: RISS, lantus
+   Infectious Disease: Vanco and Gent peri-operatively per vascular
+   Lines / Tubes / Drains:
+   Wounds: Dry dressings, necrotic L heel ulcer
+   Consults: Podiatry consult requested today per vascular for poorly
+   healing left heel
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, lantus
+   Lines:
+   Arterial Line - [**2584-1-20**] 05:45 PM
+   Multi Lumen - [**2584-1-20**] 05:45 PM
+   Dialysis Catheter - [**2584-1-20**] 08:00 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

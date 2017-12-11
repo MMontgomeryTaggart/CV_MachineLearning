@@ -1,0 +1,183 @@
+Chief Complaint: resp distress
+   49 yo M with achondroplasia, chronic LE lymphedema a/w hypercarbic
+   respiratory failure with an unclear precipitant.
+   24 Hour Events:
+ MULTI LUMEN - STOP [**2981-6-6**] 02:06 PM
+ed central line.
+   SUBJECTIVE:
+   Patient reports breathing comfortably on 4L NC.  He denies SOB.
+   Reports occasional dry cough.
+   Patietn reports being hungry this morning.  Tolerating POs.
+   Allergies:
+   Penicillins
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Metronidazole - [**2981-6-5**] 03:20 AM
+   Vancomycin - [**2981-6-5**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2981-6-7**] 02:07 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 36.4
+C (97.6
+   HR: 79 (75 - 95) bpm
+   BP: 123/73(86) {106/54(68) - 150/84(128)} mmHg
+   RR: 21 (14 - 24) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 52 Inch
+             Total In:
+                                                                  1,875 mL
+                                                                    290 mL
+   PO:
+                                                                  1,620 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                    255 mL
+                                                                     50 mL
+   Blood products:
+   Total out:
+                                                                  1,065 mL
+                                                                  2,050 mL
+   Urine:
+                                                                  1,065 mL
+                                                                  2,050 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    810 mL
+                                                                 -1,760 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///36/
+   Physical Examination
+   Gen:  a&o x3, NAD
+   Lungs: CTA anteriorly
+   CV:  RRR, s1 & s2 nl, no m/r/g
+   Abd: + bs, obese, nt, nd, no masses
+   Ext: warm, 2+ radial pulses.
+   Labs / Radiology
+   241 K/uL
+   13.3 g/dL
+   82 mg/dL
+   0.5 mg/dL
+   36 mEq/L
+   3.7 mEq/L
+   24 mg/dL
+   94 mEq/L
+   136 mEq/L
+   37.2 %
+   9.9 K/uL
+        [image002.jpg]
+                             [**2981-6-1**]  11:50 PM
+                             [**2981-6-2**]  02:31 AM
+                             [**2981-6-2**]  03:47 AM
+                             [**2981-6-3**]  04:23 AM
+                             [**2981-6-4**]  04:28 AM
+                             [**2981-6-5**]  08:23 AM
+                             [**2981-6-5**]  09:00 AM
+                             [**2981-6-5**]  09:27 PM
+                             [**2981-6-6**]  07:54 AM
+                             [**2981-6-7**]  04:27 AM
+   WBC
+   6.4
+   6.9
+   7.5
+   8.4
+   9.9
+   Hct
+   35.7
+   37.7
+   37.0
+   38.4
+   37.2
+   Plt
+   [**Telephone/Fax (3) 912**]91
+   241
+   Cr
+   0.5
+   0.5
+   0.5
+   0.5
+   0.7
+   0.5
+   TCO2
+   38
+   38
+   37
+   41
+   Glucose
+   98
+   114
+   112
+   94
+   83
+   136
+   127
+   82
+   Other labs: PT / PTT / INR:14.8/26.9/1.3, Differential-Neuts:69.0 %,
+   Band:0.0 %, Lymph:15.0 %, Mono:8.0 %, Eos:8.0 %, Lactic Acid:1.0
+   mmol/L, Ca++:8.7 mg/dL, Mg++:2.3 mg/dL, PO4:3.5 mg/dL
+   Imaging: CXR - [**2981-6-7**] no change from previous
+   Microbiology: no new cx data
+   Assessment and Plan
+   49 yo M with achondroplasia, chronic LE lymphedema a/w hypercarbic
+   respiratory failure with an unclear precipitant.
+   # Hypercarbic respiratory distress
+ unclear whether due to PNA vs. pulm
+   edema.  S/P 7 day course of vanco/levo/flagyl.  There is a likely
+   component of acute on chronic hypercarbia.  Patient was extubated
+   yesterday and has been doing well off the vent.
+   -monitor resp status, wean off O2 as tolerated.
+   -cont. prn diuresis with IV lasix to improve respiratory status
+ goal
+   to keep patient even to slightly negative.
+   #R otitis externa
+ difficult to evaluate TM involvement;
+   symptomatically improving; re-examine later today.
+   -polymixin-neomycin drops QID day [**2-26**]
+   -cx due not suggest pseudomonas as etiology.
+   -follow clinically
+   #HTN
+   -lopressor at home dose
+   -convert captopril to lisinopril at 40 mg PO daily which represents a
+   slight increase from his previous dose.
+   # F/E/N
+   -advance to regular diet.
+   -volume goal: even to negative.
+   -replace lytes PRN
+   #Access
+ 1 PIV
+   #PPx
+ SQH, PPI
+   #CODE
+ FULL
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2981-6-6**] 12:03 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

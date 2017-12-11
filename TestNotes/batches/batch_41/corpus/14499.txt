@@ -1,0 +1,148 @@
+Admission Date:  [**3369-6-27**]     Discharge Date:  [**3369-7-9**]
+
+Date of Birth:   [**3312-9-28**]     Sex:  M
+
+Service:  CARDIAC SURGERY
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 18514**] is a 56 year-old
+male who was a transfer from [**Hospital3 2675**] Hospital
+following a thrombotic transient ischemic attack presumed to
+be from his right internal carotid and a possible small non Q
+wave myocardial infarction.  He was transferred for cardiac
+catheterization following a positive stress test revealing
+inferior and anterior apical artery reversible defects with
+an EF of 25 to 30%.  Two dimensional echocardiogram done at
+[**Hospital3 2675**] revealed a mild MR.  [**Name13 (STitle) **] presently complains
+of symptoms of left sided weakness as well as a throat
+burning with exertion typically ambulating one flight of
+stairs.
+
+PAST MEDICAL HISTORY:  1.  Transient ischemic attack.  2.
+Diabetes mellitus.  3.  Hypertension.  4.  Coronary artery
+disease.  5.  Peripheral vascular disease.  6.  Congestive
+heart failure with an EF of 30%.  7.  Non Q wave myocardial
+infarction.  8.  Chronic obstructive pulmonary disease.  9.
+Tobacco abuse.  10.  Mild mitral regurgitation.  11.
+Hyperlipidemia.
+
+SOCIAL HISTORY:  Notable for tobacco abuse.  He has quit on
+this admission.
+
+LABORATORY STUDIES ON ADMISSION:  His hematocrit is 36.  His
+white count is 7.  His baseline BUN and creatinine are 21 and
+1.0.  His total cholesterol was 220 with an HDL of 35 and an
+LDL of 143.
+
+PHYSICAL EXAMINATION:  Performed post procedure while on a
+nitro drip, his blood pressure is 90/45.  Heart rate is 64.
+Oxygen saturations is 94% on room air.  In general he is a
+healthy appearing middle aged male in no acute distress.  His
+head, eyes, ears, nose and throat he is normocephalic,
+atraumatic.  Pupils are equal, round and reactive to light.
+Heart has a regular rate and rhythm.  Lungs are clear.
+Abdomen is soft, nontender, nondistended.  Extremities are
+warm.  Neurologically his tongue is midline.  His face is
+symmetric.  His motor strength is 5 out of 5 throughout with
+sensation intact.
+
+MEDICATIONS ON TRANSFER:  1.  Colace 100 mg po b.i.d.  2.
+Enteric coated aspirin 325 mg po q day.  3.  Lasix 20 mg po q
+day.  4.  Digoxin 0.125 mg po q day.  5.  Glucotrol XL 10 mg
+po q day.  6.  NPH 5 units q.a.m.  7.  Calcium carbonate 1250
+mg po day.  8.  Nicotine patch.  9.  Ativan 1 mg po b.i.d.
+10.  Pravachol 10 mg po q day.  11.  Zestril 10 mg po q day.
+12.  Lopressor 25 mg po b.i.d.  13.  Imdur 30 mg po q day.
+14.  Lovenox 60 mg subQ q 12 hours.
+
+HOSPITAL COURSE:  The patient was admitted to the Cardiology
+Service where he had a cardiac catheterization demonstrating
+three vessel disease.  Both the Vascular Surgery team and the
+Cardiac Surgery teams were consulted for his symptomatic
+transient ischemic attack and his coronary disease.  He had a
+carotid ultrasound that demonstrated less then 40% internal
+carotid stenosis bilaterally.  The Neurosurgery team was
+asked to come and evaluate him.  They found based on his MR
+angiogram done at the outside hospital.  He had right
+internal carotid stenosis in the area of the petrous bone.
+He was taken to angiography where he had a cerebral angiogram
+that confirmed these findings.  On [**3369-6-29**] the patient
+had a cerebral angiogram with stent angioplasty of the
+petrous right internal carotid artery.  The patient's
+procedure itself was unremarkable.  Post procedure he was
+started on Integrilin.  Of note, they also believed that he
+has a right subclavian steel syndrome.  The patient was
+continued on Integrilin for several post procedure days.  All
+of his neurologic checks were without deficits.  His
+Integrilin was stopped at midnight the night prior to his
+operation.
+
+On [**3369-7-3**] the patient was taken to the Operating Room
+for a coronary artery bypass graft times five.  His grafts
+are left internal mammary coronary artery to left anterior
+descending coronary artery, saphenous vein graft to left PD,
+posterior descending coronary artery sequential and saphenous
+vein graft to obtuse marginal to saphenous vein graft to
+diagonal done end to side.  The patient's cardiopulmonary
+bypass time was 114 minutes.  Cross clamp time was 93
+minutes.  Postoperatively, the patient was taken to the
+Cardiac Surgery Intensive Care Unit.  He was extubated on the
+evening of his operation.  He was started on Plavix post
+procedure and over the course of the first postoperative day
+he was weaned from multiple drips including nitroglycerin,
+insulin and Nipride.  On the afternoon of the first
+postoperative day he was transferred to the hospital floor.
+His Foley catheter was discontinued in a normal fashion.  His
+Lopressor was titrated up based on his heart rate and blood
+pressure.  He was ambulating with physical therapy.  He had
+oxygen requirement for several days, but by the day prior to
+his discharge he had been adequately diuresed and no longer
+required oxygen while at rest.
+
+[**Last Name (STitle) 18515**]evelop a low grade temperature to 100.0 on
+postoperative day number five with some scant sternal
+drainage.  For this reason his sternum was painted with
+betadine and he was started on oral Levaquin therapy.  By the
+following day the drainage was noted to be very scant from
+the interior edge of his dressing and it was felt he was safe
+to be discharged home.  He was discharged home on [**3369-7-9**] in stable condition in the care of his family with
+visiting nurse assistance.  He was instructed to follow up
+with his primary care physician in one to two weeks. In
+addition, he is to follow up with Dr. [**Last Name (Prefixes) **] in four
+weeks and to follow up with Dr. [**First Name8 (NamePattern2) 133**] [**Name (STitle) 134**] with Neurosurgery
+in approximately three months.
+
+MEDICATIONS ON DISCHARGE:  1.  Lopressor 50 mg po b.i.d.  2.
+Pravachol 10 mg po q day.  3.  Nicotine patch 14 mg
+transdermal q day.  4.  Glipizide XL 5 mg po q day.  5.  NPH
+5 units subQ q.a.m.  6.  Plavix 75 mg po q day.  7.  Enteric
+coated aspirin 325 mg po q day.  8.  Colace 100 mg po b.i.d.
+9.  Levaquin 500 mg po q day times seven days.  10.  Lasix 20
+mg po b.i.d. times seven days.  11.  Potassium chloride 20
+milliequivalents po b.i.d. times seven days.  12.  Percocet
+one to two po q 4 to 6 hours prn.
+
+DISCHARGE DIAGNOSES:
+1.  Coronary artery disease now status post coronary artery
+bypass graft times five.
+2.  Right intracranial internal carotid artery stenosis now
+status post angioplasty and stent.
+3.  Hypertension, controlled.
+4.  Diabetes mellitus, controlled.
+5.  Hyperlipidemia, controlled.
+
+
+
+
+
+                          [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 660**]
+
+Dictated By:[**Last Name (NamePattern1) 1960**]
+
+MEDQUIST36
+
+D:  [**3369-7-9**]  13:00
+T:  [**3369-7-12**]  06:00
+JOB#:  [**Job Number 18516**]
+
+
+DOC CLASS

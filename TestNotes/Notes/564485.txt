@@ -1,0 +1,181 @@
+SICU
+   HPI:
+   31 yo F with ESRD due to SLE, s/p failed txplt [**3490**] requiring explant,
+   ITP, with pulm HTN, s/p bilat nephrectomies [**1-12**] for bilat renal
+   masses, Also MSSA endocarditis mitral valve. Underwent excision of rue
+   avg.
+   Chief complaint:
+   hypotension
+   PMHx:
+   SLE c/b lupus nephritis, anemia, serositis and ascites now w/ ESRD on
+   HD T/Th/Sat, s/p CRT on [**8-/3491**] c/b rejection and capsule rupture
+   [**10/3491**], B/L renal solid masses s/p resection pathology was negative
+   for carcinoma, [**3494-3-29**] RUE AVG excision, hx of VSD s/p corrective
+   surgery at age 13, HTN, ITP, h/o MSSA endocarditis, sickle cell trait,
+   s/p left oophorectomy related to IUD associated infection, Restrictive
+   lung disease, GERD, Right pelvic abscess s/p TAH/BSO, R tib/fib fx with
+   ORIF [**3493-6-20**] c/b wound/Hardware infection requiring BKA [**3493-11-17**]
+   Current medications:
+   . Acetaminophen 2. Amitriptyline 3. Aspirin 4. Calcitriol 5. Calcium
+   Acetate 6. Daptomycin 7. Docusate Sodium
+   8. Gentamicin 9. Gentamicin 10. HYDROmorphone (Dilaudid) 11. Insulin
+   12. Lactulose 13. LeVETiracetam
+   14. Nephrocaps 15. Pantoprazole 16. PredniSONE 17. Topiramate (Topamax)
+   24 Hour Events:
+   Allergies:
+   Demerol (Injection) (Meperidine Hcl)
+   Anaphylaxis; Wh
+   Unasyn (Intraven.) (Ampicillin Sodium/Sulbactam Na)
+   Rash;
+   Cephalosporins
+   Rash;
+   Levaquin (Intraven.) (Levofloxacin/Dextrose 5%-Water)
+   Itchiness above
+   Moexipril
+   Rash; Fixed-[**Last Name (un) 972**]
+   Morphine
+   Hives; Rash;
+   Cyclosporine
+   Unknown;
+   Last dose of Antibiotics:
+   Gentamicin - [**3495-1-26**] 08:30 PM
+   Infusions:
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**3495-1-26**] 11:00 AM
+   Pantoprazole (Protonix) - [**3495-1-26**] 08:09 PM
+   Other medications:
+   Flowsheet Data as of  [**3495-1-27**] 07:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**97**] a.m.
+   Tmax: 37.1
+C (98.7
+   T current: 35.5
+C (95.9
+   HR: 70 (64 - 97) bpm
+   BP: 107/70(78) {75/42(49) - 118/78(86)} mmHg
+   RR: 13 (12 - 22) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    839 mL
+                                                                     69 mL
+   PO:
+                                                                    429 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    290 mL
+                                                                     69 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    839 mL
+                                                                     69 mL
+   Respiratory support
+   SPO2: 100%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress, Anxious
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Trace), (Temperature: Warm)
+   Neurologic: (Awake / Alert / Oriented: x 3), Moves all extremities
+   Labs / Radiology
+   60 K/uL
+   11.7 g/dL
+   76 mg/dL
+   9.5 mg/dL
+   29 mEq/L
+   5.5 mEq/L
+   54 mg/dL
+   101 mEq/L
+   136 mEq/L
+   36.5 %
+   5.2 K/uL
+         [image002.jpg]
+                             [**3495-1-24**]  12:30 PM
+                             [**3495-1-25**]  03:13 AM
+                             [**3495-1-26**]  02:50 AM
+                             [**3495-1-27**]  04:36 AM
+   WBC
+   5.4
+   5.0
+   5.2
+   Hct
+   39.3
+   36.2
+   36.5
+   Plt
+   69
+   61
+   60
+   Creatinine
+   4.7
+   6.2
+   8.1
+   9.5
+   Glucose
+   99
+   73
+   76
+   76
+   Other labs: PT / PTT / INR:14.4/32.3/1.3, Ca:8.9 mg/dL, Mg:2.5 mg/dL,
+   PO4:5.1 mg/dL
+   Assessment and Plan
+   .H/O TRANSPLANT, KIDNEY (RENAL TRANSPLANT), RENAL FAILURE, END STAGE
+   (END STAGE RENAL DISEASE, ESRD), .H/O SYSTEMIC LUPUS ERYTHEMATOSUS
+   (SLE), HYPOTENSION (NOT SHOCK), [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN
+   COMMENTS
+   Assessment and Plan: 31 yo F with ESRD due to SLE, s/p failed txplt
+   [**3490**] requiring explant, ITP, with pulm HTN, s/p bilat nephrectomies
+   [**1-12**] for bilat renal masses, Also MSSA endocarditis mitral valve; R
+   BKA
+   Underwent excision of rue avg.
+   Neurologic: dilaudid, topamax
+   Cardiovascular: intermittent episodes of symptomatic hypotension,
+   responds well to small fluid boluses of 250cc
+   Pulmonary: no issues
+   Gastrointestinal / Abdomen: renal diet
+   Nutrition: renal diet
+   Renal:
+   Dialyzed [**1-24**].  Dialysis machine malfunction on [**1-26**].  Renal
+   considering CVVH today.
+   Hematology: Hct stable
+   Endocrine: RISS
+   Infectious Disease: Dapto/Gent; Follow up cultures. If blood cx
+   positive, will remove HD line
+   Lines / Tubes / Drains: PIV; dialysis cath
+   Wounds: R AV graft site drained
+   Imaging:
+   Fluids: KVO
+   Consults: Transplant, renal, ID
+   Billing Diagnosis: Other: hypotension
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3495-1-24**] 02:51 PM
+   Dialysis Catheter - [**3495-1-24**] 03:05 PM
+   20 Gauge - [**3495-1-25**] 11:15 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent:
+
+
+DOC CLASS

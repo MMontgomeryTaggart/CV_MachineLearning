@@ -1,0 +1,123 @@
+Chief Complaint:
+   HPI:
+    48F with ESRD, chronic HBV, cirrhosis, diarrhea and malnutrition of
+   unclear etiology s/p PEG placement on [**2582-12-25**], diabetes, admitted to
+   [**Hospital3 **] on [**2583-1-8**], transferred to [**Hospital1 1**] [**1-9**] for multiple medical
+   issues and abscess at PEG site. Was debrided, later
+   underwent closure of gastrostomy and peg removal, now underwent
+   extensive debridement of abd wall [**1-21**] fascitis.
+   Post operative day:
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Entecavir 1 mg once a week: Fridays AFTER hemodialysis, - Lisinopril
+   20' , Megestrol 400", Metoprolol 50', Ursodiol 300", Nexium 40',
+   Tenofovir 300 mg 1X/WEEK, Gabapentin 300', Prednisone 5', Insulin
+   Glargine 15U'
+   Past medical history:
+   Family / Social  history:
+   HepB, ESRD, DM (neuropathy, nephropathy, retinopathy), HTN, diarrhea,
+   weight loss, malabsorption, CVA, ? autoimmune cholangiopathy (on
+   prednisone
+   PEG ([**2582-12-25**])
+   Flowsheet Data as of  [**2583-2-1**] 03:12 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**84**] AM
+   Tmax: 35.3
+C (95.5
+   Tcurrent: 35.3
+C (95.5
+   HR: 81 (81 - 82) bpm
+   BP: 123/72(85) {123/71(85) - 138/72(88)} mmHg
+   RR: 15 (15 - 15) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             814 mL
+   PO:
+             TF:
+   IVF:
+   814 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     25 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    789 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ////
+   Physical Examination
+   General Appearance: Thin, ill appearing
+   Eyes / Conjunctiva: icteric sclerae
+   Head, Ears, Nose, Throat: Normocephalic, NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: No(t) Soft, Tender: , Dry dressing over wound
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Oriented (to): x3, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   748
+   116
+   3.7
+   20
+   6.2
+   60
+   102
+   139
+   30.2
+   18.9
+        [image002.jpg]
+   Assessment and Plan
+   Assessment And Plan: 48F with ESRD, chronic HBV, s/p PEG on [**2582-12-25**] c/b
+   abdominal wall abscess s/p exlap, closure of gastrostomy and peg
+   removal, now s/p  I&D abd wall abscess
+   Neurologic: a&o. dilaudid pca 0.12, low threshold for incr. 2mg po q4
+   prn long acting
+   Cardiovascular: stable. no issues.
+   Pulmonary: stable on 2l nc
+   Gastrointestinal: npo/dht, kerlix & dry dressing to wound.
+   Renal: K6.2 in or.  HD in icu. recheck post HD & in am
+   Hematology: Hct 30.2
+   Infectious Disease: -wbc stable @ 18. will follow
+   -linezolid,cipro, fluc,flagyl
+   Endocrine: ssi
+   Fluids: kvo
+   Electrolytes: K6.2 in or.  HD in icu. recheck in am.
+   Nutrition: npo. will check w/ prim team when can resume feeds
+   General:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**2583-2-1**] 01:40 PM
+   Dialysis Catheter - [**2583-2-1**] 01:42 PM
+   Prophylaxis:
+   DVT: Boots(no heparin per prim team)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: Admit to ICU
+   Total time spent:
+
+
+DOC CLASS

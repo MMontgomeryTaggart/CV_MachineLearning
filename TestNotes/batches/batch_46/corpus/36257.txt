@@ -1,0 +1,209 @@
+Admission Date:  [**2870-6-9**]              Discharge Date:   [**2870-6-12**]
+
+Date of Birth:  [**2848-5-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Drug Allergy Information on File
+
+Attending:[**First Name3 (LF) 12920**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mr [**Known patient lastname **] is a 22M w SCZ x1 year, stable on clozapine, who now
+p/w AMS.
+.
+Per MICU admission note, pt was in his USOH until the day of
+admission, when at 4am he experienced insomnia [**3-3**] racing
+thoughts. He called his mother and told her that he has not
+taken his meds since moving to [**Location (un) 268**] 2-3 days ago. She told him
+to take his usual nighttime meds-- clozapine 200mg and
+sertraline. He called her back at 4:30am and informed her that
+he took 7 clozapine 100mg tabs in an attempt to "stop the racing
+thoughts". His mother called poison control who recommended
+calling EMS.
+.
+Per mother, pt took overdose of clonopin (9 tabs) about one year
+ago for similar reason. Also has history of [**5-4**] psych
+hospitalizations, at least one for suicidal ideation.
+.
+In the ED, was persistently tachy to 120-140s. BP remained
+stable. Satting well on RA. Was agitated, mumbling, slurring
+speech. EKG with slightly prolonged QTc, concern for TCA
+toxicity, however no change with amp of bicarb x 2. Serum and
+urine tox negative. Admitted to MICU for close monitoring.
+.
+Toxicology consult thought findings were consistent with
+clozapine OD, recommended serial EKGs, supportive care and
+benzos for agitation. Pt had a reported episode of priapism,
+which resolved without intervention. Pt remained tachycardic in
+the 112-139 range x 24 hours, mental status improved.
+.
+On transfer to the medicine floor, pt reports continued "racing
+thoughts" and feeling tired. Denies F/C, CP/SOB, abd pain, N/V/D
+or urinary sxs. Denies hearing voices or suicidal ideation.
+
+Past Medical History:
+-Schizophrenia- hospitalized 4-5 times, was being followed by
+Dr. [**Last Name (STitle) 32432**] ([**Location (un) 32433**], ME [**Telephone/Fax (1) 32434**]), CSI counseling
+service ([**Telephone/Fax (1) 32435**])
+-Anxiety
+
+Social History:
+Recently moved from [**State 53**] to [**Location (un) 268**] to start college.
+Smoking: occasional (last cigarette 1 month ago)
+EtOH: social (3-5 drinks/day 2-3x per week)
+Drugs: h/o marijuana in the past
+
+
+Family History:
+Grandmother with anxiety. Maternal uncles with depression.
+Paternal grandmother also with psychiatric problems
+
+Physical Exam:
+Vitals: T: 96.1, BP: 131/69, P: 137, R: 14, O2: 99% on RA
+General: alternating between somnolence and agitation with any
+provocation, non-verbal, mumbling occasionally, moving all
+extremities
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+LABS:
+[**2870-6-9**] 05:50AM BLOOD WBC-9.3 RBC-4.89 Hgb-14.3 Hct-41.1 MCV-84
+MCH-29.3 MCHC-34.8 RDW-13.7 Plt Ct-271
+[**2870-6-9**] 05:50AM BLOOD Neuts-54.2 Lymphs-35.3 Monos-6.2 Eos-3.7
+Baso-0.5
+[**2870-6-9**] 05:50AM BLOOD Glucose-149* UreaN-15 Creat-1.0 Na-136
+K-5.0 Cl-101 HCO3-26 AnGap-14
+[**2870-6-10**] 05:32AM BLOOD ALT-22 AST-22 CK(CPK)-179* AlkPhos-121*
+TotBili-0.3
+[**2870-6-10**] 05:32AM BLOOD TSH-1.9
+.
+TOX:
+[**2870-6-9**] 05:50AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2870-6-9**] 06:25AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+.
+URINE:
+[**2870-6-9**] 06:25AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.023
+[**2870-6-9**] 06:25AM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-TR
+[**2870-6-9**] 06:25AM URINE RBC-0.2 WBC-[**4-3**] Bacteri-FEW Yeast-NONE
+Epi-0
+.
+CARDIOLOGY:
+[**6-9**] - EKG:
+Sinus tachycardia. Normal tracing except for the rate. No
+previous tracing
+available for comparison.
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+105 140 110 348/426 64 68 46
+.
+[**6-11**] - EKG:
+Normal sinus rhythm. No ST/TW changes. QTc wnl.
+.
+RADIOLOGY:
+CXR ([**6-9**]): IMPRESSION: Within normal limits.
+
+Brief Hospital Course:
+In short, Mr [**Known patient lastname **] is a 22M w SCZ on clozapine, who p/w AMS [**3-3**]
+clozapine overdose.
+.
+# CLOZAPINE OVERDOSE: Clinical picture was consistent with
+atypical antipsychotic medication toxidrome:
+anti-alpha1-adrenergic effects (sinus tachycardia 110s-130s),
+anti-histaminic effects (sedation), anti-cholinergic effects
+(confusion, flushing, dry mouth). Also mild prolongation in QTc
+on admission. No electrolyte abnormalities. Tox screens
+negative. Pt received supportive care and was monitored in the
+CCU in the first 24 hrs. He was seen by toxicology and
+psychiatry. Pt denies suicidal ideation, acknowledges that he
+should not have taken more than the prescribed number of
+clozapine pills. He is discharged with his mother present on his
+prior home regimen with outpatient followup with his
+psychiatrist in [**State 53**].  Follow-up appointments in [**State 1289**]
+pending insurance paperwork (BEST referral for psychiatry, [**Company 888**]
+appointment for primary care). Contracted for safety.
+.
+# ERECTION: Reported to have a 2-3 hour episode of erection in
+the ED, which could have been [**3-3**] clozapine (case reports of
+associated priapism). Urology consulted, recommended
+conservative measures. Erection resolved.
+.
+# SCHIZOPHRENIA: Pt currently denies positive sxs. Seen by
+psychiatry. Restarted on clozapine 100qam, 200qpm. Needs
+outpatient followup.
+.
+# CONTACT: mother [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 32436**] (home) in [**State 53**]
+
+
+Medications on Admission:
+Clozaril 100mg qAM, 200mg qPM
+Zoloft (unclear dose)
+
+Discharge Medications:
+1. Clozapine 100 mg Tablet Sig: Two (2) Tablet PO at bedtime.
+2. Zoloft 100 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Clozapine 100 mg Tablet Sig: One (1) Tablet PO qam.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+clozapine overdose
+.
+schizophrenia
+anxiety
+
+
+Discharge Condition:
+improved, alert, oriented x3, hemodynamically stable
+
+
+Discharge Instructions:
+You were admitted to the hospital for taking too much of your
+clozapine. We monitored you for possible toxic side-effects and
+provided supportive care. Your condition has now improved.
+.
+Please take your medications as directed in the future.
+1. clozapine 100mg in the morning, 200mg in the evening
+2. sertraline 100mg in the morning
+.
+If you have any fevers, chills, shortness of breath, chest pain,
+palpitations, confusion, dizziness, lightheadedness, abdominal
+pain, or any other concerning symptoms, please call your
+physician [**Name Initial (PRE) 2082**].
+
+Followup Instructions:
+Please call [**Hospital3 **] at [**Hospital1 22**] for primary care
+appointment within a week of your discharge: [**Telephone/Fax (1) 305**].
+.
+You were given extensive information regarding BEST referral for
+psychiatry followup in [**Location (un) 268**]. Until an appointment can be made,
+please follow up with your psychiatrist in [**State 53**]: Dr. [**Last Name (STitle) 32432**]
+([**Location (un) 32433**], ME [**Telephone/Fax (1) 32434**]).
+
+
+
+Completed by:[**2870-6-12**]
+
+DOC CLASS

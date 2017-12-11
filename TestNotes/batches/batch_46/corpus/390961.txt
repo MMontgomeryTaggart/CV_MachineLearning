@@ -1,0 +1,200 @@
+TITLE:
+   Chief Complaint: respiratory failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   - cont to have sig secretions on sxn
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Tobramycin - [**3105-3-30**] 12:30 AM
+   Infusions:
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**3105-3-31**] 08:22 PM
+   Lorazepam (Ativan) - [**3105-4-1**] 03:33 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3105-4-1**] 11:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.7
+   Tcurrent: 35.8
+C (96.5
+   HR: 108 (101 - 116) bpm
+   BP: 101/50(64) {88/39(54) - 125/95(100)} mmHg
+   RR: 23 (15 - 36) insp/min
+   SpO2: 97%
+   Heart rhythm: SA (Sinus Arrhythmia)
+   Wgt (current): 80.2 kg (admission): 74 kg
+   Height: 56 Inch
+                  Total In:
+                                                                    320 mL
+                                                                    290 mL
+   PO:
+                  TF:
+                  290 mL
+   IVF:
+   Blood products:
+   Total out:
+                                                                    279 mL
+                                                                     12 mL
+   Urine:
+                                                                     44 mL
+                                                                     12 mL
+   NG:
+                                                                    235 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                     41 mL
+                                                                    278 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 329 (310 - 396) mL
+   PS : 16 cmH2O
+   RR (Spontaneous): 21
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 83
+   PIP: 22 cmH2O
+   SpO2: 97%
+   ABG: ////
+   Ve: 6.8 L/min
+   Physical Examination
+   General Appearance: Well nourished
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender
+   Skin:  Warm
+   Neurologic: No(t) Attentive, No(t) Follows simple commands, Responds
+   to: Not assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   8.0 g/dL
+   74 K/uL
+   78 mg/dL
+   4.1 mg/dL
+   29 mEq/L
+   6.0 mEq/L
+   111 mg/dL
+   91 mEq/L
+   132 mEq/L
+   24.7 %
+   16.5 K/uL
+        [image002.jpg]
+                             [**3105-3-26**]  05:00 PM
+                             [**3105-3-27**]  12:41 AM
+                             [**3105-3-27**]  04:42 AM
+                             [**3105-3-27**]  04:36 PM
+                             [**3105-3-28**]  03:35 AM
+                             [**3105-3-28**]  05:06 PM
+                             [**3105-3-29**]  03:10 AM
+                             [**3105-3-29**]  04:51 PM
+                             [**3105-3-30**]  03:30 AM
+                             [**3105-3-31**]  03:06 AM
+   WBC
+   20.4
+   25.8
+   25.6
+   20.3
+   20.9
+   18.8
+   16.5
+   Hct
+   20.7
+   24.5
+   23.1
+   23.3
+   23.6
+   21.6
+   25.1
+   25.5
+   24.7
+   Plt
+   109
+   147
+   169
+   129
+   128
+   103
+   74
+   Cr
+   1.7
+   1.8
+   2.1
+   2.4
+   2.8
+   3.0
+   3.2
+   3.5
+   4.1
+   Glucose
+   100
+   101
+   100
+   69
+   119
+   125
+   108
+   91
+   78
+   Other labs: PT / PTT / INR:20.5/58.2/1.9, CK / CKMB /
+   Troponin-T:12/2/0.03, ALT / AST:16/41, Alk Phos / T Bili:311/4.3,
+   Amylase / Lipase:19/30, Differential-Neuts:77.0 %, Band:1.0 %,
+   Lymph:7.0 %, Mono:14.0 %, Eos:0.0 %, Fibrinogen:123 mg/dL, Lactic
+   Acid:1.8 mmol/L, Albumin:2.7 g/dL, LDH:294 IU/L, Ca++:7.9 mg/dL,
+   Mg++:3.1 mg/dL, PO4:8.4 mg/dL
+   Assessment and Plan
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+   felt secondary to dye load previous scans
+   family has decided against dialysis
+   progressive uremia and hyperkalemia
+ HYPERKALEMIA
+   secondary to progressive renal failure above
+   not treating seconary to family wishes
+ DECUBITUS ULCER (NOT PRESENT AT ADMISSION)
+ ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+   not checking labs per family
+ WOUND DEHISCENCE
+   sternal wound infection
+ RESPIRATORY FAILURE
+   cont mech vent via trache
+ ATRIAL FIBRILLATION (AFIB) with RVR
+   rate better controlled
+   cont amiodarone
+DNR/I.  Family wants to optimize pts comfort.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3105-4-1**] 12:33 AM 27 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3105-3-23**] 02:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition :
+   Total time spent:
+
+
+DOC CLASS

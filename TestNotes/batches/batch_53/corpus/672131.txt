@@ -1,0 +1,190 @@
+Chief Complaint: resp failure, fever tachycardia
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ URINE CULTURE - At [**3080-11-8**] 03:16 PM
+   Remained on BiPAP intermittently overnight.
+   Sig oral secretions
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown;
+   Hydantoins
+   Unknown;
+   Trimethadione/Paramethadione
+   Unknown;
+   Phenacemide
+   Unknown;
+   Barbiturates
+   Unknown;
+   Primidone
+   Unknown;
+   Gadolinium-Containing Agents
+   Unknown;
+   Mysoline (Oral) (Primidone)
+   Unknown;
+   Last dose of Antibiotics:
+   Cefipime - [**3080-11-8**] 03:17 PM
+   Vancomycin - [**3080-11-9**] 08:16 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3080-11-9**] 08:15 AM
+   Lansoprazole (Prevacid) - [**3080-11-9**] 08:16 AM
+   Other medications:
+   per [**Month (only) **] (reviewed)
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3080-11-9**] 10:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 37.1
+C (98.8
+   HR: 94 (64 - 100) bpm
+   BP: 120/66(79) {99/57(67) - 144/98(118)} mmHg
+   RR: 24 (23 - 42) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 61 kg (admission): 61 kg
+             Total In:
+                                                                  1,520 mL
+                                                                    262 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,365 mL
+                                                                    212 mL
+   Blood products:
+   Total out:
+                                                                    415 mL
+                                                                    245 mL
+   Urine:
+                                                                    415 mL
+                                                                    245 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,105 mL
+                                                                     17 mL
+   Respiratory support
+   O2 Delivery Device: Bipap mask
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 582 (390 - 646) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 27
+   PEEP: 4 cmH2O
+   FiO2: 50%
+   PIP: 17 cmH2O
+   SpO2: 100%
+   ABG: ///27/
+   Ve: 13.8 L/min
+   Physical Examination
+   General Appearance: NAD with BiPAP mask in place
+   Cardiovascular: (S1: Normal), (S2: Normal),
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present),
+   Respiratory / Chest: (Breath Sounds: Wheezes : exp, Rhonchorous: r> l),
+   Abdominal: Soft, Non-tender, Bowel sounds present, g-tube site with
+   stable erythema
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent, rue mildly edematous
+   Skin:  Chronic skin changes
+   Neurologic: Attentive, alert and following commands, notable tremor
+   Labs / Radiology
+   11.9 g/dL
+   156 K/uL
+   134 mg/dL
+   0.9 mg/dL
+   27 mEq/L
+   4.3 mEq/L
+   29 mg/dL
+   106 mEq/L
+   140 mEq/L
+   37.3 %
+   7.0 K/uL
+        [image002.jpg]
+                            [**3080-11-8**]  05:10 PM
+                            [**3080-11-9**]  04:31 AM
+   WBC
+   7.0
+   Hct
+   37.3
+   Plt
+   156
+   Cr
+   0.8
+   0.9
+   TropT
+   <0.01
+   Glucose
+   164
+   134
+   Other labs: CK / CKMB / Troponin-T:146/3/<0.01, Differential-Neuts:79.7
+   %, Lymph:13.8 %, Mono:6.2 %, Eos:0.1 %, Ca++:8.5 mg/dL, Mg++:2.4 mg/dL,
+   PO4:4.1 mg/dL
+   Microbiology: urine lg neg
+   u/a neg
+   u cx pending
+   bl [**11-23**] with GPC clusters
+   Assessment and Plan
+   77M NH resident with copd, L hemid elevation  with prior LL lobectomy,
+   chronic aspiration, Parkinson
+s ds presents with
+         Fever,
+         Resp failure requiring NPPV
+         Hypoxemia (probable asp and copd flare)
+         Tachycardia
+         Transient hypotension
+         Elevated CEs, probable demand ischemia (now resolved)
+         hyperK (resolved)
+   Suspect aspiration pna/pneumonitis and copd exacerbation are the
+   primary issues leading to this presentation in a pt with significant
+   underlying lung ds with copd and probable restrictive pulmonary
+   physiology from kyphosis.  He does not seem to have significant lower
+   tract secretions but rather oral secretions are difficult to manage.
+   We have been unable to obtain adequate sputum sample and he is too
+   tenuous for bronchoscopy.
+    Agree with plan to treat for asp pna and copd exacerbation.  Now day 2
+   empiric broad antibx for NH acquired pna/asp and possible UTI  w/
+   vanco,cefe, tailoring per cx data.  Now with
+ GPC clusters from blood
+   (? Contaminant).  Continue steroids, and nebs.  He has tolerated NPPV
+   well, able to take breaks intermittently, but remains tenuous from resp
+   standpoint  and he does not appear to have a quickly reversible pulm
+   process and may require intubation, with aggressive pulm toilet.. Would
+   repeat CXR and abg at this time, and obtain CT chest to better assess
+   lung parenchyma once intubated or more stable from resp standpoint.
+   Tachycardia has improved and suspect was related to resp distress.
+   Hypotension resolved after minimal IVFs. Keep NPO (g tube) for now for
+   possible intubation. ,CU: PIvs, PPI, sq hep.
+   Remainder of plan as outlined in resident note.
+   Patient is critically ill, full code
+   Total time: 50 min
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3080-11-9**] 05:00 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 40 minutes
+   Patient is critically ill
+
+
+DOC CLASS

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="45449.txt">
+    <annotation>
+        <mention id="EHOST_Instance_87" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="1113" end="1166" />
+        <spannedText>etiology of her bleeding turned out to be hemorrhoids</spannedText>
+        <creationDate>Wed Nov 01 12:27:50 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_91">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_87">
+        <hasSlotMention id="EHOST_Instance_91" />
+        <mentionClass id="bleeding_present">etiology of her bleeding turned out to be hemorrhoids</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_88" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="722" end="751" />
+        <spannedText>questionable uterine bleeding</spannedText>
+        <creationDate>Wed Nov 01 12:28:13 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_92">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_88">
+        <hasSlotMention id="EHOST_Instance_92" />
+        <mentionClass id="bleeding_hypothetical">questionable uterine bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_89" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="2968" end="3027" />
+        <spannedText>CT scan showed a moderate amount retroperitoneal hemorrhage</spannedText>
+        <creationDate>Wed Nov 01 12:28:23 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_93">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_89">
+        <hasSlotMention id="EHOST_Instance_93" />
+        <mentionClass id="bleeding_present">CT scan showed a moderate amount retroperitoneal hemorrhage</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_90" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="5916" end="5925" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Wed Nov 01 12:28:37 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_94">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_95">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_90">
+        <hasSlotMention id="EHOST_Instance_94" />
+        <hasSlotMention id="EHOST_Instance_95" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

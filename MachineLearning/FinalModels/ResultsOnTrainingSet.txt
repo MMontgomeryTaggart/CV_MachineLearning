@@ -1,0 +1,100 @@
+Results from running the models on the training set.
+
+*******************  Extra Trees Classifier Performance and Parameters with CUSTOM STOPWORDS *******************
+
+##### Extra Trees (Downsampled) ######
+
+
+##### Extra Trees (Not Downsampled) ######
+
+
+Parameters for downsampled and not downsampled:
+Number of Trees: 80
+Split Criterion: Gini
+N-Gram Range: 1-3
+Num Features: sqrt(vocabulary_size) which turned out to be 729 for the non-downsampled set and 533 for the downsampled set.
+
+Custom Stopword List: ['age','ago','also','already',
+                       'x','year', 'old', 'man', 'woman', 'ap',
+                        'am', 'pm', 'portable', 'pa', 'lat',
+                        'admitting', 'diagnosis', 'lateral',
+                        'bb','bp','c','daily','data','date','abd','abg',
+                        'mg','ast','av','ck','cm','cr','cv','cvp','cpk','cx','day','dp','ed','f','ffp'
+                         ,'hct','hd','icu','ii','id','ml','af','arf','bs',
+                         'cc','ccu','hr','ef','fen','hpi','l','k','r','ra','abx'
+                          'alk','phos','iv','ext','gi','iv','ivf','ni','ng','vs','vt','yo','yn',
+                          'zosyn','kg','abx','alk','alt','ckmb','ct','cta','p','pe','po','c','ck','ca'
+                          'q','cr','ni','ett','iv','g','h','j','k','l','z','x','c','v','b','n','m','i','ii',
+                          'iii','iv','kg','lll','lvh','mb','mcg','md','ml','xl','wnl','wgt',
+                          'q','w','e','r','t','y','u','i','o','p','first','gm','hcl','hs','hrs',
+                          'inr','mmm','mr','mri','mrsa','ms','lf','nl','ns','nsr','sh','nt','tf','tr'
+                          ,'wbc','plt','bcx','bph','bmp','mmhg','bps','sq','ld','ce','cbc','ckd',
+                          'cp','cxr','cva','cvicu','dm','dr','name','ep','er','gtt','iabp','cxr',
+                          'jvd','jvp','pt','kvo','lbs','na','nad','nd','nph','npo','osh']
+
+
+
+
+
+******************* Extra Trees Classifier Performance and Parameters with STOCK ENGLISH STOPWORDS *******************
+All parameters are the same as above except the stopwords and the number of features. The number of features
+is given below.
+
+##### Extra Trees (Downsampled) ######
+Num Features: sqrt(vocabulary_size) which turned out to be 536
+
+
+
+##### Extra Trees (Not Downsampled) ######
+Num Features: sqrt(vocabulary_size) which turned out to be 731
+
+
+
+
+
+
+
+
+*******************    Support Vector Machine Performance and Parameters  *******************
+
+##### SVM (Downsampled) ######
+
+
+##### SVM (Not Downsampled) ######
+
+
+Parameters for downsampled and not downsampled:
+N-Gram Range: 103
+Minimum Document Frequency: 0.001
+Maximum Document Frequency: .5
+Stop Words: "english"
+Number of Features: 100
+C: 1000
+Kernel: linear
+
+
+
+
+
+
+
+******************* Convolutional Neural Network Paramaters and Performance ******************
+
+##### CNN (Downsampled) ######
+Performance:
+
+
+Parameters:
+Epochs: 12
+Batch Size: 8
+Word Embeddings: GloVe
+
+
+##### CNN (Not Downsampled) ######
+Performance:
+
+
+Parameters:
+Epochs: 4
+Batch Size: 8
+Word Embeddings: GloVe

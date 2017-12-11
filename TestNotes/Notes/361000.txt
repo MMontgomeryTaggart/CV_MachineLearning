@@ -1,0 +1,165 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Fellow for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Febrile this am w/ incr O2 requirement.
+   Allergies:
+   Zidovudine
+   Unknown;
+   Last dose of Antibiotics:
+   Azithromycin - [**2787-12-8**] 08:01 PM
+   Fluconazole - [**2787-12-8**] 08:20 PM
+   Ceftriaxone - [**2787-12-9**] 07:38 AM
+   Infusions:
+   Other ICU medications:
+   Coumadin (Warfarin) - [**2787-12-8**] 08:01 PM
+   Other medications:
+   MVI, Colace
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2787-12-9**] 11:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39
+C (102.2
+   Tcurrent: 39
+C (102.2
+   HR: 149 (96 - 149) bpm
+   BP: 132/103(107) {88/16(43) - 132/103(108)} mmHg
+   RR: 47 (26 - 47) insp/min
+   SpO2: 91%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 61 Inch
+             Total In:
+                                                                  5,067 mL
+                                                                    953 mL
+   PO:
+                                                                    370 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    697 mL
+                                                                    833 mL
+   Blood products:
+   Total out:
+                                                                  1,100 mL
+                                                                  1,530 mL
+   Urine:
+                                                                  1,100 mL
+                                                                  1,530 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,967 mL
+                                                                   -578 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 91%
+   ABG: 7.42/22/68/13/-7
+   Physical Examination
+   General Appearance: mild resp distress
+   Head, Ears, Nose, Throat: oral thrush present
+   Cardiovascular: (S1: Normal), (S2: Normal), no m/r/g
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Rhonchorous: bilat)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   9.5 g/dL
+   140 K/uL
+   118 mg/dL
+   1.3 mg/dL
+   13 mEq/L
+   3.9 mEq/L
+   42 mg/dL
+   116 mEq/L
+   140 mEq/L
+   27.1 %
+   3.8 K/uL
+        [image002.jpg]
+                             [**2787-12-8**]  07:06 PM
+                             [**2787-12-9**]  03:31 AM
+                             [**2787-12-9**]  07:58 AM
+   WBC
+   3.8
+   Hct
+   27.1
+   Plt
+   140
+   Cr
+   1.6
+   1.3
+   TCO2
+   15
+   Glucose
+   82
+   118
+   Other labs: PT / PTT / INR:106.3/56.5/14.3, Lactic Acid:1.1 mmol/L,
+   Ca++:7.4 mg/dL, Mg++:1.9 mg/dL, PO4:1.9 mg/dL
+   Fluid analysis / Other labs: FeNa (admission) 0.7%
+   Imaging: CXR this am- increased bilat LL pneumonia w/ RUL patchy
+   infiltrate
+   Microbiology: Sputum- pending
+   Legionella Ag- neg
+   Blood cx- pending
+   Influenza DFA- refused by pt
+   Assessment and Plan
+   HYPOXEMIC RESP DISTRESS- underlying infectious process (see below) +
+   pulm edema given low EF and + fluid balance yest
+   -gentle diuresis for neg fluid balance
+   -infectious mgmt as below
+   PROBABLE PNEUMONIA- DDx includes viral syndrome, CAP, aspiration, as
+   well as atypicals, PCP, [**Name10 (NameIs) **]
+   [**Name11 (NameIs) 7481**] isolation for r/o TB given chronic history, high-risk social
+   situation
+   -influenza DFA
+   -empiric coverage for CAP
+   -send sputum for gm stain, cx, PCP DFA
+   [**Name9 (PRE) 4967**] bronch for infectious workup; will dicuss w/ patient and plan
+   tentatively for am tomorrow if INR better, O2 reqt ok. NPO p MN.
+   -speech and swallow eval
+   ACUTE RENAL FAILURE- prerenal by history, labs, resolving w/ fluid
+   resuscitation
+   HIV- not on HAART [**12-21**] poor compliance
+   -would cont PCP prophylaxis at least
+   -cont fluconazole for oral candidiasis
+   APLA- supratherapeutic on coumadin
+   -hold all anticoag for now. s/p vit K yest and today, monitor for any
+   sign of downtrending Hct or clinical bleeding
+   -monitor INR
+   CARDIOMYOPATHY- EF 25-30%
+   -cont BB, ACE-I, digoxin, held for now
+   -gentle diuresis as above for goal TBB neg 500/day
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   18 Gauge - [**2787-12-8**] 05:06 PM
+   20 Gauge - [**2787-12-8**] 05:06 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes
+   Patient is critically ill
+
+
+DOC CLASS

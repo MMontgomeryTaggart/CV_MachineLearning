@@ -1,0 +1,401 @@
+Admission Date:  [**3125-6-23**]              Discharge Date:   [**3125-6-30**]
+
+Date of Birth:  [**3044-12-23**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Claritin / [**Doctor First Name 2238**] / Sulfa (Sulfonamide Antibiotics) /
+Furosemide / Lipitor / Zocor / Lescol
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**3125-6-23**] Cardiac Catheterization
+[**3125-6-25**] Redo mitral valve replacement ([**First Name8 (NamePattern2) 1044**] [**Male First Name (un) 357**]
+Bioprosthetic) via right thoracotomy and atrial septal defect
+closure
+
+History of Present Illness:
+80 year old female with a history of prosthetic mitral valve 8
+years ago, who now has worsening prosthetic valve stenosis that
+is causing progressive shortness of breath and lower extremity
+edema which has been treated medically. In [**3125-3-17**], she was
+deemed inoperable. Stated by Dr. [**Last Name (STitle) **] at that
+time, if after balloon valvuloplasty her PA pressures return to
+normal and her RV recovers, she may be a candidate for surgery.
+She underwent valvuloplasty on [**3125-3-31**].  She returns today for
+repeat cath and echo to further evaluate efficacy of
+valvuloplasty based on response of PA pressures.  Last dose of
+coumadin was [**3125-6-18**] and she will be admitted post cath for
+heparin and pre-op workup.
+
+Past Medical History:
+Mitral Regurgitation
+Prosthetic Valve Mitral Stenosis
+Dyslipidemia
+Hypertension
+Anxiety
+COPD
+Severe Pulm Hypertension
+s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4743**] [**Doctor Last Name 1804**] Bovine Pericardial MVR w/ preservation of
+anterior/posterior chordal structure/ CABG  LIMA to LAD, SVG to
+OMI, SVG to OM2 and SVG to PDA  ([**Hospital3 142**] [**3118**])
+s/p left atrial cyroablation, Left atrial appendage resection
+s/p appendectomy
+s/p removal of breast, sinus and abdominal tumor (benign)
+
+Social History:
+Lives with: husband
+Occupation: retired
+Tobacco: Quit somking 35 years ago,history of [**1-18**] ppd for 20
+years
+ETOH:denies
+
+Family History:
+Mom with cerebral hemorrhage at 48 yo. Dad had CVA at 72
+
+Physical Exam:
+Pulse:  60SR  Resp: 20  O2 sat: 94%RA
+B/P  150/73
+Height:     Weight: 60.7 kgs
+
+General: NAD, supine post cath
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Midline incision is well healed.
+       Lungs clear bilaterally [x] but diminished at bases
+Heart: RRR [x]  Irregular [x]  Murmur early [**2-22**] diastolic murmur
+
+       with radiation to the right carotid area
+Abdomen: Soft [x] non-distended [x] non-tender [x]
+        bowel sounds + [x]
+Extremities: Warm [x], well-perfused [x]
+       2+ pitting Edema bilaterally; no  Varicosities or venous
+
+       insufficiency changes. Vein harvested from the right leg
+
+       endoscopically.
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 0   Left: 0
+PT           [**Name (NI) **]: 0   Left: 0
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right:    Left:
+no bruits appreciated
+
+Pertinent Results:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *4.9 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *5.9 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.6 cm  <= 5.0 cm
+Left Ventricle - Ejection Fraction:  55% to 65%  >= 55%
+Aorta - Annulus:  1.7 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.3 cm  <= 3.0 cm
+Aorta - Ascending:  2.7 cm  <= 3.4 cm
+Aortic Valve - LVOT diam:  2.0 cm
+Mitral Valve - Peak Velocity:  2.0 m/sec
+Mitral Valve - Pressure Half Time:  304 ms
+Mitral Valve - MVA (P [**1-18**] T):  0.7 cm2
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. Probable thrombus in the
+LAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. A catheter
+or pacing wire is seen in the RA and extending into the RV. No
+ASD by 2D or color Doppler.
+LEFT VENTRICLE: Small LV cavity. Overall normal LVEF (>55%).
+RIGHT VENTRICLE: Dilated RV cavity. RV function depressed.
+Abnormal septal motion/position consistent with RV
+pressure/volume overload.
+AORTA: Normal ascending aorta diameter. Normal descending aorta
+diameter. Simple atheroma in descending aorta. No thoracic
+aortic dissection.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AS. No
+AR.
+MITRAL VALVE: Bioprosthetic mitral valve prosthesis (MVR).
+Thickened MVR leaflets.. Increased MVR gradient. Severe valvular
+MS (MVA <1.0cm2). Mild to moderate ([**1-18**]+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to
+moderate [[**1-18**]+] TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Mild PR.
+Conclusions
+PRE-CPB:
+The left atrium is moderately dilated. The LAA has been ligated.
+A probable thrombus is seen in the left atrial appendage. No
+atrial septal defect is seen by 2D or color Doppler.
+The left ventricular cavity is unusually small. Overall left
+ventricular systolic function is normal (LVEF>55%).
+The right ventricular cavity is dilated with depressed free wall
+contractility. There is abnormal septal motion/position
+consistent with right ventricular volume overload.
+There are simple atheroma in the descending thoracic aorta. No
+thoracic aortic dissection is seen.
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic stenosis. No aortic
+regurgitation is seen.
+A bioprosthetic mitral valve prosthesis is present. The
+prosthetic mitral valve leaflets are thickened. The gradients
+are higher than expected for this type of prosthesis. There is
+severe valvular mitral stenosis (area <1.0cm2). Mild to moderate
+([**1-18**]+) mitral regurgitation is seen.
+POST-CPB:
+There is a new bioprosthetic valve in the mitral position. The
+valve is well-seated with normal leaflet motion. There is no MR.
+A trivial paravalvular jet is seen at the 7-o-clock position.
+The peak gradient across the mitral valve posthesis is 17mmHg,
+the mean gradient is 8mmHg with CO of 4.7. The MVA by PHT is
+1.7cm2.
+The RV systolic function remains depressed, however appears
+slightly improved from pre-op. (The pt is on milrinone and
+norepi infusions as well as inhaled NO.) The LV systolic
+function remains normal, estimated EF is 60%.
+The aortic valve remains normal in structure and function. The
+TR has decreased to trace.
+
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**3125-6-30**] 06:03    11.0 4.34 11.2* 35.8* 83 25.8* 31.3 16.5*
+121*
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**3125-6-30**] 06:03        121*
+[**3125-6-30**] 06:03    22.2* 29.8   2.1
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**3125-6-30**] 06:03    811 25* 0.8 138 4.9 102 31 10
+
+[**Known patient lastname 12958**],[**Known patient firstname **] [**PT ID Number 12959**] F  80  [**3044-12-23**]
+Radiology Report CHEST (PA & LAT) Study Date of [**3125-6-30**] 8:24 AM
+
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2711**] FA6A [**3125-6-30**] 8:24 AM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 12960**]
+Reason: eval for effusion
+
+Final Report
+INDICATION: Evaluate for effusion after MVR.
+
+COMPARISON: Multiple radiographs dating back to [**3125-6-23**], most
+recently
+[**3125-6-27**].
+
+FINDINGS: The patient is status post mitral valve replacement
+with intact
+median sternotomy wires. The right internal jugular introducer
+has been
+removed. Small bilateral pleural effusions, left greater than
+right, and
+associated atelectasis are stable. The right mid lung pleural
+density is
+unchanged from [**3125-6-26**] but is new from [**3125-6-23**] and is likely a
+loculated
+pleural effusion. There is no pneumothorax. Aortic valve
+calcifications are
+re-demonstrated. Cardiac and mediastinal silhouettes and hilar
+contours are
+stable. Right axillary clips are again noted.
+
+IMPRESSION:
+1. Bilateral pleural effusions and atelectasis, left greater
+than right, are
+stable.
+2. Small right loculated pleural effusion.
+
+
+
+
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname **] presented for cardiac catheterization on [**6-23**] and was
+admitted post procedure for preoperative workup. On [**6-25**] she was
+brought to the operating room and underwent redo mitral valve
+replacement and atrial septal defect via right thoracotomy.
+Please see operative report for further details. She received
+cefazolin and vancomycin for perioperative antibiotics and was
+transferred to the intensive care unit for post operative
+management. She was paced coming out of the operating room with
+an underlying rhythm of atrial fibrillation. Post-op she had
+some hypotension that required Levophed and Milrinone. Due to
+hemodynamics she remained intubated until post-op day two. On
+this day she was weaned from sedation, awoke neurologically
+intact and extubated. In addition to continuing pre-op
+medications, she was started on beta-blockers and diuretics and
+diuresed towards her pre-op medications. On post-op day three
+she was difficult to arouse and a stat head CT and neuro consult
+were performed. CT was negative and neurology thought her mental
+status was from sedative medications. Chest tubes and epicardial
+pacing wires were removed per protocol. Coumadin was restarted
+and titrated for a goal INR of [**2-18**].5. The following day she was
+transferred to the step-down unit for further recovery where she
+worked with physical therapy for strength and mobility. On
+post-op day five she appeared to be doing well and was
+discharged to rehab with the appropriate medications and
+follow-up appointments.
+
+Medications on Admission:
+ALBUTEROL SULFATE 90 mcg HFA 2 puffs inhaled PRN up to three
+times a day
+ATENOLOL 12.5 mg twice a day
+ETHACRYNIC ACID 25 mg tablet - [**1-18**] Tablet(s) by mouth once a day
+
+FLUTICASONE-SALMETEROL 250 mcg-50 mcg/Dose Disk 2 puffs daily
+FOLIC ACID 1 mg DAILY
+IPRATROPIUM-ALBUTEROL 18 mcg-103 mcg (90 mcg)/Actuation Aerosol
+- 2 (Two)
+puffs inhaled four times a day
+LEVALBUTEROL HCL 0.63 mg/3 mL q6hrs prn () as needed for
+wheezing/SOB
+PREDNISONE 5 mg every other day
+VALSARTAN 80 mg twice a day
+WARFARIN 2.5 mg daily (Sunday, Tu/Thurs/Saturday, none on other
+days. Last dose [**3125-6-18**] pre mitral valve surgery)
+ASCORBIC ACID 500 mg  once a day
+ASPIRIN 81 mg once a day
+B COMPLEX VITAMINS 1 Capsule(s) by mouth once a day
+B COMPLEX VITAMINS 1 Tablet(s) by mouth once a day
+CALCIUM CARBONATE 200 mg calcium (500 mg) Tablet, Chewable - 1
+Tablet(s) by mouth twice a day
+CHOLECALCIFEROL 1,000 unit once a day
+CYANOCOBALAMIN 1,000 mcg once a day
+CYANOCOBALAMIN 50 mcg DAILY
+DOCUSATE SODIUM 100 mg twice a day
+FLAXSEED OIL 1,000 mg twice a day
+MULTIVITAMIN twice a day
+VITAMIN E 400 unit once a day
+
+Discharge Medications:
+1. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+5. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. ethacrynic acid 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q4H (every 4 hours) as needed for dyspnea.
+
+8. ipratropium-albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours) as needed for dyspnea.
+9. prednisone 5 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+(Every Other Day).
+10. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+12. B complex vitamins     Capsule Sig: One (1) Cap PO DAILY
+(Daily).
+13. multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. valsartan 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+15. vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+16. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+17. cyanocobalamin (vitamin B-12) 100 mcg Tablet Sig: 0.5 Tablet
+PO DAILY (Daily).
+18. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+19. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed for pain.
+20. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+21. warfarin 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Titrate for Goal INR 2-2.5.
+(Pre-op doses were 0.5mg Sat, Sun, Tues, [**Last Name (un) **]. None on other
+days).
+22. amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day): 200mg [**Hospital1 **] x 5 days, then 200mg daily until stopped by
+cardiologist.
+23. bumetanide 2 mg Tablet Sig: One (1) Tablet PO twice a day
+for 10 days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 2571**] House Nursing Home - [**Location 2572**]
+
+Discharge Diagnosis:
+Prosthetic Mitral Valve Stenosis s/p Mitral Valve Replacement
+Atrial septal defect s/p ASD closure
+Past medical history:
+Dyslipidemia
+Hypertension
+Anxiety
+Chronic obstructive pulmonary disease
+Severe Pulmonary Hypertension
+Past Surgical History:
+-s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4743**] [**Doctor Last Name 1804**] Bovine Pericardial MVR w/ preservation
+of
+anterior/posterior chordal structure/ CABG LIMA to LAD, SVG to
+OMI, SVG to OM2 and SVG to PDA ([**Hospital3 142**] [**3118**])
+-s/p left atrial cyroablation, Left atrial appendage resection
+-s/p appendectomy
+-s/p removal of breast, sinus and abdominal tumor (benign)
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with
+Incisions:
+Right thoracotomy - healing well, no erythema or drainage
+Edema
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Wound check on [**7-7**] at 10:45am in [**Last Name (un) 1860**] [**Hospital Unit Name **]
+Surgeon: Dr.[**Last Name (STitle) **] on [**7-21**] at 1:15pm
+Cardiologist: Dr [**Last Name (STitle) 12961**] on [**8-5**] at 11:15am in
+
+Please call to schedule appointments with your
+Primary Care Dr [**Last Name (STitle) **] in [**4-21**] weeks [**Telephone/Fax (1) 12962**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication: Atrial fibrillation
+Goal INR 2-2.5
+First draw - Wed [**7-1**]
+
+
+Completed by:[**3125-6-30**]
+
+DOC CLASS

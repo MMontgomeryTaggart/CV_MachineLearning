@@ -1,0 +1,299 @@
+Admission Date:  [**3162-12-10**]              Discharge Date:   [**3162-12-12**]
+
+Date of Birth:  [**3084-11-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Codeine / Hydrochlorothiazide / Percodan / Cardizem
+
+Attending:[**First Name3 (LF) 18687**]
+Chief Complaint:
+rising creatinine
+
+Major Surgical or Invasive Procedure:
+Renal Biopsy
+
+
+History of Present Illness:
+HPI: 78 y/o female with HTN, DM2, CAD S/P CABG, Afib, ESRD S/P
+Renal Transplant, and RAS S/P Angioplasty who is referred in for
+workup of rising creatinine, latest value of 3.5 up from last in
+our system of 2.5 in mid [**Month (only) **]). She reports no complaints other
+than continued left arm and bilateral leg swelling which has
+been getting worse over the last month. She also has had some
+intching of her back, but denies thirst, nausea, vomiting,
+change in frequency/color/odor of urine. She denies headache,
+[**Month (only) **], chills, chest pain, dyspnea on exertion, orthopnea, PND,
+abdominal pain, graft tenderness, diarrhea, polyuria. She has
+not been using any NSAIDS. She did have her metolazone restarted
+one week ago and took a dose on thursday and saturday because of
+worsening leg edema. Her furosemide dose has been stable. Her
+potassium was changed from daily to [**Hospital1 9**] last week as well. She
+was started back on allopurinol about a month ago. Otherwise on
+changes in her health and she has actually been feeling well.
+
+Past Medical History:
+# DM Type II
+--Renal allograft artery angioplasty [**2-23**] HTN
+--Renal transplant ([**3150**]): No information about donor
+# Atrial fibrillation, not currently anticoagulated s/p [**7-28**]
+hemicolectomy
+# Right hemicolectomy ([**7-/3162**])
+# CAD s/p CABG ([**3149**]: LIMA to LAD, SVG to PDA, SVG to OM, SVG to
+
+diag)
+# Cholecystectomy
+# Zoster
+
+Social History:
+# Personal: Widowed, lives with son
+# Smoking: Never
+# Alcohol: Never
+# Also has VNS come to help weekly
+
+
+Family History:
+Mother died of ? htn in her 80s
+
+
+Physical Exam:
+General: AAOx3 in NAD, Elderly female wearing wig.
+VITALS: T 97.3 BP 129/66 (129-188) HR 62 (62-70) RR 20 100% RA
+HEENT: PERRL. EOMI, no scleral icterus, MMM.
+Neck: No LAD or masses, no JVD or carotid bruits
+Chest: CTABL.
+Cardiac: Regularly irregular; S3 or split S2
+Abdomen: Soft, NT, ND, active bowel sounds, RLQ graft nontender
+and firm without a bruit.
+Extremities: LE pitting edema to the knee and over the sacrum.
+Left arm with blaiteral nonpatent AV fistula. Swelling of the
+left arm but not right. Weak left radial and distal LE pulses
+bilaterally.
+Neuro: AAOx3, CNII-XII intact
+
+
+Pertinent Results:
+[**3162-12-10**] 10:20PM   PT-12.7 PTT-29.6 INR(PT)-1.1
+[**3162-12-10**] 10:20PM   PLT COUNT-239
+[**3162-12-10**] 10:20PM   WBC-5.5 RBC-3.81* HGB-11.3* HCT-33.9* MCV-89
+MCH-29.6 MCHC-33.2 RDW-18.9*
+[**3162-12-10**] 10:20PM   FREE T4-1.2
+[**3162-12-10**] 10:20PM   TSH-8.4*
+[**3162-12-10**] 10:20PM   CALCIUM-6.4* PHOSPHATE-6.5*# MAGNESIUM-1.4*
+[**3162-12-10**] 10:20PM   estGFR-Using this
+[**3162-12-10**] 10:20PM   GLUCOSE-227* UREA N-72* CREAT-4.6*#
+SODIUM-139 POTASSIUM-3.1* CHLORIDE-103 TOTAL CO2-20* ANION
+GAP-19
+[**3162-12-12**] 06:10AM BLOOD PTH-397*
+[**3162-12-10**] 10:20PM BLOOD TSH-8.4*
+[**3162-12-12**] 08:46AM BLOOD FK506-7.6
+[**3162-12-11**] 05:50AM BLOOD FK506-6.0
+[**3162-12-12**] 06:10AM BLOOD BK VIRUS BY PCR, BLOOD-PND
+[**3162-12-11**] 08:00AM URINE Hours-RANDOM UreaN-239 Creat-26 Na-98
+TotProt-575 Prot/Cr-22.1*
+[**3162-12-11**] 08:00AM URINE Eos-NEGATIVE
+[**3162-12-11**] 08:00AM URINE Blood-NEG Nitrite-NEG Protein-500
+Glucose-100 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+.
+RENAL ULTRASOUND: IMPRESSION: Unchanged overall appearance of
+renal transplant with marked upper pole cortical thinning and
+underlying focal hydronephrosis. Doppler examination
+demonstrates relatively normal venous flow and preserved
+systolic and diastolic arterial flow, though the latter is low
+in amplitude, as before. The renal artery shows slightly
+broadened spectral waveforms, with normal parenchymal resistive
+indices, ranging from 0.54 to 0.62 in the mid- and lower poles;
+these results are not significantly changed compared to prior
+exams. The preserved brisk arterial upstroke would militate
+against significant re-stenosis of the stented renal artery.
+
+However, though the Doppler evaluation of the upper pole
+parenchyma is limited, the elevated RIs, which appear new, in
+the setting of rising creatinine, raise the possibility of
+chronic rejection. This may need to be addressed directly, by
+renal biopsy.
+The study and the report were reviewed by the staff radiologist.
+
+
+Brief Hospital Course:
+A/P: 77 y/o Female with HTN, DM2, CAD S/P CABG, Afib, ESRD S/P
+Renal Transplant, and RAS S/P Angioplasty with rising creatinine
+and elevated blood pressure, but asymptomatic.
+.
+1. Acute on Chronic Renal Failure: Likely etiology of rising
+creatinine is worsening of her chronic kidney disease due to
+hypertensive nephrosclerosis and diabetic nephropathy. Urine
+studies were consistent with an intrinsic cause of renal failure
+and patient had nephrotic range proteinuria. Renal transplant
+ultrasound with Dopplers was negative for RAS and showed normal
+venous flow. Serum protein and urine protein had been negative
+in [**Month (only) **]. The patient's diuretics were held for concern of
+renal hypoperfusion. Prograf levels were followed and were
+within therapeutic range, making renal failure secondary to
+prograf unlikely.
+-
+2. Hypertension: Blood pressure was elevated while in hospital
+and patient's medications were changed to correct this. We
+increased her labetalol to 200mg, amlodipine was increased to
+10mg and clonidine was increased to 0.2mg tid.
+-
+3. Leg Edema: Has normal EF, so possibly diastolic failure vs.
+worsening renal disease. Etiology is most likely anasarca
+secondary to protein losing nephropathy. However, patient's
+diuretics were held.
+
+-
+4. Right Basilar Decreased breath sounds: Likely pleural
+effusion. Doubt PNA given lack of cough, sputum, fevers. CXR
+unread but appears to have stable chronic R sided effusion. As
+appears stable otherwise, patient was not treated at this time.
+
+-
+5. Irregular rate: Hx of Afib, not on coumadin. On ECG, NSR with
+PAC's, LVH and RBBB.
+- continue beta blocker as well rate controlled
+- coumadin has been held because of diverticular bleed requiring
+hemicolectomy
+-
+6. DM Type II:
+- diabetic diet
+- regular insulin sliding scale
+-
+7. CAD s/p CABG and stenting: No chest pain.
+- cont beta blocker and statin
+- not on aspirin or plavix, unclear when last stent was put in,
+but possibly stopped because of bleed.
+-
+8. Diastolic Dysfunction: Pt was continued on antihypertensives
+with good effect.
+-
+9. Secondary Hyperparathyroidism: Pt was continued on
+calcitriol. PTH level was checked and remained elevated. Calcium
+levels were within normal.
+
+-
+10. Hypothyroidism: Continued on home regimen of levothyroxine;
+TSH elevated but free T4 normal
+-
+11. Anemia: Likely ACD from renal disease. HCT was stable with
+no evidence of bleeding.
+-
+12. h/o Gout: Allopurinol was held in house
+-
+
+
+Medications on Admission:
+nsulin 12 untis NPH and regular insulin sliding scale
+Prednisone 5 mg QAM
+Amiodarone 100 mg QOD
+Calcitriol 0.25 mcg DAILY
+Levothyroxine 100 mcg DAILY
+Pantoprazole 40 gm DAILY
+Labetolol 150 mg [**Hospital1 9**]
+Tacrolimus (Prograf) 2 mg [**Hospital1 9**]
+Furosemide 80 mg [**Hospital1 9**]
+Amlodipine 5 mg DAILY
+Lipitor 10 mg DAILY
+Allipurinol 100 mg QHS
+Metolazone 2.5 mg QSAT and QTHURS
+Ferrous Sulfate 325 mg DAILY
+Sodium Bicarbonate 650 mg DAILY
+Potassium 20 mEQ [**Hospital1 9**]
+Clonidine 0.1 mg [**Hospital1 9**]
+Vitamin D
+Aranesp
+.
+
+
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO EVERY OTHER DAY
+(Every Other Day).
+2. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Tacrolimus 1 mg Capsule Sig: Two (2) Capsule PO Q12H (every
+12 hours).
+6. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily). Tablet(s)
+7. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+8. Sodium Bicarbonate 650 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+10. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+11. Outpatient Lab Work
+Please draw CBC, chem-10, FK 506 level. Please fax results to
+transplant center at [**Telephone/Fax (1) 1225**]
+12. Labetalol 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+13. Clonidine 0.1 mg Tablet Sig: Two (2) Tablet PO TID (3 times
+a day).
+Disp:*180 Tablet(s)* Refills:*2*
+14. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twelve
+(12) UNITS Subcutaneous q AM.
+15. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Capsule(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Community VNA, Attelboro
+
+Discharge Diagnosis:
+Primary:
+Acute on chronic renal insufficiency
+Hypertension
+Diabetes Type II
+Atrial fibrillation
+
+Secondary:
+CAD s/p CABG
+Diastolic Dysfunction
+End Stage Renal Failure S/P Renal Transplant
+Secondary Hyperparathyroidism
+Hypothyroidism
+Anemia
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+You were admitted to the hospital with worsening renal function.
+ This is most likely due to chronic kidney disease. You
+underwent a kidney biopsy while you were in the hospital. You
+should follow up with Dr. [**Last Name (STitle) **] on [**12-18**].
+.
+You should also have your blood drawn on THIS FRIDAY. We have
+given you a prescription for this. You can have them drawn at
+the transplant center.
+.
+If you develop any worrisome symptoms such as abdominal pain,
+pain at the site of biopsy, bleeding, blood in your urine, pain
+with urination, [**Month/Year (2) **], chest pain , shortness of breath, please
+contact your doctor or return to the emergency room.
+.
+
+
+Followup Instructions:
+You have the following appointment scheduled for you:
+Provider: [**Name10 (NameIs) 9056**] [**Last Name (NamePattern4) 9057**], MD Phone:[**Telephone/Fax (1) 1224**]
+Date/Time:[**3162-12-18**] 8:00
+Provider: [**Name10 (NameIs) 9056**] [**Last Name (NamePattern4) 9057**], MD Phone:[**Telephone/Fax (1) 1224**]
+Date/Time:[**3163-1-29**] 10:30
+
+
+
+
+
+DOC CLASS

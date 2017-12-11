@@ -1,0 +1,102 @@
+Chief Complaint:
+   24 Hour Events:
+ NON-INVASIVE VENTILATION - START [**3410-8-16**] 03:24 PM
+ DIALYSIS CATHETER - START [**3410-8-16**] 05:30 PM
+   Felt dizzy, light-headed and SOB with BPs 98/50 satting 94% on NC after
+   receiving lasix. Seemed to resolve with comfort and reassurance.
+   ?anxiety. His dtr was able to calm him down as well.
+   Needs HD today - call nephrology in am to let them know.
+   Allergies:
+   Flagyl (Oral) (Metronidazole)
+   Rash;
+   Proton Pump Inhibitors (Benzimidazole)
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3410-8-17**] 06:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 35.7
+C (96.2
+   HR: 76 (70 - 79) bpm
+   BP: 109/55(74) {82/16(37) - 112/93(97)} mmHg
+   RR: 12 (12 - 27) insp/min
+   SpO2: 94%
+   Heart rhythm: AV Paced
+   Height: 65 Inch
+             Total In:
+             31 mL
+   PO:
+             TF:
+   IVF:
+   31 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                     31 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   PS : 12 cmH2O
+   PEEP: 5 cmH2O
+   FiO2: 28%
+   SpO2: 94%
+   ABG: 7.30/58/95.[**Numeric Identifier 582**]//0
+   Ve: 4.9 L/min
+   PaO2 / FiO2: 339
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   77
+        [image002.jpg]
+                             [**3410-8-16**]  03:59 PM
+                             [**3410-8-16**]  10:00 PM
+                             [**3410-8-17**]  12:38 AM
+   TropT
+   0.26
+   TCO2
+   30
+   Glucose
+   77
+   Other labs: CK / CKMB / Troponin-T:22//0.26
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3410-8-16**] 05:30 PM
+   18 Gauge - [**3410-8-16**] 05:30 PM
+   20 Gauge - [**3410-8-16**] 09:24 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

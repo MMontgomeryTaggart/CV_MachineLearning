@@ -1,0 +1,163 @@
+Chief Complaint:
+   24 Hour Events:
+   [**2574-12-29**]
+   - Seen by Dr. [**Last Name (STitle) 2767**]. NPO after MN for TEE and likely cardioversion
+   tomorrow
+   - Dc'ed Dilt gtt, hold off on nodal agents as BP/HR stable
+   - TTE with EF 55-60%
+   Allergies:
+   Codeine
+   Headache;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 650 units/hour
+   Other ICU medications:
+   Dextrose 50% - [**2574-12-29**] 10:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2574-12-30**] 06:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36
+C (96.8
+   HR: 89 (58 - 113) bpm
+   BP: 126/71(84) {80/27(46) - 141/82(85)} mmHg
+   RR: 18 (13 - 33) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 62 Inch
+             Total In:
+                                                                    752 mL
+                                                                    102 mL
+   PO:
+                                                                    360 mL
+             TF:
+   IVF:
+                                                                    367 mL
+                                                                    102 mL
+   Blood products:
+   Total out:
+                                                                  2,085 mL
+                                                                    360 mL
+   Urine:
+                                                                  2,085 mL
+                                                                    360 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,333 mL
+                                                                   -258 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///30/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   315 K/uL
+   8.8 g/dL
+   178 mg/dL
+   1.3 mg/dL
+   30 mEq/L
+   4.2 mEq/L
+   40 mg/dL
+   94 mEq/L
+   133 mEq/L
+   27.6 %
+   10.8 K/uL
+        [image002.jpg]
+                             [**2574-12-29**]  04:01 AM
+                             [**2574-12-29**]  06:50 AM
+   WBC
+   10.8
+   Hct
+   27.6
+   Plt
+   315
+   Cr
+   1.3
+   TCO2
+   29
+   Glucose
+   178
+   Other labs: PT / PTT / INR:22.4/65.2/2.1, Differential-Neuts:86.5 %,
+   Lymph:9.5 %, Mono:3.6 %, Eos:0.2 %, Ca++:8.7 mg/dL, Mg++:2.0 mg/dL,
+   PO4:4.8 mg/dL
+   Assessment and Plan
+   89F with PMH significant for HTN, hypothyroidism, no prior cardiac
+   history presenting with new AF, CHF.
+   # PUMP:  On exam pt is volume overloaded with elevated JVP, crackles,
+   some mild LE edema.  Based on imaging pt has significant cardiomegaly.
+   At risk for LVH/diastolic dysfunction in setting of HTN. Also has DM so
+   at risk for silent ischemia/ischemic cardiomyopathy.
+   -Strict I/Os
+   -Lasix 40mg IV now (did not respond to 20 in ED)
+   -TTE in am
+   -hold ACEI for low BP and hyperkalemia
+   # RHYTHM:  Unknown if this AF is new, never documented before and pt
+   markedly symptomatic.  Likely she was dependent on her atrial kick in
+   setting of probable depressed cardiac function.  Ideally would like to
+   consider CV for restoration of sinus rhythm. As duration of AF unknown
+   will refrain from amio for rate control overnight to avoid accidental
+   chemical CV.
+   -check TSH
+   -Dilt gtt prn for rates >90
+   -Hep gtt o/n
+   -d/w EP (pt and daughter requesting Dr. [**Last Name (STitle) 2767**] who is personal
+   friend) options for TEE CV.
+   -Coumadin initiation prior to d/c.
+   -monitor for infectious etiologies for AF, UA is bland, afebrile. Got
+   levaquin 1 dose in ED for ? PNA, imaging/exam/history not c/w PNA, will
+   not continue.
+   # CORONARIES:  No known history of CAD. ECG without acute ischemic
+   changes.
+   -ASA
+   -repeat ECG this am
+   # Hyperkalemia: Unclear etiology, Cr mildly elevated from baseline, but
+   not high enough to explain hyperkalemia. On ACEI, no other culprit
+   meds.
+   -tx hyperkalemia agressively in setting of potential CV.
+   -hold ACEI
+   # DM2.  Not insulin dependent at home. Holding oral agents in house s/p
+   contrast load.  Was hyperglycemic in ED in setting of receiving D5 in
+   bicarbonate.
+   -FSBS
+   -ISS
+   -diabetic diet
+   #Hypothyroidism - Check TSH
+   -continue replacement.
+   FEN: NPO for ? CV, otherwise cardiac diabetic diet. Hyperkalemia mgmt
+   as above. No IVF as volume overloaded.
+   ACCESS: PIV's x 2
+   PROPHYLAXIS:  On heparin gtt
+   CODE: DNR/DNI per pt and daughter
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2574-12-29**] 05:02 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

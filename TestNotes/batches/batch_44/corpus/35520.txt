@@ -1,0 +1,254 @@
+Admission Date:  [**2733-5-2**]              Discharge Date:   [**2733-5-7**]
+
+Date of Birth:  [**2671-8-8**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Vancomycin
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+intermiattant afib x 4 [**Hospital 30762**] medical management unsuccessful
+
+Major Surgical or Invasive Procedure:
+Bilateral thoracotomies for MINI MAZE and removal of left atrial
+appendage
+
+
+History of Present Illness:
+61 year old female with intermittant afib x 4 years which has
+not responded to high dose lopressor, amiodarone, flecanide or
+cardioversion
+
+Past Medical History:
+obesity
+hyperlipidemia
+DDD pacer [**2-10**] for tacycardia/bradycardia syndrome
+appendectomy
+left and right knee arthroscopy
+uterine polypectomy
+
+Social History:
+computer programer
+lives with sisters
+never [**Name2 (NI) 1333**]
+no ETOH
+
+Family History:
+father died MI at 52.
+mothr with Afib-died at age 82
+
+Physical Exam:
+general: well appearing obese female in NAD
+HEENT: unremarkable
+Chest: clear bilat
+COR: irreg, irreg -rate 70
+abd: obese , soft, Nt, +BS
+extem: no edema
+neuro: intact
+Neuro: intact
+
+Pertinent Results:
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname 30763**]       [**Hospital1 22**] [**Numeric Identifier 30764**]       TEE (Complete)
+Done [**2733-5-3**] at 11:29:30 AM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] C.
+[**Hospital Unit Name 3828**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**2671-8-8**]
+Age (years): 61 F  Hgt (in): 67
+BP (mm Hg): 134/78  Wgt (lb): 280
+HR (bpm): 78  BSA (m2): 2.34 m2
+Indication: Atrial fibrillation. Left ventricular function.
+Right ventricular function. Valvular heart disease.
+Intraoperative TEE for MAZE procedure.
+ICD-9 Codes: 427.31, 424.1
+Test Information
+Date/Time: [**2733-5-3**] at 11:29    Interpret MD: [**Name6 (MD) 8386**] [**Name8 (MD) **],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 652**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Limited Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW5-: Machine: AW5
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Annulus:  2.2 cm  <= 3.0 cm
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+TR Gradient (+ RA = PASP):  >= 17 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT ATRIUM: Good (>20 cm/s) LAA ejection velocity. No thrombus
+in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness, cavity size
+and regional/global systolic function (LVEF >55%). Overall
+normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal descending aorta diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Mild (1+)
+AR.
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The rhythm appears
+to be atrial fibrillation. Results were personally reviewed with
+the MD caring for the patient.
+Conclusions
+No thrombus is seen in the left atrial appendage. No atrial
+septal defect is seen by 2D or color Doppler.
+
+Left ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF >55%). Overall left
+ventricular systolic function is normal (LVEF>55%).
+
+Right ventricular chamber size and free wall motion are normal.
+
+The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic stenosis. Mild (1+) aortic
+regurgitation is seen.
+
+The mitral valve appears structurally normal with trivial mitral
+regurgitation.
+
+There is no pericardial effusion.
+
+Dr. [**Last Name (STitle) **] was notified in person of the results on [**2733-5-3**] at
+1000am.
+
+Post procedure the left atrial appendage has been ligated. There
+is no residual stump seen.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 8386**] [**Name8 (MD) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2733-5-3**] 17:08
+
+
+Brief Hospital Course:
+Ms. [**Known patient lastname **] was admitted on [**5-2**] for IV haeparin and taken to the
+OR on [**2733-5-3**] for mini MAZE and removal of left atrial appendage.
+see operative note for details.
+Post-operatively she was admitted to the CVICU intubated. On the
+night of POD #0 -Ms. [**Known patient lastname **] self extubated without incident. Pain
+control was an issue and was treated with narcotics, toradol and
+ultimately a paravertebral block with good effect.
+Her chest tubes were removed on POD #1 and she was transferred
+to the floor. She was started on lopressor and diuresis. Ms.
+[**Known patient lastname **] developed rapid afib and was treated w/ IV lopressor and
+amiodarone. She converted to sinus rhythm. She was started on
+coumadin. She was slow to progress with physical therapy and was
+ultimately discharged to home on HD#4.
+
+Medications on Admission:
+CartiaXT 180', Lopressor 100"', ASA 325', Coumadin 6', Digoxin
+0.125', Pravastatin 40',
+
+Discharge Medications:
+1. Pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*75 Tablet(s)* Refills:*0*
+5. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours)
+for 10 days.
+Disp:*20 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+6. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Indomethacin 25 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+Disp:*90 Capsule(s)* Refills:*2*
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+9. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO twice a day
+for 7 days: then 400mg daily for 7 days then 200mg daily.
+Disp:*56 Tablet(s)* Refills:*2*
+10. Coumadin 2 mg Tablet Sig: Two (2) Tablet PO once a day: as
+directed by primary care . Goal INR 2-2.5.
+Disp:*60 Tablet(s)* Refills:*2*
+11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO Q12H (every
+12 hours) for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 289**] Homecare
+
+Discharge Diagnosis:
+arthroscopies
+hyperlipidemia
+uterine
+polypectomy
+DDD pacemaker
+appendectomy
+Bilateral thoracotomies for MINI MAZE and removal of left atrial
+appendage
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month, and while taking
+narcotics
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+
+
+Followup Instructions:
+Please see Dr. [**Last Name (STitle) 30765**],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1041**] [**Telephone/Fax (1) 30766**] (PCP) in [**2-3**]
+weeks.  Send INRs to the office of Dr. [**First Name8 (NamePattern2) 84**] [**Last Name (NamePattern1) **].
+Confirmed plan with Dr. [**Last Name (STitle) **] at [**2733-5-5**].
+Please see Dr. [**Last Name (STitle) 13400**] (cardiologist) in [**2-3**] weeks.
+Please see Dr. [**Last Name (STitle) **] (cardiac surgery) in 2 weeks.
+([**Telephone/Fax (1) 7302**].  You will need to get a chest X-ray and pacemaker
+interogation in the morning on the day you see Dr. [**Last Name (STitle) **] in
+the afternoon.  Call his office to speak with [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] for the
+details [**Telephone/Fax (1) 181**]
+
+
+
+Completed by:[**2733-5-7**]
+
+DOC CLASS

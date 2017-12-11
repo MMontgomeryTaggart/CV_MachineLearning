@@ -1,0 +1,216 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ URINE CULTURE - At [**3057-11-25**] 09:00 AM
+ ARTERIAL LINE - START [**3057-11-25**] 03:30 PM
+   Neurology service was consulted yesterday and pt was started on
+   propofol per their recommendations.  They will return to complete full
+   neuro exam off propofol.
+   Pt had EEG this morning to assess for subclinical seizures and
+   encephalopathy.
+   Aspirin was stopped and A-line placed yesterday.  Pt was able to be
+   weaned from vent and was on PS yesterday, switched to AC to rest
+   overnight, then back to PS this morning.  Pt is currently agitated off
+   propofol.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3057-11-25**] 04:00 PM
+   Infusions:
+   Propofol - 40 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3057-11-25**] 08:30 AM
+   Heparin Sodium (Prophylaxis) - [**3057-11-26**] 12:13 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3057-11-26**] 05:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.6
+C (99.6
+   HR: 73 (62 - 93) bpm
+   BP: 124/51(68) {124/51(68) - 155/81(90)} mmHg
+   RR: 15 (12 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    784 mL
+                                                                     92 mL
+   PO:
+             TF:
+   IVF:
+                                                                    604 mL
+                                                                     92 mL
+   Blood products:
+   Total out:
+                                                                  1,370 mL
+                                                                    260 mL
+   Urine:
+                                                                  1,360 mL
+                                                                    260 mL
+   NG:
+                                                                     10 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -586 mL
+                                                                   -168 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 242 (242 - 431) mL
+   PS : 12 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 129
+   PIP: 21 cmH2O
+   Plateau: 18 cmH2O
+   Compliance: 38.5 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.43/34/177/25/0
+   Ve: 6.1 L/min
+   PaO2 / FiO2: 443
+   Physical Examination
+   General Appearance: Cough, agitated, moving all extremities.
+   Eyes / Conjunctiva: PERRL, 3mm -->2mm and brisk
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube,
+   intact gag reflex
+   Cardiovascular: (PMI Hyperdynamic), (S1: Normal), (S2: Normal), S4, RV
+   lift, SEM @ LSB
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear  ),
+   Rhonchi b/l.
+   Abdominal: Soft, No(t) Non-tender, Bowel sounds present
+   Extremities: no edema, no cyanosis
+   Skin:  no rashes
+   Neurologic: Responds to voice commands, opens eyes, tracks, moves UE
+   and LE but does not appear to follow commands.  No purposeful movements
+   can be elicited.
+   Labs / Radiology
+   379 K/uL
+   9.5 g/dL
+   142 mg/dL
+   0.8 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   14 mg/dL
+   107 mEq/L
+   141 mEq/L
+   28.8 %
+   12.3 K/uL
+        [image002.jpg]
+                             [**3057-11-23**]  05:51 PM
+                             [**3057-11-24**]  03:36 AM
+                             [**3057-11-24**]  04:40 AM
+                             [**3057-11-25**]  05:49 AM
+                             [**3057-11-25**]  03:57 PM
+   WBC
+   13.0
+   12.8
+   12.3
+   Hct
+   26.8
+   27.1
+   28.8
+   Plt
+   [**Telephone/Fax (3) 2564**]
+   Cr
+   0.9
+   1.0
+   0.8
+   TropT
+   0.03
+   TCO2
+   24
+   23
+   Glucose
+   78
+   137
+   142
+   Other labs: PT / PTT / INR:12.3/33.0/1.0, CK / CKMB /
+   Troponin-T:265/2/0.03, ALT / AST:39/32, Alk Phos / T Bili:69/1.0,
+   Albumin:3.6 g/dL, LDH:256 IU/L, Ca++:8.7 mg/dL, Mg++:1.9 mg/dL, PO4:3.2
+   mg/dL
+   Echo [**3057-11-24**]: The left atrium is elongated. Left ventricular wall
+   thicknesses and cavity size are normal. There is moderate to severe
+   global left ventricular hypokinesis (LVEF = 30 %) with somre preserved
+   contraction of the basal inferolateral and anterolateral walls. Tissue
+   Doppler imaging suggests an increased left ventricular filling pressure
+   (PCWP>18mmHg). Transmitral Doppler and tissue velocity imaging are
+   consistent with Grade II (moderate) LV diastolic dysfunction. Right
+   ventricular chamber size and free wall motion are normal. The aortic
+   valve leaflets (3) appear structurally normal with good leaflet
+   excursion and no aortic regurgitation. The mitral valve leaflets are
+   structurally normal. There is no mitral valve prolapse. Mild to
+   moderate ([**12-24**]+) mitral regurgitation is seen. There is mild pulmonary
+   artery systolic hypertension. There is an anterior space which most
+   likely represents a fat pad.
+   IMPRESSION: Global left ventricular cardiomyopathy. Moderate diastolic
+   dysfunction with elevated filling pressures. Mild to moderate mitral
+   regurgitation. Mild pulmonary hypertension.
+   Assessment and Plan
+   64F with history of idiopathic CM presenting on transfer after vfib
+   arrest.  Now with difficulty extubating.  Neurologic status appears
+   unchanged; pt sometimes follows commands and at times does not.
+   # CORONARIES:  No known CAD with cardiac cath in [**7-29**] showing no flow
+   limiting lesions.   Given this will likely not require catheterization.
+   - Carvedilol 12.5mg PO BID
+   - no aspirin because coronaries are clean
+   # PUMP:  Echo is consistent with both diastolic and systolic heart
+   failure with an EF of 30%.    Per OP provider, [**Name10 (NameIs) **] has Class II HF at
+   baseline, thus no BiV pacer needed.   Etiology of heart failure is
+   unknown. No indication for spironolactone.  Digoxin was considered but
+   pt was felt to be in compensated HF at this time and no need to start
+   at this point.
+   - Losartan 50mg PO qday
+   - Lasix 20mg QD maintenance
+   - Carvedilol 12.5mg PO BID
+   - Will get ICD before d/c pending Neuro evaluation
+   # RHYTHM:  Vfib noted on EMS tracings.  Shocked back into sinus.  Now
+   on carvedilol, sinus.
+   - Carvedilol 12.5mg PO BID
+   - ICD as above.
+   # Pulmonary.  Failed RSBI yesterday, this morning with copious
+   secretions, agitation.  Concern that pt will not be able to protect
+   airway if extubated.  Discussed with family, and they would like her to
+   be reintubated if extubation fails.
+   - Continue Zosyn for now, given concern for PNA with GNR in sputum
+   - f/u sputum cultures
+   - does not appear to be in pulmonary edema, will continue with home
+   Lasix of 20mg PO qday
+   - scopolamine patch
+   - stop propofol prior to neuro exams
+   # NEURO:  Improved significantly since arrival (see above for exam
+   findings), but is unchanged from yesterday.  Contact[**Name (NI) **] Dr. [**First Name8 (NamePattern2) **]
+   [**Last Name (NamePattern1) 282**] to further evaluate anoxic brain injury, Neurology will see.
+   - f/u neuro consult
+   - f/u EEG
+   # ANEMIA:  Known to have iron deficiency anemia; recieved one unit of
+   pRBC at OSH.   HCT stable, pt asymptomatic, since unlikely ischemic in
+   origin will not transfuse.  Retic hypoproliferative.  Fe studies as OP
+   to w/ up further.
+   - Guaiac stools
+   - will hold on transfusion as pt does not have ischemic cardiac
+   disease, hemodynamics stable.  Continue to monitor
+   FEN: 1.5L fluid restriction; start tube feeds today with IVF for
+   maintenance (D5 1/2NS)
+   ACCESS: PIV X 1, arterial line
+   PROPHYLAXIS:
+   -DVT ppx with SC heparin
+   CODE: Full code for now, continued discussion with family
+   DISPO: CCU until extubation.
+
+
+DOC CLASS

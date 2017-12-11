@@ -1,0 +1,256 @@
+Admission Date:  [**2629-5-6**]              Discharge Date:   [**2629-5-20**]
+
+Date of Birth:  [**2583-8-26**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1487**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**2629-5-11**] Coronary Artery Bypass Graft x 4 (Left internal mammary
+artery to left anterior descending, saphenous vein graft to
+diagonal, saphenous vein graft to obtuse marginal, saphenous
+vein graft to posterior descending artery)
+
+History of Present Illness:
+This 45 year old male with a long cardiac history inclulding
+multiple myocardial infarctions (1st at age 33) and 7 coronary
+stents, presented to another hospital with chest pain. He ruled
+in for NSTEMI and cardiac cathetreization revealed 3 vessel
+disease.  He was transferred for surgical evaluation.
+
+Past Medical History:
+coronary artery disease
+s/p 7 coronary stents
+diabetes mellitus
+h/o multiple MIs
+Hyperlipidemia
+Hypertension
+
+
+Social History:
+Lives with: wife
+Occupation: mechanical technician
+Tobacco: none
+ETOH: none
+
+Family History:
+mom with MI in her 40s s/p CABG twice
+brother with MI at 28yo
+
+Physical Exam:
+admission:
+
+Pulse:58SR  Resp: 18  O2 sat: 100%RA
+B/P  Right:    Left:  108/70
+Height:     Weight: 86.9kg
+
+General: NAD, slightly anxious
+Skin: Dry [x] intact [x] no rash
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [] no edema or varicosities
+Neuro: Grossly intact x
+Pulses:
+Femoral      Right:  2+ Left: 2+
+DP           Right:  2+ Left: 2+
+PT           [**Name (NI) 165**]:  2+ Left: 2+
+Radial       Right:  2+ Left: 2+
+
+Carotid Bruit        Right:    Left: no bruits appreciated
+
+Pertinent Results:
+[**2629-5-11**] Echo: Pre-CPB: No spontaneous echo contrast is seen in
+the left atrial appendage. Overall left ventricular systolic
+function is mildly depressed (LVEF= 40 - 45 %). Right
+ventricular chamber size and free wall motion are normal. There
+are simple atheroma in the descending thoracic [**Month/Day/Year 5169**]. No aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is no
+pericardial effusion. Post-CPB: The patient is AV-Paced, on low
+dose phenylephrine. Left ventricular systolic fxn remains mildly
+depressed. RV systolic fxn is normal. No AI, no MR. [**First Name (Titles) **] [**Last Name (Titles) 18116**]t.
+
+[**2629-5-8**] Carotid U/S: Right ICA with no stenosis. Left ICA with no
+stenosis.
+
+[**2629-5-19**] 10:20AM BLOOD WBC-10.9 RBC-4.83 Hgb-14.2 Hct-42.1
+MCV-87 MCH-29.3 MCHC-33.6 RDW-12.5 Plt Ct-478*
+[**2629-5-18**] 06:20AM BLOOD WBC-9.6 RBC-4.20* Hgb-12.6* Hct-36.2*
+MCV-86 MCH-30.0 MCHC-34.7 RDW-13.0 Plt Ct-378
+[**2629-5-16**] 04:50AM BLOOD WBC-11.1* RBC-4.06* Hgb-12.2* Hct-35.1*
+MCV-87 MCH-30.1 MCHC-34.9 RDW-12.8 Plt Ct-311
+[**2629-5-19**] 10:20AM BLOOD K-4.8
+[**2629-5-18**] 06:20AM BLOOD Glucose-155* UreaN-12 Creat-0.6 K-4.5
+[**2629-5-17**] 04:40AM BLOOD Glucose-139* UreaN-11 Creat-0.6 Na-134
+K-4.2 Cl-97 HCO3-26 AnGap-15
+[**2629-5-11**] 07:10AM BLOOD Glucose-164* UreaN-15 Creat-0.8 Na-134
+K-4.7 Cl-99 HCO3-27 AnGap-13
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 1539**] was transferred from an outside hospital after being
+ruled in for myocardial infarction and catheterization  which
+revealed severe three vessel coronary artery disease. He was
+appropriately worked up for surgery and awaited complete Plavix
+washout.
+
+On [**5-11**] he was brought to the Operating Room where he underwent
+coronary artery bypass graft x 4. Please see operative report
+for surgical details.He easily weaned from bypass, not requiring
+any pressors. Following surgery he was transferred to the CVICU
+for invasive monitoring in stable condition. Within 24 hours he
+was weaned from sedation, awoke neurologically intact and
+extubated.
+
+On post-op day one he was doing well and was transferred to the
+telemetry floor for further care. Beta blockers and diuretics
+were started and he was diuresed towards his pre-op weight. On
+post-op day two his chest tubes were removed. On post-op day
+three epicardial pacing wires were removed. He was noted to have
+a moderate amount of serosanguinous dtr[**Name (NI) 26498**] from the distal
+[**1-4**] of his sternal incision. He was without fever or
+leukocytosis. He was started on Keflex. The drainage gradually
+decreased and stopped. The sternum was stable and without
+erythema. He was evaluated by Physical Therapy for strength and
+mobility and was cleared for discharge to home.
+
+His HgA1c on admission was 11 and he required insulin therapy
+was instituted during his admission.  He was instructed on
+glucose testing and administarion of both morning Lantus and
+sliding scale coverage with HumaLog insulin as well.
+
+He was discharged on oral antibiotics for a week and a wound
+check will be performed in 5 days.  He was given full
+instructions about medications, wound care and follow up.
+
+Medications on Admission:
+Crestor 20mg daily
+Atenolol 100mg daily
+Plavix 75 mg daily
+Niaspan 1000mg qhs
+Metformin 1000mg daily
+Zetia 10mg daily
+Actos 15mg daily
+ASA 325mg daily
+Tricor 145mg daily
+Diovan 80mg daily
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+3. Rosuvastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO
+daily ().
+Disp:*30 Tablet(s)* Refills:*2*
+5. Niacin 500 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO BID (2 times a day).
+Disp:*60 Capsule, Sustained Release(s)* Refills:*2*
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO twice
+a day.
+Disp:*60 Tablet(s)* Refills:*2*
+7. Insulin Glargine 100 unit/mL Solution Sig: Thirty (30) units
+Subcutaneous once a day.
+Disp:*1 pen* Refills:*2*
+8. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 7 days.
+Disp:*28 Capsule(s)* Refills:*0*
+9. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+10. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+11. Humalog Pen 100 unit/mL Insulin Pen Sig: per sliding scale
+Subcutaneous four times a day: 120-159-2units B/L/D
+160-199-4units B/L/D/2units HS
+200-239-6 units B/L/D,4units HS
+240-279-8units B/L/D,6units HS
+280-319-10units B/L/D,8units HS
+320-360-12units B/L/D, 10units HS
+
+B-bkfst,L-lunch,D-dinner,HS-bedtime.
+Disp:*2 * Refills:*2*
+12. Metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA of [**Doctor Last Name **]
+
+Discharge Diagnosis:
+Coronary Artery Disease
+s/p Coronary Artery Bypass Graft x [**Street Address(2) 26499**] elevation Myocardial Infartcion
+s/p 7 coronary stents
+insulin dependent diabetes mellitus
+Hypertension
+Hyperlipidemia
+TIA [**2625**]
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with  steady gait
+Incisional pain managed with Percocet
+Incisions:
+Sternal - healing well, no erythema and minimal serosanguinous
+drainage
+Leg Right - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 137**] MD if weight goes up more
+than 3 lbs.Please shower daily including washing incisions
+gently with mild soap, no baths or swimming until cleared by
+surgeon. Look at your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 168**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 168**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon:
+Dr. [**Last Name (STitle) **] on [**6-18**] @ 1:30 PM ([**Telephone/Fax (1) 168**])
+
+Please call to schedule appointments with:
+Primary Care Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 11533**] ([**Telephone/Fax (1) 26500**]in [**1-3**] weeks
+Cardiologist Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 7865**]in [**1-3**] weeks
+[**Hospital Ward Name 120**] 6 wound clinic check on [**Last Name (LF) 759**], [**5-25**] at 10am
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 168**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2629-5-20**]
+
+DOC CLASS

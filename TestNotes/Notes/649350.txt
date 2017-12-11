@@ -1,0 +1,240 @@
+TITLE:
+   Chief Complaint: This AM Pt reports "I feel dried out". Continues to
+   complain of throat pain, denies chest pain or change in respiratory
+   status. c/o chest
+heaviness,
+ epigastric tenderness, and sensation of
+   flanks caving in. Reports nausea in morning and evening, so has not
+   been eating well. Slept about 6 hrs last night, but still drowsy.
+   24 Hour Events:
+   [**2984-9-4**]: Continuing diurese via CVVH. Repleting K PRN for goal K>5. Pt
+   noted to have erythema around HD line, seems more likely bruising but
+   watching closely. Pt otherwise afebrile, no leukocytosis. Overall
+   prognosis poor per Dr. [**First Name (STitle) **]. Removed neck line w/out event.
+   Allergies:
+   Penicillins
+   Unknown;
+   Heparin Agents
+   positive [**Last Name (un) 3979**]
+   Last dose of Antibiotics:
+   Infusions:
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   KCl (CRRT) - 3 mEq./hour
+   Milrinone - 0.375 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2984-9-5**] 06:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 35.9
+C (96.6
+   HR: 90 (90 - 92) bpm
+   BP: 81/61(65) {79/31(49) - 118/72(79)} mmHg
+   RR: 16 (13 - 22) insp/min
+   SpO2: 95%
+   Heart rhythm: AV Paced
+   Wgt (current): 118 kg (admission): 116.8 kg
+   Height: 69 Inch
+             Total In:
+                                                                  6,862 mL
+                                                                  2,229 mL
+   PO:
+                                                                    100 mL
+                                                                    200 mL
+   TF:
+   IVF:
+                                                                  6,762 mL
+                                                                  2,029 mL
+   Blood products:
+   Total out:
+                                                                  9,559 mL
+                                                                  2,241 mL
+   Urine:
+                                                                    100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,697 mL
+                                                                    -12 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula, CPAP mask
+   SpO2: 95%
+   ABG: ///22/
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (PMI Hyperdynamic), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Rhonchorous: at the apices,
+   anteriorly)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   178 K/uL
+   11.7 g/dL
+   163 mg/dL
+   2.6 mg/dL
+   22 mEq/L
+   5.0 mEq/L
+   21 mg/dL
+   99 mEq/L
+   134 mEq/L
+   37.7 %
+   9.8 K/uL
+        [image002.jpg]
+                             [**2984-9-3**]  04:34 AM
+                             [**2984-9-3**]  10:27 AM
+                             [**2984-9-3**]  09:30 PM
+                             [**2984-9-3**]  09:54 PM
+                             [**2984-9-4**]  04:31 AM
+                             [**2984-9-4**]  09:52 AM
+                             [**2984-9-4**]  04:10 PM
+                             [**2984-9-4**]  04:29 PM
+                             [**2984-9-4**]  09:32 PM
+                             [**2984-9-5**]  03:40 AM
+   WBC
+   8.9
+   10.0
+   9.8
+   Hct
+   36.5
+   37.2
+   37.7
+   Plt
+   [**Telephone/Fax (3) 10081**]
+   Cr
+   3.5
+   3.2
+   3.1
+   2.8
+   2.7
+   2.6
+   Glucose
+   191
+   208
+   188
+   186
+   128
+   112
+   156
+   156
+   147
+   163
+   Other labs: PT / PTT / INR:14.1/30.0/1.2, Ca++:9.3 mg/dL, Mg++:1.9
+   mg/dL, PO4:1.6 mg/dL
+   Assessment and Plan
+   68 yo M with severe NYHA class IV systolic CHF with EF of 20%,
+   secondary to ischemic cardiomyopathy, admitted [**2984-8-31**] for acute
+   exacerbation of CHF and transferred to CCU from [**Hospital1 2208**] service for
+   aggressive diuresis and possible RRT for acute on chronic renal
+   failure.
+   .
+   # PUMP: Severe systolic CHF, LVEF 20%, akinetic anterior,septal,and
+   apical segments in LV, severe TR. Elevated right- and left- sided
+   pressures (mean RA pressure and mean PCWP both 30 mmHg).
+   - Will likely d/c CVVH today
+   - Restart Lasix gtt and metolazone 5 mg [**Hospital1 **] when finished with CVVH
+   - Continue milrinone gtt to augment systolic function
+   - Keep maintaining MAP > 50 with phenylephrine if necessary
+   - Will not intiate ACE-I secondary to renal failure
+   - Monitor I/O, daily weights
+   .
+   # CORONARIES: CAD s/p MI in [**2958**], CABG x 2. Cardiac cath showed
+   right-dominant system w/ 50% mid-RCA stenosis, patent SVG-D1 and
+   SVG-OM3 grafts. Known occluded native LCx and LAD. No PCI undertaken.
+   - Continue ASA 81 mg
+   - Continue Atorvastatin 20 mg
+   - Consider metoprolol tartrate 25 mg [**Hospital1 **] instead of Toprol XL 50 mg
+   daily
+   .
+   # RHYTHM: BiV-ICD recently interrogated [**2984-8-31**]. Per EP, not candidate
+   for LV pacing. Had NSVT on [**8-27**], 7 a.m., rate 150 bpm. ICD is
+   programmed to fire for VT>140 bpm and VF>190bpm. DDI pacer with rate >
+   90 bpm, AV delay 160 msec.
+   - Keep on cardiac monitor
+   - Continue home amiodarone 200 mg daily
+   .
+   #h/o HIT
+ swan-ganz cath had 500 cc heparin delivered in first 30
+   minutes.
+   -          Platelets today stable (210). Will continue to follow daily
+   -          No need for Argatroban per heme/onc
+   -          LUE U/S negative for any clot
+   .
+   # s/p MVR: Bioprosthetic mitral valve appears to be functioning well on
+   TTE.
+   - Was on warfarin x 2 yrs before d/c'ed by cardiologist, ? need for
+   long-term anticoagulation upon discharge -> pt declined in past per Dr.
+   [**First Name (STitle) **]
+   .
+   # Acute on chronic renal failure: Cr increasing from baseline 2.5 to
+   4.2. Etiology likely poor renal perfusion given severe systolic CHF and
+   FeNa<1%
+   - CVVHDF today, goal 100 cc/hr
+   - Currently oliguric, continue to monitor UOP
+   - Replete K PRN (K today is 5.0)
+   - Does not need PhosLo at this point
+   # URI: Cough and sore throat
+   - conntinue guaifenisin and lozenges for symptom relief
+   - consider repeat CXR this AM
+   .
+   # DM: IDDM with recent HA1c in [**2984-7-30**] of 9.2%
+   - Continue home insulin regimen
+   - SSI for meal coverage
+   .
+   # Hypothyroidism
+   - Continue home levothyroxine
+   .
+   # OSA
+   - Continue CPAP at night
+   .
+   FEN:
+   - Will replete potassium as needed (initial hyperkalemia was treated
+   with kayexelate)
+   - Fluid restriction of 1200 mL/day
+   - Low-sodium (<2g/day), cardiac-prudent, diabetic diet
+   .
+   ACCESS: PIV's, PICC, RIJ tunneled catheter
+   .
+   PROPHYLAXIS:
+   -DVT ppx with SCD's
+   -Pain management with Percocet q6h prn, PRN morphine for breakthrough
+   -Bowel regimen with senna, docusate
+   .
+   CODE: Presumed full
+   .
+   COMM: [**Name (NI) 51**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2984-9-1**] 12:28 PM
+   Dialysis Catheter - [**2984-9-2**] 02:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,164 @@
+History of Present Illness
+   - cath with bare metal stent to R PDA
+   - CXR showed mild CHF, R effusion, nodules likely malignancy
+   - echo for tomorrow ordered
+   - talked to pt's oncologist's coverage; OK to hold aromatase inhibitor
+   until outpatient follow-up with him
+   - shortly after cath, afib with RVR to 130s-->5 mg lopressor IV x 1-->
+   BP fell to 73/57.  Planned to give digoxin .25 q6 x 4 doses, but afib
+   spontaneously broke to NSR 80's, SBP rose to 100.  No further tx given
+   - pt had a coughing/choking fit, O2 sat fell into 70s but unclear if
+   this was an accurate, lungs clear, patient suctioned and improved
+   within 2-3 minutes, O2 Sat high 90s
+   -post-cath check unremarkable
+   -npo p MN in case needs cardioversion
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 37.4 C
+   Tmax F last 24 hours: 99.4 F
+   T current C: 37.2 C
+   T current F: 98.9 F
+   Previous day:
+   Intake: 2,383 mL
+   Output: 1,480 mL
+   Fluid balance: 903 mL
+   Today:
+   Intake: 43 mL
+   Output: 180 mL
+   Fluid balance: -137 mL
+   BP 92/32, HR 73, RR 16, O2 Sat 95% on RA
+   GENERAL: Elderly man in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of 8 cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.  Cath site clean.  Distal
+   pulses palpable.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+   Labs
+   296
+   107
+   0.8
+   26
+   4.7
+   31
+   104
+   138
+   29.3
+   8.6
+        [image002.jpg]
+                            [**2809-1-13**]  09:48 AM
+                            [**2809-1-13**]  09:54 PM
+   WBC
+   10.4
+   Hgb
+   10.7
+   Hct (Serum)
+   31.0
+   Plt
+   310
+   283
+   INR
+   1.3
+   PTT
+   44.8
+   Na+
+   141
+   K + (Serum)
+   4.0
+   4.4
+   Cl
+   102
+   HCO3
+   24
+   BUN
+   30
+   Creatinine
+   1.0
+   Glucose
+   117
+   CK
+   156
+   167
+   CK-MB
+   8
+   6
+   Troponin T
+   0.22
+   ABG: 7.49 / 33 / 62 /  / 2   Values as of [**2809-1-13**] 03:00 PM
+   Echo: The left atrium is elongated. The interatrial septum is
+   aneurysmal. No atrial septal defect is seen by 2D or color Doppler.
+   There is mild symmetric left ventricular hypertrophy. The left
+   ventricular cavity size is normal. No masses or thrombi are seen in the
+   left ventricle. Overall left ventricular systolic function is mildly
+   depressed (LVEF= 40-45 %) with mid to distal septal and
+   inferior/infero-lateral hypokinesis. There is no ventricular septal
+   defect. Right ventricular chamber size and free wall motion are normal.
+   The ascending aorta is mildly dilated. The aortic valve leaflets (3)
+   are mildly thickened but aortic stenosis is not present. Mild (1+)
+   aortic regurgitation is seen. The mitral valve leaflets are mildly
+   thickened. Mild (1+) mitral regurgitation is seen. The tricuspid valve
+   leaflets are mildly thickened. There is moderate pulmonary artery
+   systolic hypertension. There is a trivial/physiologic pericardial
+   effusion.
+   Assessment and Plan
+   89 yr old pt with h/o CAD s/p stenting, a-fib on warfarin and
+   dofetilide, presented last night to OSH with CHF exacerbation, was
+   found to have NSTEMI, transferred to [**Hospital1 17**] for cath per Dr. [**Last Name (STitle) 155**], found
+   to be in polymorphic VT upon arrival from OSH, transferred to CCU,
+   started on isoproterenol.
+   .
+   # RHYTHM: History of afib on dofetilide. Had frequent runs of
+   polymorphic VT with no symptoms on floor, broke with isoproterenol gtt.
+   Likely induced by dofetilide in setting of cardiac ischemia and reduced
+   renal clearance (Cr 1.1, unclear baseline).  Now off dofetilide and
+   isoproterenol, s/p run of afib with RVR after cath, now in NSR.
+   - metoprolol for rate control; avoid bradycardia, which might trigger
+   PMVT again
+   - avoid any drugs that might prolong QT interval
+   - telemetry
+   - on heparin gtt now; will restart warfarin
+   - keep K > 4.0, Mg > 2.0 (check TID)
+   .
+   # CORONARIES:  NSTEMI at OSH, s/p cath with bare metal stent yesterday
+   to R PDA
+   - clopidogrel for 1 month
+   - cont heparin gtt, aspirin, atorvastatin
+   .
+   # PUMP: chronic CHF, unknown EF.   Does not appear overloaded on exam.
+   Echo with EF 40-45% with mid to distal septal and inferior/lateral
+   hypokinesis
+   - monitor I/O
+   - restart furosemide
+   .
+   # Breast cancer: with mets to pleura. On hormonal therapy; no chemo or
+   xrt.  Per conversation with oncologist coverage, OK to not restart
+   aromatase inhibitor (side effect of cardiac ischemia) until outpt f/u.
+   .
+   # HTN: stable BP now
+   - will restart [**Last Name (un) **] tomorrow if BP stable
+   .
+   # FEN:  cardiac, heart healthy diet
+   .
+   # ACCESS: PIV's
+   .
+   # PROPHYLAXIS: on hep gtt
+   .
+   # CODE: FULL, confirmed with patient
+   .
+   # Contact: [**Name (NI) **] [**Name (NI) 154**] [**Telephone/Fax (1) 4754**]
+   .
+   # DISPO: call out to floor
+
+
+DOC CLASS

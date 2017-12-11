@@ -1,0 +1,212 @@
+Chief Complaint: respiratory failure
+   HPI:
+   24 Hour Events:
+ TRANSTHORACIC ECHO - At [**2521-11-20**] 08:17 AM
+   -- showed low biventricular EF
+   Allergies:
+   Penicillins
+   Rash;
+   Last dose of Antibiotics:
+   Levofloxacin - [**2521-11-20**] 06:00 AM
+   Vancomycin - [**2521-11-20**] 08:22 AM
+   Ceftazidime - [**2521-11-20**] 10:20 AM
+   Infusions:
+   Fentanyl - 120 mcg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2521-11-20**] 11:15 PM
+   Other medications:
+   CHG, lidoderm, PPI, ASA, levoflox, pred 20, vanco, toprol, lisinopril,
+   colace, sqi, heparin (once INR decreased)
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2521-11-21**] 11:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.4
+C (99.4
+   HR: 79 (70 - 82) bpm
+   BP: 121/55(76) {102/43(61) - 130/61(81)} mmHg
+   RR: 24 (13 - 24) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 64 Inch
+             Total In:
+                                                                  2,831 mL
+                                                                  1,111 mL
+   PO:
+             TF:
+                                                                  1,006 mL
+                                                                    525 mL
+   IVF:
+                                                                  1,104 mL
+                                                                    336 mL
+   Blood products:
+   Total out:
+                                                                  1,680 mL
+                                                                  1,120 mL
+   Urine:
+                                                                  1,660 mL
+                                                                  1,105 mL
+   NG:
+                                                                     20 mL
+                                                                     15 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,151 mL
+                                                                     -9 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 390 (390 - 550) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 30%
+   RSBI: 94
+   PIP: 14 cmH2O
+   SpO2: 100%
+   ABG: ///26/
+   Ve: 10.9 L/min
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Breath Sounds: Diminished: , No(t) Rhonchorous: )
+   Abdominal: Soft, Non-tender, PEG site intact
+   Extremities: Right: Trace, Left: Trace, right aka
+   Musculoskeletal: Unable to stand
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   7.5 g/dL
+   236 K/uL
+   144 mg/dL
+   1.0 mg/dL
+   26 mEq/L
+   3.7 mEq/L
+   36 mg/dL
+   113 mEq/L
+   145 mEq/L
+   23.8 %
+   16.9 K/uL
+        [image002.jpg]
+                             [**2521-11-17**]  11:00 PM
+                             [**2521-11-18**]  04:34 AM
+                             [**2521-11-18**]  06:30 AM
+                             [**2521-11-18**]  04:25 PM
+                             [**2521-11-18**]  08:42 PM
+                             [**2521-11-19**]  04:00 AM
+                             [**2521-11-19**]  06:04 PM
+                             [**2521-11-20**]  04:09 AM
+                             [**2521-11-20**]  10:25 AM
+                             [**2521-11-21**]  05:05 AM
+   WBC
+   11.7
+   9.0
+   10.0
+   16.9
+   Hct
+   25.6
+   25.0
+   24.1
+   23.8
+   Plt
+   297
+   281
+   265
+   236
+   Cr
+   1.2
+   1.1
+   1.1
+   1.0
+   0.9
+   1.0
+   TropT
+   0.03
+   TCO2
+   31
+   28
+   Glucose
+   149
+   160
+   153
+   140
+   147
+   162
+   130
+   144
+   Other labs: PT / PTT / INR:28.3/31.7/2.9, CK / CKMB /
+   Troponin-T:43/3/0.03, ALT / AST:17/17, Alk Phos / T Bili:263/0.2,
+   Amylase / Lipase:[**8-22**], Differential-Neuts:85.4 %, Lymph:7.2 %, Mono:6.0
+   %, Eos:1.4 %, Lactic Acid:0.9 mmol/L, Albumin:2.3 g/dL, LDH:289 IU/L,
+   Ca++:6.4 mg/dL, Mg++:1.8 mg/dL, PO4:2.2 mg/dL
+   Imaging: CCT: "Slight increase in large partially loculated right
+   pleural effusion and small
+   dependent left pleural effusion. Decreasing peripheral consolidation,
+   left
+   upper lobe, but worsening opacification in right middle and lower lobes
+   which
+   may be due to atelectasis and/or infection. Spiculated left lower lobe
+   nodule
+   for which short-term followup CT is recommended to exclude a
+   malignancy. "
+   Assessment and Plan
+   54-year old woman with biopsy proven COP/RBILD and history of prolonged
+   respiratory failure now with MRSA pneumonia (acquired prior to
+   admission) and pleural effusions.  It is not completely clear how much
+   of this is infection and how much is her underlying lung disease.
+ PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP)
+   -          MRSA on culture
+   -          On vancomycin.  Change to dosing by level.
+   -          Concern exists for parapneumonic effusion.  Will consult IP
+   and try to obtain pleural fluid today after giving FFP.
+ CORONARY ARTERY BYPASS GRAFT (CABG)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+   -          resolved
+ CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS, EMPHYSEMA)
+   WITH ACUTE EXACERBATION
+   -          add atrovent
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+   -          diuresis today with goal -500 or more negative
+ .H/O INTERSTITIAL LUNG DISEASE (ILD INCLUDING IPF, UIP, NSIP, DIP,
+   LIP, ETC)
+   -          maintain present doses of steroids.  If unable to wean from
+   ventilator after longer ABX course may consider higher-dose steroids.
+ ANEMIA, CHRONIC
+ DIABETES MELLITUS (DM), TYPE II
+ IMPAIRED PHYSICAL MOBILITY
+ PANCREATITIS, CHRONIC
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**2521-11-21**] 03:52 AM 45 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2521-11-16**] 10:58 PM
+   PICC Line - [**2521-11-19**] 12:37 PM
+   Arterial Line - [**2521-11-19**] 02:36 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Heparin gtt, start heparin once
+   INR decreased)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition :ICU
+   Total time spent: 40 min
+   Patient is critically ill
+
+
+DOC CLASS

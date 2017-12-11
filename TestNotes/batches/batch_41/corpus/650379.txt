@@ -1,0 +1,182 @@
+CVICU
+   HPI:
+   HD9   POD 2-CABGx5 (LIMA-LAD,SVG-D1/D2,SVG-PDA, SVG-OM)
+   Ejection Fraction:25%
+   Hemoglobin A1c:6.0
+   Pre-Op Weight:140 lbs   63.5 kgs
+   Baseline Creatinine:0.9
+   TLD:rt IJ-cordis:Day3
+   Foley:Day3
+   PMH:Ischemic cardiomyopathy EF 25% (34% in [**2928**]),MIx2,chronic headaches
+   attributed to arthritis of neck-near syncopal episode recorded in
+   past,HTN,HL,[**Last Name (un) 9195**] fracture-teen,?afib in [**2934**]-patient denies
+   [**Last Name (un) **]:Lopressor 25 mg [**Hospital1 **],Lisinopril 5 mg/D,Crestor
+   Current medications:
+   Acetaminophen, Aspirin EC, Docusate, Furosemide, HYDROmorphone,
+   Insulin,  Ketorolac, Metoprolol Tartrate,  Milk of Magnesium,
+   Ranitidine, Rosuvastatin
+   24 Hour Events:
+   Remained in ICU on Neo, weaned off in afternoon
+ EKG - At [**2938-11-18**] 08:00 AM
+ PA CATHETER - STOP [**2938-11-18**] 09:00 AM
+ ARTERIAL LINE - STOP [**2938-11-19**] 05:32 AM
+   Post operative day:
+   POD#2 - cabg x 5 lima to lad, svg to diag to diag2,svg to om,svg to pda
+   Allergies:
+   Vancomycin
+   Rash;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2938-11-18**] 12:03 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2938-11-19**] 05:35 AM
+   Other medications:
+   Flowsheet Data as of  [**2938-11-19**] 09:35 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**41**] a.m.
+   Tmax: 36.8
+C (98.3
+   T current: 35.9
+C (96.6
+   HR: 86 (72 - 91) bpm
+   BP: 103/57(68) {80/46(54) - 120/64(74)} mmHg
+   RR: 30 (14 - 31) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 68.2 kg (admission): 65 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,880 mL
+                                                                    180 mL
+   PO:
+                                                                    300 mL
+             Tube feeding:
+   IV Fluid:
+                                                                  1,080 mL
+                                                                    180 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  2,415 mL
+                                                                  1,020 mL
+   Urine:
+                                                                  1,925 mL
+                                                                    870 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -535 mL
+                                                                   -840 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 98%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, +
+   flatus
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), left EVH ace wrap
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   208 K/uL
+   8.0 g/dL
+   117 mg/dL
+   0.6 mg/dL
+   26 mEq/L
+   3.9 mEq/L
+   8 mg/dL
+   106 mEq/L
+   137 mEq/L
+   23.6 %
+   8.1 K/uL
+        [image002.jpg]
+                            [**2938-11-17**]  05:50 PM
+                            [**2938-11-17**]  08:32 PM
+                            [**2938-11-18**]  12:00 AM
+                            [**2938-11-18**]  01:00 AM
+                            [**2938-11-18**]  02:00 AM
+                            [**2938-11-18**]  03:00 AM
+                            [**2938-11-18**]  04:00 AM
+                            [**2938-11-18**]  05:00 AM
+                            [**2938-11-18**]  09:00 AM
+                            [**2938-11-19**]  02:29 AM
+   WBC
+   9.7
+   8.1
+   Hct
+   27.9
+   23.6
+   Plt
+   219
+   208
+   Creatinine
+   0.6
+   0.6
+   TCO2
+   26
+   25
+   Glucose
+   119
+   123
+   163
+   120
+   109
+   86
+   111
+   112
+   109
+   117
+   Other labs: PT / PTT / INR:12.9/35.8/1.1, CK / CK-MB / Troponin
+   T:34//0.03, Fibrinogen:361 mg/dL, Lactic Acid:1.7 mmol/L, Ca:8.8 mg/dL,
+   Mg:1.9 mg/dL, PO4:3.9 mg/dL
+   Microbiology: mrsa no growth and pending
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), KNOWLEDGE DEFICIT
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, dilaudid and toradol
+   prn pain
+   Cardiovascular: Aspirin, Beta-blocker, Statins, start betablockers
+   Pulmonary: IS, Discontinue chest tube(s), cough and deep breath,
+   increase ambulation
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Regular diet
+   Renal: foley dc'd this am, lasix for diuresis with goal [**Telephone/Fax (1) 254**] ml
+   negative for 24 hours
+   Hematology: anemia, continue diuresis and recheck hct in am,
+   hemodynamically stable
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: wbc 8, afebrile no evidence of infection
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today, s/p ct removal
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2938-11-18**] 04:22 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

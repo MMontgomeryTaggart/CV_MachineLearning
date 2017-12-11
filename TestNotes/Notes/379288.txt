@@ -1,0 +1,271 @@
+Date of service: [**2864-2-25**]
+   Requesting physician: [**Name10 (NameIs) 3440**]
+   Initial consultation: CCU
+   Presenting complaint: Arrhythmia, Syncope
+   History of present illness: This is a 75 year old woman with COPD,
+   hypertension and CAD with recent NSTEMI at an outside hospital on
+   [**2864-2-18**] following bilateral hip replacements on [**2864-2-8**] and cardiac
+   cath here on [**2864-2-19**] with stents to the proximal and mid LAD lesions
+   who developed rapid atrial fibrillation on [**2864-2-20**],  was placed on
+   amiodarone with need for IV diltiazem boluses, on carvedilol 12.5 [**Hospital1 **]
+   with conversion to SR. Yesterday at 1:57 pm was on commode, had a bowel
+   movement and then and episode of syncope with accompanying ~20 second
+   sinus pause/ asystole on telemetry monitoring. She regained SR and
+   consciousness with no intervention.  She was transferred to the CCU for
+   further monitoring.
+   Past medical history:
+   Hyperlipidemia
+   Hypertension
+   COPD on home O2
+   Bilateral hip replacements
+   Anxiety/ depression
+   GERD
+   CAD Risk Factors
+   CAD Risk Factors Present
+   Dyslipidemia, Hypertension
+   CAD Risk Factors Absent
+   Diabetes mellitus, Family Hx of CAD, Family Hx of sudden cardiac death
+   (Tobacco: Yes), (Quit: No), (Cigarettes: 1 packs / day x 40 yrs)
+   Other: Still smokes 5 cigarettes per week
+   Cardiovascular Procedural History
+   PCI: Most recent: [**2864-2-19**]: PCI to proximal LAD, mid LAD and diagonal
+   branches
+   No Pacemaker / ICD
+   There is no history of:
+   CABG
+   Other: Sulfa- rash, demerol
+   Allergies:
+   Sulfa (Sulfonamide Antibiotics)
+   Rash;
+   Demerol (Injection) (Meperidine Hcl)
+   Unknown;
+   Current medications: aspirin 325 daily, heparin 5000 U SQ three times
+   daily, plavix 75 mg daily, atorvastatin 80 mg daily, losartan 50 mg
+   daily, senna/ bisdocyl, paroxotine 20 mg daily.
+   Cardiovascular ROS
+   Cardiovascular ROS Signs and Symptoms Present
+   Syncope
+   Cardiovascular ROS Signs and Symptoms Absent
+   Murmur, Rheumatic fever, Chest pain, SOB, DOE, PND, Orthopnea, Edema,
+   Palpitations, Presyncope, Lightheadedness, TIA / CVA, Pulmonary
+   embolism, DVT, Claudication, Exertional buttock pain, Exertional calf
+   pain
+   Review of Systems
+   Organ system ROS abnormal
+   Respiratory
+   Signs and symptoms present
+   Cough
+   Organ system ROS normal
+   Constitutional, Eyes, ENT, Gastrointestinal, Endocrine, Hematology /
+   Lymphatic, Genitourinary, Musculoskeletal, Integumentary, Neurological,
+   Psychiatric, Allergy / Immune
+   Signs and symptoms absent
+   Recent fevers, Chills, Rigors, Hemoptysis, Black / red stool, Bleeding
+   during surgery, Joint pains, Myalgias
+   Physical Exam
+   Date and time of exam: [**2864-2-25**] at 12:23 pm
+   General appearance: normal
+   Vital signs: per other: metavision
+   Height: 65 Inch, 165 cm
+   BP right arm:
+   122 / 47 mmHg
+   HR: 71 bpm
+   RR: 18 insp/min
+   O2 sat: 94 %  on Room air
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: WNL)
+   Neck: (Right carotid artery: No bruit), (Left carotid artery: No
+   bruit), (Jugular veins: Not visible), (Thyroid: WNL)
+   Back / Musculoskeletal: (Chest wall structure: WNL)
+   Respiratory: (Effort: WNL), (Auscultation: WNL, bilateral scattered
+   wheezes)
+   Cardiac: (Rhythm: Regular), (Palpation / PMI: WNL), (Auscultation: S1:
+   WNL, S3: Absent, S4: Absent), (Murmur / Rub: Absent)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),
+   (Pulsatile mass: No), (Hepatosplenomegaly: No)
+   Genitourinary: (WNL)
+   Femoral Artery: (Right femoral artery: No bruit), (Left femoral artery:
+   No bruit)
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Gait and
+   station: not checked), (Muscle strength and tone: WNL), (Edema: Right:
+   0, Left: 0)
+   Skin: ( WNL)
+   Labs
+   231
+   10.9
+   122
+   0.8
+   40
+   3.9
+   26
+   92
+   138
+   33.0
+   9.0
+        [image002.jpg]
+                            [**2864-2-19**]  07:51 PM
+                            [**2864-2-20**]  02:51 AM
+                            [**2864-2-21**]  05:05 AM
+                            [**2864-2-21**]  04:53 PM
+                            [**2864-2-22**]  03:19 AM
+                            [**2864-2-22**]  04:18 PM
+                            [**2864-2-24**]  02:13 PM
+                            [**2864-2-24**]  08:25 PM
+                            [**2864-2-25**]  03:39 AM
+   WBC
+   13.2
+   10.0
+   8.1
+   9.0
+   9.0
+   Hgb
+   12.7
+   12.3
+   10.9
+   10.6
+   10.9
+   Hct (Serum)
+   39.6
+   37.8
+   32.8
+   32.9
+   32.0
+   31.4
+   33.0
+   Plt
+   221
+   207
+   193
+   189
+   231
+   INR
+   1.5
+   1.1
+   1.0
+   1.2
+   PTT
+   51.1
+   31.1
+   34.5
+   31.8
+   Na+
+   137
+   135
+   138
+   139
+   142
+   139
+   136
+   138
+   K + (Serum)
+   4.5
+   4.2
+   3.8
+   4.4
+   4.1
+   4.4
+   4.3
+   3.9
+   Cl
+   98
+   95
+   99
+   96
+   98
+   92
+   89
+   92
+   HCO3
+   35
+   31
+   35
+   40
+   40
+   40
+   40
+   40
+   BUN
+   18
+   21
+   21
+   19
+   24
+   24
+   33
+   26
+   Creatinine
+   0.9
+   1.0
+   0.7
+   0.8
+   0.7
+   0.8
+   1.0
+   0.8
+   Glucose
+   117
+   282
+   123
+   117
+   95
+   136
+   159
+   122
+   CK
+   110
+   76
+   21
+   22
+   CK-MB
+   15
+   Troponin T
+   0.56
+   ABG: /  /  / 40 /    Values as of [**2864-2-25**] 03:39 AM
+   Tests
+   ECG: (Date: [**2864-2-24**]), sinus rhythm at 64 beats per minute; normal axis
+   and intervals. nonspecific ST-T flattening in V5-V6 and T wave
+   inversions in I and aVL. Right atrial enlargement.
+   Echocardiogram: (Date: [**2864-2-21**]), Regional LV systolic dysfunction
+   consistent with multi-vessel CAD or other diffuse process. Diastolic
+   dysfunction. Mild mitral regurgitation. Mild pulmonary artery systolic
+   hypertension.  EF 40-45%
+   Cardiac Cath: (Date: [**2864-2-19**]), Selective coronary angiography of this
+   right dominant system revealed
+   nonobstructive left main and 2 vessel obstructive coronary artery
+   disease. The LMCA had a 40% stenosis distally, extending into the
+   ostium
+   of the LAD. The LAD was a large vessel that supplied the apex, and was
+   diffusely diseased and calcified. There was a 40% ostial stenosis,
+   followed by sequential 70% and 90% stenoses of the proximal and mid
+   LAD.
+   The LCX was totally occluded, and was collateralized distally by the
+   RCA. The RCA had lumenal irregularities up to 30-40% stenosis of the
+   proximal and mid vessel, but was otherwise patent.
+   Assessment and Plan
+   Very long sinus arrest/pause in setting of vasovagal event- She has a
+   pronounced cardioinhibitory response. She will likely get a permanent
+   pacemaker tomorrow.
+   Keep off of nodal blocking agents until PPM is placed.
+   Avoid straining with bowel movements.
+   Keep NPO past midnight.
+   Will discuss assessment and plan with attending Dr. [**Last Name (STitle) 6538**]
+   [**First Name11 (Name Pattern1) 6539**] [**Last Name (NamePattern4) 6540**] MD
+   Pager [**Numeric Identifier 6541**]
+   ------ Protected Section ------
+   Patient was intubated in the setting of hypercarbic respiratory failure
+   and received both dopamine and neosynephrine post cardiac
+   catheterization on [**2864-2-19**]. She was extubated within 18 hours. The
+   atrial fibrillation was following administration of vasopressor agents.
+   Also, she smokes 5 cigaretted per day, not per week.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 6539**] [**Last Name (NamePattern1) **], MD
+   on:[**2864-2-25**] 15:15 ------
+   I have reviewed the data and examined  Pt. .I agree with the need for
+   Prophylactic P.Pacer with hysteresis for her Situational Syncopal
+   episodes.The Pt understands and wishes to proceed.
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6546**]
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) 6546**]
+   on:[**2864-2-25**] 17:08 ------
+
+
+DOC CLASS

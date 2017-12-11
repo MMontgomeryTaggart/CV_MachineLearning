@@ -1,0 +1,282 @@
+Chief Complaint: 76F with phmx HTN transferred from OSH after syncope
+   episode and chest pain, cardiac cath showed 95% LM disease and 99% LAD
+   stenosis. POBA LAD and LCx with VT s/p shock twice in cath lab,
+   intubated for respiratory distress, dopamine for hemodynamic support.
+   Hypothermia protocal was initiated after patient presents self cooled
+   and in coma. On [**3-3**] became bradycardic, atropine was given, PEA to VT
+   arrest. Received a tandemheart in cath lab, however retracted to
+   partially in the RA causing a shunt. ECMO was initiated. Removal of
+   ECMO and tandem heart. Continues to have pressor requirement. Improved
+   mental status. Trach placed. Now s/p PCI with stent to left main,
+   jailed LAD with balloon expansion with good flow.
+   24 Hour Events:
+   - thoracic surgery signed off, wont do PEG until off pressors
+   - increased midodrine, lowered beta blocker to [**Hospital1 **]
+   - CODE BLUD - The patient had decreased urine output, clamped down.
+   Became progressively hypoxemic. Then became bradycardic and severely
+   hypotensive. Pulses lost and CPR was initiated. PEA arrest for 1 cycle
+   was given epinephrine and atropine given. Started on 4 pressors (neo,
+   levo, dopa, vasopressin). Regained pulse which was then lost again,
+   restarted compressions and again got epi and atropine. PEA arrest again
+   for 1 cycle. Bedside TTE showed mod/severe MR, mod/severe TR with
+   adequate LV function. Femoral A-line was placed in sterile fashion. ABG
+   shows pH of 6.95 and lactate of 11. Patient given bicarb and started on
+   bicarb drip. Meropenem and vancomycin started. A bronchoscope was
+   performed to eval for upper airway obstruction. A femoral TLC placed in
+   sterile fashion.
+   - lasix 80IV and lasix drip given with goal of I=O
+   - Patient made DNR (pressors okay, NO ACLS MEDS, NO SHOCKS)
+ CARDIAC ARREST - At [**3316-3-25**] 05:00 PM
+ TRANSTHORACIC ECHO - At [**3316-3-25**] 05:30 PM
+ BRONCHOSCOPY - At [**3316-3-25**] 06:00 PM
+ ARTERIAL LINE - START [**3316-3-25**] 06:00 PM
+ MULTI LUMEN - START [**3316-3-25**] 07:35 PM
+ FEVER - 101.1
+F - [**3316-3-25**] 08:00 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Meropenem - [**3316-3-25**] 06:39 PM
+   Vancomycin - [**3316-3-25**] 07:30 PM
+   Infusions:
+   Fentanyl (Concentrate) - 50 mcg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Furosemide (Lasix) - 15 mg/hour
+   Norepinephrine - 0.4 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**3316-3-25**] 03:00 PM
+   Atropine - [**3316-3-25**] 05:22 PM
+   Midazolam (Versed) - [**3316-3-25**] 06:53 PM
+   Fentanyl - [**3316-3-25**] 06:53 PM
+   Sodium Bicarbonate 8.4% (Amp) - [**3316-3-25**] 08:20 PM
+   Famotidine (Pepcid) - [**3316-3-25**] 08:45 PM
+   Furosemide (Lasix) - [**3316-3-25**] 11:06 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3316-3-26**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**18**] AM
+   Tmax: 38.4
+C (101.1
+   Tcurrent: 36.9
+C (98.4
+   HR: 79 (63 - 98) bpm
+   BP: 110/58(76) {79/44(56) - 126/66(90)} mmHg
+   RR: 24 (18 - 34) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 53.9 kg (admission): 45 kg
+   Height: 60 Inch
+    Mixed Venous O2% Sat: 86 - 86
+   Total In:
+                                                                  4,934 mL
+                                                                    644 mL
+   PO:
+   TF:
+   IVF:
+                                                                  4,464 mL
+                                                                    524 mL
+   Blood products:
+   Total out:
+                                                                    850 mL
+                                                                    386 mL
+   Urine:
+                                                                    550 mL
+                                                                    111 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,084 mL
+                                                                    258 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 280 (280 - 280) mL
+   PS : 18 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 6 cmH2O
+   FiO2: 80%
+   PIP: 30 cmH2O
+   Plateau: 25 cmH2O
+   SpO2: 100%
+   ABG: 7.43/40/186/21/2
+   Ve: 6.7 L/min
+   PaO2 / FiO2: 233
+   Physical Examination
+   Eyes / Conjunctiva: Pupils minimally reactive
+   Head, Ears, Nose, Throat: Normocephalic, Trach tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Crackles : diffuse, coarse)
+   Abdominal: Soft, Non-tender, Distended
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   217 K/uL
+   8.8 g/dL
+   432 mg/dL
+   2.4 mg/dL
+   21 mEq/L
+   4.5 mEq/L
+   87 mg/dL
+   99 mEq/L
+   138 mEq/L
+   28.8 %
+   16.2 K/uL
+        [image002.jpg]
+                             [**3316-3-25**]  06:17 PM
+                             [**3316-3-25**]  06:40 PM
+                             [**3316-3-25**]  08:02 PM
+                             [**3316-3-25**]  09:05 PM
+                             [**3316-3-25**]  09:22 PM
+                             [**3316-3-25**]  11:18 PM
+                             [**3316-3-26**]  12:19 AM
+                             [**3316-3-26**]  02:11 AM
+                             [**3316-3-26**]  02:27 AM
+                             [**3316-3-26**]  06:06 AM
+   WBC
+   16.2
+   Hct
+   28.8
+   Plt
+   217
+   Cr
+   2.3
+   2.4
+   TropT
+   1.84
+   TCO2
+   11
+   14
+   15
+   16
+   17
+   19
+   22
+   27
+   Glucose
+   223
+   442
+   432
+   Other labs: PT / PTT / INR:24.0/39.2/2.3, CK / CKMB /
+   Troponin-T:206/8/1.84, ALT / AST:2495/3941, Alk Phos / T Bili:133/1.2,
+   Amylase / Lipase:26/287, Differential-Neuts:90.9 %, Band:1.0 %,
+   Lymph:6.0 %, Mono:2.5 %, Eos:0.4 %, D-dimer:[**Numeric Identifier 11488**] ng/mL, Fibrinogen:288
+   mg/dL, Lactic Acid:4.1 mmol/L, Albumin:2.4 g/dL, LDH:6849 IU/L,
+   Ca++:7.3 mg/dL, Mg++:2.5 mg/dL, PO4:10.1 mg/dL
+   Imaging: CXR: No appreciable pleural effusion or pneumothorax. Slight
+   increase in bilateral
+   airspace opacity, right > left, may indicate edema.
+   Microbiology: [**3316-3-24**]  SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+   CULTURE-PRELIMINARY INPATIENT
+   [**3316-3-24**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT
+   [**3316-3-24**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT
+   [**3316-3-22**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL
+   Assessment and Plan
+   76F with HTN transferred from OSH after syncope and chest pain. CCath
+   showed 95% LMCA and 99% LAD stenosis. POBA was done with VT s/p shock
+   twice in cath lab. The patient was intubated and pressors were started
+   for hemodynamic support. Arctic sun protocol was initiated. On [**3-3**] PEA
+   to VT arrest. Tandemheart in cath lab, with in line ECMO. s/p removal
+   of tandemheart and ECMO. Trach placed. s/p PCI with BMS to LMCA, jailed
+   LAD. [**3-25**] PEA arrest x2.
+   #. Shock: unclear etiology. Likely cardiogenic plays component but
+   distributive picture also likely a factor as well. Was on
+   phenylephrine. Started midodrine in attempt to wean. Yesterday became
+   hypotensive and bradycardic, s/p PEA arrest. Concern for  Was on
+   midodrine, phenylephrine, dopamine, levophed, vasopressin for pressure
+   support. Once code complete and patient more HD stable were able to
+   wean some pressor requirement. Trend lactate.
+   - cont levophed
+   - wean phenylephrine as tolerated
+   - cont midodrine for now
+   - cont vanc/[**Last Name (un) **] (day 1 [**3-25**])
+   - attempt I = O
+   - trend lactate, pH
+   - trend LFTs
+   - trend WBC, T
+   - TTE today
+   - consider ENT consult to eval for sinus source
+   - consider swan
+   #. Metabolic acidosis: elevated lactate to 12. Now trending down. Had
+   to give multiple bicarb pushes and started bicarb drip.
+   - trend ABG
+   - trend lactate
+   - continue pressor support
+   #. Acure kidney injury: Cr from 1.1 to 1.8 to 2.4. Trend concerning for
+   kidney injury. Urine output minimal now.
+   - continue pressor support
+   - lasix gtt, metolazone, attempt I=O for now
+   - consult renal - may need CVVH in future
+   - trend BUN/Cr
+   - urine lytes, urine sediment
+   #. Transaminitis: Likely secondary to shock liver from hypotension. [**Month (only) 8**]
+   be leading to distributive picture. INR elevated suggesting some
+   synthetic dysfunction.
+   - trend LFTs
+   - consider hepatology consult
+   #. Hypoxemic respiratory failure: Likely secondary to pulmonary edema
+   secondary to acute congestive heart failure, although hemorrhage,
+   aspiration pneumonia, ARDS also on differential.
+   - monitor I/O goal even
+   - continue lasix gtt and metolazone if tolerated
+   - trach stitches can be removed - will be done by CT Surgery at time of
+   PEG placement
+   - wean vent settings as tolerated
+   - continue sedation
+   #. Coronary artery disease:  Patient is s/p STEMI and cardiogenic shock
+   after PEA arrest.  s/p PCI [**3-18**] of LMCA.
+   - continue plavix, aspirin, statin
+   - decrease beta blocker
+   - continue heparin gtt for apical akinesis - watch hct
+   #. Anemia: CT torso without evidence of intraabdominal bleed.  Has had
+   guaiac + stools. Tandem heart, which appeared associated with anemia,
+   has been removed.  Bronch clean.  On heparin drip. Hct stable.
+   - will monitor Hct
+   #. Atrial fibrillation: Has been recurrent and intermittent.  Had
+   another episode of atrial fibrillation overnight.
+   - continue amiodarone po
+   - consider beta blocker withdrawal
+   - continue heparin gtt
+   #. Neurologic status: Unclear after newest PEA arrest. Will attempt to
+   lighten sedation and assess today.
+   - will continue to follow her clinical exam
+    # Nutrition: Readdress this afternoon if stable.
+   - NPO for now since recent PEA arrest
+   # Hyperglycemia: hyperglycemic - secondary to D5W in bicarb drip.
+   Should now improved.
+   - ISS - adjust prn
+   # Insomnia/ Depression:   Ambien works well intermittently.  Patient
+   needs rest to help w anxiety
+   - continue ambien
+   - continue citalopram
+   # Goals of care
+ DNR - do not use ACLS or shock, pressors okay
+   ICU Care
+   Nutrition:
+   Comments: NPO for now
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3316-3-25**] 06:00 PM
+   Multi Lumen - [**3316-3-25**] 07:35 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:ICU
+
+
+DOC CLASS

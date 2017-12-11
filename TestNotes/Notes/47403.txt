@@ -1,0 +1,140 @@
+Admission Date:  [**2801-12-11**]       Discharge Date:  [**2801-12-25**]
+
+Date of Birth:   [**2733-4-20**]       Sex:  M
+
+Service:
+
+ADDENDUM:  This is a Discharge Summary addendum.
+
+HOSPITAL COURSE BY SYSTEM:  (Following transfer to Medicine
+Service)
+
+1.  PULMONARY SYSTEM:  Once the patient's cardiac condition
+was stabilized, as discussed in the previous attached
+Discharge Summary, the patient was transferred from the
+Coronary Care Unit to the Medical Intensive Care Unit.
+
+On [**12-16**], the patient self-extubated requiring
+reintubation by Anesthesia.  As before, the intubation was
+extremely difficult and again required fiberoptic
+bronchoscopy for airway visualization due to severe laryngeal
+edema.  Sedation was weaned, and he was consented for
+tracheostomy.  He was given a trial of pressure-support
+ventilation and did better than expected and was extubated
+successfully on [**12-20**].  Although secretions were
+tenacious and required aggressive suctioning, it was
+ultimately felt that he would not require a tracheostomy.
+
+On [**12-21**], a chest x-ray showed right lung collapse;
+consistent with mucus plug.  The patient spontaneously
+coughed up a large amount of mucous,and a follow-up chest
+x-ray demonstrated re-expansion of the right lung.  A similar
+episode occurred on [**12-23**]; and the patient required
+aggressive suctioning to achieve re-expansion of the right
+lung.
+
+Following this, the patient's pulmonary status improved
+steadily; with oxygen saturations ranging from 92% on 4
+liters to 95% on room air.  Respiratory therapists provided
+suctioning every four hours with a continued improvement;
+although, the patient's secretions remained thick and copious
+at the time of this dictation.
+
+2.  INFECTIOUS DISEASE:  The patient completed a 2-week
+course of levofloxacin and metronidazole for a right lower
+lobe pneumonia; presumed due to aspiration.
+
+Sputum cultures grew only oropharyngeal flora.  Blood
+cultures from [**12-12**] were negative.  Additionally, the
+patient developed a symptomatic leukocytosis to 27,000 on
+[**12-23**].  Blood cultures were therefore sent on [**12-24**], and these were sterile at the time of discharge.
+
+3.  CARDIOVASCULAR SYSTEM:  The patient was continued on
+atorvastatin, Lopressor, and captopril.  At the time of
+discharge, captopril 25 mg p.o. t.i.d. was switched to
+lisinopril 10 mg p.o. q.d. for ease of dosing.
+
+Given the patient's depressed ejection fraction of 35%, both
+the Lopressor and lisinopril may be titrated up as an
+outpatient as blood pressure allows.  As the echocardiogram
+on [**12-11**] showed a depressed ejection fraction with
+apical akinesis, anticoagulation with heparin was given in
+order to prevent left ventricular thrombus formation.  Once
+it was decided not to proceed with tracheostomy, warfarin was
+started on [**12-23**].
+
+A follow-up echocardiogram was obtained on [**12-24**].  This
+revealed a mildly dilated left atrium, a normal left
+ventricular cavity size, with overall left ventricular
+systolic function moderately depressed, with an ejection
+fraction of 35%.  There was distal, septal, and apical
+akinesis.  Posterior hypokinesis was present.  Basal septum
+and lateral walls were somewhat preserved.  The aortic valve
+and mitral valve leaflets were both mildly thickened.
+
+To help with the decision about chronic anticoagulation for
+left ventricular thrombosis prophylaxis, the Cardiology
+Service was consulted.  Based on the presence of a mild left
+ventricular aneurysm, as well as the depressed ejection
+fraction, they recommended three months of anticoagulation
+with warfarin (with a goal INR of 2 to 3).  During this time,
+aspirin should be held; and it can be restarted after the
+three month period of anticoagulation with warfarin.
+Finally, they recommended a follow-up echocardiogram in three
+months with consideration for implantable
+cardioverter-defibrillator placement if the ejection fraction
+is less than 30%.
+
+4.  NUTRITION:  ProMod with fiber was provided via the
+patient's gastrojejunostomy tube at 75 cc per hour.  The
+Swallowing Service evaluated the patient and found that he
+grossly aspirated with even small amounts of custard.  They
+recommended to keep the patient nothing by mouth, continue
+tube feeds, and re-evaluate in the future to see if
+swallowing function recovers.
+
+DISCHARGE STATUS:  Discharge status was to [**Hospital3 31548**].
+
+CONDITION AT DISCHARGE:  Condition on discharge was good.
+
+MEDICATIONS ON DISCHARGE:
+ 1.  Atrovent nebulizer q.6h.
+ 2.  Albuterol nebulizer q.2-3h. as needed.
+ 3.  Colace liquid 100 mg per gastrojejunostomy tube b.i.d.
+ 4.  Dulcolax 10 mg p.r. or per gastrojejunostomy tube q.d.
+as needed.
+ 5.  Lactulose 30 mL per gastrojejunostomy tube q.8h. as
+needed.
+ 6.  Lisinopril 10 mg per gastrojejunostomy tube q.d. (hold
+for a systolic blood pressure of less than 100).
+ 7.  Lipitor 20 mg per gastrojejunostomy tube q.d.
+ 8.  Metoprolol 12.5 mg per gastrojejunostomy tube b.i.d.
+(hold for a systolic blood pressure of less than 110 or a
+heart rate of less than 60).
+ 9.  Warfarin 5 mg per gastrojejunostomy tube q.h.s.
+10.  Ranitidine 150 mg per gastrojejunostomy tube b.i.d.
+
+DISCHARGE DIAGNOSES:
+1.  Inferior wall myocardial infarction.
+2.  Left ventricular systolic dysfunction.
+3.  Left ventricular aneurysm; mild.
+4.  Right lower lobe pneumonia secondary to aspiration.
+5.  Prolonged wean from mechanical ventilation.
+6.  Dysphagia; likely secondary to prolonged mechanical
+ventilation.
+
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 21311**]
+
+Dictated By:[**Name8 (MD) 22770**]
+MEDQUIST36
+
+D:  [**2801-12-25**]  15:04
+T:  [**2801-12-25**]  15:49
+JOB#:  [**Job Number 31549**]
+
+
+DOC CLASS

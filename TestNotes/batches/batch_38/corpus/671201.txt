@@ -1,0 +1,201 @@
+CVICU
+   HPI:
+   HD11   POD 8-s/p RLE thrombectomy and fasciotomiesx3
+   Pre-Op Weight:251.98 lbs   114.3 kgs
+   Baseline Creatinine:6.8
+   TLD:Lft SC-TLC:Day10
+   Foley:Day11
+   Chief complaint:
+   PMHx:
+   PMH: HTN, hyperlipidemia, asthma, L back melanoma
+   PSH: IVC filter ([**11-9**]), L back melanoma excision with ax LN dxn,
+   laparotomy x 2 for ovarian cysts, C-section, app, lap [**First Name9 (NamePattern2) 2529**]
+   [**Last Name (un) **]: Triamterene-HCTZ 37.5/25', lisinopril 20', Spiriva 18', coreg 25",
+   omeprazole 20', effexor XL 150", carbamazepine 100", neurontin 600",
+   simvastatin 20', singulair 10', ProAir HFA 90 mcg inhaler
+   Current medications:
+   1. 2. Acetaminophen (Liquid) 3. Albuterol 0.083% Neb Soln 4. Amlodipine
+   5. Carbamazepine 6. Calcium Gluconate
+   7. Dextrose 50% 8. Docusate Sodium 9. Furosemide 10. Glucagon 11.
+   HYDROmorphone (Dilaudid) 12. HydrALAzine
+   13. Insulin 14. Metoclopramide 15. Metoprolol Tartrate 16. Metoprolol
+   Tartrate 17. Montelukast Sodium
+   18. Pantoprazole 19. Potassium Chloride 20. Potassium Chloride 21.
+   Simethicone 22. Sodium Chloride 0.9% Flush
+   23. Venlafaxine 24. Warfarin 25. Warfarin 26. Warfarin
+   24 Hour Events:
+ ULTRASOUND - At [**3226-12-16**] 04:05 PM
+   Post operative day:
+   POD#8 - RLE thrombectomy & RLE fasciotomy
+   Allergies:
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Hives;
+   Sulfonamides
+   Wheezing;
+   Iodine; Iodine Containing
+   Unknown;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3226-12-15**] 12:00 PM
+   Fluconazole - [**3226-12-16**] 04:06 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3226-12-17**] 08:01 AM
+   Other medications:
+   Flowsheet Data as of  [**3226-12-17**] 10:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**28**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 37.4
+C (99.3
+   HR: 111 (89 - 112) bpm
+   BP: 118/60(79) {99/50(66) - 148/71(92)} mmHg
+   RR: 24 (17 - 27) insp/min
+   SPO2: 95%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 150.5 kg (admission): 133.6 kg
+   Height: 67 Inch
+             Total In:
+                                                                  1,584 mL
+                                                                    511 mL
+   PO:
+                                                                    600 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    984 mL
+                                                                    511 mL
+   Blood products:
+   Total out:
+                                                                  4,410 mL
+                                                                    820 mL
+   Urine:
+                                                                  4,410 mL
+                                                                    820 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,826 mL
+                                                                   -309 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 95%
+   ABG: ///25/
+   Physical Examination
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   404 K/uL
+   8.2 g/dL
+   100 mg/dL
+   1.0 mg/dL
+   25 mEq/L
+    3.5 mEq/L
+   26 mg/dL
+   101 mEq/L
+   137 mEq/L
+   25.3 %
+   17.3 K/uL
+        [image002.jpg]
+                            [**3226-12-14**]  08:48 PM
+                            [**3226-12-15**]  03:23 AM
+                            [**3226-12-15**]  03:26 AM
+                            [**3226-12-15**]  08:48 AM
+                            [**3226-12-15**]  12:21 PM
+                            [**3226-12-15**]  01:45 PM
+                            [**3226-12-16**]  04:05 AM
+                            [**3226-12-16**]  04:10 AM
+                            [**3226-12-16**]  06:45 AM
+                            [**3226-12-17**]  03:55 AM
+   WBC
+   11.9
+   15.1
+   17.3
+   Hct
+   25.0
+   26.2
+   25.3
+   Plt
+   354
+   375
+   404
+   Creatinine
+   1.3
+   1.2
+   1.1
+   1.1
+   1.0
+   TCO2
+   38
+   37
+   35
+   34
+   32
+   Glucose
+   139
+   146
+   127
+   116
+   145
+   100
+   Other labs: PT / PTT / INR:37.7/70.0/3.9, CK / CK-MB / Troponin
+   T:4635/6/, ALT / AST:92/140, Alk-Phos / T bili:422/1.9, Amylase /
+   Lipase:44/63, Differential-Neuts:83.3 %, Lymph:9.8 %, Mono:4.4 %,
+   Eos:2.1 %, Lactic Acid:0.9 mmol/L, Albumin:2.4 g/dL, LDH:403 IU/L,
+   Ca:9.5 mg/dL, Mg:2.3 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   AROUSAL, ATTENTION, AND COGNITION, IMPAIRED, KNOWLEDGE, IMPAIRED, MOTOR
+   FUNCTION, IMPAIRED, MUSCLE PERFORMACE, IMPAIRED, SENSATION, IMPAIRED,
+   TRANSFERS, IMPAIRED, ALTERATION IN NUTRITION, FEVER (HYPERTHERMIA,
+   PYREXIA, NOT FEVER OF UNKNOWN ORIGIN), RHABDOMYOLYSIS, OBSTRUCTIVE
+   SLEEP APNEA (OSA), PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), RENAL
+   FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF), DEEP VENOUS THROMBOSIS
+   (DVT), LOWER EXTREMITY, .H/O RETROPERITONEAL BLEED (RP BLEED) ,
+   PROCEDURE-RELATED, .H/O PULMONARY EMBOLISM (PE), ACUTE
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Alert,awake ,responsive ,pain
+   controlled
+   Cardiovascular: Aspirin, Full anticoagulation, Hemodynamically stable
+   Pulmonary: IS, continue lasix for diuresis
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal: Foley, Adequate UO, s/p resolving rhabdomyolysis.Decreasing CK .
+   Hematology: Serial Hct, stable
+   Endocrine: RISS
+   Infectious Disease:  S/P thrombectomies with fasciotomies-increasing
+   white count ,afebrile,wound site ok
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: Vascular surgery
+   Billing Diagnosis: Other: Rhabdomyolysis
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3226-12-8**] 02:30 PM
+   Cordis/Introducer - [**3226-12-9**] 04:30 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+
+
+DOC CLASS

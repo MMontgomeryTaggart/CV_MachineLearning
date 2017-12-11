@@ -1,0 +1,171 @@
+CVICU
+   HPI:
+   HD4
+   [**8-17**] POD 3
+   62M s/p emergency CABGx3(SVG->LAD, OM, PDA) [**8-14**]
+   EF:10-15% Cr.:1.2 Wt.: 93 kg
+   PMHx: presented with acute MI/CHF/cardiogenic shock, s/p MI [**21**] yrs.
+   ago
+   [**Last Name (un) 500**]: none
+   Current medications:
+    Amiodarone  Aspirin EC. Captopril
+   Docusate Sodium  Furosemide Heparin Insulin Metoclopramide
+   . Morphine Sulfate Oxycodone-Acetaminophen Potassium Chloride .
+   Ranitidine
+   24 Hour Events:
+ IABP LINE - STOP [**3110-8-16**] 09:35 AM
+ ARTERIAL LINE - STOP [**3110-8-16**] 09:35 AM
+   Post operative day:
+   POD#3 - S/P CABGX3
+   24 Hr events:
+   IABP removed, Milrinone weaned, extubated and transfused.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**3110-8-15**] 02:30 PM
+   Infusions:
+   Milrinone - 0.125 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3110-8-16**] 09:15 AM
+   Ranitidine (Prophylaxis) - [**3110-8-16**] 08:04 PM
+   Furosemide (Lasix) - [**3110-8-16**] 08:04 PM
+   Other medications:
+   Flowsheet Data as of  [**3110-8-17**] 06:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**13**] a.m.
+   HR: 79 (79 - 104) bpm
+   BP: 102/48(64) {86/39(57) - 118/61(78)} mmHg
+   RR: 14 (10 - 23) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 89.5 kg (admission): 85 kg
+   Height: 72 Inch
+   CVP: 4 (-1 - 10) mmHg
+   PAP: (31 mmHg) / (23 mmHg)
+   CO/CI (Fick): (8.2 L/min) / (4 L/min/m2)
+   CO/CI (CCO): (5.4 L/min) / (2.7 L/min/m2)
+   SvO2: 72%
+   Total In:
+                                                                  2,213 mL
+                                                                    202 mL
+   PO:
+                                                                    510 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,328 mL
+                                                                    202 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  2,320 mL
+                                                                    440 mL
+   Urine:
+                                                                  2,240 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -107 mL
+                                                                   -238 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: No(t) Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), Lt leg incision w/steristrips
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   92 K/uL
+   9.4 g/dL
+   126 mg/dL
+   0.9 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   17 mg/dL
+   105 mEq/L
+   140 mEq/L
+   26.2 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**3110-8-16**]  12:00 AM
+                             [**3110-8-16**]  01:00 AM
+                             [**3110-8-16**]  02:41 AM
+                             [**3110-8-16**]  03:16 AM
+                             [**3110-8-16**]  09:08 AM
+                             [**3110-8-16**]  09:23 AM
+                             [**3110-8-16**]  05:19 PM
+                             [**3110-8-16**]  05:29 PM
+                             [**3110-8-16**]  10:23 PM
+                             [**3110-8-17**]  02:47 AM
+   WBC
+   10.1
+   7.8
+   Hct
+   25.8
+   27.0
+   28.2
+   26.2
+   Plt
+   91
+   92
+   Creatinine
+   0.9
+   0.9
+   TCO2
+   29
+   Glucose
+   128
+   119
+   92
+   90
+   102
+   110
+   126
+   Other labs: PT / PTT / INR:13.7/30.0/1.2, Fibrinogen:342 mg/dL, Lactic
+   Acid:3.6 mmol/L, Ca:7.8 mg/dL, Mg:2.3 mg/dL, PO4:2.5 mg/dL
+   Imaging: CXR [**8-16**]-  nl postop findings
+   Microbiology: no cxs
+   Assessment and Plan
+   Assessment and Plan:
+   Neurologic: Pain controlled
+   Cardiovascular: Aspirin, d/c milrinone,if stable d/c PA cath later
+   today. Begin betablocker. On Captopril. Begin Statin.
+   Pulmonary: IS
+   Gastrointestinal / Abdomen: meds as needed. Continue ranitidine.
+   Nutrition: Regular diet, Advance diet as tolerated
+   Renal: Foley, Adequate UO, Lasix for 1-2 L neg goal.
+   Endocrine: RISS
+   Infectious Disease: none
+   Lines / Tubes / Drains: Foley, Pacing wires
+   Wounds: Dry dressings
+   Consults: P.T.
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**3110-8-14**] 08:48 AM
+   PA Catheter - [**3110-8-14**] 08:48 AM
+   18 Gauge - [**3110-8-14**] 08:53 AM
+   Arterial Line - [**3110-8-15**] 02:50 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

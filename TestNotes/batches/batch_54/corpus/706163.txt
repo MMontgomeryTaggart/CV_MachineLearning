@@ -1,0 +1,144 @@
+CVICU
+   HPI:
+   HD2
+   Pre-Op Weight: 175 lbs
+   Worsening symptoms of heart failure  known to have mitral regurgitation
+   that had gotten worse with  dilatation of his cavities. He underwent a
+   minimally invasive  mitral valve repair on [**2649-1-31**]. He presented to an
+   OSH with SOB  at rest, beginning on the day of discharge. No associated
+   CP, lightheadedness or dizziness. He was found to be in CHF with BNP
+   in the [**Numeric Identifier 9932**]'s. CXR showed CHF and Echo revealed MR. [**Name13 (STitle) **] was given  2
+   units RBC and 60 mg IV lasix then transferred to [**Hospital1 17**] for  further
+   evaluation.
+   [**2649-1-31**] Mini.MVrep
+   Ejection Fraction:65
+   PMH:MR/AI,Hyperlipidemia,HTN,GERD,BPH,remote right legfx,remote bil.
+   rib fxs,skin CA,remote left wrist fx,DJD hands
+   Past Surgical History: Left inguinal hernia repair  removal of skin CA
+   right face and back
+   [**Last Name (un) **]:omeprazole 20 mg daily,enalapril 10 mg/HCTZ 25 mg [**Hospital1 7**], lopressor 25
+   [**Hospital1 7**], Lasix 40 po daily, ASA
+   Current medications:
+   Acetaminophen Aspirin Docusate Sodium Esmolol Furosemide Omeprazole
+   Oxycodone-Acetaminophen
+   24 Hour Events:
+   Admitted to [**Hospital Ward Name 278**] 6 --> transferred to CVICU for esmolol gtt, TEE this
+   am
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2649-2-7**] 04:22 AM
+   Fentanyl - [**2649-2-7**] 08:15 AM
+   Midazolam (Versed) - [**2649-2-7**] 08:15 AM
+   Other medications:
+   Flowsheet Data as of  [**2649-2-7**] 10:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**51**] a.m.
+   Tmax: 37.3
+C (99.1
+   T current: 36.8
+C (98.2
+   HR: 91 (74 - 96) bpm
+   BP: 101/49(62) {80/38(49) - 140/81(95)} mmHg
+   RR: 21 (15 - 24) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+             Total In:
+                                                                     40 mL
+                                                                    281 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                     40 mL
+                                                                    281 mL
+   Blood products:
+   Total out:
+                                                                    680 mL
+                                                                  1,630 mL
+   Urine:
+                                                                    680 mL
+                                                                  1,630 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -640 mL
+                                                                 -1,349 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 100%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Murmur: Systolic, Diastolic), V/VI
+   blowing murmur best heard at apex
+   Respiratory / Chest: (Breath Sounds: Crackles : at bases)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: No(t) Present, Diminished), (Pulse - Posterior tibial:
+   Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3)
+   Labs / Radiology
+   429 K/uL
+   9.5 g/dL
+   122 mg/dL
+   0.9 mg/dL
+   26 mEq/L
+   4.4 mEq/L
+   29 mg/dL
+   101 mEq/L
+   137 mEq/L
+   28.6 %
+   8.2 K/uL
+        [image002.jpg]
+                             [**2649-2-7**]  01:39 AM
+   WBC
+   8.2
+   Hct
+   28.6
+   Plt
+   429
+   Creatinine
+   0.9
+   Glucose
+   122
+   Other labs: ALT / AST:48/73, Alk-Phos / T bili:144/1.3, Amylase /
+   Lipase:42/42, Mg:2.0 mg/dL
+   Assessment and Plan
+   70 year old male s/p MV repair readmit with shortness of breath and
+   increasing LE edema
+   Neurologic: Perc for pain PRN
+   Cardiovascular: Aspirin, Esmolol gtt to keep SBP<120. ASA.  TEE to
+   evaluate for dehiscence of mitral valve leaflet - ? plan for OR later
+   today for MV repair revision vs MVR via sternotomy
+   Pulmonary: IS, Cont diuresis, CXR wet
+   Nutrition: NPO for ? OR
+   Renal: Foley, Lasix 40 IV BID to run neg
+   Hematology: Hct stable.  ASA
+   Infectious Disease: Afebrile.  Periop abx if going to OR
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Fluids: KVO
+   Consults: CT surgery, Cardiology
+   ICU Care
+   Lines:
+   20 Gauge - [**2649-2-6**] 10:06 PM
+   18 Gauge - [**2649-2-7**] 02:08 AM
+   Prophylaxis:
+   Stress ulcer: PPI
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

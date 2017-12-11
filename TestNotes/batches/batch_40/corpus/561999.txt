@@ -1,0 +1,154 @@
+TITLE:
+   Chief Complaint: 79 yo F with COPD, DM, HTN, HLP, morbid obesity, who
+   is transferred from an OSH for worsening SOB found to have a large
+   pericardial effusion with tamponade physiology on ECHO- unable to
+   perform pericardiocentesis today in cath lab due to position of
+   pericardial effusion.
+   24 Hour Events:
+   Patient arrived in the evening with stable SBP's in the 140's and a
+   pulsus paradoxsus of [**1-6**].  Patient continued to be SOB.
+   Allergies:
+   Penicillins
+   Rash;
+   Sulfa (Sulfonamide Antibiotics)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3201-1-11**] 05:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.7
+C (98
+   HR: 58 (58 - 73) bpm
+   BP: 144/52(73) {127/52(73) - 180/94(103)} mmHg
+   RR: 16 (16 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: SB (Sinus Bradycardia)
+                  Total In:
+                                                                    480 mL
+                                                                     60 mL
+   PO:
+                                                                    480 mL
+                                                                     60 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  1,920 mL
+                                                                    180 mL
+   Urine:
+                                                                    220 mL
+                                                                    180 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,440 mL
+                                                                   -120 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///32/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), No(t) S3,
+   No(t) S4, No(t) Rub, (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bibasilar, Wheezes : expiratory scattered)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Verbal stimuli, Movement:
+   Purposeful, Tone: Not assessed
+   Labs / Radiology
+   300 K/uL
+   11.4 g/dL
+   86 mg/dL
+   0.8 mg/dL
+   32 mEq/L
+   4.3 mEq/L
+   31 mg/dL
+   98 mEq/L
+   137 mEq/L
+   33.7 %
+   17.3 K/uL
+        [image002.jpg]
+                            [**3201-1-11**]  03:43 AM
+   WBC
+   17.3
+   Hct
+   33.7
+   Plt
+   300
+   Cr
+   0.8
+   Glucose
+   86
+   Other labs: PT / PTT / INR:12.2/23.9/1.0, Ca++:9.2 mg/dL, Mg++:2.5
+   mg/dL, PO4:4.6 mg/dL
+   Assessment and Plan
+   79 yo F with COPD, DM, HTN, HLP, morbid obesity, who is transferred
+   from an OSH for worsening SOB found to have a large pericardial
+   effusion with tamponade physiology on ECHO- unable to perform
+   pericardiocentesis today in cath lab due to position of pericardial
+   effusion.
+   # Pericardial Effusion: unknown etiology- possibilities include post
+   viral, malignant, autoimmune, infectious, hemorrhagic (unlikely).
+   Malignant highly possible given age and size of effusion and that it's
+   now causing symptoms.  Currently hemodynamically stable.
+   - monitor in CCU overnight for HD stability
+   - plan for cardiac surgery consult for ? pericardial window
+   - IVFs PRN hypotension overnight
+   - monitor pulsus
+   # CORONARIES: no known coronary disease
+   - on b-blocker from OSH- no record of this being a home med; not on ASA
+   as outpatient; only on statin
+   # No evidence of heart failure; will continue home PO lasix
+   # RHYTHM:  NSR
+   # COPD: cont home meds
+   - PRN albuterol/atrovent nebs
+   - prednisone taper for COPD flare
+   # DM: insulin ss
+   # HTN: cont b-blocker and lasix
+   # Hyperlipidemia: cont home statin
+   # Hypothyroidism: cont home levothyroxine
+   FEN:  cardiac/DM diet; NPO after midnight for potential drain vs window
+   tomorrow
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with pneumoboots; hold off on hep sc given effusion
+   -Pain managment with tylenol PRN
+   -Bowel regimen
+   CODE: full
+   DISPO: Cardiology ICU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3201-1-10**] 07:29 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,242 @@
+Admission Date:  [**2564-8-6**]              Discharge Date:   [**2564-8-10**]
+
+Date of Birth:  [**2532-7-2**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Keflex / Niacin / Paper Tape / Fish Product
+Derivatives / Iodine / Adhesive Tape
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2564-8-6**] AVR (19mm St. [**Male First Name (un) 262**] mechanical)/aortic root enlargement
+with pericardial patch
+
+History of Present Illness:
+[**Known patient firstname 1148**] [**Known patient lastname **] is a 32-year-old female with a longstanding
+history of aortic stenosis with a bicuspid aortic valve, which
+has been followed over the past several years by serial
+electrocardiograms. Over the past several months, she has noted
+progressive worsening of her symptoms, which include dyspnea on
+exertion, chest pain, fatigue, and peripheral edema. Multiple
+echocardiograms and cardiac cath have confirmed severe sortiv
+stenosis.
+
+Past Medical History:
+Aortic Stenosis/bicuspid aortic valve
+Migraines
+Plantar fasciitis
+Asthma
+Depression/anxiety
+Chronic fatigue
+Obesity
+Dysmenorrhea
+Rhinitis
+? obstructive sleep apnea
+Recent poison [**Female First Name (un) 4312**]/sumac/ tick bite [**8-9**]
+
+Social History:
+Occupation is OT assistant.
+Her last dental exam was in [**2563-10-3**].
+She denies any tobacco use and drinks alcohol socially.
+She currently lives with her husband.
+
+Family History:
+Her family history is notable for her mother who had valvular
+surgery x 2.
+
+Physical Exam:
+GEN: well-developed and well-nourished female in no acute
+distress.
+Skin: warm, dry, and intact.
+HEENT exam showed her to be normocephalic and atraumatic.
+Pupils were equally round and reactive to light.  Extraocular
+muscles were intact.  Sclerae anicteric.  Oropharynx was benign.
+ Teeth were in good repair.
+Neck: supple with full range of motion.  No JVD.
+Chest: Lungs were clear to auscultation bilaterally.
+CV: RRR, normal S1 and S2 with a IV/VI systolic ejection
+murmurs.
+Abdomen: soft, nontender, and nondistended with normoactive
+bowel sounds.
+Ext: warm and well perfused with 1+ lower extremity edema. There
+were no varicosities noted on standing and her pulses were 2+
+throughout.
+Neuro: grossly intact without carotid bruits.
+
+Pertinent Results:
+
+[**2564-8-6**] 10:56AM   PT-14.8* PTT-32.2 INR(PT)-1.3*
+[**2564-8-6**] 10:56AM   PLT COUNT-182
+[**2564-8-6**] 10:56AM   WBC-22.6*# RBC-2.56*# HGB-8.2*# HCT-24.3*#
+MCV-95 MCH-32.1* MCHC-33.8 RDW-13.4
+[**2564-8-6**] 07:33AM   GLUCOSE-99 LACTATE-1.3 NA+-138 K+-4.1 CL--102
+[**2564-8-6**] 12:15PM   UREA N-12 CREAT-0.8 CHLORIDE-113* TOTAL
+CO2-25
+[**2564-8-8**] 05:28AM BLOOD WBC-13.6* RBC-2.98* Hgb-9.4* Hct-28.1*
+MCV-94 MCH-31.5 MCHC-33.4 RDW-13.6 Plt Ct-116*
+[**2564-8-10**] 05:53AM BLOOD PT-25.9* PTT-73.0* INR(PT)-2.5*
+[**2564-8-8**] 05:28AM BLOOD Glucose-107* UreaN-8 Creat-0.9 Na-132*
+K-4.4 Cl-100 HCO3-28 AnGap-8
+[**2564-8-8**] 05:28AM BLOOD Mg-1.7
+[**2564-8-6**] Echo: Pre Bypass: The left atrium is moderately dilated.
+The left atrium is elongated. No atrial septal defect is seen by
+2D or color Doppler. Right ventricular chamber size and free
+wall motion are normal. There are simple atheroma in the aortic
+arch. There are simple atheroma in the descending thoracic
+aorta. The aortic valve is bicuspid. The aortic valve leaflets
+are severely thickened/deformed. There is severe aortic valve
+stenosis (valve area 0.8-1.0cm2). Trace aortic regurgitation is
+seen. The mitral valve appears structurally normal with trivial
+mitral regurgitation. There is no pericardial effusion.
+Post Bypass: Preserved biventricular function. LVEF>55%. There
+is a mechanical aortic prosthesis insitu (#19 by report) with
+good leaflet motion and no perivalvular leaks. Peak gradient
+40's, mean 20's post bypass. Aortic contours intact. TR is now
+mild. Remaining exam is unchanged. All findings discussed with
+surgeons at the time of the exam.
+    [**Known patient lastname 7154**],[**Known patient firstname **] [**PT ID Number 31141**] F  32  [**2532-7-2**]
+Radiology Report CHEST (PA & LAT) Study Date of [**2564-8-9**] 3:01 PM
+
+UNDERLYING MEDICAL CONDITION:
+   32 year old woman with AVR/Ao root enlargement
+Final Report
+HISTORY: 32-year-old female status post AVR. Assess interval
+change.
+PA and lateral chest radiographs are compared to [**2564-8-8**]. A right
+IJ central venous catheter tip projects over the mid SVC, as
+before. Median sternotomy wires are intact. The cardiac
+silhouette is unchanged. There is improved aeration in the
+retrocardiac region compared to one day prior. There is improved
+aeration at the bases compared to one day prior. Small pleural
+effusions are probably unchanged allowing for positional
+differences. The upper lungs are clear.
+The study and the report were reviewed by the staff radiologist.
+
+DR. [**First Name (STitle) 1924**] [**Doctor Last Name 3165**]
+DR. [**First Name11 (Name Pattern1) 1704**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Approved: [**Doctor First Name 668**] [**2564-8-9**] 4:52 PM
+
+
+
+
+Brief Hospital Course:
+[**Known patient firstname 1148**] [**Known patient lastname **] was a same day admit after undergoing
+pre-operative work-up prior to surgery. On [**8-6**] she was brought
+to the operating room where she underwent an aortic valve
+replacement and aortic root enlargement. Please see operative
+report for surgical details. In summary she had an Aortic valve
+replacement with #19 [**First Name8 (NamePattern2) **] [**Male First Name (un) 262**] mechanical valve, she also had an
+aortic root enlargment with a pericardial patch. Her bypass time
+was 84 minutes with a crossclamp of 66 minutes. She tolerated
+the operation well and following surgery she was transferred to
+the CVICU for invasive monitoring in stable condition. Within 24
+hours she was weaned from extubation, awoke neurologically
+intact and extubated. On post-op day one patient was transferred
+to the telemetry floor for further care. Chest tubes and
+epicardial pacing wires were removed per protocol. Coumadin was
+started on POD#1 and IV heparin on POD#2. INR was therapeutic on
+POD#4 and heparin was discontinued.
+
+Ms. [**Known patient lastname **] complained of right shoulder pain radiating down
+humerus with limited abduction; sensation and strentgh is
+intact. Symptoms likely d/t positioning on OR table. Evaluated
+by PT/OT/and orthopedic service sling given for support when out
+of bed. Neurontin added to pain med regimen. Will have home
+PT/OT.
+On POD 4 Ms [**Known patient lastname **] was ready for discharge home with visiting
+nurses aas well as home PT/OT. She is to follow-up w/Dr [**Last Name (STitle) **]
+in 1 month
+
+
+Medications on Admission:
+Acyclovir 400mg prn for cold sores, Albuterol MDI 2 puffs prn,
+Celexa 20mg qd, Epipen prn, Fexofenadine 180mg QD, Lasix 20mg
+qd, Daypro 1200mg QD prn, MVI
+
+Discharge Medications:
+1. Citalopram 20 mg Tablet Sig: One (1) Tablet PO EVERY OTHER
+DAY (Every Other Day).
+2. Fexofenadine 60 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for temp.
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Potassium Chloride 10 mEq Tablet Sustained Release Sig: Two
+(2) Tablet Sustained Release PO once a day.
+Disp:*30 Tablet Sustained Release(s)* Refills:*0*
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+9. Warfarin 2 mg Tablet Sig: as directed to target INR 2-2.5
+Tablets PO once a day: dose as directed by coumadin clinic.
+Target INR 2-2.5.
+Disp:*90 Tablet(s)* Refills:*2*
+10. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+11. Gabapentin 100 mg Capsule Sig: Two (2) Capsule PO BID (2
+times a day).
+Disp:*120 Capsule(s)* Refills:*2*
+12. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for pain.
+13. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 1231**] regional VNA
+
+Discharge Diagnosis:
+Aortic Stenosis/bicuspid aortic valve s/p Aortic Valve
+Replacement/Aortic root enlargement
+Migraines
+Plantar fasciitis
+Asthma
+Depression/anxiety
+Chronic fatigue
+Obesity
+Dysmenorrhea
+Rhinitis
+? obstructive sleep apnea
+Recent poison [**Female First Name (un) 4312**]/sumac/ tick bite [**8-9**]
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+no lotions, creams, powders or ointments to incision
+no driving for one month
+no lifting greater than 10 pounds for 10 weeks
+call for fever greater than 100, redness, drainage, or weight
+gain of 2 pounds in 2 days or 5 pounds in one week
+shower daily at pat incison dry; no baths or swimming
+Call with any questions or concerns [**Telephone/Fax (1) 181**]
+
+Followup Instructions:
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], NP (PCP)in [**2-3**] weeks ([**Telephone/Fax (1) 31142**].  First INR to
+be drawn on [**2564-8-11**] with results sent to the coumadin clinic at
+the office of [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Fax ([**Telephone/Fax (1) 31143**]. Plan confirmed with
+[**Doctor First Name 1059**] on [**2564-8-9**].
+Dr. [**Last Name (STitle) 31144**] (cardiologist) in [**3-6**] weeks
+Dr. [**Last Name (STitle) **] (cardiac surgeon) in 4 weeks  [**Telephone/Fax (1) 181**]
+Please call to make all appointments.
+
+
+
+Completed by:[**2564-8-10**]
+
+DOC CLASS

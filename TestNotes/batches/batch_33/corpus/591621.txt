@@ -1,0 +1,130 @@
+Chief Complaint: Aortic stenosis
+   24 Hour Events:
+   Transitioned to comfort measures only after discussion with patient,
+   family, medical team.
+   Allergies:
+   Sulfa (Sulfonamide Antibiotics)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**3128-3-26**] 09:00 PM
+   Lorazepam (Ativan) - [**3128-3-27**] 04:35 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3128-3-27**] 07:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 69 (69 - 85) bpm
+   BP: 114/48(64) {66/42(46) - 114/58(66)} mmHg
+   RR: 8 (8 - 28) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 112 kg (admission): 114 kg
+   Height: 60 Inch
+                  Total In:
+                                                                    183 mL
+                  PO:
+                  TF:
+   IVF:
+                                                                     33 mL
+   Blood products:
+                                                                    150 mL
+   Total out:
+                                                                    900 mL
+                                                                    200 mL
+   Urine:
+                                                                    900 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -717 mL
+                                                                   -200 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ////
+   Physical Examination
+   Appears comfortable, breathing non-labored, respiratory secretions
+   noted.
+   [**Year (4 digits) 568**] / Radiology
+   218 K/uL
+   9.7 g/dL
+   134 mg/dL
+   3.0 mg/dL
+   30 mEq/L
+   4.3 mEq/L
+   74 mg/dL
+   98 mEq/L
+   141 mEq/L
+   30.7 %
+   10.6 K/uL
+        [image002.jpg]
+                             [**3128-3-24**]  07:44 PM
+                             [**3128-3-24**]  09:34 PM
+                             [**3128-3-25**]  02:48 AM
+                             [**3128-3-25**]  01:51 PM
+                             [**3128-3-26**]  05:36 AM
+   WBC
+   10.0
+   9.9
+   10.6
+   Hct
+   27.4
+   26.1
+   24.1
+   30.7
+   Plt
+   [**Telephone/Fax (3) 7077**]
+   Cr
+   3.0
+   2.9
+   3.0
+   TropT
+   0.42
+   TCO2
+   35
+   Glucose
+   165
+   162
+   134
+   Other [**Telephone/Fax (3) **]: PT / PTT / INR:12.5/21.9/1.1, CK / CKMB /
+   Troponin-T:515/6/0.42, Ca++:9.0 mg/dL, Mg++:2.7 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+   75 F with critical non-operative aortic stenosis admitted with
+   respiratory failure.
+   Comfort measures only. Patient appears comfortable.  Appreciate pain
+   and palliative care involvement and recommendations. --Continue
+   narcotic, anxiolytic, and antiemetic medications titrated to comfort.
+   -add scopolamine patch for secretions.
+   -no [**Last Name (LF) **], [**First Name3 (LF) **] d/c monitoring and d/c extra PIV
+   -palliative care consult appreciated.
+   [**Hospital 7078**] transfer to floor vs home with hospice if death is not
+   imminent per patient and family preference.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3128-3-26**] 05:47 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition: Call out to floor
+
+
+DOC CLASS

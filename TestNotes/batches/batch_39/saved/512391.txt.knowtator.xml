@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="512391.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1573" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="8356" end="8365" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Thu Oct 19 05:40:43 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1575">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="possible" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_1576">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="absent" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1573">
+        <hasSlotMention id="EHOST_Instance_1575" />
+        <hasSlotMention id="EHOST_Instance_1576" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1574" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="7005" end="7017" />
+        <spannedText>Drop in HCT:</spannedText>
+        <creationDate>Thu Oct 19 05:41:33 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1577">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1574">
+        <hasSlotMention id="EHOST_Instance_1577" />
+        <mentionClass id="bleeding_other">Drop in HCT:</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

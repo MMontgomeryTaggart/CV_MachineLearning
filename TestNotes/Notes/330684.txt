@@ -1,0 +1,194 @@
+CVICU
+   HPI:
+   HD3
+   [**9-28**] POD 2
+   65F s/p Ascending aorta replacement(26mm gelweave graft)/AV
+   resuspension [**9-26**]
+   Cr: 0.9 Wt:60kg EF:>55%
+   PMH: left brachial plexus paralysis, Raynauds Disease, lactose
+   intolerance, hysterectomy
+   [**Last Name (un) **]: Addrell,Estratest,Motrin
+   Chief complaint:
+   PMHx:
+   Current medications:
+    Acetaminophen 3. Aspirin EC.. Furosemide . Metoprolol Tartrate
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**3069-9-27**] 10:30 AM
+ UNPLANNED EXTUBATION (PATIENT-INITIATED) - At [**3069-9-27**] 10:35 AM
+ PA CATHETER - STOP [**3069-9-27**] 06:30 PM
+   PA and Multilumen together in R IJ- [**Location (un) 534**] catheter
+   Post operative day:
+   pod#2, extubated doing well
+   Allergies:
+   Morphine
+   mild constipati
+   Last dose of Antibiotics:
+   Cefazolin - [**3069-9-27**] 08:12 PM
+   Infusions:
+   Other ICU medications:
+   Carafate (Sucralfate) - [**3069-9-27**] 08:00 AM
+   Ranitidine (Prophylaxis) - [**3069-9-27**] 08:00 AM
+   Metoprolol - [**3069-9-27**] 02:00 PM
+   Furosemide (Lasix) - [**3069-9-27**] 05:30 PM
+   Morphine Sulfate - [**3069-9-27**] 06:30 PM
+   Other medications:
+   Flowsheet Data as of  [**3069-9-28**] 07:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**72**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 36.9
+C (98.4
+   HR: 88 (74 - 100) bpm
+   BP: 121/68(82) {121/62(76) - 125/68(82)} mmHg
+   RR: 15 (12 - 19) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 64.8 kg (admission): 56.2 kg
+   Height: 69 Inch
+   CVP: 18 (2 - 20) mmHg
+   PAP: (43 mmHg) / (22 mmHg)
+   CO/CI (Fick): (3.5 L/min) / (2.1 L/min/m2)
+   Mixed Venous O2% sat: 54 - 60
+   Total In:
+                                                                  5,646 mL
+                                                                    198 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  2,936 mL
+                                                                     78 mL
+   Blood products:
+                                                                  2,500 mL
+   Total out:
+                                                                  3,960 mL
+                                                                    600 mL
+   Urine:
+                                                                  3,250 mL
+                                                                    550 mL
+   NG:
+                                                                    200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,686 mL
+                                                                   -402 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 444 (444 - 444) mL
+   PS : 5 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 30%
+   PIP: 0 cmH2O
+   SPO2: 97%
+   ABG: 7.41/39/174/28/-1
+   Ve: 7.1 L/min
+   PaO2 / FiO2: 580
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: No(t)
+   Resonant : ), (Breath Sounds: CTA bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Trace)
+   Right Extremities: (Edema: Trace)
+   Neurologic: (Awake / Alert / Oriented: x 3), Moves all extremities
+   Labs / Radiology
+   154 K/uL
+   9.5 g/dL
+   118 mg/dL
+   0.7 mg/dL
+   28 mEq/L
+   3.8 mEq/L
+   22 mg/dL
+   104 mEq/L
+   139 mEq/L
+   26.9 %
+   9.2 K/uL
+        [image002.jpg]
+                             [**3069-9-27**]  01:02 AM
+                             [**3069-9-27**]  02:23 AM
+                             [**3069-9-27**]  04:23 AM
+                             [**3069-9-27**]  04:30 AM
+                             [**3069-9-27**]  06:22 AM
+                             [**3069-9-27**]  10:05 AM
+                             [**3069-9-27**]  02:16 PM
+                             [**3069-9-27**]  08:40 PM
+                             [**3069-9-28**]  12:00 AM
+                             [**3069-9-28**]  03:28 AM
+   WBC
+   11.8
+   9.2
+   Hct
+   30.3
+   34
+   31
+   26.9
+   Plt
+   246
+   154
+   Creatinine
+   0.9
+   0.7
+   TCO2
+   24
+   25
+   25
+   25
+   24
+   Glucose
+   158
+   164
+   118
+   108
+   120
+   110
+   118
+   Other labs: PT / PTT / INR:13.6/27.0/1.2, Differential-Neuts:87.6 %,
+   Lymph:9.6 %, Mono:1.1 %, Eos:1.7 %, Fibrinogen:152 mg/dL, Lactic
+   Acid:1.8 mmol/L, Ca:8.9 mg/dL, Mg:1.8 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   Assessment and Plan: s/p aortic dissection repair
+   Neurologic: alert , awake , responsive, pain controllled
+   Cardiovascular: , hemodynamically stable ,Beta-blocker, Statins,
+   Discontinue PA monitor, Discontinue epicardial wires
+   Pulmonary: OOB
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Adequate UO, Increase lasix
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Post-op hypotension
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3069-9-26**] 09:45 PM
+   18 Gauge - [**3069-9-26**] 09:47 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: h2 blocker
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: floor
+   Total time spent: 37 mts
+
+
+DOC CLASS

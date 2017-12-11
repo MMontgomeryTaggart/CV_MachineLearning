@@ -1,0 +1,318 @@
+Admission Date:  [**3474-10-25**]              Discharge Date:   [**3474-11-2**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Niacin / Hayfever
+
+Attending:[**First Name3 (LF) 404**]
+Chief Complaint:
+Fatigue
+
+Major Surgical or Invasive Procedure:
+redo sternotomy/AVR [**10-27**]
+
+
+History of Present Illness:
+84 year old male with extensive PMM complaint of progressively
+worsening fatigue.  Most recent cardiac catherization revealed
+[**Location (un) **] 1 and echocardiogram with decreased left ventricular
+function.
+
+Past Medical History:
+HOH
+[**9-/3467**]: Prostate CA with radiation
+Radiation Proctitis with multiple colon cauterizations
+GERD
+Anemia
+Gall Bladder surgery
+Hand Surgery
+? hernia repair as a child
+history of gout
+CABG
+[**Doctor Last Name 3522**] disease
+[**3462**]: s/p TIA/mild CVA- no residual
+Elevated homocysteine
+NIDDM
+
+
+Social History:
+Retired
+Lives with Spouse
+[**Name (NI) 15757**] denies
+ETOH social
+
+
+Family History:
+brother and sisters with CAD < 55 years old
+
+Physical Exam:
+Admission
+General: well appearing and no acute distress
+Skin: unremarkable
+HEENT EOMI PERRLA NCAT
+Neck Supple full ROM
+Chest CTA bilat
+Heart RRR 4/6 SEM
+Abd soft ND NT +BS
+Ext warm well perfused no edema
+Neuro a/o x3 MAE nonfocal
+
+Pertinent Results:
+[**3474-11-1**] 06:10AM BLOOD WBC-8.2 RBC-2.89* Hgb-8.8* Hct-25.2*
+MCV-87 MCH-30.5 MCHC-34.9 RDW-16.0* Plt Ct-121*
+[**3474-10-26**] 11:39AM BLOOD WBC-9.7 RBC-2.12*# Hgb-6.8*# Hct-19.7*#
+MCV-93 MCH-31.9 MCHC-34.4 RDW-15.0 Plt Ct-143*
+[**3474-11-2**] 08:25AM BLOOD PT-18.3* INR(PT)-1.7*
+[**3474-11-1**] 06:10AM BLOOD Plt Ct-121*
+[**3474-11-1**] 06:10AM BLOOD PT-17.2* INR(PT)-1.6*
+[**3474-10-31**] 07:00AM BLOOD PT-15.0* INR(PT)-1.3*
+[**3474-10-26**] 11:39AM BLOOD Plt Ct-143*
+[**3474-10-26**] 11:39AM BLOOD PT-15.0* PTT-40.8* INR(PT)-1.3*
+[**3474-10-27**] 06:14PM BLOOD Fibrino-291
+[**3474-11-1**] 06:10AM BLOOD Glucose-96 UreaN-30* Creat-1.1 Na-143
+K-3.8 Cl-105 HCO3-29 AnGap-13
+[**3474-10-26**] 01:30PM BLOOD UreaN-17 Creat-0.8 Cl-110* HCO3-24
+[**3474-11-1**] 06:10AM BLOOD Mg-1.6
+[**3474-10-27**] 06:14PM BLOOD Calcium-8.9 Phos-4.1 Mg-2.0
+
+CHEST (PORTABLE AP)  [**3474-10-30**] 9:13 PM
+
+CHEST (PORTABLE AP)
+
+Reason: eval for pneumothorax s/p chest tube removal
+
+UNDERLYING MEDICAL CONDITION:
+84 year old man s/p AVR
+REASON FOR THIS EXAMINATION:
+eval for pneumothorax s/p chest tube removal
+CHEST RADIOGRAPH
+
+Comparison with [**3474-10-29**].
+
+Left-sided chest tube has been removed. The left hemidiaphragm
+has returned to its normal position. No pneumothorax. Small
+atelectasis right. No pulmonary opacities, no signs of cardiac
+failure.
+
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1674**]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 6148**]
+Approved: SUN [**3474-11-1**] 11:07 AM
+
+Technically difficult study
+Atrial fibrillation
+Intraventricular conduction defect - left bundle branch block
+type
+Late R wave progression
+Consider anteroseptal infarct - age undetermined
+Since previous tracing of [**3474-10-26**], now irregular rhythm, QRS
+wider
+Clinical correlation is suggested
+
+
+Read by: [**Last Name (LF) 309**],[**First Name3 (LF) 310**] A.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+90 0 148 400/452 0 -25 139
+
+
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 52**] [**Numeric Identifier 15758**]       Portable TTE
+(Focused views) Done [**3474-10-27**] at 12:38:16 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Last Name (Prefixes) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name 294**]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 295**]
+[**Location (un) 13**], [**Numeric Identifier 21**]  Status: Inpatient DOB: [**3390-7-22**]
+Age (years): 84 M  Hgt (in): 66
+BP (mm Hg): 90/50  Wgt (lb): 175
+HR (bpm): 80  BSA (m2): 1.89 m2
+Indication: Hypotensive s/p 25 mm Mosaic [**Company 4**] Porcine AVR.
+Evaluate for tamponade.
+ICD-9 Codes: V42.2, 424.1
+Test Information
+Date/Time: [**3474-10-27**] at 12:38    Interpret MD: [**First Name8 (NamePattern2) **] [**Name8 (MD) **],
+MD
+Test Type: Portable TTE (Focused views) Son[**Name (NI) 296**]: [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 1477**], RDCS
+Doppler: Limited Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Adequate
+Tape #: 2007W077-0:23 Machine: Vivid [**5-29**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  40%  >= 55%
+Aorta - Ascending:  *4.1 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *2.2 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *20 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  10 mm Hg
+TR Gradient (+ RA = PASP):  *30 mm Hg  <= 25 mm Hg
+
+Findings
+This study was compared to the report of the prior study (images
+not available) of [**3463-10-16**].
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV.
+
+LEFT VENTRICLE: Suboptimal technical quality, a focal LV wall
+motion abnormality cannot be fully excluded. Mildly depressed
+LVEF. No resting LVOT gradient.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+Paradoxic septal motion consistent with prior cardiac surgery.
+
+AORTA: Moderately dilated ascending aorta.
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR).
+Normal AVR gradient. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Mild thickening of mitral valve
+chordae. No MR.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized. Borderline
+PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+Conclusions
+Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Overall left ventricular
+systolic function is difficult to assess but appears mildly
+depressed (LVEF= 40 %). Right ventricular chamber size and free
+wall motion are normal. The ascending aorta is moderately
+dilated. A bioprosthetic aortic valve prosthesis is present. The
+transaortic gradient is normal for this prosthesis. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. No mitral regurgitation is seen. There is borderline
+pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+
+Compared with the report of the prior study (images unavailable
+for review) of [**3463-10-16**], a bioprosthetic AVR is now present.
+The severity of mitral and tricuspid regurgitation has
+decreased, although image quality is technically suboptimal.
+Overall left ventricular function appears at least mild to
+moderately depressed.
+Electronically signed by [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**3474-10-27**] 14:14
+
+
+Brief Hospital Course:
+Mr [**Name13 (STitle) 8590**] was admitted the evening before surgery.  The next
+am he was brought to the operating room and underwent a redo
+sternotomy and aortic valve replacement.  Please see operative
+report for further details.  He tolerated the procedure well
+except for complete heart block with swan ganz insertion, and
+was transferred to the CSRU for invasive monitoring.  He
+required pressors and fluid for blood pressure management and
+returned to the operating room on post operative day one for
+bleeding and removal of clot. Om post operative day 2 he was
+weaned from sedation, awoke neurologically intact, and was
+extubated.  His platlet count had decreased to 58 and HIT was
+sent that was negative.  He also went into atrial fibrillation
+and was started on beta blockers for rate control, no amiodarone
+was given due to heart block intra and post op day 1.  Diuretics
+were started and he was gently diuresised towards his
+preoperative weight.  On post operative day three chest tubes
+were removed and he was transferred to the post operative floor.
+ He continued to remain in atrial fibrillation and coumadin was
+started for anticoagulation.  Physical followed him during
+entire post-op course for strength and mobility. His beta
+blockers continued to be adjusted for rate control and he was
+ready for discharge to rehab on post operative day five.
+
+Medications on Admission:
+fish oil 1 gm [**Hospital1 9**]
+ASA 81 daily
+Metformin 500 [**Hospital1 9**]
+Prilosec 20 [**Hospital1 9**]
+Glipizide 10 [**Hospital1 9**]
+Lipitor 40 hs
+zetia 10 hs
+atenolol 12.5 hs
+lisinopril 20 hs
+
+Discharge Medications:
+1. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day:
+restart at d/c per RDT.
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+6. Glipizide 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+7. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+10. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed.
+11. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO every 4-6 hours as needed for pain.
+12. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+13. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+14. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+15. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO BID (2 times a
+day).
+16. Warfarin 1 mg Tablet Sig: as directed Tablet PO DAILY
+(Daily): Adjust dose to target INR of [**12-26**].5
+please give 2.5mg on [**11-2**] and [**11-3**] and check INR [**11-4**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 47**] for the Aged - MACU
+
+Discharge Diagnosis:
+Aortic stenosis  s/p redo sternotomy/AVR(tissue)
+Complete Heart Block
+Post operative atrial fibrillation
+PMH: Prostate CA s/p radiation/radiation proctitis, GERD,
+Anemia, GOUT, Gilberts dz, CVA/TIA, DM2, homocysteinuria,
+PSH: CABGx6, CCY, RIH repir, Lft rad aneurysm repair
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 279**]
+
+Followup Instructions:
+Dr [**First Name4 (NamePattern1) 17**] [**Last Name (NamePattern1) 1451**] after discharge from rehab
+Dr [**Last Name (STitle) **] in 4 weeks please call to schedule [**Telephone/Fax (1) 3878**]
+Dr [**Last Name (STitle) **] [**Name (STitle) **] after discharge from rehab
+
+
+
+Completed by:[**3474-11-2**]
+
+DOC CLASS

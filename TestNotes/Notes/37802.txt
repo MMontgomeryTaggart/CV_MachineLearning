@@ -1,0 +1,342 @@
+Admission Date:  [**2702-11-28**]              Discharge Date:   [**2702-12-2**]
+
+Date of Birth:  [**2622-6-8**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+syncope
+
+Major Surgical or Invasive Procedure:
+Replacment of Ascending Aorta and hemiarch (32mm
+Gelweave)/Aortic valve replacement (21mm CE
+pericardial)/Coronary artery bypass grafts x
+4(LIMA-LAD,SVG-Dg,SVG-OM,SVG-PDA) [**2702-11-28**]
+
+
+History of Present Illness:
+This 80 year old female had a syncopal epsiode while driving and
+was involved in an accident. Her work-up was remarkable for
+paroxysmal supraventricular tachycardia and the finding of a
+large thoracic aortic aneurysm.
+
+She was referred to Dr. [**Last Name (STitle) 3953**] who peformed an echocardiogram
+which showed the aorta to measure 6.9cm at the root, 6.3cm at
+the arch to 4.1cm in the descending
+thoracic aorta. There was [**1-31**]+ aortic insufficiency without
+mention of the leaflet anatomy. Given the size of her thoracic
+aortic aneurysm, she is referred for surgical evaluation.
+Subsequently cardiac catheterization was done to reveal triple
+vessel disease.  She was admitted for operation.
+
+Past Medical History:
+Thoracic aortic aneurysm
+Hypertension
+h/o Supraventricular tachycardia
+Hyperlipidemia
+s/p right mastoidectomy
+
+
+Social History:
+Tobacco: 15 pack year history,quit 15 years ago
+ETOH:rare social
+Retired
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+Admission:
+Pulse: 80 Resp:  O2 sat: 95% RA
+B/P  Right: 179/69   Left: 169/70
+Height: 60"     Weight: 166
+
+General:NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]anicteric sclera;left lower lid mild
+ptosis;OP unremarkable
+Neck:  Supple [x] Full ROM []no JVD
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []
+Murmur: 3/6 SEM radiates to carotids; [**3-7**] diastolic murmur
+Abdomen: Soft [] non-distended [x] non-tender [x]  bowel sounds
++
+[x]
+no HSM/CVA tenderness
+Extremities: Waxrm [x], well-perfused [x]  Edema -none
+Varicosities: None []
+Neuro: Grossly intact;nonfocal exam; MAE [**5-4**] strengths
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) 647**]: 2+  Left:1+
+
+
+Pertinent Results:
+[**2702-12-1**] 03:17AM BLOOD WBC-9.2 RBC-3.65* Hgb-10.7* Hct-31.7*
+MCV-87 MCH-29.2 MCHC-33.6 RDW-15.3 Plt Ct-98*
+[**2702-11-30**] 01:47AM BLOOD WBC-10.0# RBC-3.60* Hgb-11.1* Hct-31.0*
+MCV-86 MCH-30.9 MCHC-35.9* RDW-15.4 Plt Ct-108*
+[**2702-12-1**] 03:17AM BLOOD Glucose-111* UreaN-16 Creat-0.6 Na-140
+K-3.7 Cl-103 HCO3-34* AnGap-7*
+[**2702-11-30**] 01:47AM BLOOD Glucose-136* UreaN-12 Creat-0.7 Na-141
+K-3.5 Cl-107 HCO3-30 AnGap-8
+[**2702-12-1**] 03:17AM BLOOD WBC-9.2 RBC-3.65* Hgb-10.7* Hct-31.7*
+MCV-87 MCH-29.2 MCHC-33.6 RDW-15.3 Plt Ct-98*
+[**2702-12-2**] 05:39AM BLOOD Na-140 K-3.7 Cl-101 HCO3-34* AnGap-9
+
+[**Known patient lastname 35543**],[**Known patient firstname **] [**PT ID Number 35544**] F  80  [**2622-6-8**]
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2702-12-1**] 2:42 PM
+
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 8401**] FA6A [**2702-12-1**] 2:42 PM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 35545**]
+Reason: ?/ effusions
+
+
+
+UNDERLYING MEDICAL CONDITION:
+   80 year old woman with Asc Ao/AVR/CABG
+REASON FOR THIS EXAMINATION:
+   ?/ effusions
+
+
+
+Final Report
+PA AND LATERAL CHEST.
+
+HISTORY: Ascending aortic repair, AVR and CABG.
+
+IMPRESSION: PA and lateral chest compared to [**11-29**]:
+
+Moderate left pleural effusion has increased slightly, small
+right pleural
+effusion is new or increased. Mild postoperative enlargement of
+the cardiac
+silhouette is stable. Upper mediastinal contour has normal
+postoperative
+appearance with no indication of recurrent localized bleeding.
+Bibasilar
+atelectasis is substantial, possibly worsened since [**11-29**].
+Upper lungs
+are clear. No pneumothorax. Right jugular line tip projects over
+the
+superior cavoatrial junction.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3428**]
+Approved: MON [**2702-12-1**] 5:54 PM
+
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname 35543**], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 35546**]       TEE (Complete)
+Done [**2702-11-28**] at 12:10:01 PM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] C.
+[**Hospital Unit Name 3828**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**2622-6-8**]
+Age (years): 80 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Aortic valve disease. Coronary artery disease. Left
+ventricular function. Mitral valve disease. Prosthetic valve
+function. Valvular heart disease.
+ICD-9 Codes: 440.0, V43.3, 424.1, 424.0
+Test Information
+Date/Time: [**2702-11-28**] at 12:10    Interpret MD: [**First Name8 (NamePattern2) 5859**] [**Name8 (MD) 4616**],
+MD
+Test Type: TEE (Complete)
+3D imaging. Son[**Name (NI) 652**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 20338**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW5-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.2 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.2 cm
+Left Ventricle - Fractional Shortening:  0.38  >= 0.29
+Left Ventricle - Ejection Fraction:  5% to 55%  >= 55%
+Aorta - Sinus Level:  3.0 cm  <= 3.6 cm
+Aorta - Ascending:  *6.5 cm  <= 3.4 cm
+Aortic Valve - LVOT diam:  1.8 cm
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+LEFT ATRIUM: Moderate LA enlargement. No spontaneous echo
+contrast or thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA and extending into the RV. No ASD
+by 2D or color Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness and cavity
+size. Normal LV wall thickness. Normal LV cavity size. Low
+normal LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Markedly
+dilated ascending aorta. Simple atheroma in ascending aorta.
+Mildly dilated descending aorta. Simple atheroma in descending
+aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened
+aortic valve leaflets (?#). No AS. Moderate (2+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+
+PERICARDIUM: Small pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS: The left atrium is moderately dilated. No
+spontaneous echo contrast or thrombus is seen in the body of the
+left atrium or left atrial appendage. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thicknesses
+and cavity size are normal. Left ventricular wall thicknesses
+are normal. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is low normal (LVEF 50-55%).
+Right ventricular chamber size and free wall motion are normal.
+The ascending aorta is markedly dilated There are simple
+atheroma in the ascending aorta. The descending thoracic aorta
+is mildly dilated. There are simple atheroma in the descending
+thoracic aorta. There are three aortic valve leaflets. The
+aortic valve leaflets are mildly thickened (?#). There is no
+aortic valve stenosis. Moderate (2+) aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen. There is a small pericardial
+effusion.
+  Interpretation assigned to [**First Name8 (NamePattern2) 5859**] [**Name8 (MD) 4616**], MD, Interpreting
+physician
+
+
+Brief Hospital Course:
+Following same day admission she was taken to the Operating Room
+where her operation was performed as noted.  See the operative
+note for details.  She tolerated the procedure, weaning fom
+bypass on Epinephrine and neosynephrine.  They were quickly able
+to be weaned off and she was extubated the following morning.
+CTs were removed on the first surgical day, beta blockers and
+ACE inhibitors were resumed for control of her hypertension. She
+continued to progress and was ready for floor transfer on POD 2.
+Physical therapy worked with her for strength and mobility,
+diuresis towards her preoperative weight was continued. Beta
+blockade and ACE inhibitors were adjusted to provide adequate
+blood pressure control.  She was evaluated for a rehabilitation
+facility to allow further recovery prior to eventual return
+home.  Pacing wires were removed on POD 3.  She was ready for
+discharge to rehab on postoperative day four with continued
+diuresis and zarolxyn for seven days.
+
+
+Medications on Admission:
+Lipitor 10mg daily
+Atenolol 25mg daily
+Quinapril 10mg daily
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+4. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever.
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain.
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day.
+10. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO twice a day.
+11. Zaroxolyn 2.5 mg Tablet Sig: One (1) Tablet PO once a day
+for 7 days: please give 30 minutes prior to lasix .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **]
+
+Discharge Diagnosis:
+Thoracic aortic aneurysm s/p replacement
+Coronary artery disease s/p cabg
+aortic insufficiency s/p AVR
+Hypertension
+paroxysmal Supraventricular tachycardia
+Hyperlipidemia
+s/p right mastoidectomy
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming
+Monitor wounds for infection and report any redness, warmth,
+swelling, tenderness or drainage
+Please take temperature each evening and Report any fever 100.5
+or greater
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+
+Followup Instructions:
+Please call to schedule appointment
+Dr. [**Last Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 181**])
+Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 3518**] ([**Telephone/Fax (1) 1550**]) after discharge from rehab
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3953**] after discharge from rehab
+
+
+
+Completed by:[**2702-12-2**]
+
+DOC CLASS

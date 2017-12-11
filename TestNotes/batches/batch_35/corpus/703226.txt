@@ -1,0 +1,237 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   -TTE showed 25% EF, moderate MR, increased PCWP, pulm htn.
+   -NTG drip discontinued in AM.
+   -called to patient for hypoxia sat->92% on 4L at 1pm, found to have A-a
+   gradient.  CXR and EKG unchanged.  Resolves spontaneously.  Broad
+   spectrum vanc/cefepime/cipro started.
+   -4pm - pt had shortness of breath, chest pain, again desat to 92%.  SL
+   ntg given x2 with initial resolution of sx, lasix 40mg IV given, all IV
+   fluid stopped.  pain returned, morphine 1mg given.
+   -8pm - pt again had chest pain, shortness of breath.  Tachy to 120s,
+   cardiac enzymes noted to be slightly uptrending.  Thought to be demand
+   ischemia in setting of possible PE.  Ntg drip started.  Symptoms
+   resolved as HR dropped to low 100s.
+   -1am - patient acutely short of breath.  Gas showed acute on chronic
+   respiratory acidosis, worsening of hypercarbia.  Given nebs, steroids.
+   Also given 40mg lasix for possible volume overload.  CPAP tried ->
+   stopped after 5 minutes because of discomfort.  Family notified of
+   situation.
+   -6am - family at bedside, patient continued to be delirious, O2 sats
+   down to 88% on 6L NC.  Good urine output to lasix, but no improvement
+   with ventilation.
+   Allergies:
+   Ace Inhibitors
+   fluid retention
+   Last dose of Antibiotics:
+   Vancomycin - [**3277-3-23**] 03:28 PM
+   Cefipime - [**3277-3-23**] 08:56 PM
+   Infusions:
+   Heparin Sodium - 700 units/hour
+   Nitroglycerin - 0.2 mcg/Kg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**3277-3-24**] 03:23 AM
+   Metoprolol - [**3277-3-24**] 03:55 AM
+   Morphine Sulfate - [**3277-3-24**] 07:10 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3277-3-24**] 07:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**79**] AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.4
+C (99.4
+   HR: 119 (94 - 128) bpm
+   BP: 102/49(63) {93/36(52) - 136/91(102)} mmHg
+   RR: 23 (19 - 38) insp/min
+   SpO2: 90%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 62 Inch
+             Total In:
+                                                                    800 mL
+                                                                     74 mL
+   PO:
+                                                                     30 mL
+             TF:
+   IVF:
+                                                                    770 mL
+                                                                     74 mL
+   Blood products:
+   Total out:
+                                                                  1,335 mL
+                                                                    445 mL
+   Urine:
+                                                                  1,335 mL
+                                                                    445 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -535 mL
+                                                                   -371 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 350 (350 - 350) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 30%
+   PIP: 15 cmH2O
+   SpO2: 90%
+   ABG: 7.26/74/318/29/3
+   Ve: 8.5 L/min
+   PaO2 / FiO2: 1,060
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   292 K/uL
+   10.7 g/dL
+   118 mg/dL
+   1.8 mg/dL
+   29 mEq/L
+   5.1 mEq/L
+   68 mg/dL
+   102 mEq/L
+   141 mEq/L
+   32.4 %
+   22.5 K/uL
+        [image002.jpg]
+                             [**3277-3-22**]  10:23 PM
+                             [**3277-3-23**]  05:09 AM
+                             [**3277-3-23**]  01:39 PM
+                             [**3277-3-23**]  02:25 PM
+                             [**3277-3-23**]  08:17 PM
+                             [**3277-3-24**]  01:59 AM
+                             [**3277-3-24**]  02:32 AM
+   WBC
+   8.9
+   17.4
+   22.5
+   Hct
+   33.8
+   32.0
+   32.4
+   Plt
+   [**Telephone/Fax (3) 11459**]
+   Cr
+   1.9
+   1.9
+   1.8
+   TropT
+   0.02
+   0.03
+   0.05
+   0.04
+   0.04
+   TCO2
+   27
+   35
+   Glucose
+   245
+   172
+   118
+   Other labs: PT / PTT / INR:12.3/92.9/1.0, CK / CKMB /
+   Troponin-T:157/10/0.04, ALT / AST:23/18, Alk Phos / T Bili:81/0.2,
+   Differential-Neuts:91.9 %, Lymph:4.8 %, Mono:3.0 %, Eos:0.1 %, Lactic
+   Acid:0.8 mmol/L, Ca++:8.8 mg/dL, Mg++:2.4 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   81-year-old female with history of CAD s/p multiple MIs, CABG 4v,
+   presents to outside hospital with new lung mass, post obstructive
+   pneumonia, who subsequently developed chest pain after albuterol
+   nebulization treatment.
+   .
+   # Coronaries:  Patient with chest discomfort, stable on NTG gtt and
+   Heparin gtt.  Patient with a history of CABG x 4 in [**3270**].  [**3273**] cath
+   showed Patent SVG-OM3. Occluded proximal SVG-D1-OM2 with patent D1-OM2
+   jump segment. Atretic LIMA-LAD.  Patient has [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 2 to mid LAD.
+   Unclear if patient's episode of CP represents UA, however is CP free on
+   hep gtt and ntg gtt.  CE shows Neg CK and Trop 0.02. Patient unable to
+   lie flat due to dyspnea.
+   - Cont ASA
+   - Cont Plavix
+   - Cont Hep gtt
+   - Cont NTG gtt - wean off today
+   - TTE today
+   - EKG AM
+   - Cont Statin
+   - Cont beta blocker
+ increase today
+   .
+   # Rhythm:  Sinus tachycardia. Unclear if related to anxiety, versus
+   other etiologies such as PE.  Patient currently stable on 2-3L NC with
+   sats in mid 90s.  No LE edema, currently on hep gtt which would be
+   treatment for PE.
+   - Monitor for now, continue Hep gtt
+   - Consider imaging for PE
+ will get CTA to better eval for PE and eval
+   mass for IP
+   .
+   # Lung mass: New RUL lung mass.  OSH CT describes it as a 6x6x5cm
+   lobulated mass, which is new since her prior imaging and is concerning
+   for malignancy given her extensive smoking history.
+   - Consult IP in AM
+   .
+   # COPD exacerbation:  Stable on 2-3L NC.
+   - Continue Ipratropium nebs
+   - Wean O2 as tolerated
+   - Avoid albuterol due to tachycardia
+   .
+   # Leukocytosis: Unclear etiology. Worrisome for possible post
+   obstructive pneumonia. Has been coughing up yellow sputum past [**3-10**]
+   days. Afebrile. Received steroids at OSH which may cause leukocytosis.
+   Will continue to monitor patient for signs of infection, culture as
+   appropriate.
+   - hold abx for now
+   - trend WBC, T
+   - follow up cultures
+   - culture if spikes
+   - start antibiotics if spikes
+   - consider bronch BAL samples
+   .
+   # Hyperkalemia: give insulin to control sugars, small dose of
+   kayexalate.
+   - repete K, give more kayexalate if needed
+   .
+   # Chronic renal insufficiency: unclear baseline. Elevated since [**3273**].
+   OSH 1.6.
+   - IVF prn
+   - urine lytes if needed
+   - mucomyst and hydration prior and after CT
+   .
+   # Hypertension: wean off NTG drip today
+   - beta blocker if tolerates
+   .
+   # Hypercholesterolemia: Continue statin as above.
+   .
+   # Diabetes mellitus type II: The patient was maintained on ISS.
+   - adjust ISS prn
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3277-3-22**] 10:18 PM
+   20 Gauge - [**3277-3-23**] 09:18 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

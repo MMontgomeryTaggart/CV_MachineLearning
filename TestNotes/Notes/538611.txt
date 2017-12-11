@@ -1,0 +1,187 @@
+CVICU
+   HPI:
+   HD3
+   86F s/p Right carotid to left carotid bypass with 6 mm PTFE, left
+   carotid to left subclavian transposition
+     ([**10-17**]), Endovascular stent graft repair of descending thoracic aorta
+   [**10-18**]
+   EF Cr 0.7 Wt 49.9
+   PMH: HTN, Chol
+   PSH: neg
+   Meds: Zocor 20'
+   Current medications:
+   Albuterol 0.083% Neb Soln, Aspirin, Ipratropium Bromide Neb, Metoprolol
+   Tartrate, Ranitidine, Simvastatin
+   24 Hour Events:
+ OR RECEIVED - At [**3431-10-18**] 11:50 AM
+ INVASIVE VENTILATION - START [**3431-10-18**] 11:50 AM
+   Post operative day:
+   86F s/p Right carotid to left carotid bypass with 6 mm PTFE, left
+   carotid to left subclavian transposition
+     ([**10-17**]), Endovascular stent graft repair of descending thoracic aorta
+   [**10-18**]
+   24 hour events: acidosis treated with volume and bicarb, resolved
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 0.75 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3431-10-19**] 10:43 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**34**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.7
+C (99.8
+   HR: 98 (67 - 127) bpm
+   BP: 111/41(63) {100/30(52) - 155/61(311)} mmHg
+   RR: 14 (12 - 25) insp/min
+   SPO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 64.1 kg (admission): 50 kg
+   Height: 62 Inch
+             Total In:
+                                                                  3,128 mL
+                                                                  1,108 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  3,128 mL
+                                                                  1,108 mL
+   Blood products:
+   Total out:
+                                                                    679 mL
+                                                                    355 mL
+   Urine:
+                                                                    624 mL
+                                                                    345 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     55 mL
+                                                                     10 mL
+   Balance:
+                                                                  2,449 mL
+                                                                    753 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula, Face tent, Endotracheal tube
+   Ventilator mode: CPAP/PSV+Apn TCPL
+   Vt (Set): 0 (0 - 500) mL
+   Vt (Spontaneous): 367 (300 - 889) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 24
+   PEEP: 0 cmH2O
+   FiO2: 70%
+   RSBI: 40
+   PIP: 6 cmH2O
+   Plateau: 15 cmH2O
+   SPO2: 93%
+   ABG: 7.32/44/84.[**Numeric Identifier 1111**]/24/-3
+   Ve: 7.1 L/min
+   PaO2 / FiO2: 120
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), left abdomen
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   164 K/uL
+   10.1 g/dL
+   118 mg/dL
+   0.6 mg/dL
+   24 mEq/L
+   4.3 mEq/L
+   15 mg/dL
+   111 mEq/L
+   142 mEq/L
+   30.3 %
+   10.0 K/uL
+        [image002.jpg]
+                            [**3431-10-18**]  12:38 PM
+                            [**3431-10-18**]  03:41 PM
+                            [**3431-10-18**]  05:22 PM
+                            [**3431-10-18**]  06:55 PM
+                            [**3431-10-18**]  09:11 PM
+                            [**3431-10-18**]  10:09 PM
+                            [**3431-10-19**]  12:40 AM
+                            [**3431-10-19**]  03:11 AM
+                            [**3431-10-19**]  03:17 AM
+                            [**3431-10-19**]  06:06 AM
+   WBC
+   10.0
+   Hct
+   30.3
+   Plt
+   164
+   Creatinine
+   0.6
+   TCO2
+   24
+   22
+   23
+   25
+   23
+   25
+   24
+   25
+   24
+   Glucose
+   110
+   110
+   117
+   109
+   118
+   Other labs: PT / PTT / INR:14.3/31.9/1.2, Differential-Neuts:81.8 %,
+   Lymph:15.9 %, Mono:1.8 %, Eos:0.4 %, Fibrinogen:299 mg/dL, Lactic
+   Acid:1.0 mmol/L, Ca:7.5 mg/dL, Mg:2.8 mg/dL, PO4:3.2 mg/dL
+   Imaging: CXR [**10-18**] bilat atelectasis
+   Microbiology: [**10-19**] MRSA pending
+   Assessment and Plan
+   Neurologic: Neuro checks Q: 2 hr, Pain controlled, epidural which is
+   effective on pain
+   Cardiovascular: Aspirin, Beta-blocker, Statins, wean NTG as tolerated
+   B/P < 140, will start betablockers and titrate up
+   Pulmonary: IS, Extubate today, cough and deep breath, oob chair
+   Gastrointestinal / Abdomen:
+   Nutrition: NPO
+   Renal: Foley, Adequate UO, monitor closely
+   Hematology: stable
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: no evidence of infection afebrile, WBC normal
+   Lines / Tubes / Drains: Foley, Surgical drains (hemovac, JP)
+   Wounds: Dry dressings
+   Fluids: LR
+   Consults: Vascular surgery
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3431-10-17**] 01:37 PM
+   18 Gauge - [**3431-10-17**] 01:37 PM
+   16 Gauge - [**3431-10-18**] 01:16 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

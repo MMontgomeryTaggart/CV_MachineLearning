@@ -1,0 +1,233 @@
+Chief Complaint:
+   24 Hour Events:
+ BLOOD CULTURED - At [**2948-12-5**] 09:00 PM
+ ARTERIAL LINE - START [**2948-12-6**] 01:59 AM
+   -L Art line placed with difficulty and multiple attempts on both right
+   and L arms
+   -Lasix drip titrated to 100 cc/hour, but held overnight due to
+   pressures, consider restarting in AM
+   -Fluid restricted to 1.2 L
+   Allergies:
+   Atorvastatin
+   muscle aches;
+   Celebrex (Oral) (Celecoxib)
+   GI bleed;
+   Last dose of Antibiotics:
+   Vancomycin - [**2948-12-4**] 10:15 PM
+   Piperacillin - [**2948-12-6**] 04:00 AM
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Diltiazem - [**2948-12-6**] 05:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2948-12-6**] 06:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.9
+C (98.4
+   HR: 118 (92 - 121) bpm
+   BP: 95/51(65) {76/43(54) - 97/73(77)} mmHg
+   RR: 22 (10 - 23) insp/min
+   SpO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 58.6 kg (admission): 68 kg
+   Height: 61 Inch
+             Total In:
+                                                                  1,077 mL
+                                                                    303 mL
+   PO:
+                                                                    235 mL
+                                                                     90 mL
+   TF:
+   IVF:
+                                                                    842 mL
+                                                                    213 mL
+   Blood products:
+   Total out:
+                                                                  1,575 mL
+                                                                    745 mL
+   Urine:
+                                                                  1,575 mL
+                                                                    745 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -498 mL
+                                                                   -442 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 613 (115 - 613) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 28
+   PEEP: 6 cmH2O
+   FiO2: 35%
+   PIP: 19 cmH2O
+   SpO2: 92%
+   ABG: 7.38/64/70/39/9
+   Ve: 5.5 L/min
+   PaO2 / FiO2: 200
+   Physical Examination
+   General Pale elderly woman appearing uncomfortable but in no acute
+   respiratory distress
+   HEENT Conjunctiva pale, MMM
+   Neck JVP 12+cm +goiter
+   CV Tachycardiac irregular PMI displaced toward axilla II/VI blowing
+   systolic murmur at apex
+   Pulm Lungs with decreased breath sound at bases, with few rales R>L
+   bases. +dull to percussion at bases
+   Abd Soft nontender +bowel sounds
+   Extrem Warm with 2+ bilateral LE edema, full distal pulses
+   Neuro Alert and awake, moving all extremities
+   Labs / Radiology
+   226 K/uL
+   8.8 g/dL
+   136 mg/dL
+   1.4 mg/dL
+   39 mEq/L
+   3.4 mEq/L
+   82 mg/dL
+   95 mEq/L
+   144 mEq/L
+   28.7 %
+   5.6 K/uL
+        [image002.jpg]
+                             [**2948-12-4**]  05:19 PM
+                             [**2948-12-4**]  10:20 PM
+                             [**2948-12-5**]  05:31 AM
+                             [**2948-12-5**]  08:12 AM
+                             [**2948-12-5**]  12:42 PM
+                             [**2948-12-5**]  04:52 PM
+                             [**2948-12-5**]  08:54 PM
+                             [**2948-12-6**]  03:19 AM
+                             [**2948-12-6**]  03:38 AM
+                             [**2948-12-6**]  06:20 AM
+   WBC
+   6.6
+   5.9
+   5.6
+   Hct
+   30.9
+   29.5
+   28.7
+   Plt
+   [**Telephone/Fax (3) 3256**]
+   Cr
+   1.5
+   1.4
+   1.4
+   TCO2
+   41
+   39
+   Glucose
+   98
+   130
+   177
+   149
+   149
+   153
+   136
+   Other labs: PT / PTT / INR:15.3/25.8/1.4, CK / CKMB / Troponin-T:32//,
+   ALT / AST:[**10-11**], Alk Phos / T Bili:62/1.4, Differential-Neuts:86.7 %,
+   Lymph:6.1 %, Mono:6.2 %, Eos:0.9 %, Fibrinogen:441 mg/dL, Lactic
+   Acid:1.4 mmol/L, Albumin:3.1 g/dL, LDH:192 IU/L, Ca++:8.8 mg/dL,
+   Mg++:2.4 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+   1. Respiratory failure, with hypoxemia and hypercapnia
+   Her respiratory distress is very likely multifactorial, with
+   contributions from pulmonary edema and pleural effusions. Poor rate
+   control could be worsening her breathlessness. Her lung mets might also
+   be contributory, as could pulmonary hypertension. Pna possible clinical
+   evidence less compelling - she does carry dx of achalasia which would
+   put potentially increase her risk of aspiration. Also think PE is less
+   likely.
+   - Will continue diuresis on lasix drip with goal -1 to 2L daily as she
+   is still likely total body volume overloaded. She is currently
+   responding well to her lasix drip. Will hold off on adding
+   thiazide-type diuretic at this point. Will tolerate rise in creatinine
+   at this point as volume seems to be her primary problem. Renal
+   consulted in CCU, recommendations appreciated regarding
+   ?ultrafiltration
+   - If develops increasing respiratory distress will reattempt BiPAP as
+   tolerated. Per discussion with transferring team, patient had agreed to
+   limited trial of intubation if necessary. Intubation may be technically
+   difficult per anesthesiology.
+   - Ok to continue vancomycin and zosyn for now given recent temps and
+   respiratory distress, will attempt sputum gram stain and culture if she
+   can expectorate any sputum, check legionella urinary antigen though
+   probably low yield at this point.
+   - Follow I/O, daily weight, [**Hospital1 **] lytes
+   - Aspiration precautions
+   - Given coagulopathy will hold off on thoracentesis for now
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+   Plan for diuresis and monitoring as above. Although her EF was measured
+   within the normal range, she does have at least moderate MR on her
+   echocardiogram which would decrease her effective forward output.
+   Optimizing rate control of her atrial fibrillation may also be helpful
+   allowing for increased filling time. Cardiology recommendations
+   appreciated.
+ ATRIAL FIBRILLATION (AFIB)
+   Rate moderately well controlled on IV diltiazem; oral agents held in
+   setting of BiPAP. Will resume oral diltiazem and follow closely - her
+   absoption of PO meds may be decreased secondary to gut edema. Hold
+   anticoagulation given supratherapeutic INR today.
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+   Low grade temps, may be secondary to a pneumonia but in setting of
+   foley would also consider UTI. No obvious infection at her PICC site or
+   diarrhea to suggest C. difficile colitis.
+   -          check blood, urine, and sputum cultures along with stool C.
+   difficile toxin if she has diarrhea
+ COAGULOPATHY
+   Possible secondary to malnutrition and antibiotic decrease in vitamin K
+   levels. No evidence for DIC on labs. Repleted with vitamin K today.
+   Will trend INR daily, resume warfarin for INR<2.5.
+ DIABETES MELLITUS (DM), TYPE II
+   Cover with insulin sliding scale, qachs fingerstick target <150
+ THYROID CANCER (MALIGNANT NEOPLASM)
+   suppressed TSH
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+   Most likely due to diuresis leading to pre-renal state. Willing to
+   tolerate moderate rise in creatinine due to need for volume removal.
+   Urinalysis, check urine lytes.
+ [**Last Name **] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Continue home Pentasa for Crohns
+   h/o thyroid CA s/p cyberknife
+   TSH recently checked [**11-27**] and suppressed at 0.07. might have
+   thyroiditis post radiation which could potentially exacerbate her
+   atrial fibrillation. repeat tsh and free T4.
+ DECUBITUS ULCER (PRESENT AT ADMISSION)
+ DELIRIUM / CONFUSION
+   FEN replete K>4, Mag>2
+   PPX INR supratherapeutic, aspiration and fall precautions
+   Access PICC, will place A line
+   Dispo ICU
+   Code Ok to intubate, appreciate ethics and palliative care recs
+   Communication: with son HCP
+   ICU [**Name2 (NI) 228**]
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2948-12-3**] 09:22 PM
+   22 Gauge - [**2948-12-5**] 02:00 PM
+   Arterial Line - [**2948-12-6**] 01:59 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

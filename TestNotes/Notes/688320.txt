@@ -1,0 +1,172 @@
+TITLE:
+   CVICU
+   HPI:
+   79 yoM s/p cabg x4 [**2895**],s/p redo cabg x1(SVG to
+   LAD)/AVR(pericardial)'[**11**]  for MVR via thoracotomy
+   PMHx:
+   79 yoM s/p cabg x4 [**2895**],s/p redo cabg x1(SVG to
+   LAD)/AVR(pericardial)'[**11**]  for MVR via thoracotomy
+   Current medications:
+   Acetaminophen, Aspirin EC, Atorvastatin, Docusate Sodium, Furosemide,
+   HydrALAzine, Insulin, Lisinopril, Metoclopramide, Metoprolol Tartrate,
+   Pantoprazole, Potassium Chloride, Tamsulosin, Vancomycin
+   24 Hour Events:
+ CCO PAC - STOP [**2917-1-28**] 08:29 AM
+ ARTERIAL LINE - STOP [**2917-1-28**] 12:18 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2917-1-29**] 08:15 AM
+   Other ICU medications:
+   Furosemide (Lasix) - [**2917-1-29**] 06:25 AM
+   Dextrose 50% - [**2917-1-29**] 06:26 AM
+   Flowsheet Data as of  [**2917-1-29**] 10:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**18**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.1
+C (98.7
+   HR: 83 (64 - 88) bpm
+   BP: 115/42(59) {67/37(43) - 148/87(98)} mmHg
+   RR: 21 (17 - 36) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 100.5 kg (admission): 89.9 kg
+   Height: 70 Inch
+             Total In:
+                                                                  2,487 mL
+                                                                    263 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  2,137 mL
+                                                                    250 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  3,270 mL
+                                                                  1,590 mL
+   Urine:
+                                                                  2,550 mL
+                                                                  1,510 mL
+   NG:
+                                                                    420 mL
+                                                                     80 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -783 mL
+                                                                 -1,328 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 97%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   scattered, Diminished: b bases)
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   79 K/uL
+   9.6 g/dL
+   52 mg/dL
+   0.9 mg/dL
+   29 mEq/L
+   4.2 mEq/L
+   20 mg/dL
+   100 mEq/L
+   133 mEq/L
+   28.2 %
+   13.7 K/uL
+        [image002.jpg]
+                             [**2917-1-27**]  09:40 PM
+                             [**2917-1-28**]  02:17 AM
+                             [**2917-1-28**]  02:31 AM
+                             [**2917-1-28**]  02:52 AM
+                             [**2917-1-28**]  05:11 AM
+                             [**2917-1-28**]  06:13 AM
+                             [**2917-1-28**]  06:19 AM
+                             [**2917-1-28**]  05:21 PM
+                             [**2917-1-28**]  09:29 PM
+                             [**2917-1-29**]  04:21 AM
+   WBC
+   12.0
+   13.7
+   Hct
+   28.0
+   30.2
+   30.0
+   28.2
+   Plt
+   101
+   79
+   Creatinine
+   0.7
+   0.9
+   TCO2
+   24
+   22
+   22
+   26
+   Glucose
+   119
+   116
+   111
+   102
+   113
+   93
+   52
+   Other labs: PT / PTT / INR:16.4/34.0/1.5, Fibrinogen:208 mg/dL, Lactic
+   Acid:4.6 mmol/L, Mg:1.9 mg/dL
+   Imaging: CXR: small bilateral effusions and scattered atx
+   Microbiology: NGTD
+   ECG: SR
+   Assessment and Plan
+   VALVE REPLACEMENT, MITRAL BIOPROSTHETIC (MVR)
+   Assessment and Plan: 79 yoM s/p cabg x4 [**2895**],s/p redo cabg x1(SVG to
+   LAD)/AVR(pericardial)'[**11**]  for MVR via thoracotomy
+   Neurologic: Neuro checks Q: 4 hr, Pain well controlled on tylenol.  Had
+   confusion yesterday but is AAOx3 today and appropriate
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Hemodynamically
+   stable.  SBP goal <150
+   Pulmonary: IS, OOB to chair, ambulate.
+   Gastrointestinal / Abdomen: Bowel regimen
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, Diurese for goal of [**12-11**].5 L negative
+   overnight.
+   Hematology: Serial Hct, post-operative anemia.  HIT pending for
+   thrombocytopenia.
+   Endocrine: RISS, Blood glucose level goal <150
+   Infectious Disease: peri-operative Vanco, no other ID issues
+   Lines / Tubes / Drains: Foley, Pacing wires
+   Wounds: Dry dressings
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] - [**2917-1-27**] 07:33 PM
+   20 Gauge - [**2917-1-27**] 07:34 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

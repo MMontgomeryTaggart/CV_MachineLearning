@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="1870.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3386" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="7775" end="7811" />
+        <spannedText>Stools and NG output guaiac negative</spannedText>
+        <creationDate>Tue Nov 07 05:28:54 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3390">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3386">
+        <hasSlotMention id="EHOST_Instance_3390" />
+        <mentionClass id="bleeding_absent">Stools and NG output guaiac negative</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3387" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="708" end="733" />
+        <spannedText>with coffee-ground emesis</spannedText>
+        <creationDate>Tue Nov 07 05:29:14 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3391">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3387">
+        <hasSlotMention id="EHOST_Instance_3391" />
+        <mentionClass id="bleeding_present">with coffee-ground emesis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3388" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="1258" end="1285" />
+        <spannedText>Gastric lavage was negative</spannedText>
+        <creationDate>Tue Nov 07 05:29:46 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3392">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3388">
+        <hasSlotMention id="EHOST_Instance_3392" />
+        <mentionClass id="bleeding_absent">Gastric lavage was negative</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3389" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="10522" end="10531" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Tue Nov 07 05:30:27 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_3393">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="possible" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_3394">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="absent" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_3389">
+        <hasSlotMention id="EHOST_Instance_3393" />
+        <hasSlotMention id="EHOST_Instance_3394" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

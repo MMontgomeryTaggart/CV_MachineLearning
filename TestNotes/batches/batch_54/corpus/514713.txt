@@ -1,0 +1,185 @@
+Chief Complaint:  Presented to ED with Suicidal Ideation
+   HPI:
+   This is a 60 year old male with PMH significant for malignant HTN,
+   Venous Thromboembolism and PE s/p IVC filter, history of heroin abuse
+   on methadone maintenance who presented to ED initially complaining of
+   suicidal ideation and was noted to be somnolent.  Patient was placed in
+   psych ED for evaluation and was placed on tele, HR noted to be in 30s
+   and patient noted to be increasingly more somnolent.  Tox screen was
+   done and was positive for benzos, Opiates and Methadone.  ECG done and
+   notable for prolonged QTc of .52.  Toxicology was consulted and concern
+   was for QT prolongation from Seroquel/Methadone.    He was given 0.4 of
+   Narcan out of concern for opiate overdose.  He was also give glucagon
+   for concern of beta-blocker overdose, given history of bradycardia with
+   beta-blockers.  Patient was transferred to MICU for further monitoring
+   of QTc.
+   In the ED:  V/S Temp 98.4  HR 52  BP 194/80  RR 18  100% RA.  As above,
+   noted to be increasingly somnolent with bradycardia and prolonged QTc.
+   He was given Glucagon 1mg IV x 1, Zofran 4mg IV x 1 and Narcan 0.4 IV x
+   1.
+   On arrival to the MICU, patient continued to be somnolent but able to
+   answer questions.  He denied any current suicidal ideation but did
+   report increasing depression [**2-25**] to lack of cymbalta medication.  He
+   denied any recent fevers, chills, chest pain, dyspnea, SOB, N/V or
+   diarrhea.  He does report bloody sputum which has been ongoing for many
+   months.  He also reports abdominal pain which began today.  He was
+   requesting Methadone for withdrawal.  Of note, patient was found to
+   have Klonapin and Clonidine pill bottles hiding in his underwear.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Compazine (Injection) (Prochlorperazine Edisylate)
+   Unknown;
+   Codeine
+   Unknown;
+   Atenolol
+   bradycardia;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   Malignant Hypertension
+   Pulmonary Embolus s/p IVC filter, not anticoagulated [**2-25**] poor
+   compliance
+   Polysubstance abuse - on Methadone
+   Hepatitis C - undetectable HCV RNA since [**3-30**]
+   COPD
+   GERD
+   PTSD
+   Anxiety/Depression
+   Antisocial Personality Disorder
+   VitB 12 deficiency
+   NC
+   Occupation: Disability
+   Drugs: History of Heroin abuse on methadone
+   Tobacco: History of tobacco use, none in 10 years
+   Alcohol: None currently
+   Other:
+   Review of systems:
+   Respiratory: No(t) Cough, bloody sputum
+   Gastrointestinal: Abdominal pain
+   Flowsheet Data as of [**2823-9-6**] 02:21 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.8
+C (96.4
+   Tcurrent: 35.8
+C (96.4
+   HR: 37 (36 - 48) bpm
+   BP: 196/99(121) {188/92(116) - 196/100(121)} mmHg
+   RR: 18 (13 - 18) insp/min
+   SpO2: 97%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 72 Inch
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    800 mL
+                                                                    220 mL
+   Urine:
+                                                                    800 mL
+                                                                    220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -800 mL
+                                                                   -220 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 97%
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese, somnolent
+   Eyes / Conjunctiva: PERRL, Pinpoint pupils
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL, Cervical adenopathy
+   Cardiovascular: (S1: Normal, No(t) Absent), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Bowel sounds present, Tender: mild diffuse tenderness
+   Skin:  Warm
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Oriented (to): person, place, time, Movement: Purposeful, Tone: Not
+   assessed
+   Labs / Radiology
+   227
+   9.7
+   128
+   1.3
+   19
+   26
+   105
+   4.3
+   141
+   28.8
+   5.3
+        [image002.jpg]
+   Ca 8.9, Mg 1.9, P 5.6
+   ALT 15, AST 19, AP 86, Alb 4.0, LDH 216,
+   Assessment and Plan
+   This is a 60 year old male with PMH significant for malignant HTN,
+   Venous Thromboembolism and PE s/p IVC filter, history of heroin abuse
+   on methadone maintenance who presented to ED initially complaining of
+   suicidal ideation and was noted to be somnolent and bradycardic.
+   Admitted for drug intoxication, bradycardia.
+   1)  Drug Intoxication/Bradycardia:  Mr. [**Known patient lastname 2314**] presented with SI,
+   also noted to be somnolent and bradycardic.  He had a similar episode
+   one month ago where he was admitted after being found down, and also
+   found to be bradycardic and intoxicated.  Bradycardia at that time
+   presumed to be [**2-25**] to opiate/benzo overdose.  Patient presents
+   similarly today.  On floor he was found to be hiding Klonapin and
+   Clonidine bottles in his underwear.  He also attempted to smuggle
+   Klonapin on his last admission.  It seems likely that his current
+   bradycardia is also due to Opiate/Benzo/Methadone overdose.  It is
+   unclear at this time as to the amounts he ingested today.  ECG was also
+   reviewed and QT interval seems normal, although bradycardic.
+   - Monitor on tele
+   - Serial ECGs
+   - Transcutaneous pacer pads in place
+   - Mg PRN torsades
+   - Hold Methadone, Klonapin, Quetiapine
+   2) Hypertension:  Patient with history of malignant HTN, usually in
+   setting of non-compliance with Clonidine patch.  Patient without patch
+   on arrival to floor today, hypertensive to SBP 190s.
+   - restart Clonidine patch
+   - hold oral meds till less somnolent
+   - PRN Hydralazine with goal SBP 160s
+   - likely restart Amlodipine, HCTZ in AM
+   3) PE s/p IVC filter: No issues currently.  Patient with c/o blood
+   tinged sputum since PE, no cough on arrival.  Will monitor.  HCT
+   stable.
+   - Heparin SQ
+   4)  COPD
+ cont home tiotropium.
+   - Albuterol nebs PRN
+   5) Anxiety/Depression:  Patient c/o SI on arrival to ED, but denied SI
+   on arrival to MICU.  Will hold Quetiapine.
+   - cont Cymbalta
+   - Psych consult in AM
+   ICU Care
+   Nutrition: NPO for now
+   Lines:
+   18 Gauge - [**2823-9-5**] 10:00 PM
+   20 Gauge - [**2823-9-5**] 10:00 PM
+   Prophylaxis:
+   DVT:  Hep SQ
+   Stress ulcer:  PPI
+   VAP:
+   Comments:
+   Communication:  with patient
+   Code status: Full code
+   Disposition:  ICU
+   [**First Name4 (NamePattern1) 4159**] [**Last Name (NamePattern1) 4160**] MD
+
+
+DOC CLASS

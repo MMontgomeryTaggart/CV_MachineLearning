@@ -1,0 +1,253 @@
+Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - START [**3184-4-9**] 05:00 PM
+ MIDLINE - START [**3184-4-9**] 06:00 PM
+   attempted r picc, but coiled.  pulled back by iv team to midline.
+   -Ct contrast concerning for atypical pneumonia vs. alveolar hemorrhage
+   -gave prednisone 60mg once
+   -started lantus 10u at night, made sliding scale more aggressive
+   -d/ced fentanyl and pain controlled with dilaudid 2-4mgIVq3prn
+   -d/w with renal about line
+   -pulm following, staff in am
+   -hct stable 25.1-->25.3--->24.5
+   -added CBCdiff to am labs prior to predisone
+   -hypoxic on ABG, put on 10L facetent
+   -was in Afib from 12hour (10am to 10pm) converted on her own to sinus
+   Allergies:
+   Codeine
+   Nausea/Vomiting
+   Vasotec (Oral) (Enalapril Maleate)
+   Cough; Rash; mu
+   Cortisporin (Otic) (Neomy Sulf/Polymyx B Sulf/Hc)
+   Rash;
+   Ciloxan (Ophthalmic) (Ciprofloxacin Hcl)
+   Unknown;
+   Atenolol
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   KCl (CRRT) - 2 mEq./hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3184-4-10**] 06:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.4
+   Tcurrent: 36
+C (96.8
+   HR: 85 (81 - 107) bpm
+   BP: 106/39(65) {99/36(0) - 136/55(74)} mmHg
+   RR: 10 (10 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 96.5 kg (admission): 96.7 kg
+             Total In:
+                                                                  7,756 mL
+                                                                  1,852 mL
+   PO:
+                                                                  1,359 mL
+             TF:
+   IVF:
+                                                                  6,397 mL
+                                                                  1,852 mL
+   Blood products:
+   Total out:
+                                                                 10,007 mL
+                                                                  2,371 mL
+   Urine:
+                                                                     33 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,251 mL
+                                                                   -519 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: 7.46/45/63/31/6
+   PaO2 / FiO2: 105
+   Physical Examination
+   GENERAL: obese elderly female in NAD. Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of 10cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. II/VI MR murmur. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. + crackles L > R
+   ABDOMEN: Soft, NT/ND. No HSM or tenderness
+   EXTREMITIES: No c/c/e. right femoral bruit.
+   SKIN: +stasis dermatitis. no ulcers, scars, or xanthomas.
+   Labs / Radiology
+   235 K/uL
+   8.6 g/dL
+   312 mg/dL
+   2.6 mg/dL
+   31 mEq/L
+   4.6 mEq/L
+   42 mg/dL
+   91 mEq/L
+   135 mEq/L
+   25.0 %
+   10.2 K/uL
+        [image002.jpg]
+                             [**3184-4-8**]  06:57 PM
+                             [**3184-4-9**]  01:28 AM
+                             [**3184-4-9**]  05:03 AM
+                             [**3184-4-9**]  09:55 AM
+                             [**3184-4-9**]  03:48 PM
+                             [**3184-4-9**]  05:32 PM
+                             [**3184-4-9**]  10:10 PM
+                             [**3184-4-9**]  10:32 PM
+                             [**3184-4-10**]  04:09 AM
+                             [**3184-4-10**]  04:34 AM
+   WBC
+   9.2
+   10.2
+   Hct
+   25.6
+   22.7
+   25.1
+   25.3
+   24.5
+   25.0
+   Plt
+   186
+   235
+   Cr
+   4.4
+   4.2
+   3.8
+   3.5
+   3.2
+   3.0
+   2.6
+   TCO2
+   29
+   29
+   33
+   Glucose
+   192
+   225
+   188
+   183
+   230
+   437
+   312
+   Other labs: PT / PTT / INR:12.9/25.9/1.1, ALT / AST:19/43, Alk Phos / T
+   Bili:108/0.5, Differential-Neuts:92.2 %, Lymph:4.0 %, Mono:3.6 %,
+   Eos:0.2 %, Lactic Acid:1.2 mmol/L, Albumin:3.1 g/dL, LDH:259 IU/L,
+   Ca++:9.3 mg/dL, Mg++:1.9 mg/dL, PO4:4.0 mg/dL
+   3/2CT chest
+   IMPRESSION:
+   1. Extensive bilateral consolidations, right more than left, of high
+   density
+   that might be consistent with multifocal hemorrhage. The differential
+   diagnosis in the presence of renal failure might include vasculitis.
+   Hemorrhagic pneumonia might be considered in appropriate clinical
+   setup.
+   2. Small left apical pneumothorax, most likely unchanged compared to
+   prior
+   chest radiograph.
+   3. Bilateral grossly unchanged pleural effusions, high in density that
+   might
+   also contain an element of hemorrhage.
+   4. Extensive coronary calcifications.
+   5. Still present contrast enhancement of kidneys and vicarious
+   excretion of
+   contrast the gallbladder consistent with known renal failure.
+   85 year old woman with history of CAD s/p prior PCI, PVD, DM2
+   presenting unstable angina and evidence of decompensated heart failure,
+   s/p BMS x 2 to prox RCA.  Transferred to the CCU for ongoing CP/SOB and
+   poor UOP now in oliguric ARF.
+   .
+   #Cough
+primary pulmonary process given alveolar infiltrartes vs.
+   alveolar hemorrhage seen on CT
+   -continue quick taper of steroids for bronchospasm
+   -appreciate pulm recs re: steroids
+   -consider broadening antibiotics
+   -continue zithromax for now
+   -continue bezonate for cough
+   -standing nebs
+   -Influenza neg
+   -f/u legionella Ag
+   -put on standing nebs
+   .
+   #Pleuritc CP-likely [**3-12**] new pulm infiltrates
+   -continue dilaudid 2-4mg q3prn pain
+   -continue steroid taper
+   .
+   # Oliguric Acute on chronic CKD: Pt likely with contrast nephropathy
+   s/p PCI,
+   - CVVH today, on but limited by her coughing with changes access
+   pressures.
+   - need dialysis line replaced today by IR
+   -d/w renal about prognosis for renal recovery
+   .
+   # Acute diastolic CHF exacerbation:  Volume overload leading to heart
+   failure, managing with CVVH
+   - holding off intubation because of new lung findings
+   # CAD/unstable angina:  Patient during cath found to have prox RCA
+   disase, s/p BMS x 2.  Patient's typical anginal pain was occuring at
+   rest and had ST depressions in V4-6.  Currently chest pain free.
+   Patient may have demand ischemia from Anemia.  Patient with oxygen
+   requirement as above.
+   - aspirin/statin/plavix
+   - hold [**Last Name (un) 281**] given large dye load in cath lab
+   - holding BB given low BP and need for nitro gtt  (for CHF, not CP)
+   .
+   # Bleeding / Anemia - pt with HCT of 26 - concern for RP bleed related
+   to cath vs GI bleed from external hemorrhoid. Repeat HCT was decreased
+   so did CT which showed no RP bleed but showed blood-dense bilat pleural
+   effusions and question of pulmonary hemorrhage.
+   - Transfuse <21 or active dropping
+   .
+   # Rhythm: sinus rhythm, with PAF
+   - tele monitoring
+   .
+   # Diabetes mellitus: controlled per recent A1c with use of oral meds +
+   insulin.
+   - make scale more aggressive with steroids
+   -follow QID FS
+   .
+   # Blood stools: likely hemorrhoidal bleeding given many prior negative
+   colonoscopies and lack of current abd pain.  No blood in vault this
+   AM.
+   - active T&S
+   - empiric daily PPI
+   - PIV
+   .
+   # FEN: otherwise diabetic, low salt, Kosher.
+   .
+   # ACCESS: PIVs, 2 large bore
+   .
+   # PROPHYLAXIS: bowel regimen, PPI
+   .
+   # DISPO: pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3184-4-8**] 08:16 PM
+   Dialysis Catheter - [**3184-4-8**] 09:00 PM
+   Prophylaxis:
+   DVT: pneumonboots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU for now
+
+
+DOC CLASS

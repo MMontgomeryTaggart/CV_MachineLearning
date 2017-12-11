@@ -1,0 +1,193 @@
+CVICU
+   HPI:
+   61M POD # 11 from repair of type A aortic dissection - 28-mm Dacron
+   interposition tube graft from the sinotubular junction > proximal arch
+   using deep hypothermic circulatory arrest, complicated by ARF requiring
+   HD, AF and significant post-op confusion, which seems to be improving
+   Chief complaint:
+   PMHx:
+   PMHx: HTN, s/p T+A
+   [**Last Name (un) **]: HCTZ ? dose
+   Current medications:
+   24 Hour Events:
+   Post operative day:
+   POD#11 - ascending aorta graft
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2777-9-9**] 12:04 AM
+   Other medications:
+   Flowsheet Data as of  [**2777-9-9**] 08:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**79**] a.m.
+   Tmax: 37.9
+C (100.2
+   T current: 37.1
+C (98.7
+   HR: 66 (53 - 99) bpm
+   BP: 129/73(86) {91/33(54) - 140/84(90)} mmHg
+   RR: 18 (15 - 27) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 108.8 kg (admission): 113.6 kg
+   Height: 70 Inch
+             Total In:
+                                                                  2,142 mL
+                                                                    230 mL
+   PO:
+                                                                    420 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    222 mL
+                                                                     50 mL
+   Blood products:
+   Total out:
+                                                                  2,755 mL
+                                                                    500 mL
+   Urine:
+                                                                  2,255 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -613 mL
+                                                                   -270 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 98%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)
+   Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: at bases)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, Obese
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 1), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   263 K/uL
+   9.9 g/dL
+   103 mg/dL
+   3.1 mg/dL
+   28 mEq/L
+   4.0 mEq/L
+   58 mg/dL
+   108 mEq/L
+   146 mEq/L
+   30.6 %
+   8.5 K/uL
+        [image002.jpg]
+                             [**2777-9-3**]  10:55 AM
+                             [**2777-9-4**]  04:11 AM
+                             [**2777-9-4**]  04:31 AM
+                             [**2777-9-4**]  02:51 PM
+                             [**2777-9-5**]  02:40 AM
+                             [**2777-9-5**]  11:18 AM
+                             [**2777-9-6**]  02:27 AM
+                             [**2777-9-7**]  02:49 AM
+                             [**2777-9-8**]  04:28 AM
+                             [**2777-9-9**]  03:50 AM
+   WBC
+   9.9
+   8.7
+   7.6
+   8.2
+   8.5
+   Hct
+   28.4
+   33.1
+   31.6
+   30.3
+   31.4
+   30.6
+   Plt
+   174
+   198
+   239
+   260
+   263
+   Creatinine
+   6.1
+   6.8
+   6.0
+   7.4
+   7.1
+   5.5
+   4.7
+   4.1
+   3.1
+   TCO2
+   20
+   Glucose
+   96
+   89
+   112
+   110
+   103
+   109
+   103
+   Other labs: PT / PTT / INR:19.4/32.1/1.8, CK / CK-MB / Troponin
+   T:358//, ALT / AST:[**1-24**], Alk-Phos / T bili:99/0.3, Amylase /
+   Lipase:73/151, Differential-Neuts:78.2 %, Lymph:10.4 %, Mono:6.9 %,
+   Eos:4.3 %, Fibrinogen:214 mg/dL, Lactic Acid:0.8 mmol/L, Albumin:2.9
+   g/dL, Ca:8.4 mg/dL, Mg:1.9 mg/dL, PO4:4.9 mg/dL
+   Assessment and Plan
+   IMPAIRED SKIN INTEGRITY, ATRIAL FIBRILLATION (AFIB), DELIRIUM /
+   CONFUSION, AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AROUSAL, ATTENTION,
+   AND COGNITION, IMPAIRED, BALANCE, IMPAIRED, MUSCLE PERFORMACE,
+   IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED, [**Last Name 9**] PROBLEM - ENTER
+   DESCRIPTION IN COMMENTS, ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS,
+   ACUTE LUNG INJURY, [**Doctor Last Name 73**]), ANXIETY, AORTIC DISSECTION, PERICARDIAL
+   EFFUSION WITH TAMPONADE
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Pain well controlled
+   with Tylenol. Avoid narcotics and benzos. Confusion appears to be
+   improving, m/p related to medications and uremia.
+   Cardiovascular: Aspirin, Beta-blocker, HD stable. AF -- converted to SR
+   again yesterday after amiodarone bolus IV. Continue diltiazem PO and
+   amiodarone PO
+   Pulmonary: IS, Stable on RA. OOB --> chair
+   Gastrointestinal / Abdomen: No issues
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, Autodiuresing. HD yesterday. Would hold off
+   HD for now. [**Month (only) 8**] be recovering from his ATN and may not need a tunneled
+   line.
+   Hematology: Serial Hct, Stable anemia. Monitor for now
+   Endocrine: RISS, BG well controlled. Keep < 150
+   Infectious Disease: No evidence of infection
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery, Nephrology
+   Billing Diagnosis: Post-op complication, Acute renal failure
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2777-9-5**] 01:00 PM
+   Dialysis Catheter - [**2777-9-7**] 01:22 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 25 minutes
+
+
+DOC CLASS

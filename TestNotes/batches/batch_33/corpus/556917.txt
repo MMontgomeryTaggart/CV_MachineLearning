@@ -1,0 +1,221 @@
+Date of service: [**2631-2-15**]
+   Initial visit, Cardiology service: CCU
+   Presenting complaint: Chest pain, (Other: Aspirin desentization)
+   History of present illness: Mr. [**Known patient lastname 3368**] is a 68 yo M with history of
+   asthma, hypertension, hyperlipidemia and AS who has had 3-4 days of
+   crescendo angina.  The patient reports that starting on Friday
+   afternoon he began to have substernal crushing chest pain/tightness.
+   This pain was persistent and improved with rest, but persisted for the
+   duration of the day.  He did not have shortness of breath, dizziness or
+   lightheadedness with this episode.  The pain recurred several more
+   times over the weekend, usually resolving with rest.  The pains
+   required him to stop the participitating activities (working, dancing,
+   snowshoveling).  After chest tightness on Monday, the patient called
+   his PCP.  [**Name10 (NameIs) **] recommended going to the ER if the pain persisted, but if
+   not, then the patient was to come to the PCP's office in AM.  The
+   patient reported to the PCP's office on tuesday AM.  He was found to
+   have ST depressions and mild troponin elevation.  Thus the patient was
+   sent directly to the ED (instead of the scheduled stress test).  The
+   patient was given plavix 600 mg, atorvastatin 80 mg, metoprolol 2.5 mg
+   x2 IV and started on heparin gtt with bolus.  The patient was then
+   transferred to [**Hospital1 1**] for aspirin desentization.
+   .
+   On arrival the patient has no chest pain or dyspnea. He reports no
+   current symptoms including no chest pain, no shortness of breath, no
+   dizziness. He is hungry.
+   .
+   On review of systems, he has intermittent cough and occasional dyspnea
+   on exertion x last 5 months.  Also patient has been having exertional
+   left leg pain over the last few months.  He denies any prior history of
+   stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at
+   the time of surgery, myalgias, joint pains,  hemoptysis, black stools
+   or red stools. S/he denies recent fevers, chills or rigors.  All of the
+   other review of systems were negative.
+   .
+   Cardiac review of systems is notable for absence of  paroxysmal
+   nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or
+   presyncope.
+   .
+   Initial vitals at the OSH were not recorded, but BPs by EMS were
+   164/88, HR 74, RR 16, 02 98%.
+   Past medical history: HTN
+   Asthma
+   hyperlipidemia
+   rhinitis
+   nasal polyps
+   mild to moderate aortic stenosis
+   single kidney
+   CAD Risk Factors
+   CAD Risk Factors Present
+   Dyslipidemia, Hypertension
+   CAD Risk Factors Absent
+   Diabetes mellitus, Family Hx of CAD, Family Hx of sudden cardiac death
+   (Tobacco: No)
+   Cardiovascular Procedural History
+   There is no history of:
+   PCI
+   CABG
+   Pacemaker / ICD
+   Allergies:
+   Aspirin
+   Wheezing;
+   Current medications: Atenolol 100 mg daily
+   Simvastatin 20 mg daily
+   Advair 250/50 [**Hospital1 **] (patient taking prn)
+   Flonase prn (not taking)
+   Amoxicillin prn dental procedure
+   proair (prescribed, not taking)
+   Cardiovascular ROS
+   Cardiovascular ROS Signs and Symptoms Present
+   Murmur, Chest pain, SOB, DOE, Exertional calf pain
+   Cardiovascular ROS Signs and Symptoms Absent
+   Rheumatic fever, PND, Orthopnea, Edema, Palpitations, Syncope,
+   Presyncope, Lightheadedness, TIA / CVA, Pulmonary embolism, DVT,
+   Claudication, Exertional buttock pain
+   Review of Systems
+   Organ system ROS abnormal
+   Eyes, Respiratory, Allergy / Immune
+   Signs and symptoms present
+   Cough
+   Organ system ROS normal
+   Constitutional, ENT, Gastrointestinal, Endocrine, Hematology /
+   Lymphatic, Genitourinary, Integumentary
+   Signs and symptoms absent
+   Recent fevers, Chills, Rigors, Hemoptysis, Black / red stool
+   ROS Details: Patient has occasional waves in his vision, he has an
+   intermittent cough with dyspnea over the last 5 months. He does not
+   recall any asthma exacerbations
+   Social History
+   Marital status: widower
+   Occupation: demoltion
+   Children: 3
+   (Alcohol: No)
+   Family history: Brother with AAA, father with lung disease
+   Social history details: Does demolition work with his son. His wife
+   died many years ago after cerebral hemorrhage and ensuing coma.  He
+   lives in [**Location **] with his youngest daughter
+   Physical Exam
+   Date and time of exam: [**2631-2-15**], 5PM
+   General appearance: Well appearing
+   Vital signs: per R.N.
+   Height: 74 Inch, 188 cm
+   Weight: 86 kg
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: WNL)
+   Neck: (Jugular veins: JVP, 8), (Thyroid: WNL)
+   Back / Musculoskeletal: (Chest wall structure: WNL)
+   Respiratory: (Effort: WNL), (Auscultation: WNL)
+   Cardiac: (Rhythm: Regular), (Palpation / PMI: WNL), (Auscultation: S1:
+   WNL), (Murmur / Rub: Present), (Auscultation details: systolic murmur
+   heard throughout precordium, loudest at RUSB, crescendo-decrescendo, no
+   delayed pulses)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),
+   (Pulsatile mass: No), (Hepatosplenomegaly: No)
+   Genitourinary: (WNL)
+   Femoral Artery: (Right femoral artery: 2+, No bruit), (Left femoral
+   artery: 2+, No bruit)
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Dorsalis pedis
+   artery: Right: 2+, Left: 2+), (Posterior tibial artery: Right: 1+,
+   Left: 1+), (Edema: Right: 0, Left: 0), (Extremity details: warm)
+   Skin: ( WNL)
+   Labs
+   328
+   14.1
+   89
+   0.9
+   28
+   3.8
+   19
+   105
+   142
+   39.7
+   10.8
+        [image002.jpg]
+                            [**2631-2-15**]  05:12 PM
+   WBC
+   10.8
+   Hgb
+   14.1
+   Hct (Serum)
+   39.7
+   Plt
+   328
+   INR
+   1.2
+   PTT
+   60.2
+   Na+
+   142
+   K + (Serum)
+   3.8
+   Cl
+   105
+   HCO3
+   28
+   BUN
+   19
+   Creatinine
+   0.9
+   Glucose
+   89
+   CK
+   84
+   Troponin T
+   0.15
+   ABG: /  /  / 28 /    Values as of [**2631-2-15**] 05:12 PM
+   Outside / other labs: at OSH: trop 0.47  (nl 0-0.5),
+   140|105|23 /117
+   4.8|30 |0.9
+   ALT 81, CK 38, AST 23,
+   TG: 78, HDL: 27, TC 139, LDL 96
+   .
+   10.1>--<273
+       41.9
+   Tests
+   ECG: (Date: [**2631-2-15**]), NSR at 62, LVH by voltage criteria, axis -24, ST
+   depressions I, aVF, V6, <1mm ST elevation v1.
+   Echocardiogram: none
+   Cardiac Cath: none
+   Assessment and Plan
+ CHEST PAIN
+ Aspirin Allergy
+   68 yo M with unstable angina no CP free for >12 hours who presents as
+   transfer for aspirin desentization prior to cardiac catherization.
+   1. Acute Coronary Syndrome: the patient presented with chest pain
+   consistent with unstable angina, mild troponin elevation and ECG
+   changes make NSTEMI more likely.   Given ST changes and mild troponin
+   elevation, the likely cause of the chest pain is CAD, though other
+   causes including GERD are possible but less likely.
+   - heparin gtt
+   - plavix load at OSH, continue plavix 75 mg daily
+   - aspirin desensitization
+   - atorvastatin 80 mg
+   - serial ECGs
+   - NPO for cardiac cath in AM
+   2. Aortic stenosis/sclerosis: mild to moderate by history (unclear if
+   true stenosis or sclerosis), asymptomatic.  Will get echo and confirm.
+   - echo
+   3. Aspirin desentization: patient with asthma reaction to aspirin.
+   Will do aspirin desentization per [**Hospital1 1**] protocol with total dose approx
+   317 mg today.  Will give 325 mg in AM if tolerates desentization.  Will
+   also pretreat with singulair and prednisone per Allergy
+   recommendations.
+   - Aspirin desentization
+   - CCU for observation
+   - Pretreatment with singulair and prednisone, epi/benadryl prn at
+   bedside
+   #  Hypertension: Will treat with low dose nitro gtt for now.  But will
+   restart metoprolol once 3 hours post last aspirin dose.
+   #  Hyperlipidemia: Lipids well controlled on labs at OSH.  Will give
+   high dose atorvastatin while pre cath.
+   FEN:  NPO after midnight, lytes prn, IVF prior to cath
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with heparin gtt
+   -Bowel regimen
+   CODE: full
+   DISPO: Cardiology floor service for now
+
+
+DOC CLASS

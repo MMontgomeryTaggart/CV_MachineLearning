@@ -1,0 +1,180 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - went to OR for R olecranon bursa drainage and joint aspiration.  No
+   evidence of infection, wound vac placed
+   - reduced UOP with urine lytes show fena=0.05%
+   - sats in low 90s, sometimes dropping to 88-89%
+   - gentamycin d/ced as blood cx from [**11-14**] still negative
+   Allergies:
+   Penicillin G
+   Hallucinations;
+   Last dose of Antibiotics:
+   Vancomycin - [**3379-11-15**] 09:30 AM
+   Gentamicin - [**3379-11-17**] 06:00 PM
+   Nafcillin - [**3379-11-18**] 06:18 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3379-11-18**] 06:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.8
+C (101.8
+   Tcurrent: 37.8
+C (100.1
+   HR: 115 (95 - 115) bpm
+   BP: 109/67(76) {86/51(58) - 118/82(88)} mmHg
+   RR: 21 (13 - 21) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 67 kg (admission): 63 kg
+             Total In:
+                                                                  2,023 mL
+                                                                    969 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,023 mL
+                                                                    969 mL
+   Blood products:
+   Total out:
+                                                                    475 mL
+                                                                    155 mL
+   Urine:
+                                                                    475 mL
+                                                                    155 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,548 mL
+                                                                    814 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///24/
+   Physical Examination
+   Gen:  disheveled appearing male, NAD.
+   HEENT: mucus membranes moist.  Oropharynx clear.  No lymphadenopathy.
+   CV: RRR, tachycardic.  [**3-22**] holosystolic murmur best at apex.  JVD flat.
+   Lungs: crackles at bases bilaterally.  Otherwise clear.  Good air
+   movement.
+   Abd: soft, non distended, non tender ABS
+   Ext: Right elbow psoriatic lesions with 4cm wide thick white plaque
+   with 2cm break in skin below.  Elbow is erythemetous and swollen, with
+   swelling extending down the right arm.  Right hand also erythemetous,
+   marked.  Prominent purplish, tender nodule on left third digit
+   (Osler
+s).  Multiple reddish petechiae on lower extremities.  Multiple
+   non tender papules on palmar and plantar surfaces ([**Last Name (un) **]).
+   Neuro: PERRL, EOMI  Left facial droop, left ptosis. 5/5 Strength in
+   SCM/Trapezius.  Right sided neglect.   No sensation on RUE or RLE.
+   Able to lift RUE to gravity.  LUE 4/5 strength.  RLE able to move
+   toes.  LLE, able to move leg on command, slightly against gravity.
+   Labs / Radiology
+   323 K/uL
+   12.1 g/dL
+   140 mg/dL
+   1.3 mg/dL
+   24 mEq/L
+   3.5 mEq/L
+   22 mg/dL
+   105 mEq/L
+   137 mEq/L
+   36.0 %
+   14.1 K/uL
+        [image002.jpg]
+                            [**3379-11-14**]  04:22 PM
+                            [**3379-11-14**]  06:30 PM
+                            [**3379-11-15**]  04:00 AM
+                            [**3379-11-15**]  04:23 PM
+                             [**3379-11-16**]  05:42 AM
+                             [**3379-11-16**]  03:22 PM
+                             [**3379-11-17**]  05:36 AM
+                             [**3379-11-17**]  05:13 PM
+                             [**3379-11-18**]  03:59 AM
+   WBC
+   19.4
+   17.1
+   14.6
+   13.7
+   14.9
+   14.1
+   Hct
+   46.4
+   42.6
+   41.7
+   41.0
+   40.0
+   36.0
+   Plt
+   122
+   175
+   238
+   255
+   309
+   323
+   Cr
+   0.4
+   0.4
+   0.4
+   0.6
+   0.8
+   0.9
+   1.0
+   1.3
+   TropT
+   0.28
+   Glucose
+   130
+   127
+   120
+   109
+   147
+   161
+   115
+   122
+   140
+   Other labs: PT / PTT / INR:14.3/27.5/1.2, CK / CKMB /
+   Troponin-T:142/7/0.28, ALT / AST:23/18, Alk Phos / T Bili:49/0.4,
+   Differential-Neuts:77.0 %, Band:10.0 %, Lymph:5.0 %, Mono:2.0 %,
+   Eos:1.0 %, D-dimer:1765 ng/mL, Fibrinogen:650 mg/dL, Lactic Acid:1.6
+   mmol/L, Albumin:1.9 g/dL, LDH:384 IU/L, Ca++:6.9 mg/dL, Mg++:1.9 mg/dL,
+   PO4:4.1 mg/dL
+   Microbiology:
+   Right elbow olecranon bursa: gram stain: negative PMN, organism
+   C.diff toxins: [**3379-11-17**]: negative
+   Assessment and Plan
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ TOBACCO USE, CURRENT
+ ALCOHOL ABUSE
+ IMPAIRED SKIN INTEGRITY
+ KNOWLEDGE DEFICIT
+ ENDOCARDITIS, BACTERIAL
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+   RIGHT ELBOW OLECRANON BURSA
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3379-11-15**] 02:10 PM
+   20 Gauge - [**3379-11-15**] 05:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

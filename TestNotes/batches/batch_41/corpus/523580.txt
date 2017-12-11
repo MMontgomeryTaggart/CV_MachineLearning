@@ -1,0 +1,217 @@
+Chief Complaint:
+   24 Hour Events:
+ URINE CULTURE - At [**2758-6-25**] 08:00 AM
+   URINE LYTES SENT
+ INVASIVE VENTILATION - START [**2758-6-25**] 11:00 AM
+ ARTERIAL LINE - START [**2758-6-25**] 12:30 PM
+   Hypotensive requiring fluid boluses; Given 1 U PRBCs. Started levophed.
+   Sodium persistently low at 114- did not worsen with small fluid boluses
+   Changed bactrim to pentamidine per ID recs
+   Sent beta glucan
+   Spiked low grade Temp of 100.3
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**2758-6-25**] 08:12 AM
+   Bactrim (SMX/TMP) - [**2758-6-25**] 01:00 PM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Norepinephrine - 0.16 mcg/Kg/min
+   Midazolam (Versed) - 1.5 mg/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**2758-6-25**] 12:20 PM
+   Fentanyl - [**2758-6-25**] 12:20 PM
+   Pantoprazole (Protonix) - [**2758-6-25**] 01:00 PM
+   Heparin Sodium (Prophylaxis) - [**2758-6-25**] 05:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2758-6-26**] 07:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.3
+   Tcurrent: 37.1
+C (98.8
+   HR: 70 (70 - 115) bpm
+   BP: 105/49(68) {81/43(58) - 143/60(87)} mmHg
+   RR: 16 (15 - 31) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 61 Inch
+           Total In:
+                                                                  3,965 mL
+                                                                    327 mL
+   PO:
+           TF:
+   IVF:
+                                                                  3,688 mL
+                                                                    229 mL
+   Blood products:
+                                                                    277 mL
+                                                                     98 mL
+   Total out:
+                                                                  1,600 mL
+                                                                  2,100 mL
+   Urine:
+                                                                  1,400 mL
+                                                                  2,100 mL
+   NG:
+                                                                    200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,365 mL
+                                                                 -1,773 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 523 (523 - 605) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10, FiO2 > 60%
+   PIP: 15 cmH2O
+   SpO2: 94%
+   ABG: 7.43/27/81.[**Numeric Identifier 582**]/17/-4
+   Ve: 8.9 L/min
+   PaO2 / FiO2: 135
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   112 K/uL
+   9.4 g/dL
+   148 mg/dL
+   0.7 mg/dL
+   17 mEq/L
+   4.4 mEq/L
+   12 mg/dL
+   101 mEq/L
+   127 mEq/L
+   32.0 %
+   3.7 K/uL
+        [image002.jpg]
+                             [**2758-6-24**]  04:00 AM
+                             [**2758-6-25**]  02:56 AM
+                             [**2758-6-25**]  04:12 AM
+                             [**2758-6-25**]  12:11 PM
+                             [**2758-6-25**]  12:12 PM
+                             [**2758-6-25**]  06:08 PM
+                             [**2758-6-26**]  12:13 AM
+                             [**2758-6-26**]  03:27 AM
+   WBC
+   3.7
+   4.0
+   3.7
+   Hct
+   25.4
+   25.6
+   32.0
+   Plt
+   119
+   114
+   112
+   Cr
+   0.7
+   0.5
+   0.5
+   0.5
+   0.5
+   0.7
+   TCO2
+   19
+   19
+   Glucose
+   [**Telephone/Fax (2) 2880**]0
+   82
+   148
+   Other labs: PT / PTT / INR:13.3/76.4/1.1, Albumin:2.7 g/dL, LDH:511
+   IU/L, Ca++:7.5 mg/dL, Mg++:2.4 mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+   77-year-old woman with primary papillary serous ovarian carcinoma with
+   brain and cervical spine metastases presented after fall at home
+   transferred to ICU with PCP pneumonia and hypoxia.
+   # Hypoxia: Likely secondary to PCP pneumonia which appears worse by
+   CXR. Increasing O2 requirement and increased work of breathing
+   therefore patient was intubated. Currently doing well on AC with FIO2
+   of 60%.
+   -          Continue AC
+   -          Monitor ABG if changes to vent
+   -          Continue pentamidine
+   #  PCP [**Name Initial (PRE) **]: Has received one weeks of Bactrim treatment dose with
+   minimal response. [**Month (only) 56**] need to change coverage to pentamidine. Will
+   consult ID. Given hyponatremia, will change Bactrim to liquid PO via
+   NG.
+   - continue Pentamidine, monitor LFTs
+   - continue dex 4 mg q8h  (equivalence to 40 mg prednisone [**Hospital1 **] for PCP
+   [**Name Initial (PRE) **])
+   - Monitor WBC, fever curve
+   - Ck daily CXR
+   - F/U ID recs
+   #Hypotension: Likely secondary to sedation, PEEP. Requiring small doses
+   of levophed.
+   - Attempt to wean sedation
+   - Wean pressors
+   # Hyponatremia: Urine osm and Urine sodium consistent with SIADH,
+   likely secondary to her pulmonary process. Although, known brain mets
+   can also cause SIADH. Today serum Na 127
+   -          continue fluid restriction as tolerated
+   -          monitor lytes [**Hospital1 **]
+   # Weakness: with proximal muscle weakness, likely steroid-induced
+   myopathy. ?worsening CNS involvement. Also in the setting of possible
+   pneumonia. Telemetry unremarkable. Brain and C-spine MRI showed stable
+   mets. Cannot wean off steroids yet due to PCP [**Name Initial (PRE) **].
+   - symptomatic treatment, PT as tolerated once out of ICU
+   - Nutritional status is poor given poor appetite, boost/supplements
+   .
+   # Ovarian cancer with CNS mets: stable mets on MRI. On
+   irinotecan/bevacizumab.
+   - continue steroids
+   - chemo on hold in setting of acute illness
+   .
+   # Hypothyroidism:  Continue levothyroxine
+   .
+   # Prophylaxis: PPI, hep SC, bowel regimen
+   .
+   # FEN:  NPO, [**Hospital1 **] finger sticks while on steroids.
+   - monitor another set of lytes to confirm serum sodium is stable
+   - consult nutrition for recs
+   - Autodiuresing while on pressors. Monitor BP, UO. Bolus as needed.
+   # Dispo: ICU level of care for now.
+   .
+   # FULL CODE
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Indwelling Port (PortaCath) - [**2758-6-23**] 03:30 PM
+   20 Gauge - [**2758-6-25**] 06:36 AM
+   Arterial Line - [**2758-6-25**] 12:30 PM
+   Prophylaxis:
+   DVT:  Heparin SC
+   Stress ulcer:  PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

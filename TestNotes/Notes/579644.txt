@@ -1,0 +1,294 @@
+Chief Complaint: Sepsis
+   24 Hour Events:
+   - Urine Na c/w hepatorenal syndrome, stopped diuretics, started
+   octreotide and midrodrine, gave additional post-tap albumin
+   - discussed worsening renal failure with Renal consult who has signed
+   off, will re-consult tomorrow
+   - family meeting planned for 4pm Monday
+   - started nystatin swish and swallow for thrush
+   History obtained from Medical records
+   Allergies:
+   Aspirin
+   rectal bleeding
+   Penicillins
+   Rash; Hives;
+   Sulfonamides
+   aseptic menigi
+   Biaxin (Oral) (Clarithromycin)
+   Diarrhea;
+   Levaquin (Oral) (Levofloxacin)
+   Rash;
+   Cefzil (Oral) (Cefprozil)
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   aseptic meningi
+   Erythromycin Base
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**3391-2-11**] 12:29 AM
+   Metronidazole - [**3391-2-11**] 08:00 PM
+   Meropenem - [**3391-2-12**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3391-2-11**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3391-2-12**] 07:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.7
+C (98
+   HR: 99 (90 - 99) bpm
+   BP: 106/36(53) {0/0(0) - 0/0(0)} mmHg
+   RR: 25 (16 - 38) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 59.9 kg (admission): 64 kg
+   Height: 64 Inch
+    CVP: 23 (15 - 31)mmHg
+   Total In:
+                                                                  2,188 mL
+                                                                    561 mL
+   PO:
+   TF:
+   IVF:
+                                                                    666 mL
+                                                                    173 mL
+   Blood products:
+                                                                    250 mL
+   Total out:
+                                                                  2,725 mL
+                                                                    810 mL
+   Urine:
+                                                                    925 mL
+                                                                    460 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  1,800 mL
+                                                                    350 mL
+   Balance:
+                                                                   -537 mL
+                                                                   -249 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 350 (350 - 350) mL
+   Vt (Spontaneous): 61 (61 - 497) mL
+   PS : 8 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 25
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 59
+   PIP: 16 cmH2O
+   SpO2: 94%
+   ABG: 7.37/37/106/17/-3
+   Ve: 12.8 L/min
+   PaO2 / FiO2: 212
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   141 K/uL
+   8.6 g/dL
+   230 mg/dL
+   2.1 mg/dL
+   17 mEq/L
+   4.4 mEq/L
+   134 mg/dL
+   105 mEq/L
+   138 mEq/L
+   24.3 %
+   20.1 K/uL
+        [image002.jpg]
+                             [**3391-2-10**]  05:40 AM
+                             [**3391-2-10**]  05:06 PM
+                             [**3391-2-11**]  12:19 AM
+                             [**3391-2-11**]  04:34 AM
+                             [**3391-2-11**]  04:50 AM
+                             [**3391-2-11**]  05:36 PM
+                             [**3391-2-11**]  08:47 PM
+                             [**3391-2-11**]  10:47 PM
+                             [**3391-2-12**]  04:33 AM
+                             [**3391-2-12**]  04:53 AM
+   WBC
+   34.2
+   27.0
+   25.5
+   19.2
+   20.1
+   Hct
+   25.7
+   23.7
+   22.4
+   26.3
+   24
+   24.0
+   24.3
+   Plt
+   [**Telephone/Fax (3) 5289**]40
+   141
+   Cr
+   2.0
+   2.0
+   2.0
+   2.1
+   2.1
+   TCO2
+   22
+   21
+   22
+   Glucose
+   42
+   188
+   213
+   238
+   230
+   Other labs: PT / PTT / INR:31.5/83.7/3.2, CK / CKMB /
+   Troponin-T:19//0.05, ALT / AST:23/83, Alk Phos / T Bili:124/42.3,
+   Amylase / Lipase:15/26, Differential-Neuts:89.5 %, Band:2.0 %,
+   Lymph:6.7 %, Mono:3.0 %, Eos:0.5 %, D-dimer:6342 ng/mL, Fibrinogen:236
+   mg/dL, Lactic Acid:1.2 mmol/L, Albumin:2.6 g/dL, LDH:307 IU/L, Ca++:8.6
+   mg/dL, Mg++:2.8 mg/dL, PO4:4.9 mg/dL
+   Assessment and Plan
+ IMPAIRED SKIN INTEGRITY
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ OLIGURIA/ANURIA
+ HYPOGLYCEMIA
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**])
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ AROUSAL, ATTENTION, AND COGNITION, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ ALTERATION IN NUTRITION
+ ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name 73**])
+ [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   42 y/o with Common VID, HepC, Type 1 DM, p/w c. diff sepsis, c/b ARDS
+   and respiratory failure s/p trach
+   # Sepsis: Pt developed fever, new oxygen requirement last week,
+   suspected VAP, no growth from BAL. Micofungin added [**1-31**], d/c
+d [**2-3**].
+   Meropenum added back per ID [**1-30**]
+ 8 day course of Meropenum completed
+   [**2-6**]. [**Month/Year (2) 2541**]/Micafungin d/c
+d [**2-4**]. Sinus CT findings could be consistent
+   with sinusitis but impossible to say definitively, getting nasal NS.
+   WBC count increased from 22 to 34 but afebrile.  Cultured broadly, so
+   far negative except yeast.  CT abdomen/pelvic [**2-10**] without clear
+   source.
+   - PO Vanco & IV Flagyl for C Diff
+   - hold TFs for now
+   - On [**Last Name (un) 339**] / [**Last Name (un) 2541**] restarted [**3391-2-10**] with increased leukocytosis, unclear
+   source
+   - Stop [**Name (NI) 2541**] - no positive cultures
+   - will continue to consider pulling PICC, CVL
+   - paracentecis (therepeutic / diagnostic) completed [**2-10**]; follow-up
+   cultures
+   # C diff sepsis:  now s/p Xigris and IVIG.  Colitis appears improved on
+   serial CT scans of the abdomen.  Afebrile. Lactate stable.  have d/c
+   Vancomycin retention enemas. Holding scope although ongoing pain given
+   risk of perforation
+   - continue PO Vancomycin via NGT, IV flagyl
+   - appreciate ID recs:  dose IVIG weekly Q Saturday
+   - Surgery following, have not seen in a while, no significant change on
+   CT [**2-10**]
+   - follow bladder pressures ([**2-9**] was 18
+ [**2-10**] s/p paracentesis down
+   to 4)
+   - hold TFs
+   # Respiratory failure:  Developed PNA.  Back on vent for resp distress.
+   - Continue vent for now; try to place on TM with only vent for
+   transitioning once acute issues stabilized
+   - FIO2 40%
+   - Attempt diuresis restart [**2-11**]
+   - f/u renal rec
+   # Mental status: Somewhat decreased over the last few days, concerning
+   for new infection given abx stopped on [**2-6**]. CT head [**2-10**] w/o acute
+   process.  Likely some component of hepatic / toxic metabolic
+   encephalopathy
+   - limit sedating meds; infection as above
+   - octreotide, midrodrine for hepatoreanl syndrome
+   - requesting HD from renal
+   # Anemia:  HCT trending down, stabilized. Neg DIC labs.
+   - Trend HCT, transfuse for HCT<21
+   - IV PPI [**Hospital1 **]
+   - Guaiac stools & daily HCT
+   - epo 3x week
+   # Renal Failure:  Creat up, likely intravascularly dry but total body
+   overloaded. FeUrea <.1, EOS in urine.  ? related to Vanco and [**Last Name (un) 339**].
+   Hyperkalemic [**2-4**] treated for hyperK with calcium, bicarb, insulin,
+   dextrose, and kayexalate
+ DO NOT give further kayexylate
+ K now in
+   normal range. Checked 4h CrCl on [**2-7**] which was 22 (very poor).  Low
+   urine Na c/w haprotrenal syndrome
+   -  Renal c/s, may need CVVH soon given rising BUN:Cr
+   - Albumin PRN, but will not give standing
+   - Renally dose meds
+   - Start EPO [**2-11**]
+   - requesting HD [**12-20**] encephalopathy and BUN >100
+   - octreotide, midrodrine
+   # DM Type I: Developed DKA while here. Hypoglycemic again overnight,
+   glucose has been difficult to control.
+   - holding TFs
+   - TPN with insulin, increase insulin in TPN by 5pts today
+   - Blood sugars running low
+ concern for possible evidence of liver
+   function declining vs sepsis
+   # Cirrhosis:  chronic HCV infection. Liver consult team following,
+   nothing further to do about Bili. Transaminases PRN
+   # Coagulopathy: Acute worsening [**2-6**] with increased INR to 3.9, today
+   3.3.  Unclear etiology whether worsening of liver unction or
+   malnutrition or antibiotic effect.  DIC labs checked and normal [**2-7**].
+   - Vit K challenge [**2-7**]
+   - Trend, transfuse FFP PRN bleeding
+   # Hyperbilirubinemia: likely multifactorial from underlying liver
+   disease, acute illness, as well as contribution from hemolysis.  No
+   iliary ductal dilatation by CT on [**1-20**] or [**1-30**]. Bili appears to be
+   rising (from high teens to 22 to 28 to 26).  RUQ u/s w/o
+   holedocholithiasis. Per liver [**2-3**], this is due to severe infection,
+   and shouldn
+t be evaluated further at this time.
+    # Pain Management: Less of an issue given current mental status
+   - Dilaudid prn; not using currently given her AMS for ?sepsis
+   # Weakness: Likely ICU myopathy [**12-20**] prolonged illness, paralytics.
+   Once improves pursue PT/OT & ultimately plan to rehab
+   # FEN:  TF on hold for now  /  continue free H20 bolus /  TPN
+   # PPx:   Pneumoboots as DVT prophylaxis / VAP bundle / PPI as GI ppx.
+   # Access:   PICC Line - [**3391-1-26**] 03:00 PM; Multi Lumen - [**3391-2-1**]
+   03:35 PM
+   # Contact: With [**Last Name (LF) 4413**]
+, [**First Name8 (NamePattern2) **] [**Name (NI) 1959**] [**Telephone/Fax (1) 2693**] (HCP)
+   # Code: Full Code
+   # Dispo: ICU
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3391-2-12**] 05:14 AM 53 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3391-1-26**] 03:00 PM
+   Multi Lumen - [**3391-2-1**] 03:35 PM
+   Arterial Line - [**3391-2-10**] 05:10 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

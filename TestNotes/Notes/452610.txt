@@ -1,0 +1,199 @@
+CVICU
+   HPI:
+   HD2   POD 1-CABGx3(LIMA->LAD, SVG->Diag, PDA)
+   Chief complaint:
+   PMHx:
+   PMHX: CAD-s/p MI [**3416**],hypercholesterolemia,HTN,Crohn's disease,CHF
+   (newly diagnosed),GERD,spinal stenosis,Rt venous stasis ankle ulcer
+   (healed)followed by Dr. [**Last Name (STitle) **],neuropathy,Kyphosis,Basal cell
+   CA,childhood asthma,anxiety/depression,osteoarthritis of bilateral
+   knees and hips,Tonsillectomy,Bilateral Inguinal Hernia repair
+   otitis media,Colonic Polyps,cellulitis ([**10-1**])left leg (treated with
+   docloaxzcillin/ woundcare dressing changes with VNA),fatigue,Rt thigh
+   pain
+   Current medications:
+   Acetaminophen, Aspirin EC, Calcium Gluconate, CefazoLIN , Dextrose 50%
+   , Docusate Sodium ,Insulin ,Magnesium Sulfate ,Metoclopramide ,
+   Metoprolol Tartrate , Milk of Magnesia , Morphine Sulfate ,
+   Nitroglycerin , Oxycodone-Acetaminophen , Phenylephrine , Potassium
+   Chloride,  Ranitidine , Sodium Chloride 0.9% Flush
+   24 Hour Events:
+ OR RECEIVED - At [**3429-1-28**] 04:38 PM
+ INVASIVE VENTILATION - START [**3429-1-28**] 04:40 PM
+ NASAL SWAB - At [**3429-1-28**] 04:58 PM
+ ARTERIAL LINE - START [**3429-1-28**] 05:22 PM
+ CORDIS/INTRODUCER - START [**3429-1-28**] 05:23 PM
+ CCO PAC - START [**3429-1-28**] 05:23 PM
+ EKG - At [**3429-1-28**] 05:43 PM
+ EXTUBATION - At [**3429-1-29**] 06:35 AM
+ INVASIVE VENTILATION - STOP [**3429-1-29**] 06:35 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**3429-1-29**] 03:40 AM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**3429-1-29**] 08:48 AM
+   Other medications:
+   Flowsheet Data as of  [**3429-1-29**] 10:19 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**31**] a.m.
+   Tmax: 100.8  ( )
+   T current: 100.4  ( )
+   HR: 82 (61 - 82) bpm
+   BP: 116/45(64) {88/36(50) - 136/55(80)} mmHg
+   RR: 27 (9 - 30) insp/min
+   SPO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 72.4 kg (admission): 67 kg
+   Height: 61 Inch
+   CVP: 4 (4 - 21) mmHg
+   PAP: (28 mmHg) / (11 mmHg)
+   CO/CI (Fick): (5.3 L/min) / (3.2 L/min/m2)
+   CO/CI (CCO): (4.3 L/min) / (2.6 L/min/m2)
+   SvO2: 61%
+   Mixed Venous O2% sat: 77 - 77
+   Total In:
+                                                                  5,403 mL
+                                                                  1,170 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  4,553 mL
+                                                                    470 mL
+   Blood products:
+                                                                    850 mL
+                                                                    700 mL
+   Total out:
+                                                                  1,710 mL
+                                                                    960 mL
+   Urine:
+                                                                    730 mL
+                                                                    610 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,693 mL
+                                                                    210 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool, Face tent, Endotracheal tube
+   SPO2: 96%
+   ABG: 7.41/39/130/23/0
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Irregular), Went into rate controlled AF
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   204 K/uL
+   8.3 g/dL
+   117
+   1.0 mg/dL
+   23 mEq/L
+   5.4 mEq/L
+   21 mg/dL
+   104 mEq/L
+   138 mEq/L
+   27.6 %
+   7.4 K/uL
+        [image002.jpg]
+                             [**3429-1-28**]  08:57 PM
+                             [**3429-1-28**]  09:03 PM
+                             [**3429-1-29**]  12:00 AM
+                             [**3429-1-29**]  01:42 AM
+                             [**3429-1-29**]  01:47 AM
+                             [**3429-1-29**]  02:00 AM
+                             [**3429-1-29**]  04:56 AM
+                             [**3429-1-29**]  05:04 AM
+                             [**3429-1-29**]  07:00 AM
+                             [**3429-1-29**]  09:27 AM
+   WBC
+   5.8
+   7.4
+   Hct
+   20.8
+   21.0
+   24.6
+   27.6
+   Plt
+   261
+   204
+   Creatinine
+   1.0
+   TCO2
+   25
+   25
+   26
+   Glucose
+   104
+   139
+   123
+   116
+   142
+   109
+   117
+   Other labs: PT / PTT / INR:18.4/51.4/1.7, Fibrinogen:233 mg/dL, Lactic
+   Acid:4.9 mmol/L
+   Imaging: CXR: clear, lines in good position
+   Microbiology: neg
+   Assessment and Plan
+   .H/O CORONARY ARTERY BYPASS GRAFT (CABG), .H/O CORONARY ARTERY DISEASE
+   (CAD, ISCHEMIC HEART DISEASE), .H/O ARTHRITIS, OTHER, .H/O ASTHMA, .H/O
+   CROHN'S DISEASE (REGIONAL ENTERITIS), .H/O DEPRESSION, .H/O
+   DYSLIPIDEMIA (CHOLESTEROL, TRIGLYCERIDE, LIPID DISORDER), .H/O FALL(S),
+   .H/O HEART FAILURE (CHF), DIASTOLIC, ACUTE, .H/O HYPERTENSION, BENIGN,
+   .H/O MYOCARDIAL INFARCTION, .H/O PAIN, ANAL OR RECTAL, ACTIVITY
+   INTOLERANCE, .H/O PERIPHERAL VASCULAR DISEASE (PVD) WITHOUT CRITICAL
+   LIMB ISCHEMIA
+   Assessment and Plan: Pt. hemodynamically stable and extubated.  He went
+   into rate controlled AF this AM and will be started on Lopressor.  He
+   received 2UPRBC last PM for Hct of 21.  Will cont. present care in ICU
+   today.  Start Lasix.
+   Neurologic:
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, Adequate UO
+   Hematology: Serial Hct
+   Endocrine: RISS
+   Infectious Disease: neg
+   Lines / Tubes / Drains: Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today, No hemothorax
+   Fluids:
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3429-1-28**] 05:22 PM
+   16 Gauge - [**3429-1-28**] 05:22 PM
+   Cordis/Introducer - [**3429-1-28**] 05:23 PM
+   CCO PAC - [**3429-1-28**] 05:23 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

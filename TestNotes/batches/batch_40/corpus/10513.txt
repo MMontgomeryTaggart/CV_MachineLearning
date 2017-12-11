@@ -1,0 +1,80 @@
+Admission Date:  [**3225-4-19**]       Discharge Date:  [**3225-4-21**]
+
+Date of Birth:   [**3191-4-6**]       Sex:  F
+
+Service:  MICU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 34 year old
+morbidly obese female with a history of sleep apnea requiring
+assist control ventilation and now presenting with fevers,
+chills and headache since [**3225-4-18**].  She complains of nausea,
+low back pain likely chronic and mild photophobia.
+
+PAST MEDICAL HISTORY:
+1.  Obstructive sleep apnea.
+2.  Asthma for which she was intubated and tracheostomy.
+
+ALLERGIES:   The patient is allergic to Percocet and Vicodin
+for which she gets a rash.
+
+MEDICATIONS:  She is on Fluticasone inhaler, Fioricet,
+Heparin subcutaneous, Salmeterol, Venlafaxine and Albuterol.
+
+HOSPITAL COURSE:
+1.  Headache - The patient had symptoms consistent with
+meningitis versus subarachnoid versus sinusitis.  In terms of
+meningitis, she is being treated empirically with Ceftriaxone
+and Vancomycin due to inability to do a lumbar puncture given
+her size.  She has a low grade temperature but no elevated
+white blood cell count throughout her hospital stay.
+
+2.  In terms of subarachnoid, it is unlikely.  Neurologic
+checks q4hours did not show any focal deficit.
+
+3.  In terms of sinusitis,  she has symptoms of maxillary
+tenderness, though x-ray did not show any fluid levels in her
+sinuses.  However, she was given Pseudoephedrine throughout
+the course to alleviate it.  Her headache did go down from
+ten out of ten to five out of ten and continues to get
+better.
+
+4.  In terms of her fever, she has an unclear etiology,
+likely infectious, but urinalysis was clear.  Chest x-ray was
+clear.  Blood cultures are pending.  Given that temperature
+is coming down, it is reassuring.
+
+5.  Depression - She continued her Effexor.
+
+6.  Pulmonary - She continued on her ventilation at home for
+obstructive sleep apnea.
+
+In terms of her discharge, she received a PICC line in her
+arm to receive her antibiotics for meningitis and she will
+continue a ten day course.
+
+DISCHARGE DIAGNOSES:
+1.  Question rule out meningitis.
+2.  Obstructive sleep apnea.
+3.  Depression.
+
+MEDICATIONS ON DISCHARGE:
+1.  Pseudoephedrine.
+2.  Ceftriaxone two grams intravenously q12hours.
+3.  Vancomycin one gram q12hours.
+4.  Salmeterol one puff twice a day.
+5.  Fluticasone 110 mcg two puffs twice a day.
+
+
+
+
+                            [**Name6 (MD) 6206**] [**Name8 (MD) 6207**], M.D.  [**MD Number(1) 6208**]
+
+Dictated By:[**Last Name (NamePattern1) 6209**]
+MEDQUIST36
+
+D:  [**3225-4-21**]  17:17
+T:  [**3225-4-21**]  17:55
+JOB#:  [**Job Number 6210**] and [**Numeric Identifier 6211**]
+
+
+DOC CLASS

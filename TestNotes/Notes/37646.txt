@@ -1,0 +1,316 @@
+Admission Date:  [**3401-6-25**]              Discharge Date:   [**3401-7-1**]
+
+Date of Birth:  [**3325-6-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Fatigue
+
+Major Surgical or Invasive Procedure:
+[**3401-6-26**] -
+1. Mitral valve repair, radical mitral valve repair with
+    posterior leaflet (P2) triangular leaflet resection and
+    ring annuloplasty using an [**Doctor Last Name 646**] 32-mm physio II ring.
+2. Coronary artery bypass grafting x1, left internal
+    mammary artery to left anterior descending coronary
+    artery.
+3. Full left and right-sided Maze procedure with resection
+    of left atrial appendage using combination of [**Company 55**]
+    Gemini X Bipolar RF System and the CryoCath System.
+4. Left atrial reduction procedure.
+[**3401-6-24**] - Cardiac Catheterization
+
+History of Present Illness:
+75 year old gentleman with known mitral valve regurgitation and
+prolpase which has been followed by echocardiogram. This was
+first discovered in [**3399**] when he established primary care with
+Dr. [**Last Name (STitle) **] [**Last Name (STitle) **]. He previously had not been to a physician in many
+years however notes a 26 year history of being told he had a
+heart murmur. His history is complicated by an episode last year
+of delerium and dementia which was possibly caused by acute
+alcohol toxicity and or acute renal failure. He is left with a
+bilateral frontal lobe dysfunction which leave him with
+cognitive and psychomotor dysfunction but his laguage function,
+visuospacial and memory are intact. Given the severity of his
+disease, he has been referred for surgical evaluation.
+
+
+Past Medical History:
+Mitral regurgitation
+Mitral valve prolapse
+Paroxysmal Atrial fibrillation
+Hypertension
+Vitamin B12 deficiency
+Dementia
+Alcohol abuse
+
+
+Social History:
+Lives with: Wife
+Occupation: Retired Police Officer
+Tobacco: 1ppd for 15 years quit 40 years ago
+ETOH: ?Past ETOH abuse. None in 1 year
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Pulse: 65  Resp: 16 O2 sat: 100%
+B/P  Right: 154/95    Left: 154/99
+Height: 70    Weight: 195
+
+General: WDWN
+Skin: Warm [X] Dry [X] intact [X]
+HEENT: NCAT [X] PERRLA [X] EOMI [X]Sclera anicteric, OP [**Last Name (un) 15628**].
+Teeth in good repair.
+Neck:  Supple [X] Full ROM [X] JVD[X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR, IV/VI blowing systolic murmur
+Abdomen: Soft [X] non-distended [X] non-tender [X]  bowel sounds
++ [X]
+Extremities: Warm [X], well-perfused [X]  No Edema
+Varicosities: None [X]
+Neuro: Slowing in regards to his reponse to questions noted. Did
+repeat questions. A+Ox3. Strength equal [**4-8**] bilaterally. Gait
+steady. No focal deficits.
+Pulses:
+Femoral      Right:2   Left:2
+DP           Right:2   Left:2
+PT           [**Name (NI) 647**]:2   Left:2
+Radial       Right:2   Left:2
+
+Carotid Bruit-        Right: Transmitted vs bruit   Left: None
+
+
+Pertinent Results:
+[**3401-6-26**] ECHO
+PREBYPASS
+The left atrium is massive. No atrial septal defect is seen by
+2D or color Doppler. The left ventricle is not well seen.
+Overall left ventricular systolic function however appears
+normal (LVEF>55%). [Intrinsic left ventricular systolic function
+is likely more depressed given the severity of valvular
+regurgitation.] Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened. The mitral valve leaflets are mildly thickened. There
+is partial posterior mitral leaflet flail. An eccentric,
+anteriorly directed jet of Severe (4+) mitral regurgitation is
+seen.
+
+POSTBYPASS
+The LV remains difficult to visualize. LV systolic function
+appears at least mildly impaired. The ventricular septum appears
+dyskinetic and the inferior wall appears hypokinetic. There is a
+ring prostheis in the mitral position. The MV leaflets coapt and
+no MR [**First Name (Titles) **] [**Last Name (Titles) 26214**]. The LAA is no longer [**Last Name (Titles) 26214**]. RV
+systolic function remains normal.
+
+[**3401-6-25**] - Cardiac Catheterization
+1. Coronary angiography in this right dominant system
+demonstrated
+single vessel disease. The LMCA in some views appeared to have a
+50%
+ostial lesion however with repositioning of the catheter there
+was no
+stenosis present and there was no catheter dampening observed.
+The LAD
+had 30% proximal stenosis and 50-60% mid vessel stenosis. The
+LCx and
+RCA had minimal disease.
+2. Limited resting hemodynamics revealed mild systemic arterial
+systolic
+hypertension with SBP 140 mmHg.
+
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Mild systemic arterial systolic hypertension.
+
+[**3401-6-25**] - Carotid Ultrasound
+Impression: Right ICA stenosis <40%. Left ICA stenosis <40%.
+
+Coumadin at hospital - received 2mg coumadin - INR 1.3 [**6-28**], 5mg
+coumadin - INR 1.2 [**6-29**], coumadin 2mg - INR 1.3 [**6-30**] - coumadin
+2 mg - INR 1.8 [**7-1**]
+
+
+Brief Hospital Course:
+Presented for cardiac catheterization and admitted post
+procedure for preoperative workup.  On [**3401-6-26**] he was taken to
+the operating room and underwent mitral valve repair, a MAZE
+procedure and coronary artery bypass graft surgery.  Please see
+operative note for further details. Postoperatively he was taken
+to the intensive care unit for monitoring. He required
+Epinephrine, fluids, and neosynephrine for hemodynamic
+management, continued on amiodarone drip for MAZE procedure.  He
+remained intubated due to hypoxia requiring increased PEEP.  On
+postoperative day and fluids vasn postoperative day one, he was
+weaned off the neosynephrine and epinephrine and hemodynamically
+remained stable.  The amiodarone was stopped due to slow
+junctional rhythm at rate of 50.  He remained on propofol while
+intubated and postoperative day two he was weaned and extubated
+from the ventilator.  He was started on betablockers when he was
+in atrial fibrillation with ventricular rate 70-80, and started
+on ace inhibitor for blood pressure management.  The physical
+therapy service was consulted for assistance with his
+postoperative strength and mobility. On postoperative day three
+he was transferred to the step down unit for further recovery.
+He continued to progress, EP was consulted for rhythm management
+with plan for betablockers at this time and potential
+cardioversion and amiodarone in one month.  His epicardial wires
+were cut due to low platelet count and he was restarted on
+coumadin for his atrial fibrillation.  He was ready for
+discharge to rehab on post operative day five to the [**Location (un) 744**] in
+[**Location (un) **].
+
+Coumadin at hospital - received 2mg coumadin - INR 1.3 [**6-28**], 5mg
+coumadin - INR 1.2 [**6-29**], coumadin 2mg - INR 1.3 [**6-30**] - coumadin
+2 mg - INR 1.8 [**7-1**]
+
+Plan from EP for treatment of atrial fibrillation from OMR note
+[**6-30**]
+76 yo male with history of CAD, atrial fibrillation, and MVP/MR
+s/p MV repair/CABGx1(LIMA->LAD)/MAZE/LAA resection on [**3401-6-26**].
+Patient had successful repair of mitrial valve and persistent
+atrial fibrillation with adequate ventricular response.  At this
+point the patient is asymptomatic, rate controlled with
+Metoprolol and anti-coagulated with Warfarin (INR
+subtherapeutic).  Goal will be to revert to sinus rhythm,
+however
+we do not want to cardiovert this patient in the post-op period
+without adequate anti-coagulation
+--continue anti-coagulation with Warfarin
+--after 4 weeks will initiate Amiodarone 400mg PO daily
+--plan for DC Cardioversion in 5 weeks - we will arrange this
+procedure
+--follow up with surgery/primary cardiologist as scheduled
+
+
+Medications on Admission:
+Atenolol 100 mg daily
+Coumadin 2mg daily  (LD [**3401-6-19**])
+Aricept 10mg daily
+Folate 1mg daily
+Lorazepam PRN
+Vitamin B12
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day.
+4. Aricept 10 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H
+(Every 8 Hours).
+7. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day:
+please check PT/INR mon and wed and fri - and adjust dose based
+on INR with goal INR 2.0-2.5 for Afib .
+9. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. coumadin and INR
+Coumadin at hospital - received 2mg coumadin - INR 1.3 [**6-28**], 5mg
+coumadin - INR 1.2 [**6-29**], coumadin 2mg - INR 1.3 [**6-30**] - coumadin
+2 mg - INR 1.8 [**7-1**]
+11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 2 weeks.
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily) for
+2 weeks.
+13. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-6**]
+Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+14. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+15. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day): 75 mg twice a day .
+16. Labs
+Please check PT/INR monday, wednesday and friday for minimum of
+2 weeks
+Please check Cr and potassium and magnesium weekly while at
+rehab
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 744**] at [**Location (un) **]
+
+Discharge Diagnosis:
+Mitral regurgitation s/p MV repair
+Mitral valve prolapse
+Paroxysmal atrial fibrillation s/p MAZE
+Coronary Artery Disease s/p CABG
+Hypertension
+Vitamin B12 deficiency
+Dementia
+
+
+Discharge Condition:
+Alert and oriented x2, nonfocal
+Ambulating with assistance
+Incisional pain managed with tylenol ATC
+Incisions:
+Sternal - healing well, no erythema or drainage with steri
+strips
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 181**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) **] on Tuesday [**7-28**] at1:30PM
+([**Telephone/Fax (1) 181**])
+Cardiologist: Dr [**Last Name (STitle) **] [**7-21**] at 10:30 am
+
+Please call to schedule appointments with your:
+Primary Care: Dr. [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 9781**] ([**Telephone/Fax (1) 1989**]) in [**12-6**]
+weeks
+Labs: PT/INR for Coumadin
+Indication: Atrial Fibrillation
+Goal INR 2.0-2.5
+First draw day after discharge friday [**7-3**]
+Then please do INR checks Monday, Wednesday, and Friday for 2
+weeks then decrease as directed by PCP
+Please contact coumadin clinic at [**Hospital1 22**] [**Name (NI) **] for management
+of coumadin after discharge from rehab
+
+Coumadin at hospital - received 2mg coumadin - INR 1.3 [**6-28**], 5mg
+coumadin - INR 1.2 [**6-29**], coumadin 2mg - INR 1.3 [**6-30**] - coumadin
+2 mg - INR 1.8 [**7-1**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 181**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**3401-7-1**]
+
+DOC CLASS

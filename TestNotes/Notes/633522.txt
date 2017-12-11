@@ -1,0 +1,186 @@
+TITLE:
+   Chief Complaint:  RV pacemaker lead malfunction
+   HPI:
+   75 year old female with h/o cardiac arrest while vacationing in [**Country **].
+   Had ICD placement in [**2669**], placement of a new RV lead in [**2670**] because
+   of diaphragmatic pacing, second arrest in [**2670**] in the setting of Biaxin
+   administration, generator replacement in [**1-/2674**], presented for RV
+   pacing lead extraction after RV impedence increased to 1000 ohms last
+   week.  Found to have fractured lead.
+   Cardiac arrest occurred while she was vacationing in [**Location (un) 7595**] in [**2670**]
+   in the setting of drinking large quantities of tonic water (quinine).
+   She had 5 separate episodes of "arrest" prior to ICD placement in
+   Malaga. The patient had another arrest in the US in the setting of
+   Biaxin administration.  Pacemaker placed in [**Country **].  No episodes of
+   cardiac arrests since placement in [**2670**].
+   The patient had normal device checks in device clinic until last month
+   when she was found to have elevated impedence of [**2566**] 0hms in RV lead.
+   Later readings were normal. However, 1.5 weeks ago whe called clinic
+   because her pacemaker was "beeping" and was found to have impedence of
+   100 ohms on [**Male First Name (un) 7596**] transmission. It was determined that she required a
+   new lead.
+   Procedure performed this AM.  ICD and pacemaker lead from [**2669**] were
+   removed (atrial lead still in place).  New ICD lead placed today under
+   general anesthesia.  The patient had 250cc of blood loss during the
+   procedure and was mildly hypotensive.   0.5-0.8cm pericardial effusion
+   present during procedure- no change in size.  Admitted to CCU.  Upon
+   transfer, patient stable with vitals signs as follows: T- 98, P- 97,
+   BP- 128/62, RR- 14, SaO2- 100% on NC
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+   2. CARDIAC HISTORY:
+   -PACING/ICD: s/p ICD in [**2669**]; in [**1-/2674**], generator change to St. [**First Name4 (NamePattern1) 629**]
+   [**Last Name (NamePattern1) 1500**].
+   3. OTHER PAST MEDICAL HISTORY:
+   Cardiac Arrest (as above) s/p ICD
+   COPD / Asthma (patient unsure) for 15 years, can climb 1 flight of
+   stairs without stopping
+   Hypertension
+   Hyperlipidemia
+   Ectopic Pregnancy (remote history)
+   Father with a MI in early 60s, lung cancer, eventually died on CVA in
+   his 80s. 2 paternal uncles with sudden death (cause unknown) in their
+   60s.
+   No family history of early MI, arrhythmia, cardiomyopathies, or sudden
+   cardiac death; otherwise non-contributory.
+   retired chemist; worked at [**University/College **] for many years, states make have had
+   exposure to many chemical fumes; Lives with husband.
+   -Tobacco history: None, but second hand smoke from her father who was a
+   heavy smoker
+   -ETOH: Rarely
+   -Illicit drugs: None
+   Review of systems:
+   The patient reports that on presentation she is asymptomatic. There is
+   no chest pain, shortness of breath, palpitations, nausea, vomiting,
+   abdominal pain, headache, dizziness, lightheadedness, diaphoresis,
+   dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle
+   edema, syncope or presyncope.
+   On review of systems, she denies any prior history of stroke, TIA, deep
+   venous thrombosis, pulmonary embolism, bleeding at the time of surgery,
+   myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+   She denies recent fevers, chills or rigors. She denies exertional
+   buttock or calf pain. All of the other review of systems were
+   negative.
+   Flowsheet Data as of [**2675-8-23**] 10:23 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 86 (86 - 97) bpm
+   BP: 132/52(80) {127/52(80) - 133/64(88)} mmHg
+   RR: 12 (12 - 14) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             1,500 mL
+   PO:
+             TF:
+   IVF:
+   1,500 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    800 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    700 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   VS: T- 98, P- 97, BP- 128/62, RR- 14, SaO2- 100% on NC
+   GENERAL: WDWN female in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple, no JVD.
+   CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Decreased breath sounds at the
+   bases, otherwise CTAB.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+   EXTREMITIES: Trace to 1+ edema.  No c/c. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+        [image002.jpg]
+   EKG- shows LBBB with long QT.  left axis.  sinus rhythm.
+   CXR- no signs of pneumothorax
+   Myocardial perfusion study:
+        1.  No evidence of focal jeopardized myocardium.
+        2.  Normal left ventricular ejection fraction of 68%, without
+        significant regional wall motion abnormality at stress.
+   Assessment and Plan
+   75 year old F with h/o cardiac arrest admitted for lead replacement.
+   Admitted to CCU for closer monitoring post-procedure
+   # RV lead extraction - Removed old RV lead and ICD lead.  Placed new
+   ICD lead.  Patient stable- in sinus rhythm.  Asymptomatic.
+   -monitor effusion
+   -if BP drops drastically- get stat ECHO
+   -tele
+   -f/u CXR to r/o PTX
+   -Contact EP
+   # Cardiac Arrest s/p ICD placement - no events since [**2670**]. RV lead
+   extraction as above.
+   -Telemetry
+   -Continue torsemide, metoprolol, lisinopril
+   -EP recommendations
+   # COPD / Asthma - stable per patient
+   -Continue Advair discus [**Hospital1 **], Singulair daily, Spiriva daily, Albuterol
+   prn.
+   # Hypertension
+   -Continue outpatient management with metoprolol 25mg [**Hospital1 **], lisinopril
+   20mg daily
+   -Monitor BPs
+   -watch for BP laibility
+   # Hyperlipidemia
+   -Continue outpatient management with simvastatin 20mg daily
+   # Pain- Significant pain at procedure site.  received fentanyl during
+   procedure and before arriving to floor
+   -morphine 2-4mg IV q2hr PRN pain
+   FEN: Regular diet
+   -replete lytes PRN
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with Pneumoboots
+   -Pain management with Tylenol PRN
+   -Bowel regimen with Senna PRN , Colace
+   COMM:  [**First Name8 (NamePattern2) **] [**Name (NI) 7597**] (husband)- [**Numeric Identifier 7598**]
+                  [**First Name5 (NamePattern1) 5283**] [**Last Name (NamePattern1) 7599**]- [**Telephone/Fax (3) 7600**]
+   CODE: Full code- confirmed with patient and husband
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2675-8-23**] 08:30 PM
+   16 Gauge - [**2675-8-23**] 08:30 PM
+   18 Gauge - [**2675-8-23**] 08:30 PM
+   Prophylaxis:
+   DVT: Pneumoboots
+   Stress ulcer:
+   Comments:
+   Communication:  Comments: husband and daughter
+   [**Name (NI) 127**] status: Full code
+   Disposition:
+
+
+DOC CLASS

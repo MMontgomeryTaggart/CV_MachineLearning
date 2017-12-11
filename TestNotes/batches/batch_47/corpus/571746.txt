@@ -1,0 +1,191 @@
+Chief Complaint:  Unresponsive
+   HPI:
+   60 yo male, h/o 5V CABG, CHF, BIV ICD/PPM, who found by his wife,
+   sitting in chair with heated blanket, looking pale and with difficulty
+   speaking.  He then appeared not to be breathing.  She called EMS, CPR
+   briefly initiated(1-2 min) No tonic-clonic movements, but +
+   incontinence of urine.  EMS reported a weak pulse, but could not get a
+   good BP.  Got small amount fluid in the field and then improved.
+   In the ED, initial vital: T 100 rectal, HR 95, BP 113/83, RR 13, 100%
+   NRB.  He was noted to be confused with poor short term memory.  CT head
+   negative for acute process.  Labs notable for WBC of 15K, no left
+   shift, TropT 0.04, INR 1.5.  Digoxin 1.8, Lactate 1.8. ECG V-paced.
+   Urine and serum tox screens negative, U/A negative.  Got 2L NS, 1gm CTX
+   and 1 gm vancomycin emperically.  Had swelling of LLE> [**Last Name (LF) 1023**], [**First Name3 (LF) **] CTA
+   performed which was negative.  Later, family reported that this is his
+   baseline.  He was seen by neuro who found he had inability to form new
+   short term memories, consistent with b/l hippocampi injury, possibly
+   from anoxic injury.  It was felt that the situation was more consistent
+   with a cardiac event, and he was admitted to the ICU for monitoring and
+   work up.  Vitals upon transfer: T 98.8, HR 83, BP 104/90, RR 17, 100%
+   2L.
+   Allergies:
+   Penicillins
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   CAD s/p CABG
+   Anterior MI [**2890**]
+   h/o massive UGIB in [**2900**] [**3-3**] gastritis [**3-3**] NSAIDs and
+   coumadin(intubated, c/b MRSA VAP, had tracheostomy)
+   CHF (EF 25% by last echo) with BiV pacer and ICD placement
+   L hip arthritis
+   Hyperlipidimia
+   Hypothyroidism
+   h/o Afib in past (not currently on coumadin)
+   Father died of MI at age 51
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other:
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea
+   Genitourinary: Foley
+   Neurologic: urinary incontinence
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2904-2-16**] 02:13 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.9
+C (98.5
+   HR: 81 (80 - 83) bpm
+   BP: 81/53(60) {81/53(60) - 84/55(63)} mmHg
+   RR: 16 (12 - 16) insp/min
+   SpO2: 98%
+   Heart rhythm: V Paced
+                  Total In:
+                  2,000 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    585 mL
+   Urine:
+   260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,415 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bibasilar)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: 1+, LLE erythema, and open wound on
+   plantar aspect with purulent drainage
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed, Strength 5/5, FNF intact, [**Doctor First Name **] slow
+   Labs / Radiology
+   388
+   14.0
+   163
+   1.2
+   27
+   27
+   93
+   4.1
+   134
+   40.0
+   15.2
+        [image002.jpg]
+   Other labs: PT / PTT / INR:17.0/25.5/1.5, CK / CKMB /
+   Troponin-T://0.04, Differential-Neuts:76, Band:0, Lymph:16, Mono:3.7,
+   Eos:2.3
+   Imaging: [**2904-2-15**] CT head: **prelim read** No acute process
+   [**2904-2-15**] CTA chest: **prelim read** No PE, Cardiomegaly, Small B/L
+   effusions
+   [**2904-2-15**] CXR:
+   The patient is status post sternotomy. The heart is enlarged. There is
+   a small left pleural effusion. The right lung is relatively clear.
+   There is a residual lead from a left- sided pacemaker with the tip
+   projected in the right atrium. There is an intact right-sided pacemaker
+   with two leads projected in the right atrium and right ventricle
+   respectively. CONCLUSION: Cardiomegaly; small left pleural effusion
+   Microbiology: [**2-15**]: Blood cx x1 sent
+   ECG: Vpaced, low voltage
+   Assessment and Plan
+   61 y.o. man found unresponsive at home.
+   # Unresponsive.  Unclear etiology, has improved.  No PE or pneumothorax
+   on CTA.  Could be consistent with cardiac arrhythmia or arrest,
+   possibly with a shock delivered by his ICD.  MI possible, although
+   unlikely to have improved so quickly.  Also on differential include
+   seizure given bladder incontinence, other neurologic event such as
+   TIA/CVA.  History not very consistent with sepsis or infectious
+   etiology, despite low grade temp, and leukeocytosis (no left shift),
+   and would be unlikely to improve so quickly.
+   - EP consult in AM; interrogate ICD/pacer
+   - If no etiology found by interrogation; obtain echo
+   - f/u neuro recommendations, no need for anti-epileptics currently; c/s
+   EEG if other w/u  negative
+   - c/s MRI brain if no cardiac etiology revealed
+   - culture blood, urine
+   - vanco for ? cellulitis (see below)
+   - serial cardiac enzymes
+   - cardiac monitoring
+   # CAD s/p CABG
+   - r/o MI as above
+   - statin
+   - hold bblocker, given relative hypotension
+   # CHF, last EF 25%.  Currently Euvolemic appearing
+   - continue digoxin; start in AM
+   - hold sotalol, lasix, spironolactone overnight as borderline low BP
+   # LLE wound, ? cellulitis.  Area is red, warm, and has open wound.
+   Afebrile although had rectal temp of 100 upon arrival to ED.
+   - Vancomycin 1gm Q12
+   - wound care consult
+   - podiatry consult in AM
+   - monitor clinically
+   # Hypothyroidism: continue levothyroxine
+   # Hyperlipidemia: continue statin
+   # Sedatives: hold lorazepam/clonazepam/ambien given borderline low BP
+   # Elevated INR: Vit K 5mg PO x1
+   # FEN: 2gm sodium diet
+   # Pophylaxis: SC heparin, H2blocker
+   # Access: two peripheral IVs
+   # CODE: FULL
+   # Contact: patient and wife [**Name (NI) 2104**] [**Telephone/Fax (1) 7405**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2904-2-16**] 12:44 AM
+   20 Gauge - [**2904-2-16**] 01:27 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments: patient and wife [**Name (NI) 2104**] [**Telephone/Fax (1) 7405**]
+   [**Name2 (NI) 62**] status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

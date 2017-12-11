@@ -1,0 +1,225 @@
+CVICU
+   HPI:
+   HD9
+   [**4-5**] POD 1
+   84M S/P AVR (25mm [**Company **] mosaic ultra)/TV repair (MC3 32mm ring)
+   CABG x1 (LIMA>LAD)/MAZE/ LAA removal [**4-4**]
+   EF 50% Wt 99 Cre 1.2-1.5 hgb A1C:6
+   PMHx:diastolic CHF, mod AS, CAD, CAF(refuses coumadin), carotid
+   stenosis, CRI, hyperlipids, eczema, thoracic aortic aneurysm, PVD,
+   hyperlipidemia, remote duodenal ulcer, EtOH, extensive foot calluses
+   [**Last Name (un) **]:diltiazem 480, lasix 80am/40pm, ASA 325, Antivert 25, digoxin 0.25
+   QOD, celebrex 200, betamethasone topically PRN, lipitor 20, serax 15,
+   KCL 40
+   Current medications:
+   Acetaminophen, Albuterol-Ipratropium, Aspirin, Atorvastatin,
+   Beclomethasone Dipropionate, Clobetasol Propionate 0.05% Cream,
+   Docusate Sodium, Epinephrine HCl, Fluocinolone Acetonide 0.01% Cream,
+   FoLIC Acid, Insulin, Lactic Acid 12% Lotion, Metoclopramide,
+   Multivitamins, Mupirocin Cream 2%, Oxycodone-Acetaminophen, Ranitidine,
+   Thiamine, Urea, Vancomycin, Vasopressin
+   24 Hour Events:
+   Received from OR on epi, mil, levo
+   Required volume, vasopressin and  neo in addition to vasodilitation
+   Transfused with PRBC
+   Remained intubated due to hemodynamic instability
+ OR RECEIVED - At [**2812-4-4**] 04:54 PM
+ INVASIVE VENTILATION - START [**2812-4-4**] 04:59 PM
+ NASAL SWAB - At [**2812-4-4**] 06:20 PM
+ ARTERIAL LINE - START [**2812-4-4**] 06:38 PM
+ ARTERIAL LINE - START [**2812-4-4**] 06:39 PM
+ CCO PAC - START [**2812-4-4**] 06:40 PM
+ [**Location (un) 330**] LINE - START [**2812-4-4**] 06:40 PM
+   Post operative day:
+   POD#1 - [**4-4**] AVR, TV Repair , CABG x 1, Removal LAA, Full MAZE
+   Allergies:
+   Penicillins
+   Rash;
+   Lopressor (Oral) (Metoprolol Tartrate)
+   Drowsiness/Fati
+   Indocin (Oral) (Indomethacin)
+   renal failure;
+   Last dose of Antibiotics:
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Phenylephrine - 0.2 mcg/Kg/min
+   Epinephrine - 0.02 mcg/Kg/min
+   Dexmedetomidine (Precedex) - 0.2 mcg/Kg/hour
+   Other ICU medications:
+   Insulin - Regular - [**2812-4-4**] 09:24 PM
+   Morphine Sulfate - [**2812-4-5**] 04:56 AM
+   Other medications:
+   Flowsheet Data as of  [**2812-4-5**] 09:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**15**] a.m.
+   HR: 80 (80 - 94) bpm
+   BP: 101/48(63) {83/28(47) - 127/61(80)} mmHg
+   RR: 17 (16 - 24) insp/min
+   SPO2: 98%
+   Heart rhythm: V Paced
+   Wgt (current): 107.3 kg (admission): 99 kg
+   Height: 68 Inch
+   CVP: 7 (1 - 27) mmHg
+   PAP: (35 mmHg) / (14 mmHg)
+   CO/CI (Fick): (7.3 L/min) / (3.4 L/min/m2)
+   CO/CI (CCO): (4.9 L/min) / (2.6 L/min/m2)
+   SvO2: 68%
+   Mixed Venous O2% sat: 67 - 69
+   Total In:
+                                                                 10,742 mL
+                                                                  1,280 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  8,450 mL
+                                                                  1,280 mL
+   Blood products:
+                                                                  2,292 mL
+   Total out:
+                                                                    620 mL
+                                                                    410 mL
+   Urine:
+                                                                    260 mL
+                                                                    210 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 10,122 mL
+                                                                    870 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 519 (108 - 731) mL
+   PS : 5 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 39
+   RSBI Deferred: RR >35
+   PIP: 16 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 42.9 cmH2O/mL
+   SPO2: 98%
+   ABG: 7.38/36/118/22/-2
+   Ve: 13 L/min
+   PaO2 / FiO2: 236
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular), paced
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: eczema and callus - treatments as per dermatology and podiatry
+   recommendations
+   Neurologic: Follows simple commands, Moves all extremities, sedated on
+   propofol
+   Labs / Radiology
+   269 K/uL
+   9.1 g/dL
+   65 mg/dL
+   1.2 mg/dL
+   22 mEq/L
+   4.5 mEq/L
+   25 mg/dL
+   110 mEq/L
+   138 mEq/L
+   27.3 %
+   19.5 K/uL
+        [image002.jpg]
+                             [**2812-4-4**]  04:53 PM
+                             [**2812-4-4**]  05:36 PM
+                             [**2812-4-4**]  06:07 PM
+                             [**2812-4-4**]  07:02 PM
+                             [**2812-4-4**]  08:00 PM
+                             [**2812-4-4**]  10:14 PM
+                             [**2812-4-4**]  10:25 PM
+                             [**2812-4-5**]  01:14 AM
+                             [**2812-4-5**]  01:32 AM
+                             [**2812-4-5**]  05:45 AM
+   WBC
+   28.2
+   19.5
+   Hct
+   27.3
+   27.4
+   27.3
+   Plt
+   258
+   269
+   Creatinine
+   1.3
+   1.2
+   TCO2
+   23
+   23
+   20
+   22
+   19
+   22
+   Glucose
+   169
+   209
+   254
+   179
+   135
+   119
+   65
+   Other labs: PT / PTT / INR:16.0/35.6/1.4, Fibrinogen:272 mg/dL, Lactic
+   Acid:1.5 mmol/L, Mg:3.3 mg/dL
+   Microbiology: mrsa and urine pending
+   Assessment and Plan
+   .H/O ACIDOSIS, RESPIRATORY, VENTRICULAR PREMATURE BEATS (VPB, VPC,
+   PVC), .H/O CORONARY ARTERY BYPASS GRAFT (CABG), .H/O VALVE REPLACEMENT,
+   AORTIC MECHANICAL (AVR)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q:  hr, Pain controlled, morphine prn,
+   precedex to bridge from propofol - then discontinue when extubated
+   Cardiovascular: Aspirin, Statins, Acute on chronic diasystolic heart
+   failure, wean Epi for CI > 2 and MAP > 60, then wean off neo, continue
+   vasopressin until all other drips off and stable, hold on beta blockers
+   until off vasoactive medications
+   Pulmonary: Extubate today, Spontaneous breathing trial, (Ventilator
+   mode: CPAP + PS), plan to extubate, then IS, Cough and deep breath
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: NPO
+   Renal: Foley
+   Hematology: stable anemia
+   Endocrine: Insulin drip, goal BG < 150
+   Infectious Disease: Vancomycin for periop antibiotics, WBC 19 post op
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest
+   tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Consults: CT surgery, P.T., Nutrition
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**2812-4-4**] 06:39 PM
+   CCO PAC - [**2812-4-4**] 06:40 PM
+   [**First Name4 (NamePattern1) 330**] [**Last Name (NamePattern1) **] - [**2812-4-4**] 06:40 PM
+   16 Gauge - [**2812-4-4**] 06:42 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) 2083**] [**Last Name (NamePattern1) **].
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 1895**], MD
+   on:[**2812-4-5**] 05:44 PM ------
+
+
+DOC CLASS

@@ -1,0 +1,286 @@
+Chief Complaint: This is a 67 year-old female with ESRD s/p failed
+   cadaveric renal tx on HD, recent admission for line sepsis, CAD, dCHF,
+   hx PE, who presented to the ED with fevers and rigors and is
+   transferred to the MICU for hypotension/concern for sepsis in the
+   setting of HD.
+   24 Hour Events:
+ TRANSTHORACIC ECHO - At [**3478-9-5**] 11:00 AM
+ BLOOD CULTURED - At [**3478-9-5**] 12:00 PM
+ DIALYSIS CATHETER - STOP [**3478-9-5**] 04:50 PM
+ ARTERIAL LINE - STOP [**3478-9-6**] 12:00 AM
+ BLOOD CULTURED - At [**3478-9-6**] 12:28 AM
+ SPUTUM CULTURE - At [**3478-9-6**] 12:28 AM
+ STOOL CULTURE - At [**3478-9-6**] 12:28 AM
+ FEVER - 102.8
+F - [**3478-9-5**] 08:00 PM
+   High residuals on tube feeds, increasing the suspicion of abdominal
+   pathology. Abdominal CT was performed, revealing abcesses in liver,
+   kidney and spleen. She was empirically started on micafungin, mycolytic
+   cultures, CMV antigen was sent out.
+   She also developed a transaminitis to high 1000's
+   In afternoon, febrile to 102.8, hypotensive with increasing lactate =
+   pancultured, got fluid ressucitation, started on neo. Almost
+   immediately rebounded, became hypertensive to 180s, bp's remained
+   labile for rest of afternoon, eventually weaned off neo. Last night bps
+   tanked again, now on stress dose steroids, and has required neo and
+   levo to maintain maps in the high 50s.
+   Given fevers HD line removed, tip cultured. Hemodialysis tunnel line
+   placement deferred as she became hemodynamically unstable with plan for
+   temporary line placement today.
+   HD tunnel deferred in setting of hemodynamic instability and temp, with
+   plan for temporary line placement today and CVVH rather than HD if
+   continues to require pressor support.
+    Arterial line flattened, initially attempted rewiring, but clotted, so
+   removed.
+   Echo showed improvement of Left systolic function,also continues to
+   have 2+ aortic [**Last Name (LF) 9845**], [**First Name3 (LF) **] explain why lower pressures, but this has
+   been stable.
+   Allergies:
+   Dyazide (Oral) (Triamterene/Hydrochlorothiazid)
+   Unknown;
+   Prozac (Oral) (Fluoxetine Hcl)
+   Unknown;
+   Nsaids
+   Unknown;
+   Inderal (Oral) (Propranolol Hcl)
+   Unknown;
+   Cefazolin
+   laryngeal ed
+   Last dose of Antibiotics:
+   Nafcillin - [**3478-9-5**] 12:00 PM
+   Meropenem - [**3478-9-5**] 03:00 PM
+   Vancomycin - [**3478-9-5**] 04:30 PM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Norepinephrine - 0.2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3478-9-6**] 07:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.3
+C (102.8
+   Tcurrent: 39
+C (102.2
+   HR: 107 (85 - 115) bpm
+   BP: 132/53(68) {86/42(54) - 132/54(68)} mmHg
+   RR: 24 (16 - 44) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 67 kg (admission): 66 kg
+   Height: 64 Inch
+             Total In:
+                                                                  5,502 mL
+                                                                  1,917 mL
+   PO:
+             TF:
+                                                                    527 mL
+   IVF:
+                                                                  4,685 mL
+                                                                  1,917 mL
+   Blood products:
+   Total out:
+                                                                  1,241 mL
+                                                                    600 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+                                                                    775 mL
+   Balance:
+                                                                  4,261 mL
+                                                                  1,317 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 249 (249 - 327) mL
+   PS : 14 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 30%
+   RSBI Deferred: RR >35
+   PIP: 22 cmH2O
+   Plateau: 18 cmH2O
+   SpO2: 99%
+   ABG: 7.32/29/104/16/-9
+   Ve: 8.3 L/min
+   PaO2 / FiO2: 347
+   Physical Examination
+   Cardiovascular: sedated. intubated
+   tachycardia, 3/6 SEM, hyperdynamic precordium,
+   CTAB
+   Abd: hypoechoich bowel sounds, soft, nt, nd, no rebound, no guarding
+   extremities cool to touch
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed.
+   Labs / Radiology
+   363 K/uL
+   9.8 g/dL
+   455 mg/dL
+   8.1 mg/dL
+   16 mEq/L
+   5.0 mEq/L
+   44 mg/dL
+   104 mEq/L
+   140 mEq/L
+   32.9 %
+   20.0 K/uL
+        [image002.jpg]
+                             [**3478-9-4**]  06:03 AM
+                             [**3478-9-4**]  05:38 PM
+                             [**3478-9-4**]  05:43 PM
+                             [**3478-9-4**]  10:21 PM
+                             [**3478-9-5**]  04:47 AM
+                             [**3478-9-5**]  05:55 AM
+                             [**3478-9-5**]  02:53 PM
+                             [**3478-9-5**]  03:06 PM
+                             [**3478-9-5**]  06:10 PM
+                             [**3478-9-6**]  12:28 AM
+   WBC
+   15.1
+   22.2
+   20.0
+   Hct
+   36
+   36.2
+   37.7
+   32.9
+   Plt
+   558
+   525
+   363
+   Cr
+   6.3
+   5.9
+   7.2
+   8.1
+   TCO2
+   25
+   26
+   24
+   24
+   19
+   16
+   Glucose
+   [**Telephone/Fax (3) 9846**]78
+   455
+   Other labs: PT / PTT / INR:22.6/39.8/2.1, CK / CKMB /
+   Troponin-T:388/4/1.79, ALT / AST:[**3402**]/7697, Alk Phos / T Bili:99/0.5,
+   Amylase / Lipase:171/118, Differential-Neuts:79.0 %, Band:0.0 %,
+   Lymph:18.0 %, Mono:3.0 %, Eos:0.0 %, Fibrinogen:960 mg/dL, Lactic
+   Acid:3.9 mmol/L, Albumin:3.7 g/dL, LDH:7320 IU/L, Ca++:10.7 mg/dL,
+   Mg++:2.2 mg/dL, PO4:5.5 mg/dL
+   Cultures:
+   Cdiff negative, sputum gram stain negative, fungal cultures P, femline
+   Cx P, HD tip cx P, CMV viral load P, mycolytic Cx P, urine Cx P.
+   Assessment and Plan
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ CHOLECYSTITIS, CALCULOUS
+ ALTERATION IN NUTRITION
+ HYPERGLYCEMIA
+ ACUTE CORONARY SYNDROME (ACS, UNSTABLE ANGINA, CORONARY ISCHEMIA)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ BACTEREMIA
+   MSSA
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ SUPERIOR VENA CAVA SYNDROME (SVC)
+ VASCULAR DEVICE INFECTION (NOT CENTRAL OR ARTERIAL LINE, INCLUDING
+   GRAFT, FISTULA)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ DIARRHEA
+ HYPOTENSION (NOT SHOCK)
+ DYSPNEA (SHORTNESS OF BREATH)
+   Abdominal abcesses vs infarction:  Potentially disseminated
+   candidiasis. Possible sources include urinary tract, possible
+   embolization from AS valve.
+   Micafungin started,mycolitic cultures sent,
+   -Consider TEE to visualize valve.
+   Sepsis: Hypotension, fevers, rising white count. Infectious vs non
+   infectious. Treating with vanc/cefepime/ micafungin until cultures come
+   back neg.
+   Day   Vancomycin
+   Day  Cefepime
+   Day 1 micafungin
+   -f/u urine, bacterial/mycolytic, CMV, sputum Cx.
+   Transaminitis: AST/ALT jumped from 99/42 to 7697/[**3402**] in 24 hours.
+   Possibly due to abcess/infection, more likely ischemic, vs thrombotic,
+   less likely drug.
+   Consider RUQ US.
+   Hold tylenol.
+   Continue to trend LFTs.
+   ESRD: K+ rising 5+ today, azotemia, + fluid balance. HD cath pulled
+   y/d, given hemodynamic instability/ febrile, tunneled line deferred,
+   consider temporary line placement by IR with plan for CVVH, diurese to
+   net negative.
+   &#9658; RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **]): No changes to vent
+   support. Given pressor requirement, fevers, defer wean for now.
+   Continue sedation with versed, fentanyl.
+   Lactate 4 currently, continue Q6 VBG/lactate.
+   -Initially planned neuromuscular consult, nixed
+   &#9658; BACTEREMIA MSSA: Abx d/c'd yesterday, and nafcillin started
+   back yesterday.
+   - Nafcillin - on day 11 of antibiotics (vanc or naf), plan for 21 day
+   course per ID
+   - f/u cultures
+   &#9658; ALTERED MENTAL STATUS (NOT DELIRIUM): possibly [**2-25**] sepsis vs
+   ICP vs agitation.  LP performed. Currently sedated. Brain imaging not
+   revealing. Sedated.
+   - f/u LP results
+   - lighten sedation as possible with anxiolytics
+   - EEG
+   &#9658; RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC
+   KIDNEY DISEASE): ESRD s/p failed renal txp, on dialysis.
+   - CVVH last night, 1.6L off
+   - f/u renal recs
+   - Renal may need to replace line, consider line holiday, then line
+   placed by IR
+   Hyperglycemia: uncontrolled last few days. Added NPH to PM dose,
+   monitor today. Consider altering sliding scale for better control.
+   - Evaluate insulin sliding scale
+   - Increased AM NPH to 7, PM to 5, evaluate today
+   - q6h blood sugars
+   Talk with Dr. [**Last Name (STitle) 2700**] and update PCP.
+   &#9658; CHOLECYSTITIS, CALCULOUS.  Perc drained by surgery.  Surgery
+   ready to sign off.
+   - continue to monitor output.
+   &#9658; ALTERATION IN NUTRITION
+   - tube feeds as tolerated, titrate to goal
+   &#9658; ACUTE CORONARY SYNDROME (ACS, UNSTABLE ANGINA, CORONARY
+   ISCHEMIA).  earlier in admission had ventricular arrhythmias on
+   pressors, now resolved after 1d heparin drip and lidocaine drip.
+   - Cont. to monitor for dysrrhythmias
+   SVC syndrome - Not on systemic anticoagulation due to blood from
+   gallbladder perc drain.
+   ICU Care
+   Nutrition:
+   Comments: Holding tube feeds
+   Glycemic Control:  Regular insulin sliding scale, Comments: NPH
+   Lines:
+   Multi Lumen - [**3478-8-26**] 07:00 PM
+   Comments: triple lumen femoral catheter
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: Lansoprazole
+   VAP:
+   Comments:
+   Communication:  Comments: Daughter [**Name (NI) 9718**].
+   [**Name2 (NI) 62**] status: Full code
+   Disposition:ICU for now. Family meeting planned for 2.30pm today
+
+
+DOC CLASS

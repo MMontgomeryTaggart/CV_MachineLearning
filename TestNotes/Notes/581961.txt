@@ -1,0 +1,187 @@
+CVICU
+   HPI:
+   [**2-18**] POD 2
+   58F s/p CABG(LIMA-LAD,SVG-CX) [**2-16**]
+   EF:55%   WT:72kg  Cr:1.0  HgA1c:
+   PMH:IDDM,hypothyroid,OSA,GERD,fibromyalgia,cerebrovasc dz,s/p
+   appy/TAH/lumbar disc/[**First Name9 (NamePattern2) 4605**]
+   [**Last Name (un) 500**]:Plavix75,Prevacid30mg/D,Tricor 145mg/D,Levothy
+   50mg/D,ToprolXL50mg/D,Amlodipine 5mg/D,TDN 0.2mg,ASA 325mg/D,Crestor
+   20mg/D,Ursodiol 30mg/D,Insulin pump
+   Current medications:
+   Acetaminophen, Aspirin EC, Clopidogrel, Docusate Sodium, Furosemide,
+   HYDROmorphone, Insulin, Levothyroxine, Lorazepam, Metoprolol Tartrate,
+   Pantoprazole, Rosuvastatin Calcium, Tricor, Ursodiol
+   24 Hour Events:
+   Remained in ICU on insulin drip for blood glucose management, unable to
+   manage insulin pump
+   Post operative day:
+   POD#2 - CABG x's 2. LIMA->LAD(small), SVG->OM.
+   Allergies:
+   Penicillins
+   Rash;
+   Codeine
+   passes out;
+   Phenergan (Oral) (Promethazine Hcl)
+   Hives;
+   Last dose of Antibiotics:
+   Cefazolin - [**3340-2-17**] 10:00 AM
+   Infusions:
+   Insulin - Regular - 3 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3340-2-17**] 05:00 PM
+   Metoprolol - [**3340-2-17**] 05:33 PM
+   Insulin - Regular - [**3340-2-17**] 10:08 PM
+   Heparin Sodium (Prophylaxis) - [**3340-2-17**] 10:14 PM
+   Other medications:
+   Flowsheet Data as of  [**3340-2-18**] 09:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**42**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.3
+C (99.1
+   HR: 103 (75 - 103) bpm
+   BP: 136/48(76) {96/43(62) - 163/55(150)} mmHg
+   RR: 14 (5 - 18) insp/min
+   SPO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 82.5 kg (admission): 72.5 kg
+   Height: 65 Inch
+   CVP: 8 (1 - 12) mmHg
+   Total In:
+                                                                  2,638 mL
+                                                                    476 mL
+   PO:
+                                                                    360 mL
+                                                                    200 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  2,278 mL
+                                                                    276 mL
+   Blood products:
+   Total out:
+                                                                  2,523 mL
+                                                                  1,138 mL
+   Urine:
+                                                                  2,255 mL
+                                                                  1,068 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    115 mL
+                                                                   -662 mL
+   Respiratory support
+   O2 Delivery Device: None, Nasal cannula
+   SPO2: 96%
+   ABG: 7.46///29/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), left leg EVH
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   179 K/uL
+   8.8 g/dL
+   133 mg/dL
+   1.0 mg/dL
+   29 mEq/L
+   4.2 mEq/L
+   14 mg/dL
+   106 mEq/L
+   141 mEq/L
+   25.0 %
+   7.6 K/uL
+        [image002.jpg]
+                             [**3340-2-17**]  01:58 AM
+                             [**3340-2-17**]  02:20 AM
+                             [**3340-2-17**]  03:00 AM
+                             [**3340-2-17**]  04:00 AM
+                             [**3340-2-17**]  05:00 AM
+                             [**3340-2-17**]  06:00 AM
+                             [**3340-2-17**]  07:00 AM
+                             [**3340-2-17**]  08:00 AM
+                             [**3340-2-17**]  09:00 AM
+                             [**3340-2-18**]  04:13 AM
+   WBC
+   13.3
+   7.6
+   Hct
+   30.2
+   25.0
+   Plt
+   282
+   179
+   Creatinine
+   1.0
+   1.0
+   Glucose
+   89
+   111
+   119
+   130
+   121
+   115
+   124
+   109
+   133
+   Other labs: PT / PTT / INR:13.9/27.8/1.2, Differential-Neuts:72.4 %,
+   Lymph:23.6 %, Mono:2.1 %, Eos:1.5 %, Fibrinogen:190 mg/dL, Lactic
+   Acid:1.8 mmol/L, Ca:8.2 mg/dL, Mg:1.9 mg/dL, PO4:2.8 mg/dL
+   Microbiology: MRSA pending
+   Assessment and Plan
+   AEROBIC CAPACITY / ENDURANCE, IMPAIRED, BALANCE, IMPAIRED, GAIT,
+   IMPAIRED, KNOWLEDGE, IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED,
+   TRANSFERS, IMPAIRED, NAUSEA / VOMITING, PAIN CONTROL (ACUTE PAIN,
+   CHRONIC PAIN), ANXIETY, CORONARY ARTERY BYPASS GRAFT (CABG), .H/O
+   DIABETES MELLITUS (DM), TYPE I
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, dilaudid prn
+   effective for pain and ativan prn for anxiety
+   Cardiovascular: Aspirin, Beta-blocker, Statins, increase betablockers
+   for rate control
+   Pulmonary: IS, Discontinue chest tube(s), cough and deep breath,
+   increase ambulation
+   Gastrointestinal / Abdomen: no issues
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, dc foley, continue lasix for diuresis with
+   goal 1000 ml negative for 24 horus
+   Hematology: anemia - recheck Hct and check CXR
+   Endocrine: Insulin drip, transition to insulin pump today
+   Infectious Disease: afebrile normal wbc, no evidence of infection
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires, dc foley and CT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: P.T., [**Last Name (un) **]
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**3340-2-16**] 03:00 PM
+   Multi Lumen - [**3340-2-16**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

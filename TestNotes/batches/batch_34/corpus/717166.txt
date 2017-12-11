@@ -1,0 +1,135 @@
+Chief Complaint:
+   24 Hour Events:
+   discontinued lisinopril
+   -decreased warfarin dose to 2.5 mg daily
+   -gave trazodone for sleep
+   Allergies:
+   Ambien (Oral) (Zolpidem Tartrate)
+   Confusion/Delir
+   Beta-Blockers (Beta-Adrenergic Blocking Agts)
+   Very sensitive
+   Last dose of Antibiotics:
+   Cefazolin - [**2768-4-24**] 10:00 PM
+   Infusions:
+   Furosemide (Lasix) - 15 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2768-4-25**] 07:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**70**] AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.2
+C (97.2
+   HR: 83 (77 - 91) bpm
+   BP: 100/61(59) {75/37(47) - 111/62(74)} mmHg
+   RR: 18 (13 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 72.5 kg (admission): 77.3 kg
+   Height: 67 Inch
+             Total In:
+                                                                  1,608 mL
+                                                                    195 mL
+   PO:
+                                                                  1,010 mL
+             TF:
+   IVF:
+                                                                    598 mL
+                                                                    195 mL
+   Blood products:
+   Total out:
+                                                                  3,665 mL
+                                                                  1,240 mL
+   Urine:
+                                                                  3,665 mL
+                                                                  1,240 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,057 mL
+                                                                 -1,045 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///27/
+   Physical Examination
+   A0X3
+   Lungs clear
+    Stable murmur
+   Stable 1+ pitting edema
+   Ext WWP,
+   TTP in left mid shin
+   Labs / Radiology
+   109 K/uL
+   10.4 g/dL
+   90 mg/dL
+   1.6 mg/dL
+   27 mEq/L
+   4.0 mEq/L
+   45 mg/dL
+   90 mEq/L
+   126 mEq/L
+   32.6 %
+   4.3 K/uL
+        [image002.jpg]
+                             [**2768-4-22**]  05:31 PM
+                             [**2768-4-23**]  04:07 AM
+                             [**2768-4-24**]  04:15 AM
+                             [**2768-4-24**]  04:52 PM
+                             [**2768-4-25**]  04:22 AM
+   WBC
+   4.7
+   4.3
+   4.3
+   Hct
+   30.8
+   30.9
+   32.6
+   Plt
+   123
+   130
+   109
+   Cr
+   2.0
+   1.7
+   1.6
+   1.6
+   1.6
+   Glucose
+   118
+   98
+   96
+   90
+   Other labs: PT / PTT / INR:23.3/36.8/2.2, ALT / AST:48/92, Alk Phos / T
+   Bili:97/1.5, Differential-Neuts:74.9 %, Lymph:13.5 %, Mono:9.0 %,
+   Eos:2.2 %, Ca++:8.4 mg/dL, Mg++:1.9 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ GAIT, IMPAIRED
+ TRANSFERS, IMPAIRED
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE ON CHRONIC
+ CELLULITIS
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2768-4-22**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

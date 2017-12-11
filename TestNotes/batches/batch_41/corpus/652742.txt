@@ -1,0 +1,192 @@
+CVICU
+   HPI:
+   HD4   POD 2-CABGx4(LIMA->LAD, SVG->Diag, OM1, OM2)
+   Ejection Fraction:50
+   Hemoglobin A1c:6.1
+   Pre-Op Weight:0 lbs   0 kgs
+   Baseline Creatinine:0.8
+   PMH: Arthritis, LT knee arthroscopy [**11-30**],Palate sx x2, cataract
+   extraction OS,herniorraphy
+   [**Last Name (un) **]: none
+   Events:
+   [**2847-9-26**] IABP removal
+   Current medications:
+   1. 2. 250 mL D5W 3. Acetaminophen 4. Albuterol Inhaler 5. Aspirin EC 6.
+   Calcium Gluconate 7. Dextrose 50%
+   8. Docusate Sodium 9. Insulin 10. Magnesium Sulfate 11. Metoclopramide
+   12. Metoprolol Tartrate 13. Milk of Magnesia
+   14. Morphine Sulfate 15. Nitroglycerin 16. Oxycodone-Acetaminophen 17.
+   Phenylephrine 18. Potassium Chloride
+   19. Ranitidine 20. Simvastatin 21. Sodium Chloride 0.9% Flush 22.
+   Vancomycin
+   24 Hour Events:
+   Neo weaned off
+   Post operative day:
+   POD#2 - s/ cabg x4  lima to lad, saph to om1,om2 and diag. clot found
+   in left circum flex. easy intubation. xclamp 58 . bypass 70 min.
+   vanco/cipro at 1130am. postop ef 50-55%. off pump to sr arrived on low
+   dose neo, propo at 40. mild mr [**Name13 (STitle) 1451**] with trace postop.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2847-9-27**] 07:45 AM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2847-9-26**] 08:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2847-9-27**] 10:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**49**] a.m.
+   Tmax: 38.2
+C (100.7
+   T current: 37.6
+C (99.7
+   HR: 100 (84 - 113) bpm
+   BP: 105/60(69) {91/54(63) - 109/67(73)} mmHg
+   RR: 26 (13 - 33) insp/min
+   SPO2: 95%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 80.9 kg (admission): 80 kg
+   Height: 67 Inch
+   CVP: 7 (7 - 10) mmHg
+   PAP: (28 mmHg) / (8 mmHg)
+   Total In:
+                                                                  1,556 mL
+                                                                    750 mL
+   PO:
+                                                                    720 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    836 mL
+                                                                    400 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  4,255 mL
+                                                                    715 mL
+   Urine:
+                                                                  3,475 mL
+                                                                    585 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,699 mL
+                                                                     35 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 95%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: Wheezes : exp, Rhonchorous : ),
+   (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Moves all extremities
+   Labs / Radiology
+   70 K/uL
+   8.4 g/dL
+   125 mg/dL
+   0.8 mg/dL
+   29 mEq/L
+   3.7 mEq/L
+   8 mg/dL
+   103 mEq/L
+   137 mEq/L
+   24.3 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**2847-9-25**]  01:12 PM
+                             [**2847-9-25**]  01:55 PM
+                             [**2847-9-25**]  01:56 PM
+                             [**2847-9-25**]  03:11 PM
+                             [**2847-9-25**]  03:17 PM
+                             [**2847-9-25**]  05:16 PM
+                             [**2847-9-25**]  08:16 PM
+                             [**2847-9-25**]  08:24 PM
+                             [**2847-9-26**]  02:00 AM
+                             [**2847-9-27**]  02:20 AM
+   WBC
+   9.4
+   12.5
+   10.5
+   7.8
+   Hct
+   29
+   26.8
+   29
+   33.8
+   30.4
+   28.6
+   24.3
+   Plt
+   99
+   101
+   92
+   70
+   Creatinine
+   0.7
+   0.7
+   0.8
+   TCO2
+   26
+   26
+   29
+   25
+   28
+   Glucose
+   132
+   136
+   107
+   103
+   100
+   125
+   Other labs: PT / PTT / INR:13.8/39.3/1.2, CK / CK-MB / Troponin
+   T:1119/128/0.98, ALT / AST:42/123, Alk-Phos / T bili:77/0.5, Amylase /
+   Lipase:/37, Fibrinogen:196 mg/dL, Lactic Acid:2.5 mmol/L, Albumin:3.7
+   g/dL, LDH:313 IU/L, Ca:9.1 mg/dL, Mg:1.7 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   Assessment and Plan: 53M s/p CABGx4(LIMA->LAD, SVG->Diag, OM1, OM2)
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Perc for pain
+   Cardiovascular: Beta-blocker, Statins, Titrate Beta blockers as
+   tolerated.  Hold ASA with decreasing plts.  Neo off
+   Pulmonary: IS, Discontinue chest tube(s), Nebs, CPT with + tobacco hx
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, Run neg with lasix PRN.  Crea stable
+   Hematology: Serial Hct, Hct 24 - tx'd 1 Unit RBC with repeat Hct
+   pending.  Plts 70 - Hit pending
+   Endocrine: RISS
+   Infectious Disease: Afebrile.  No active issues
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**2847-9-26**] 05:00 AM
+   20 Gauge - [**2847-9-27**] 03:40 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

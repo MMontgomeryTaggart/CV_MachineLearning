@@ -1,0 +1,200 @@
+CVICU
+   HPI:
+   s/p emergent CABGx2 (LIMA>LAD,SVG>PDA)
+   PMHx:
+   Diabetes Mellitus, Hypercholesterolemia, h/o L MCA CVA with expressive
+   aphasia [**7-/3398**], prior TIA [**3390**], Seizure disorder
+   Current medications:
+    5. Acetaminophen 6. Albuterol Inhaler 7. Amiodarone 8. Aspirin 9.
+   Atorvastatin 10. Bisacodyl 11. Calcium Gluconate 12. CefePIME 13.
+   Ciprofloxacin 14. Dextrose 50% 15. Dextrose 50% 16. Docusate Sodium
+   (Liquid) 17. Furosemide 18. Glucagon 19. Heparin Flush (10 units/ml)
+   20. Heparin 21. HydrALAzine 22. Insulin 24. Insulin 25. Lansoprazole
+   Oral Disintegrating Tab 26. Magnesium Sulfate 27. Metoclopramide 28.
+   Metoprolol Tartrate 29. Milk of Magnesia 30. Nitroglycerin Ointment 2%
+   31. Pneumococcal Vac Polyvalent 32. Potassium Chloride 33. Sodium
+   Chloride 0.9% Flush 34. Tamsulosin 35. Vancomycin
+   24 Hour Events:
+ PICC LINE - START [**3408-4-3**] 10:00 AM
+ CORDIS/INTRODUCER - STOP [**3408-4-3**] 02:53 PM
+   placed in or
+   Post operative day:
+   POD#7 - cabg x2
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**3408-4-3**] 12:00 PM
+   Ciprofloxacin - [**3408-4-4**] 07:39 AM
+   Vancomycin - [**3408-4-4**] 08:42 AM
+   Infusions:
+   Heparin Sodium - 1,800 units/hour
+   Other ICU medications:
+   Metoprolol - [**3408-4-4**] 04:00 AM
+   Furosemide (Lasix) - [**3408-4-4**] 08:40 AM
+   Flowsheet Data as of  [**3408-4-4**] 10:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**10**] a.m.
+   Tmax: 36.8
+C (98.2
+   T current: 36.8
+C (98.2
+   HR: 67 (58 - 74) bpm
+   BP: 134/39(62) {116/38(60) - 142/66(123)} mmHg
+   RR: 30 (14 - 30) insp/min
+   SPO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 99.8 kg (admission): 91 kg
+   Height: 72 Inch
+             Total In:
+                                                                  3,149 mL
+                                                                  1,544 mL
+   PO:
+             Tube feeding:
+                                                                  1,923 mL
+                                                                    814 mL
+   IV Fluid:
+                                                                  1,126 mL
+                                                                    730 mL
+   Blood products:
+   Total out:
+                                                                  2,305 mL
+                                                                  2,150 mL
+   Urine:
+                                                                  2,305 mL
+                                                                  2,150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    844 mL
+                                                                   -606 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SPO2: 100%
+   ABG: ///34/
+   Physical Examination
+   General Appearance: No acute distress
+   Neuro:  Answers questions, follows commands.  Does not move lower
+   extremities.  Moves left hand only.  No sensation to lower extremities
+   or right arm.
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bilaterally), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Labs / Radiology
+   209 K/uL
+   9.8 g/dL
+   243 mg/dL
+   1.0 mg/dL
+   34 mEq/L
+   4.0 mEq/L
+   36 mg/dL
+   98 mEq/L
+   136 mEq/L
+   30.2 %
+   9.2 K/uL
+        [image002.jpg]
+                             [**3408-3-30**]  12:49 PM
+                             [**3408-3-30**]  06:06 PM
+                             [**3408-3-30**]  10:39 PM
+                             [**3408-3-31**]  03:31 AM
+                             [**3408-4-1**]  03:13 AM
+                             [**3408-4-1**]  03:26 AM
+                             [**3408-4-2**]  03:47 AM
+                             [**3408-4-3**]  04:00 AM
+                             [**3408-4-3**]  01:34 PM
+                             [**3408-4-4**]  04:00 AM
+   WBC
+   14.1
+   12.1
+   10.2
+   9.9
+   9.2
+   Hct
+   33.2
+   30.4
+   30.7
+   30.3
+   30.2
+   Plt
+   153
+   192
+   176
+   226
+   209
+   Creatinine
+   0.9
+   1.0
+   1.1
+   1.1
+   1.0
+   TCO2
+   22
+   2
+   Glucose
+   135
+   155
+   111
+   143
+   183
+   170
+   [**Telephone/Fax (3) 11749**]
+   243
+   Other labs: PT / PTT / INR:13.0/47.3/1.1, Differential-Neuts:68.0 %,
+   Lymph:26.4 %, Mono:4.0 %, Eos:1.5 %, Fibrinogen:379 mg/dL, Lactic
+   Acid:1.1 mmol/L, Albumin:3.2 g/dL, Ca:8.3 mg/dL, Mg:2.1 mg/dL, PO4:2.9
+   mg/dL
+   Imaging: CXR: B pleural effusions
+   MRI with spinal infarct T4-T5
+   Microbiology: Sputum with GNC, GPR
+   ECG: Afib
+   Assessment and Plan
+   HYPERGLYCEMIA, AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION,
+   ALTERED GAG, AIRWAY CLEARANCE, COUGH), ALTERED MENTAL STATUS (NOT
+   DELIRIUM), IMPAIRED PHYSICAL MOBILITY, CORONARY ARTERY BYPASS GRAFT
+   (CABG), CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE), .H/O CVA
+   (STROKE, CEREBRAL INFARCTION), OTHER
+   Assessment and Plan: s/p emergent CABGx2 (LIMA>LAD,SVG>PDA) complicated
+   by spinal infarct
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled on tylenol.  Moving
+   left hand only, following commands.  No sensation on lower extremities
+   or right arm.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Lopressor increased for
+   afib. Heparin for afib
+   Pulmonary: OOB to chair.
+   Gastrointestinal / Abdomen: Bowel regimen. Change to prevacid.
+   Nutrition: Tube feeding, at goal at 80mg/hr via DHT.  Will initiate
+   topic of PEG with wife today.
+   Renal: Foley, Adequate UO, Diurese for goal of [**1-22**].5L negative daily
+   Hematology: stable post-operative anemia
+   Endocrine: RISS, Lantus (R), Blood glucose elevated yesterday, given
+   higher dose of lantus this morning (40 units)
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley, DHT
+   Wounds: Dry dressings
+   Consults: Neurology, P.T.
+   ICU Care
+   Replete with Fiber (Full) - [**3408-4-4**] 04:50 AM 80 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol
+   Lines:
+   18 Gauge - [**3408-3-31**] 11:17 AM
+   PICC Line - [**3408-4-3**] 10:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

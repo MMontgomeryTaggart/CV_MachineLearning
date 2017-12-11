@@ -1,0 +1,57 @@
+Admission Date:  [**3149-10-28**]       Discharge Date:  [**3149-11-10**]
+
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 80 year-old
+woman that fell fourteen feet from her porch onto her left
+side with questionable loss of consciousness.  The patient
+was worked up at an outside hospital and transferred to [**Hospital1 1205**] for further management of
+multiple trauma.  Her multiple trauma included a subarachnoid
+hemorrhage with intraparenchymal blood.  A C2 transverse
+foramina fracture, left 5th, 6th and 7th rib fractures,
+aortic laceration versus dissection.  The patient had CT
+angiogram, which confirmed aortic dissection without
+extravasation.  Portion of a right tibial plateau fracture,
+which is old versus new.  The patient had negative right knee
+film and negative right tibia fibula films.  The patient has
+left clavicle fracture.  Left ankle negative for fracture and
+the patient has a left scapular fracture.
+
+On [**10-31**], the patient required 3 units of packed red blood
+cells.  She had a repeat CT of the chest, which showed blood
+in the chest and with aortic disruption and intraparenchymal
+bleed in the spleen.  The patient had a chest tube placed on
+[**3149-10-31**] for hemothorax.  On arrival to the CICU the
+patient was belligerent and uncooperative.  She moved all
+extremities.  Bilateral grasp strong and unable to follow
+commands or answer questions.  She had a C collar in place
+and remained on log rolling precautions.  She was loaded with
+Dilantin.  She had no evidence of seizure activity.  The
+patient had an arteriogram to delineate the aortic
+dissection.  During the procedure the catheter broke off in
+her artery.  She was taken emergently for a cut down to have
+that removed.  That was done successfully and there were no
+complications from that.
+
+The patient was extubated on [**10-31**].  She was awake, alert and
+oriented times three and moving all extremities strongly.
+She had periods of confusion on and off with periods of
+agitation.
+
+
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 136**]
+
+Dictated By:[**Last Name (NamePattern1) 326**]
+MEDQUIST36
+
+D:  [**3149-11-10**]  08:34
+T:  [**3149-11-10**]  08:34
+JOB#:  [**Job Number 9374**]
+
+
+DOC CLASS

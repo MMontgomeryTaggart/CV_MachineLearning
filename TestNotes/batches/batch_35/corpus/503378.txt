@@ -1,0 +1,76 @@
+History of Present Illness
+   Date: [**3027-11-25**]
+   Initial visit
+   Events / History of present illness: 70 yo F with a history of PAF
+   currently managed with diltiazem and flecanide & tachy-brady syndrome
+   for which she was scheduled to have an elective permanent pacemaker
+   implantation this week presented to the ED with worsening dizziness. A
+   holter monitor (report not in our system) showed sinus pauses up to 4
+   seconds during daylight hours.  In the ED and was noted to have sinus
+   bradycadria at a rate of 30 bpm, with junctional escape. Temporary
+   pacing wire was not placed in the ED as patient is hemodynamically
+   stable. Notably, sh stopped taking amiodarone in [**3027-3-30**] after
+   developing transaminitis. Her last dose of coumadin was on [**11-22**] in
+   anticipation of the elective procedure scheduled for this week.  Other
+   medical history is significant for hypelipidemia.
+   Medications
+   Changed
+   HOME MEDICATIONS:
+   ALENDRONATE - 70 mg Tablet - 1 Tablet(s) by mouth 1x week on Tues
+   DILTIAZEM HCL - - 120 mg XR DAILY
+   ESOMEPRAZOLE MAGNESIUM [NEXIUM] 40MG DAILY
+   ESTRADIOL [VAGIFEM] - 25 mcg Tablet - 3x /week
+   FEXOFENADINE [[**Doctor First Name **]] - 180 mg
+   FLECAINIDE - 100 mg Tablet - [**Hospital1 **]
+   MEDROXYPROGESTERONE - - 5 mg 4x /year
+   SERTRALINE - - 100 mg Tablet daily
+   SIMVASTATIN - - 20 mg Tablet - daily
+   WARFARIN - 2.5 daily, holding since [**11-22**]
+   ZOLPIDEM - 5 mg Tablet - daily
+   ASPIRIN - 325 mg Tablet - daily
+   CALCIUM with Vit D
+   CURRENT MEDICATIONS:
+   Heparin 5000 UNIT SC TID
+   Alendronate Sodium 70 mg PO QTUES
+   Pantoprazole 40 mg daily
+   Fexofenadine 60 mg [**Hospital1 **]
+   Sertraline 100 mg daily
+   Simvastatin 20 mg daily
+   Aspirin 325 mg daily
+   Physical Exam
+   General appearance: A&O x3
+   No acute distress
+   BP: 94 / 61 mmHg
+   HR: 34 bpm
+   RR: 16 insp/min
+   Tmax C last 24 hours: 37.2 C
+   Tmax F last 24 hours: 98.9 F
+   T current C: 37.2 C
+   T current F: 98.9 F
+   Previous day:
+   Output: 0 mL
+   Fluid balance: 0 mL
+   Today:
+   Intake: 45 mL
+   Output: 175 mL
+   Fluid balance: -130 mL
+   HEENT: (Conjunctiva and lids: Anicteric), (Oral mucosa: Moist),
+   (Jugular veins: Not elevated)
+   Cardiovascular: (Auscultation: Slow RRR, no murmurs)
+   Respiratory: (Auscultation: CTA)
+   Abdomen: (Palpation: Soft, non-tender)
+   Neurological: (Orientation: A&O x3), (Motor / Sensory: No gross motor
+   deficit)
+   Tests
+   ECG: (Date: [**3027-11-25**]), Slow sinus rhythm with nodal escape
+   Assessment and Plan
+ BRADYCARDIA
+   1. Permanent PM tomorrow for SSS (tachy-brady) with profound
+   bradycardia.
+   2. Hold Coumadin
+   3. Consider dopamin if BP drops, or if signs of organ hypoperfusion
+   (elevated Cr, decreased urine output)
+   4. NPO midnight
+
+
+DOC CLASS

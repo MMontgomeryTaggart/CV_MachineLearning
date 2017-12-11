@@ -1,0 +1,331 @@
+Admission Date:  [**2545-4-25**]              Discharge Date:   [**2545-5-5**]
+
+Date of Birth:  [**2463-3-4**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Benadryl / Ace Inhibitors
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Sternal drainage
+
+Major Surgical or Invasive Procedure:
+s/p Sternal debridement/advancement of Pec flap/Talon plating
+[**4-27**]
+
+
+History of Present Illness:
+ 82M who underwent AVR (tissue); CABG X3 on [**2545-4-8**] who was
+discharged to rehab on [**2545-4-20**]. He was then transferred to
+[**Doctor First Name 3093**] hospital on [**2545-4-21**] with sternal drainage and a
+leukocytosis of 23,000. He was started on broad spectum
+antibiotics and then transferred back to [**Hospital1 22**] after 4 days at
+[**Doctor First Name 3093**] Hospital.
+
+Past Medical History:
+s/p AVR(#25 tissue)CABG x3(LIMA-LAD, SVG-PM, SVG-dRCA/PDA)[**4-8**]
+insulin-dependent diabetes mellitus
+severe dilated cardiomyopathy
+macular degeneration (partially blind)
+emphysema
+neuropathy left leg
+
+
+Social History:
+retired
+lives alone
+20 pack-years -quit many years ago
+no recent ETOH use
+
+
+Family History:
+NC
+
+Physical Exam:
+Admission:
+
+Pulse: Resp:  O2 sat:
+B/P  Right:    Left:
+Height: 5'9"    Weight: 91K
+VS: T 98.7  HR 68SR  BP 100/50   RR 18  O2sat 93%-RA
+General: NAD
+Skin: Dry [x] intact []- sternal wound open at mid point 3cm in
+lenth and tunnels 3cm cephalad and 1cm deep. Scant amount of
+yellow drainage expressed. Sternum stable.
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs course throughout -clear somewhat with coughing.
+Heart: RRR [x]
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema: 2+ pitting LE
+edema
+Neuro: seems angry and depressed regarding care recieved upon
+D/C
+from [**Hospital1 22**]. Alert and oriented x3 but conversation is
+tangential.
+
+
+Pertinent Results:
+[**2545-4-25**] 07:10PM   SED RATE-100*
+[**2545-4-25**] 07:10PM   PT-29.0* INR(PT)-2.9*
+[**2545-4-25**] 07:10PM   PLT COUNT-571*
+[**2545-4-25**] 07:10PM   NEUTS-84.4* LYMPHS-8.2* MONOS-4.3 EOS-2.6
+BASOS-0.5
+[**2545-4-25**] 07:10PM   WBC-14.8* RBC-3.70* HGB-10.9* HCT-33.2*
+MCV-90 MCH-29.4 MCHC-32.8 RDW-15.4
+[**2545-4-25**] 07:10PM   CRP-26.1*
+[**2545-4-25**] 07:10PM   ALBUMIN-3.3* CALCIUM-8.5 PHOSPHATE-4.1
+MAGNESIUM-2.2
+[**2545-4-25**] 07:10PM   LIPASE-57
+[**2545-4-25**] 07:10PM   ALT(SGPT)-13 AST(SGOT)-16 LD(LDH)-287* ALK
+PHOS-93 AMYLASE-106* TOT BILI-0.6
+[**2545-4-25**] 07:10PM   GLUCOSE-103 UREA N-39* CREAT-2.1* SODIUM-140
+POTASSIUM-4.0 CHLORIDE-97 TOTAL CO2-31 ANION GAP-16
+[**2545-4-25**] 09:13PM URINE  RBC->50 WBC-[**2-4**] BACTERIA-MANY YEAST-NONE
+EPI-<1
+[**2545-4-25**] 09:13PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-TR
+[**2545-5-3**] 06:42AM BLOOD WBC-9.5 RBC-3.06* Hgb-9.0* Hct-27.2*
+MCV-89 MCH-29.3 MCHC-33.1 RDW-16.0* Plt Ct-406
+[**2545-5-3**] 06:42AM BLOOD Plt Ct-406
+[**2545-4-30**] 04:46AM BLOOD PT-13.6* PTT-30.8 INR(PT)-1.2*
+[**2545-5-3**] 06:42AM BLOOD Glucose-98 UreaN-33* Creat-1.6* Na-142
+K-4.0 Cl-101 HCO3-30 AnGap-15
+    [**Known patient lastname 32311**],[**Known patient firstname **] F [**PT ID Number 32313**] M  82  [**2463-3-4**]
+Radiology Report CHEST (PA & LAT) Study Date of [**2545-5-2**] 3:19 PM
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 8401**] FA6A [**2545-5-2**] 3:19 PM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 32314**]
+UNDERLYING MEDICAL CONDITION:
+   82 year old man with s/p sternal plating
+REASON FOR THIS EXAMINATION:
+   evaluation for ptx and effusion
+Final Report CHEST
+HISTORY: Sternal plating, evaluate for pneumothorax.
+AP and lateral views. Comparison with [**2545-4-28**]. There is
+continued evidence
+of small bilateral pleural effusions, greater on the left. There
+is increased density in the retrocardiac area consistent with
+atelectasis or consolidation as before. The left heart border is
+obscured. The heart appears large.
+Mediastinal structures are unchanged in appearance. Multiple
+surgical clips are scattered about the mediastinum. Four
+metallic clips are present in the sternum as demonstrated
+previously. A left PICC line can be followed to the level of the
+right atrium.
+Allowing for differences in technique, there is no significant
+change.
+IMPRESSION: No significant interval change.
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+Approved: MON [**2545-5-3**] 8:09 AM
+
+
+
+
+
+Brief Hospital Course:
+Mr [**Known patient lastname **] was admitted to [**Hospital1 22**] for sternal drainage following
+AVR/CABG. He had been on Coumadin so his INR was corrected and
+he was brought to the operating room on [**4-27**] for sternal
+debridement and Talon plating with pectoral muscle advancement.
+Please see operative report for details. He tolerated the
+procedure well and was transferred to the cardiac surgery ICU
+after completion. He did well in the immediate post-operative
+period and was extubated shortly after arrival. He remained in
+the ICU on POD1 to monitor his renal function(CRI-baseline Cr
+1.9)creatine rose to 2.8 on day of surgery. By POD2 it was
+improving and he was transferred to the stepdown floor. Once on
+the floor his post-op course was uneventful. Culture data was
+positive for rare growth of PROPIONIBACTERIUM ACNES, infectious
+disease service was consulted and he will be treated with
+Vancomycin for 6-8 weeks. During hospital stay the patient had a
+corneal abrasion , opthamology was consulted and treatment
+instituted. Additionally he had periods of intermittant atrial
+fibrillation that were rate controlled with Amiodarone and beta
+blockers. He was also anticoagulated with Coumadin.
+The patient was not started on [**First Name8 (NamePattern2) **] [**Last Name (un) **] or ACE inhibitor for his
+heart failure as his BP was not adequate and his elevated
+creatinine was still resolvoving. Consider instituting this
+therapy as his condition continues to improve.
+He worked with physical therapy and on POD8 he was transferred
+to rehabilitation at [**Location (un) **] [**Doctor Last Name **].
+
+Medications on Admission:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day).
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every [**3-8**]
+hours as needed for temp.
+7. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+8. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. Glyburide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+10. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+11. Ciprofloxacin 250 mg Tablet Sig: Three (3) Tablet PO Q12H
+(every 12 hours) for 5 days.
+12. Furosemide 10 mg/mL Solution Sig: Forty (40) mg Injection
+[**Hospital1 **] (2 times a day).
+13. Potassium Chloride 20 mEq Packet Sig: Twenty (20) mEq PO
+Q12H (every 12 hours).
+14. Insulin Glargine 100 unit/mL Solution Sig: Twelve (12) units
+
+Subcutaneous once a day.
+15. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q2H (every 2 hours) as
+needed for wheezes.
+16. Warfarin 1 mg Tablet Sig: as directed Tablet PO once a day
+as needed for a fib: adjust dose daily to target INR 2-2.5***2mg
+
+to be administered on [**4-20**].
+Last 3 days recieved 5/5/5.* Tablet(s)* Refills:*0*
+17. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+18. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+
+Q6H (every 6 hours).
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+3. Haloperidol 1 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for confusion .
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours).
+8. Insulin Glargine 100 unit/mL Solution Sig: Twelve (12) units
+Subcutaneous daily-lunch.
+9. Insulin Regular Human 100 unit/mL Solution Sig: sliding scale
+ Injection Q AC&HS.
+10. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO twice a day.
+11. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Carvedilol 3.125 mg Tablet Sig: Three (3) Tablet PO BID (2
+times a day).
+13. Lasix 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+14. Outpatient [**Month/Year (2) 376**] Work
+While on antibiotics weekly CBC, Chem 7, LFT, ESR, CRP,
+vancomycin trough with results to [**Hospital **] clinic fax ([**Telephone/Fax (1) 3835**] -
+phone RN if questions [**Telephone/Fax (1) 13460**] -current vancomycin dose 1000
+mg IV q24h given at 8pm [**5-4**] - needs trough prior to 4th dose
+which will be [**5-7**] pm for further dosing - goal level 15-20 -
+results to [**Hospital **] clinic for management of antibiotics
+15. Outpatient [**Hospital 376**] Work
+Please check Biweekly potassium, magnesium, creatinine, bun
+while on lasix
+
+16. Outpatient [**Name (NI) 376**] Work
+PT/INR for coumadin dosing - atrial fibrillation with goal INR
+2.0-2.5 please check at least twice a week until on steady dose
+first draw [**2545-5-7**]
+17. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+18. Erythromycin 5 mg/g Ointment Sig: One (1) strip Ophthalmic
+four times a day for 7 days: to right eye .
+19. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-4**]
+Drops Ophthalmic PRN (as needed) as needed for dryness.
+20. Warfarin 1 mg Tablet Sig: One (1) Tablet PO once a day: goal
+INR 2.0-2.5 - started [**5-5**] 1mg .
+21. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)
+gram  Intravenous Q 24H (Every 24 Hours): given at 8pm - trough
+[**5-7**] before dose .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **] [**Doctor Last Name **]
+
+Discharge Diagnosis:
+s/p Sternal debridement/advancement of Pectoral flap/Talon
+plating [**4-27**]
+s/p Aortic Valve Replacement(#25 tissue)Coronary Artery Bypass
+Graft x3(Left Internal Mamary Artery-Left Anterior Descending,
+Saphenous Vein Graft-Obtuse Marginal, Saphenous Vein
+Graft-distal Right Coronary Aartery-Posterior Descending
+Artery)[**4-8**]
+Acute on chronic systolic heart failure
+Acute renal failure resolving from previous admission
+Diabetes Mellitus
+Macular degeneration
+Emphysema
+Neuropathy
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving until cleared by Dr [**Last Name (STitle) **]
+[**Name (STitle) **] lifting more than 10 pounds until cleared by Dr [**Last Name (STitle) **]
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+PT/INR for coumadin dosing - atrial fibrillation with goal INR
+2.0-2.5 please check at least twice a week until on steady dose
+first draw [**2545-5-7**]
+Please check Biweekly potassium, magnesium, creatinine, bun
+while on lasix
+While on antibiotics weekly CBC, Chem 7, LFT, ESR, CRP,
+vancomycin trough with results to [**Hospital **] clinic fax ([**Telephone/Fax (1) 3835**] -
+phone RN ifquestions [**Telephone/Fax (1) 13460**] - current vancomycin dose 1000
+mg IV q24h given at 8pm [**5-4**] - needs trough prior to 4th dose
+which will be [**5-7**] pm for further dosing - goal level 15-20 -
+results to [**Hospital **] clinic for management of antibiotics
+
+Followup Instructions:
+Please call to schedule appointments
+Dr [**Last Name (STitle) **] (cardiac surgeon) in 2 weeks.  ([**Telephone/Fax (1) 181**]).
+Dr [**Last Name (STitle) 22154**] (cardiologist) after discharge from rehab
+Dr [**Last Name (STitle) 24430**] (PCP) after discharge from rehab
+Dr [**First Name (STitle) 919**](Plastic Surgery Clinic) in 2 weeks. [**Telephone/Fax (1) 32315**]
+Dr [**Last Name (STitle) 593**] (ID clinic) call to schedule
+PT/INR for coumadin dosing - atrial fibrillation with goal INR
+2.0-2.5 please check at least twice a week until on steady dose
+first draw [**2545-5-7**]
+Please check Biweekly potassium, magnesium, creatinine, bun
+while on lasix
+While on antibiotics weekly CBC, Chem 7, LFT, ESR, CRP,
+vancomycin trough with results to [**Hospital **] clinic fax ([**Telephone/Fax (1) 3835**] -
+phone RN if questions [**Telephone/Fax (1) 13460**] -current vancomycin dose 1000
+mg IV q24h given at 8pm [**5-4**] - needs trough prior to 4th dose
+which will be [**5-7**] pm for further dosing - goal level 15-20 -
+results to [**Hospital **] clinic for management of antibiotics
+
+
+
+Completed by:[**2545-5-5**]
+
+DOC CLASS

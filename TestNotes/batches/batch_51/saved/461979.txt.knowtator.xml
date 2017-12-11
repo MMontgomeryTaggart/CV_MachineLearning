@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="461979.txt">
+    <annotation>
+        <mention id="EHOST_Instance_596" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="75" end="99" />
+        <spannedText>now p/w diffuse bleeding</spannedText>
+        <creationDate>Wed Nov 01 10:57:25 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_606">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_596">
+        <hasSlotMention id="EHOST_Instance_606" />
+        <mentionClass id="bleeding_present">now p/w diffuse bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_597" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="412" end="470" />
+        <spannedText>oozing blood from venous access sites, mouth and vagina</spannedText>
+        <creationDate>Wed Nov 01 10:57:44 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_607">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_597">
+        <hasSlotMention id="EHOST_Instance_607" />
+        <mentionClass id="bleeding_present">oozing blood from venous access sites, mouth and vagina</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_598" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="482" end="508" />
+        <spannedText>no blood in rectal tube</spannedText>
+        <creationDate>Wed Nov 01 10:57:48 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_608">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_598">
+        <hasSlotMention id="EHOST_Instance_608" />
+        <mentionClass id="bleeding_absent">no blood in rectal tube</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_599" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="666" end="704" />
+        <spannedText>NGT is placed which aspirates blood</spannedText>
+        <creationDate>Wed Nov 01 10:57:54 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_609">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_599">
+        <hasSlotMention id="EHOST_Instance_609" />
+        <mentionClass id="bleeding_present">NGT is placed which aspirates blood</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_600" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="1075" end="1096" />
+        <spannedText>oozing in the stomach</spannedText>
+        <creationDate>Wed Nov 01 10:58:06 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_610">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_600">
+        <hasSlotMention id="EHOST_Instance_610" />
+        <mentionClass id="bleeding_present">oozing in the stomach</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_601" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="8812" end="8849" />
+        <spannedText>Differential would include blood loss</spannedText>
+        <creationDate>Wed Nov 01 10:58:28 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_611">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_601">
+        <hasSlotMention id="EHOST_Instance_611" />
+        <mentionClass id="bleeding_hypothetical">Differential would include blood loss</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_602" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9322" end="9332" />
+        <spannedText>#Bleeding:</spannedText>
+        <creationDate>Wed Nov 01 10:58:36 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_612">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_602">
+        <hasSlotMention id="EHOST_Instance_612" />
+        <mentionClass id="bleeding_present">#Bleeding:</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_603" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9363" end="9408" />
+        <spannedText>OGT draining bilious fluid w/o gross blood</spannedText>
+        <creationDate>Wed Nov 01 10:58:44 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_613">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_603">
+        <hasSlotMention id="EHOST_Instance_613" />
+        <mentionClass id="bleeding_absent">OGT draining bilious fluid w/o gross blood</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_604" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9410" end="9433" />
+        <spannedText>no blood in rectal tube</spannedText>
+        <creationDate>Wed Nov 01 10:58:46 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_614">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_604">
+        <hasSlotMention id="EHOST_Instance_614" />
+        <mentionClass id="bleeding_absent">no blood in rectal tube</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_605" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="10300" end="10309" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Wed Nov 01 10:59:02 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_615">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_616">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_605">
+        <hasSlotMention id="EHOST_Instance_615" />
+        <hasSlotMention id="EHOST_Instance_616" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

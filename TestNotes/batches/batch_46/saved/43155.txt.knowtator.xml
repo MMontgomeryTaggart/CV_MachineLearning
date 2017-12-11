@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="43155.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1128" />
+        <annotator id="eHOST_2010">Shane</annotator>
+        <span start="11473" end="11482" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Wed Nov 01 17:17:23 EDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1129">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_1130">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="absent" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1128">
+        <hasSlotMention id="EHOST_Instance_1129" />
+        <hasSlotMention id="EHOST_Instance_1130" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

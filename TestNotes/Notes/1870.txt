@@ -1,0 +1,274 @@
+Admission Date:  [**2812-1-26**]              Discharge Date:   [**2812-1-30**]
+
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin / Levofloxacin / Vioxx
+
+Attending:[**Location (un) 1264**]
+Chief Complaint:
+Transfer from outside hospital for hypotension and bradycardia
+
+Major Surgical or Invasive Procedure:
+Central venous line placement
+Endotracheal intubation (outside hospital)
+Arterial line placement
+
+History of Present Illness:
+Ms. [**Known patient lastname 10314**] is an 82 year-old female with a past medical history
+significant for HTN, gastritis, and atrial fibrillation,
+transferred from an outside hospital with hypotension and
+bradycardia. Per report, the patient was found by her daughter
+at home with coffee-ground emesis (per EMS) last night around
+21:30, pale. By the daughter's account, Ms. [**Known patient lastname 10314**] was mentating
+well.
+
+She was taken to [**Hospital **] Hospital, where she was found to have
+HR in 30s and SBP in 70s. IVFs X 2 liters were administered
+without improvement. She was subsequently given Atropine and
+started on a Dopamine drip. Per report, she subsequently
+developed worsening respiratory distress and was intubated.
+Dopamine was titrated up with eventual conversion to NSR with
+rate in 70s and SBP>100. Gastric lavage was negative.
+
+By the family's account, Ms. [**Known patient lastname 10314**] has had frequent dizzy
+spells at night, leading to changes in her BP meds dosing
+schedule. No recent history of F/C/CP/SOB.
+
+At [**Hospital1 **],she was given Vecuronium 2mg IV, Lidocaine 100 mg
+IV, Succinylcholine 100 mg IV, Atropine 1 mg X 2, Ativan 2 mg,
+Zantac 50 mg, Zofran 4 mg, Dopamine up to 20 mcg/min, NS 2
+liters.
+
+Past Medical History:
+1. Hypertension
+2. Atrial fibrillation on chronic Coumadin therapy
+3. Arthritis
+4. Gastritis with h/o GIB in [**2808**]/[**2809**]
+5. Peripheral vascular disease s/p bypass in [**2805**]
+6. History of CVA in [**10/2811**] with residual left visual problems
+7. Osteoporosis
+8. Spinal stenosis
+9. Status post right THR
+10. Hypercholesterolemia
+
+Social History:
+She lives in a nursing home. She is widowed. Used to work as a
+librarian. No history of tobacco or EtOH consumption.
+
+Family History:
+No history of early CAD. Brother with stomach cancer.
+
+Physical Exam:
+Physical examination on admission to CCU:
+VITALS: T 93.5 axillary. BP 121/52, HR 86, regular, RR 12.
+VENT: AC 600 X 10, PEEP 5, FiO2 0.60, Sat 100%
+GEN: Intubated. Off sedation.
+HEENT: ETT in place. Left pupil 4 mm non-reactive. Right pupil 3
+mm. No gag reflex. Dry MM.
+NECK: JVP difficult to assess.
+RESP: Chest CTAB anteriorly.
+CVS: Normal S1, S2. No S3, S4. No murmur or rub.
+GI: BS NA. Abdomen soft.
+EXT: Cold. Pedal pulses present via Doppler.
+NEURO: No withdrawal to noxious stimuli.
+
+Pertinent Results:
+Relevant laboratory data on admission:
+CBC:
+WBC-25.4* RBC-3.75* HGB-12.7 HCT-37.0 MCV-99* MCH-33.9*
+MCHC-34.3 RDW-13.2
+PLT COUNT-389
+
+Chemistry:
+GLUCOSE-266* UREA N-32* CREAT-1.5* SODIUM-134 POTASSIUM-3.8
+CHLORIDE-103 TOTAL CO2-15* ANION GAP-20
+ALT(SGPT)-222* AST(SGOT)-280* CK(CPK)-85 ALK PHOS-121* TOT
+BILI-0.8
+CK-MB-NotDone cTropnT-<0.01
+CALCIUM-7.4* PHOSPHATE-3.7 MAGNESIUM-1.9
+
+EKG:
+22:15 34 bpm, junctional rhythm, no ST-T changes.
+02:00 46 bpm junctional rhythm, normal axis, peaked T waves.
+02:33 NSR 76 bpm, normal axis, normal QRS+ QTc, primary AV
+block. No ST-T changes.
+
+CXR [**2812-1-26**]: Endotracheal tube, central venous catheter, and
+nasogastric tube are in place. Cardiac and mediastinal contours
+are within normal limits. There are multifocal patchy areas of
+increased opacity in the right mid and left lower lung zones,
+with otherwise grossly clear lungs. No pleural effusions are
+identified.
+
+IMPRESSION: Patchy right mid and left lower lung zone opacities,
+which may relate to patchy atelectasis, aspiration, or early
+infection. Followup radiographs suggested.
+
+ECHO [**2812-1-26**]: The left atrium is normal in size. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF 70%). No masses or thrombi are seen in the left ventricle.
+There is no ventricular septal defect. Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+[**2812-1-28**] CXR: There is interval placement of a dual-chamber
+pacemaker with the leads in the right ventricle and right
+atrium. There is also an NG tube with the tip coiled extending
+beyond the limits of the radiograph in the stomach. The cardiac,
+mediastinal, and hilar contours are unchanged. The patient was
+extubated. There are persistent perihilar opacities that most
+likely reprsent atelectasis. There is no evidence of
+pneumothorax.
+
+IMPRESSION: Dual-chamber pacemaker with the leads in the right
+atrium and right ventricle.
+
+Brief Hospital Course:
+82 year-old female with a PMHx significant for HTN on multiple
+out-patient antihypertensives, atrial fibrillation now off
+Coumadin X 2 months, admitted with bradycardia and hypotension,
+as well as respiratory failure requiring intubation. Her
+hospital course will be reviewed by problems.
+
+1) Bradycardia/hypotension: She was admitted to the CCU for
+management. Per report, her HR and BP eventually responded to
+Dopamine and Atropine at the outside hospital. The etiology of
+her bradycardic and hypotensive event was somewhat unclear on
+admission. Cardiac enzymes were negative X 3, TSH normal. An
+echo was performed on [**2812-1-26**], which revealed normal EF, no
+abnormalities. Her bradycardia was eventually felt to be most
+likely medication-induced. In the CCU, however, she had
+recurrent bradycardia and hypotension when Dopamine was weaned,
+and she underwent PPM placement on [**2812-1-27**]. She tolerated the
+procedure well. Amiodarone and Lopressor were resumed post
+procedure. On [**2812-1-27**] at night, she went into atrial
+fibrillation, with spontaneous conversion 12 hours later.
+Amiodarone was increased to 400 mg PO BID for 3 days, and she is
+to be discharged on 200 mg PO QD. No anticoagulation since she
+is at high fall risk. On discharge, her blood pressure
+medication include lopressor, lipitor, hydrochlorothiazide and
+Diovan.
+
+2) ID: Ms. [**Known patient lastname 10314**] was hypothermic on admission, poorly
+responsive, and acidotic. A CXR was initially suspicious for RML
+and RLL pneumonia, and she was started on Azithromycin and
+Ceftriaxone. Cultures were sent. Her cultures eventually grew
+E.coli in the urine, resistant to Ampicillin, Ciprofloxacin,
+Piperacillin and Bactrim. Her sputum cultures also grew E.coli,
+pansensitive. Hence, Azithromycin was D/C'd, and she was
+continued on Ceftriaxone for coverage of both, with plan to
+change to Cefpodoxime prior to discharge. She will complete a
+10-day course of antibiotics. Of note, a repeat PA/lateral was
+negative for pneumonia.
+
+3) Respiratory failure: She was extubated following pacemaker
+placement, and did well post-extubation.
+
+4) FEN/Renal: Ms. [**Known patient lastname 10314**] had a metabolic acidosis on admission
+due to lactic acidosis, ARF (peak creatinine [**12-7**] on admission),
+and elevated LFT's felt secondary to hypoperfusion in the
+setting of drug-induced bradycardia. Her metabolic acidosis
+quickly resolved with resolution of the renal failure and
+improved hemodynamics.
+
+5) Anemia: Her Hct dropped to a nadir of 27.3 on [**2812-1-28**], and
+she was transfused 1 unit of PRBCs with appropriate Hct
+response. Of note, she was likely hemoconcentrated on admission.
+Stools and NG output guaiac negative. Hemolysis work-up also
+negative. Further work-up will be left to the out-patient
+setting.
+
+Medications on Admission:
+Coumadin 2 mg PO QHS (D/C'd 2 months ago)
+ASA 325 mg PO QD
+Amiodarone 200 mg PO QD
+Multivitamin
+Diazepam prn
+Diovan 80 mg PO QD
+Elavil 25 mg PO QD
+Fosamax 70 mg PO Q week
+Hydrochlorothiazide 25 mg PO QD
+Lopressor 50 mg PO BID
+Lovastatin 40 mg PO QD
+Norvasc 5 mg PO QD
+Prilosec 40 mg PO QD
+Tylenol prn
+Verapamil 240 mg PO QD
+Vitamin E
+Ophtalmic drops
+
+Discharge Medications:
+1. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+3. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)
+ml Injection TID (3 times a day).
+4. Docusate Sodium 150 mg/15 mL Liquid Sig: One Hundred (100) mg
+PO BID (2 times a day).
+5. Valsartan 80 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. Amiodarone HCl 200 mg Tablet Sig: One (1) Tablet PO once a
+day.
+7. Gentamicin Sulfate 0.3 % Drops Sig: One (1) Drop Ophthalmic
+Q6H (every 6 hours).
+8. Brinzolamide 1 % Drops, Suspension Sig: One (1) drop
+Ophthalmic  TID (3 times a day) as needed for Glaucoma.
+9. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+10. Metoprolol Tartrate 25 mg Tablet Sig: Four (4) Tablet PO BID
+(2 times a day).
+11. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+12. Zolpidem Tartrate 5 mg Tablet Sig: 1-2 Tablets PO HS (at
+bedtime) as needed.
+13. Cefpodoxime Proxetil 200 mg Tablet Sig: One (1) Tablet PO
+every twelve (12) hours for 10 days.
+14. Albuterol Sulfate 0.083 % Solution Sig: 1-2 puffs Inhalation
+Q6H (every 6 hours) as needed.
+15. Ipratropium Bromide 0.02 % Solution Sig: 1-2 puffs
+Inhalation Q6H (every 6 hours) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Rehab & Nursing Center - [**Location (un) 47**]
+
+Discharge Diagnosis:
+Atrial fibrillation spontaneously cardioverted
+bradycardia and hypotension secondary to medication, after
+pacemaker placement
+hypertension
+E.Coli UTI and pneumonia
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Please return to the hospital or call your doctor if you
+experience dizziness, chest pain, has recurrent vomitting or if
+there are any concerns at all.
+
+Please take all prescribed medication
+
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) 604**] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], MD Where: [**Hospital6 29**]
+CARDIAC SERVICES Phone:[**Telephone/Fax (1) 281**] Date/Time:[**2812-2-6**] 11:00
+
+
+
+Completed by:[**2812-1-30**]
+
+DOC CLASS

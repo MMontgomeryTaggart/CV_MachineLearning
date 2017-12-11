@@ -1,0 +1,193 @@
+Admission Date:  [**3292-1-15**]              Discharge Date:   [**3292-1-26**]
+
+Date of Birth:  [**3243-1-26**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1858**]
+Chief Complaint:
+Asymptomatic with large ASD
+
+Major Surgical or Invasive Procedure:
+[**3292-1-15**] Atrial Septal Defect Repair with pericardial patch,
+Ventricular Septal Defect Repair, Mitral Valve Repair with 36mm
+[**Company 1232**] CG future ring
+
+History of Present Illness:
+48 y/o asymptomatic male with h/o atrial septal defect,
+ventricular septal defect and mitral regurgitation discovered in
+[**3288**]. He was seen in cardiology consultation in [**9-23**] after the
+patient's pcp discovered cardiomegaly on CXR. He had repeat
+echocardiogram which revealed the onset of right heart failure
+and pumonary hypertension, along with previous findings in [**3288**].
+
+
+Past Medical History:
+Atrial Septal Defect
+Ventricular Septal Defect
+Mitral Regurgitation
+
+Social History:
+Widow with two daughters. Denies smoking or ETOH use.
+
+Family History:
+NC
+
+Physical Exam:
+Gen: WDWN male in NAD
+Skin: W/D intact
+HEENT: NCAT, EOMI, PERRL, OP benign
+Neck: Supple, FROM -JVD
+Heart: RRR with holosystolic murmur
+Abd: SOft, NT/ND +BS
+Ext: Warm, well-perfused -edema
+Neuro: A&O x 3, MAE, non-focal
+
+Pertinent Results:
+[**1-24**] CXR: The cardiomegaly is unchanged. The post-sternotomy
+wires are stable as well as the repair device. Compared to the
+previous radiograph, there is slight increased engorgement of
+the vessels with unchanged appearance of the basal atelectasis
+and bilateral pleural effusions. There is no pneumothorax. There
+are no new areas of consolidation, worrisome for pneumonia.
+[**1-15**] Echo: Pre-CPB: No spontaneous echo contrast is seen in the
+left atrial appendage. A left-to-right shunt across the
+interatrial septum is seen at rest. A large secundum atrial
+septal defect is present. The right ventricular cavity is
+moderately dilated with mild global free wall hypokinesis. There
+are simple atheroma in the descending thoracic aorta. Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+moderately thickened. Severe (4+) mitral regurgitation is seen.
+The tricuspid valve leaflets are moderately thickened. Moderate
+[2+] tricuspid regurgitation is seen. There is a moderate sized
+pericardial effusion. Unable to demonstrate a VSD, although the
+membranous septum is attenuated, and appears abnormal. Post-CPB:
+The patient received a patch ASD repair, VSD repair, and a
+mitral valve repair and a mitral ring annuloplasty. On no
+pressors or inotropes, A-Paced. There is a trace of residual
+inter-atrial flow at the level of the cardiac cushion. There is
+a trace of MR, and trace to 1+ TR. No VSD is apparent. RV
+systolic fxn remains mildly depressed. LV systolic fxn remains
+mildly depressed. Aorta intact, and trace AI remains as
+pre-bypass.
+[**1-21**] Echo: The left atrium is dilated. The right atrium is
+moderately dilated. No atrial septal defect is seen by 2D or
+color Doppler. There is mild symmetric left ventricular
+hypertrophy with normal cavity size and systolic function
+(LVEF>55%). There is a mild resting left ventricular outflow
+tract obstruction. There is no ventricular septal defect. The
+right ventricular cavity is mildly dilated with mild global free
+wall hypokinesis. The aortic root is mildly dilated at the sinus
+level. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. Mild (1+) aortic regurgitation
+is seen. The mitral valve leaflets are moderately thickened.
+There is no mitral valve prolapse. A mitral valve annuloplasty
+ring is present. Mild (1+) mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. The estimated
+pulmonary artery systolic pressure is normal. There is a small
+pericardial effusion. The effusion appears circumferential.
+There are no echocardiographic signs of tamponade. Compared with
+the prior study (images reviewed) of [**3291-7-12**], the previously
+seen primum ASD appears to have been repaired with a patch.
+There is no residual shunt across the defect. The degrees of
+mitral and tricuspid regurgitation have decreased - both are now
+only mild. The right ventricle appears less dilated and less
+hypokinetic. The estimated pulmonary artery systolic pressures
+are now normal.
+
+[**3292-1-15**] 03:19PM BLOOD WBC-21.7*# RBC-4.21* Hgb-11.8* Hct-35.7*
+MCV-85 MCH-28.0 MCHC-33.0 RDW-13.7 Plt Ct-91*
+[**3292-1-18**] 07:10PM BLOOD WBC-19.2* RBC-4.42* Hgb-12.2* Hct-37.7*
+MCV-85 MCH-27.6 MCHC-32.4 RDW-13.4 Plt Ct-62*#
+[**3292-1-26**] 07:30AM BLOOD WBC-11.3* RBC-4.81 Hgb-12.9* Hct-39.6*
+MCV-82 MCH-26.9* MCHC-32.6 RDW-13.2 Plt Ct-382
+[**3292-1-15**] 03:19PM BLOOD PT-18.3* PTT-32.8 INR(PT)-1.7*
+[**3292-1-20**] 06:20AM BLOOD PT-12.3 PTT-26.2 INR(PT)-1.0
+[**3292-1-15**] 04:53PM BLOOD UreaN-12 Creat-1.0 Cl-117* HCO3-20*
+[**3292-1-26**] 07:30AM BLOOD Glucose-107* UreaN-8 Creat-1.1 Na-140
+K-4.2 Cl-102 HCO3-25 AnGap-17
+[**3292-1-20**] 06:20AM BLOOD Calcium-7.6* Phos-2.1* Mg-2.3
+
+Brief Hospital Course:
+Mr. [**Known patient firstname 184**] was a same day admit after undergoing all
+pre-operative work-up as an outpatient. On day of admission he
+was brought directly to the operating room where he underwent a
+atrial septal defect repair, closure of VSD, and mitral valve
+repair. Please see operative report for surgical details.
+Following surgery he was transferred to the CVICU for invasive
+monitoring in stable condition. Within 24 hours he was weaned
+from sedation, awoke neurologically intact and extubated. On
+post-op day one he appeared to be doing well and was transferred
+to the telemetry floor for further care. On post-op day two his
+chest tubes were removed. Also on this day he had heart rhythm
+issues, including 2 degree AV and complete heart block. On
+post-op day three a HIT panel was sent d/t decreasing platelets.
+EP was also consulted d/t rhythm issues with plan for pacemaker.
+Also hematology consulted on Mr. [**Known patient lastname 4837**] this day for his
+thrombocytopenia. HIT panel was negative and thrombocytopenia
+thought to be medication induced. He remained stable with
+epicardial pacing wires intact until pacemaker was placed. He
+did have rise in temperature which delayed the placement of the
+pacemaker by several days. He worked with physical therapy and
+passed an ETT without incidence and therefore a PPM was not
+placed but will f/u with Dr. [**Last Name (STitle) 299**].
+
+Medications on Admission:
+Vitamin 500mg qd
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+2. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO every [**3-23**]
+hours as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO BID (2 times a day)
+for 5 days.
+Disp:*10 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+6. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO BID (2 times a day) for 3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+7. Aspirin EC 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 891**] VNA
+
+Discharge Diagnosis:
+Atrial Septal Defect (ASD), Ventricular Septal Defect (VSD),
+Mitral Regurgitation s/p ASD Repair, VSD Repair, MV Repair
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds for 10 weeks.
+No driving until follow up with surgeon.
+
+Followup Instructions:
+Wound Check on [**Hospital Ward Name 75**] 6 in 2 weeks
+Make an appointment with Dr. [**Last Name (STitle) **] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) 299**] for 1 [**Telephone/Fax (1) 28094**]
+
+
+Completed by:[**3292-2-18**]
+
+DOC CLASS

@@ -1,0 +1,171 @@
+Chief Complaint:
+   24 Hour Events:
+   - patient
+s renal function worse, trialed on fluid challenge with 1L NS
+   in AM, BUN/Cr slightly improved. RIJ by US full indicating volume
+   overload, so given 120mg IV lasix
+   - renal recs: trial diuresis, and consider RRT today. Possible evidence
+   of microangiopathy on 2^nd look at renal biopsy. Sent hemolysis workup
+   and smear for schistocytes. Metoprolol discontinued as has been held,
+   also to leave BP room for possible RRT
+   - neuro recs: her current exam consistent with brainstem pathology.
+   Most likely etiology toxic/metabolic vs uremia. Serum copper and zinc
+   sent
+   - Order placed for PICC line placement
+ INVASIVE VENTILATION - START [**3225-9-6**] 04:43 AM
+   Allergies:
+   Sulfasalazine
+   Unknown;
+   Last dose of Antibiotics:
+   Aztreonam - [**3225-9-3**] 12:00 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3225-9-5**] 05:14 PM
+   Heparin Sodium (Prophylaxis) - [**3225-9-6**] 02:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3225-9-6**] 06:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 35.9
+C (96.6
+   HR: 83 (83 - 90) bpm
+   BP: 91/59(65) {77/57(62) - 118/84(92)} mmHg
+   RR: 30 (25 - 38) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 84.3 kg (admission): 92 kg
+   Height: 66 Inch
+    CVP: 23 (18 - 26)mmHg
+   Mixed Venous O2% Sat: 35 - 35
+   Total In:
+                                                                  6,526 mL
+                                                                    414 mL
+   PO:
+   TF:
+                                                                    960 mL
+                                                                    276 mL
+   IVF:
+                                                                  4,716 mL
+                                                                    138 mL
+   Blood products:
+   Total out:
+                                                                  1,032 mL
+                                                                    460 mL
+   Urine:
+                                                                  1,032 mL
+                                                                    460 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,494 mL
+                                                                    -46 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 572 (572 - 1,078) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10, FiO2 > 60%, RR >35
+   PIP: 17 cmH2O
+   SpO2: 100%
+   ABG: 7.26/38/29/17/-10
+   Ve: 17.3 L/min
+   PaO2 / FiO2: 29
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   214 K/uL
+   8.2 g/dL
+   128 mg/dL
+   2.0 mg/dL
+   17 mEq/L
+   5.1 mEq/L
+   113 mg/dL
+   114 mEq/L
+   148 mEq/L
+   27.0 %
+   27.9 K/uL
+        [image002.jpg]
+                             [**3225-9-4**]  05:12 AM
+                             [**3225-9-4**]  09:36 AM
+                             [**3225-9-4**]  11:43 AM
+                             [**3225-9-4**]  05:16 PM
+                             [**3225-9-5**]  05:00 AM
+                             [**3225-9-5**]  12:15 PM
+                             [**3225-9-5**]  04:57 PM
+                             [**3225-9-5**]  08:51 PM
+                             [**3225-9-6**]  03:52 AM
+                             [**3225-9-6**]  04:38 AM
+   WBC
+   27.4
+   36.7
+   27.9
+   Hct
+   29.3
+   26.8
+   27.0
+   Plt
+   295
+   239
+   214
+   Cr
+   1.9
+   2.2
+   2.0
+   2.2
+   2.0
+   TropT
+   3.12
+   TCO2
+   16
+   15
+   15
+   14
+   18
+   Glucose
+   143
+   171
+   149
+   136
+   128
+   Other labs: PT / PTT / INR:17.0/29.2/1.5, CK / CKMB /
+   Troponin-T:3705/42/3.12, ALT / AST:253/226, Alk Phos / T Bili:130/1.5,
+   Amylase / Lipase:278/98, Differential-Neuts:90.0 %, Band:1.0 %,
+   Lymph:6.0 %, Mono:3.0 %, Eos:0.0 %, D-dimer:5093 ng/mL, Fibrinogen:667
+   mg/dL, Lactic Acid:4.0 mmol/L, Albumin:3.7 g/dL, LDH:1081 IU/L,
+   Ca++:8.1 mg/dL, Mg++:3.2 mg/dL, PO4:6.2 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3225-9-6**] 12:12 AM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3225-8-21**] 03:25 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

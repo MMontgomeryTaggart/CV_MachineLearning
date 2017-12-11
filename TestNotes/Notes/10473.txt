@@ -1,0 +1,225 @@
+Admission Date:  [**2944-7-20**]              Discharge Date:   [**2944-7-23**]
+
+Date of Birth:  [**2874-8-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6056**]
+Chief Complaint:
+Transfer for STEMI
+
+Major Surgical or Invasive Procedure:
+Caridac catheterizations on [**7-20**] and [**7-22**]
+
+
+History of Present Illness:
+HPI:  69 Year old man with a PMH of STEMI w/ stents to the LAD
+in [**2938**] presents today after transfer via [**Location (un) 2045**] from [**Location (un) **]
+where he came this am with chest pain determined via ECG to be
+an anterior MI.  His pain was relieved by Nitroglycerin.  In the
+cath lab at [**Hospital1 68**], he had a cypher stent placed to the LAD where
+the previous stent had re-stenosed.  The right side was also
+found to be stenotic approx. 90% but this was not stented today.
+ The pt. denies SOB, CP, DOE, PND, orthopnea, cough, nausea,
+vomiting.  Plan is to return to cath lab in 2 days for stenting
+of the right sided lesion(s).  The patient is now resting
+comfortably in NAD and no CP.
+
+
+Past Medical History:
+S/P STEMI in [**2938**] with stent to the LAD
+HTN
+S/P broken ribs (L)
+Former alcoholic
+S/P Macular repair
+Alcohol withdrawl syndrome
+GI bleeding
+
+
+Social History:
+Golf course attendant; married; current smoker 1ppd x >30 pack
+years.  1 [**11-24**] Glasses of red wine per day (but prior hx of heavy
+drinking)
+
+
+Family History:
+Father had MI age 89
+Brother with [**Name (NI) 6057**] Lymphoma
+Sister with Leukemia
+Macular Degeneration
+
+Physical Exam:
+Vitals- 102/65  56   14  T 99.4
+HEENT- PERRL, EOMI, MMM
+CV- RRR, No M/R/G S1, S2, S3 present; 2+ puluses DP, PT, Radial,
+Carotid; No carotid bruits.
+Lung- CTA Bilat.
+Abd- NT, ND, BSNA, No HSM, No Masses
+Ext- No C/C/E
+Neuro- A and O x 3, CN II-XII intact
+
+Pertinent Results:
+[**2944-7-20**] 11:16PM   POTASSIUM-4.2
+[**2944-7-20**] 11:16PM   CK(CPK)-803*
+[**2944-7-20**] 11:16PM   CK-MB-87* MB INDX-10.8* cTropnT-4.38*
+[**2944-7-20**] 11:16PM   PLT COUNT-135*
+[**2944-7-20**] 01:32PM   TYPE-ART O2 FLOW-2 PO2-70* PCO2-40 PH-7.37
+TOTAL CO2-24 BASE XS--1 INTUBATED-NOT INTUBA
+[**2944-7-20**] 01:32PM   GLUCOSE-142* K+-3.7
+[**2944-7-20**] 01:32PM   HGB-14.1 calcHCT-42 O2 SAT-90
+[**2944-7-20**] 01:30PM   GLUCOSE-150* UREA N-16 CREAT-1.3* SODIUM-141
+POTASSIUM-3.8 CHLORIDE-109* TOTAL CO2-22 ANION GAP-14
+[**2944-7-20**] 01:30PM   ALT(SGPT)-22 AST(SGOT)-21 CK(CPK)-63 ALK
+PHOS-88 AMYLASE-94 TOT BILI-0.4
+[**2944-7-20**] 01:30PM   CK-MB-NotDone cTropnT-<0.01
+[**2944-7-20**] 01:30PM   ALBUMIN-3.9 CHOLEST-142
+[**2944-7-20**] 01:30PM   %HbA1c-5.6 [Hgb]-DONE [A1c]-DONE
+[**2944-7-20**] 01:30PM   TRIGLYCER-53 HDL CHOL-54 CHOL/HDL-2.6
+LDL(CALC)-77 LDL([**Last Name (un) 6058**])-85
+[**2944-7-20**] 01:30PM   WBC-14.9*# RBC-4.87# HGB-14.9# HCT-43.9#
+MCV-90 MCH-30.6 MCHC-34.0 RDW-13.0
+[**2944-7-20**] 01:30PM   NEUTS-84.3* LYMPHS-12.0* MONOS-3.4 EOS-0.3
+BASOS-0.1
+[**2944-7-20**] 01:30PM   PLT COUNT-147*
+[**2944-7-20**] 01:30PM   PT-14.7* PTT->150* INR(PT)-1.4
+
+Brief Hospital Course:
+Assessment: 69 Year old man with a PMH of STEMI w/ stents to the
+LAD presents today with STEMI requiring stents to LAD and plan
+to re-cath with Right sided stents in 2 days.
+.
+Plan:
+1) CAD.  STEMI on EKG done at [**Hospital6 6059**].
+Enzymes as follows:  1st set (OSH), CK 53 Trpo <0.04; 2nd set
+([**Hospital1 68**]) CK 63
+Trop <0.01; 3rd Set CK 803  MB 87 Trop 4.38; 4th set CK 478  MB
+50  Trop 2.42
+.
+Cardiac catheterization revealed the following on [**7-20**]:
+1. Selective coronary angiography of this right dominany system
+revealed two vessel coronary artery disease. The left main
+coronary artery was without angiographyically apparent flow
+limiting stenosis. The left anterior descending coronary artery
+had stent in the proximal segment. The proximal portion of the
+stent was patent, but there was a 99% in-stent restenosis in the
+distal portion of the stent beyond the origin of D1. There was
+TIMI I flow beyond the lesion. The left circumflex coronary
+artery was patent in the proximal, mid, and distal segments. The
+right coronary artery was the dominant vessel and had a focal
+90% stenosis in the proximal segment. The mid and distal RCA
+were without angiographically apparent flow limiting stenoses.
+2. Right heart catheterization revealed mildly elevated right
+sided
+pressures. The pulmonary capillary wedge pressures mean was 20
+mmgh.
+3. There was a preserved cardiac output and index.
+4. Successful stent was placed to the LAD on [**7-20**] with a 3.0 x
+23 mm Cypher drug-eluting stent
+.
+Cardiac catheterization revealed the following on [**7-22**]:
+1. Coronary angiography of this right-dominat circulation showed
+single-vessel CAD. The LMCA, LAD and LCX were free of
+flow-limiting
+disease. The LAD stent was widely patent. The RCA had an 80%
+proximal
+and a 30% mid vessel stenosis.
+2. Resting hemodynamics showed normal central aortic pressures.
+3. Successful stenting of the RCA with a 3.5 mm Cypher
+drug-eluting
+stent, which was post-dilated to 4.0 mm. Final angiography
+showed no
+residual stenosis, no dissection and normal flow (see PTCA
+comments).
+.
+Pt is doing well s/p stent placement to L and R sided lesion.
+  - [**Last Name (LF) **], [**First Name3 (LF) **], Atorvastatin, tirofiban
+  - Will restart Beta Blocker once HR increases a bit
+  - CP free for now.  All cardiac enzymes negative.
+.
+Echo done [**7-22**] revealed the following:
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is mildly
+dilated. Overall left ventricular systolic function is mildly
+depressed with severe hypokinesis of the mid to distal septum
+and apex. EF 45%.  No masses or thrombi are seen in the left
+ventricle. Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+There is no aortic valve stenosis. The mitral valve leaflets are
+mildly thickened. There is no mitral valve prolapse. Trivial
+mitral regurgitation is seen. The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+.
+2) Decreased K+
+  - Repleated throughout visit for K <4.0.  Can follow
+electrolytes with Dr. [**Last Name (STitle) **].
+.
+3) Pump
+  - EF 45% on [**2944-7-22**] (35% in [**11-23**]). HR low in 40s-50s.  Held
+Beta blocker for low HR on days [**11-24**].  Restarted day 3.
+Discharged on Toprol XL 50mg daily.  Also added lisinopril at
+2.5mg daily.  Can titrate up at visit with Dr. [**Last Name (STitle) **] at LGH.
+.
+4) FEN
+  - Cardiac diet; Checked and repleated electrolytes as needed
+.
+5) Code Status: FULL CODE
+
+
+
+
+Medications on Admission:
+Atenolol 25, Lipitor 10 Daily, Norvasc 5 4x/day, [**Last Name (STitle) **] 325, Vit
+B1, Occuvite
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*5*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*5*
+3. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*5*
+4. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+5. B-Complex with Vitamin C     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*5*
+7. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*5*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+STEMI with cath and stent placement
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Take all meds as prescribed.  Please call Dr.[**Name (NI) 6060**] office if
+any new symptoms arise including chest pain, fevers, shortness
+of breath, arm or jaw pain, etc.  If pain in groin, swelling or
+bruising persists, please call your physician and seek medical
+attention immediately.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] (Cardiologist in [**Hospital1 **]) on Monday [**8-3**] at 2:30pm
+
+
+
+
+
+DOC CLASS

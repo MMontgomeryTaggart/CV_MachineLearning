@@ -1,0 +1,215 @@
+TITLE:
+   Chief Complaint:  Suicidal ideation
+   Reason for MICU admisssion: Alcohol withdrawal
+   HPI:
+   49 yo man with h/o depression, prior admissions for EtOH withdrawal,
+   and s/p nephrectomy who presented to to the ED today for suicidal
+   ideation. He describes a longstanding history of EtOH abuse with
+   increased intake of 1 quart of vodka and 1 quart of listerine daily
+   over the past 2 weeks. In this setting, he developed suicidal ideation
+   with a plan to stab himself yesterday night. However, he threw away the
+   knife and instead presented to the ED. He reports that his last drink
+   was at 6am. Review of OMR records reveals multiple prior presentations
+   for suicidal ideation in the setting of vodka and listerine
+   intoxication and at least [**5-30**] detox attempts in past. He also has a
+   history of blackouts, withdrawal seizures, and delirium tremens.
+   In the ED, initial VS were: T 98.1, HR 124, BP 115/68, RR 20, O2sat 99%
+   RA. Physical exam notable for mild epigastric pain. Labs notable for
+   mild renal failure with Cr 1.3, anion gap of 24, serum EtOH 346 but
+   otherwise negative serum and urine tox screen, and ketonuria. He was
+   started on a CIWA scale for EtOH withdrawal due to anxiety and tremor
+   and subsequently required valium 10mg IV hourly, receiving 4 doses in
+   the ED. He also received 1L banana bag and 2L NS, as well as
+   ondansetron 2mg IV. Decision was made to admit to MICU for further
+   management of EtOH withdrawal. Psych aware with plan to evaluate when
+   stabilized. Prior to transfer, labs repeated with improvement in anion
+   gap to 16 and decrease in serum EtOH to 98. Lactate 3.9. VS on
+   transfer: T 99.2, HR 111, BP 105/54, RR 17, O2sat 99% RA.
+   On the floor, pt reports feeling anxious and tremulous. Denies current
+   suicidal ideation, visual or auditory hallucinations. Reports feeling
+   hungry with last meal on Saturday. He has mild nausea but no abdominal
+   pain. Of note, no urine output since presentation until foley placed on
+   floor.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+    Not taking any currently, last took Paxil 6 months ago
+   Past medical history:
+   Family history:
+   Social History:
+   EtOH withdrawal
+   Hypertension
+   Hyperlipidemia
+   Depression
+   S/p right nephrectomy in [**2647**] ([**Hospital1 172**])
+   Father, d. 70 of MI.
+   Occupation: Formerly worked in meat packing, currently unemployed.
+   Drugs: H/o cocaine use 10-15 years ago, denies IVDU
+   Tobacco: 1 ppd/week
+   Alcohol: As above
+   Other: Lives with mother
+   Review of systems:
+   (+) Per HPI. Diffuse rash stable over past month, pruritic at times.
+   Unspecified weight loss due to decreased po intake.
+   (-) Denies fever, chills, night sweats. Denies headache, blurry vision,
+   dizziness. Denied cough, shortness of breath. Denied chest pain or
+   tightness, palpitations. No recent change in bowel or bladder habits.
+   No dysuria. Denied arthralgias or myalgias.
+   Flowsheet Data as of [**2655-8-7**] 03:42 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 102 (102 - 102) bpm
+   BP: 130/73(88) {130/73(88) - 130/73(88)} mmHg
+   RR: 14 (14 - 14) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+             3,190 mL
+   PO:
+             TF:
+   IVF:
+   190 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    400 mL
+   Urine:
+   400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  2,790 mL
+   Respiratory
+   SpO2: 100%
+   ABG: ///22/
+   Physical Examination
+   General: Tremulous but in no acute distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: Supple, JVP not elevated, no LAD
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: Soft, bowel sounds present, mild suprapubic tenderness without
+   guarding or rebound, no organomegaly
+   GU: Foley in place
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Skin: Papular rash with some pustular lesions diffusely over chest and
+   back and scattered over all extremities.
+   Neuro: AAO x 3, CN II-XII grossly intact, strength 5-/5 in all
+   extremities, sensation intact, tremulous upper extremities but able to
+   do finger-to-nose, no pronator drift, DTR symmetric, toes downgoing on
+   Babinski, gait not assessed.
+   Labs / Radiology
+   191
+   52
+   152
+   1.1
+   15
+   22
+   138
+   3.2
+   138
+   18.2
+   9.2
+        [image002.jpg]
+   Other labs: ALT / AST:28/42, Alk Phos / T Bili:81/0.7, Amylase /
+   Lipase:/55, Differential-Neuts:66.2, Lymph:29.2, Mono:2.9, Eos:0.6,
+   Lactic Acid:3.9, Albumin:3.5, Ca++:7.6, Mg++:1.2, PO4:1.5
+   Fluid analysis / Other labs: [**8-6**] (6:30pm)
+   Na 142, K 3.9, Cl 93, HCO3 25, BUN 18, Cr 1.3, Gluc 129, AnGap 24
+   Serum EtOH 346
+   Serum ASA, Acetmnphn, [**Last Name (LF) **], [**First Name3 (LF) **], Tricyc Negative
+   Urine Benzos, Barbs, Opiates, Cocaine, Amphet, Mthdne Negative
+   U/A: Neg nit/leuk, lg bld, RBC 0-2, WBC 0-2, bact mod, yeast none, epi
+   [**3-29**], [**7-4**] gran casts
+   [**8-7**] (1am)
+   Serum EtOH 98
+   ECG: Sinus tachycardia at 101 bpm. Nl axis/intervals. TWI in II, III,
+   aVF, V4, V5 not seen on prior from [**2652-12-23**] (equivocal in II, III) in
+   absence of any q waves or specific ST changes.
+   Assessment and Plan
+   49 yo man with a history of depression as well as multiple past
+   presentations for suicidal ideation in the setting EtOH intoxication
+   here again with same complaint and admitted for EtOH withdrawal.
+   EtOH withdrawal: Pt with longstanding history of EtOH abuse as well as
+   EtOH withdrawal including withdrawal seizures and delirium tremens. Now
+   admitted for EtOH withdrawal with signs/symptoms of tremor and
+   tachycardia approximately 18 hours since his last drink.
+   - Valium 10mg IV prn to achieve light sedation, then q1h for CIWA > 10
+   - Monitor electrolytes; replete K, Mg, Phos, Ca prn
+   - Aggressive fluid resuscitation
+   - Daily MVI, thiamine, folate
+   - NPO for now
+   - Social Work consult
+   - Psych consult in AM: pt reports interest in detox
+   Suicidal ideation: H/o depression with multiple prior presentations for
+   suicidal ideation in the setting of EtOH intoxication. Pt currently
+   denies SI/HI.
+   - 1:1 sitter for now
+   - H/o paxil but not currently taking meds
+   - Psych to evaluate in AM
+   Elevated anion gap: Likely multifactorial with ketosis from EtOH
+   intoxication as well as likely starvation ketosis. Also with elevated
+   lactate. Serum/urine tox screens otherwise negative. Now improving s/p
+   2L IVF in ED.
+   - Continue aggressive IV fluid resuscitation
+   - Trend lactate
+   - Repeat U/A
+   - NPO for now but po diet in AM if alert
+   Acute renal failure: S/p nephrectomy in past with baseline Cr of 1. Cr
+   1.3 on admission but now improved to 1.1. Likely prerenal in the
+   setting of decreased po intake given Hct suggestive of
+   hemoconcentration and improvement in Cr with IV fluids.
+   - Continue IV fluids as above
+   - Monitor urine output and trend Cr
+   - No further work-up for now given interval improvement on IV fluids
+   Urinary retention: No h/o urinary retention. [**Month (only) 56**] be in setting of EtOH
+   intoxication or valium.
+   - Foley for now with voiding trial when acute issues stabilized
+   Diffuse TWI: Nonspecific. Cardiac risk factors of HTN and
+   hyperlipidemia but ACS unlikely in absence of chest pain.
+   - Repeat ECG in AM; try to obtain more recent ECG for comparison
+   Hypertension: BP currently controlled. Not currently taking meds. Will
+   need outpatient follow-up.
+   Hyperlipidemia: Not currently taking meds. Will need outpatient
+   follow-up.
+   Rash: Diffuse, papular and pustular lesions stable x 1 month. Ddx acne
+   vulgaris v. folliculitis. No evidence of cellulitic superinfection.
+   - Monitor
+   Polycythemia: Hct 52 on admission. Likely represents hemoconcentration
+   in setting of dehydration.
+   - Hydrate overnight and trend Hct in AM
+   Tobacco abuse:
+   - Smoking cessation advised
+   - Nicotine patch
+   ICU Care
+   Nutrition:
+   Comments: IVF as above, replete electrolytes, NPO for now
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2655-8-7**] 02:00 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments: HCP is mother [**Name (NI) 2447**]
+   [**Telephone/Fax (1) 9460**]. PCP is [**Last Name (NamePattern4) **]. [**Last Name (STitle) 9465**], [**Hospital3 514**].
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

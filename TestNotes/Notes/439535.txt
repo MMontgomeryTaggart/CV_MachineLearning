@@ -1,0 +1,280 @@
+Chief Complaint:  Reason for Transfer: Hypoxia
+   HPI:
+   The patient was noted to be satting 85% on room air and using accessory
+   muscles to breath.  He was started on a Nonrebreather by the team and
+   did report some improvement in dyspnea and had an objective improvement
+   in saturation.  EKG & CXR ordered with minimal change, ABG could not be
+   obtained. The patient was started on a Heparin gtt for concern of PE
+   despite guaiac positivity (no bolus) and was transferred to the ICU for
+   further monitoring.
+   VS on transfer 97.9 114 25 100% on NRB.
+   Please see MICU [**Location (un) **] initial note for HPI. He was transfered to the
+   floor from the ICU 12 hours prior after hypotension, ascites and
+   pneumonia.  He was started on Vitamin K and continued on Vancomycin,
+   Zosyn and Azithromycin.
+   On arrival to the ICU, the patient is breathing rapidly but reports
+   improved breathing with non-rebreather.  He denies fatigue, chest pain
+   and reports that his abdominal pain is improved.
+   We discussed the seriousness of his condition, the need for intubation
+   and his brother was called to discuss the same information.
+   Review of systems:
+   (+) Per HPI. +runny nose, + dry cough, + leg edema, +hemorrhoids
+   (-) Denies fever, chest pain or tightness.  No recent change in bowel
+   or bladder habits. No dysuria. Denied arthralgias or myalgias.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**3007-10-24**] 02:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3007-10-24**] 10:11 AM
+   Vancomycin - [**3007-10-25**] 11:32 AM
+   Infusions:
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Midazolam (Versed) - 5 mg/hour
+   Other ICU medications:
+   Fentanyl - [**3007-10-25**] 04:15 PM
+   Midazolam (Versed) - [**3007-10-25**] 04:27 PM
+   Other medications:
+   Heparin IV gtt
+   Albuterol 0.083% Neb Soln 1 NEB IH Q6H
+   Ipratropium Bromide Neb 1 NEB IH Q6H
+   Aluminum-Magnesium Hydrox.-Simethicone 15-30 mL PO/NG QID:PRN
+   Mexiletine 150 mg PO Q8H
+   Azithromycin 500 mg PO/NG Q24H
+   Morphine SR (MS Contin) 15 mg PO Q12H:PRN pain
+   Benzonatate 100 mg PO TID cough
+   Phytonadione 2 mg PO/NG DAILY x3 days (d1=[**10-24**])
+   Cepacol (Menthol) 1 LOZ PO PRN cough
+   Piperacillin-Tazobactam 4.5 g IV Q8H
+   Clonazepam 0.5 mg PO/NG QHS
+   Senna 1 TAB PO/NG [**Hospital1 **]:PRN constipation
+   Docusate Sodium 100 mg PO BID
+   FoLIC Acid 1 mg PO/NG DAILY
+   Guaifenesin [**4-19**] mL PO/NG Q6H:PRN cough
+   Vancomycin 1000 mg IV Q 12H
+   .
+   Home Medications:
+   Mexiletine 150mg q 8hours
+   Morphine 15 mg QHS
+   Spironolactone 25mg qday
+   Past medical history:
+   Family history:
+   Social History:
+   Past Medical History:
+   -Esophageal CA thought to be definitively treated with cisplastin and
+   5-FU
+   -Hepatitis C diagnosed at age 17 for which he has never been treated or
+   followed
+   -Ascites and 2 paracenteses
+   Please see initial note
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Please see initial note
+   Review of systems:
+   Flowsheet Data as of [**3007-10-25**] 05:31 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.6
+C (97.9
+   HR: 112 (110 - 145) bpm
+   BP: 87/62(68) {79/52(62) - 146/80(94)} mmHg
+   RR: 28 (19 - 36) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 81 kg (admission): 79.8 kg
+             Total In:
+                                                                    600 mL
+                                                                    270 mL
+   PO:
+                                                                    130 mL
+             TF:
+   IVF:
+                                                                    470 mL
+                                                                    270 mL
+   Blood products:
+   Total out:
+                                                                    520 mL
+                                                                    120 mL
+   Urine:
+                                                                    520 mL
+                                                                    120 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     80 mL
+                                                                    150 mL
+   Respiratory
+   O2 Delivery Device: Venti mask
+   SpO2: 99%
+   ABG: ///20/
+   Physical Examination
+   General: Alert, cachectic male, tachypneic
+   HEENT: Sclera icteric, MM slightly dry, oropharynx clear.
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: bilateral crackles & rhonchi
+   CV: Rapid rate, no murmur appreciated
+   Abdomen:  Less Distended than on admission, non-tender, hyperactive
+   bowel sounds
+   Ext: 2+ pitting edema, warm, well perfused, pulses auscultated with
+   doppler.
+   Skin: dry, tan skin
+   Neuro/psych: alert and oriented, appropriate. CN II-XII intact.
+   Labs / Radiology
+   49 K/uL
+   10.8 g/dL
+   246 mg/dL
+   0.9 mg/dL
+   17 mg/dL
+   20 mEq/L
+   101 mEq/L
+   3.6 mEq/L
+   133 mEq/L
+   32.5 %
+   7.2 K/uL
+        [image002.jpg]
+                                  [**3003-12-12**]
+                         2:33 A11/13/[**3006**]  05:28 AM
+                                  [**3003-12-16**]
+                         10:20 P11/13/[**3006**]  05:29 PM
+                                  [**3003-12-17**]
+                         1:20 P11/14/[**3006**]  05:32 AM
+                                  [**3003-12-18**]
+                         11:50 P11/15/[**3006**]  05:32 AM
+                                  [**3003-12-19**]
+                         1:20 A11/15/[**3006**]  12:20 PM
+                                  [**3003-12-20**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3004-1-12**]
+                                   1:20 P
+                                  [**3004-1-12**]
+                                   11:20 P
+                                  [**3004-1-12**]
+                                   4:20 P
+   WBC
+                                     5.4
+                                     7.2
+   Hct
+                                    28.9
+                                    32.5
+   Plt
+                                     45
+                                     49
+   Cr
+                                     1.1
+                                     0.8
+                                     0.9
+   TropT
+                                    <0.01
+                                    <0.01
+   Glucose
+                                     79
+                                     103
+                                     246
+   Other labs: PT / PTT / INR:19.6/39.8/1.8, CK / CKMB /
+   Troponin-T:44//<0.01, ALT / AST:16/34, Alk Phos / T Bili:74/1.6,
+   Amylase / Lipase:/9, Differential-Neuts:83.2 %, Lymph:9.5 %, Mono:5.6
+   %, Eos:1.7 %, Lactic Acid:6.0 mmol/L, Albumin:2.4 g/dL, LDH:267 IU/L,
+   Ca++:7.6 mg/dL, Mg++:1.7 mg/dL, PO4:2.9 mg/dL
+   Fluid analysis / Other labs: 12:30p pH 7.40 pCO2 31 pO2 58 HCO3 20
+   Lactate:6.0 (Venous)
+   12:20p CK: 44  MB: Notdone  Trop-T: <0.01
+   05:32a
+   137  103  15
+   --------------<98
+   3.4  23  0.8
+   Ca: 7.6 Mg: 1.7 P: 2.8
+   CK: 49  MB: Notdone  Trop-T: <0.01
+   ALT: 18 AP: 77 Tbili: 1.9 AST: 50
+   11.2
+   17.4>-----<49
+   32.5
+   N:91.7 L:4.9 M:2.7 E:0.5 Bas:0.2
+   PT: 20.7  PTT: 36.5  INR: 1.9
+   Imaging: CXR [**10-25**]:
+   The Port-A-Cath tip is in the mid SVC, unchanged. The cardiac
+   silhouette is within normal limits. There is development of
+   consolidation within the left lower lobe since the previous study. This
+   is suspicious for pneumonia. There is also more faint densities within
+   the right base. PEG tube is seen.
+   .
+   CTA: Initial read, no PE but multiple ground glass bilateral opacities.
+   Microbiology: HCV, BCx Pending
+   Urine: Probable enterococcus, speciation pending
+   ECG: Sinus tachycardia with RBBB, change in morphology and difficult to
+   interpret
+   Assessment and Plan
+   Assessment and Plan:
+   58 yo male with esophageal CA in remission and hepatitis C returning to
+   the ICU with new hypoxic respiratory failure that has developed in the
+   last 12 hours.
+   # Hypoxic Respiratory failure: Initially thought to be PE and patient
+   was started on Heparin despite guaiac positivity.  CTA more consitent
+   with ARDS from peritonitis or PNA or influenza versus Pulmonary edema
+   from fluid shifts after paracentesis, aggressive resuscitation or
+   decreased EF.
+   - Intubate, initial ARDSnet ventilatory settings
+   - Bronchoscopy to evaluate for hemorrhage, obtain BAL
+   - D/C Heparin gtt
+   - Broaden antibiotics to Vanc/Cipro/Cefepime (expanded GI and GNR
+   coverage)
+   - Q2 MDIs PRN
+   - Obtain ABG/place Aline
+   - Sedation with Fentanyl/Midazolam
+   - BNP & Echo to evaluate for heart failure
+   - EKG, Cardiac Enzymes
+   - Repeat DFA
+   # Hypotension with lactic acidosis: Patient's BP ranging from 80s to
+   130s systolic, representing pain, and possible underlying sepsis with
+   elevated lactate.  DDx: Sepsis vs. hypovolemia vs. cardiogenic shock.
+   He does have likely d/t 3rd spacing in the setting of malnutrition,
+   liver disease, and cancer.  Lactate elevated from hypoxia, high work of
+   breathing and poor liver clearance.
+   - Boluses of NS prn
+   - Broaden ABx as above
+   - Repeat Lactate
+   # Tachycardia: Sinus tachycardia, likely representing underlying
+   sympathetic drive to breath and pain.
+   - Treat underlying causes
+   - Repeat EKG
+   - Continue Mexilitine
+   #: Anasarca/ Liver disease: Most likely d/t liver disease, although
+   cannot r/o some cardiac involvement
+   - Treat liver disease based on recs from hepatology
+   #: Esophageal CA: thought to be definitively treated with cisplatin and
+   5-FU.
+   - Notify Dr. [**Last Name (STitle) 1895**] and the onc team about admission and f/u any recs
+   they may have
+   #FEN: replete electrolytes PRN, low salt diet
+   #Prophy: pneumoboots, heparin TID, type and screen
+   #Code status: Full Code
+   #Communication: Patient; brother is health care proxy
+   #Dispo: pending clinical stability
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3225**] MD, MPH PGY-2 [**Numeric Identifier 9136**]
+   ICU Care
+   Nutrition:
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   Indwelling Port (PortaCath) - [**3007-10-25**] 11:30 AM
+   20 Gauge - [**3007-10-25**] 11:30 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

@@ -1,0 +1,215 @@
+[**Hospital Unit Name 4**] Progress Note
+   24 Hour Events:
+   - family meeting, husband requests transfer to [**Name (NI) **], discussed also
+   with PCP, [**Name10 (NameIs) **] to see if a MD [**First Name8 (NamePattern2) **] [**Last Name (Titles) **] will accept pt
+   - husband refused PICC or central line placement, documented in
+   metavision (breast surgeon approved PICC)
+   - continuing on zosyn (restarted)
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3378-7-15**] 02:57 AM
+   Infusions:
+   Propofol - 25 mcg/Kg/min
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3378-7-14**] 08:00 AM
+   Fentanyl - [**3378-7-14**] 12:11 PM
+   Heparin Sodium (Prophylaxis) - [**3378-7-14**] 11:14 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3378-7-15**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.3
+C (97.4
+   HR: 115 (113 - 123) bpm
+   BP: 115/73(88) {94/63(73) - 125/88(102)} mmHg
+   RR: 28 (13 - 33) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 77.4 kg (admission): 68.5 kg
+   Height: 61 Inch
+             Total In:
+                                                                  1,746 mL
+                                                                    635 mL
+   PO:
+             TF:
+                                                                  1,144 mL
+                                                                    391 mL
+   IVF:
+                                                                    442 mL
+                                                                    243 mL
+   Blood products:
+   Total out:
+                                                                    932 mL
+                                                                    295 mL
+   Urine:
+                                                                    752 mL
+                                                                    170 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    814 mL
+                                                                    340 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 450 (450 - 450) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 34 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 25 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.42/45/107/26/3
+   Ve: 6.8 L/min
+   PaO2 / FiO2: 268
+   Physical Examination
+   Pt awake and alert, unable to speak due to ET tube.
+   CHEST: ronchi b/l
+   CV: RRR, nl S1 and S2. no murmers.
+   ABD: soft, non-tender, positive bowel sounds.
+   EXT: warm and well perfused.
+   NEURO: Left pupil > right pupil. Pupils reactive
+   Labs / Radiology
+   362 K/uL
+   11.5 g/dL
+   133 mg/dL
+   1.0 mg/dL
+   26 mEq/L
+   4.0 mEq/L
+   35 mg/dL
+   102 mEq/L
+   141 mEq/L
+   33.8 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**3378-7-12**]  12:53 AM
+                             [**3378-7-12**]  10:22 AM
+                             [**3378-7-12**]  06:10 PM
+                             [**3378-7-13**]  04:04 AM
+                             [**3378-7-13**]  04:25 AM
+                             [**3378-7-13**]  08:34 PM
+                             [**3378-7-13**]  10:08 PM
+                             [**3378-7-14**]  06:50 AM
+                             [**3378-7-14**]  07:13 AM
+                             [**3378-7-15**]  03:00 AM
+   WBC
+   7.4
+   6.9
+   6.9
+   8.1
+   Hct
+   30.8
+   31.9
+   30.8
+   33.8
+   Plt
+   357
+   390
+   371
+   362
+   Cr
+   1.3
+   1.1
+   1.1
+   1.0
+   1.0
+   TCO2
+   28
+   31
+   29
+   30
+   30
+   30
+   Glucose
+   132
+   132
+   134
+   130
+   133
+   Other labs: PT / PTT / INR:12.6/31.8/1.1, ALT / AST:42/36, Alk Phos / T
+   Bili:286/0.6, Amylase / Lipase:50/40, Differential-Neuts:86.0 %,
+   Band:5.0 %, Lymph:5.0 %, Mono:2.0 %, Eos:1.0 %, Lactic Acid:1.9 mmol/L,
+   Albumin:3.3 g/dL, LDH:669 IU/L, Ca++:9.3 mg/dL, Mg++:2.1 mg/dL, PO4:2.7
+   mg/dL
+   Assessment and Plan
+   40F w metastatic breast cancer to liver and brain, who was admitted to
+   the [**Hospital Unit Name 4**] following seizures and PEA arrest.
+   # Acute Respiratory Failure: likely [**3-2**] MSSA HAP in the setting of
+   progressive metastatic malignancy.
+   S/p Cipro/Vanc (6/7
+ [**7-11**]). S/p zosyn x 7 days (6/7
+ [**7-12**]) for MSSA
+   HAP. S/p chest tube catheter placement for effusion and aggressive
+   diuresis. RLL  collapse
+   - zosyn ([**7-14**] - )
+   - gentle diuresis, lasix PRN, goal: euvolemia to net negative
+   - consider bronchoscopy and reopening RML
+   - continue mechanical ventilation - AC, failing PS
+   - wean propofol as tolerates
+   - will likely need tracheostomy
+   - CXR daily
+   - monitor pulmonary secretions
+   # Altered Mental Status: Without sedation seems more alert, but still
+   altered. [**Month (only) 8**] be from progression of dz vs over-sedation.
+   - requiring sedation to prevent agitation, will try to wean as possible
+   - head CT w/o contrast for acute processes, if changes, holding off for
+   now
+   # Acute Renal Failure: likely [**3-2**] pre-renal etiology in the setting of
+   third-spacing and aggressive diuresis. Cr peaked at 1.7, baseline 0.5.
+   Fe Urea 29. Improving Cr.
+   - goal euvolemia to net negative
+   - monitor Cr
+   - renally dose medications
+   # Seizure:  Known seizure disorder [**3-2**] brain metastases.
+   - monitor phenytoin levels
+   - need extra dose as levels consistently low
+   - continue dexamethasone to 8 mg [**Hospital1 **] for vasogenic edema
+   - contiune levetiracetam
+   # Anxiety:
+   - lorazepam 1mg TID:prn, however, stop today for AMS
+   # Metastatic Breast Cancer: Multiple family meetings with oncologist
+   describing grim prognosis
+ family continues to want aggressive care.
+   - Cont weekly Navelbine
+   - Pain control with Fentanyl
+   # Sinus Tachycardia:  CTA negative for PE.  Pain is controlled.  Worse
+   w respiratory distress. Most likely secondary to underlying diease and
+   metastasis. ? Anxiety.
+   - lorazepam being held due to AMS
+   # Hypernatremia: likely due to hpyovolemia, resolved
+   # s/p PEA arrest:  S/P PEA arrest [**3378-6-2**] requiring less than 2 minutes
+   of chest compressions.  Felt to be secondary to hypoxia from seizure.
+   No pressors and blood pressure stable. On telemetry.
+   # Transaminitis: Likely [**3-2**] br ca mets. Stable.
+   - cont to monitor LFTs
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**3378-7-15**] 12:26 AM 55 mL/hour
+   Lines:
+   Arterial Line - [**3378-7-3**] 05:19 AM
+   20 Gauge - [**3378-7-14**] 07:29 AM
+   - needs PICC, but HCP refuses
+   Prophylaxis:
+   DVT: hep sq
+   Stress ulcer: Prevacid
+   Code status: Full code
+   Disposition: Need to involve ethics for further management/goals of
+   care
+ family wants aggressive measures, but does not follow medical
+   advice
+
+
+DOC CLASS

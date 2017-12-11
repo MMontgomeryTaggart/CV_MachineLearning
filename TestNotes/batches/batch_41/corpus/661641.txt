@@ -1,0 +1,221 @@
+TITLE:
+   Chief Complaint: 54 M with long history of idiopathic dilated
+   cardiomyopathy, A-fib on coumadin, s/p AVJ ablation, s/p pacemaker, s/p
+   ICD, who was transferred from OSH for CHF management.
+   24 Hour Events:
+ EKG - At [**2878-10-12**] 09:00 AM
+ CARDIAC CATH - At [**2878-10-12**] 10:29 AM
+ PA CATHETER - START [**2878-10-12**] 02:36 PM
+   - 12:37 labs showed increase in bicarb 34 -> 42, putting out 900cc/hr
+   but Cr down-trending, continue on current lasix drip until AM.
+   -RUQ pain, and (+) [**Doctor Last Name 1815**] sign but no BM in 2 days and also LFTs had
+   been trending down, so increased bowel regimen, will reassess in AM and
+   trend LFTs in AM.
+   -Renal: Continue care as is, mentions + urine cultures ESBL Kleb most
+   recent [**2878-9-22**] (also [**2878-4-20**], [**2878-7-4**], failed gent therapy).
+   - Renal mentioned initiating treatment, however per urology [**2878-8-2**]
+   colonized and unless has symptoms don't treat. Patient no WBC, will not
+   start ABx currently.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 3.5 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2878-10-13**] 06:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 35.6
+C (96
+   HR: 80 (78 - 89) bpm
+   BP: 109/68(77) {96/55(67) - 123/93(96)} mmHg
+   RR: 16 (14 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: V Paced
+   Wgt (current): 90.7 kg (admission): 93.5 kg
+    PAP: (53 mmHg) / (26 mmHg)
+   Mixed Venous O2% Sat: 65 - 65
+   Total In:
+                                                                  2,060 mL
+                                                                     63 mL
+   PO:
+                                                                  1,410 mL
+   TF:
+   IVF:
+                                                                    364 mL
+                                                                     63 mL
+   Blood products:
+                                                                    286 mL
+   Total out:
+                                                                  3,800 mL
+                                                                  2,100 mL
+   Urine:
+                                                                  3,800 mL
+                                                                  2,100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,740 mL
+                                                                 -2,037 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///42/
+   Physical Examination
+   GENERAL: WDWN M in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera icteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP at mandible while sitting up in bed.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No murmurs. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Crackles diffusely bilaterally. No
+   wheezes or rhonchi.
+   ABDOMEN: Soft, NT. Markedly distended. + fluid wave. No HSM or
+   tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.
+   EXTREMITIES: Warm well perfused. 2+ LE edema bilaterally.
+   SKIN: Thickened hard skin of LE bilaterally.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   177 K/uL
+   9.0 g/dL
+   140 mg/dL
+   2.0 mg/dL
+   42 mEq/L
+   3.8 mEq/L
+   89 mg/dL
+   93 mEq/L
+   142 mEq/L
+   24
+   4.8 K/uL
+                             [**2878-10-11**]  01:34 PM
+                             [**2878-10-11**]  10:26 PM
+                             [**2878-10-12**]  05:16 AM
+                             [**2878-10-13**]  12:37 AM
+                             [**2878-10-13**]  02:16 AM
+   WBC
+   5.0
+   4.8
+   Hct
+   30.8
+   29.4
+   24
+   Plt
+   179
+   177
+   Cr
+   3.1
+   2.3
+   2.0
+   TropT
+   0.07
+   0.06
+   0.07
+   Glucose
+   117
+   83
+   140
+   Other labs: PT / PTT / INR:27.8/41.1/2.7, CK / CKMB /
+   Troponin-T:105/3/0.07, ALT / AST:56/66, Alk Phos / T Bili:170/1.4,
+   LDH:261 IU/L, Ca++:9.4 mg/dL, Mg++:2.4 mg/dL, PO4:3.2 mg/dL
+   ASSESSMENT AND PLAN:
+   1. Pump: Patient has advanced systolic CHF with EF of 15-20%.
+   Exacerbation likely [**2-14**] medication non compliance given that he can't
+   afford his medications or take care of himself.  Patient currently
+   appears volume overloaded, with JVP elevated to the mandible.  He
+   continues to have orthopnea, ascites, and LE edema. Plan for R heart
+   cath tomorrow, as INR currently 4.0. Would consider starting milrinone
+   after cath in addition to Lasix drip.   Negative 1.7L overnight since
+   initiation of diuresis.
+   -Will wedge today to assess volume status
+   -Continue Lasix gtt 3.5mg/hr to goal wedge 22, goal -2-3L/day
+   -Continue Milrinone
+   -Continue Metolazone 5mg po bid
+   -holding lisinopril in the setting of acute renal failure
+   -check [**Hospital1 **] electrolytes
+   .
+   # CORONARIES:  Patient has no known CAD. Cardiomyopathy is chronic, and
+   patient is non compliant with medications. However have not ruled out
+   ischemic etiology of CHF.
+   -NPO for possible cath today
+   -ASA, statin
+   -holding BB in the setting of hypotension and acute CHF exacerbation
+   .
+   .
+   # RHYTHM:  patient has history of VT, atrial tachycardia, afib s/p
+   ablation and ICD implant. Currently V paced.
+   -monitor on telemetry
+   -Hold Coumadin today
+   -hold digoxin given ARF. Will check dig level prior to continuing at
+   current dose.
+   .
+   #  Anticoagulation: INR 4.0, on coumadin for afib. Unable to perform
+   procedures such as catheterization, central line insertion, abdominal
+   paracentesis given current INR. Hesitant to give FFP given additional
+   volume would likely worsen heart failure.
+   -hold coumadin
+   -Vitamin K
+   -f/u INR in AM
+   .
+   #  Acute on chronic renal failure: Baseline Cr 2.1?. Cr improving with
+   diuresis. Improved from 4.1 at OSH. Likely [**2-14**] poor forward flow.
+   -mucomyst prior to c. cath tomorrow
+   -trend Cr. If worsening, would send urine lytes.
+   -renally dose meds (digoxin)
+   -hold lisinopril
+   .
+   #  Normocytic Anemia: HCT 30.8. MCV of 97. Stable from prior admission.
+   -check B12 and folate
+   -guaiac stools
+   -f/u Thyroid function as outpatient
+   .
+   #  Chronic hepatitis C: Patient has ascites, elevated LFTs, all stable
+   or improved from prior hospitalization. [**Month (only) 47**] be [**2-14**] congestive
+   hepatopathy. No abdominal pain, leukocytosis, or fevers that would be
+   concerning for SBP.
+   -consider therapeutic paracentesis once INR < 1.7
+   -trend LFTs. If worsening, would consider further work up.
+   .
+   .
+   FEN:  Heart healthy diet. Replete lytes PRN
+   .
+   ACCESS: PIV
+   .
+   PROPHYLAXIS:
+   -DVT ppx -INR 4.0
+   -Pain management with tylenol PRN
+   -Bowel regimen with  senna, colace
+   .
+   CODE: FULL confirmed with patient
+   .
+   COMM: with patient
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2878-10-11**] 02:11 PM
+   Prophylaxis:
+   DVT:  SC Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

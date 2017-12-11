@@ -1,0 +1,258 @@
+Chief Complaint:  CHIEF COMPLAINT: Dyspnea
+   REASON FOR MICU ADMISSION: Closer monitoring.
+   HPI:
+   Mr. [**Known patient lastname 6014**] is a 76 y.o. M s/p CABG on [**3133-4-11**] complicated
+   post-operatively with pulmonary edema, intubation and mechanical
+   ventilation, recently discharged to [**Hospital1 1267**] on [**5-16**], presents for
+   dyspnea.  He was noted to have experienced respiratory distress at
+   0900, audible bilateral wheezes and increased work of breathing with
+   retractions. He was given albuterol nebs, lasix 60 mg IV x 1,
+   solumedrol 60 mg IV x 1, and placed on 10L bipap at [**Hospital1 1267**].  CXR and EKG
+   completed and he was placed on tele.  CE and BNP were collected and ABG
+   completed at [**Hospital1 1267**].  He was unable to take his meds po and was
+   lethargic but arousable.  CK 322, trop I <0.05, BNP 4374. ABG at 7 AM
+   at [**Hospital1 1267**] 7.4/45/93/30 --> ABG at 10:42 AM at [**Hospital1 1267**] 7.45/46/82/31. CXR
+   CHF with possible superimposed PNA in RUL. He was transferred to [**Hospital1 5**]
+   for evaluation.
+   .
+   Per son, the patient has had constant audible wheezing since he was
+   extubated on [**4-27**] after his CABG.  He states that his father also had
+   some wheezing prior to admission.  Patient himself states he has
+   chronic cough but non productive. Denies fever, chest pain,
+   nausea/vomiting, abdominal pain, diarrhea.
+   .
+   In the ED, intial VS: T (not recorded) HR 70  BP 108/70  RR 28  O2 98%
+   on NRB.  Labs drawn significant for hyperkalemia 5.2, Cr 2.0, Bicarb
+   34, INR 3.6, and BNP 6521.  EKG and portable CXR performed.  Blood
+   cultures x 2 drawn.  Patient's ABG 7.47 / 51 / 114 / 38. Lactate 1.1
+   Given continuous nebulizer, methylprednisolone 60 mg x 1, ASA 600 mg PR
+   x 1, Levofloxacin 750 mg IV x 1, and ceftriaxone 1 gm IV x 1. Never
+   needed bipap. Admitted for closer monitoring.
+   .
+   Review of systems:
+   (+) Per HPI
+   (-) Denies fever, chest pain or tightness, nausea, vomiting, diarrhea,
+   abdominal pain.
+   Patient admitted from: [**Hospital1 5**] ER
+   History obtained from Patient, Family / Friend, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3133-5-23**] 08:00 PM
+   Other medications:
+   Aspirin 81 mg po daily
+   Digoxin 0.125 mg po daily
+   Colace 100 mg po BID
+   KCl 20 meq po BID
+   Ascorbic acid 500 mg po BID
+   Carvedilol 12.5 mg po BID
+   Esomeprazole 40 mg po daily
+   Furosemide 60 mg IV BID
+   Haloperidol 2 mg po TID
+   HISS
+   Latanoprost 1 drop bilateral qhs
+   MVI 1 po daily
+   Simvastatin 40 mg po qhs
+   Bactrim DS 1 tablet po BID
+   Ipratroprium bromide neb q6 hours
+   Albuterol neb q6 hours
+   Betaxolol 1 drop bilaterally 4 PM
+   Acetaminophen 650 mg po q4 hours prn
+   Mag Hydroxide 30 ml qhs prn
+   Albuterol neb q3 prn
+   Coumadin
+   Past medical history:
+   Family history:
+   Social History:
+   Atrial fibrillation (on coumadin)
+   Chronic obstructive pulmonary disease
+   Hypertension
+   Hyperlipidemia
+   Obesity
+   Glaucoma
+   Bronchitis
+   Myocardial infarction 30 y ago
+   Cholethiasis (by CT scan)
+   right pericardial Cyst (noted on CT [**3-16**])
+   Peripheral artery disease
+   PAST SURGICAL HISTORY:
+   [**3133-4-11**] Coronary artery bypass grafting to four vessels. (Left
+   internal mammary artery->Left anterior descending artery,
+   Saphenous vein graft(SVG)->Diagonal artery, SVG->Obtuse marginal
+   artery, SVG->Posterior descending artery.); Left atrial
+   appendage ligation.
+   Non contributory
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Occupation: Retired  Lives with wife
+   [**Name (NI) 3511**]:  2pks x 30y, quit smoking 25 years ago   ETOH: occasional
+   Review of systems:
+   Respiratory: Cough, Dyspnea
+   Flowsheet Data as of [**3133-5-23**] 10:33 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.7
+C (96.3
+   Tcurrent: 35.7
+C (96.3
+   HR: 66 (66 - 68) bpm
+   BP: 112/43(60) {92/43(59) - 112/55(68)} mmHg
+   RR: 12 (12 - 15) insp/min
+   SpO2: 96%
+   Heart rhythm: A Flut (Atrial Flutter)
+             Total In:
+             640 mL
+   PO:
+             100 mL
+   TF:
+   IVF:
+   40 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    385 mL
+   Urine:
+   185 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    255 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: 7.43/51/44//7
+   Physical Examination
+   VITAL SIGNS: T 95.6  HR 67  BP 94/57  RR 15  95% on 6L NC
+   GEN: lethargic elderly male with R temporal wound
+   HEENT: anicteric, EOMI, OP - mucous membranes moist, no cervical LAD,
+   upper airway wheezing
+   CHEST: wheezes throughout lungs
+   CV: irreg irreg, no m/r/g
+   ABD: NDNT, soft, NABS
+   EXT: no c/c, 2+ BLE edema
+   NEURO: A&O to name, president, [**Hospital1 5**], [**3132**].
+   DERM: R temporal head wound
+   Labs / Radiology
+        [image002.jpg]
+                                  [**3129-12-9**]
+                          2:33 A6/16/[**3132**]  06:23 PM
+                                  [**3129-12-13**]
+                                   10:20 P
+                                  [**3129-12-14**]
+                                   1:20 P
+                                  [**3129-12-15**]
+                                   11:50 P
+                                  [**3129-12-16**]
+                                   1:20 A
+                                  [**3129-12-17**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3130-1-9**]
+                                   1:20 P
+                                  [**3130-1-9**]
+                                   11:20 P
+                                  [**3130-1-9**]
+                                   4:20 P
+   TC02
+                                     35
+   Fluid analysis / Other labs: WBC 5.6  Hgb 9.2  Hct 29.2  Plt 226  MCV
+   93
+   N 88.2  L 10  M 1.2  E 0.4  Bas 0.2
+   PT 34.8  PTT 42.6  INR 3.6
+   .
+   Na 139  Cl 98  BUN 38  Gluc 158
+   K 5.2  Bicarb 34  Cr 2.0
+   .
+   BNP 6521
+   Dig 2.0
+   .
+   7.47/51/114/38
+   Imaging: [**5-23**] PORTABLE CXR: Final Read:
+   1. Recomended PA and lateral chest radiograph when condition permits
+   for further evaluation of increased retrocardiac opacity which may
+   represent atelectasis or pneumonia.
+   2. Mild pulmonary edema or cardiomegaly are similar to [**3133-5-11**].
+   Microbiology: [**5-23**] Blood Cultures x 2: pending
+   ECG: [**5-23**] EKG: atrial fibrillation at ~75 bpm, nl axis, no Q waves, no
+   ST changes or TWIs.  No change from prior at [**Hospital1 1267**]
+   Assessment and Plan
+   76 y.o. M s/p CABG complicated post-operatively with pulmonary edema,
+   intubation and mechanical ventilation, recently discharged to [**Hospital1 1267**] on
+   [**5-16**], presents for dyspnea.
+   .
+   # Dyspnea: Per report, pt had acute respiratory distress at [**Hospital1 1267**] and
+   was placed on BiPAP. No need for BiPAP in ED and O2 sat 100% on 6 L NC.
+   Wheezing throughout lungs so also may be in COPD flare with pCO2
+   slightly elevated
+   - repeat ABG on floor; if pCO2 elevated or AMS, would do bipap
+   - albuterol and ipratropium nebs standing
+   - solumedrol 125 mg q8 hours
+   - monitor O2 sats with goal 88-93%
+   - hold lasix as CXR not grossly volume overloaded and in ARF
+   - will hold on further abx as pt not febrile, no leukocytosis and no
+   overt infiltrate on CXR which appears improved from previous
+   .
+   # Acute renal failure: Baseline appears 1.5.  Now 2.0 but does not look
+   overtly volume depleted.
+   - avoid nephrotoxins
+   - send urine lytes, eosinophils, UA and culture
+   - renally dose all medications
+   - consider renal ultrasound
+   - change bactrim DS [**Hospital1 **] for UTI to cefepime given renal toxicity
+   - hold lasix
+   - 250 cc bolus now
+   .
+   # CAD s/p CABG: post-operative course complicated by flash pulmomary
+   edema
+   - continue BB with hold parameters, statin, ASA
+   - not on ACE-I given renal dysfunction
+   .
+   # Atrial fibrillation: on coumadin but supratherapeutic on
+   presentation.  Goal per recent d/c summary 2-2.5.
+   - hold coumadin
+   - trend INR
+   - continue digoxin
+   .
+   # COPD:
+   - continue nebs as above
+   - goal O2 88-93%
+   .
+   # Hyperkalemia: getting supplementation at at [**Hospital1 1267**]. No EKG changes
+   - repeat K in AM
+   .
+   # OSA:
+   - CPAP AutoSet 7-15cm H20
+   .
+   FEN: IVF bolus / replete lytes prn / NPO except Meds
+   PPX: SQ heparin, bowel regimen prn, home PPI
+   ACCESS: 2 PIV
+   CODE STATUS: FULL
+   EMERGENCY CONTACT: [**Name (NI) **]
+   DISPOSITION: ICU pending resolution of above
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale, Blood sugar well
+   controlled
+   Lines:
+   22 Gauge - [**3133-5-23**] 08:11 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP: HOB elevation
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

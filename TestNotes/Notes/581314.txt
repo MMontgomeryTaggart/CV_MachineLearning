@@ -1,0 +1,196 @@
+Chief Complaint:
+   24 Hour Events:
+   PCMK placed, tolerated procedure well
+   vanc x1 and keflex for 2 days
+   am CXR
+   Feels like breathing better this am.
+   Allergies:
+   Sulfa (Sulfonamide Antibiotics)
+   Rash;
+   Demerol (Injection) (Meperidine Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2864-2-26**] 08:30 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2864-2-26**] 07:18 AM
+   Heparin Sodium (Prophylaxis) - [**2864-2-26**] 05:32 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2864-2-27**] 05:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.6
+C (97.8
+   HR: 66 (57 - 87) bpm
+   BP: 113/40(58) {86/35(51) - 145/88(92)} mmHg
+   RR: 16 (9 - 36) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+                  Total In:
+                                                                    920 mL
+                  PO:
+                                                                    720 mL
+                  TF:
+   IVF:
+                                                                    200 mL
+   Blood products:
+   Total out:
+                                                                    685 mL
+                                                                    133 mL
+   Urine:
+                                                                    685 mL
+                                                                    133 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    235 mL
+                                                                   -133 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///40/
+   Physical Examination
+   GEN: A+Ox3, NAD, mildly drowsy but answers questions appropriately
+   HEENT: PERRL, EOMI, OP clear, MMM
+   NECK: JVP to angle of jaw
+   CV: RRR, no M/G/R, PMI at 5th intercostal space midclavicular line, no
+   heaves or thrills
+   PULM: Diffuse crackles and tight air movement, minimal wheezing, no
+   rhonchi.
+   ABD: Soft, NT, ND, +BS
+   EXT: No peripheral edema
+   NEURO: CN II-XII intact, mobilizes all extremities
+   Labs / Radiology
+   238 K/uL
+   10.0 g/dL
+   98 mg/dL
+   0.7 mg/dL
+   40 mEq/L
+   4.1 mEq/L
+   18 mg/dL
+   96 mEq/L
+   139 mEq/L
+   29.8 %
+   9.2 K/uL
+        [image002.jpg]
+                             [**2864-2-20**]  02:51 AM
+                             [**2864-2-21**]  05:05 AM
+                             [**2864-2-21**]  04:53 PM
+                             [**2864-2-22**]  03:19 AM
+                             [**2864-2-22**]  04:18 PM
+                             [**2864-2-24**]  02:13 PM
+                             [**2864-2-24**]  08:25 PM
+                             [**2864-2-25**]  03:39 AM
+                             [**2864-2-26**]  05:31 AM
+                             [**2864-2-27**]  04:10 AM
+   WBC
+   10.0
+   8.1
+   9.0
+   9.0
+   9.4
+   9.2
+   Hct
+   37.8
+   32.8
+   32.9
+   32.0
+   31.4
+   33.0
+   32.1
+   29.8
+   Plt
+   [**Telephone/Fax (2) 6568**]
+   Cr
+   1.0
+   0.7
+   0.8
+   0.7
+   0.8
+   1.0
+   0.8
+   0.7
+   0.7
+   TropT
+   0.56
+   Glucose
+   282
+   123
+   117
+   95
+   136
+   159
+   122
+   95
+   98
+   Other labs: PT / PTT / INR:12.8/36.3/1.1, CK / CKMB /
+   Troponin-T:22/15/0.56, ALT / AST:165/68, Alk Phos / T Bili:83/0.2,
+   Lactic Acid:1.0 mmol/L, Albumin:3.5 g/dL, LDH:417 IU/L, Ca++:8.4 mg/dL,
+   Mg++:2.0 mg/dL, PO4:2.8 mg/dL
+   Assessment and Plan
+   75 F with COPD, htn, bilateral hip replacement now with NSTEMI, CHF and
+   COPD flare, complicated by hypercarbic respiratory failure, now
+   resolved with asystolic event likely [**12-31**] increased vagal tone plus amio
+   and beta blockers now s/p PPM placement [**2864-2-26**].
+   #s/p Vagal episode: Likely has sinus node dysfunction.   The patient
+   also had been started on amio and beta blockers to control heart rate,
+   may have contributed to episode.  Consulted EP yesterday.   No further
+   vagal episodes.
+   - PPM placed yesterday. f/u cxr this am for placement of leads. [**Month/Day/Year **]
+   antibiotics X 3 days
+   - F/U EP in 1 week.
+   - Restart beta blocker (carvedilol). Defer to EP to restart amio or
+   not.
+   - Held coumadin in prep for PPM placement -  will restart it today.
+   Rehab to check INR in a few days
+   #Afib/flutter with RVR: Sinus now, no arrhythmias overnight.
+   - restart carvedilol and possibly amio pending EP recs.
+   - F/U EP in 1 week
+   - coumadin today. INR check in next few days at rehab
+   - decrease asa to 81mg in one month per cardiology recs as o/p
+   #NSTEMI: s/p LAD [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 4
+   - Continue asa, plavix, [**Last Name (un) **], statin
+   - Encourage tobacco cessation, nicotine patch
+   - beta blocker, as above
+   #Acute on chronic systolic and diastolic HF: EF 40-45% this admission.
+   Looks overall euvolemic, although still with mild crackles on pulm
+   exam. Given lasix 20mg IV lasix QD
+   - [**First Name9 (NamePattern2) **] [**Last Name (un) **]
+   - resumed lasix 20mg PO daily in am to maintain I/O even to 500ml
+   negative as required IV lasix yesterday after having it held in setting
+   of hypotension
+   #COPD: Hyperinflated lungs with hypercarbia consistent with COPD. Being
+   treated for exacerbation. Sputum with only sparse yeast/mold.
+   - Completed course of levoflox x 5 days
+   - Quick steroid taper completed
+   - Cont home inhalers, advair and spiriva
+   - Xopenex PRN
+   - nicotine patch on d/c to stop smoking
+   #HTN: home [**Last Name (un) **] and carvedilol
+   #Depression, Anxiety: paxil and klonipin PRN for sleep
+   ICU Care
+   Nutrition:
+   HH/cardiac diet
+   Glycemic Control:
+   Lines: PIV
+   20 Gauge - [**2864-2-26**] 06:22 AM
+   Prophylaxis:
+   DVT: coumadin, hep sc
+   Stress ulcer: pantoprazole
+   Comments:
+   Communication:  Comments:
+   Code status: Full
+   Disposition: Screen for rehab today
+
+
+DOC CLASS

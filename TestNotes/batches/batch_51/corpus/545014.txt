@@ -1,0 +1,176 @@
+CVICU
+   HPI:
+   [**9-6**] #2 PTC drain for decompression
+   - [**9-4**] PTC: Mildly dilated intrahepatic ducts, occlusion of CBD and
+   existing stent (newly diagnosed renal cell ca.metasteses to pancreas
+   PMH:[**8-26**] s/p EVAR for contain rupture AAA,CAD s/p MI, HTN,
+   hyperlipidemia, GERD, COPD, ventral hernia
+   PSH: s/p nephrectomy for renal cancer, R femoral [**Doctor Last Name 1510**] bypass in [**3012**] and
+   s/p thrombolysis of his graft, R BKA, CABG x 4 in 93, appendectomy,
+   exploratory laparotomy with LOA and repair of internal hernia
+   [**Last Name (un) **]: Tylenol prn, Lisinopril 5', Senna 8.6", Omeprazole 20',
+   Lubricating OPH ointment QHS, Carboxymethylcellulose 1% 0.4mL gtts"',
+   Colace 100", Flunisolide 0.025%", Loratiadine 10', Lopressor 25",
+   Simvastatin 80', Tamsulosin 0.4', Ketotifen 0.025 gtts, Doxepin 50'
+   -colonoscopy [**8-27**]
+   Current medications:
+   150 mEq Sodium Bicarbonate/ 1000 mL D5W . Acetaminophen  Artificial
+   Tears Preserv. Free
+    Bisacodyl Fluconazole  HYDROmorphone (Dilaudid) . Heparin . Insulin
+   Miconazole Powder 2% . Pantoprazole Piperacillin-Tazobactam Na
+   Post operative day:
+   POD#2 - from PACU
+   Allergies:
+   Iodine
+   Unknown;
+   Last dose of Antibiotics:
+   Fluconazole - [**3018-9-6**] 09:36 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3018-9-6**] 10:07 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3018-9-5**] 10:14 PM
+   Heparin Sodium (Prophylaxis) - [**3018-9-6**] 02:04 AM
+   Insulin - Regular - [**3018-9-6**] 04:35 AM
+   Hydromorphone (Dilaudid) - [**3018-9-6**] 01:05 PM
+   Flowsheet Data as of  [**3018-9-6**] 04:03 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**21**] a.m.
+   Tmax: 36.8
+C (98.3
+   T current: 36.4
+C (97.5
+   HR: 84 (67 - 86) bpm
+   BP: 140/56(81) {109/49(67) - 146/68(94)} mmHg
+   RR: 18 (9 - 23) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+   CVP: 11 (10 - 21) mmHg
+   Total In:
+                                                                  7,139 mL
+                                                                  1,847 mL
+   PO:
+                                                                    900 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  5,565 mL
+                                                                  1,193 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  2,260 mL
+                                                                  1,870 mL
+   Urine:
+                                                                  1,375 mL
+                                                                  1,070 mL
+   NG:
+                                                                    450 mL
+                                                                    500 mL
+   Stool:
+   Drains:
+                                                                     40 mL
+                                                                    300 mL
+   Balance:
+                                                                  4,879 mL
+                                                                    -23 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: 7.42/33/73.[**Numeric Identifier 209**]/23/-1
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese, sleeping
+   comfortably/easily arousable
+   HEENT: PERRL, EOMI, (B) icterus
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bibasilar, Rhonchorous : congested cough)
+   Abdominal: Non-tender, Bowel sounds present, Distended, Tender: mild,
+   large ventral hernia->unchanged
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), right BKA
+   Labs / Radiology
+   197 K/uL
+   9.4 g/dL
+   157 mg/dL     2 units given per his own scale
+   5.4 mg/dL
+   23 mEq/L
+   3.4 mEq/L
+   89 mg/dL
+   105 mEq/L
+   138 mEq/L
+   27.5 %
+   5.8 K/uL
+        [image002.jpg]
+                            [**3018-9-4**]  11:50 PM
+                            [**3018-9-5**]  01:44 AM
+                            [**3018-9-5**]  02:05 AM
+                            [**3018-9-5**]  02:43 PM
+                            [**3018-9-5**]  06:29 PM
+                            [**3018-9-6**]  03:19 AM
+   WBC
+   10.5
+   5.8
+   Hct
+   29.3
+   27.5
+   Plt
+   184
+   197
+   Creatinine
+   5.9
+   5.6
+   5.4
+   TCO2
+   17
+   18
+   22
+   Glucose
+   164
+   146
+   167
+   166
+   157
+   Other labs: PT / PTT / INR:15.4/29.5/1.4, ALT / AST:18/50, Alk-Phos / T
+   bili:199/7.1, Lactic Acid:0.9 mmol/L, Albumin:1.8 g/dL, LDH:195 IU/L,
+   Ca:7.1 mg/dL, Mg:2.1 mg/dL, PO4:5.5 mg/dL
+   Assessment and Plan
+   70 yo M s/p PTC intrahepatic drain 2'occlusion of CBD and stent, newly
+   diagnosed renal cell ca.metasteses to pancreas,resolving metabolic
+   acidosis 2'acute renal failure,ATN resolving, weaned off pressors, LFTs
+   trending down->still elevated.
+   Neurologic: Neuro checks Q: 4 hr, pain meds prn/OOB to chair
+   Cardiovascular:
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: TPN, NPO, @4occ/h
+   Renal: Foley, Adequate UO, ATN resolving,euvolemic,cont.HCO3 GTT, Renal
+   following, no HD
+   Hematology: stable
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley, NGT, Surgical drains (hemovac, JP), PTC
+   drain
+   Fluids: Other, NaHCO3 @ 60cc/h
+   Consults: Vascular surgery, GI, Nephrology
+   ICU Care
+   TPN without Lipids - [**3018-9-5**] 04:49 PM 41.[**Telephone/Fax (5) 647**] mL/hour
+   Glycemic Control:
+   Lines: PICC Line - [**3018-9-5**] 12:24 AM
+   Multi Lumen - [**3018-9-5**] 12:26 AM
+   Arterial Line - [**3018-9-5**] 12:28 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

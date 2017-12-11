@@ -1,0 +1,212 @@
+Chief Complaint: persistent leukocytosis
+   24 Hour Events:
+ BLOOD CULTURED - At [**3105-3-25**] 05:01 PM
+   from PICC
+   - Lasix gtt held overnight
+   - given 1 u pRBC
+   - weaned off dopamine
+   - urine lytes sent
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3105-3-25**] 01:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3105-3-26**] 07:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36.8
+C (98.2
+   HR: 109 (107 - 126) bpm
+   BP: 92/43(54) {85/38(54) - 121/62(76)} mmHg
+   RR: 22 (15 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 80.2 kg (admission): 74 kg
+   Height: 56 Inch
+                  Total In:
+                                                                  1,637 mL
+                                                                    435 mL
+   PO:
+                  TF:
+                                                                    464 mL
+                                                                    185 mL
+   IVF:
+                                                                    676 mL
+   Blood products:
+                                                                    278 mL
+   Total out:
+                                                                  1,345 mL
+                                                                    155 mL
+   Urine:
+                                                                  1,345 mL
+                                                                    155 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    292 mL
+                                                                    280 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 350 (350 - 350) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 146
+   PIP: 28 cmH2O
+   Plateau: 20 cmH2O
+   SpO2: 100%
+   ABG: ///37/
+   Ve: 5.7 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   156 K/uL
+   7.6 g/dL
+   99 mg/dL
+   1.4 mg/dL
+   37 mEq/L
+   3.7 mEq/L
+   61 mg/dL
+   94 mEq/L
+   136 mEq/L
+   23.2 %
+   27.2 K/uL
+        [image002.jpg]
+   MICRO:
+   [**3-24**]: BCx x 2: pending
+   [**3-24**]:   Stool c-diff neg
+   [**3-23**]: Stool c-diff neg
+   [**3-23**]: UCx: Yeast >100,000
+   [**3-22**]: UA: 6-10 WBCs
+   [**3-21**]: Peritoneal fluid: 1+ PMNs on Gram stain. Culture pending
+   [**3-21**]: BCx: PND
+   [**3-20**]: BCx: PND
+   [**3105-3-20**]: PICC tip: negative
+   [**3105-3-20**]: Wound Cx: GN Diplococci 2+ GP Diplococci 1+
+   [**3105-3-19**] UCx: Klebsiella Pneumoniae
+   [**3105-3-19**]: Sputum culture: Acinetobacter baumannii, Ecoli
+   [**3105-3-18**] BLOOD CULTURE- Coag negative staph.
+   [**3105-3-18**] BLOOD CULTURE- NEGATIVE
+   [**3105-3-18**] URINE CULTURE- GNR and Yeast
+   [**3105-3-16**]  STOOL FECAL CULTURE-PENDING NEGATIVE; CAMPYLOBACTER
+   CULTURE-PENDING NEGATIVE; CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL
+   NEGATIVE
+   [**3105-3-16**]  URINE URINE CULTURE-FINAL INPATIENT  NEGATIVE
+   [**3105-3-16**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT NGTD
+   [**3105-3-15**]  PLEURAL FLUID GRAM STAIN-FINAL NEGATIVE; FLUID
+   CULTURE-PRELIMINARY NGTD; ANAEROBIC CULTURE-PRELIMINARY NGTD
+   [**3105-3-15**]  BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY
+   CULTURE-PRELIMINARY {ACINETOBACTER BAUMANNII COMPLEX}
+ tobramycin
+   sensitive
+   [**3105-3-14**]  URINE URINE CULTURE-FINAL {YEAST}
+   [**3105-3-13**]  CATHETER TIP-IV WOUND CULTURE-FINAL NGTD
+   [**3105-3-12**]  BLOOD CULTURE Blood Culture, Routine-PENDING NGTD
+   [**3105-3-12**]  BLOOD CULTURE Blood Culture, Routine-PENDING NGTD
+                             [**3105-3-21**]  06:23 PM
+                             [**3105-3-22**]  12:20 AM
+                             [**3105-3-22**]  04:59 PM
+                             [**3105-3-23**]  04:00 AM
+                             [**3105-3-23**]  04:28 PM
+                             [**3105-3-24**]  02:55 AM
+                             [**3105-3-24**]  02:59 PM
+                             [**3105-3-25**]  03:00 AM
+                             [**3105-3-25**]  04:50 PM
+                             [**3105-3-26**]  01:27 AM
+   WBC
+   18.8
+   22.3
+   17.3
+   24.8
+   27.2
+   Hct
+   28.7
+   29.6
+   27.5
+   23.7
+   28.0
+   23.8
+   21.3
+   23.2
+   Plt
+   171
+   213
+   163
+   199
+   156
+   Cr
+   0.9
+   0.9
+   0.9
+   1.1
+   1.1
+   1.2
+   1.4
+   1.4
+   1.4
+   1.4
+   Glucose
+   112
+   106
+   106
+   109
+   106
+   88
+   113
+   82
+   99
+   Other labs: PT / PTT / INR:22.0/67.4/2.1, CK / CKMB /
+   Troponin-T:12/2/0.03, ALT / AST:13/36, Alk Phos / T Bili:109/1.0,
+   Amylase / Lipase:19/30, Differential-Neuts:74.1 %, Lymph:14.1 %,
+   Mono:10.6 %, Eos:0.9 %, Fibrinogen:193 mg/dL, Lactic Acid:1.3 mmol/L,
+   Albumin:2.7 g/dL, LDH:292 IU/L, Ca++:7.6 mg/dL, Mg++:2.5 mg/dL, PO4:5.0
+   mg/dL
+   Assessment and Plan
+ DECUBITUS ULCER (NOT PRESENT AT ADMISSION)
+ HYPERTENSION, BENIGN
+ ANXIETY
+ NAUSEA / VOMITING
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ TACHYCARDIA, OTHER
+ ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+ WOUND DEHISCENCE
+ CELLULITIS
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ ATRIAL FIBRILLATION (AFIB)
+ [**Last Name **] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3105-3-23**] 02:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

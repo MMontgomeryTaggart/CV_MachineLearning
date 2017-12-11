@@ -1,0 +1,205 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ SPUTUM CULTURE - At [**3378-7-5**] 10:31 AM
+   - Exudative appearing urine, cx sent
+   - Plan for potential Family meeting- for [**7-6**], will need to [**First Name8 (NamePattern2) **] [**Doctor Last Name 3710**]
+   for time
+   - in AM, given 500ml fluid bolus trial for tachycarida, pulse
+   afterwards in 110s
+   -sputum cx [**7-5**], with GPC in pairs and clusters on gram stain
+   -Mini-BAL on [**7-4**] with negative legionella and PCP
+   [**Name9 (PRE) 6796**] with pt's uncle Dr. [**First Name8 (NamePattern2) 54**] [**Last Name (NamePattern1) 6797**] (ob-gyn) cell [**Telephone/Fax (1) 6798**],
+   home [**Telephone/Fax (1) 6799**], he will try to speak with [**Location (un) 1085**] about the patient's
+   poor prognosis
+   -10pm, poor UO, only 10ml/hr- gave 250ml bolus, then only 15ml UO, gave
+   second 250 bolus, UO improved, and Tachycardia improved.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3378-7-5**] 08:00 PM
+   Ciprofloxacin - [**3378-7-5**] 10:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3378-7-6**] 04:00 AM
+   Infusions:
+   Midazolam (Versed) - 2 mg/hour
+   Fentanyl (Concentrate) - 100 mcg/hour
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3378-7-5**] 08:11 AM
+   Heparin Sodium (Prophylaxis) - [**3378-7-6**] 12:10 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3378-7-6**] 07:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 104 (103 - 123) bpm
+   BP: 106/67(82) {93/61(73) - 128/81(99)} mmHg
+   RR: 13 (12 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 61 Inch
+             Total In:
+                                                                  3,043 mL
+                                                                    349 mL
+   PO:
+             TF:
+                                                                    257 mL
+                                                                    150 mL
+   IVF:
+                                                                  2,586 mL
+                                                                    199 mL
+   Blood products:
+   Total out:
+                                                                  1,130 mL
+                                                                    285 mL
+   Urine:
+                                                                  1,130 mL
+                                                                    285 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,913 mL
+                                                                     64 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 169
+   PIP: 25 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 28.1 cmH2O/mL
+   SpO2: 100%
+   ABG: ///25/
+   Ve: 5.4 L/min
+   Physical Examination
+   Pt intubated and sedated. Arousable.
+   CHEST: ronchi b/l
+   CV: RRR, nl S1 and S2. no murmers.
+   ABD: soft, non-tender, positive bowel sounds.
+   EXT: warm and well perfused.
+   NEURO: pt intubated and sedated. Left pupil > right pupil. Pupils
+   reactive.
+   Labs / Radiology
+   139 K/uL
+   11.0 g/dL
+   128 mg/dL
+   0.6 mg/dL
+   25 mEq/L
+   3.8 mEq/L
+   18 mg/dL
+   108 mEq/L
+   141 mEq/L
+   32.7 %
+   7.1 K/uL
+        [image002.jpg]
+                             [**3378-7-4**]  02:34 PM
+                             [**3378-7-4**]  06:01 PM
+                             [**3378-7-4**]  06:06 PM
+                             [**3378-7-4**]  06:16 PM
+                             [**3378-7-4**]  08:12 PM
+                             [**3378-7-4**]  09:17 PM
+                             [**3378-7-5**]  02:02 AM
+                             [**3378-7-5**]  05:07 AM
+                             [**3378-7-5**]  05:22 AM
+                             [**3378-7-6**]  04:55 AM
+   WBC
+   13.5
+   11.6
+   7.1
+   Hct
+   37.6
+   36.5
+   32.7
+   Plt
+   189
+   151
+   139
+   Cr
+   0.7
+   0.5
+   0.6
+   TCO2
+   30
+   29
+   25
+   27
+   28
+   31
+   Glucose
+   157
+   138
+   128
+   Other labs: PT / PTT / INR:15.4/38.0/1.4, ALT / AST:43/42, Alk Phos / T
+   Bili:239/0.7, Differential-Neuts:87.0 %, Band:3.0 %, Lymph:5.0 %,
+   Mono:3.0 %, Eos:0.0 %, Albumin:3.3 g/dL, LDH:711 IU/L, Ca++:8.7 mg/dL,
+   Mg++:1.8 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   40F metastatic breast cancer to liver and brain, who is admitted to the
+   [**Hospital Unit Name 4**] following seizures and PEA arrest.
+   # Acute Respiratory Failure: Likely from aspiration PNA in RLL.  Thick
+   secretions. Remains on AC. Also has R sided malignant effusion. Also
+   with potential constrictive physiology. Pt potentially intravascularly
+   fluid overloaded.
+   - Continue Ventilation (unlikely to come off vent today)
+   - Vanco/Zosyn/Cipro for possible HAP
+   - Will attempt diuresis today
+   - CXR daily
+   - f/u Sputum cx
+   # Seizure:  Known seizure disorder [**3-2**] brain metastases. Phenytoin
+   loaded, now therapeutic level. CT head without contrast
+ no acute
+   process
+   - Cont Phenytoin and Levetiracetam
+   - Follow phenytoin levels
+   - Continue dexamethasone to 8 mg [**Hospital1 **] for vasogenic edema
+   # Sinus Tachycardia:  HR responsive to IVF yesterday.  Pain is
+   controlled.  CTA negative for PE. Worse w respiratory distress.
+   Decreased UOP  (Cr 0.6)
+   - monitor on tele
+   - IV fluids bolus (250cc) PRN tachycardia
+   # Metastatic Breast Cancer:
+   - Cont weekly Navelbine
+   - Pain control with Fentanyl
+   - f/I oncology, primary oncologist has had multiple discussions with
+   family regarding goals of care and grim prognosis.
+   - Potential family meeting. Currently family wants to continue
+   aggressive care.
+   # s/p PEA arrest:  S/P PEA arrest [**3378-6-2**] requiring less than 2 minutes
+   of chest compressions.  Felt to be secondary to hypoxia from seizure.
+   No pressors and blood pressure stable.
+   - Continue tele.
+   .
+   # Transaminitis: Likely [**3-2**] br ca mets. Downtrending, stable.
+   - cont to monitor LFTs
+   ICU Care
+   Nutrition: restart TFs
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3378-7-3**] 05:19 AM
+   22 Gauge - [**3378-7-3**] 06:18 AM
+   20 Gauge - [**3378-7-4**] 08:28 AM
+   Prophylaxis:
+   DVT: hep SC
+   Stress ulcer:  lansoprazole
+   VAP:
+   Comments:
+   Communication:  Comments:  significant other ([**Name (NI) 1085**])
+   Code status: Full code
+   Disposition: Will need to discuss goals of care with HCP and need to
+   discuss with eithics. Family Meeting today potentially.
+
+
+DOC CLASS

@@ -1,0 +1,191 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   no need for haldol x 24 hours
+   He has maintained HR < 90 x 24 hours off amiodarone and quinidine
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2625-3-15**] 09:12 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2625-3-14**] 10:00 PM
+   Other medications:
+   sq heparin
+   [**Year (4 digits) **]
+   crestor
+   neurontin
+   synthroid
+   [**Year (4 digits) 5**]
+   atrovent/albuterol
+   lopressor 25 tid
+   prednisone 20
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Respiratory: Dyspnea, Tachypnea
+   Flowsheet Data as of  [**2625-3-15**] 09:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.1
+C (97
+   HR: 81 (80 - 94) bpm
+   BP: 91/46(57) {75/42(50) - 122/57(72)} mmHg
+   RR: 23 (16 - 32) insp/min
+   SpO2: 100%
+   Heart rhythm: A Paced
+   Wgt (current): 85.5 kg (admission): 87.2 kg
+   Height: 65 Inch
+             Total In:
+                                                                  1,826 mL
+                                                                    754 mL
+   PO:
+             TF:
+                                                                  1,086 mL
+                                                                    434 mL
+   IVF:
+                                                                    200 mL
+                                                                    200 mL
+   Blood products:
+   Total out:
+                                                                  1,375 mL
+                                                                    660 mL
+   Urine:
+                                                                  1,375 mL
+                                                                    660 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    451 mL
+                                                                     94 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula, Face tent
+   SpO2: 100%
+   ABG: ///39/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   10.7 g/dL
+   120 K/uL
+   155 mg/dL
+   1.3 mg/dL
+   39 mEq/L
+   4.1 mEq/L
+   35 mg/dL
+   100 mEq/L
+   141 mEq/L
+   34.1 %
+   14.3 K/uL
+        [image002.jpg]
+                             [**2625-3-9**]  07:49 PM
+                             [**2625-3-10**]  04:00 AM
+                             [**2625-3-11**]  04:11 AM
+                             [**2625-3-11**]  02:53 PM
+                             [**2625-3-11**]  05:51 PM
+                             [**2625-3-12**]  05:23 AM
+                             [**2625-3-12**]  05:40 PM
+                             [**2625-3-13**]  04:41 AM
+                             [**2625-3-14**]  04:10 AM
+                             [**2625-3-15**]  03:19 AM
+   WBC
+   18.0
+   16.3
+   17.8
+   18.7
+   16.5
+   14.3
+   Hct
+   35.0
+   34.4
+   33.8
+   33.6
+   34.9
+   34.1
+   Plt
+   141
+   109
+   124
+   130
+   117
+   120
+   Cr
+   1.6
+   1.8
+   1.9
+   1.8
+   1.8
+   1.8
+   1.6
+   1.5
+   1.3
+   TCO2
+   39
+   Glucose
+   183
+   168
+   153
+   197
+   152
+   183
+   116
+   164
+   155
+   Other labs: PT / PTT / INR:12.0/32.5/1.0, CK / CKMB /
+   Troponin-T:136/4/0.07, ALT / AST:26/26, Alk Phos / T Bili:56/1.1,
+   Differential-Neuts:95.7 %, Lymph:2.6 %, Mono:1.5 %, Eos:0.1 %,
+   Fibrinogen:675 mg/dL, Lactic Acid:1.1 mmol/L, Albumin:2.8 g/dL, LDH:269
+   IU/L, Ca++:8.4 mg/dL, Mg++:2.5 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   1. Delirium/altered mental status: ICU delirium, infection, fatigue
+    - this morning a little more somnolent but [**Last Name (LF) **], [**First Name3 (LF) **] check ABG
+   and aim SaO2 90-95%
+    - depakote if delirium progresses
+    - appreciate psychiatry input
+   2. Atrial tachycardia:
+    - can restart quinidine once off haldol
+    - f/u QTc today
+   3. MRSA pna/bacteremia:
+    - vancomycin x 6 weeks total
+    - cont aggressive pulmonary toilet including chest physiology,
+   frequent suctioning
+    - will hold off on further diuresis for now as secretions are getting
+   thicker and he appears euvolemic
+   4. COPD: flare in setting of MRSA pneumonia
+    - cont prednisone 20 mg x 4 days
+   5. CAD: [**First Name3 (LF) 5**]/[**First Name3 (LF) **]/bb
+   6. FEN: appears euvolemic.  Cont tube feeds
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**2625-3-14**] 03:09 PM 45 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2625-3-7**] 02:27 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+
+
+DOC CLASS

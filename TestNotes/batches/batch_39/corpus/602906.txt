@@ -1,0 +1,198 @@
+Chief Complaint:
+   24 Hour Events:
+   [**3-14**] Events:
+   -tachypnea and wheezing with position changes, was initially called out
+   to floor but sent back after triggering for above tachypnea to 40
+s and
+   50
+   Per previous MICU admission note:
+   76 YO M w/history of parkinson's disease, COPD, afib, hearing loss,
+   urinary retention w/indwelling foley, and recent admission for
+   aspiration pneumonia admitted today w/complaint of worsening cough and
+   low grade temp. Patient was admitted to [**Hospital1 17**] [**2-20**] - [**2-24**] and treated w/a
+   2 week course of linezolid and zosyn which ended on [**3-5**]. Since then
+   patient has had a worsening cough but reports no fever (NH reports temp
+   - unclear how high). Patient denies SOB, chest pain, or any other
+   symptoms. Patient given Vanco and Zosyn in ED.
+   .
+   In the emergency department he was found to have low grade temp - 100,
+   100.2, tachycardic to 110, tachypnic to 40 and 93% on 3L. He was given
+   vanc and zosyn as well as nebs in the ED and admitted to the medical
+   floor. On the floor, he was being treated for viral pneumonia.
+   Antibiotics were held and he was ordered for q6 nebs. He subsequently
+   triggered this evening for tachypnea to the 40s, though has maintained
+   his sats in the high 90s on 4L nasal cannula. ABG was 7.43/44/192. He
+   was given solumedrol 125mg IV, zosyn, vanco, nebs x 2. Transfer to MICU
+   was requested for closer monitoring.
+   .
+   On arrival to the MICU, the patient denies respiratory distress. Per
+   report, he has been having diarrhea recently. His main concern is
+   locating his call bell and having the light turned out. He denies LH,
+   dizziness, chest pain, SOB, abdominal pain.
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown;
+   Hydantoins
+   Unknown;
+   Trimethadione/Paramethadione
+   Unknown;
+   Phenacemide
+   Unknown;
+   Barbiturates
+   Unknown;
+   Primidone
+   Unknown;
+   Gadolinium-Containing Agents
+   Unknown;
+   Mysoline (Oral) (Primidone)
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3080-3-15**] 01:23 AM
+   Vancomycin - [**3080-3-15**] 02:12 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3080-3-14**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3080-3-15**] 07:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 68 (53 - 100) bpm
+   BP: 112/55(70) {110/51(70) - 152/92(113)} mmHg
+   RR: 25 (23 - 59) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+             Total In:
+                                                                  1,723 mL
+                                                                    844 mL
+   PO:
+             TF:
+                                                                    853 mL
+                                                                    466 mL
+   IVF:
+                                                                    660 mL
+                                                                    378 mL
+   Blood products:
+   Total out:
+                                                                    659 mL
+                                                                    145 mL
+   Urine:
+                                                                    659 mL
+                                                                    145 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,064 mL
+                                                                    699 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 100%
+   ABG: ///26/
+   Physical Examination
+   Gen: frail elderly male, appears anxious, resting tremor
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. very dry MM, OP clear.
+   CV: tachy, normal S1, S2. No murmurs, rubs, or gallops.
+   Chest: No chest wall deformities. tachypneic and using accessory
+   muscles to breath. Diffuse coarse breath sounds and wheezing, poor air
+   movement, worse on L>R.
+   Abd: +PEG tube in place without any surrounding erythema, +BS, Soft,
+   non-tender, non-distended. No HSM or tenderness.
+   Ext: Cachectic, no clubbing, cyanosis or edema. Radial and DP pulses
+   2+, contractures of the hands and feet
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs / Radiology
+   114 K/uL
+   9.4 g/dL
+   180 mg/dL
+   1.0 mg/dL
+   26 mEq/L
+   3.7 mEq/L
+   46 mg/dL
+   107 mEq/L
+   143 mEq/L
+   28.8 %
+   4.0 K/uL
+        [image002.jpg]
+                             [**3080-3-14**]  03:29 AM
+                             [**3080-3-15**]  02:26 AM
+   WBC
+   2.8
+   4.0
+   Hct
+   30.2
+   28.8
+   Plt
+   105
+   114
+   Cr
+   0.9
+   1.0
+   Glucose
+   169
+   180
+   Other labs: PT / PTT / INR:13.5/32.9/1.2, Ca++:8.2 mg/dL, Mg++:2.0
+   mg/dL, PO4:4.2 mg/dL
+   UA: sm leuk, lg bld, nitr neg, 30 prot, tr ket, few bac, [**10-8**] RBC,
+   21-50 WBC, 0-2 epi
+   Imaging: [**3-13**] CXR #1: Marked elevation of the left hemidiaphragm as
+   well as persistent moderate left pleural effusion and associated
+   atelectasis remain. There is slightly improved aeration of the left
+   upper lobe. The right lung remains clear. The cardiomediastinal
+   silhouette is stable. Severe rightward scoliosis limits evaluation.
+   Gas-filled loops of colon are again noted.
+   IMPRESSION: Slightly improved aeration at the left lung apex with
+   decreased pleural effusion. No definite evidence of pneumonia.
+   .
+   [**3-13**] CXR #2: my read: difficult to interpret [**12-22**] marked elevation of L
+   hemidiaphragm, no obvious significant change
+   .
+   [**3-13**] CT chest:
+   1) Persisting dependent consolidation in the left lower lobe, likely
+   from aspiration.
+   2) Prominent elevation of the left hemidiaphragm without diaphragmatic
+   defect.
+   3) Two small 4- to 5-mm ground-glass nodules in the right middle lobe
+   (3:32) which appear likely unchanged compared to the CT torso of
+   [**3079-8-7**], however followup in one year by CT is recommended.
+   4) Only partially imaged on today's study is a approximately 4 cm
+   apparent cystic mass anterior to the IVC at the level of the filter
+   placement. This lesion is not well characterized on this study, though
+   is most suggestive of a GI duplication cyst. It has not changed
+   significantly from the CT of [**3079-8-23**].
+   6) 2 cm indeterminate left renal lesion which is not well characterized
+   by non-contrast CT. Evaluation by MR is recommended if the patient is a
+   potiental surgical candidate. Otherwise, a 6 month follow-up CT could
+   be performed.
+   7) Severe scoliosis.
+   Assessment and Plan
+ IMPAIRED SKIN INTEGRITY
+ CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS, EMPHYSEMA)
+   WITHOUT ACUTE EXACERBATION
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**3080-3-15**] 02:27 AM 60 mL/hour
+   Glycemic Control:
+   Lines:
+   16 Gauge - [**3080-3-13**] 11:50 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

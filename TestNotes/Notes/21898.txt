@@ -1,0 +1,214 @@
+Admission Date:  [**3329-8-22**]              Discharge Date:   [**3329-8-25**]
+
+Date of Birth:  [**3263-3-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Location (un) 266**]
+Chief Complaint:
+Mental status changes after pulmonary vein isolation for afib
+ablation
+
+Major Surgical or Invasive Procedure:
+Pulmonary Vein Isolation Procedure for Atrial Fibrillation
+
+
+History of Present Illness:
+66 year old male with h/o paroxysomal afib since age 20 who was
+refractory to quinidine and Rythmol and has failed at least [**3-24**]
+cardioversion in past. Patient came here for pulmonary vein
+isolation / AF ablation. Patient stopped sotatlol and coumadin
+about one week ago. During initial portion of procedure he had a
+short asystolic episode at 10 AM ([**3-28**] sec). Patient was sent to
+PACU at 1:30 pm after he had received Fentanyl, Versed, and
+Propofol during the procedure. Patient was then hypotensive to
+70/40 with brief LOC. Patient returned to baseline and found to
+be fluent but not following commands and not answering questions
+accurately. He could not repeat and would reiterate certain
+phrases-- EP fellow called-- neuro conult-- felt exam was
+consistent with cortical embolic infarct and L hemi-occiptal
+lesion- wernicke's aphasia. MRI confirmed lesion, lesions were
+more than 6 hours later.
+
+Past Medical History:
+A fib
+s/p multiple cardioversion
+
+Social History:
+married - 3 children, retired engineer
+no tobacco, no alcohol, no drugs
+
+Family History:
+both parents died of CA
+
+Physical Exam:
+Temp: 97.2
+HR: 72
+BP: 109/65
+RR; 14
+98% on 2 liters
+HEENT: PERRLA, EOMI
+CV: nl s1, s2, RRR, no M/R/G
+Lungs: CTA-A
+Abd: soft, NT, ND, NABS
+EXt: no c,c,e
+NEuro: AEO x 2, fluent spontaneous speech, able to folllow
+commands, but sometime imappropriate words
+nonfocal, able to move all four ext, [**3-23**] strenth UE. 2+
+refelexes throughout, downgoing babinski blt
+Groin: no hematoma, no bleeding
+
+
+Pertinent Results:
+[**3329-8-24**] 06:55AM BLOOD WBC-12.2* RBC-4.23* Hgb-13.3* Hct-38.1*
+MCV-90 MCH-31.5 MCHC-35.0 RDW-12.3 Plt Ct-103*
+[**3329-8-23**] 05:16AM BLOOD WBC-15.8* RBC-4.76 Hgb-15.3 Hct-42.7
+MCV-90 MCH-32.2* MCHC-35.9* RDW-12.4 Plt Ct-120*
+[**3329-8-24**] 06:55AM BLOOD Neuts-88.1* Lymphs-7.5* Monos-4.3 Eos-0.1
+Baso-0
+[**3329-8-22**] 09:15PM BLOOD Neuts-91.4* Bands-0 Lymphs-4.4* Monos-3.9
+Eos-0.2 Baso-0.1
+[**3329-8-23**] 05:16AM BLOOD Plt Ct-120*
+
+[**3329-8-23**] 04:51PM BLOOD Na-138 K-4.0
+[**3329-8-23**] 05:16AM BLOOD Glucose-121* UreaN-18 Creat-1.0 Na-142
+K-4.1 Cl-106 HCO3-25 AnGap-15
+[**3329-8-22**] 09:15PM BLOOD Glucose-128* UreaN-19 Creat-1.0 Na-142
+K-4.2 Cl-105 HCO3-25 AnGap-16
+[**3329-8-23**] 04:51PM BLOOD Mg-1.9
+[**3329-8-23**] 05:16AM BLOOD Calcium-8.4 Phos-3.4 Mg-1.6
+[**3329-8-22**] 09:15PM BLOOD Calcium-8.6 Phos-3.3 Mg-1.6
+
+Echo ([**8-22**]): LV thickness nl
+mod. LV hypokinesis
+mild RV free wall hypokinesis
+1+ MR, [**11-19**]+ TR, LA and RA mod. dilatedThe left atrium is
+moderately dilated. The right atrium is moderately dilated.
+Left ventricular wall thicknesses and cavity size are normal.
+There is
+moderate global left ventricular hypokinesis. Right ventricular
+chamber size
+is normal. There is mild global right ventricular free wall
+hypokinesis. The
+aortic valve leaflets appear structurally normal with good
+leaflet excursion.
+The mitral valve leaflets are structurally normal. Mild (1+)
+mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is
+normal. There is no pericardial effusion.
+
+IMPRESSION: Mild-moderate biventricular hypokninesis c/w diffuse
+process
+(toxin, metabolic, tachycardia, etc. Mild mitral regurgitation.
+
+CT scan:
+There is no intracranial hemorrhage, mass effect, or shift of
+normally midline structures. There is a subtle are of loss of
+the [**Doctor Last Name **]- white matter differentiation in the left temporal
+lobe. . The ventricles are of normal size. Bone windows
+demonstrate thickening of the ethmoid cells. The other paranasal
+sinuses are normally aerated. The mastoid air cells are aerated.
+
+IMPRESSION: Subtle area of loss of the grey-white matter
+differentiation in the left temporal lobe. Recommend MRI with
+diffusion weighted images.
+
+
+MRA/ MRI: IMPRESSION: Several foci of restricted diffusion
+involving both frontal convexities suggestive of multiple small
+embolic subacute infarct. There is a larger left MCA
+distribution infarct in the left parietal lobe probably
+involving the parietal division of the left MCA.
+
+Unremarkable MRA of the circle of [**Location (un) 983**] without major vascular
+occlusion seen. The examination was limited. Follow up is
+suggested based on clinical grounds.
+
+
+Brief Hospital Course:
+While in house, neuro followed the patient and patient was
+initially started on dopamine drip to titrate SBP to 130-140 for
+24 hours. Patient was also placed on heparin drip and prednisone
+taper to prevent PV stenosis. Patient neuro exam improved and he
+was weaned from dopa and transferred from CCU to floor. Patient
+was bridged from heparin to coumadin. Patient had some transient
+nausea episodes while in house that may have been caused by a
+central mechanism and were managed by placing the patient on
+ondasetron. Patients bp was maintained SBP> 130. Patient's neuro
+exam improved and he was able to follow commands and explain why
+he was in the hospital. Although he would continue to answer
+questions inappropriately at times. In addition, patient was
+placed back on sotalol and QT intervals were monitered. Patient
+was dc'ed on lovenox with frequent INR checks and follow up with
+stroke clinic and Dr. [**Last Name (STitle) 16471**]. Patient should be placed in an
+ace inhibitor as an outpatient.
+
+Medications on Admission:
+sotalol and coumadin (stopped)
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+2. Warfarin Sodium 5 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Sotalol HCl 80 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. Enoxaparin Sodium 100 mg/mL Syringe Sig: 0.9 mL Subcutaneous
+Q12H (every 12 hours) for 6 doses.
+Disp:*6 doses* Refills:*0*
+5. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO QD (once a
+day) for 1 days.
+Disp:*4 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 808**] VNA
+
+Discharge Diagnosis:
+1. Normal Sinus Rhythm after Atrial Fibrillation Ablation
+2. History of Atrial Fibrillation
+3. CVA
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Please take all medications as instructed. Please follow-up with
+Dr. [**Last Name (STitle) 16471**] within 1 week for a follow-up appointment.
+
+Please call PCP or Dr. [**Last Name (STitle) 16471**] for any chest pain, shortness
+of breath, unconsciousness, or for any other concerns.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) 16471**] (your electrophysiologist)
+within 1 week- [**Telephone/Fax (1) 1492**] (patient will need to be started in
+ace inhibitor as an outpatient)
+
+
+
+Please follow-up with your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] within 1-2 weeks.
+
+Please have your INR checked on Monday at Dr.[**Doctor Last Name 35870**]
+office.
+
+Please follow up in stroke clinic within 2 weeks - Dr. [**First Name (STitle) 35871**]
+[**Telephone/Fax (1) 832**]
+
+Please follow up speech therapy. OT as outpatient rehab
+
+
+
+
+Completed by:[**3329-8-25**]
+
+DOC CLASS

@@ -1,0 +1,89 @@
+Admission Date: [**2980-11-22**]        Discharge Date: [**2980-11-27**]
+
+
+Service:  NSU
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 85-year-old
+woman recently discharged from [**Hospital1 1499**] after sustaining subdural and subarachnoid secondary
+to fall from a wheel chair, which was managed non-operatively
+as per the family wishes.  She was discharged in stable
+condition to home, but at home was noted to have increasing
+lethargy and some decreased movement, as well as increased
+somnolence over the 2 days prior to admission.  She was seen
+at an outside hospital, underwent an MRI, which showed a
+worsening subdural hematoma and she was transferred to this
+facility for further management.
+
+PAST MEDICAL HISTORY:  Remarkable for hypertension; a left
+stroke in [**2979**], seizure history, diabetes, dementia, and
+right subdural hematoma.
+
+PAST SURGICAL HISTORY:  Remarkable for placement of a PEG.
+
+MEDICATIONS ON ADMISSION:
+1. Dilantin.
+2. Lansoprazole.
+3. Lopressor.
+4. Norvasc.
+5. Colace.
+6. Iron.
+7. Lisinopril.
+8. Sliding scale insulin.
+
+
+ALLERGIES:  She has no known drug allergies.
+
+PHYSICAL EXAMINATION:  Temperature was 97.9 degrees, heart
+rate was 67, blood pressure was 137/56, respiratory rate was
+10, O2 saturation was 97 percent on room air.  She was in no
+apparent distress, responsive to stimuli.  Pupils were 3 mm
+bilaterally.  Carotids were 2 plus without bruits.  Lungs
+were clear to auscultation bilaterally except for a decreased
+breath sounds at the bases.  Heart showed regular rate and
+rhythm.  Abdomen was soft, minimally distended, bowel sounds
+positive.  Extremities showed no clubbing, cyanosis or edema.
+They were warm.
+
+HOSPITAL COURSE:  The patient was admitted to the hospital
+for frequent neurological assessment.  She was brought to the
+operating room where she underwent a right frontal and
+parietal burr hole and craniotomy with the evacuation of
+subdural hematoma as well as placement of subdural drain.
+She tolerated this procedure well and was transferred to the
+intensive care unit for a close monitoring postoperatively.
+On the first postoperative day, the patient was found to have
+split T-wave on monitor.  She was intubated at that time and
+unable to complain of pain.  She was given some doses of
+Lopressor and a nitro drip was started.  A cardiology consult
+was obtained who felt that this was most likely an old
+arrhythmia and consistent with a left bundle-branch block
+with conduction delay.  She was monitored with cardiac
+enzymes and she did rule out times 3 for an MI.  Her
+neurological status improved postoperatively.  She was
+extubated and tolerated this well.  She was awake and alert.
+She withdrew to pain and moved all 4 extremities.  She did
+have her baseline hemiparesis.  Her subdural drain had
+minimal output and was discontinued on [**2980-11-24**].  She had a
+postoperative CT after the drain removal and she did well.
+She was transferred to the neuro step down unit.  She was
+seen by both Occupational Therapy and Physical Therapy and
+did well.
+
+DISPOSITION:  She was discharged to home today [**2980-11-27**].
+
+FOLLOW UP:  She is scheduled to followup with Dr. [**First Name (STitle) **] in 7 to
+10 days with a repeat CT.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number(1) 5067**]
+
+Dictated By:[**Last Name (NamePattern1) 17283**]
+MEDQUIST36
+D:  [**2980-11-27**] 17:59:46
+T:  [**2980-11-28**] 05:12:11
+Job#:  [**Job Number 34988**]
+
+
+DOC CLASS

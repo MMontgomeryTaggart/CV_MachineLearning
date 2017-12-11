@@ -1,0 +1,194 @@
+Admission Date:  [**2862-7-15**]              Discharge Date:   [**2862-7-27**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Verapamil / Digoxin / Amiodarone Analogues / Sotalol / Cardizem
+
+Attending:[**First Name3 (LF) 64**]
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2862-7-17**] - Mitral Valve Replacement(29mm [**Company 55**] Mosaic Porcine
+Valve) and Single Vessel CABG(Left internal mammary artery to
+the left anterior descending artery)
+
+
+History of Present Illness:
+Mrs. [**Known patient lastname 121**] is an 81 year old female with congestive heart
+failure. She has been medically managed but has gradually
+experienced worsening symptoms of dyspnea on exertion and
+paroxysmal nocturnal dyspnea. An echocardiogram in [**2861-12-6**]
+showed moderate to severe mitral regurgitation and depressed LV
+function. Subsequent cardiac catheterization in [**2862-5-6**]
+confirmed moderate to severe MR with an LVEF of 34%. Coronary
+angiography revealed a 50-60% lesion in the mid left anterior
+descending artery.  Based upon the above results, she was
+referred for cardiac surgical intervention. Given her history of
+chronic atrial fibrillation and Warfarin anticoagulation, she
+was admitted severals days prior to operative date for Warfarin
+reversal and heparinization.
+
+Past Medical History:
+Congestive Heart Failure, Mitral Regurgitation, Coronary artery
+Disease, Hypertension, Type II Diabetes Mellitus, Chronic atrial
+fibrillation, Left Breast Cancer - s/p Lumpectomy and XRT, s/p
+Chole, s/p Knee Arthroscopy, s/p Ankle Surgery
+
+Social History:
+Lives alone, very independent. Denies history of tobacco and
+ETOH. She is a retired bookkeeper.
+
+Family History:
+No history of premature CAD.
+
+Physical Exam:
+Vitals: BP 126/62, HR 65, RR 18, SAT 98% on room air
+General: elderly female in no acute distress
+HEENT: oropharynx benign,
+Neck: supple, no JVD, slight decreased ROM
+Heart: regular rate, normal s1s2, holosystolic murmur at apex
+Lungs: clear bilaterally
+Abdomen: soft, nontender, normoactive bowel sounds
+Ext: warm, no edema, no varicosities
+Pulses: 1+ distally
+Neuro: nonfocal
+
+
+Pertinent Results:
+[**2862-7-16**] 02:50AM BLOOD WBC-6.1 RBC-4.35 Hgb-13.6 Hct-40.0 MCV-92
+MCH-31.3 MCHC-34.0 RDW-15.4 Plt Ct-208
+[**2862-7-16**] 02:50AM BLOOD PT-14.4* PTT-62.0* INR(PT)-1.3*
+[**2862-7-16**] 02:50AM BLOOD Glucose-106* UreaN-27* Creat-0.9 Na-140
+K-3.5 Cl-102 HCO3-26 AnGap-16
+[**2862-7-16**] 02:50AM BLOOD ALT-15 AST-23 LD(LDH)-252* AlkPhos-72
+TotBili-0.7
+[**2862-7-16**] 02:50AM BLOOD %HbA1c-6.4* [Hgb]-DONE [A1c]-DONE
+[**2862-7-23**] 04:43AM BLOOD WBC-10.7 RBC-3.10* Hgb-9.6* Hct-28.4*
+MCV-92 MCH-31.0 MCHC-33.8 RDW-15.2 Plt Ct-228
+[**2862-7-27**] 05:40AM BLOOD PT-20.6* INR(PT)-2.0*
+[**2862-7-26**] 06:30AM BLOOD PT-19.0* INR(PT)-1.8*
+[**2862-7-25**] 10:00AM BLOOD PT-20.1* INR(PT)-1.9*
+[**2862-7-24**] 05:50AM BLOOD PT-17.5* INR(PT)-1.6*
+[**2862-7-23**] 04:43AM BLOOD PT-17.0* INR(PT)-1.6*
+[**2862-7-27**] 05:40AM BLOOD UreaN-18 Creat-1.0 K-4.6
+[**2862-7-24**] 05:50AM BLOOD K-4.6
+[**2862-7-23**] 04:43AM BLOOD UreaN-19 Creat-0.9 Na-132* K-3.9 Cl-95*
+HCO3-27 AnGap-14
+[**2862-7-27**] 05:40AM BLOOD Mg-2.3
+
+[**Last Name (NamePattern4) 2196**]ospital Course:
+On [**7-15**], Mrs. [**Known patient lastname 121**] was admitted for routine
+preoperative evaluation and heparinization. Workup was
+unremarkable and she was cleared for surgery. On [**7-17**], Dr.
+[**Last Name (Prefixes) **] performed a mitral valve replacment and single
+vessel coronary artery bypass grafting. For surgical details,
+please see seperate dictated operative note. Following the
+operation, she was brought to the CSRU for invasive monitoring.
+Within 24 hours, she awoke neurologically intact and was
+extubated. She experienced episodes of rapid atrial
+fibrillation(up to 160 bpm)which was initially treated with
+Amiodarone and beta blockade. Despite medical therapy, she
+continued to experience episodes of rapid atrial fibrillation.
+When in a normal sinus rhythm, she exhibited sinus node
+dysfunction. Pronestyl therapy was attempted but without much
+success. Given her multiple drug allergies, inability to
+adequately control her atrial fibrillation and sinus node
+dysfunction, the EP service was consulted. Based on EP
+recommendations, Digoxin therapy was initiated and beta blockade
+was advanced as tolerated. Warfarin anticoagulation was
+eventually resumed. Once her atrial fibrillation was adequately
+controlled, she eventually transferred to the SDU for further
+care and recovery. Beta blockade was advanced as tolerated.
+Warfarin was dosed for a goal INR between 2.0 and 3.0. Over
+several days, her atrial fibrillation rate improved. She
+continued to experience intermittent tachycardia(up to 120 bpm)
+mostly with exertion. Toprol XL was eventually advanced to her
+preoperative dose of 200 mg [**Hospital1 **]. She tolerated low dose Digoxin
+as well. As medical therapy was optimized, she continued to make
+clinical improvements with diuresis and made steady progress
+with physical therapy. She was medically cleared for discharge
+on postoperative day 10. At discharge, her oxygen saturations
+were 94-96% on room air and chest x-ray showed stable mild to
+moderate left pleural effusion and atelectasis. Her BP was
+108/50 with a HR of 85. All surgical wounds were clean, dry and
+intact.
+
+Medications on Admission:
+Diovan 40 qd, Lasix 40 qd, Avandia 4 qd, Toprol XL 200 qd,
+Arimidex 1 qd, Lipitor 20 qd, Warfarin, Neurontin 300 qid,
+Glucosamine, Calcium, Vitamins, Folate, Vitamin E
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+4. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+Disp:*90 Capsule(s)* Refills:*2*
+5. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Rosiglitazone 2 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Anastrozole 1 mg Tablet Sig: One (1) Tablet PO daily ().
+Disp:*30 Tablet(s)* Refills:*2*
+8. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: Two (2) Tablet Sustained Release 24HR PO BID (2 times a
+day).
+Disp:*120 Tablet Sustained Release 24HR(s)* Refills:*2*
+9. Warfarin 2 mg Tablet Sig: 1.5 Tablets PO qpm: Take as
+directed by Dr. [**First Name (STitle) 389**]. Daily dose may vary according to INR.
+Disp:*60 Tablet(s)* Refills:*2*
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company **]
+
+Discharge Diagnosis:
+s/p MVR(#29 [**Company 55**] porcine)CABGx1(LIMA-LAD)[**7-17**]
+Chronic Atrial Fibrillation
+Postop Pleural Effusion
+PMH: DM2, HTN, Breast CA s/p lumpectomy/XRT, s/p CCY, Rt knee
+arthroscopy
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1) Monitor wounds for signs of infection. These include redness,
+drainage or increased.
+2) Report any fever greater then 100.5.
+3) Report any weight gain of 2 pounds in 24 hours or 5 pounds in
+1 week.
+4) No lifting greater then 10 pounds for 10 weeks.
+5) No driving for 1 month.
+6) Coumadin for atrial fibrillation and tissue mitral valve.
+Goal INR is 2.0 - 3.0. Please check INR with 48-72 hours of
+discharge.
+
+[**Last Name (NamePattern4) 71**]p Instructions:
+Dr. [**Last Name (Prefixes) **] in 4 weeks
+Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 389**] in [**3-10**] weeks
+Dr. [**Last Name (STitle) 5916**] or [**Last Name (un) 6837**] in [**3-10**] weeks
+
+
+
+Completed by:[**2862-7-27**]
+
+DOC CLASS

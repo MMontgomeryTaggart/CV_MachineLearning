@@ -1,0 +1,394 @@
+Admission Date:  [**3097-11-2**]              Discharge Date:   [**3097-11-6**]
+
+Date of Birth:  [**3025-11-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Allergies/ADRs on File
+
+Attending:[**First Name3 (LF) 2460**]
+Chief Complaint:
+Shortness of breath, orthopnea
+
+Major Surgical or Invasive Procedure:
+Pericardiocentesis
+
+
+History of Present Illness:
+71 yo male with history of COPD, probable lung cancer and known
+pericardial effusion presents with worsening shortness of breath
+and orthopnea.  He was found to have early tamponade physiology
+on echocardiogram report from [**Hospital6 2927**]
+[**3097-10-13**] where echo revealed LV ejection fraction of 76%
+and a moderate to  large circumferential pericardial effusion
+with fibrin deposition  and impaired RV filling consistent with
+early tamponade physiology in setting of estimated PASP 36 mmHg.
+He refused drainage at that time. He was seen in clinic today
+with Dr. [**Last Name (STitle) 1690**] and agreed to come in Wednesday for outpt
+drainage.
+.
+His lung cancer diagnosis was suspected based on imaging
+findings and smoking history though he declined biopsy and
+future treatment if he did have pathologic diagnosis. He reports
+10 pound weight loss and new onset paroxysmal nocturnal dyspnea
+and orthopnea as well as episodic loose melena. He has had no
+recent falls but that he still is very unstable due to his back
+problems and occasional vertigo.
+His main complaint is that he feels he still has pneumonia.
+.
+In the ED, initial vitals were [**7-11**] pain 97.8 101 153/70 28 96%
+RA.  he complained of worsening SOB, heart racing, unclear story
+of chest pain - most currently no chest pain, He denies pain in
+his back neck or jaw. He also endorses chronic abdominal pain
+times several months that is intermittent he has right now. He
+associates this with his recurrent gas pain. No fever chills
+nausea or vomiting. Comfortable currently
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. He denies recent fevers, chills or rigors.
+He denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:  Atrial fibrillation
+- CABG:
+- PERCUTANEOUS CORONARY INTERVENTIONS:
+- PACING/ICD:
+3. OTHER PAST MEDICAL HISTORY:
+HTN
+Atrial fibrilation not on coumadin because of prior SDH
+dCHF
+COPD
+GERD
+Anxiety
+Back surgery after MVA
+
+Social History:
+- Tobacco history:  Previous 60 pack year smoker, quit 12 years
+ago
+- ETOH:  one glass of wine per night, prior heavier use
+- Illicit drugs: Denies
+No family live in US, friend [**Name (NI) **] is HCP
+
+Family History:
+- No family history of early MI, arrhythmia, cardiomyopathies,
+or sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI dry MM. Conjunctiva
+were pink, no pallor or cyanosis of the oral mucosa.
+NECK: Supple.
+CARDIAC: RR, normal S1, S2. Not distant. No m/r/g. No thrills,
+lifts. No S3 or S4. Pulsus 6 mmHg
+LUNGS: Diminished BS bilateral bases, no crackles, or wheezes
+ABDOMEN: +BS Soft, distended, tender diffusely, no R/G. Enlarged
+liver by scratch test.
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+.
+DISCHARGE PHYISICAL EXAM:
+GENERAL: NAD.
+HEENT: NCAT.
+NECK: Supple.
+CARDIAC: RR, normal S1, S2. Not distant. No m/r/g. No thrills,
+lifts. No S3 or S4.
+LUNGS: Diminished BS bilateral bases, no crackles, or wheezes
+ABDOMEN: +BS Soft, distended, tender diffusely, no R/G.
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+.
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**3097-11-2**] 03:45PM BLOOD WBC-8.4 RBC-4.80 Hgb-15.1 Hct-47.1 MCV-98
+MCH-31.5 MCHC-32.1 RDW-13.5 Plt Ct-175
+[**3097-11-2**] 03:45PM BLOOD Neuts-83.0* Lymphs-11.6* Monos-4.0
+Eos-0.9 Baso-0.4
+[**3097-11-2**] 03:45PM BLOOD PT-12.9 PTT-23.9 INR(PT)-1.1
+[**3097-11-2**] 03:45PM BLOOD Plt Ct-175
+[**3097-11-2**] 03:45PM BLOOD Glucose-95 UreaN-14 Creat-1.0 Na-140
+K-4.7 Cl-105 HCO3-27 AnGap-13
+[**3097-11-2**] 03:45PM BLOOD ALT-18 AST-31 AlkPhos-101 TotBili-0.5
+[**3097-11-2**] 03:45PM BLOOD Lipase-36
+[**3097-11-2**] 03:45PM BLOOD proBNP-649*
+[**3097-11-2**] 03:45PM BLOOD cTropnT-<0.01
+[**3097-11-2**] 05:22PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) 7**]-1.006
+[**3097-11-2**] 05:22PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+.
+PERTINENT LABS:
+.
+[**3097-11-2**] 03:45PM BLOOD proBNP-649*
+[**3097-11-2**] 03:45PM BLOOD cTropnT-<0.01
+[**3097-11-4**] 06:04AM BLOOD LD(LDH)-1066*
+[**3097-11-3**] 02:14PM OTHER BODY FLUID TotProt-4.4 Glucose-98
+LD(LDH)-826 Amylase-21 Albumin-3.2
+[**3097-11-3**] 02:14PM OTHER BODY FLUID WBC-1300* RBC-4900* Polys-6*
+Lymphs-56* Monos-2* Macro-16* Other-20*
+.
+DISCHARGE LABS:
+.
+[**3097-11-5**] 06:56AM BLOOD WBC-8.1 RBC-5.03 Hgb-15.7 Hct-48.8 MCV-97
+MCH-31.3 MCHC-32.2 RDW-13.5 Plt Ct-173
+[**3097-11-5**] 06:56AM BLOOD PT-13.1 PTT-28.4 INR(PT)-1.1
+[**3097-11-5**] 06:56AM BLOOD Plt Ct-173
+.
+MICRO/PATH:
+.
+Pericardial Fluid [**3097-11-3**]:
+GRAM STAIN (Final [**3097-11-3**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (Preliminary):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+
+   ACID FAST SMEAR (Final [**3097-11-4**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+
+   ACID FAST CULTURE (Preliminary):
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+.
+Pericardial Fluid Cytology: Wetread - Malignant cells
+.
+Pericardial Fluid Cell Block: Pending
+.
+IMAGING/STUDIES:
+.
+ECG [**11-2**]: Atrial fibrillation. Low voltage throughout the
+tracing. Consider anterior wall myocardial infarction of
+indeterminate age. No previous tracing available for comparison.
+.
+ECHO [**11-2**]:
+The left ventricular cavity size is normal. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. There
+is a moderate sized pericardial effusion. There is right
+ventricular diastolic collapse, consistent with impaired
+fillling/tamponade physiology.
+Compared with the prior study (images reviewed) of [**3097-10-13**],
+the pericardial effusion is now larger.
+.
+CXR Portable [**11-2**]:
+IMPRESSION: Opacification of the right middle lobe which may
+represent
+atelectasis versus possible pneumonia. Small right pleural
+effusion.
+.
+ABD XR [**11-2**]:
+FINDINGS: AP and left lateral decubitus radiographs of the
+abdomen were
+provided. There is a nonobstructive bowel gas pattern and there
+is no free
+air. There is a meniscus seen in the right chest which is
+presumably mobile
+pleural effusion. The previously seen right middle lobe opacity
+on the recent prior chest radiograph has resolved suggesting
+that this was due to
+atelectasis.
+.
+Duplex Doppler Abd/Pelv [**11-2**]:
+IMPRESSION:
+1. Targetoid lesion measuring 1.8 cm in the right lobe of the
+liver is
+concerning for malignancy, including metastatic disease.
+Abdominal MRI is
+recommended for further evaluation.
+2. Echogenic liver compatible with fatty infiltration. Other
+forms of more
+severe liver disease, including hepatic fibrosis/cirrhosis are
+not excluded on this study.
+3. No ascites.
+.
+C.Cath [**11-3**]:
+FINAL DIAGNOSIS:
+1. Pericardial effusion with echo evidence of tamponade
+2. Successfully drained via sub-xiphoid approach using an 18 G
+pericardial needle and drainage catheter.
+.
+ECHO [**11-3**]:
+FOCUSED STUDY, POST-PERICARDIOCENTESIS: Right ventricular
+chamber size and free wall motion are normal. There is a very
+small pericardial effusion located adjacent to the right atrial
+free wall. There are no echocardiographic signs of tamponade.
+Compared with the prior study (images reviewed) of [**3097-11-2**],
+the pericardial effusion is smaller.
+.
+ECHO [**11-5**]:
+.
+There is a trivial/physiologic pericardial effusion.
+Compared with the prior study (images reviewed) of [**3097-11-3**],
+the findings are similar.
+.
+CXR PA/LAT [**11-5**]:
+.
+Correlation with prior reference CT is made. Stable appearing
+post-
+obstructive RML collapse and likely also atx involving RLL.
+Small right
+pleural effusion likely unchanged. Cannot exclude supervening
+infection in
+teh right lower lung in the appropriate clinical setting. Left
+lung and right upper lobe clear.
+
+Brief Hospital Course:
+71 yo male with history of COPD, AFib, dCHF, probable lung
+cancer, and known pericardial effusion presents with worsening
+shortness of breath, orthopnea, and tamponade s/p pericardial
+drainage.
+.
+ACTIVE ISSUES:
+#Malignant Pericardial Effusion and Tamponade: Presented with
+worsening effusion causing radiographic tamponade. He underwent
+pericardiocentesis with drain placement. The drain was pulled
+after it stopped draining. Pericardial fluid cytology
+demonstrated malignant cells. Final cell block interpretation
+was pending at time of discharge.
+.
+#Probable lung cancer: Review of chest CT from [**Hospital1 277**] showed large
+bronchogenic lesion causing complete collapse of the right
+middle lobe as well as multiple hilar and mediastinal lymph
+nodes. He has declined biopsy, further staging, or treatment.
+This may be readdressed after the fianl results of his
+pericardial fluid are known. He required O2 to maintain adequate
+oxygen saturation and was discharged with home O2. He also
+decline PT evaluation and visiting home nursing.
+.
+#Abdominal pain: he expressed mild abdominal discomfort not
+requiring opiate medications. An abdominal US showed liver
+lesions likely metastases in this context. He declined further
+imaging to better evaluate abdominla disease.
+.
+CHRONIC ISSUES:
+.
+#Atrial fibrillation: Continued home ASA and diltiazem. Not on
+coumadin because of a prior SDH.
+.
+#Diastolic CHF: Had mild pleural effusion but otherwise does not
+appear volume overloaded.
+.
+#COPD: Did not appear to be in COPD exacerbation. Continued home
+advair.
+.
+#GERD: Continued home pepcid 20 mg daily
+.
+#HTN: Continued home diltiazem.
+.
+#Anxiety: Cont ativan [**Hospital1 **] PRN
+.
+TRANSITIONAL ISSUES:
+.
+#Probable Stage IV Lung Ca: Based on the CT chest findings from
+[**Hospital1 277**] and the positive preliminary cytology for malignant cells,
+he likely has Stage IV lung cancer. The final cytology and cell
+block findings need to be followed-up for more information.
+During this hospitalization, Mr. [**Known patient lastname 14243**] was not amenable to
+further staging workup including brain imaging, bronchoscopy for
+biospies, or further body imaging.
+
+Medications on Admission:
+Diltiazem 120 mg daily
+Advair inh [**Hospital1 **]
+ASA 81 mg daily
+Ativan 0.5 mg daily
+Pepcid 20 mg daily
+
+Discharge Medications:
+1. Home oxygen
+O2 at 2 L per minute per nasal cannula continuously pulse dose
+portability to keep O2 Sat above 92%. Patient desatted to <88%
+on ambulation.
+2. simethicone 125 mg Capsule Sig: One (1) Capsule PO QID (4
+times a day) as needed for Bloating.
+3. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Anxiety.
+4. diltiazem HCl 120 mg Tablet Extended Release 24 hr Sig: One
+(1) Tablet Extended Release 24 hr PO BID (2 times a day).
+5. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 9**] (2 times a day).
+6. famotidine 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis:
+Pericardial effusion
+.
+Secondary diagnosis
+Cancer, most likely lung
+COPD
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known patient lastname 14243**],
+
+It was a pleasure taking care of you during your stay here at
+[**Hospital1 52**].
+You were admitted for shortness of breath which was a result of
+a large amount of fluid surrouding your heart.  You underwent a
+procedure to drain the fluid. The fluid did not reaccumulate.
+You are also short of breath because part of your lung is
+deflated. This is because you have a mass compressing your lung.
+This is probably lung cancer but we do not know for sure because
+you did not want a biopsy. The cytology may show what type of
+cancer you have. These results will be available in about a
+week. We started you on oxygen to help your breathing. You
+should use this all the time. If you have worsening of your
+shortness of breath or change your mind about further work up of
+your cancer you should discuss this with your primary care
+doctor or Dr. [**Last Name (STitle) 1690**]. We did not make any changes to your
+medications.
+
+
+Followup Instructions:
+Department: Primary Care
+Name: Dr.[**Last Name (STitle) 14244**] [**Name (STitle) **] for Dr. [**First Name4 (NamePattern1) 14245**] [**Last Name (NamePattern1) 14246**]
+When: Thursday [**3097-11-11**] at 2:30 PM
+Location: FAMILY MEDICAL ASSOC
+Address: [**Location (un) 14247**] STE 214, [**Location (un) 2067**],[**Numeric Identifier 2068**]
+Phone: [**Telephone/Fax (1) 14248**]
+
+Name: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1690**]
+When: Dr. [**Last Name (STitle) 14249**] office is working on a follow up appointment
+for you 1 week after your hospital discharge. If you have not
+heard from the office in [**1-3**] business days please call the
+office number listed below.
+Location: [**Hospital1 **]
+Address: [**Location (un) **], [**Hospital Ward Name **] 7, [**Location (un) **],[**Numeric Identifier 21**]
+Phone: [**Telephone/Fax (1) 83**]
+
+
+
+
+
+DOC CLASS

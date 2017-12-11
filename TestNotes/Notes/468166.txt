@@ -1,0 +1,321 @@
+Chief Complaint:  Bacteremia
+   HPI:
+   The patient is a 75y/o M with a PMH of CAD s/p CABG with AVR in [**3446**]
+   transferred to [**Hospital1 5**] for management of suspected endocarditis. On
+   arrival to [**Hospital1 5**] the patient is unable to fully relate his HPI. Limited
+   history is taken from OSH DC Summary and admission note. The patientwas
+   in his usual state of health, living independently who presented to
+   [**Hospital 663**] hospital [**3-27**] after being found unresponsive by his daughter
+   with tachypnea and fever. He had previously complained of [**3-14**] days of
+   general malaise. He was taken to the ED, where he was found to be
+   hypotensive with a BP 85/49 and temp of 102. He was started on
+   Vancomycin/Zosyn. CXR per reports was suggestive of CHF with bilateral
+   infiltrates. He was also started on stress dose  hydrocortisone given
+   history of prednisone therapy for RA. He was admitted to the [**Hospital1 663**]
+   ICU and started on pressors after receiving a few small fuid boluses
+   per report. Swan-ganz catheter was placed and he was found to have a
+   wedge of 26. He was given an unclear amount of diuretics as well as an
+   attempt at Bipap. Per report blood cultures grew Staphylococcus aureus
+   and zosyn was disontinued. TTE was completed on day of transfer however
+   was not read. Per nursing reports he was intermittently requiring
+   dopamine and neosynephrine for intermittent hypotension. At the time of
+   transfer he was continued on levophed 5mcg/kg/min, dopamine
+   2.5mcg/kg/min. Per report he also briefly required sedation with
+   Precedex for agitation however he was never intubated.
+   .
+   On arrival to the CCU, the patient is sleepy but easily arousable and
+   conversant. He is oriented to hospital and name but not to date. He
+   currently denies chest pain and shortness of breath. Denies headache,
+   vision changes. Denies abdominal pain, hemoptysis, black or red stools.
+   He reports a history of bleeding and bruising of unknown etiology,
+   states he has had bleeding of his nose and gums previously which
+   resolved without intervention.
+   Patient admitted from: Transfer from other hospital
+   History obtained from Patient, Medical records
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Dopamine - 2.5 mcg/Kg/min
+   Norepinephrine - 0.03 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   HOME MEDICATIONS: Per OSH Admission Note
+   - Zocor 40 mg po daily
+   - Sildenafil PRN
+   - Aricept
+   - Hydroxychloroquin - 400mg po daily
+   - Prednisone - 5mg daily
+   - Lasix 20mg po daily
+   - Neurontin 600mg po daily
+   - Amaryl 1mg po daily
+   .
+   MEDICATIONS ON TRANSFER:
+   Levophed 5mcg/kg/min
+   Dopamine 2.5mcg/kg/min
+   Vancomycin 1gm Q12
+   Ativan 0.5mg Q 3 PRN agitation
+   Azithromycin 500mg IV Q 24
+   Hydrocortisone 50mg IV Q 8
+   Heparin 5000Units SC TID
+   Insulin SS
+   Pantoprazole 40 mg IV daily
+   Past medical history:
+   Family history:
+   Social History:
+   - CABG in [**3446**] with bioprosthetic AVR for aortic stenosis
+   - Gram Positive Cocci bacteremia
+   - Thrombocytopenia with baseline 50,000
+   - History of transbronchial biopsy with suggestion of bronchiolitis
+   obliterans [**3448**]
+   - Hypertension
+   - Diabetes Mellitus
+   - Rheumatoid Arthritis
+   - Polymyalgia Rheumatica
+   The patient reports that he does not know his past family history.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: The patient has lived alone with assistance of daughter who
+   lives near by. Has 9 children. Reports past history of tobacco use
+   10pack/yrs, quit 20 years ago. Denies EtOH, IVDU. He was adopted, he
+   joined the army at age 19.
+   Review of systems:
+   Constitutional: Fatigue, Fever
+   Psychiatric / Sleep: Agitated
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**3449-3-28**] 09:28 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**51**] AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 36.5
+C (97.7
+   HR: 75 (72 - 75) bpm
+   BP: 118/71(81) {102/58(69) - 118/71(81)} mmHg
+   RR: 22 (19 - 22) insp/min
+   SpO2: 97%
+   Height: 69 Inch
+   CVP: 15 (14 - 15)mmHg
+   PAP: (66 mmHg) / (29 mmHg)
+   Mixed Venous O2% Sat: 60 - 60
+   Total In:
+                                                                     32 mL
+   PO:
+   TF:
+   IVF:
+                                                                     32 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,875 mL
+   Urine:
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                 -1,843 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: 7.42/32/95.[**Numeric Identifier 244**]/21/-2
+   Physical Examination
+   VS: T 97.7 BP 102/58 HR 72 RR 19 O2 97% on 2L NC
+   GENERAL: elderly male in NAD
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva with multiple
+   petechiae
+   NECK: Supple with JVP of [**11-20**] cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. III/VI systolic murmur loudest at right 2nd intercostal
+   space with radiation to carotids No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. + scattered crackles throughout
+   ABDOMEN: Soft, NTND. Spleen not palpable, no hepatomegaly No abdominial
+   bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: Multiple areas of bruising, multiple petechiae over palms and
+   soles
+   PULSES:
+   Right: Carotid 2+ DP 2+ PT 2+
+   Left: Carotid 2+ DP 2+ PT 2+
+   Neuro: The patient is able to name months backward from [**Month (only) 776**] -
+   [**Month (only) 2237**] and days of week Sun - Thursday. Oriented to name but not
+   month, day, year. CN II-XII intact, PERRLA.
+   Labs / Radiology
+   43 K/uL
+   11.6 g/dL
+   156 mg/dL
+   2.0 mg/dL
+   72 mg/dL
+   21 mEq/L
+   110 mEq/L
+   4.5 mEq/L
+   138 mEq/L
+   34.6 %
+   7.7 K/uL
+        [image002.jpg]
+                                  [**3445-2-10**]
+                          2:33 A2/17/[**3449**]  07:35 PM
+                                  [**3445-2-14**]
+                         10:20 P2/17/[**3449**]  07:58 PM
+                                  [**3445-2-15**]
+                                   1:20 P
+                                  [**3445-2-16**]
+                                   11:50 P
+                                  [**3445-2-17**]
+                                   1:20 A
+                                  [**3445-2-18**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3445-3-13**]
+                                   1:20 P
+                                  [**3445-3-13**]
+                                   11:20 P
+                                  [**3445-3-13**]
+                                   4:20 P
+   WBC
+                                     7.7
+   Hct
+                                    34.6
+   Plt
+                                     43
+   Cr
+                                     2.0
+   TC02
+                                     21
+   Glucose
+                                     156
+   Other labs: PT / PTT / INR:17.7/35.4/1.6, CK / CKMB / Troponin-T:277//,
+   ALT / AST:62/104, Alk Phos / T Bili:42/2.0, Differential-Neuts:84.6 %,
+   Lymph:9.9 %, Mono:5.2 %, Eos:0.1 %, Albumin:2.4 g/dL, LDH:428 IU/L,
+   Ca++:7.4 mg/dL, Mg++:2.6 mg/dL, PO4:4.1 mg/dL
+   Fluid analysis / Other labs: LABORATORY DATA:
+   OSH Labs:
+   VBG [**3-28**] 7.36/38/35/20 Lactate 2.1
+   Na 133 K 4.9 Cl 104 HCO3 20 BUN 66 Cr 2.12
+   AST 130 ALT 62 Alk Ph 47 TB 2.3 Alb 2.6
+   CK 575 Trop I 2.30
+   CBC 6.6 Hgb 3.43 HCT 34 Plt 33
+   MICRO: Verbally confirmed with OSH micro lab [**3-27**] - 4/4 bottles
+   Staphylococcus aureus - sensitivities pending.
+   ECG
+ [**3-28**]
+ Irreg/irreg vent rate 75bpm, LAD, LVH, QRS 136 with L
+   bundle pattern, V5-V6 ST dep with TWI V6
+   Assessment and Plan: 75y/o M with a PMH of CAD s/p CABG with AVR in
+   [**3446**] and thrombocytopenia transferred to [**Hospital1 5**] for management of S.
+   aureus bacteremia and acute on chronic systolic CHF
+   .
+   # Bacteremia - The patient was found to have 4/4 bottles growing
+   Staphylococcus aureus. Concern for endovascular source of infection
+   given high grade bacteremia. No clear portal of entry as the patient
+   denies recent procedures/dental work, no focal symptoms. Given his
+   presentation with community acquired bacteremia with symptoms of [**3-14**]
+   day duration prior to presentation pt is at high risk for complicated
+   bacteremia, including endocarditis. By Duke Criteria - he has major
+   criteria of high gradebacteremia with typical organism, by minor
+   criteria he has fever, predisposing heart condition, he also has skin
+   findings of petechiae however difficult to interpret in the setting of
+   significant thrombocytopenia.
+   - Will continue Vancoymcin dosed 1 gm Q 12
+   - Contact[**Name (NI) **] OSH micro lab - SA is likely MSSA but sensitivities are not
+   finalized, will fax results in am - if so, plan to transition to
+   nafcillin
+   - Would opt for TEE in am given bioprosthetic aortic valve
+   - If evidence of vegetation or new/worsening valvular dysfunction,
+   consider addition of gentamicin/rifamplin for S. aureus prosthetic
+   valve endocarditis
+   - Will obtain surveillance blood cultures
+   - ID consult in am given high grade Staph aureus bacteremia
+   .
+   # Hypotension - Presentation of hypotension in setting of bacteremia
+   could be consistent with sepsis, however the patient has a mixed
+   picture given PCWP of 32 and CVP 14-24. Also consider worsening aortic
+   valvular function in the setting of endocarditis. Currently, the
+   patient appears volume overloaded with elevated JVP. Per reports
+   pressor requirements have decreased since beginning diuresis. Current
+   CVP 16 with PAP 66/29
+   - Continue to taper dopamine/neosynephrine
+   - Will diureses with IV lasix
+   - Treat bacteremia as above
+   - TEE as above to evaluate EF/valvular dysfunction
+   .
+   # Acute on Chronic Systolic CHF - Pt currently with evidence of volume
+   overload as above
+   - Diurese with lasix goal 1L negative but will follow hemodynamics and
+   Cr
+   - Plan for beta blocker and ACE-I once BP allows
+   .
+   # Thrombocytopenia - Per OSH reports the patient has a chronic
+   thrombocytopenia of unclear etiology. Pt reports history of easy
+   bleeding & bruising. DDx is broad and includes ITP, myelodysplastic
+   syndrome, drug induced - ex. hydroxychloroquin, unclear when this was
+   started, infection with HIV or HCV, nutritional deficiency
+   (B12/Folate), EtOH toxicity however no clear history of this. DIC less
+   concerning given long history of thrombocytopenia however in setting of
+   acute infection, must consider. HIT also unlikely given documented long
+   history of thrombocytopenia.
+   - Will check LFTs/Bili/LDH
+   - Check Fibrinogen
+   - Check B12/folate
+   - Trend INR
+   - Check peripheral smear
+   - Consider hematology consult in am
+   .
+   # Atrial Fibrillation/Atrial Flutter - the pt reports a history of AF
+   however no documented history of this, pt not on anticoagulation.
+   Currently ECG shows A. flutter however this is in the setting of
+   pressors
+   - Monitor on telemetry
+   .
+   # Elevated CK/Troponin - No prior ECG for comparison, no clear
+   ischemia. Trop bump most likely occurred in the setting of hypotension
+   secondary to infection
+   - Repeat CK/Trop
+   - TTE in am as above
+   - Continue statin
+   - Start BB and ACE-I as BP allows
+   .
+   # Encephalopathy - Most likely toxic/metabolic in the setting of
+   infection. Per report OSH Head CT negative for acute process. Pt also
+   had been treated with sedatives at OSH ativan/precedex
+   - Hold sedating medications
+   - Treat infection as above
+   - Check LFTs, Ca
+   - Obatin read of Head CT
+   .
+   FEN: Low Na, diabetic diet, NPO in am for possible TEE
+   .
+   ACCESS: R CVL/PA catheter - will need to change in am as placed at OSH
+   .
+   PROPHYLAXIS:
+   -DVT ppx pneumoboots
+   -Bowel regimen with colace/senna
+   .
+   CODE: Full
+   .
+   DISPO: CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   PA Catheter - [**3449-3-28**] 07:15 PM
+   18 Gauge - [**3449-3-28**] 07:15 PM
+   20 Gauge - [**3449-3-28**] 07:15 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: Not indicated
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

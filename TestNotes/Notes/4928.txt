@@ -1,0 +1,467 @@
+Admission Date:  [**3164-2-24**]              Discharge Date:   [**3164-3-5**]
+
+Date of Birth:  [**3102-7-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Doctor First Name 3240**]
+Chief Complaint:
+Fever, AMS
+
+
+Major Surgical or Invasive Procedure:
+[**2-24**] right femoral line placement
+[**2-24**] left tunneled catheter removal
+[**2-25**] left arterial line placed
+
+History of Present Illness:
+61 male with history of seizure disorder, nonischemic
+cardiomyopathy EF 20-30%, ESRD on HD (T/Th/Sat, last session on
+saturday), hepatitis B, CAD, CVA, recent admission for line
+bacteremia given vanco for 2 week course, who was at his rehab
+center and found to be febrile with altered mental status and
+hypoglycemia. His sugars there were in the 30s and he was given
+oral glucose which improved his finger stick to 156. His
+baseline mental status is A+0x3 but today he was A+O x2.
+.
+Pt had recent admission in [**1-/3164**] for staph epidermidis and
+CONS bacteremia, thought to be from tunnel line (tunnel tip grew
+CONS). At that time, tunnel line was changed ([**3164-1-13**], fluro
+guided tunnel line, exchanged over wire). Pt was given
+vancomycin for 2 week course, dosed per HD protocol.
+.
+In the ED inital vitals were, T 102.2 HR 105 BP 94/44 RR 18 pOx
+98% 2L. Tm 104.
+Pt noted to have pus coming out of his tunnel line on left. His
+temp spiked at 104, SBP initialy 160s.  Tunnel line culture was
+sent off.
+AAOx2 (not to location).
+Patient was given 4L NS, MAPs dropped to the low 60s, placed
+femoral line (goal was to preserve other sites sinec pt likely
+currently bactermic and will likely need new line), started
+levophed infusion 0.06 (BP 94/45).
+For fever of 104, given rectal tylenol 650mg, linezolid 600mg,
+zosyn 4.5 (not given vanco bc history of VRE).
+Cultures were obtained including blood, urine, HD catheter swab.
+Labs were significant for CBC WBC 11.9, Hgb 9.4, HCT 31, PLT
+366. N 88%. INR 1.3, PTT 34. Phos low at 1.6, Mg 2, Ca 9.7.
+Lytes revealed UA: large euks, blood, 300+ protein, sh 1013, pH
+6.5.
+Na 135, K 5.1, Cl 94, Bicarb 25, BUN 33, Cr 8.2, Gluc 107. AG
+was 16. Lactate 2.3.
+ABG: pH 7.43, CO2 41, O2 58, HCO3 28
+CXR showed: no signs of pneumonia, mildly increased pulm
+vascular pressures.
+Access includes 18G right and left forearm and right neck.
+Femoral line and tunnel line.
+Most Recent Vitals: 101 80/44 18 82 96% 2LNC
+.
+On arrival to the ICU, pt is A+O x3, states he has a doctorate
+in history and music. He is at times sleepy, and at times very
+sharp and able to answer questions such as the details of his
+PhD. Denies any pain anywhere, no cough, no abd pain, last bm
+yesterday, no diarrhea, states he has been admitted several
+times for recurrent tunnel line infections.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies recent weight loss or gain. Denies headache, sinus
+tenderness, rhinorrhea or congestion. Denies cough, shortness of
+breath, or wheezing. Denies chest pain, chest pressure,
+palpitations, or weakness. Denies nausea, vomiting, diarrhea,
+constipation, abdominal pain, or changes in bowel habits. Denies
+dysuria, frequency, or urgency. Denies arthralgias or myalgias.
+Denies rashes or skin changes.
+
+
+Past Medical History:
+- Seizure disorder since mid [**3142**]'s after starting dialysis
+- MSSA HD line infection with septic lung emboli [**10-11**] with left
+pleural effusion
+- H/o Hepatitis B, treated
+- Non-ischemic cardiomyopathy, last EF 20-30%
+- MI [**3131**] per pt
+- CVA [**3131**] per pt (?residual LE weakness)
+- ESRD on hemodialysis [**3-5**] HTN. EDW 80 kg as of [**3162-2-12**].
+- Multiple thrombectomies in LUE and R thigh AV fistula
+- Graft excision for infected thigh graft [**3161-7-5**]
+- Hungry bone syndrome status post parathyroidectomy
+- Pituitary mass
+- Anemia of chronic disease
+- s/p PEG tube placement [**3161-12-8**]
+- Admission to MICU in [**11-11**] for seizure and hypotension
+- Swab positive for MRSA and VRE at left groin site in [**11-11**] and
+
+ MRSA positive from same site [**12-12**]
+- [**1-/3164**] admission for staph epidermidis bacteremia and CONS
+bacteremia sp vanco x 2 weeks
+-[**11/3163**]: MSSA and VRE bacteremia
+-MSSA [**2-/3162**] and [**6-/3162**]
+
+
+Social History:
+Retired piano and organ teacher. Has 2 PhDs (history and music)
+and prefers to be called "Dr. [**Known patient lastname 1999**]." Walks with a walker at
+baseline. Never smoker, no other drug use. Drinks 1 drink/week.
+Has 2 sisters that live out of state, son died few years ago
+("was shot to death").
+
+
+Family History:
+Father with DM, mother died at age 41 of renal failure
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: anterior lungs are clear bilaterally
+CV: Regular rate and rhythm, normal S1 + S2, systolic murmur
+left sternal border, no rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley  with scant dark urine
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema. Slightly decreased skin turgor. Right knee with warm
+patellar joint, ballotable.
+Neuro: CN 2-12 intact, sensation throughout, [**6-6**] stregnth
+throughout, small pinpoint pupils, EOM intact, A+O x3.
+
+
+Pertinent Results:
+LABS:
+
+On admission:
+[**3164-2-24**] 09:00AM BLOOD WBC-11.9*# RBC-3.63* Hgb-9.4* Hct-30.9*
+MCV-85 MCH-25.8* MCHC-30.4* RDW-16.0* Plt Ct-366
+[**3164-2-24**] 09:00AM BLOOD Neuts-88.0* Lymphs-6.1* Monos-3.1 Eos-2.7
+Baso-0.1
+[**3164-2-24**] 09:00AM BLOOD PT-14.0* PTT-34.0 INR(PT)-1.3*
+[**3164-2-24**] 09:00AM BLOOD Glucose-107* UreaN-33* Creat-8.2*# Na-135
+K-5.1 Cl-94* HCO3-25 AnGap-21*
+[**3164-2-24**] 09:00AM BLOOD Calcium-9.7 Phos-1.6*# Mg-2.0
+[**3164-2-24**] 02:59PM BLOOD TSH-0.45
+[**3164-2-24**] 02:59PM BLOOD Cortsol-40.3*
+[**3164-2-25**] 02:58AM BLOOD Cortsol-25.6*
+[**3164-2-24**] 09:00AM BLOOD Digoxin-1.5
+[**3164-2-24**] 09:11AM BLOOD pO2-58* pCO2-41 pH-7.43 calTCO2-28 Base
+XS-2
+[**3164-2-24**] 09:11AM BLOOD Glucose-102 Lactate-2.3* K-5.1 calHCO3-27
+
+Micro:
+Blood Cx [**2-25**], 25, 26, 29: no growth to date
+Blood Cx [**2-24**]: MRSA
+Femoral CVL tip [**2-28**]: no growth to date
+HD catheter tip [**2-24**]: MRSA
+
+Joint fluid: [**3164-2-26**] 12:00; culture showed no growth.
+WBC  RBC  Polys  Lymphs Monos
+[**Telephone/Fax (1) 20219**]   81      17    2
+
+[**2-24**] Wound swab (from prior HD cath site): MRSA
+
+Urine cx: [**2-24**]: no growth
+
+Studies:
+[**3164-2-24**]   Radiology CHEST (PORTABLE AP)
+Mild cephalization which could reflect mild pulmonary venous
+congestion.
+
+[**3164-2-25**] Cardiovascular ECHO
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thicknesses
+are normal. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is low normal (LVEF 55%) with
+subtle basal inferior hypokinesis. There is no ventricular
+septal defect. Right ventricular chamber size and free wall
+motion are normal. The aortic root is mildly dilated at the
+sinus level. The aortic valve leaflets (3) are mildly thickened
+but aortic stenosis is not present. No masses or vegetations are
+seen on the aortic valve. Mild (1+) aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. No mass or
+vegetation is seen on the mitral valve. Trivial mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is borderline pulmonary artery systolic
+hypertension. No vegetation/mass is seen on the pulmonic valve.
+There is no pericardial effusion. Compared with the prior study
+(images reviewed) of [**3164-1-9**], the LVEF has improved.
+
+[**3164-2-26**] Radiology KNEE 2 VIEW PORTABLE RI
+There are degenerative changes with narrowing of the lateral
+compartment which causes valgus angulation at the knee. There is
+spurring at the inferior pole of the patella. There is no joint
+effusion. There are no focal lytic or blastic lesions. There is
+some soft tissue swelling.
+
+[**3164-2-27**] Radiology CHEST (PORTABLE AP)
+HD catheter has been removed. There is no evident pneumothorax.
+If any there is a small right pleural effusion. Cardiac size is
+top normal. The aorta is tortuous. The chin of the patient
+obscures the right apex. There is mild vascular congestion.
+There are no new abnormalities from [**2-24**]. There are low
+lung volumes. Widened mediastinum and deviation of the trachea
+towards the right is due to enlarged thyroid gland. Multiple
+left rib fractures are noted.
+
+
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE:
+This is 61 male with history of seizure disorder, nonischemic
+cardiomyopathy EF 20-30%, ESRD on HD (T/Th/Sat, last session
+saturday), hepatitis B, CAD, CVA, several admissions in the past
+for tunnel associated MSSA/CONS/VRE bacteremia, recent admission
+1 month ago for Staph epidermidis and CONS line bacteremia given
+vanco for 2 week course, who presented with MRSA bacteremia
+likely due to an infected tunnel line.
+.
+ACTIVE ISSUES
+SEPTIC SHOCK: The patient persented with Fever (Tm 104),
+Leukocytosis (WBC 12), Tachycardia (HR 100s), lactate 2.3,
+mental status change, and BP 94/44 on low dose Levophed and
+after 4L, consistent with septic shock. Methicillin resistant
+staph aureus grew from the [**5-6**] blood culture bottles, swab of
+the catheter and culture of the tip of the catheter line.  Pus
+was noted surrounding the catheter site which was evaluated by
+general surgery and no I/D indicated.  His urine culture
+revealed no growth despite large amount of leukocytes. His
+presenting chest xray was clear and joint fluid analysis of his
+right knee was not consistent with septic arthritis. A TTE
+demonstrated no evidence of vegetations. A TEE was deferred
+given it would not change antibiotic duration. He briefly
+required pressor support with levophed via a femoral line placed
+in the ED. He was initially started on linezolid which was
+discontinued in favor of vancomycin and zosyn in the intensive
+care unit which were narrowed to vancomycin alone when culture
+data was available.  His HD was line was removed and he HD was
+deferred for 1 week before a temporary femoral line was placed.
+Surveillance blood cultures were all negative following his
+admission cultures on [**3164-2-24**].  Duration of therapy 6 weeks
+([**0-0-**]) with vancomycin to be given with HD. A
+tunneled right subclavian line was placed prior to discharge.
+.
+ESRD: T/Th/Sat. Last HD prior to admission was 2 days PTA, on
+Saturday. HD was deferred for as long as possible, to allow for
+a line holiday given segnificant bacteremia and sepsis. Patient
+was monitored on telemetry, electrolytes checked daily, small
+boluses of fluid given for hypotension. HD cath pulled [**2-24**].
+line was replaced on [**2-28**], w/ HD on [**2-29**], now back on prior
+Tu/Th/Sat schedule.
+.
+ALTERED MENTAL STATUS: Patient is significantly altered from
+baseline. Initially, AMS felt to be due to hypoglycemia. Likely
+multifactorial--  septic shock, uremia.  Per patient??????s family,
+his mental status has been declining for >1 year. Neuro exam non
+focal. Patient had one witnessed seizure on the day of HD (5
+days into admission), and it was discovered that he had been
+under dosed on his keppra during the admission.  It is possible
+that he has been having seizures during this time that have been
+affecting his MS, however, his postictal state is not similar to
+his mental status throughout the admission. Mental status
+continued to improved. RPR negative. B12 and folate wnl. TSH
+wnl. Head CT in [**3163-10-3**] demonstrated expected expected
+age-related changes. [**Month (only) 115**] consider neurocognitive testing in the
+outpatient setting.
+.
+HYPOGLYCEMIA: Likely [**3-5**] acute infectious state. Can also see in
+renal failure (because insulin cleared by kidneys), hypopit (pt
+has known pituitary mass), adrenal insuf (had normal cortisol Am
+level check on prior admission), insulinoma. Most likely
+etiology is sepsis. TSH WNL. Patient's blood glucose WNL after 1
+day into admission.
+.
+SEIZURE DISORDER: Patient is on oxcarbazepine and keppra as an
+outpatient. Patient was underdosed Keppra during his HD vacation
+this admission. He experienced a brief localized seizure
+consisting of 1 minute of facial twitching 5 days into
+admission. Pt was apparently on the incorrect seizure
+medication, which was per his prior d/c summary and outside
+facility list (was ~ [**2-4**] of his appropriate dose [**First Name8 (NamePattern2) **] [**3163-7-3**]
+neuro note). Pt??????s prior seizures were more generalized, last
+documented in [**3162**], attributed to medication non-compliance.
+Neurology was consulted and Pt was restarted on Keppra 500 tid
+plus 500 mg dose after HD, and oxcarbazepine 300 mg tid plus 300
+mg dose after HD. Pt apparently tends to have seizures after HD.
+Pt states that he typically has a small facial seizure every few
+months. Pt did not have any further seizures during his
+hospitalization.
+.
+ANION GAP METABOLIC ACID: Likely [**3-5**] lactic acidosis and renal
+failure. Gap closed as patient restarted on HD 5 days into
+admission.
+.
+CAD/CHF: Mild pulm edema on CXR, however on exam pt appears
+mildly volume down with some decreased skin turgor. Pt given
+several liters of IVF in setting of septic shock. He is at risk
+for pulmonary edema so will trend his O2 requirement and exam
+closely. HD was restarted 5 days into admission, which will
+manage volume status. Continued home simvastatin and ASA, and
+digoxin dosed according to HD.
+.
+ANEMIA: HCT baseline 27-30. HCT currently 31, at baseline.
+Likely multifactorial: anemia [**3-5**] ESRD and anemia of chronic
+disease. He was given epoeitin in dialysis.
+.
+INR 1.3: Likely [**3-5**] poor nutrition, recent antibiotics. No
+diarrhea. INR trended. He was given vitamin K prior to discharge
+.
+HYPOPHOSPHOTEMIA: Phos 1.9 on admission (repleted), lower then
+expected given renal failure. Pt is sp parathyroidectomy.
+Differential includes poor nutrition, osetomalacia, diuretics,
+hyper-parathyropidism, hyperthyroidism, recovery from
+starvation, steroids. Baseline phos is usualy [**3-7**]. Repeat Phos
+levels remained WNL. TSH WNL, PTH high.
+.
+RIGHT KNEE PAIN. Pt was complaining about knee effusion, which
+felt warm and was tapped by orthopedic service. Fluid showed 200
+WBC, 1625 RBC, 81% Polys 17% Lymphs, no organisms on gram stain,
+no crystals. Pt was treated with analgesics with improvement in
+his pain.
+.
+TRANSITIONAL ISSUES
+- vancomycin for 6 weeks (last date [**3164-4-7**])
+- consider neurocognitive testing
+
+Medications on Admission:
+1. allopurinol 100 mg Tablet Sig: One (1) Tablet PO EVERY OTHER
+DAY (Every Other Day).
+2. calcium acetate 667 mg Capsule Sig: Four (4) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+3. digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+
+(Every Other Day).
+4. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. gabapentin 100 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+6. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO 3X/WEEK
+(TU,TH,SA): extra dose to be given on dialysis days after
+dialysis.
+7. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+8. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+9. oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO three
+times a day.
+10. oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO three
+times a week (Tues, Thurs, Sat): extra dose to be given on
+dialysis days after dialysis.
+11. sevelamer carbonate 800 mg Tablet Sig: Two (2) Tablet PO TID
+
+W/MEALS (3 TIMES A DAY WITH MEALS).
+12. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+13. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours) as needed for pain: do not exceed 4 grams in 24
+hours.
+14. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO DAILY (Daily).
+15. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+16. bisacodyl 5 mg Tablet Sig: Two (2) Tablet PO once a day as
+needed for constipation.
+17. senna 8.6 mg Capsule Sig: One (1) Capsule PO at bedtime:
+hold for loose stools; pt may refuse.
+18. chlorhexidine gluconate 4 % Liquid Sig: One (1)  Topical [**2-3**]
+
+times each week.
+19. Sarna Anti-Itch 0.5-0.5 % Lotion Sig: One (1)  Topical once
+a day: APPLY LIBERALLY TO SKIN ON HANDS, FEET
+20. vancomycin in D5W 1 gram/200 mL Piggyback Sig: as directed
+Intravenous HD PROTOCOL (HD Protochol): To be dosed based on
+trough and given on hemodialysis; continue until [**3164-1-22**].
+21. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every twelve
+(12) hours as needed for pain.
+
+
+Discharge Medications:
+1. allopurinol 100 mg Tablet Sig: One (1) Tablet PO EVERY OTHER
+DAY (Every Other Day).
+2. digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+(Every Other Day).
+3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. gabapentin 100 mg Capsule Sig: Two (2) Capsule PO once a day.
+
+5. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+6. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO HD DAYS
+().
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+8. oxcarbazepine 150 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+9. oxcarbazepine 150 mg Tablet Sig: Two (2) Tablet PO ON HD DAY
+().
+10. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+11. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed for pain, fever.
+12. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+13. bisacodyl 5 mg Tablet Sig: Two (2) Tablet PO once a day as
+needed for constipation.
+14. senna 8.6 mg Capsule Sig: One (1) Capsule PO once a day as
+needed for constipation.
+15. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+DAILY (Daily).
+16. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1)
+Intravenous with HD for 1 doses: To be dosed based on trough and
+given on hemodialysis days. (Duration 6 weeks, last day
+[**3164-4-8**]).
+Disp:*qS * Refills:*0*
+17. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 593**] Senior Healthcare of [**Location (un) 55**]
+
+Discharge Diagnosis:
+1. Methicillin Resistant Staphylococcus Aureus Bactermia
+2. End Stage Renal Disease
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Mr. [**Known patient lastname 1999**],
+.
+You were admitted for a fever and found to have another
+infection in your blood likely related to your hemodialysis
+line. Your tunneled catheter was removed and dialysis was
+stopped for 1 week. A temporary catheter was then placed in your
+groin before a new tunneled catheter could be placed in your
+right subclavian site.  You will need to continue antibiotics
+for a total of 6 weeks.
+.
+The following changes were made to your medication list:
+1. CONTINUE Vancomycin with hemodialysis for 6 weeks (last day
+[**3164-4-7**])
+2. STOP Ferrous Sulfate
+3. HOLD Sevelamer until otherwise directed
+4. HOLD Calcium acetate until otherwise directed
+.
+Weigh yourself every morning, [**Name8 (MD) 137**] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Please follow-up with the physicians at your facility and your
+outpatient nephrologists.
+
+
+
+
+
+DOC CLASS

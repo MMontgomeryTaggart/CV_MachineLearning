@@ -1,0 +1,222 @@
+CVICU
+   HPI:
+   HD14   POD 12-s/p ascending aorta replacement/resuspension AVR
+   Ejection Fraction:55%
+   Pre-Op Weight:242.5 lbs   110 kgs
+   Baseline Creatinine:4 (acute)
+   Foley:Day13
+   PMHx: HTN, s/p T+A
+   [**Last Name (un) **]: HCTZ ? dose
+   Events:
+   [**2777-9-8**] amio and dltzm gtt to SR. not competent per psych
+   [**2777-9-7**] Quinton o/gw.No HD today. psych eval for legal
+   [**2777-9-6**] RAF->Dilt gtt/Amio bolus/^po dose of Amio/Lopr./start po
+   Dilt->SR.No OR-bumpd
+   [**2777-9-5**] afib received extra BB, HD for ^BUN/Cr, transplant consulted
+   for tunnel line
+   [**2777-9-4**] bun/cr increasing, fluid balance negative
+   [**2777-9-3**] extubated, Afib no coumadin per RH ^ BUN/Cr
+   [**2777-9-2**] head ct neg, sternal drainage, propofol q4h neuro checks,
+   transfuse 2 units
+   [**2776-8-30**] hypoxia ^ PEEP, Afib tx w/ BB and amiodarone, converted to SR
+   Assessment:61M s/p Repair of type A aortic dissection - 28-mm Dacron
+   interposition tube graft from the sinotubular junction > proximal arch
+   using deep hypothermic circulatory arrest
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 5. Albuterol 0.083% Neb Soln 6. Amiodarone 7. Aspirin EC
+   8. Bisacodyl
+   9. Calcium Gluconate 10. Dextrose 50% 11. Diltiazem 12. Diltiazem 13.
+   DiphenhydrAMINE 14. Haloperidol
+   15. Heparin Flush (10 units/ml) 16. Heparin 17. 18. Insulin 19.
+   Ipratropium Bromide Neb 20. Lactulose
+   21. Magnesium Sulfate 22. Metoprolol Tartrate 23. Sarna Lotion 24.
+   Sodium Chloride 0.9% Flush 25. Sodium Chloride 0.9% Flush
+   26. Sodium Chloride 0.9% Flush 27. Tamsulosin 28. Warfarin 29. Warfarin
+   30. sevelamer HYDROCHLORIDE
+   24 Hour Events:
+ [**9-10**]: MS [**Name13 (STitle) 8658**] confused.HD holiday-per Renal
+   STOOL CULTURE - At [**2777-9-10**] 04:09 AM
+   Post operative day:
+   HD14   POD 12-s/p ascending aorta replacement/resuspension AVR
+   Ejection Fraction:55%
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Coumadin (Warfarin) - [**2777-9-9**] 10:18 PM
+   Heparin Sodium (Prophylaxis) - [**2777-9-10**] 12:10 AM
+   Other medications:
+   Flowsheet Data as of  [**2777-9-10**] 09:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**79**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.7
+C (99.8
+   HR: 63 (57 - 127) bpm
+   BP: 126/60(77) {84/44(54) - 155/78(93)} mmHg
+   RR: 20 (11 - 26) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 108.8 kg (admission): 113.6 kg
+   Height: 70 Inch
+                  Total In:
+                                                                  1,430 mL
+                                                                    120 mL
+   PO:
+                                                                  1,200 mL
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                     50 mL
+   Blood products:
+   Total out:
+                                                                  2,300 mL
+                                                                  1,060 mL
+   Urine:
+                                                                  2,300 mL
+                                                                  1,060 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -870 mL
+                                                                   -940 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 96%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : ), (Sternum:
+   Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   271 K/uL
+   9.6 g/dL
+   97 mg/dL
+   2.7 mg/dL
+   28 mEq/L
+   4.1 mEq/L
+   53 mg/dL
+   106 mEq/L
+   143 mEq/L
+   29.3 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**2777-9-4**]  02:51 PM
+                             [**2777-9-5**]  02:40 AM
+                             [**2777-9-5**]  11:18 AM
+                             [**2777-9-6**]  02:27 AM
+                             [**2777-9-7**]  02:49 AM
+                             [**2777-9-8**]  04:28 AM
+                             [**2777-9-9**]  03:50 AM
+                             [**2777-9-9**]  11:00 AM
+                             [**2777-9-9**]  04:00 PM
+                             [**2777-9-10**]  04:21 AM
+   WBC
+   8.7
+   7.6
+   8.2
+   8.5
+   8.5
+   8.1
+   Hct
+   33.1
+   31.6
+   30.3
+   31.4
+   30.6
+   30.6
+   29.3
+   Plt
+   198
+   239
+   260
+   263
+    263
+    240
+   271
+   Creatinine
+   6.0
+   7.4
+   7.1
+   5.5
+   4.7
+   4.1
+   3.1
+   2.7
+   Glucose
+   89
+   112
+   110
+   103
+   109
+   103
+   97
+   Other labs: PT / PTT / INR:15.8/29.5/1.4, CK / CK-MB / Troponin
+   T:358//, ALT / AST:[**1-24**], Alk-Phos / T bili:99/0.3, Amylase /
+   Lipase:73/151, Differential-Neuts:78.2 %, Lymph:10.4 %, Mono:6.9 %,
+   Eos:4.3 %, Fibrinogen:214 mg/dL, Lactic Acid:0.8 mmol/L, Albumin:2.9
+   g/dL, Ca:7.9 mg/dL, Mg:1.9 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   IMPAIRED SKIN INTEGRITY, ATRIAL FIBRILLATION (AFIB), DELIRIUM /
+   CONFUSION, AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AROUSAL, ATTENTION,
+   AND COGNITION, IMPAIRED, BALANCE, IMPAIRED, MUSCLE PERFORMACE,
+   IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED, [**Last Name 9**] PROBLEM - ENTER
+   DESCRIPTION IN COMMENTS, ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS,
+   ACUTE LUNG INJURY, [**Doctor Last Name 73**]), ANXIETY, AORTIC DISSECTION, PERICARDIAL
+   EFFUSION WITH TAMPONADE
+   Assessment and Plan: HD14   POD 12-s/p ascending aorta
+   replacement/resuspension AVR  -
+   Ejection Fraction:55%
+   Neurologic: Neuro checks Q: 4 hr, [**Last Name (un) **] only for pain. No narcotics. OOB.
+   PT. MS [**Name13 (STitle) 8659**] not competent per psych.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, NSR this AM. Cont
+   B-Blocker/Amio/Diltiazem. HD stable.
+   Pulmonary: IS, Cont nebs. Encourage DB&C.IS. strong productive cough
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, Cont prophylaxis/bowel regimen
+   Renal: Foley, BUN/Cr= 53/2.7, as D/W Renal-npo need for HD at this
+   time. Will keep Quintin cath in until Mon- when deemed not necessary.
+   Making good uo.
+   Hematology: Cont A/C with Coumadin for PAF->NSR this AM. INR= 1.4
+   Endocrine: Humalog SS.
+   Infectious Disease: CDiff [**9-10**]=neg. No issues.
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: CT surgery, Nephrology, P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Comments: Humalog SS
+   Lines:
+   PICC Line - [**2777-9-5**] 01:00 PM
+   Dialysis Catheter - [**2777-9-7**] 01:22 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

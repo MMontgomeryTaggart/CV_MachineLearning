@@ -1,0 +1,296 @@
+Admission Date:  [**2757-1-17**]              Discharge Date:   [**2757-1-22**]
+
+Date of Birth:  [**2676-9-26**]             Sex:   F
+
+Service: ORTHOPAEDICS
+
+Allergies:
+morphine / Penicillins / Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 2807**]
+Chief Complaint:
+hip pain after fall
+
+Major Surgical or Invasive Procedure:
+[**2757-1-21**] - DC cardioversion with restoration of sinur rhythm
+
+[**2757-1-17**] - open reduction and intramedullary fixation with
+cehalomedullary device
+
+
+History of Present Illness:
+80f s/p trip and fall when she lost her balance. did not hit
+head. no loc. has a hx of balance problems. xray in ER shows
+proximal femur fx.
+
+
+Past Medical History:
+DM, HLD, CHF in [**2751**] no problems since then
+
+
+Social History:
+lives home with husband, uses a cane
+
+
+Family History:
+nc
+
+Physical Exam:
+on admission:
+
+v/s:  97.7 100 140/76 16 100%
+A&O x 3
+Calm and comfortable
+lungs: cta b/l
+abd: soft, non-tender
+MSK: R leg rotated laterally, +DP and PT pulse, normal
+sensation,
+swelling at prox quadriceps muscle, no bruising or skin tenting
+
+on discharge:
+
+AVSS, NAD, A&Ox3
+
+RLE: dressing c/d/i in place
+Extremity without obvious deformity
+[**Last Name (un) 536**] FHL GS TA PP Fire
+SILT LFCN, PFCN, Obturator, Saphenous, Sural, DP, SP, Plantar
+1+ DP, PT pulses; foot warm, well-perfused
+Compartments soft (thigh, leg, foot)
+
+Pertinent Results:
+[**2757-1-22**] 06:50AM BLOOD WBC-6.4 RBC-3.29*# Hgb-9.9*# Hct-30.2*#
+MCV-92 MCH-30.2 MCHC-33.0 RDW-15.3 Plt Ct-184
+[**2757-1-22**] 06:50AM BLOOD Glucose-100 UreaN-20 Creat-0.7 Na-145
+K-3.8 Cl-110* HCO3-27 AnGap-12
+[**2757-1-22**] 06:50AM BLOOD Calcium-8.4 Mg-1.6
+[**2757-1-22**] 06:50AM BLOOD PT-13.4* PTT-29.2 INR(PT)-1.2*
+
+Brief Hospital Course:
+Ms.  [**Known patient lastname **] ?????? was admitted to the Orthopedic service on [**2757-1-17**]
+for right hip fracture after being evaluated and treated with
+closed reduction in the emergency room.  She underwent open
+reduction internal fixation of the fracture without complication
+on [**2757-1-17**]. Please see operative report for full details. She
+was extubated without difficulty and transferred to the recovery
+room in stable condition.  In the early post-operative course
+she did well and was transferred to the floor in stable
+condition. On HD3 she developed atrial fibrillation with rapid
+ventricular response.
+
+#Atrial fibrillation with rapid ventricular rate - In the
+post-op period, the patient developed Afib with RVR and was
+transferred to the CCU.  Chemical cardioversion was first
+attempted with ibutilide which did not permanently restore sinus
+rhythm.  She was subsequently electrically cardioverted the next
+day with 200J and maintained sinur rhythm until discharge.  She
+will require anticoagulation with warfarin for 4-6 weeks after
+the cardioversion.  She was also started on Metoprolol
+Succinate.
+
+#Transitional issues:
+-Will need anticoagulation with warfarin at goal INR [**3-8**] for [**5-9**]
+weeks after discharge
+
+On hospital day 4 she was transfused 2 U PRBC for post-operative
+anemia. On HD5 she started complaining of blisters and pain in
+her mouth. She was started on Nystatin mouthwash and Acyclovir
+ointment. She was aslo evaluated by speach and swallow consult
+who recommended:
+
+1- PO diet: thin liquids/soft solids (advance to regular when
+mouth sores heal at RN's discretion)
+2- Repeat bedside eval is not necessary for an upgraded diet
+3- PO meds: whole with thin liquid
+4- TID oral care
+
+She had adequate pain management and worked with physical
+therapy while in the hospital.  The remainder of her hospital
+course was uneventful and she is being discharged to rehab in
+stable condition.
+
+
+Medications on Admission:
+Levothyroxin 175mcg qd
+Lasix 20 [**Hospital1 **]
+nexium 40mg po daily
+? omeprazole 20mg daily
+spironolactone 25 mg PO daily
+Metformin 500mg [**Hospital1 12**]
+simvastatin 20mg daily
+centrum
+senna
+colace
+fish oil
+glucosamine chondroitin
+
+Discharge Medications:
+1. enoxaparin 40 mg/0.4 mL Syringe Sig: Forty (40) mg
+Subcutaneous HS (at bedtime): Until INR therapeutic.
+Disp:*20 doses* Refills:*0*
+2. warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4
+PM for 4-6 weeks.
+Disp:*150 Tablet(s)* Refills:*0*
+3. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig:
+1.5 Tablet Extended Release 24 hrs PO once a day.
+Disp:*45 Tablet Extended Release 24 hr(s)* Refills:*0*
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+6. multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+7. calcium carbonate 500 mg calcium (1,250 mg) Tablet Sig: Two
+(2) Tablet PO TID (3 times a day).
+8. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+9. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+10. furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+11. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as
+needed for Pain: taper dose and frequency as your pain improves.
+do not drink alcohol or drive/operate machinery while on this
+medication.
+Disp:*90 Tablet(s)* Refills:*0*
+12. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+13. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO TID (3 times
+a day).
+14. levothyroxine 50 mcg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+15. alendronate 70 mg Tablet Sig: One (1) Tablet PO QWED (every
+Wednesday): Take first thing in the morning on an empty stomach.
+Take with at least 8 ox of water. Remain upright for at least 30
+minutes. Do not eat, drink or take other medications for at
+least 30 minutes.
+Disp:*20 Tablet(s)* Refills:*2*
+16. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO daily ().
+17. acyclovir 5 % Ointment Sig: One (1) Appl Topical ASDIR (AS
+DIRECTED).
+18. nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed for oral ulcers for 5 days.
+19. metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Last Name (un) 15626**] House
+
+Discharge Diagnosis:
+Right subtrochanteric femoral shaft fracture.
+Atrial fibrilation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Wound Care:
+- Keep Incision clean and dry.
+- You can get the wound wet or take a shower starting from 7
+days after surgery, but no baths or swimming for at least 4
+weeks.
+- Dry sterile dresssing may be changed daily.  No dressing is
+needed if wound continues to be non-draining.
+- Any stitches or staples that need to be removed will be taken
+out at your 2-week follow up appointment.
+Activity:
+- Continue to be weight bearing AS TOLERATED on your right leg
+- You should not lift anything greater than 5 pounds.
+- Elevate right leg to reduce swelling and pain.
+Other Instructions
+- Resume your regular diet.
+- Avoid nicotine products to optimize healing.
+- Resume your home medications. Take all medications as
+instructed.
+- Continue taking the Coumadin to prevent blood clots for at
+least 4-6 weeks. You will receive further instructions on your
+cardiology follow-up appointment.
+- You are being started on a Bisphosphonates to help prevent
+fragility fractures. Take Alendronate weekly as prescribed. Take
+first thing in the morning on an empty stomach. Take with at
+least 8 ox of water. Remain upright for at least 30 minutes. Do
+not eat, drink or take other medications for at least 30
+minutes.
+
+- You have also been given Additional Medications to control
+your pain.  Please allow 72 hours for refill of narcotic
+prescriptions, so plan ahead.  You can either have them mailed
+to your home or pick them up at the clinic located on [**Hospital Ward Name 44**] 2.
+ We are not allowed to call in narcotic (oxycontin, oxycodone,
+percocet) prescriptions to the pharmacy.   In addition, we are
+only allowed to write for pain medications for 90 days from the
+date of surgery.
+- Narcotic pain medication may cause drowsiness.  Do not drink
+alcohol while taking narcotic medications.  Do not operate any
+motor vehicle or machinery while taking narcotic pain
+medications.  Taking more than recommended may cause serious
+breathing problems.
+- If you have questions, concerns or experience any of the below
+danger signs then please call your doctor at [**Telephone/Fax (1) 637**] or go
+to your local emergency room.
+
+The following changes were made to your medications:
+START warfarin 3mg by mouth daily for 4-6 weeks after discharge
+START metoprolol succinate 75mg by mouth daily
+Physical Therapy:
+RLE: WBAT, ROMAT
+Treatments Frequency:
+Wound Care:
+- Keep Incision clean and dry.
+- You can get the wound wet or take a shower starting from 7
+days after surgery, but no baths or swimming for at least 4
+weeks.
+- Dry sterile dresssing may be changed daily.  No dressing is
+needed if wound continues to be non-draining.
+- Any stitches or staples that need to be removed will be taken
+out at your 2-week follow up appointment.
+
+On discharge, we have started calcium carbonate and vitamin d
+800 IU daily. In addition, we are recommending that alendronate
+sodium 70mg qweek is started two weeks after discharge. Clinical
+trial data supports that two weeks following fracture is a safe
+time to initiate bisphosphonates and it should not interfere
+with bone healing. Patients who have been treated with
+bisphosphonates starting at two weeks following fracture have
+been shown to have decreased incidence of recurrent fracture and
+decreased overall mortality.
+While bisphosphonates are indicated and safe for most patients
+with osteoporosis related fractures, there are exceptions.
+Contraindications to bisphosphonates include renal failure with
+creatinine clearance less than 35 ml/minute, esophageal
+dysmotility including strictures or achalasia, active
+esophagitis or gastritis, esophageal or gastric ulcers,
+hypocalcemia, or inability to comply with dosing instructions.
+Please note that controlled GERD is NOT a contraindication to
+bisphosphonates. While we have ordered this medication on
+discharge, it is up to your discretion to discontinue it if you
+feel that it is contraindicated for your patient. For the
+majority of patients at average risk of suffering an
+osteoporosis related fracture, the current data supports
+treatment with bisphosphonates for a total of five years.
+
+Followup Instructions:
+Please call the office of Dr. [**Last Name (STitle) **] to schedule a follow-up
+appointment with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 636**] in 2 weeks at [**Telephone/Fax (1) 637**].
+
+You will be contact[**Name (NI) **] by [**Hospital1 68**] cardiology regarding your follow
+up appointment. You can call [**Telephone/Fax (1) 15627**] with questions
+regarding your cardiology follow up.
+
+Please follow-up with your primary care physician regarding this
+admission.
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1356**] MD, [**MD Number(3) 2811**]
+
+Completed by:[**2757-1-22**]
+
+DOC CLASS

@@ -1,0 +1,231 @@
+Chief Complaint:
+   24 Hour Events:
+   -put out 3200 cc to 120 mg IV lasix given 0200 (-1600)
+   -gave another 80 mg IV @ 2130
+   -changed vanc/zosyn -> levo 750 x 5 days for PNA
+   -2 PIV placed, R subclav pulled
+   -advanced diet to reg
+   -dr. [**Last Name (STitle) **] requested viability study p/t graft revasc
+   S: pt reports new diarrhea (4BM/24hrs) after eating normal meals for
+   the first time yesterday. Tolerating POs.  No n/v or abdominal pain.
+   No CP/SOB/F/C.
+   Allergies:
+   Codeine
+   Hives; Nausea/V
+   Hydrocodone
+   Nausea/Vomiting
+   Morphine
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2527-6-1**] 08:00 PM
+   Vancomycin - [**2527-6-2**] 01:01 AM
+   Piperacillin - [**2527-6-2**] 04:22 AM
+   Infusions:
+   Heparin Sodium - 1,750 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2527-6-2**] 08:20 AM
+   Furosemide (Lasix) - [**2527-6-2**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2527-6-3**] 06:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.2
+C (98.9
+   HR: 69 (64 - 88) bpm
+   BP: 98/66(74) {86/60(64) - 124/97(102)} mmHg
+   RR: 20 (17 - 26) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+    CVP: 16 (0 - 16)mmHg
+   Total In:
+                                                                  1,733 mL
+                                                                    240 mL
+   PO:
+                                                                    780 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    953 mL
+                                                                    120 mL
+   Blood products:
+   Total out:
+                                                                  3,848 mL
+                                                                  1,585 mL
+   Urine:
+                                                                  3,748 mL
+                                                                  1,585 mL
+   NG:
+   Stool:
+                                                                    100 mL
+   Drains:
+   Balance:
+                                                                 -2,115 mL
+                                                                 -1,345 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///24/
+   Physical Examination
+   GEN: Awake, alert, NAD
+   HEENT: anicteric, conjunctiva pink, dry MM
+   NECK: neck veins flat @ HOB 30 deg
+   CV: reg rate nl S1S2 no m/r/g
+   Pulm: R basilar crackles, no wheeze/rhonchi
+   Abd: soft NTND NABS
+   Ext: wwp.  trace pedal edema. Pulses +dop PT and DP bilat
+   Neuro: A&Ox3.
+   Labs / Radiology
+   481 K/uL
+   13.2 g/dL
+   96 mg/dL
+   1.0 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   20 mg/dL
+   101 mEq/L
+   141 mEq/L
+   37.5 %
+   8.6 K/uL
+        [image002.jpg]
+                             [**2527-6-1**]  01:41 PM
+                             [**2527-6-1**]  01:58 PM
+                             [**2527-6-1**]  03:12 PM
+                             [**2527-6-1**]  05:23 PM
+                             [**2527-6-1**]  06:26 PM
+                             [**2527-6-1**]  10:08 PM
+                             [**2527-6-2**]  02:35 AM
+                             [**2527-6-2**]  04:05 AM
+                             [**2527-6-2**]  02:13 PM
+                             [**2527-6-3**]  04:15 AM
+   WBC
+   8.1
+   8.6
+   Hct
+   31.5
+   32.9
+   37.5
+   Plt
+   408
+   481
+   Cr
+   0.8
+   0.8
+   0.8
+   1.0
+   TCO2
+   23
+   24
+   19
+   20
+   24
+   Glucose
+   101
+   98
+   96
+   Other labs:
+   PT / PTT / INR:16.9/82.3/1.5,
+   Ca++:9.7 mg/dL, Mg++:2.0 mg/dL, PO4:5.5 mg/dL
+   CXR [**2527-6-2**]
+   There is interval slight progression of the opacification of both lung
+   bases that might be consistent with aspiration versus the
+   underdevelopment of infectious process. Bilateral pleural effusions are
+   most likely present, small-to-moderate. No evidence of overt pulmonary
+   edema is seen. The patient is in mild interstitial engorgement. The
+   right subclavian line tip is in mid SVC. No pneumothorax is present.
+   Bilateral stents in the most likely
+   subclavian and brachiocephalic arteries are present .
+   MICRO:
+   sputum from [**2527-5-31**]
+ oropharengeal flora.
+   Assessment and Plan
+   49 y/o F w/ CAD s/p CABG, prior VF arrest p/w unrevascularized anterior
+   STEMI and cardiogenic shock s/p removal of IABP and extubation [**6-1**].
+   .
+   #Cardiogenic Shock
+ resolved, hemodynamically stable s/p extubation
+   and IABP removal
+   - cont captopril and carvedilol for afterload reduction (change hold
+   parameters to SBP 90)
+   - heparin gtt for apical AK on TTE as bridge to coumadin
+   - TTE showed WMA consistent with large anterior MI, anterior septum and
+   free wall hypokinetic/ akinetic, and EF depressed to 40-50%, question
+   if ICD line is causing worsening TR. Will need coumadin prior to d/c
+   for apical AK.
+   .
+   #. CAD: Severe multivessel disease, now s/p anterior wall STEMI, likely
+   secondary to SSVG to LAD occlusion based on OSH cath images on
+   review.   Mid LAD is occluded and there is a proximal LAD stenosis that
+   supplies a moderate size diagonal, that on cath film appears to supply
+   a viable, contracting territory.  Her SVG to OM has in stent
+   restenosis.  Her SVG to PDA is patent.
+   - Unlikely repeat PCI would provide benefit at this time
+   - Will eventually need viability study prior to discharge
+   - continue aspirin 325, plavix 75mg, lipitor 80, heparin gtt
+   - cont captopril & coreg
+   - hbA1c is 5.7
+   - transfuse to HCT<30 (s/p transfusion of 2 units of PRBCs).
+   .
+   #. Respiratory failure:  Secondary to cardiogenic shock, extubated.
+   Flashed yesterday and responded well to lasix bolus with improvement in
+   clinical parameters
+   - wean O2 as tolerated
+   - no need for lasix currently, monitor UOP to keep negative 1L
+   .
+   # Transaminitis: Presumably ischemic, trend enzymes and consider
+   further w/u PRN
+   .
+   # Pneumonia
+ low grade temp O/N, sputum gram stain w/ GPC
+   pairs/clusters but Cx mod growth OP flora; has been on vent for
+   extended period however. Unlikely MRSA pneumonia. Not hospital
+   acquired. Has defervesced and improved clinically. Currently on
+   Vanc/Zosyn day #2, day #4 of antibiotics.
+   - discontinue vanc and zosyn for now
+   - start levofloxacin 750mg x 5 days
+   .
+   #. Normocytic Anemia
+ presumed [**3-10**] IABP placement, hapto wnl, s/p 2 U
+   PRBC
+   -maintain Hct > 30
+   .
+   #. Access: will need to d/c OSH lines today and place PICC
+   #. PPx:  heparin gtt, bowel regimen prn
+   #. Emergency contact:
+   .
+   ICU Care
+   Nutrition:  clears then ADAT
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2527-6-2**] 01:14 PM
+   20 Gauge - [**2527-6-2**] 01:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

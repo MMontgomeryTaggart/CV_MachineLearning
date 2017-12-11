@@ -1,0 +1,228 @@
+CVICU
+   HPI:
+   [**7-18**] POD#2
+   61M s/p CABGx4 (LIMA-LAD, SVG-Ramus, SVG-OM, SVG-PDA)[**7-16**].
+   PMHx:
+   hypertension, hyperlipidemia and renal failure necessitating a
+   renal transplant with a cadaver kidney in [**3250**]. [**3-12**] developed graft
+   rejection. Dx's w/ prostate CA [**4-9**], hyperparathyroidism
+   w/hypercalcemia, GERD/BArrets esophogus, PVD, Colonic polyps,,
+   Pyelonephritis, Appy, Hernia repair, R renal transplant
+   [**Last Name (un) 500**]: Lipitor, 80', Calcitrol .25', PLavix 75', Epo, Folate 1', Imdur
+   30', Lopressor 50", Cellcept [**Pager number **]", Omeprazole 20', Prednisone 10/QOD,
+   Tacrolimus 2", Bactreim 400/80', ASA 325', Mag Oxide400", Na Bicarb
+   650"
+   Current medications:
+   1. 2. 250 mL D5W 3. Acetaminophen 4. Aluminum Hydroxide Suspension 5.
+   Aspirin EC 6. Atorvastatin 7. Calcium Gluconate 8. Chlorhexidine
+   Gluconate 0.12% Oral Rinse 9. Dextrose 50% 10. Docusate Sodium 11.
+   FoLIC Acid 12. HydrALAzine 13. Insulin 14. Insulin 15. Magnesium
+   Sulfate 16. Magnesium Oxide 17. Metoclopramide 18. Metoprolol Tartrate
+   19. Milk of Magnesia 20. Mycophenolate Mofetil 21. Nitroglycerin 22.
+   Pantoprazole 23. Phenylephrine 24. Potassium Chloride 25. PredniSONE
+   26. Sodium Chloride 0.9% Flush
+   27. Sulfameth/Trimethoprim SS 28. Tacrolimus
+   24 Hour Events:
+ EEG - At [**3268-7-17**] 04:15 PM
+ INVASIVE VENTILATION - STOP [**3268-7-17**] 04:59 PM
+ EXTUBATION - At [**3268-7-17**] 05:00 PM
+ CCO PAC - STOP [**3268-7-18**] 05:23 AM
+   - CTH: negative
+   - EEG: negative for sz activity
+   - Extubated
+   - No further abnl movements to suggest sz
+   - Became confused after percocet, narcotics held
+   - Swan d/c'd, IV BB started
+   Post operative day:
+   POD#2 - cabg x 4 lima to lad,svg to pda,ramus,om. epi off pump. dc'd en
+   route from or, neo off in cvicu. oozy 100 ml ct drainage
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3268-7-17**] 02:00 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3268-7-17**] 03:00 PM
+   Morphine Sulfate - [**3268-7-17**] 04:00 PM
+   Hydralazine - [**3268-7-17**] 11:02 PM
+   Metoprolol - [**3268-7-18**] 06:07 AM
+   Other medications:
+   Flowsheet Data as of  [**3268-7-18**] 11:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**71**] a.m.
+   Tmax: 36.8
+C (98.3
+   T current: 36.8
+C (98.3
+   HR: 98 (84 - 111) bpm
+   BP: 106/65(75) {106/65(75) - 120/68(81)} mmHg
+   RR: 20 (8 - 28) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 81.6 kg (admission): 67.3 kg
+   Height: 65 Inch
+   CVP: 5 (5 - 15) mmHg
+   PAP: (35 mmHg) / (12 mmHg)
+   CO/CI (Fick): (5.7 L/min) / (3.3 L/min/m2)
+   CO/CI (CCO): (8.4 L/min) / (4.8 L/min/m2)
+   SvO2: 58%
+   Total In:
+                                                                  1,261 mL
+                                                                    315 mL
+   PO:
+                                                                    200 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,261 mL
+                                                                    115 mL
+   Blood products:
+   Total out:
+                                                                    930 mL
+                                                                    767 mL
+   Urine:
+                                                                    255 mL
+                                                                    437 mL
+   NG:
+                                                                    125 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    331 mL
+                                                                   -452 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 491 (491 - 491) mL
+   PS : 5 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   PIP: 11 cmH2O
+   Plateau: 13 cmH2O
+   SPO2: 95%
+   ABG: 7.48/41/109/27/4
+   Ve: 11.3 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   112 K/uL
+   8.1 g/dL
+   129 mg/dL
+   4.5 mg/dL
+   27 mEq/L
+   4.2 mEq/L
+   29 mg/dL
+   104 mEq/L
+   140 mEq/L
+   25.3 %
+   17.2 K/uL
+        [image002.jpg]
+                             [**3268-7-16**]  09:48 PM
+                             [**3268-7-16**]  10:00 PM
+                             [**3268-7-17**]  02:48 AM
+                             [**3268-7-17**]  02:54 AM
+                             [**3268-7-17**]  10:57 AM
+                             [**3268-7-17**]  01:27 PM
+                             [**3268-7-17**]  03:36 PM
+                             [**3268-7-17**]  04:45 PM
+                             [**3268-7-18**]  02:19 AM
+                             [**3268-7-18**]  02:34 AM
+   WBC
+   14.2
+   17.2
+   Hct
+   26.1
+   25.6
+   25.3
+   Plt
+   123
+   112
+   Creatinine
+   4.6
+   4.5
+   TCO2
+   22
+   20
+   24
+   28
+   31
+   30
+   Glucose
+   99
+   129
+   Other labs: PT / PTT / INR:15.0/34.1/1.3, Fibrinogen:201 mg/dL, Lactic
+   Acid:1.3 mmol/L, Mg:2.1 mg/dL, PO4:5.5 mg/dL
+   Imaging: CTH: PFI: No intracranial hemorrhage or large vascular
+   territory infarction. If
+   high clinical suspicion remains, we will obtain dedicated MRI when
+   patient is
+   able to tolerate.
+   CXR [**7-17**]: In comparison with the study of [**7-16**], there is little
+   change.
+   Various monitoring and support devices remain essentially in place.
+   Mild
+   retrocardiac atelectasis is again seen.
+   Microbiology: MRSA: P
+   Urine cx: P
+   Assessment and Plan
+   RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD), CORONARY
+   ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan:
+   61M s/p CABGx4 (LIMA-LAD, SVG-Ramus, SVG-OM, SVG-PDA)[**7-16**], now POD 2.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Avoid narcotics.
+   Pain controlled well with tylenol.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, HD stable, oiff all
+   gtts.
+   Pulmonary: IS, Cough, deep breathing, OOB to chair.
+   Gastrointestinal / Abdomen: ADAT. Bowel regimen.
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, HD, Resume immunosuppressive regimen.
+   Hematology: Stable anemia. No e/o active bleeding, monitor.
+   Endocrine: RISS, Adeqaute glycemic control, contonue RISS, goal BS
+   <150. Restart prednisone for immunosuppression regimen.
+   Infectious Disease: On Bactrim for PCP [**Name Initial (PRE) 1663**].
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires, Likely d/c CT today, placed to water seal
+   this AM. Peripheral access, d/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **].
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: CT surgery, Nephrology, P.T.
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op),
+   Post-op hypotension
+   ICU Care
+   Nutrition: ADAT
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3268-7-16**] 04:00 PM
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] - [**3268-7-16**] 04:00 PM
+   Dialysis Catheter - [**3268-7-16**] 04:00 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent:
+
+
+DOC CLASS

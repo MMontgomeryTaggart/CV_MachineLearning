@@ -1,0 +1,173 @@
+Chief Complaint:
+   24 Hour Events:
+   - Pm crit stable (25.3->24.8)
+   - Tolerated BIPAP 8/4 for 4 hours, then switched back to 4L NC due to
+   inability to tolerate (agitated)
+   - CXR ordered for increased wheezing, appearance unchanged
+   - Wrote for Lasix 40mg IV x 1 at MN (was net +2.7L)
+   - Na 148, FW deficit 3.3L, but also diuresing as above
+   - Received several doses of Ativan (total 5.5mg) yesterday for
+   agitation, pulling at lines/mask
+   - Will need to consult Psych in am re: pt's anxiety, wife's
+   over-involvement in nursing care
+   - S&S still pending, ?need for Dobhoff
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Nafcillin - [**3041-3-29**] 01:42 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3041-3-28**] 05:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3041-3-29**] 05:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 37.8
+C (100
+   HR: 106 (102 - 115) bpm
+   BP: 80/47(60) {78/46(58) - 109/65(81)} mmHg
+   RR: 33 (17 - 46) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 95 kg (admission): 98 kg
+   Height: 72 Inch
+             Total In:
+                                                                  3,170 mL
+                                                                    217 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,170 mL
+                                                                    217 mL
+   Blood products:
+   Total out:
+                                                                    471 mL
+                                                                     70 mL
+   Urine:
+                                                                    271 mL
+                                                                     70 mL
+   NG:
+   Stool:
+                                                                    200 mL
+   Drains:
+   Balance:
+                                                                  2,699 mL
+                                                                    147 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Spontaneous): 358 (358 - 834) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 0%
+   PIP: 0 cmH2O
+   SpO2: 100%
+   ABG: 7.38/37/186/19/-2
+   Ve: 15.9 L/min
+   PaO2 / FiO2: 372
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   213 K/uL
+   8.7 g/dL
+   155 mg/dL
+   2.4 mg/dL
+   19 mEq/L
+   3.8 mEq/L
+   31 mg/dL
+   119 mEq/L
+   150 mEq/L
+   25.6 %
+   8.5 K/uL
+        [image002.jpg]
+                             [**3041-3-28**]  12:34 AM
+                             [**3041-3-28**]  12:47 AM
+                             [**3041-3-28**]  05:34 AM
+                             [**3041-3-28**]  06:09 AM
+                             [**3041-3-28**]  12:26 PM
+                             [**3041-3-28**]  12:33 PM
+                             [**3041-3-28**]  03:17 PM
+                             [**3041-3-28**]  04:48 PM
+                             [**3041-3-29**]  03:53 AM
+                             [**3041-3-29**]  04:09 AM
+   WBC
+   9.5
+   9.2
+   10.2
+   8.5
+   Hct
+   25.0
+   25.3
+   24.8
+   25.6
+   Plt
+   [**Telephone/Fax (3) 4364**]13
+   Cr
+   2.0
+   2.3
+   2.3
+   2.4
+   2.4
+   TCO2
+   23
+   21
+   20
+   20
+   23
+   Glucose
+   154
+   211
+   181
+   230
+   157
+   155
+   Other labs: PT / PTT / INR:17.6/26.7/1.6, CK / CKMB /
+   Troponin-T:77/2/5.90, ALT / AST:45/33, Alk Phos / T Bili:54/0.9,
+   Amylase / Lipase:101/78, Differential-Neuts:84.6 %, Band:2.0 %,
+   Lymph:10.6 %, Mono:3.7 %, Eos:0.9 %, Fibrinogen:563 mg/dL, Lactic
+   Acid:1.1 mmol/L, Albumin:2.3 g/dL, LDH:295 IU/L, Ca++:7.9 mg/dL,
+   Mg++:2.3 mg/dL, PO4:5.2 mg/dL
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ ANXIETY
+ IMPAIRED SKIN INTEGRITY
+ INEFFECTIVE COPING
+ SHOCK, SEPTIC
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ DIABETES MELLITUS (DM), TYPE II
+ .H/O RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ SHOCK, OTHER
+ SHOCK, CARDIOGENIC
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3041-3-18**] 06:00 PM
+   PICC Line - [**3041-3-27**] 10:55 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

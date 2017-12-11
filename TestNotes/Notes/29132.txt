@@ -1,0 +1,144 @@
+Admission Date:  [**3153-1-2**]              Discharge Date:   [**3153-1-6**]
+
+Date of Birth:  [**3089-4-22**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Worsening shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**3153-1-2**] Mitral Valve Repair utilizing a 32 mm Physio Ring
+
+History of Present Illness:
+This is a 63 year old male well known to the cardiac service
+with known mitral regurgitation. After undergoing recent
+surgical evaluation and outpatient treatment for a community
+acquired pneumonia, he now presents for surgical repair.
+
+Past Medical History:
+Congestive Heart Failure, Mitral regurgitation with ruptured
+chordae tendinae, Tricuspid Regurgitation, History of mitral
+valve prolapse, Pneumonia, Benign prostatic hypertrophy, History
+of bladder cancer s/p surgery, History of basal cell carcinoma
+s/p removal, s/p Tonsillectomy
+
+Social History:
+Married, with children. Denies history of tobacco abuse. He
+drinks red wine or beer 3-4 days per week.
+
+
+Family History:
+Denies premature history of coronary artery disease.
+
+Physical Exam:
+Afebrile, 105/52, 66, 17, 100% RA
+NAD
+Neck supple, no JVD
+Lungs CTA bilaterally
+Heart RR, s1s2, no murmur or rub
+Abd benign
+EXt warm, tr edema
+Inc clean, dry and intact
+
+Pertinent Results:
+[**3153-1-6**] 08:55AM BLOOD Hct-23.4*
+[**3153-1-5**] 06:45AM BLOOD WBC-6.7 RBC-2.69* Hgb-8.4* Hct-24.4*
+MCV-91 MCH-31.3 MCHC-34.5 RDW-13.4 Plt Ct-88*
+[**3153-1-6**] 08:55AM BLOOD UreaN-22* Creat-1.1 K-4.3
+[**3153-1-4**] 01:40PM BLOOD HEPARIN DEPENDENT ANTIBODIES - negative
+[**3153-1-5**] Chest x-ray: Right pneumothorax has decreased since the
+prior examination with a small residual remaining. Patchy
+opacities at both bases consistent with airspace disease has
+improved. There is overall better aeration of the lungs. No
+acute adverse changes noted.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 15825**] was admitted and taken directly to the operating room
+where Dr. [**Last Name (STitle) **] performed a mitral valve repair. For surgical
+details, please see seperate dictated operative note. Following
+the procedure, he was brought to the CSRU for invasive
+monitoring. Within 24 hours, he awoke neurologically intact and
+was extubated without incident. His CSRU course was otherwise
+uneventful and he transferred to the SDU on postop day one. He
+remained in a normal sinus rhythm. He tolerated beta blockade
+which was advanced as tolerated. Over several days, he continued
+to make clinical improvements with diuresis and was medically
+cleared for discharge on postoperative day four. Of note,
+routine chest x-rays revealed a tiny right apical pneumothorax
+which decreased in size over several days. In addition, he
+platelet count postop was low. HIT assays were checked,
+returning negative. At discharge, his
+BP was 105/52 with a HR of 60-80 and room air saturations of
+100%.
+
+Medications on Admission:
+Aspirin 81 qd, Lisinopril 10 qd, Lasix 20 qd
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+5. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+9. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: One
+(1) Capsule, Sustained Release PO twice a day for 7 days.
+Disp:*14 Capsule, Sustained Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+mitral regurgitation - s/p mv repair
+postop thrombocytopenia
+postop pneumothorax
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+may shower, no bathing or swimming for 1 month
+no creams, lotions or powders to any incisions
+no driving for 1 month
+no lifting > 10# for 10 weeks
+
+Followup Instructions:
+with Dr. [**Last Name (STitle) 257**] in [**1-24**] weeks
+with Dr. [**Last Name (STitle) 180**] in [**1-24**] weeks
+with Dr. [**Last Name (STitle) **] in [**3-26**] weeks
+
+
+
+Completed by:[**3153-1-7**]
+
+DOC CLASS

@@ -1,0 +1,213 @@
+Chief Complaint: [**Age over 90 **] yo M with diabetes, hyperlipedemia, and
+   hypertension without past known CV disease presents with chest
+   discomfort and ST depression consistent with NSTEMI.  s/p CCATH with
+   BMS placement. Now being evaluated for CABG.
+   24 Hour Events:
+   -Even I/O goal today, follow Cr, decrease furosemide drip to 4mg/hr at
+   11am, will follow UOP.  -1L at 2pm, held furosemide drip.
+   -Slept poorly overnight, but did not feel SOB. Lightheaded with
+   standing.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 800 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**2609-3-17**] 06:24 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2609-3-17**] 06:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**11**] AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.7
+C (98
+   HR: 75 (65 - 92) bpm
+   BP: 94/48(56) {86/45(55) - 119/69(80)} mmHg
+   RR: 21 (14 - 32) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 76.1 kg (admission): 77.2 kg
+   Height: 69 Inch
+             Total In:
+                                                                    924 mL
+                                                                     40 mL
+   PO:
+                                                                    540 mL
+             TF:
+   IVF:
+                                                                    384 mL
+                                                                     40 mL
+   Blood products:
+   Total out:
+                                                                  2,290 mL
+                                                                    440 mL
+   Urine:
+                                                                  2,290 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,366 mL
+                                                                   -400 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///36/
+   Physical Examination
+   General Appearance: No acute distress, Elderly
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : , Crackles : bibasilar)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Musculoskeletal: Muscle wasting
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed, No focal deficits
+   Labs / Radiology
+   276 K/uL
+   9.7 g/dL
+   161 mg/dL
+   2.3 mg/dL
+   36 mEq/L
+   3.8 mEq/L
+   88 mg/dL
+   94 mEq/L
+   138 mEq/L
+   28.7 %
+   6.4 K/uL
+        [image002.jpg]
+                             [**2609-3-10**]  05:53 AM
+                             [**2609-3-10**]  04:23 PM
+                             [**2609-3-11**]  06:43 AM
+                             [**2609-3-14**]  07:00 AM
+                             [**2609-3-14**]  03:40 PM
+                             [**2609-3-15**]  04:00 AM
+                             [**2609-3-15**]  05:30 PM
+                             [**2609-3-16**]  03:59 AM
+                             [**2609-3-16**]  03:18 PM
+                             [**2609-3-17**]  03:06 AM
+   WBC
+   6.2
+   5.4
+   10.5
+   7.2
+   7.7
+   6.4
+   Hct
+   28.3
+   30.4
+   32.2
+   30.1
+   29.8
+   28.7
+   Plt
+   131
+   140
+    301
+   [**Telephone/Fax (3) 10710**]
+   Cr
+   1.9
+   1.5
+   1.5
+   2.5
+   2.6
+   2.6
+   2.5
+   2.6
+   2.6
+   2.3
+   Glucose
+   155
+   181
+   130
+   [**Telephone/Fax (3) 10711**]
+   Other labs: PT / PTT / INR:13.0/54.6/1.1, CK / CKMB /
+   Troponin-T:154/4/9.34, Albumin:2.7 g/dL, Ca++:8.7 mg/dL, Mg++:2.2
+   mg/dL, PO4:3.7 mg/dL
+   Imaging: CXR:  Mild pulmonary emphysema has improved. Bilateral pleural
+   effusions larger on the right side have improved more so on the left.
+   Bibasilar atelectases have
+   improved on the left. Cardiomediastinal contours are unchanged.
+   Microbiology: Blood cx negative
+   Urine cx negative
+   Assessment and Plan
+   [**Age over 90 **] yo M with diabetes, hyperlipedemia, and hypertension without past
+   known CV disease presents with chest discomfort and ST depression
+   consistent with NSTEMI.
+   #Aortic stenosis: Scheduled for CABG, aortic valve replacement next
+   week.  Patient is high risk for surgery, particularly if MR continues
+   to be present and if patient would need both aortic and mitral valve
+   replacement.  Moderate MR [**First Name (Titles) **] [**Last Name (Titles) **], though [**Last Name (Titles) **] does not show up in
+   computer system.  Patient feels is his only option.  Pre-op workup
+   complete, urinalysis, carotid ultrasound done yesterday (<40% stenosis
+   bilaterally).
+   - Appreciate CT [**Doctor First Name **] recs
+   # Atrial Fibrillation: Has been loaded with amiodarone twice, continues
+   on PO doses 400mg [**Hospital1 **].  Started anticoagulation yesterday after episode
+   of Afib.
+   - can decrease dose to 200mg [**Hospital1 **] tomorrow
+   - cont low dose beta blocker
+   - cont heparin gtt; no utility in starting warfarin now if he goes to
+   surgery early next week
+   # NSTEMI: s/p Cath with stenting of RCA with BMS
+   - continue aspirin, plavix, high dose atorvastatin
+   - no ACE-i currently given [**Last Name (un) 2359**] and low pressures
+   # Acute on Chronic systolic congestive heart failure: Symptoms improved
+   w diuresis
+   - cont lasix gtt at slower rate, I/O goal -500cc, w close monitoring of
+   electrolytes
+   - continue low dose beta blocker at 12.5mg metoprolol [**Hospital1 **]
+   # Acute on chronic kidney failure: The patient has a [**Hospital1 4481**]
+   creatinine of 1.2-1.4. On presentation at 1.6, now 2.6.  Likely due to
+   poor forward flow as a result of aortic stenosis.  Patient however
+   needs continued diuresis in order to get surgical aortic valve repair,
+   which would improve his forward cardiac flow.
+   - will trend creatinine, lytes [**Hospital1 **].
+   # Diabetes: controlled on metformin at home
+   - continue on glargine.
+   - ISS
+ adjust prn
+   - Hold oral home meds
+   # Hypertension: Patient is now normotensive in setting of mild
+   cardiogenic shock.
+   - Hold ACEi given compromised kidney function
+   - Hold Nifedipine
+   - Continue with low dose beta blocker as pressure tolerates to control
+   heart rate
+    # Trauma to face, s/p fall onto right side.  Patient denies LOC,
+   altered sensorium, weakness, palpitations, preceding chest pain, and
+   postictal state.  Patient is neurologically intact on exam.  No broken
+   bones visible on CXray.
+   - Will monitor for continued signs and symptoms.
+   - See trauma note.
+   # Pernictious anemia. Treated with B12 by PCP.  [**Name10 (NameIs) **] Hct 36-39.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2609-3-15**] 09:00 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:Transfer to floor
+
+
+DOC CLASS

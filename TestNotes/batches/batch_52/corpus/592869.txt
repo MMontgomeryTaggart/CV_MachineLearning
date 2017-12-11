@@ -1,0 +1,190 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - required IV Hydral x1 overnight
+   - Endocrine: keep Aldactone dose same, f/u Renin, [**Male First Name (un) **] levels
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2858-4-12**] 09:54 PM
+   Hydralazine - [**2858-4-13**] 02:01 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2858-4-13**] 07:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.6
+C (97.9
+   HR: 67 (55 - 71) bpm
+   BP: 178/85(112) {126/49(71) - 195/88(118)} mmHg
+   RR: 8 (0 - 32) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 117 kg (admission): 114.4 kg
+   Height: 71 Inch
+                  Total In:
+                                                                    560 mL
+                                                                     50 mL
+   PO:
+                                                                    560 mL
+                                                                     50 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  1,350 mL
+                                                                    400 mL
+   Urine:
+                                                                  1,350 mL
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -790 mL
+                                                                   -350 mL
+   Respiratory support
+   SpO2: 97%
+   ABG: ///25/
+   Physical Examination
+   General: Middle Aged, slightly depressed affect, NAD
+   HEENT: PERRL, EOMI, no scleral icterus noted.
+   Neck: No thyromegaly noted, no buffalo hump
+   Chest: Lungs CTA bilaterally, no wheezes, ronchi or rales. No
+   gynecomastia
+   Cardiac: RR, S1 S2, 2/6 systolic @ LUSB
+   Abdomen: Non-tender, non-distended, normoactive bowel sounds, no
+   striae.
+   Extremities: No edema, 2+ DP pulses b/l, warm to touch
+   Skin: numerous well healed surgical scars
+   Labs / Radiology
+   439 K/uL
+   10.7 g/dL
+   92 mg/dL
+   1.1 mg/dL
+   25 mEq/L
+   3.8 mEq/L
+   18 mg/dL
+   101 mEq/L
+   138 mEq/L
+   32.9 %
+   8.0 K/uL
+        [image002.jpg]
+                             [**2858-4-9**]  02:25 AM
+                             [**2858-4-10**]  03:47 AM
+                             [**2858-4-11**]  03:40 AM
+                             [**2858-4-11**]  04:37 PM
+                             [**2858-4-12**]  04:04 AM
+                             [**2858-4-12**]  02:00 PM
+                             [**2858-4-13**]  04:41 AM
+   WBC
+   10.2
+   10.7
+   9.0
+   8.1
+   8.0
+   Hct
+   30.2
+   28.3
+   26.2
+   30.1
+   32.9
+   Plt
+   356
+   329
+   332
+   346
+   439
+   Cr
+   1.1
+   1.3
+   1.1
+   1.1
+   0.9
+   0.9
+   1.1
+   Glucose
+   109
+   104
+   100
+   89
+   90
+   81
+   92
+   Other labs: PT / PTT / INR:13.1/28.1/1.1, Ca++:9.3 mg/dL, Mg++:2.1
+   mg/dL, PO4:4.4 mg/dL
+   Fluid analysis / Other labs: Renin and [**Male First Name (un) **] pending from [**4-11**]
+   Assessment and Plan
+ .H/O AORTIC ANEURYSM, ABDOMINAL WITHOUT RUPTURE (AAA)
+ DEPRESSION
+ HYPERTENSION, BENIGN
+   42 y/o M Malignant HTN, Type A dissection s/p emergent repair in [**2856**],
+   Type B dissection, Depression admitted now transfered for further
+   medical management of HTN and hyperaldosteronism
+   # Malignant HTN/Hyperaldosterone: Given his hx of elevated Aldosterone,
+   decreased PRA, HTN in setting if hypokalemia, this is c/w primary
+   hyperaldosteronism. CT abd reveals stable lipoma but no adrenal
+   adenoma.  BP responded to Ativan in the setting of anxiety and
+   tearfullness, but required additional dose of IV Hydral overnight for
+   HTN while sleeping. Low dose klonopin seems to be doing well for
+   component of anxiety.
+   - appreciate endocrine recs
+   - f/u repeat renin, [**Male First Name (un) **] after salt load and K repletion -- levels from
+   [**4-11**]
+   - serum metanephrines: normal
+   - continue 50 PO BID spironolactone
+   - TID lytes to monitor K
+   - will adjust his BP regimen by trying to come off drips and to a
+   reasonable home regimen
+   - cont Klonipin for anxiety
+   # Type B dissection: with dissection flap extending into the left renal
+   artery, and probable areas of left renal infarct.
+   - goal SBP 140-160 (he reportedly gets hypotensive sx when SBP<120's
+   per surgery service)
+   - per vascular, they can tolerate SBP 160's
+   # Anemia: Hct 30 today
+   - if large drop, will contact vascular given risk of extravasation
+   # L Renal infarct: Likely in setting of dissection
+   - continue to monitor renal status
+   # Depression: Currently denies SI but does endorse depressed mood. Very
+   tearful this morning and feeling very overwhelmed. Klonipin somewhat
+   helpful.
+   - cont Klonipin
+   - appreciate SW consult
+   - f/u with psych
+   - started risperdol per psych
+   # FEN:
+   - regular low Na diet
+   # PPX:
+   - SQ heparin
+   - H2 blocker
+   - bowel regimen as no BM in 4 days
+   CODE: Full Code
+   ICU Care
+   Nutrition:
+   Comments: regular low Na diet
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   Arterial Line - [**2858-4-8**] 08:42 PM
+   22 Gauge - [**2858-4-10**] 08:27 PM
+   20 Gauge - [**2858-4-11**] 12:00 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

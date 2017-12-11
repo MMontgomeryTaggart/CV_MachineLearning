@@ -1,0 +1,168 @@
+CVICU
+   HPI:
+   83 y.o. M trasferred form OSH last night with acute coronary syndrome.
+   Pt was treated at OSH for "COPD exacerbation" with steroids and Abx. Pt
+   was also intubated for presumed COPD exacerbation, and was able to get
+   extubated successfuly. Here for further management (medical
+   vs.surgical)
+   Chief complaint:
+   PMHx:
+   PMhx: Chronic obtructive pulmonary disease - refuses home oxygen.
+   Hypertension Hypercholesterolemia Macular degeneration
+   [**Last Name (un) 500**]: Hydrochlorothiazide 25 mg daily norvasc 20 mg daily  pravastatin
+   20 mg daily cholestyramine 4 grams daily spiriva daily  advair 250/50
+   twice a day combivent inhaler and nebulizer as needed  ? eye gtts
+   Current medications:
+   24 Hour Events:
+ EKG - At [**3338-4-8**] 02:00 AM
+   Allergies:
+   Unasyn (Intraven) (Ampicillin Sodium/Sulbactam Na)
+   Hives; Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 1.25 mcg/Kg/min
+   Heparin Sodium - 650 units/hour
+   Other ICU medications:
+   Morphine Sulfate - [**3338-4-8**] 02:37 AM
+   Furosemide (Lasix) - [**3338-4-8**] 04:07 AM
+   Other medications:
+   Flowsheet Data as of  [**3338-4-8**] 10:19 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**40**] a.m.
+   Tmax: 37.5
+C (99.5
+   T current: 35.8
+C (96.5
+   HR: 75 (54 - 84) bpm
+   BP: 167/51(87) {167/51(87) - 167/51(87)} mmHg
+   RR: 20 (13 - 32) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+             Total In:
+                                                                    301 mL
+                                                                    205 mL
+   PO:
+                                                                    240 mL
+             Tube feeding:
+   IV Fluid:
+                                                                     61 mL
+                                                                    205 mL
+   Blood products:
+   Total out:
+                                                                    175 mL
+                                                                  1,075 mL
+   Urine:
+                                                                    175 mL
+                                                                  1,075 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    126 mL
+                                                                   -870 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SPO2: 97%
+   ABG: 7.47/45/63/34/7
+   PaO2 / FiO2: 126
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)
+   Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   Throughout lungs bilateral, Diminished: Bilaterally)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Moves all extremities
+   Labs / Radiology
+   240 K/uL
+   11.1 g/dL
+   120 mg/dL
+   0.9 mg/dL
+   34 mEq/L
+   3.7 mEq/L
+   31 mg/dL
+   103 mEq/L
+   143 mEq/L
+   32.2 %
+   10.2 K/uL
+        [image002.jpg]
+                             [**3338-4-7**]  09:48 PM
+                             [**3338-4-7**]  11:45 PM
+   WBC
+   10.2
+   Hct
+   32.2
+   Plt
+   240
+   Creatinine
+   0.9
+   Troponin T
+   0.29
+   TCO2
+   34
+   Glucose
+   120
+   Other labs: PT / PTT / INR:11.6/81.2/1.0, CK / CK-MB / Troponin
+   T://0.29, ALT / AST:30/33, Alk-Phos / T bili:57/0.5, Albumin:3.7 g/dL,
+   LDH:258 IU/L, Ca:8.4 mg/dL, Mg:2.4 mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), .H/O MYOCARDIAL INFARCTION
+   Assessment and Plan: 83 y.o. M trasferred form OSH last night with
+   acute coronary syndrome. Pt was treated at OSH for "COPD exacerbation"
+   with steroids and Abx. Pt was also intubated for presumed COPD
+   exacerbation, and was able to get extubated successfuly. Here for
+   further management (medical vs.surgical).
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled
+   Cardiovascular: Full anticoagulation, Statins, HD stable.
+   Nitroglycerine and heparin drips for management of ACS, but currently
+   stable hemodynamically. No evidence of cardiogenic shock. Amlodipine.
+   In the process of pre-surgery evaluation; chest CT, carotid u/s.
+   Patient is a very high risk surgical candidate. We discussed this with
+   Dr. [**First Name (STitle) **] given the severity of COPD and probable inability to
+   seperate from vent post-op. Dr. [**First Name (STitle) **] is evaluating patient for
+   surgery.
+   Pulmonary: Severe COPD. Inhalers.
+   Gastrointestinal / Abdomen: No issues at this point
+   Nutrition: NPO
+   Renal:
+   Hematology: Serial Hct, Stable anemia. Monitor for now. Type and cross
+   for 2 units PRBC for potential surgery today
+   Endocrine: RISS, Goal BG < 150. Would hold off on steroids for now.
+   Infectious Disease: Check cultures, No evidence of infection. Was
+   treated for COPD exacerbation at OSH with Z-pack and unasyn. Hold off
+   on Abx for now as no evidence of infection
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging: CT scan chest today, Carotid u/s
+   Fluids: KVO
+   Consults: CT surgery, P.T.
+   Billing Diagnosis: Acute MI / Ischemia
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**3338-4-7**] 08:59 PM
+   20 Gauge - [**3338-4-7**] 09:00 PM
+   Arterial Line - [**3338-4-8**] 08:43 AM
+   16 Gauge - [**3338-4-8**] 08:44 AM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Heparin drip)
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+
+
+DOC CLASS

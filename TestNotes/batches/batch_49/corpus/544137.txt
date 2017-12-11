@@ -1,0 +1,154 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   No events
+   Allergies:
+   Morphine
+   Rash;
+   Asacol (Oral) (Mesalamine)
+   Fever/Chills;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 900 units/hour
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3288-12-7**] 04:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 62 (60 - 79) bpm
+   BP: 137/54(74) {137/51(73) - 154/64(87)} mmHg
+   RR: 19 (14 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: V Paced
+             Total In:
+                                                                    118 mL
+                                                                     89 mL
+   PO:
+             TF:
+   IVF:
+                                                                    118 mL
+                                                                     89 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    500 mL
+   Urine:
+   500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    118 mL
+                                                                   -411 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ////
+   Physical Examination
+   Gen: WD/WN elderly male in NAD. Oriented x 3. Mood, affect
+   appropriate.
+   HEENT: NC/AT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+   pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+   Neck: Supple without JVD or lymphadenopathy.
+   CV: PMI located in 5th intercostal space, midclavicular line.
+   RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+   were unlabored, no accessory muscle use. CTAB, no wheezes or rhonchi.
+   Abd: Soft, NT/ND. No HSM or tenderness. Normoactive BS.
+   Ext: No c/c/e.
+   Rectal: Guaiac negative in the ED.
+   Labs / Radiology
+        [image002.jpg]
+                            [**3288-12-7**]  12:23 AM
+   TropT
+   0.01
+   Other labs: CK / CKMB / Troponin-T:102/3/0.01
+   Assessment and Plan
+   The patient is an 82 year old male with CAD s/p CABG and multiple MIs,
+   HTN, CHF EF 35%, afib, and sustained VT with ICD and subsequent
+   catheter ablation treatment who presents with an episode of ICD firing,
+   found to be in slow VT.
+   .
+   # CAD - The patient has a history of CAD with multiple MIs and
+   is medically managed on atorvastatin, metoprolol, and isosorbide
+   mononitrate. Will continue home meds for now. Ischemia unlikely as a
+   cause for his ICD firing and slow VT however will complete a rule out
+   for ACS.
+   - cycle CEs
+   - monitor on telemetry
+   - serial EKGs
+   .
+   # Pump - Currently euvolemic.  He has chronic systolic heart failure
+   with an LVEF of 35%. No active issues.
+   - continue home meds
+   .
+   # Rhythm - The pt is now s/p ICD firing. He was found to be in slow VT
+   in the ED. He was able to be paced out of VT. He received a bolus of
+   amiodarone and started on a gtt.
+   - continue amiodarone gtt
+   - monitor on telemetry
+   - NPO after MN for possible ablation/EP study in AM, he has had several
+   ablation procedures in the past but unclear how successful it may be
+   given past unsuccessful attempts, will d/w EP
+   - will d/w EP in AM about alternative antiarrhythmic for recurrent VT
+   such as flecanide/mexilitine for long term, will d/w outpatient
+   cardiologist
+   .
+   # Hypertension - Continue home meds. No active issues.
+   .
+   # h/o atrial fibrillation - Currently in sinus rhythm. Will continue
+   home meds for now. Heparin gtt, hold Coumadin for now given possibility
+   of study, follow INR.
+   .
+   # h/o DVT - heparin gtt, hold coumadin for now
+   .
+   # FEN - cardiac healthy diet, NPO after MN for possible EP
+   study/ablation
+   .
+   # Access - PIV
+   .
+   # Code - full code
+   .
+   # Dispo - CCU
+           1. IV access: Peripheral line Order date: [**12-6**] @ [**3329**]
+   9. Heparin IV per Weight-Based Dosing Guidelines
+   Order date: [**12-6**] @ [**3329**]
+   2. Acetaminophen 325-650 mg PO Q6H:PRN Pain, fever  Order date: [**12-6**] @
+   2304
+   10. HydrALAzine 50 mg PO Q8H
+   Please hold for SBP < 100.  Order date: [**12-6**] @ 2125
+   3. Amiodarone 1 mg/min IV INFUSION
+   For a total of six hours  Order date: [**12-6**] @ 2053
+   11. Hydrochlorothiazide 25 mg PO DAILY Start: In am
+   Please hold for SBP < 100.  Order date: [**12-6**] @ 2125
+   4. Amiodarone 0.5 mg/min IV INFUSION
+   To be started after six hours of 1 mg/min  Order date: [**12-6**] @ 2053
+   12. Isosorbide Mononitrate (Extended Release) 90 mg PO DAILY Start: In
+   am
+   Please hold for SBP < 100.  Order date: [**12-6**] @ 2125
+   5. Atorvastatin 40 mg PO DAILY Start: In am Order date: [**12-6**] @ 2058
+   13. Metoprolol Tartrate 37.5 mg PO BID
+   Please hold for SBP < 100 and HR < 60.  Order date: [**12-6**] @ 2125
+   6. Calcium Carbonate 500 mg PO DAILY:PRN  Order date: [**12-6**] @ 2125
+   14. Sertraline 25 mg PO DAILY  Order date: [**12-6**] @ 2125
+   7. Digoxin 0.0625 mg PO EVERY OTHER DAY  Order date: [**12-6**] @ 2125
+   15. Sodium Chloride 0.9% Flush 3 mL IV Q8H:PRN line flush
+   Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.
+   Order date: [**12-6**] @ [**3329**]
+   8. Docusate Sodium 100 mg PO DAILY  Order date: [**12-6**] @ 2125
+   16. Spironolactone 25 mg PO DAILY Start: In am
+   Please hold for SBP < 100.  Order date: [**12-6**] @ 2125
+
+
+DOC CLASS

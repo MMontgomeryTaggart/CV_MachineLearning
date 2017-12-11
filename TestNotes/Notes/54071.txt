@@ -1,0 +1,505 @@
+Admission Date:  [**3090-10-22**]              Discharge Date:   [**3090-11-7**]
+
+Date of Birth:  [**3046-9-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 87**]
+Chief Complaint:
+Chief Complaint: Direct admit from home for treatment of
+endocarditis, vegetation on RV lead of AICD
+
+
+Major Surgical or Invasive Procedure:
+Removal of infected pacemaker leads via [**Doctor First Name **]-sternotomy
+PICC line placement
+
+
+History of Present Illness:
+44 yo M with RV dysplasia, s/p AICD who is admitted for
+treatment of right sided endocarditis a/w with his AICD wire.
+Patient initially started having fevers, chills, malaise,
+anorexia and nausea in [**1-6**] initially thought to be a PNA and
+rxed with Avelox by his PCP. [**Name10 (NameIs) **] did not have chest pain or sob
+at that time. No blood cultures were drawn. In mid [**3090-2-2**]
+his symptoms recurred and he had one episode of syncope while
+chopping wood in his yard. His AICD fired at that time. His
+device was interrogated and he was sent home without further
+intervention. He returned to his PCP with ongoing symptoms and
+was again treated with 6-7 days of antibiotics (same [**Doctor Last Name 539**]) and
+again felt better with treatment. A CXR was performed and was
+c/w PNA. CT of the chest was also performed and showed multiple
+peripheral lung opacities. He was then referred to a
+Pulmonologist who diagnosed him with emphyseam and OSA. The
+patient did not agree with this diagnosis and sought a second
+opinion. Another CT was done and showed similar findings. A
+second pulmonologist diagnosed him with the flu. In [**5-/3090**], he
+had another episode of fevers/chills, loss of appetite and
+malaise and was put on 21 days of antibiotic therapy with
+Augmentin. Again, no cultures were drawn. In [**6-7**] patient felt
+better with improved appetite and energy levels since he showed
+a response to antibiotics each time.
+.
+He then again had recurrence of anorexia and malaise with low
+grade fevers in [**7-8**] and was admitted to [**Hospital1 52**] under Dr.
+[**Name (NI) 2971**]. CT Scan of the chest that revealed multifocal
+opacities of varying morphologies, including patchy areas of
+gound-glass opacity and nodules up to 6 mm in diameter in in
+multiple lobes. There was symetric mediastinal lymphadenopathy
+with nodes up to 12 mm in the pretracheal area, and borderline
+left and right hilar adenopathy. There were ICD leads in the
+right atrial and ventricular
+contacts. Bronchoscopy and [**Name2 (NI) **] with endobronchial and
+transbronchial biopsis were done on [**3090-8-19**] showing negative
+stains and cultures for bacteria, fungi and acid-fast organisms.
+
+.
+He had another chest CT scan on [**3090-9-10**] that was compared with a
+prior study of [**7-8**]. This revealed multiple new, predominantly
+peripheral irregular nodular opacities in both lungs, and a new
+area of gound-glass opacity peripherally in the superior segment
+of the RLL. Previously seen nodules in the LUL, RUL and RLL were
+either unchanged or decreased in size. There was symmetric
+mediastinal lymphadenopathy with nodes up to 12 mm in the
+pretracheal region, and left hilar and right hilar borderline
+adenopathy that was stable compared to the CT scan of [**7-8**]. He
+was admitted to the [**Hospital1 52**] from [**9-29**] -> [**3090-9-30**] for VATS to take
+biopsies. This revealed acute and organizing thromboemboli with
+focal infarctionand extensive reactive changes including
+organizing pneumonitis. TEE was then done on [**10-20**] to r/out
+endocarditis. This showed a 3 cm mobile, irregular echogenic
+mass with multiple smaller components attached to the right
+venticular wire at the level of the right atrium. The left
+ventricular wall thickness, cavity size and systolic function
+were normal with EF > 55% and 1+ MR. With these results he was
+referred to Dr. [**Last Name (STitle) 8373**] in ID and finally drew blood cultures
+for bacterial, fungal, AFB and bartonella isolators. His blood
+cx came positive for [**3-6**] GPC in clusters and he was contact[**Name (NI) **] to
+come to the hospital for IV antibiotic treatment and possible
+lead removal.
+.
+ROS: last fever and chills ~ 1 week ago, denies HA, had two
+episodes of visual blurring b/l, resolved spontaneously, no
+N/V/D, no dysuria, no change in urine output.
+
+Past Medical History:
+- RV dysplasia dx at age 16, presenting with two episodes of
+exertional syncope. He has been on chronic treatment with
+Quinidine
+- Paroxysmal VT requiring placement of an AICD in [**3082**] done at
+[**Hospital1 **].
+- AICD was changed from the left to the right side of chest in
+[**3086**] due to lead fracture (done at OSH)
+- AICD fires ~ 1x per year, usually associated with strenuous
+activity,  usually chopping wood, usually has lightheadeness and
+presyncope, occasional frank syncope.
+- recurrent pulmonary infections as a child and young adult
+- multiple pulmonary nodules s/p right VATS and lung biopsy
+[**3090-9-29**] c/w acute and chronic organizing thromboemboli with
+focal infarction and extensive reactive changes including
+organizing pneumonitis.
+- vegetation on his AICD leads was seen on TTE [**10-17**] and TEE on
+[**10-20**].
+
+
+Social History:
+Works as a real estate [**Doctor Last Name 539**]. He is married with 2 children from
+a previous marriage, they have several pets including a dog and
+cats. Of note he hunts deer and wild [**Country 7174**], and guts his own
+game. He last did this when he was feeling well in [**6-7**] when he
+hunted [**Country **].
+
+
+Family History:
+The Family Medical History is notable for his mother who is 72
+and is in good health. His father died of esophageal cancer at
+the age of 58. He has four siblings, who are alive and in good
+health. No history of cardiac disorders in the family.
+
+
+Physical Exam:
+VS: 97.3 110/62  78  16  98% RA 78 Kgs
+Gen: young fit man in NAD
+Heent: OP clear, moist, anicteric, PERRL, EOM intact
+Chest: CTA b/l no wheezing/rales/rhonchi
+CVS: nl S1 S2, split S2 increases with insp, [**2-7**] SM at left
+upper and lower sternal borders, no S3,4 appreciated
+Abd: soft, NT, ND, BS+, no HSM
+Ext: warm, no edema, no nail changes
+Skin: no rash
+Neuro: A+O, CN II-XII intact, full strength, sensations intact
+
+Pertinent Results:
+[**3090-10-22**] 07:44PM BLOOD WBC-6.5 RBC-4.59* Hgb-12.9* Hct-37.5*
+MCV-82 MCH-28.0 MCHC-34.3 RDW-15.0 Plt Ct-199
+[**3090-11-7**] 05:50AM BLOOD WBC-7.3 RBC-3.55* Hgb-10.2* Hct-29.2*
+MCV-82 MCH-28.8 MCHC-35.0 RDW-15.6* Plt Ct-323
+[**3090-11-7**] 05:50AM BLOOD Neuts-78.8* Lymphs-12.2* Monos-4.8
+Eos-3.9 Baso-0.4
+[**3090-11-7**] 05:50AM BLOOD PT-15.5* PTT-42.7* INR(PT)-1.4*
+[**3090-10-24**] 05:50AM BLOOD ESR-34*
+
+[**3090-10-24**] 10:40AM BLOOD ACA IgG-80.1* ACA IgM-51.4*
+[**3090-11-2**] 06:50AM BLOOD Lupus-POS
+
+[**3090-11-7**] 05:50AM BLOOD Glucose-100 UreaN-12 Creat-0.9 Na-140
+K-4.0 Cl-104 HCO3-27 AnGap-13
+[**3090-11-7**] 05:50AM BLOOD ALT-23 AST-16 AlkPhos-191* TotBili-0.4
+[**3090-11-3**] 07:20AM BLOOD ALT-44* AST-28 AlkPhos-244* TotBili-0.5
+[**3090-10-29**] 01:20PM BLOOD ALT-70* AST-52* LD(LDH)-270* AlkPhos-355*
+TotBili-0.6
+[**3090-10-29**] 01:20PM BLOOD %HbA1c-5.2 [Hgb]-DONE [A1c]-DONE
+[**3090-10-24**] 05:50AM BLOOD CRP-26.4*
+[**3090-11-3**] 10:20AM BLOOD BRUCELLA ANTIBODY, IGG, IGM- no antibody
+detected
+Factor V Leiden and Prothrombin mutations not detected
+
+CTA chest/abd/pelvis [**10-23**]:
+CT OF THE CHEST WITH IV CONTRAST: There is a new dual-lead pacer
+that has been placed since the prior study, and the prior one
+removed. An additional abandoned pacer wire overlying the left
+shoulder is unchanged. There are multiple small mediastinal
+lymph nodes, which did not meet CT criteria for pathological
+enlargement, but are mildly prominent and likely reactive. There
+is no axillary lymphadenopathy. There are mildly prominent
+bilateral hilar lymph nodes, particularly on the left, an
+unchanged appearance. The heart, great vessels, and pericardium
+are unremarkable. There is no evidence of pulmonary embolism.
+There are small bilateral effusions, greater on the right than
+left. There is evidence of recent VATS wedge resection
+surgeries. A number of the previously demonstrated abnormal
+bilateral opacities are considerably improved since the prior
+study, perhaps due to prior treatment in some areas and
+resection in others.
+However, there are also entirely new multiple bilateral small
+cavitating lung nodules. These include a spiculated cavitary
+nodule of 11 mm in the right middle lobe and a smaller 7 mm
+cavitating nodule. There is a new spiculated 7-mm nodule in the
+left upper lobe. A more confluent opacity in the left upper lobe
+has mostly resolved, but more posteriorly, within the apical
+segment of the left lower lobe, there is a new cavitary nodule
+of 12 mm in diameter.
+There is opacity at the left lung base which is suggestive of
+atelectasis. Similarly, there is atelectasis and scarring at the
+right lung base where a prior wedge resection has apparently
+been performed. There is no pericardial effusion.
+CT OF THE ABDOMEN WITH IV CONTRAST: The liver, gallbladder,
+spleen, and pancreas are within normal limits. The stomach,
+small and large bowel are unremarkable. There is a horseshoe
+kidney in the upper pelvis which is otherwise unremarkable. The
+adrenal glands are not well visualized. There are numerous small
+retroperitoneal lymph nodes, not meeting CT criteria for
+pathological enlargement, but which are slightly prominent.
+These may be reactive. There is no free air or fluid.
+CT OF THE PELVIS WITH IV CONTRAST: The prostate, seminal
+vesicles, distal ureters, bladder, sigmoid, and rectum are
+unremarkable. There is no lymphadenopathy, or free fluid. There
+is no evidence of abscess.
+BONE WINDOWS: There are no suspicious lytic or blastic lesions.
+IMPRESSION:
+1. Replacement of right-sided ICD device since earlier CT,
+although an abandoned pacer wire extending from the left is
+unchanged.
+2. Status post VATS surgeries. Many previously identified
+opacities have considerably improved, including several which do
+not appear to have been resected surgically.
+3. Multiple new bilateral cavitating nodules with spiculation,
+up to 12 mm in diameter. Given the clinical setting, these are
+most suspicious for septic emboli.
+4. No evidence of abdominal abscess.
+5. Horseshoe kidney.
+
+Cardiac cath [**10-24**]:
+COMMENTS:
+1.  Selective coronary artery of this right dominant system
+demonstrated
+no angiographically apparant coronary artery disease in the
+LMCA, LAD,
+LCx, RCA and their branches.
+2.  Left ventriculography was not performed since the patient
+has had a
+recent assessment of his left ventricular function.
+FINAL DIAGNOSIS:
+1. Coronary arteries are normal.
+
+Intra-op TEE [**10-24**]:
+LEFT ATRIUM: No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. A mass/thrombus
+associated with a catheter/pacing wire in the RA or RV.
+LEFT VENTRICLE: Mild global LV hypokinesis. Mildly depressed
+LVEF.
+RIGHT VENTRICLE: Mild global RV free wall hypokinesis.
+AORTA: Normal ascending, transverse and descending thoracic
+aorta with no
+atherosclerotic plaque.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related
+complications. The patient was under general anesthesia
+throughout the
+procedure. The patient appears to be in sinus rhythm. Results
+Conclusions:
+1. No mass/thrombus is seen in the left atrium or left atrial
+appendage.
+2. A mass/thrombus associated with a pacing wire is seen in the
+right atrium and/or right ventricle.
+3.There is mild global left ventricular hypokinesis. Overall
+left ventricular systolic function is mildly depressed.
+4.There is mild global right ventricular free wall hypokinesis.
+
+5.The ascending, transverse and descending thoracic aorta are
+normal in
+diameter and free of atherosclerotic plaque.
+6. The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation.
+7.There is no pericardial effusion.
+8. The RV lead with the thrombus on it has been removed.
+Tricuspid valve is intact and there is no evidence of tamponade.
+
+
+CTA [**11-3**]:
+CT OF THE THORAX WITH IV CONTRAST: Scattered axillary lymph
+nodes are identified, none of which appear to be pathologically
+enlarged by CT criteria. Hilar and mediastinal lymph nodes are
+again seen and appear stable compared to the previous study.
+Within the hila bilaterally, the lymph nodes measure up to 9 mm
+in short axis diameter, which is relatively stable compared to
+the [**Name (NI) **] study. The heart and pericardium are unremarkable.
+A filling defect is seen within one of the segmental arteries
+supplying the right lower lobe which was not seen on the
+[**10-23**] study. This finding is consistent with an acute
+pulmonary embolism.
+Bilateral pleural effusions are again seen, with possible slight
+improvement in the size of the right pleural effusion. The left
+pleural effusion appears stable.
+The left side pacing lead is identified with its tip in the left
+subclavian vein. The lead tip is located at the approximate
+junction of the axillary and subclavian vein in the region of
+the left first rib. The left subclavian itself is noted to be
+thrombosed and calcified with multiple left-sided collateral
+vessels identified in the soft tissues and musculature.
+Lung windows again reveal evidence of VATS wedge resection
+surgeries. Many of the previously identified bilateral opacities
+are stable compared to the study from late [**Month (only) **]. The
+previously identified cavitary lesions do appear smaller on
+today's study. For example, a cavitary lesion seen within the
+right lower lobe measuring 11 mm is again identified in series
+4, image 66 and measures approximately 6 mm. No cavitation
+within this lesion is identified. The 12-mm cavitary nodule
+within the apical portion of the left lower lobe measures 10 mm
+on today's study and the cavity within is less distinct. A
+potentially new opacity at the left lung apex is identified
+measuring approximately 16 mm. The airways are patent to the
+level of the segmental bronchi bilaterally.
+Images through the upper portion of the abdomen reveal no
+abnormalities of the visualized portions of the liver, or
+spleen.
+Osseous structures reveal no worrisome lytic or sclerotic
+lesions.
+Coronal and sagittal reformations support the above findings.
+IMPRESSION:
+1. Acute pulmonary embolism of a segmental branch of the right
+lower lobe pulmonary artery. This finding is new compared to
+[**3090-10-23**].
+2. Presence of left sided pacer lead with tip in the left
+subclavian vein as detailed above. Thrombosis and calcification
+of the left subclavian vein with numerous soft tissue
+collaterals on the left are identified.
+3. Stability of many previously identified opacities within the
+lung parenchyma. Previously identified cavitary lesions have
+decreased in size in the interval between the previous study and
+today's study. Question of a new opacity at the left lung apex.
+4. Stable axillary, mediastinal, and bilateral hilar adenopathy
+measuring up to 9 mm in short axis diameter.
+
+CT T-spine [**11-5**]:
+FINDINGS: There is mild anterior compression deformity of the T4
+vertebral body which is unchanged compared to the recent CT of
+the chest dated [**3090-10-23**] and likely unchanged compared
+to the scout of the CT scan performed on [**3090-8-1**]. No other
+bony abnormalities are detected. The remaining vertebral body
+heights, disc spaces, and alignment are preserved. The limited
+visualized portions of the spinal canal are unremarkable with no
+evidence for abscess. However, note that CT has very low
+sensitivity for intraspinal abscess, and most abscesses will be
+missed on CT. If there is a clinical concern for epidural
+abscess, then an MR is far more sensitive.
+Bilateral pleural effusions, left greater than right, are again
+present consistent with the recent CT scan of the chest. For
+additional details of the chest findings, please refer to that
+study. Incidental note is made of opacification of multiple
+lumbar collateral veins. Incidental note is also made of a
+Schmorl's node involving the superior endplate of the L1
+vertebral body which is also seen on prior studies.
+IMPRESSION:
+1. Mild anterior compression deformity of the T4 vertebral body
+which is unchanged compared to [**3090-10-23**] and likely
+unchanged compared to the scout of more remote prior.
+2. No definite evidence of abscess. However, CT is so limited
+for detecting intraspinal abscesses that a negative study is of
+little significance. If there is clinical concern for this
+entity, then MRI would be recommended for better evaluation.
+
+
+Brief Hospital Course:
+1. Endocarditis/Thrombus:  As in HPI, Mr. [**Known patient lastname 24932**] presented with
+septic emboli which were found to be due to an infected thrombus
+on his pacemaker lead.  It was unclear how he became bacteremic,
+but he did have a leg injury a year prior to discharge when he
+cut hismelf with a chainsaw.  His blood cultures from his [**10-20**]
+ID clinic visit grew coag-negative staph.  His blood cultures
+cleared on nafcillin.  He was also treated with gentamicin while
+in the hospital per ID recommendations.  In terms of the
+thrombus portion, he was treated with lovenox (see below for
+hypercoag issues).  His pacemaker and endocardial leads were
+removed percutaneously by CT surgery on [**10-30**], but they were
+unable to remove his RA lead completely due to a thrombosed
+innominate vein occlusion.  Vascular surgery was consulted in
+the OR by CT surgery, and they recommended removal via an open
+procedure.  On [**11-5**], he had an upper median sternotomy with
+removal of his last pacemaker lead.  He recovered from both of
+these procedures well.  Of note, he had a CTA on [**11-3**] for
+vascular planning prior to his surgery.  This incidentally found
+a PE (see below).  He was not symptomatic from this, but had
+been having baseline pleuritic chest pain felt to be due to his
+numerous septic emboli.  He initially was found to have positive
+brucella titers as well, and was treated with doxycycline.  The
+titers were repeated and were negative, and the doxy was stopped
+per ID as it was felt to be unlikely that he had both an
+infected thrombus and brucellosis.  Prior to discharge, a PICC
+line was placed and he will receive nafcillin through that.  He
+will follow up with ID, who will decide on his course of
+antibiotics (at least 6 weeks).  Once his course of antibiotics
+is finished, the ID fellow will contact Dr. [**Last Name (STitle) **], and the
+pt will have his pacemaker replaced.
+
+2. PE: Found incidentally on CTA done to evaluate vein prior to
+OR, but pt had been having symptoms of pleuritic chest pain and
+SOB.  He was already being anticoagulated for his infected
+thrombus at the time of the CTA, so it did not change management
+in that sense.  He was continued on lovenox upon discharge.  He
+had a hypercoaguable workup done, and his lupus anticoagulant
+and anticardiolipin antibodies were all positive, so he needs to
+be on lifelong anticoagulation.  His factor V leiden and
+prothrombin mutation were both negative.  He was set up with a
+Hematology appointment upon discharge.  A long discussion was
+held with the pt about the need for lifelong anticoagulation,
+and he preferred to be on lovenox as opposed to coumadin as he
+did not want to have to get frequent INR checks.
+
+3. Back pain:  He developed back pain during his last few days
+of hospitalization.  It had started to improve by the day of
+discharge, and it was felt to be due to musculoskeletal pain
+from being in bed for 2 weeks.  However, given his
+hypercoaguable state and known clot with numerous emboli, a CT
+of his T spine was done.  It was negative.  (We discussed this
+with Radiology, as an MRI would be better to look for epidural
+abscess but he could not have an MRI as he required constant
+telemetry monitoring due to his ARVD and he would need to be off
+tele for the MRI, so Radiology felt that a CT scan would be
+adequate given the low clinical likelihood.)
+
+4. ARVD: He was continued on his outpatient regimen of atenolol
+and quinidine.  He had a Lifevest placed prior to discharge.  He
+will have his pacemaker replaced once he has completed his
+course of antibiotics, which will be decided by ID and will be
+discussed with his Electrophysiologist, Dr. [**Last Name (STitle) **].
+
+5. Diarrhea:  He had diarrhea while in the hospital.  C diff was
+negative x3, and a toxin B was also negative.  It was felt to be
+related to his antibiotics.
+
+Medications on Admission:
+- Atenolol 50 mg daily
+- Quinidine gluconate 648 mg TID
+- Lovenox 80 mg SC BID
+- Percocoet
+- Was taking Ibuprofen 600-800 mg QID prior to starting Lovenox
+
+Discharge Medications:
+1. Quinidine Gluconate 324 mg Tablet Sustained Release Sig: Two
+(2) Tablet Sustained Release PO Q8H (every 8 hours).
+2. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Outpatient Lab Work
+Weekly Creatinine, LFTs, CBC faxed to [**Telephone/Fax (1) 567**], Attn: [**Name8 (MD) 24933**], MD
+6. PICC line
+please perform PICC line care per protocol, including dressing
+changes, saline, and heparin flushes as needed)
+7. Nafcillin 2 g Recon Soln Sig: Two (2) grams Intravenous
+every four (4) hours for 27 days: last day of treatment is
+[**3090-12-3**] for total 6 week course.
+Disp:*162 doses* Refills:*0*
+8. Lovenox 80 mg/0.8 mL Syringe Sig: One (1) injection
+Subcutaneous twice a day.
+Disp:*60 syringes* Refills:*2*
+9. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 213**] Home Therapies
+
+Discharge Diagnosis:
+Pacer lead Thrombosis
+Coag-negative staph Endocarditis
+Antiphospholipid antibody syndrome
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted to the hospital for removal of the infected
+blood clot on your pacemaker lead.  Your pacemaker leads were
+removed, and you were given a life vest to wear while you
+complete 6 weeks of antibiotics.
+
+While you were here, you were also diagnosed with a clotting
+disorder called Antiphospholipid antibody syndrome.  We have
+given you a handout explaining this.  This means that you will
+likely need to be on a blood thinner for the rest of your life,
+but you should still follow up with a Hematologist to further
+discuss this.
+
+Please seek medical attention for fevers, shortness of breath,
+chest pain, back pain, swelling in your legs, drainage or
+redness around your surgical incisions, or any other concerns.
+
+Please take all of your medications as directed.
+
+Followup Instructions:
+You have several follow up appointments:
+
+Infectious Disease clinic - Suite GB, [**Hospital Unit Name **] to see Dr.
+[**Last Name (STitle) **] on [**11-14**] at 10:30.  Phone: [**Telephone/Fax (1) 579**]
+
+Cardiac Surgery Clinic:  Dr. [**Last Name (STitle) **], phone [**Telephone/Fax (1) 279**], [**Location (un) **] of [**Hospital Unit Name **].  [**12-17**] at 2 pm.
+
+Electrophysiology Clinic: Dr. [**Last Name (STitle) **],  Phone:[**Telephone/Fax (1) 3546**]
+Date/Time:[**3090-12-23**] 3:20
+
+You should also make an appointment to see a Hematologist
+sometime in the next 2-3 months.  We recommend you see Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 1520**].  You can call to make an appointment at [**Telephone/Fax (1) 15705**].
+
+
+
+
+
+DOC CLASS

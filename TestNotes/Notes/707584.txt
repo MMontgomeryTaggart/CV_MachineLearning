@@ -1,0 +1,185 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**3268-1-2**] 07:06 PM
+ NUCLEAR MEDICINE - At [**3268-1-2**] 09:30 PM
+   -- Gave 40 IV lasix between units
+   -- Tagged red cell scan with "artifact", limited study however likely
+   negative per overnight resident.
+   -- Patient reported feeling "100% better" after second unit of blood.
+   -- Inappropriate bump with 2 units
+   Allergies:
+   Nafcillin
+   Renal Toxicity;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**3268-1-3**] 04:05 AM
+   Furosemide (Lasix) - [**3268-1-3**] 05:45 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3268-1-3**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**69**] AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.7
+C (98
+   HR: 77 (76 - 87) bpm
+   BP: 133/54(67) {86/21(20) - 141/94(104)} mmHg
+   RR: 17 (12 - 30) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                  1,388 mL
+                                                                    417 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+                                                                    188 mL
+                                                                    417 mL
+   Total out:
+                                                                    850 mL
+                                                                    950 mL
+   Urine:
+                                                                    850 mL
+                                                                    950 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    538 mL
+                                                                   -533 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 94%
+   ABG: ///23/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   268 K/uL
+   5.2 g/dL
+   132 mg/dL
+   1.4 mg/dL
+   23 mEq/L
+   4.1 mEq/L
+   68 mg/dL
+   112 mEq/L
+   146 mEq/L
+   15.1 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**3268-1-3**]  03:33 AM
+                             [**3268-1-3**]  05:36 AM
+   WBC
+   7.8
+   Hct
+   15.3
+   15.1
+   Plt
+   268
+   Cr
+   1.4
+   TropT
+   0.01
+   Glucose
+   132
+   Other labs: PT / PTT / INR:54.7/37.1/6.1, CK / CKMB /
+   Troponin-T:20//0.01, Differential-Neuts:87.0 %, Band:0.0 %, Lymph:6.0
+   %, Mono:4.0 %, Eos:2.0 %, Lactic Acid:1.3 mmol/L, Ca++:7.7 mg/dL,
+   Mg++:2.0 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   Mr [**Known patient lastname **] is a 76 year old man with multiple medical problems,
+   including prosthetic aortic valve and recent MSSA bacteremia,
+   presenting with supratherapeutic INR and GI bleeding, in critical
+   condition.
+   .
+   #  GI BLEED: Patient with prior episodes of erosive gastritis and GI
+   Bleed, also with known diverticulosis, AAA and history of paroxysmal
+   atrial fibrillation. DDx would therefore also include aorto-enteric
+   fistula, mesenteric ischemia, ischemic colitis, etc. Given degree of
+   bleeding however and excessive anticoagulation for  prosthetic valve
+   makes most likely diagnosis mucosal bleed vs diverticular bleed,
+   especially in light of unrevealing diagnosis in the past. Highly
+   unlikely for such slow bleed to represent aortoenteric fistula.
+   No response to 2 units of PRBC and still with melena
+   -- Maintain active type and screen, large bore PIV's
+   -- Transfuse 3 U PRBC / 2 units FFP
+   -- Goal Hct > 25 given severity of CAD
+   -- Appreciate GI consult team following
+   .
+   #  VALVULAR HEART DISEASE / PROSTHETIC VALVE: Patient with [**First Name8 (NamePattern2) **] [**Male First Name (un) 6097**]
+   mechanical valve in aortic position, also with Moderate MR / TR.
+   -- If actively bleeding, will need FFP
+   -- Avoid Vitamin K to minimize risk of valve thrombosis
+   -- Will likely need furosemide with transfusions to avoid pulmonary
+   edema in setting of known diastolic heart disease and mitral valve
+   regurgitation.
+   -- Avoid tachycardia as this will predispose to pulmonary edema.
+   .
+   #  ENDOCARDITIS, PROSTHETIC VALVE: Patient will require ongoing
+   treatment with IV Cefazolin.
+   -- Continue cefazolin q8H
+   -- Per last ID note, last day [**1-13**]
+   .
+   #  SUPRATHERAPEUTIC INR: Unclear etiology of significantly elevated
+   INR, although patient has been on IV antibiotics for a prolonged course
+   and has likely erradicated intestinal Vitamin K metabolizers. No other
+   clear drug interactions noted.
+   -- Hold warfarin
+   -- Goal INR 2.5 to 3.5 given mechanical valve at aortic position with
+   atrial fibrillation, however given propensity to bleed may require
+   tighter goal of near 3.0
+   -- FFP PRN for bleeding
+   .
+   #  DIASTOLIC HEART FAILURE: Appears only mildly volume up, however with
+   significant blood loss will hold off on diuresis
+   -- As above, avoid tachycardia
+   -- Hold diuretics, antihypertensives during acute bleeding.
+   .
+   #  NECK PAIN: Chronic pain secondary to shingles. patient takes
+   oxycodone at home however for now would favor using IV morphine as
+   needed for breakthrough pain.
+   .
+   #. ECG CHANGES: In setting of profound anemia most likely due to demand
+   ischemia. Negative troponins on admission, would not continue to trend
+   -- ECG in AM.
+   .
+   # FEN: IVFs / replete lytes prn / NPO
+   # PPX: PPI, bowel regimen
+   # ACCESS: PIV
+   # CODE:  DNR/DNI
+   # CONTACT:  Wife, [**Name (NI) 374**] ([**Telephone/Fax (1) 11441**]
+   # DISPOSITION:
+   [ ] Floor pending further investigation
+   [ ] Floor pending
+   [ ] Stepdown / [**Hospital Unit Name 4201**]
+   [ ] ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3268-1-2**] 07:06 PM
+   18 Gauge - [**3268-1-2**] 07:08 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

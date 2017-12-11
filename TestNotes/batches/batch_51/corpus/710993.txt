@@ -1,0 +1,238 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Pt found to have GNRs in BAL culture
+   - Pt started on a lasix gtt yesterday due to fluid overload
+   - Started to wean sedtion as tolerated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Bactrim (SMX/TMP) - [**3264-3-14**] 08:08 AM
+   Acyclovir - [**3264-3-14**] 08:48 PM
+   Voriconazole - [**3264-3-14**] 08:48 PM
+   Metronidazole - [**3264-3-15**] 01:50 AM
+   Cefipime - [**3264-3-15**] 05:05 AM
+   Vancomycin - [**3264-3-15**] 07:45 AM
+   Infusions:
+   Midazolam (Versed) - 0.5 mg/hour
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3264-3-14**] 06:38 PM
+   Heparin Sodium (Prophylaxis) - [**3264-3-15**] 07:44 AM
+   Pantoprazole (Protonix) - [**3264-3-15**] 07:59 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3264-3-15**] 08:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**66**] AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.9
+C (98.5
+   HR: 107 (79 - 111) bpm
+   BP: 103/67(80) {94/59(71) - 114/74(88)} mmHg
+   RR: 16 (16 - 27) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 56.3 kg (admission): 48.4 kg
+   Height: 67 Inch
+             Total In:
+                                                                  3,510 mL
+                                                                    992 mL
+   PO:
+             TF:
+                                                                  1,064 mL
+                                                                    371 mL
+   IVF:
+                                                                  1,906 mL
+                                                                    571 mL
+   Blood products:
+   Total out:
+                                                                  2,870 mL
+                                                                  2,690 mL
+   Urine:
+                                                                  2,870 mL
+                                                                  2,690 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    640 mL
+                                                                 -1,698 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 351 (350 - 351) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 20 cmH2O
+   Plateau: 17 cmH2O
+   SpO2: 98%
+   ABG: 7.49/55/68/38/15
+   Ve: 6.1 L/min
+   PaO2 / FiO2: 136
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   167 K/uL
+   9.9 g/dL
+   142 mg/dL
+   0.4 mg/dL
+   38 mEq/L
+   3.4 mEq/L
+   19 mg/dL
+   97 mEq/L
+   144 mEq/L
+   32.3 %
+   10.7 K/uL
+        [image002.jpg]
+                             [**3264-3-13**]  04:10 AM
+                             [**3264-3-13**]  04:27 AM
+                             [**3264-3-13**]  12:02 PM
+                             [**3264-3-13**]  01:06 PM
+                             [**3264-3-13**]  05:00 PM
+                             [**3264-3-14**]  03:20 AM
+                             [**3264-3-14**]  03:25 AM
+                             [**3264-3-14**]  08:30 PM
+                             [**3264-3-15**]  03:15 AM
+                             [**3264-3-15**]  03:41 AM
+   WBC
+   11.8
+   9.4
+   8.4
+   10.7
+   Hct
+   27.3
+   26.4
+   26.0
+   32.3
+   Plt
+   168
+   155
+   139
+   167
+   Cr
+   0.4
+   0.5
+   0.4
+   0.5
+   0.4
+   TCO2
+   38
+   38
+   36
+   43
+   Glucose
+   86
+   122
+   143
+   132
+   114
+   142
+   Other labs: PT / PTT / INR:12.8/34.5/1.1, CK / CKMB /
+   Troponin-T:31/4/0.02, ALT / AST:62/52, Alk Phos / T Bili:282/1.1,
+   Differential-Neuts:77.0 %, Band:2.0 %, Lymph:15.0 %, Mono:4.0 %,
+   Eos:1.0 %, Lactic Acid:1.0 mmol/L, Albumin:3.3 g/dL, LDH:292 IU/L,
+   Ca++:8.2 mg/dL, Mg++:1.5 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   38M with NHL s/p alloBMT complicated by multi-organ GVHD and BO with
+   severe baseline lung disease and CO2 retention, presented with dyspnea
+   and cough on [**3264-2-14**], now day 9 in [**Hospital Unit Name 42**] for hypercarbic respiratory
+   failure, extubated [**3-7**] & re-intubated [**3-13**] after aspiration event.
+   # Hypoxic respiratory failure
+ Patient with pre-existing lung disease
+   including GVHD, bronchiolitis obliterans, and PNA causing chronic
+   hypercarbic respiratory distress. On [**3-13**] required re-intubation after
+   being on CPAP for 6 days.  This was thought to be secondary to
+   witnessed aspiration event. Patient underwent bronchoscopy/BAL and
+   cultures are growing GN rods. Last ABG revealed metabolic alkalosis
+   7.49/55/38 likely contraction alkalosis due to lasix gtt started [**3-13**].
+   - Continue Prednisone 20mg PO qAM, 10mg qPM for now, consider
+   increasing tonight
+   - Continue Antibiotics, day 4
+   - Wean respiratory rate to target baseline pCO2 of 60-80
+   - decrease sedation as tolerated
+   - will likely require trach, plan for Monday at the moment
+   # Bilateral pneumonia: Patient with worsening bilateral LL PNA
+   complicated by distal to segmental bronchial obstruction due to
+   secretions, edema and adenopathy or phlegmon on [**3-13**] CTA. This is
+   likely worsened in the setting of likely aspiration causing respiratory
+   failure (as above) on [**3-13**] vs other inflammatory process (as above).
+   Currently on Vancomycin/Cefepime/Voriconazole and metronidazole (stated
+   [**3-13**]) with infectious studies pending including glucan/galactomannan,
+   blood cultures pending. [**3-13**] bronch revealed 3+ PMN
+s but not organisms
+   were seen.
+   - Continue antibiotics, day 4
+   - F/U pending cultures
+   - F/U glucan/galactomannan
+   - Blood cultures if spikes
+   - IN Fluticasone/Afrin nasal spray
+   - f/u BAL cultures
+   # Nutrition: Completed calorie counts, now with Dobhoff in place.
+   Patient (+) at least 5L LOS.
+   - F/U Nutrition recs
+   - cont TF
+s, check for residuals
+   - will diurese with IV lasix today
+   - f/u pm lytes
+   # Anemia: Hct down to currenlty stable at  26.0 today from 26.4
+   yesterday but decreased from [**3-12**] when it was 34. Patient with baseline
+   anemia of chronic inflammation and acute drop likely dilutional after
+   fluid repletion as all cell counts down.
+   - daily Hct
+   - Transfuse for Hct <21
+   - Active T&S
+   # Liver cirrhosis/ascites - Likely secondary to GVHD c/b portal HTN,
+   esophageal varices, ascites.  Coags and LFT
+s stable.
+   - Trend LFT
+s, coags
+   # Non-Hodgkin's lymphoma s/p allo BMT, GVHD: Most recent PET scan with
+   no evidence of recurrent disease. Patient remains in remission.
+   - Monitor counts and toxicities
+   - Cellcept 250mg PO BID
+   - Bactrim DS 1 tab M/W/F
+   - Acyclovir 400mg q8H
+   - Prednisone 20mg qAM, 10mg qPM
+   - f/u BMT recs
+   # Depression: In the context of prolonged ICU course and need for
+   further interventions.
+   - Followed by BMT social work.
+   # Hypothyroidism: Normal TSH & free T4 from [**1-/3264**]
+   - Continue Levothyroxine 125mcg PO daily
+   # Gastric varices:  Not likely bleeding as no blood in stomach after
+   Dobhoff placement.
+   - Continue Metoprolol 12.5 mg PO BID
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3264-3-14**] 08:11 AM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3264-2-27**] 12:02 PM
+   Arterial Line - [**3264-3-12**] 10:14 PM
+   20 Gauge - [**3264-3-12**] 10:27 PM
+   Prophylaxis:
+   DVT: SQ heparin
+   Stress ulcer: IV PPI
+   VAP: HOB 30 degress, known PNA, on abx
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU for now
+
+
+DOC CLASS

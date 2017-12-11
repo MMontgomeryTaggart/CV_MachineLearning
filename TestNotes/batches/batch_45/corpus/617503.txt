@@ -1,0 +1,118 @@
+Chief Complaint:
+   24 Hour Events:
+   [**6-5**]
+   - Pt more aggitated.  Gave zyprexa and haldol with good effect.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**2934-6-5**] 12:31 AM
+   Infusions:
+   Other ICU medications:
+   Omeprazole (Prilosec) - [**2934-6-5**] 10:42 AM
+   Heparin Sodium (Prophylaxis) - [**2934-6-5**] 02:26 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2934-6-6**] 07:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.6
+C (97.9
+   HR: 83 (68 - 103) bpm
+   BP: 159/55(83) {114/32(60) - 163/84(99)} mmHg
+   RR: 24 (15 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    580 mL
+                                                                    360 mL
+   PO:
+                                                                    480 mL
+                                                                    360 mL
+   TF:
+   IVF:
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  4,505 mL
+                                                                    975 mL
+   Urine:
+                                                                  3,055 mL
+                                                                    975 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,925 mL
+                                                                   -615 mL
+   Respiratory support
+   O2 Delivery Device: Venti mask
+   SpO2: 94%
+   ABG: ///38/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   186 K/uL
+   9.0 g/dL
+   291 mg/dL
+   0.9 mg/dL
+   38 mEq/L
+   4.5 mEq/L
+   33 mg/dL
+   87 mEq/L
+   134 mEq/L
+   27.8 %
+   6.9 K/uL
+        [image002.jpg]
+                             [**2934-6-5**]  12:46 AM
+                             [**2934-6-5**]  09:44 AM
+                             [**2934-6-6**]  02:37 AM
+   WBC
+   7.2
+   6.9
+   Hct
+   28.3
+   27.8
+   Plt
+   182
+   186
+   Cr
+   0.8
+   0.9
+   TCO2
+   42
+   Glucose
+   270
+   291
+   Other labs: Lactic Acid:0.9 mmol/L
+   Assessment and Plan
+ DELIRIUM / CONFUSION
+ CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS, EMPHYSEMA)
+   WITH ACUTE EXACERBATION
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2934-6-5**] 09:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

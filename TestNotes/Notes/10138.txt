@@ -1,0 +1,181 @@
+Admission Date:  [**2533-12-28**]       Discharge Date:  [**2534-1-6**]
+
+
+Service:  CARDIOTHOR
+
+CHIEF COMPLAINT:  The patient is an 85-year-old woman patient
+of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 721**] referred for an outpatient cardiac
+catheterization due to progressive dyspnea on exertion on
+positive ETT.
+
+HISTORY OF THE PRESENT ILLNESS:  [**Known patient firstname 4426**] [**Known patient lastname 4427**] is an
+85-year-old woman with no known cardiac history.  She
+complains of several weeks of shortness of breath with a
+minimal amount of exertion.  She states that she was recently
+out with her daughter doing some shopping and her daughter
+noticed that the patient was quite short of breath.  She
+denied any history of chest discomfort, palpitations, or
+dizziness.  Echocardiogram from [**Month (only) 151**] of this year revealed
+mild to moderate MI, mild TIA, moderate pulmonary artery
+hypertension, concentric LVH with an EF60%, sclerotic aortic
+valve without stenosis, Persantine exercise tolerance also
+done in [**Month (only) 1090**], positive for nausea and 5.5-mm
+inferolateral ST depression.  Myoview images revealed a
+moderately large territory of distal anterior apical and
+septal ischemia.  There is no history of prior infarct.  The
+EF on myoview is 70%.  The patient's height is
+5  feet 7 inches. Weight 172 pounds.
+
+PAST MEDICAL HISTORY:  History is significant for prior
+atrial fibrillation, COPD, low back pain, CVA three to four
+years ago with some vision loss in the right eye.
+
+PAST SURGICAL HISTORY:  History is significant for
+appendectomy, right hip replacement six to seven years ago.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS:  Medications, prior to admission revealed the
+following:
+1.  Aspirin 325 mg q.d.
+2.  Atenolol 25 mg q.d.
+3.  Betapace 40 mg b.i.d.
+4.  Digoxin 0.125 mg q.d.
+5.  Lipitor 10 mg q.d.
+
+LABORATORY DATA:  Data, prior to admission, revealed the
+white count of 10.2, hematocrit 37.0, platelet count 183,000,
+INR .93, glucose 108, sodium 140, potassium 4.7, chloride
+104, CO2 27, BUN 23, creatinine 1.0.
+
+SOCIAL HISTORY:  The patient is widowed.  She lives in an
+[**Hospital3 71**] at [**Location (un) 4428**].  She has several
+supportive children.
+
+The patient underwent cardiac catheterization on [**12-22**].  Please see the catheterization report for full
+details.  In summary, the catheterization showed 100% LAD
+after the first diagonal filling left to left collaterals,
+OM2 50%, RCA hazy, 90% ostial lesion, mid 50% lesion with EF
+of 50% and calcified mitral annulus.  The patient tolerated
+the procedure well.  The patient was to be discharged home
+after cardiac catheterization to return in one week for
+coronary artery bypass graft with Dr. [**Last Name (STitle) 1882**].  The patient was
+re-admitted to [**Hospital1 58**] on
+[**12-28**], at which time she was admitted to the operating
+room, where she underwent off pump coronary artery bypass
+grafting time three.  Please see the operating report for
+full details.  She tolerated the procedure well.
+
+In summary, she underwent coronary artery bypass grafting
+times three with a LIMA to the LAD, vein graft to OM2 and
+vein graft to right PDA.  The patient tolerated the procedure
+well.  She was transferred from the operating to the
+Cardiothoracic Intensive Care Unit.  At the time of transfer,
+the patient had an arterial and a Swan-Ganz catheter, two
+ventricular pacing wires, two mediastinal chest tubes, right
+pleural chest tube and left pleural chest tube.  Mean
+arterial pressure was 110.  CVP was 10 and she had propofol
+at 3 mcg/kg per minute.  The patient's immediate
+postoperative course was complicated by brisk bleeding via
+her chest tubes.  Later in the evening, the patient was
+returned to the operating room for re-exploration.  Following
+the exploration, the patient was returned to the
+Cardiothoracic Intensive Care Unit.  At that time she was
+hemodynamically stable.  She did well in the Immediate Post
+re-exploration period.  Anesthetics were reversed.  She was
+weaned from the ventilator.  On the following morning she was
+successfully extubated.  The patient remained in stable
+condition throughout postoperative day #1.  Hemodynamically,
+she was apaced at a rate of 85 with a blood pressure of
+120/51 and a cardiac index of 2.3.  She was breathing
+comfortably with oxygen saturations in the high 90s on four
+liters of nasal prongs.  Abdomen was soft and nontender.
+Underlying rhythm was a junctional rhythm at a rate of 20.
+With her junctional rhythm the patient dropped her blood
+pressure.  For this reason she was maintained on a dopamine
+drip and continued to be apaced.
+
+On postoperative day #2, the patient's epicardial pacing
+wires failed.  Because of the failure to capture the
+epicardiac pacing wires, it was necessary to replace the
+patient's Swan-Ganz catheter with a pacing Swan-Ganz
+catheter.  She tolerated that procedure well.  She continued
+to be apaced with the pacing Swan.  The underlying rhythm at
+that time was a junctional escape in the 40s with a blood
+pressure of 60/40 with periods of asystole.  At that time
+electrophysiology was consulted and asked to assess the
+patient with no sinus rhythm or intermittent sinus rhythm
+following coronary artery bypass grafting.
+
+Over the next several days the patient remained
+hemodynamically stable.  She remained in the Intensive Care
+Unit, where she was apaced and followed by both
+cardiothoracic surgery and electrophysiology to see if the
+patient's sinus rhythm would return to normal function.
+
+On postoperative day #7, it was decided that the likelihood
+of recovery of the sinus rhythm was low, and at that time she
+was taken to the electrophysiology laboratory where she
+underwent EP testing and placement of a permanent pacemaker.
+
+Following the pacemaker placement, the patient was
+transferred to Far 6 for continuing postoperative care and
+recovery from cardiothoracic surgery.
+
+On postoperative day #8, it was decided that the patient was
+stable and ready for transfer to rehabilitation for
+continuing postoperative care and physical therapy following
+coronary artery bypass graft and permanent pacemaker
+placement.  At the time of transfer, the patient's condition
+is stable.
+
+PHYSICAL EXAMINATION:  Physical examination is as follows:
+Temperature 98, heart rate 79, blood pressure 135/5,
+respiratory rate 20, oxygen saturation 95% on room air.
+Weight, preoperatively is 80.2 kg; on discharge 85.3 kg.
+
+LABORATORY DATA:  Laboratory data revealed the following:
+Hematocrit 29, white blood cell count 11, sodium 136,
+potassium 4.5, BUN 19, creatinine 1.1, glucose 108.
+
+PHYSICAL EXAMINATION:  The patient was alert, oriented times
+three; moves all extremities, follows commands.  Respiratory:
+Clear to auscultation bilaterally with diminished breath
+sounds bilaterally at the bases.  Heart sounds:  Regular rate
+and rhythm, S1 and S2.  Sternum is stable.  Incision with
+staples, open to air, clean and dry.  Abdomen:  Soft,
+nontender, nondistended, normoactive bowel sounds.
+Extremities are warm and well perfused with no clubbing,
+cyanosis or edema.  Right lower extremity incision with Steri
+Strips open to air, clean and dry.  Left shoulder incision
+revealed dry sterile dressing clean and dry.
+
+DISCHARGE MEDICATIONS:
+1.  Plavix 75 mg q.d.
+2.  Captopril 12.5 mg t.i.d.
+3.  Aspirin 325 mg q.d.
+4.  Ranitidine 150 mg q.d.
+5.  Colace 100 mg b.i.d.
+6.  Amiodarone 400 mg q.d.
+7.  Lopressor 25 mg b.i.d.
+8.  Vancomycin 1 gram q.12h. times two more doses.
+
+FOLLOW-UP CARE:  The patient is to have followup with
+electrophysiology in the pacemaker clinic in ten days.  She
+is also to have followup in the wound clinic in ten days and
+to have followup with Dr. [**Last Name (STitle) 1882**] in one month.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1887**], M.D.  [**MD Number(1) 1888**]
+
+Dictated By:[**Last Name (NamePattern4) 4429**]
+MEDQUIST36
+
+D:  [**2534-1-5**]  13:25
+T:  [**2534-1-5**]  13:24
+JOB#:  [**Job Number 4430**]
+
+
+DOC CLASS

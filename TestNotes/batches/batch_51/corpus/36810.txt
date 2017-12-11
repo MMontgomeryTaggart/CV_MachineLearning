@@ -1,0 +1,395 @@
+Admission Date:  [**2850-2-7**]              Discharge Date:   [**2850-2-14**]
+
+Date of Birth:  [**2777-11-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2574**]
+Chief Complaint:
+worsening shortness of breath, recurrent pericardial effusion
+found on routine echo
+
+Major Surgical or Invasive Procedure:
+Pericardial window ([**2850-2-10**])
+
+
+History of Present Illness:
+72M with PMH of DM, AFib on coumadin, and RA complicated by
+pericardial effusion and tamponade in [**6-19**], transferred from
+[**Hospital1 **]-[**Location (un) **] for further evaluation and management of recurrent
+pericardial effusion and tamponade seen on routine repeat echo.
+.
+Patient had past admission on [**6-13**]/09 for fatigue, edema,
+and decreased exercise tolerance. Found to have pericardial
+effusion, underwent pericardiocentesis with removal 300 cc clear
+slightly blood-tinged pericardial fluid, with decrease in
+pericardial pressure from 26 to 10 mmHg. Patient also underwent
+pericardial drain placement. Pericardial fluid culture and
+cytology returned negative. Fluid analysis revealed WBC# 6100
+(81% PMN), RBC [**Numeric Identifier 33673**] TP 5.1 albumin 2.9 gluc 4 LDH 4230. The
+effusion was attributed to RA, but methotrexate was discontinued
+(and prednisone increased from 20 to 30 mg daily) in case the
+former was contributing.
+.
+Routine follow-up TTE today at [**Hospital1 **]-[**Location (un) **] showed a small to
+moderate mainly anterior pericardial effusion with diastolic
+right ventricular collapse suggestive of tamponade. Transferred
+to the [**Hospital1 22**] ED for further management, where triage V/S 98 125
+138/83 18 94%RA. HR 101 without intervention. Labs notable for
+INR 3.7, Hct 30.5. EKG showed low voltage in the limb leads. CXR
+showed only bibasilar linear atelectasis. Vital signs prior to
+transfer 95 132/87 20 97%RA.
+.
+On the floor, patient is feeling relatively well. Reports having
+some shortness of breath, but is at his baseline due to his
+COPD. Denies any chest pain, worsening SOB, orthopnea,
+palpitations, headache, lightheadedness, dizziness.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes(+), Dyslipidemia(?),
+Hypertension(+)
+2. CARDIAC HISTORY:
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS: None
+-PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+- Rheumatoid arthritis: Diagnosed within the past one year.
+Usually takes Tylenol for pain control. Recently (within the
+past one month) was started on methotrexate.
+- COPD
+
+
+Social History:
+Retired. Drinks once per week. Denies tobacco, illicit drug use
+now or in the past. Lives with wife. [**Name (NI) 1564**] a daughter. Currently
+volunteers at hospital cafe.
+
+
+Family History:
+No FH of RA.
+Denies history of early MI.
+
+Physical Exam:
+VS: T 98.2, BP 128/84, HR 97, RR 18, SO2 100% RA, Pulsus 5-7mmHg
+GENERAL: WDWN male in NAD. AAOx3. Mood, affect appropriate.
+Resting comfortably
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI, MMM
+CV: RRR, S1S2, no murmurs, rubs.  Slightly distant heart sounds
+LUNGS: Diffuse rhonchi, good air movement, resp unlabored
+ABD: Obese, soft, NT, ND, no HSM or tenderness
+EXT: WWP, 2+ radial and DP pulses.  1+ LE edema b/l
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Pertinent Results:
+CBC
+[**2850-2-8**] 05:10AM BLOOD WBC-7.3 RBC-3.57* Hgb-9.1* Hct-28.5*
+MCV-80* MCH-25.4* MCHC-31.8 RDW-18.6* Plt Ct-264
+[**2850-2-7**] 06:30PM BLOOD WBC-9.2 RBC-3.73* Hgb-9.6* Hct-30.5*
+MCV-82 MCH-25.7* MCHC-31.5 RDW-18.0* Plt Ct-253
+
+Coags
+[**2850-2-8**] 05:10AM BLOOD PT-30.0* PTT-30.0 INR(PT)-3.0*
+[**2850-2-7**] 06:30PM BLOOD PT-35.8* PTT-30.3 INR(PT)-3.7*
+
+Chemistry
+[**2850-2-8**] 05:10AM BLOOD Glucose-190* UreaN-25* Creat-1.3* Na-140
+K-4.3 Cl-104 HCO3-27 AnGap-13
+[**2850-2-7**] 06:30PM BLOOD Glucose-274* UreaN-28* Creat-1.2 Na-138
+K-4.3 Cl-102 HCO3-25 AnGap-15
+
+Echocardiogram ([**2850-2-7**])
+FINDINGS:
+Overall left ventricular systolic function is low normal (LVEF
+50-55%). Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic regurgitation. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. There is a small to moderate sized pericardial
+effusion. There is right ventricular diastolic collapse,
+consistent with impaired fillling/tamponade physiology.
+
+IMPRESSION:
+Limited study,. Overall left ventricular systolic function is
+low normal. A small to moderate mainly anterior pericardial
+effusion is present with diastolic right ventricular collapse
+suggestive of tamponade.
+Reffering physician [**Name Initial (PRE) 10939**].
+
+Additional In-house Read:
+Small amount of pericardial fluid and no evidence of RV
+diastolic collapse.
+.
+ECHO [**2850-2-12**]
+GENERAL COMMENTS: Suboptimal image quality - bandages,
+defibrillator pads or electrodes. Suboptimal image quality -
+body habitus. The patient appears to be in sinus rhythm.
+.
+Conclusions
+The left atrium is normal in size. Overall left ventricular
+systolic function is probably normal although views are
+technically suboptimal. Due to suboptimal technical quality, a
+focal wall motion abnormality cannot be fully excluded. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets are mildly thickened (?#). There is no
+valvular aortic stenosis. The increased transaortic velocity is
+likely related to high cardiac output. The mitral valve leaflets
+are mildly thickened. Physiologic mitral regurgitation is seen
+(within normal limits). There is a trivial pericardial effusion.
+
+.
+Compared with the prior study (images reviewed) of [**2849-7-9**],
+the pericardial effusion is now smaller.
+.
+AP Chest [**2850-2-13**]
+Study is limited as the lung bases have been excluded from the
+field of view. There is again seen some streaky densities at the
+bases most consistent with subsegmental atelectasis which is
+unchanged. The upper lung fields are clear without focal
+consolidation or signs of overt pulmonary edema. Cardiac
+silhouette is unchanged, within normal limits.
+.
+
+CHEST (PORTABLE AP)	Study Date of [**2850-2-7**] 6:28 PM
+UPRIGHT AP VIEW OF THE CHEST: Cardiac silhouette is normal in
+size. The
+mediastinal and hilar contours are unremarkable. Pulmonary
+vascularity is
+normal. Linear opacities within both lung bases are compatible
+with linear
+atelectasis. No focal consolidation, pleural effusion or
+pneumothorax is
+visualized. No acute skeletal abnormalities are seen.
+
+IMPRESSION: Bibasilar linear atelectasis. No acute
+cardiopulmonary
+abnormality otherwise visualized.
+.
+CXR [**2850-2-14**]
+IMPRESSION: Heterogeneous opacification at both lung bases has
+improved since
+[**2-12**], probably atelectasis. On the left, it is conceivable
+that
+pneumonia was present and is rapidly clearing, but there is no
+new or
+worsening consolidation. There is no pulmonary edema, pleural
+effusion or
+mediastinal widening. Heart size is normal
+
+Brief Hospital Course:
+72M with PMH of DM, AFib on coumadin, and RA complicated by
+pericardial effusion and tamponade in [**6-19**], presents with
+recurrent pericardial effusion concerning of tamponade and
+complaints of some progressive shortness of breath.
+
+#. Pericardial effusion - patient has had history of pericardial
+effusion in the past, thought to be a complicaton of RA. Had a
+pericardiocentesis with drain placement in 5/[**2849**]. Initially had
+methotrexate discontinued for concerns of worsening pericardial
+effusion, but was restarted back on it in [**Month (only) 718**] when patient did
+not tolerate Humira well. Patient has been receiving regular
+follow up with his cardiologist with a repeat echo every 6
+weeks.  His echo read done at [**Location (un) **] showed a small to moderate
+mainly anterior pericardial effusion with evidence of diastolic
+right ventricular collapse suggestive of tamponade.  An
+additional read done by cardiology service here showed small
+amount of fluid with no evidence of RV diastolic collapse.  He
+was hemodynamically stable during his admission and breathing
+was not labored, although reported to be slightly worse over the
+last few weeks.  Pulsus was checked twice a day and remained
+consistently around 7-8mmHg.  Methotrexate was held given the
+reaccumulation of pericardial fluid.  Patient was evaluated by
+thoracic surgery for pericardial window.  Procedure was
+performed on [**2850-2-10**] with drainage of only 80cc of fluid and
+was complicated by afib with RVR.
+The drainage tube was subsequently removed and he is being
+followed with serial imaging which at the time of discharge
+showed a smaller pericardial effusion on echo and only
+atelectasis on CXR. Fluid culture was positive for
+propionobacterium acnes which was felt to be a contaminant.
+Biopsy from pericardial window showed unremarkable cartilage and
+skeletal muscle and fragments of pericardium with chronic
+inflammation and fibrin deposition.
+.
+#. A fib - patient takes warfarin at home, was found to be
+supratherapeutic at INR of 3.7 on admission. INR was reversed
+for the pericardial window. He was bridged on heparin drip to
+coumadin and the coumadin alone was continued once his INR was
+therapeutic.
+.
+#. HTN - patient was continued on home dosage of metoprolol,
+furosemide, and spironolactone during admission.  Valsartan was
+substituted for his home dose of olmesartan during admission,
+but patient was switched back to olmesartan on discharge.
+.
+# Anemia: he was found to have a microcytic anemia consistent
+with anemia of chronic disease. An outpatient colonoscopy can be
+considered as an outpatient.
+.
+#. Hyperlipidemia - patient was continued on home regimen of
+pravastatin
+.
+#. Rheumatoid Arthritis - patient's home regimen of methotrexate
+was held for pericardial effusion.  Was restarted on discharge
+after his pericardial window procedure.
+.
+#. COPD - currently at baseline, patient was in no respiratory
+distress.  During admission he was maintained on home dose of
+spiriva.  Advair was substituted for symbicort while admitted,
+but patient was restarted on symbicort on discharge.
+.
+#. DM - patient was continued on his home regimen of insulin as
+well as regular insulin sliding scale.
+.
+#. GERD - patient was continued on omeprazole
+.
+#. Glaucoma - patient was continued on prednisolone drop to left
+eye and artificial tears
+
+Medications on Admission:
+ASA 81
+Warfarin 3 mg daily
+Pravastatin 20 mg daily
+Benicar 20 mg daily
+Metoprolol tartrate 25 mg [**Hospital1 **]
+Furosemide 60mg QAM, 40mg QPM
+Spironolactone 25 mg daily
+Potassium chloride 10 mEq daily
+NPH insulin 34 units qAM, 32 units qPM
+Regular insulin 16 units qAM, 17 units qPM
+Symbicort 160/4.5 2 puffs [**Hospital1 **]
+Spiriva 18mcg 1 puff daily
+Omeprazole 20 daily
+Folic Acid 1 mg daily
+Prednisone 7.5mg daily
+Methotrexate 6 tablets of 2.5 mg once weekly qTues
+Prednisolone drops left eye qHS
+Aritificial Tears PRN
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Warfarin 3 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+3. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO QAM (once a
+day (in the morning)).
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO QPM (once a
+day (in the evening)).
+6. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. NPH Insulin Human Recomb 100 unit/mL Cartridge Sig: Thirty
+Four (34) units Subcutaneous qAM.
+8. NPH Insulin Human Recomb 100 unit/mL Cartridge Sig: Thirty
+Two (32) units Subcutaneous qPM.
+9. Insulin Regular Human 100 unit/mL Cartridge Sig: Sixteen (16)
+units Injection qAM.
+10. Insulin Regular Human 100 unit/mL Cartridge Sig: Seventeen
+(17) units Injection qPM.
+11. Symbicort 160-4.5 mcg/Actuation HFA Aerosol Inhaler Sig: Two
+(2) puffs Inhalation twice a day.
+12. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+13. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+14. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+15. Prednisone 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+16. Prednisolone Acetate 0.12 % Drops, Suspension Sig: One (1)
+Drop Ophthalmic QHS (once a day (at bedtime)).
+17. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**2-12**]
+Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+18. Diltzac ER 120 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO once a day.
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+19. Benicar 20 mg Tablet Sig: One (1) Tablet PO once a day.
+20. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Pericardial effusion
+Secondary Diagnosis:
+Diabetes Mellitus
+Rheumatoid arthritis complicated by pericardal effusion and
+tamponade requiring pericardiocentesis and drain placement in
+[**6-/2849**]
+Atrial fibrillation on warfarin
+Hypertension
+Hyperlipidemia
+Chronic Obstructive Pulmonary Disease
+Iron Deficiency Anemia
+Gastroesophageal Reflux Disease
+Glaucoma
+
+
+Discharge Condition:
+good, stable, afebrile
+mental status: alert and oriented to person, place, and time
+ambulatory status: able to ambulate well without assistance
+
+
+Discharge Instructions:
+You were admitted to [**Hospital1 37**] for
+recurrent pericardial effusion seen on a routine echocardiogram.
+ During this admission, we reviewed the echocardiogram that was
+performed at [**Location (un) **] and found that while there is some fluid
+present, it is not causing any tamponade of your heart.  A
+pericardial window was performed by thoracic surgery to help
+drain the fluid around your heart and prevent future
+reaccumulation.  Please continue to regularly follow up with
+your cardiologist, Dr. [**Last Name (STitle) **], as you have been doing.
+.
+The following changes were made to your medications.
+We CHANGED to:
+Metoprolol Tartrate 50mg three times a day.
+Diltiazem ER 120mg daily.
+.
+We STOPPED:
+potassium chloride 10meq capsule Sustained release tablet daily.
+.
+Please continue to follow up in [**Hospital3 2914**] and
+change your dosage of warfarin as instructed.
+
+If you experience any chest pain, worsening shortness of breath,
+or any other worrisome symptoms, please return to the emergency
+room
+
+Followup Instructions:
+#1.MD: Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+Specialty: Cardiology
+Date/ Time: [**Last Name (LF) 598**], [**2-18**] at 10:00am
+Location: [**Street Address(2) 5607**], [**Location (un) **], [**Numeric Identifier 7109**]
+Phone number: ([**Telephone/Fax (1) 20818**]
+.
+#2: Dr. [**First Name8 (NamePattern2) 7130**] [**Name (STitle) **]
+Specialty: PCP
+[**Name Initial (PRE) 2740**]/ Time: [**Last Name (LF) 270**], [**2-21**] at 10:30am
+Location: INTERNISTS ASSOCIATED, [**Street Address(2) 20032**], [**Location (un) 321**],[**Numeric Identifier 33675**]
+Phone number: [**Telephone/Fax (1) 12979**]
+.
+#3: Please follow up with Dr. [**First Name (STitle) **] of Thoracic Surgery on
+[**3-1**] at 9:00am at [**Hospital Ward Name 211**] 9 on the [**Hospital Ward Name 23**] at ([**Telephone/Fax (1) 12535**].
+.
+#4.Please go to [**Hospital Ward Name 211**] [**Location (un) 2075**] Radiology on the [**Hospital Ward Name 23**]
+for a Chest X-ray, any time between 9am and 3pm on [**2850-2-26**]. This
+chest x-ray must be done before your appointment with Dr [**First Name (STitle) **] on
+the 19th.
+.
+#5. Please continue to follow up in [**Hospital3 2914**] for
+management of your warfarin as you have been doing.
+
+
+
+
+
+DOC CLASS

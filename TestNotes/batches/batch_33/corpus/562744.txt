@@ -1,0 +1,239 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Pt. underwent cardioversion for Afib, unsuccessful.  Was thus continued
+   on diltiazem gtt increased to 10mg/hr with HR now in 80-90s, SBPs >
+   100.  He continued to be on amiodarone at 0.5mg/min and received 150 IV
+   in AM.  Pt. spiked to 100.4F oral he was panCx in early afternoon.
+   Lasix drip was continued, he received chlorothiazide 250mg x2
+   throughout the day, UOP was maintained > 100cc/hr.   Spiked again
+   in evening to 102F rectal and 100.6F oral on Tylenol, started on
+   Vanco/Zosyn for possible HCAP and/or possible spinal soft tissue inf or
+   osteo.  CXR showed mild pulm edema w/ consolidation and smal R pl
+   effusion now resolved.  His JP came out early in afternoon, per Ortho,
+   NTD.  Pt. has abdominal distension and likely prolonged post op ileus.
+    He received 2 water enemas w/o effect, KUB repeat showed adynamic
+   ileus w/ more bowel distension that expected from ileus, but per
+   radiology still its likely ileus and not SBO.  NGT was placed, and put
+   out over 800cc by MN.  Enema'swere d/ced as was lactulose.   Code
+   status was addressed and patient is FULL CODE.  Midnight lytes were Na
+   136, K 3.7, Mg 2.1, Cr 1.5.  Pt. had two watery stools o/n.  Currently
+   Amio at 0.5mg/min, Lasix 15mg/hr, Dilt 10mg/hr.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2978-12-14**] 01:26 AM
+   Vancomycin - [**2978-12-14**] 02:00 AM
+   Infusions:
+   Heparin Sodium - 19 units/hour
+   Furosemide (Lasix) - 15 mg/hour
+   Diltiazem - 10 mg/hour
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**2978-12-13**] 06:00 AM
+   Propofol - [**2978-12-13**] 01:40 PM
+   Heparin Sodium - [**2978-12-13**] 03:20 PM
+   Lansoprazole (Prevacid) - [**2978-12-13**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2978-12-14**] 05:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.9
+C (102
+   Tcurrent: 38.1
+C (100.6
+   HR: 80 (76 - 114) bpm
+   BP: 114/52(67) {93/35(47) - 139/80(99)} mmHg
+   RR: 22 (14 - 26) insp/min
+   SpO2: 93%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 97.4 kg (admission): 103.3 kg
+   Height: 68 Inch
+             Total In:
+                                                                  1,475 mL
+                                                                    681 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,005 mL
+                                                                    591 mL
+   Blood products:
+   Total out:
+                                                                  5,385 mL
+                                                                  1,090 mL
+   Urine:
+                                                                  2,780 mL
+                                                                    990 mL
+   NG:
+                                                                  2,300 mL
+                                                                    100 mL
+   Stool:
+   Drains:
+                                                                    305 mL
+   Balance:
+                                                                 -3,910 mL
+                                                                   -409 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   SpO2: 93%
+   ABG: 7.47/37/115/28/4
+   PaO2 / FiO2: 115
+   Physical Examination
+   GENERAL: WDWN male, on non-rebreather but comfortable and in NAD..
+   Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP at mandible.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: Bibasilar crackles..
+   ABDOMEN: Soft, mildy tense, and distended.  Decreased bowel sounds.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   BACK: dressing intact without drainage.  JP drain in place with blood
+   in bulb.
+   PULSES:  2+ throughout
+   Labs / Radiology
+   232 K/uL
+   10.1 g/dL
+   154 mg/dL
+   1.5 mg/dL
+   28 mEq/L
+   3.7 mEq/L
+   32 mg/dL
+   97 mEq/L
+   136 mEq/L
+   28.8 %
+   20.4 K/uL
+        [image002.jpg]
+                             [**2978-12-12**]  08:51 PM
+                             [**2978-12-13**]  05:23 AM
+                             [**2978-12-13**]  06:16 AM
+                             [**2978-12-13**]  02:13 PM
+                             [**2978-12-14**]  12:04 AM
+   WBC
+   21.6
+   20.4
+   Hct
+   30.7
+   28.8
+   28.8
+   Plt
+   251
+   232
+   Cr
+   1.4
+   1.6
+   1.6
+   1.5
+   TropT
+   2.21
+   TCO2
+   28
+   Glucose
+   142
+   143
+   154
+   Other labs: PT / PTT / INR:14.6/66.6/1.3, CK / CKMB /
+   Troponin-T:556/7/2.21, ALT / AST:38/78, Alk Phos / T Bili:52/0.7,
+   Differential-Neuts:87.7 %, Lymph:7.1 %, Mono:4.8 %, Eos:0.3 %, Lactic
+   Acid:1.1 mmol/L, LDH:826 IU/L, Ca++:9.2 mg/dL, Mg++:2.1 mg/dL, PO4:1.9
+   mg/dL
+   Assessment and Plan
+   Patient is a 68 y/o male w/ a hx of CAD and MI who is transfered from
+   NEBH after a STEMI following spinal surgery.  Course complicated by
+   pulmonary edema c/w CHF, atrial fibrillation, ARF and ileus.
+   # CORONARIES:  The patient has a history of CAD, with prior MI, and
+   multiple PCIs, with 2 stents placed in [**2976**].  The patient with chest
+   pain following surgery, with prominant aterior ST elevations c/w mid
+   LAD.  The patient was treated conservatively, and was not
+   anticoagulated due to risk of bleeding in the post-operative period.
+   The patient's troponin's peaked at 72.  He remained chest pain free
+   after his intial event.  The patient was begun on heparin gtt after
+   developing new AF.  He continues to be chest pain free.  No signs or
+   symptoms of LV wall rupture or VSD.  No new murmurs
+   - ASA 325mg, Plavix, Heparin gtt
+   - consider cath on Monday per Dr. [**Last Name (STitle) 155**] recommendations, although unclear
+   benefit after 3 days post- STEMI
+   - change Metoprolol to Diltiazem given afib and hypotension, worsening
+   pulmonary edema
+   - consider ACE when tolerated by BP
+   .
+   # PUMP:  Echo at NEBH shows EF of 40% with apical and septal HK.
+   Patient appears to be in failure on exam, with distended neck veins,
+   low O2 sats, and crackles on lung exam with low SBP.  O2 requirements
+   increasing likely c/w worsening pulmonary edema.
+   - continue Lasix gtt with Diovan to maintain uop > 100/hour
+   - daily CXR
+   - start ACE if BP allows
+   - change Metoprolol to Dilt gtt for HR control
+   - cardioversion today to improve atrial kick and HR to augment CO
+   .
+   # RHYTHM:  Patient developed AF in post-MI setting, with HR of 140s,
+   managed initially on amioderone, dilt gtt, and metoprolol at NEBH.
+   Currently in AF, and started on heparin gtt.  Given Metoprolol last
+   night with HR 100s-110s.
+   - continue amioderone, give second 150mg IV bolus
+   - continue heparin gtt
+   - diltiazem gtt, stop Metoprolol as per above
+   - continue amio gtt, electrical cardioversion today
+   - can d/c transvenous pacer as pt not been bradycardic
+   .
+   #  Leukocytosis:  Marked leukocytosis following surgery.  Likely stress
+   response.  Has developed fever in post-op/post-MI setting even w/ RTC
+   tylenol.  No bandemia.  UA does not show UTI.  CXR without clear
+   infiltrate.
+   - hold antibiotics until pt spikes here or evidence of infection
+   - f/u urine cultures
+   - Tylenol PRN for fevers
+   - encourage IS
+   .
+   # Anemia:  Pronounced Hct drop in days following surgery.  Suspect may
+   be [**2-7**] to IVF.  No clear bleeding, but patient on heparin post op, so
+   may have surgical bleed.  JP also putting out some drainage
+   - serial HCT
+   .
+   #  Constipation:  No BM in days with distended abdomen on morphine
+   PCA.  Like secondary to medication effect and post-op state with
+   ileus.  KUB consistent with stool in colon.
+   - colace
+   - senna
+   - lactulose
+   - soap suds enema
+   .
+   # Spinal surgery:  Ortho to evaluate for post-op needs.
+   - IV morphine PRN
+   - d/c RTC tylenol to trend fever curve.
+   .
+   FEN:  NPO for cardioversion and ileus
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with systemic heparin
+   -Pain managment with IV morphine
+   -Bowel regimen as listed above
+   CODE: to be readdressed, pt and family would like to discuss
+   intubation, FULL for now
+   DISPO: CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Cordis/Introducer - [**2978-12-12**] 07:00 PM
+   18 Gauge - [**2978-12-13**] 09:16 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

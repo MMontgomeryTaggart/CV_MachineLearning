@@ -1,0 +1,167 @@
+Admission Date:  [**3399-6-28**]       Discharge Date:  [**3399-7-2**]
+
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 89-year-old
+female with a history of hypertension who presented to an
+outside hospital on [**3399-6-27**] with a complaint of central
+chest pain lasting 30 minutes.
+
+The pain was [**11-1**] in intensity, did not have any radiation,
+and was not associated with any shortness of breath,
+diaphoresis, or palpitations.  The patient was treated in the
+Emergency Department with aspirin and nitroglycerin which did
+not relieve the pain.
+
+Electrocardiogram demonstrated ST elevations of 2 mm to 4 mm
+in leads V1 through V5, a right bundle-branch block, and Q
+waves in leads V1 through V3.  She was started on heparin, an
+nitroglycerin drip, and then treated with TNK 30 mg
+intravenously for thrombolysis.
+
+A repeat electrocardiogram one hour later demonstrated
+persistent ST elevations, and the patient continued to have
+pain rating [**4-1**] in intensity.  The nitroglycerin drip was
+increased to 90 mcg per minute prior to transfer to [**Hospital1 1205**] for intervention, and she was
+then pain free.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension (on multiple medications).
+2.  Bilateral cataracts.
+3.  Status post cholecystectomy.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Aspirin.
+2.  Atenolol 75 mg p.o. once per day.
+3.  Diovan 80 mg p.o. once per day.
+4.  Clonidine 0.1 mg p.o. once per day.
+5.  Norvasc 5 mg p.o. once per day.
+6.  Isosorbide dinitrate 20 mg p.o. two to three times per
+day.
+7.  Amitriptyline 10 mg p.o. q.h.s.
+
+SOCIAL HISTORY:  The patient denies any tobacco history.  She
+lives at home alone.
+
+FAMILY HISTORY:  Family history was noncontributory.
+
+PHYSICAL EXAMINATION ON PRESENTATION:   On physical
+examination, the patient was afebrile with a temperature of
+98.2, heart rate was 77, blood pressure was 150/70,
+respiratory rate was 16, and oxygen saturation was 94% on 2
+liters by nasal cannula.  In general, the patient was
+pleasant and in no apparent distress.  Head and neck
+examination revealed mucous membranes were dry.  The
+oropharynx was clear.  No carotid bruits.  The lungs were
+clear to auscultation bilaterally.   Cardiovascular
+examination revealed a regular rate and rhythm with a
+systolic murmur and positive third heart sound.  The abdomen
+was benign.  Extremities had trace edema bilaterally.
+Neurologic examination revealed cranial nerves II through XII
+were grossly intact and the patient had 5/5 strength.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  Outside
+hospital laboratories demonstrated white blood cell count was
+13.1, hematocrit was 39.7, and platelets were 353.  A
+Chemistry-7 panel was significant for a blood urea nitrogen
+of 40 and a creatinine of 1.7.  Initial creatine kinase
+levels at the outside hospital were negative.
+
+PERTINENT RADIOLOGY/IMAGING:  A chest x-ray demonstrated no
+acute process.
+
+Upon left heart catheterization, the patient's left main
+coronary artery was found to be normal.  The left anterior
+descending artery had diffuse disease with a focal proximal
+80% lesion.  The left circumflex had minimal irregularities.
+The right coronary artery had a 60% to 70% mid lesion.  The
+left anterior descending artery lesion was stented
+successfully.  Right heart catheterization demonstrated right
+atrial pressures of 10, right ventricular of 40/70, pulmonary
+artery pressures of 38/19, and a pulmonary capillary wedge
+pressure of 22.  Cardiac output and index were 3.06 and 1.99;
+respectively.
+
+HOSPITAL COURSE BY ISSUE/SYSTEM:
+
+1.  CORONARY ARTERY DISEASE:  The patient's repeat
+electrocardiogram demonstrated resolution of the ST
+elevations and large Q waves in leads V1 through V5.
+
+She was treated with aspirin, Plavix, and a statin was
+started.  Her creatine kinase peaked at 7400, and the MB peak
+was 1075.
+
+A repeat echocardiogram demonstrated an ejection fraction of
+30% to 35%, and the patient experienced some mild heart
+failure.  She was diuresed with Lasix and maintained good
+oxygen saturations.  She was also started on her beta blocker
+and ACE inhibitor as well as long-acting nitrates.
+
+Due to her depressed ejection fraction and large anterior
+wall myocardial infarction, the patient was at risk for
+sudden cardiac death from arrhythmias.  The option of an
+internal defibrillator was discussed with the patient, and
+she wished to defer at this time.  Her right coronary artery
+lesion may be addressed within six months.
+
+Further monitoring on telemetry demonstrated no progressive
+dysrhythmias.
+
+2.  RENAL ISSUES:  Repeat laboratories demonstrated a normal
+creatinine of 1.  She did not require any fluids for
+rehydration, nor did she have any renal failure during her
+hospitalization.
+
+3.  HYPERTENSION ISSUES:  The patient's blood pressure was
+maintained well with beta blocker, ACE inhibitor, and
+continued calcium channel blocker.  Her clonidine was
+discontinued.
+
+CONDITION AT DISCHARGE:  The patient's condition on discharge
+was stable.
+
+DISCHARGE STATUS:  The patient was to be discharged to
+rehabilitation.
+
+DISCHARGE DIAGNOSES:
+1.  Anterior myocardial infarction.
+2.  Hypertension.
+3.  Congestive heart failure (with an ejection fraction of
+35%).
+
+MEDICATIONS ON DISCHARGE:
+1.  Aspirin 325 mg p.o. once per day.
+2.  Plavix 75 mg p.o. once per day (times nine months).
+3.  Atenolol 75 mg p.o. once per day.
+4.  Lisinopril 10 mg p.o. once per day.
+5.  Norvasc 5 mg p.o. once per day.
+6.  Imdur 30 mg p.o. once per day.
+7.  Lipitor 10 mg p.o. once per day.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  The patient was to follow up with her primary care
+provider in one to two weeks.
+2.  The patient was to follow up with her cardiologist in
+several months and consider addressing her right coronary
+artery lesion as well as placement of an automatic internal
+cardioverter-defibrillator if she wishes.
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 300**], M.D.  [**MD Number(1) 2550**]
+
+Dictated By:[**Last Name (NamePattern1) 1636**]
+MEDQUIST36
+
+D:  [**3399-7-2**]  12:46
+T:  [**3399-7-2**]  13:01
+JOB#:  [**Job Number 25034**]
+
+
+DOC CLASS

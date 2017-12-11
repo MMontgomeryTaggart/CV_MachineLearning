@@ -1,0 +1,291 @@
+Admission Date:  [**3389-9-5**]              Discharge Date:   [**3389-9-9**]
+
+Date of Birth:  [**3341-8-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Beta-Blockers (Beta-Adrenergic Blocking Agts)
+
+Attending:[**First Name3 (LF) 7560**]
+Chief Complaint:
+fatigue
+
+Major Surgical or Invasive Procedure:
+Pacemaker insertion
+
+
+History of Present Illness:
+48 y/o F DM type 1, ESRD s/p CRT x 2 most recently in [**9-24**],
+neurogenic bladder with frequent UTIs who was transferred from
+[**Hospital **] Hospital for seizure evaluation. Patient reports 5
+"spells" over the course of a couple weeks. She describes these
+"spells" as episodes of fatigue that resolve in less than 1
+minute and states she overall does not feel well. During the
+spells she denies dizziness, chest pain, shortness of breath or
+syncope. She is not able to elaborate any further describing her
+spells. Per ED signout seizures were focal tremors, however
+patient does not report this history. While in the ED she was
+being evaluated by Neurology and experienced a "spell" onset
+where tele demonstrated a 8 sec pause. Consequently patient was
+admitted to the CCU for further care.
+.
+Other than spells described above patient reports usual state of
+health. Patient was recently discharged from MICU for urosepsis
+[**3389-8-22**] and completed antibiotic treatment (2 week
+ciprofloxacin). She denies recent fever, chills, sore throat,
+myalgias, cough or rash. She denies shortness of breath or chest
+pain with exertion or rest. Patient reports no sick contacts.
+She denies activity outside, recent tick bites or unusual rash.
+
+.
+On presentation to the ED patient VS were BP 138/77, HR 78, RR
+21, O2 sat 99% RA. 6 sec pause was observed (see above, tele
+script in chart). Prior to transfer patient become bradycardic
+to 30s when bearing down and was given Atropine 0.5 mg IV.
+.
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools.She denies exertional buttock or calf pain.
+All of the other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of dyspnea on
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+palpitations, syncope or presyncope.
+
+
+Past Medical History:
+-Diabetes type 1 with neuropathy nephropathy
+-end-stage renal disease status post MI
+-status post living-related renal transplant in [**3368**], repeat
+living related transplant on [**3388-9-23**] from her brother
+-hep C with mildly elevated liver function tests.Biopsy shows
+grade I disease.
+-Recurrent UTIs in the past, neurogenic bladder with
+self catheterization QID
+-hypertension.
+
+Social History:
+Lives w/ her husband and son; never smoked; does not drink
+alcohol or use illicit drugs. Previously worked in commercial
+banking, but does not currently work. Is supposed to be off of
+her feet in wheelchair but reports she does walk around the
+house. Husband works full time but is able to return home
+frequently to her pt.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+GENERAL: NAD. Oriented x3.
+PSYCH: Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No r/g. No thrills, lifts. No S3 or S4.
+
+LUNGS: Resp were unlabored, no accessory muscle use. BB crackles
+
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: s/p amputation left big toe. feet wrapped in
+dressing, no exudate or bleeding.
+NEUROLOGICAL: normal cranial nerve examination, normal muscle
+strength, sensation and gait.
+SKIN: No rashes, xanthomas or chronic venous stasis changes
+
+
+Pertinent Results:
+[**3389-9-9**] 06:30AM BLOOD WBC-4.3# RBC-2.78* Hgb-7.7* Hct-23.4*
+MCV-84 MCH-27.7 MCHC-32.9 RDW-13.9 Plt Ct-172
+[**3389-9-9**] 06:30AM BLOOD Plt Ct-172
+[**3389-9-5**] 06:05AM BLOOD Neuts-64.8 Lymphs-24.0 Monos-9.2 Eos-1.2
+Baso-0.8
+[**3389-9-5**] 06:05AM BLOOD ESR-47*
+[**3389-9-9**] 06:30AM BLOOD Glucose-275* UreaN-19 Creat-0.9 Na-136
+K-5.2* Cl-110* HCO3-20* AnGap-11
+[**3389-9-6**] 01:50AM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**3389-9-9**] 06:30AM BLOOD Calcium-9.2 Phos-3.7 Mg-1.5*
+[**3389-9-5**] 01:50PM BLOOD TSH-1.1
+[**3389-9-7**] 04:59AM BLOOD tacroFK-12.2
+.
+CXR [**9-9**]:
+Pacer placement with no evidence of complication. Small right
+pleural effusion.
+.
+ECG [**9-8**]:
+Normal sinus rhythm. Right bundle-branch block with QRS duration
+
+of 122 milliseconds. The patient now has T wave inversion in
+leads V3-V6 that was not seen in tracing #1. These changes are
+non-specific.
+.
+ECHO [**3389-9-8**]:
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). There is no
+ventricular septal defect. Right ventricular chamber size and
+free wall motion are normal. The diameters of aorta at the
+sinus, ascending and arch levels are normal. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve leaflets
+are structurally normal. There is no mitral valve prolapse.
+There is mild pulmonary artery systolic hypertension. There is
+no pericardial effusion.
+Compared with the prior study (images reviewed) of [**3387-12-13**], a
+pacer, TR and pulmonary hypertension are now seen.
+.
+
+
+Brief Hospital Course:
+#1 Paroxysmal AV block S/P pacer: Etiology included ischemia,
+viral myocarditis, lyme disease, endocarditis, thyroid disease
+paroxysmal AV block, most likely infranodal block (vs. nodal).
+Initially had temp wire placed by the bedside, pt now s/p dual
+chamber pacemaker, right subclavian access. CXR showed good lead
+placement. Lyme serolgy (-), blood culture (-), ESR mildly
+elevated -> endocarditis unlikely; TSH normal. ECHO showed no
+wall motion abnormalities, no vegetation. Pt was discharged home
+with 1 day of prophylactic antibiotics and follow up with device
+clinic and Dr. [**Last Name (STitle) **].
+.
+#2 CORONARIES: No chest pain or history of angina. [**3389-1-21**]
+stress test demonstrated mild small perfusion defect in LAD
+region. Patient being treated by Dr. [**Last Name (STitle) **] for medical
+management. No evidence of ischemia during stay with negative
+biomarkers. Pt was continued on Aspirin, Pravastatin and Zetia.
+.
+#3 S/P Renal transplant: Creatinine at baseline 08-1.2. No
+fever, chills to suggest infection. Was followed by transplant
+team during hospital stay. Tacro level OK. No changes in
+immunosuppressant regimen.
+.
+#4 Diabetes type 1: Elevated BS on admission. A1C 10. Husband
+and pt admit to poor control at home. Already involved with
+[**Hospital **] clinic. No changes in insulin regimen. Pt was encouraged
+to visit [**Last Name (un) **] endocrinologist and nutritionist after
+discharge.
+.
+# Hypertension: Patient unaware she is on Valsartan 40 mg qd.
+Hold now as patient is normotensive and told to speak to her PCP
+about this medicine.
+.
+# Hyperlipidemia: Continued Pravastatin 20 mg and Ezetimibe 10
+mg
+.
+# Recurrent UTI's 2 neurogenic bladder: Patient Ua on admission
+negative. Recently completed two week course of ciprofloxacin.
+.
+# Hepatitis C: No stigmata of chronic liver disease on exam.
+Most recent LFTs mildly elevated. Most recent Hep C viral load
+[**3389-1-19**] 948,000.
+
+
+Medications on Admission:
+MEDICATIONS: confirmed with patient
+1. Mycophenolate Mofetil 250 mg Capsule
+2. Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO Q12H
+3. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY
+4. Insulin Glargine 100 unit/mL Solution Sig: Twenty Six (26)
+units Subcutaneous at bedtime.
+5. Metoclopramide 5 mg Tablet Sig: One (1) Tablet PO BID
+6. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+7. Pregabalin 200 mg Capsule Sig: One (1) Capsule PO TID
+8. Valsartan 40 mg Tablet Sig: Two (2) Tablet PO DAILY - patient
+unsure if taking
+9. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO DAILY
+10. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO once a day.
+11. Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+13. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+
+
+Discharge Medications:
+1. Mycophenolate Mofetil 250 mg Capsule Sig: One (1) Capsule PO
+BID (2 times a day).
+2. Tacrolimus 1 mg Capsule Sig: Four (4) Capsule PO Q12H (every
+12 hours).
+3. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Pregabalin 200 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+8. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 1 days.
+Disp:*4 Capsule(s)* Refills:*0*
+9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+11. Metoclopramide 5 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+12. Insulin Lispro 100 unit/mL Solution Sig: as per sliding
+scale  Subcutaneous four times a day.
+13. Insulin Glargine 100 unit/mL Solution Sig: Twenty Six (26)
+units Subcutaneous once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Partners [**Name (NI) 2222**]
+
+Discharge Diagnosis:
+Sinus block with pauses
+End stage renal disease s/p transplant x2
+Diabetes Mellitus Type 1
+
+
+Discharge Condition:
+stable, no ecchymosis or hematoma at pacer site or left chest
+site.
+
+
+Discharge Instructions:
+You had long pauses in your heart rhythm and required a
+pacemaker. You will need to take an antibiotice for one more day
+to prevent an infection. No lifting your right arm over your
+head for 6 weeks. You may transfer yourself into your wheelchair
+but get help doing this if you feel a tugging around the
+pacemaker or right shoulder. No showers or baths for one week,
+the dressing must stay dry and clean. You will go to the device
+clinic next week and they will take the dressing off. No lifting
+more than 5 pounds with your right arm for 6 weeks.
+Medication changes:
+1. Cephalexin: an antibiotic to prevent infection at the pacer
+site.
+2. Please check with Dr. [**Last Name (STitle) **] to see if you need to be on
+diovan.
+.
+Please call the device clinic or Dr. [**Last Name (STitle) **] if you have any
+fevers, swelling or increasing pain at the pacer site, trouble
+breathing, vomiting, or any other concerning symptoms. Please
+schedule an appt with your endocrinologist to get your blood
+sugar under better control. It may be helpful to meet with a
+nutritionist as this was recommended at your last visit.
+
+Followup Instructions:
+Infectious Disease:
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 452**] Date/Time:[**3389-9-14**]
+9:30
+Cardiology:
+DEVICE CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**3389-9-14**] 3:00
+Provider: [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Phone: [**Telephone/Fax (1) 62**] Date/time:
+[**10-16**] at 1:20pm.
+[**Month (only) **]:
+Provider:  [**Name10 (NameIs) **] [**Name11 (NameIs) 3577**] (NHB) Phone:[**Telephone/Fax (1) 1223**]
+Date/Time:[**3389-9-23**] 9:45
+
+
+
+Completed by:[**3389-9-10**]
+
+DOC CLASS

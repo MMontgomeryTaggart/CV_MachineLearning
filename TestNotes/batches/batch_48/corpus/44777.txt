@@ -1,0 +1,439 @@
+Admission Date:  [**2806-11-20**]              Discharge Date:   [**2806-11-24**]
+
+Date of Birth:  [**2727-6-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Morphine / Sulfur / Hydrochlorothiazide / Lipitor
+/ simvastatin
+
+Attending:[**First Name3 (LF) 4536**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**2806-11-20**]: heart catheterization with three bare metal stents
+placed in the proximal and distal RCA for 50-60% diffuse disease
+in the proximal-mid artery and total occlusion in the distal
+artery, and one bare metal stent placed in the PDA for 90%
+stenosis
+
+History of Present Illness:
+Pt is a 79 yo F w/ PMH CAD s/p MI w/ 2 stents and angioplasty in
+[**2796**], DMII (last HbA1C 7.2 in [**2-12**]), dyslipidemia, and CVA [**2803**]
+p/w chest pain that began in the middle of last week. The pt
+reports that her pain began in the middle of the night last
+Wednesday or Thursday. It woke her up at 2am and she felt pain
+in her left arm and left chest. This pain lasted all night
+though the pt tried to apply hot pads, ice packs and take advil,
+it did not take the pain away very long. She denies nausea or
+shortness of breath associated with the episode but does denote
+chills. She remembers feeling pain like this in the past, when
+she had her last MI [**05**] years ago. This pain continued
+intermittently through the weekend and actually felt better
+today, so much so that she was almost not going to call her
+doctor. She was sent from her doctor's office to the ED due to
+STE on EKG.
+.
+In the ED, initial VS were T 99.1, P 70-80, BP 104-148/41-93), R
+18, O2 98 RA. By the time she arrived she had no cp/sob, and
+stated 0/10 pain, but had L arm pain yesterday. She was given
+ASA 325mg and started on a heparin gtt. She was shortly taken to
+the cath lab.
+.
+In the Cath Lab, the LAD showed diffuse ISR with serial 70-80%
+lesions including ostium of LAD. Diagonal had 50-60% diffuse
+disease. The LCX showed mild luminal irregularities with OM1
+upper pole 50% and lower pole 40%. The RCA proximal and mid
+diffuse 50-60%, distal total occlusion with collaterals from LCA
+filling PL but not PDA. PTCA was performed with a 2.0 mm balloon
+in the distal RCA. A 2.25 x 28 mm Minivision BMS was placed in
+the distal RCA. A more proximal overlapping 2.25 x 8 mm
+Minivision stent was deployed in what appeared to be a filling
+defect.  A more proximal nonoverlapping 2.5 x 28 mm Minivision
+stent repaired the mid vessel lesion.  The mid portion was
+postdilated with a 3.0 mm balloon in a focal area of
+underexpansion.  A 90% origin PDA was repaired with a 2.25 x 8
+mm Integriti stent placed in a distal overlapping fashion with
+the first stent.  Final angiography revealed normal flow, no
+dissection and 0% residual stenosis in the stents. There was
+residual 40% stenosis in the proximal RCA.
+.
+In the CCU, the pt was resting comfortably in bed, with no
+complaints of chest pain, sob, abd pain, or nausea.
+
+Past Medical History:
+CAD s/p MI with 2 stents and angioplasty [**2796**] (cardiac cath
+showed single vessel disease with stenting to the LAD
+percutaneous transluminal coronary angioplasty of diagonal. LAD
+had an 80%
+proximal lesion, 70% mid lesion, and diagonal branch had 90%
+lesion.
+1. CARDIAC RISK FACTORS: +Diabetes (last HbA1C 7.2%),
++Dyslipidemia, +Hypertension
+2. CARDIAC HISTORY:
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS:
+- PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY:
+-  s/p hysterectomy for fibroids
+-  CVA, [**3-/2803**] Acute left PCA infarct
+
+Social History:
+Lives at home alone. Retired bookkeeper.
+- Tobacco history:  Denies
+- ETOH:  Denies
+- Illicit drugs: Denies
+
+Family History:
+- Mother: had few MIs, died of MI at age 61
+- Father: had emphysema
+- Mother's brother: died of MI at age 47
+
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+VS: T=97.6 BP= 129-170/47-64 HR= 71-96 RR= 19-26 O2 sat= 96-99%
+RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple. No JVD appreciated.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. Crescendo/decrescendo murmur heard best
+over the RUSB, and soft holosystolic murmur heard at the mitral
+space w/ radiation to the axilla.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+palpable. No abdominial bruits.
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ DP 1+
+Left: Carotid 2+ Radial 2+ DP 1+
+.
+DISCHARGE PHYSICAL EXAMINATION:
+Tmax: 37.6 ??????C (99.7 ??????F) Tcurrent: 36.7 ??????C (98 ??????F) HR: 76 (65 -
+110) bpm BP: 107/58(66) {97/45(35) - 132/79(97)} mmHg RR: 22 (9
+- 27) insp/min SpO2: 97%
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple. No JVD appreciated.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. Irregularly irregular, normal S1, S2.
+Crescendo/decrescendo murmur heard best over the LUSB.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, ND, slightly tender over sites of the shots, but
+also slightly tender in the RUQ. Neg [**Doctor Last Name **]??????s sign.. +BS. No HSM
+or tenderness. Abd aorta not palpable. No abdominial bruits.
+EXTREMITIES: No c/c/e
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Radial 2+ DP 1+
+Left: Carotid 2+ Radial 2+ DP 1+
+
+
+Pertinent Results:
+Admission labs:
+[**2806-11-20**] 02:00PM BLOOD WBC-15.7*# RBC-4.93 Hgb-14.2 Hct-40.2
+MCV-82 MCH-28.8 MCHC-35.2* RDW-13.0 Plt Ct-211
+[**2806-11-20**] 02:00PM BLOOD Neuts-82.5* Lymphs-12.3* Monos-4.9
+Eos-0.1 Baso-0.2
+[**2806-11-20**] 02:00PM BLOOD PT-13.0 PTT-21.1* INR(PT)-1.1
+[**2806-11-20**] 02:00PM BLOOD Glucose-215* UreaN-21* Creat-1.1 Na-133
+K-4.0 Cl-98 HCO3-22 AnGap-17
+[**2806-11-20**] 02:00PM BLOOD CK(CPK)-584*
+[**2806-11-20**] 02:00PM BLOOD CK-MB-22* MB Indx-3.8
+[**2806-11-20**] 02:00PM BLOOD cTropnT-1.05*
+.
+Relevant labs:
+[**2806-11-20**] 10:20PM BLOOD CK(CPK)-735*
+[**2806-11-20**] 10:20PM BLOOD CK-MB-29* MB Indx-3.9 cTropnT-2.29*
+[**2806-11-21**] 12:40AM BLOOD CK(CPK)-715*
+[**2806-11-21**] 12:40AM BLOOD CK-MB-25* MB Indx-3.5
+[**2806-11-21**] 03:35PM BLOOD CK(CPK)-629*
+[**2806-11-21**] 03:35PM BLOOD CK-MB-17* MB Indx-2.7 cTropnT-1.95*
+.
+Discharge labs:
+[**2806-11-24**] 07:35AM BLOOD WBC-8.0 RBC-3.76* Hgb-10.7* Hct-31.2*
+MCV-83 MCH-28.4 MCHC-34.2 RDW-13.0 Plt Ct-230
+[**2806-11-24**] 07:35AM BLOOD PT-17.4* PTT-28.6 INR(PT)-1.6*
+[**2806-11-24**] 07:35AM BLOOD Glucose-148* UreaN-23* Creat-1.0 Na-138
+K-4.5 Cl-106 HCO3-24 AnGap-13
+[**2806-11-24**] 07:35AM BLOOD Calcium-8.7 Phos-3.3 Mg-2.1
+[**2806-11-21**] 12:40AM BLOOD %HbA1c-7.5* eAG-169*
+[**2806-11-21**] 12:40AM BLOOD Triglyc-210* HDL-56 CHOL/HD-3.9
+LDLcalc-119
+[**2806-11-21**] 12:40AM BLOOD Cholest-217*
+
+Cardiac catheterization [**2806-11-20**]:
+PTCA was performedwith a 2.0 mm balloon in the distal RCA and
+proximal PDA withrestoration of flow, but flow degraded over 10
+minutes ofobservation.  The decision was made to definitively
+repair theRCA.  A 2.25 x 28 mm Minivision BMS was placed in the
+distal RCA.A more proximal overlapping 2.25 x 8 mm Minivision
+stent was deployed in what appeared to be a filling defect.  A
+moreproximal nonoverlapping 2.5 x 28 mm Minivision stent
+repaired themid vessel lesion.  The mid portion was postdilated
+with a 3.0 mmballoon in a focal area of underexpansion.  A 90%
+origin PDA was repaired with a 2.25 x 8 mm Integriti stent
+placed in a distal overlapping fashion with the first stent.
+Final angiography revealed normal flow, no dissection and 0%
+residual stenosis in the stents.   There was residual 40%
+stenosis in the proximal RCA.
+.
+TTE [**2806-11-21**]:
+The left atrium is elongated. The estimated right atrial
+pressure is 0-5 mmHg. There is mild symmetric left ventricular
+hypertrophy with normal cavity size and global systolic function
+(LVEF>55%). Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Right ventricular
+chamber size and free wall motion are normal. The ascending
+aorta is mildly dilated. The aortic valve leaflets are
+moderately thickened. There is mild aortic valve stenosis (valve
+area 1.2-1.9cm2). No aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. Mild to moderate ([**2-5**]+)
+mitral regurgitation is seen. The tricuspid valve leaflets are
+mildly thickened. The pulmonary artery systolic pressure could
+not be determined. There is an anterior space which most likely
+represents a prominent fat pad.
+IMPRESSION: Suboptimal image quality. Mild symmetric left
+ventricular hypertrophy with preserved global and regional
+biventricular systolic function. Mild aortic valve stenosis.
+Mild-moderate mitral regurgitation.
+Compared with the prior study (images reviewed) of [**2803-3-18**],
+the findings are similar (PA systolic pressure could not be
+quantified on the current study).
+.
+Chest x-ray [**2806-11-21**]:
+AP single view of the chest has been obtained with patient in
+sitting semi-upright position. The heart is moderately enlarged.
+The configuration suggests a relative prominence of the left
+ventricle, but there is no conclusive evidence for left atrial
+enlargement. The thoracic aorta is
+generally widened and elongated, but no local contour
+abnormality or
+significant wall calcification is identified. The pulmonary
+vasculature is
+not congested. No signs of acute infiltrates are present and the
+lateral
+pleural sinuses are free. No pneumothorax is seen in the apical
+area.
+Our records include a previous chest examination dated [**10-7**], [**2796**].
+Remarkable is that the findings are very similar in as much the
+patient already at that time had cardiomegaly with left
+ventricular prominence, but absence of conclusive pulmonary
+congestion. The patient underwent a chest CT on [**2805-2-14**]. This study is also reviewed and confirms the
+observations made on the plain portable chest x-ray. In
+addition, moderate
+degree of aortic valve as well as coronary arterial
+calcifications were
+identified and a mildly widened and elongated thoracic aorta was
+noted. The left lower lobe pulmonary condyloma was examined and
+was found to be innocent.
+IMPRESSION: Mild-to-moderate cardiac enlargement mostly
+involving left
+ventricle. No signs of acute congestion or infiltrate on
+portable chest
+examination.
+.
+[**2806-11-23**] Carotid Series Complete: There is a mild intimal
+thickening and heterogeneous  bilaterally along the common
+carotid and proximal internal carotid arteries. The peak
+systolic velocity in the right internal carotid artery ranges
+from 45-101 cm/sec and on the left internal carotid artery
+ranges from 63-87 cm/sec. The peak systolic velocity in the
+right common carotid artery is 74 cm/sec and left common carotid
+artery is 56 cm/sec. Bilateral external carotid arteries are
+patent. There is antegrade flow in the bilateral vertebral
+arteries. The ICA/CCA ratio on the right is 1.4 and 1.6 on the
+left.
+
+Brief Hospital Course:
+79 yo F w/ PMH CAD s/p MI w/ 2 stents and angioplasty in [**2796**],
+DMII (last HbA1C 7.2 in [**2-12**]), dyslipidemia, and CVA [**2803**] p/w
+chest pain, found to have an inferior STEMI, treated with three
+bare metal stents in the RCA and one in the PDA, with hospital
+course complicated by post-intervention atrial
+fibrillation/flutter.
+.
+.
+ACTIVE ISSUES:
+# CAD: Pt has hx of MI in [**2796**] w/ stent placement, found to have
+STE on EKG and taken to the cath lab and is now s/p 4 stent
+placement, 3 in RCA, 1 in PDA with possible plans for a CABG in
+one month. She was put on ASA 325mg daily, and continued on her
+home clopidogrel 75mg daily that she will need to take for at
+least one month, but to be stopped 5 days prior to her CABG. She
+was continued on her home lopressor and was switched from her
+home simvastatin to rosuvastatin due to complaints of muscle
+cramps on simvastatin. Her home olmesartan was held due to low
+blood pressures, and then re-started at half her home dose as
+her blood pressure tolerated it. Cardiac surgery saw the patient
+for possible CABG and her pre-op work-up began with carotid
+ultrasound, which showed no evidence of significant carotid
+artery stenosis bilaterally, but did show mild intimal
+thickening and heterogeneous plaque along the common carotid and
+proximal internal carotid arteries.
+.
+# Atrial fibrillation/flutter: One day post-intervention, the
+patient was noted to have irregular rhythm, alternating between
+coarse atrial fibrillation and atrial flutter.  She was
+subsequently anticoagulated with warfarin 5mg daily, and was
+bridged with lovenox injections.  Her rate was controlled with
+metoprolol 25mg TID. On the day prior to discharge, she was
+successfully cardioverted into normal sinus rhythm with
+occasional PACs. She will be discharged on pradaxa.
+.
+.
+CHRONIC ISSUES:
+# Hypertension: Documented history of this problem, for which
+the patient had been treated with metoprolol 50 mg TID,
+amlodipine 10 mg daily and olmesartan 40mg daily prior to
+admission.  She was hypotensive after her intervention, so her
+medications were initially held and she was restarted on her
+home metoprolol. Her amlodipine was discontinued due to her
+being post-myocardial infarction.
+.
+# Hyperlipidemia: Documented history of this problem, for which
+the patient had self-discontinued treatment with simvastatin
+secondary to intolerable leg cramping.  Following her
+intervention, the patient was started on rosuvastatin, which she
+tolerated well.  During this admission, her lipid panel
+demonstrated uncontrolled lipids with total cholesterol 217,
+triglycerides 210, HDL 56, chol/HDL 3.9 and LDL 119.
+.
+# Diabetes: Last HbA1C prior to this admission was 7.2% in [**2804**].
+ During this admission, the patient's HbA1c was 7.5%, indicative
+of ongoing poorly-controlled diabetes.  While an inpatient, the
+patient was treated with a sliding scale of insulin.  She was
+also counseled regarding the importance of diet and exercise
+modifications.  Her PCP may consider initiation of treatment
+with metformin.
+.
+.
+TRANSITIONAL ISSUES:
+1.) Recommend initiation of treatment for poorly-controlled
+diabetes with metformin, though pt will need further teaching
+into importance of medications.
+
+Medications on Admission:
+AMLODIPINE - 10 mg Tablet - 1 Tablet PO daily
+CLOPIDOGREL [PLAVIX]  - 75 mg Tablet - 1 Tablet PO daily
+METOPROLOL TARTRATE - 50 mg Tablet - 1 Tablet PO TID
+OLMESARTAN [BENICAR] - 40 mg Tablet - 1 Tablet PO daily
+SIMVASTATIN - 20 mg Tablet - 1 Tablet PO daily-- REPORTS NOT
+TAKING
+
+Discharge Medications:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. rosuvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+3. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO three times a
+day as needed for pain.
+4. nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain:
+Please take one pill under tongue, call 911 if you still have
+chest pain after one tablet. .
+Disp:*30 Tablet, Sublingual(s)* Refills:*0*
+5. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+7. Pradaxa 150 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*60 Capsule(s)* Refills:*2*
+8. Benicar 20 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Outpatient Lab Work
+Please check Chem-7 and CBC on Tuesday [**11-28**] with results
+to Dr. [**Last Name (STitle) **] at Phone: [**Telephone/Fax (1) 3970**]
+Fax: [**Telephone/Fax (1) 3978**]
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+ST elevation myocardial infarction
+Diabetes Type 2
+Dyslipidemia
+History of stroke
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You had chest pain and a heart attack. You were brought to the
+catheterization lab at [**Hospital1 4**] and blockages were found in your
+right coronary artery and posterior descending artery. These
+blockages were fixed with 4 bare metal stents. You will need to
+take aspirin 325 mg and Plavix 75 mg every day for the next
+month without fail to keep these stents open. Do not stop taking
+aspirin and plavix for any reason unless Dr. [**Last Name (STitle) **] tells you it
+is OK. You also had an irregular heart rhythm called atrial
+fibrillation that was converted to a regular rhythm after an
+electrical cardioversion. Your heart may revert back to atrial
+fibrillation over the next month so we want you to use an event
+monitor to check your rhythm. Atrial fibrillation makes a stroke
+more likely so you will be started on Pradaxa for the next month
+to prevent a stroke. Dr. [**Last Name (STitle) **] will let you know if you need to
+continue this medicine after a month. This medicine makes it
+more likely for you to have minor bleeding such as a nosebleed
+or bleeding gums, this is normal. A major bleeding event would
+be dark or bloody stools, fatigue and trouble breathing. Please
+call Dr. [**Last Name (STitle) **] right away if you notice this. Your other
+medicines have been adjusted as noted below. Your blood sugars
+have been high, please follow the high fiber, low carbohydrate
+diet that we discussed and talk to Dr. [**Last Name (STitle) **] about starting
+medicines to lower your blood sugars.
+.
+1. STOP taking amlodipine
+2. Decrease benicar to 20 mg daily ([**2-5**] of a pill)
+3. Continue to take plavix every day for one month at least
+along with aspirin 325 mg to prevent the stents from clotting
+off
+4. START Pradaza (dabigatran) to prevent a blood clot if your
+atrial fibrillation returns.
+5. START Crestor (rosuvastatin) to lower your cholesterol.
+6. Take acetaminophen (tylenol) instead of advil for any pain
+7. Take nitroglyerin if you have shest pain that is similar to
+the chest pain you had before your heart attack. Call Dr. [**Last Name (STitle) **]
+if you have any chest pain.
+
+Followup Instructions:
+Department: CARDIAC SURGERY
+When: THURSDAY [**2806-12-21**] at 2:00 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 532**], MD [**Telephone/Fax (1) 294**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) 68**]) [**Location (un) 61**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+Name: [**Last Name (LF) 17473**],[**First Name3 (LF) **] S.
+Location: [**Hospital1 **] HEALTHCARE - [**State 17474**]GROUP
+Address: [**State **], STE 100, [**Location (un) **],[**Numeric Identifier 6048**]
+Phone: [**Telephone/Fax (1) 3970**]
+*It is recommended that you see Dr. [**Last Name (STitle) **] within one week.
+His office will contact you with appointment information.
+
+Name: [**Last Name (LF) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 311**]
+Location: [**Hospital1 **] [**Last Name (Titles) **]/CARDIOLOGY
+Address: [**Street Address(2) **], [**Location (un) **], MA
+Phone: [**Telephone/Fax (1) 6167**]
+When: Wednesday, [**2-2**], 3PM
+
+
+
+
+
+DOC CLASS

@@ -1,0 +1,236 @@
+Chief Complaint: Respiratory failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   80F with progressive respiratory failure, DAH
+   24 Hour Events:
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Morphine
+   agitation
+   hype
+   Motrin (Oral) (Ibuprofen)
+   Anaphylaxis;
+   Levaquin (Oral) (Levofloxacin)
+   Cough; facial f
+   Last dose of Antibiotics:
+   Nafcillin - [**2986-2-28**] 02:48 PM
+   Bactrim (SMX/TMP) - [**2986-3-2**] 10:20 AM
+   Azithromycin - [**2986-3-2**] 03:55 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2986-3-3**] 07:30 AM
+   Vancomycin - [**2986-3-3**] 08:13 AM
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Midazolam (Versed) - 4 mg/hour
+   Fentanyl - 130 mcg/hour
+   Other ICU medications:
+   Fentanyl - [**2986-3-3**] 05:29 AM
+   Furosemide (Lasix) - [**2986-3-3**] 06:21 AM
+   Midazolam (Versed) - [**2986-3-3**] 09:30 AM
+   Famotidine (Pepcid) - [**2986-3-3**] 10:13 AM
+   Other medications:
+   ASA
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fever
+   Ear, Nose, Throat: OG / NG tube
+   Cardiovascular: No(t) Edema
+   Nutritional Support: Tube feeds
+   Respiratory: Dyspnea
+   Genitourinary: Foley
+   Pain: Unable to answer
+   Flowsheet Data as of  [**2986-3-3**] 11:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.6
+C (97.8
+   HR: 63 (50 - 83) bpm
+   BP: 128/56(81) {102/43(60) - 163/77(155)} mmHg
+   RR: 9 (9 - 20) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 80.6 kg (admission): 79.4 kg
+   Height: 63 Inch
+   CVP: 18 (14 - 24)mmHg
+   Total In:
+                                                                  5,944 mL
+                                                                  1,016 mL
+   PO:
+   TF:
+                                                                     30 mL
+                                                                    104 mL
+   IVF:
+                                                                  4,904 mL
+                                                                    737 mL
+   Blood products:
+                                                                    700 mL
+   Total out:
+                                                                  1,110 mL
+                                                                    792 mL
+   Urine:
+                                                                  1,110 mL
+                                                                    792 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,834 mL
+                                                                    224 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 14
+   PEEP: 12 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 24 cmH2O
+   Plateau: 20 cmH2O
+   Compliance: 62.5 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.35/39/94.[**Numeric Identifier 120**]/22/-3
+   Ve: 7.5 L/min
+   PaO2 / FiO2: 188
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed, No(t) Rash:
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   9.8 g/dL
+   379 K/uL
+   161 mg/dL
+   1.8 mg/dL
+   22 mEq/L
+   4.0 mEq/L
+   35 mg/dL
+   102 mEq/L
+   135 mEq/L
+   28.2 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**2986-3-2**]  09:19 AM
+                             [**2986-3-2**]  11:04 AM
+                             [**2986-3-2**]  01:25 PM
+                             [**2986-3-2**]  05:29 PM
+                             [**2986-3-2**]  09:32 PM
+                             [**2986-3-2**]  09:45 PM
+                             [**2986-3-3**]  03:37 AM
+                             [**2986-3-3**]  03:59 AM
+                             [**2986-3-3**]  05:11 AM
+                             [**2986-3-3**]  09:42 AM
+   WBC
+   11.2
+   9.3
+   10.0
+   Hct
+   24.9
+   26.8
+   28.2
+   Plt
+   356
+   335
+   379
+   Cr
+   1.6
+   1.6
+   1.8
+   TCO2
+   24
+   23
+   23
+   24
+   22
+   23
+   22
+   Glucose
+   197
+   142
+   161
+   Other labs: PT / PTT / INR:12.6/25.2/1.1, CK / CKMB /
+   Troponin-T:49/2/<0.01, ALT / AST:16/39, Alk Phos / T Bili:63/0.4,
+   Differential-Neuts:89.2 %, Lymph:7.5 %, Mono:3.2 %, Eos:0.1 %, Lactic
+   Acid:1.0 mmol/L, LDH:647 IU/L, Ca++:8.2 mg/dL, Mg++:2.3 mg/dL, PO4:3.1
+   mg/dL
+   Fluid analysis / Other labs: ANCA negative
+   [**Doctor First Name 1168**] negative
+   Microbiology: Micro negative to date
+   Assessment and Plan
+   1) Hypoxemic Respiratory Failure:
+   Improved oxygenation and aeration on CXR.
+   Wean FiO2.
+   Continue empiric steroids, antibiotics pending rest of her studies.
+   Diurese gently.
+   2) Renal failure:
+   Creatinine rising despite psotive fluid balance.
+   U/a with some blood--renal consult and check sediment considerering GN.
+   3) Anemia:
+   Hct stablized.
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**2986-3-2**] 10:30 PM 10 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2986-3-1**] 10:39 AM
+   PICC Line - [**2986-3-1**] 01:51 PM
+   Multi Lumen - [**2986-3-1**] 07:15 PM
+   Arterial Line - [**2986-3-1**] 09:18 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points:
+   Mrs [**Known patient lastname 8074**] has had gradual improvement in oxygenation with higher
+   PEEP and ongoing Rx for DAH with high dose steroids. Her Hct is now at
+   28, creatinine at 1.8 ( with diuresis) and she is off pressors!. She is
+   responsive to pain despite current sedation levels. Her U/A shows
+   evidence for RBC
+s. CXR also shows mild interval clearing. We will
+   continue Abx per ID staff recs, give 24 more hours of high dose
+   steroids, then taper to 40 mg prednisone as we await serology and begin
+   attempts to wean on ventilator when FiO2 is down to 40% as is required
+   PEEP. Etiology of DAH still unclear at this time ( vasculitis vs
+   DAD/CHF). Family has been updated.
+   Patient is critically ill
+   Total time: 50 min
+   _________
+   [**First Name8 (NamePattern2) **] [**Name8 (MD) 1925**], MD
+   Division of Pulmonary, Critical Care and Sleep Medicine
+   [**Hospital1 984**]
+   [**Location (un) 7410**], KS-B23
+   [**Location (un) 211**], [**Numeric Identifier 4289**]
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name8 (MD) 1925**], MD
+   on:[**2986-3-3**] 02:49 PM ------
+
+
+DOC CLASS

@@ -1,0 +1,224 @@
+Chief Complaint: septic shock; respiratory failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   85M with cad, presents with respoiratory failure and septic shock,
+   likely from pneumonia:
+   24 Hour Events:
+ BLOOD CULTURED - At [**2570-8-23**] 02:30 PM
+   -family meeting yesterday: decision to avoid any more invasive
+   procedures, continue current support but moving towards cmo
+   -heme note: no indication of leukemic transfomration
+   -stable but persistent requirement of pressors
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Iodine
+   Hives; Rash;
+   Last dose of Antibiotics:
+   Levofloxacin - [**2570-8-22**] 11:11 AM
+   Meropenem - [**2570-8-24**] 04:00 AM
+   Metronidazole - [**2570-8-24**] 08:00 AM
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Norepinephrine - 0.18 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: No(t) Dry mouth, Epistaxis, OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, Edema, No(t)
+   Tachycardia, No(t) Orthopnea
+   Nutritional Support: NPO, No(t) Tube feeds, No(t) Parenteral nutrition
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: Abdominal pain, No(t) Nausea, No(t) Emesis, No(t)
+   Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria, Foley, No(t) Dialysis
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, Rash, bruising
+   Endocrine: Hyperglycemia, No(t) History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,
+   No(t) Daytime somnolence
+   Allergy / Immunology: No(t) Immunocompromised, No(t) Influenza vaccine
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**2570-8-24**] 11:01 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 35.9
+C (96.6
+   HR: 80 (78 - 84) bpm
+   BP: 112/55(68) {88/35(55) - 122/59(72)} mmHg
+   RR: 24 (22 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: V Paced
+   Height: 64 Inch
+             Total In:
+                                                                  1,440 mL
+                                                                    837 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,380 mL
+                                                                    837 mL
+   Blood products:
+   Total out:
+                                                                    805 mL
+                                                                    440 mL
+   Urine:
+                                                                    805 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    635 mL
+                                                                    397 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 460 (460 - 460) mL
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 26 cmH2O
+   Plateau: 20 cmH2O
+   SpO2: 100%
+   ABG: ///16/
+   Ve: 9.7 L/min
+   Physical Examination
+   General Appearance: No(t) Well nourished, No acute distress, No(t)
+   Overweight / Obese, Thin, No(t) Anxious, No(t) Diaphoretic
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, OG tube
+   Lymphatic: Cervical WNL, No(t) Supraclavicular WNL, No(t) Cervical
+   adenopathy
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : anteriorly)
+   Abdominal: Soft, No(t) Non-tender, No(t) Bowel sounds present, No(t)
+   Distended, Tender: winces to palpation, No(t) Obese
+   Musculoskeletal: Muscle wasting, Unable to stand
+   Skin:  Warm, Rash: , Jaundice
+   Neurologic: No(t) Follows simple commands, Responds to: Not assessed,
+   No(t) Oriented (to): , Movement: Not assessed, Sedated, No(t)
+   Paralyzed, Tone: Not assessed
+   Labs / Radiology
+   8.2 g/dL
+   73 K/uL
+   184 mg/dL
+   2.2 mg/dL
+   16 mEq/L
+   6.0 mEq/L
+   109 mg/dL
+   117 mEq/L
+   143 mEq/L
+   24.7 %
+   55.3 K/uL
+        [image002.jpg]
+                             [**2570-8-20**]  05:16 PM
+                             [**2570-8-20**]  05:35 PM
+                             [**2570-8-21**]  12:08 AM
+                             [**2570-8-21**]  08:22 AM
+                             [**2570-8-21**]  08:00 PM
+                             [**2570-8-22**]  03:53 AM
+                             [**2570-8-22**]  04:03 AM
+                             [**2570-8-22**]  03:29 PM
+                             [**2570-8-23**]  04:19 AM
+                             [**2570-8-24**]  05:06 AM
+   WBC
+   35.4
+   48.2
+   48.2
+   47.2
+   55.3
+   Hct
+   27.3
+   25.3
+   25.6
+   24.9
+   24.7
+   Plt
+   66
+   69
+   69
+   65
+   73
+   Cr
+   1.4
+   1.5
+   1.7
+   1.8
+   2.0
+   2.2
+   TCO2
+   16
+   17
+   17
+   18
+   Glucose
+   221
+   254
+   49
+   47
+   157
+   181
+   184
+   Other labs: PT / PTT / INR:14.7/29.2/1.3, CK / CKMB /
+   Troponin-T:105/12/0.41, ALT / AST:18/30, Alk Phos / T Bili:70/1.0,
+   Amylase / Lipase:41/22, Differential-Neuts:22.0 %, Band:0.0 %,
+   Lymph:78.0 %, Mono:0.0 %, Eos:0.0 %, D-dimer:3867 ng/mL, Fibrinogen:380
+   mg/dL, Lactic Acid:1.0 mmol/L, Albumin:3.0 g/dL, LDH:292 IU/L, Ca++:6.8
+   mg/dL, Mg++:2.6 mg/dL, PO4:6.2 mg/dL
+   Imaging: no additional imaging
+   Assessment and Plan
+   85M with cad, presents with respiratory failure and septic shock,
+   likely from pneumonia. Patient in very poor condition on arrival to the
+   ICU
+   septic shock
+   -cont fluids
+   -hold pressor at current dose
+   -cont vanco and levoflox
+   resp failure: stable on current vent setting
+   -cont current suppor
+   goals of care:
+   -
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2570-8-20**] 03:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care, Daily wake up
+   Need for restraints reviewed
+   Comments:
+   Communication: Family meeting held  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition :ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+
+
+DOC CLASS

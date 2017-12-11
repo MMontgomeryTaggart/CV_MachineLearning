@@ -1,0 +1,34 @@
+TITLE: Cardiology Fellow Admission Note Addendum
+   Pt examined, discussed with CCU team.
+   83 yo F w/ h/o lung ca ([**2926**]), DM, HTN who presented to [**Hospital 1211**]
+   Hospital with reportedly 1 wk h/o progressive dyspnea, orthopnea, and
+   cough. At OSH, CTA was negative for PE but showed a large pericardial
+   effusion and a large RUL mass with possible postobstructive PNA. She
+   was given abx and transferred to [**Hospital1 17**] ED. Here a bedside pulsus
+   paradoxus was >35 mm Hg. Echo showed a large circumferential
+   pericardial effusion with RV diastolic collapse, indicative of
+   tamponade physiology. She was taken to emergent pericardiocentesis,
+   where ~610 cc of bloody fluid was drained, with immediate improvement
+   in RHC hemodynamics (initial equalization of pressures, pericardial
+   pressure ~35 mm Hg --> 2 mm Hg). She was intubated in the lab for
+   respiratory fatigue and impending respiratory failure. On admission to
+   CCU, hemodynamically stable (SBP 180s), intubated, pericardial drain in
+   place.
+   Imp:
+   1. Cardiac tamponade, etiology of bloody effusion most likely [**2-20**]
+   malignancy
+   2. RUL mass, likely malignant
+   3. Postobstructive PNA vs atelectasis
+   Plan:
+   1. Effusion likely malignant, but will send for routine studies
+   2. Monitor drain output, pull when minimal (if in future reaccumulates,
+   will need window)
+   3. Obtain prior oncologic records for prior dx
+   4. Involve oncology in am re further rx; may need to biopsy mass once
+   PNA treated, will need pulmonary/ thoracics input re this in the near
+   future
+   5. Abx for likely postobstructive PNA and UTI
+   6. Other plans as per housestaff note.
+
+
+DOC CLASS

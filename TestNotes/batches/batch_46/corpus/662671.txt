@@ -1,0 +1,179 @@
+Chief Complaint:
+   HPI:
+   80 yom with hx of recent bioprosthetic MVR 6 weeks ago who presented to
+   the hospital with painless rectal bleeding last night.  Patient reports
+   he got up around 12am last night and went to the bathroom and noted a
+   large amount of bright red blood per rectum. He felt weak and his wife
+   lowered him to the floor.  EMS was called and he was brought to [**Hospital1 17**]
+   for further management.
+   In the ED, VS T97.4, BP 136/80 HR 86 RR 18 99%RA. He had no abdominal
+   tenderness on exam. Small clots noted on rectal exam with no evidence
+   of hemorrhoids. HCT was 31.7. Stool guaiac positive red, purplish
+   color. 2 large bore PIVs were placed. Patient was type and crossmatched
+   for 2 units and given 1L IVFs.
+   This afternoon at around 12pm the patient had a bowel movement which
+   was noted to have stool with blood in it.  At about 4pm, he began to
+   have episodes of hematochezia and blood pressure began to drop in to
+   the 80s and then 70s systolic.  He was transfused 2uPRBC and he was
+   given 3L of IVF.  Blood pressures increased to 120s.  Surgery was
+   consulted and recommended IR for embolization.  A Cordis was placed by
+   the surgical resident.  He was then transferred to the MICU for further
+   management.
+   The patient reports +LH today with his episdoes of hematochezia.  he
+   denies any recent chest pain, SOB, N/V, coffee ground emesis,
+   hematemesis, melena or abdominal pain.
+   Allergies:
+   Coumadin (Oral) (Warfarin Sodium)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Infusions:
+   MEDS ON ADMISSION :
+   1. Aspirin 325 mg (E.C.) PO DAILY
+   2. Lovastatin 20 mg PO DAILY
+   3. Metoprolol Tartrate 25 mg PO BID
+   4. Metamucil PRN
+   5. Centrum silver
+   6. N acetylcysteine (supplement)
+   MEDS ON TRANSFER:
+   Diazepam 5mg PO q4h PRN CIWA > 10
+   GOLYTELY 4L PO asdir
+   Past medical history:
+   Family history:
+   Social History:
+   Hypertension
+   Hyperlipidemia
+   Diverticulosis
+   Gastroesophageal reflux disease
+   Thyromegaly
+   Raynaud's phenomenon
+   Prostate Cancer s/p prostatectomy
+   Osteoarthritis
+   s/p Right total hip replacement
+   s/p Left shoulder replacement
+   s/p Tonsillectomy
+   s/p Cataract surgery
+   Father died of MI age 76
+   Lives with:wife
+   Occupation:retired investment manager
+   Tobacco:quit [**2959**]; 1 ppd x 25 yrs
+   ETOH:couple of drinks/day; no history of withdrawal including last
+   admission
+   Active walking, working out daily
+   Review of systems:
+   Flowsheet Data as of [**2999-11-4**] 09:14 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 119 (111 - 119) bpm
+   BP: 135/82(94) {126/79(89) - 135/82(94)} mmHg
+   RR: 22 (17 - 22) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+           Total In:
+           4,306 mL
+   PO:
+           TF:
+   IVF:
+   1,015 mL
+   Blood products:
+   292 mL
+   Total out:
+                                                                      0 mL
+                                                                    205 mL
+   Urine:
+   205 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  4,101 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   Vitals: T: 98.6  BP: 126/79  P: 111 R: 20 O2: 100%RA
+   General: Alert, oriented, mild distress, lying in bed
+   HEENT: Sclera anicteric, Dry MM, oropharynx clear
+   Neck: supple, no LAD
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops,
+   +midline sternotomy scar, healing well
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Labs / Radiology
+   110
+   0.7
+   12
+   25
+   103
+   4.6
+   137
+   27.7 %
+        [image002.jpg]
+                                  [**2995-12-28**]
+                          2:33 A11/9/[**2998**]  07:33 PM
+                                  [**2996-1-1**]
+                                   10:20 P
+                                  [**2996-1-2**]
+                                   1:20 P
+                                  [**2996-1-3**]
+                                   11:50 P
+                                  [**2996-1-4**]
+                                   1:20 A
+                                  [**2996-1-5**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2996-1-28**]
+                                   1:20 P
+                                  [**2996-1-28**]
+                                   11:20 P
+                                  [**2996-1-28**]
+                                   4:20 P
+   Hct
+                                    27.7
+   Assessment and Plan
+   This is an 80 yom with PMH of HTN and s/p bioprosthetic MVR who
+   presented with BRBPR now with severe hematochezia with resultant
+   hypotension who has been transferred to the MICU.
+   .
+   # Hematochezia: Likely from known diverticulosis of the entire colon.
+   Patient is currently on his 4th unit of PRBC.  will cont to transfuse
+   as patient continues with active bleeding.  Patient with excellent
+   access with 2 large bore IV and a right femoral cordis.
+   - transfuse 1uPRBC per hour while bleeding
+   - check HCT now
+   - 1L IVF now, wide open
+   - f/u GI consult
+   .
+   # MVR: stable
+   .
+   # HTN: hold home bb
+   .
+   # Hyperlipidemia: hold statin for now
+   .
+   # GERD: not on meds at home
+   .
+   # FEN: IVF, replete electrolytes, NPO for now
+   .
+   # Prophylaxis: pneumoboots, bowel regimen
+   .
+   # Access: 2 18g PIV, Right Femoral Cordis
+   .
+   # Code: FULL
+   .
+   # Communication: Patient and wife [**Name (NI) 11182**] (H) [**Telephone/Fax (1) 11183**], (C)
+   [**Telephone/Fax (1) 11184**]
+   .
+   # Disposition: pending above
+
+
+DOC CLASS

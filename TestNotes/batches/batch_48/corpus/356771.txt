@@ -1,0 +1,250 @@
+TITLE:
+   Chief Complaint: GIB, hypoxia
+   24 Hour Events:
+   - increased carvedilol to 12.5mg [**Hospital1 **], will increase to 25 mg [**Hospital1 **]
+   tomorrow if still hypertensive overnight
+   - got iv hydralizine 10mg x1
+   - started on lisinopril 5mg to being this morning
+   - heme/onc recommended UPEP, SPEP and urinary MMA, all pending
+   - had some nausea with TF which were held overnight
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientNo Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2840-1-31**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2840-2-1**] 06:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 35.6
+C (96
+   HR: 94 (71 - 100) bpm
+   BP: 140/64(82) {104/34(52) - 190/81(103)} mmHg
+   RR: 22 (10 - 27) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 46.4 kg (admission): 48.8 kg
+   Height: 60 Inch
+             Total In:
+                                                                  1,800 mL
+                                                                    475 mL
+   PO:
+             TF:
+                                                                    458 mL
+                                                                     81 mL
+   IVF:
+                                                                    317 mL
+                                                                     64 mL
+   Blood products:
+   Total out:
+                                                                    877 mL
+                                                                    295 mL
+   Urine:
+                                                                    877 mL
+                                                                    295 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    923 mL
+                                                                    180 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 284 (284 - 400) mL
+   PS : 10 cmH2O
+   RR (Set): 27
+   RR (Spontaneous): 27
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   PIP: 16 cmH2O
+   SpO2: 98%
+   ABG: ///30/
+   Ve: 8.4 L/min
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: No(t) Crackles : , Bronchial: , No(t) Wheezes : ,
+   Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Tender:
+   Extremities: Right: Trace, Left: Absent
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm, multiple, confluent ecchymoses on LE, back
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): , Movement: Not assessed, Paralyzed, Tone: Not
+   assessed
+   Labs / Radiology
+   48 K/uL
+   10.5 g/dL
+   96 mg/dL
+   0.9 mg/dL
+   30 mEq/L
+   4.2 mEq/L
+   21 mg/dL
+   103 mEq/L
+   137 mEq/L
+   30.9 %
+   4.2 K/uL
+        [image002.jpg]
+                             [**2840-1-26**]  03:07 PM
+                             [**2840-1-27**]  04:35 AM
+                             [**2840-1-27**]  04:12 PM
+                             [**2840-1-28**]  04:49 AM
+                             [**2840-1-28**]  04:57 PM
+                             [**2840-1-29**]  03:59 AM
+                             [**2840-1-29**]  10:15 AM
+                             [**2840-1-30**]  04:44 AM
+                             [**2840-1-31**]  03:26 AM
+                             [**2840-2-1**]  04:38 AM
+   WBC
+   6.6
+   7.2
+   7.7
+   4.1
+   3.9
+   4.2
+   Hct
+   28.4
+   27.0
+   29.4
+   31.8
+   30.6
+   32.5
+   30.8
+   31.6
+   30.9
+   Plt
+   94
+   90
+   81
+   61
+   57
+   48
+   Cr
+   0.9
+   1.1
+   1.0
+   0.9
+   0.9
+   0.9
+   TCO2
+   32
+   Glucose
+   67
+   106
+   120
+   97
+   79
+   96
+   Other labs: PT / PTT / INR:12.0/29.7/1.0, CK / CKMB /
+   Troponin-T:36/2/0.20, ALT / AST:[**8-23**], Alk Phos / T Bili:43/0.3,
+   Differential-Neuts:90.5 %, Band:0.0 %, Lymph:4.7 %, Mono:4.5 %, Eos:0.2
+   %, Fibrinogen:105 mg/dL, Lactic Acid:0.8 mmol/L, Albumin:3.5 g/dL,
+   LDH:284 IU/L, Ca++:8.9 mg/dL, Mg++:2.0 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+ .H/O HYPERTENSION, BENIGN
+ ATRIAL FLUTTER (AFLUTTER)
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ ATRIAL FIBRILLATION (AFIB)
+ IMPAIRED SKIN INTEGRITY
+   82 year old female with CAD s/p CABG and AVR, AF, and COPD on home
+   oxygen, presenting from OSH for management of GI bleed, and hypercarbic
+   respiratory failure, with failure to extubate x3 while admitted.
+   # Hypotension/MS changes:Ipt
+s mental status has greatly improved
+   following the d/c of Ativan. Pt is alert and able to communicate with
+   hand signals on how she is feeling. Pt had episode of MS [**First Name (Titles) **] [**Last Name (Titles) 7214**]
+   2 days ago morning associated with hypotension.  Does not appear to be
+   septic physiology without fevers or positive culture data.  Responded
+   to fluid boluses.  Head CT showed no acute intracranial pathology.
+   - continue to monitor mental status
+   # Hypercarbic Respiratory Failure:  Was extubated [**1-9**] at OSH and
+   retubated here for hypercardibic resp failure, then again extubated and
+   reintubated [**2755-1-15**] with failure extubattion attempt on [**1-22**].  Likely
+   multifactorial
+ PNA, CHF/flash pulmonary edema and underlying COPD.
+   Is s/p trach and PEG [**2840-1-25**].  Has completed 8 day course of
+   Vancomycin/Meropenem
+   - optimizing cardiac status with betablocker and CCB
+   - Will aim for even I/Os today
+   - continue advair, ipratropium, home xopenex, steroids d/c
+ed [**1-24**]
+   - Will trial trachea mask today
+   # Gastrointestinal Bleeding:  No vomiting in >48 hours.  Hct was stable
+   at 30.9.  GI c/s obtained who agreeded that bleeding was not an acute
+   issue and emergent scope not indicated inless GIB worsened.    IP
+   offered to do a scope to look at the PEG site if we want this (however
+   this would not examine the entire abdomen and they don't think the
+   blood is from the PEG site).  Her family is ok with her getting a scope
+   if GI changes their mind. Has recevieved a total of 4units pRBC.
+   - Maintain active type and screen, PICC access
+   - Transfusion goal > 25
+   - PPI [**Hospital1 **]
+   # Thrombocytopenia: Her platlets continued to decrease to a level of
+   48 from 57 (have been as low as 61 previously during this
+   hospitalization and most recently as high as 122 after a plt
+   transfusion.  Per heme onc recs, likely chronic in nature, as far back
+   at [**2837**], discussed with pt
+s son who is the healthcare proxy regarding
+   the possibility of a bone marrow biopsy which he agreed to. UPEP, SPEP,
+   MMA, peripheral smear currently pending.
+   - Continue to trend plts
+   - Transfuse for platelets < 20 or <50 if actively bleeding
+   - Holding ASA and anticoagulation.
+   - UPEP, SPEP, MMA, peripheral smear ordered and pending
+   - Guaiac all stools
+   - HIT antibody x 1 negative, other study is pending
+   # Hypertension: Hypertensive as high as 205 overnight, responded well
+   to IV hydralizine.  SBP
+s this morning in 140
+   - Continue carvedilol and diltiazem as her BP tolerates with higher
+   holding parameters.
+   - carvedilol currently at 12.5mg [**Hospital1 **], will consider increasing to 25mg
+   [**Hospital1 **] if she continues to be hypertensive
+   - Close monitoring as weaning sedation and pain medication
+   # Atrial Fibrillation: Currently rate controlled when comfortable with
+   pain and anxiety control and is otherwise hemodynamically stable.
+   Currently not anticoagulated after GI bleed prior to presentation.
+   - Continue po carvedilol
+   - Consider restarting coumadin once pt has undergone bone marrow biopsy
+   # Coronary Artery Disease: s/p CABG (LIMA to LAD and SVG to RCA).
+   - Restarted carvedilol
+   - Consider restarting ASA once platelets are stable and no evidence of
+   ongoing GI bleed
+   #Back Wound: Patient with stage II ulcer on back from burn injury at
+   [**Location (un) **]. Wound care seen, appreciate recs. Dressings per recs. Stopped
+   steroids (can contribute to skin thinning).
+   # Aortic Valve Replacement (bioprosthetic):  Not anticoagulated.
+   Performed in [**2833**]. TTE here with EF 50%, severe pulm regurg and mild
+   pulm HTN.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2840-1-30**] 07:10 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

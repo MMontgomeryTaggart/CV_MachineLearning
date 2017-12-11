@@ -1,0 +1,199 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   56yo woman with ESRD [**1-11**] membranous GN s/p failed txplant in [**2535**] on
+   low-dose immunosuppression now on PD for ~1 year, rectal sarcoma s/p
+   surgery / XRT, histiocytosis X s/p thymectomy, goiter here with several
+   days of cough, nausea, vomiting and shortness of breath. Found to be
+   very hypertensive (~250/110) and CXR c/w volume overload. She received
+   Levaquin, Vanc, and Ceftriaxone for a possible LLL pneumonia. She was
+   started on IV Labetalol but became bradycardic so was started on
+   Nitroprusside. Renal saw her and initiated emergent PD.
+   24 Hour Events:
+   Allergies:
+   Aspirin
+   pt was told [**Last Name (un) **]
+   Aloe [**First Name4 (NamePattern1) **]
+   [**Last Name (NamePattern1) **];
+   Last dose of Antibiotics:
+   Cefipime - [**2540-9-11**] 06:00 AM
+   Levofloxacin - [**2540-9-11**] 07:53 AM
+   Infusions:
+   Nitroprusside - 1 mcg/Kg/min
+   Labetalol - 2 mg/min
+   Other ICU medications:
+   Dilaudid - [**2540-9-11**] 08:00 PM
+   Ativan - [**2540-9-12**] 12:00 AM
+   Labetalol - [**2540-9-12**] 05:51 AM
+   Other medications:
+   Heparin subQ TID
+   Clonidine 0.3mg/24h qTuesday
+   Levaquin 250mg IV q24h
+   Vanc 1gm IV q24h
+   Calcitriol 0.25mcg q24h
+   Cellcept 500mg q24h
+   Prednisone 5mg q24h
+   Renagel 1600mg TID
+   Protonix 40mg IV BID
+   Nitropaste
+   RSSI
+   Norvasc 10mg q24h
+   Zofran PRN
+   Dilaudid PRN
+   Senna PRN
+   Albuterol neb PRN
+   Docusate PRN
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2540-9-12**] 07:43 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 35.9
+C (96.6
+   HR: 64 (64 - 87) bpm
+   BP: 160/92(108) {139/91(104) - 201/114(136)} mmHg
+   RR: 15 (12 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,908 mL
+                                                                    686 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,558 mL
+                                                                    686 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  3,300 mL
+                                                                    500 mL
+   Urine:
+                                                                     50 mL
+   NG:
+                                                                    750 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,392 mL
+                                                                    186 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 94%
+   ABG: ///28/
+   Physical Examination
+   General: NAD, pleasant.
+   HEENT: Elevated JVP at ~8cm H2O. OP clear.
+   CV: S1S2 RRR w/ a II/VI SEM.
+   Lungs: Clear bilaterally with very mild crackles at the bases and no
+   wheezing.
+   Ab: Positive BS
+s, NT/ND. PD
+   Ext: Chronically edematous left upper extremity. Trace LE edema.
+   Neuro: Alert, oriented, appropriate. No focal deficits.
+   Labs / Radiology
+   7.7 g/dL
+   204 K/uL
+   84 mg/dL
+   14.7 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   83 mg/dL
+   96 mEq/L
+   140 mEq/L
+   24.1 %
+   10.4 K/uL
+        [image002.jpg]
+                             [**2540-9-11**]  12:41 AM
+                             [**2540-9-11**]  06:50 AM
+                             [**2540-9-11**]  02:58 PM
+                             [**2540-9-11**]  07:18 PM
+                             [**2540-9-12**]  04:56 AM
+   WBC
+   10.8
+   11.4
+   10.4
+   Hct
+   21.8
+   24.6
+   25.2
+   24.1
+   Plt
+   [**Telephone/Fax (3) 10330**]
+   Cr
+   16.0
+   14.9
+   14.7
+   TropT
+   0.20
+   0.22
+   Glucose
+   206
+   129
+   84
+   Other labs:
+   PT / PTT / INR:17.0/25.9/1.5,
+   CK / CKMB / Troponin-T:126/4/0.22,
+   ALT / AST:15/17, Alk Phos / T Bili:69/0.3,
+   Lactic Acid:1.1 mmol/L, Albumin:3.1 g/dL, LDH:443 IU/L,
+   Ca++:7.6 mg/dL, Mg++:1.8 mg/dL, PO4:7.5 mg/dL
+   Assessment and Plan
+   56yo woman with ESRD [**1-11**] membranous GN s/p failed txplant in [**2535**] on
+   low-dose immunosuppression now on PD for ~1 year, rectal sarcoma s/p
+   surgery / XRT, histiocytosis X s/p thymectomy, goiter here with several
+   days of cough, nausea, vomiting and shortness of breath found to have
+   significant hypertension.
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+   Volume overload is likely contributing to her presentation and azotemia
+   could explain her nausea / vomiting. She is responding well to
+   aggressive PD. She is on appropriate renal medications, including
+   Cellcept and Prednisone. Appreciate Renal recs and assistance.
+ DYSPNEA (SHORTNESS OF BREATH)
+   Likely [**1-11**] pulmonary edema given her clinical context and radiographic
+   presentation. There is not compelling evidence for a significant
+   pulmonary infection, PE or another acute process. Her SOB has improved
+   with dialysis; I would favor stopping her antibiotics given there is no
+   fever, leukocytosis or symptoms of pneumonia.
+ HYPERTENSION, MALIGNANT (HYPERTENSIVE CRISIS, HYPERTENSIVE EMERGENCY)
+   The etiology of her significant hypertension is likely [**1-11**] nausea and
+   vomiting preventing her taking her oral meds as well as some volume
+   oerload. Her BP has responded well to the combination of nitroprusside
+   IV, nitroglycerine paste and Amlodipine as well as aggressive PD. We
+   will titrate down her nitroprusside and d/c
+ the nitropaste. We will
+   re-introduce her home meds while controlling her nausea with
+   symptomatic meds and continued dialysis. Goal SBP ~150-160mmHg.
+ GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB)
+   Her Hct has fluctuated during this hospitalization, with a nadir of
+   ~22% that responded appropriately to a unit of pRBCs. No e/o acute
+   clinically significant bleeding. Most likely she has some degree of
+   gastritis and inflammation in the setting of her acute presentation
+   accounting for her emesis being guaiac positive. Will follow her Hct
+   [**Hospital1 **].
+   ICU Care
+   Nutrition: NPO for now with nausea / vomiting
+ will advance diet as
+   tolerated.
+   Glycemic Control:  RSSI
+   Lines: 20 Gauge - [**2540-9-11**] 12:04 AM
+   Prophylaxis:
+   DVT: SCDs.
+   Stress ulcer: Protonix IV BID
+ will change to PO when she takes PO
+   VAP: N/A
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition : ICU while on parenteral anti-hypertensives.
+   Total time spent:
+
+
+DOC CLASS

@@ -1,0 +1,298 @@
+Admission Date:  [**3279-3-1**]              Discharge Date:   [**3279-3-3**]
+
+Date of Birth:  [**3231-9-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 7148**]
+Chief Complaint:
+V tach
+
+Major Surgical or Invasive Procedure:
+VT ablation
+
+
+History of Present Illness:
+47 year old man with non-ischemic cardiomyopathy (EF 30%), non
+flow limiting CAD, HTN, hyperchol p/w SOB. Pt was having
+exertional abdominal tightness and SOB for the past 8 weeks. His
+outpt cardiologist Dr [**Last Name (STitle) 2239**] thought that this might be a
+manifestation of angina. Hence pt was getting a stress MIBI test
+to assess for coronary ischemia. Dr [**Last Name (STitle) 2239**] also increased his
+dose of metoprolol and added furosemide 20 qd. Pt says he felt
+better with the furosemide for about a week after seeing Dr
+[**Last Name (STitle) 2239**] but again started to have similar symptoms. Today at the
+stress test the pt was feeling SOB and was found to have a WCT
+even before he started the stress test. He was also diaphoretic.
+He received IV metoprolol 5 x 2 but did not slow down. Hence he
+was sent to the ER.
+
+In ED, initial vitals were 98.4 141 139/102 18 100%/RA. ECG
+showed VT. Later he was hypotensive to 90s. He received amio 150
+Iv x 1 and then went into sinus rhythm. He was thought to have
+pulm edema and recd IV lasix x 1. After about 45 mins he again
+went into VT with SBP down to 80s. He recd another bolus of IV
+amio 150 x 1 and was started on amio drip at that time. He was
+in VT at a HR of around 130 for a couple of hours and then went
+back into sinus rhythm. He also recd metoprolol 5 Iv x 1 and
+morphine 4 IV x1 for back pain.
+
+On floor, patient was feeling fine. Denied SOB, CP, dizziness,
+palpitations.
+
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. he denies recent fevers, chills or rigors.
+he denies exertional buttock or calf pain. All of the other
+review of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain,
+, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+palpitations, syncope or presyncope.  He endorsed dyspnea on
+exertion. Has been using 2 pillows when sleeping at night.
+
+
+Past Medical History:
+Cardiomyopathy--non-ischemic. alcohol and substance abuse is
+mostly likely the cause
+Coronary artery disease--non flow limiting lesions
+hypertension
+depression
+anxiety
+history of herniated disc L5-S1 with two back surgeries, one in
+[**3268**] and one in [**3270**]
+status post right ankle surgery in [**3272**]
+
+CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+
+CARDIAC HISTORY:
+-CABG:  none
+-PERCUTANEOUS CORONARY INTERVENTIONS:  none
+-PACING/ICD:  none
+
+
+Social History:
+The patient lives with his wife and 11-year-old
+daughter.  [**Name (NI) **] has four kids.  He is originally from
+[**State 1289**].  He works in building maintenance for the [**Location (un) 4711**]
+Group in the [**Hospital1 449**].  He quit using alcohol and using cocaine
+four years ago and he now endorses smoking three-quarters of a
+pack of cigarettes per day.  He denies any history of
+intravenous
+drug use.  He is monogamous with one sexual partner, his wife.
+
+
+Family History:
+The patient's father died of MI when he was in
+his 40s.  No other family history.
+
+
+Physical Exam:
+VS:  98 120/89  15  103  98/RA
+GENERAL: WDWN male in NAD. Lying in bed with head elevated.
+Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVD midneck.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles. Had
+b/l mild wheezes.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**3279-3-1**] 09:35PM   POTASSIUM-4.9
+[**3279-3-1**] 05:46PM   GLUCOSE-126* UREA N-22* CREAT-1.2 SODIUM-138
+POTASSIUM-6.2* CHLORIDE-101 TOTAL CO2-28 ANION GAP-15
+[**3279-3-1**] 05:46PM   cTropnT-0.13*
+[**3279-3-1**] 05:46PM   CALCIUM-9.1 PHOSPHATE-2.7 MAGNESIUM-1.9
+[**3279-3-1**] 05:46PM   PT-17.3* PTT-30.6 INR(PT)-1.6*
+[**3279-3-1**] 10:15AM   GLUCOSE-181* LACTATE-2.8* NA+-141 K+-5.0
+CL--98* TCO2-21
+[**3279-3-1**] 10:10AM   GLUCOSE-207* UREA N-19 CREAT-1.0 SODIUM-139
+POTASSIUM-5.1 CHLORIDE-102 TOTAL CO2-24 ANION GAP-18
+[**3279-3-1**] 10:10AM   CK(CPK)-116
+[**3279-3-1**] 10:10AM   CK-MB-6
+[**3279-3-1**] 10:10AM   CK-MB-6
+[**3279-3-1**] 10:10AM   CALCIUM-9.4 PHOSPHATE-3.0 MAGNESIUM-2.0
+[**3279-3-1**] 10:10AM   WBC-10.4 RBC-5.97 HGB-18.3* HCT-56.3* MCV-94
+MCH-30.6 MCHC-32.5 RDW-14.0
+[**3279-3-1**] 10:10AM   NEUTS-68.1 LYMPHS-26.0 MONOS-4.6 EOS-0.7
+BASOS-0.6
+[**3279-3-1**] 10:10AM   PLT COUNT-183
+[**3279-3-1**] 10:10AM   PT-15.9* PTT-30.9 INR(PT)-1.4*
+
+ECG: Wide complex tach, likely V tach of fascicular origin at
+150 bpm.
+
+TTE: The left atrial volume is markedly increased (>32ml/m2).
+The right atrium is markedly dilated. There is mild symmetric
+left ventricular hypertrophy. The left ventricular cavity is
+moderately dilated. There is severe regional left ventricular
+systolic dysfunction with akinesis of the inferior and
+inferolateral segments and hypokinesis of all other segments.
+The anterior septum and anterior wall have relatively preserved
+function.. There is no ventricular septal defect. The right
+ventricular cavity is mildly dilated with mild global free wall
+hypokinesis. The aortic root is mildly dilated at the sinus
+level. The ascending aorta is mildly dilated. The number of
+aortic valve leaflets cannot be determined. There is no aortic
+valve stenosis. No aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. An eccentric, posteriorly
+directed jet of mild to moderate ([**11-25**]+) mitral regurgitation is
+seen. There is borderline pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**3276-3-12**],
+the left ventricle is more dilated and overall ejection fraction
+is significantly lower. The inferior and inferolateral segments
+were moderately hypokinetic and are now akinetic, the other
+segments were mild hypokinetic and now are more severely
+hypokinetic. The degree of mitral regurgitation has increased.
+
+Brief Hospital Course:
+# Wide complex tachycardia: Pt with first documented episode of
+V tach. Has h/o non-ischemic cardiomyopathy and was having SOB
+since past 2 months. Likely was having pulm edema causing SOB as
+he did feel better after starting furosemide by his outpt
+cardiologist. Patient required lidocaine boluses and lidocain
+drip for night prior to VT ablation in order to keep him in
+sinus rhythm. He underwent VT ablation [**3279-3-2**] after which he
+remained in NSR aside from 10beat run of NSVT on telemetry
+overnight. This run of NSVT was at a faster rate than his prior
+episodes and was thought to be from a different focus. This
+could be a result of his cardiomyopathy.
+
+# Cardiomyopathy: On TTE this admission he had worsened EF and
+WMA as compared to prior in [**3275**]. This may have been [**12-26**]
+tachycardia from VT for several weeks, however, it may also be
+from CAD. He will have a CMR as an outpatient to assess for
+scar. He may also benefit from a viability study to ascertain
+whether a cardiac cath and reperfusion could increase his pump
+function. If his EF does not improve in the next few months
+while he remains in NSR and is maximally medically managed if
+his EF doesnt improve, he may need AICD in the future. Will
+continue ACE, statin, aspirin, and beta blocker as outpatient.
+
+# Hypertension: Continued home enalapril
+
+# Hyperlipidemia: Continued home atorvastatin
+
+# Chronic back pain: Continued home percocet
+
+# CODE: full
+
+
+Medications on Admission:
+ATORVASTATIN - 10 mg qd
+ENALAPRIL MALEATE - 20 mg qd
+FUROSEMIDE - 20 mg qd
+IBUPROFEN - 800 mg tid prn
+METOPROLOL SUCCINATE [TOPROL XL] - 50 mg qd
+MUPIROCIN - 2 % Ointment
+OXYCODONE-ACETAMINOPHEN [PERCOCET] - 5 mg-325 mg Tablet - 1- 2
+Tablet(s) q8 prn
+ZOLPIDEM - 10 mg Tablet qhs prn
+ASPIRIN - 325 mg Tablet,qd
+OMEPRAZOLE MAGNESIUM [PRILOSEC OTC] - 20 mg qd
+
+
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Enalapril Maleate 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime)
+as needed.
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+7. Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily) for 7 weeks.
+Disp:*30 Patch 24 hr(s)* Refills:*2*
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q6H (every 6 hours) as needed for back pain.
+9. Motrin 800 mg Tablet Sig: One (1) Tablet PO three times a day
+as needed for pain.
+10. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+12. Ativan 0.5 mg Tablet Sig: 1-2 Tablets PO every six (6) hours
+as needed for anxiety.
+Disp:*15 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnoses:
+VT
+Non-ischemic cardiomyopathy
+Chronic systolic heart failure
+Viral syndrome
+Tobacco Use
+
+
+Discharge Condition:
+The patient was afebrile and hemodynamically stable prior to
+discharge.
+
+
+Discharge Instructions:
+You were admitted to the hospital with an abnormal heart rate.
+You had a procedure to fix this heart rate. Your heart has been
+in a normal rhythm since that procedure.  You will need to be
+seen by your primary cardiologist Dr. [**Last Name (STitle) 2239**] to discuss the
+possibility of a follow up echocardiogram and/or cardiac MRI.
+You may be called to schedule the cardiac MRI prior to your
+appointment with Dr. [**Last Name (STitle) 2239**].
+
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+
+Medication Changes:
+START: Nicotine patch 21mg daily for 7 weeks then cut down to
+14mg patch
+START: Spironolactone 25mg daily
+
+Please continue to take your other home medications, including
+toprol XL, lasix, atorvastatin, enalapril, and aspirin as
+prescribed.
+
+Please come back to the hospital or call your doctor if you have
+chest pain, palpitations, extreme fatigue, shortness of breath,
+fainting or near-fainting, dizziness, light-headedness,
+abdominal pain, nausea, leg swelling, weight gain more than 3lbs
+in one day or any other concerning symptoms.
+
+Followup Instructions:
+Please follow up with your PCP, [**Last Name (NamePattern4) 21**]. [**Last Name (STitle) **], on [**3279-3-21**] at 4pm.
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 854**] Date/Time:
+[**3279-4-10**] 9:20 to discuss whether you will need an echocardiogram
+and to schedule a cardiac MRI.
+
+
+
+Completed by:[**3279-3-3**]
+
+DOC CLASS

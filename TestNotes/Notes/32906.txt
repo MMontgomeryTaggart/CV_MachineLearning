@@ -1,0 +1,257 @@
+Admission Date:  [**2715-11-16**]              Discharge Date:   [**2715-11-25**]
+
+Date of Birth:  [**2650-12-4**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+jaw pain with exertion
+
+Major Surgical or Invasive Procedure:
+CABGx4(LIMA-LAD,SVG-OM1,SVG-OM3,SVG-Pda)[**11-18**]
+
+
+History of Present Illness:
+64 yo M with 6 months of jaw pain and DOE. Cath showed 3 vd.
+
+Past Medical History:
+HTN, ^ chol, DM type 2, ETOH 2-3d
+
+Social History:
+manages sporting goods store
+3 cigars/day for 40 years, quit 4 years ago
+[**1-2**] etoh/day
+
+Family History:
+NC
+
+Physical Exam:
+HR 53 RR 18 BP 148/74
+NAD
+EOMI PERRLA
+Lungs CTAB
+Heart RRR
+Abdomen Benign, obese
+Extrem 1+ edema, 1+ dp/pt pulses
+
+Pertinent Results:
+[**2715-11-24**] 09:15AM BLOOD WBC-8.2 RBC-2.51* Hgb-8.4* Hct-24.7*
+MCV-99* MCH-33.6* MCHC-34.1 RDW-15.3 Plt Ct-237
+[**2715-11-24**] 09:15AM BLOOD Plt Ct-237
+[**2715-11-22**] 06:15AM BLOOD PT-12.5 PTT-25.6 INR(PT)-1.1
+[**2715-11-24**] 09:15AM BLOOD Glucose-208* UreaN-65* Creat-2.0* Na-137
+K-3.5 Cl-97 HCO3-31 AnGap-13
+[**2715-11-22**] 06:15AM BLOOD Glucose-138* UreaN-66* Creat-2.1* Na-142
+K-4.0 Cl-101 HCO3-27 AnGap-18
+[**11-16**] TYPE-ART PO2-52* PCO2-45 PH-7.46* TOTAL CO2-33* BASE XS-6
+
+CHEST (PORTABLE AP)  [**2715-11-22**] 7:52 AM
+
+CHEST (PORTABLE AP)
+
+Reason: evaluate effusion
+
+UNDERLYING MEDICAL CONDITION:
+64 year old man with s/p cabg
+REASON FOR THIS EXAMINATION:
+evaluate effusion
+REASON FOR EXAMINATION: Followup of a patient after CABG.
+
+Portable AP chest radiograph compared to [**2715-11-19**].
+
+The cardiomediastinal silhouette is unchanged. The sternal wires
+are unremarkable. The bibasilar areas of atelectasis are present
+slightly improved since the previous study. There is no
+appreciable pleural effusion or pneumothorax.
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 25038**]       TEE (Complete)
+Done [**2715-11-18**] at 1:14:15 PM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4615**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**2650-12-4**]
+Age (years): 64 M  Hgt (in): 73
+BP (mm Hg): /  Wgt (lb): 250
+HR (bpm):  BSA (m2): 2.37 m2
+Indication: Intra-op TEE for CABG
+ICD-9 Codes: 786.51, 440.0
+Test Information
+Date/Time: [**2715-11-18**] at 13:14    Interpret MD: [**Name6 (MD) 12820**]
+[**Name8 (MD) 11629**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 652**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 9027**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW02-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.4 cm  <= 4.0 cm
+Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  50%  >= 55%
+Aorta - Annulus:  2.5 cm  <= 3.0 cm
+Aorta - Sinus Level:  *4.2 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  3.0 cm  <= 3.0 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Aorta - Arch:  2.6 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.7 cm  <= 2.5 cm
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Dynamic interatrial septum. No
+ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Low
+normal LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Moderately dilated aortic sinus. Normal ascending aorta
+diameter. Normal aortic arch diameter. Mildly dilated descending
+aorta. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. No AS. No AR.
+
+MITRAL VALVE: No MS. Mild (1+) MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+
+Conclusions
+PRE-BYPASS:
+1. The left atrium is moderately dilated. No atrial septal
+defect is seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses and cavity size are normal.
+Overall left ventricular systolic function is low normal (LVEF
+50-55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The aortic root is moderately dilated at the sinus level. The
+descending thoracic aorta is mildly dilated. There are simple
+atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. There is no aortic
+valve stenosis. No aortic regurgitation is seen.
+6. Mild (1+) mitral regurgitation is seen.
+
+POST-BYPASS: Pt is on an infusion of phenylephrine and is being
+A paced
+
+1. [**Hospital1 8**]-ventricular function is uncahnged.
+2. Aorta is intact post decannulation
+3. Other findings are unchanged
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 4872**] was admitted to cardiac surgery. Preoperatively he was
+87% saturated on room air. He was seen and followed by renal
+preop and postop. He was taken to the operating room on [**11-18**]
+where he underwent a CABG x 4. He was transferred to the ICU on
+propofol and neo. He was given 48 hours of periop vancomycin as
+he was in the hospital preoperatively. He was extubated on POD
+#1, and transferred to the floor on POD #2. He did well
+postoperatively, and was ready for discharge home on POD #7.Pt.
+is to make all followup appts. as per discharge instructions.
+
+Medications on Admission:
+NPH insulin 34", humalog SS, Glucosamine and chondrotin, fish
+oil 1200', cozaar 50 qam, 100 qpm, lasix 80", clonidine 0.1",
+lovastatin 80', allopurinol 150", gabapentin 300 qam, 3pm, 900
+qhs
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+7. Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Ferrous Gluconate 300 mg (35 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+10. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*0*
+11. Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*0*
+12. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Thirty
+Four (34) units Subcutaneous twice a day.
+Disp:*QS 1 month* Refills:*0*
+13. Insulin Lispro 100 unit/mL Solution Sig: sliding scale
+Subcutaneous twice a day.
+Disp:*qs 1 month* Refills:*0*
+14. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+15. Allopurinol 300 mg Tablet Sig: 0.5 Tablet PO twice a day.
+Disp:*30 Tablet(s)* Refills:*0*
+16. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q12H
+(every 12 hours).
+Disp:*60 Capsule(s)* Refills:*0*
+17. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company **]
+
+Discharge Diagnosis:
+CAD now s/p CABG
+HTN, ^ chol, DM type 2, CRI
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds or driving until follow up with
+surgeon.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 7567**] 2 weeks
+Dr. [**Last Name (STitle) 13837**] 2 weeks
+Dr. [**Last Name (STitle) **] 4 weeks
+Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] at the end of [**Month (only) 314**] - call [**Telephone/Fax (1) 3391**] for
+appointment
+
+
+
+Completed by:[**2715-11-25**]
+
+DOC CLASS

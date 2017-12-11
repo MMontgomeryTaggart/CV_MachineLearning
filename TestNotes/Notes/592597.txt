@@ -1,0 +1,312 @@
+Chief Complaint:
+   24 Hour Events:
+   - d/c
+ed IABP, pacer wire.  Arterial line placed.
+   - pt weaned off levofed
+   - d/c'ed lidocaine; continued amiodarone.
+   - pt diuresed on lasix gtt with good UOP, but limited by BP.
+   - Prelim CT head and C-spine was neg for acute ICH, edema or fracture
+   - CT chest showed complete colapse of LLL likely [**1-19**] secretions, and
+   RLL atelectasis, multiple rib fx ribs [**12-22**] anteriorly and 9 posteriorly,
+   and inflammation around pancreas.
+   - Pt with hypoxia to 88% on FiO2 100%. PEEP increased to 18.
+   - ETT advanced to 27cm at gum line.
+   - sats continued in 89 -low 90s.  COPIUS secretions.  sputum cx sent.
+   Recruitement manuever performed.  Pulm perfomed bronch for mucus
+   plugging.  Removed large amount secretions, but limited by HoTN.
+   Recommended possible esophageal balloon in AM to titrate PEEP
+   - pt sedated with propofol to synchronize on vent, SBP dropped to 70s
+   and dopamine was increased to 15 and subsequently weaned to 7.5.
+   - Neuro --> no purposeful movements on exam.  EEG read pending.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Amiodarone - 1 mg/min
+   Furosemide (Lasix) - 15 mg/hour
+   Dopamine - 7.5 mcg/Kg/min
+   Propofol - 35 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2714-4-15**] 10:45 AM
+   Heparin Sodium (Prophylaxis) - [**2714-4-15**] 10:44 PM
+   Other medications:  ASA 325, atorvastatin 80, heparin sq TID, insulin
+   sliding scale, tylenol prn,
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2714-4-16**] 06:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37.6
+C (99.6
+   HR: 87 (64 - 93) bpm
+   BP: 97/52(65) {89/52(62) - 128/72(102)} mmHg
+   RR: 28 (20 - 33) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+    PAP: (42 mmHg) / (29 mmHg)
+   Total In:
+                                                                  2,782 mL
+                                                                    813 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,692 mL
+                                                                    653 mL
+   Blood products:
+   Total out:
+                                                                  3,580 mL
+                                                                    565 mL
+   Urine:
+                                                                  3,245 mL
+                                                                    540 mL
+   NG:
+                                                                    335 mL
+                                                                     25 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -798 mL
+                                                                    248 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/AutoFlow
+   Vt (Set): 650 (650 - 650) mL
+   RR (Set): 18
+   RR (Spontaneous): 14
+   PEEP: 18 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10, FiO2 > 60%
+   PIP: 30 cmH2O
+   Plateau: 28 cmH2O
+   Compliance: 65 cmH2O/mL
+   SpO2: 94%
+   ABG:
+                                     pH
+                                    7.42
+                                    pCO2
+                                     35
+                                     pO2
+                                     68
+                                    HCO3
+                                     23
+                                   BaseXS
+                                      0
+   7.44/37/89/24/0
+   Ve: 23 L/min
+   PaO2 / FiO2: 148
+   Physical Examination
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4, No(t)
+   Rub, (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: No(t)
+   Crackles : , No(t) Bronchial: , No(t) Wheezes : ), ventilated breath
+   sounds
+   Abdominal: Soft, No(t) Bowel sounds present
+   Skin:  Not assessed
+   Neurologic: Responds to: Unresponsive, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology (labs [**2714-4-16**]
+ still pending)
+   157 K/uL
+   12.7 g/dL
+   89 mg/dL
+   4.7 mg/dL
+   24 mEq/L
+   4.3 mEq/L
+   76 mg/dL
+   103 mEq/L
+   139 mEq/L
+   36.5 %
+   13.6 K/uL
+        [image002.jpg]
+                             [**2714-4-15**]  06:04 AM
+                             [**2714-4-15**]  07:28 AM
+                             [**2714-4-15**]  11:26 AM
+                             [**2714-4-15**]  03:43 PM
+                             [**2714-4-15**]  04:22 PM
+                             [**2714-4-15**]  08:49 PM
+                             [**2714-4-15**]  10:00 PM
+                             [**2714-4-15**]  10:38 PM
+                             [**2714-4-15**]  10:43 PM
+                             [**2714-4-16**]  12:46 AM
+   Cr
+   4.5
+   4.5
+   4.7
+   TCO2
+   26
+   26
+   22
+   27
+   27
+   26
+   Glucose
+   98
+   102
+   90
+   94
+   95
+   112
+   89
+   Other labs: PT / PTT / INR:14.0/27.5/1.2,
+    CK / CKMB / Troponin-T:1194/13/0.22,
+   Amylase / Lipase:846/870, Differential-Neuts:87.9 %, Lymph:8.9 %,
+   Mono:2.7 %, Eos:0.2 %, Lactic Acid:1.5 mmol/L,
+   Ca++:9.5 mg/dL, Mg++:2.1 mg/dL, PO4:4.2 mg/dL
+   Imaging:
+   CT Head: (final) 1. No evidence of acute intracranial hemorrhage or
+   major territorial infarct is apparent. Of note, MRI with
+   diffusion-weighted sequences are more sensitive for evaluation of acute
+   ischemia.
+   2. Extensive sinus disease.
+   CT C-spine: (final)
+   1. No evidence of acute fracture or traumatic malalignment.
+   2. Mild to moderate multilevel degenerative changes with central canal
+   narrowing from posterior disc osteophyte complexes. Severe assymetric
+   facetjoint degenerative disease on the left at C3-4.
+   3. Extensive sinus disease. Dedicated CT sinus may be obtained to
+   furtherevaluate as indicated.
+   CT Chest: (prelim)
+   1. Complete collapse of the left lower lobe and partial collapse of the
+   right lower lobe, likely secondary to secretions. Small bilateral
+   pleural effusions.
+   2. Diffuse stranding around the body and tail of the pancreas which is
+   concerning for pancreatitis. Clinical correlation is recommended. If
+   there is clinical concern for pancreatitis, a CT of the abdomen may be
+   obtained for further characterization.
+   3. Bilateral indeterminate low-density lesions within the kidneys
+   bilaterally which statistically most likely represent renal cysts. An
+   ultrasound may be obtained for further characterization.
+   4. Multiple right-sided rib fractures involving ribs one through five
+   anteriorly and possible fracture of rib nine posteriorly.
+   Microbiology:
+   Sputum cx
+ contaminated.
+   Assessment and Plan
+   Mr. [**Name13 (STitle) 5931**] is a 62 yo man with CAD, CKD, DM who presents with
+   cardiac arrest.
+   .
+   # Cardiac arrest. Most likely primary arrhythmic event from possible
+   hyperkalemia rather than secondary to ischemia.  Pt s/p multiple
+   episodes of refractory VT and repeated cycles of CPR/shocks. d/c
+   lidocaine gtt yesterday w/o further episodes of VT/arrhythmia.
+   - continue amiodarone drip at 1mg/min
+   - ACLS & lidocaine if recurs
+   .
+   # Hypoxia/respiratory failure:  pt with copious secretion and collapse
+   of the LLL likely causing difficulty with hypoxia during the day
+   yesterday.  s/p bronch by pulm and repeated suctioning to remove
+   secretions.  Recruitment maneuver attempted yesterday but was
+   unsuccessful [**1-19**] HoTN.  Likely etiology aspiration pneumonitis with
+   some component of volume overload . Also consider infection given
+   copious secretions but this less likely. Was started on propofol
+   yesterday given concern for dysynchronous bretahing, but unclear that
+   propofol improved his respiratory status or rate. FiO2 weaned to 70%.
+   PEEP increased to 18.
+   - f/u pulm recs
+   - t/c BAL today to assess for infection
+   - t/c esophageal balloon to assess optimal peep pressures.
+   - wean PEEP and FiO2 as able
+   - d/c propofol and continuously eval need for sedation
+   - f/u CXR
+   - diuresis as below
+   - optimize respiratory mechanics
+ ie hypoxia improved with Left side
+   up.
+   .
+   # Cardiogenic shock: may be related to VT versus ischemia.  Pt still
+   requiring pressors overnight. Still has Swan in place, but without
+   clear utility at this point.
+   - will attempt to wean dopamine today
+   - d/c Swan today
+   - ECHO today
+   .
+   # Coronary artery disease: LAD and RCA occlusions appeared to be old
+   - continue ASA
+   - d/c statin given likely elevation in LFT
+s and short-tern risk vs
+   benefit analysis
+   - check LFTs
+   - echo to eval for ischemia.
+   .
+   # Hyperkalemia: resolved.  Thought to be primary from ARF & ACE given
+   history, but also possibly secondary to acidosis
+   - monitor K [**Hospital1 **].
+   .
+   # Mental status: has signs of severe CNS injury with bleak prognosis
+   (decerebrate posturing; babinski, dilated pupils, oculocephalics not
+   intact); likely anoxic brain injury.  CT head neg for ICH.  Most likely
+   [**1-19**] to hypoperfusion. No improvement in exam noted since admission
+   - EEG pending
+   - d/c propofol
+   - neuro recs appreciated.
+   - will likely need to obtain MRI
+   .
+   # Tongue twitching: neurology c/s feels this is likely myoclonus.
+   Seizure also on ddx
+   - f/u EEG read
+   .
+   # Acute renal failure: likely due hypoperfusion in setting of cardiac
+   arrest.  [**Month (only) 8**] develop ATN.  Still with good UOP.
+   - monitor I/O
+   - pt may require CVVH but no need for RRT at this time
+   - appreciate renal recs
+   - hold nephrotoxins
+   - cont lasix gtt with bolus of lasix 60 IV this am.  Goal negative 1-2L
+   today
+   .
+   # Pancreatitis: inflammation surrounding the pancreas noted
+   incidentally on  CT chest.  Lipase elevated at 870 last night but down
+   to 299 this am.  Pt s/p 7L of fluid
+   - will limit further fluid resuscitation given difficulty with resp
+   status.
+   - trend lipase
+   .
+   # Hypercholesterolemia:
+   - d/c statin as discussed above
+   .
+   # Diabetes: insulin gtt d/c
+ed overnight. Pt on humalog insulin sliding
+   scale.
+   - continue HISS
+   .
+   # PPX: heparin SQ, PPI
+   .
+   # Code: full.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2714-4-14**] 03:00 PM
+   18 Gauge - [**2714-4-14**] 03:00 PM
+   Cordis/Introducer - [**2714-4-14**] 03:40 PM
+   PA Catheter - [**2714-4-14**] 03:40 PM
+   Arterial Line - [**2714-4-15**] 09:00 AM
+   Prophylaxis:
+   DVT:  hep SQ
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   Chart reviewed.  Patient interviewed and examined.  I agree with Dr.
+   [**First Name (STitle) **]
+s H+P, A+P.  Reviewed in detail with patient
+s family.  60 minutes
+   spent on patient critical care.  ICU level care secondary to patient
+   intubated status.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 407**], MD
+   on:[**2714-4-16**] 12:37 ------
+
+
+DOC CLASS

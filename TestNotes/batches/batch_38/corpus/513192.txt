@@ -1,0 +1,184 @@
+Chief Complaint: Hypertension
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 yo women h/o lupus, ESRD from lupus nephritis, multiple admissions
+   for severe HTN.  Presented to ED on Monday with 1 wk of right leg pain,
+   SBP to 250s.  Left AMA.  Returned yesterday.  BP 237/146.  Took all
+   meds.  Received 90mg IV labetolol.  Then placed on labetolol drip.
+   When SBP to 180s, became nauseated, so stopped drip.  Also received
+   morphine for pain and bactrim for UTI.  Overnight received home po meds
+   and improved BP.
+   24 Hour Events:
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   labetolol
+   prednison 5 mg
+   coumadin
+   protonix
+   tecturna
+   hydral
+   clonidine
+   colace
+   cipro
+   vitamin D
+   nefedipine
+   Changes to medical and family history:
+   FMHx:  No autoimmune diseases
+   PMHx.  Lupus since age 16, treated with cytoxan and prednisone
+   previously.  Of all dialysis for 1 year.   Is supposed to start
+   peritoneal dialysis.
+   Left eye uveitis requiring replace of left eye.
+   Seizures with HTN in past.
+   SVC thrombus
+   hypertrophic CM (HOCM)
+   pancytopenia
+   Home meds:
+   Labelol 900 tid
+   nifedipine 60 qhs
+   hyrdral 50mg tid
+   clonidine patch 0.3
+   tecturna 150mg [**Hospital1 **]
+   vitamin D
+   prednisone 5mg
+   coumadin
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fatigue
+   Eyes: No(t)  Blurry vision
+   Ear, Nose, Throat: No(t) Dry mouth
+   Cardiovascular: No(t) Chest pain
+   Respiratory: No(t) Dyspnea
+   Gastrointestinal: Nausea
+   Genitourinary: No(t) Dysuria
+   Integumentary (skin): No(t) Rash
+   Endocrine: No(t) Hyperglycemia
+   Heme / Lymph: Anemia
+   Neurologic: No(t) Headache, leg pain - posterior thigh and calf
+   Psychiatric / Sleep: No(t) Agitated
+   Allergy / Immunology: No(t) Immunocompromised
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**3354-8-7**] 09:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.4
+C (97.5
+   HR: 87 (85 - 95) bpm
+   BP: 181/111(127) {149/97(114) - 212/141(159)} mmHg
+   RR: 16 (14 - 32) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 59 Inch
+                  Total In:
+                                                                    250 mL
+                                                                    200 mL
+   PO:
+                                                                    250 mL
+                                                                    200 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    150 mL
+                                                                    300 mL
+   Urine:
+                                                                    150 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    100 mL
+                                                                   -100 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///15/
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), Rub
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed, Weekness on leg
+   flexion
+   Labs / Radiology
+   6.1 g/dL
+   116 K/uL
+   93 mg/dL
+   7.9 mg/dL
+   15 mEq/L
+   5.1 mEq/L
+   52 mg/dL
+   110 mEq/L
+   136 mEq/L
+   18.6 %
+   3.5 K/uL
+        [image002.jpg]
+                             [**3354-8-7**]  03:20 AM
+   WBC
+   3.5
+   Hct
+   18.6
+   Plt
+   116
+   Cr
+   7.9
+   Glucose
+   93
+   Other labs: PT / PTT / INR:23.3/49.6/2.3, Ca++:7.3 mg/dL, Mg++:1.7
+   mg/dL, PO4:6.1 mg/dL
+   Imaging: CXR: Mild pulmonary edema
+   L-S spine:  No fractures
+   ECG: Sinus rhythm.
+   Assessment and Plan
+   HTNsive urgency:  Likely related to the pain.  No better with pain
+   control.
+   Leg pain:  Associated with weakness, likely sciatica with possible
+   radiculopathy.  MRI of LS spoke and sciatic nerve.  Hip films.
+   Chronic renal failure:  To initiate PD.
+   Anemia:  Can transfuse once starting dialysis.
+   UTI:  Cipro given renal failure
+   SVC thrombus:  Continue home warfarin
+   Lupus: Home prednisone dose
+   ICU Care
+   Nutrition:
+   Comments: Low Na diet
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3354-8-7**] 12:30 AM
+   Dialysis Catheter - [**3354-8-7**] 08:00 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 35 minutes
+
+
+DOC CLASS

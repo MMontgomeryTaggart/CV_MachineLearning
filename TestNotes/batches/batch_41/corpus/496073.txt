@@ -1,0 +1,255 @@
+Chief Complaint: Hypercarbic Respiratory failure
+   24 Hour Events:
+   - Continued lasix gtt, but limited by SBP of 100s and contraction alk
+   - ABG 7.39/65/131/39
+   - decreased from 50% FIO2 to 35%
+   - Doing NIF in the mornintg if he cooperates and wakes up a bit
+   - HCT trending down, was 21.2 in pm, repeat at midnight was.... and he
+   was transfused... units pRBC
+   - Received K for K of 3.5 in afternoon
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Meropenem - [**2603-9-12**] 04:08 AM
+   Ampicillin/Sulbactam (Unasyn) - [**2603-9-14**] 04:00 AM
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2603-9-13**] 09:00 AM
+   Heparin Sodium (Prophylaxis) - [**2603-9-14**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2603-9-14**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36
+C (96.8
+   HR: 97 (81 - 104) bpm
+   BP: 107/48(62) {81/41(51) - 116/61(71)} mmHg
+   RR: 14 (11 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+             Total In:
+                                                                  2,810 mL
+                                                                  1,028 mL
+   PO:
+             TF:
+                                                                  1,200 mL
+                                                                    353 mL
+   IVF:
+                                                                    960 mL
+                                                                    306 mL
+   Blood products:
+   Total out:
+                                                                  3,370 mL
+                                                                  1,030 mL
+   Urine:
+                                                                  3,220 mL
+                                                                  1,030 mL
+   NG:
+   Stool:
+                                                                    150 mL
+   Drains:
+   Balance:
+                                                                   -560 mL
+                                                                     -1 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 550 (341 - 550) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI: 28
+   SpO2: 100%
+   ABG: 7.39/62/131/34/10
+   Ve: 8.2 L/min
+   PaO2 / FiO2: 374
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   265 K/uL
+   7.2 g/dL
+   91 mg/dL
+   0.5 mg/dL
+   34 mEq/L
+   4.3 mEq/L
+   16 mg/dL
+   97 mEq/L
+   133 mEq/L
+   21.5 %
+   10.1 K/uL
+        [image002.jpg]
+                            [**2603-9-9**]  05:45 PM
+                            [**2603-9-10**]  04:13 AM
+                            [**2603-9-11**]  06:00 AM
+                            [**2603-9-12**]  12:22 AM
+                            [**2603-9-12**]  03:42 AM
+                            [**2603-9-12**]  04:56 PM
+                            [**2603-9-13**]  03:28 AM
+                            [**2603-9-13**]  02:44 PM
+                            [**2603-9-13**]  04:49 PM
+                            [**2603-9-14**]  12:30 AM
+   WBC
+   8.9
+   11.1
+   12.1
+   13.8
+   11.6
+   10.5
+   10.1
+   Hct
+   25.4
+   26.5
+   27.4
+   26.5
+   25.0
+   22.6
+   21.2
+   21.5
+   Plt
+   [**Telephone/Fax (3) 5914**]
+   265
+   Cr
+   0.6
+   0.4
+   0.5
+   0.5
+   0.5
+   0.5
+   0.5
+   TCO2
+   39
+   Glucose
+   116
+   94
+   146
+   99
+   121
+   101
+   91
+   Other labs: PT / PTT / INR:13.7/28.4/1.2, CK / CKMB /
+   Troponin-T:19/4/0.12, ALT / AST:33/30, Alk Phos / T Bili:54/0.4,
+   Amylase / Lipase:24/10, Differential-Neuts:55.0 %, Band:0.0 %,
+   Lymph:16.4 %, Mono:7.2 %, Eos:21.2 %, D-dimer:881 ng/mL, Fibrinogen:386
+   mg/dL, Lactic Acid:0.8 mmol/L, LDH:145 IU/L, Ca++:7.7 mg/dL, Mg++:2.1
+   mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   Assessment and Plan
+   Pt is a 75 year old male with many medical problems, admitted initially
+   [**7-16**] with surgical wound infection, with hospital course complicated by
+   PNA, NSTEMI, who was transferred to MICU with shock, intubated [**2603-8-22**]
+   for hypercarbic respiratory failure and aspiration, now s/p
+   tracheostomy, now with PNA and hypercarbic respiratory failure.
+   Hypercarbic Respiratory Failure/PNA/Pleural effusions: Patient
+   intubated [**8-22**] for hypercarbic respiratory failure secondary to
+   pulmonary infection (which has now resolved), prior history of COPD,
+   OSA, altered mental status, and likely aspiration of tube feeds, Now
+   with trach [**8-30**], on trach mask until [**9-5**], back on vent for hypercarbic
+   resp failure in setting of RUL PNA.
+   s/p 14 day course meropenem for klebseilla PNA ([**Date range (1) 5489**])
+   IP removed L pigtail, Rt removed [**9-3**].
+   R pleural fluid with GPC, pH >8; previously sent fluid showed
+   acinetobacter.  likely colonization
+   - Thoracentesis on [**9-9**].5L removed. Patient has resultant basalar
+   pneumothorax, on fio100%, getting frequent CXR.
+   - remained on PS 5/5, will continue
+   - Linezolid (day 1 [**9-4**], switched from daptomycin [**Date range (1) 5764**])
+   - Unasyn to cover acinetobacter. Day 1: [**9-8**]. for 8 day course
+   - Discontinue Meroponem for Klebsiella in pleural fluid: (day 1 [**9-5**]) ,
+   - on lasix. Will make goal -500 to 1L. Completed acetazolamide doses.
+   - repeat ABG or VBGs today
+    Anemia: Hct has been trending down, received 1 unit PRBs [**2603-9-5**].
+   ordered 1 unit PRBCs [**9-9**] for hct of 19, bumped appropriately to 26
+   - transfuse for <21. Blood instead of NS for bolus
+   - Recheck HCT today.
+    Acute on Chronic Diastolic CHF: Diastolic, preserved EF. Total body
+   fluid overloaded, on lasix gtt
+   - I/O -.5-1 L.  putting out well with drip.
+   - lasix gtt
+   - Lytes [**Hospital1 **]
+     Eosinophilia: Last checked was 23% - 2760 absolute
+   - f/u strongloydes
+ still pending
+     PVD/Necrotic foot: All plans for AKA and fem/fem bypass had been on
+   hold until patient more stable. Per vascular surgery, Dr. [**Last Name (STitle) **]
+   willing to take patient to OR if cleared medically.
+   - Vascular will not take him to surgery currently
+   - Neurontin for pain control, will titrate down to 200mg TID.
+   - Heprin gtt discontinue for oozing.
+    CAD: s/p recent NSTEMI. Has prior BMS.
+   - Will continue aspirin, Plavix, statin
+   - decrease metoprolol to 12.5 [**Hospital1 **], hold for SBP <95.
+   - Cards rec peri-operative beta blockade and optimization of fluid
+   status prior to OR, no need for MIBI as will not change management
+   (patient is high risk for high risk procedure)
+    Atrial Fibrillation: Patient with atrial fibrillation, occasional
+   episodes of tachycardia.
+   - Metoprolol 12.5mg PO TID for rate control (home dose is 50mg PO TID):
+   titrate up as tolerated
+   - Heparin gtt
+ discontinue for oozing from coccyx
+   - required 2.5mg metoprolol intermittently for tachycardia while on
+   lower dose PO metoprolol.
+    Hypothyroidism: Had been followed Endocrine, appreciate recs,
+   Endocrine signing off, call with questions
+   - IV levothyroxine while on continuous feeds, Once on bolus feeds, can
+   switch to 75 mcg PO daily
+   -  TFTs today wnl
+   Lt>Rt arm swelling: likely related to PICC line, on heparin, so clot is
+   low prob. Negative ultrasound.
+   Nutrition: very poor nutritional status. Will try to optimize with tube
+   feeds and treatment of infections. Should ultimately get a PEG.
+   - NGT, tube feeds
+   - Consider PEG as soon as possible, but TF via NGT for now
+   Communication: Wife [**Name (NI) **] (HCP) [**Telephone/Fax (1) 5481**]
+ family meeting [**8-26**]:
+   want aggressive management currently. want trach and peg. Prefer
+   Meeting over the phone.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2603-8-31**] 01:06 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition:
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2603-9-14**] 12:44 AM 50 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2603-8-31**] 01:06 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

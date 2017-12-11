@@ -1,0 +1,156 @@
+Admission Date:  [**3302-8-8**]              Discharge Date:   [**3302-8-13**]
+
+Date of Birth:  [**3233-12-10**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Ace Inhibitors
+
+Attending:[**First Name3 (LF) 1252**]
+Chief Complaint:
+Dyspnea on exertion, chest pain
+
+Major Surgical or Invasive Procedure:
+[**3302-8-8**] Four Vessel Coronary Artery Bypass Grafting(left
+internal mammary artery to left anterior descending, with vein
+grafts to diagonal, obtuse marginal, and right coronary artery)
+
+
+History of Present Illness:
+Mrs. [**Known patient lastname 31878**] is a 68 year old female with progressive dyspnea on
+exertion and exertional chest discomfort. She also admits to
+shortness of breath at night with 2 pillow orthopnea. She
+underwent persantine MIBI in [**3302-4-11**] which was positive for
+chest pain and negative for ischemic EKG changes. Imaging
+revealed severe perfusion defect in the apex, distal anterior
+wall and apical inferior wall. There was severe HK at the apex,
+and LVEF was estimated at 58%. She subsequently underwent
+cardiac catheterization in [**3302-7-12**] which showed severe three
+vessel coronary artery disease. She was subsequently referred
+for surgical intervention.
+
+Past Medical History:
+Coronary Artery Disease, History of MI
+Hypertension
+Hyperlipidemia
+Menieres Disease/Vertigo
+Questionable History of Hepatitis
+Chronic Pruritis
+Hemorrhoids - History of BRBPR
+s/p Polypectomy
+
+
+Social History:
+Denies ETOH and tobacco. She is not employed. She lives alone.
+
+Family History:
+Denies premature coronary artery disease.
+
+Physical Exam:
+Vitals: 110/60, 63, 18
+General: WDWN elderly female in NAD
+HEENT: Oropharynx benign, EOMI
+Neck: Supple, no JVD
+Lungs: CTA bilaterally
+Heart: Regular rate and rhythm
+Abdomen: Soft, nontender with normoactive bowel sounds
+Ext: Warm, no edema
+Pulses: 2+ distally, no carotid bruits
+Neuro: Alert and oriented, CN 2- 12 grossly intact, no focal
+deficits noted
+
+Pertinent Results:
+[**3302-8-13**] 04:45AM BLOOD Hct-25.6*
+[**3302-8-12**] 05:35AM BLOOD Hct-25.3*
+[**3302-8-11**] 06:45AM BLOOD WBC-10.5 RBC-2.96* Hgb-8.7* Hct-25.8*
+MCV-87 MCH-29.3 MCHC-33.6 RDW-15.9* Plt Ct-263
+[**3302-8-11**] 06:45AM BLOOD Plt Ct-263
+[**3302-8-10**] 02:35AM BLOOD Plt Ct-205
+[**3302-8-10**] 02:35AM BLOOD PT-12.9 PTT-32.7 INR(PT)-1.1
+[**3302-8-13**] 04:45AM BLOOD UreaN-10 Creat-0.6 K-4.5
+[**3302-8-12**] 05:35AM BLOOD UreaN-12 Creat-0.5 K-4.4
+[**3302-8-11**] 06:45AM BLOOD Glucose-115* UreaN-12 Creat-0.6 Na-143
+K-4.3 Cl-106 HCO3-34* AnGap-7*
+
+Brief Hospital Course:
+Ms. [**Known patient lastname 31878**] was admitted and underwent coronary artery bypass
+grafting by Dr. [**Last Name (STitle) **]. For surgical details, please see
+seperate dictated operative note. Following the operation, she
+was brought to the CSRU for invasive monitoring. On
+postoperative day one, she awoke neurologically intact and was
+extubated without incident. She weaned from intravenous therapy
+and otherwise maintained stable hemodynamics. Her CSRU course
+was uneventful and she transferred to the SDU on postoperative
+day two. She did well postoperatively and was ready for
+discharge [**Last Name (un) **] eon POD #4.
+
+Medications on Admission:
+Aspirin, Calcium, Celebrex, Fosamax, Imdur, Pravastatin, Toprol
+XL, Valsartan, Vitamin D
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 2 weeks.
+Disp:*28 Tablet(s)* Refills:*0*
+3. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours).
+Disp:*120 Capsule, Sustained Release(s)* Refills:*2*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*40 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every six (6)
+hours as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Coronary Artery Disease - s/p CABG
+Hypertension
+Hyperlipidemia
+Menieres Disease/Vertigo
+Questionable History of Hepatitis
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1)Please shower daily. No baths. Pat dry incisions, do not rub.
+2)Avoid creams and lotions to surgical incisions.
+3)Call cardiac surgeon if there is concern for wound infection.
+4)No lifting more than 10 lbs for at least 10 weeks from
+surgical date.
+5)No driving for at least one month.
+
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in [**3-16**] weeks, call for appt
+Dr. [**Last Name (STitle) **] in [**1-14**] weeks, call for appt
+Dr. [**Last Name (STitle) 11382**] in [**1-14**] weeks, call for appt
+[**Hospital Ward Name 120**] 2 Wound Check in 2 weeks
+
+
+
+Completed by:[**3302-8-15**]
+
+DOC CLASS

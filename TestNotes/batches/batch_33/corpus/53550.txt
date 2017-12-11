@@ -1,0 +1,352 @@
+Admission Date:  [**3477-6-7**]              Discharge Date:   [**3477-6-9**]
+
+Date of Birth:  [**3394-10-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+IV Dye, Iodine Containing Contrast Media
+
+Attending:[**Doctor First Name 1276**]
+Chief Complaint:
+slow ventricular tachycardia
+
+Major Surgical or Invasive Procedure:
+Ventricular Tachycardia Ablation
+Right Atrial Lead Placement Device Upgrade
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 1978**] was an 82 year old retired dermatologist with h/o
+remote anterior MI with a resultant LV aneurysm/scar with an
+LVEF of 25-30%.  He has had intermittent symptoms of congestive
+heart failure, easily treated with diuretics. He also has a
+history of chronic recurrent slow monomorphic ventricular
+tachycardia and is s/p ICD implant in [**3463**].  In prior years, his
+VT had not caused any syncope and he would experience one or two
+ICD firings per year. Over the past several months, he has had
+several episodes where he has had syncope or presyncope, with
+episodes lasting minutes at a time. In [**4-/3477**] he was admitted to
+his local hospital in [**State 400**] for recurrent syncope and ICD
+firing. His workup included a cardiac catheterization. His LAD
+was found chronically occluded with collaterals from the RCA.
+His OM was stented with a bare metal stent.
+
+On [**3477-5-27**] the patient was readmitted to Palm Beach Gardens
+Medical Center with recurrent near syncope that lasted 2
+minutes. On arrival he was noted to have mild CHF. He had some
+slow VT on the monitor but it did not trigger his ICD. His
+Amiodarone was increased to 400mg b.i.d. and Mexiletine dosing
+increased to 150mg t.i.d. Since that time he has not had any
+further events. His Amiodarone has been cut back to 300mg b.i.d.
+He is now being referred for VT ablation.
+
+Pt underwent VT ablation on [**6-7**], which found two circuits
+exiting near the rim of the LV aneurysm. Both VTs were
+successfully ablated. Upon arrival to the CCU, the patient
+denied chest pain or shortness of breath. He was hemodynamically
+and electrically stable. I told the family of the benefits of
+atrial pacing to improve his hemodynamics and said we could do
+an upgrade next week or the week after. The patient and his
+family preferred that the upgrade be done the next day, if
+possible, since it would be inconvenient to go back and forth
+from the hospital.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+CAD s/p anterior wall MI approximately 40 years ago with LV
+aneurysm/scar
+s/p bare metal stenting of the OM [**3477-4-26**] (Palm Beach Gardens
+Medical Center)
+Ventricular tachycardia with recurrent slow monomorphic VT
+Single chamber ICD implant [**3463**], generator replacement in [**3468**]
+and [**3473**]
+Mitral and tricuspid regurgitation
+Pulmonary hypertension
+Hx of neurocardiogenic syncope, orthostatic hypotension
+Renal insuffiency
+Small intracerebral hemorrhage per referring records-Hx unknown
+to patient
+Abnormal LFT's, possibly from Amiodarone therapy
+Hypothyroidism, likely from Amiodarone therapy
+Gouty arthritis
+Idiopathic thrombocytopenia (runs 95-120's)
+Anxiety
+Cataract surgery
+Asthma (symptomatic with URI)
+Small gallstones
+Hx of remote PUD. Recent GI series for complaints of abdominal
+bloating was found negative.
+
+Social History:
+Patient is married. lives half the year in [**State 400**] and half the
+year in [**Location (un) 23451**] [**State 1118**]. He is a retired dermatologist.
+His son in law works as a surgeon at [**Hospital1 52**].
+Contact for discharge:  [**Name (NI) **] [**Name (NI) 1978**] (wife) [**Telephone/Fax (1) 23452**]
+Tobacco: Quit 40 years ago. Patient reports that PFT's one month
+ago were "perfect"
+ETOH: Denies
+Recreational drugs: Denies
+Home services: Denies
+
+Family History:
+Mother died in her 70's from a stroke. Father dx with CAD at
+the age of 60, died in his mid 80's from an MI. No family
+history
+of sudden cardiac death.
+
+Physical Exam:
+Admission Exam:
+VS: T=97.4  BP=132/55   HR= 48  RR=14 O2 sat= 98%RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: No JVD visualized but pt was supine due to sheath.
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. Cath sheath in place in R groin. Blood
+oozing from multiple sites.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. B/l
+toes are violacious and cold to touch, with cap refill.
+NEURO: AAOx3, CNII-XII grossly intact.
+PULSES:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+
+Discharge Exam:
+Pupils Fixed and Dilated.
+No Heart Sounds.
+No Pulses.
+
+Pertinent Results:
+[**3477-6-7**] 02:20PM BLOOD WBC-7.8 RBC-3.98* Hgb-11.6* Hct-36.0*
+MCV-91 MCH-29.0 MCHC-32.1 RDW-13.9 Plt Ct-108*
+[**3477-6-8**] 04:15PM BLOOD WBC-2.4*# RBC-2.56*# Hgb-7.4*# Hct-23.2*#
+MCV-91 MCH-29.0 MCHC-32.0 RDW-14.4 Plt Ct-114*#
+[**3477-6-8**] 11:44PM BLOOD WBC-4.2# RBC-3.83* Hgb-11.7* Hct-34.8*
+MCV-91 MCH-30.5 MCHC-33.5 RDW-15.0 Plt Ct-73*
+
+[**3477-6-7**] 07:30AM BLOOD PT-12.8* INR(PT)-1.2*
+[**3477-6-8**] 01:50PM BLOOD PT-21.0* INR(PT)-2.0*
+[**3477-6-8**] 11:44PM BLOOD PT-16.8* PTT-56.3* INR(PT)-1.6*
+
+[**3477-6-7**] 02:20PM BLOOD Glucose-131* UreaN-25* Creat-1.6* Na-137
+K-3.9 Cl-104 HCO3-26 AnGap-11
+[**3477-6-8**] 06:02PM BLOOD Glucose-146* UreaN-36* Creat-2.4* Na-137
+K-4.4 Cl-103 HCO3-22 AnGap-16
+
+[**3477-6-7**] 02:20PM BLOOD ALT-134* AST-134* AlkPhos-59
+[**3477-6-8**] 04:15PM BLOOD ALT-375* AST-445* LD(LDH)-507*
+AlkPhos-39* TotBili-0.7
+
+[**3477-6-7**] 02:20PM BLOOD CK-MB-24* cTropnT-2.05*
+[**3477-6-8**] 04:15PM BLOOD CK-MB-11* cTropnT-1.40*
+
+[**3477-6-9**] 01:36AM BLOOD Type-ART Temp-35.3 pO2-65* pCO2-34*
+pH-7.26* calTCO2-16* Base XS--10
+
+[**3477-6-8**] 04:29PM BLOOD Lactate-5.2*
+[**3477-6-8**] 06:14PM BLOOD Lactate-3.9*
+[**3477-6-9**] 01:36AM BLOOD Lactate-6.1*
+
+Portable TTE (Complete) Done [**3477-6-7**] at 3:15:44 PM      FINAL
+IMPRESSION: Very small pericardial effusion near the
+inferolateral wall of the left ventricle without
+echocardiographic evidence of tamponade. Biatrial enlargement.
+Severe global and regional left ventricular systolic dysfunction
+in the presence of a large apical aneurysm. Mild to moderate
+aortic regurgitation. Moderate mitral regurgitation. Tricuspid
+regurgitation. Moderate pulmonary artery systolic hypertension.
+
+Portable TTE (Focused views) Done [**3477-6-8**] at 1:22:06 PM
+FINAL
+
+There is an apical left ventricular aneurysm. There is no
+pericardial effusion. The Impella catheter is seen in the left
+ventricle extending to the apical aneurysm, penetrating deeper
+into the left ventricular cavity than would be expected to
+provide effective circulatory support. Device was pulled back
+under fluoroscopic guidance.
+
+     Portable TTE (Focused views) Done [**3477-6-8**] at 4:27:40 PM
+  FINAL
+
+There is an apical left ventricular aneurysm. There is no
+pericardial effusion.
+
+Tip of Impella catheter seen at midventricular level, abutting
+inferior posterior wall. Brisk Impella outflow seen in proximal
+ascending aorta. Left ventricular end diastolic chamber
+dimension (4.0 cm) suggests adequate volume unloading.
+
+CT ABD & PELVIS W/O CONTRAST Study Date of [**3477-6-7**] 6:11 PM
+
+IMPRESSION:
+1. Small to moderate amount of intrapelvic blood as well as
+stranding
+surrounding the access site. Moderate amount of blood in the
+anterior
+pericardial fat space that tracts down to the level of the mid
+abdomen on the right.
+2. Calcified splenic granulomas.
+3. Small non-obstructing renal stone in the right kidney.
+4. Small liver cyst and smaller subcentimeter adjacent
+hypodensity which is too small to characterize.
+
+
+CHEST (PORTABLE AP) Study Date of [**3477-6-7**] 1:59 PM
+
+There is moderate cardiomegaly. Left pacemaker lead terminates
+in the right ventricle. There is no pneumothorax or large
+pleural effusion. There are low lung volumes. There is mild
+vascular congestion. There are bibasilar atelectases.
+
+CHEST PORT. LINE PLACEMENT Study Date of [**3477-6-8**] 4:07 PM
+
+FINDINGS: Bilateral, severe pulmonary edema is new since
+yesterday. An
+orogastric tube courses just below the diaphragm with its side
+port still
+above the level of GE junction, consider advancing the
+orogastric tube by 6 cm for a better seating. Endotracheal tube
+tip is 8 cm above the carina ending approximately at the level
+of the clavicular head, consider advancing the endotracheal tube
+by 2-3 cm for better seating. There is a left pectoral ICD
+device with two leads coursing through the left transvenous
+approach and right transvenous approach and ending into the
+right atrium and right ventricle respectively. There is no
+evidence of pneumothorax. An Impella device through the aorta
+ends into the left ventricle.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 1978**] was an 82 year old man with anterior wall MI
+approximately 40 years ago with LV aneurysm/scar, s/p bare metal
+stenting of the OM [**3477-4-26**], recurrent slow monomorphic VT with
+single chamber ICD implant [**3463**], generator replacement in [**3468**]
+and [**3473**], MR [**First Name (Titles) **] [**Last Name (Titles) **], pHTN, presented s/p VT ablation on [**6-7**],
+which was performed because of recent symptomatic VT and ICD
+firings.  He was taken back to the EP lab on [**3477-6-8**] for RA lead
+placement and device upgrade, during wich he had a cardiac
+arrest and prolonged resuscitation resulting in cardiogenic
+shock, multisystem organ failure, and eventually to his death.
+
+# Cardiac Arrest
+Patient had a PEA arrest in the EP lab on [**3477-6-8**] after RA lead
+placement, unclear precipitant.  Mechanical and pharmacologic
+CPR resulted in VF which was defibrillated twice with a round of
+CPR in between.  An Impella device was placed by Interventional
+Cardiology team to offload the LV.  He had increasing pressor
+requirement over next several hours, maxed out on three
+pressors.  Lactate was rising, likely in setting of poor
+perfusion and also question of abdominal compartment syndrome,
+potentially from intrapelvic bleed post-procedurally.  He had
+been transfused a total of 6 units of blood, 2 units FFP, 1 unit
+platelets, 1 unit cryoglobulin peri-procedurally in setting of
+DIC in cath lab, which had resolved by arrival to CCU.
+
+Combination of progressive cardiogenic shock with acute anuric
+renal failure resulted in progressive hypoxemic respiratory
+failure with increasing difficulty oxygenating on ventilator.
+Patient did not respond to IV diuretics and continued to have
+worsening hemodynamics with systolic blood pressure in the 70's
+despite maximum pressors and impella support.  Family was
+notified and present at bedside, made decision not to proceed
+with CRRT/CVVH due to his deteriorating condition and overall
+poor prognosis.  Patient was made comfort measures and Impella
+device was turned off.
+
+# Slow monomorphic VT:
+Patient had single chamber ICD implant from [**3463**], generator
+replacement in [**3468**] and [**3473**], and underwent VT ablation on [**6-7**]
+because of recent symptomatic VT and ICD firings. Pt was
+transiently hypotensive to 70s during VT ablation and received
+prophylactic chest compressions (less than 30 sec) but even
+though he maintained an adequate pulse.  He was noted to have
+markedly improved hemodynamics with atrial pacing or sinus
+rhythm, which was facilitated by dopamine. Throughout the
+remainder of the case he was hemodynamically stable with BPs in
+115-145 range. His VTs were non-inducible at the end of the
+procedure and he was extubated without complication. Because his
+native sinus rhythm was at rates in 40s (due to prior high
+dosing with amiodarone), he was started on low dose dopamine
+overnight to overdrive underlying slow VT.  Per the patient's
+and family's wishes, he was taken back to the EP lab [**3477-6-8**] for
+RA lead placement and device upgrade, during which he arrested,
+as above.
+
+
+Medications on Admission:
+AMIODARONE - (Prescribed by Other Provider) - 200 mg Tablet -
+1.5 Tablet(s) by mouth twice a day
+ATORVASTATIN [LIPITOR] - (Prescribed by Other Provider) - 10 mg
+
+Tablet - 0.5 (One half) Tablet(s) by mouth every evening
+CARVEDILOL PHOSPHATE [COREG CR] - (Prescribed by Other Provider)
+
+- 80 mg Cap, ER Multiphase 24 hr - 1 Cap(s) by mouth daily (AM)
+
+CLOPIDOGREL [PLAVIX] - (Prescribed by Other Provider) - 75 mg
+Tablet - 1 Tablet(s) by mouth qam
+EZETIMIBE [ZETIA] - (Prescribed by Other Provider) - 10 mg
+Tablet - 1 Tablet(s) by mouth every evening
+LEVOTHYROXINE [SYNTHROID] - (Prescribed by Other Provider) - 25
+
+mcg Tablet - 1 Tablet(s) by mouth daily
+LORAZEPAM - (Prescribed by Other Provider) - 0.5 mg Tablet - 1
+Tablet(s) by mouth every evening
+MEXILETINE - (Prescribed by Other Provider) - 150 mg Capsule - 1
+
+Capsule(s) by mouth three a day
+ONDANSETRON - (Prescribed by Other Provider) - 4 mg Tablet,
+Rapid Dissolve - 1 Tablet(s) by mouth as needed
+VALSARTAN [DIOVAN] - (Prescribed by Other Provider) - 80 mg
+Tablet - 1 Tablet(s) by mouth twice a day
+FUROSEMIDE 20mg PO daily
+
+Medications - OTC
+ASPIRIN - (Prescribed by Other Provider) - 81 mg Tablet,
+Chewable - 1 Tablet(s) by mouth every morning
+DOCUSATE SODIUM - (Prescribed by Other Provider) - 100 mg
+Capsule - 2 Capsule(s) by mouth every evening
+GUAR GUM [BENEFIBER (GUAR GUM)] - (Prescribed by Other Provider)
+
+- Dosage uncertain
+VITAMINS A,C,E-ZINC-COPPER [PRESERVISION] - (Prescribed by
+Other Provider) - Dosage uncertain
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiogenic Shock
+Acute on Chronic Heart Failure
+Acute on Chronic Renal Failure
+Slow Ventricular Tachycardia
+
+
+Discharge Condition:
+Expired
+
+
+Discharge Instructions:
+None
+
+Followup Instructions:
+None
+
+
+
+
+
+DOC CLASS

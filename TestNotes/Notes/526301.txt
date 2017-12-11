@@ -1,0 +1,196 @@
+Chief Complaint: Aspiraton pneumonia
+   HPI:
+   75M with severe PAD awaiting surgery with recurrent aspiration pna and
+   respiratory failure
+   24 Hour Events:
+   AF with RVR last night--responded IV metoprolol.
+   Received 20mg IV lasix.
+   History obtained from Patient, Medical records
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Daptomycin - [**2603-9-3**] 12:00 PM
+   Infusions:
+   Heparin Sodium - 1,450 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**2603-9-3**] 08:29 PM
+   Furosemide (Lasix) - [**2603-9-4**] 08:08 AM
+   Other medications:
+   Pravastatin
+   ASA
+   Plavix
+   Neurontin 300 q8
+   Atrovent
+   synthroid
+   Lopressor
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fever
+   Ear, Nose, Throat: OG / NG tube
+   Cardiovascular: Tachycardia
+   Nutritional Support: Tube feeds
+   Gastrointestinal: No(t) Abdominal pain
+   Genitourinary: Foley
+   Endocrine: History of thyroid disease
+   Heme / Lymph: Anemia
+   Psychiatric / Sleep: Delirious
+   Flowsheet Data as of  [**2603-9-4**] 10:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.2
+C (97.2
+   HR: 99 (85 - 134) bpm
+   BP: 105/48(63) {99/43(56) - 144/76(83)} mmHg
+   RR: 19 (13 - 27) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+             Total In:
+                                                                  1,898 mL
+                                                                    843 mL
+   PO:
+             TF:
+                                                                  1,200 mL
+                                                                    487 mL
+   IVF:
+                                                                    338 mL
+                                                                    136 mL
+   Blood products:
+   Total out:
+                                                                    925 mL
+                                                                    645 mL
+   Urine:
+                                                                    925 mL
+                                                                    645 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    973 mL
+                                                                    198 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask , Tracheostomy tube
+   SpO2: 98%
+   Physical Examination
+   General Appearance: Thin
+   Head, Ears, Nose, Throat: Poor dentition, NG tube
+   Cardiovascular: irregular
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : b/l)
+   Abdominal: Soft, Non-tender
+   Extremities: Right: 2+, Left: Absent, anasarca
+   Skin:  Warm
+   Neurologic: No(t) Attentive, No(t) Follows simple commands, Responds
+   to: Verbal stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   8.2 g/dL
+   375 K/uL
+   133 mg/dL
+   0.7 mg/dL
+   33 mEq/L
+   4.1 mEq/L
+   17 mg/dL
+   106 mEq/L
+   141 mEq/L
+   25.0 %
+   11.1 K/uL
+        [image002.jpg]
+                             [**2603-8-30**]  04:01 AM
+                             [**2603-8-31**]  12:16 AM
+                             [**2603-8-31**]  04:01 AM
+                             [**2603-8-31**]  04:42 AM
+                             [**2603-8-31**]  05:34 AM
+                             [**2603-9-1**]  04:18 AM
+                             [**2603-9-2**]  03:25 AM
+                             [**2603-9-3**]  04:51 AM
+                             [**2603-9-3**]  10:16 AM
+                             [**2603-9-4**]  04:12 AM
+   WBC
+   14.1
+   19.9
+   17.2
+   11.3
+   11.1
+   Hct
+   25.8
+   24.9
+   25.5
+   22.2
+   23.8
+   25.0
+   Plt
+   346
+   337
+   332
+   379
+   375
+   Cr
+   0.5
+   0.7
+   0.7
+   0.8
+   0.7
+   TCO2
+   34
+   32
+   33
+   34
+   Glucose
+   102
+   105
+   88
+   110
+   133
+   Other labs: PT / PTT / INR:13.7/89.2/1.2, CK / CKMB /
+   Troponin-T:19/4/0.12, ALT / AST:33/30, Alk Phos / T Bili:54/0.4,
+   Amylase / Lipase:24/10, Differential-Neuts:73.7 %, Lymph:9.9 %,
+   Mono:3.5 %, Eos:12.8 %, Lactic Acid:0.6 mmol/L, LDH:218 IU/L, Ca++:8.6
+   mg/dL, Mg++:2.1 mg/dL, PO4:4.4 mg/dL
+   Imaging: CXR:  increased pulmonary edema
+   Microbiology: No new data.
+   Assessment and Plan
+   1) Respiratory Failure:
+   Continues on TM.
+   recheck ABG as more somnolent this AM.
+   Continue treatment of possible MRSA pneumonia with daptomycin
+   Diurese
+   2) Afib wtih RVR:  Currently rate is controlled.  Responds to beta
+   blocker.
+   Continue current dose of beta blocker
+   3) PAD:
+   Cont heparin gtt, ASA, plavix.  No plans for immediate surgery.
+   4) CHF:
+   Increasingly volume overload.
+   Plan to diurese 1liter today if BP tolerates.
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2603-9-4**] 03:55 AM 50 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2603-8-31**] 01:06 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+
+
+DOC CLASS

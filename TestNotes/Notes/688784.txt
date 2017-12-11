@@ -1,0 +1,154 @@
+Chief Complaint:
+   24 Hour Events:
+   none
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fatigue
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations
+   Respiratory: No(t) Cough
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis
+   Flowsheet Data as of  [**3045-3-13**] 07:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**47**] AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.8
+C (98.2
+   HR: 64 (61 - 69) bpm
+   BP: 101/59(69) {101/59(69) - 140/90(102)} mmHg
+   RR: 17 (14 - 20) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    269 mL
+                                                                  1,593 mL
+   PO:
+                                                                    240 mL
+                                                                    200 mL
+   TF:
+   IVF:
+                                                                     29 mL
+                                                                  1,393 mL
+   Blood products:
+   Total out:
+                                                                    350 mL
+                                                                    400 mL
+   Urine:
+                                                                    350 mL
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -81 mL
+                                                                  1,193 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   208 K/uL
+   13.4 g/dL
+   40.0 %
+   8.7 K/uL
+        [image002.jpg]
+                             [**3045-3-13**]  05:53 AM
+   WBC
+   8.7
+   Hct
+   40.0
+   Plt
+   208
+   Assessment and Plan
+   61 yo M with HTN, HL, presents with STEMI, s/p successful stenting
+   .
+   # STEMI:  This patient has 3 vessel disease - a chronically occluded
+   RCA, small LCx and the LAD as above. His risk factors are dyslipidemia,
+   htn and family history. He had an A1C of 6.3% in [**Month (only) 10404**] has been
+   off of his medications for 3 weeks for concerns that they were
+   constipating him, but this could hardly precipitate an MI. Seems to
+   have been intervened on very early. His TIMI score is 2% in 30 days.
+   - cycle CEs expecting bump due to infarct and intervetion
+   - ASA (indefinitely), Plavix (1 yr), statin.
+   - Integrillin x 18 hrs
+   - BB and ACE as BP tolerates.
+   - ECHO in AM
+   .
+   # PUMP:
+   - ECHO in AM
+   - bb and ace
+   .
+   # RHYTHM:
+   - normal sinus rhythm
+   .
+   #  HYPERLIPIDEMIA: patient not taking meds for fear of constipation.
+   - increase lipitor to high dose this hospitalization
+   - d/c on 80 simvastatin
+   .
+   #  SOCIAL STRESSORS:
+   - social work consult in AM
+   .
+   FEN:  Cardiac diet after sheath removed, lytes prn
+   .
+   ACCESS: PIV's, Right groin line in place
+   .
+   PROPHYLAXIS:
+   -DVT ppx with integrillin, heparin sc
+   -Pain management with tylenol
+   -Bowel regimen with colace, senna, miralax, metamucil
+   .
+   CODE: Confirmed full
+   .
+   COMM: Wife [**Name (NI) 2593**] [**Telephone/Fax (1) 10401**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3045-3-12**] 10:41 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:Transfer to floor
+   ------ Protected Section ------
+   Attending
+s Note:08.00hrs
+   Reviewed overnight data.
+   Examined Pt.Stable Post AMI
+   Agree with Dr.[**Last Name (STitle) 10409**] note and Rx plan
+   [**Known patient firstname **] [**Last Name (NamePattern1) 4774**]
+   Spent 45mins
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) 4774**]
+   on:[**3045-3-13**] 13:37 ------
+
+
+DOC CLASS

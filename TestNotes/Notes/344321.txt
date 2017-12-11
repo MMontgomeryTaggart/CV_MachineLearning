@@ -1,0 +1,179 @@
+Chief Complaint:
+   24 Hour Events:
+   - LENIs done, prelim no clot.
+   - coags and CBC stable on PM check.
+   - still with fem line.
+   Allergies:
+   Sulfisoxazole
+   Unknown;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2995-12-19**] 08:59 AM
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2995-12-19**] 08:00 AM
+   Other medications:
+   ISS
+   Atrovent
+   Famotidine
+   Cipro until [**12-21**]
+   Vitamin K
+   Zofran prn
+   Calcium carbonate
+   Lactulose 60 q 4
+   Rifaximin 400 tid
+   MVI
+   Vitamin D
+   Folic Acid
+   Tacrolimus
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2995-12-20**] 07:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 37.2
+C (98.9
+   HR: 72 (62 - 75) bpm
+   BP: 127/58(75) {109/52(68) - 145/88(99)} mmHg
+   RR: 18 (14 - 25) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+             Total In:
+                                                                  1,633 mL
+                                                                    595 mL
+   PO:
+                                                                  1,060 mL
+                                                                    100 mL
+   TF:
+   IVF:
+                                                                    573 mL
+                                                                    495 mL
+   Blood products:
+   Total out:
+                                                                  3,380 mL
+                                                                    930 mL
+   Urine:
+                                                                  1,430 mL
+                                                                    330 mL
+   NG:
+   Stool:
+                                                                  1,950 mL
+                                                                    600 mL
+   Drains:
+   Balance:
+                                                                 -1,747 mL
+                                                                   -335 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Distended
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   31 K/uL
+   10.6 g/dL
+   157 mg/dL
+   0.5 mg/dL
+   26 mEq/L
+   4.6 mEq/L
+   17 mg/dL
+   112 mEq/L
+   143 mEq/L
+   31.5 %
+   2.7 K/uL
+        [image002.jpg]
+                            [**2995-12-15**]  03:39 PM
+                            [**2995-12-16**]  05:30 AM
+                            [**2995-12-16**]  12:22 PM
+                            [**2995-12-17**]  06:35 PM
+                            [**2995-12-18**]  12:00 AM
+                            [**2995-12-18**]  05:00 AM
+                            [**2995-12-18**]  05:04 PM
+                            [**2995-12-19**]  03:32 AM
+                            [**2995-12-19**]  04:01 PM
+                            [**2995-12-20**]  04:55 AM
+   WBC
+   9.3
+   1.9
+   2.5
+   2.4
+   2.8
+   2.4
+   2.7
+   2.7
+   Hct
+   32.1
+   29.9
+   22.8
+   28.9
+   29.8
+   29.1
+   30.0
+   31.1
+   31.5
+   Plt
+   80
+   46
+   43
+   47
+   39
+   31
+   32
+   31
+   Cr
+   1.7
+   1.4
+   0.9
+   1.0
+   0.9
+   0.7
+   0.7
+   0.5
+   Glucose
+   175
+   246
+   234
+   193
+   [**Telephone/Fax (2) 2175**]57
+   Other labs: PT / PTT / INR:29.1/54.6/2.9, ALT / AST:38/59, Alk Phos / T
+   Bili:70/8.3, Differential-Neuts:67.8 %, Band:0.0 %, Lymph:17.6 %,
+   Mono:9.4 %, Eos:5.0 %, D-dimer:652 ng/mL, Fibrinogen:88 mg/dL, Lactic
+   Acid:3.8 mmol/L, Albumin:2.9 g/dL, LDH:319 IU/L, Ca++:7.6 mg/dL,
+   Mg++:1.6 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+ PANCYTOPENIA
+ HEPATIC ENCEPHALOPATHY
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2995-12-17**] 05:47 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition:Transfer to floor
+
+
+DOC CLASS

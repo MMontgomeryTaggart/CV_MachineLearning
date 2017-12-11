@@ -1,0 +1,274 @@
+Admission Date:  [**2965-1-14**]              Discharge Date:   [**2965-1-28**]
+
+Date of Birth:  [**2889-5-10**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 516**]
+Chief Complaint:
+syncope at OSH
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+EGD
+cabg x3 on [**1-22**] (LIMA to LAD, SVG to OM1, SVG to OM2)
+
+
+History of Present Illness:
+75 year old woman with hx of NIDDM, HTN presented to OSH on
+[**1-12**] after 2 episodes of syncope at home. Patient was getting
+out of her bed when she became lightheaded and syncopized. After
+reviving, patient apparently syncopized again. CEs negative x 3
+at OSH. Patient had stress test on [**1-14**]; initially stopped for
+hypotension (SBP - 70s); but restarted after patient responded
+to fluid bolus. Upon returning from stress test, patient
+developed "jaw pain radiating to her chest." CEs at this time
+became positive: CK: 386 and Trop 5.58. SUbsequent [**Location (un) 615**] of
+her stress revealed fixed, inferior defects and reversible
+anterolateral/anteroapical defects.
+
+An EKG was done which showed: ST depressions V2-V6, I, L with ST
+elevation in III only.
+
+Started on integrillin gtt, heparin gtt, loaded with 300mg
+plavix, and ASA 325mg adn SL NTG.  Txferred to [**Hospital1 22**] for cath.
+In the cath lab, found to have low filling pressures, 3VD and
+LCx/DM1 was ballooned. During the catheterization, the Hct
+returned at 19 (was 34 at OSH). Lavage (+) in CCU with coffee
+grounds. Transfused 3U PRBC. Heparin held. Referred to Dr.
+[**Last Name (STitle) **] for CABG surgery. Was monitored for her GI bleed for
+several days prior to operation due to the need for systemic
+heparinization.
+
+
+Past Medical History:
+NIDDM
+HTN
+Incr. Cholesterol
+
+Social History:
++ tob hx 1/2ppd ; retired hairdresser - lives with daughter;
+widowed
+
+Family History:
+Brother with sudden cardiac death
+[**Name (NI) 1061**] and nephew - CAD
+
+Physical Exam:
+T: 98.6    BP: 101/44   P:105 O2 sat: 100%
+Gen: Elderly woman AAOx3
+Neck: No JVD
+HEart: +s1+s2 LSB murmur
+Lungs: CTA b/l no wheezing or crackles
+Abd: RLQ tenderness - non radiating.
+Ext: No edema
+
+
+Pertinent Results:
+[**2965-1-14**] 09:00PM   WBC-14.3* RBC-2.30* HGB-6.7* HCT-19.9* MCV-87
+MCH-29.1 MCHC-33.6 RDW-13.7
+[**2965-1-14**] 09:00PM   NEUTS-77.6* BANDS-0 LYMPHS-18.4 MONOS-3.0
+EOS-0.4 BASOS-0.6
+[**2965-1-14**] 09:00PM   PLT COUNT-211
+[**2965-1-14**] 09:00PM   PT-15.9* PTT-139.1* INR(PT)-1.7
+[**2965-1-14**] 08:17PM   TYPE-ART PO2-303* PCO2-38 PH-7.35 TOTAL
+CO2-22 BASE XS--3 INTUBATED-NOT INTUBA
+[**2965-1-14**] 09:00PM   TRIGLYCER-198* HDL CHOL-42 CHOL/HDL-2.9
+LDL(CALC)-39
+[**2965-1-14**] 09:00PM   CK-MB-48* MB INDX-11.9* cTropnT-0.62*
+[**2965-1-14**] 09:00PM   ALT(SGPT)-7 AST(SGOT)-51* CK(CPK)-405* ALK
+PHOS-31* TOT BILI-0.2
+[**2965-1-14**] 09:00PM   GLUCOSE-298* UREA N-52* CREAT-1.0 SODIUM-143
+POTASSIUM-4.3 CHLORIDE-114* TOTAL CO2-17* ANION GAP-16
+.
+Cath Results:
+CO: 3.87   CI: 2.00
+PCWP: (mean: 6
+PA: 29/4
+LAD: 80% prox; 90% D1
+LCx: 100% proximal
+RCA: 100% proximal -> fills via L to R collaterals
+- opened LCx
+.
+Echo [**1-15**]:
+There is mild symmetric left ventricular hypertrophy
+Resting regional wall motion abnormalities include thinned and
+akinetic/hypokinetic inferior and inferolateral segments
+
+[**2965-1-21**] 03:50AM BLOOD WBC-11.3* RBC-3.76* Hgb-11.2* Hct-31.9*
+MCV-85 MCH-29.8 MCHC-35.1* RDW-14.7 Plt Ct-205
+[**2965-1-17**] 04:00AM BLOOD Neuts-63.5 Lymphs-31.2 Monos-3.9 Eos-0.8
+Baso-0.5
+[**2965-1-21**] 03:50AM BLOOD Plt Ct-205
+[**2965-1-21**] 03:50AM BLOOD Glucose-172* UreaN-14 Creat-0.7 Na-137
+K-3.6 Cl-102 HCO3-23 AnGap-16
+[**2965-1-21**] 03:50AM BLOOD Calcium-8.3* Phos-3.8 Mg-1.9
+[**2965-1-14**] 09:00PM BLOOD %HbA1c-6.9* [Hgb]-DONE [A1c]-DONE
+[**2965-1-27**] 05:12AM BLOOD WBC-10.6 RBC-3.34* Hgb-9.8* Hct-28.8*
+MCV-86 MCH-29.4 MCHC-34.1 RDW-14.2 Plt Ct-353
+[**2965-1-27**] 05:12AM BLOOD Plt Ct-353
+[**2965-1-28**] 07:15AM BLOOD Glucose-112* UreaN-14 Creat-0.7 Na-139
+K-4.4 Cl-100 HCO3-28 AnGap-15
+[**2965-1-28**] 07:15AM BLOOD Mg-2.1
+
+Brief Hospital Course:
+A/P: 75 yo originally presented to OSH with syncope and later
+developed NSTEMI. At [**Hospital1 **], 3VD via cath and post sclerosis of
+gastric ulcer.
+.
+#Cardiac:
+#Ischemia:
+- NSTEMI at OSH
+- 3VD - via cath on [**1-14**] -> PTCA of OM1
+[**1-16**]-> CT surgery being put off till next week because of her
+gastric ulcer. She needs to stay in house because of the 3VD to
+monitor
+- On ASA, statin, BBlocker (titrated down for hypotension)
+- if BP can tolerate, consider adding on Lisinopril
+
+- holding heparin and integrilin in setting of GI bleed
+.
+# Pump
+- ECHO showed 45% EF with akinesis/hypokinesis of inferior and
+inferiolateral segments; mild-symmetric LVH
+- CI: 3.2 on [**1-15**]
+- low central pressures - probably indicative of GI bleed or
+dehydration.
+- IABP -> pulled on [**1-15**]
+.
+# Rhythm: Sinus tach to 100s
+.
+# GIB:
+- EGD from [**1-15**] showed esophagitis and gastric ulcer that was
+sclerosed
+- continue Protonix gtt and needs rescope in 6 weeks
+- got 4U PRBC on [**1-15**] - 2 for hypotension/low hct and 2 more
+for hct<30.
+- hct goal>30 for CT surgery
+- q6 Hcts
+- started on clears as per GI
+.
+- probably a result from the combination of heparin, integrilin,
+ASA, 300mg Plavix
+- Lavage returned dark blood; Guaiac positive, but no frank
+blood on glove
+- patient Hct 34 at OSH; 18.5 here at [**Hospital1 22**] found after cath
+- [**2887-1-13**]: 3U PRBC
+- [**2888-1-15**]: 4 Units PRBC
+.
+# DM
+- Hold glucotrol
+- Started insulin drip on [**1-15**]
+.
+# PPX:
+- Protonix gtt
+- SC heparin
+- NPO for procedure
+.
+# FEN:
+- NPO
+.
+# Syncope:
+- likely from GIB/MI . Currently AAOx3.
+.
+# Code:
+- full code
+IABP removed prior to surgery. GI consult obtained- EGD showed
+gastric ulcer.
+
+Underwent cabg x3 on [**1-22**] by Dr. [**Last Name (STitle) **]. Transferred to the CSRU
+in stable condition on epinephrine and propofol drips. Extubated
+that evening  and Swan DCed on POD #1. Gentle diuresis was
+started and neo drip weaned off. Chest tubes removed on POD #2
+and transferred to the floor. She went into Afib that evening
+and was started on amiodarone. Beta blockade was titrated for
+rate control. Converted to SR on POD #4 and pacing wires were
+removed without incident. She made good progress increasing her
+activity level and was discharged to home with VNA on POD #6.
+She will need f/u with the GI service for repeat endoscopy in 4
+weeks.
+
+Medications on Admission:
+Dyazide
+Lipitor 80 mg daily
+Enalapril 5 mg daily
+Glipizide 5 mg daily
+plavix 75 mg daily
+heparin drip
+integrilin drip
+ASA 325 mg daily
+protonix 40 mg daily
+bactrim one [**Hospital1 **]
+
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+2. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours) for 7
+days.
+Disp:*28 Capsule, Sustained Release(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO every 4-6 hours as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+6. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Glipizide 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+10. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 1 months.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 335**] VNA
+
+Discharge Diagnosis:
+s/p cabg x3 on [**1-22**]
+NIDDM
+elev. chol.
+HTN
+gastric ulcer
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+may shower and pat dry
+no lotions, creams or powders on incisions
+no drving for one month
+no lifting greater than 10 pounds for 10 weeks
+call for fever, redness or drainage from incisions
+
+Followup Instructions:
+see Dr. [**Last Name (STitle) 4222**] in [**1-21**] weeks
+see Dr. [**Last Name (STitle) **] in [**2-22**] weeks
+see Dr. [**Last Name (STitle) **] in 4 weeks [**Telephone/Fax (1) 181**]
+
+
+
+Completed by:[**2965-1-28**]
+
+DOC CLASS

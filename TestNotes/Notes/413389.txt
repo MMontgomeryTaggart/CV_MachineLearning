@@ -1,0 +1,224 @@
+Chief Complaint:
+   24 Hour Events:
+   had seroquel o/n, and became bradycardic
+   put on levophed 0.1mch/kgmin, PSV-> A/C ventilation
+   Patient unable to provide history: Sedated
+   Allergies:
+   Flagyl (Oral) (Metronidazole)
+   Rash;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2913-7-16**] 08:00 PM
+   Infusions:
+   Calcium Gluconate (CRRT) - 1 grams/hour
+   Norepinephrine - 0.1 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2913-7-17**] 07:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 79 (61 - 92) bpm
+   BP: 102/39(55) {83/37(51) - 121/51(71)} mmHg
+   RR: 19 (15 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 135.3 kg (admission): 148.8 kg
+   Height: 66 Inch
+             Total In:
+                                                                  4,209 mL
+                                                                    774 mL
+   PO:
+             TF:
+                                                                  1,154 mL
+                                                                    215 mL
+   IVF:
+                                                                  2,874 mL
+                                                                    560 mL
+   Blood products:
+   Total out:
+                                                                  7,348 mL
+                                                                    760 mL
+   Urine:
+                                                                    115 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,139 mL
+                                                                     14 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 637 (429 - 696) mL
+   PS : 12 cmH2O
+   RR (Set): 15
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10
+   PIP: 27 cmH2O
+   Plateau: 25 cmH2O
+   SpO2: 100%
+   ABG: 7.41/43/81.[**Numeric Identifier 582**]/26/1
+   Ve: 10.2 L/min
+   PaO2 / FiO2: 135
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   277 K/uL
+   6.6 g/dL
+   162 mg/dL
+   1.0 mg/dL
+   26 mEq/L
+   4.0 mEq/L
+   29 mg/dL
+   100 mEq/L
+   137 mEq/L
+   22.5 %
+   11.8 K/uL
+        [image002.jpg]
+                             [**2913-7-16**]  02:12 AM
+                             [**2913-7-16**]  04:46 AM
+                             [**2913-7-16**]  05:01 AM
+                             [**2913-7-16**]  11:58 AM
+                             [**2913-7-16**]  01:55 PM
+                             [**2913-7-16**]  06:13 PM
+                             [**2913-7-16**]  06:37 PM
+                             [**2913-7-16**]  11:45 PM
+                             [**2913-7-16**]  11:54 PM
+                             [**2913-7-17**]  06:12 AM
+   WBC
+   11.8
+   Hct
+   22.5
+   Plt
+   277
+   Cr
+   1.2
+   1.1
+   1.0
+   TCO2
+   30
+   28
+   29
+   29
+   28
+   28
+   Glucose
+   145
+   136
+   127
+   162
+   Other labs: PT / PTT / INR:17.8/44.5/1.6, CK / CKMB /
+   Troponin-T:88/10/0.76, ALT / AST:31/36, Alk Phos / T Bili:108/0.2,
+   Differential-Neuts:85.3 %, Band:0.0 %, Lymph:11.0 %, Mono:3.3 %,
+   Eos:0.2 %, Lactic Acid:0.9 mmol/L, Albumin:2.8 g/dL, LDH:295 IU/L,
+   Ca++:9.5 mg/dL, Mg++:1.8 mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+ HYPOTHERMIA
+ ANEMIA, CHRONIC
+ OBESITY (INCLUDING OVERWEIGHT, MORBID OBESITY)
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ HEART DISEASE, OTHER
+ IMPAIRED SKIN INTEGRITY
+ RESPIRATORY FAILURE, CHRONIC
+ C. DIFFICILE INFECTION (C DIFF, CDIFF COLITIS, CLOSTRIDIUM DIFFICILE)
+   78 y/o female with MMP including OSA requiring trach, d CHF, AFib,
+   chronic C. diff infection presents from LTAC with worsening mental
+   status and failure to improve.
+   # Altered Mental Status
+ improving, most likely etiology is infection
+   - blood cx NGTD
+   - sputum cx was done
+ growing out pseudomonas, GNRs, GPRs but no
+   evidence of pneumonia, may represent colonization
+   - urine cx from [**7-8**] grew out citrobacter koseri and klebsiella pneumo.
+   Urine cx from [**7-13**] grew yeast only
+   - head CT
+ no acute intracranial process
+   - pt switched to cipro yesterday because it has better urine
+   penetration
+ will continue cipro for a 5 day course (day 1 = [**2913-7-13**])
+   - Check blood Cx and mycolitic cx
+   # Leukocytosis
+likely stress response vs. infectious response
+   - pt on cipro for urine cx with GNR
+s - WBC 11.8
+   - continue to monitor WBC
+   # Hx of C.diff Infection
+   - C diff negative x 2 here
+   - [**Hospital1 696**] records
+ C.diff + in [**Month (only) 1948**] and then [**2913-6-9**]
+   - ID recs: PO vanc for 14 days after last dose of cipro, then stop and
+   observe for recurrence of c.diff. If recurrence see ID note from
+   [**2913-7-14**]
+   # Respiratory Failure
+ currently with trach; CMV 450 x 15, 12 PEEP and
+   50% FIO2
+   - oxygenating and ventilating well
+   - sputum culture growing pseudomonas, and Pt has h/o pseudomonas in
+   sputum.  No evidence of current PNA
+   - pt was on diuretics but had no response in UOP; pt is on CVVH with a
+   goal of maximum diuresis (has been -12L in 2 days)
+   - However, it appears that we are affecting hemodynamics enough to slow
+   down on cvvh, as her maps have been in the high 40s.  .
+   - will try to wean once diuresis goal reached
+   # Diastolic Heart Failure/volume overload
+   - no response to lasix or zaroxylyn
+   - On CVVH with goal of maximum fluid removal
+   # Acute on Chronic Renal Failure
+   - creatinine is now 1.2
+ improving with fluid removal
+   - Baseline is 1.1-1.3
+   - continue to monitor BUN, Cr, UOP
+   # Anemia
+   - Hct trending down and currently 22.5
+   - guiac stools and can transfuse [**1-6**] U pRBC during CVVH session for Hct
+   <21
+   # A.fib/coagulopathy
+   - was in AFib on transfer but converted to sinus;
+   - Cont. trend INR. Given vitamin K and will check LFT
+   - supratherapeutic INR likely due to poor absorption and poor
+   production
+   - rate control PRN
+   # DM2
+   - on ISS
+   # GERD
+   - pt off of PPI as it may interfere with PO vanc
+   # Decubitus Ulcers
+   - wound care consulted; following recommendations
+   ICU Care
+   Nutrition:
+   Peptamen 1.5 (Full) - [**2913-7-17**] 03:17 AM 55 mL/hour
+   Glycemic Control:
+   Lines:
+   Midline - [**2913-7-8**] 04:15 PM
+   Dialysis Catheter - [**2913-7-12**] 08:00 PM
+   Arterial Line - [**2913-7-12**] 11:21 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

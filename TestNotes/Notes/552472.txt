@@ -1,0 +1,235 @@
+CVICU
+   HPI:
+   HD7
+   POD 2 [**12-28**]
+   S/P CABG x5 (LIMA>LAD, SVG>D1, SVG>D2, SVG>Om, SVG>RCA) [**12-26**]
+   EF 55% Wt 87.2 Cr 0.9-1.2
+   PMH Rectal bleeding - fissure, Migraines, BPH, Depression,
+   Tonsillectomy
+   [**Last Name (un) **] Citalopram 20', Toprol XL 50', NTG SL prn, Simvastatin 80', Imitrex
+   25 prn, ASA 81', MVI, Valcyclovir 1000mg - day 1 of 1 week
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 4. Aspirin EC 5. Calcium Gluconate 6. Citalopram
+   Hydrobromide
+   7. Dextrose 50% 8. Docusate Sodium 9. Furosemide 10. HYDROmorphone
+   (Dilaudid) 11. Influenza Virus Vaccine
+   12. Insulin 13. Ketorolac 14. Magnesium Sulfate 15. Metoclopramide 16.
+   Metoprolol Tartrate 17. Milk of Magnesia
+   18. Morphine Sulfate 19. Potassium Chloride 20. Ranitidine 21.
+   Simvastatin 22. Sodium Chloride 0.9% Flush
+   23. Vancomycin 24. Valacyclovir
+   24 Hour Events:
+ PA CATHETER - START [**2870-12-26**] 01:40 PM
+ ARTERIAL LINE - START [**2870-12-26**] 01:40 PM
+ OR RECEIVED - At [**2870-12-26**] 01:40 PM
+ INVASIVE VENTILATION - START [**2870-12-26**] 01:40 PM
+ INVASIVE VENTILATION - START [**2870-12-26**] 01:40 PM
+ CORDIS/INTRODUCER - START [**2870-12-26**] 01:40 PM
+ INTUBATION - At [**2870-12-26**] 01:43 PM
+   In OR for surgery
+ EKG - At [**2870-12-26**] 02:56 PM
+ FEVER - 101.3
+C - [**2870-12-27**] 12:00 AM
+   Post operative day:
+   POD#1 - CABG x 5
+   S/P CABG x5 (LIMA>LAD, SVG>D1, SVG>D2, SVG>Om, SVG>RCA)
+   24 H Event:Received Protamine for CT drainage/ACT immediately postop.
+   Kept intubated overnight->slow to wake up.
+   Allergies:
+   Compazine (Injection) (Prochlorperazine Edisylate)
+   throat swelling
+   Lipitor (Oral) (Atorvastatin Calcium)
+   muscle ache;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Vancomycin - [**2870-12-26**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Insulin - Regular - [**2870-12-26**] 07:37 PM
+   Ranitidine (Prophylaxis) - [**2870-12-26**] 08:38 PM
+   Morphine Sulfate - [**2870-12-26**] 11:10 PM
+   Other medications:
+   Flowsheet Data as of  [**2870-12-27**] 07:16 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**73**] a.m.
+   Tmax: 38.5
+C (101.3
+   T current: 35.7
+C (96.2
+   HR: 93 (87 - 107) bpm
+   BP: 109/51(64) {77/42(52) - 129/65(80)} mmHg
+   RR: 23 (0 - 30) insp/min
+   SPO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 92.7 kg (admission): 83.4 kg
+   Height: 66 Inch
+   CVP: 14 (3 - 20) mmHg
+   PAP: (45 mmHg) / (23 mmHg)
+   CO/CI (Thermodilution): (5.32 L/min) / (2.8 L/min/m2)
+   CO/CI (Fick): (4.2 L/min) / (2.2 L/min/m2)
+   SVR: 1,083 dynes*sec/cm5
+   Mixed Venous O2% sat: 54 - 58
+   SV: 58 mL
+   SVI: 30 mL/m2
+   Total In:
+                                                                  6,031 mL
+                                                                  3,076 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  5,331 mL
+                                                                  2,296 mL
+   Blood products:
+                                                                    700 mL
+                                                                    780 mL
+   Total out:
+                                                                  2,396 mL
+                                                                  2,597 mL
+   Urine:
+                                                                    901 mL
+                                                                  1,837 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,635 mL
+                                                                    479 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool, Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 379 (182 - 405) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 38
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   PIP: 11 cmH2O
+   Plateau: 16 cmH2O
+   SPO2: 93%
+   ABG: 7.43/40/77.[**Numeric Identifier 244**]/24/1
+   Ve: 10.7 L/min
+   PaO2 / FiO2: 111
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: (B), poor insp.effort), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   Distended, hypoactive
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   180 K/uL
+   8.9 g/dL
+   126 mg/dL
+   1.1 mg/dL
+   24 mEq/L
+   4.3 mEq/L
+   17 mg/dL
+   106 mEq/L
+   132 mEq/L
+   24.2 %
+   13.1 K/uL
+        [image002.jpg]
+                             [**2870-12-26**]  06:35 PM
+                             [**2870-12-26**]  09:58 PM
+                             [**2870-12-26**]  10:00 PM
+                             [**2870-12-27**]  01:10 AM
+                             [**2870-12-27**]  02:05 AM
+                             [**2870-12-27**]  05:09 AM
+                             [**2870-12-27**]  05:18 AM
+                             [**2870-12-27**]  08:34 AM
+                             [**2870-12-27**]  04:27 PM
+                             [**2870-12-27**]  05:33 PM
+   WBC
+   17.2
+   13.1
+   Hct
+   32.0
+   30.7
+   24.2
+   Plt
+   265
+   180
+   Creatinine
+   1.2
+   1.1
+   TCO2
+   26
+   24
+   24
+   24
+   23
+   27
+   Glucose
+   106
+   106
+   85
+   102
+   80
+   68
+   178
+   126
+   Other labs: PT / PTT / INR:14.9/44.9/1.3, Fibrinogen:167 mg/dL, Lactic
+   Acid:1.2 mmol/L, Ca:7.3 mg/dL, Mg:2.2 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   HYPERGLYCEMIA, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), HYPOTENSION
+   (NOT SHOCK), [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS, CORONARY
+   ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan: POD 1 S/P CABG x5 (LIMA>LAD, SVG>D1, SVG>D2,
+   SVG>Om, SVG>RCA) [**12-26**]  -requiring Neo overnight for BP optimization,
+   Protamine for increased CT output.Kept intubated overnight due to slow
+   arousal.Plan to extubate this AM.
+   Neurologic: Neuro checks Q: 4 hr, Dilauded prn pain.Restart Citalopram.
+   Neuro consulted for Bells Palsy->No steroids.Cont Valacyclovir, OOB, PT
+   eval.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Discontinue PA monitor,
+   Start b-Blocker, statin, ASA today. Optimize as BP tolerates. Dc
+   swan/a-line
+   Pulmonary: IS, Extubate today, Extubate this AM, aggressive pulm
+   hygiene. CXR x 2 to eval left pl.eff/ CT drainage. Start gentle
+   diuresis
+   Gastrointestinal / Abdomen: bowel regiment
+   Nutrition: Advance diet as tolerated , ADAT after extubation.
+   prophylaxis
+   Renal: Foley, Adequate UO, Good response to Lasix, follow electrolytes
+   Hematology: Recheck HCT this evening->decreased to 24. Tx 1 unit PRBC
+   per Dr.[**Last Name (STitle) **], [**First Name3 (LF) 119**] check appropriate response.
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults: CT surgery, P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**2870-12-26**] 01:40 PM
+   18 Gauge - [**2870-12-27**] 12:31 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

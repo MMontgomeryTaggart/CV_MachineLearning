@@ -1,0 +1,177 @@
+Chief Complaint: Respiratory distress
+   HPI:
+   24 Hour Events:
+   Received 2 U PRBC yesterday.  Received plts.
+   Somewhat more delerious & confused today.  Visual hallucinations.
+   History obtained from Patient, Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Penicillins
+   Hives; Rash;
+   Last dose of Antibiotics:
+   Aztreonam - [**2891-7-1**] 04:04 AM
+   Metronidazole - [**2891-7-1**] 05:39 AM
+   Vancomycin - [**2891-7-1**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2891-7-1**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Nutritional Support: No(t) NPO, Tube feeds, No(t) Parenteral nutrition
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria, Foley, No(t) Dialysis
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: No(t) Hyperglycemia, No(t) History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,
+   No(t) Daytime somnolence
+   Allergy / Immunology: Immunocompromised, No(t) Influenza vaccine
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**2891-7-1**] 11:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 35.9
+C (96.7
+   HR: 88 (88 - 109) bpm
+   BP: 106/56(66) {104/53(64) - 147/86(99)} mmHg
+   RR: 21 (17 - 27) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 67 Inch
+           Total In:
+                                                                  2,642 mL
+                                                                    711 mL
+   PO:
+           TF:
+   IVF:
+                                                                  1,790 mL
+                                                                    359 mL
+   Blood products:
+                                                                    662 mL
+                                                                    232 mL
+   Total out:
+                                                                    867 mL
+                                                                    890 mL
+   Urine:
+                                                                    867 mL
+                                                                    890 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,775 mL
+                                                                   -179 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///21/
+   Physical Examination
+   General Appearance: No(t) Well nourished, No(t) No acute distress,
+   No(t) Overweight / Obese, No(t) Thin, Frail
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: No(t) Normocephalic, No(t) Poor dentition,
+   No(t) Endotracheal tube, No(t) NG tube, No(t) OG tube, Surgical scar
+   forehead
+   Lymphatic: No(t) Cervical WNL, No(t) Supraclavicular WNL, No(t)
+   Cervical adenopathy
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Extremities: Right: Absent, Left: Absent, No(t) Cyanosis, No(t)
+   Clubbing
+   Musculoskeletal: No(t) Muscle wasting, Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): Person, Movement: Purposeful, No(t) Sedated,
+   No(t) Paralyzed, Tone: Normal
+   Labs / Radiology
+   8.5 g/dL
+   29 K/uL
+   92 mg/dL
+   0.4 mg/dL
+   21 mEq/L
+   3.3 mEq/L
+   14 mg/dL
+   106 mEq/L
+   134 mEq/L
+   25.0 %
+   1.1 K/uL
+        [image002.jpg]
+                             [**2891-6-30**]  03:56 AM
+                             [**2891-6-30**]  04:51 PM
+                             [**2891-7-1**]  04:31 AM
+   WBC
+   2.7
+   1.1
+   Hct
+   17.3
+   25.6
+   25.0
+   Plt
+   42
+   31
+   29
+   Cr
+   0.3
+   0.4
+   Glucose
+   90
+   92
+   Other labs: PT / PTT / INR:13.9/28.0/1.2, Differential-Neuts:96.0 %,
+   Band:1.0 %, Lymph:3.0 %, Mono:0.0 %, Eos:0.0 %, Ca++:7.2 mg/dL,
+   Mg++:1.7 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   Syncope, hypoxemia --> aspiration pneumonia.
+   Hypoxemia -- attributed to aspiration.
+   Pneumonia -- aspiration, LLL > RLL.  Antimicrobials.
+   Confusion/Delerium -- possible attributed to underlying CNS process.
+   Unclear contribution of medications (ex. Zofran) and ICU psychosis.
+   Consider repeat Head CT to assess for interval change.
+   Hodgkin's Lymphoma -- recurrent.  CHemotherapy.
+   Nutritional support -- Resume TF via PEG.
+   Pancytopenia -- attributed to ChemoRx.  Recommendations per Heme/Onc
+   team.
+   Syncope -- no further episodes.  Attributed to hypvolemia +/- vasovagal
+   episode.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2891-6-29**] 06:01 PM
+   PICC Line - [**2891-6-29**] 06:01 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 45 minutes
+
+
+DOC CLASS

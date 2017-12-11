@@ -1,0 +1,414 @@
+Admission Date:  [**2724-12-14**]              Discharge Date:   [**2724-12-29**]
+
+Date of Birth:  [**2642-11-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors
+
+Attending:[**First Name3 (LF) 71**]
+Chief Complaint:
+bradycardia/hypotension
+
+Major Surgical or Invasive Procedure:
+Intubation
+Cardioversion [**12-16**]
+Cardioversion [**12-19**]
+
+
+History of Present Illness:
+The patient is an 82 y.o. woman w/ pmh of HTN, Afib, presenting
+with lightheadedness in setting of likely beta blocker or
+calcium blocker overdose. On admission, she was taking
+Metoprolol Tartrate 150mg PO twice daily, in addition to
+Diltiazem Ext. Release 240mg PO daily, and Nifedipine Sust.
+Release 30mg PO daily. She lives at home alone, and is
+self-reliant in terms of administration of her medications. She
+reportedly was feeling dizzy and tired at home and called EMS.
+Upon arrival, EMS found her HR was 20-30, SBP in 70's. EKG
+showed afib at a rate of [**Street Address(2) 19758**] or T wave
+changes. She was given atropine 0.5mg and fluids. On
+presentation to the ED initial vitals were SBP 80's, HR 40's.
+She was given atropine 1mg X2, HR increased to 60's. Given Ca
+Gluconate 2g, Glucagon 9mg, Regular Insulin 70 units IV X1
+followed by insulin drip at 70 units/hr. HR increased but
+remained hypotensive. Bolused 1.5L of NS, started on dopamine
+drip. SBP increased to 110, however became hypoxic with oxygen
+saturation of 84% on 4L and was intubated and transferred to the
+ICU.
+.
+Of Note, the patient has a history of two recent
+hospitalizations. The first, [**Date range (1) 19755**] was secondary to
+community acquired pneumonia and COPD exacerbation. She was
+treated with Levaquin. She was also noted diagnosed with atrial
+fibrillation during this admission, and started on coumadin,
+diltiazem, and had her atenolol switched to metoprolol.
+.
+Her second admission occurred [**Date range (1) 19759**]. She presented with
+bradycardia, diaphoresis, nausea, and reported taking a double
+dose of her diltiazem. She was also in ARF w/ Cr. 2.1, lactic
+acidosis with Lactate 10.0, presented with leukocytosis 16->32,
+and Corynebacterium diphtheriae bacteremia, 4/4 bottles. She
+completed a 14 day course of vancomycin ending [**11-19**]. Echo during
+this admission was negative for vegetations.
+.
+Patient was intubated and unable to provide review of symptoms.
+Per family and report form ED, patient was following commands
+and able to communicate.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS::
++Diabetes, +Dyslipidemia, +Hypertension
+2. CARDIAC HISTORY:
+-CABG: N/A
+-PERCUTANEOUS CORONARY INTERVENTIONS: N/A
+-PACING/ICD: N/A
+3. OTHER PAST MEDICAL HISTORY:
+atrial fibrillation
+cataracts
+arthritis
+depression
+asthma
+COPD
+Hip replacement
+Cataract surgery
+Appendectomy
+Hernia repair
+Anemia of Chronic disease
+
+
+Social History:
+Lives alone but gets help for meals. Husband has been in [**Hospital1 200**]
+([**Location (un) 1052**] [**Hospital1 226**]) for 2 yrs and she frequently visits and feels
+caregiver [**Last Name (Titles) **]. She
+has three sons. She denies current smoking (remote history),
+alcohol or drug use
+
+
+
+Family History:
+Father died at age 57 of CHF
+Mother died at age 49 of cerebral bleed
+Sister is eight yrs younger and has no known med problems
+
+
+Physical Exam:
+VS: T=96.1 BP=110/42 HR=102 RR=14O2 sat= 100% FiO2 .50
+GENERAL: WDWN elderly female intubated, sedated
+HEENT: NCAT. Sclera anicteric. Pupils dilated to 6mm and
+non-reactive. contact lenses in place. Oral mucosa dry.
+NECK: JVP unable to assess given RIJ.
+CARDIAC: irregularly irregular. normal S1, S2. No m/r/g. No
+thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, respirations were unlabored,
+no accessory muscle use. b/l crackles.
+ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+No bowel sounds.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ DP and PT dopplerable
+Left: Carotid 2+ DP and PT dopplerable
+
+
+Pertinent Results:
+LABS ON ADMISSION:
+.
+HEMATOLOGY:
+[**2724-12-14**] 03:30PM BLOOD WBC-11.2* RBC-3.09* Hgb-8.9* Hct-26.7*
+MCV-86 MCH-
+28.8 MCHC-33.4 RDW-14.7 Plt Ct-371
+[**2724-12-14**] 03:30PM BLOOD Neuts-78.4* Lymphs-15.1* Monos-3.6
+Eos-2.6 Baso-0.3
+[**2724-12-14**] 03:30PM BLOOD PT-28.8* PTT-23.5 INR(PT)-2.9*
+.
+CHEMISTRY:
+[**2724-12-14**] 03:30PM BLOOD Glucose-231* UreaN-22* Creat-1.8* Na-138
+K-3.8 Cl-104 HCO3-25 AnGap-13
+[**2724-12-14**] 08:15PM BLOOD ALT-154* AST-234* LD(LDH)-515* CK(CPK)-45
+AlkPhos-106 TotBili-0.4
+[**2724-12-14**] 08:15PM BLOOD Albumin-3.5 Calcium-8.7 Phos-2.0*# Mg-1.7
+.
+[**2724-12-14**] 03:30PM BLOOD cTropnT-<0.01 CK-34
+[**2724-12-14**] 08:15PM BLOOD cTropnT-<0.01 CK-45
+[**2724-12-14**] 03:30PM BLOOD CK(CPK)-34
+[**2724-12-14**] 07:50PM BLOOD Type-ART pO2-414* pCO2-45 pH-7.33*
+calTCO2-25 Base XS--2
+.
+.
+MICROBIOLOGY:
+Bl Cx - NGTD
+Urine Cx ([**12-14**], [**12-17**]) - Enterococcus (VRE)
+Sputum ([**12-16**]) - Klebsiella pneumoniae (pansensitive)
+Stool ([**12-16**]) - C. diff positive
+.
+EKG ([**2724-12-21**]): rate 103, atrial fibrillation w/ rapid
+ventricular response.  poor R wave progression, probably a
+normal variant.  Compared to tracing #1, atrial fibrillation has
+replaced sinus rhythm.
+.
+2D-Echocardiogram ([**2724-11-11**]): "The left atrium is moderately
+dilated.  The estimated right atrial pressure is 0-5mmHg.  There
+is mild symmetric left ventricular hypertrophy.  The left
+ventricular cavity size is normal.  Overall left ventricular
+systolic function is normal (LVEF > 55%).  Right ventricular
+chamber size and free wall motion are normal.  The aortic valve
+leaflets (3) are mildly thickened.  There is no aortic valve
+stenosis.  Trace aortic regurgitation is seen.  The mitral valve
+leaflets are mildly thickened.  Mild to moderate ([**12-19**]+) mitral
+regurgitation is seen.  [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+The tricuspid valve leaflets are mildly thickened.  There is
+mild pulmonary artery systolic hypertension.  There is no
+pericardial effusion.  No vegetation seen (cannot definitively
+exclude)."
+.
+RADIOLOGY:
+CXR AP ([**12-14**])
+IMPRESSION:
+1. Endotracheal tube in place, 2.5 cm above the carina.
+2. Mild pulmonary edema, with small bilateral pleural effusions.
+
+3. Right infrahilar opacity, most probably represents
+atelectasis, but is
+incompletely assessed. Recommend further evaluation with repeat
+radiography following appropriate treatment.
+
+Labs on Discharge:
+[**2724-12-26**] 05:21AM BLOOD WBC-7.3 RBC-2.84* Hgb-8.1* Hct-24.3*
+MCV-85 MCH-28.3 MCHC-33.2 RDW-15.2 Plt Ct-323
+[**2724-12-25**] 05:48AM BLOOD PT-20.9* PTT-24.8 INR(PT)-2.0*
+[**2724-12-24**] 06:20AM BLOOD Glucose-155* UreaN-11 Creat-0.9 Na-144
+K-3.6 Cl-107 HCO3-27 AnGap-14
+[**2724-12-20**] 05:20AM BLOOD ALT-25 AST-16 LD(LDH)-166 AlkPhos-70
+TotBili-0.2
+
+Brief Hospital Course:
+82F w/ pmh HTN, afib, p/w bradycardia and hypotension in setting
+of likely beta blocker or calcium channel blocker overdose,
+complicated by PNA, UTI and C.difficile infections.
+.
+# Hypotension and Bradycardia: Likely BB or CCB toxicity.
+Patient has history of similar presentation after overdose of
+diltiazem. On admission, EKG showed afib with slow rhythm, no
+heart block, no signs of ischemia. HR improved with atropine.
+The patient was treated for BB or CCB overdose with calcium
+gluconate, glucagon, and Insulin IV. HR continued to improve but
+still remained hypotensive. Blood pressure eventually improved
+with dopamine. Transitioned to levophed, then weaned.
+.
+# Hypoxia: Likely secondary to acute pulmonary edema. Possibly
+from fluid overload in setting of diminished contractility from
+BB toxicity, or may be from acute diastolic dysfunction from
+myocardial ischemia given ST depressions in lateral leads.
+Intubated in CCU. Hypoxia improved with diuresis, once
+hypotension resolved. Pt extubated on [**12-19**]. Post extubation, pt
+became agitated. Haldol, ativan and zyprexa have been tried.
+Redirection, zyprexa have been used successfully.  Since
+arriving on medical floor, sat 98% on 2L O2 initially and, after
+one day, with desats to low 90s% on room air.  Patient continued
+to be monitored for decompensation from existing COPD and
+asthma, and received fluticasone propionate 110 mcg 2 puff IH
+[**Hospital1 **], ipratropium bromide neb IH q6H and Xopenex 0.63 mg/3 mL
+throughout her course on the medical floor.  In addition,
+patient was started on Lasix due to the onset of LE edema and a
+possible component of congestion from heart due to valvular
+disease.
+.
+# CORONARIES: No history of CAD. Precordial ST depressions
+present on ekg upon admission to CCU. Likely subendocardial
+ischemia in setting of hypotension and low systemic diastolic
+pressures. CEs were negative.
+.
+# PUMP: Recent echo on [**11-11**] with normal LV and RV function,
+without wall motion abnormalities, LVEF 55%. Previously
+hypotensive in setting of bradycardia from likely BB or CCB
+toxicity. Became fluid overloaded/hypervolumic, for which
+diuresis was started with the net goal of -1-2L, which was
+achieved w/ lasix.
+.
+# RHYTHM: History of atrial fibrillation on coumadin,
+metoprolol, nifedipine and diltiazem. Cardioverted on [**12-16**],
+sinus rhythm for 12 hours, then reverted back to afib. Began
+amiodarone [**12-17**], while still on infusion after loading dose.
+INR therapeutic since [**2724-11-24**]. Home dose of Coumadin was 5mg.
+Coumadin restarted at 4mg, in setting of amiodarone and abx.
+Amiodarone switched to 400mg PO BID and on diltiazem 30mg PO QID
+as sole drugs for atrial fibrillation. Cardioversion on [**12-20**],
+which reverted back to atrial fibrillation on [**12-21**], evidenced by
+EKG on that date.  Coumadin held [**Date range (1) 19760**] due to
+supratherapeutic INR (>3).  Coumadin restarted on [**12-24**] at dose
+of 2mg.  5mg is pt's normal dose.  Lower dose given due to
+multiple antibiotics (less K+ production) and amiodarone
+therapy.  Continue to monitor INR and up titrate as needed as
+antibiotic courses are finished.  Pt started on diltiazem to
+90mg PO QID and metoprolol 37.5mg TID.  Pt may benefit from
+cardioversion attempt after amiodarone is fully loaded.  If pt
+becomes tachycardic, may up titrate metoprolol to 150mg total
+per day.  Pt has appt w/ cardiology on [**1-1**].  Will likely bring
+amiodarone down from loading dose at that time.
+
+.
+# Acute Renal Failure/anuria: Likely prerenal in setting of
+bradycardia and hypotension. Pressure increased on pressors.
+Producing scant urine on presentaiton to CCU. Mucus membranes
+dry, may be from hypovolemia vs. anticholinergic effects of
+atropine. Resolved w/ fluids and pressors.
+.
+#ID: Multiple sources of infection:
+a.) Community acquired PNA w/ pansensitive Klebsiella -->
+finished ceftriaxone 7-day course (last day [**12-22**]) and
+azithromycin 5-day course (last day [**12-20**]).
+b.) UA on admission growing VRE, sensitive to linezolid -->
+finished 7-day course, last doze of linezolid on [**12-23**]. Completed.
+
+c.) Positive for C.Diff, started on PO vanc and flagyl (day 1 on
+[**12-18**]). legionella urinary antigen negative. Diarrhea resolved.
+PO vanc d/c'd on [**12-23**].  14 day course of PO flagyl will be
+completed on [**1-1**].
+.
+# Transaminitis: ALT 154, AST 234, new during this admission.
+Possibly from hepatic toxicity as metoprolol, diltiazem, and
+nifedipine are metabolized by liver. [**Month (only) 10**] also be due to hepatic
+ischemia from hypotension. Resolved.
+.
+# Acid-Base: Non-Ag metabolic acidosis likely from diahrrea and
+increased saline administration. Resolved.
+.
+# Anemia: iron deficiency anemia. Stool guaiac negative. On
+iron.  Hct stable and return to [**10-25**] b/l (~27).
+.
+# Hyperlipidemia: lipitor was held for transaminitis, now
+restarted at usual dose.
+
+Moving Forward:
+a.) pt should continue metronidazole for c. diff until [**1-1**],
+which will complete her 14 day course
+b.) Pt's INR subtherapeutic on warfarin dose of 2mg.  Increased
+dose to 3mg/day on discharge.  Usual home dose prior to
+admission was 5mg. Lower dose given due to multiple antibiotics
+(less K+ production) and amiodarone therapy.  INR should
+continue to be  monitored and warfarin may need to be
+up-titrated as pt comes off of antibiotics.
+c.) Pt was started on amiodarone on [**12-17**] on loading dose of 400
+mg [**Hospital1 **].  Pt has cardiology appt on [**1-1**] and will likely be
+decreased to maintenance dose at that time.
+d.) If pt becomes sustained tachycardic, consider up-titrating
+metoprolol.
+
+Medications on Admission:
+ALBUTEROL SULFATE - 90 mcg HFA Aerosol Inhaler - 2 puffs po four
+
+times a day
+ATORVASTATIN [LIPITOR] - 20 mg PO daily
+CITALOPRAM - 10mg Tablet by mouth once a day
+CLONAZEPAM - 0.5 mg Tablet - 1 Tablet(s) by mouth once a day
+DILTIAZEM HCL - 240 mg Capsule, Sust. Release PO daily
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 250-50 mcg/Dose Disk
+with Device - 1 inhalation twice a day
+GLYBURIDE - 10mg PO twice daily
+HYDROCHLOROTHIAZIDE - 12.5 mg PO Daily
+METOPROLOL TARTRATE - 150mg PO Twice daily
+NIFEDIPINE - 30 mg Tab,Sust Rel. 1 tab PO daily
+Osmotic Push 24hr - 1 Tab(s) by mouth once a day
+WARFARIN - 5 mg Tablet - [**12-19**] Tablet(s) by mouth at bedtime
+FERROUS SULFATE - (new) - 325 mg by mouth once a day
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for fever.
+2. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed.
+3. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 9**] (2 times a day).
+4. Insulin Lispro 100 unit/mL Solution Sig: See Sliding Scale
+Subcutaneous ASDIR (AS DIRECTED): See Sliding Scale.
+5. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day) as needed.
+6. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+8. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+10. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H
+(every 8 hours): continue until [**1-1**].
+11. Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge
+Mucous membrane PRN (as needed) as needed for sore throat.
+12. Phenol 1.4 % Aerosol, Spray Sig: One (1) Spray Mucous
+membrane Q4H (every 4 hours) as needed for sore throat.
+13. Diltiazem HCl 360 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO once a day.
+14. Warfarin 3 mg Tablet Sig: One (1) Tablet PO once a day.
+15. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+16. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+17. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at
+4 PM.
+18. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Last Name (un) 19761**]
+
+Discharge Diagnosis:
+Calcium channel blocker toxicity
+Pneumonia
+C. difficile colitis
+vancomycin-resistant enterococcus urinary tract infection
+atrial fibrillation
+anemia
+
+Discharge Condition:
+Stable, eating, drinking, voiding, having bowel movements,
+without complaint.
+
+
+Discharge Instructions:
+You were admitted for having a low heart rate with
+lightheadedness and dizziness.  When you arrived to the
+emergency department, you had a very low blood pressure and,
+after treatment, your lungs filled up with fluid.  As a result,
+you had to be intubated and transferred to the ICU.  In the ICU,
+you developed a pneumonia, a urinary tract infection, and
+infectious diarrhea, for which you were given antibiotics.  In
+addition, you were restarted on two medications to slow down
+your heart rate, and one additional medication to help your
+heart stay in a normal rhythm.  Also, you will be discharged on
+an antibiotic for your diarrhea.  You have several appointments
+scheduled, please attend them all.
+
+Medications:
+START Diltiazem 360mg Tablet once per day
+START Metoprolol Tartrate 37.5mg three times per day
+START Amiodarone 400mg Twice per day
+START Metronidazole 500mg Once per day.  Please continue until
+[**2725-1-1**].
+START Furosemide 20mg Once per day.
+
+If you experience any lightheadedness, dizziness, chest pain,
+nausea, vomiting, continued diarrhea, loss of consciousness,
+blood in your stool and/or vomit, please contact your primary
+care provider [**Name Initial (PRE) 1429**].
+
+Followup Instructions:
+1.  Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1488**], MD Phone:[**Telephone/Fax (1) 1280**]
+Date/Time:[**2725-1-1**] 3:00
+2.  Primary Care: Dr. [**Last Name (STitle) **], Tuesday [**1-6**], 11AM.
+3.  Provider: [**Name10 (NameIs) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 275**] ORTHOPEDIC PRIVATE PRACTICE
+Phone:[**Telephone/Fax (1) 276**] Date/Time:[**2726-5-28**] 11:15
+
+
+
+Completed by:[**2724-12-29**]
+
+DOC CLASS

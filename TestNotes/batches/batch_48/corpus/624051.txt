@@ -1,0 +1,223 @@
+CVICU
+   HPI:
+   HD2
+   [**8-5**] POD 1
+   69yoW s/p desc thoracic Aorta aneurysm Repair/completion of elephant
+   trunk. [**8-4**] rt groin cannulation
+   EF 60% Cr 0.9 Wt 53.5K HgbA1c 5.7
+   PMH: Asc Ao Aneurysm, Recurrent syncope, RLL nodule, RUL subpleural
+   plaque, ^chol, Partial oophorectomy, tubal ligation, excision sebaceous
+   cyst-neck
+   PSH: s/p AVR(25Medtronic Mosaic)Asc Ao-Arch replacement(elephant
+   trunk)[**5-27**], s/p partial oophorectomy , s/p ligal ligation
+   s/p removal of sebaceous cyst on neck
+   [**Last Name (un) **]: ASA 81', Fish Oil, MVI, Coenzyme Q-10
+   Current medications:
+   Acetaminophen, Aspirin EC, Docusate Sodium, Insulin, Metoclopramide,
+   Morphine Sulfate, Oxycodone-Acetaminophen, Phenylephrine, Ranitidine,
+   Vancomycin
+   24 Hour Events:
+   Received from OR
+   Required from neo for blood pressure management
+   Weaned from sedation and extubated without complications
+ CCO PAC - START [**2922-8-4**] 12:15 PM
+ ARTERIAL LINE - START [**2922-8-4**] 12:15 PM
+ OR RECEIVED - At [**2922-8-4**] 12:15 PM
+ ARTERIAL LINE - START [**2922-8-4**] 12:15 PM
+ CORDIS/INTRODUCER - START [**2922-8-4**] 12:15 PM
+ INVASIVE VENTILATION - START [**2922-8-4**] 12:22 PM
+ EKG - At [**2922-8-4**] 01:33 PM
+ EXTUBATION - At [**2922-8-4**] 05:22 PM
+ INVASIVE VENTILATION - STOP [**2922-8-4**] 05:32 PM
+ ARTERIAL LINE - STOP [**2922-8-5**] 06:00 AM
+   Post operative day:
+   POD#1 - [**8-4**] COMPLETION OF ELEPHANT TRUNK, RIGHT GROIN
+   EXPLORATION.THORACIC APPROACH.
+   [**5-27**] S/ AVR/ASCENDING AND TOTAL ARCH WITH ELEPHANT TRUNK.
+   Allergies:
+   Penicillins
+   Rash;
+   Sulfa (Sulfonamide Antibiotics)
+   Rash;
+   Bee Pollens
+   Anaphylaxis; AN
+   Codeine
+   syncope;
+   Epinephrine
+   " racing heart"
+   Tetanus
+   arm swelling
+   w
+   Last dose of Antibiotics:
+   Vancomycin - [**2922-8-5**] 08:00 AM
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**2922-8-5**] 01:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2922-8-5**] 01:36 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**25**] a.m.
+   Tmax: 37.3
+C (99.1
+   T current: 37.3
+C (99.1
+   HR: 88 (46 - 88) bpm
+   BP: 107/48(66) {86/38(54) - 193/58(113)} mmHg
+   RR: 11 (7 - 21) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 63 Inch
+   CVP: 6 (1 - 17) mmHg
+   PAP: (23 mmHg) / (13 mmHg)
+   CO/CI (Fick): (5.5 L/min) / (3.6 L/min/m2)
+   CO/CI (CCO): (4.6 L/min) / (3.3 L/min/m2)
+   SvO2: 72%
+   Mixed Venous O2% sat: 76 - 76
+   Total In:
+                                                                  8,543 mL
+                                                                  1,086 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  8,168 mL
+                                                                  1,086 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  1,855 mL
+                                                                    870 mL
+   Urine:
+                                                                    795 mL
+                                                                    590 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,688 mL
+                                                                    216 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PPS
+   Vt (Set): 500 (500 - 500) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 21 cmH2O
+   Plateau: 15 cmH2O
+   SPO2: 100%
+   ABG: 7.37/40/173/25/1
+   Ve: 7.8 L/min
+   PaO2 / FiO2: 346
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), left thoracotomy
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), right groin
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   202 K/uL
+   9.3 g/dL
+   109
+   0.5 mg/dL
+   25 mEq/L
+   4.7 mEq/L
+   16 mg/dL
+   108 mEq/L
+   138 mEq/L
+   26.4 %
+   11.8 K/uL
+        [image002.jpg]
+                             [**2922-8-4**]  11:50 AM
+                             [**2922-8-4**]  12:34 PM
+                             [**2922-8-4**]  12:38 PM
+                             [**2922-8-4**]  03:00 PM
+                             [**2922-8-4**]  05:15 PM
+                             [**2922-8-4**]  06:37 PM
+                             [**2922-8-4**]  11:00 PM
+                             [**2922-8-5**]  03:00 AM
+                             [**2922-8-5**]  03:22 AM
+                             [**2922-8-5**]  05:00 AM
+   WBC
+   10.9
+   11.8
+   Hct
+   38
+   32.8
+   28.3
+   26.4
+   Plt
+   236
+   202
+   Creatinine
+   0.5
+   0.5
+   TCO2
+   27
+   25
+   26
+   Glucose
+   142
+   152
+   141
+   86
+   117
+   103
+   109
+   Other labs: PT / PTT / INR:13.5/38.3/1.2, Lactic Acid:2.1 mmol/L,
+   Mg:2.0 mg/dL
+   Assessment and Plan
+   AORTIC ANEURYSM, THORACIC (TAA)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled morphine and percocet
+   prn
+   Cardiovascular: Aspirin, Statins, remains on neo for b/p management
+   wean for sbp > 90
+   Pulmonary: IS, cough and deep breath, oob to chair
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Clear liquids, Advance diet as tolerated
+   Renal: Foley, Adequate UO, lasix for diuresis with goal 1000 ml
+   negative for 24 hours
+   Hematology: stable anemia
+   Endocrine: RISS goal BG < 150
+   Infectious Disease: vancomycin periop antibiotics
+   Lines / Tubes / Drains: Foley, Chest tube - pleural
+   Wounds: Dry dressings
+   Fluids: KVO
+   Consults: P.T.
+   Billing Dx:  Post-op hypotension.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Insulin infusion,
+   Lantus (R) protocol
+   Lines:
+   Arterial Line - [**2922-8-4**] 12:15 PM
+   Cordis/Introducer - [**2922-8-4**] 12:15 PM
+   16 Gauge - [**2922-8-4**] 12:15 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Time Spent : 31 min
+
+
+DOC CLASS

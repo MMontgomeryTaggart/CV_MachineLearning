@@ -1,0 +1,155 @@
+Chief Complaint:
+   24 Hour Events:
+ URINE CULTURE - At [**2907-1-14**] 04:00 AM
+   - Fluid balance minus 4 liters by [**2896**]
+   - PCP [**Name Initial (PRE) **] ([**First Name4 (NamePattern1) 67**] [**Last Name (NamePattern1) **])
+   - Started BP meds, D/c'd flagyl, changed inhaled meds from MDI to nebs
+   - PM lytes stable, creatinine continues to improve (0.9)
+   - Having some dyspnea in afternoon; trach cuff deflated, with good
+   effect
+   Allergies:
+   Vancomycin
+   Rash; mouth ulc
+   Iodine; Iodine Containing
+   Nausea/Vomiting
+   Unknown;
+   Ibuprofen
+   Renal Toxicity;
+   Levofloxacin
+   Renal Toxicity;
+   Last dose of Antibiotics:
+   Metronidazole - [**2907-1-12**] 10:01 PM
+   Cefipime - [**2907-1-13**] 12:28 PM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2907-1-13**] 08:47 AM
+   Heparin Sodium (Prophylaxis) - [**2907-1-13**] 10:04 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2907-1-14**] 07:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**08**] AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.4
+C (97.5
+   HR: 76 (63 - 106) bpm
+   BP: 164/71(104) {117/43(67) - 180/80(115)} mmHg
+   RR: 18 (14 - 31) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    650 mL
+                  PO:
+                                                                    600 mL
+                  TF:
+   IVF:
+                                                                     50 mL
+   Blood products:
+   Total out:
+                                                                  5,270 mL
+                                                                    840 mL
+   Urine:
+                                                                  5,270 mL
+                                                                    840 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -4,620 mL
+                                                                   -840 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   SpO2: 95%
+   ABG: 7.39/59/141/36/8
+   PaO2 / FiO2: 282
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   136 K/uL
+   11.8 g/dL
+   130 mg/dL
+   0.8 mg/dL
+   36 mEq/L
+   4.0 mEq/L
+   45 mg/dL
+   99 mEq/L
+   140 mEq/L
+   36.7 %
+   5.4 K/uL
+        [image002.jpg]
+                             [**2907-1-12**]  11:07 AM
+                             [**2907-1-12**]  02:11 PM
+                             [**2907-1-12**]  02:34 PM
+                             [**2907-1-13**]  06:18 AM
+                             [**2907-1-13**]  06:33 AM
+                             [**2907-1-13**]  03:48 PM
+                             [**2907-1-14**]  03:20 AM
+                             [**2907-1-14**]  03:49 AM
+   WBC
+   7.2
+   5.4
+   Hct
+   38.4
+   36.7
+   Plt
+   131
+   136
+   Cr
+   1.4
+   1.0
+   0.9
+   0.8
+   TropT
+   <0.01
+   <0.01
+   TCO2
+   31
+   37
+   37
+   Glucose
+   168
+   124
+   233
+   130
+   Other labs: PT / PTT / INR:12.4/23.8/1.0, CK / CKMB /
+   Troponin-T:23//<0.01, Differential-Neuts:85.5 %, Lymph:8.2 %, Mono:3.1
+   %, Eos:3.0 %, Lactic Acid:0.7 mmol/L, Ca++:9.3 mg/dL, Mg++:1.9 mg/dL,
+   PO4:3.2 mg/dL
+   Assessment and Plan
+ ANEMIA, CHRONIC
+ DEPRESSION
+ HEADACHE
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE
+ URINARY TRACT INFECTION (UTI)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ DIABETES MELLITUS (DM), TYPE I
+ HYPONATREMIA (LOW SODIUM, HYPOSMOLALITY)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2907-1-12**] 10:35 AM
+   Arterial Line - [**2907-1-12**] 02:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

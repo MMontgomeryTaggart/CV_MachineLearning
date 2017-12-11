@@ -1,0 +1,159 @@
+CVICU
+   HPI:
+   HD3
+   68M s/p CABG [**10-16**]. D/C 121.SOB [**10-27**]., syncope [**10-28**] to [**Location (un) 239**]. CTA
+   posi bilatt PEs.Argatroban 2ug/kg/min begun, transferred. Stable, 4L
+   NC.
+   WT: 87kg Cr:1.3 EF:55
+   PMH:BPH,HTN,GERD, HIT positive
+   [**Last Name (un) **]:Amio 200/D,Lasix 40/D(LD12/8) KCl 20(LD [**10-28**]),ASA 81/D,Lopressor
+   25BID,percocet,omeprazole 20/D,Tamsulosin 0.4/D,Vytorin 10/40/
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Amiodarone Argatroban Metoprolol  Pantoprazole  Simvastatin  Warfarin
+   24 Hour Events:
+   Allergies:
+   Penicillins
+   Rash;
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Argatroban - 1.12 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3129-10-31**] 08:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**32**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 37
+C (98.6
+   HR: 55 (48 - 75) bpm
+   BP: 130/67(83) {115/67(73) - 156/82(97)} mmHg
+   RR: 11 (11 - 23) insp/min
+   SPO2: 96%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 84.8 kg (admission): 84.5 kg
+             Total In:
+                                                                    159 mL
+                                                                     49 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    159 mL
+                                                                     49 mL
+   Blood products:
+   Total out:
+                                                                  2,085 mL
+                                                                    650 mL
+   Urine:
+                                                                  2,085 mL
+                                                                    650 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,926 mL
+                                                                   -601 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Murmur: Diastolic), [**12-24**]@RT Sternal
+   border
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : ), (Sternum:
+   Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   302 K/uL
+   10.6 g/dL
+   109 mg/dL
+   1.2 mg/dL
+   26 mEq/L
+   3.7 mEq/L
+   16 mg/dL
+   108 mEq/L
+   142 mEq/L
+   32.0 %
+   5.4 K/uL
+        [image002.jpg]
+                             [**3129-10-29**]  02:24 AM
+                             [**3129-10-29**]  04:07 AM
+                            [**3129-10-30**]  01:54 AM
+                            [**3129-10-31**]  05:24 AM
+   WBC
+   7.6
+   6.7
+   5.4
+   Hct
+   30.9
+   29.4
+   32.0
+   Plt
+   [**Telephone/Fax (3) 4153**]
+   Creatinine
+   1.2
+   1.1
+   1.2
+   TCO2
+   27
+   Glucose
+   138
+   112
+   109
+   Other labs: PT / PTT / INR:22.3/61.1/2.1, ALT / AST:41/27, Alk-Phos / T
+   bili:92/0.3, Differential-Neuts:86.5 %, Band:0.0 %, Lymph:9.9 %,
+   Mono:3.2 %, Eos:0.3 %, Albumin:3.6 g/dL, Ca:9.0 mg/dL, Mg:2.2 mg/dL,
+   PO4:3.5 mg/dL
+   Assessment and Plan
+   .H/O BRADYCARDIA, SYNCOPE, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN),
+   PULMONARY EMBOLISM (PE), ACUTE
+   Assessment and Plan:
+   Neurologic: Neuro checks Q:  hr, alert, awake
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   s/p B/L PE , On argatroban-therapeutic ptt, coumadin today
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal: Foley, Adequate UO
+   Hematology: stable
+   Endocrine: RISS
+   Infectious Disease: stable
+   Lines / Tubes / Drains: Foley
+   Wounds:
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3129-10-29**] 02:20 AM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Argatroban (TM))
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 34 minutes
+
+
+DOC CLASS

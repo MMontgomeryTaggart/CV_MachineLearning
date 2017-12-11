@@ -1,0 +1,196 @@
+Chief Complaint:
+   24 Hour Events:
+   ABG last night was 7.27/43/76/21, started on bicarb.
+   Has been afebrile with increasing leukocytosis.
+   This morning, he was more awake and alert, but complaining of abdominal
+   pain.
+ MULTI LUMEN - START [**2797-9-21**] 09:13 PM
+ ARTERIAL LINE - START [**2797-9-21**] 11:12 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2797-9-22**] 12:44 AM
+   Infusions:
+   Norepinephrine - 0.15 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2797-9-22**] 07:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 109 (78 - 110) bpm
+   BP: 107/46(66) {88/40(54) - 125/50(74)} mmHg
+   RR: 19 (17 - 21) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 71 Inch
+    CVP: 7 (5 - 12)mmHg
+   Total In:
+                                                                  5,031 mL
+                                                                  1,459 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,031 mL
+                                                                  1,459 mL
+   Blood products:
+   Total out:
+                                                                    220 mL
+                                                                    155 mL
+   Urine:
+                                                                     70 mL
+                                                                    155 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,811 mL
+                                                                  1,307 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: 7.27/43/76.[**Numeric Identifier 119**]/19/-6
+   Physical Examination
+   Gen: NAD
+   Abd:  soft, diffusely tender, BS +
+   Neurologic: Alert and oriented x1.  Responding appropriately.  No focal
+   neuro findings.
+   Ext: 2+edema in feet bilaterally.
+   Labs / Radiology
+   140 K/uL
+   8.8 g/dL
+   40 mg/dL
+   2.2 mg/dL
+   19 mEq/L
+   4.4 mEq/L
+   39 mg/dL
+   114 mEq/L
+   143 mEq/L
+   26.0 %
+   17.9 K/uL
+        [image002.jpg]
+                             [**2797-9-22**]  04:03 AM
+                             [**2797-9-22**]  04:15 AM
+   WBC
+   17.9
+   Hct
+   26.0
+   Plt
+   140
+   Cr
+   2.2
+   TCO2
+   21
+   Glucose
+   40
+   Other labs: PT / PTT / INR:15.7/42.7/1.4, Lactic Acid:2.0 mmol/L,
+   Ca++:7.1 mg/dL, Mg++:1.8 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   Assessment/Plan: [**Age over 90 **] y/o M with PMHx of DM & hypotensive TIA presents
+   from rehab with severe sepsis, (hypotension and UTI/pyelonephritis) and
+   abdominal pain.
+   # Sepsis/Pyelonephritis: Pt presented with hypotension, acute renal
+   failure, bandemia, positive UA and CT w/ possible pyelonephritis.  SBP
+   responded to 4L IVF with CVP of 12 and SVO2 in 70-80s.  However, MAPs
+   continue to be marginal and pts baseline is hypertensive.  Lactate
+   remained elevated at 2.8 after fluid resuscitation.  A-line intact.
+   - Continue LR boluses to maintain CVP goal of >[**9-9**].  We will try to
+   keep his CVP at the higher end because his ECHO shows borderline
+   pulmonary hypertension so he probably has elevated CVP at baseline.
+   - Continue Levophed gtt to maintain MAP > 65 and UOP > 30cc/hr
+   - Continue Vanc/Zosyn for empiric coverage of UTI/Pyelo. (no history of
+   ESBL)
+   - f/u blood, urine cultures (narrow Abx when avail)
+   - check AM/PM ABG/lactate
+   # Non-Anion Gap Metabolic Acidosis:
+   #Abdominal Pain: Dilated colon on CXR and in Abd CT.  Pain out of
+   proportion to exam this morning.  Given his recent TIA we are concerned
+   about ischemic bowel.  Given his fever and increasing leukocytosis and
+   recent hospitalizationwe are also concerned for C. Diff although he
+   reports normal stool yesterday and was not on antibiotics recently. It
+   is also possible he has pancreatic or liver/biliary pathology. It
+   appears that his abdominal imaging is unchanged from previous
+   admission.
+   -KUB
+   -Start Empiric Flagyl for C. Diff
+   -Send C. Diff cultures
+   -check Amylase, Lipase, LFTs
+   -Serial Abdominal exams
+   - OSH records to determine chronicity of this problem.
+   -Zofran and morphine for pain
+   .
+   # Recent TIA/MS changes: Pt noted to be lethargic at rehab and CNS
+   vasculatur sensitive to low BPs given TIA [**3-1**] hypotension during recent
+   admission. Neuro exam non-focal but pt not oriented to time/place.
+   Most likely toxic/metabolic encephalopathy in setting of acute
+   infection vs. baseline MS. [**Name13 (STitle) 126**] continue with aggressive IVF
+   resuscitation & pressors prn to avoid hypotensive/hypoperfusion to
+   CNS.  Will d/w HCP in am regarding recent baseline MS.
+   - Baseline hypertension, so will continue levophed gtt to maintain
+   MAP>65 and will increase for mental status decline
+   - q4h neuro exams
+   - treat infection: continue empiric Abx & IVF
+   -speak to his HCP about baseline mental status.
+   .
+   # ARF: Pt with recent baseline creatinine of 1.1, currently ????
+   likely due to sepsis and relative hypovolemia/hypotension.
+   - monitor creatinine with aggressive IVF
+   - renally dose ABx, hold nephrotoxins
+   - continue Levo gtt to maintain MAP>65 to maintain kidney perfusion
+   .
+   # Anemia: Baseline hct appears to be in 26-29 range, currently  and
+   normocytic after agressive resuscitation with NS and LR.   Most likely
+   hemodilution
+   - f/u Fe studies
+   - guaic all stools
+   - type & cross
+   .
+   # DM: Holding oral hypoglycemics, monitor BS QIDACHS
+   - Humalog sliding scale coverage
+   .
+   # Hypertension: currently hypotensive
+   - holding all BP meds for now
+   - continue Aspirin 81mg
+   .
+   # Hyperlipidemia: continue Atorvastatin 10mg daily
+   .
+   # FEN: NPO for now given altered mental status
+   - adv diabetic diet when more alert
+   - monitor lytes/replete prn
+   .
+   # Access: Subclavian CVL, PIV
+   .
+   # PPx: Heparin sc TID, PPI, bowel regimen
+   .
+   # Code: DNR/DNI (lines & pressors okay)
+   .
+   # Dispo: ICU
+   .
+   # Comm:  with patient and HCP
+   ICU [**Name (NI) 75**]
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2797-9-21**] 09:13 PM
+   18 Gauge - [**2797-9-21**] 09:14 PM
+   Arterial Line - [**2797-9-21**] 11:12 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,261 @@
+TITLE: CCU Resident Progress Note
+   Chief Complaint: Intubated in CCU
+   24 Hour Events:
+   - Had full family meeting yesterday with her husband and multiple sons
+   and daughters.  The family decided that their first priority is [** **]
+   for the patient, and her code status was changed to DNR/DNI.  We
+   initially continued to monitor her respiratory status with VBG
+   However,  her PCO2 began to climb on her VBG and she appeared to be
+   gasping for air and uncomfortable.  She was started on a morphine drip
+   (initially at 1mg/hr).  After this, her respirations were much more
+   unlabored, she converted to sinus rhythm with rates in the 60-70
+s, and
+   she was no longer hypertensive.
+   - She also had high fevers throughout the day to 104.8, which broke
+   with a cooling blanket, Tylenol, and morphine administration.
+   - One episode of feeling pain and shortness of breath last evening,
+   given 0.5mg Ativan IV which helped calm her down
+   - She continues on medications for rate control/rhythm control, as well
+   as for her breathing [** **].  Other medications were discontinued, as
+   well blood draws.  The family decided against a new central line,
+   femoral line was left in for now.
+   - Left UE US showed no evidence of DVT on prelim read
+   Allergies:
+   Aspirin
+   Unknown;
+   Terbutaline
+   Unknown;
+   Talwin Nx (Oral) (Pentazocine Hcl/Naloxone Hcl)
+   Unknown;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Unknown;
+   Inhalants
+   Wheezing;
+   Last dose of Antibiotics:
+   Cefipime - [**3140-8-10**] 10:30 PM
+   Vancomycin - [**3140-8-11**] 09:12 AM
+   Metronidazole - [**3140-8-11**] 12:00 PM
+   Infusions:
+   Morphine Sulfate - 3 mg/hour
+   Other ICU medications:
+   Morphine Sulfate - [**3140-8-11**] 10:22 PM
+   Lorazepam (Ativan) - [**3140-8-11**] 10:45 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3140-8-12**] 06:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 40.4
+C (104.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 60 (60 - 129) bpm
+   BP: 143/62(83) {93/32(47) - 180/82(101)} mmHg
+   RR: 14 (12 - 37) insp/min
+   SpO2: 100%
+   Heart rhythm: A Paced
+   Wgt (current): 90.1 kg (admission): 93 kg
+   Height: 68 Inch
+             Total In:
+                                                                  1,508 mL
+                                                                    108 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,288 mL
+                                                                     48 mL
+   Blood products:
+   Total out:
+                                                                    950 mL
+                                                                    280 mL
+   Urine:
+                                                                    950 mL
+                                                                    280 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    558 mL
+                                                                   -172 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 100%
+   ABG: 7.45/45/252/31/7  last VBG:  7.36/59/30/35/4 with lactate 3.0
+   PaO2 / FiO2: 630
+   Physical Examination
+   GENERAL: With face tent, labored breathing but reactive to questions
+   and much more alert today.
+   HEENT:  Sclera anicteric. Pupils equal reactive bilaterally.
+   NECK: Supple with JVP of difficult to estimate [**2-19**] habitus.
+   CARDIAC: NSR, RR, normal S1, S2. No m/r/g.
+   LUNGS: Course breath sounds bilaterally with expiratory wheezing.
+   ABDOMEN: Soft, obese, NTND. No HSM or tenderness.
+   EXTREMITIES: Left femoral line in place. No lower extremity swelling.
+   Left extremity swelling diffuse without erythema.
+   SKIN: No stasis dermatitis, ulcers. Substantial bruising in the upper
+   extremity bilaterally. No sacral pitting edema appreciated
+   PULSES:  Right:  DP 1+ PT 1+, Left:  DP 1+ PT 1+
+   Neuro: Pt will open eyes to name and nod/shake her head to yes/no
+   questions.
+   Labs / Radiology
+   339 K/uL
+   7.9 g/dL
+   166 mg/dL
+   1.1 mg/dL
+   31 mEq/L
+   3.5 mEq/L
+   38 mg/dL
+   104 mEq/L
+   144 mEq/L
+   25.9 %
+   14.3 K/uL
+        [image002.jpg]
+   (Labs are from [**3140-8-11**], no labs drawn [**3140-8-12**])
+                             [**3140-8-10**]  04:59 AM
+                             [**3140-8-10**]  05:00 AM
+                             [**3140-8-10**]  05:56 AM
+                             [**3140-8-10**]  06:00 AM
+                             [**3140-8-10**]  05:53 PM
+                             [**3140-8-11**]  02:08 AM
+                             [**3140-8-11**]  05:27 AM
+                             [**3140-8-11**]  08:53 AM
+                             [**3140-8-11**]  01:06 PM
+                             [**3140-8-11**]  05:24 PM
+   WBC
+   13.7
+   17.3
+   14.3
+   Hct
+   26.4
+   26.9
+   25.9
+   Plt
+   [**Telephone/Fax (3) 8915**]
+   Cr
+   1.1
+   1.0
+   0.9
+   1.1
+   TCO2
+   33
+   34
+   34
+   32
+   Glucose
+   155
+   178
+   163
+   107
+   106
+   97
+   163
+   166
+   Other labs: PT / PTT / INR:22.1/33.0/2.1, CK / CKMB /
+   Troponin-T:63/4/0.09, ALT / AST:72/77, Alk Phos / T Bili:228/0.6,
+   Differential-Neuts:83.7 %, Lymph:9.2 %, Mono:6.8 %, Eos:0.2 %, Lactic
+   Acid:3.0 mmol/L, LDH:328 IU/L, Ca++:8.0 mg/dL, Mg++:2.0 mg/dL, PO4:2.6
+   mg/dL
+   Assessment and Plan
+   72 yo female h/o DM, HLD, HTN, Afib with RVR, s/p pacemaker and sarcoid
+   presents with acute heart failure leading to flash pulmonary edema.
+   Patient with multiple episodes of AFib with RVR and hypotension since
+   admission. She was sent for cath and found to have 2 vessel disease,
+   s/p BMS to LAD.  Now extubated and breathing comfortably with morphine
+   administration.  She is in and out of Afib with rate 110-130, current
+   in sinus or paced rhythm with rate 60-70.
+   .
+   # Respiratory Failure: Intubated s/p flash pulmonary edema in OSH;
+   possibly secondary to Acute dCHF and complicated by severe pulmonary
+   hypertension. Extubated two days ago with increased respiratory
+   distress yesterday afternoon requiring treatment with morphine.  BiPap
+   was an option yesterday afternoon but with family
+s goals of care in
+   mind, a morphine drip was started.
+   - Doing well this morning with more comfortable breathing
+   - Titrate morphine drip as needed for respiratory distress and [**Telephone/Fax (3) **]
+   - Continue Xopenex/Iprotroprium nebs Q4Hours as needed
+   .
+   # RHYTHM:  Patient now in sinus rhythm, recently in afib with rates in
+   the 100s to 130s.
+   - Continue Metoprolol 100mg po TID; once she has 5 grams of amio, will
+   cut back metoprolol to [**Hospital1 7**]
+   - Continue Diltiazem 60mg QID, after 2 doses, will increase Dilt as
+   needed for rate control
+   - Continue Amiodarone 400mg [**Hospital1 7**]
+   - Monitor on telemetry
+   - Will wean metoprolol to [**Hospital1 7**] at 5 grams of amiodorone is in system
+   (currently at 1600mg)
+   .
+   # Fever/Leukocytosis: Patient febrile yesterday with rectal temp of
+   almost 105.  Likely C Diff in this case, as patient with large smelly
+   stool last evening.
+   - Will pull femoral line today for [**Hospital1 **] and for infection prevention
+   - FU cultures
+   - Continue fever treatments as needed with Tylenol and cooling blanket
+   .
+   #Neuro Status: Sedation stopped ([**8-10**]). Pt appears to be slowly
+   improving and more lucid with administration of morphine.
+   - Follow neuro status
+   # Left arm swelling
+ possible DVT?
+   - Will get left upper extremity swelling
+   # CORONARIES: NSTEMI: 2 vessel disease s/p BMS to the mid LAD.
+   - Have stopped Plavix 75 mg Daily, Simvastatin 80 mg daily, and ASA 325
+   mg Daily
+   - Continue Metoprolol 100mg TID for rate control
+   - Continue Captopril 6.25 mg [**Hospital1 7**] for blood pressure control
+   .
+   # Hypertension
+ typically okay BP
+s when not in respiratory distress,
+   added Captopril yesterday.
+   - will watch, possible increase in Captopril today in necessary and not
+   improving with increased dose of Diltiazem
+   # Hypernatremia: Resolved after 2L of D5W. Pt had a 4L Free Water
+   deficit.
+   - Have stopped labs and fluid repletion
+   .
+   # Diabetes type 2: Patient recently on insulin drip, now fingersticks
+   have stopped in light of goals of care.
+   .
+   # PUMP: EF of >55% per TTE. Patient even over the last 24 hours. Dose
+   not appear to be volume overloaded on exam.
+   .
+   # Anemia: Last Hct 27, stool guaiac positive.
+   .
+   # Acute Renal Failure: Crt stable at 0.9. Most likely secondary to
+   hypotension in setting of afib rvr.  FeUrea 8.16% is consistent with
+   pre renal etiology..
+   # Sarcoidosis: On home O2 3LNC; currently stable; patient intubated
+   .
+   # Dyslipidemia: Lipid panel shows TC 157, TG: 156 HDL 30 LDLc 96; Not
+   optimal HDL/LDL level
+   - Have stopped zetia and simvastatin for now
+   # Hypothyroidism:
+   - have stopped Synthroid at 25 mcg daily
+   # Depression:
+   - Have stopped Paroxetine 10 mg daily, consider restarting in a few
+   days if patient
+   # GERD:
+   -  Have stopped famotidine
+   ICU Care
+ [**Hospital1 569**] Measures Only
+   Nutrition: Tube feeds
+   Glycemic Control:  None at this time
+   Lines: Multi Lumen - [**3140-8-6**] 07:06 PM
+   Prophylaxis:
+   DVT: None at this time
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  With family and sons
+   [**Name (NI) 34**] status: [**Name (NI) 569**] measures only
+   Disposition:
+
+
+DOC CLASS

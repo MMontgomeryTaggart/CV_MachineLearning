@@ -1,0 +1,194 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   -CXR: worsening opacity in RLL, increased haziness in L base - ? new
+   consolidation; recommend CT chest as pt had PNA in same area of RLL
+   last year
+   - talked to outpatient provider who says pt just completed course of
+   ciprofloxacin x 10 days in [**Month (only) 1349**] and azithromycin course last summer
+   for RLL pna
+   - started ceftriaxone, azithromycin, metronidazole, held albuterol [**1-13**]
+   significant ectopy and NSVT
+   - gave 0.5mg ativan for anxiety
+   - CT scan: multiple bronchial nodules suggestive of neoplasm primary
+   lung vs mets from multinodular thyroid.  will get pulmonary consult in
+   am to see if lesions are amenable to bronchoscopy
+   - d/ced foley as pt leaking around foley
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3225-11-20**] 03:10 PM
+   Azithromycin - [**3225-11-20**] 03:10 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3225-11-21**] 07:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 89 (61 - 93) bpm
+   BP: 104/47(61) {87/36(49) - 127/65(82)} mmHg
+   RR: 17 (14 - 20) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 55 kg (admission): 53 kg
+             Total In:
+                                                                  1,220 mL
+                                                                    109 mL
+   PO:
+                                                                    600 mL
+             TF:
+   IVF:
+                                                                    620 mL
+                                                                    109 mL
+   Blood products:
+   Total out:
+                                                                  1,220 mL
+                                                                    420 mL
+   Urine:
+                                                                  1,220 mL
+                                                                    420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -311 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 96%
+   ABG: ////
+   Physical Examination
+   GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+   NECK: Supple with JVP of 8 cm.
+   CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: Resp were unlabored, no accessory muscle use. Dry crackles in R
+   base.
+   ABDOMEN: Soft, NTND. No HSM or tenderness.
+   EXTREMITIES: No c/c/e. No hematoma, no bruit, dressing c/d/i.
+   PULSES:
+   Right: Carotid 2+ DP 2+ PT 2+
+   Left: Carotid 2+ DP 2+ PT 2+
+   Labs / Radiology
+   158 K/uL
+   10.4 g/dL
+   107 mg/dL
+   1.2 mg/dL
+   28 mEq/L
+   4.7 mEq/L
+   17 mg/dL
+   106 mEq/L
+   140 mEq/L
+   32.0 %
+   5.3 K/uL
+        [image002.jpg]
+                             [**3225-11-19**]  05:56 PM
+                            [**3225-11-20**]  05:01 AM
+                            [**3225-11-20**]  07:48 AM
+                            [**3225-11-21**]  06:05 AM
+   WBC
+   5.5
+   6.5
+   5.3
+   Hct
+   37.9
+   38.2
+   32.0
+   Plt
+   185
+   165
+   158
+   Cr
+   0.9
+   1.2
+   TropT
+   3.99
+   2.65
+   TCO2
+   28
+   Glucose
+   95
+   107
+   Other labs: PT / PTT / INR:12.3/95.6/1.0, CK / CKMB /
+   Troponin-T:371/56/2.65, Ca++:8.8 mg/dL, Mg++:2.0 mg/dL, PO4:5.0 mg/dL
+   Assessment and Plan
+   [**Known patient firstname 1488**] [**Known patient lastname 9582**] is a 81 yo female with a history of CAD who presented
+   with an STEMI s/p cath.
+   .
+   # CORONARIES:  Patient with anterior STEMI.  SVG found to be completely
+   occluded and a BMS was placed in the proximal LAD.
+   - plavix 75 and aspirin 325mg daily
+   - metoprolol 12.5mg PO BID
+   - hold ACEi, as BP has been low
+   - Echo with akinesis
+ pt started on heparin gtt overnight
+   - atorvastatin 80mg PO daily
+   - monitor CE, currently downtrending
+   .
+   # PUMP:  patient appears clinically euvolemic, however, patient with
+   substantial oxygen requirement concerning for pulmonary edema. ECHO
+   with EF 30-35%. SOB did not improve with Lasix overnight.
+   # RHYTHM: currently in normal sinus rhythm.  Few episodes of NSVT.
+   - will monitor on tele.
+   .
+   # Hypoxia: currently in low 90s on 6L.  Hypoxia most likely secondary
+   to pulmonary edema in setting of stiff ventricle.  Patient recently
+   completed 2 full abx courses for PNA. CXR with worsening RLL opacity
+   and new L haziness concerning for PNA. Pt with long smoking history and
+   mildly hyperinflated lungs
+ likely retainer at baseline. Goal O2sat
+   88-92%.
+   - supplemental O2 prn
+   - CT chest today
+   - consider starting Abx for PNA
+   .
+   # Chronic renal insufficiency - patient with GFR 48.
+   - renally dose medications & avoid nephrotoxins
+   .
+   # HTN - currently mildly hypotensive. Monitor BP medications, make
+   changes above.
+   .
+   # Hyperlipidemia - will start atorvastatin as above.
+   .
+   # Macular Degeneration - continue vitamins & minerals
+   .
+   .
+   FEN:  cardiac diet.
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with Hep SQ
+   -Bowel regimen with colace & senna
+   .
+   CODE: Presumed full
+   .
+   COMM:  [**Name (NI) 438**] & [**Name2 (NI) 239**]
+   .
+   DISPO: CCU for now, call out to floor if O2sat maintained at 88-92%
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3225-11-19**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,263 @@
+Chief Complaint: respiratory failure
+   24 Hour Events:
+   - social work and palliative care saw patient and family today,
+   planning for family meeting today btw 2 and 2:30
+   - family interested in getting patient home, although seems impossible
+   at this time; may be able to drive past home with funeral home staff
+   - no arterial access available today
+   - continued CVVH and were able to remove about 50 cc/hr with no change
+   in patient's mentation
+   - no major change in clinic status
+   - unable to tolerate PS weaning yesterday, on AC
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Sedated, Encephalopathy
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Bee Pollens
+   Unknown; pt. is
+   Last dose of Antibiotics:
+   Linezolid - [**2563-6-15**] 08:12 PM
+   Infusions:
+   Argatroban - 1 mcg/Kg/min
+   Norepinephrine - 0.08 mcg/Kg/min
+   Vasopressin - 2.4 units/hour
+   Calcium Gluconate (CRRT) - 1.2 grams/hour
+   KCl (CRRT) - 1 mEq./hour
+   Other ICU medications:
+   Other medications:
+   Levophed/Vasopressin
+   Pantoprazole
+   Linezolid (D1 = [**6-13**])
+   Fentanyl prn
+   Versed prn
+   Digoxin 0.0525
+   Argatroban
+   Lipitor 40
+   Tylenol prn
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2563-6-16**] 07:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.3
+   Tcurrent: 36
+C (96.8
+   HR: 118 (106 - 121) bpm
+   BP: 70/43(46) {70/43(46) - 70/43(46)} mmHg
+   RR: 21 (17 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 58.1 kg (admission): 53.2 kg
+   Height: 61 Inch
+             Total In:
+                                                                  3,151 mL
+                                                                  1,238 mL
+   PO:
+             TF:
+                                                                    610 mL
+                                                                    199 mL
+   IVF:
+                                                                  2,315 mL
+                                                                  1,009 mL
+   Blood products:
+   Total out:
+                                                                  4,348 mL
+                                                                    960 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   50 mL
+   Balance:
+                                                                 -1,197 mL
+                                                                    278 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 350 (350 - 350) mL
+   PS : 15 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 3
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 29 cmH2O
+   Plateau: 28 cmH2O
+   SpO2: 100%
+   ABG: ///23/
+   Ve: 8 L/min
+   Physical Examination
+   Gen: sedated, intubated
+   HEENT: ET tube, OGT
+   CV: tachycardic, systolic murmur at LUSB
+   Pulm: CTA anteriorly
+   Abd: obese, soft, ND, ND, bowel sounds present
+   Ext: + b/l AKAs, anasarca
+   Labs / Radiology
+   178 K/uL
+   7.7 g/dL
+   163 mg/dL
+   0.4 mg/dL
+   23 mEq/L
+   4.1 mEq/L
+   6 mg/dL
+   102 mEq/L
+   133 mEq/L
+   27.5 %
+   13.7 K/uL
+        [image002.jpg]
+                             [**2563-6-14**]  05:12 AM
+                             [**2563-6-14**]  10:09 AM
+                             [**2563-6-14**]  10:24 AM
+                             [**2563-6-14**]  02:11 PM
+                             [**2563-6-14**]  05:04 PM
+                             [**2563-6-14**]  11:48 PM
+                             [**2563-6-15**]  05:42 AM
+                             [**2563-6-15**]  05:31 PM
+                             [**2563-6-16**]  12:03 AM
+                             [**2563-6-16**]  05:16 AM
+   WBC
+   12.9
+   14.8
+   12.9
+   13.7
+   Hct
+   30.2
+   29.5
+   27.3
+   27.5
+   Plt
+   131
+   168
+   164
+   178
+   Cr
+   0.4
+   0.4
+   0.4
+   0.4
+   0.4
+   TCO2
+   24
+   25
+   23
+   Glucose
+   142
+   179
+   230
+   230
+   216
+   176
+   163
+   Other labs: PT / PTT / INR:24.3/63.3/2.3, CK / CKMB /
+   Troponin-T:16/3/0.14, ALT / AST:[**11-13**], Alk Phos / T Bili:112/0.4,
+   Differential-Neuts:88.5 %, Band:0.0 %, Lymph:6.5 %, Mono:4.6 %, Eos:0.2
+   %, D-dimer:824 ng/mL, Fibrinogen:254 mg/dL, Lactic Acid:0.9 mmol/L,
+   Albumin:2.6 g/dL, LDH:210 IU/L, Ca++:8.6 mg/dL, Mg++:1.8 mg/dL, PO4:1.9
+   mg/dL
+   Assessment and Plan
+   Ms. [**Known patient lastname 2746**] is a [**Age over 90 304**] yo woman with hx of HIT, ESRD on HD, s/p b/l AKA
+   presents with respiratory failure secondary to ?pneumonia.  Complicated
+   by severe heart failure physiology.  Unable to wean off vent or
+   pressors.
+   .
+   Respiratory failure.  Patient s/p 8 days of vanco/cefepime.  Her mental
+   status has not been a barrier to extubation.  She has rapid shallow
+   breathing with SBTs with Vt less than 100 on PS 5/5.  Not improving
+   despite removing fluid through CVVH.  DFA for flu negative.
+   - cont PS trials
+   - chest PT/suctioning prn
+   - patient not making much progress and will discuss long term decision
+   making with family in meeting tomorrow at 230om
+   .
+   Shock. Patient presented with what was thought to be septic shock due
+   to pneumonia.  Patient is s/p 8 days of vanco/cefepime for VAP.  Also
+   has likely line infection, though fem line is now removed.  [**Month (only) 56**] have
+   element of cardiogenic shock given her function AS in setting of
+   tachycardia.  Patient had 20 point cortisol response with [**Last Name (un) 43**]-stim
+   test.  Patient is failing to wean off the pressors, and now no longer
+   has arterial access.  Cannot get accurate blood pressure with the cuff
+   either.
+   - cont pressors at current level, titrate to mental status for now as
+   cannot assess BP, urine output or heart rate (as pt has stable
+   tachycardica and PAF)
+   - attempt to look for arterial access in L groin today, although was
+   site of infection and very high risk
+   - linezolid for Enterococcus line infection, line has been removed
+   - cont levofed and vasopressin, no need to try and wean today
+   - CVVH for volume removal
+   .
+   Enteroccus line infection.  Tip of femoral line positive for
+   enteroccus.  Line has been removed.  Leukocytosis trending down.
+   - linezolid for 7 day course post-removal of line (day 1 [**6-13**]) until
+   [**6-20**]
+   - f/u Enterococcus sensitivities - VRE
+   - trend WBC and fever curve, has been afebrile
+   .
+   G-tube bleeding-bleeding upon residual check. Pink in color.
+   -Hct trending down slightly, not quickly
+   -[**Hospital1 **] PPI
+   -guaiac stool
+   - tx for hct <21
+   .
+   Heart failure/functional AS.  Most recent echo shows severe AS, but per
+   cards, likely functional due to low EF, poor filling times.  Anticipate
+   some improvement with rate control. Initially there was improvement of
+   HR with dig, butnow more tachycardic in setting of volume removal.
+   - digoxin for rate control
+   - consider cardioversion if unable to wean from pressors
+   .
+   PAF. cont dig, appreciate cards recs
+   .
+   HIT.  HIT was diagnosed in [**10/2561**] and complicated by thrombus in b/l
+   lower extrem requiring amputations.  Currently on agratroban, but
+   coumadin has not been restarted.
+   - NO HEPARIN PRODUCTS
+   - Hold coumadin for now given acute infectious setting; consider
+   resuming post-extubation
+   - continue argatroban, has been therapeutic
+   .
+   ESRD on HD.  Currently on CVVH, appreciate renal recs
+   - CVVH with goal net negative
+   - follow TID lytes
+   - follow renal recs
+   .
+   Anemia.  Stable.  Likely secondary chronic disease and blood loss from
+   blood draws and procedure.  Also has neck hematoma where IJ was
+   attempted and has guaiac positive stools.  Also, small amount of blood
+   in NGT suctioning as well.
+   -trend HCT
+   -active T+S
+   .
+   CAD. Patient had NSTEMI in [**2561**].  EF of 20% on most recent echo.
+   - no ASA
+   - no BB given pressor requirement
+   - continue statin
+   .
+   Hypothyroid.  TSH wnl during this hospitalization.
+   - continue IV levothyroxine
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2563-6-16**] 06:59 AM 25.[**Telephone/Fax (3) 9668**] mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**2563-6-5**] 01:56 AM
+   PICC Line - [**2563-6-10**] 11:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

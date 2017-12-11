@@ -1,0 +1,196 @@
+Chief Complaint:
+   24 Hour Events:
+ CALLED OUT
+   [**2876-4-11**]:
+   - Admitted asper admit note
+   - No overnight events (stable BPs)
+   Allergies:
+   Lidocaine
+   Unknown;
+   Codeine
+   Nausea/Vomiting
+   Iodine; Iodine Containing
+   Unknown;
+   Tylenol (Oral) (D-Methorphan/P-Ephed/Acetaminp)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2876-4-11**] 10:59 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2876-4-12**] 10:43 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**78**] AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 55 (51 - 76) bpm
+   BP: 135/53(74) {111/38(57) - 154/77(95)} mmHg
+   RR: 12 (12 - 20) insp/min
+   SpO2: 97%
+   Heart rhythm: SB (Sinus Bradycardia)
+             Total In:
+                                                                    953 mL
+                                                                    183 mL
+   PO:
+             75 mL
+   TF:
+   IVF:
+                                                                    153 mL
+                                                                    108 mL
+   Blood products:
+   Total out:
+                                                                    475 mL
+                                                                    225 mL
+   Urine:
+                                                                    100 mL
+                                                                    225 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    478 mL
+                                                                    -42 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///27/
+   Physical Examination
+   General: Alert, oriented, no acute distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi
+   CV: Regular rate and rhythm, normal S1 + S2, II/VI systolic murmur at
+   apex
+   Abdomen:  soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   GU: no foley
+   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Neuro: A+Ox3, CN II-XII intact
+   Motor: Strength 5/5 upper and lower extremities
+   Gait assessment deferred
+   Labs / Radiology
+   279 K/uL
+   11.4 g/dL
+   90 mg/dL
+   1.0 mg/dL
+   27 mEq/L
+   3.8 mEq/L
+   15 mg/dL
+   110 mEq/L
+   146 mEq/L
+   34.5 %
+   5.3 K/uL
+        [image002.jpg]
+                             [**2876-4-11**]  11:07 PM
+                             [**2876-4-12**]  06:30 AM
+   WBC
+   6.0
+   5.3
+   Hct
+   33.9
+   34.5
+   Plt
+   286
+   279
+   Cr
+   1.0
+   1.0
+   TropT
+   <0.01
+   <0.01
+   Glucose
+   94
+   90
+   Other labs: PT / PTT / INR:20.7/32.0/1.9, CK / CKMB /
+   Troponin-T:39//<0.01, ALT / AST:55/75, Alk Phos / T Bili:96/0.8,
+   LDH:255 IU/L, Ca++:8.9 mg/dL, Mg++:1.9 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan: 84 year old woman with history of GERD, presents
+   with melena.
+   .
+   # Melena: Differential includes PUD (including Dieulafoy's lesion),
+   gastritis, esophagitis, or given history of dysphagia, esophageal mass.
+   Ischemic colitis also possible given h/o CAD, but this would be
+   unlikely to produce melanotic stools.  Varices and [**First Name4 (NamePattern1) 1809**] [**Last Name (NamePattern1) 108**] tear
+   unlikely given no history of liver disease or vomiting. Pt has refused
+   EGD on past admission. Vital signs stable overnight. No further melena.
+   - Active T+S
+   - Change pantoprazole gtt 8 mg/hr to [**Hospital1 **]
+   - F/u GI recs
+   - Advance diet to full liquids (NPO after midnight)
+   - Serial hct's
+   - Hold aspirin, coumadin
+   - Two large-bore PIV's in place
+   .
+   # Chest pain: Per report pt complained of CP in ED, but on admission
+   she reports LUQ pain that with reflux symptoms. Pt has known CAD, with
+   most recent cath in [**2874**] showing 2-vessel coronary artery disease. On
+   the pt's most recent admission CP was attributed to GERD, and EKG was
+   unremarkable. Pt did take daily aspirin on day of admission, but did
+   not take coumadin.
+   - Hold aspirin for now given above bleeding
+   - Rule-out MI, serial EKGs
+   - PPI as above.
+   - Continue statin, Lisinopril, Metoprolol
+   - Hold Isosorbide given concern for bleeding
+   .
+   # Paroxysmal atrial fibrillation: Pt is anticoagulated on coumadin, and
+   is also on amiodarone for maintenance of sinus rhythm.
+   - Continue amiodarone
+   - Hold coumadin
+   - Hold on reversing with Vit K, if pt has additional melena, consider
+   Vit K
+   - D/w GI what INR threshold they will tolerate for EGD (likely < 1.7)
+   .
+   # Ischemic cardiomyopathy: EF from echo in [**2874**] was 30-40%. Pt
+   currently appears euvolemic, with no lower extremity edema.
+   - Hold lasix given concern for GIB
+   - Monitor I/O's
+   .
+   # FEN: No IVF, replete electrolytes, full liquids, NPO after midnight
+   # Prophylaxis: Pneumoboots
+   # Access: peripherals
+   # Communication: Patient (HCP = landlady)
+   # Code:  Full (discussed with patient)
+   # Disposition: Called out to the floor
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2876-4-11**] 09:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. Please see admit note
+   for histories and ROS, which are unchanged.
+   84 year-old woman with h/o GERD presented with 3 episodes of melena
+   yesterday.  Described associated left upper quadrant pain.  No recent
+   NSAIDS. WBC 6, HCT 35.
+   I examined the pt and agree with Dr [**Last Name (STitle) 11859**]
+ description, above.
+   MICU course: Remained hemodynamically stable. Hct stable. Ruled out for
+   MI. On oral PPI. No stool in MICU, no evidence of further bleeding. 2
+   peripheral IVs. Endoscopy is planned for tomorrow. Safe for transfer to
+   med floor.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1962**] [**Last Name (NamePattern1) **], MD
+   on:[**2876-4-12**] 16:15 ------
+
+
+DOC CLASS

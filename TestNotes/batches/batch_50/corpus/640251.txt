@@ -1,0 +1,231 @@
+Chief Complaint: 85 year-old female with seizures, CHF (right sided),
+   pulmonary HTN, atrial fib, rheumatic heart disease s/p mechanical MVR,
+   severe TR, HTN, presents with fever, hypotension, seizures.  She has
+   been at [**Hospital **] rehab recovering from a SBO surgery in the spring and
+   has been slowly worsening.  She had a seizure 2 weeks ago and was
+   started on Keppra.  Two days ago, her keppra dose was decreased for a
+   high peak and somnalence.  On [**7-31**], she was febrile to 102.8.  She has
+   had continued ventilator requirement.
+   24 Hour Events:
+   Per neuro keppra dc'd, currently on dilantin, level pending.
+   EEG monitoring currently, per neuro, needs seizure free period >24
+   hours before DC monitoring. After dc EEG, MRI to assess for
+   anoxic/ischemic injury.
+   Family specified no LP, broad spectrum anti-meningitis abx: acyclovir
+   400mg/ampicillin 2g, Cefepime 2g.
+   ROMI: Trops trending down (0.21, 0.24, 0.29), CK-MB 2, 4, not done.
+   CXR, EKG: downsloping, 3mm STD in V4-V6, inf TWI, new from prior.
+   Has DNR (not DNI) order.
+   Cultures: Urine Cx, Urine legionella Ag -ve. Stool C.diff, sputum Cx, &
+   Mrsa screen Pending.
+   [**2909-8-3**]
+   TFs restarted, IVF given and UOP/BP picked up.
+   [**8-4**]
+   Digoxin level 0.9, restarted home dose of digoxin, repleted K and phos.
+   Dilantin - continue current dose (100mg TID), neuro okay with
+   correction.
+   Attempted to update family, but no answer.
+   INR 7.2 - Gave 1mg PO VitK with plan to recheck at 10AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2909-8-3**] 09:00 AM
+   Ciprofloxacin - [**2909-8-4**] 12:06 AM
+   Metronidazole - [**2909-8-4**] 12:06 AM
+   Acyclovir - [**2909-8-4**] 10:01 PM
+   Cefipime - [**2909-8-5**] 12:15 AM
+   Ampicillin - [**2909-8-5**] 01:59 AM
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2909-8-4**] 08:03 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2909-8-5**] 08:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 93 (69 - 105) bpm
+   BP: 87/36(48) {87/33(48) - 103/50(60)} mmHg
+   RR: 21 (21 - 43) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 63 Inch
+             Total In:
+                                                                  3,804 mL
+                                                                  1,127 mL
+   PO:
+             TF:
+                                                                    720 mL
+                                                                    241 mL
+   IVF:
+                                                                  1,884 mL
+                                                                    436 mL
+   Blood products:
+   Total out:
+                                                                    845 mL
+                                                                    380 mL
+   Urine:
+                                                                    845 mL
+                                                                    380 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,959 mL
+                                                                    747 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 374 (241 - 374) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 54
+   PIP: 10 cmH2O
+   SpO2: 100%
+   ABG: ///25/
+   Ve: 7.9 L/min
+   Physical Examination
+   More aware, moves towards sound, pupils constrict slightly in response
+   to light
+   CVS: irregularly irregular
+   RESP: CTA-B
+   Abd: +Ve bs, soft, nt, nd, no masses
+   Ext:distal pulses palpable
+   Labs / Radiology
+   210 K/uL
+   8.1 g/dL
+   126 mg/dL
+   0.9 mg/dL
+   25 mEq/L
+   4.4 mEq/L
+   43 mg/dL
+   118 mEq/L
+   146 mEq/L
+   25.2 %
+   10.1 K/uL
+        [image002.jpg]
+                             [**2909-8-1**]  10:18 PM
+                             [**2909-8-2**]  05:18 AM
+                             [**2909-8-2**]  01:50 PM
+                             [**2909-8-3**]  03:04 AM
+                             [**2909-8-3**]  05:23 PM
+                             [**2909-8-4**]  03:51 AM
+                             [**2909-8-4**]  05:40 AM
+                             [**2909-8-4**]  10:09 AM
+                             [**2909-8-4**]  04:58 PM
+                             [**2909-8-5**]  02:01 AM
+   WBC
+   9.6
+   12.9
+   10.3
+   10.3
+   10.1
+   Hct
+   32
+   30.3
+   30.2
+   26.9
+   28.0
+   25.2
+   Plt
+   [**Telephone/Fax (3) 7506**]28
+   210
+   Cr
+   1.4
+   1.2
+   1.2
+   1.1
+   1.0
+   0.9
+   TropT
+   0.24
+   0.21
+   Glucose
+   148
+   141
+   108
+   117
+   138
+   172
+   145
+   126
+   Other labs: PT / PTT / INR:63.2/41.9/7.2, CK / CKMB /
+   Troponin-T:39/4/0.21, ALT / AST:40/60, Alk Phos / T Bili:142/0.6,
+   Differential-Neuts:82.4 %, Lymph:10.7 %, Mono:3.8 %, Eos:2.9 %, Lactic
+   Acid:1.6 mmol/L, Albumin:2.8 g/dL, LDH:342 IU/L, Ca++:7.8 mg/dL,
+   Mg++:2.5 mg/dL, PO4:2.2 mg/dL
+   Imaging: none
+   Microbiology: blood cx p x1
+   cdiff neg. sputum oral flora
+   Assessment and Plan
+ HYPERNATREMIA (HIGH SODIUM)
+ VALVE REPLACEMENT, AORTIC MECHANICAL (AVR)
+ DIABETES MELLITUS (DM), TYPE II
+ [**Last Name **] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   EKG changes
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ SEIZURE, WITHOUT STATUS EPILEPTICUS
+ RESPIRATORY FAILURE, CHRONIC
+ ATRIAL FIBRILLATION (AFIB)
+ IMPAIRED SKIN INTEGRITY
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+   85 y/o female with hx R-sided heart failure, pulmonary HTN, afib,
+   rheumatic heart disease s/p MVR c mechanical valve, HTN, who presents
+   with fever, hypotension, unresponsiveness.
+   Plan:
+   Sepsis: Continues to have low grade fevers to 99.6, mild leukocytosis
+   to 10.1. Pseudomonas sputum initially thought culprit ,but grew oral
+   flora. UCx still pending. Cipro flagyl dc
+d. Empiric treatment
+   meningitis. Day 5 acyclovir, ampicillin, vancomycin.
+   f/u culture results.
+   If repeat head CT allows, LP today.
+   Seizure: EEG dc
+d following seizure free period > 24 hours. No seizures
+   observed since. Continue dilantin goal range 15-20, ativan for
+   breakthrough seizure.
+   Head CT today prior to LP ,  ? inc ICP.
+   Coagulopathy:
+   INR 7.2. Coumadin, sub Q heparin held. Pt got vit K with repeat INR
+   pending this am. Requires reversal for LP.
+   Chronic respiratory failure: respiratory alkalosis, with good
+   oxygenation. Currently stable. No ABG checks.
+   Afib: holding anticoagulation. On metroprolol [**Hospital1 **].
+   Pressure ulcers: f/u  wound care recs.
+   Acute renal failure: likely pre
+renal in setting sepsis. IVF to uop
+   >30cc/hr, MAPs >60.
+   Hypernatremia. D5 if need to correct, LRS for resuscitation.
+   Diabetes: ISS at home. Continue.
+   Anemia. Base;line crit 25-29 currently 25.2 daily crits.
+   Mechanical valve: holding coumadin.
+   LFT abnormalities: perhaps secondary to hypoperfusion = mild. Trend.
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2909-8-5**] 01:00 AM 30 mL/hour
+   Glycemic Control: HISS
+   Lines:
+   20 Gauge - [**2909-8-1**] 11:07 PM
+   Midline - [**2909-8-2**] 12:00 AM
+   Prophylaxis:
+   DVT:coumadin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR  with caveats.
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,199 @@
+Admission Date:  [**3217-3-3**]              Discharge Date:   [**3217-3-9**]
+
+Date of Birth:  [**3156-7-31**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 662**]
+Chief Complaint:
+perineal pain
+
+Major Surgical or Invasive Procedure:
+perineal I&D [**3217-3-4**]
+re-exploration of perineal abscess [**3217-3-5**]
+
+
+History of Present Illness:
+60 y.o. male with h/o DM I s/p combined kidney and pancreas
+transplant in [**3207**] who c/o painful urination x3months. Now c/o
+painful pernineal pain x 1 month. At [**Hospital6 4555**]
+ER [**2-28**] with GU sx. He had pyuria with negative cultures but was
+empirically treated with cipro. He returned to [**Hospital **] Hospital with
+increasing GU sx of pain on void with retention. He had 800 cc
+residual urine in the bladder. A foley was placed. He was noted
+to have left buttock lump and perineal swelling. ID was
+consulted. Unasyn was started. On [**3-2**] 10cc was aspirated and
+had 30,000 wbc, amylase was 889 and serum amylase was 90. He was
+transferred to [**Hospital1 18**] SICU.
+Normal creatinine is ~1.5.
+
+Past Medical History:
+kidney pancreas transplant [**3207**], esophageal CA, DM I,
+gastroparesis, TIA, cataracts, neuropathy, HTN, old avf on right
+forearm, hypercholesterolemia, s/p appy, Barretts s/p esoph
+resection, h/o right foot cellulitits, ?rheumatic fever (per pt)
+
+Social History:
+[**Name (NI) **] [**Name (NI) 10548**] (sister)is HCP
+
+Family History:
+N/C
+
+Physical Exam:
+99.3  68  133/46  15  96%
+A&O, anicteric sclerae
+neck supple
+chest clear
+cor no jvd,[**12-27**] sys murmur at LUSB
+abd soft NT/ND, NABS, UQ graft-nt/no bruit
+GU + purulent drainage at meatus, erythema & induration in L>R
+scrotum & suprapubic area to L perineum.
+
+Pertinent Results:
+On Admission: [**3217-3-3**]
+WBC-11.7* RBC-3.41*# Hgb-9.4*# Hct-29.4*# MCV-86 MCH-27.6
+MCHC-32.0 RDW-17.1* Plt Ct-408
+PT-12.6 PTT-23.1 INR(PT)-1.1
+Glucose-106* UreaN-15 Creat-1.3* Na-134 K-4.4 Cl-100 HCO3-22
+AnGap-16
+ALT-11 AST-10 LD(LDH)-152 AlkPhos-138* Amylase-64 TotBili-0.2
+Lipase-41
+Albumin-3.2* Calcium-9.0 Phos-2.6* Mg-2.0
+[**3217-3-4**] PSA-1.1
+[**3217-3-3**] URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.009
+Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-MOD RBC-0-2 WBC-[**1-23**]
+Bacteri-FEW Yeast-NONE
+Epi-0-2
+Urine Culture: No Growth
+RT PENILE COLLECTION Culture:
+   GRAM STAIN: NO POLYMORPHONUCLEAR LEUKOCYTES SEEN, NO
+MICROORGANISMS SEEN. FLUID CULTURE NO GROWTH, ANAEROBIC CULTURE:
+NO GROWTH.
+
+   ACID FAST SMEAR (Final [**3217-3-7**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+
+   ACID FAST CULTURE (Pending):
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+
+Brief Hospital Course:
+Vanco and Zosyn were started on [**3-2**] and Urology was consulted.
+It was felt that he had bulbar urethral injury with
+extravasation and abscess. On [**3-3**] CT with contrast showed
+multiple loculated fluid collections within the perineal region
+adjacent to the urethra. There was concern for urethral fistula
+from the pancreatic graft.  Peri-anal fistula was thought to be
+less likely given the location of the loculated collections. On
+[**3-3**] a retro urogram revealed no evidence of bladder or urethral
+leak. Irregularity along the membranous urethra extending to the
+prostatic urethra was suggestive of chronic inflammatory or
+edematous state.
+
+On [**3-4**] he had incision and drainage of perineal abscess and
+exam under anesthesia for pernieal abscess. A swab revealed  2+
+PMNs and no growth.  Wound dressings consisted of packed with
+Iodiform and external gauze. A foley catheter remained in place.
+On [**3-5**] CT without contrast showed significant improvement.
+Stable peripenile multiloculated fluid collections stable
+surrounding inflammatory change. New air within the renal pelvis
+of the left pelvic transplanted kidney.
+On [**3-5**] he underwent re-exploration of perineum for perineal
+abscess on [**3217-3-5**] by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+On [**3-6**], he had successful CT fluoroscopic-guidance drainage of
+multiloculated fluid perineal collection. This aspirate has been
+negative to date including AFB. Fluid was sent for amylase and
+lipase of which both were high.
+
+Nephrology followed him during this hospital stay.
+The plan was to send him to [**Hospital 99**] Rehab for iv vanco and po
+augmentin [**Hospital1 **] for 2 weeks with left buttock dressing changes qd.
+The wound tract was ~8cm and was loosely packed with saline wet
+to dry kerlex ~5cm. A foley was left in place. UA was repeated
+on [**3-9**] for wbc of 13.1. UA demonstrated [**4-30**] wbc, lg RBC, mod
+leukocytes, 1 eosinophil and negative nitrites. A urine culture
+was also sent.
+
+The long term plan is to convert the pancreas transplant from
+bladder drainage to enteric drainage once the infection resolved
+and the wound healed. Foley needs to remain in place until
+surgery.
+
+Medications on Admission:
+Bicarb 325mg Daily Cellcept 1000mg PO BID Prograf 1mg PO BID
+Prednisone 5mg PO Daily Atenolol 100mg PO Daily Cardizem 240mg
+PO Daily MS Contin 15mg PO BID Senokot 2 tab PO BID ASA 325
+Daily
+
+
+Discharge Medications:
+1. Picc Line Supplies
+heparin & saline flushes    Supply:2 weeks
+pump                        Refill:x1
+tubing
+dressing supplies
+
+2. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) gram
+Intravenous Q 24H (Every 24 Hours).
+Disp:*14 gram* Refills:*1*
+3. Augmentin 875-125 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+Disp:*28 Tablet(s)* Refills:*0*
+4. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+BID (2 times a day).
+5. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily):
+hold sbp <110 or HR <60.
+7. Diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily): hold sbp <100 or HR
+<60.
+8. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q8 PRN ().
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. Sodium Bicarbonate 650 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+12. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+13. Tacrolimus 1 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+14. Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units
+heparin) each lumen Daily and PRN.  Inspect site every shift.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 454**] for the Aged - MACU
+
+Discharge Diagnosis:
+perineal abscess
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please call transplant office if fevers, chills, increased
+perineal/scrotal pain, increased drainage or any questions.
+Resume previous lab schedule
+Vanco/Zosyn via picc x2 weeks
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1314**], MD Phone:[**Telephone/Fax (1) 666**]
+Date/Time:[**3217-3-13**] 1:40
+
+
+
+Completed by:[**3217-3-15**]
+
+DOC CLASS

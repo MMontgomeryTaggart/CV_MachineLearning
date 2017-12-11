@@ -1,0 +1,202 @@
+SICU
+   HPI:
+   [**Age over 90 304**] yo F presented to OSH w/ Right hemiplegia & rt facial droop, &
+   inability to speak; prelim CT/CTA head showing left posterior MCA
+   occlusion & chronic right occipital infarct
+   Chief complaint:
+   PMHx:
+   R occipital infarct in [**3453**] with hemorrhagic conversion, started
+   on ASA at that time, DM 2, HTN, MVR [**3450**], AS with bioprosthetic valve
+   replacement, uterine Ca s/p hysterectomy and XRT, CCY, bilat TKR,
+   thyroidectomy, PNA
+   Current medications:
+   IV access: Peripheral line, Date inserted: [**3456-11-16**] Order date: [**11-16**] @
+   1801 12. Influenza Virus Vaccine 0.5 mL IM ASDIR
+   Follow Influenza Protocol Document administration in POE   Order date:
+   [**11-16**] @ 1756
+   2. 1000 mL NS
+   Continuous at 70 ml/hr Order date: [**11-16**] @ 1801 13. Insulin SC  (per
+   Insulin Flowsheet)
+         Sliding Scale Order date: [**11-16**] @ 1801
+   3. 500 mL NS Bolus 500 ml Over 60 mins Order date: [**11-17**] @ 1441 14.
+   Levothyroxine Sodium 125 mcg PO DAILY  Order date: [**11-16**] @ 1801
+   4. Acetaminophen 325-650 mg PO Q4H:PRN fever, pain  Order date: [**11-16**] @
+   1801 15. Levofloxacin 750 mg IV Q48H  Order date: [**11-17**] @ 0813
+   5. Acetaminophen w/Codeine Elixir 12.5-25 mL PO Q4H:PRN ha
+   Acetaminophen 300 mg/Codeine 30 mg in each 12.5 mL of elixir (1
+   tablet)  Order date: [**11-18**] @ 0256 16. Magnesium Sulfate  IV Sliding
+   Scale Order date: [**11-17**] @ 0005
+   6. Aspirin 325 mg NG DAILY  Order date: [**11-17**] @ 0807 17. Metoprolol
+   Tartrate 5 mg IV Q4H:PRN SBP > 200  Order date: [**11-16**] @ 1822
+   7. Atorvastatin 20 mg PO DAILY  Order date: [**11-17**] @ 1424 18.
+   Phenylephrine 0.5-5 mcg/kg/min IV DRIP TITRATE TO if needed to maintain
+   SBP > 120 Start: if needed to maintain SBP > 120 Order date: [**11-16**] @
+   1846
+   8. Docusate Sodium (Liquid) 100 mg PO BID  Order date: [**11-16**] @ 1833 19.
+   Potassium Chloride  IV Sliding Scale Order date: [**11-17**] @ 0004
+   9. Famotidine 20 mg IV Q24H  Order date: [**11-16**] @ 2154 20. Sodium
+   Chloride 0.9% Flush 3 mL IV Q8H:PRN line flush
+   Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.
+   Order date: [**11-16**] @ 1801
+   10. Haloperidol 0.5-1 mg IV MR X1 agitation Duration: 1 Doses Order
+   date: [**11-17**] @ 2347 21. Vancomycin 1000 mg IV Q48H
+   ID Approval will be required for this order in 49 hours.  Order date:
+   [**11-17**] @ 0813
+   11. Heparin 5000 UNIT SC TID  Order date: [**11-16**] @ 1822
+   24 Hour Events:
+ EKG - At [**3456-11-17**] 02:46 PM
+ URINE CULTURE - At [**3456-11-17**] 02:46 PM
+ ULTRASOUND - At [**3456-11-17**] 03:06 PM
+   carotid
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3456-11-17**] 10:09 AM
+   Levofloxacin - [**3456-11-17**] 12:09 PM
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3456-11-18**] 12:00 AM
+   Heparin Sodium (Prophylaxis) - [**3456-11-18**] 12:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3456-11-18**] 08:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**59**] a.m.
+   Tmax: 37.4
+C (99.3
+   T current: 36.9
+C (98.4
+   HR: 92 (78 - 120) bpm
+   BP: 154/63(86) {79/37(50) - 170/87(100)} mmHg
+   RR: 16 (15 - 31) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,597 mL
+                                                                    583 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  2,597 mL
+                                                                    583 mL
+   Blood products:
+   Total out:
+                                                                  1,791 mL
+                                                                    300 mL
+   Urine:
+                                                                  1,641 mL
+                                                                    300 mL
+   NG:
+                                                                    150 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    806 mL
+                                                                    283 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: ///22/
+   Physical Examination
+   General Appearance: No acute distress, Well nourished
+   HEENT: Corneal reflex positif on the left neg on the right
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: Rhonchorous : bilateral)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm)
+   Right Extremities: (Edema: Absent), (Temperature: Warm)
+   Neurologic: (Awake / Alert / Oriented: x 1), No(t) Moves all
+   extremities, (RUE: No movement), (RLE: Weakness), Withdrawl to pain
+   left side
+   Labs / Radiology
+   202 K/uL
+   13.0 g/dL
+   164 mg/dL
+   1.1 mg/dL
+   22 mEq/L
+   3.7 mEq/L
+   23 mg/dL
+   103 mEq/L
+   136 mEq/L
+   37.3 %
+   13.6 K/uL
+        [image002.jpg]
+                            [**3456-11-16**]  09:00 PM
+                            [**3456-11-17**]  01:48 AM
+                            [**3456-11-17**]  04:10 AM
+                            [**3456-11-18**]  03:37 AM
+   WBC
+   11.7
+   12.0
+   13.6
+   Hct
+   40.1
+   44.3
+   37.3
+   Plt
+   232
+   254
+   202
+   Creatinine
+   1.0
+   1.1
+   1.1
+   Troponin T
+   <0.01
+   <0.01
+   TCO2
+   28
+   Glucose
+   178
+   177
+   164
+   Other labs: PT / PTT / INR:15.1/39.1/1.3, CK / CK-MB / Troponin
+   T:213/6/<0.01, ALT / AST:40/46, Ca:8.3 mg/dL, Mg:2.0 mg/dL, PO4:2.2
+   mg/dL
+   Assessment and Plan
+   CVA (STROKE, CEREBRAL INFARCTION), ISCHEMIC
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 2 hr, Left MCA segmental branch infarct;
+   Keep SBP 100-200, PT/OT, caroitid US showed 40% stenosis of left
+   carotid, 60% stenosis of right carotid
+   Cardiovascular: Beta-blocker, Statins, Hemodynamicallly stable, s/p
+   AVR/MVR, cont statin, prn metoprolol, CE negative, TTE read pending
+   Pulmonary: RML infiltrate on CXR, on vanco & levaquin
+   Gastrointestinal / Abdomen: bowel regimen, no current issues, NPO, try
+   to repeat S/S
+   Nutrition: Speech and Swallow [**Last Name (LF) 2852**], [**First Name3 (LF) **] try for rpt speech & swallow
+   [**First Name3 (LF) 2852**] today (pt did not cooperate w/ [**First Name3 (LF) 2852**] yesterday); if cont NPO may
+   start TF per NGT
+   Renal: Foley, Adequate UO, Cr stable
+   Hematology: Hct stable
+   Endocrine: RISS, cont synthroid, increase ISS
+   Infectious Disease: afebrile, UA negative, on Levaquin & vancomycin for
+   RML infiltrate on CXR, check vanc trough before next dose, f/u sputum
+   cx
+   Lines / Tubes / Drains: Foley, NGT, PIV, NGT
+   Wounds:
+   Imaging:
+   Fluids: NS, NS@ 70 ml/hr
+   Consults: Neurology, P.T., O.T.
+   Billing Diagnosis: CVA
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3456-11-16**] 09:04 PM
+   18 Gauge - [**3456-11-16**] 09:05 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: DNR / DNI
+   Disposition: Transfer to floor
+   Total time spent:
+
+
+DOC CLASS

@@ -1,0 +1,115 @@
+Admission Date:  [**2942-5-22**]       Discharge Date:  [**2942-5-29**]
+
+Date of Birth:   [**2867-3-2**]       Sex:  M
+
+Service:  Cardiothoracic Surgery
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 9124**] is a 75-year-old man
+with known coronary artery disease status post coronary
+artery bypass grafting x 3 in [**2933**].  The patient underwent
+percutaneous transluminal coronary angioplasty of the left
+anterior descending coronary artery last month due to
+recurrent angina.  The patient presented on [**2942-5-20**] to an
+outside hospital with increased chest pain.  Cardiac
+catheterization showed tortuous but patent left internal
+mammary artery graft to the left anterior descending coronary
+artery.  An attempt to stent the left anterior descending
+coronary artery was unsuccessful due to restenosis.  The
+patient at that time had 3/10 chest pain on IV heparin and
+nitroglycerin drip.  The patient had increased ST segment
+elevation in V2 and V3.  The patient had a left ventricular
+ejection fraction of 50%.
+
+PAST MEDICAL HISTORY:  1. Coronary artery bypass grafting x 3
+in [**2933**].  2. Noninsulin dependent diabetes mellitus.  3.
+Hypercholesterolemia.  4. Status post prostate surgery.  5.
+Status post hernia repair.
+
+SOCIAL HISTORY:  No tobacco or alcohol history.
+
+MEDICATIONS AT HOME:  1. Glucotrol 10 mg b.i.d.  2.
+Glucophage 1,000 mg b.i.d.  3. Enteric-coated aspirin 325 mg
+q.d.  4. Cozaar 50 mg q.d.  5. Imdur 60 mg q.d.  6. Plavix 75
+mg q.d. which was received on the morning of admission at the
+outside hospital.  7. Nitroglycerin paste 1 inch q. 4.  8.
+Regular Insulin sliding scale.  9. Pepcid 10 mg b.i.d.  10.
+Lopressor 50 mg b.i.d.  11. Heparin drip.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+PHYSICAL EXAMINATION:  Neurological:  Awake, alert.  Neck:
+No carotid bruits noted.  Lungs:  Clear to auscultation
+bilaterally.  Cardiac:  Regular rate and rhythm, normal S1
+and S2, no murmurs noted.  Abdomen:  Benign.  Extremities:
+Warm, no edema, no varicosities.  Previous saphenous vein
+harvest per the right leg visible.
+
+HOSPITAL COURSE:  The patient was admitted on [**2942-5-22**] with a
+diagnosis of a small myocardial infarct.  On [**2942-5-25**] the
+patient was taken to the operating room where a redo coronary
+artery bypass grafting was performed within left internal
+mammary artery to left anterior descending coronary artery,
+saphenous vein graft to obtuse marginal and saphenous vein
+graft to posterior descending coronary artery.
+Postoperatively the patient required a propofol drip.  He was
+transferred to the cardiothoracic surgical intensive care
+unit in good condition.  He had chest tubes and pacing wires
+in place.  Postoperatively the patient was started on beta
+blockers, Imdur and Plavix, as well as Losartan, isosorbide
+and Lasix.  At the appropriate times the patient's chest
+tubes and pacing wires were removed.
+
+In the intensive care unit the patient experienced a
+short-lived increase in creatinine.  Otherwise his stay in
+the intensive care unit was relatively uneventful.  The
+patient was transferred to the regular cardiothoracic floor
+where he continued to do well.  He was visited by physical
+therapy who over the course of the patient's stay here were
+pleased with his progress and cleared him to be discharged
+home.
+
+It is now [**2942-5-29**].  It is anticipated that the patient will
+be discharged today provided that he voids post Foley
+catheter removal.  If so the patient will be discharged in
+good condition.
+
+FOLLOW UP:  He was to follow up with Dr. [**First Name (STitle) **] [**Last Name (Prefixes) **] in
+four weeks, Dr. [**Last Name (STitle) 26111**] [**Name (STitle) 4318**] in one to two weeks, and
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in two to three weeks.
+
+DISCHARGE INSTRUCTIONS:  The patient may shower but may not
+take baths.  The patient should not drive while on pain
+medications.  The patient should avoid strenuous activity.
+The patient may observe a heart healthy diabetic diet.
+
+DISCHARGE MEDICATIONS:
+1. Metformin 1,000 mg p.o. b.i.d.
+2. Insulin sliding scale.
+3. Flomax 0.4 mg p.o. q.h.s.
+4. Percocet 1-2 tablets p.o. q. 4 p.r.n. pain.
+5. Glipizide 10 mg p.o. q.d.
+6. Enteric-coated aspirin 325 mg p.o. q.d.
+7. Ranitidine 150 mg p.o. b.i.d.
+8. Losartan 50 mg p.o. q.d.
+9. Docusate sodium 100 mg p.o. b.i.d. p.r.n.
+10. Potassium 20 mEq p.o. q. 12 for seven days.
+11. Lasix 20 mg p.o. q. 12 for seven days.
+12. Plavix 75 mg p.o. q.d.
+13. Isosorbide mononitrate 60 mg p.o. q.d.
+14. Lopressor 50 mg p.o. b.i.d.
+
+
+
+
+
+                            [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 660**]
+
+Dictated By:[**Last Name (NamePattern1) 15056**]
+MEDQUIST36
+
+D:  [**2942-5-29**]  10:58
+T:  [**2942-5-29**]  11:13
+JOB#:  [**Job Number 26112**]
+
+
+DOC CLASS

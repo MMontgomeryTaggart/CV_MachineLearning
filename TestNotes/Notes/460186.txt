@@ -1,0 +1,266 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**10-7**]
+   - Meropenem 500 mg IV Q12H, no other issues.
+   Allergies:
+   Morphine
+   Rash;
+   Demerol (Oral) (Meperidine Hcl)
+   Confusion/Delir
+   Levaquin (Oral) (Levofloxacin)
+   Unknown;
+   Benadryl (Injection) (Diphenhydramine Hcl)
+   Confusion/Delir
+   Cymbalta (Oral) (Duloxetine Hcl)
+   Unknown;
+   Celexa (Oral) (Citalopram Hydrobromide)
+   Unknown;
+   Remeron (Oral) (Mirtazapine)
+   Unknown;
+   Sulfa (Sulfonamide Antibiotics)
+   Unknown;
+   Quinolones
+   Unknown;
+   Vancomycin
+   Rash;
+   Last dose of Antibiotics:
+   Meropenem - [**2879-10-8**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2879-10-7**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2879-10-8**] 07:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 36.6
+C (97.9
+   HR: 81 (70 - 84) bpm
+   BP: 133/47(67) {120/43(62) - 139/69(81)} mmHg
+   RR: 16 (14 - 18) insp/min
+   SpO2: 96%
+   Heart rhythm: V Paced
+   Wgt (current): 77 kg (admission): 63 kg
+   Height: 64 Inch
+    CVP: 11 (9 - 14)mmHg
+   Total In:
+                                                                  3,291 mL
+                                                                  1,051 mL
+   PO:
+   TF:
+                                                                    841 mL
+                                                                    251 mL
+   IVF:
+                                                                  1,400 mL
+                                                                    400 mL
+   Blood products:
+   Total out:
+                                                                    865 mL
+                                                                    265 mL
+   Urine:
+                                                                    840 mL
+                                                                    265 mL
+   NG:
+   Stool:
+                                                                     25 mL
+   Drains:
+   Balance:
+                                                                  2,426 mL
+                                                                    786 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: 7.37/30/39/22/-6
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   293 K/uL
+   9.3 g/dL
+   237 mg/dL
+   1.6 mg/dL
+   22 mEq/L
+   5.2 mEq/L
+   104 mg/dL
+   112 mEq/L
+   141 mEq/L
+   28.5 %
+   30.7 K/uL
+        [image002.jpg]
+                            [**2879-10-3**]  04:57 PM
+                            [**2879-10-3**]  10:55 PM
+                            [**2879-10-4**]  03:29 AM
+                            [**2879-10-5**]  04:27 AM
+                            [**2879-10-5**]  09:36 PM
+                            [**2879-10-6**]  04:28 AM
+                            [**2879-10-6**]  09:24 PM
+                            [**2879-10-7**]  04:15 AM
+                            [**2879-10-7**]  07:28 AM
+                            [**2879-10-8**]  03:05 AM
+   WBC
+   22.5
+   22.4
+   17.2
+   26.0
+   30.7
+   Hct
+   23.0
+   25.3
+   24.5
+   26.0
+   27.0
+   28.7
+   28.5
+   Plt
+   149
+   200
+   175
+   224
+   293
+   Cr
+   2.5
+   2.4
+   2.3
+   2.1
+   1.9
+   1.8
+   1.6
+   1.6
+   1.6
+   TCO2
+   18
+   Glucose
+   97
+   96
+   114
+   146
+   205
+   [**Telephone/Fax (3) 9251**]
+   237
+   Other labs: PT / PTT / INR:30.0/32.5/3.0, ALT / AST:27/25, Alk Phos / T
+   Bili:124/0.4, Differential-Neuts:93.0 %, Band:0.0 %, Lymph:5.0 %,
+   Mono:1.0 %, Eos:0.0 %, Fibrinogen:622 mg/dL, Lactic Acid:1.3 mmol/L,
+   Albumin:2.3 g/dL, LDH:184 IU/L, Ca++:8.6 mg/dL, Mg++:2.8 mg/dL, PO4:4.7
+   mg/dL
+   Assessment and Plan
+   79 yo F w/ a h/o CHF (EF of 20-30%), carotid stenosis, no CAD from cath
+   [**12-26**], and h/o LBBB s/p BiV pacer presents as OSH transfer with ?sepsis,
+   atrial fibrillation w/ RVR and demand ischemia.
+   .
+   # Infection: FUO, Complicated by Afib w/ RVR in setting of EF 20%. Pt
+   with history of enterobactor sensitive to [**Last Name (un) **]/cefepime. Was started on
+   zosyn and switched to imipenem at OSH.  Appears euvolemic on exam.
+   - f/u OSH Urine cx, blood Cx data
+ so far no positive data
+   - after d/w rads, felt that CXR probably not indicative of PNA, likely
+   edema instead
+   - on meropenem and azithromycin [**5-24**] day course given prior cx data and
+   multiple drug allergies
+   - ID consulted recs as above
+   - DFA
+ Neg, C.Diff- Negative x 3, OSH line pulled
+ tip pending. UCX-
+   Negative here, BCX
+ negative thus far
+   - LFTs normal, CT A/P showed no infectious source
+   .
+   # Altered/Depressed MS
+ thought to be [**12-19**] to ativan yesterday, not
+   retaining CO2, toxic-metabolic
+   - head CT -> WNL
+   - lactulose was trialed [**10-5**] yesterday with no improvement
+   - no appreciable response to stress dose steroids x 2d, will d/c [**10-7**]
+   - TSH WNL; fT4, T3 slightly low but doubtful to be responsible for this
+   clinical picture
+   - NEURO: agrees with current workup and treatment plan, consider LP if
+   patient spikes through abx coverage
+   .
+   # Acute on Chronic Renal Failure: Baseline 1.3-1.5, creatinine 2.6 on
+   presentation to OSH.  Cr has improved with hydration but azotemia
+   continues.
+   - give fluid as needed, currently has hyperchloremic metabolic
+   acidosis, consider bicarb as needed
+   - started maintenance fluids, addl boluses as tolerated
+   - azotemia persists despite hydration; renal feels that this remains
+   [**12-19**] pre-renal insufficiency
+   - no renal findings on CT
+   .
+   # supertherapeutic INR: likely due to drug drug interaction (amio vs.
+   flagyl vs abx), liver dysfunction, inhibitor screen.
+   - amio d/c
+d, inhibitor screen-wnl
+   - now downtrending after amio was d/ced
+   .
+   # RHYTHM:  Afib, now rate controlled - likely worsened by underlying
+   sepsis. Anticoagulated with therapeutic INR since admission at OSH.
+   - initially treated with amio, but now d/ced [**12-19**] interaction with
+   warfarin
+   - continue rate control with BB
+   - holding coumadin in setting of supratherapeutic INR
+   .
+   # PUMP: s/p BiV placement [**7-26**]. Reports using lasix 20mg [**Hospital1 **] at home
+   although no record from OSH. Euvolemic on admission.
+   - continue statin, aspirin
+   - IVF with I/O goal of 1L+.
+   .
+   # CORONARIES: no known CAD as per cath [**12-26**]. Likely demand ischemia in
+   setting of urosepsis compounded by acute on chronic renal failure.
+   - aspirin and statin, holding carvedilol until off of pressors
+   - d/c asa.
+   .
+   # Chronic C. Diff: No evidence of recurrence
+   .
+   # Hypothyroidism - continue home synthroid dose
+   .
+   # Rheumatoid Arthritis: Chronic 5mg prednisone steroid use, although
+   not completely clear most recent use. No evidence of adrenal
+   insufficency from this low dose. Did receive hydrocort 100mg IV x1 at
+   OSH on day of transfer.
+   - d/ced stress dose steroids
+   .
+   # DMII - Managed with lifestyle modification at home. Has done well
+   previously on sliding scale insulin without fixed dose regimen.
+   - continue humalog SS ACHS
+   .
+   FEN:  heart healthy, diabetic diet, get tube feed recs.
+   .
+   ACCESS: CVL
+ LIJ
+   .
+   PROPHYLAXIS:
+   -DVT ppx with current supratherapeutic INR
+   -Pain management not indicated
+   -Bowel regimen with colace, senna, bisacodyl prn
+   .
+   CODE: full
+   COMM:  [**Name (NI) **] - [**Name (NI) **] is HCP [**Telephone/Fax (1) 9126**]
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**2879-10-7**] 07:16 PM 35 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2879-10-2**] 04:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

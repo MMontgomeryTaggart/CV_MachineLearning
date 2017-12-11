@@ -1,0 +1,237 @@
+Chief Complaint:
+   79 yo M with aortic stenosis awaiting AVR who was admitted with PNA and
+   hypoxia / respiratory distress. Being treated for VAP/aspiration PNA.
+   24 Hour Events:
+   [**5-6**]  bronch: minimal white frothy secretions bilaterally with scant
+   hemoptysis
+   -stopped lasix as met goal neg ~1L and had some tachycardia
+   -sputum cx sent off
+   - WBC climbing from 15 to 17 now, no fever spikes
+   -trended lactate and CVo2 sats --> lactate a bit worse 1.5 to 2 but
+   CVO2 sats WNL
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Vancomycin - [**2579-5-6**] 08:13 PM
+   Ciprofloxacin - [**2579-5-6**] 09:00 PM
+   Meropenem - [**2579-5-7**] 04:00 AM
+   Infusions:
+   Propofol - 5 mcg/Kg/min
+   Norepinephrine - 0.1 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-5-7**] 05:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 37.1
+C (98.7
+   HR: 108 (93 - 117) bpm
+   BP: 103/61(79) {88/53(67) - 109/73(84)} mmHg
+   RR: 19 (15 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 72.7 kg (admission): 77.4 kg
+   Height: 69 Inch
+    CVP: 9 (3 - 21)mmHg
+   Total In:
+                                                                  2,950 mL
+                                                                    600 mL
+   PO:
+   TF:
+                                                                    765 mL
+                                                                    237 mL
+   IVF:
+                                                                  2,055 mL
+                                                                    203 mL
+   Blood products:
+   Total out:
+                                                                  3,520 mL
+                                                                    615 mL
+   Urine:
+                                                                  3,520 mL
+                                                                    615 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -570 mL
+                                                                    -15 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 357 (349 - 410) mL
+   PS : 12 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 7 cmH2O
+   FiO2: 40%
+   RSBI: 226
+   PIP: 23 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 36.4 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.51/45/138/32/11
+   Ve: 8.7 L/min
+   PaO2 / FiO2: 345
+   Physical Examination
+   Labs / Radiology
+   75 K/uL
+   11.7 g/dL
+   160 mg/dL
+   1.1 mg/dL
+   32 mEq/L
+   4.0 mEq/L
+   29 mg/dL
+   91 mEq/L
+   129 mEq/L
+   35.6 %
+   16.0 K/uL
+        [image002.jpg]
+                             [**2579-5-4**]  05:59 AM
+                             [**2579-5-4**]  06:25 AM
+                             [**2579-5-4**]  05:58 PM
+                             [**2579-5-4**]  06:02 PM
+                             [**2579-5-5**]  04:55 AM
+                             [**2579-5-5**]  05:04 AM
+                             [**2579-5-6**]  04:07 AM
+                             [**2579-5-6**]  06:54 PM
+                             [**2579-5-6**]  07:11 PM
+                             [**2579-5-7**]  01:49 AM
+   WBC
+   9.5
+   10.2
+   10.8
+   15.7
+   17.1
+   16.0
+   Hct
+   37.2
+   37.0
+   38.5
+   39.0
+   37.6
+   35.6
+   Plt
+   84
+   83
+   89
+   82
+   62
+   75
+   Cr
+   1.2
+   1.2
+   1.2
+   1.2
+   1.1
+   1.1
+   TCO2
+   33
+   32
+   37
+   Glucose
+   114
+   130
+   136
+   182
+   158
+   160
+   Other labs: PT / PTT / INR:16.1/37.3/1.4, CK / CKMB /
+   Troponin-T:33/1/0.05, ALT / AST:182/125, Alk Phos / T Bili:109/1.8,
+   Differential-Neuts:71.8 %, Band:7.0 %, Lymph:16.6 %, Mono:6.7 %,
+   Eos:3.9 %, Fibrinogen:399 mg/dL, Lactic Acid:2.0 mmol/L, Albumin:2.0
+   g/dL, LDH:352 IU/L, Ca++:6.9 mg/dL, Mg++:2.0 mg/dL, PO4:1.7 mg/dL
+   Assessment and Plan
+   79 yo M with critical aortic stenosis awaiting AVR who was admitted
+   with pneumonia, hypoxia and respiratory distress. Being treated for
+   VAP/aspiration PNA.
+   # Respiratory failure:  Still intubated on A/C and not tolerating
+   attempts at pressure support this morning. Likely cause is HAP vs
+   aspiration PNA. Patient has a left sided PNA and pleural effusion (
+   mostly right side).  Continues to have generous secretions.
+   - continue on current settings A/C,  recheck ABG
+    - continue broad Abx: meropenem [**7-8**],  vanc [**9-7**], Cipro [**7-8**]
+    - plan for pleural tap of effusion on right today
+ will send fluid
+   for cytology and cultures
+   #Leukocytosis:  WBC on rise over past 2-3 days and is up to 16-17
+   range. Source may be PNA vs. stage III ducubitus ulcer or c.difficile.
+   Although infrequent bowel movements places C.diff low on differential.
+   No current fevers. Lactate up to 2 from 1 range.
+   -  CIS
+    - cont f/u all culture data
+    - cont [**Last Name (un) **]/cipro/ vanco coverage as above
+   # VAP: RML &  RLL infiltrate felt to be from likely aspiration.
+   Fevers better but still elevated WBCs as above.
+   - continue  vanc (d1=[**4-30**], today d8),  [**Last Name (un) **] (d1=[**5-2**], today d6), cipro
+   (d1=[**5-2**], today d6)
+ plan is for a full 10 day course
+   - tapping and culturing R sided effusion today
+   - f/u pending micro/ Cx data
+   - consider checking glucan/galactomannan if no significant improvement
+   though note pt recently on zosyn so may be false po
+   # Hypotension
+   Likely due to sepsis with pulmonary source, as above. Lactates have
+   trended down. Baseline critical AS. Have started gentle diuresis with
+   lasix gtt overnight. Has had good UOP
+   - Keep on levophed with goal diuresis 1L out/24hrs, keeping MAP>65
+   - Follow urine output, MAPS
+   .
+   # Critical AS/systolic CHF:
+   AVR had been on hold given infection and question of HIT
+   - readdress with cardiac surgery. ?role for valvuloplasty
+   - control tachycardia as per above to improve filling time
+   - lasix gtt with goal UOP 100cc/hr, goal -1L out overnight
+   - PM lytes with diuresis
+   # ?HIT:
+   Felt unlikely on rediscussion with heme, though unable to completely
+   rule out at this time. Repeat PF4 mildly elevated.
+   - heme recs appreciated
+ get thoughts on HIT in context of cardiac
+   surgery
+   - continue to hold lepirudin
+   # atrial tachycardia:
+   triggered by hypoxia, > 50% of time in the ICU has been in atrial
+   tachycardia, has been converted to PO amiodarone
+   - continue PO amiodarone
+   - can back off on diuresis if tachycardia increased
+   #. ARF:
+   Cr stable
+   - trend cr and monitor UOP
+   - renally dose all meds
+   # Coagulapathy
+   DDx include DIC, antibiotics, poor nutrition. INR mildly improved after
+   vitamin K.
+   - hold on FFP for now.
+   - check fibrinogen
+   .
+   # Volume status- will plan to diuresed with lasix gtt, goal 500 to
+   1000cc negative
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2579-5-6**] 01:58 AM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2579-5-3**] 01:56 PM
+   Arterial Line - [**2579-5-6**] 02:47 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

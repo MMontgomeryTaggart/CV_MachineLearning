@@ -1,0 +1,228 @@
+CVICU
+   HPI:
+   HD8   POD 2-CABGx4 (LIMA>LAD, SVG>ramus, SVG>OM, SVG>PDA)
+   Ejection Fraction:30%
+   Hemoglobin A1c:7
+   Pre-Op Weight:120.59 lbs   54.7 kgs
+   Baseline Creatinine:0.7
+   PMHx: DM, ^lipids, CAD-s/p MIx3 [**3400**] w/ BMS PCI, recent MI, PVD-s/p
+   bilat. stents to LE in [**3409**], current smoker
+   [**Last Name (un) 500**]: non-compliant-- Bumex 1', ASA occasionally
+   Events:
+   [**3414-12-24**] Poor UOP - renal consulted, milrinone weaned
+   Current medications:
+   Acetaminophen 4. Albuterol-Ipratropium 5. Albumin 25% (12.5g / 50mL) 6.
+   Albumin 5% (25g / 500mL)
+   7. Amiodarone 8. Amiodarone 9. Aspirin EC 10. Aspirin 11. Calcium
+   Gluconate 12. Chlorhexidine Gluconate 0.12% Oral Rinse
+   13. Chlorothiazide 14. Dextrose 50% 15. Dextrose 50% 16. Docusate
+   Sodium 17. Docusate Sodium (Liquid)
+   18. Furosemide 19. Furosemide 20. HydrALAzine 21. Insulin 22. Insulin
+   23. Magnesium Sulfate 24. Metoclopramide
+   25. Milk of Magnesia 26. Milrinone 27. Morphine Sulfate 28.
+   Nitroglycerin 29. Norepinephrine 30. Oxycodone-Acetaminophen
+   31. Phenylephrine 32. Pneumococcal Vac Polyvalent 33. Potassium
+   Chloride 34. Propofol 35. Ranitidine
+   36. Ranitidine 37. Sodium Chloride 0.9% Flush 38. Sodium Polystyrene
+   Sulfonate 39. Vancomycin
+   24 Hour Events:
+   --Remains intubated
+   --Remains on milrinone
+   --Oliguria
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3414-12-22**] 10:00 PM
+   Vancomycin - [**3414-12-24**] 08:00 PM
+   Infusions:
+   Milrinone - 0.125 mcg/Kg/min
+   Amiodarone - 0.5 mg/min
+   Propofol - 30 mcg/Kg/min
+   Nitroglycerin - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Amiodarone - [**3414-12-24**] 08:30 AM
+   Furosemide (Lasix) - [**3414-12-24**] 12:45 PM
+   Insulin - Regular - [**3414-12-24**] 06:12 PM
+   Hydralazine - [**3414-12-25**] 06:02 AM
+   Morphine Sulfate - [**3414-12-25**] 06:55 AM
+   Other medications:
+   Flowsheet Data as of  [**3414-12-25**] 07:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**16**] a.m.
+   HR: 78 (75 - 120) bpm
+   BP: 170/71(99) {68/45(59) - 170/80(99)} mmHg
+   RR: 20 (20 - 24) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 68.5 kg (admission): 59 kg
+   Height: 62 Inch
+   CVP: 18 (10 - 19) mmHg
+   PAP: (52 mmHg) / (26 mmHg)
+   CO/CI (Fick): (7.1 L/min) / (4.5 L/min/m2)
+   CO/CI (CCO): (3.5 L/min) / (2.2 L/min/m2)
+   SvO2: 75%
+   Mixed Venous O2% sat: 78 - 78
+   Total In:
+                                                                  2,395 mL
+                                                                    287 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  1,455 mL
+                                                                    287 mL
+   Blood products:
+                                                                    850 mL
+   Total out:
+                                                                    898 mL
+                                                                    429 mL
+   Urine:
+                                                                    453 mL
+                                                                    349 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,497 mL
+                                                                   -142 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 450 (450 - 450) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 113
+   PIP: 25 cmH2O
+   Plateau: 23 cmH2O
+   SPO2: 98%
+   ABG: 7.44/39/132/25/2
+   Ve: 5.6 L/min
+   PaO2 / FiO2: 264
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Follows simple commands, Moves all extremities, Sedated
+   Labs / Radiology
+   140 K/uL
+   9.1 g/dL
+   144 mg/dL
+   1.4 mg/dL
+   25 mEq/L
+   4.8 mEq/L
+   20 mg/dL
+   103 mEq/L
+   136 mEq/L
+   27.3 %
+   11.3 K/uL
+        [image002.jpg]
+                             [**3414-12-24**]  03:31 AM
+                             [**3414-12-24**]  06:07 AM
+                             [**3414-12-24**]  11:54 AM
+                             [**3414-12-24**]  12:10 PM
+                             [**3414-12-24**]  03:02 PM
+                             [**3414-12-24**]  03:21 PM
+                             [**3414-12-24**]  06:00 PM
+                             [**3414-12-24**]  06:17 PM
+                             [**3414-12-25**]  02:12 AM
+                             [**3414-12-25**]  02:30 AM
+   WBC
+   12.5
+   11.3
+   Hct
+   29.2
+   27.3
+   Plt
+   184
+   140
+   Creatinine
+   1.0
+   1.2
+   1.4
+   TCO2
+   26
+   24
+   27
+   23
+   27
+   27
+   Glucose
+   113
+   183
+   182
+   189
+   144
+   Other labs: PT / PTT / INR:13.2/30.0/1.1, CK / CK-MB / Troponin
+   T:35//0.87, ALT / AST:39/126, Alk-Phos / T bili:43/0.9, Fibrinogen:254
+   mg/dL, Lactic Acid:1.8 mmol/L, LDH:467 IU/L, Ca:8.3 mg/dL, Mg:2.4
+   mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+   HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA), CORONARY ARTERY BYPASS
+   GRAFT (CABG), CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE),
+   DIABETES MELLITUS (DM), TYPE II, HEART FAILURE (CHF), SYSTOLIC, ACUTE
+   ON CHRONIC
+   Assessment and Plan: 72F CABGx4 (LIMA>LAD, SVG>ramus, SVG>OM, SVG>PDA)
+   [**3414-12-23**]
+   Neurologic: Pain controlled, PPF gtt for sedation while intubated;
+   Morphine PRN .
+   Cardiovascular: Aspirin, Statins, Post-op Shock --> stop milrinone this
+   AM
+   Afib --> now SR after bolus and load of amio.
+   HTN --> wean NTG gtt and allow slightly higher blood pressures.
+   Pulmonary:
+   Gastrointestinal / Abdomen: standard bowel regimen.
+   Nutrition: NPO
+   Renal: Foley, Oliguria --> creatine increased in past 24 hours, will
+   hold diuretics as she is probably pre-renal and/or ATN and allow her to
+   remain with higher filling pressures as above.
+   Hematology: Mild anemia --> cont to follow.
+   Endocrine: RISS
+   Infectious Disease: Periop antibx.
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest
+   tube - mediastinal, Pacing [**Last Name (LF) 975**], [**First Name3 (LF) **] need Right pleural chest tube if
+   oxygenation becomes worse.
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Failure), Post-op
+   hypertension, Post-op shock
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3414-12-23**] 02:03 PM
+   CCO PAC - [**3414-12-23**] 02:04 PM
+   Cordis/Introducer - [**3414-12-23**] 02:04 PM
+   16 Gauge - [**3414-12-23**] 02:06 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+   Patient is critically ill
+   ------ Protected Section ------
+   Cardiovascular:  ECG appears to have intermittent AV nodal block, will
+   hold amio for now and follow on tele.
+   Pulmonary:  Change to PS and wean vent as tolerated.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1309**] [**Last Name (NamePattern1) 838**], MD
+   on:[**3414-12-25**] 08:42 ------
+
+
+DOC CLASS

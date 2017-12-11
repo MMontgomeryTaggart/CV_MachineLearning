@@ -1,0 +1,263 @@
+Admission Date:  [**2984-11-8**]              Discharge Date:   [**2984-11-12**]
+
+Date of Birth:  [**2918-12-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+NSAIDS / Pravachol
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+Unstable angina
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement, 25-mm Biocor Epic tissue valve [**2984-11-8**]
+
+
+History of Present Illness:
+History of Present Illness: This is a 65 year old male with
+history of coronary artery disease and aortic stenosis, recently
+complaining of worsening dyspnea on exertion. He has been
+followed with serial echocardiograms, with the most recent
+echocardiogram revealing severe aortic stenosis(previously
+estimated at moderate). Currently, patient is experiencing chest
+pain and dyspnea at rest along with excessive fatigue and one
+pillow orthopnea. His routine ADL's are severely limited by
+dyspnea. He denies history of syncope but has experienced
+presyncopal episodes in the past. His chest pain will
+occasionally radiate to his left arm and neck. Chest pain
+usually subsides with prolonged rest. He will be admitted
+directly to [**Wardname 5912**] from our outpatient clinic with unstable
+angina and undergo further evaluation prior to surgical
+intervention
+
+Past Medical History:
+- Coronary artery disease - s/p PCI/stenting [**2970**], [**2981**](records
+unavailable at this time)
+- History of MI [**2970**], [**2981**]
+- Aortic stenosis
+- Hypercholesterolemia
+- COPD
+- Carotid Disease
+- Obesity
+- History of Paroxysmal Atrial Fibrillation(no longer on
+Warfarin)
+- History of Asthma, Bronchitis(much improved with Advair)
+- Sleep Apnea, uses CPAP
+- Hypogonadism
+- Benign prostatic hypertrophy
+- History of Renal Calculi
+- Depression
+- Sciatica
+- L5 fracture [**2981**]
+- CS with radiculopathy
+- Degenerative Arthritis
+
+
+Social History:
+Lives with: Wife
+Occupation: Disabled school bus driver
+Cigarettes: Smoked no [] yes [x] last cigarette [**2978**]
+Admits to approximate 20 PYH
+ETOH: < 1 drink/week [X] [**3-22**] drinks/week [] >8 drinks/week []
+Illicit drug use: Denies
+
+
+Family History:
+Father underwent CABG. Son with aortic stenosis.
+
+Physical Exam:
+Pulse: 60 Resp: 18  O2 sat: 99% room air
+B/P  Right: 151/81  Left: 145/75
+Height: 66"   Weight: 224 lbs
+
+General: Obese male, appears very short of breath
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck: Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x] decreased at bases
+Heart: RRR [x] Irregular [] Murmur [] grade 4/6 SEM
+Abdomen: Soft [x] ND [x] NT [x] bowel sounds + [x]
+Extremities: Warm [x], well-perfused [x]
+Edema: trace
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 1  Left: 1
+DP           Right: 1  Left: 1
+PT           [**Name (NI) **]: 1  Left: 1
+Radial       Right: 1  Left: 1
+Carotid Bruit: transmitted murmurs bilaterally L>R
+
+
+Pertinent Results:
+[**2984-11-11**] 05:04AM BLOOD WBC-11.6* RBC-3.72* Hgb-11.3* Hct-31.5*
+MCV-85 MCH-30.2 MCHC-35.7* RDW-14.9 Plt Ct-148*
+[**2984-11-9**] 02:01AM BLOOD PT-12.0 PTT-26.8 INR(PT)-1.0
+[**2984-11-11**] 05:04AM BLOOD Glucose-106* UreaN-18 Creat-0.7 Na-139
+K-3.9 Cl-101 HCO3-29 AnGap-13
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG CSRU [**2984-11-10**] 10:45 AM
+CHEST PORT. LINE PLACEMENT   Clip # [**Clip Number (Radiology) 16158**]
+Reason: Pt. had a left sided picc line placed,55cm please [**Doctor First Name 8635**]
+at
+
+Final Report
+CLINICAL HISTORY: 65-year-old man with PICC.
+
+COMPARISON: [**2984-11-8**].
+
+FINDINGS: In comparison to prior examination, the Swan-Ganz
+catheter has been
+removed. A right-sided IJ is incompletely visualized and seen
+terminating
+likely in the internal jugular. Left-sided PICC line is new with
+its tip 2 cm
+from the distal SVC. However, this is difficult to visualize on
+this patient.
+
+
+The lung volumes are extremely low. Cardiomediastinal silhouette
+is enlarged
+and unchanged. Endotracheal tube has been removed. Bilateral
+pleural
+effusions are once again seen, along with bilateral atelectasis.
+There is
+worsening mild pulmonary edema.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**Last Name (STitle) 16159**] [**Name (STitle) 16160**]
+DR. [**First Name (STitle) 512**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 513**]
+Approved: WED [**2984-11-10**] 3:34 PM
+
+
+
+Brief Hospital Course:
+This 65 year old male was admitted on [**11-8**] and underwent aortic
+valve replacement with a 25mm St. [**Male First Name (un) 357**] tissue valve.  He
+tolerated the procedure well and had a cross clamp time of 61
+mins and total bypass time of 82 mins.  He was transferred to
+the CVICU on Neo and Propofol and remained intubated overnight
+because he was a difficult intubation.  He was extubated early
+the next morning and required aggressive respiratory therapy and
+diuresis that day.  POD#2 his epicardial pacing wires and chest
+tubes were discontinued and he was transferred to the floor.He
+has hx of PAF and had episodes of intermittent afib
+postoperatvely. He was not on coumadin however pre-operatively
+and it was started this admission.He will have his coumadin
+managed by his cardiologist once discharged from rehab.  He
+continued to progress and was discharged to rehab on POD#4 in
+stable condition to [**Hospital 145**] nursing and rehab at [**Hospital1 2046**]
+[**Location (un) 2255**]. Of note the Patinet was found to have 70-79% right
+carotid stenosis  and 48-49% left carotid stenosis. He was
+cleared for surgery and vascular service recommened that he have
+f/u cartid ultrasound in 6 months. He was also seen by Dr [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 16161**] from neurology for evaluation of intermittent tingling of
+left upper extremity. It was found to be related to a
+radiculopathy given his history of cervical spine injury and
+recommmended that he follow-up with her as an outpatient.
+
+Medications on Admission:
+-Buproprion 100mg daily
+-Diltiazem Hydrochloride CD 360mg daily
+-Simvastatin 40 mg daily
+-Trazadone 50mg daily
+-Adviar diskus 250-50mcg [**Hospital1 **]
+-Montelukast 10mg daily
+-Aspirin 81mg daily
+-Tamsulosin 0.4mg daily
+-Calcium and Vitamin D daily
+-Omeprazole 20mg daily
+-Testim 50mg/5gram daily
+-Vitamin B daily
+-Magnesium oxide 420mg daily
+-Potassium chloride 10mEq daily
+-Zinc daily
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 2046**] Manor Nursing & Rehab Center - [**Location (un) 2255**]
+
+Discharge Diagnosis:
+- Coronary artery disease - s/p PTCA [**2970**], PCI/stenting in
+[**2981**](taxus stent to OM3)
+- History of MI [**2970**], [**2981**]
+- Aortic stenosis
+- Hypercholesterolemia
+- COPD
+- Carotid Disease
+- Obesity
+- History of Paroxysmal Atrial Fibrillation(no longer on
+Warfarin)
+- History of Asthma, Bronchitis(much improved with Advair)
+- Sleep Apnea, uses CPAP
+- Hypogonadism
+- Benign prostatic hypertrophy
+- History of Renal Calculi
+- Depression
+- Sciatica
+- L5 fracture [**2981**]
+- CS with radiculopathy
+- Degenerative Arthritis
+- s/p Right and Left TKR's
+- s/p Appendectomy
+
+
+Discharge Condition:
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage. Edema
+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: [**Name6 (MD) **] [**Name8 (MD) 1947**], MD Phone:[**Telephone/Fax (1) 294**]
+Date/Time:[**2984-12-15**] 1:00
+Cardiologist: Dr. [**Last Name (STitle) 16162**] [**12-7**]@ 10:15 AM
+
+Please call to schedule appointments with your
+Primary Care: Dr. [**Last Name (STitle) 2302**] in [**5-18**] weeks
+Neurologist: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9023**] [**Telephone/Fax (1) 4029**] in [**3-18**] weeks
+Vascular surgeon: Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 5503**] in 6 months -**also
+have carotid ultrasound scheduled prior to this appointment**
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+
+Completed by:[**2984-11-12**]
+
+DOC CLASS

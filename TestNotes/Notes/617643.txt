@@ -1,0 +1,214 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**3396-8-7**] 03:00 PM
+ PICC LINE - STOP [**3396-8-7**] 03:58 PM
+   Hypotensive, tachycardic yesterday. Held diuresis for now. Pt remains
+   asymptomatic.
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Unknown; Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3396-8-7**] 10:45 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3396-8-8**] 06:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 35.8
+C (96.5
+   HR: 97 (94 - 109) bpm
+   BP: 100/75(81) {84/56(63) - 102/77(84)} mmHg
+   RR: 19 (16 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 88.4 kg (admission): 92.1 kg
+   Height: 70 Inch
+                  Total In:
+                                                                  1,140 mL
+                  PO:
+                                                                  1,140 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    955 mL
+                                                                    200 mL
+   Urine:
+                                                                    955 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    185 mL
+                                                                   -200 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///27/
+   Physical Examination
+   GENERAL: Middle aged man, pleasant, conversant, in NAD.  AAO x3.  Mood
+   and affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of 12 cm.
+   CARDIAC: RRR.  Loud systolic murmur radiating to the carotids, faint
+   diastolic murmur at left sternal border.  Nl S1 and S2 (heard in all
+   four quadrants).  Slight heave over precordium. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Slight crackles at bilateral
+   bases.  Nowheezes or rhonchi.
+   ABDOMEN: Hepatomegaly.  +BS.  Diffusely distended, no positive fluid
+   wave.  No tenderness.  No abdominial bruits.
+   EXTREMITIES: Femoral cath site c/d/i.  Femoral CVL in place without
+   erythema.  1+ edema in ankles up to mid shins.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: DP 2+ PT 2+
+   Left: DP 2+ PT 2+
+   Labs / Radiology
+   224 K/uL
+   12.6 g/dL
+   128 mg/dL
+   1.3 mg/dL
+   27 mEq/L
+   4.5 mEq/L
+   49 mg/dL
+   90 mEq/L
+   131 mEq/L
+   38.0 %
+   8.5 K/uL
+        [image002.jpg]
+                             [**3396-8-2**]  04:48 PM
+                             [**3396-8-4**]  03:36 PM
+                             [**3396-8-4**]  09:00 PM
+                             [**3396-8-5**]  04:05 AM
+                             [**3396-8-5**]  03:10 PM
+                             [**3396-8-6**]  04:00 AM
+                             [**3396-8-6**]  03:18 PM
+                             [**3396-8-7**]  03:39 AM
+                             [**3396-8-7**]  10:23 AM
+                             [**3396-8-8**]  05:15 AM
+   WBC
+   8.3
+   7.3
+   9.6
+   7.6
+   8.5
+   Hct
+   37
+   36.6
+   37.2
+   41.9
+   34.8
+   37.8
+   38.0
+   Plt
+   185
+   170
+   171
+   179
+   224
+   Cr
+   1.1
+   1.2
+   1.1
+   1.1
+   1.2
+   1.4
+   1.2
+   1.3
+   Glucose
+   136
+   170
+   118
+   137
+   100
+   121
+   129
+   128
+   Other labs: PT / PTT / INR:15.2/30.5/1.3, ALT / AST:602/473, Alk Phos /
+   T Bili:117/1.8, Lactic Acid:2.7 mmol/L, Albumin:3.6 g/dL, LDH:571 IU/L,
+   Ca++:8.4 mg/dL, Mg++:2.5 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   The patient is a 44 yo man with HIV, Aortic stenosis s/p porcine valve
+   replacement in [**3389**], and CAD, who presented with progressive dyspnea
+   and two syncopal events and was found to have critical aortic stenosis
+   with valve area of 0.3.
+   .
+   # Critical Aortic Stenosis: The patient has a history of aortic
+   stenosis [**2-29**] bicuspid valve, s/p porcine valve placement in [**3389**].  Now
+   with severe, progressive dyspnea and two syncopal episodes.  Found to
+   have an aortic valve area of 0.3 and a cardiac index of 1.3, waiting
+   now for AVR, likely early next week.  Now diuresing to optimize fluid
+   status prior to surgery.  Yesterday was -1.8L with only slight Cr
+   increase and reports feeling better.
+    - Pre-op Carotid U/S showed no carotid stenosis.
+   - Cleared by hepatology and ID.
+    - Diuresis with Lasix IV/PO as tolerated by blood pressure, goal of
+   even to -500ccs today.  Off lasix for now.
+   .
+   # Transaminitis:  The patient has had elevated LFTs, though they appear
+   to be improving.  Hepatitis serologies and CMV were negative, [**Doctor First Name 1168**] and
+   SM Ab were negative, and tox screen was negative.  ? EBV and HSV may
+   have been ordered.   Most likely hepatic congestion.
+    - Continue to trend LFTs and INR daily
+    - Continue to hold HAART medications
+   .
+   #. CAD:  The patient has a history of CAD, s/p DES to the LAD.  Cardiac
+   cath showed clean coronaries and no evidence of stenosis.
+    - Continue ASA 325 mg daily
+    - Continue to hold Atorvastatin in the setting of elevated LFTs
+    - Continue to hold Lisinopril in the setting of critical aortic
+   stenosis.
+   .
+   # PUMP: Elevated filling pressures, but diastolic HF is chronic and
+   compensated. No pulmonary edema on CXR or exam. [**Month (only) 56**] have diuresed as
+   much as will be tolerated before surgery.
+   - Cr did bump yesterday to 1.4 but trended back down.
+   - D/C Lasix gtt, will continue gentle diuresis for now w/ goal as much
+   as tolerated
+   .
+   # RHYTHM:  The patient continues to be in NSR.  Continue to monitor on
+   telemetery.
+   .
+   #. HIV:  The patient has a history of HIV, with CD4 of 532 on [**3396-5-11**].
+   ID was consulted yesterday regarding guidance on when to restart the
+   patient's HAART therapy. They recommend holding HAART therapy until
+   after cardiac surgery [**2-29**] liver function.
+    - Appreciate ID recs
+   #  Hyponatremia: The patient's Na today is 131, which has increased
+   steadily since [**8-4**].  His hyponatremia was likely secondary to poor
+   forward renal flow and appropriate ADH response v. liver dysfunction.
+    - Continue to follow Na daily
+    - Pt is now -1.5L length of stay. Goal now even to slightly negative.
+   .
+   #. Macrocytic Anemia:  Likely secondary to EtOH use.  The patient was
+   started on Folate and Thiamine on this admission.
+   -          Continue Folate and thiamine.
+   -
+   # Coagulation.- VitK on Friday, [**3396-8-5**]. INR now 1.3
+   ICU Care
+   Nutrition: Regular diet w/ salt and fluid restriction
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3396-8-5**] 06:46 PM
+   Prophylaxis:
+   DVT: Heparin SC
+   Stress ulcer: Is OOB to commode and chair.
+   Communication: patient and partner.
+   [**Name (NI) 62**] status: Full code
+   Disposition: CCU until surgery
+
+
+DOC CLASS

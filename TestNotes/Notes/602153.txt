@@ -1,0 +1,248 @@
+Chief Complaint: sepsis
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   42 y/o F w/CVID, admitted with septic shock, course c/b persistent
+   organ failure.
+   24 Hour Events:
+   - tolerating tube feeds, now at 65 ml/hr, having bowel movements
+   - tolerating fluid removal
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Aspirin
+   rectal bleeding
+   Penicillins
+   Rash; Hives;
+   Sulfonamides
+   aseptic menigi
+   Biaxin (Oral) (Clarithromycin)
+   Diarrhea;
+   Levaquin (Oral) (Levofloxacin)
+   Rash;
+   Cefzil (Oral) (Cefprozil)
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   aseptic meningi
+   Erythromycin Base
+   Rash;
+   Last dose of Antibiotics:
+   Metronidazole - [**3391-2-14**] 08:34 AM
+   Fluconazole - [**3391-2-14**] 08:00 PM
+   Meropenem - [**3391-2-16**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**3391-2-15**] 08:00 PM
+   Pantoprazole (Protonix) - [**3391-2-16**] 08:00 AM
+   Other medications:
+   vancomycin po, sodium chloride nasal spray, reglan, protonix, insulin
+   sliding scale, meropenem, octreotide, midodrine, epogen, ursodiol,
+   peridex, lactulose 30 tid
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3391-2-16**] 10:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.6
+C (99.6
+   HR: 99 (90 - 106) bpm
+   BP: 99/42(59) {98/40(57) - 121/54(75)} mmHg
+   RR: 22 (14 - 27) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 59.9 kg (admission): 64 kg
+   Height: 64 Inch
+   CVP: 12 (6 - 17)mmHg
+   Total In:
+                                                                  8,451 mL
+                                                                  2,923 mL
+   PO:
+   TF:
+                                                                    592 mL
+                                                                    472 mL
+   IVF:
+                                                                  6,222 mL
+                                                                  1,664 mL
+   Blood products:
+   Total out:
+                                                                 12,550 mL
+                                                                  3,442 mL
+   Urine:
+                                                                    229 mL
+                                                                     84 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  2,215 mL
+                                                                    335 mL
+   Balance:
+                                                                 -4,099 mL
+                                                                   -519 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 50
+   PIP: 23 cmH2O
+   Plateau: 21 cmH2O
+   SpO2: 99%
+   ABG: 7.48/38/153
+   Ve: 8.3 L/min
+   PaO2 / FiO2: 383
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: icteric
+   Head, Ears, Nose, Throat: Normocephalic, NG tube, trach in place
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) Rub, (Murmur:
+   Systolic), III/VI systolic ejection murmur at LUSB
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: ), fewer rhonchi over past several days
+   Abdominal: Non-tender, Bowel sounds present, Distended, softer than
+   yesterday
+   Extremities: Right: 4+, Left: 4+
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm, Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: No spontaneous movement, Tone: Not assessed
+   Labs / Radiology
+   10.1 g/dL
+   93 K/uL
+   92 mg/dL
+   0.6 mg/dL
+   25 mEq/L
+   5.0 mEq/L
+   31 mg/dL
+   104 mEq/L
+   139 mEq/L
+   28.8 %
+   24.1 K/uL
+        [image002.jpg]
+                             [**3391-2-15**]  05:02 AM
+                             [**3391-2-15**]  09:55 AM
+                             [**3391-2-15**]  10:42 AM
+                             [**3391-2-15**]  03:52 PM
+                             [**3391-2-15**]  04:36 PM
+                             [**3391-2-15**]  09:50 PM
+                             [**3391-2-15**]  10:02 PM
+                             [**3391-2-16**]  04:34 AM
+                             [**3391-2-16**]  04:46 AM
+                             [**3391-2-16**]  10:12 AM
+   WBC
+   24.1
+   Hct
+   28.8
+   Plt
+   93
+   Cr
+   0.7
+   0.6
+   TCO2
+   28
+   26
+   26
+   30
+   29
+   29
+   Glucose
+   97
+   105
+   104
+   92
+   Other labs: PT / PTT / INR:27.6/83.4/2.8, CK / CKMB /
+   Troponin-T:19//0.05, ALT / AST:42/150, Alk Phos / T Bili:151/39.5,
+   Amylase / Lipase:15/26, Differential-Neuts:85.4 %, Band:0.0 %,
+   Lymph:7.2 %, Mono:5.7 %, Eos:0.9 %, D-dimer:6342 ng/mL, Fibrinogen:175
+   mg/dL, Lactic Acid:0.9 mmol/L, Albumin:2.9 g/dL, LDH:307 IU/L,
+   Ca++:10.3 mg/dL, Mg++:2.2 mg/dL, PO4:2.4 mg/dL
+   Fluid analysis / Other labs: smear with 2+ schistos
+   Microbiology: No new micro data
+   Assessment and Plan
+   Problems:
+   1. [**Name2 (NI) 5389**] VAP
+   2. ARDS
+   3. [**Last Name (un) **]
+   4. Coagulopathy
+   5. Cirrhosis
+   She has continued to improve over the past couple of days with dialysis
+   and volume removal.  Her mental status is better than it was last
+   week.  She is now tolerating tube feeds, and we are now able to give
+   her lactulose so our hope is that this will also improve her mental
+   status.  Will continue the meropenem for a 15 day course, and po vanco
+   for C.diff.  Will change her ventilator to PSV today and see if she can
+   tolerate it; may need increased peep given abdominal distention.
+   Coagulopathy likely due to low-grade DIC, and is stable.
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3391-2-15**] 05:39 PM 53 mL/hour
+   Vivonex (Full) - [**3391-2-16**] 01:52 AM 68.[**Telephone/Fax (3) 5390**] mL/hour
+   Comments: will decrease TPN today given tube feeds advanced
+   Glycemic Control:  Insulin in TPN, Comments: will likely need insulin
+   gtt once TPN off
+   Lines:
+   PICC Line - [**3391-1-26**] 03:00 PM
+   Multi Lumen - [**3391-2-1**] 03:35 PM
+   Arterial Line - [**3391-2-10**] 05:10 PM
+   Dialysis Catheter - [**3391-2-12**] 06:49 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points:
+   Tolerating TF
+s, weaning TPN. A bit more awake this morning
+ turning
+   head to voice though not following commands.
+   Exam notable for Tmax: 37.6
+C (99.7
+   Tcurrent: 37.6
+C (99.6
+F)  HR: 99 (90 - 106) bpm BP: 99/42(59)
+   {98/40(57) - 121/54(75)} mmHg RR: 22 (14 - 27) insp/min
+   SpO2: 99%
+   Awake though not following commands, trach, anasarca
+   Coarse vented BS
+   Rrr
+   Abd distended, draining fluid from prior paracentesis site
+   Extreme edematous
+   Labs today reviewed
+   Problems: [**Name2 (NI) 5396**] failure, renal failure, respiratory failure, anasarca,
+   ARDS, thrombocytopenia, schistocytes
+   Agree with plan to continue full supportive care per family wishes
+   will revisit goals weekly, continue vent support, wean as tolerated,
+   continue abx, lactulose, remainder of plan per Dr. [**First Name (STitle) **]
+s note
+   Remainder of plan as outlined above.
+   Patient is critically ill.
+   Total time: 37 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 98**] [**Last Name (NamePattern1) 99**], MD
+   on:[**3391-2-16**] 15:25 ------
+
+
+DOC CLASS

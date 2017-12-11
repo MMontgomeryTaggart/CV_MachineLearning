@@ -1,0 +1,166 @@
+Chief Complaint:
+   24 Hour Events:
+ INDWELLING PORT (PORTACATH) - START [**2798-2-21**] 12:00 PM
+   accessed in ew [**2-14**]
+   - RUE US prelim negative
+   - Started phenylephrine (BP 80s/50s, MAP high 50s) despite ivfs
+   Allergies:
+   Latex
+   Rash;
+   Oxaliplatin
+   see ccc note;
+   Iodine; Iodine Containing
+   Rash;
+   Fluconazole
+   angioedema;
+   Ace Inhibitors
+   Rash; contraind
+   Last dose of Antibiotics:
+   Vancomycin - [**2798-2-21**] 02:00 PM
+   Meropenem - [**2798-2-22**] 03:44 AM
+   Metronidazole - [**2798-2-22**] 05:49 AM
+   Infusions:
+   Phenylephrine - 0.3 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2798-2-22**] 07:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**00**] AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 36.6
+C (97.8
+   HR: 73 (60 - 92) bpm
+   BP: 122/63(77) {80/43(52) - 122/64(79)} mmHg
+   RR: 13 (11 - 19) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  9,238 mL
+                                                                    626 mL
+   PO:
+                                                                    570 mL
+                                                                    250 mL
+   TF:
+   IVF:
+                                                                  5,398 mL
+                                                                    376 mL
+   Blood products:
+   Total out:
+                                                                  2,125 mL
+                                                                    820 mL
+   Urine:
+                                                                    520 mL
+                                                                    470 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  7,113 mL
+                                                                   -194 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///16/
+   Physical Examination
+   CV: RR no murmurs
+   Pulm: CTAB
+   Abdom:Soft, new ostomy in place, no evidence of bleed, nontender
+   Extrem: RUE>LUE
+   Skin: increased turgor
+   Labs / Radiology
+   209 K/uL
+   11.0 g/dL
+   133 mg/dL
+   1.3 mg/dL
+   16 mEq/L
+   3.5 mEq/L
+   11 mg/dL
+   112 mEq/L
+   138 mEq/L
+   34.0 %
+   7.0 K/uL
+        [image002.jpg]
+                             [**2798-2-22**]  04:28 AM
+   WBC
+   7.0
+   Hct
+   34.0
+   Plt
+   209
+   Cr
+   1.3
+   Glucose
+   133
+   Other labs: ALT / AST:[**9-30**], Alk Phos / T Bili:55/0.8,
+   Differential-Neuts:70.3 %, Lymph:16.5 %, Mono:7.5 %, Eos:5.3 %,
+   Albumin:2.0 g/dL, LDH:180 IU/L, Ca++:7.5 mg/dL, Mg++:1.4 mg/dL, PO4:2.9
+   mg/dL
+   Assessment and Plan
+ .H/O CANCER (MALIGNANT NEOPLASM), COLORECTAL (COLON CANCER)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   67 year old female with metastatic colon cancer C32D12 5-FU/Leucovorin
+   presenting with nausea, vomiting and acute renal failure, now with
+   bleeding from ostomy, hypotension and GNR bacteremia.
+   .
+   # Shock: Currently on pressors.  Likely distributive: sepsis w/ GNR in
+   blood cx from [**2-20**].  [**Last Name (un) **] stim not consistent w/ adrenal insuff.
+   Urine cx neg, first stool cx neg for c diff.
+   -- Cont neo for map goal >65
+   -- Cont broad spectrum abx for Vanco/[**Last Name (un) 411**]/flagyl
+   -- F/u bcx, repeat stool cx r/o c diff, and send sputum
+   .
+   # High Ostomy output/diarrhea: Ostomy output has high. Stools negative
+   for ovas/parasites and negative for c. diff x1. sent for cx and C.diff.
+   -- Continue Octreotide, Opium Tincture, PPI, Rifaximin
+   -- Repeat stool cx r/o c diff
+   .
+   # Elevated bilirubin: Direct bili elevated yesterday, currently within
+   normal limits.  Hemolysis labs negative.  AP, ALT, AST not elevated.
+   .
+   # Acute renal failure: Baseline ~1.4-2.0. Improved with IVFs.
+   -- Avoid nephrotoxins, renally dose meds.
+   .
+   # RUE edema: prelim RUE US neg for DVT.
+   -- F/u final read of US
+   .
+   # Anemia: S/p 3 units of PRBCs [**2-20**]. Currently hct stable and
+   hemolysis labs negative.  Thought to have bleed from ostomy site.
+   -- Active T+S and 2 PIVS
+   -- Transfuse for goal >21.
+   -- Trend hct
+   .
+   # H/O PE/SVC syndrome/port-related clots: Fondaparinux on hold due to
+   dramatic decline in renal function and recent bleeding.  Can restart
+   when hct and hemodynamics remain stable.
+   .
+   # Tachycardia: Chronic for patient, continue home diltiazem
+   -- Monitor hemodynamics
+   .
+   # Wound: Ostomy consult. Continue topical therapies and local care.
+   .
+   # DM: Not on meds at home.
+   -- Continue HISS
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Indwelling Port (PortaCath) - [**2798-2-21**] 12:00 PM
+   20 Gauge - [**2798-2-21**] 12:00 PM
+   Prophylaxis:
+   DVT: pneumoboots
+   Stress ulcer:  ppi
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

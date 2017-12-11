@@ -1,0 +1,319 @@
+Admission Date:  [**3148-4-20**]              Discharge Date:   [**3148-5-2**]
+
+
+Service: SURGERY
+
+Allergies:
+NSAIDS / Salicylates
+
+Attending:[**First Name3 (LF) 1048**]
+Chief Complaint:
+Acute onset of lower back pain
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+89 [**Hospital **] transfered from an OSH with the chief complaint of lower
+back pain for the past 1 week. This was sudden in onset,
+progressively worsening, constatnt in nature with no aggravating
+or relieving factors, associated with nausea.
+No fever, chills or vomiting. No h/o any trauma to the back.
+
+
+Past Medical History:
+PMH: CAD with non STEMI in [**3146-6-5**], paroxysmal atrial
+fibrillation, HTN, hypercholesterolemia, hypothyroidism, CHF (EF
+-50%), moderate to severe mitral regurgittation, mild aortic and
+pulmonary in sufficiency, pulmonary HTN, AAA, legally blind
+
+Past Surgical History: appendectomy, hysterectomy, oophorectomy,
+uterine cancer, C section, spine surgery
+
+
+
+Social History:
+Lives alone, smoked <1 ppd for about 40 years
+
+
+Family History:
+significant for CAD and colon cancer
+
+
+
+Physical Exam:
+Vital Signs: Temp: 96.6 F RR: 14 Pulse: 78 BP: 186/93
+Neuro/Psych: Oriented x3, Affect Normal, NAD.
+Neck: No masses, Trachea midline, Thyroid normal size,
+non-tender, no masses or nodules, No right carotid bruit, No
+left
+carotid bruit.
+Nodes: No clavicular/cervical adenopathy, No inguinal
+adenopathy.
+
+Skin: No atypical lesions.
+Heart: Regular rate and rhythm.
+Lungs: Clear, Normal respiratory effort.
+Gastrointestinal: large ventral hernia, well healed midline
+surgical incision seen, no Guarding or rebound,No
+hepatosplenomegally.
+Rectal: Not Examined.
+Extremities: No popiteal aneurysm, No femoral bruit/thrill, No
+RLE edema, No LLE Edema, No varicosities, No skin changes.
+
+Pulse Exam (P=Palpation, D=Dopplerable, N=None)
+RUE Radial: P. Ulnar: P. Brachial: P.
+LUE Radial: P. Ulnar: P. Brachial: P.
+RLE Femoral: P. Popiteal: P. DP: P. PT: D.
+LLE Femoral: P. Popiteal: P. DP: P. PT: D.
+
+
+
+Pertinent Results:
+[**3148-4-19**] 03:05PM BLOOD WBC-4.2 RBC-3.65* Hgb-11.0* Hct-33.0*
+MCV-90 MCH-30.1 MCHC-33.4 RDW-15.5 Plt Ct-160
+[**3148-4-19**] 03:05PM BLOOD Neuts-74* Bands-1 Lymphs-17* Monos-7
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**3148-4-19**] 03:05PM BLOOD PT-13.3 PTT-27.2 INR(PT)-1.1
+[**3148-4-19**] 03:05PM BLOOD Glucose-96 UreaN-25* Creat-1.5* Na-143
+K-4.1 Cl-115* HCO3-20* AnGap-12
+[**3148-4-19**] 03:05PM BLOOD ALT-13 AST-20 AlkPhos-84 Amylase-48
+TotBili-0.5
+
+[**3148-4-19**] CTA abdomen:
+IMPRESSION:
+1. Bilobed fusiform abdominal aortic aneurysm with overall
+dimensions
+measuring up to 4.8 x 5.2 cm. No definite signs of rupture.
+2. Mildly dilated small bowel with segments which appear
+hyperenhancing and  slightly thickened which raises concern for
+an inflammatory or an infectious  etiology. Please correlate
+clinically.
+3. Soft tissue nodularity involving the pelvic floor/perineum
+which could
+reflect old inflammatory changes though clinical correlation is
+advised.
+4. Bilateral renal scarring and renal hypodensities, the largest
+of which
+appear to represent simple cysts.
+5. Complex ventral hernia, containing non-obstructed small and
+large bowel.
+6. Extremely demineralized bony pelvis with evidence of old
+insufficiency
+fractures. Stabilization hardware in the lower lumbar spine.
+
+[**3148-4-20**] ECHO:
+The left atrium is moderately dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF 60%); however, the basal inferior and posterior segments
+are hypokinetic. The estimated cardiac index is normal
+(>=2.5L/min/m2). Right ventricular chamber size and free wall
+motion are normal. The ascending aorta is mildly dilated. The
+aortic valve leaflets are mildly thickened (?#). Mild to
+moderate ([**12-7**]+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. The mitral valve leaflets are
+myxomatous. There is mild posterior leaflet mitral valve
+prolapse. An eccentric, anteriorly directed jet of moderate (2+)
+mitral regurgitation is seen. Due to the eccentric nature of the
+regurgitant jet, its severity may be significantly
+underestimated (Coanda effect). The tricuspid valve leaflets are
+mildly thickened. There is mild pulmonary artery systolic
+hypertension.
+
+[**3148-4-22**] Left Hip XR:
+IMPRESSION:
+1. No evidence of acute fractures or dislocations. MRI is the
+recommended
+study of choice if clinical suspicion for occult fracture is
+high.
+2. Unusual mottled appearance of bilateral iliac bones, of
+nonspecific
+etiology.
+
+[**3148-4-23**] CTA abdomen:
+IMPRESSION:
+1. Stable abdominal aortic aneurysm without signs of acute
+rupture. No
+retroperitoneal hematoma.
+2. Fluid-filled distended loops of small bowel, without discrete
+transition point, findings suggestive of ileus.
+3. Cystic lesions within the kidneys, the largest in the left
+upper pole of indeterminate attenuation. Followup renal
+ultrasound should be considered.
+4. Stable ventral hernia without evidence of acute obstruction.
+5. Stable severely mottled pelvic bones of uncertain etiology.
+6. New small bilateral pleural effusions.
+
+[**3148-4-28**] KUB: Increased gaseous distension of several bowel
+loops. When
+compared with recent CT, this most likely represents continued
+ileus; however, obstruction cannot be excluded.
+
+
+Brief Hospital Course:
+The patient was admitted to the surgery service for evaluation
+and treatment.
+
+HD 1- She was transferred from an OSH with the chief complaint
+of acute onset of lower back pain and a CT scan s/o increase in
+size of her preexisting AAA. She required a nitroprusside drip
+won the day of admission to keep her SBP in the range of 100-
+110 mmHg. She was then transferred to the CVICU for close
+monitoring.
+
+HD 2- The patient was doing well. her pain was well controlled
+with IV morphine and she remained hemodynamically stable. A
+cardiology consult was sought to assess the cardiac risk for
+possible surgical repair of the AAA. They recommended giving
+ASA, lopressor and a perfusion scan. An ECHO was done to assess
+the current cardiac functional status.
+
+HD 3- The patient was started on a small dose of PO lopressor
+and she stayed stable throughout the day. She was transferred
+out of the CVICU to the VICU.
+
+HD4 - A sudden increase in the Serum creatinine from 1.6 t 1.9
+was noted. Also, there was a deacrease in the hourly urine
+output. She recieved 2 boluses of NS of 500cc each followed by
+mIVF. Her lisinopril was stopped and a FeNa was calculated which
+was found to be 0.2%.
+
+HD 5 - She started complaining of pain in the left hip in the
+morning. She was hen sent down for an XR of the hip that showed
+no e/o any fracture. Also, a wound care consult was sought to
+assess her bed sore.
+
+HD 6 - She started complaining of increased abdominal pain and
+was slightly tender on physical examination. A CT scan of the
+abdomen was done to diagnose an increase in size of the AAA and
+any other ongoing pathological process. The ACS team was
+consulted at this time and no surgical intervention was
+recommended by the team.
+
+HD 7 - There was an improvement in her Creatinine which was down
+to 1.6. She c/o nausea on multiple occasions following which an
+EKG was done to r/o ongoing myocardial ischemia. her cardiac
+enzymes were also negative.
+
+HD 8 - Ciprofloxacin and FLagyl were started due to concern for
+bowel ischemia. Once again, there was a sudden increase in the
+creatinine from 1.6 to 1.9. She was given 2 boluses of IVFs, 500
+cc each and the mIVF rate was also increased.
+
+Starting on HD 9, patient began to have worsening crampy
+abdominal pain. She was no longer having bowel movements. Her
+antibiotics were discontinued as her C-diff was negative. KUB
+was performed that was consistent with ileus. Patient had
+intermittent episodes of emesis, but did not require an NGT.
+General surgery was re-consulted and did not feel that this was
+due to the patient's ventral hernia, and suggested no
+intervention. This new pain was also not felt to be due to her
+AAA. Geriatrics was consulted and felt this was likely due to
+her colonic stricture that was diagnosed a year prior after a
+lower GI bleed episode. The patient was started on a very
+aggressive bowel regimen to soften her stools. On HD11, patient
+finally began to have severaly loose stools, and began to feel
+much better. GI was also consulted and suggested that if she has
+these obstructive symptoms again that a stent could be
+considered for palliation.
+
+HD 12 - She began complaining of jaw pain and was evaluated by
+OMFS service.  Their evaluation was that she had a close lock
+consistent with anterior displaced disc without reduction and
+recommended a soft diet and  motrin 600mg prn and heat pack to
+the face if pain developed/persisted.  In addition, she should
+follow-up with her usual dentist or the OMFS service for this.
+
+Overall, after long discussions with the family it was decided
+to not pursue surgical intervention for her AAA. Given her
+several cardiac problems, it was deemed too risky to proceed
+with surgery. The patient and the family agreed with this and
+she was discharged to rehab in stable condition without any
+acute issues.
+
+
+
+
+Medications on Admission:
+Lisinopril 5mg OD, Levothyroxine 100mcg OD, vicodin 1 tab prn,
+Vit B12 1000mcg OD, latanoprost 0.005% ED HS, lotemax 0.5 ED
+[**Hospital1 **], dorzolamide ED [**Hospital1 **]
+
+Discharge Medications:
+1. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+4. dorzolamide-timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic [**Hospital1 **] (2 times a day).
+5. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+6. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+9. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours).
+10. lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+11. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+12. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection Injection TID (3 times a day).
+13. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+14. hydralazine 10 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+15. hydralazine 20 mg/mL Solution Sig: One (1) Injection
+Injection Q6H (every 6 hours) as needed for SBP>150.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 1407**] Village & Rehabilitation Center - [**Location (un) 1407**]
+
+Discharge Diagnosis:
+Abdominal aortic aneurysm.
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Please call your doctor if you develop fever > 101.5, chills,
+nausea, vomiting, severe pain not controlled by medications, or
+if anything else concerns you.
+
+You should continue to eat a low residue soft diet to help
+soften your stools and to prevent further jaw pain.  Please take
+all new medications as prescribed. You may continue all of your
+prior medications.
+
+You may continue your normal activity as tolerated.
+
+Followup Instructions:
+For your jaw pain Please follow up with your regular dentist or
+with OMFS service at:
+- [**Hospital1 664**] Outpatient Clinic Info:
+[**Last Name (NamePattern1) 10386**] , ACC-Yawkey Building, [**Hospital 6707**] Clinic [**Location (un) 83**]
+Phone #[**Telephone/Fax (1) 11300**].
+
+Please call Dr[**Doctor Last Name **] office (Vascular Surgery) at
+[**Telephone/Fax (1) 1063**] on as needed basis.
+
+
+
+
+
+DOC CLASS

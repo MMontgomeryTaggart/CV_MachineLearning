@@ -1,0 +1,252 @@
+Admission Date:  [**3145-5-14**]              Discharge Date:   [**3145-5-16**]
+
+Date of Birth:  [**3114-12-31**]             Sex:   F
+
+Service: EMERGENCY
+
+Allergies:
+Haldol / Bacitracin
+
+Attending:[**First Name3 (LF) 8515**]
+Chief Complaint:
+SA with ASA overdose
+
+Major Surgical or Invasive Procedure:
+arterial line placement and removal
+
+History of Present Illness:
+HPI: 30 y/o F w/borderline personality d/o, PTSD, anxiety, and
+depression who repeatedly swallows pen, h/o multiple SI/SAs who
+presented to the ED after swallowing 120 aspirin pills. Pt
+states that she has been feeling depressed in the morning, and
+went to CVS to purchase a bottle of aspirin with which to
+ingest. Began vomiting, found by friend, brought to [**Name (NI) **]. C/o
+tinnitus, nausea, denies any emesis. On arrival to the [**Hospital Unit Name 69**],
+denies CP, SOB, lightheadedness, confusion.
+.
+In the [**Name (NI) **], pt's VS were T96.6, HR88, BP110/83 RR16, o2 sat:
+99%RA. An ASA level drawn was 42, and an ABG was 7.47 30 102. Pt
+was given activated charcoal and received 1L of D5W + NaHCO3.
+
+
+Past Medical History:
+Borderline personality d/o, lives in group home
+Depression
+Anxiety
+PTSD
+IDDM
+HTN
+peripheral neuropathy
+recurrent UTIs
+
+
+Social History:
+denies tobacco, EtOH, and IVDU. The patient continues to live at
+the DBT Group Home in [**Location (un) **]. Mother and father live in
+[**Location (un) 585**] and a biological brother (lives in [**Name (NI) **]) and has 6
+other siblings. Patient completed 3rd grade and has never had a
+job.
+
+
+Family History:
+Adopted, denies knowing parents.
+
+Physical Exam:
+
+VS: T98.5 HR80 BP138/69 RR10 o2sat: 99%RA
+GEN: Young female, lying down, in NAD, conversing without
+difficulty
+HEENT: Anicteric sclera. PERRL. EOMi.
+NECK: Thick neck. No JVP appreciated
+CV: Regular, nml s1,s2. No murmurs
+RESP: CTAB anteriorly.
+ABD: Mild suprapubic tenderness, L mildly > than R. No
+rebound/guarding. No HSM.
+EXT: No edema bilat.
+NEURO: AAOx3.
+
+
+Pertinent Results:
+[**3145-5-16**] 03:20AM BLOOD WBC-10.5 RBC-4.46 Hgb-11.6* Hct-34.9*
+MCV-78* MCH-26.1* MCHC-33.3 RDW-15.3 Plt Ct-303
+[**3145-5-15**] 02:19AM BLOOD WBC-14.5* RBC-4.63 Hgb-12.1 Hct-35.3*
+MCV-76* MCH-26.2* MCHC-34.3 RDW-15.2 Plt Ct-359
+[**3145-5-14**] 09:29PM BLOOD WBC-19.3*# RBC-4.81 Hgb-12.4 Hct-36.4
+MCV-76* MCH-25.8* MCHC-34.1 RDW-15.0 Plt Ct-373
+[**3145-5-16**] 03:20AM BLOOD Plt Ct-303
+[**3145-5-14**] 09:29PM BLOOD PT-12.6 PTT-22.4 INR(PT)-1.1
+[**3145-5-16**] 03:20AM BLOOD Glucose-110* UreaN-7 Creat-0.7 Na-140
+K-3.7 Cl-104 HCO3-24 AnGap-16
+[**3145-5-15**] 02:19AM BLOOD Glucose-111* UreaN-14 Creat-1.0 Na-144
+K-3.6 Cl-104 HCO3-25 AnGap-19
+[**3145-5-14**] 09:29PM BLOOD Glucose-86 UreaN-14 Creat-1.0 Na-142
+K-4.3 Cl-106 HCO3-21* AnGap-19
+[**3145-5-16**] 03:20AM BLOOD Calcium-9.4 Phos-3.2 Mg-1.9
+[**3145-5-15**] 02:19AM BLOOD Calcium-9.9 Phos-4.2 Mg-2.1
+[**3145-5-15**] 03:20PM BLOOD ASA-13
+[**3145-5-15**] 05:48AM BLOOD ASA-33*
+[**3145-5-15**] 02:17AM BLOOD ASA-36*
+[**3145-5-14**] 09:29PM BLOOD ASA-42* Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3145-5-15**] 06:09AM BLOOD Type-ART Temp-37.0 pO2-84* pCO2-39
+pH-7.48* calHCO3-30 Base XS-5 Intubat-NOT INTUBA
+[**3145-5-15**] 02:57AM BLOOD Type-ART Temp-37 pO2-115* pCO2-33*
+pH-7.52* calHCO3-28 Base XS-4 Intubat-NOT INTUBA
+[**3145-5-14**] 09:55PM BLOOD pO2-102 pCO2-30* pH-7.47* calHCO3-22 Base
+XS-0
+.
+CXR [**5-16**]
+UPRIGHT AP VIEW OF THE CHEST: Nasogastric tube tip is within the
+fundus of the stomach. The heart is normal size. The mediastinal
+and hilar contours are normal. The lungs are clear and the
+pleurae are normal.
+
+Brief Hospital Course:
+A/P: 30 y/o F w/borderline personality d/o, PTSD, anxiety, and
+depression who repeatedly swallows pen, h/o multiple SI/SAs who
+presented to the ED after swallowing 100 aspirin pills.
+.
+1. Salicyclate toxicity
+Pt s/p suicide attempt with aspirin overdose. Pt with ASA level
+of 42 in the ED which is in the range of toxicity, although on
+the low end. She received NaHCO3 in the ED with activated
+charcoal.  Toxicology was consulted in the ED, which only
+recommended following salicyclate levels and giving NaHCO3 to
+alkalinize the blood and urine.  She received a 2nd dose of
+activated charcoal in the [**Hospital Unit Name 69**] and sequential ABGs showed
+declining salicyclate levels declining to 33 on HD#1.  Her
+bicarb IVFs were discontinued as it was felt she was resolved
+from her overdose.  Psychiatry was consulted as below for her
+SA.
+.
+2. [**Name (NI) 8516**]
+Pt with a primary resp alkalemia from hyperventilation due to
+ASA toxicity; also with a primary metabolic acidosis from ASA.
+She was given NaHCO3 for treatment of her ASA overdose as per
+protocol.  Once her ASA level began to decline, her IVFs were
+discontinued.
+.
+3. Psych
+Pt with a h/o multiple psych issues including depression,
+borderline PD, multiple SI/SAs, h/o recurrent swallowing of
+pens, presents with SA by ASA overdose.  Patient was placed on
+suicide precautions with a 1:1 sitter.  Psych was consulted in
+the morning who recommended returning her back to her group home
+as patient denied any ongoing SI/HI.
+.
+4. Asthma
+- Cont Advair, albuterol prn
+.
+5. HTN
+Initially held antihypertensives while receiving charcoal.
+Restarted once tolerating POs on discharge.
+.
+6. Hyperchol
+Initially held statin, restarted when tolerating POs on
+discharge.
+.
+7. DM
+Initially held antihypertensives, placed on half of lantus dose
+while NPO, Humalog SS as needed to maintain normal BS.
+Gradually restarted oral antihypoglycemics once tolerating POs.
+.
+DISPO - Full Code.  To be sent back to her group home for
+continued outpatient psych treatment.
+
+Medications on Admission:
+Pioglitazone 30 qD
+Metformin SR 1g qD
+Insulin: Lantus 22 qDinner, Humalog 6U qAM, 8 qDinner
+Advair 1 puff [**Hospital1 **]
+Albuterol prn
+Ativan 2 TID
+Neurontin 600 [**Hospital1 **]
+Methylphenidate SR 60 qD
+Clonidine 0.1 qAM
+Risperdal 25mg IM q2 weeks
+Thorazine 50mg qhs, tid prn
+Propanolol 120 qD
+Lipitor 10 qD
+Lisinopril 5 qD
+Verapamil SR 120 qD
+Lamictal 150 [**Hospital1 **]
+Protonix 40 [**Hospital1 **]
+Ranitidine 150 qhs
+Senna/Colace
+
+
+Discharge Medications:
+1. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 9**] (2 times a day).
+Disp:*60 Disk with Device(s)* Refills:*2*
+2. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed for SOB/wheezing.
+Disp:*1 inhaler* Refills:*0*
+3. Pioglitazone 30 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Ativan 2 mg Tablet Sig: One (1) Tablet PO three times a day.
+Disp:*90 Tablet(s)* Refills:*0*
+6. Neurontin 600 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+7. Methylphenidate 60 mg Capsule, Multiphasic Rel.30-70 Sig: One
+(1) Capsule, Multiphasic Rel.30-70 PO once a day.
+Disp:*30 Capsule, Multiphasic Rel.30-70(s)* Refills:*0*
+8. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Risperdal Consta 25 mg/2 mL Syringe Sig: One (1) injection
+Intramuscular  every 2 weeks.
+Disp:*qs injection* Refills:*0*
+10. Propranolol 120 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO once a day.
+Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*2*
+11. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+12. Verapamil 120 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO once a day.
+Disp:*30 Tablet Sustained Release(s)* Refills:*2*
+13. Lamictal 150 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+14. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+15. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as
+needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Aspirin overdose
+
+Discharge Condition:
+stable to be discharged home
+
+Discharge Instructions:
+Please follow up with appointment as below.
+.
+Please take your medications as you were doing previously.
+.
+If ingest any substances, or develop any chest pain, shortness
+of breath, fevers, or any symptoms, please call Dr. [**Last Name (STitle) 3789**] or
+report to the nearest ER.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 151**] Date/Time:[**3145-5-23**]
+3:30
+.
+Provider: [**Name Initial (NameIs) 5817**] (C4) TCC RADIOLOGY Phone:[**Telephone/Fax (1) 416**]
+Date/Time:[**3145-5-29**] 2:15
+.
+Provider: [**First Name11 (Name Pattern1) 8513**] [**Last Name (NamePattern4) 8514**], MD Phone:[**Telephone/Fax (1) 1886**]
+Date/Time:[**3145-7-5**] 11:15
+
+
+
+Completed by:[**3145-5-16**]
+
+DOC CLASS

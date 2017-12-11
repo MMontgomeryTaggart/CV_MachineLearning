@@ -1,0 +1,200 @@
+CVICU
+   HPI:
+   s/p emergent replacement os asc aorta, AVR (#19 [**First Name8 (NamePattern2) **] [**Male First Name (un) 629**] tissue),
+   insertion IABP, open chest [**9-25**]
+   EF 50% preop - 20% (postop)  Wt 90   Cr 1.1
+   PMH AAA, HTN,
+   [**Last Name (un) 500**] tricor, lisinopril 10', inderal LA 100", zetia 20' hctz 25',
+   cymbalta 60'
+   Current medications:
+   Artificial Tears, Aspirin,  Bisacodyl, Docusate Sodium (Liquid),
+   Metoclopramide Pantoprazole Vancomycin
+   24 Hour Events:
+   Post operative day:
+   POD#2 - AVR with aortic replacement w/ IABP
+   24 hour events remains on multiple pressors, open chect, intubated
+   Allergies:
+   Last dose of Antibiotics:
+   Cefazolin - [**3164-9-25**] 10:00 PM
+   Vancomycin - [**3164-9-27**] 01:00 PM
+   Infusions:
+   Norepinephrine - 0.1 mcg/Kg/min
+   Epinephrine - 0.15 mcg/Kg/min
+   Insulin - Regular - 6 units/hour
+   Vasopressin - 3.6 units/hour
+   Other ICU medications:
+   Sodium Bicarbonate 8.4% (Amp) - [**3164-9-26**] 03:02 PM
+   Pantoprazole (Protonix) - [**3164-9-27**] 10:00 AM
+   Carafate (Sucralfate) - [**3164-9-27**] 10:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3164-9-27**] 02:00 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**67**] a.m.
+   Tmax: 39.2  ( )
+   T current: 39.2  ( )
+   HR: 103 (95 - 120) bpm
+   BP: 112/59(85) {84/42(53) - 187/94(150)} mmHg
+   RR: 20 (17 - 20) insp/min
+   SPO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 69 Inch
+   CVP: 22 (12 - 27) mmHg
+   PAP: (31 mmHg) / (18 mmHg)
+   CO/CI (Fick): (5.1 L/min) / (2.5 L/min/m2)
+   CO/CI (CCO): (5 L/min) / (2.3 L/min/m2)
+   SvO2: 56%
+   Mixed Venous O2% sat: 57 - 57
+   Total In:
+                                                                  7,595 mL
+                                                                  2,418 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  5,335 mL
+                                                                  2,139 mL
+   Blood products:
+                                                                  2,125 mL
+                                                                    279 mL
+   Total out:
+                                                                  1,178 mL
+                                                                  1,085 mL
+   Urine:
+                                                                  1,008 mL
+                                                                  1,065 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,417 mL
+                                                                  1,333 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 80%
+   RSBI Deferred: PEEP > 10, Hemodynamic Instability
+   PIP: 35 cmH2O
+   Plateau: 27 cmH2O
+   SPO2: 98%
+   ABG: 7.42/36/82.[**Numeric Identifier **]/23/0
+   Ve: 12.7 L/min
+   PaO2 / FiO2: 104
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, sluggish
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Open), esmark intact
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, very
+   hypoactive
+   Left Extremities: (Edema: 2+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Neurologic: (Responds to: Unresponsive), Chemically paralyzed
+   Labs / Radiology
+   56 K/uL
+   9.0 g/dL
+   133 mg/dL
+   1.8 mg/dL
+   23 mEq/L
+   4.1 mEq/L
+   30 mg/dL
+   105 mEq/L
+   136 mEq/L
+   28
+   14.7 K/uL
+        [image002.jpg]
+                             [**3164-9-26**]  04:22 PM
+                             [**3164-9-26**]  05:58 PM
+                             [**3164-9-26**]  07:53 PM
+                             [**3164-9-26**]  10:30 PM
+                             [**3164-9-26**]  10:41 PM
+                             [**3164-9-27**]  02:15 AM
+                             [**3164-9-27**]  02:40 AM
+                             [**3164-9-27**]  05:37 AM
+                             [**3164-9-27**]  06:00 AM
+                             [**3164-9-27**]  09:23 AM
+   WBC
+   15.4
+   14.7
+   Hct
+   28.7
+   27.3
+   28
+   Plt
+   62
+   56
+   Creatinine
+   1.8
+   TCO2
+   25
+   24
+   26
+   26
+   26
+   27
+   24
+   Glucose
+   137
+   146
+   140
+   147
+   168
+   154
+   120
+   133
+   Other labs: PT / PTT / INR:15.5/36.6/1.4, ALT / AST:[**Telephone/Fax (1) 1099**], Alk-Phos
+   / T bili:54/0.8, Amylase / Lipase:99/48, Fibrinogen:158 mg/dL, Lactic
+   Acid:2.9 mmol/L, Albumin:2.8 g/dL, LDH:[**3131**] IU/L, Ca:7.9 mg/dL, Mg:2.3
+   mg/dL, PO4:4.4 mg/dL
+   Imaging: There are low lung volumes. Sm Lt pleural effusion
+   Atelectasis on rt
+   Microbiology: none
+   Assessment and Plan
+   Neurologic: Neuro checks Q: 1 hr, Pain controlled, paralysis on
+   cisatricarium due to open chest - hold cisatricarium to evaluate neuro
+   status, when [**3-27**] TOF stop versed and fentanyl. bone cushioned with
+   guaze - awake per Dr [**Last Name (STitle) 1100**]
+   Cardiovascular: Aspirin, hold aspirin due to decreased plt count, hold
+   on betablockers while on pressors, hold on statin due to elevated LFT
+   that are improving
+   DC Milirone, wean Epi and Vasopressin for CI > 2.0, wean Levo for MAP >
+   65
+   Pulmonary: Cont ETT, (Ventilator mode: CMV)
+   Gastrointestinal / Abdomen: OG tube
+   Nutrition: NPO, hold on tube feeds due to pressors - reevaluate in am
+   Renal: Foley, Adequate UO, recheck Cr down to 1.8 from 1.9
+   Hematology: HITT due to decreased plt count
+   Endocrine: Insulin drip
+   Infectious Disease: pan culture for fever
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - mediastinal,
+   Pacing wires
+   Wounds: Chest with Esmark dressing, open chest
+   Imaging: CXR today
+   Consults: Neurology, P.T.
+   ICU Care
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**3164-9-25**] 08:15 PM
+   Trauma line - [**3164-9-25**] 08:15 PM
+   IABP line - [**3164-9-25**] 08:15 PM
+   CCO PAC - [**3164-9-25**] 08:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held  Comments: meeting with Dr [**Last Name (STitle) 1100**]
+   [**Name (STitle) 127**] status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

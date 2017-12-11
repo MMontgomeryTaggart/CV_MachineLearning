@@ -1,0 +1,57 @@
+Admission Date:  [**2900-2-21**]       Discharge Date:  [**2900-3-1**]
+
+Date of Birth:   [**2823-10-23**]       Sex:  F
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  A 78-year-old female with
+history of atrial fibrillation, diabetes, and history of
+stroke was transferred from [**Hospital 891**] Hospital to [**Hospital1 68**] CCU in
+cardiogenic shock.  At home, the patient was found to be
+unresponsive with vomitus on her pillow.  She was brought to
+[**Hospital 891**] Hospital, where she was found to be in atrial
+fibrillation at 150 beats per minute.  Initially she was
+normotensive, but became hypotensive with systolic blood
+pressures to the 60s.  At that time, she was successfully d-c
+cardioverted into sinus rhythm in the 80s.  She remained
+hypotensive and was therefore intubated for airway protection
+and started on dopamine.
+
+In addition, she was placed on Neo-Synephrine drip,
+dobutamine drip, and nesiritide drip.  Prior admission to
+[**Hospital1 68**], she was on dobutamine 2.5 mcg/kg/minute and 30
+mcg/minute of Neo-Synephrine.  On those medications, her CVP
+was 10, pulmonary artery pressure of 46/15, wedge of 14, and
+cardiac output 3.5, and cardiac index 2.0, and SVR of 2514.
+
+She had a myocardial infarction with troponin I 13.8 and a peak
+CPK of 822.  She had an echocardiogram that was preliminary
+read as an EF of 30%, apical hypokinesis, mild MR, TR, and
+PR.  Prior to her transfer, she had a temperature max of
+101.6, and was started on ceftriaxone, azithromycin, and
+Flagyl for presumed aspiration pneumonia.  Her platelets were
+noted to decrease from admission from 148 to 90 prior to
+discharge while on Lovenox.  This occurred over a two-day
+period.
+
+Patient arrived at [**Hospital1 68**] intubated, unalert, with heart rate
+irregular with a wide complex on telemetry, MAP of 50s-60s on
+Neo-Synephrine and dobutamine.  She was started on an
+amiodarone, given 5 mg of Lopressor, and a heart rate
+decreased to the 80s.
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1525**], M.D.  [**MD Number(1) 1526**]
+
+Dictated By:[**Last Name (NamePattern1) 1640**]
+MEDQUIST36
+
+D:  [**2900-3-1**]  12:00
+T:  [**2900-3-1**]  12:32
+JOB#:  [**Job Number 32735**]
+
+
+
+
+DOC CLASS

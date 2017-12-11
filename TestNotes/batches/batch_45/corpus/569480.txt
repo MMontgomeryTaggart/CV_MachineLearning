@@ -1,0 +1,213 @@
+CVICU
+   HPI:
+   HD2
+   [**1-26**] POD 2
+   59M s/p Emergency Type A dissection repair/replacement of ascending
+   aorta(24mm gelweave graft)/Resuspension of AV [**1-25**]
+   Wt: 95 kg Cr: 1.4 EF: 45% HgA1c:
+   PMH: ^chol., BPH
+   [**Last Name (un) **]: Finasteride
+   Chief complaint:
+   PMHx:
+   Current medications:
+   1. 2. 1000 mL LR 3. 1000 mL LR 4. 250 mL D5W 5. Acetaminophen 6.
+   Albuterol-Ipratropium 7. Aspirin EC
+   8. Aspirin 9. Calcium Gluconate 10. Chlorhexidine Gluconate 0.12% Oral
+   Rinse 11. Dextrose 50% 12. Docusate Sodium
+   13. Docusate Sodium (Liquid) 14. Epinephrine HCl 15. Finasteride 16.
+   Furosemide 17. Glycopyrrolate
+   18. HydrALAzine 19. Insulin 20. Influenza Virus Vaccine 21. Magnesium
+   Sulfate 22. Meperidine 23. Metoclopramide
+   24. Milk of Magnesia 25. Morphine Sulfate 26. Neostigmine 27.
+   Nitroglycerin 28. Norepinephrine 29. Oxycodone-Acetaminophen
+   30. Phenylephrine 31. Potassium Chloride 32. Propofol 33. Ranitidine
+   34. Ranitidine 35. Sodium Chloride 0.9% Flush
+   36. Vancomycin
+   24 Hour Events:
+ OR RECEIVED - At [**2522-1-25**] 07:40 PM
+ INTUBATION - At [**2522-1-25**] 07:46 PM
+ INVASIVE VENTILATION - START [**2522-1-25**] 07:46 PM
+ ARTERIAL LINE - START [**2522-1-25**] 08:48 PM
+ CCO PAC - START [**2522-1-25**] 08:50 PM
+ [**Location (un) 330**] LINE - START [**2522-1-25**] 08:51 PM
+   Post operative day:
+   POD#1 - Ascending aortic tube graft
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Insulin - Regular - 6 units/hour
+   Other ICU medications:
+   Morphine Sulfate - [**2522-1-26**] 12:18 AM
+   Furosemide (Lasix) - [**2522-1-26**] 05:10 AM
+   Hydralazine - [**2522-1-26**] 06:54 AM
+   Other medications:
+   Flowsheet Data as of  [**2522-1-26**] 10:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**24**] a.m.
+   HR: 102 (80 - 102) bpm
+   BP: 155/79(100) {93/52(65) - 155/88(105)} mmHg
+   RR: 27 (14 - 27) insp/min
+   SPO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 73 Inch
+   CVP: 19 (9 - 20) mmHg
+   PAP: (42 mmHg) / (19 mmHg)
+   CO/CI (Fick): (6.2 L/min) / (2.8 L/min/m2)
+   CO/CI (CCO): (5.6 L/min) / (2.2 L/min/m2)
+   SvO2: 66%
+   Mixed Venous O2% sat: 52 - 56
+   Total In:
+                                                                  5,001 mL
+                                                                  9,770 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  4,462 mL
+                                                                  5,048 mL
+   Blood products:
+                                                                    539 mL
+                                                                  4,692 mL
+   Total out:
+                                                                    453 mL
+                                                                  1,004 mL
+   Urine:
+                                                                     68 mL
+                                                                    794 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,548 mL
+                                                                  8,766 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 547 (111 - 547) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 100%
+   RSBI Deferred: PEEP > 10, FiO2 > 60%
+   PIP: 25 cmH2O
+   Plateau: 25 cmH2O
+   Compliance: 27.5 cmH2O/mL
+   SPO2: 96%
+   ABG: 7.43/36/115/26/0
+   Ve: 14.7 L/min
+   PaO2 / FiO2: 115
+   Physical Examination
+   General Appearance: No acute distress, Open Eyes to noxious stimuli
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : ), (Sternum:
+   Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Labs / Radiology
+   154 K/uL
+   11.0 g/dL
+   71 mg/dL
+   1.5 mg/dL
+   26 mEq/L
+   3.8 mEq/L
+   28 mg/dL
+   114 mEq/L
+   142 mEq/L
+   30.6 %
+   15.1 K/uL
+        [image002.jpg]
+                             [**2522-1-25**]  10:46 PM
+                             [**2522-1-25**]  10:57 PM
+                             [**2522-1-26**]  02:28 AM
+                             [**2522-1-26**]  02:37 AM
+                             [**2522-1-26**]  04:05 AM
+                             [**2522-1-26**]  05:00 AM
+                             [**2522-1-26**]  05:57 AM
+                             [**2522-1-26**]  06:00 AM
+                             [**2522-1-26**]  07:07 AM
+                             [**2522-1-26**]  10:10 AM
+   WBC
+   16.3
+   15.1
+   Hct
+   29.9
+   30.6
+   Plt
+   130
+   154
+   Creatinine
+   1.5
+   TCO2
+   25
+   27
+   25
+   24
+   23
+   25
+   Glucose
+   80
+   154
+   129
+   167
+   114
+   114
+   71
+   Other labs: PT / PTT / INR:16.3/51.8/1.5, Differential-Neuts:93.8 %,
+   Lymph:3.8 %, Mono:1.8 %, Eos:0.5 %, Fibrinogen:76 mg/dL, Lactic
+   Acid:2.2 mmol/L
+   Assessment and Plan
+   PLEURAL EFFUSION, ACUTE, AORTIC DISSECTION, .H/O PROSTATIC HYPERTROPHY,
+   BENIGN (BPH)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 1 hr, Pain controlled, Intubated ,
+   responsive only to Noxious stimuli, S/P Witnessed Cardiac Arrest with
+   CPR and dissection  repair, will observe? ct  if no improvement or exam
+   change
+   Cardiovascular: Beta-blocker, S/p Ascending Aortic Dissection repair,
+   Hemodynamically stable
+   Pulmonary: (Ventilator mode: CPAP + PS), CXR-B/l Pleural effusiions
+   with Volume overload, Lasix
+   Gastrointestinal / Abdomen:
+   Nutrition: NPO
+   Renal: Foley, Adequate UO, Creatnine increase likely Dissection with
+   Low Cardiac output
+   Hematology: Serial Hct
+   Endocrine: RISS
+   Infectious Disease: stable
+   Lines / Tubes / Drains: Foley, ETT, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Post-op hypotension
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2522-1-25**] 08:48 PM
+   CCO PAC - [**2522-1-25**] 08:50 PM
+   [**First Name4 (NamePattern1) 330**] [**Last Name (NamePattern1) **] - [**2522-1-25**] 08:51 PM
+   16 Gauge - [**2522-1-25**] 08:51 PM
+   20 Gauge - [**2522-1-26**] 06:20 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+
+
+DOC CLASS

@@ -1,0 +1,272 @@
+TITLE:  CCU Resident Progress Note
+   Chief Complaint: S/p cardiac arrest, intubated
+   24 Hour Events:
+   - Neuro Recs: Nothing new, awaiting MRI
+   - Family consented for MRI/MRA, Should happen Monday.
+   - Lasix 20mg IV x 2. Output for the day (goal was negative 500) = -93ml
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3018-7-24**] 08:09 AM
+   Levofloxacin - [**3018-7-26**] 06:21 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3018-7-25**] 04:30 PM
+   Furosemide (Lasix) - [**3018-7-25**] 09:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3018-7-26**] 06:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 37.9
+C (100.2
+   HR: 78 (63 - 91) bpm
+   BP: 100/65(73) {100/48(62) - 131/83(94)} mmHg
+   RR: 15 (11 - 20) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 74 kg (admission): 70.8 kg
+   Height: 68 Inch
+             Total In:
+                                                                  2,137 mL
+                                                                    642 mL
+   PO:
+             TF:
+                                                                  1,747 mL
+                                                                    542 mL
+   IVF:
+                                                                    100 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  2,230 mL
+                                                                    565 mL
+   Urine:
+                                                                  2,230 mL
+                                                                    565 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -93 mL
+                                                                     77 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: MMV/PSV/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 494 (494 - 710) mL
+   PS : 10 cmH2O
+   RR (Set): 9
+   RR (Spontaneous): 16
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 110
+   PIP: 15 cmH2O
+   SpO2: 96%
+   ABG: 7.51/33/119/25/4  ([**3018-7-25**] at 7:30pm)
+   Ve: 7.5 L/min
+   PaO2 / FiO2: 298
+   Physical Examination
+   GENERAL
+ unresponsive, not sedated, intubated, eyes open this morning
+   HEENT
+ pupils 5mm, reactive, sclerae anicteric, MMM, Conjunctiva were
+   pink, no pallor or cyanosis of the oral mucosa.
+   NECK - supple, no apparent JVD but difficult to assess b/c patient on
+   neck brace, no carotid bruits
+   LUNGS
+ coarse breath sounds throughout the lungs, on ventilator, no
+   crackles/wheezes appreciated.
+   HEART - PMI located in 5th intercostal space, midclavicular line. RRR,
+   normal S1, S2. Systolic murmur II/VI near apex. No thrills, lifts. No
+   S3 or S4.
+   ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding. Abd
+   aorta not enlarged by palpation. No abdominial bruits.
+   EXTREMITIES - no c/c/e,
+   SKIN - No rashes or lesions. Slight skin breakdown behind neck where
+   collar was rubbing.  Slight burn marks where defibrillator pads were on
+   abdomen.
+   NEURO
+  Off sedation. pt with some eye blinking and posturing to
+   sternal rub; not following commands. Pt with 5mm pupils moderately
+   responsive equal bilaterally. Spontaneous eye movement. + Upgoing
+   babinski
+   PULSES: Right: Radial 2+ DP 2+ PT 2+, Left: Radial 2+ DP 2+ PT 2+
+   Labs / Radiology
+   428 K/uL
+   12.8 g/dL
+   139 mg/dL
+   1.0 mg/dL
+   25 mEq/L
+   4.9 mEq/L
+   27 mg/dL
+   103 mEq/L
+   139 mEq/L
+   38.4 %
+   11.3 K/uL
+        [image002.jpg]
+                             [**3018-7-21**]  12:55 PM
+                             [**3018-7-21**]  03:29 PM
+                             [**3018-7-22**]  12:30 AM
+                             [**3018-7-22**]  02:24 PM
+                             [**3018-7-22**]  10:28 PM
+                             [**3018-7-23**]  04:39 AM
+                             [**3018-7-23**]  01:48 PM
+                             [**3018-7-24**]  03:49 AM
+                             [**3018-7-25**]  07:32 PM
+                             [**3018-7-26**]  03:52 AM
+   WBC
+   8.7
+   6.9
+   9.2
+   11.3
+   Hct
+   34.4
+   32.8
+   36.0
+   38.4
+   Plt
+   255
+   273
+   321
+   428
+   Cr
+   0.8
+   0.7
+   0.8
+   1.0
+   TropT
+   0.02
+   TCO2
+   24
+   26
+   24
+   27
+   27
+   Glucose
+   130
+   125
+   131
+   139
+   Other labs: Ca++:9.4 mg/dL, Mg++:2.3 mg/dL, PO4:4.4 mg/dL
+   Blood cx
+ NGTD
+   Sputum cx
+ oropharyngeal flora
+   Assessment and Plan
+   Mr. [**Known patient firstname **] [**Known patient lastname 7178**] is a 64 year old male wtih history of MVP and bicuspid
+   aortic valve s/p possible seizure and cardiac arrest with subsequent
+   elevation in cardiac enzymes and LFTs transfered for further work up.
+   He remains minimally responsive and intubated, with slight improvement
+   in his neurological status over the past week.
+   .
+   #. Cardiac arrest - The preciptiant of the cardiac arrest is still
+   unclear and etiologies suggest arrhythmia, wide-complex tachycardia at
+   220 BPM.  (VFib specifically). Stroke with AFib is another possibility,
+   but we still cannot assess any deficits at this time given
+   unresponsiveness, although there may be a suggestion of PCA infarct on
+   EEG. He is 3L positive length of stay.   Ge started Lasix 20mg IV x 2
+   yesterday but did not meet goal of -500 cc.
+   - Standing Lasix 40mg po BID to diurese, as receiving tube feeds and
+   not self-diuresing
+   - Monitor on telemetry
+   - EP recs: wait to do further investigtion/tx until neurological
+   recovery
+   - ECGs in AM
+   - Monitor lytes and replete as needed
+   .
+   #Neuro status: Improvement in neuro status with minor withdrawal to
+   pain and more EEG activity; off sedation for 72 hours. CT with signs of
+   anoxic brain injury without hemorrhage or shift. Presence of muscle
+   fasiculations and involuntary movements of unclear etiology, but
+   possibly due to central neurological injuries.  Have ruled out other
+   causes of encephalopathy including B12, TSH, NH3.
+   - F/U Neuro recs on prognosis
+   - Family consented for MRI/MRA; will do this tomorrow to assess neuro
+   status
+   - CT showed no C-spine fx, cannot r/o ligamentous injury; continue
+   collar until neck cleared if awakens or via MRI
+   - Continue to monitor physical exam, responsiveness, response to
+   stimuli
+   .
+   #. Fever - Concern for aspiration PNA vs. aspiration pneumonitis. WBC
+   increased to 11.3 today.  Febrile to 100.2 in last 24 hours and with
+   low-grade fevers. Responds well to tylenol. Unlikely to represent
+   withdrawal in pt with hx of EtOH abuse b/c not hypertensive or
+   tachycardic.
+   - Sputum Cultures: oral flora, last chest xray [**7-22**]
+   - FU Blood cultures
+   - Continue Levofloxacin (Day 1=[**7-22**]) for total of 7 days; today is day
+   [**5-7**].
+   .
+   #. Rhythm - Dilated heart in echocardiogram in pt with preserved EF,
+   bicuspid AS and mixomatous degeneration of mitral valve. Continued
+   having episodes of ectopy/NSVTlast night and this morning, which have
+   responded well to IV boluses of K+. Initial discussion of possible
+   Afib; has had no episodes since admission; Increased ectopy (NSVT)
+   overnight.
+   - Replete electrolytes PRN
+   - Increased metoprolol from 75 mg TID to 100 mg TID
+   - EP recommendations if becomes more frequent or stops responding to K
+   boluses
+   - Serial ECGs
+   - Telemetry
+   .
+   #Left to Right Shunt: Most likely secondary to anomalous pulmonary
+   venous return. MRI recommended to further characterize but not possible
+   with intubation.
+   - TTE showed aneurysmal interatrial septum without evidence of
+   intracardiac shunting.
+   - If awakens, suggest cardiac MRI
+   .
+   #.CAD
+ Cath with minimal CAD. CE
+s are down
+   - Metoprolol 100mg po/ng TID
+   - Stop simvastatin 20mg po daily b/c clean coronaries and LDLc is 91
+   - ASA 325 mg Daily
+   .
+   #.Pump - No signs of heart failure at this time. Preserved EF.
+   .
+   #Cervical Spine: CT scan without evidence of fracture.
+   - Unable to remove collar without MRI or patient able to verbalize
+   pain.  Will get MRI tomorrow.
+   .
+   #. Alcohol abuse
+ No signs of withdrawal, however patient beta
+   blocked.
+   - CIWA with ativan given shock liver; neuro reccommended to continue
+   CIWA.
+   .
+   #.[**Name (NI) 7181**] LFTs - Pt with shock liver or ischemic hepatitis. LFTs
+   continue to trend down, now close to nl in 60
+   - Trend LFTs
+   - BP management as above
+   #Access: Hold PICC for now as patient will be get lab draws q 3 days
+   ICU Care
+   Nutrition: Tube feeds
+   Replete with Fiber (Full) - [**3018-7-22**] 02:56 PM 20 mL/hour
+   Glycemic Control:  monitor glucose on chem 7
+   Lines: 20 Gauge - [**3018-7-22**] 12:25 PM
+   Prophylaxis:
+   DVT: PAS
+   Stress ulcer:
+   VAP:  VAP bundle, elevated head of bed.
+   Comments:
+   Communication:  Comments: wife
+s work number [**Telephone/Fax (1) 7244**]; from
+   admission note: Wife is [**Name (NI) 285**] [**Name (NI) **] [**Known patient lastname 7178**]s Home [**Telephone/Fax (1) 7182**] & Cell
+   [**Telephone/Fax (1) 7183**]
+   Code status: Full code
+   Disposition: CCU for now
+
+
+DOC CLASS

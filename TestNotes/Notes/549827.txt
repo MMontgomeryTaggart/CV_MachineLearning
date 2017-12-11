@@ -1,0 +1,165 @@
+Chief Complaint:
+   24 Hour Events:
+   - INR trended down to 8.2
+   Allergies:
+   Heparin Agents
+   Positive Hepari
+   Last dose of Antibiotics:
+   None
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Maalox prn
+   Fexofenadine
+   Robitussin PRN
+   Fluticasone nasal spray [**Hospital1 **]
+   Benadryl PRN
+   Sarna PRN
+   Keppra 1000 mg [**Hospital1 **]
+   Oxycodone 5 mg prn
+   Tylenol PRN
+   Artificial tears prn
+   Senna [**Hospital1 **] PRN
+   Bisacodyl 10 mg daily prn
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3364-10-29**] 07:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 104 (101 - 112) bpm
+   BP: 105/75(81) {105/75(81) - 128/89(95)} mmHg
+   RR: 27 (17 - 30) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+                  Total In:
+                                                                    240 mL
+                  PO:
+                                                                    240 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    200 mL
+   Urine:
+   200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    240 mL
+                                                                   -200 mL
+   Respiratory support
+   SpO2: 94%
+   ABG: ///28/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   379 K/uL
+   12.2 g/dL
+   124 mg/dL
+   0.7 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   18 mg/dL
+   101 mEq/L
+   135 mEq/L
+   34.6 %
+   9.1 K/uL
+        [image002.jpg]
+                             [**3364-10-29**]  03:49 AM
+   WBC
+   9.1
+   Hct
+   34.6
+   Plt
+   379
+   Cr
+   0.7
+   Glucose
+   124
+   Other labs: PT / PTT / INR:67.1/38.3/8.2, ALT / AST:48/21, Alk Phos / T
+   Bili:132/0.2, Ca++:8.8 mg/dL, Mg++:2.2 mg/dL, PO4:3.6 mg/dL
+   Micro: none
+   Imaging: None
+   Assessment and Plan
+   Assessment and Plan
+   This is a 50 year old male with recently diagnosed pilocytic
+   astrocytoma s/p recent suboccipital carniotomy on [**10-5**] now with
+   massive PE.
+   .
+   #) Elevated INR
+   -          Due to overcorrection with warfarin combined with potential
+   impaired metabolism with phenytoin recently discontinued. Suspect that
+   effect of direct thrombin inhibitor has passed.
+   -          Will treat with 5mg of PO vitamin K x1 to target INR <9
+   given recent surgery and marked elevation
+   -          As INR falls, will need to restart warfarin, consider
+   restarting direct thrombin inhibitor if INR falls <3.
+   -          Q8h coags
+   -          Continue neuro checks q2h
+   -          Appreciate heme following
+   .
+   #) PE: Bilateral PEs presumably from DVT and HITT, anticoagulated with
+   argatroban gtt and transitioned to warfarin 2 days later with overlap.
+   - covered by elevated protime now, follow closely.
+   #) Generalized Pruritis:
+   -          Witih excoriations, papules/uritcaria/dermatographia,
+   temporally associated with argatroban. Primary team considering contact
+   dermatitis
+   -          Continue Antihistamine therapy
+   # Thrombocytopenia: PLTs recovering into 300s
+   .
+   #)Pilocytic astrocytoma: Stable postoperatively.
+   - Continue keppra
+   - cont tylenol and oxycodone for pain control
+   - recieved PT [**10-25**] and [**10-26**]. continue to have PT follow and prep for
+   transfer to rehab
+   #)Dry right eye/corneal abration. Per primary team: Continued inability
+   to close R eye S/p repeat craniotomy. Using home Rx erythromycin
+   ointment and artificial tears prn for dryness and itching. Wife bought
+   eye patch [**10-27**] and pt using for diplopia prn (NOTE: patch ordered [**10-24**]
+   but pt never received).
+   - continue eye drops PRN for pain/dryness
+   - continue eye patch PRN diplopia, changing sides periodically
+   (~Q1-3H).
+   .
+   #) Prophylaxis: bowel meds prn, on heparin gtt, on PPI
+   .
+   #) FEN: p.o. diet as tolerated, aspiration precautions, ground solids
+   with nectar thickened liquids, supervision with feedings, head turn to
+   right with swallowing all liquids (see Sp/Swallow note);
+   - continue aspiration precautions
+   .
+   #) Access: PIVs
+   .
+   #) Code Status: Full
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3364-10-28**] 08:27 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

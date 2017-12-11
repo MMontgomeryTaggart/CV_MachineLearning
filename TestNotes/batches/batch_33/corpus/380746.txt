@@ -1,0 +1,115 @@
+Chief Complaint:
+   24 Hour Events:
+   Weaning off dopa to maintain BP, down to 2 from 7.
+   Given atropine x 1 for brady, nausea, and hypotension
+   No hematoma
+   c/o back pain, but has h/o back pain and disc disease
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Dopamine - 2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3019-5-5**] 04:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.8
+C (98.3
+   HR: 55 (52 - 87) bpm
+   BP: 97/58(66) {85/49(59) - 130/85(88)} mmHg
+   RR: 17 (9 - 25) insp/min
+   SpO2: 93%
+   Heart rhythm: SB (Sinus Bradycardia)
+             Total In:
+                                                                  2,153 mL
+                                                                     51 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,153 mL
+                                                                     51 mL
+   Blood products:
+   Total out:
+                                                                    400 mL
+                                                                    500 mL
+   Urine:
+                                                                    400 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,753 mL
+                                                                   -449 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 93%
+   ABG: ///28/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   210 K/uL
+   10.8 g/dL
+   115 mg/dL
+   0.9 mg/dL
+   28 mEq/L
+   3.7 mEq/L
+   18 mg/dL
+   106 mEq/L
+   140 mEq/L
+   30.8 %
+   8.8 K/uL
+        [image002.jpg]
+                             [**3019-5-4**]  07:22 PM
+                             [**3019-5-5**]  02:55 AM
+   WBC
+   12.8
+   8.8
+   Hct
+   34.9
+   30.8
+   Plt
+   274
+   210
+   Cr
+   1.0
+   0.9
+   Glucose
+   107
+   115
+   Other labs: PT / PTT / INR:14.1/26.7/1.2, CK / CKMB / Troponin-T:43//,
+   Differential-Neuts:82.1 %, Lymph:14.5 %, Mono:3.0 %, Eos:0.3 %,
+   Ca++:8.6 mg/dL, Mg++:1.7 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+ [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3019-5-4**] 12:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,231 @@
+Chief Complaint: STEMI
+   24 Hour Events:
+ TRANSTHORACIC ECHO - At [**3109-4-12**] 08:17 AM
+   Akinetic region laterally with adjacent hypokinesis. Mild MR. LVEF
+   40-45%.
+ IABP LINE - STOP [**3109-4-12**] 03:18 PM
+ SHEATH - STOP [**3109-4-12**] 03:20 PM
+   - D/w EP who recommended stopping amiodarone and observing to see if
+   there is further VT, ectopy - if so can always restart. They agree with
+   low-dose beta-clocker. They ask that we consult EP before he leaves to
+   tuck these issues in.
+   - Echo shows lateral akinesis, LVEF 40-45%, 1+ MR. [**Name13 (STitle) 126**] need ACEi as BP
+   can tolerate; did not start today as coming off IABP.
+   - Prasugel given, Integrillin stopped, balloon removed, Plavix started.
+   - [**Location (un) 4766**], [**Doctor Last Name 1895**], Mr and Mrs. [**Known patient lastname 14286**] discussed plan. Will go home
+   soon for about a month prior to surgery.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3109-4-12**] 03:15 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3109-4-13**] 07:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**11**] AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.8
+C (98.2
+   HR: 62 (62 - 91) bpm
+   BP: 94/68(75) {90/46(64) - 117/77(86)} mmHg
+   RR: 16 (14 - 27) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+                  Total In:
+                                                                  1,550 mL
+                  PO:
+                                                                    720 mL
+                  TF:
+   IVF:
+                                                                    830 mL
+   Blood products:
+   Total out:
+                                                                  1,970 mL
+                                                                    350 mL
+   Urine:
+                                                                  1,970 mL
+                                                                    350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -420 mL
+                                                                   -350 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: No oxygen required now. Bright mood/affect.
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Peripheral Vascular: Good peripheral pulses, but trophic changes at
+   ankles
+ hair loss at ankles and slightly shiny skin over feet.
+   Chest: Diffuse crackles, coarse, throughout both lung fields, good air
+   entry and chest expansion, no wheeze.
+   Heart: Regular with frequent ectopy, normal s1 s2, no M/R/G.
+   Abdominal: Benign
+ no pain, organomegaly, mass, non-tender, no
+   guarding.
+   Extremities Cool.
+   Skin:  Not assessed
+   Neurologic: Alert and oriented to person, place, time and context.
+   Labs / Radiology
+   166 K/uL
+   11.2 g/dL
+   89 mg/dL
+   1.0 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   12 mg/dL
+   101 mEq/L
+   136 mEq/L
+   33.1 %
+   12.0 K/uL
+        [image002.jpg]
+                             [**3109-4-11**]  12:40 AM
+                             [**3109-4-11**]  03:42 AM
+                             [**3109-4-11**]  08:00 AM
+                             [**3109-4-11**]  10:00 AM
+                             [**3109-4-11**]  12:00 PM
+                             [**3109-4-11**]  02:19 PM
+                             [**3109-4-11**]  10:07 PM
+                             [**3109-4-12**]  06:12 AM
+                             [**3109-4-12**]  03:03 PM
+   WBC
+   22.8
+   22.9
+   17.9
+   10.4
+   12.0
+   Hct
+   38.2
+   40.6
+   38.2
+   33.7
+   33.1
+   Plt
+   [**Telephone/Fax (3) 14313**]70
+   166
+   Cr
+   0.9
+   0.8
+   0.9
+   0.8
+   0.8
+   1.0
+   TropT
+   2.56
+   2.92
+   5.42
+   8.25
+   7.82
+   5.82
+   Glucose
+   125
+   192
+   124
+   127
+   109
+   102
+   89
+   Other labs: PT / PTT / INR:12.3/25.0/1.0, CK / CKMB /
+   Troponin-T:1413/44/5.82, ALT / AST:45/, Alk Phos / T Bili:48/0.7,
+   Differential-Neuts:84.8 %, Lymph:11.1 %, Mono:3.8 %, Eos:0.1 %, Lactic
+   Acid:1.9 mmol/L, Albumin:3.5 g/dL, LDH:478 IU/L, Ca++:8.3 mg/dL,
+   Mg++:2.1 mg/dL, PO4:2.2 mg/dL
+   Fluid analysis / Other labs: None.
+   Imaging:
+   Pnd CXR this a.m.
+   Echo:
+   The left atrium is normal in size. No atrial septal defect is seen by
+   2D or color Doppler. Left ventricular wall thicknesses are normal. The
+   left ventricular cavity size is normal. There is mild to moderate
+   regional left ventricular systolic dysfunction with lateral akinesis.
+   No masses or thrombi are seen in the left ventricle. There is no
+   ventricular septal defect. Right ventricular chamber size and free wall
+   motion are normal. The diameters of aorta at the sinus, ascending and
+   arch levels are normal. The aortic valve leaflets (3) appear
+   structurally normal with good leaflet excursion and no aortic
+   regurgitation. The mitral valve leaflets are structurally normal. There
+   is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen.
+   The tricuspid valve leaflets are mildly thickened. There is borderline
+   pulmonary artery systolic hypertension.
+   Microbiology: None.
+   ECG: No events.
+   ASSESSMENT
+   This 52-year-old man with few other medical problems, mild hypertension
+   and dyslipidemia, presents with his first symptomatic ischemic episdose
+   with significant coronary disease involving all major vessels.
+   PLAN
+   CAD
+   Enzymes trending down now. Integrillin stopped and will wait for
+   endothelium in stent for CABG.
+   - Plavix [**Hospital1 7**] 1 wk, then QD
+   - ASA 325 EC
+   - F/u with CSurg for CABG in one month
+ make appointment
+   - Find Cardiologist to follow him
+   Heart Failure, systolic dysfunction
+   Expect some recovery. Fluid balance still quite positive, 4.5 L since
+   admission. Unlikely had this fluid deficit.
+   - Allow to autodiurese - follow
+   Arhythmia
+ AF, VT, torsades
+   Unlikely torsades now much less ectopy. AF and VT gone now
+   - Continue metoprolol and convert to succinate on DC
+   - EP consult prior to DC
+   Anemia
+   From 38 to 33 now. No clear place for bleeding, but sheath removed. No
+   hematoma, back pain baseline, no change.
+   Dispo
+   To floor today, perhaps home tomorrow.
+   Leukocytosis
+   Resolved
+ [**2-2**] stress response.
+   FEN:
+   - No IVFs (received 4.5 L overnight)
+   ACCESS:
+   - PIV's
+   PROPHYLAXIS:
+   - DVT ppx with heparin SC
+   - Pain management with Tylenol
+   - Bowel regimen with colace and senna (standing)
+   CODE: Presumed full:
+   Living Will and Health Care Proxy dated [**3106-1-25**] --
+   1. In the event of a terminal condition, wishes not to be kept alive by
+   extreme or heroic measures. Wants no CPR, intubation or
+   nutrition/fluids in such an irreversible condition. Wishes to have
+   medication to alleviate pain and suffering.
+   2. Appoints wife [**Name (NI) 2147**] [**Name (NI) 14286**] as health care proxy. If she is
+   unable, son [**Name (NI) 1774**] [**Name (NI) 14286**] of [**Location (un) 14289**], MA as secondary.
+   COMM: With patient, wife and son, as above.
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3109-4-10**] 10:45 PM
+   20 Gauge - [**3109-4-10**] 10:45 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI pantoprazole
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:Transfer to floor
+   -
+
+
+DOC CLASS

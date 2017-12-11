@@ -1,0 +1,233 @@
+Chief Complaint:  Dyspnea
+   HPI:
+   This is an 85 year old male with history of diastolic heart failure,
+   copmlete heart block (now s/p PPM [**6-3**]) ESRD on HDHD, h/o MRSA
+   bacteremia and thrombocytopenia, likely secondary to drug reaction
+   (PPI?) who presents from [**Hospital 11**] rehab with dyspnea.  Patient reports
+   SOB x 1 day.  He denies any chest pain, palpitations, N/V, abdominal
+   pain, diarrhea, fevers, chills or recent cough.  Patient states he was
+   walking with PT/OT and became SOB and dizzy.  Per ED report patient
+   felt better after HD yesterday, but continued with SOB today along with
+   AMS.  ABG done at [**Hospital 11**] Rehab which showed increased CO2 and decreased
+   PaO2 from baseline so he was transferred to [**Hospital1 52**] for further care.
+   In the ED:  Temp 97,  HR 71,  BP 122/53,  RR 15  88% on RA 99% on NRB
+   and then on CPAP.  CXR done which showed worsening bilateral pleural
+   effusions.  He was given CTX 1gm x 1, Levaquin 500mg IV x 1, Vanco 1gm
+   IV x 1 and was transferred to MICU.
+   On arrival, patient stated he was feeling well.  +mild SOB.  CPAP was
+   removed and patient was with 98% O2 saturation on 2LNC. ABG:  7.21 //
+   77 // 149 // 32
+   Patient was transferred to the Medical Floor on [**3410-8-17**].  A
+   thoracentesis was performed yesterday on the right lung with removal of
+   1.5 Liters of serous fluid.  Patient states his symptoms did not
+   improve.   CXR done after tap which showed improvement in right pleural
+   effusion.  Patient reportedly had O2 desaturation at hemodialysis
+   yesterday.  He was on 3L NC overnight with O2 sat of 100%.  He was
+   found to be somnolent this morning with pursed lip breathing. ABG done
+   which showed 7.27 // 70 // 89.  He was transferred to MICU for concern
+   of hypercapnia with somnolence.
+   On arrival to MICU, patient was AAOx3.  He answered all questions on
+   exam and fell asleep immediately after exam.  He reports +SOB which has
+   not improved since admission.  He denies CP, palpitations, N/V, fevers,
+   chills or diarrhea.  He does report +non-productive cough which has
+   been ongoing for a few months.
+   Patient transferred from: [**Hospital1 52**] Floor
+   History obtained from Patient, Family / Friend, Medical records
+   Allergies:
+   Flagyl (Oral) (Metronidazole)
+   Rash;
+   Proton Pump Inhibitors (Benzimidazole)
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Amiodarone 200mg daily
+   Calcium Gluconate 650mg TID
+   Midodrine 5mg TID
+   Simethicone 80mg [**Hospital1 **]
+   Vanco 250mg PO QID
+   Vit B/Vit C/Folic Acid
+   Acetaminophen PRN
+   Past medical history:
+   Family history:
+   Social History:
+    Diastolic Congestive Heart Failure: ECHO [**3-3**] EF of 50% &  severe LVH
+    Atrial fibrillation previously on Coumadin (until GI bleed [**6-3**]),
+   failed cardioversion
+   s/p Pacemaker placement [**6-3**] for complete heart block
+   Peripheral vascular disease s/p right lower extremity bypass
+   Hiatal hernia with intrathoracic stomach (confirmed by [**3410-6-12**] CT)
+   Hypertension
+   Gout
+   ?Prostate followed by Urology (denies symptoms of BPH)
+   Chronic Kidney Disease on HD
+   NC
+   Occupation: Owns Insurance business
+   Drugs: None
+   Tobacco: None
+   Alcohol: None
+   Other:
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision
+   Ear, Nose, Throat: Dry mouth, No(t) Epistaxis
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria
+   Flowsheet Data as of [**3410-8-19**] 02:04 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35
+C (95
+   Tcurrent: 35
+C (95
+   HR: 74 (74 - 74) bpm
+   BP: 110/89(93) {110/89(93) - 110/89(93)} mmHg
+   RR: 15 (15 - 15) insp/min
+   SpO2: 96%
+   Heart rhythm: AV Paced
+   Height: 65 Inch
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   SpO2: 96%
+   Physical Examination
+   General Appearance: Well nourished, No(t) No acute distress, Overweight
+   / Obese, No(t) Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, Pupils dilated, No(t) Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   (Percussion: No(t) Resonant : , No(t) Hyperresonant: , Dullness : left
+   basee), (Breath Sounds: No(t) Clear : , Crackles : bilateral bases,
+   Bronchial: left base, Diminished: bilateral bases, midway up left
+   posterior field, No(t) Absent : , No(t) Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender: , Obese
+   Extremities: Right: 2+, Left: 2+, No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): person, place, time, Movement: Not assessed,
+   Tone: Not assessed
+   Labs / Radiology
+   79 K/uL
+   9.9 g/dL
+   77 mg/dL
+   4.4 mg/dL
+   26 mg/dL
+   26 mEq/L
+   100 mEq/L
+   5.7 mEq/L
+   137 mEq/L
+   33.6 %
+   6.9 K/uL
+        [image002.jpg]
+                                  [**3407-12-28**]
+                          2:33 A8/21/[**3409**]  03:59 PM
+                                  [**3408-1-1**]
+                         10:20 P8/21/[**3409**]  10:00 PM
+                                  [**3408-1-2**]
+                          1:20 P8/22/[**3409**]  12:38 AM
+                                  [**3408-1-3**]
+                         11:50 P8/22/[**3409**]  05:08 AM
+                                  [**3408-1-4**]
+                                   1:20 A
+                                  [**3408-1-5**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3408-1-28**]
+                                   1:20 P
+                                  [**3408-1-28**]
+                                   11:20 P
+                                  [**3408-1-28**]
+                                   4:20 P
+   WBC
+                                     6.9
+   Hct
+                                    33.6
+   Plt
+                                     79
+   Cr
+                                     4.4
+   TropT
+                                    0.26
+   TC02
+                                     30
+   Glucose
+                                     77
+                                     77
+   Other labs: CK / CKMB / Troponin-T:22//0.26, Ca++:9.7 mg/dL, Mg++:2.4
+   mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   This is an 85 year old male with history of diastolic heart failure,
+   copmlete heart block (now s/p PPM [**6-3**]) ESRD on HDHD, h/o MRSA
+   bacteremia and thrombocytopenia thought [**1-27**] PPI who is transferred to
+   MICU for hypercapnia and somnolence.
+   #.   Hypercapnia:  Mr. [**Known patient lastname 4603**] has had evidence of hypercapnia for 2
+   months.  This is likely from a combination of bilateral pleural
+   effusions along with intrathoracic hernia.  Sleep apnea also a
+   possibility as his hypercapnia seems to be worse in the morning.
+   Dyspnea likely [**1-27**] pleural effusions.
+   - repeat CXR to eval for reacculmulation of right effusion
+   - f/u repeat ABG
+   - O2 sat > 92%
+   - cont HD for removal of excess fluid
+   #. End Stage Renal Disease:  Patient on MWF HD treatments
+   - cont MWF treatment
+   #. C Diff colitis: Patient with (+) C diff tox x 3 during admission in
+   [**Month (only) 567**].  On Vanco at [**Hospital 11**] rehab until [**3410-8-20**].
+   - cont Vanco 250mg PO QID
+   #. Diastolic heart failure: Last ECHO [**3410-7-13**] with EF >55% and mild
+   mitral regurgitation
+   - HD as above
+   #. Atrial Fibrillation: Patient is currently V-paced
+   - cont outpatient amiodarone
+   - no anticoagulation given recent GI bleed
+   #. Thrombocytopenia: Thought to be [**1-27**] to drug reaction one month ago
+   (PPI), currently at 61, down from 113 at last admisstion. ?MDS
+   - consider outpatient Heme/Onc consult
+   ICU Care
+   Nutrition:
+   Comments: Cardiac/Renal diet
+   Glycemic Control:
+   Lines:  HD catheter, PIV
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments: Son, [**Name (NI) 278**] ([**Telephone/Fax (1) 4504**]
+   Code status: DNR / DNI
+   Disposition: ICU
+
+
+DOC CLASS

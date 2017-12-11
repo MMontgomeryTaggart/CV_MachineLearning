@@ -1,0 +1,348 @@
+Admission Date:  [**3040-2-23**]              Discharge Date:   [**3040-2-26**]
+
+Date of Birth:  [**2966-12-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Shellfish
+
+Attending:[**Known patient firstname 2441**]
+Chief Complaint:
+Substernal chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization on [**3040-2-22**]:
+EF 45%
+Cypher stent to mid LAD
+
+History of Present Illness:
+The patient is a 73 year old male with a history of CAD s/p 2
+prior MIs but no CABG or stents, history of 35-40 years of
+tobacco with COPD, HTN and HL who presented to [**Hospital3 751**]
+via ambulance on [**3040-2-22**] after experiencing [**11-28**] substernal
+chest pain. The patient had been getting ready for bed when he
+experienced nausea and vomiting x  diaphoresis and shortness of
+breath. He then experienced [**11-28**] substernal chest pain that was
+similar to his prior angina but much more severe. The pain
+radiated down his left arm. He took 2 SL nitros at home without
+relief and his wife called 911 and thus taken by ambulance to
+[**Hospital3 751**]. In the ambulance, he was in atrial fibrillation
+and then suffered a vfib arrest and was shocked three times and
+went into torsades. The patient was then loaded with 150 mg IV
+amio and started on an amio gtt. At [**Hospital1 **], he was found to have
+2-[**Street Address(2) 2426**] elevations V2-V6. He was placed on Aggrastat, Plavix,
+Lopressor, Amio gtt at 1 mg, nitro gtt and morphine and Mg 2 mg.
+^The nitro was increased to 70 mcg/hr and the patient states he
+became pain free. He was transferred to [**Hospital1 68**] for cath.
+
+Cardiac Cath [**3040-2-22**]:
+EF 45%, no MR, anterolateral, apical and inferoapical akinesis
+CO 4.6, CI 2.89
+LVEDP 33, RA 13, PCW 22, PA 42/21
+
+Left-dominant system
+Normal LMCA, 95% distal LAD, 70% OM2, small and non-dominant RCA
+
+ROS: occasional BRBPR with guaiac positive stool, no
+hematuria/hemetemesis
+
+Past Medical History:
+CAD s/p 2 prior MIs with medical management
+HTN
+COPD with h/o blebs and spontaneous pneumothoraceses
+Anorectal carcinoma with guaiac positive stool
+
+Social History:
+The patient lives with his wife. [**Name (NI) **] walks with a cane at
+baseline. He admits to a history of tobacco use ( quit 25 years
+ago) and used to smoke 1 ppd x 35-40 years. He denies any EtOH,
+IV or illicit drug use. However, he does use chronic oxycontin
+and suffers "withdrawal" symptoms when he doesn't get his fixed
+doses.
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+Tc=97 P=70  BP=120/70 RR=16 97% on 2 liters O2
+
+Gen - Anxious, AOX3
+HEENT - PERLA, wears glasses, EOMI, no JVD
+Heart - Irregular, no M/R/G
+Lungs - CTAB
+Abdomen - Soft, NT, no masses or hepatosplenomegaly, active BS
+Ext - No C/C/E, right groin no hematoma or bruits, +2 d. pedis
+bilaterally
+
+
+Pertinent Results:
+[**3040-2-23**] 10:16PM   CK(CPK)-3932*
+[**3040-2-23**] 10:16PM   CK-MB-56* MB INDX-1.4
+[**3040-2-23**] 10:16PM   HCT-32.4*
+[**3040-2-23**] 03:41PM   GLUCOSE-115* UREA N-20 CREAT-0.9 SODIUM-140
+POTASSIUM-4.6 CHLORIDE-106 TOTAL CO2-25 ANION GAP-14
+[**3040-2-23**] 03:41PM   CK(CPK)-3158*
+[**3040-2-23**] 03:41PM   CK-MB-81* MB INDX-2.6
+[**3040-2-23**] 03:41PM   CALCIUM-8.4 PHOSPHATE-3.1 MAGNESIUM-2.2
+[**3040-2-23**] 03:41PM   WBC-8.5 RBC-3.88* HGB-11.6* HCT-33.5* MCV-86
+MCH-29.8 MCHC-34.5 RDW-15.7*
+[**3040-2-23**] 03:41PM   PLT COUNT-126*
+[**3040-2-23**] 04:44AM   HCT-32.6*
+[**3040-2-23**] 01:28AM   GLUCOSE-137* UREA N-17 CREAT-1.0 SODIUM-137
+POTASSIUM-3.8 CHLORIDE-106 TOTAL CO2-25 ANION GAP-10
+[**3040-2-23**] 01:28AM   CK(CPK)-2127*
+[**3040-2-23**] 01:28AM   CK-MB-83* MB INDX-3.9
+[**3040-2-23**] 01:28AM   CALCIUM-8.4 PHOSPHATE-2.4* MAGNESIUM-2.3
+[**3040-2-23**] 01:28AM   WBC-6.5 RBC-3.92* HGB-11.1* HCT-33.5* MCV-85
+MCH-28.4 MCHC-33.3 RDW-16.1*
+[**3040-2-23**] 01:28AM   PLT COUNT-137*
+[**3040-2-23**] 12:00AM   TYPE-ART PO2-74* PCO2-45 PH-7.36 TOTAL CO2-26
+BASE XS-0
+[**3040-2-23**] 01:28AM   PT-13.6 PTT-39.3* INR(PT)-1.2
+[**3040-2-23**] 12:00AM   HGB-10.8* calcHCT-32 O2 SAT-96
+
+Cardiology Report ECG Study Date of [**3040-2-26**]  7:22:58 AM
+
+
+Sinus rhythm with PACs
+Extensive T wave changes suggest myocardial infarct
+Since previous tracing of [**3040-2-25**], QT interval decreased
+
+ECHO Study Date of [**3040-2-25**]
+
+Left Ventricle - Ejection Fraction: 30% (nl >=55%)
+ Conclusions:
+The left atrium is normal in size. Left ventricular wall
+thicknesses are
+normal. The left ventricular cavity size is normal. Overall left
+ventricular
+systolic function is moderately depressed with akinesis of the
+distal septum
+and apex and severe hypokinesis of the inferior and
+infero-lateral walls. The
+basal anterior, antero-septal and lateral walls move best. Right
+ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3)
+are mildly thickened but aortic stenosis is not present. Trace
+aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There
+is no mitral valve prolapse. Mild (1+) mitral regurgitation is
+seen. There is
+borderline pulmonary artery systolic hypertension. There is no
+pericardial
+effusion.
+
+IMPRESSION: Moderate regional LV systolic dysfunction c/w
+multivessel CAD.
+
+C.CATH Study Date of [**3040-2-22**]
+
+COMMENTS:
+1. Selective coronary angiography revealed a left dominant
+system with
+two vessel CAD. The LMCA had no angiographic evidence of
+coronary artery
+disease. The LAD had a discrete distal 95% stenosis, which was
+stented
+(see below).  The LCX was large and dominant.  It gave off a
+large OM1
+branch and a large OM 2 branch. The OM2 branch had a 70%
+stenosis
+proximally. The RCA was small and non-dominant. It did not have
+any
+angiographically apparent CAD.
+2. Hemodynamics performed after the intervention revealed
+elevated left
+and right heart pressures and a preserved cardiac index.
+3. Left ventriculography revealed anterolateral, apical and
+inferoapical
+akinesis.  There was no mitral regurgitation. Calculated EF was
+44%.
+4. Successful direct stenting of the mid-LAD with a 3.0 x 18 mm
+Cypher
+DES. Final angiography revealed no residual stenosis, no
+apparent
+dissection, and TIMI 3 flow (see PTCA comments).
+5. Successful closure of the right common femoral arteriotomy
+with a 6
+French Angioseal device.
+
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Mild systolic and diastolic ventricular dysfunction.
+3. Acute myocardial infarction treated by primary PCI with
+placement of
+a drug-eluting stent in the mid-LAD.
+4. Successful Angioseal.
+
+
+Brief Hospital Course:
+The patient is a 73 year old male with a history of CAD s/p 2
+prior MIs with HTN and COPD who presented with an anterior STEMI
+c/b vfib arrest
+
+1. CAD
+- The patient had suffered a large anterior STEMI complicated by
+V. fib arrest in the ambulance ride to the hospital. He had a
+Cypher stent placed to his mid-LAD and suffered no more chest
+pain.
+-The patient was originally started on ASA, aggrastat, Plavix
+and a statin. He was also placed on heparin due to akinesis of
+the apex. However, the patient developed a subsequent voluminous
+GI bleed and required 2 units of blood. He had reported bright
+red blood per rectum as an outpatient given his history of
+rectal carcinoma. As a result, the aggrastat and heparin were
+discontinued. Although the patient would benefit from coumadin
+due to his akinetic apex, it was decided not to initiate
+long-term anticoagulation as he did not tolerate this well. He
+should have a repeat echo in 4 weeks to reassess his wall motion
+and EF.
+- He was placed on metoprolol 25 mg [**Hospital1 **] and Lisinopril 5 mg.
+
+2. CHF EF 45%
+- The patient remained euvolemic during his stay.
+- He had a repeat echo on [**3040-2-25**] which showed persistent
+akinesis of the distal septum and apex with an EF of 30%.
+- He was started on an ACE for cardiac remodeling.
+
+3. HTN
+- The patient takes Norvasc 5 mg and Imdur 30 mg at home. We
+started Metoprolol 25 mg [**Hospital1 **] and Lisinopril 5 mg. His systolic
+blood pressure on presentation was in the 120s but remained in
+the 100s during the rest of his stay. He denied feeling dizzy or
+lightheaded and did well with PT.
+
+4. COPD
+- The patient has a history of spontaneous pneumothoraces
+secondary to bullous lung disease. We continued the patient's
+outpatient inhaler regimen. He remained stable.
+
+5. Gastrointestinal bleed
+- The morning after presentation on aggrastat and heparin as
+well as plavix, the patient developed a large acute GIB with
+bright red blood per rectum. He denied any abdominal pain. The
+heparin and aggrastat were discontinued and he was transfused
+with 2 units of blood. The patient has a history of anorectal
+carcinoma s/p chemo and radiation in [**3031**]. GI and surgery were
+consulted and both recommended conservative management. The
+patient states that he had a reportedly normal colonoscopy 2
+months ago at an outside hospital ([**Doctor First Name 7026**]). However, we felt that
+his GI bleed was either from recurrent anorectal carcinoma or
+radiation proctitis. The patient will need another colonoscopy
+soon to confirm this. He also reports a recent 12 pound weight
+loss.
+- The patient thereafter, reported no GI bleeds and remained
+hemodynamically stable.
+
+6. Non-sustained ventricular tachycardia
+- The patient had runs of NSVT on telemetry during his stay. He
+also exhibited atrial ectopic activity on EKG giving an
+irregular heart beat. Given his low EF, EP was asked to evaluate
+the patient for a question of an ICD. However, EP felt that he
+required a full GI workup to determine if he had recurrent
+rectal carcinoma and if so, determine his prognosis before they
+implanted an ICD with mortality benefits in the year following
+an MI. This would require an inpatient repeat colonoscopy. The
+patient decided against staying in the hospital to have a
+complete GI workup as he recently had a colonoscopy at [**Doctor First Name 7026**].
+Instead, the patient decided to meet with Dr. [**Last Name (STitle) 1250**], his
+outpatient cardiologist early the following week to discuss
+whether an ICD should be placed.
+
+7. Dispo - The patient was seen by PT who recommended home PT.
+The patient qualifies for [**Hospital3 **] free care and case management
+believed he would benefit from outpatient rehabilitation.
+
+
+Medications on Admission:
+Oxycontin 80 mg [**Hospital1 **]
+Norvasc 5 mg PO QD
+Plavix 75 mg
+Celebrex 200 mg [**Hospital1 **]
+Pepcid 40 mg [**Hospital1 **]
+Resotril 30 mg QHS
+Flonase
+Serevent
+Flovent
+ventalin
+Imdur 30 mg QD
+
+Discharge Medications:
+1. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily) for 30 days.
+Disp:*30 Tablet(s)* Refills:*9*
+2. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Oxycodone HCl 40 mg Tablet Sustained Release 12HR Sig: Two
+(2) Tablet Sustained Release 12HR PO Q12H (every 12 hours).
+4. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain.
+Disp:*30 Tablet, Sublingual(s)* Refills:*0*
+6. Temazepam 15 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+Disp:*60 Capsule(s)* Refills:*2*
+7. Salmeterol Xinafoate 50 mcg/Dose Disk with Device Sig: [**12-22**]
+Disk with Devices Inhalation Q12H (every 12 hours).
+Disp:*1 Disk with Device(s)* Refills:*2*
+8. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation [**Hospital1 **] (2 times a day).
+Disp:*1 inhaler* Refills:*2*
+9. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Albuterol Sulfate 0.083 % Solution Sig: 1-2 puffs Inhalation
+Q6H (every 6 hours) as needed.
+Disp:*1 inhaler* Refills:*2*
+11. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+12. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+13. outpatient  rehabilitation
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+myocardial infarction
+v.fib arrest
+testicular mass
+lower Gi bleed
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Continue your medications as listed on the next page. Do not
+stop your plavix or aspirin unless you have spoken to your
+cardiologist
+
+Please return to the hospital or call your doctor if you have
+chest pain or shortness of breath or blood in your stool or if
+there are any concerns at all
+
+Followup Instructions:
+Please follow up with your PCP within the next two weeks. PCP:
+[**Name10 (NameIs) 39247**],[**Name11 (NameIs) **] [**Name Initial (NameIs) **] [**Telephone/Fax (1) 39248**].
+
+Please follow up with your gastroenterologists within a month of
+your discharge
+
+Please follow up with your cardiologsit, Dr. [**Last Name (STitle) 1250**] by next week.
+He will discuss with you regarding the rhythm of your heart and
+the possibility of a defibrillation
+
+
+
+
+
+DOC CLASS

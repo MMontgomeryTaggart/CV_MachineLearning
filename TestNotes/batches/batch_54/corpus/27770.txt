@@ -1,0 +1,169 @@
+Admission Date:  [**3133-6-14**]              Discharge Date:   [**3133-6-19**]
+
+Date of Birth:  [**3074-2-22**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Codeine / Lipitor
+
+Attending:[**First Name3 (LF) 516**]
+Chief Complaint:
+asymptomatic
+
+Major Surgical or Invasive Procedure:
+[**6-15**] Redosternotomy/L atrial mass excision
+
+
+History of Present Illness:
+60yoF who was scheduled to undergo a left shoulder surgery,
+found to have left atrail mass on preoperative echocardiogram.
+Admitted for preop cardiac cath.
+
+Past Medical History:
+CAD
+HTN
+lipids
+DM
+hypothyroidism
+anxiety/depression
+GERD
+psoriatic arthritis
+exogenous obesity
+chronic diarrhea
+CABG [**3128**]
+l5, s1 discectomy
+TAH and unilateral salpingo-oopherectomy
+rotator cuff surgery
+right THR
+bilat bunioectomy
+tonsillectomy
+
+Social History:
+retired nursing instructor
+lives alone in adult community
+[**11-21**] ppd tobacco x 41 years
+no etoh
+
+Family History:
+brother with CABG age 45
+mother deceased age 64 cardiac tamponade
+father deceased age 42 "coronary occulsion"
+
+Physical Exam:
+NAD
+RRR, no M/R/G
+Lungs CTAB
+Abd benign
+trace peripheral edema
+
+
+Pertinent Results:
+[**3133-6-17**] 07:20PM BLOOD WBC-9.2 RBC-3.27* Hgb-9.4* Hct-26.2*
+MCV-80* MCH-28.9 MCHC-36.1* RDW-16.1* Plt Ct-214
+[**3133-6-17**] 01:29AM BLOOD WBC-9.1 RBC-3.36* Hgb-9.5* Hct-26.1*
+MCV-78* MCH-28.4 MCHC-36.6* RDW-15.6* Plt Ct-229
+[**3133-6-17**] 07:20PM BLOOD Plt Ct-214
+[**3133-6-16**] 05:33AM BLOOD PT-13.1 PTT-32.4 INR(PT)-1.1
+[**3133-6-17**] 07:20PM BLOOD Glucose-178* UreaN-10 Creat-1.0 Na-136
+K-4.3 Cl-101 HCO3-24 AnGap-15
+[**3133-6-17**] 01:29AM BLOOD Glucose-129* UreaN-9 Creat-1.1 Na-137
+K-4.2 Cl-102 HCO3-26 AnGap-13
+
+Brief Hospital Course:
+She was admitted preoperatively for cardiac cath which showed
+patent bypass grafts x 3. She was then taken to the operating
+toom on [**3133-6-15**] where she underwent a redo-sternotomy, excision
+of left atrial mass/myxoma. She was tranferred to the SICU in
+critical but stable condition. A CXR immediately post
+operatively showed right sided collapse for which she underwent
+a bronchoscopy which showed secretions, a post bronch xray
+showed marked improvement. She was extubated and weaned from her
+vasoactive drips by POD #1. She was transferred to the floor on
+POD #2. She did well postoperatively, and was ready for
+discharge on [**3133-6-19**].
+
+Medications on Admission:
+altace, atenolol, aricept, lasix, synthroid, lisinopril,
+metformin, elavil, trazadone, wellbutrin, zoloft, prilosecx,
+humolog/NPH, immodium, MVI
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Bupropion 150 mg Tablet Sustained Release Sig: Two (2) Tablet
+Sustained Release PO QAM (once a day (in the morning)).
+3. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+Tablet(s)
+4. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Nortriptyline 10 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+8. Trazodone 100 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime) as needed.
+9. Sertraline 100 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+10. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+11. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+Disp:*120 Tablet(s)* Refills:*0*
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+13. NPH 4 units [**Hospital1 **]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] vna
+
+Discharge Diagnosis:
+Left atrial myxoma
+CAD
+HTN
+psoriatic arthritis
+exogenous obesity
+chronic diarrhea
+hyperlipidemia
+DM
+hypothyroid
+anxiety/depression
+GERD
+CABG [**3128**]
+s/p L5, S1 discectomy [**3101**]
+TAH & unilateral salpingo-oopherectomy
+Right rotator cuff surgery
+R THR
+B bunionectomy
+tonsillectomy
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage or weight gain more than 2
+pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incision.
+No heavy lifting or driving.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 2282**] 2 weeks
+Dr. [**Last Name (STitle) **] 4 weeks
+
+
+
+Completed by:[**3133-6-21**]
+
+DOC CLASS

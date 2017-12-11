@@ -1,0 +1,341 @@
+Admission Date:  [**2628-12-1**]              Discharge Date:   [**2628-12-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4305**]
+Chief Complaint:
+Reason for MICU Admission: hypotension
+.
+Primary Care Physician: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **]. [**Telephone/Fax (1) 7881**]
+.
+CC: abdominal pain
+
+
+Major Surgical or Invasive Procedure:
+EGD
+TEE
+
+History of Present Illness:
+This is an 88 year-old female with a history of diverticulosis,
+HTN, HL, PVD recently admitted ([**Date range (1) 12735**]) for diverticulitis
+and treated with augment who presents with abdominal pain, body
+pain, and hypotension. During recent admission given
+cipro/flagyl, had nausea, then given unasyn and sent home with
+10 day course of augmentin. Surgery followed pt, but no
+indication for surgical intervention at the time.
+.
+In the ED there was some concern for CP and pt underwent CTA
+chest/abd/pelvis showing "No dissection. Stable AAA.
+Interval improvement in sigmoid diverticulitis. No abscess.
+Bibasilar atelectasis. Prominent pancreatic duct measuring up to
+3 mm which may be within normal limits given patient age." She
+was found to have SBP in the 80's, which became 90's after 2L
+IVF. She was noted to have a +u/a, given a dose of Cipro. Guaiac
++ with brown stool. Serial HCT in the ED showing, 5 point drop
+since admission.
+.
+Vitals prior to transfer
+T afeb, BP 91/53, HR 68, sat 98% on RA.
+.
+Upon arrival to the floor, pt reports posterior
+neck/back/abdominal pain.
+
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Aortic stenosis: valve area 0.8 cm@ by cath [**3-7**]
+AV nodal disease s/p pacemaker placement in [**1-/2628**]
+AAA (4.3cm) and ascending thoracic aneurysm (3.5cm)
+PVD s/p bilateral lower extremity revascularization
+Right proximal popliteal aneurysm
+S/p left arterectomy PFA [**3-/2625**], R SFA angioplasty [**3-/2625**]
+S/p Wharthin gland excision
+Neurocystercircosis s/p VP shunt >14years ago for hydrocephalus
+
+Social History:
+Lives with husband and daughter. [**Name (NI) **] tobacco, EtOH or drug use.
+
+
+Family History:
+No family history of premature CAD or sudden death.
+
+
+Physical Exam:
+vitals: T. 98.1 BP 91/51, HR 69, RR 21 sat 98% RA
+GEN: sitting upright in bed, occasional moaning, able to follow
+commands.
+HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or
+rhinorrhea, MMM, OP Clear
+NECK: No JVD, carotid pulses brisk, no cervical lymphadenopathy,
+trachea midline, +carotid radiation of murmur
+COR: RRR, no +[**5-4**] crescendo-descrendo systolic murmur that
+radiates to carotids and axilla no G/R, normal S1 S2, radial
+pulses +2
+PULM: b/l AE, +bibasilar crackles.
+ABD: soft, TTP in all quadrants (face wincing), especially
+RUQ/LLQ, epigastric area, +BS in all quadrants, no guarding or
+rebound, no palpable masses.
+EXT: No C/C/E, no palpable cords
+NEURO: alert. CN II ?????? XII grossly intact. Moves all 4
+extremities. Strength 5/5 in upper and lower extremities.
+Plantar reflex downgoing.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+
+
+
+Pertinent Results:
+Laboratory values on admission:
+[**2628-12-1**] 07:04PM   LACTATE-0.7
+[**2628-12-1**] 05:20PM   HCT-24.6*
+[**2628-12-1**] 02:40PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 154**]-1.017
+[**2628-12-1**] 02:40PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2628-12-1**] 02:40PM URINE  RBC-[**4-2**]* WBC-[**4-2**] BACTERIA-MOD YEAST-NONE
+EPI-0-2
+[**2628-12-1**] 02:40PM URINE  HYALINE-0-2
+[**2628-12-1**] 02:40PM URINE  MUCOUS-MANY
+[**2628-12-1**] 10:15AM   GLUCOSE-106* UREA N-16 CREAT-0.9 SODIUM-138
+POTASSIUM-3.5 CHLORIDE-100 TOTAL CO2-27 ANION GAP-15
+[**2628-12-1**] 10:15AM   estGFR-Using this
+[**2628-12-1**] 10:15AM   ALT(SGPT)-33 AST(SGOT)-30 CK(CPK)-97 ALK
+PHOS-86 AMYLASE-87 TOT BILI-0.5
+[**2628-12-1**] 10:15AM   LIPASE-21
+[**2628-12-1**] 10:15AM   CK-MB-3 cTropnT-0.01
+[**2628-12-1**] 10:15AM   ALBUMIN-3.9 CALCIUM-8.9 PHOSPHATE-3.4
+MAGNESIUM-1.7 IRON-14*
+[**2628-12-1**] 10:15AM   calTIBC-280 FERRITIN-192* TRF-215
+[**2628-12-1**] 10:15AM   WBC-13.5*# RBC-3.38* HGB-9.9* HCT-29.7*
+MCV-88 MCH-29.3 MCHC-33.3 RDW-14.1
+[**2628-12-1**] 10:15AM   NEUTS-91.1* LYMPHS-5.6* MONOS-3.0 EOS-0.1
+BASOS-0.1
+[**2628-12-1**] 10:15AM   PLT COUNT-251
+[**2628-12-1**] 10:15AM   PT-13.8* PTT-27.6 INR(PT)-1.2*
+.ECG: Rate 66, V-paced. STD with TWI in AVR, AVL. TWI V1, V2
+unchanged from prior EKG.
+.
+Imaging:
+[**2628-11-23**]-CT abd:
+1. Evidence of acute sigmoid diverticulitis. There is small free
+fluid in the cul-de-sac, which was not previously present. No
+free air is noted.
+2. No change in appearance of known AAA.
+.
+CXR [**2628-12-1**]:IMPRESSION:
+Bibasilar atelectasis, borderline cardiac enlargement, otherwise
+unremarkable study.
+.
+CTA chest/abd/pelvis [**2628-12-1**]-wet read- No dissection. Stable
+AAA.
+Interval improvement in sigmoid diverticulitis. No abscess.
+Bibasilar atelectasis. Prominent pancreatic duct measuring up to
+3 mm which may be within normal limits given patient age.
+.
+ECHO [**2628-11-11**]:
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Left ventricular systolic function is hyperdynamic (EF
+70-80%). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+ascending aorta is mildly dilated. The number of aortic valve
+leaflets cannot be determined. The aortic valve leaflets are
+moderately thickened. There is moderate to severe aortic valve
+stenosis (area 0.8-1.0cm2). Mild (1+) aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. There is
+no mitral valve prolapse. Mild (1+) mitral regurgitation is
+seen. The left ventricular inflow pattern suggests impaired
+relaxation. The tricuspid valve leaflets are mildly thickened.
+There is borderline pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+.
+**********EGD**************
+.
+Microbiology:
+[**2628-12-2**] Blood culture - Strep viridans
+[**12-3**], [**12-4**], [**12-5**] blood cultures - no growth to date
+.
+Labs on discharge:
+***************
+
+
+Brief Hospital Course:
+#Hypotension: Thought to be related to poor PO intake after
+recent episode of diverticulitis and restarting
+antihypertensives.  Other etiologies: sepsis, hypovolemia from
+acute bleed. In terms of hypovolemia, pt hypotensive in ED to
+80's and given a total of 4L IVF - never required pressors.
+Baseline HCT 26-30, was down to 24 after IVF. CTA report is
+stable AAA, no acute bleed, but stool brown and guiac positive
+in ED. Transfused 1 U upon arrival, and Hct remained stable
+overnight and repeat guaiac was negative. After being called out
+to the floor, the patient remained normotensive and home BP meds
+were restarted gradually.
+.
+# Abdominal pain: Most likely persistant diverticulitis as
+above. Scans actually show interval improvement in
+diverticulitis, pancreatic enzymes normal, LFT's normal.
+Continued antibiotics as below.  GI was consulted and performed
+EGD for concern for GI bleed, that only showed gastritis.
+Colonoscopy was deferred to the outpatient setting given her
+recent diverticulitis and bacteremia. The patient's pain had
+resolved by the time she left the ICU and she remained symptom
+free throughout remainder of hospital course.
+.
+# Bacteremia: 1 blood culture bottle grew Viridans strep. She
+had no other clear signs of endocarditis. She had a TTE that was
+of suboptimal quality and did not show any evidence of
+vegetations. She had a TEE that was negative. She was discharged
+on ceftriaxone to complete a 2 week course of antibiotics.
+.
+# Anemia:  Baseline HCT 26-30. 29.7 on admit, as low as 21 after
+IVF. Recent iron studies show anemia of chronic disease.
+Transfused 1U and Hct stablized throughout remainder of hospital
+course.  GI work up included EGD as above that only showed
+gastritis, colonoscopy was deferred to outpatient in setting of
+diverticulitis/bacteremia.  ASA was restarted during hospital
+course.
+.
+# Hypertension:  Home metoprolol, HCTZ, and [**Last Name (un) **] held in the
+setting of hypotension. BP was stable with the re-initiation of
+metoprolol alone.
+.
+# Hyperlipidemia:  continued statin.
+.
+# Aortic Stenosis:  valve area 0.8cm per last cath.  On TEE, 0.8
+cm but peak gradient 97 mm Hg.  Will need follow up with her
+cardiologist as outpatient.
+.
+# AV nodal disease:  s/p pacemaker implantation. Stable during
+hospital course.
+.
+# AAA:  known, stable on CT.
+
+
+Medications on Admission:
+prior to recent admission:
+HYDROCHLOROTHIAZIDE - 25 mg daily
+IMIPRAMINE HCL - 10 mg at bedtime
+LESCOL XL - 80MG at BEDTIME
+MECLIZINE 12.5 mg Tablet qd prn
+METOPROLOL TARTRATE - 25 mg [**Hospital1 **]
+PROTONIX 40MG daily
+VALSARTAN [DIOVAN] 40 mg daily
+ACETAMINOPHEN 1gm q8
+ASPIRIN - 81 mg daily
+MULTIVITAMINS WITH MINERALS daily
+.
+At last discharge
+1. Imipramine HCl 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+2. Meclizine 12.5 mg Tablet Sig: One (1) Tablet PO Q12H (every
+12 hours) as needed.
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+4. Valsartan 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day): for constipation.
+Disp:*60 Capsule(s)* Refills:*2*
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+8. Augmentin 500-125 mg Tablet Sig: One (1) Tablet PO three
+times a day for 8 days.
+Disp:*24 Tablet(s)* Refills:*0*
+9. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H
+(Every 8 Hours).
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+11. Multivitamin,Tx-Minerals Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+12. Lescol XL 80 mg Tablet Sustained Release 24 hr Sig: One (1)
+
+Tablet Sustained Release 24 hr PO once a day.
+13. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once
+
+a day.
+
+
+Discharge Medications:
+1. Ceftriaxone-Dextrose (Iso-osm) 1 gram/50 mL Piggyback Sig:
+One (1) gram Intravenous Q24H (every 24 hours) for 10 days.
+Disp:*10 gram* Refills:*0*
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+7. Docusate Sodium 100 mg Capsule Sig: [**1-30**] Capsules PO once a
+day as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Park Place - [**Street Address(1) **]
+
+Discharge Diagnosis:
+Pimary: hypotension, bacteremia
+Secondary: hypertension, hyperlipidemia, severe aortic stenosis,
+AAA, PVD
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were evaluated for abdominal pain and found to have low
+blood pressure and bacteria in your blood. There was no clear
+source of bleeding found. You will need treatment for the
+bacteremia for 2 weeks.
+
+If you have abdominal pain, fevers, chills, chest pain, or any
+other concerning symptoms, call your doctor immediately.
+
+You will need to have a colonoscopy done in approximately one
+month to evaluate for sources of bleeding.
+
+Followup Instructions:
+Please follow up with your primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]
+[**Telephone/Fax (1) 7881**] on Tuesday [**12-16**] at 5pm.  Your PCP will also set
+you up with a follow up colonoscopy.
+
+Please also follow up with the following appointments:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 12734**], MD Phone:[**Telephone/Fax (1) 250**]
+Date/Time:[**2628-12-12**] 3:00
+Provider: [**Name10 (NameIs) **] LAB Phone:[**Telephone/Fax (1) 1223**] Date/Time:[**2629-2-3**]
+10:30
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1230**], MD Phone:[**Telephone/Fax (1) 1223**]
+Date/Time:[**2629-2-3**] 11:00
+
+
+
+
+
+DOC CLASS

@@ -1,0 +1,244 @@
+Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**3209-3-18**] 09:00 AM
+ MULTI LUMEN - STOP [**3209-3-18**] 04:51 PM
+   - confirmed outpt meds (see above) - re-started anti-HTN, sertaline,
+   percocet, mirapex. Held gabapentin, ibuprofen, lipitor (transaminitis),
+   ASA (pending guaiac).
+   - Extubated --> hypertensive so on nitro gtt briefly until home meds
+   dosing confirmed and restarted
+   - Restarted Percocet/Mirapex for pain control, antidep restarted too
+   - Pulled central line, PICC placed
+   - CPAP overnight (but desats)
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Azithromycin - [**3209-3-18**] 09:26 AM
+   Ceftriaxone - [**3209-3-18**] 12:06 PM
+   Vancomycin - [**3209-3-18**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3209-3-18**] 10:10 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fatigue
+   Respiratory: Dyspnea
+   Gastrointestinal: Abdominal pain
+   Flowsheet Data as of  [**3209-3-19**] 07:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**11**] AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.4
+C (99.4
+   HR: 74 (53 - 80) bpm
+   BP: 144/60(83) {104/36(56) - 202/91(127)} mmHg
+   RR: 17 (15 - 24) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                  2,428 mL
+                  PO:
+                                                                    840 mL
+                  TF:
+                                                                     71 mL
+   IVF:
+                                                                  1,518 mL
+   Blood products:
+   Total out:
+                                                                  5,625 mL
+                                                                    825 mL
+   Urine:
+                                                                  5,625 mL
+                                                                    825 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,197 mL
+                                                                   -825 mL
+   Respiratory support
+   O2 Delivery Device: CPAP mask
+   Ventilator mode: Standby
+   Vt (Spontaneous): 343 (343 - 343) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 23
+   PEEP: 0 cmH2O
+   FiO2: 50%
+   SpO2: 93%
+   ABG: 7.34/59/96.[**Numeric Identifier 175**]//3
+   Ve: 8.6 L/min
+   PaO2 / FiO2: 242
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear :
+   Anteriorly/laterally)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+   Extremities: Right lower extremity edema: 1+, Left lower extremity
+   edema: 1+
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   218 K/uL
+   10.4 g/dL
+   272 mg/dL
+   0.8 mg/dL
+   33 mEq/L
+   3.9 mEq/L
+   19 mg/dL
+   103 mEq/L
+   140 mEq/L
+   33.3 %
+   9.1 K/uL
+        [image002.jpg]
+                             [**3209-3-17**]  09:03 AM
+                             [**3209-3-17**]  03:11 PM
+                             [**3209-3-17**]  09:16 PM
+                             [**3209-3-17**]  09:20 PM
+                             [**3209-3-17**]  10:58 PM
+                             [**3209-3-18**]  02:22 AM
+                             [**3209-3-18**]  02:30 AM
+                             [**3209-3-18**]  09:53 AM
+                             [**3209-3-18**]  10:20 PM
+                             [**3209-3-19**]  06:14 AM
+   WBC
+   8.9
+   9.1
+   Hct
+   30.9
+   33.3
+   Plt
+   232
+   218
+   Cr
+   0.9
+   0.8
+   TropT
+   0.01
+   TCO2
+   34
+   35
+   35
+   37
+   33
+   Glucose
+   170
+   160
+   272
+   Other labs: PT / PTT / INR:12.6/22.2/1.1, CK / CKMB /
+   Troponin-T:77//0.01, ALT / AST:99/59, Alk Phos / T Bili:73/0.2, Amylase
+   / Lipase:/60, Lactic Acid:0.9 mmol/L, Ca++:8.3 mg/dL, Mg++:1.7 mg/dL,
+   PO4:3.8 mg/dL
+   Imaging: [**3-19**] CXR: Pending
+   Microbiology: [**3-17**] Sputum: >25 PMNs and <10 epithelial cells/100X
+   field. 3+  GPCs IN PAIRS AND CLUSTERS.
+    RESPIRATORY CULTURE (Preliminary): SPARSE GROWTH Commensal Respiratory
+   Flora
+   [**3-17**] UCx: Negative
+   [**3-17**] BCx: NGTD
+   Assessment and Plan
+   56 y/o M PMH diabetes, HTN, hyperlipidemia who presents with altered
+   mental status and hypoxia
+   .
+   # Altered mental status: Improved, now off sedation. Oriented x 3.
+   - F/u neuro recs
+   - F/u cultures
+   .
+   # Respiratory distress: Extubated, breathing comfortably. Sputum gram
+   stain with GPC's but sparse commensal respiratory flora on preliminary
+   culture. On ceftriaxone/azithromycin/vancomycin (started [**3-17**])
+   - F/u final sputum culture
+   - C/w vanco/azithromycin, given sputum findings
+   - ID approval for vancomycin beyond today
+   - Consider d/c ceftriaxone, as vancomycin covering gram positives
+   .
+   # Wide complex tachycardia: Single run of eight beats, has not
+   recurred. Written for home beta blocker
+   - C/w telemetry. metoprolol
+   .
+   # Hypertension: moderate control overnight. Now on home
+   anti-hypertensives (HCTZ, lisinopril, metoprolol) and receiving
+   lasix/hydral boluses
+   - Monitor
+   .
+   # Asthma: C/w NEBs
+   .
+   # Diabetes: sliding scale
+   .
+   # Anemia: Stabilized after mild hct drop. No transfusions required
+   - Trend
+   .
+   # Hyperlipidemia: Home atorvastatin (80 mg QHS) held given elevated
+   LFTs on admission. No lipid panel on record
+   - Recheck LFTs, restart statin if normal
+   .
+   # GERD: Convert omeprazole to IV pantoprazole.
+   .
+   # FEN: No IVF, replete electrolytes, HH/DM diet
+   # Prophylaxis: pneumoboots, SQ heparin at 7500 mg Q8
+   # Access: PIV 22g x1, right radial; L PICC. Consider d/c radial line as
+   patient extubated, BP stable
+   # Communication: Patient, Wife ([**Telephone/Fax (1) 13352**])
+   # Code:  Full (discussed with HCP)
+   # Disposition: ICU pending clinical improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3209-3-17**] 02:33 AM
+   Arterial Line - [**3209-3-17**] 05:00 PM
+   PICC Line - [**3209-3-18**] 09:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   ------ Protected Section ------
+   CRITICAL CARE ATTENDING ADDENDUM
+   I saw and examined Mr. [**Known patient lastname 5393**] with the ICU team; Dr. [**Last Name (STitle) 12940**]
+s note from
+   today reflects my input.  I would add/emphasize that he did well after
+   extubation, with some hypertension requiring IV TNG (now off).  Today,
+   seen while up on commode and eating breakfast.  Breathing comfortably;
+   says he is still somewhat labored with exertion.  Meds, labs, and
+   imaging all reviewed.
+   Assessment and Plan
+   56-year-old man transferred from OSH for altered mental status and
+   respiratory failure.  Both have resolved.
+   AMS: Unclear etiology.  Suspect this was hypercarbia/OSA, with
+   cannabinoids on board, also takes oxycodone at home.  Now resolved.
+   Agree with neuro that this appears to be toxic/metabolic and has
+   resolved.
+   Respiratory failure: Resolved
+   treat empirically for CAP.  Vanco given GPCs on sputum g/s.
+   CPAP for OSA whenever sleeping
+   Asthma hx: No evidence of acute flare
+   Mild transaminitis: Unclear etiology.
+ Hold statin.  NASH possible.  Will need follow up.
+   HTN
+ adding back home meds
+   GERD
+ continue home PPI
+   DM
+ RISS, goal BS<150
+   Other issues as per ICU team note from today
+   To floor.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 29**] [**Last Name (NamePattern1) **], MD
+   on:[**3209-3-19**] 14:11 ------
+
+
+DOC CLASS

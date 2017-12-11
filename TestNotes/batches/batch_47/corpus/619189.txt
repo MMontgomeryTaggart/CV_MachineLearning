@@ -1,0 +1,287 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**3068-5-24**]
+   - Coughed up ~10ccs [**Known patient firstname **] red blood at 11pm.  Morning [**5-25**] coughing up
+   small amount dark brown substance.  Larger amount aspirated from NG
+   Tube  ? swallowed blood.
+   .
+   - CT Head obtained, preliminary read:  bilateral basal ganglion
+   hypodensity concerning for acute infarction (confirmed with Radiology
+   Fellow), bilateral involvement consistent with anoxic event, atleast
+   3-4 hours post event; MRI would be helpful if patient stable
+   - Given 2L D5 with 150mEq bicarbonate with only minimal improvement in
+   urine output; able to wean dopamine significantly but patient became
+   bradycardic with complete discontinuation
+   - DNR status confirmed with family
+   .
+   - Thoracic Surgery consulted to manage chest tube, though appears port
+   in chest wall, reportedly fine without air-leak; continue as we are
+   - Neurology contact, will have formal consult on [**Name (NI) 486**] s/p re-warming
+   but recommended EEG in interim
+   - A-line placed for improved BP monitoring and weaning of pressors
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Dopamine - 5 mcg/Kg/min
+   Norepinephrine - 0.06 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   - Contact[**Name (NI) **] covering physician for Dr. [**Last Name (STitle) 7077**] (Cardiologist) at
+   [**Telephone/Fax (1) 7381**].
+   ** TTE [**4-27**] with EF = 25%, marked RV dilation with hypokinesis, LV
+   enlargement, LA enlargement, moderate-severe MR, moderate TR, mild AI,
+   pulmonary pressure 40 mmHg
+   ** Stress Echo [**1-27**], standard [**Doctor First Name 3206**] protocol, 2:28 minutes with HR 110
+   and 80% maximum predicted HR, reportedly negative.
+   ** Most recent Cardiology note [**Last Name **] problem list of ischemic
+   cardiomyopathy, chronic atrial fibrillation, COPD, asthma, CABG 3VD
+   [**3060**]
+   .
+   - Contact[**Name (NI) **] covering physician for Dr. [**Last Name (STitle) 7382**] (PCP) at [**Telephone/Fax (1) 7383**].
+   ** St. [**Male First Name (un) 1078**] Defibrillator VVI
+   ** [**3067-4-21**], Cr 1.1, K 5
+   ** [**3067-11-21**], Hct 39.5, Plt 181, Cr 1.4, Alb 4.2, LFTs nml, Chol 151,
+   LDL 61, HDL 77, TSH 2.47
+   Review of systems is unchanged from admission
+   Flowsheet Data as of  [**3068-5-25**] 06:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 34.1
+C (93.4
+   Tcurrent: 34.1
+C (93.4
+   HR: 66 (50 - 90) bpm
+   BP: 94/62(72) {91/56(68) - 163/96(121)} mmHg
+   RR: 22 (9 - 22) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 80 kg (admission): 80 kg
+             Total In:
+                                                                  5,151 mL
+                                                                    258 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,151 mL
+                                                                    258 mL
+   Blood products:
+   Total out:
+                                                                    312 mL
+                                                                    168 mL
+   Urine:
+                                                                    162 mL
+                                                                    124 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,839 mL
+                                                                     90 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (450 - 550) mL
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   PIP: 26 cmH2O
+   Plateau: 22 cmH2O
+   Compliance: 39.3 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.27/46/130/19/-5
+   Ve: 9.4 L/min
+   PaO2 / FiO2: 325
+   Physical Examination
+   GENERAL: WDWN, nonresponsive to verbal stimuli or sternal rub.
+   HEENT: NCAT. Sclera anicteric, pupils fixed and dilated bilaterally.
+   Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. ET
+   tube in place with blood at mouth
+   NECK: Supple
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Ventilated.
+   CTAB anteriorly without no crackles, wheezes or rhonchi.
+   CHEST WALL: with R-sided chest tube; minimal oozing, bloody output
+   ABDOMEN: Soft, ND. No HSM.
+   EXTREMITIES: No c/c/e.  warm.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   NEURO: Minimal withdrawal to painful stimuli in LLE, no other
+   purposeful movement, pupils nonreactive
+   Labs / Radiology
+   153 K/uL
+   12.1 g/dL
+   170 mg/dL
+   2.1 mg/dL
+   19 mEq/L
+   4.9 mEq/L
+   45 mg/dL
+   106 mEq/L
+   138 mEq/L
+   36.4 %
+   15.5 K/uL
+        [image002.jpg]
+                             [**3068-5-24**]  09:58 AM
+                             [**3068-5-24**]  10:54 AM
+                             [**3068-5-24**]  04:05 PM
+                             [**3068-5-24**]  08:08 PM
+                             [**3068-5-24**]  08:24 PM
+                             [**3068-5-25**]  12:00 AM
+                             [**3068-5-25**]  12:11 AM
+                             [**3068-5-25**]  04:00 AM
+                             [**3068-5-25**]  04:16 AM
+   WBC
+   16.9
+   15.5
+   Hct
+   41.6
+   36.4
+   Plt
+   180
+   153
+   Cr
+   1.8
+   1.9
+   1.9
+   2.0
+   2.1
+   TropT
+   0.53
+   0.63
+   0.56
+   TCO2
+   24
+   20
+   21
+   22
+   Glucose
+   [**Telephone/Fax (3) 7384**]03
+   170
+   Other labs: PT / PTT / INR:31.7/42.0/3.2, CK / CKMB /
+   Troponin-T:579/49/0.56, ALT / AST:124/372, Alk Phos / T Bili:68/0.4,
+   Differential-Neuts:88.7 %, Lymph:7.4 %, Mono:3.6 %, Eos:0.1 %, Lactic
+   Acid:3.5 mmol/L, Albumin:3.1 g/dL, Ca++:8.1 mg/dL, Mg++:2.4 mg/dL,
+   PO4:3.6 mg/dL
+   Assessment and Plan
+   82M with h/o CABG 7 yrs ago, s/p [**Hospital3 **] ICD (5yrs ago), afib on
+   coumadin, COPD presented with acute episode respiratory distress, PEA
+   arrest s/p CPR/ACLS and now on pressors and cooling protocol.
+   .
+   # s/p cardiac arrest: Unclear etiology which prompted initial PEA
+   arrest.  Wife states patient was 'not himself' the day prior.  No
+   anticedent illness.  No e/o ischemia on EKG.  Anticoagulated so
+   unlikely to be PE & no e/o EKG. Small R-sided pneumothorax (now s/p
+   chest tube) with no e/o tension prior to arrival.  No e/o hypovolemia.
+   With profound acidosis.  Thus, unclear but potentially primary cardiac
+   vs pulmonary source.  Now s/p  cooling protocol - 18 hours cooling, 6
+   hours warming (unclear start time per outside hospital records, given
+   EMS records, will presume 0200, so cooled until [**3058**]).  Now rewarmed.
+   - Q8H lytes now that pt has been rewarmed
+   - cardiac arrest team involved, appreciate recs
+   - wean down on pressors, starting with dopamine, keeping MAP>60
+   - order for continuous 48hr bedside EEG per protocol
+   - Formal Neuro consult this AM, Dr. [**First Name8 (NamePattern2) 2156**] [**Last Name (NamePattern1) **]; will have formal
+   consultation and recs RE: prognosis & clinical outcomes
+   - SW consult for family coping
+   - Pt enrolled in steroid clinical trial
+   - Family meeting this morning
+   .
+   # Respiratory failure: s/p intubation initially difficult to ventilate
+   with high auto PEEP, PIP.   Patient with h/o asthma and concern for
+   bronchospasm on exam.  No h/o COPD per available records.  Improved
+   with aggressive broncodilator therapy.
+   - repeat CXR
+   - Will move ETT down 3cm and repeat CXR afterwards
+   - Adjust mech vent settings (? Increase TV)
+   - Schedule Albuterol / Ipratroprium  &  PRN Albuterol
+   .
+   # CORONARIES: h/o CAD s/p CABG (unknown anatomy). No localized ischemia
+   on ECGs, cardiac enzymes elevated but s/p compressions, however cannot
+   exclude ischemic event
+   - enzymes trending down, will recheck as needed
+ none for now
+   - Repeat EKG this AM and another tomorrow AM
+   .
+   # PUMP: EF 25% [**First Name8 (NamePattern2) 74**] [**3067-4-21**] ETT.
+   - order for TTE, can get emergently if any hemodynamic
+   compromise/evidence of acute ischemia
+   .
+   # RHYTHM: V-paced, pacer interrogated showing oversensitivity leading
+   to 2 episodes of inappropriate ICD firing at OSH, none since. Patient
+   therapeutic on prior coumadin.  Discontinued Amiodarone gtt upon
+   arrival to CCU.
+   - monitor on telemetry
+   - history of chronic atrial fibrillation; now with changing rhythm on
+   telemetry, some AVIR
+   .
+   # s/p R chest tube for small R apical pneumothorax; now with some
+   oozing.  Thoracics following.
+   - CXR with side port in chest wall, fine by Thoracics unless develops
+   airleak
+   - repeat CXR; obtain daily CXR
+   - follow chest tube output
+   - monitor Hct as chest tube output bloody
+   .
+   # Asthma: Patient with reported h/o asthma, bronchospastic on exam.
+   - aggressive standing neb treatment
+   .
+   # Renal insufficiency: Baseline 1.2.  Likely some component of ATN
+   given s/p PEA arrest x 2.  UOP poor.
+   - Monitor uop / Cr
+   .
+   # Respiratory Acidosis / Metabolic Acidosis: Patient with mixed acid
+   [**Last Name 3231**] problem.  Lactic acidosis.  Also with h/o COPD.
+   - Ventilator management with increased Vt
+   - Will move ETT down 3cm and repeat CXR afterwards
+   - Adjust mech vent settings (? Increase TV) to compensate for
+   respiratory acidosis
+   ICU Care
+   Nutrition: NPO; will start PPI and guaiac gastric contents
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3068-5-24**] 08:25 AM
+   20 Gauge - [**3068-5-24**] 04:00 PM
+   Arterial Line - [**3068-5-24**] 07:00 PM
+   Prophylaxis:
+   DVT:  Systemic anticoagulation (Coumadin at home
+ being held in CCU;
+   remains therapeutic)
+   VAP:  HOB, Chlorhexidate
+   Communication:  Plan to have family meeting this morning
+   Code status:  DNR (patient intubated)
+   Disposition: CCU
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   per housestaff
+   nothing to add
+   Physical Examination
+   per housestaff
+   nothing to add
+   Medical Decision Making
+   per housestaff
+   nothing to add
+   Above discussed extensively with patient. Above discussed extensively
+   with family member, next of [**Doctor First Name 21**] or health care proxy.
+   Total time spent on patient care: 60 minutes.
+   Additional comments:
+   no improvement other than some mild eeg improvement
+   hemodynamically less stable - now requiring pressors for hypotension
+   no arrhythmias
+   continue supportive care including antibiotics and vasopressors
+   if no meaningful neurological improvement will discuss withdrawal of
+   care - have discussed this plan extensively with wife and son
+   ------ Protected Section Addendum Entered By:[**Name (NI) 98**] [**Name (NI) **]
+   on:[**3068-5-25**] 17:32 ------
+
+
+DOC CLASS

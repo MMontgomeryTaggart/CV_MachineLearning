@@ -1,0 +1,154 @@
+TITLE:
+   Chief Complaint: 68 y.o. female with CAD s/p 4 vessel CABG and
+   follow-up stent of LIMA-LAD c/b instent stenosis with restenting as
+   well as severe CHF, EF of 20-30% who presents after recent discharge
+   with acute on chronic renal failure.
+   24 Hour Events:
+    Stopped milrinone drip, switched to PO lasix at home dose
+   Allergies:
+   Lipitor (Oral) Rash;
+   Lisinopril Rash;
+   Iodine Unknown;
+   Paper Tape Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2588-11-29**] 10:39 PM
+   Other medications:
+   Flowsheet Data as of  [**2588-11-30**] 09:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 35.4
+C (95.7
+   HR: 79 (65 - 95) bpm
+   BP: 100/51(61) {93/51(61) - 121/80(84)} mmHg
+   RR: 35 (16 - 35) insp/min
+   SpO2: 98%
+   Heart rhythm: V Paced
+   Height: 61 Inch
+                  Total In:
+                                                                    711 mL
+                  PO:
+                                                                    290 mL
+                  TF:
+   IVF:
+                                                                    421 mL
+   Blood products:
+   Total out:
+                                                                  1,055 mL
+                                                                    290 mL
+   Urine:
+                                                                  1,055 mL
+                                                                    290 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -344 mL
+                                                                   -290 mL
+   Physical Examination
+   GENERAL: WDWN, African-American female. A+O x 3
+   HEENT: MMM
+   NECK: Supple, torturous, bulging external vasculature.
+   CARDIAC: RR, normal S1, fixed split S2. No m/r/g. No thrills, lifts. No
+   S3 or S4.
+   LUNGS: CTA B
+   ABDOMEN: Firm in upper quadrants, NTND. No HSM, liver edge not
+   palpable. No rebound or guarding.
+   EXTREMITIES: No c/c; edema to mid shins.
+   SKIN: Multiple areas of hyperpigmentation
+   Labs / Radiology
+   110 K/uL
+   8.1 g/dL
+   102 mg/dL
+   2.3 mg/dL
+   22 mEq/L
+   4.4 mEq/L
+   97 mg/dL
+   95 mEq/L
+   132 mEq/L
+   24.5 %
+   2.0 K/uL
+        [image002.jpg]
+                            [**2588-11-27**]  04:28 AM
+                            [**2588-11-27**]  04:21 PM
+                            [**2588-11-28**]  04:45 AM
+                            [**2588-11-28**]  10:39 PM
+                            [**2588-11-29**]  05:51 AM
+                            [**2588-11-29**]  07:41 PM
+                            [**2588-11-30**]  06:28 AM
+   WBC
+   1.6
+   2.0
+   2.0
+   2.0
+   Hct
+   27.0
+   23.5
+   27.0
+   24.5
+   Plt
+   121
+   115
+   118
+   110
+   Cr
+   2.2
+   2.4
+   2.7
+   3.0
+   2.7
+   2.6
+   2.3
+   TropT
+   0.54
+   Glucose
+   106
+   235
+   135
+   124
+   102
+   Other labs: PT / PTT / INR:15.3/28.3/1.3, CK / CKMB /
+   Troponin-T:30/3/0.54, Ca++:8.6 mg/dL, Mg++:2.2 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+   68 y.o. female with CAD s/p 4 vessel CABG and follow-up stent of
+   LIMA-LAD c/b instent stenosis with restenting as well as severe CHF, EF
+   of 20-30% who presents after recent discharge with acute on chronic
+   renal failure.
+   .
+   # CORONARIES: s/p CABG with stent of LIMA to LAD.
+   - continue ASA, statin, Plavix, low dose BB.
+   .
+   # PUMP: Known, severe CHF, s/p ICD. Currently thought to be total body
+   fluid overloaded but pt tolerating well (lungs clear, satting well,
+   comfortable), so switched to PO lasix to keep even to neg.
+   .
+   # RHYTHM: Episode of bradycardia in setting of CHB. Evaluated by EP and
+   pacer settings changed
+ no further episodes
+   .
+   # Acute on Chronic Renal Failure: Improving
+   .
+   # Asthma  - Continue Spiriva, albuterol, fluticasone
+   .
+   # Anemia/Myelodysplastic syndrome: At baseline
+   - Transfuse as needed
+   .
+   # DM
+   - Insulin SS w/ QID FS
+   .
+   # FEN   - Correct/Replete electrolytes PRN, no IVF, Diabetic/Cardiac
+   diet
+   # ACCESS: Right EJ
+   # PROPHYLAXIS: SC Heparin, Bowel Regimen
+   # CODE: FULL
+   # CONTACT: HUSBAND [**Name (NI) 762**] [**Telephone/Fax (1) 6311**]  Daughter [**Name (NI) 121**] [**Telephone/Fax (1) 6495**]
+   # DISPO: to floor today
+
+
+DOC CLASS

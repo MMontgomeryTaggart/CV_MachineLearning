@@ -1,0 +1,170 @@
+CVICU
+   HPI:
+   81 yoF who presented to OSH with near syncope, fatigue, aflutter,
+   elevated LFT's, started on coumadin. CTA chest c/w type B dissection.
+   INR on admission: 2, tn I (OSH)=0.09
+   Echo (OSH) : EF 60%, creat 0.6
+   Chief complaint:
+   PMHx:
+   PMHX: dysphagia, esoph strictures s/p dilations
+   Current medications:
+   24 Hour Events:
+ ARTERIAL LINE - START [**3081-11-23**] 09:08 PM
+ EKG - At [**3081-11-23**] 09:33 PM
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroprusside - 0.4 mcg/Kg/min
+   Esmolol - 300 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3081-11-24**] 09:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**85**] a.m.
+   Tmax: 37.9
+C (100.3
+   T current: 37.9
+C (100.3
+   HR: 68 (68 - 81) bpm
+   BP: 109/45(65) {97/41(58) - 173/71(103)} mmHg
+   RR: 23 (14 - 24) insp/min
+   SPO2: 96%
+             Total In:
+                                                                    254 mL
+                                                                  1,465 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    254 mL
+                                                                  1,465 mL
+   Blood products:
+   Total out:
+                                                                  1,080 mL
+                                                                    295 mL
+   Urine:
+                                                                  1,080 mL
+                                                                    295 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -826 mL
+                                                                  1,170 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: 7.56/32/75/23/6
+   PaO2 / FiO2: 188
+   Physical Examination
+   General Appearance: No acute distress, somnolent
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bibasilar)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 1), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   190 K/uL
+   8.0 g/dL
+   132 mg/dL
+   0.7 mg/dL
+   23 mEq/L
+   4.2 mEq/L
+   22 mg/dL
+   99 mEq/L
+   131 mEq/L
+   23.1 %
+   8.6 K/uL
+        [image002.jpg]
+                            [**3081-11-23**]  07:31 PM
+                            [**3081-11-23**]  09:14 PM
+                            [**3081-11-24**]  03:35 AM
+                            [**3081-11-24**]  05:41 AM
+   WBC
+   9.6
+   9.9
+   8.6
+   Hct
+   31.4
+   24.1
+   23.1
+   Plt
+   220
+   192
+   190
+   Creatinine
+   0.6
+   0.7
+   Troponin T
+   0.04
+   0.04
+   TCO2
+   30
+   Glucose
+   161
+   132
+   Other labs: PT / PTT / INR:19.3/33.2/1.8, CK / CK-MB / Troponin
+   T:/4/0.04, ALT / AST:[**Telephone/Fax (1) 2698**], Alk-Phos / T bili:389/2.4, Amylase /
+   Lipase:57/35, Differential-Neuts:72.5 %, Lymph:11.4 %, Mono:14.2 %,
+   Eos:1.5 %, Lactic Acid:1.6 mmol/L, Albumin:3.0 g/dL, LDH:490 IU/L,
+   Ca:7.9 mg/dL, Mg:2.0 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   HYPERTENSION, BENIGN, AORTIC DISSECTION, ANXIETY
+   Assessment and Plan: 81 yoF who presented to OSH with near syncope,
+   fatigue, aflutter, elevated LFT's, started on coumadin. CTA chest c/w
+   type B dissection. INR on admission: 2, tn I (OSH)=0.09
+   Echo (OSH) : EF 60%, creat 0.6
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, -somnolence this
+   morning, unlikely stroke,  likely due to ambien o/n, ?baseline
+   dementia, still obtaining records/PMHx--> avoid sedatives.
+   Cardiovascular: -Afib/Aflutter was treated w/ coumadin at OSH --> hold
+   coumadin.
+   -HTN/ type aortic dissection --> hemodynamically stable on
+   nitroprusside/esmolol--> keep sbp<120.
+   Pulmonary: -Bilat pleural effusion, atelectasis, no consolidations by
+   CT scan--> encourage cough, monitor for PNA
+   -pleural effusion --> transudative vs. exudative --> unlikely
+   infectious, possibly combination nutritional def + HF during rapid afib
+   prior to admission.
+   Gastrointestinal / Abdomen: Esophageal strictures w/ hx of dilatation
+   in past--> unknown cause or w/u by records at this time -->
+   videoswallow, GI consult if abnormal.
+   Nutrition: NPO
+   Renal: Foley, Adequate UO
+   Hematology: Serial Hct, -blood loss anemia --> currently stable, no e/o
+   ongoing blood loss --> hold off on tranfusion at this time--> repeat
+   hct at 1pm.
+   Endocrine: RISS, hyperglycemia controlled on RISS
+   Infectious Disease: nl wbc, afebrile --> no e/o infection
+   Lines / Tubes / Drains: Foley
+   Wounds:
+   Imaging:
+   Fluids: NS
+   Consults: Vascular surgery, P.T.
+   Billing Diagnosis: Arrhythmia, Other: aortic dissection
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3081-11-23**] 09:08 PM
+   20 Gauge - [**3081-11-23**] 09:13 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: DNR / DNI
+   Disposition: ICU
+   Total time spent: 35 minutes
+
+
+DOC CLASS

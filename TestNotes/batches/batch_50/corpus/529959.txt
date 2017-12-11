@@ -1,0 +1,208 @@
+Chief Complaint:
+   24 Hour Events:
+   Went for CT-Abdomen w/ contrast to evaluate protal vein thrombus seen
+   on ultrasound. Study showed patent protal vein, and mass in liver.
+   Extubated
+   HCT drop from 27.4 to 24.2. New type and screen sent, and two units of
+   blood cross-matched. Stool guaiac negative.
+   Allergies:
+   Vicodin (Oral) (Hydrocodone Bit/Acetaminophen)
+   itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3099-9-11**] 06:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.8
+C (98.2
+   HR: 81 (73 - 111) bpm
+   BP: 99/57(67) {82/48(57) - 120/70(78)} mmHg
+   RR: 16 (9 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                  4,157 mL
+                                                                     60 mL
+   PO:
+                  TF:
+   IVF:
+                                                                  2,097 mL
+   Blood products:
+                                                                    300 mL
+   Total out:
+                                                                  4,130 mL
+                                                                  1,505 mL
+   Urine:
+                                                                  1,130 mL
+                                                                    265 mL
+   NG:
+   Stool:
+                                                                  3,000 mL
+   Drains:
+   Balance:
+                                                                     27 mL
+                                                                 -1,445 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: Standby
+   Vt (Spontaneous): 488 (475 - 488) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 13
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 11 cmH2O
+   SpO2: 99%
+   ABG: 7.30/49/106/23/-2
+   Ve: 6.2 L/min
+   PaO2 / FiO2: 212
+   Physical Examination
+   GENERAL - middle-aged man, intubated, sedated, responsive to voice and
+   noxious stimuli
+   HEENT - Faint scleral icterus, conjunctivae clear, MM slightly
+   dry. ET tube in place.
+   NECK - supple, no thyromegaly, JVP to 5-6 cm
+   LUNGS - CTA bilat, no r/rh/wh
+   HEART - RRR, 3/6 SEM throughout the precordium, increases w/ expiration
+   ABDOMEN
+ distended, not tympanetic, soft/NT/ND, no rebound/guarding
+   EXTREMITIES - trace b/l LE edema. DP 2+.
+   SKIN
+ jaundiced, dark base pigmentation, no rashes. R groin with
+   ecchymosis over previous cath site
+   Labs / Radiology
+   109 K/uL
+   8.0 g/dL
+   94 mg/dL
+   2.6 mg/dL
+   23 mEq/L
+   4.7 mEq/L
+   50 mg/dL
+   117 mEq/L
+   147 mEq/L
+   23.6 %
+   7.1 K/uL
+        [image002.jpg]
+                             [**3099-9-9**]  04:22 AM
+                             [**3099-9-9**]  05:38 AM
+                             [**3099-9-9**]  07:26 PM
+                             [**3099-9-9**]  07:51 PM
+                             [**3099-9-10**]  12:01 AM
+                             [**3099-9-10**]  03:37 AM
+                             [**3099-9-10**]  11:40 AM
+                             [**3099-9-10**]  06:11 PM
+                             [**3099-9-11**]  02:42 AM
+                             [**3099-9-11**]  04:01 AM
+   WBC
+   10.0
+   11.4
+   10.6
+   7.0
+   7.1
+   Hct
+   27.9
+   28.2
+   26.1
+   27.4
+   24.2
+   23.6
+   Plt
+   140
+   169
+   131
+   105
+   109
+   Cr
+   3.0
+   3.1
+   2.8
+   2.6
+   TCO2
+   25
+   24
+   25
+   Glucose
+   105
+   119
+   112
+   94
+   Other labs: PT / PTT / INR:21.2/50.8/2.0, ALT / AST:32/70, Alk Phos / T
+   Bili:153/4.1, Lactic Acid:0.8 mmol/L, Albumin:3.3 g/dL, LDH:298 IU/L,
+   Ca++:9.2 mg/dL, Mg++:2.3 mg/dL, PO4:4.8 mg/dL
+   Assessment and Plan
+   60M with h/o ESLD due to EtOH cirrhosis now presents with acute onset
+   altered mental status, likely due to hepatic encephalopathy
+   .
+   #.  AMS - DDx includes hepatic encephalopathy, ingestion, CVA,
+   toxic-metabolic abnormalities. Given current presentation and elevated
+   ammonia, most likely hepatic encephalopathy.  Ultrasound finding of new
+   portal vein thrombus.  No SPB based on ascites, urine and serum tox
+   negative.
+   -- lactulose 30cc q3h via NGT for PSE + enema.
+   -- rifaximin 400mg tid
+   -- no e/o PNA on CXR, but will panculture to r/o other sources of
+   infection as precipitants
+   -- Blood and ascites cxs negative to date
+   -- CIWA scale
+   .
+   # Respiratory Failure - appears secondary to AMS
+   -- wean down FiO2, change to PSV as tolerated, check ABGs prn
+   -- titrate downs sedation as MS clears
+   -- HOB elevation, VAP care/mouth hygiene
+   -- will likely extubate today after CT-Abd/pelvis
+   .
+   #. ESLD - undergoing liver transplant evaluation
+   -- lactulose/rifaximin
+   -- trend LFTs
+   -- MELD score 28
+   -- surgery recs: to hydrate, f/u on ascites cx, and CT-Abd+ IV con, to
+   eval for portal thrombus extent.
+   -- Liver recs:  ?IgA nephropathy, challenge w/ 1g/kg Albumin.
+   .
+   # CRI - appears at his baseline
+   -- trend creatinine
+   -- renally dose meds
+   .
+   # Depression -
+   -- continue sertraline
+   .
+   #. FEN - NPO for now, low Na diet when extubated
+   .
+   #. Glycemic Control -
+   .
+   #. Access - PIV  x3(18,18,20)
+   .
+   #. PPx
+ Boots, PPI
+   .
+   #. Code - FULL CODE
+   .
+   #. Communication - with wife
+   .
+   #. Dispo - ICU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3099-9-9**] 06:47 PM
+   18 Gauge - [**3099-9-9**] 09:17 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,205 @@
+Chief Complaint:  BRBPR & DOE
+   HPI:
+   64 y/o M with PMHx of Diastolic Heart Failure, OSA/Pulm HTN, Severe
+   COPD on home O2, Afib s/p AV-junction ablation and PCM placement who
+   presents with DOE and BRBPR. Pt first noted dark stools 4 days PTA that
+   he attributed to iron pills. However, his BMs became loose, approx [**3-16**]
+   episodes per day and he was taking decreased po in an effort to
+   decrease the diarrhea.  On thursday morning, he noticed BRB in his
+   stool and underwear.  His last bloody BM was 3:30am today and his wife
+   convinced him to go the [**Name (NI) **] this afternoon.
+   .
+   In the ED, initial VS were: T 97.4 P 78 BP 101/46 R 18 Sats O2 97% on
+   6L sat. Initial labs revealed a hct of 13 and INR>21. Pt had bright red
+   blood on stool guiac and GI was consulted. Pt received Vitamin K 10mg
+   IV, Protonix 40mg IV, 1u FFP and had a foley placed. Pt was placed on a
+   NRB for femoral line placement and first unit of prbcs was being
+   transfused on transfer to unit.
+   .
+   Pt was doing well on arrival, denying CP, nausea, abd pain, SOB.  He
+   did report some orthostatic symptoms and DOE prior to admission.  He
+   denied any emesis or hematemesis, though developped some nausea after
+   getting oral care in the unit.
+   .
+   Review of sytems:
+   (-) Denies fever, chills, rhinorrhea or congestion. Denied cough, chest
+   pain or tightness, palpitations. Denied nausea, vomiting or  abdominal
+   pain. No dysuria. Denied arthralgias or myalgias.
+   .
+   Allergies:
+   Ancef (Intraven.) (Cefazolin Sodium)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Coumadin as directed (1mg on wkds, 1.5 M-Th)
+   Diltiazem 120mg daily
+   Flovent [**Hospital1 **]
+   Lasix 80mg [**Hospital1 **]
+   Metoprolol 100mg daily
+   Spiriva daily
+   Past medical history:
+   Family history:
+   Social History:
+   s/p AV junction ablation & PCM
+   CHF (diastolic dysfxn) EF >55%.
+   Chronic bronchitis on 3L home O2 at all times (FEV1 58 %
+   predicted with ratio 112%)
+   Home OSA BiPAP settings are 18 and 11
+   HTN
+   Obesity
+   Severe Pulm HTN
+   CRI-baseline creat 1.3-1.8
+   father has DM, no heart disease in family, only his brother has HTN.
+   He is married and lives with wife. [**Name (NI) **] smoked 2 PPD x35 years and quit
+   15 years ago. He drinks 1-2 beers/week. He worked full-time as quality
+   engineer (mechanical engineer) wearing oxygen to
+   work, has not worked since his hospitalization in [**Month (only) 567**].
+   Flowsheet Data as of [**3193-3-27**] 07:49 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.1
+C (97
+   HR: 70 (70 - 75) bpm
+   BP: 105/40(57) {101/40(57) - 105/49(62)} mmHg
+   RR: 20 (19 - 22) insp/min
+   SpO2: 100%
+   Heart rhythm: V Paced
+   Height: 65 Inch
+                  Total In:
+                  812 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   812 mL
+   Total out:
+                                                                      0 mL
+                                                                    900 mL
+   Urine:
+   900 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -88 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   Vitals: T: 96 BP: 101/43 P: 75 R:22 Sats 100% on 4L NC
+   General: Alert, oriented, pale but no acute distress
+   HEENT: Sclera anicteric, MM dry
+   Neck: supple, no LAD
+   Lungs: CTA lateral bases, no appreciable wheezes, rales, ronchi
+   CV: RRR, soft gr 2 SEM best heard over LUSB, no gallop
+   Abdomen:  soft/obese, decreased bowel sounds, no rebound tenderness or
+   guarding, fluid wave present
+   Ext: chronic severe lower extremity edema +3 bilaterally & venous
+   stasis changes.
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: Hgb:4.4 CalcHCT:13
+   .
+   PT: 150  PTT: 55.3  INR: >21.8
+   .
+   143  106  80  BS 130   AGap=19
+   -------------
+   4.6  23  2.3
+   .
+   ALT: 8 AP: 82 Tbili: 0.5 AST: 14 Lip: 86
+   .
+   WBC 8.2  Hgb 4.1 Hct 13.4 Plts 207
+   .
+   N:77.2 L:18.3 M:3.2 E:0.9 Bas:0.4
+   Imaging: CXR [**3193-3-27**]: cardiomegaly unchanged from prior, no acute
+   infiltrate or effusion
+   ECG: V-Paced with rate of 70s, no appreciable discordance, no acute
+   ST-T wave changes as compared to prior tracings
+   Assessment and Plan
+   64 y/o M with PMHx of Severe COPD, Diastolic Dysfunction and AVJ
+   ablation s/p PCM who presents with BRBPP, Hct of 13 and
+   supratherapeutic INR at 21.
+   .
+   # GI Bleed: Pt presenting with 3-4 days of dark stools and BRBPR, hct
+   drop to Pt now receiving first unit of prbcs
+   - 2units pRBCs with lasix 40mg IV
+   - reassess volume status with aggressive product replacement
+   - q4hr hct
+   - NPO with protonix gtt at 8mg/hr
+   - octreotide 50mcg bolus and gtt at 50mcg/hr
+   - GI consult
+   - correct coagulopathy as below
+   .
+   # Coagulopathy:  Pt on coumadin as outpt and last INR was 1.8 on [**2-28**]^th. He has been maintained on a stable regimen of 1 or 1.5mg per day
+   and now found to have INR>21 for unclear reasons. He completed a course
+   of Abx in early [**Month (only) **] for H. Pylori and he was recently treated with
+   Prednisone for gout flare.  Otherwise, no recent med changes, does
+   report poor po intake.  Pt denies mucosal bleeding, hematuria and
+   hemoptysis.  Received Vitamin K 10mg IV and 1u FFP prior to transfer
+   - continue Vitamin K 5mg po x 3days
+   - FFP x 2units, lasix between units
+   - f/u INR, more FFP prn
+   .
+   # Cirrhosis: Pt with cirrhosis, ascites, splenomegaly & portal HTN seen
+   on RUQ u/s performed in [**10-19**].  Pt is unaware of this diagnosis and does
+   not appear to have had any workup.
+   - fe studies, hepatitis panel, [**Doctor First Name 1168**]
+   - lipid studies
+   - liver consult
+   .
+   # Diastolic Dysfunction: Pt with known diastolic dysfunction presenting
+   with significant hct drop and GI bleed, now being aggressively
+   resuscitated with blood products.  Concern for volume overload/pulm
+   edema with resuscitation
+   - lasix 40mg IV with every 2-3units of products
+   - holding BP meds given marginal BPs and hypovolemia
+   - monitor resp status, CPAP overnight
+   .
+   # ARF: Baseline creatinine of approx 1.8 and now 2.3 with BUN of 80.
+   Pt is likely pre-renal due to hypovolemia from blood loss.  Elevated
+   BUN may also be due to upper GI bleed.  Will aggressively resuscitate
+   with blood products and recheck lytes in am.
+   - transfuse as above
+   - monitor lytes [**Hospital1 **]
+   - foley in place
+   - f/u am labs and send urine lytes if not improving
+   .
+   # OSA: Pt with OSA, restrictive PFTs and severe pulm HTN.
+   - continue home CPAP settings overnight
+   .
+   # FEN: NPO for now
+   - replete electrolytes aggressively
+   .
+   # Prophylaxis: Pneumoboots, supratherapeutic INR
+   .
+   # Access: PIV, Femoral Line
+   .
+   # Code: FULL CODE
+   .
+   # Communication: Patient and wife
+   .
+   # Disposition: ICU
+   .
+   ICU Care
+   Nutrition: NPO for now
+   Glycemic Control: ISS
+   Lines:
+   Multi Lumen - [**3193-3-27**] 04:35 PM
+   16 Gauge - [**3193-3-27**] 04:40 PM
+   Prophylaxis:
+   DVT: pneumoboots, supratherapeutic INR
+   Stress ulcer: PPI gtt
+   Communication:  pt & family
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

@@ -1,0 +1,232 @@
+Chief Complaint: Respiratory failure, endocarditis
+   24 Hour Events:
+   [**6-27**]
+   - Persistent leukocytosis -> C. diff positive.  No growth on blood
+   cultures; persistent urine cx + for yeast but no benefit to treating
+   asymptomatic funguria per ID attg curbside.  Started PO vanc,
+   - CT [**Doctor First Name 438**]: HIT positive is absolute contraindication for bypass, but
+   even if not HIT positive, she is not a surgical candidate [**2-7**] to
+   ongoing infection, CRI, need for AVR/MVR, and embolic strokes.
+   - Fam mtg: Family made aware of CT [**Doctor First Name 438**] recs and would like her to go
+   to rehab with possible transition to hospice care.
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Penicillin G potassium - [**3459-6-27**] 09:50 PM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3459-6-27**] 08:40 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3459-6-28**] 05:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 35.9
+C (96.7
+   HR: 73 (62 - 84) bpm
+   BP: 125/79(82) {95/47(47) - 155/85(96)} mmHg
+   RR: 25 (13 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 63 Inch
+             Total In:
+                                                                  1,603 mL
+                                                                    311 mL
+   PO:
+             TF:
+                                                                    845 mL
+                                                                    195 mL
+   IVF:
+                                                                    658 mL
+                                                                    116 mL
+   Blood products:
+   Total out:
+                                                                  2,247 mL
+                                                                    385 mL
+   Urine:
+                                                                  1,747 mL
+                                                                    385 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -644 mL
+                                                                    -74 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 380 (380 - 380) mL
+   Vt (Spontaneous): 535 (302 - 535) mL
+   PS : 14 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 8
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 112
+   PIP: 23 cmH2O
+   Plateau: 18 cmH2O
+   Compliance: 38 cmH2O/mL
+   SpO2: 99%
+   ABG: ///27/
+   Ve: 5.2 L/min
+   Physical Examination
+   Gen: Intubated, eyes open, nods head appropriately to questions
+   HEENT: dry MM, sclera anicteric
+   CV: RRR, 3/6 SEM, nl S1 and S2
+   Lungs: CTAB
+   Abd: Soft, non-tender, non-distended
+   Ext: Warm, well-perfused, no edema
+   Neuro: Does not move RUE.  Moves bilateral lower extremities and LUE.
+   Labs / Radiology
+   72 K/uL
+   9.9 g/dL
+   159 mg/dL
+   1.8 mg/dL
+   27 mEq/L
+   4.6 mEq/L
+   90 mg/dL
+   107 mEq/L
+   145 mEq/L
+   30.9 %
+   16.2 K/uL
+        [image002.jpg]
+                             [**3459-6-25**]  04:44 AM
+                             [**3459-6-25**]  05:26 AM
+                             [**3459-6-25**]  08:35 AM
+                             [**3459-6-25**]  05:45 PM
+                             [**3459-6-25**]  05:57 PM
+                             [**3459-6-26**]  05:02 AM
+                             [**3459-6-26**]  09:04 PM
+                             [**3459-6-27**]  03:28 AM
+                             [**3459-6-27**]  03:10 PM
+                             [**3459-6-28**]  02:58 AM
+   WBC
+   17.3
+   18.6
+   17.0
+   16.2
+   Hct
+   31.3
+   32.2
+   32.8
+   31.7
+   30.9
+   Plt
+   102
+   101
+   82
+   72
+   Cr
+   2.1
+   2.0
+   2.1
+   2.0
+   1.9
+   1.8
+   TCO2
+   29
+   27
+   30
+   Glucose
+   147
+   139
+   129
+   171
+   146
+   159
+   Other labs: PT / PTT / INR:11.1/23.3/0.9, CK / CKMB /
+   Troponin-T:26/6/0.62, ALT / AST:48/66, Alk Phos / T Bili:336/5.0,
+   Amylase / Lipase:/27, Differential-Neuts:93.0 %, Band:0.0 %, Lymph:3.3
+   %, Mono:3.2 %, Eos:0.4 %, Fibrinogen:298 mg/dL, Lactic Acid:1.3 mmol/L,
+   Albumin:2.8 g/dL, LDH:357 IU/L, Ca++:8.5 mg/dL, Mg++:2.5 mg/dL, PO4:4.5
+   mg/dL
+   Assessment and Plan
+   Assessment and Plan
+   75F with h/o severe aortic stenosis, severe COPD, admitted to OSH with
+   pneumonia, complicated by hypoxic respiratory failure requiring
+   intubation, ARF, transferred for difficulty weaning and valvuloplasty
+   for critical AS and found to have mitral valve endocarditis.
+   # Embolic CVA: Likely [**2-7**] endocarditis  (less likely embolic or
+   thrombotic).  MRI head revealed
+multiple bilateral acute infarcts in
+   the supra- and intra-tentorial region
+, likely embolic given widespread
+   distribution.
+   - No intervention on valve per CT [**Doctor First Name 438**]
+   - Continue PCN course
+   # Mitral Valve Endocarditis: Blood cultures positive on day 2 of
+   hospital stay at [**Hospital1 **] with pansensitive S. salivarius. TTE shows
+   posterior MV leaflet endocarditis. Non-contrast CT of head/neck without
+   obvious dental abscess.  Now with embolic CVA.  All bacterial and
+   fungal blood cultures at this hospital without growth to date.
+   - Continue PCN for Strep salivarius (6 week course started on [**6-7**]) per
+   ID recs
+   - Stop daily ECGs (normal PR interval for >10 days)
+   - F/u blood cx
+   # AS: Critical AS on TTE. Unclear what her baseline functional status
+   is, she does not have regular angina, or syncope.  Up 3 L for
+   length-of-stay.
+   - Low-dose Lasix gtt with I/O goal net even-to-minus 500 cc today.
+   - No role for valvuloplasty at this time until acute vegetation
+   resolved
+   # Respiratory failure: Likely multifactorial with contributions from
+   severe COPD, atelectasis, hemorrhage, edema and HAP s/p full course of
+   vanc/zosyn.  Has tolerated PS for 24 hours.
+   - Lasix gtt at 1.0-1.5 for I/O goal as above
+   - Decrease free water flushes to minimize intake.
+   - Continue PS today; will monitor via VBG and O2 sats
+   - F/u pending cx
+   - Continue prednisone taper for COPD exacerbation (today is day [**3-8**] at
+   20mg), decrease to 10mg tomorrow
+   - Fentanyl patch 50 mcg/72hr, Valium at 5 mg PO q12hr
+   # C diff positive: Started vanc [**3453-6-27**]
+   - Clarify course (? continue course to end 7 days after Pen G ([**3459-7-26**])
+   )
+   # Thrombocytopenia: Platelets decreasing again (101 -> 72 over 48 hours
+   after) initial increase once heparin held; HIT Ab positive.  Likely
+   also [**2-7**] underlying liver disease and reactive component from
+   infection.
+   - F/u serotonin release assay
+   # Anemia: Hct had slowly trended down but bumped appropriately after 2
+   u pRBC [**6-25**].  Possible sources include continued bloody secretions,
+   guaiaic positive stools, hemolysis from valve vegetation.  Hct stable
+   today.
+   - Trend hcts daily
+   # ARF: No known h/o renal dysfunction. Cr 1.2 at OSH now stable at
+   around 2 daily. Abd U/S here did not report hydronephrosis but did have
+   urothelial thickening suggesting chronic UTI (?fungal) with Ucx
+   persistently growing yeast despite foley changes. U/S also suggestive
+   of chronic renal dysfunction. Urine negative for eos.
+   - Per ID, tx of chronic funguria is ineffective
+   - MR abd not indicated per radiology
+   - Will rediscuss after goals of care discussion with family
+   # Elevated LFTs: H/o autoimmune hepatitis with baseline LFTs unknown.
+   Bili and alk phos elevated yesterday, slightly improved today.
+   ?Increase hemolysis due to endocarditis vs. biliary pathology. [**Month (only) 56**] be
+   due to gallbladder sludge; no signs of cholecystitis or cholelithiasis.
+   Subtle liver nodularity with nl hepatic flow.
+   - Trend LFTs
+   ICU Care
+   Nutrition:  TF
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3459-6-20**] 04:32 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:Transfer to rehab / long term care facility
+
+
+DOC CLASS

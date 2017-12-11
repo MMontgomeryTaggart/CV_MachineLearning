@@ -1,0 +1,264 @@
+Chief Complaint:  resp failure, septic shock, transferred from [**First Name9 (NamePattern2) **]
+   [**Country **]
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:  Briefly, this is an  85 yo M with MMP, CAD, CRI, AF, CLL and
+   chronic lung disease who is transferred from PR after a long hospital
+   course c/b PNA, resp failure and septic shock following a fall.
+   On arrival, hypotensive and in respiratory distress, bronched with
+   evidence of severe necrotic PNA and L lung collapse. Fluid resuscitated
+   and weaned off pressors overnight. Currently, intubated and sedated on
+   A/C vent 500x12 c 5 PEEP and FiO2 0.5 with SPB 110 and paced rhythm at
+   60 with occasional native beats.
+   Patient admitted from: Transfer from other hospital, PR
+   History obtained from Medical records, HO
+   Allergies:
+   Iodine
+   Hives; Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2570-8-19**] 12:00 AM
+   Meropenem - [**2570-8-19**] 12:58 AM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Insulin - Regular - 1 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2570-8-19**] 12:57 AM
+   Heparin Sodium (Prophylaxis) - [**2570-8-19**] 12:57 AM
+   Other medications:
+   per [**Month (only) **] (reviewed)
+   Past medical history:
+   Family history:
+   Social History:
+   CAD s/p CABG [**2566**]
+   CHB s/p pacemaker
+   dCHF (EF 55% in [**6-6**])
+   AFib
+   Tachy-brady syndrome
+   CLL
+   CRI b/l Cr 1.5
+   Anemia b/l Hct 30-32%
+   HTN
+   COPD
+   Hyperlipidemia
+   s/p hernia repair
+   s/p tonsillectomy
+   BPH
+   NC
+   Occupation: retired
+   Drugs:
+   Tobacco: quit 15 yrs ago
+   Alcohol: occ
+   Other: splits time btw [**First Name8 (NamePattern2) **] [**Doctor Last Name 37**] and [**Location (un) 211**]
+   Review of systems:
+   Flowsheet Data as of [**2570-8-19**] 09:34 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 35.7
+C (96.3
+   HR: 63 (61 - 86) bpm
+   BP: 96/40(57) {96/40(57) - 144/61(88)} mmHg
+   RR: 22 (18 - 27) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   CVP: 7 (7 - 12)mmHg
+   Total In:
+                                                                  1,605 mL
+                                                                  3,372 mL
+   PO:
+   TF:
+                                                                     12 mL
+   IVF:
+                                                                  1,605 mL
+                                                                  2,980 mL
+   Blood products:
+   Total out:
+                                                                      5 mL
+                                                                    585 mL
+   Urine:
+                                                                      5 mL
+                                                                    585 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,600 mL
+                                                                  2,787 mL
+   Respiratory
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 20
+   RR (Spontaneous): 9
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 24 cmH2O
+   SpO2: 99%
+   ABG: 7.28/34/86.[**Numeric Identifier 88**]/17/-9
+   Ve: 9.1 L/min
+   PaO2 / FiO2: 174
+   Physical Examination
+   Eyes / Conjunctiva: PERRL, cachectic male
+   Head, Ears, Nose, Throat: Endotracheal tube, NG tube
+d, edentulous
+   Lymphatic: No(t) Cervical WNL, No(t) Supraclavicular WNL, r sq line
+   Cardiovascular: (S1: Normal), (S2: Normal), irreg
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Diminished), (Right DP pulse: Diminished), (Left DP pulse:
+   Diminished) pulses dopplerable
+   Respiratory / Chest: (Expansion: No(t) Symmetric, Paradoxical), (Breath
+   Sounds: Rhonchorous: ), asx chest wall R > L,  decreased BS L, slight
+   aeration at upper zone, diminshed on R
+   Abdominal: Soft, Non-tender, Bowel sounds present, NT
+   Extremities: Right: 2+, Left: 2+, No(t) Cyanosis, No(t) Clubbing,
+   weeping diffusely from skin
+   Skin:  extensive skin breakdown, friable, R arm ulceration, No(t) Rash:
+   , No(t) Jaundice
+   Neurologic: No(t) Attentive, unresponsive, sedated, Movement:
+   withdrawals to pain, Sedated,
+   Labs / Radiology
+   57 K/uL
+   26
+   8.7 g/dL
+   232 mg/dL
+   1.3 mg/dL
+   91 mg/dL
+   17 mEq/L
+   128 mEq/L
+   4.8 mEq/L
+   153 mEq/L
+   17.9 K/uL
+        [image002.jpg]
+                             [**2570-8-18**]  11:00 PM
+                             [**2570-8-19**]  03:58 AM
+                             [**2570-8-19**]  04:13 AM
+                             [**2570-8-19**]  07:13 AM
+   WBC
+                                    29.3
+                                    17.9
+   Hct
+                                    30.0
+                                    27.0
+                                     26
+   Plt
+                                     82
+                                     57
+   Cr
+                                     1.5
+                                     1.3
+   TropT
+                                    0.21
+                                    0.41
+   TC02
+                                     18
+                                     17
+   Glucose
+                                     390
+                                     362
+                                     316
+                                     232
+   Other labs: PT / PTT / INR:14.3/27.5/1.2, CK / CKMB /
+   Troponin-T:105/12/0.41 (0.21), ALT / AST:18/30, Alk Phos / T
+   Bili:70/1.0, Amylase / Lipase:41/22, Differential-Neuts:45.0 %,
+   Band:0.0 %, Lymph:53.4 %, Mono:1.0 %, Eos:0.3 %, D-dimer:3867 ng/mL,
+   Fibrinogen:157 mg/dL, Lactic Acid:2.3 mmol/L, Albumin:3.0 g/dL, LDH:292
+   IU/L, Ca++:7.1 mg/dL, Mg++:2.7 mg/dL, PO4:3.8 mg/dL
+   Imaging: CXR--trach in airway,  improved aeration LUL and mid zone,
+   consolidation and volume shift on left. sq line tip difficult to see,
+   og high
+   Assessment and Plan
+   85 yo M with extensive med hx transferred from PR after prolonged
+   hospital course with respiratory failure and septic shock in setting of
+   extensive pna
+   Main issues include:
+   #shock/hypotension
+   most likely septic, with pna as source  highest on ddx, though line
+   infection, sinuisitis (NG tube) skin infection remain of concern, also
+   with possible cardiogenic component given new NSTEMI
+   Briefly required pressor support on arrival
+now off
+   Appears intravascularly volume deplete
+   -- antibx
+s, pan cx
+   - Maintain cvp 8-10 (LR boluses)
+   - ? adrenal insufficiency
+continue stress steroids
+   - change OSH line
+   - aggressive skin/wound care
+   --Trend cardiac enzymes, get TTE
+   - Follow lactate./DIC labs
+   #resp failure
+   #extensive L pna
+   #s/p trach
+   - Broad antibx
+continue [**Last Name (un) 411**] and Vanco, add levo for double PSA
+   coverage given long hospital course
+   -- Vent support ACV, oxygenating on 50% FIO2 and 5 PEEP
+   -- check ct chest when stable for road trip as this will give us more
+   info about airways, parenchyma and possibility of loculated
+   effusion
+   #  NSTEMI
+   - trend enzymes
+   - asa and statin
+   - holding on heparin given no acute ishcemic changes on ecg and
+   significant thrombocytopenia,
+   - check TTE,
+   -- cards input
+   # a-fib
+chronic
+   holding coumadin and BB given hypotension, v-paced
+   #thrombocytopenia (? Chronic with CLL, reactive/infection related, med
+   effect)
+   Follow dic labs
+   Transfuse for bleeding, > 30
+   #hyperkalemia on admit
+resolved with kayexalate
+   #hypernatremia
+correcting free water def, free water boluses, follow na
+   [**Hospital1 **]
+   #leukocytosis-
+   ? cll, reactive, infectious, now back to prior levels per OSH labs
+   -    Antibx as above
+   -    Pan cx
+   -  d/c NGTand replace with OG  given risk of sinusitis
+   - Skin care
+   - Check C diff
+   # CKD
+cr at baseline, good urine output
+   #anemia
+hct near baseline
+   -    keep active t and s,
+   -    transfuse for active bleed or hct < 24
+   #CLL
+notify BMT, was not being treated as outpt
+   #hyperglycemia
+? steroid related without hx of dm
+   - insulin gtt
+   - correct fluid loses
+   ICU Care
+   Nutrition: check albumin
+   ProBalance (Full) - [**2570-8-19**] 08:00 AM 10 mL/hour
+   Glycemic Control: Insulin infusion
+   Lines / Intubation:
+   Multi Lumen - [**2570-8-18**] 11:35 PM
+   Arterial Line - [**2570-8-19**] 02:53 AM
+   Comments:
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: DNR--need to confirm with family, discuss goals of care
+   Total time spent: 60 minutes
+   Patient is critically ill
+
+
+DOC CLASS

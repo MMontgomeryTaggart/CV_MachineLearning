@@ -1,0 +1,237 @@
+Chief Complaint:
+   24 Hour Events:
+   - Changed to coreg 3.125 and d/c'd dilt gtt. HRs up to 120s-130s. Gave
+   another 3.125 coreg without effect (except BP down to 90s/50s).
+   Switched back to lopressor 50mg but increased to TID. Then increased
+   again to 75mg TID. HRs 90s overnight. BPs 120s.
+   - Negative 300 at 3pm so did not get extra lasix (goal even)
+   - INR 3 so gave another 5mg PO Vit K
+   - Called ID for ABx approval but did not get call back
+   Allergies:
+   Penicillins
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2927-3-11**] 01:33 PM
+   Ceftazidime - [**2927-3-12**] 02:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2927-3-12**] 06:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.9
+C (102.1
+   Tcurrent: 37.6
+C (99.7
+   HR: 92 (75 - 138) bpm
+   BP: 109/65(73) {90/50(62) - 129/160(98)} mmHg
+   RR: 23 (18 - 32) insp/min
+   SpO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 73.4 kg (admission): 73.4 kg
+   Height: 68 Inch
+             Total In:
+                                                                  1,176 mL
+                                                                    290 mL
+   PO:
+                                                                    750 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                    426 mL
+                                                                     50 mL
+   Blood products:
+   Total out:
+                                                                  1,485 mL
+                                                                    175 mL
+   Urine:
+                                                                  1,485 mL
+                                                                    175 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -309 mL
+                                                                    115 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   ABG: ///26/
+   Physical Examination
+   GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with no elevation of JVP.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line.
+   irregularly irregular rhythm, normal S1, S2. No m/r/g. No thrills,
+   lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Rhonchi heard in [**Doctor Last Name **] segment, no
+   crackles or wheezes.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  Left upper
+   extremity hematoma.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ DP 1+ PT 1+
+   Left: Carotid 2+ Femoral 2+ DP 1+ PT 1+
+   Labs / Radiology
+   104 K/uL
+   13.2 g/dL
+   219 mg/dL
+   1.5 mg/dL
+   26 mEq/L
+   4.9 mEq/L
+   51 mg/dL
+   99 mEq/L
+   134 mEq/L
+   37.7 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**2927-3-10**]  08:39 PM
+                             [**2927-3-11**]  03:41 AM
+                             [**2927-3-11**]  05:49 PM
+                             [**2927-3-12**]  03:06 AM
+   WBC
+   8.2
+   8.2
+   8.1
+   Hct
+   42.6
+   43.3
+   37.7
+   Plt
+   99
+   109
+   104
+   Cr
+   1.6
+   1.6
+   1.6
+   1.5
+   TropT
+   3.34
+   3.87
+   Glucose
+   296
+   206
+   219
+   Other labs: PT / PTT / INR:21.0/41.8/2.0, CK / CKMB /
+   Troponin-T:1046/31/3.87, ALT / AST:157/416, Alk Phos / T Bili:97/1.2,
+   Differential-Neuts:73.3 %, Lymph:19.6 %, Mono:5.6 %, Eos:0.0 %,
+   Ca++:8.3 mg/dL, Mg++:2.4 mg/dL, PO4:2.7 mg/dL
+   Imaging: TTE:
+   The left atrium is normal in size. The estimated right atrial pressure
+   is 10-20mmHg. There is mild symmetric left ventricular hypertrophy with
+   normal cavity size. Due to suboptimal technical quality, a focal wall
+   motion abnormality cannot be fully excluded. Overall left ventricular
+   systolic function is severely depressed (LVEF= 20-25 %). The estimated
+   cardiac index is depressed (<2.0L/min/m2). Tissue Doppler imaging
+   suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+   Transmitral Doppler and tissue velocity imaging are consistent with
+   Grade III/IV (severe) LV diastolic dysfunction. Right ventricular
+   chamber size is normal. with moderate global free wall hypokinesis. The
+   aortic root is mildly dilated at the sinus level. The ascending aorta
+   is mildly dilated. The aortic valve leaflets are moderately thickened.
+   Trace aortic regurgitation is seen. There may be aortic stenosis with
+   restricted leaflet opening but the overall transvalvular velocity is
+   preserved (which may be secondary to poor ventricular contractile
+   function). The mitral valve leaflets are mildly thickened. Mild to
+   moderate ([**11-29**]+) mitral regurgitation is seen. The left ventricular
+   inflow pattern suggests a restrictive filling abnormality, with
+   elevated left atrial pressure. There is (at least) mild pulmonary
+   artery systolic hypertension. There is a trivial/physiologic
+   pericardial effusion.
+   .
+   IMPRESSION: Severe left ventricular systolic and diastolic dysfunction.
+   Moderate right ventricular hypokinesis. Elevated estimated left
+   ventricular filling pressures. Mild to moderate mitral regurgitation.
+   At least mild pulmonary hypertension. Thoracic aortic dilation.
+   Assessment and Plan
+   78 yo male with a history of CAD, s/p CABG [**55**] years ago, a fib, HTN, DM
+   Type 2, transferred for treatment of NSTEMI and A fib with RVR.
+   # NSTEMI:  The patient has 38 year old bypass grafts, with no more
+   recent interventions.  In the setting of Type 2 DM, the likelihood that
+   these grafts have restenosed is very high.  Most likely the stress of
+   having a pneumonia with a fib precipitated this event.
+   - Restart heparin drip
+   - Continue plavix 75mg daily (s/p 600mg loading at OSH)
+   - Continue high dose aspirin
+   - Hold high dose statin given transaminitis
+   - Continue beta blockers
+   - Hold ACE-I given his acute on chronic renal failure and adverse
+   reaction to lisinopril (hyperkalemia)
+   - Plan for cardiac cath when INR less, however trending up, gave Vit K
+   yesterday
+   - Trend CE's until peak
+   - EKG in AM
+   .
+   # Systolic Heart Failure:  EF documented to be 20-25% at OSH with
+   severe global hypokinesis.  Likely worsening EF secondary to large
+   NSTEMI.
+   - Lasix boluses for diuresis, goal UOP 100cc/hr
+   - Monitor electrolytes [**Hospital1 **]
+   - TTE today to evaluate for fixed wall motion abnormalities and EF
+   - Unable to give ACE-I given adverse reaction
+   .
+   # Atrial Fibrillation:  Patient is in rapid ventricular rate
+   currently.  The patient had a run of possible a fib with aberrancy vs.
+   v tach earlier today at OSH, likely caused by NSTEMI.
+   - Continue metoprolol tartrate 50mg PO BID
+   - Continue diltiazem drip
+   - Monitor on telemetry
+   - Hold coumadin, continue heparin drip for now
+   .
+   # Pneumonia:  Possibly hospital acquired pneumonia given recent
+   hospitalization last week for 'weakness.'
+   - CXR on admission
+   - Will continue levaquin started [**2927-3-9**]
+   - Will add vancomycin and ceftaz to cover HAP
+   .
+   # Type 2 DM:
+   - Hold home glyburide
+   - Sliding scale insulin
+   .
+   # Hypertension:
+   - Will use metoprolol instead of home propranolol in the attempt to
+   rate control
+   - Will restart home amlodipine as needed
+   .
+   # Transaminitis:  Likely secondary to low cardiac output in the setting
+   of a large NSTEMI, or relative hypotension.  At OSH, T bili 2.6, direct
+   0.6, AST 288, ALT 170, AP 106.  Trending up AST now 458, INR 3.9
+   - Continue to trend LFTs
+   - Hold statins for now
+   .
+   # Acute on chronic renal insuficiency:  At OSH, Crn on presentation
+   1.2, with diuresis increased to 1.5.  This could also be secondary to
+   low output state.
+   - Continue to trend with diuresis
+   .
+   # Chronic Thrombocytopenia:
+   - Monitor closely with heparin IV
+   .
+   ICU Care
+   Nutrition:  NPO as may go to cath lab today
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2927-3-10**] 07:00 PM
+   20 Gauge - [**2927-3-10**] 07:00 PM
+   Prophylaxis:
+   DVT:  Heparin drip
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:  FULL CODE
+   Disposition: CCU
+
+
+DOC CLASS

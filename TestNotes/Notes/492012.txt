@@ -1,0 +1,197 @@
+CVICU
+   HPI:
+   HD5   POD 4-asc Ao rep(28mm gelweave), resusp AV, vein harvest
+   Ejection Fraction:55
+   Pre-Op Weight:249.12 lbs   113 kgs
+   Baseline Creatinine:1.3-1.4
+   PMH:hypertension, hypercholesterolemia, depression, CKD-creat 1.3-1.4,
+   ?[**Last Name (un) **] body disease-followed Dr. [**Last Name (STitle) **] neuro, old brain hemorrhage on
+   MRI, L arm tremor, chronically elevated CK, sleep apnea on home CPAP,
+   s/p radical prostatectomy, s/p lumbar laminectomy x2, s/p tonsilectomy
+   [**Last Name (un) **]:lisinopril, lopressor, lipitor, hydrochlorothiazide, prozac,
+   norvasc, potassium
+   **needs CTA prior to D/C to eval extent of dissection**
+   **Updates to family should only be that patient is progressing per DL
+   Events:
+   [**2985-4-2**] Mental status very slowly improving. No focal signs.
+   [**2985-4-1**] Diurese. On amio gtt.
+   [**2985-3-31**] Weaned off NTG drip.CTs DC'd.Loopy->No narcs.
+   [**2985-3-30**] gtts weaned. extubated
+   Current medications:
+   Acetaminophen 4. Amiodarone 5. Aspirin EC 6. Atorvastatin 7. Bisacodyl
+   8. Calcium Gluconate
+   9. Dextrose 50% 10. Docusate Sodium 11. Fentanyl Citrate 12. Fluoxetine
+   13. Furosemide 14. HydrALAzine
+   15. Insulin 16. Lorazepam 17. Magnesium Sulfate 18. Metoclopramide 19.
+   Metoprolol Tartrate 20. Milk of Magnesia
+   21. Milk of Magnesia 22. Oxycodone-Acetaminophen 23. Potassium Chloride
+   24. Ranitidine 25. Sodium Chloride 0.9% Flush
+   26. TraMADOL (Ultram)
+   24 Hour Events:
+   --Arrythmia improved with beta-blockers and Amio.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2985-3-31**] 04:00 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2985-4-1**] 11:23 AM
+   Hydralazine - [**2985-4-1**] 06:10 PM
+   Fentanyl - [**2985-4-1**] 10:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2985-4-2**] 06:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**87**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 35.7
+C (96.3
+   HR: 80 (63 - 88) bpm
+   BP: 120/56(70) {79/38(49) - 135/63(78)} mmHg
+   RR: 19 (13 - 29) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 112.8 kg (admission): 113 kg
+   Height: 72 Inch
+             Total In:
+                                                                  1,633 mL
+                                                                     92 mL
+   PO:
+                                                                    740 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    893 mL
+                                                                     92 mL
+   Blood products:
+   Total out:
+                                                                  2,767 mL
+                                                                    325 mL
+   Urine:
+                                                                  2,767 mL
+                                                                    325 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,134 mL
+                                                                   -233 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 95%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: No acute distress, Impulsive, verbalizing
+   frequently.
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bilat bases), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   129 K/uL
+   10.1 g/dL
+   117 mg/dL
+   1.3 mg/dL
+   27 mEq/L
+   4.4 mEq/L
+   32 mg/dL
+   107 mEq/L
+   141 mEq/L
+   29.1 %
+   11.1 K/uL
+        [image002.jpg]
+                             [**2985-3-30**]  07:27 PM
+                             [**2985-3-30**]  07:56 PM
+                             [**2985-3-31**]  12:00 AM
+                             [**2985-3-31**]  03:01 AM
+                             [**2985-3-31**]  06:00 AM
+                             [**2985-3-31**]  06:58 PM
+                             [**2985-4-1**]  02:00 AM
+                             [**2985-4-1**]  06:00 AM
+                             [**2985-4-1**]  05:35 PM
+                             [**2985-4-2**]  02:27 AM
+   WBC
+   11.2
+   9.8
+   11.1
+   Hct
+   27.1
+   26.5
+   27.8
+   29.1
+   Plt
+   114
+   101
+   129
+   Creatinine
+   1.6
+   1.3
+   1.3
+   TCO2
+   21
+   Glucose
+   101
+   124
+   116
+   125
+   121
+   135
+   122
+   125
+   117
+   Other labs: PT / PTT / INR:12.7/32.4/1.1, Differential-Neuts:86.0 %,
+   Lymph:11.9 %, Mono:1.4 %, Eos:0.4 %, Fibrinogen:198 mg/dL, Lactic
+   Acid:1.1 mmol/L, Ca:8.8 mg/dL, Mg:2.5 mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+   ATRIAL FIBRILLATION (AFIB), DELIRIUM / CONFUSION, AORTIC DISSECTION
+   Assessment and Plan:  Assessment:s/p replacement of ascending
+   aorta(28mm gelweave), resuspension of AV, vein harvest for Type A
+   dissection [**3-29**]
+   Neurologic: Pain controlled, Percocet and Ultram PRN .
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Afib --> now SR after
+   Amio and beta blockers. Cont to follow episodes of Afib to determine if
+   he would need anticoagulation.
+   Pulmonary: Cont OOB / IS / PT
+   Gastrointestinal / Abdomen: standard bowel regimen.
+   Nutrition: Regular diet, Advance diet as tolerated
+   Renal: Foley, Adequate UO, Creat improved, cont to diurese gently with
+   lasix.
+   Hematology: Mild anemia --> cont to follow.
+   Endocrine: RISS
+   Infectious Disease: No issues currently.
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Arrhythmia, (Respiratory distress: Insufficiency /
+   Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2985-3-31**] 06:15 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+ please start today.
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 10 minutes
+   Patient is critically ill
+
+
+DOC CLASS

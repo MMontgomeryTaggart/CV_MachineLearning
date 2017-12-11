@@ -1,0 +1,300 @@
+Admission Date:  [**3403-2-23**]              Discharge Date:   [**3403-2-28**]
+
+Date of Birth:  [**3343-4-21**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 645**]
+Chief Complaint:
+Dyspnea, palpitations
+
+Major Surgical or Invasive Procedure:
+[**3403-2-23**] Tricuspid Valve repair utilizing a 34mm annuplasty ring
+with LV lead placement
+.
+[**3403-2-25**] Insertion of [**Company 55**] dual chamber permanent pacemaker,
+model # ADDRL1
+
+
+History of Present Illness:
+This is a 59 year old female with history of polymyositis, who
+was recently sent in for evaluation of tachy-brady syndrome.
+Over past month prior to admission, she reported having
+intermittent chest tightness and palpitations. These episodes
+lasted approximately 10-40 minutes. She also complained of
+intermittent dyspnea and decreased exercise tolerance. She also
+reported episodes in which she feels lightheaded and a sensation
+of warmth, but denies any dizziness or loss of consciousness.
+Subsequent cardiac MRI revealed worsening tricuspid
+regurgitation with RA/RV enlargement and also some mitral
+regurgitation. Given above findings, cardiac surgery was
+consulted and further evaluation was performed. After routine
+preoperative evaluation, she was eventually cleared to proceed
+with surgical intervention.
+
+
+Past Medical History:
+- Gallbladder polyps
+- Polymyositis - biopsy proven. Has refused treatment in the
+past due to side effects of prednisone
+- Recent Pneumonia, one month prior to admission
+- Tricuspid Regurgitation
+- Sick Sinus Syndrome
+
+Social History:
+Lives with her son [**Name (NI) **]. Nonsmoker. Denies ETOH or drug use.
+Daily hour long walks per family.
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+PREOP EXAM:
+
+BP  103/56  Pulse:54   Resp:18  O2 sat:95/RA
+Height:66"     Weight:59.1 kgs
+
+General: WDWN female in no acute distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  No edema
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 647**]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+Carotid Bruit        Right: none   Left: none
+
+
+Pertinent Results:
+Admission labs:
+[**3403-2-23**] WBC-7.4 RBC-2.71*# Hgb-8.1*# Hct-24.5*#  RDW-14.2 Plt
+Ct-64*#
+[**3403-2-24**] WBC-11.5* RBC-2.84* Hgb-8.3* Hct-25.2*  RDW-15.2 Plt
+Ct-173
+[**3403-2-25**] WBC-15.5* RBC-3.14* Hgb-9.1* Hct-27.7*  RDW-15.5 Plt
+Ct-120*
+[**3403-2-26**] WBC-8.9 RBC-2.95* Hgb-8.6* Hct-26.7*  RDW-15.0 Plt
+Ct-104*
+[**3403-2-27**] WBC-9.4 RBC-2.99* Hgb-8.6* Hct-27.1*  RDW-15.2 Plt
+Ct-111*
+[**3403-2-23**] UreaN-9 Creat-0.4 Na-142 K-3.4 Cl-109* HCO3-28 AnGap-8
+[**3403-2-24**] Glucose-100 UreaN-7 Creat-0.3* Na-138 K-4.1 Cl-106
+HCO3-30
+[**3403-2-25**] Glucose-112* UreaN-8 Creat-0.5 Na-135 K-4.1 Cl-99
+HCO3-33*
+[**3403-2-26**] Glucose-99 UreaN-6 Creat-0.3* Na-138 K-3.8 Cl-101
+HCO3-31 AnGap-10
+[**3403-2-27**] UreaN-7 Creat-0.3* Na-140 K-3.8 Cl-101
+[**3403-2-24**] Mg-2.0, [**3403-2-27**] Mg-2.0
+.
+Discharge labs:
+[**3403-2-27**] 06:40AM BLOOD WBC-9.4 RBC-2.99* Hgb-8.6* Hct-27.1*
+MCV-91 MCH-28.9 MCHC-31.9 RDW-15.2 Plt Ct-111*
+[**3403-2-27**] 06:40AM BLOOD Plt Ct-111*
+[**3403-2-25**] 03:52AM BLOOD PT-12.7* PTT-26.7 INR(PT)-1.2*
+[**3403-2-27**] 06:40AM BLOOD UreaN-7 Creat-0.3* Na-140 K-3.8 Cl-101
+[**3403-2-27**] 06:40AM BLOOD Mg-2.0
+
+[**3403-2-26**] Chest x-ray:
+Pulmonary edema has not recurred and pulmonary vascular
+engorgement has improved. Severe cardiomegaly is stable. Small
+right and moderate left pleural effusion are stable, left lower
+lobe collapse is more pronounced. No pneumothorax. Transvenous
+right ventricular pacer lead may pass into the coronary sinus,
+but it does not traverse the ring of the tricuspid valve
+prosthesis
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+LEFT ATRIUM: No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+LEFT VENTRICLE: Normal LV wall thickness. Normal regional LV
+systolic function. Overall normal LVEF (>55%).
+RIGHT VENTRICLE: Moderately dilated RV cavity. Mild global RV
+free wall hypokinesis.
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal descending aorta diameter.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild to
+moderate ([**1-17**]+) MR.
+TRICUSPID VALVE: Moderate to severe [3+] TR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: Written informed consent was obtained from the
+patient. The patient was under general anesthesia throughout the
+procedure. No TEE related complications. The patient appears to
+be in sinus rhythm. Results were personally reviewed with the MD
+caring for the patient.
+Conclusions
+Prebypass
+No mass/thrombus is seen in the left atrium or left atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler. Left ventricular wall thicknesses are normal. Regional
+left ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). The right ventricular
+cavity is moderately dilated with mild global free wall
+hypokinesis. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic stenosis. Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild to moderate ([**1-17**]+) mitral regurgitation
+is seen. Moderate to severe [3+] tricuspid regurgitation is
+seen. There is no pericardial effusion. Dr. [**Last Name (STitle) **] was notified in
+person of the results on [**3403-2-23**] at 945am.
+Post bypass
+Patient is AV paced and receiving an infusion of phenylephrine.
+LVEF= 50%. Annuloplasty ring seen in the tricuspid position. It
+appears well seated . There is trivial tricuspid regurgitation
+and no stenosis. Aorta is intact post decannulation. The mitral
+regurgitation is trivial.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**Name6 (MD) 8386**] [**Name8 (MD) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**3403-2-23**] 14:04
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname **] was a same day admission to the operating room for
+tricuspid valve repair along with placement of a left
+ventricular lead, please see operative report for details. In
+summary patient had:
+1. Tricuspid repair using an [**Doctor Last Name 646**] MC3 annuloplasty ring,
+model number 4900.
+2. Left ventricular epicardial lead placement x2.
+3. Atrial tissue biopsy.
+4. Mediastinal reexploration
+Her bypass time was35 minutes with a crossclamp time of 24
+minutes.
+
+Following re-operation, she was brought to the CVICU for
+invasive monitoring. Within 24 hours, she awoke neurologically
+intact and was extubated without incident. She maintained stable
+hemodynamics and underwent placement of dual chamber [**Company 55**]
+pacemaker on postoperative day two. She tolerated the procedure
+well without complication. Following pacemaker implantation, she
+transferred to the cardiac stepdown floor for further care and
+recovery. She experienced brief episodes of paroxysmal atrial
+fibrillation but ultimately was apaced. Beta blockade was
+started and advanced as tolerated. Over several days, she
+continued to make clinical improvement with diuresis and she was
+medically cleared for discharge to rehabilitation on
+postoperative day five. Prior to discharge, pacemaker underwent
+interrogation and was found to be functioning within normal
+limits. At discharge, incisional pain was well controlled on
+Ultram.
+Follow up appointments were outlined in discharge paperwork.
+
+Medications on Admission:
+metoprolol XL25 mg daily, several Chinese herbal medications
+
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. Aspirin [**Hospital1 2656**] 81 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO once a day.
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+4. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+5. tramadol 50 mg Tablet Sig: One (1) Tablet PO every 6-8 hours
+as needed for pain management .
+Disp:*30 Tablet(s)* Refills:*0*
+6. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 10 days: please take with KCL.
+Disp:*10 Tablet(s)* Refills:*0*
+7. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day for 10 days:
+please take with Lasix.
+Disp:*10 Tablet, ER Particles/Crystals(s)* Refills:*0*
+8. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as
+needed for dyspnea.
+9. ipratropium bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 5263**] TCU
+
+Discharge Diagnosis:
+Tricuspid regurgitation- s/p Tricuspid repair
+Tachy-brady syndrome, s/p Permanent pacemeker implantation
+Polymyositis
+Postop Bleeding, s/p re-exploration
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating with steady gait
+Incisional pain managed with Tramadol
+Incisions:
+Sternal - healing well, no erythema or drainage
+
+Edema-trace bilat LE
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for one month or while taking narcotics. Driving will
+be discussed at follow up appointment with surgeon.
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 181**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Surgeon: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 181**]) on [**3-31**] @1pm phone:[**Telephone/Fax (1) 1774**]
+EP service/Cardiologist:Dr. [**First Name (STitle) **] [**Name8 (MD) 3731**], M.D.
+Phone:[**Telephone/Fax (1) 854**] Date/Time:[**3403-3-10**] 1:40
+Provider: [**Name10 (NameIs) 4946**] CARE NURSE Phone:[**Telephone/Fax (1) 181**] Date/Time:[**3403-3-8**]
+10:00
+Device Clinic- [**Hospital Ward Name 211**] 7:  [**3403-3-3**] @ 10AM [**Telephone/Fax (1) 854**]
+
+Please call to schedule appointments with:
+Primary Care: Dr.[**Last Name (STitle) **],[**First Name3 (LF) **] [**Telephone/Fax (1) 5506**] in [**4-21**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 181**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**3403-2-28**]
+
+DOC CLASS

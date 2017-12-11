@@ -1,0 +1,179 @@
+Chief Complaint:
+   24 Hour Events:
+ BLOOD CULTURED - At [**2583-1-6**] 12:17 PM
+   R fem a line
+ BLOOD CULTURED - At [**2583-1-6**] 12:17 PM
+   RIJ
+ URINE CULTURE - At [**2583-1-6**] 12:35 PM
+ ESOPHOGEAL BALLOON - At [**2583-1-6**] 04:23 PM
+ ARTERIAL LINE - START [**2583-1-6**] 06:53 PM
+ ARTERIAL LINE - STOP [**2583-1-6**] 08:21 PM
+ BLOOD CULTURED - At [**2583-1-7**] 03:05 AM
+   [**2583-1-6**]
+   -Right radial A line placed
+   -Esophageal balloon per RT-unable to get good read
+   -HIV viral load negative
+   -Attempt to increase PEEP from 8->10 and fi02 40->50%, consider
+   increasing PEEP in AM.
+   -Fentanyl increased to 100, Midaz increased with PRN boluses
+   -Fem Art line sent for culture
+   -[**Month (only) 47**] want to consider panorex when more stable given poor hygiene and
+   unknown source of infection
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**2583-1-6**] 12:35 AM
+   Vancomycin - [**2583-1-6**] 07:59 PM
+   Clindamycin - [**2583-1-7**] 04:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2583-1-7**] 06:10 AM
+   Infusions:
+   Norepinephrine - 0.13 mcg/Kg/min
+   Fentanyl - 110 mcg/hour
+   Midazolam (Versed) - 5 mg/hour
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   KCl (CRRT) - 3 mEq./hour
+   Other ICU medications:
+   Fentanyl - [**2583-1-6**] 11:29 PM
+   Midazolam (Versed) - [**2583-1-6**] 11:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2583-1-7**] 06:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 36.9
+C (98.4
+   HR: 92 (92 - 105) bpm
+   BP: 111/51(71) {95/45(65) - 144/57(86)} mmHg
+   RR: 16 (14 - 27) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 60 Inch
+    CVP: 12 (12 - 24)mmHg
+   Total In:
+                                                                  7,782 mL
+                                                                  2,413 mL
+   PO:
+   TF:
+   IVF:
+                                                                  6,727 mL
+                                                                  2,070 mL
+   Blood products:
+   Total out:
+                                                                  7,888 mL
+                                                                  3,306 mL
+   Urine:
+                                                                    447 mL
+                                                                    138 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -106 mL
+                                                                   -893 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 310 (310 - 350) mL
+   RR (Set): 32
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 42 cmH2O
+   Plateau: 34 cmH2O
+   SpO2: 99%
+   ABG: 7.35/52/99.[**Numeric Identifier 497**]/28/1
+   Ve: 11.7 L/min
+   PaO2 / FiO2: 200
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   78 K/uL
+   9.8 g/dL
+   115 mg/dL
+   1.7 mg/dL
+   28 mEq/L
+   3.6 mEq/L
+   32 mg/dL
+   96 mEq/L
+   133 mEq/L
+   27.5 %
+   19.6 K/uL
+        [image002.jpg]
+                             [**2583-1-6**]  07:46 AM
+                             [**2583-1-6**]  08:21 AM
+                             [**2583-1-6**]  08:36 AM
+                             [**2583-1-6**]  02:05 PM
+                             [**2583-1-6**]  02:17 PM
+                             [**2583-1-6**]  04:49 PM
+                             [**2583-1-6**]  07:43 PM
+                             [**2583-1-6**]  08:42 PM
+                             [**2583-1-7**]  02:13 AM
+                             [**2583-1-7**]  03:02 AM
+   WBC
+   17.9
+   18.6
+   19.6
+   Hct
+   26.6
+   27.6
+   27.5
+   Plt
+   59
+   61
+   78
+   Cr
+   2.6
+   2.0
+   1.7
+   TCO2
+   25
+   28
+   28
+   30
+   Glucose
+   120
+   129
+   124
+   115
+   Other labs: PT / PTT / INR:13.3/31.1/1.1, ALT / AST:850/727, Alk Phos /
+   T Bili:188/0.8, Amylase / Lipase:55/19, Differential-Neuts:90.0 %,
+   Band:2.0 %, Lymph:2.0 %, Mono:3.0 %, Eos:0.0 %, Fibrinogen:674 mg/dL,
+   Lactic Acid:1.2 mmol/L, LDH:753 IU/L, Ca++:7.4 mg/dL, Mg++:1.6 mg/dL,
+   PO4:2.3 mg/dL
+   Assessment and Plan
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ PNEUMONIA, OTHER
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**2583-1-6**] 05:30 PM 50 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2583-1-1**] 10:40 PM
+   Dialysis Catheter - [**2583-1-5**] 08:00 PM
+   Arterial Line - [**2583-1-6**] 06:53 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

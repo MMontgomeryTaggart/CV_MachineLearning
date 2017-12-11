@@ -1,0 +1,211 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Developed aflutter overnight with HR to 160s, given IV Dilt 10x2, given
+   150mg IV amio bolus with no response, then amio drip 1mg, sounded
+   wheezy at the time but no increased wob, eventually HR improved after
+   atrovent nebs
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Fluconazole - [**2625-3-8**] 06:01 PM
+   Vancomycin - [**2625-3-9**] 08:24 AM
+   Infusions:
+   Other ICU medications:
+   Diltiazem - [**2625-3-9**] 06:59 PM
+   Amiodarone - [**2625-3-9**] 07:20 PM
+   Heparin Sodium (Prophylaxis) - [**2625-3-10**] 07:53 AM
+   Other medications:
+   plavix
+   crestor
+   digoxin
+   atrovent
+   neurontin
+   vanc
+   lanzoprazole
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Respiratory: Cough
+   Flowsheet Data as of  [**2625-3-10**] 09:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.7
+C (98
+   HR: 89 (76 - 151) bpm
+   BP: 135/74(95) {94/40(56) - 155/152(299)} mmHg
+   RR: 20 (13 - 33) insp/min
+   SpO2: 96%
+   Heart rhythm: A Paced
+   Wgt (current): 85.5 kg (admission): 87.2 kg
+   Height: 65 Inch
+             Total In:
+                                                                  2,066 mL
+                                                                  1,010 mL
+   PO:
+             TF:
+                                                                    587 mL
+                                                                    423 mL
+   IVF:
+                                                                    540 mL
+                                                                    317 mL
+   Blood products:
+   Total out:
+                                                                  2,050 mL
+                                                                    595 mL
+   Urine:
+                                                                  2,050 mL
+                                                                    595 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     16 mL
+                                                                    415 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///35/
+   Physical Examination
+   General Appearance: Anxious
+   Eyes / Conjunctiva: PERRL, Pupils dilated
+   Head, Ears, Nose, Throat: Poor dentition
+   Cardiovascular: (S1: Normal), (S2: Normal, Distant)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Bronchial: L-sided, Wheezes : exp
+   wheeze R), using accessory muscles
+   Abdominal: Soft, Non-tender
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm
+   Neurologic: Responds to: Verbal stimuli, Movement: Purposeful, Tone:
+   Decreased
+   Labs / Radiology
+   11.6 g/dL
+   141 K/uL
+   168 mg/dL
+   1.8 mg/dL
+   35 mEq/L
+   4.0 mEq/L
+   55 mg/dL
+   109 mEq/L
+   151 mEq/L
+   35.0 %
+   18.0 K/uL
+        [image002.jpg]
+                             [**2625-3-6**]  03:22 PM
+                             [**2625-3-6**]  03:30 PM
+                             [**2625-3-6**]  10:50 PM
+                             [**2625-3-7**]  04:38 AM
+                             [**2625-3-7**]  05:02 AM
+                             [**2625-3-8**]  05:42 AM
+                             [**2625-3-8**]  10:58 AM
+                             [**2625-3-9**]  03:06 AM
+                             [**2625-3-9**]  07:49 PM
+                             [**2625-3-10**]  04:00 AM
+   WBC
+   17.9
+   15.3
+   10.0
+   18.0
+   Hct
+   33.8
+   35.0
+   34.6
+   35.0
+   Plt
+   129
+   128
+   127
+   141
+   Cr
+   1.5
+   1.4
+   1.4
+   1.4
+   1.6
+   1.8
+   TropT
+   0.07
+   TCO2
+   35
+   41
+   40
+   42
+   Glucose
+   158
+   103
+   177
+   221
+   183
+   168
+   Other labs: PT / PTT / INR:11.9/35.0/1.0, CK / CKMB /
+   Troponin-T:136/4/0.07, ALT / AST:26/26, Alk Phos / T Bili:56/1.1,
+   Differential-Neuts:95.7 %, Lymph:2.6 %, Mono:1.5 %, Eos:0.1 %,
+   Fibrinogen:675 mg/dL, Lactic Acid:1.0 mmol/L, Albumin:2.8 g/dL, LDH:269
+   IU/L, Ca++:9.2 mg/dL, Mg++:2.6 mg/dL, PO4:2.8 mg/dL
+   Assessment and Plan
+   68 yo M CM, CAD, COPD here w MRSA bacteremia/pna
+   1. Bacteremia/pna
+    - cont vanc x 6 weeks
+    - PICC line in place
+   2. COPD:
+    - cont prednisone 60 mg
+    - standing albuterol/atrovent nebs q 4 hr
+    - Albuterol/atrovent q1 hr prn
+    - oob to chair as tolerated
+    - chest PT
+    - will aim tbb - 500cc/24 hours
+   3. Atrial Tachycardia:
+    - currently rx with dilt 60 TID, Amiodarone 400 [**Hospital1 **], Dig 0.125 M/W/F
+    - EP re possible quinidine
+    - likely driven by COPD and work of breathing
+    - tsh
+   4. Hypernatremia:
+    - free water boluses
+    - f/u pm lytes
+   5. leukocytosis:
+    - d/c aline
+    - urine/blood/sputum cultures
+    - no stool output
+    - cont monitor cbc, fever curve
+   6. Delirium:
+    - cont zydis: 5 qam and 10 qhs
+   7. FEN:
+    - tube feeds at goal
+    - slp to reevaluate today
+   8. CAD: cont asa, plavix
+   9. Dispo: pt/ot
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**2625-3-10**] 05:31 AM 45 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2625-3-3**] 01:08 AM
+   PICC Line - [**2625-3-7**] 02:27 PM
+   22 Gauge - [**2625-3-8**] 10:13 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+
+
+DOC CLASS

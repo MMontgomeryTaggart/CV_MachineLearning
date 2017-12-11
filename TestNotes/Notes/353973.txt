@@ -1,0 +1,199 @@
+TITLE:
+   Chief Complaint: 85 year-old man with a history of hypertension and
+   coronary artery disease who presented with angina, transferred to the
+   CCU after found to have left main coronary artery disease on cath no
+   s/p stroke.
+   24 Hour Events:
+   Heparin and Integrilide stopped.  Pt started on Coumadin.  Metoprolol
+   decreased to 6.25mg PO BID for hypotension.  Teds applied for LE edema
+   and pt was put on pneumoboots for DVT prophylaxis.
+   This AM, patient denies SOB, CP, leg pain.  Reports increase strength
+   in LLE.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Coumadin (Warfarin) - [**2495-12-11**] 04:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2495-12-12**] 06:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 66 (50 - 69) bpm
+   BP: 139/55(76) {112/46(62) - 150/67(89)} mmHg
+   SBPs mostly in 120-140 range.
+   RR: 20 (14 - 37) insp/min
+   SpO2: 96%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Height: 69 Inch
+   HR 50-60s
+   Episodes of brady to mid 40s x2.
+   FS
+ 80s
+ 120s
+   Total In:
+                                                                  1,282 mL
+                  PO:
+                                                                  1,110 mL
+                  TF:
+   IVF:
+                                                                    172 mL
+   Blood products:
+   Total out:
+                                                                  1,175 mL
+                                                                    850 mL
+   Urine:
+                                                                  1,175 mL
+                                                                    850 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    107 mL
+                                                                   -850 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   Physical Examination
+   GENERAL: Elderly man lying in bed in NAD.
+   HEENT: NCAT. Sclera anicteric. Pupils 3mm
+ 2mm, EOMI.
+   NECK: Supple with JVP of 7 cm.
+   CARDIAC: RRR, normal S1, S2. II/VI systolic murmur at LUSB
+   LUNGS: CTA
+   ABDOMEN: +BS Soft, NTND.
+   EXTREMITIES: 1+ edema bilaterally; 2+ DP pulses
+   SKIN: No rashes.
+   Neuro: CN II-XII intact.  Sensation to light touch intact throughout.
+   4+/5 strength LUE, 4+/5 strength at L foot, 4+/5 left leg and thigh w/
+   flx/ext.  Pt. w/ impaired L eye vision [**1-22**] macular degeneration.
+   Labs / Radiology
+   130 K/uL
+   12.7 g/dL
+   122 mg/dL
+   0.9 mg/dL
+   27 mEq/L
+   4.3 mEq/L
+   19 mg/dL
+   106 mEq/L
+   138 mEq/L
+   34.8 %
+   7.2 K/uL
+        [image002.jpg]
+                            [**2495-12-10**]  02:28 AM
+                            [**2495-12-10**]  11:12 AM
+                            [**2495-12-11**]  04:09 AM
+                            [**2495-12-12**]  04:53 AM
+   WBC
+   7.9
+   6.3
+   7.2
+   Hct
+   34.2
+   35.4
+   34.8
+   Plt
+   129
+   144
+   130
+   Cr
+   0.8
+   0.9
+   0.9
+   TropT
+   0.06
+   Glucose
+   89
+   119
+   122
+   Other labs: PT / PTT / INR:12.4/30.6/1.0,
+   Ca++:8.6 mg/dL, Mg++:2.0 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   85M presenting with chest pain, found to have left main disease on
+   cath, complicated by a Rt ACA CVA and multiple other small infarcts,
+   likely embolic.
+   # CVA.  Likely embolic secondary to plaque embolus from his aorta
+   during the cardiac cath.  Official MRI reports show an acute Rt ACA
+   infarct and multiple small infarcts in his right parietal, right medial
+   occipital, left parietal, and left frontal regions.  Neuro feels that
+   he has completed his stroke.  His left-sided hemiparesis has improved
+   significantly, however he still remains weaker on his left side.
+   Carotid U/S scheduled for today
+   - F/u carotid U/S read.
+   - BG < 150, HISS
+   - Appreciate neuro recs, will f/u.
+   - PT/OT
+   - Will start lovenox bridge to coumadin, pt will need coumadin for at
+   least 3 months given the embolic nature of his stoke.
+   - Will have the patient patient f/u in the outpatient stroke clinic in
+   3 months (appt already made).
+   # CORONARIES: He initially presented with concern for unstable angina
+   and was ruled out by cardiac enzymes; ECG difficult to interpret in
+   setting of LBBB.  Cardiac cath showed LMCA disease.   CABG was
+   considered however given his recent stroke and the risk of open-heart
+   surgery both the surgeons and the family feel it would be better to
+   proceed with medical management at this time.
+   - Continue ASA 81mg
+   - Increase Metoprolol to 12.5 mg [**Hospital1 **] and up-tightrate as tolerated by
+   BPs.
+   - Continue high dose statin
+   - Restart ACEI as tolerated by BPs, likely tomorrow.
+   - Once he recovers from the acute event, can consider continue medical
+   management vs CABG for his left main stem partial blockage.
+   # PUMP: Echo with low-normal EF 50-55% and LVH.  Patient with lower
+   extremity edema on exam, but JVP is 7.  Likely [**1-22**] venous
+   insufficiency.
+   - Will have the patient wear compression stockings to decrease his
+   lower extremity edema.
+   - Gentle diuresis, 20mg IV lasix, for now and f/u lytes.
+   # RHYTHM: Sinus bradycardia on telemetry, however the patient has a
+   reported history of PAF (patient denies).
+   - Continue telemetry.
+   - Patient with need 2 week long monitor as an outpatient to monitor for
+   a.fib (per Dr. [**Last Name (STitle) 2767**] as this would change the length of treatment
+   with coumadin.  If the patient is found to have a.fib, will need
+   lifelong coumadin therapy.
+   # ANEMIA: Hct stable today at 35.4
+   - Follow daily Hct
+   # THROMBOCYTOPENIA: 130s-140s. Low before heparin.  Continue to
+   monitor.
+   # SPINAL STENOSIS:
+   - Pain control with acetaminophen
+   # HYPERTENSION:  Patient currently having low SBP
+   - Holding  ACE, CCB,
+   - continue decreased dose of Metoprolol as above.
+   # LUNG NODULE: Seen on CXR as incidental finding, no priors for
+   comparison.
+   - Will need CT for further eval but will hold off for now, will need
+   f/u as OP.
+   # RIGHT BUTTOCK PRIOR DECUB ULCER SITE: Patient reports this is site of
+   prior decub which occured during hip fracture surgery.  Per his report,
+   was difficult to heal.
+   - Skin care; if worsens, wound consult
+   ICU Care
+   Nutrition:  Cardiac healthy reg. diet.
+   Glycemic Control:  ISS
+   Lines:
+   18 Gauge - [**2495-12-9**] 05:01 PM
+   20 Gauge - [**2495-12-11**] 12:54 AM
+   Prophylaxis:
+   DVT:  lovenox w/ bridge to coumadin.
+   Stress ulcer:  frequent repositioning.
+   VAP:  na
+   Comments:
+   Communication:  Comments:
+   Code status:  FULL
+   Disposition: Floor today.
+
+
+DOC CLASS

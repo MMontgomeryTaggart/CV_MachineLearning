@@ -1,0 +1,240 @@
+Chief Complaint:
+   24 Hour Events:
+   - [**Doctor First Name **] recs no OR
+   - ordered echo
+   - CXR with L collapse/whiteout, CT chest with LLL atelectasis vs
+   collapse.  Rads recs dye in kidney >12hrs since contrast load, rad
+   definition of ATN, watch creatinine
+   - HCT stable
+   - Ucx [**4-13**] GNR
+   - increased PEEP
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Erythromycin - [**2913-4-14**] 01:37 PM
+   Vancomycin - [**2913-4-15**] 08:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2913-4-16**] 12:00 AM
+   Infusions:
+   Dopamine - 2.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2913-4-16**] 07:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.7
+C (98
+   HR: 51 (49 - 76) bpm
+   BP: 87/39(54) {70/35(51) - 134/64(88)} mmHg
+   RR: 20 (13 - 25) insp/min
+   SpO2: 97%
+   Heart rhythm: 1st AV (First degree AV Block)
+             Total In:
+                                                                  4,816 mL
+                                                                    258 mL
+   PO:
+             TF:
+   IVF:
+                                                                  4,546 mL
+                                                                    258 mL
+   Blood products:
+   Total out:
+                                                                    723 mL
+                                                                    225 mL
+   Urine:
+                                                                    723 mL
+                                                                    225 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,093 mL
+                                                                     33 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 15
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   PIP: 25 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 28.6 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.43/42/124/26/3
+   Ve: 6.4 L/min
+   PaO2 / FiO2: 248
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Trach
+   Cardiovascular: Normal S1/S2
+   Respiratory / Chest: Clear anteriorly
+   Abdominal: Soft, Bowel sounds present, Non-distended, diffuse mild TTP,
+   Obese
+   Extremities: 1+ pitting bilat edema
+   Neurologic: Somewhat responsive, follows simple commands.
+   Labs / Radiology
+   180 K/uL
+   9.3 g/dL
+   106 mg/dL
+   1.5 mg/dL
+   26 mEq/L
+   4.0 mEq/L
+   30 mg/dL
+   109 mEq/L
+   145 mEq/L
+   26.8 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**2913-4-14**]  05:13 PM
+                             [**2913-4-14**]  10:00 PM
+                             [**2913-4-15**]  03:10 AM
+                             [**2913-4-15**]  03:33 AM
+                             [**2913-4-15**]  08:51 AM
+                             [**2913-4-15**]  03:26 PM
+                             [**2913-4-15**]  03:40 PM
+                             [**2913-4-15**]  09:02 PM
+                             [**2913-4-16**]  04:02 AM
+                             [**2913-4-16**]  04:10 AM
+   WBC
+   10.8
+   10.0
+   Hct
+   28.2
+   27.4
+   26.4
+   28.1
+   27.9
+   27.5
+   26.8
+   Plt
+   166
+   180
+   Cr
+   1.2
+   1.2
+   1.5
+   TCO2
+   31
+   30
+   29
+   Glucose
+   118
+   127
+   106
+   Other labs: PT / PTT / INR:13.4/29.9/1.1, CK / CKMB /
+   Troponin-T:106/5/0.08, Differential-Neuts:78.0 %, Band:2.0 %,
+   Lymph:13.0 %, Mono:5.0 %, Eos:0.0 %, Fibrinogen:202 mg/dL, Lactic
+   Acid:0.8 mmol/L, Ca++:8.0 mg/dL, Mg++:2.2 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   78 F with MMP including dHF, OSA, s/p trach, HTN, DM, atrial
+   fibrillation on warfarin, history of LGIB [**2-6**] diverticulosis in [**2908**]
+   presents with rectal bleeding.
+   .
+   # BRBPR - likely etiology is diverticulosis given similar presentation
+   in [**2908**] where colonoscopy showed diverticulosis. No evidence of UGI
+   source given overall stability and negative NGL.  Patient was
+   hypotensive but has responded well to IVFthough now on dopamine
+   overnight. Patient initially went emergently to angio but no bleed was
+   identified. Yesterday, she received a colonoscopy which showed old
+   blood, multiple diverticuli but no clear source of bleed. Not a good
+   surgical candidate if rebleeds.  Remains with stable HCT x24hrs
+   post-bleed.
+   - active type and screen
+   - 2 large bore PIV and midline in place
+   - cont to hold warfarin, s/p reversal with FFP, vitamin K, profilnine.
+   - transfuse PRBC as needed.
+   - Q12H HCT
+   - GI, IR following.
+   - Surgery recs not an operative candidate
+   - if rebleeds, would try to get tagged red-cell scan and repeat angio.
+   Patient is not a good surgery candidate.
+   .
+   # Hypotension: Patient with hypotension that persists despite adequate
+   fluid recuscitation.  Remains on dopamine at low dose.  Does not appear
+   to have septic shock, unclear etiology of persistent hypotension.
+   - cont dopamine for now, wean as tolerated
+   - echo today
+   - will hold off diuresis now.
+   - will check random cortisol
+   .
+   # Respiratory failure.  Multifactorial respiratory failure with OSA,
+   CHF, also ?reactive component on multiple nebs. Now CXR overnight
+   appears much worse with left-sided white-out, possibly collapse, also
+   concerning for perforated esophagus. CT chest without e/o esophageal
+   perforation, LLL atelectasis vs collapse but L lung expanded, sm pl
+   effusion, large heart, contrast from angio noted in kidney, radiology
+   recs rad definition of ATN.  CT chest not c/w CXR done earlier AM.  CXR
+   this AM with improved L lung field
+   - daily CXR
+   - continue albuterol and ipratropium nebulizers.
+   - Volume status as above.
+   - CT chest without suggestion of consolidation, does not appear to have
+   PNA.
+   - d/c vanco at this point.
+   - cont PEEP to 10 to maintain patent airways
+   - will wean vent today to PS [**10-14**] at 40%FiO2.
+   .
+   # Bradycardia/NSTEMI.  Troponin bump to 0.13 with normal CK.  Likely
+   demand in setting of large GI losses. Cardiac enzymes trending down.
+   Now on dopamine due to hypotension and bradycardia. Concerning these
+   symptoms could be related to new lung process
+   - discuss with cards.
+   - Adequate transfusion resuscitation.
+   - Hold on ASA, plavix, heparin given magnitude of bleed.
+   - await ECHO
+   .
+   # Chronic dHF- last TTE shows grade I diastolic dysfxn and EF 50-55%
+   - hold lasix, lisinopril given concern for hypotension.
+   - monitor fluid balance once losses stabilize.
+   .
+   # Atrial fibrillation.
+   - hold warfarin.
+   - hold diltiazem
+   .
+   # UTI.  Continuous hospital exposures with risk for resistent
+   organisms.
+   - Zosyn for now and followup cultures.
+   .
+   # Diabetes- seems like this is diet controlled, no diabetes medications
+   on past d/c summaries, [**12-12**] HgbA1c 6.1%
+   - sliding scale insulin
+   .
+   # CKD- stage III, baseline 1.5. Currently 1.2
+   - holding lisinopril and antihypertensives.
+   - per radiology, CT chest with e/o possible ATN due to decreased
+   clearance of contrast dye
+   - avoid overdiuresis in next few days given angio and contrast exposure
+   overnight.
+   .
+   FEN:  NPO for now.  Will consult nutrition for TF recs.  NPO today.
+   Prophylaxis:  Pneumoboots, PPI, bowel regimen
+   Access- 2 18 g PIV.  midline.
+   Code: Full
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2913-4-14**] 01:51 AM
+   Arterial Line - [**2913-4-14**] 07:00 AM
+   18 Gauge - [**2913-4-14**] 07:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

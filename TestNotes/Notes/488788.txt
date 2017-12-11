@@ -1,0 +1,166 @@
+Chief Complaint:
+   24 Hour Events:
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 20 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3094-4-14**] 06:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**96**] AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.1
+C (97
+   HR: 91 (84 - 108) bpm
+   BP: 74/50(54) {74/44(54) - 137/76(91)} mmHg
+   RR: 16 (13 - 31) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 74.4 kg (admission): 91.3 kg
+   Height: 58 Inch
+             Total In:
+                                                                  1,623 mL
+                                                                    317 mL
+   PO:
+                                                                    660 mL
+             TF:
+   IVF:
+                                                                    963 mL
+                                                                    317 mL
+   Blood products:
+   Total out:
+                                                                  1,973 mL
+                                                                  1,740 mL
+   Urine:
+                                                                  1,973 mL
+                                                                  1,740 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -350 mL
+                                                                 -1,423 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ///30/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   259 K/uL
+   8.4 g/dL
+   96 mg/dL
+   0.9 mg/dL
+   30 mEq/L
+   3.1 mEq/L
+   19 mg/dL
+   107 mEq/L
+   144 mEq/L
+   27.8 %
+   6.0 K/uL
+        [image002.jpg]
+                             [**3094-4-9**]  04:40 PM
+                             [**3094-4-10**]  05:20 AM
+                             [**3094-4-10**]  07:40 PM
+                             [**3094-4-11**]  05:45 AM
+                             [**3094-4-11**]  02:39 PM
+                             [**3094-4-12**]  05:45 AM
+                             [**3094-4-12**]  04:00 PM
+                             [**3094-4-13**]  06:07 AM
+                             [**3094-4-13**]  03:57 PM
+                             [**3094-4-14**]  01:15 AM
+   WBC
+   5.9
+   6.8
+   5.7
+   6.8
+   6.0
+   Hct
+   29.1
+   29.2
+   28.5
+   30.6
+   29.2
+   30.5
+   28.6
+   29.8
+   27.8
+   Plt
+   272
+   314
+   294
+   344
+   259
+   Cr
+   0.8
+   0.8
+   0.7
+   0.8
+   0.8
+   0.8
+   0.9
+   0.9
+   0.9
+   0.9
+   Glucose
+   109
+   92
+   75
+   73
+   79
+   76
+   182
+   121
+   138
+   96
+   Other labs: PT / PTT / INR:14.7/27.5/1.3, CK / CKMB /
+   Troponin-T:29//0.03, ALT / AST:24/54, Alk Phos / T Bili:146/1.0,
+   Amylase / Lipase:70/36, Differential-Neuts:75.6 %, Band:0.0 %,
+   Lymph:12.5 %, Mono:7.4 %, Eos:4.1 %, Lactic Acid:1.4 mmol/L,
+   Albumin:2.2 g/dL, LDH:381 IU/L, Ca++:8.2 mg/dL, Mg++:2.1 mg/dL, PO4:3.3
+   mg/dL
+   Assessment and Plan
+ KNOWLEDGE, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ ALTERATION IN NUTRITION
+ BALANCE, IMPAIRED
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ TRANSFERS, IMPAIRED
+ VENTILATION, IMPAIRED
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP)
+ IMPAIRED SKIN INTEGRITY
+ IMPAIRED HEALTH MAINTENANCE
+ HEART FAILURE (CHF), SYSTOLIC, CHRONIC
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3094-3-21**] 04:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

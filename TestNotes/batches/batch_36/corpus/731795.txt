@@ -1,0 +1,276 @@
+Chief Complaint: 59M with h/o anemia, recent H.pylori gastritis
+   transferred for severe respiratory failure on ventilator at OSH after
+   aspiration episode during elective EGD procedure.
+   24 Hour Events:
+   - Overnight chest tube placed on left by thoracic surgery, placed to
+   -20cm suction
+   - pCO2s slowly improving on AC FiO2%:60; Rate:12: TV:550; PEEP:5; with
+   goal rate 12, checking Q1hr ABGs
+   - Received 2-3L NS overnight, lactates peaked at 3.4 and came down to
+   2.6
+   - 4:30am, patient with increased belly rigidity, decreased bowel
+   sounds, KUB without any overt free air, CXR relatively unchanged,
+   ordered for CT torso w/o contrast with wet read of
+   1. Extensive multifocal focal air-space consolidation, L > R.
+   Compatible with known aspiration. L chest tube terminates in the L
+   apex. Small PTX along medial aspect of the L pleural space.
+   2. Trace perihepatic fluid. GB sludge. Mild non-specific fat stranding.
+   No large ascites. No pneumoperitoneum. NGT in stomach. Foley in
+   bladder.
+   - Thoracics worried about esophageal tear, ordered to go down for stat
+   CT chest with PO contrast administered by pulling back OG tube
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2905-3-18**] 10:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2905-3-18**] 11:30 PM
+   Infusions:
+   Midazolam (Versed) - 6 mg/hour
+   Fentanyl (Concentrate) - 125 mcg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2905-3-19**] 08:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**06**] AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.3
+C (99.2
+   HR: 122 (109 - 122) bpm
+   BP: 99/58(70) {99/58(70) - 99/58(70)} mmHg
+   RR: 14 (11 - 28) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+    CVP: 18 (13 - 23)mmHg
+   Total In:
+                                                                  1,365 mL
+                                                                  2,564 mL
+   PO:
+   TF:
+   IVF:
+                                                                    365 mL
+                                                                  2,564 mL
+   Blood products:
+   Total out:
+                                                                    560 mL
+                                                                    607 mL
+   Urine:
+                                                                    560 mL
+                                                                    245 mL
+   NG:
+                                                                    300 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    805 mL
+                                                                  1,957 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (400 - 550) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 28 cmH2O
+   Plateau: 25 cmH2O
+   Compliance: 28.9 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.05/77.[**Numeric Identifier 136**]/114/19/-10
+   Ve: 7.9 L/min
+   PaO2 / FiO2: 114
+   Physical Examination
+   General: sedated, intubated, with chest tube in place  on left lung
+   HEENT: PERRL, OP with tube in place, otherwise clear
+   Neck:  supple, RIJ in place
+   CVS: S1/S2 reg, RRR, no rubs
+   LUNGS:  left CT in place,
+   ABD: midline scar,  soft, nondistended, seems nontender, hypoactive
+   bowel sounds throughout
+   SKIN; no lesions / bruises
+   EXT: pneumoboots in place, 2+ pedal pulses, no edema
+   Access: left A-line in place, R IJ in neck
+   Labs / Radiology
+   88 K/uL
+   14.1 g/dL
+   146 mg/dL
+   2.5 mg/dL
+   19 mEq/L
+   5.7 mEq/L
+   35 mg/dL
+   111 mEq/L
+   141 mEq/L
+   43.5 %
+   2.3 K/uL
+        [image002.jpg]
+                             [**2905-3-18**]  11:39 PM
+                             [**2905-3-19**]  12:37 AM
+                             [**2905-3-19**]  01:40 AM
+                             [**2905-3-19**]  02:35 AM
+                             [**2905-3-19**]  02:41 AM
+                             [**2905-3-19**]  03:36 AM
+                             [**2905-3-19**]  04:40 AM
+                             [**2905-3-19**]  05:49 AM
+                             [**2905-3-19**]  05:52 AM
+                             [**2905-3-19**]  07:40 AM
+   WBC
+   1.8
+   2.3
+   Hct
+   42.5
+   43.5
+   Plt
+   110
+   88
+   Cr
+   2.0
+   2.5
+   TCO2
+   25
+   28
+   24
+   22
+   22
+   22
+   25
+   23
+   Glucose
+   168
+   146
+   Other labs: PT / PTT / INR:14.3/27.9/1.2, CK / CKMB /
+   Troponin-T:278/8/0.01, ALT / AST:31/53, Alk Phos / T Bili:56/0.1,
+   Amylase / Lipase:/71, Differential-Neuts:35.0 %, Band:37.0 %,
+   Lymph:12.0 %, Mono:7.0 %, Eos:0.0 %, Lactic Acid:3.4 mmol/L,
+   Albumin:2.9 g/dL, LDH:254 IU/L, Ca++:7.2 mg/dL, Mg++:3.0 mg/dL, PO4:6.1
+   mg/dL
+   Assessment and Plan
+   59M with h/o anemia, recent H.pylori gastritis transferred for severe
+   respiratory failure on ventilator at OSH after aspiration episode
+   during elective EGD procedure, and now s/p chest tube placement for
+   pneumothorax and suspected sepsis.
+   .
+   # Respiratory failure: Patient arrived with severe respiratory acidosis
+   with difficulty ventilating at OSH with evidence of aspiration there
+   following and EGD. Admit CXR showing bilateral patchy infiltrates and
+   breathing most likely [**12-30**] aspiration pneumonitis with severe
+   bronchospasm. Overnight trialed various ventilation strategies to
+   improve ventilation, including decreasing PEEP, then decreasing rate to
+   allow for increased air exchange with his evidence of severe
+   bronchospasm.  Also CXR showed PTX on left which explains much of his
+   difficulty ventilating, high airway pressures, hypotension, and
+   tachycardia on admission (now s/p chest tube placement overnight) .
+   Could still have obstruction of particles in airway, but ETT was too
+   small to bronch through overnight and would be high risk to change tube
+   given airway edema seen at OSH.  Patient appears more stable this
+   morning s/p left sided chest tube placement for left sided PTX and
+   heavily sedated but not paralyzed.  Patient likely had severe
+   barotraumas in setting of very high pressures at OSH.
+   .
+   - uptitrate versed and fentanyl to control his repiratory drive now ,
+   may need to add propofol this a.m.
+   - monitor left chest tube drainage (about 80cc out serosanguinous
+   fluid) , send fluid for amylase level given local trauma/tear concerns
+   still
+   -continue low intermittent suction at 20 now with chest tube
+   - continue to cover broadly with vanc/zosyn given patient's critical
+   status & aspiration events / bilat opacities on imaging
+   - f/up thoracics recs
+   -start bicarb drip
+   -adjust ventilator settings to improve ventilation (continue  moderate
+   TV today & longer expiratory length)
+   -check ABGs Q1-2 hours today
+   - continue treating bronchospasm with inhaled nebulizers and low RR
+   strategy / prolonged expiratory time
+   - no good evidence for steroids in setting of aspiration
+   PNA/pneumonitis so not continuing
+   -add systemic high dose steroids to combat any bronchospasm issues /
+   methylpred 80 q8hrs
+   .
+   # Sepsis: Patient with leukopenia with 35 bands, hypotension requiring
+   pressors, tachycardia, elevated lactate. CVP 15-18. Currently on
+   levophed.
+   - continue pressors, fluid boluses prn to maintain CVP>10, MAP>65,
+   UOP>30cc/hr
+   - send BCx, sputum Cx, UCx
+   - broad spectrum antibiotics as above with Vanc/Zosyn
+   - trend lactates, CVO2 sat today q8 hours
+   - need to change CVL A-line, will hold off on change of R IJ right now
+   given tenous status / attempt tomorrow
+   .
+   # H. pylori gastritis s/p repeat EGD: Per records, EGD at OSH on day of
+   admission for repeat biopsies for H. pylori which was diagnosed in
+   [**12/2904**] during admission for UGIB and treated with Prevpak and PPI. No
+   good records on findings during EGD today, however, no note of active
+   bleeding
+   -continue to trend CBC/HCTs , no evidence of any active GIB at this
+   time
+   - continue IV PPI [**Hospital1 7**]
+   - maintain active T/S
+   - f/u H. pylori biopsies from OSH
+   .
+   # Acute renal failure: Up from prior baseline of normal renal function,
+   likely component of prerenal and also possible ATN in context of low
+   pressures. [**1-30**] granular casts on urine.  Given very prominent acidosis
+   he may need dialysis so will favor renal team involvement at this
+   juncture.
+   .
+   - renal consult
+   -starting bicarb IV today
+   - renally dose medications
+   - send urine lytes
+   .
+   # Anemia: Hct at recent baseline
+   - maintain active T/S
+   - trend Hct [**Hospital1 7**]
+   # Thrombocytopenia :  Likely due to overwhelming sepsis, HIT considered
+   as well but will continue to monitor and not sending off PF4 studies
+   just yet.
+   - adding DIC labs
+   -Holding heparin for now / pneumoboots only for PPx
+   -continue to trend [**Hospital1 7**]  CBC labs.
+   -f/up smear
+   - f/up fibrinogen
+   .
+   # Hypothyroidism: TSH at OSH was 4.66
+   - continue home levothyroxine dose when OG off suction
+   .
+   # Hyperlipidemia: Not on medications at home, no known history of CAD
+   .
+   # Anxiety:
+   - continue home citalopram when OG off suction
+   .
+   # FEN: NPO for now, OG tube in place
+   # Prophylaxis: Pneumoboots, if no active bleeding and Hct stable, can
+   start SC heparin
+   # Access: OSH RIJ in place, L a-line in place (will change this a.m.)
+   # Restraints: 2 limbs as intubated
+   # Communication: [**Name (NI) 2265**] [**Name (NI) 14451**], wife (H) [**Telephone/Fax (1) 14452**], (C)
+   [**Telephone/Fax (1) 14453**]. ICU consent obtained.
+   # Code:  Full (discussed with wife)
+   # Disposition: ICU pending clinical improvement
+   ICU Care
+   Nutrition:  NPO for now until more stable
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2905-3-18**] 07:38 PM
+   Arterial Line - [**2905-3-18**] 07:41 PM
+   20 Gauge - [**2905-3-18**] 07:41 PM
+   Prophylaxis:
+   DVT: pneumoboots
+   Stress ulcer:  PPI [**Hospital1 7**]
+   VAP:  bundle
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

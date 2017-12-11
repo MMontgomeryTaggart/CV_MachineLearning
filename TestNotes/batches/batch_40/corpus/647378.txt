@@ -1,0 +1,216 @@
+TSICU
+   HPI:
+   71F s/p ex lap, sigmoid colectomy, hartmann's, SBR for perf sigmoid
+   diverticulitis
+   Chief complaint:
+   admit for malaise, fever, decreased PO, lower leg erythema
+   PMHx:
+   Cryptogenic cirrhosis (h/o TIPS, SBP)
+   ESRD (HD started [**9-16**], MWF schedule)
+   Neutropenia treated with neupogen
+   Anemia (HCT 25-30) treated with procrit
+   Hypertension
+   Coronary artery disease
+   Psoriasis
+   Gout treated with prednisone
+   Depression and anxiety
+   Stasis dermatitis
+   Peripheral neuropathy
+   Remote hx breast CA T1N0M0
+   Current medications:
+   Albumin 5% (25g)
+   Calcium Gluconate
+   Fluconazole
+   HYDROmorphone
+   Heparin
+   Insulin
+   Lansoprazole
+   Meropenem
+   MetRONIDAZOLE
+   MethylPREDNISolone
+   Metoprolol
+   Vancomycin
+   24 Hour Events:
+   Post operative day:
+   POD#3 - S/p EX lap, SBR  w/ hartmans  end colostomy
+   Allergies:
+   Sulfonamides
+   Rash; Nausea/[**Last Name (un) **]
+   Edecrin (Oral) (Ethacrynic Acid)
+   Rash;
+   Iodine
+   Unknown;
+   Cipro (Oral) (Ciprofloxacin Hcl)
+   Renal Toxicity;
+   Piroxicam
+   Renal Toxicity;
+   Questran (Oral) (Cholestyramine/Sucrose)
+   Rash;
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Abdominal pain;
+   Last dose of Antibiotics:
+   Vancomycin - [**3175-9-24**] 05:12 PM
+   Meropenem - [**3175-9-25**] 06:14 PM
+   Fluconazole - [**3175-9-25**] 06:58 PM
+   Metronidazole - [**3175-9-25**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**3175-9-25**] 07:29 AM
+   Hydromorphone (Dilaudid) - [**3175-9-25**] 09:17 AM
+   Heparin Sodium (Prophylaxis) - [**3175-9-26**] 02:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3175-9-26**] 04:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**78**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 36.4
+C (97.5
+   HR: 88 (85 - 98) bpm
+   BP: 146/73(105) {132/56(89) - 169/75(109)} mmHg
+   RR: 16 (12 - 46) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 75 kg (admission): 76 kg
+   Height: 65 Inch
+   CVP: 18 (6 - 21) mmHg
+   Total In:
+                                                                  2,480 mL
+                                                                     23 mL
+   PO:
+                                                                     60 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    720 mL
+                                                                     23 mL
+   Blood products:
+                                                                  1,700 mL
+   Total out:
+                                                                  1,242 mL
+                                                                    750 mL
+   Urine:
+                                                                     92 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  1,150 mL
+                                                                    750 mL
+   Balance:
+                                                                  1,238 mL
+                                                                   -727 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: 7.40/40/89.[**Numeric Identifier 119**]/24/0
+   Physical Examination
+   General Appearance: No acute distress, Well nourished
+   HEENT: EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Distended
+   Left Extremities: (Edema: Trace)
+   Right Extremities: (Edema: Trace)
+   Neurologic: (Awake / Alert / Oriented: x 3, x 2, x 1), Follows simple
+   commands, (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   154 K/uL
+   8.6 g/dL
+   82 mg/dL
+   2.8 mg/dL
+   24 mEq/L
+   3.9 mEq/L
+   29 mg/dL
+   107 mEq/L
+   143 mEq/L
+   25.6 %
+   19.3 K/uL
+        [image002.jpg]
+                             [**3175-9-24**]  11:59 AM
+                             [**3175-9-24**]  06:20 PM
+                             [**3175-9-24**]  06:37 PM
+                             [**3175-9-24**]  07:50 PM
+                             [**3175-9-25**]  02:32 AM
+                             [**3175-9-25**]  07:52 AM
+                             [**3175-9-25**]  08:00 AM
+                             [**3175-9-25**]  01:04 PM
+                             [**3175-9-26**]  03:02 AM
+                             [**3175-9-26**]  03:31 AM
+   WBC
+   23.3
+   18.4
+   19.3
+   Hct
+   22.1
+   19.2
+   27.7
+   26.1
+   25.6
+   Plt
+   [**Telephone/Fax (3) 10118**]
+   Creatinine
+   1.7
+   2.1
+   2.8
+   TCO2
+   22
+   31
+   31
+   26
+   Glucose
+   165
+   91
+   89
+   82
+   Other labs: PT / PTT / INR:13.8/35.2/1.2, CK / CK-MB / Troponin
+   T:/3/0.02, ALT / AST:[**8-17**], Alk-Phos / T bili:77/1.9, Fibrinogen:323
+   mg/dL, Lactic Acid:1.1 mmol/L, Albumin:3.6 g/dL, Ca:8.3 mg/dL, Mg:1.9
+   mg/dL, PO4:4.2 mg/dL
+   Assessment and Plan
+   INTESTINE, PERFORATION OF (PERFORATION OF HOLLOW VISCUS), ASCITES, PAIN
+   CONTROL (ACUTE PAIN, CHRONIC PAIN), RENAL FAILURE, CHRONIC (CHRONIC
+   RENAL FAILURE, CRF, CHRONIC KIDNEY DISEASE), DIVERTICULITIS
+   Assessment and Plan: 71F s/p ex lap, sigmoid colectomy, hartmann's, SBR
+   for perf sigmoid diverticulitis
+   Neurologic: Neuro checks Q: 4 hr, Awake, alert, appropriate
+   Pain: dilaudid PCA
+   Cardiovascular: Beta-blocker, Stable; Converted to Metoprolol 37.5 PO
+   TID
+   Pulmonary: stable on NC
+   Gastrointestinal / Abdomen: sips and meds
+   Nutrition: Clear liquids
+   Renal: Albumin 5% 500 mL TID x48 hrs, minimal UOP, Dialysis today
+   Hematology: Serial Hct, Stable at 25
+   Endocrine: RISS, solumedrol for long-term gout
+   Infectious Disease: Tmax 37.1; WBC 19.3 <- 18.4;
+   vanc/[**Last Name (un) 600**]/flagyl/fluc, +VRE, +MRSA history;  Enterococcus UTI on [**9-10**];
+   Peritoneal OR swab with Enterococcus
+   Lines / Tubes / Drains: Surgical drains (hemovac, JP), R tunnelled IJ,
+   L IJ
+   Wounds:
+   Imaging:
+   Fluids: KVO, Albumin 5% 12.5g TID
+   Consults: General surgery, Nephrology
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**3175-9-23**] 11:35 AM
+   Multi Lumen - [**3175-9-23**] 08:41 PM
+   Arterial Line - [**3175-9-24**] 12:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent:
+
+
+DOC CLASS

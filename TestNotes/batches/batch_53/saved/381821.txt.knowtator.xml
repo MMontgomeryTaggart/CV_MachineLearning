@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="381821.txt">
+    <annotation>
+        <mention id="EHOST_Instance_404" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4546" end="4565" />
+        <spannedText>GI bleeding (stable</spannedText>
+        <creationDate>Thu Nov 02 11:46:37 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_407">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_404">
+        <hasSlotMention id="EHOST_Instance_407" />
+        <mentionClass id="bleeding_present">GI bleeding (stable</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_405" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6335" end="6349" />
+        <spannedText># GI BLEEDING:</spannedText>
+        <creationDate>Thu Nov 02 11:46:49 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_408">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_405">
+        <hasSlotMention id="EHOST_Instance_408" />
+        <mentionClass id="bleeding_present"># GI BLEEDING:</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_406" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="8429" end="8438" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Thu Nov 02 11:47:12 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_409">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_410">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_406">
+        <hasSlotMention id="EHOST_Instance_409" />
+        <hasSlotMention id="EHOST_Instance_410" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

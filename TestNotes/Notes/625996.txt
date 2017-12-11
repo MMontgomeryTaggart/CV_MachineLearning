@@ -1,0 +1,160 @@
+24 Hour Events:
+   Renal recs: try and maintain MAPs in the 60-65 range
+   Hepatology recs: will review OSH liver MR, cont nutritional
+   supplementation
+   MAPs in the low 50's with no UOP over 2 hours. Started dopamine gtt at
+   0145 with improvement in MAPs to 57-60. Noted increased O2 requirement
+   around 0230. CXR appeared similar to prior.
+   Gave dose of lasix 40 mg IV x 1 0630 given continued O2 requirement and
+   very minimal increase in UOP (10cc/hr)
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3328-5-5**] 10:00 AM
+   Infusions:
+   Heparin Sodium - 400 units/hour
+   Dopamine - 5 mcg/Kg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**3328-5-6**] 06:36 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3328-5-6**] 06:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36
+C (96.8
+   Tcurrent: 35.2
+C (95.4
+   HR: 75 (46 - 75) bpm
+   BP: 106/53(67) {84/34(50) - 135/77(81)} mmHg
+   RR: 3 (3 - 28) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 63 kg (admission): 55.5 kg
+   Height: 60 Inch
+    CVP: 21 (13 - 22)mmHg
+   Total In:
+                                                                  1,225 mL
+                                                                    133 mL
+   PO:
+                                                                    640 mL
+   TF:
+   IVF:
+                                                                    585 mL
+                                                                    133 mL
+   Blood products:
+   Total out:
+                                                                    332 mL
+                                                                     75 mL
+   Urine:
+                                                                    332 mL
+                                                                     75 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    893 mL
+                                                                     58 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   SpO2: 96%
+   ABG: ///18/
+   Physical Examination
+   Labs / Radiology
+   117 K/uL
+   12.5 g/dL
+   139 mg/dL
+   2.3 mg/dL
+   18 mEq/L
+   4.9 mEq/L
+   81 mg/dL
+   102 mEq/L
+   131 mEq/L
+   37.7 %
+   8.6 K/uL
+        [image002.jpg]
+                             [**3328-5-1**]  06:18 AM
+                             [**3328-5-1**]  03:44 PM
+                             [**3328-5-2**]  03:58 AM
+                             [**3328-5-3**]  05:22 AM
+                             [**3328-5-3**]  08:37 PM
+                             [**3328-5-4**]  04:19 AM
+                             [**3328-5-5**]  05:32 AM
+                             [**3328-5-6**]  04:19 AM
+   WBC
+   7.8
+   11.5
+   11.2
+   10.2
+   8.6
+   8.6
+   Hct
+   38.7
+   40.5
+   38.0
+   34.0
+   35.9
+   37.7
+   Plt
+   115
+   100
+   105
+   101
+   126
+   117
+   Cr
+   1.4
+   1.6
+   1.8
+   1.7
+   2.2
+   2.1
+   2.1
+   2.3
+   TropT
+   4.02
+   4.05
+   Glucose
+   159
+   186
+   137
+   128
+   121
+   107
+   110
+   139
+   Other labs: PT / PTT / INR:15.6/59.9/1.4, CK / CKMB /
+   Troponin-T:971/22/4.05, ALT / AST:99/184, Alk Phos / T Bili:73/0.7,
+   Albumin:2.5 g/dL, LDH:621 IU/L, Ca++:8.3 mg/dL, Mg++:2.4 mg/dL, PO4:4.1
+   mg/dL
+   Assessment and Plan
+ URINARY TRACT INFECTION (UTI)
+ ALTERATION IN ELIMINATION RELATED TO DIARRHEA
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ DELIRIUM / CONFUSION
+ ATRIAL FLUTTER (AFLUTTER)
+ IMPAIRED SKIN INTEGRITY
+ .H/O CARDIOMYOPATHY, OTHER
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3328-5-3**] 04:27 PM
+   Cordis/Introducer - [**3328-5-3**] 08:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

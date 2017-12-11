@@ -1,0 +1,277 @@
+Chief Complaint:
+   HPI:
+   70 yr old man with severe COPD on (steroids high dose) and course of
+   azithromycin, HTN, CHF (cardiomyopathy s/p chemo) lung cancer s/p
+   resection, AAA in [**10-10**] presented with chief compliant of hematemesis.
+   The morning of admission at NH, s/p fall reaching from nightstand with
+   head trauma -- shortly thereafter reports of vomiting blood.  Initial
+   evaluation significant for lactate 2.8, abnormal gallbladder on US
+   thickened wall with edema.  Overnight became cold, clammy, hypotensive
+   with tachypnea and chest pain.  Initially negative cardiac enzymes.
+   Received femoral A-line, venous access, started dopamine peripheral
+   changed to levophed with subsequent tachycardia.  Switched to dopamine
+   and dobutamine.  He received 3L fluid.  Cards TTE preliminary global
+   hypokinesis.  Gas 7.12/42, lactate 7.7.  CT abdomen with PO contrast
+   edematous gallbladder no other significant findings.  TEE unremarkable
+   for dissection, empirically started on heparin for concern of primary
+   cardiac etiology vs PE. Morning of [**10-1**] developed bright red blood per
+   ETT tube.  [**2693-9-29**], able to wean dopamine and dobutamine; however
+   during the day of [**10-2**] he required further dopamine.  RUQ U/S negative
+   for portal vein thrombosis, gall bladder mildly edematous. LENIs
+   negative for DVTs. Given 500cc bolus without any change in UOP.
+   Received platelets [**10-1**] for platelet count 51 in setting of
+   hemoptysis.  Renal consulted yesterday with plans for HD today or
+   tomorrow (unclear if plan to do [**Name (NI) **] or HD.)
+   24 Hour Events:
+   Restarted on dopamine yesterday for intermittent episodes of
+   hypotension. Afebrile. Secretions less bloody.
+   Allergies:
+   Univasc
+ Cough;
+   Lipitor
+ leg cramps;
+   Vitamin E
+ epistaxis;
+   Ambien
+ disorientation
+   Last dose of Antibiotics:
+   Vancomycin - [**2771-10-1**] 02:20 PM
+   Metronidazole - [**2771-10-2**] 10:00 AM
+   Piperacillin - [**2771-10-3**] 12:00 AM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Dopamine - 4 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2771-10-2**] 03:34 PM
+   Other medications:
+   Metoprolol 12.5 [**Hospital1 **]
+   Hydrocort 50 q6h
+   RSSI
+   Neurontin 200 QHS
+   Folic acid 1mg Q24h
+   MVI 1 tab Q24h
+   Zocor 20mg Q24h
+   Fluticasone inhaler [**Hospital1 **]
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2771-10-3**] 07:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 35.7
+C (96.3
+   HR: 86 (69 - 88) bpm
+   BP: 118/68(85) {69/41(50) - 130/69(90)} mmHg
+   RR: 10 (10 - 21) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+   CVP: 11 (7 - 22)mmHg
+   Mixed Venous O2% Sat: 69 - 69
+   Total In:
+                                                                  1,829 mL
+                                                                    492 mL
+   PO:
+   TF:
+                                                                    175 mL
+                                                                    224 mL
+   IVF:
+                                                                  1,654 mL
+                                                                    268 mL
+   Blood products:
+   Total out:
+                                                                    150 mL
+                                                                     20 mL
+   Urine:
+                                                                    150 mL
+                                                                     20 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,679 mL
+                                                                    472 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 484 (484 - 803) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 14
+   PEEP: 12 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 21 cmH2O
+   SpO2: 97%
+   ABG: 7.26 / 36 / 86
+   Ve: 570 L/min
+   PaO2 / FiO2: 174
+   Physical Examination
+   Gen: intubated, sedated.
+   HEENT: ETT in place. Punctate hemorrhages in conjunctiva.
+   CV: Soft HS
+s, S1S2 RRR w/o m/r/g
+   Lungs: CTA bilaterally on anterior exam, mild / moderate expiratory
+   wheezing. No appreciable crackles.
+   Ab: Positive BS
+s. Soft. NT/ND.
+   Ext: Upper extremities becoming more edematous. No c/c.
+   Neuro: Sedated, intubated.
+   Labs / Radiology
+   12.7 g/dL
+   65 K/uL
+   142 mg/dL
+   5.3 mg/dL
+   16 mEq/L
+   5.1 mEq/L
+   114 mg/dL
+   103 mEq/L
+   137 mEq/L
+   38.2 %
+   19.0 K/uL
+        [image002.jpg]
+                             [**2771-10-1**]  12:40 PM
+                             [**2771-10-1**]  01:13 PM
+                             [**2771-10-1**]  07:45 PM
+                             [**2771-10-2**]  03:01 AM
+                             [**2771-10-2**]  01:20 PM
+                             [**2771-10-2**]  02:21 PM
+                             [**2771-10-2**]  05:05 PM
+                             [**2771-10-2**]  05:48 PM
+                             [**2771-10-3**]  03:03 AM
+                             [**2771-10-3**]  06:17 AM
+   WBC
+   14.8
+   16.6
+   16.8
+   19.0
+   Hct
+   30.9
+   32.7
+   34.7
+   37.2
+   38.2
+   Plt
+   106
+   69
+   61
+   67
+   65
+   Cr
+   3.4
+   3.7
+   4.0
+   5.3
+   TropT
+   10.00
+   7.67
+   7.26
+   TCO2
+   21
+   18
+   19
+   17
+   Glucose
+   107
+   103
+   97
+   142
+   Other labs: PT / PTT / INR:20.7/39.2/1.9, CK / CKMB /
+   Troponin-T:68/26/7.26, ALT / AST:2530/636, Alk Phos / T Bili:125/2.9,
+   Amylase / Lipase:190/19, Differential-Neuts:96.7 %, Band:19.0 %,
+   Lymph:1.4 %, Mono:1.9 %, Eos:0.0 %, D-dimer:6308 ng/mL, Fibrinogen:222
+   mg/dL, Lactic Acid:1.6 mmol/L, LDH:905 IU/L, Ca++:7.6 mg/dL, Mg++:2.5
+   mg/dL, PO4:7.6 mg/dL
+   Assessment and Plan
+   70 yr old man with severe COPD on (steroids high dose), HTN, CHF, lung
+   cancer s/p resection, AAA with extensive AA graft who developed acute
+   cardiogenic shock and hemoptysis; etiology unclear but most likely
+   etiology is cardiogenic shock most likely [**3-6**] MI.
+   1)       Shock: Unclear initial etiology
+ PE vs primary cardiac
+   process. No e/o DVT in LEs. Could not pursue CTA given renal failure
+   and V/Q scan would be difficult to perform and interpret in the setting
+   of critical illness and severe COPD. He is not on anticoagulation [**3-6**]
+   significant hemoptysis. Hold on aspirin. Now on beta-blocker. Continue
+   statin. Suspect that his persistent current hypotension may be
+   exacerbated by his significant volume overload and increased afterload
+ he may markedly improve with HD and some volume removal. Would change
+   Hydrocort to Prednisone today with plans for a long (2 week at least)
+   taper.
+   2)       Respiratory: Intubated initially for airway protection in the
+   setting of altered mental status. CO2 remains low in setting of
+   mechanical ventilation. Continues to tolerate pressure support [**1-10**]
+   with very good tidal volumes. Continue daily SAT and SBTs as tolerated.
+   Continue to treat the GNRs in his sputum with continued Zosyn.
+   3)       ID: Only positive micro data is GNRs in sputum. D/c
+ed Vanc
+   and Flagyl but would continue Zosyn. Follow cultures and clinical
+   status.
+   4)       Renal: Appreciate Renal assistance. Urine sediment c/w ATN
+   (muddy brown casts.) Remains oliguric; now ~11 liters up during this
+   hospitalization. Plan for dialysis catheter today and HD versus [**Month/Day (4) **]
+   today or tomorrow.
+   5)       Cardiac: Not cycling enzymes now that infarct appears to have
+   completed. Low dose beta-blocker as above. Continue statin. Off
+   dobutamine.
+   6)       Heme: Positive DIC panel
+ unclear why this is positive. INR
+   remains elevated at 1.9
+ will need FFP prior to placing HD catheter.
+   Thrombocytopenia persists. No e/o active bleeding (persistent but
+   improved mild bloody secretions in the ETT suction.) Follow H/H,
+   transfusion goal > 30% in setting of CAD / possible cardiogenic shock.
+   7)       F/E/N: TFs. Follow / replete
+lytes in setting of renal
+   failure.
+   8)       Liver: Transaminases improving. Likely improving shock liver.
+   Monitor LFTs, bili, INR.
+   9)       Endo: RSSI, follow sugars. Change Hydrocortisone to Prednisone
+   today as above.
+   10)   Code: full; Access: D/c art line today; Dispo: MICU.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**2771-10-2**] 12:30 PM 30 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2771-9-30**] 02:56 AM
+   Multi Lumen - [**2771-9-30**] 05:23 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :
+   Total time spent:
+   ------ Protected Section ------
+   Critical Care Staff Addendum
+   7:30p
+   I saw and examined the patient with Dr. [**Last Name (STitle) **], the ICU fellow, whose
+   note reflects my input.  I would add/emphasize:
+   Very ill 70 y/o man with complicated PMH as detailed above and in chart
+   now with respiratory failure, shock, and acute renal failure.  The
+   shock is of somewhat uncertain etiology and clinically appears to be
+   mixed.  He has responded well to treatment and is now down to low-dose
+   dopamine.  He has evidence of global hypoperfusion, with shock liver
+   and ATN.  Reasonable to begin to taper steroids at this point; would
+   use methylprednisolone given his liver injury.  Given COPD, will also
+   check autoPEEP.  The respiratory failure is related to the shock and
+   also to likely pneumonia, as well as his underlying COPD, though
+   ventilation and oxygenation have major challenges in the past day.
+   Finally, he has dense oliguric renal failure.  While he may improve, he
+   is not likely to do so in the next few days and I agree with renal that
+   dialysis is reasonable in this setting.  Other issues as per Dr.
+   [**Last Name (STitle) **]
+ note.
+   CC time: 35 minutes
+   ------ Protected Section Addendum Entered By:[**Name (NI) 140**] [**Last Name (NamePattern1) 805**], MD
+   on:[**2771-10-3**] 21:29 ------
+
+
+DOC CLASS

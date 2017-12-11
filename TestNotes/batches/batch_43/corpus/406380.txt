@@ -1,0 +1,206 @@
+CVICU
+   HPI:
+   [**7-18**] POD 31/11
+   73M s/p urgentCABG x 3(LIMA-LAD,SVG-OM2,SVG-PDA)/AVR(21mm CE Magna)/
+   MVR(27mm Mosaic [**Company 1958**] Porcine) [**6-17**] trach and PEG [**7-7**]
+   CEFTRIAXONE - uti F/u SENSITIVES
+   Antibx: vanco-zosyn- coag pos staph-blood
+   EF:55%, Cr:0.9 , wt:128 kgs, HbA1c: 7.1
+   PMH: DM2, ^chol, Depression, OA, Prostate CA, Obesity, Bilat TKR, ORIF
+   Rt femur [**2635-2-18**], Appy, lft shoulder surgery, TURP
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen , Albuterol-Ipratropium , Albuterol 0.083% Neb Soln ,
+   Amiodarone,  Argatroban , Aspirin,Atorvastatin , Bacitracin Ointment
+   ,Calcium Gluconate , Chlorhexidine Gluconate 0.12% Oral Rinse,
+    Dextrose 50% ,Digoxin , Docusate Sodium (Liquid) , Furosemide, Insulin
+   , Ipratropium Bromide Neb , Lorazepam,  Magnesium Sulfate , Metoprolol
+   Tartrate , Metolazone,  Milk of Magnesia , Paroxetine , Potassium
+   Chloride, Ranitidine (Liquid) , Sodium Chloride 0.9% Flush ,   TraMADOL
+   (Ultram) ,Vancomycin , Warfarin
+   24 Hour Events:
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Vancomycin - [**2635-7-17**] 10:30 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2635-7-17**] 05:18 PM
+   Coumadin (Warfarin) - [**2635-7-17**] 06:26 PM
+   Other medications:
+   Flowsheet Data as of  [**2635-7-18**] 05:12 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**38**] a.m.
+   Tmax: 37.7
+C (99.9
+   T current: 36.4
+C (97.6
+   HR: 122 (88 - 125) bpm
+   BP: 129/54(72) {102/46(65) - 140/76(90)} mmHg
+   RR: 28 (15 - 30) insp/min
+   SPO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 132.4 kg (admission): 129 kg
+   Height: 70 Inch
+             Total In:
+                                                                  2,608 mL
+                                                                  1,661 mL
+   PO:
+             Tube feeding:
+                                                                  2,088 mL
+                                                                  1,476 mL
+   IV Fluid:
+                                                                    370 mL
+                                                                    185 mL
+   Blood products:
+   Total out:
+                                                                  2,918 mL
+                                                                  1,970 mL
+   Urine:
+                                                                  2,750 mL
+                                                                  1,740 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -310 mL
+                                                                   -309 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask , Tracheostomy tube
+   Ventilator mode: Standby
+   Vt (Spontaneous): 104 (104 - 468) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 92
+   PIP: 0 cmH2O
+   SPO2: 97%
+   Ve: 9.2 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands
+   Labs / Radiology
+   250 K/uL
+   8.4 g/dL
+   145 mg/dL
+   1.9 mg/dL
+   32 mEq/L
+    3.5 mEq/L
+   72 mg/dL
+   103 mEq/L
+   143 mEq/L
+   25.6 %
+   8.4 K/uL
+        [image002.jpg]
+                             [**2635-7-12**]  05:14 AM
+                             [**2635-7-13**]  12:02 AM
+                             [**2635-7-14**]  05:05 AM
+                             [**2635-7-15**]  04:00 AM
+                             [**2635-7-15**]  08:32 PM
+                             [**2635-7-16**]  03:24 AM
+                             [**2635-7-16**]  12:00 PM
+                             [**2635-7-16**]  06:00 PM
+                             [**2635-7-17**]  03:44 AM
+                             [**2635-7-18**]  02:08 AM
+   WBC
+   8.4
+   8.4
+   7.0
+   6.8
+   7.0
+   8.4
+   8.4
+   Hct
+   26.7
+   26.9
+   26.3
+   25.8
+   27.8
+   26.1
+   26.0
+   25.6
+   Plt
+   235
+   237
+   227
+   [**Telephone/Fax (3) 8289**]
+   250
+   Creatinine
+   2.1
+   2.1
+   2.1
+   2.0
+   1.9
+   1.8
+   1.9
+   Glucose
+   176
+   123
+   137
+   146
+   150
+   169
+   174
+   144
+   145
+   Other labs: PT / PTT / INR:21.6/30.6/2.0, ALT / AST:28/21, Alk-Phos / T
+   bili:50/0.8, Amylase / Lipase:26/185, Differential-Neuts:85.4 %,
+   Band:0.0 %, Lymph:8.1 %, Mono:4.3 %, Eos:1.9 %, Fibrinogen:280 mg/dL,
+   Lactic Acid:1.4 mmol/L, Albumin:3.3 g/dL, LDH:328 IU/L, Ca:8.9 mg/dL,
+   Mg:2.6 mg/dL, PO4:3.6 mg/dL
+   Imaging: CXR: increased vascular markings
+   Microbiology: neg
+   Assessment and Plan
+   INEFFECTIVE COPING, PLEURAL EFFUSION, ACUTE, RESPIRATORY FAILURE, ACUTE
+   (NOT ARDS/[**Doctor Last Name 11**]), CORONARY ARTERY BYPASS GRAFT (CABG), VALVE REPLACEMENT,
+   MITRAL MECHANICAL (MVR), VALVE REPLACEMENT, AORTIC MECHANICAL (AVR)
+   Assessment and Plan: Pt. doing very post op on trach collar.  Chest
+   tube d/c'd without incident.  Plan for rehab on Mon.
+   Neurologic:
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: Trach
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding
+   Renal: Foley, Adequate UO
+   Hematology: Serial Hct
+   Endocrine: RISS
+   Infectious Disease: neg
+   Lines / Tubes / Drains: Foley, J-Tube, Chest tube - pleural , chest
+   tube d/c'd
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2635-7-18**] 10:56 AM 87 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2635-7-8**] 12:24 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

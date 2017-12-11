@@ -1,0 +1,300 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**10-24**]
+   - s/p HD, tolerated well, will do again today
+   - iss was changed from 50 to 45 lantus, pt was hypoglycemic at 5am to
+   34 recieved 1 and [**12-5**] amp of Dextrose
+   - zosyn at q8h.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3057-10-25**] 05:44 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3057-10-24**] 08:00 PM
+   Dextrose 50% - [**3057-10-25**] 05:20 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3057-10-25**] 07:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 37.9
+C (100.2
+   HR: 106 (97 - 110) bpm
+   BP: 115/50(66) {96/37(51) - 144/94(100)} mmHg
+   RR: 19 (15 - 29) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 81.7 kg (admission): 92 kg
+   Height: 62 Inch
+             Total In:
+                                                                  2,170 mL
+                                                                    553 mL
+   PO:
+             TF:
+                                                                    720 mL
+                                                                    213 mL
+   IVF:
+                                                                    700 mL
+                                                                    171 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  2,083 mL
+                                                                    465 mL
+   Urine:
+                                                                    433 mL
+                                                                    165 mL
+   NG:
+   Stool:
+                                                                  1,150 mL
+                                                                    300 mL
+   Drains:
+   Balance:
+                                                                     87 mL
+                                                                     88 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 534 (534 - 534) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 26
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 16 cmH2O
+   SpO2: 96%
+   ABG:
+                                     pH
+                                    7.24
+                                    pCO2
+                                     51
+                                     pO2
+                                     43
+                                    HCO3
+                                     23
+                                   BaseXS
+                                     -5
+   Ve: 10 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   250 K/uL
+   9.1 g/dL
+   21 mg/dL
+   3.2 mg/dL
+   21 mEq/L
+   3.6 mEq/L
+   39 mg/dL
+   114 mEq/L
+   148 mEq/L
+   29.3 %
+   6.9 K/uL
+         [image002.jpg]
+                            [**3057-10-19**]  01:13 PM
+                            [**3057-10-20**]  04:43 AM
+                            [**3057-10-21**]  04:58 AM
+                            [**3057-10-22**]  05:17 AM
+                            [**3057-10-23**]  04:20 AM
+                            [**3057-10-23**]  08:45 AM
+                            [**3057-10-23**]  09:06 PM
+                            [**3057-10-24**]  04:13 AM
+                            [**3057-10-24**]  05:00 PM
+                            [**3057-10-25**]  03:41 AM
+   WBC
+   12.7
+   11.3
+   8.3
+   8.0
+   7.1
+   6.9
+   Hct
+   26.9
+   26.0
+   25.8
+   21.6
+   21
+   24.7
+   24.7
+   28.4
+   29.3
+   Plt
+   [**Telephone/Fax (3) 9252**]84
+   191
+   250
+   Cr
+   2.0
+   2.9
+   3.5
+   3.9
+   4.3
+   4.3
+   3.2
+   3.2
+   TCO2
+   20
+   Glucose
+   115
+   172
+   139
+   224
+   163
+   84
+   102
+   84
+   21
+   Other labs: PT / PTT / INR:14.1/28.3/1.2, CK / CKMB /
+   Troponin-T:366/27/7.99, ALT / AST:23/72, Alk Phos / T Bili:579/0.9,
+   Amylase / Lipase:/7, Differential-Neuts:82.2 %, Band:0.0 %, Lymph:12.9
+   %, Mono:3.2 %, Eos:1.4 %, D-dimer:2458 ng/mL, Fibrinogen:765 mg/dL,
+   Lactic Acid:1.9 mmol/L, Albumin:2.1 g/dL, LDH:421 IU/L, Ca++:7.8 mg/dL,
+   Mg++:1.9 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   57 yo F c HTN, DM, HLP p/w acute inferior STEMI, cardiogenic shock.
+   .
+   # Neuro: Lethargic, arousable, looks tired today.  Uremia may
+   contribute.
+   Earlier reduction of fentanyl patch clearly helped MS, as did lactulose
+   for a brief period.  She is currently off of lactulose and rifaxamin
+   and hepatic encephalopathy is not thought to be contributing.  Classic
+   picture of toxic metabolic, will likely clear with leg closure,
+   increase HD clearance.
+   - failed Passy-Muir trial, will retry later in hospitalization
+   .
+   # ID:  WBC has now completely resolved, fevers are low grade at best
+   off tylenol. Early fevers [**1-5**] multiple nidi, including triple lumen,
+   CVVH line, sacral skin break down, tracheal secretions, leg wound being
+   open and foley catheter.  Currently residual low grade fevers likely
+   [**1-5**] chronic inflammation in leg.
+   - All cx data negative
+   - continue Vanc and  Zosyn, and plan to define course after closure
+   .
+   # Renal:  ARF likely started before presentation to [**Hospital1 1**]. Likely from
+   poor forward flow from initial cardiogenic failure. Now with muddy
+   brown casts on urine analysis. Hyperkalemia to 6.8 and anuria
+   immediately post cath. Complicated by rhabdomyolysis with CK to [**Numeric Identifier **].
+   CK now downtrending.  Trial off CVVH was not successful, patient
+   appears to be dialysis dependent.
+   - Started HD [**10-24**] has now tolerated off pressors x 2
+   .
+   # Respiratory distress:  Now tolerating trach mask for increasing
+   amounts of time, continue trach mask training
+   - trach mask as tolerated
+   - monitor fluid status and RR, continue trach mask trials
+   .
+   # Heme: Early anemia and thrombocytopenia are likely components due to
+   blood loss from open fasciotomy, contributory factors include dilution
+   from large volume IV repletion.  Heparin is now being maintained off.
+   S/p transfusion of 19.5u pRBC, 2u FFP, 2u platelets, 2units Cryo thus
+   far.  Plt count now below 100 however increasing.  HIT ab was negative
+   x1 2^nd is pending.  Her coagulopathy was likely [**1-5**] /hepatic
+   insufficiency given improvement of coags and plts/HCT with factor
+   repletion.
+   - transfused 1u yesterday and 1 unit the day before with appropriate
+   Hct increase
+   - continue to monitor Hct
+   - renal rec
+ on epo, with Iron
+   .
+   # GI: ileus
+ Patient now having regular BMs off of lactulose.  NGT
+   found to be in prox duodenum on CT abd/pel s/p 2 pullbacks. TF held per
+   GI. Hepatic dysfunction contributing to this picture. Had
+   melenotic/frankly bloody bm [**10-7**], put on IV PPI.
+   - off IV PPI, now on PO 40mg [**Hospital1 **]
+   - BM regimen, hold lactulose
+   - on tube feeds, tolerating advanced diet
+   .
+   .
+   # compartment sx
+ Likely developed [**1-5**] IABP use.  IABP now removed,
+   patient s/p LLE fasciotomy.  Wound VAC placed.
+   - per Vsurg: to OR in AM for closure
+   - serial pulses
+   .
+   # IDDM
+ insulin gtt, [**Last Name (un) **]-stim is negative for adrenal insufficiency.
+   - d/c
+d NPH [**Hospital1 **] and transitioned to lantus and ISS to uptitrate.
+   - appreciate continued follow up by [**Last Name (un) 291**]
+   .
+   # Elevated LFTs: Markedly elevated. Likely shock liver and rhabdo.
+   -          Now WNL
+   -          Following alk phos, ggt pending
+   .
+   # Acute inferior STEMI in distal LAD wrap-around territory: S/P BMS to
+   LMCA and LAD.   BB was held until more hemodynamically stable.
+   Initially in cardiogenic shock with poor cardiac output (CI 1.7-1.9),
+   now improved to CI 3.1 this AM on levophed gtt.  Elevated PA diastolic
+   / CVP.  Off IABP s/p development of compartment sx in LLE.  Reached
+   goal CVP >12 for fluid resuscitated.  in NSR/sinus tach but had an
+   episode of sinus arrest in cath lab. Off temp pacer at this time.  last
+   TTE shows apical dyskinesis
+ patient had been on heparin gtt but
+   stopped [**1-5**] bleeding concerns.  Doing well off pressors.  Converted to
+   sinus with amiodarone and  BB.   Currently in and out of sinus tach,
+   responsive to beta-blockers.
+   - Continue ASA, plavix, no statin due to increased CPK levels.
+   .
+   # HTN: Hold home hypertensive regimen until more HD stable.
+   .
+   # Hyperlipidemia
+ Holding statin in setting of rhabdomyolysis /
+   transaminitis/acute illness.
+   .
+   # FEN: On tube feeds at goal.
+   # PROPHYLAXIS:
+   - DVT ppx if HCT stable
+ SQ heparin
+   - pain management IV fentanyl
+   - bowel regimen (senna + colace), lactulose
+   .
+   # CODE: full
+   .
+   # COMM: Family, Daughter ([**Doctor First Name 5484**]) is HCP. [**Telephone/Fax (1) 8693**] home,
+   [**Telephone/Fax (1) 8694**] cell. Spoke with patient
+s family yesterday morning.
+   .
+   # DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3057-10-24**] 02:42 PM 30 mL/hour
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3057-10-12**] 06:00 PM
+   PICC Line - [**3057-10-12**] 06:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   Medical Decision Making
+   Patient seen and examined on [**10-25**] but note not available for
+   cosigning.
+   Plan outlined on work rounds and detailed above.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) **], MD
+   on:[**3057-10-26**] 08:21 ------
+
+
+DOC CLASS

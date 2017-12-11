@@ -1,0 +1,243 @@
+Chief Complaint: pancreatitis, ARDS, failure to wean from vent
+   24 Hour Events:
+   - did not tolerate PS.  Tachypneic/hypoxic to 88%
+   - Diuresed with lasix and diuril (only needed 1 dose of 500)
+   - family did not come in but called and will be here for family mtg
+   Friday between 2:30-3pm
+   - SBP in the 90s at 9pm...held evening dose metoprolol...HR 120s
+   - at 10PM, BP improved, got 5mg metoprolol, and another 5mg at 1 AM
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3088-12-26**] 08:00 PM
+   Meropenem - [**3088-12-27**] 06:00 AM
+   Infusions:
+   Insulin - Regular - 3 units/hour
+   Furosemide (Lasix) - 15 mg/hour
+   Propofol - 75 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3088-12-26**] 08:21 AM
+   Heparin Sodium (Prophylaxis) - [**3088-12-27**] 12:00 AM
+   Metoprolol - [**3088-12-27**] 06:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3088-12-27**] 07:29 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.4
+C (99.4
+   HR: 105 (92 - 131) bpm
+   BP: 79/54(63) {75/51(60) - 117/71(87)} mmHg
+   RR: 27 (22 - 39) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+    CVP: 17 (13 - 26)mmHg
+   Total In:
+                                                                  4,899 mL
+                                                                  1,330 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,837 mL
+                                                                    717 mL
+   Blood products:
+   Total out:
+                                                                  5,510 mL
+                                                                  1,875 mL
+   Urine:
+                                                                  5,210 mL
+                                                                  1,600 mL
+   NG:
+                                                                    300 mL
+                                                                    275 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -611 mL
+                                                                   -545 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: PRVC/AC
+   Vt (Set): 450 (450 - 500) mL
+   Vt (Spontaneous): 0 (0 - 0) mL
+   PS : 12 cmH2O
+   RR (Set): 26
+   RR (Spontaneous): 0
+   PEEP: 15 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 28 cmH2O
+   Plateau: 25 cmH2O
+   Compliance: 45 cmH2O/mL
+   SpO2: 93%
+   ABG: 7.40/58/70/34/8
+   Ve: 10.3 L/min
+   PaO2 / FiO2: 175
+   Physical Examination
+   General Appearance: Well nourished, Overweight / Obese
+   Head, Ears, Nose, Throat: Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Clear, no wheezes, crackles or
+   rhonchi
+   Extremities: Right: 1+, Left: 1+, 1+ UEE b/l
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   460 K/uL
+   11.3 g/dL
+   91 mg/dL
+   1.7 mg/dL
+   34 mEq/L
+   4.2 mEq/L
+   74 mg/dL
+   102 mEq/L
+   145 mEq/L
+   31.9 %
+   15.1 K/uL
+        [image002.jpg]
+                             [**3088-12-25**]  04:40 AM
+                             [**3088-12-25**]  11:08 AM
+                             [**3088-12-25**]  03:40 PM
+                             [**3088-12-25**]  09:42 PM
+                             [**3088-12-26**]  03:22 AM
+                             [**3088-12-26**]  03:37 AM
+                             [**3088-12-26**]  05:28 AM
+                             [**3088-12-26**]  05:37 PM
+                             [**3088-12-27**]  03:23 AM
+                             [**3088-12-27**]  03:28 AM
+   WBC
+   15.7
+   15.1
+   Hct
+   33.1
+   31.9
+   Plt
+   455
+   460
+   Cr
+   1.3
+   1.3
+   1.7
+   TCO2
+   37
+   36
+   38
+   38
+   38
+   37
+   37
+   Glucose
+   111
+   87
+   91
+   Other labs: PT / PTT / INR:13.6/23.7/1.2, CK / CKMB /
+   Troponin-T:919/4/1.16, ALT / AST:102/150, Alk Phos / T Bili:286/0.9,
+   Amylase / Lipase:145/37, Differential-Neuts:79.0 %, Band:7.0 %,
+   Lymph:9.0 %, Mono:5.0 %, Eos:0.0 %, Lactic Acid:1.1 mmol/L, Albumin:2.2
+   g/dL, LDH:659 IU/L, Ca++:8.9 mg/dL, Mg++:2.7 mg/dL, PO4:6.7 mg/dL
+   Imaging: [**3088-12-27**] daily am CXR while on vent (per my read):
+   -- ? slight improvement in bibasilar atalectasis vs. film from [**3088-12-26**],
+   though may be [**1-21**] timing w/ insp cycle
+   -- No significant change from [**3088-12-26**]
+   Microbiology: [**3088-12-24**] BCx std + mycotic: NTGD
+   [**3088-12-24**] R IJ Cath tip: mixed flora, ?contam, not further speciated
+   [**3088-12-23**] BCx: NTDG
+   [**3088-12-22**] BCx x 3: NGTD
+   [**3088-12-22**] Sputum: NG
+   [**3088-12-21**] Sputum: rare growth GNR, not yet speciated
+   Assessment and Plan
+   Mr. [**Known patient lastname 7194**] is a 63 year old male with extensive cardiac history,
+   admitted with pancreatitis complicated by ARDS and necrosis.
+    #) Failure to Wean, Respiratory failure: ventilation and oxygenation
+   ok; difficulty weaning with VS instability  & tachypnea with PSV.
+   Resistance calculated at 4, compliance 48 this morning.  Poor
+   compliance likely from chest wall edema, ? pancreatitis causing local
+   inflammation and ARDS.  TG stable.
+   -- continue sedation with propofol 75 cc/hr; decrease as tolerated
+   -- fentanyl 50 patch for pain control; may need boluses.
+   -- will keep I/O goal even today; renal function decreasing which is
+   limiting further diuresis
+   -- family meeting to discuss goals of care and possibility of trach
+   (has been on the vent for 12 days now) is planned for afternoon of
+   [**3088-12-28**]
+    #) Ileus: + BS now with decreased NG tube output, though still no BM
+   in over one week; KUB
+s earlier in week were negative for
+   obstruction.   Likely [**1-21**] pancreatitis.   Lots of biliary secretions
+   above ET tube; aspiration risk.
+   -- cont Reglan and PO narcan
+    #) Hypotensive: [**Last Name **] problem; given bump in Cr and lowish CVP, starting
+   to dry out now; PEEP likely impeding venous return causing hypotension
+   -- no need for boluses at this point
+   -- decrease PEEP
+   #) ARF: Cr bumped from 1.3 to 1.7 overnight likely from
+   contrast-induced nephropathy (CT performed on [**12-25**]) and volume
+   contraction.  Possibly also med effect , possibly from vancomycin
+   -- will run I/O
+s even w/o goal negative; will hold on giving back IVF
+   at this point
+   -- monitor UOP; was good overnight w/ little concern for obstruction
+   -- renally dose medicines.
+   #) Necrotic Pancreatitis: Patient with severe, acute pancreatitis.
+   Based on gallstones seen on CT from OSH (per surgery
+s evaluation of
+   this imaging), and based on improvement in LFT
+s and CBD, story is most
+   consistent with gallstone pancreatitis. No history of EtOH use or
+   elevated triglycerides.   CT from [**12-25**] showed necrotic pancreas, but no
+   drainable fluid collection to tap.  Will cont treating empirically for
+   infected pancreatic necrosis given persistent fevers and rising WBC off
+   abx, though no way to know for sure.
+   -- supportive care; NPO
+   -- cont insulin drip for glucose control
+   -- will need cholecystitis in the long-term
+   -- cont [**Last Name (un) 411**]
+   #) Fevers: has been afebrile overnight; WBC stable with bandemia; vanco
+   level high today
+   -- hold today
+s vanco dose; check in am
+   -- cont [**Last Name (un) 411**] but renally dose
+   #) Rising LFT
+s: recent abd CT showed patent portal vein & ? small
+   hepatic cysts; likely med effect (? Antibiotics)
+   -- will cont to trend (somewhat higher on [**12-27**] though not increasing at
+   same rate as earlier in week)
+   -- will consider RUQ US if continues to increase; nothing seen on
+   recent abd CT that is concerning for hepatic process
+   #) Hypernatremia: stable now; cont to follow
+   ICU Care
+   Nutrition:
+   TPN without Lipids - [**3088-12-26**] 05:58 PM 83.[**Telephone/Fax (5) 6038**] mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3088-12-15**] 10:18 PM
+   PICC Line - [**3088-12-20**] 04:50 PM
+   Multi Lumen - [**3088-12-24**] 04:27 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments: Unable to wean from sedation due to
+   tachycardia/tachypnea/hypertension when sedation is decreased; no daily
+   wake-ups or RSBI
+   Communication: ICU consent signed Comments: Fam meeting planned for
+   [**3088-12-28**] at 2:30 pm (to to discuss goals of care and possibility of trach
+   (has been on the vent for 12 days now))
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

@@ -1,0 +1,246 @@
+Admission Date:  [**2504-7-15**]              Discharge Date:   [**2504-7-21**]
+
+Date of Birth:  [**2424-3-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2046**]
+Chief Complaint:
+palpitations at home
+
+Major Surgical or Invasive Procedure:
+VT ablation [**7-16**]
+
+History of Present Illness:
+80 y/o woman with known CAD s/p 2 vessel CABG (10 yrs ago),
+ischemic cardiomyopathy, CHF last echo [**5-11**] (EF 25%), moderate
+to severe MR, LBBB, persistent Afib (s/p biventricular pacer and
+atrioventricular nodal ablation, end of [**2504-5-7**]) and COPD,
+now presents after palpitation episode at home.
+Mid [**2504-5-7**], the pt presented to [**Hospital6 33**] with
+significant heart failure, with Afib and LBBB.  She had an ICD
+placed ([**1-9**] body habitus, comorbid conditions and age).  After
+the ICD was placed, she underwent AV junction ablation, which
+was successful.  She had intermittent episodes of palpitations
+("couples of episodes over the last week") without chest pain,
+diaphoresis, dizziness, lightheadedness or syncope.  No arm
+numbness or shoulder pain.  One day PTA, she had 2 similar
+episodes, one of which lasted a few minutes, and one which
+persisted and prompted her to call EMS.  In the ambulance, she
+was found to have a wide complex tachycardia (rate 180-200),
+cycling 310 msec with superior axis morphology based on a 3 lead
+rhythm strip in the ambulance.  This spontanceously converted.
+She was given IV adenosine 6mg then 12mg, and 100mg lidocaine,
+and then spontaneously reverted back to NSR.  In the ER, was in
+NSR and loaded with 150mg amiodarone and then amiodarone gtt
+then had another episode of tachyarrhythmia.  EP fellow put a
+magnet over her which converted her to VOO, back to NSR.  She is
+being v-paced in the 70s.  She was subsequently admitted to CCU
+for further mgmt.  Initial CE negative.
+.
+Last echocardiogram was [**2504-5-31**]:
+LV is significantly dilated.  Severe hypokinesis involving all
+segments of the left ventricle though the apex is akinetic.
+Left V fxn is severly reduced and estimated LVEF of 20-25%.
+Aoric valve leaflets are mildly thickened without restriction to
+flow.  4+MR [**First Name (Titles) 150**] [**Last Name (Titles) 13003**] of flow in the pulmonary veins.  Left
+atrium is enlarged to 4.6cm.  RA nl. Right [**Last Name (Titles) 14774**] size is
+nl. Moderately severe TR.  PA systolic pressure of 65mm Hg.
+
+
+Past Medical History:
+1.  CAD s/p CABG [**08**] years ago, says she has had a stent placed
+since then (does not know exact date)
+2.  severe ischemic cardiomyopathy, CHF with EF 20%
+3.  severe MR, severe TR
+4.  atrial fibrillation tx with biventricular pacer for
+bradyarrhythmias ([**May 2504**]), and then with persistent Afib, had
+an AV nodal ablation
+5.  COPD
+6.  Hypothyroidism
+
+
+Social History:
+Returned from rehab, and lives with her son and daughter-in-law.
+ She was a smoker who quit but 30 years X 1ppd.  She does not
+use  alcohol.  No IVDA.
+.
+
+
+Family History:
+Son- diabetes [**Name2 (NI) **], HTN, obesity
+Son- muscular dystrophy
+
+
+Physical Exam:
+Physical Exam:
+Temp: 98.6 BP: 106/60  P: 91  RR: 18  Oxygen saturation: 97% on
+2L NC
+General:  No apparent distress.  Propped up on 2 pillows,
+breathing with accessory muscles.
+HEENT: PERRL, MMM
+Neck: JVD to the earlobe, supple, good ROM
+Lungs: With bilateral crackles halfway up the lung fields.  No
+wheezes.
+CV: With systolic murmur at the apex and systolic ejection
+murmur at RUSB
+Abd: Soft, NT, ND, NABS, No masses.
+Ext: 2+ DP pulses, 2+ radial pulses, symmetric.  Trace edema.
+No cyanosis/clubbing.
+Neuro:  Responses appropriate, No focal deficits.  CN 2-12
+intact bilaterally.  Sensory intact.
+
+
+Brief Hospital Course:
+Impression:  80y/o woman with history of CAD s/p 2 vessel CABG
+[**08**] years ago, Afib s/p BiV pacer s/p ablation with persistent
+paroxysmal Afib, COPD, now presents with palpitations,
+tachyarrhythmia and CHF.
+1.  Tachyarrhythmia, wide complex rate 180-200, currently
+resolved:  The patient was begun on an amiodarone drip.  She was
+without further tachyarrhythmia during her CCU admission.  She
+was monitored on telemetry, with Dr. [**Last Name (STitle) 73**],
+Electrophysiology, following her.  She underwent a successful VT
+ablation by Electrophysiology.  Daily EKGs were completed.  She
+was felt to be stable on her medication, and will be discharged
+home on amiodarone with follow up with Dr. [**Last Name (STitle) 73**].
+2.  Congestive Heart Failure/Ischemic Cardiomyopathy:  Her
+recent echo at OSH ([**5-11**]) shows EF: 20-25%.  Aoric valve
+leaflets are mildly thickened without restriction to flow.
+4+MR. [**First Name (Titles) 165**] [**Last Name (Titles) 14774**] size is nl. Moderately severe TR.  She
+had flat cardiac enzymes.  We held her digoxin, and continued
+her aldactone, lasix, ASA.  We also held her ACEI as she had low
+blood pressures during her admission.  We diuresed her with IV
+lasix for fluid goal -1L per day during her admission. Her
+discharge CXR was read as "mild pulmonary edema which continues
+to clear, small bilateral pleural effusions, partially fissural
+on the right, improving. Severe cardiomegaly is stable."  She
+will be discharged with a f/u appt with Cardiology to follow her
+CHF.
+3.  Coronaries:
+ASA was continued, and a lipid panel was checked, with her
+cholesterol being 182, Triglycerides 1121, HDL 66, and LDL 94.
+She was started on a statin. Her beta blocker was continued.
+4.  Pump: EF 20-25%  We initially held digoxin, then added it
+back, diuresed her with fluid goal -1L per day.  Her digoxin
+level at the OSH was 1.6.  Her pulmonary edema improved over her
+hospital course.
+5.  Electrical: as above tachyarrhythmia, h/o Afib
+The patient was on coumadin on admission.  She was also started
+on an amiodarone gtt for rhythm management during her stay, and
+will be discharged on amiodarone with follow up with cardiology
+and Dr. [**Last Name (STitle) 73**].
+6.  Pulmonary: h/o COPD, using accessory muscles to breathe, but
+family reports she has been breathing this way for months.  CXR
+revealed pulmonary edema with bilateral pleural effusions, which
+continued to improve over her hospital stay as she was diuresed.
+ She will be discharged on lasix.  Her ABG and sats were stable.
+ We continued her advair diskus, initially holding her spiriva.
+She can follow up with her PCP, [**Name10 (NameIs) **] cardiology to re-start
+Spiriva.
+7.  Hypothyroidism
+Her TSH at OSH was normal.  Her TSH was rechecked here, and
+found to be 1.2 (normal).  We continued her levothyroxine, home
+dose.  She should follow up with her PCP for periodic checks on
+her TSH.
+8.  DNR/DNI- Had conversation which was documented.  Dr.
+[**Last Name (STitle) 73**] was notified and this was documented online.
+
+Medications on Admission:
+Meds on transfer:
+1.  Coumadin 5mg po qd
+2.  Amiodarone 200mg po qd
+3.  Lisinopril 2.5mg po qd
+4.  Levothyroxine 100mcg po qd
+5.  Advair Diskus 250/50 one puff twice daily
+6.  Spiriva 1 puff daily
+7.  Lasix 20mg po bid
+8.  Aldactone 12.5mg po qd
+9.  Trazodone 25mg po qHS
+10. Ultram 50mg po q4h prn pain
+11. Digoxin 0.125mg po qd
+12. Colace 100mg po bid
+13. Aspirin 81mg po qd
+14. Dulcolax 20mg po q3days prn constipation
+.
+
+
+Discharge Medications:
+1. Levothyroxine Sodium 100 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).
+Disp:*15 Tablet(s)* Refills:*2*
+4. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*qs Disk with Device(s)* Refills:*2*
+5. Spironolactone 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*15 Tablet(s)* Refills:*2*
+6. Amiodarone 200 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+Disp:*45 Tablet(s)* Refills:*2*
+7. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+(Every Other Day).
+Disp:*15 Tablet(s)* Refills:*2*
+8. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig:
+0.5 Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*15 Tablet Sustained Release 24HR(s)* Refills:*2*
+10. Warfarin Sodium 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Furosemide 40 mg Tablet Sig: 1.5 Tablets PO qAM.
+Disp:*45 Tablet(s)* Refills:*2*
+12. Furosemide 40 mg Tablet Sig: 1.5 Tablets PO at bedtime.
+Disp:*45 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 2173**] VNA
+
+Discharge Diagnosis:
+1.  wide complex tachycardia status post VT ablation [**2504-7-16**]
+2.  Atrial fibrillation status post biventricular pacer and AV
+nodal ablation
+3.  Coronary Artery Disease status post coronary artery bypass
+graft 10 years ago
+4.  ischemic cardiomyopathy
+5.  congestive heart failure
+6.  mitral regurgitation
+7.  left bundle branch block
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 137**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 2L
+If you experience chest pain, shortness of breath, sweating,
+please report to the ER immediately.
+Please take all of your medications and please follow up with
+your doctors (see information below).
+
+Followup Instructions:
+1.  Follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 14775**], your primary care
+physician.  [**Name10 (NameIs) 352**] call his office at [**Telephone/Fax (1) 14776**] as soon as
+possible.
+2.  Please follow up with Dr. [**Last Name (STitle) 73**],
+Electrophysiology/Cardiology.  Your appointment is for [**9-12**], [**2503**] at 11:30am.  This is in [**Hospital Ward Name 23**] [**Location (un) 431**].  His office
+number is ([**Telephone/Fax (1) 12307**].
+
+
+
+Completed by:[**2504-9-9**]
+
+DOC CLASS

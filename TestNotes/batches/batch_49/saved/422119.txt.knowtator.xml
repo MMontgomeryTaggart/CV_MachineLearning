@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="422119.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="64" end="91" />
+        <spannedText>occasional blood per rectum</spannedText>
+        <creationDate>Fri Oct 27 15:05:32 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_35">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31">
+        <hasSlotMention id="EHOST_Instance_35" />
+        <mentionClass id="bleeding_present">occasional blood per rectum</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_32" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4375" end="4397" />
+        <spannedText>GASTROINTESTINAL BLEED</spannedText>
+        <creationDate>Fri Oct 27 15:06:03 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_36">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_32">
+        <hasSlotMention id="EHOST_Instance_36" />
+        <mentionClass id="bleeding_present">GASTROINTESTINAL BLEED</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4406" end="4419" />
+        <spannedText>GI BLEED, GIB</spannedText>
+        <creationDate>Fri Oct 27 15:06:08 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_37">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_33">
+        <hasSlotMention id="EHOST_Instance_37" />
+        <mentionClass id="bleeding_present">GI BLEED, GIB</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_34" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4867" end="4876" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Fri Oct 27 15:06:18 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_38">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_39">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_34">
+        <hasSlotMention id="EHOST_Instance_38" />
+        <hasSlotMention id="EHOST_Instance_39" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

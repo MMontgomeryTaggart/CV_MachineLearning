@@ -1,0 +1,277 @@
+Admission Date:  [**2594-11-4**]              Discharge Date:   [**2594-11-8**]
+
+Date of Birth:  [**2531-11-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+Exertional dyspnea
+
+Major Surgical or Invasive Procedure:
+[**2594-11-4**] Three Vessel Coronary Artery Bypass Grafting utilizing
+vein grafts to the ramus, obtuse marginal and right coronary
+artery.
+
+
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 62 year old male with known coronary disease, and
+ischemic cardiomyopathy. His LVEF has been as low as 13% in the
+past. With medical therapy, his LVEF has improved. His most
+recent ECHO is from [**2594-9-22**] which showed and LVEF of 50%
+with only mild MR. [**First Name (Titles) 3144**] [**Last Name (Titles) **] in [**2594-10-22**]
+showed severe two vessel coronary artery and an LVEF of 45%.
+Angiography showed only a mild 40% lesion in the LAD, 70%
+circumflex stenosis, 90% lesion in the ramus, and a 70% stenosis
+in the RCA. Given the above findings, he was referred to cardiac
+surgical intervention.
+
+Past Medical History:
+Coronary Artery Disease, Ischemic Cardiomyopathy
+Hypertension
+Dyslipidemia
+Elevated PSA
+
+
+Social History:
+Quit tobacco over 30 years ago. Denies ETOH. He is retired.
+
+Family History:
+No premature CAD.
+
+Physical Exam:
+Admission
+VS HR 74  BP 134/68  RR 14       Ht 70"   Wt 97K
+Gen NAD
+Neuro A&Ox3,MAE, nonfocal exam
+Skin warm-dry
+HEENT PERRL/EOMI, sclera anicteric, O/P benign. Neck supple, no
+JVD
+Chest CTA-bilat
+CV RRR, nl S1-S2, no M/R/G
+Abdm soft, NT/ND/+BS
+Ext warm, well perfused. no edema
+
+Discharge exam:
+VS T 100.1  BP 130/58  HR 88SR  RR 20  O2sat 94%-RA
+Gen NAD
+Chest CTA-bilat
+Heart RRR, sternum stable, incision CDI
+Abdm soft, NT/ND/+BS
+Ext warm, 1+ pedal edema bilat. LLE svg harvest site w/steri's
+CDI
+Neuro Nonfocal exam
+Pulses-
+Incisions-
+
+
+
+
+Pertinent Results:
+[**2594-11-4**] Intraop TEE:
+Pre-Bypass:
+The left atrium and right atrium are normal in cavity size. No
+atrial septal defect is seen by 2D or color Doppler. Regional
+left ventricular wall motion is normal. Overall left ventricular
+systolic function is low normal (LVEF 50-55%). Right ventricular
+chamber size and free wall motion are normal. There are simple
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. No mitral regurgitation is seen. There is
+no pericardial effusion.
+Post Bypass:
+Left and right ventricular function is preserved. The aorta is
+intact. The exam is unchanged.
+
+[**2594-11-4**] 03:25PM   UREA N-24* CREAT-1.0 CHLORIDE-112* TOTAL
+CO2-24
+[**2594-11-4**] 03:25PM   WBC-8.3 RBC-3.05* HGB-9.6* HCT-26.8* MCV-88
+MCH-31.4 MCHC-35.8* RDW-12.8
+[**2594-11-4**] 03:25PM   PLT COUNT-124*
+[**2594-11-4**] 03:25PM   PT-15.6* PTT-30.4 INR(PT)-1.4*
+[**2594-11-4**] 03:08PM   GLUCOSE-146* LACTATE-1.9 NA+-136 K+-4.4
+CL--106
+[**2594-11-7**] 05:40AM BLOOD WBC-7.3 RBC-2.68* Hgb-8.4* Hct-23.8*
+MCV-89 MCH-31.3 MCHC-35.1* RDW-13.0 Plt Ct-134*
+[**2594-11-7**] 05:40AM BLOOD Plt Ct-134*
+[**2594-11-4**] 03:25PM BLOOD PT-15.6* PTT-30.4 INR(PT)-1.4*
+
+[**Known patient lastname **],[**Known patient firstname **] D [**PT ID Number 30103**] M  62  [**2531-11-28**]
+Radiology Report CHEST (PA & LAT) Study Date of [**2594-11-7**] 8:33 AM
+
+[**Last Name (LF) **],[**First Name3 (LF) **] CSURG FA6A [**2594-11-7**] SCHED
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 30104**]
+Reason: eval pleural effusions
+Provisional Findings Impression: LCpc FRI [**2594-11-7**] 11:35 AM
+Expected postoperative appearance, better than [**11-5**].
+Final Report
+CHEST, PA AND LATERAL
+REASON FOR EXAM: 62-year-old man, status post CABG, evaluate
+pleural
+effusion.
+Since [**2594-11-5**], small left pleural effusion decreased.
+Minimal
+bibasilar and right mid lung atelectasis also decreased. The
+cardiomediastinal silhouette and hilar contours are otherwise
+unchanged. Note that epicardial wires are still in place.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**First Name8 (NamePattern2) **] [**Name (STitle) 17246**]
+DR. [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6365**]
+Approved: FRI [**2594-11-7**] 11:57 AM
+
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 30105**]       Portable TTE
+(Complete) Done [**2594-11-7**] at 2:31:10 PM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+[**Street Address(2) 9157**]
+[**Location (un) 9158**], [**Numeric Identifier 9159**]  Status: Inpatient DOB: [**2531-11-28**]
+Age (years): 62 M  Hgt (in): 70
+BP (mm Hg): 94/62  Wgt (lb): 220
+HR (bpm): 82  BSA (m2): 2.18 m2
+Indication: Left ventricular function. Right ventricular
+function.
+ICD-9 Codes: 427.89
+Test Information
+Date/Time: [**2594-11-7**] at 14:31    Interpret MD: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **],
+MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 652**]: [**Name2 (NI) 963**]
+[**Last Name (un) 964**], RDCS
+Doppler: Full Doppler and color Doppler Test Location: [**Location 9160**]/[**Hospital Ward Name **] 6
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008W050-0:28 Machine: Vivid [**7-27**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  4.9 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  4.8 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *5.7 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  4.1 cm
+Left Ventricle - Fractional Shortening:  *0.28  >= 0.29
+Left Ventricle - Ejection Fraction:  50%  >= 55%
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.6 m/sec
+Mitral Valve - E/A ratio:  1.17
+Mitral Valve - E Wave deceleration time:  187 ms  140-250 ms
+Findings
+LEFT VENTRICLE: Normal LV wall thickness. Top normal/borderline
+dilated LV cavity size. Low normal LVEF. No resting LVOT
+gradient.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Suboptimal image quality - poor parasternal views. Suboptimal
+image quality - poor apical views. Suboptimal image quality -
+poor subcostal views. Suboptimal image quality - bandages,
+defibrillator pads or electrodes. Suboptimal image quality -
+body habitus. Suboptimal image quality - ventilator.
+Conclusions
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is top normal/borderline dilated.
+Overall left ventricular systolic function is low normal (LVEF
+50%). The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic regurgitation. There
+is no pericardial effusion.
+  Electronically signed by [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2594-11-7**] 15:31
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted and underwent coronary artery bypass
+grafting surgery by Dr. [**First Name (STitle) **] as a same day admit on [**11-4**]. For
+surgical details, please see seperate dictated operative note.In
+summary he had CABGx3 with SVG-Ramus-OM, SVG-RCA. His bypass
+time was 60 minutes with a crossclamp of 52 minutes. He
+tolerated the opeeration well. He was then transferred to the
+CVICU for invasive monitoring. He remained hemodynamically
+stable and within 24 hours, he awoke neurologically intact and
+was extubated. He remained hemodynamically stable  and was
+transferred to the SDU on postoperative day one. Once on the
+floor he had an uneventful post-operative course and on POD4 was
+discharged home with visiting nurses. It should be noted that
+after transfer from the ICU Mr [**Known patient lastname **] did experience a transient
+elevation of his serum creatinine which has begun to trend back
+toward normal ranges before discharge.
+
+Medications on Admission:
+Coreg 12.5 mg [**Hospital1 **], Lisinopril 20 qd, Lipitor 10 qd, Aspirin 81
+qd
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for
+7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+6. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7 days.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+7. Outpatient Lab Work
+VNA to draw hematocrit and creatinine on [**2594-11-10**], fax results
+to Dr. [**First Name (STitle) **]: [**Telephone/Fax (1) 16779**]
+8. Coreg 6.25 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+tba
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p coronary artery bypass grafts
+Hypertension
+Dyslipidemia
+cardiomyopathy
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+No driving for one month.
+No lifting more than 10 lbs for 10 weeks from surgery date.
+Shower daily, no baths.
+OK to shower, no bathing or swimming. Wash incisions with soap
+and water only. Do not apply creams, lotions or ointments to any
+surgical incision.
+Call cardiac surgeon if there is any concern for wound
+infection.
+
+Followup Instructions:
+Wound clinic in 2 weeks
+Dr. [**First Name (STitle) **] in [**4-26**] weeks, ([**Telephone/Fax (1) 181**])
+Dr. [**Last Name (STitle) 30106**] in [**2-23**] weeks ([**Telephone/Fax (1) 30107**]
+Patient to call for appointments
+VNA to draw labs (hematocrit, creatinine) [**11-10**] and fax to Dr.
+[**First Name (STitle) **] ([**Telephone/Fax (1) 30108**]
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**2594-11-8**]
+
+DOC CLASS

@@ -1,0 +1,466 @@
+Admission Date:  [**3173-4-11**]              Discharge Date:   [**3173-4-26**]
+
+Date of Birth:  [**3092-7-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 11853**]
+Chief Complaint:
+Cough
+
+Major Surgical or Invasive Procedure:
+VATS
+
+History of Present Illness:
+The patient is an 80 year old female with cerebral palsy, HTN,
+hypothyroid, PAF, osteoporosis here s/p mech fall on R side 3
+weeks ago (no head or neck trauma) who presents with 3 days of
+nonproductive cough, low grade fever, leukocytosis and a CXR
+that shows new R pleural effusion concerning for hemothorax
+versus paraneumonic effusion. The patient states she slipped on
+water 3 weeks ago, landing on ankle. Had significant swelling in
+right LE and yesterday had a film that showed no fracture.
+However, had also developed right sided flank/rib pain
+approximately 3 days ago. Patient believes this may have been
+related to twisting while getting out of bed and currently is
+only present on movement. A rib film to evaluate this
+demonstrated a right sided pleural effusion with question of
+loculation. Patient came to the ED to be further evaluated.
+.
+Presented to the ED today and was found on repeat CXR to have
+continued loculated pleural effusion. CT without contrast was
+done to see if able to delineate between paraneumonic vs.
+hemothorax, but still unclear. [**Name2 (NI) **] denies any SOB, DOE,
+chest pain, lightheadedness, dizziness. States cough present for
+one week, nonproductive. No fevers, chills, night sweats, but
++fatigue. Labs demonstrated elevated WBC. Was given ceftriaxone
+and azithromycin in ED and blood cultures sent. Currently she
+states that she feels better than when she first presented to
+the ED.
+.
+ROS significant for constipation, last BM on Monday, as well as
+mild nausea, no vomiting. O/W negative for HA, URI sxs, chest
+pain, orthopnea, PND, palpatations, melena, hematochezia,
+dysuria, hesitancy.
+
+
+Past Medical History:
+cerebral palsy
+bilateral leg weakness
+occular muscle weakness
+HTN
+AFib
+
+Social History:
+Retired, lives alone, supportive family, no ETOH, no tob, no
+IVDU
+.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals: Afebrile, HR 93, BP 160/70 (118-160/63-70), RR 17-20,
+90% on RA (now on NC)
+Gen: Well groomed female with mildly increased work of
+breathing, pleasant, in NAD
+HEENT: PERRL, MMM, mucous in mouth, OP clear
+Neck: No LAD, no JVP
+Cardiac: RRR, NL S1 and S2, holosystolic murmur at LLSB
+Lungs: decreased BS on right with mild crackles, exp wheeze,
+upper airway sounds throughout
+Abd: soft, protruding abdominal hernias, retractable, NTND
+Ext: mild LE edema on right, none on left, 2+ DP pulses
+bilaterally
+Neuro: A&O x 3, CN III-XII grossly intact, MAE
+
+
+Pertinent Results:
+Right ankle films [**3173-4-10**]:
+HISTORY: Right ankle pain.
+Four radiographs of the right ankle demonstrate normal
+mineralization. No fracture. The mortise is congruent. Talar
+dome maintains a normal contour. Phleboliths are noted within
+the regional soft tissues. The subtalar joint is normal.
+IMPRESSION:
+Unremarkable radiographs of the right ankle.
+.
+CXR [**3173-4-10**]:
+IMPRESSION:
+1. No evidence of rib fracture or pneumothorax.
+2. New moderate-sized right-sided pleural effusion with evidence
+of
+loculation. Right basilar airspace opacities likely representing
+atelectasis
+.
+CXR [**3173-4-11**]:
+There is a persistent moderate-to-large multiloculated right
+pleural effusion, without change since the recent radiograph of
+[**3173-4-10**], but new compared to [**3172-9-1**] radiograph.
+Parenchymal opacities in the right middle and lower lobes
+adjacent to the effusion may relate to areas of atelectasis or
+contusion. There is no left pleural effusion. The heart is upper
+limits of normal in size. The aorta is tortuous, and the
+pulmonary vascularity is normal. Upon comparison to the
+[**3172-9-1**] radiograph, apparent elevation of the right
+hemidiaphragm is thought to be due to a subpulmonic component of
+the pleural effusion.
+IMPRESSION: No short interval change in moderate-to-large
+loculated right pleural effusion. Considering history of recent
+trauma, this raises a concern for hemothorax. Adjacent
+parenchymal opacities in the right middle lobe may relate to
+atelectasis or contusion.
+.
+[**3173-4-11**] CT chest w/o contrast:
+Moderate to large left effusion with loculation. Measures low
+attenuation fluid density. Consolidation with air bronchograms
+in right lung also, likely pneumonia versus contusion.
+.
+Abd KUB [**3173-4-11**]:
+IMPRESSION: No evidence of intestinal obstruction. No hernia is
+identified
+on this single AP projection. A lateral radiograph would be
+useful to assess
+for presence of abdominal wall hernia.
+.
+EKG: NSR, RAD, IVCD, no ST changes, intervals normal (of note,
+on prior EKG there was LAD present)
+.
+[**3173-4-12**] Pleural Fluid analysis:
+WBC: 1060* RBC: 340* Polys: 49* Lymph: 24* Monos: 21* Macros: 6*
+Protein 4.6 LDH: 666 Chol: 76
+.
+[**3173-4-12**] Pleural Fluid
+NEGATIVE FOR MALIGNANT CELLS
+Mixed inflammatory cells and proteinaceous debris
+.
+[**3173-4-13**] R Pleural Debris
+Focally organizing fibrin with extensive acute inflammation.
+Special stain for fungi and pneumocystis is negative with
+appropriate positive control.
+.
+[**3173-4-13**] Pleural Fluid:
+Pleural fluid:
+NEGATIVE FOR MALIGNANT CELLS.
+Rare mesothelial cells, neutrophils, lymphocytes, histiocytes
+and blood.
+.
+[**3173-4-13**] Pleural fluid culture:
+1+ POLYMORPHONUCLEAR LEUKOCYTES.
+4+ GRAM POSITIVE COCCI. IN PAIRS AND CLUSTERS AND IN SHORT
+CHAINS.
+TISSUE (Final [**3173-4-17**]):    NO GROWTH.
+ANAEROBIC CULTURE (Final [**3173-4-20**]):    NO GROWTH.
+ACID FAST SMEAR (Final [**3173-4-16**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+ACID FAST CULTURE (Pending):
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+POTASSIUM HYDROXIDE PREPARATION (Final [**3173-4-16**]):
+      NO FUNGAL ELEMENTS SEEN.
+LEGIONELLA CULTURE (Final [**3173-4-24**]):    NO LEGIONELLA ISOLATED.
+.
+[**3173-4-20**] CXR
+INDICATION: 80-year-old woman status post VATS, decortication
+for loculated pleural effusion, chest tubes removed. Assess
+effusion, loculation.
+
+CHEST, TWO VIEWS: Comparison is made to a prior study of
+[**3173-4-18**].
+
+The heart size is in the upper limits of normal. The mediastinal
+and hilar contours are unremarkable. The pulmonary vasculature
+is normal. There is some scarring in the left lower lobe and a
+loculated right pleural effusion is again noted. This is
+unchanged in comparison to the prior study.
+
+IMPRESSION: No change in the loculated right pleural effusion.
+.
+[**3173-4-18**] Video Oropharyngeal Swallow
+FINDINGS: Fluoroscopic guidance was provided to the speech and
+swallowing pathologist. Barium of various consistencies was
+administered. Premature spillover was identified. There was
+moderate-to-severe residue, in the valleculae more than the
+piriform sinuses. The right side was more severely affected than
+the left. Penetration was identified both with nectar-thickened
+as well as with thin liquids. When the patient swallowed thin
+liquids, followed by pudding, there was a moderate amount of
+aspiration identified due to residue in the piriform sinus. This
+was subsequently followed by an ineffective cued cough.
+
+IMPRESSION:
+1. Moderate aspiration after the swallowing of thin liquids,
+followed by pudding.
+2. Penetration with both thin and nectar-thickened liquids.
+3. Moderate-to-severe residue in the valleculae and piriform
+sinuses as well as premature spillover
+.
+[**3173-4-19**] ECHO:
+Conclusions:
+1. Left ventricular wall thickness, cavity size, and systolic
+function are
+normal (LVEF>55%). Regional left ventricular wall motion is
+normal.
+2. The aortic valve leaflets (3) are mildly thickened. Trace
+aortic
+regurgitation is seen.
+3. The mitral valve leaflets are mildly thickened. Trivial
+mitral
+regurgitation is seen.
+4. There is mild pulmonary artery systolic hypertension.
+.
+EMG [**3173-4-20**]
+IMPRESSION:
+
+Essentially normal study. The electrophysiologic findings do not
+support a
+pre- or postsynaptic disorder of neuromuscular transmission. The
+findings do
+not support a generalized myopathy or generalized disorder of
+motor neurons.
+.
+[**3173-4-23**] MRI Brain
+FINDINGS: There is mild prominence of the ventricles and sulci
+consistent with age-related involutional change. No
+abnormalities are identified on diffusion-weighted images to
+indicate acute brain ischemia. There is no mass effect, shift of
+normally midline structures or hydrocephalus. Susceptibility
+artifacts are present indicating prior hemorrhage. A small old
+infarct within the left cerebellar hemisphere is unchanged from
+prior study. The expected flow voids of the basal cisterns
+appear unremarkable.
+
+IMPRESSION: Stable mild brain atrophy. No evidence of cortical
+infarct, mass effect or hydrocephalus.
+.
+LABS:
+[**3173-4-11**] 03:40PM   WBC-21.9*# RBC-3.58* HGB-11.8* HCT-34.7*
+MCV-97 MCH-32.9* MCHC-33.9 RDW-12.9
+[**3173-4-11**] 03:40PM   NEUTS-89.3* LYMPHS-4.9* MONOS-4.9 EOS-0.7
+BASOS-0.1
+[**3173-4-11**] 03:40PM   PLT COUNT-399#
+[**3173-4-11**] 09:00PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) **]-1.010
+[**3173-4-11**] 09:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30
+GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-MOD
+[**3173-4-11**] 11:32PM   LACTATE-0.8
+.
+[**3173-4-26**]
+WBC 16.8* RBC 3.23* HG 10.4* HCT 31.8* MCV 99* PLT 492*
+.
+[**3173-4-26**]
+Mycoplasma Ab negative
+.
+[**3173-4-25**]:
+Glucose 54* Urea 9 Cr 0.5 Na 140 KCL 4.5 Cl 101 HCO3 32 GAP 12
+
+
+Brief Hospital Course:
+A/P: 83 year old female s/p fall 3 weeks PTA who presented with
+cough, right sided pain and CXR demonstrating PNA with large
+effusion.
+.
+# PNA/Effusion -
+The patient is an 80 year old female with cerebral palsy, HTN,
+hypothyroid, PAF, osteoporosis here s/p mech fall on R side 3
+weeks ago (no head or neck trauma) who presented with 3 days of
+nonproductive cough, low grade fever, leukocytosis and a CXR
+that shows new R pleural effusion concerning for hemothorax
+versus paraneumonic effusion.  CT scan showed large loculated
+effusion on the right.  Thoracentesis performed and was
+exudative, thought to be parapneumonic effusion.  Patient went
+to VATS on [**3173-4-13**] for decortication and drainage, and recieved 2
+chest tubes.
+.
+Post op course complicated by hypercarbia and acidosis, and
+patient required BIPAP and neosynephrine for a short period of
+time.  Urine culture grew out vanc sensitive enterococcus, and
+vancyomycin was started.  The patient's SOB improved and the
+chest tubes were present for approx 3 days and removed without
+any complications.  CXR showed improved effusion, but not
+completely resolved.  She was treated with levofloxacin and
+flagyl for CAP and aspiration PNA, as well as vancomycin for
+enterococcus sensitive UTI.  Culture data showed GPC in prs and
+clusters but did not grow anything (see results section).
+Urinary legionella was negative.  The patient did well and had
+no further respiratory compromise.  Thoracic surgery did not
+recommend repeating the CT while inpatient, and they would
+follow up with her as an outpatient.  Will plan to treat with
+four weeks of antibiotics, with D1 [**3173-4-11**].  WBC decreased from
+22 on admission to 16 on discharge.  The day prior to d/c WBC
+was 14.8, so this should be repeated at rehabilitation facility
+to make sure it does not continue to rise.
+.
+# Oral and Pharyngeal Dysphagia - Patient has had progressive
+dysphagia since 2 days PTA.  Dysphagia started 9 years ago after
+intubation for blood loss s/t GYN surgery, but it worsening
+priot to admission and while in-house.  Speech and swallow
+evaluated the patient with barium study and videooropharyngeal
+swallow and found significant aspiration as well as oral and
+pharygeal dysfuction in a pattern suggestive of neurologic
+process.  Neurology was consulted and did not feel that the
+dysfunction was d/t cerebral palsy and was not d/t another
+primary neurologic disorder.  However, this was further worked
+up with an EMG which was negative (see results section) and MRI
+brain which showed no acute or old infarcts to correlate with
+dysphagia.  Patient and family are very concerned about
+underlying cause, but currently there is not clear
+understanding.  Speech and swallow worked with patient
+extensively to teach techniques to reduce aspiration.  Patient
+and family were hesitant to PEG, but calorie counts were
+performed x 3 days which demonstrated that patient only had 50%
+of calories and 40% of protein required to sustain current
+weight.  PEG was placed by GI and tubefeedings were initiated.
+Patient currently at goal with only complication minor
+intermittent pain with movement.  Patient may take small amounts
+of pureed nectar and ground foods for pleasure.  Plan for repeat
+video swallow prior to d/c from rehab.
+.
+# UTI - Found to have vancomycin sensitive enterococcus and
+treated with 7 days of vancomycin.
+.
+# HTN - Initially hypertensive on admission, hypotensive s/p
+VATS, transient asymptomatic episodes of hyposention (SBP 80's),
+currently normotensive.  Maintained only on low dose beta
+blocker for episodes of SVT.
+.
+# PAF - Patient is rhythm controlled with amiodarone, not
+anticoagulated. Remained in NSR throughout hospitalization with
+intermittent episodes of asymptomatic AVRT.  Cariology consulted
+and recommeneded continuing amiodarone and considering EP
+consult if episodes prolonged or if patient became symptomatic
+(not done).  Low dose BB was added, uptitrated but caused 2 sec
+pause and episode of a.m. bradycardia, so now on 12.5 mg PO in
+a.m. only, and tolerating well.  Should have cariology f/u to
+determine if BB needed.
+.
+# Cerebral Palsy - Present since birth and followed by
+neurology. Stable while in-house. Continued on valium for muscle
+spasms.
+.
+# Osteoporosis - Continued on calcium and vit D. Stopped fosamax
+as needs to be taken whole and patient at aspiration risk.
+.
+# Pain - No pain until PEG placed.  Controlled effectively with
+MSO4 and tylenol.
+.
+# Anxiety - Started on low dose buspar with improvement in
+anxiety.
+.
+# Hypothyroidism  - Continued synthroid at home dose.
+.
+# PPX - SQ hep, PPI, aggressive bowel regimen
+.
+# Code - Full
+.
+
+Medications on Admission:
+Amiodarone 100 mg QD
+Synthroid 37.5 mcg QD
+Fosamax 70 mg Qweek
+Norvasc 5 mg QD
+Valium 2mg QD for muscle spasm and anxiety
+HCTZ 12.5 mg QMWF
+ASA 81 mg QD
+Calcium/Vit D
+Aciphex 20 mg QD
+Mobic 15 mg QD for pain
+
+
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+5. Levothyroxine 75 mcg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed for pain.
+7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed.
+8. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day).
+9. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+10. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+11. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+12. Diazepam 2 mg Tablet Sig: One (1) Tablet PO QAM (once a day
+(in the morning)).
+13. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO QID W/ MEALS ().
+14. Buspirone 10 mg Tablet Sig: One (1) Tablet PO QD ().
+15. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours): Please give for 4 weeks, with D1 on [**3173-4-11**].
+16. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day): Please give for 4 weeks, with D1 [**3173-4-11**].
+17. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID
+(3 times a day) as needed.
+18. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-11**]
+Drops Ophthalmic  PRN (as needed).
+19. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO QAM
+(once a day (in the morning)).
+20. Oxycodone 5 mg/5 mL Solution Sig: 5-10 mg PO Q4-6H (every 4
+to 6 hours) as needed.
+21. Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed.
+22. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+23. Outpatient Lab Work
+Please check CBC on [**3173-4-27**] to follow WBC.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 47**] for the Aged - Acute Rehab
+
+Discharge Diagnosis:
+Pneumonia with complicated parapneumonic effusion
+Oral and Pharyngeal Dysphagia
+Choreo-Athetoid Cerebral Palsy
+Occular muslce weakness
+Hypertension
+Atrial Fibrillation, episodes of AVRT
+Osteoporosis
+Abdominal hernia
+
+
+Discharge Condition:
+Good. Patient oxygenating well (92-92% RA), not short of breath,
+tolerating tube feeds
+
+
+Discharge Instructions:
+1) Please take all of your medications as prescribed.
+2) Please call your PCP or return to the ED if you haveing
+worsening shortness of breath, chest pain, fevers, chills,
+nausea, vomiting, or any other symptom that is of concern to
+you.
+
+
+Followup Instructions:
+# Please follow up with Dr. [**Last Name (STitle) **], [**First Name3 (LF) **] at
+[**Telephone/Fax (1) 279**] on [**5-24**] at 10:30.  You should have a chest
+x-ray performed prior to this appointment, and the order for
+this is in the computer.
+# Please follow up with Dr. [**Last Name (STitle) 2808**] at [**Telephone/Fax (1) 12360**] on [**3173-5-2**]
+at 2:10 p.m.
+# Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD Phone:[**Telephone/Fax (1) 1734**]
+Date/Time:[**3173-5-24**] 1:30
+# Provider: [**First Name11 (Name Pattern1) 1404**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D. Phone:[**Telephone/Fax (1) 80**]
+Date/Time:[**3173-9-24**] 10:00
+
+
+
+
+
+DOC CLASS

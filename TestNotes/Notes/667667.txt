@@ -1,0 +1,197 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Fellow for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Extubated
+   Antihypertensive regimen titrated
+   Steroids weaned per endocrine
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**3243-11-24**] 12:17 PM
+   Vancomycin - [**3243-11-25**] 08:58 AM
+   Cefipime - [**3243-11-25**] 12:22 PM
+   Infusions:
+   Other ICU medications:
+   Labetalol - [**3243-11-25**] 01:53 PM
+   Diazepam (Valium) - [**3243-11-25**] 01:53 PM
+   Hydralazine - [**3243-11-25**] 09:00 PM
+   Ranitidine (Prophylaxis) - [**3243-11-25**] 10:30 PM
+   Heparin Sodium (Prophylaxis) - [**3243-11-26**] 08:21 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3243-11-26**] 10:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 35.6
+C (96
+   HR: 52 (51 - 84) bpm
+   BP: 129/81(92) {113/66(78) - 132/81(93)} mmHg
+   RR: 10 (7 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 97 kg (admission): 90.6 kg
+   Height: 72 Inch
+   CVP: 12 (8 - 21)mmHg
+   Total In:
+                                                                  1,461 mL
+                                                                    588 mL
+   PO:
+                                                                    470 mL
+                                                                    480 mL
+   TF:
+                                                                    501 mL
+   IVF:
+                                                                    490 mL
+                                                                    108 mL
+   Blood products:
+   Total out:
+                                                                  1,798 mL
+                                                                  1,305 mL
+   Urine:
+                                                                  1,798 mL
+                                                                    805 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -337 mL
+                                                                   -717 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///19/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   8.5 g/dL
+   159 K/uL
+   123 mg/dL
+   4.0 mg/dL
+   19 mEq/L
+   3.7 mEq/L
+   80 mg/dL
+   116 mEq/L
+   146 mEq/L
+   25.8 %
+   7.5 K/uL
+        [image002.jpg]
+                            [**3243-11-23**]  10:20 PM
+                            [**3243-11-24**]  01:47 AM
+                            [**3243-11-24**]  03:44 AM
+                            [**3243-11-24**]  03:51 AM
+                            [**3243-11-24**]  09:27 AM
+                            [**3243-11-24**]  08:30 PM
+                            [**3243-11-25**]  03:05 AM
+                            [**3243-11-25**]  03:15 AM
+                            [**3243-11-25**]  09:04 AM
+                            [**3243-11-26**]  04:18 AM
+   WBC
+   8.8
+   8.9
+   7.5
+   Hct
+   26.7
+   26.3
+   25.8
+   Plt
+   159
+   159
+   159
+   Cr
+   4.9
+   4.9
+   4.0
+   TropT
+   0.20
+   TCO2
+   16
+   15
+   16
+   16
+   19
+   19
+   16
+   Glucose
+   139
+   184
+   123
+   Other labs: PT / PTT / INR:11.9/39.8/1.0, CK / CKMB /
+   Troponin-T:510/11/0.20, ALT / AST:27/45, Alk Phos / T Bili:39/0.3,
+   Lactic Acid:0.6 mmol/L, Albumin:3.7 g/dL, LDH:118 IU/L, Ca++:7.8 mg/dL,
+   Mg++:2.5 mg/dL, PO4:6.3 mg/dL
+   Imaging: No new imaging.
+   Microbiology: No new micro data.
+   Assessment and Plan
+   60 yo male with CAD, hx pituitary resection admitted with fevers,
+   diarrhea, shock, acidosis, progressing to acute respiratory failure
+   requiring intubation/mechanical ventilation.  Now improving
+ off
+   pressors on minimal vent requirements.  Panhypopit/adrenal
+   insufficiency appears a large component of etiologic factors given
+   rapid improvement over the past day.
+   #. Shock: has distributive shock picture with sepsis and adrenal
+   insufficiency. No definitive infectious source identified yet, though
+   CXR today has not yet performed. [**Month (only) 56**] have started with viral process,
+   N/V with inability to take home meds resulting in panhypopit picture.
+   Now resolved and off pressors x 2 days.
+   - On hydrocortisone 100 mg IV q8h
+   - IVF to maintain SBP
+   - Plan for 8 days of Cefepime
+   - Continue  IV vanco until sputum speciated
+   #. Acute respiratory failure: remains mechanically ventilated with
+   appropriate oxygenation/ventilation.
+   - Extubate this am
+   #. Panhypopit: On hydrocort and synthroid.
+   - Endocrine consult
+   #. Cardiac enzyme elevations: mildly elevated, suspect more from demand
+   ischemia rather than an acute thrombotic event. Will trend enzymes to
+   ensure they resolve, otherwise no add'l acute management.
+   - ASA / Statin
+   #. Acute renal failure: Non-oliguric, no change in renal function over
+   last day. No HD needs.  Follow AG acidosis/bicarb.  Follow UOP, avoid
+   nephrotoxins.
+   #. ETOH abuse: Currently on versed gtt.  Will follow once off sedation.
+   Tremulous today.
+   - CIWA scale
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3243-11-23**] 05:00 AM
+   20 Gauge - [**3243-11-23**] 11:21 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 25 minutes
+
+
+DOC CLASS

@@ -1,0 +1,364 @@
+Admission Date:  [**3465-4-8**]              Discharge Date:   [**3465-4-17**]
+
+Date of Birth:  [**3402-5-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (un) 16654**]
+Chief Complaint:
+chest pain, Afib with RVR
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+Pulmonary vein isolation
+
+History of Present Illness:
+Ms [**Known patient lastname 33702**] is a 62yoF with h/o PAF on coumadin, CVA, HTN, HLD,
+who presents with chest pain, afib with RVR, and elevated
+troponin. [**Known patient lastname 11387**] started on [**3465-4-6**], when she was riding in a
+car as passenger and suddenly developed [**9-1**] substernal chest
+pain with diaphoresis. Lasted 5 minutes then gradually resolved.
+NO SOB or palpitations. For the next day she felt some residual
+pressure feeling that was constant and did not vary with
+activity. Today she is pain free x24 hours. She waited to be
+seen because she was visiting on [**Location (un) 1912**] at the time and
+returned today. She notes she has had this type of pain before
+when has developed afib. Pain was never this severe and never
+had diaphoresis previously. Denies SOB, n/v. Had been in NSR on
+[**3465-2-14**] at last cardiology appointment.
+.
+She initially presented to [**Hospital1 **] [**Location (un) 18**], where vitals were T97.9
+HR: 147 BP: 134/99 Resp: 18 O(2)Sat: 100 Normal. INR 2.6,
+troponin(t) 0.746. D-dimer was checked and was negative. She was
+transferred to [**Hospital1 68**] for further care
+.
+In the ED, initial vitals were 98.3 110 114/86 16 99%
+Labs and imaging significant for CXR which showed clear lungs
+fields with some vascular fullness.
+Patient given metoprolol 15mg IV and 25mg PO, and ASA 325.
+.
+On arrival to the floor, 98.0, 116/85, 123, 16, 99%ra, 69.1kg.
+She feels well, and denies chest pain or discomfort, SOB, or
+palpitations. She overall feels well.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: (-)Diabetes, (+)Dyslipidemia,
+(+)Hypertension
+2. CARDIAC HISTORY:
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS: none
+-PACING/ICD: none
+3. OTHER PAST MEDICAL HISTORY:
+ATRIAL FIBRILLATION
+BASILAR ARTERY OCCLUSION/CVA residual numbness on the left side
+
+HYPERLIPIDEMIA
+HYPERTENSION
+OSTEOPENIA
+GERD
+MIGRAINES
+
+Social History:
+She has three children, 6 grand-children
+-Tobacco history: never
+-ETOH: 1 glass per day
+-Illicit drugs: none
+
+Family History:
+Brother has had a myocardial infarction at age 49.  Otherwise,
+no family history of atrial fibrillation, although her mother
+did die of a stroke in her 70s.
+
+Physical Exam:
+Admission Exam:
+VS: T=98.0 BP=116/85 HR=123 RR=16 O2 sat=99%ra
+GENERAL: Elderly caucasian female, NAD, comfortable
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.
+NECK: Supple with JVP of 8cm.
+CARDIAC: tachycardic, irregularly irregular, no m/r/g
+LUNGS: CTAB, no w/r/r
+ABDOMEN: Soft, NTND. No HSM or tenderness. No HSM
+EXTREMITIES: warm, well perfused, 2+ pulses globally. No edema.
+
+SKIN: no rashes or lesions
+
+Discharge Exam:
+VS:  98.5  111/50  52  18  98% RA
+GEN:  NAD, comfortable, alert and oriented
+HEENT:  sclerae anicteric, PERRL, EOMI.  erythema in posterior
+oropharynx with eccymosis left side
+CV:  RRR, nl S1 S2, no MRG
+Resp:  CTAB, no rales wheezes or rhonchi
+Abd:  soft, non-tender, non-distended
+Ext:  warm, well-perfused, no edema, 2+ pulses
+
+
+Pertinent Results:
+Admission labs
+[**3465-4-9**] 07:17AM BLOOD WBC-8.0# RBC-3.78* Hgb-11.9* Hct-36.8
+MCV-98 MCH-31.6 MCHC-32.4 RDW-12.9 Plt Ct-333
+[**3465-4-9**] 07:17AM BLOOD PT-28.1* PTT-39.4* INR(PT)-2.7*
+[**3465-4-9**] 07:17AM BLOOD Glucose-105* UreaN-10 Creat-0.7 Na-138
+K-4.2 Cl-107 HCO3-23 AnGap-12
+[**3465-4-9**] 07:17AM BLOOD Calcium-8.8 Phos-3.7 Mg-1.9
+
+Cardiac labs
+[**3465-4-8**] 07:58PM BLOOD CK-MB-8 cTropnT-0.74*
+[**3465-4-9**] 07:17AM BLOOD CK-MB-6 cTropnT-0.87*
+
+Discharge labs
+[**3465-4-17**] 07:20AM BLOOD WBC-6.6 RBC-3.36* Hgb-10.2* Hct-33.0*
+MCV-98 MCH-30.2 MCHC-30.8* RDW-12.8 Plt Ct-304
+[**3465-4-17**] 07:20AM BLOOD PT-31.4* PTT-39.7* INR(PT)-3.0*
+[**3465-4-17**] 07:20AM BLOOD Glucose-92 UreaN-8 Creat-0.7 Na-138 K-4.1
+Cl-104 HCO3-27 AnGap-11
+[**3465-4-17**] 07:20AM BLOOD Calcium-9.0 Phos-3.9 Mg-2.1
+
+Studies
+TTE [**3465-4-14**]: No spontaneous echo contrast is seen in the body of
+the left atrium, the body of the right atrium, or the right
+atrial appendage. Moderate to severe spontaneous echo contrast
+is present in the left atrial appendage. LV systolic function
+appears depressed. Right ventircular systolic function is normal
+with normal free wall contractility. The aortic valve leaflets
+(3) are mildly thickened with miild (1+) aortic regurgitation.
+The mitral valve leaflets are mildly thickened with trivial
+mitral regurgitation. There is no pericardial effusion.
+IMPRESSION: Moderate/severe SEC in the LAA. No thrombus
+identified. Depressed LV sytolic function. Mild aortic
+regurgitation.
+Compared with the prior study (images reviewed) of [**3465-4-10**],
+the findings are similar.
+
+Cardiac MRI [**3465-4-13**]:
+1. Normal size and orientation of the pulmonary veins without
+CMR evidence of anomalous pulmonary venous return or pulmonary
+vein stenosis.
+2. Normal left ventricular cavity size with severe hypokinesis
+to akinesis of the basal to mid inferior wall and akinesis of
+the true apex. The LVEF was moderately depressed at 33%. Late
+gadolinium contrast-enhanced CMR images demonstrated patchy
+transmural late gadolinium hyperenhancement of the basal to mid
+inferior wall and true apex, sparing a small segment of the
+distal inferior wall. The findings are consistent with poor
+(<20%) likelihood of functional recovery of these walls after
+mechanical revascularization.
+3. Normal right ventricular cavity size with mild free wall
+hypokinesis. The RVEF was mildly depressed at 37%.
+4. The indexed diameters of the ascending and descending
+thoracic aorta were mildly increased and normal respectively.
+The indexed diameter of the main pulmonary artery was moderately
+dilated.
+5. Mild biatrial enlargement.
+6. A note is made of multiple T2 hyperintense lesions in the
+liver measuring up to 3.6 x 3.0 cm in the hepatic dome (201:15)
+which are incompletely characterized however most likely
+represent simple cysts. Multiple sub- centimeter simple cysts
+are noted in the left kidney
+
+CXR [**4-14**]:
+Portable AP radiograph of the chest was reviewed in comparison
+to [**3465-4-8**].
+Cardiomegaly is moderate, unchanged. Mediastinum is
+unremarkable. Lungs are essentially clear. No pleural effusion
+or pneumothorax is seen.
+
+Brief Hospital Course:
+Ms [**Known patient lastname 33702**] is a 62yoF with h/o PAF on coumadin, CVA, HTN, HLD,
+who presents with chest pain, afib with RVR, and elevated
+troponin.
+.
+# Chest pain/NSTEMI: Troponin(t) elevated to 0.7 at [**Location (un) 18**], up
+to 0.87 at [**Hospital1 68**]. EKG showed lateral TWI and some non-specific
+ST changes. Cardiac cath on [**4-11**] showed 40% LAD disease. Thus,
+likely rapid Afib was the primary problem, and this caused some
+degree of stress cardiomyopathy and demand ischemia. It was also
+possible that this was due to an MI that spontaneously cleared.
+PE was ruled out with negative D-dimer at OSH. TTE showed focal
+wall motion abnormality (though not congruous with LAD lesion)
+and new decrease in EF (45%). The patient remained
+anticoagulated on coumadin. No Plavix was started, but aspirin
+was increased to 325mg daily. Cholesterol panel out of range
+(per below), last A1c [**3462**] 5.6%
+.
+# Atrial fibrillation / sick sinus syndrome: She went in and out
+of rapid afib and sinus bradycardia during this admission,
+consistent with sick sinus syndrome. TSH on [**3465-1-25**] of 1.7. She
+was initially anti-coagulated with heparin gtt and coumadin. On
+[**4-13**] she had a cardiac MRI for staging for a planned pulmonary
+vein isolation procedure. On [**4-14**] she went for PVI, but it was
+complicated by oropharnygeal bleeding [**2-23**] TEE probe, and she
+went to the CCU. The PVI was otherwise successful. In the CCU
+she was intubated for airway protection and briefly on pressors.
+She was extubated and off pressors within hours. She was doing
+well and called out to the floor in stable condition, without
+any more bleeding. Nodal agents were held given her tendency to
+be in sinus bradycardia when not in atrial fibrillation.   On
+[**4-16**] she had an episode of rapid Afib that responded to
+dronadarone and ranolazine.  On [**4-17**] her QTc found to be
+prolonged, therefore dronadarone was d/c.
+.
+# PUMP: TTE 1 year ago with normal function, now with EF 45% and
+wall motion abnormality. Euvolemic on exam. Will need repeat TTE
+in future to assess myocardial recovery after this acute event.
+.
+# Prolonged QTc: Went from 0.4 to 0.53s afer quinidine given on
+[**4-11**]. Once off quinidine, QTc back to 0.4ms.  Prolonged again
+after starting dronadarone [**4-16**], so this drug was d/c [**4-17**] prior
+to discharge.
+.
+# Oropharyngeal injury:  The patient suffered OP injury during
+intubation for PVI. Resistance was met in the pharynx while
+attempting to place the TEE probe, and no attempt was made to
+place the probe further into the esophagus.  The temperature
+probe was also noted to be displaced. Mild oozing was noted, and
+the pharynx was packed with good effect.  The patient was
+followed by ENT who recommended gastrograffin study to
+investigate possible injury.  Discussed with EP attending of
+record who did not feel swallowing study was necessary.  The
+patient's diet was advanced without complication.  The patient
+was d/c with ENT follow-up to ensure pharyngeal healing.
+.
+# Urinary tract infection: [**Month (only) 496**] have contributed to sympathetic
+tone and helped create afib w/ RVR. Completed 3 day course of
+Macrobid, UA cleared and patient became asymptomatic.
+.
+# GERD: Continued home omeprazole 40mg daily. Of note, her
+"GERD" [**Month (only) **] are occuring only when she is in rapid afib, so
+she may not have GERD but rather symptomatic arrhythmia. If
+[**Month (only) **] resolve after PVI, would consider decreased PPI or
+stopping it all together and trying an H2 blocker in the future
+.
+# Hyperlipidemia: On simvastatin at home, changed to
+atorvastatin this admission. Last chol panel: [**3465-1-26**]: total 181,
+trig 113, HDL 47, LDL 106. Goal LDL < 70.
+.
+# Osteopenia: continued calcium
+.
+=========================================
+TRANSITIONAL ISSUES
+- [**Doctor Last Name 852**] of Hearts monitor started prior to discharge for planned
+2 week monitoring; results to be reviewed with Dr [**Last Name (STitle) **]
+- ENT follow-up to assess pharyngeal healing
+- INR supratherapeutic during admission, warfarin dose reduced;
+this will require further adjustment
+- Dronadarone was d/c due to prolonged QTc, please continue to
+monitor QTc on discharge
+- If GERD [**Last Name (STitle) **] resolve, consider stopping PPI or switching
+to H2 blocker
+
+Medications on Admission:
+ESOMEPRAZOLE MAGNESIUM [NEXIUM] -  (Prescribed by Other
+Provider:
+[**Name Initial (NameIs) **]) - 40 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s) by
+mouth [**Hospital1 12**] unclear of dose
+PROPRANOLOL - 80 mg Capsule,Extended Release 24 hr - 1
+Capsule(s)
+by mouth once a day
+SIMVASTATIN - 40 mg Tablet - 1 Tablet(s) by mouth DAILY (Daily)
+SUCRALFATE - 1 gram Tablet - 1 Tablet(s) by mouth four times a
+day
+WARFARIN -  (Prescribed by Other Provider) - 2 mg Tablet - 1.5
+Tablet(s) by mouth qday
+Medications - OTC
+ACETAMINOPHEN [TYLENOL 8 HOUR] -  (Prescribed by Other Provider)
+- Dosage uncertain
+CALCIUM CARBONATE-VITAMIN D3 [CALCIUM 500 + D] -  (OTC) - Dosage
+uncertain
+MULTIVITAMIN -  (Prescribed by Other Provider) - Dosage
+uncertain
+
+Discharge Medications:
+1. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+2. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO DAILY (Daily).
+4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+5. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. sucralfate 1 gram Tablet Sig: One (1) Tablet PO four times a
+day.
+7. aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. warfarin 1 mg Tablet Sig: 1.5 Tablets PO 6X/WEEK
+(MO,TU,WE,TH,FR,SA).
+9. warfarin 1 mg Tablet Sig: One (1) Tablet PO 1X/WEEK ([**Doctor First Name **]).
+10. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain: no more than 2 gram/day.
+11. ranolazine 500 mg Tablet Extended Release 12 hr Sig: One (1)
+Tablet Extended Release 12 hr PO BID (2 times a day).
+Disp:*60 Tablet Extended Release 12 hr(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+atrial fibrillation with rapid ventricular rate
+stress/tachycardia induced cardiomyopathy.
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Dear Mrs [**Known patient lastname 33702**],
+
+It was a pleasure taking care of you at [**Hospital1 68**]. You were admitted
+for chest pain and atrial fibrillation. You had a cardiac
+catheterization, which showed no major blockages in your heart's
+arteries. We did find reduced function in your heart, likely
+from a rapid heart rate due to the atrial fibrillation. You had
+a pulmonary vein isolation procedure, which should prevent you
+from going into atrial fibrillation in the future. During your
+procedure the back of your mouth was bruised.  Our ENT team was
+consulted and will see you after discharge to ensure your
+healing.
+
+The following changes were made to your medications
+** STOP propranolol
+** STOP simvastatin
+** START atorvastatin
+** START aspirin
+** START ranolazine
+** CHANGE warfarin dose, as your INR was high
+
+Followup Instructions:
+Department: [**Hospital **] HEALTHCARE OF [**Location (un) **]
+When: TUESDAY [**3465-4-18**] at 11:00 AM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 182**]
+Building: [**Street Address(2) 1164**] ([**Location (un) 18**], MA) [**Location (un) 620**]
+Campus: OFF CAMPUS     Best Parking: Parking on Site
+
+Department: OTOLARYNGOLOGY-AUDIOLOGY
+When: MONDAY [**3465-5-1**] at 11:30 AM
+With: [**Name6 (MD) 27998**] [**Last Name (NamePattern4) 27999**], MD [**Telephone/Fax (1) 307**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+Department: CARDIAC SERVICES
+When: TUESDAY [**3465-5-2**] at 1:20 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7823**], MD [**Telephone/Fax (1) 654**]
+Building: [**Hospital6 127**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+Department: CARDIAC SERVICES
+When: FRIDAY [**3465-5-19**] at 1 PM
+With: [**Name6 (MD) **] [**Name8 (MD) 2976**], MD [**Telephone/Fax (1) 654**]
+Building: SC [**Hospital Ward Name 44**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) 2976**] MD [**MD Number(2) 16656**]
+
+
+
+DOC CLASS

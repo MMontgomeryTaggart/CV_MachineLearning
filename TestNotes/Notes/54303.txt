@@ -1,0 +1,308 @@
+Admission Date:  [**2879-3-8**]              Discharge Date:   [**2879-3-10**]
+
+Date of Birth:  [**2832-6-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Phenytoin / Antihistamines / Cipro
+
+Attending:[**First Name3 (LF) 1270**]
+Chief Complaint:
+Respiratory failure
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+Mr [**Name13 (STitle) **] is a 46 yo man c hx of alcohol dependence, depression
+, ADHD.Multiple suicide attempts including Phenobarb overdose.
+Pt recently transferred from [**Hospital 10086**] Hosp .Has been there
+since [**3-3**] for detox from alcohol. Pt had been c/o being unable
+to sleep over the last 72 hours.Pt was given trazodone and
+Seroquel after which he was found on the floor at the lobby of
+the institution, obtunded.
+In ED: pinpoint pupils, responding only to pain. BP 130/70 HR
+70.SpO2 99% RR 10.  Given 2 mg IV Narcan with no response. Pt
+was intubated for airway protection. Started on propofol drip.
+Urine was (+) for Benzos. CT of head with craniotomy on the
+left, no acute bleeding.  CT c-spine negative for fracture, kept
+in c-collar until able to clinically clear. Charcoal through NG
+tube was started.
+
+
+Past Medical History:
+Delirium tremens
+Bipolar Disorder
+[**8-19**] suicide attempts
+Traumatic brain injury [**2867**] s/p assault
+Secondary seizure disorder (d/2 trauma?)
+Cerebellar Ataxia (seizure meds?)
+Hep B
+[**Known patient firstname 4036**]'s esophagus
+Hx Delirium Tremens
+
+
+Social History:
+Lives in a shelter in [**Location (un) **]
+Unemployed
+No source of income
+Alcohol use since age 22
+Drinks 1 and [**1-9**] gallons of vodka every day
+Hx of many detoxes (one note reported >100)
+Denies use of any other illicit drugs/street pills/IVDA
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS BP 116/82 HR 78 T 98.8
+-Gen: caucasian man, intubated , sedated, no response to pain
+-HEENT: pinpoint pupils
+-Neck: no JVP
+-Chest: cta bl
+-CV: RRR no m/g/r
+-Abd: nt, nd
+-Ext: no edema
+
+
+Pertinent Results:
+[**2879-3-8**] 03:57PM   TYPE-ART O2-20 PO2-138* PCO2-40 PH-7.39 TOTAL
+CO2-25 BASE XS-0
+[**2879-3-8**] 09:16AM   TYPE-ART PO2-64* PCO2-48* PH-7.36 TOTAL
+CO2-28 BASE XS-0
+[**2879-3-8**] 05:40AM   TYPE-ART TEMP-37.0 RATES-[**12-23**] TIDAL VOL-600
+PEEP-5 O2-100 PO2-347* PCO2-53* PH-7.36 TOTAL CO2-31* BASE XS-3
+AADO2-312 REQ O2-58 -ASSIST/CON INTUBATED-INTUBATED
+[**2879-3-8**] 05:24AM   GLUCOSE-131* UREA N-6 CREAT-0.6 SODIUM-142
+POTASSIUM-3.8 CHLORIDE-107 TOTAL CO2-27 ANION GAP-12
+[**2879-3-8**] 05:24AM   ALT(SGPT)-30 AST(SGOT)-18 LD(LDH)-145
+CK(CPK)-68 ALK PHOS-58 TOT BILI-0.3
+[**2879-3-8**] 05:24AM   CK-MB-3 cTropnT-<0.01
+[**2879-3-8**] 05:24AM   ALBUMIN-3.8 CALCIUM-8.8 PHOSPHATE-4.2
+MAGNESIUM-1.6
+[**2879-3-8**] 05:24AM   VALPROATE-65
+[**2879-3-8**] 05:24AM   WBC-6.3 RBC-4.02* HGB-12.5* HCT-35.9* MCV-89
+MCH-31.0 MCHC-34.8 RDW-13.8
+[**2879-3-8**] 05:24AM   NEUTS-51.7 LYMPHS-40.7 MONOS-4.4 EOS-2.2
+BASOS-1.0
+[**2879-3-8**] 05:24AM   PLT COUNT-401
+[**2879-3-8**] 05:24AM   PT-12.3 PTT-24.2 INR(PT)-1.1
+[**2879-3-8**] 02:50AM URINE  HOURS-RANDOM
+[**2879-3-8**] 02:50AM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2879-3-8**] 02:50AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) **]-1.013
+[**2879-3-8**] 02:50AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2879-3-8**] 02:28AM   COMMENTS-GREEN TOP
+[**2879-3-8**] 02:28AM   GLUCOSE-158* LACTATE-1.6 NA+-143 K+-3.4*
+CL--101 TCO2-29
+[**2879-3-8**] 02:23AM   UREA N-8 CREAT-0.7
+[**2879-3-8**] 02:23AM   CK(CPK)-68 AMYLASE-32
+[**2879-3-8**] 02:23AM   CK-MB-NotDone cTropnT-<0.01
+[**2879-3-8**] 02:23AM   PHENYTOIN-<0.6*
+[**2879-3-8**] 02:23AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-POS barbitrt-NEG tricyclic-NEG
+[**2879-3-8**] 02:23AM   WBC-5.2 RBC-4.38* HGB-13.7* HCT-38.9* MCV-89
+MCH-31.4 MCHC-35.3* RDW-13.9
+[**2879-3-8**] 02:23AM   PT-12.4 PTT-24.9 INR(PT)-1.1
+[**2879-3-8**] 02:23AM   PLT COUNT-425
+[**2879-3-8**] 02:23AM   FIBRINOGE-266
+.
+CT c-spine: There is anterior cervical spine fusion seen at
+C4-C5. Degenerative changes are seen at this level and at C3-4
+and C4-5, as well as moderate to severe spinal stenosis. No
+fractures are identified. There is mild kyphosis at C3-4
+probably related to degenerative changes and fusion. The patient
+is intubated and has a nasogastric tube; prevertebral soft
+tissue swelling cannot be assessed. There appears to be some
+posterior pleural thickening at the right pulmonary apex.
+IMPRESSION: Degenerative changes of the spine, spinal stenosis,
+with cervical spine fusion at C4-5; no acute fracture is
+identified.
+.
+CT head: No acute intracranial hemorrhage. Previous left
+craniotomy and encephalomalacia of left frontal lobe.
+.
+CXR: 1. Successful intubation. Successful placement of
+nasogastric tube.
+2. Retrocardiac opacity with air bronchograms suggesting
+consolidation.
+.
+EKG: Sinus rhythm
+Inferior/lateral ST-T changes
+Since previous tracing, no significant change
+.
+
+
+Brief Hospital Course:
+The patient was admitted to the medical ICU, intubated and
+sedated. He was extubated on hospital day #1 without
+complication, and quickly weaned to room air by HD [**2-10**]. He
+remained somewhat sleepy but arousable to voice. A psychiatry
+consult was obtained and the patient was deemed not suicidal and
+the exact etiology of his obtundation/respiratory depression
+remained unclear.
+.
+Unresponsive episode:
+The pt was found down after being given Seroquel at an outside
+detoxification facility. The pt was noted to be unresponsive and
+was intubated for respiratory depression. The pt also underwent
+a CT head which ruled out a mass effect or bleed. The pt also
+underwent an MRI neck which showed the pt to be status post
+fusion at C4-5. There was no evidence of a fracture involving
+the posterior aspects of the vertebral bodies or acute
+encroachment on the spinal canal. There was hyperintensity in
+the cervical spinal cord at C4-5 which likely represents malacia
+from prior compression. There was some evidence of a narrowing
+of the spinal canal at the C4-5 and [**5-13**] levels but the spinal
+cord was also noted to be atrophic through these levels and did
+not appear compressed. There was no evidence of ligamentous
+injury posteriorly (of note, the hardware prevented evaluation
+of the possibility of anterior longitudinal ligament
+disruption). To date, the etiology of the pt's unresponsive
+episode was unclear but it was thought to be most likely toxic/
+metabolic. The pt was evaluated by psychiatry and they
+recommended a toxic-metabolic workup. On the first day on the
+[**Hospital1 **], the pt requested to leave against medical advise. The pt
+was evaluated urgently by the psychiatry service and was deemed
+to be capable of making a decision. Pt was deemed safe for
+discharge, and appeared to have good understanding the of
+medical concerns and risks of premature discharge. The
+psychiatry service felt that the pt was not suicidal, psychotic
+or confused. Their primary concern was that pt will resume
+alcohol abuse on discharge. He was also subsequently evaluated
+by the Medicine Attending, Dr. [**Name (NI) **] and was deemed
+medically stable for discharge home. The following studies:
+TSH, RPR and B12 were pending at the time of discharge and will
+need to be followed up as an outpatient by the patient's primary
+care provider.
+.
+ETOH abuse
+The pt was noted to be slightly tremulous on admission to the
+[**Hospital1 **]. It is likely that he is out of the window period for
+alcohol withdrawal. The pt was continued on  thiamine, folate
+and multivitamins. The pt was encouraged to participate in a
+more intensive addictions treatment, including inpatient
+rehabilitation. The pt reported that he is on a "waiting list"
+at [**Hospital 1327**] Hosp and does not want us to pursue this further.
+.
+Seizure disorder
+The pt was continued on anti-epileptics and there was evidence
+of active seizure activity.The pt was offered complete workup of
+possible underlying seizures, including an EEG, but he refused.
+The pt was made aware of the possibility of recurrent seizures
+with the possibility of harm to himself or someone else. The pt
+acknowledged and accepted these risks. He was instructed to not
+drive until he was cleared to do so by a neurologist. The pt may
+benefit from an EEG as an outpatient in the event of recurrent
+seizures.
+.
+Neck pain
+The pt was noted to complain of neck pain. There was no evidence
+of fracture or misalignment on CT. The pt also underwent an MRI
+that showed no evidence of a cord compression or a ligamentous
+injury. He was given a soft collar by the orthopedics service
+which he agreed to wear until there was improvement of neck
+pain.
+.
+?Ascites
+The pt was noted to have a mild shifting dullness on clinical
+exam. However, there is no current evidence of synthetic
+dysfunction. The pt would benefit from an out-patient evaluation
+of underlying ascites and possible cirrhosis with an abdominal
+ultrasound.
+.
+Prophylaxis:
+The pt was maintained on pantoprazole and was encouraged to
+ambulate.
+.
+Code: Full code
+
+
+Medications on Admission:
+Depakote 500mg tid
+Neurontin 600mg tid
+Ritalin 54mg qam
+Campral 666mg tid
+Thiamine 100mg daily
+seroquel 100mg qhs
+Effexor 225mg qd
+.
+All: Dilantin, Tegretol, Antihistamines, cipro
+
+
+Discharge Medications:
+1. Venlafaxine 75 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+2. Divalproex 500 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO TID (3 times a day) for 7
+days.
+Disp:*21 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every
+8 hours) for 7 days.
+Disp:*14 Capsule(s)* Refills:*0*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. CONCERTA 54 mg Tab, Sust Release Osmotic Push Sig: One (1)
+Tab, Sust Release Osmotic Push PO once a day for 7 days.
+Disp:*7 Tab, Sust Release Osmotic Push(s)* Refills:*0*
+6. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+-unresponsive episode: likely adverse effect of medication
+-Substance abuse with h/o DTs
+-Bipolar disorder
+-Multiple suicide attempts
+-s/p subdural hematoma in '[**67**] following trauma w/ evacuation and
+cranitomy
+-Secondary seizure disorder
+-Cerbellar ataxia
+-HBV
+-[**Known patient firstname 4036**]'s esophagus
+-?c-spine surgery several years ago
+-s/p appy
+
+
+Discharge Condition:
+Stable, in no respiratory distress and has no confusion.
+
+
+Discharge Instructions:
+Please report to the nearest emergency room if you have
+lighheadedness, loss of consciousness, worsening neck pain,
+nausea, vomiting, confusion, weakness or loss of sensation.
+.
+There has been a change in your medications. Please take all
+medications as directed. Please ask your primary care provider
+for refills of your home medications.
+.
+Please call your PCP and schedule an appointment to see her
+within the next week. You will need to ask your PCP to [**Name9 (PRE) 147**]
+on the final results of your MRI head and neck.
+.
+Please continue to attend your AAA meetings and see your
+psychiatrist within one week of discharge.
+
+Followup Instructions:
+Please call your PCP after discharge and schedule an appointment
+to see her within the next week.
+
+
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 1272**]
+
+Completed by:[**2879-3-13**]
+
+DOC CLASS

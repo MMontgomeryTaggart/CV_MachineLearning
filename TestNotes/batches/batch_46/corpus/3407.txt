@@ -1,0 +1,225 @@
+Admission Date:  [**2707-6-3**]              Discharge Date:   [**2707-6-17**]
+
+Date of Birth:  [**2628-12-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 353**]
+Chief Complaint:
+abdominal pain
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+78 yo Russian speaking F with h/o pulmonary HTN, CHF, OSA on
+home O2 who initially admitted on [**2707-6-3**] from home with
+vomiting, loss of appetite x 1 month. Diarrhea x 1 week. Per ED
+notes, pt also c/o RLQ/RUQ pain; rates pain as [**9-11**] lasting
+several days. Pt is also chronically on home O2 2-3L NC for OSA,
+CHF and pulmonary hypertension.
+.
+ED COURESE: VS afebrile, HR 62, BP 144/85, RR 20, 95% RA. Exam
+notable for RUQ/RLQ tenderness to palp, guaiac neg. Given zofran
+8 mg IV x 1 with improvement in sxs. CT showed no new changes.
+Ready for d/c but then nauseous. No abx in ED. Given 10 mg
+compazine as well.
+.
+Admitted to medicine for diarrhea. On arrival, hx obtained from
+interpreter. Pt c/o of right > left abd pain for unclear
+duration of time, also with nausea/vomiting; diarrhea 3-4 days
+ago but none since. No chest pain/pressure, SOB, cough. No GU
+sxs. Poor appetite for several weeks. On floor pt found to be
+hypoxic on O2 4LNC O2 sats 85%, CXR c/w pulm edema, she was
+given 40mg IV x 2, nebs, and put out 1.5L UOP, she was also put
+on a NRB with improvement in O2 Sats to 95%. However, patient
+kept trying to pull off her NRB mask leading to [**Last Name (LF) 15577**], [**First Name3 (LF) **] was
+transferred to the [**Hospital Unit Name 152**] for more intensive care and monitoring.
+
+
+
+Past Medical History:
+1.Atrial septal defect repair [**7-3**] complicated by sinus arrest
+with PPM placement.
+2. CHF
+3. AF s/p cardioversion x 2 (on amiodarone)
+4. HTN
+5. GERD
+6. TAH/BSO ('[**01**]) for fibroids
+7. ?CVA
+8. Pulm HTN
+9. CRI (baseline 1.5)
+10. OSA on home O2 (2-3L NC)
+11. s/p APPY, s/p CCY ('[**01**])
+12. Gallstone pancreatitis s/p ERCP, sphincterotomy
+13. Elevated alk phos secondary to amiodarone
+
+(All above per hospital records)
+
+
+Social History:
+Lives alone in senior living housing, has daughter in law who
+brings her groceries, has VNA once a week. No tob, EtOH, IVDU
+
+
+Family History:
+NC
+
+Physical Exam:
+ON ADMIT
+VS: T 98.1, 91-95% on NRB, HR 60-74, 116/48, RR 22-26
+Gen: Russian speaking woman, lying in bed comfortable, not using
+accessory muscles, breathing comfortably on NRB
+HEENT: PERRL, + periorbital edema, JVP hard to assess [**1-4**] thick
+neck
+CV: RRR, nl s1/s2
+LUNGS: pronounced crackles bilaterally 1/2way up lungs, R>L
+ABD: obese, soft, +BS, + discomfort with palp, no
+rebound/guarding,
+EXT: no LE pitting edema
+
+
+Pertinent Results:
+ECHO BUBBLE STUDY -negative for shunt
+CR:
+
+Brief Hospital Course:
+resp failure -rx'd multifact -chf, pulm htn, pna
+CHF -diastolic ef 75% -diuresed lasix gtt, til cr bumped
+PULM HTN - no shunt on bubble study, pulm to see for any other
+recs
+?PNA -RLL opacity, zosyn started, though no wbc count, may stop
+since cr bumped
+AFIB -paced, not on anticoag due to h/o hemorrhagic stroke,
+CKD -1.8-2ish, now up 2.4 after lasix gtt, holding, good uop
+CHEST PAIN -cm's negative x5, always resolves with gi cocktail
+DISP -> rehab, usually goes home, then fails, ?placement
+______________________________________bt/[**6-13**]/
+
+1) N/V/D -- likely viral gastroenteritis, resolved with
+supportive care.  Unfortunately, iatrogenic CHF exacerbation
+after aggressive fluid resucitation.  See the following course.
+
+2)Respiratory Distress: Transferred to the [**Hospital Unit Name 152**] from the floor
+for acute worsingin hypoxia.  Acute pulmonary edema s/p fluid
+hydration for viral gastroenteritis in baseline severe pulmonary
+HTN (worse on ECHO from [**6-6**], 75 to 90 mm Hg), +/- worsening pulm
+HTN, +/- PNEUMONIA.  Improved over several days with diuresis
+and BIPAP use.  Transferred back to 11 [**Hospital Ward Name 1804**] when she became
+stable on nasal canula.  Slowly weaned to baseline home oxygen
+requirement of 4 liters.  Additionally treated with Zosyn for
+concern of hospital acquired pneumonia, but unconvincing
+clinical picture without fever or elevated WBC.  Zosyn was
+discontinued 24 hours prior to discharge without event.  The
+pulmonary team consulted regarding her pulmonary hypertension,
+and recommended avoiding afterload reduction and possible future
+evaluation for OSA.  Pt refused BiPAP repeatedly and an
+evaluation was deferred until she may be more compliant with the
+treatment.
+
+3)CHF EXACERBATION [**Hospital 15578**] transfer to the ICU, was diuresed
+with a lasix gtt with improvement in symptoms. 02 sats 91-95% on
+6L, up from her 4Lbaseline.
+-spent several days in the unit getting diuresed.  Lasix was
+held for about three days as patient creatine increased. her
+respiratory status remained stable, bubble study was negative
+for shunt. Ultimately patient was transferred back to the floor,
+with pulmonary consult for consideration of interventions or
+other treatments for her severe pulm HTN.
+.
+.
+-creatine stabilized, home dose lasix was restarted without
+event.
+.
+.
+4)CKD: baseline cr 1.8 ~2.1, peaked at 2.4 after diuresis.
+diuresis was held, patient continued to have good urine output.
+cr returned to baseline, was 1.7 on discharge.
+.
+
+5)ATRIAL FIBRILLATION -rate controlled in 60s. metoprolol and
+amiodarone was continued per her home dosing.  The ICU team
+inquired about her [**Hospital **] status, and after discussion
+with PCP, [**Name10 (NameIs) **] it was deemed [**Name10 (NameIs) **] is
+contraindicated due to her past history of hemorrhagic stroke.
+.
+7)Hypothyroidism: levothyroxine continued.
+
+
+
+Medications on Admission:
+Meds: (per old d/c summary)
+home oxygen  2-3L
+amiodarone 200 mg qd
+lasix 40 mg qam/20 mg qpm
+paroxetine 10 mg qd
+ASA 81 mg qd
+atorvastatin
+vit
+toprol XL 25 mg qd
+levothyroxine 75 mcg qd
+PPI
+oxycodone 5 mg prn
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+3. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+9. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+10. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+12. Furosemide 40 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)).
+13. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q 1400  ().
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 2520**] - [**Location (un) **]
+
+Discharge Diagnosis:
+hypoxia
+chf exacervation
+pulmonary hyptertension
+pneumonia
+
+
+Discharge Condition:
+stable, on home oxygen of 4 Lpm nasal canula
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 137**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 2 liters
+
+Followup Instructions:
+Please follow up with your primary physician within two weeks,
+and appointment
+
+
+
+
+DOC CLASS

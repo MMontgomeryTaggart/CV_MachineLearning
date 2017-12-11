@@ -1,0 +1,222 @@
+Chief Complaint:
+   24 Hour Events:
+   Rheum c/s and recs: Doesn
+t believe GI presentation is lupus related,
+   only lupus manifestation currently is renal related.
+   1. Recommend a GI consult for EGD/colonoscopy for bowel
+   visualization and biopsy as needed
+   2. Continue infectious work-up including stool studies,
+   evaluation for C. diff, and other enteric pathogen
+   3. Empiric antibiotic coverage for enteric pathogens
+   4. Recommend further evaluation for falling hematocrit and
+   platelet, including reticulocyte count, haptoglobin, fibrinogen,
+   PF4 antibody, iron studies, B12, folate, stool guaiac
+   5. Please check anticardiolipin IgG, anticardiolipin IgM, and
+   anti-beta2-glycoprotein.
+   6. If possible to perform by reversing heparin, please ask lab to
+   perform a lupus anticoagulant assay. (may not be able to correct
+   for presence of Coumadin or heparin)
+   7. Please check for titers of dsDNA & levels of CH50, C3, and C4
+   8. If patient is refusing PO prednisone 4 mg qd, please provide
+   equivalent IV dose of Solu-Medrol 4 mg qd to prevent patient from
+   developing symptoms related to adrenal insufficiency.
+   Surgery recs: Bowel rest, NPO. Occult blood positive (trace) If HCT
+   drops, will need NGT lavage.
+   Repeat HCT 22.4 from 21.4.
+   On Regular diet since refusing PO meds unless has diet.
+   VBG 7.23/37/52/16 Lactate 0.7: Metabolic acidosis
+   Could not tol 1liter of PD, so only infused 400cc. Will d/w renal in am
+   Changed dilaudid to q3 prn
+   Lost IV access. Only has 1 PIV, difficult drawing off of so PICC
+   ordered.
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Last dose of Antibiotics:
+   Metronidazole - [**3354-9-15**] 08:36 PM
+   Infusions:
+   Heparin Sodium - 850 units/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3354-9-15**] 08:00 AM
+   Hydromorphone (Dilaudid) - [**3354-9-15**] 01:57 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3354-9-16**] 04:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.8
+C (98.2
+   HR: 82 (79 - 101) bpm
+   BP: 145/91(101) {126/64(77) - 211/137(150)} mmHg
+   RR: 13 (13 - 31) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,247 mL
+                                                                    442 mL
+   PO:
+             300 mL
+   TF:
+   IVF:
+                                                                  2,247 mL
+                                                                    142 mL
+   Blood products:
+   Total out:
+                                                                    870 mL
+                                                                  1,650 mL
+   Urine:
+                                                                    870 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,377 mL
+                                                                 -1,208 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: 7.25/35/55/14/-10
+   Physical Examination
+   General Appearance: Well nourished, in mild distress secondary to abd
+   pain
+   Eyes / Conjunctiva: L prostetic eye, EOMI in R eye, no conjunctival
+   pallor
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: Tachycardia, 2/6 SEM appreciated throughout and
+   greatest at LLSB
+   Peripheral Vascular: 2+ DP Bil
+   Respiratory / Chest: CTAB, no WRR
+   Abdominal: Soft, Tenderness to palp over RLQ, RUQ, epigastric and below
+   umbilicus, no peritoneal signs, +BS; PD line intact with dressing
+   clean, dry and intact.
+   Skin:  warm
+   Neurologic: Attentive, follows commands
+   Labs / Radiology
+   108 K/uL
+   7.4 g/dL
+   123 mg/dL
+   8.0 mg/dL
+   14 mEq/L
+   3.9 mEq/L
+   47 mg/dL
+   103 mEq/L
+   131 mEq/L
+   22.4 %
+   3.6 K/uL
+        [image002.jpg]
+                             [**3354-9-14**]  07:51 AM
+                             [**3354-9-15**]  03:48 AM
+                             [**3354-9-15**]  08:03 PM
+                             [**3354-9-15**]  08:06 PM
+   WBC
+   6.4
+   4.1
+   3.6
+   Hct
+   24.5
+   21.4
+   22.4
+   Plt
+   134
+   114
+   108
+   Cr
+   7.9
+   8.1
+   8.0
+   TropT
+   0.08
+   TCO2
+   16
+   Glucose
+   75
+   118
+   123
+   Other labs: PT / PTT / INR:16.8/150.0/1.5, CK / CKMB /
+   Troponin-T:133/8/0.08, ALT / AST:17/64, Alk Phos / T Bili:139/0.2,
+   Amylase / Lipase:311/49, Differential-Neuts:77.6 %, Band:0.0 %,
+   Lymph:15.1 %, Mono:6.4 %, Eos:0.7 %, Lactic Acid:1.3 mmol/L,
+   Albumin:3.5 g/dL, LDH:308 IU/L, Ca++:6.4 mg/dL, Mg++:1.5 mg/dL, PO4:5.6
+   mg/dL
+   Assessment and Plan
+   24 yo F with ESRD, malignant HTN, started PD earlier this week,
+   presented with N/V/D, abd pain, and hypertensive urgency.
+   # Nausea/Vomitting/Diarrhea/Abd Pain: Abd pain increasing, N/V/D
+   resolving. DDx: Infection: c. diff colitis (Cx pending), peritonitis
+   (PD catheter in place and source of infxn), viral gastroenteritis, SBP
+   (unlikely as PD fluid Cx shows NGTD and without leukocytosis); and
+   Ischemia: h/o thrombotic events and SLE vasculitis (ischemia unlikely
+   given low lactate).
+   - Appreciate surgery recs.
+   - Continue supportive care
+   - Serial Abd Exams
+   - F/u Stool Studies
+   - Continue Flagyl empirically
+   - Will guaiac stoolsx3
+   - Heparin gtt for treatment of possible thrombotic ischemia.
+   - Dilaudid for pain management
+   - Re-assess peritoneal dialysis fluid today to re-assess PD-induced
+   peritonitis.
+   # Hypertensive urgency: O/N SBP <150 after started on PO meds
+   yesterday, however, SBP increased this morning [**1-12**] pt did not take PO
+   meds last night and [**1-12**] increased abd pain.
+   -          Continue labetalol gtt. consider placing pt back on PO meds
+   if pt can tolerate. SBP goal of <150.
+   -          Pain control with Dilaudid
+   # Hyponatremia: Na decreasing 135
+130; LOS Fluid Balance: +2.2L;
+   Etiologies include GI losses, CRF.
+   - D/c IVF
+   -Recheck lytes tomorrow.
+   .
+   # ESRD: Likely [**1-12**] SLE.  Estimated GFR is 8mL/min. Cr increasing,
+   currently at 8.1
+   - PD dialysis today if pt is able to tolerate.
+   - Will follow renal recs.
+   .
+   # Anemia:  HCT of 35.0
+21.5 from baseline of in mid 20s. Normocytic.
+   LDH elevated. Etiologies include ACD [**1-12**] CRF
+   -          Check H&H this afternoon
+   -          Crossmatch for 2units and consider transfusion
+   .
+   # Decreased Bicarb:  Bicarb on admission continues to remain low at 13,
+   baseline 16-20, AG 14
+   - Will get VBG to assess acid base status
+   .
+   #OSA: pt unable to tolerate CPAP.
+   -Continue to encourage CPAP at night to help OSA and also HTN.
+   -F/u with outside PCP for OSA [**Name Initial (PRE) **]/u.
+   #Hypocalcemia: Ca decreased at 6.5
+   -Continue Calcitriol and Calcium carbonate.
+   # H/O Venous Thrombosis: warfarin 2mg qd at home. INR 1.2 on arrival,
+   last INR 1.4
+   -          Heparin IV gtt; continue warfarin home dose
+   -          Follow INR with daily coags
+   .
+   # SLE:  Possible etiology of GI symptoms includes vasculitis.
+   -Cont. prednisone 4mg home dose; Will check prednisone level.
+   - C/s rheumatology to assess if SLE maybe source of GI symptoms.
+   .
+   # FEN: NPO. Replete lytes prn.
+   .
+   # ACCESS: PD cath, PIV.
+   .
+   # PPx: Heparin gtt, holding bowel regimen
+   .
+   # CODE: FULL
+   .
+   # COMMUNICATION: patient, mother [**Name (NI) 4859**] [**Name (NI) **] (works at [**Hospital1 52**]).
+
+
+DOC CLASS

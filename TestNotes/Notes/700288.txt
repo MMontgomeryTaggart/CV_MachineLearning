@@ -1,0 +1,183 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - called out but didn't get bed
+   - [**Last Name (un) 257**]:  had med non-compliance and was not taking levemir as
+   directed
+   - got HD
+   - made dni/dnr
+   - restarted metoprolol for htn
+   - GPRs in anerobic bottle from one set of bcx drawn in ED on [**2-18**].
+   wrote for another set. ??antibx (ceftriaxone, amp)
+ EKG - At [**3310-2-19**] 12:06 PM
+ MULTI LUMEN - STOP [**3310-2-19**] 02:22 PM
+ ARTERIAL LINE - STOP [**3310-2-19**] 02:26 PM
+ CALLED OUT
+   Allergies:
+   Tapazole (Oral) (Methimazole)
+   Rash;
+   Last dose of Antibiotics:
+   Piperacillin - [**3310-2-19**] 12:00 AM
+   Vancomycin - [**3310-2-19**] 10:02 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3310-2-19**] 11:01 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3310-2-20**] 07:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**12**] AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 37.3
+C (99.2
+   HR: 87 (87 - 110) bpm
+   BP: 157/82(30) {80/46(30) - 183/93(112)} mmHg
+   RR: 17 (14 - 21) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,644 mL
+                                                                     76 mL
+   PO:
+                                                                    390 mL
+             TF:
+   IVF:
+                                                                  1,254 mL
+                                                                     76 mL
+   Blood products:
+   Total out:
+                                                                  2,050 mL
+                                                                      0 mL
+   Urine:
+   NG:
+                                                                    650 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -406 mL
+                                                                     76 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 93%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   216 K/uL
+   10.5 g/dL
+   207 mg/dL
+   5.9 mg/dL
+   26 mEq/L
+   4.3 mEq/L
+   38 mg/dL
+   98 mEq/L
+   139 mEq/L
+   31.9 %
+   11.9 K/uL
+        [image002.jpg]
+                             [**3310-2-18**]  10:10 AM
+                             [**3310-2-18**]  11:40 AM
+                             [**3310-2-18**]  12:22 PM
+                             [**3310-2-18**]  08:19 PM
+                             [**3310-2-19**]  12:00 AM
+                             [**3310-2-19**]  02:49 AM
+   WBC
+   7.6
+   10.3
+   11.9
+   Hct
+   35.8
+   33.5
+   31.9
+   Plt
+   223
+   239
+   216
+   Cr
+   5.7
+   5.8
+   5.9
+   TCO2
+   34
+   33
+   Glucose
+   [**Telephone/Fax (3) 11244**]07
+   Other labs: PT / PTT / INR:11.4/27.8/0.9, CK / CKMB / Troponin-T:152//,
+   ALT / AST:16/29, Alk Phos / T Bili:54/0.3, Differential-Neuts:93.4 %,
+   Lymph:4.2 %, Mono:1.9 %, Eos:0.3 %, Lactic Acid:2.1 mmol/L, Albumin:3.9
+   g/dL, LDH:237 IU/L, Ca++:8.7 mg/dL, Mg++:1.7 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   Mr. [**Known patient lastname **] is a 56 year-old man with DM1, ESRD, PVD, dCHF, and recurrent
+   admissions for hypoglycemia who presents with hypoglycemia and
+   unresponsiveness and is transferred to the MICU for further management.
+   # Hypothermia/unresponsiveness:  Resolved, likely in setting of
+   hypoglycemia.  TFTs stable and SDH resolving.  Sepsis also possible
+   though less likely.
+   - management of DM1 as below
+   - cont thiamine and mvi
+   - f/u culture data
+   - f/u head CT final read
+   # Positive blood cultures: has GPR on blood cx from [**3310-2-18**].  DDx
+   includes listeria, clostridium, bacillus anthracis.  [**Month (only) 56**] be related to
+   nausea.
+   - repeat bcx
+   - would start clinda/cipro/ampicilin if spikes
+   # Diabetes I:  History of recurrent episodes of hypoglycemia.  On
+   prednisone, Mycophenolate from rhuem.
+   - check FS Qachs for now
+   - cont lanus and HISS
+   - continue prednisone
+   - patient refusing mycohpenolate; started by rheumatologist and patient
+   states he does not understand the indication for this medication, will
+   need to clarify
+   - [**Last Name (un) 257**] reccs cont current regimen
+   - SPEP with IgM monoclonal spike on SPEP to 368 on last admission,
+   consider repeat rheum consult for ? of autoimmune process causing
+   hypoglycemia and potential of initiating rituximab (has been treated
+   with IVIG in the past)
+   # History of SDH:  Found on head CT in [**1-8**] for evaluation for
+   agitation/AMS.  Seen by neurosurg and thought to be chronic, not
+   intervened upon.
+   - holding heparin, ASA
+   - f/u head CT
+   # ESRD on HD:  On HD qTThSat, last session on Saturday.
+   - renal reccs
+   - got HD yesterday
+   - Cont nephrocaps, calcitriol, and TID calcium carbonate
+   # HTN:
+   - holding BP meds
+   # [**Doctor Last Name 573**] disease:
+   - Cont synthroid
+   # Hyperuricemia:
+   - Cont allopurinol
+   # Hyperlipidemia:
+   - Cont statin
+ DIABETES MELLITUS (DM), TYPE I
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3310-2-19**] 02:26 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

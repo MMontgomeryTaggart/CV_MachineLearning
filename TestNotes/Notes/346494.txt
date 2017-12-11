@@ -1,0 +1,273 @@
+Chief Complaint:  Pleurisy
+   HPI:
+   Mr. [**Known patient lastname 3774**] is a 56 yo M with a history of hemachromatosis c/b CVA [**50**]
+   year ago with no residual deficits, who presented to the ED today
+   complaining of several days of left sided chest pain that is worse with
+   inspiration. The pain is sharp and nonradiating and is worse with
+   sitting up. It's constant. He also complains of shortness of breath,
+   but he feels this is because it was very painful to breath at all. He
+   has a cough productive of brown sputum. He admitted to vomiting earlier
+   in the week. He has had decreased appetite and poor PO intake for the
+   last 2 days.  He denies f/c, n/d, diaphoresis, palpitations.
+   .
+   In the ED, the patient's VS were 97.3, 101, 130/83 satting 95%6L nc. He
+   underwent CTA to r/o PE, which was negative, but showed a dense LLL
+   pna. His labs were notable for a leukocytosis to 14,000 with 22 bands,
+   a creatinine of 1.7, and a lactate of 3.5. He was given 3L NS and a
+   dose of levofloxacin 750mg x 1. He also received morphine, toradol and
+   dilaudid for pain control. Lactate improved to 2.5 with IVF. Cardiac
+   enzymes were negative and EKG was without ischemic changes.
+   .
+   On the floor, the patient's pain was much better controlled. He denied
+   shortness of breath, fevers/chills. He noted that as long as his pain
+   was controlled, his breathing felt comfortable. He felt very thirsty.
+   Shortly after arrival to the floor the patient triggered for
+   tachycardia to 150 while attempting to give a sputum sample.  Telemetry
+   monitoring showed a narrow complex tachycardia with p waves present
+   that lasted for about 6 minutes.  His tachycardia broke with a valsalva
+   maneuver and his heart rate returned to the 90s.  He was transfered to
+   the ICU for closer monitoring.
+   Patient admitted from: [**Hospital1 17**] [**Hospital1 152**]
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   Hemochromatosis
+   HTN (used to be on lisinopril, stopped taking meds)
+   s/p CVA [**50**] years ago. No residual deficits.
+   Nephrolithiasis
+   [**2837**]: TTE with EF > 55%, no perfusion defects on exercise MIBI
+   Non-contributory
+   Occupation:
+   Drugs: none
+   Tobacco: 2.5 ppd x 27 yrs; quit 17 yrs ago
+   Alcohol: none
+   Other:
+   Review of systems:
+   Constitutional: No(t) Fever, No(t) Weight loss, Loss of apetite
+   Cardiovascular: Chest pain
+   Respiratory: Cough
+   Gastrointestinal: No(t) Abdominal pain, Emesis, No(t) Diarrhea, No(t)
+   Constipation
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Heme / Lymph: hemochromotosis
+   Flowsheet Data as of [**2842-10-19**] 02:52 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.6
+   Tcurrent: 35.9
+C (96.6
+   HR: 104 (104 - 113) bpm
+   BP: 119/72(82) {119/72(82) - 133/77(91)} mmHg
+   RR: 17 (17 - 19) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+             3,947 mL
+   PO:
+             TF:
+   IVF:
+   697 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    200 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  3,747 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   Physical Examination
+   VS: T 96.6, HR 106, BP 138/78, 91% on 6L NC
+   Gen: NAD, ruddy complexion, pleasant
+   HEENT: EOMI, PERRL, OP clear, MM dry.
+   Neck: No JVD, no LAD
+   CV: RRR no m/r/g
+   Pulm: No breath sounds at the left base, +dullness to percussion and
+   reduced fremitus at LLL. Diffuse musical wheezing and rhonchi.
+   Abd: soft +BS, NT/ND, No HSM
+   Extrem: no c/c/e, strong pulses.
+   Skin: no rashes
+   Neuro: CN II-XII intact bilaterally. Strength is [**3-31**] bilaterally.
+   Sensation to LT in tact. No tremor. A&Ox3.
+   Labs / Radiology
+   14.4 g/dL
+   125
+   1.2
+   37
+   22
+   105
+   4.3
+   136
+   38.5 %
+   7.6 K/uL
+        [image002.jpg]
+                                  [**2839-11-28**]
+                         2:33 A11/23/[**2841**]  01:35 AM
+                                  [**2839-12-2**]
+                                   10:20 P
+                                  [**2839-12-3**]
+                                   1:20 P
+                                  [**2839-12-4**]
+                                   11:50 P
+                                  [**2839-12-5**]
+                                   1:20 A
+                                  [**2839-12-6**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2839-12-29**]
+                                   1:20 P
+                                  [**2839-12-29**]
+                                   11:20 P
+                                  [**2839-12-29**]
+                                   4:20 P
+   WBC
+                                     7.6
+   Hct
+                                    38.5
+   Other labs: PT/PTT/INR: 18.2 / 36.8 / 1.7; ALT / AST:32/48, Alk Phos /
+   T Bili:107/3.6, Amylase / Lipase:15/15, Lactic Acid:3.0 mmol/L,
+   Albumin:3.2, LDH:157, Ca++:8.2, Mg++:1.8, PO4:3.3;
+   Diff: N:59 Band:22 L:3 M:12 E:0 Bas:0 Metas: 3 Myelos: 1
+   Fluid analysis / Other labs: 7.32 / 45 / 85 / 24; Lactate 3.0; UA
+   negative.
+   Imaging: CXR: FINDINGS: There is a focus of dense consolidation in the
+   left lower lobe. The right lung is clear. The cardiomediastinal
+   silhouette is unremarkable. CONCLUSION: Dense pneumonic consolidation
+   in the left lower lobe. Please ensure followup to clearance.
+   .
+   CTA: CONCLUSION:
+   1. Dense pneumonic consolidation involving most of the left lower lobe,
+   please ensure followup to clearance.
+   2. Up to 4 mm scattered pulmonary nodules in the right lower lobe
+   should be  followed up with a chest CT in six months if the patient is
+   at high risk of cancer. Otherwise, followup is recommended with a chest
+   CT in 12 months.
+   3. Contour deformities in the liver and splenic enlargement consistent
+   with cirrhosis.
+   ECG: EKG: Sinus tachycardia. Evidence of LVH. ?Q in III but
+   noncontiguous. No STTWC.
+   Assessment and Plan
+   A/P: 56 yo M with history of hemochromatosis and history of CAP,
+   presents with LLL pneumonia and hypoxia.
+   .
+   # Sepsis from LLL pneumonia- patient with elevated lactate,
+   hypothermia, leukocytosis with marked bandemia, acute renal failure and
+   hypoxia with CT findings consistent with LLL pneumonia. This would be
+   CAP, but given significant O2 requirement with a PaO2/FiO2 ratio of
+   85/0.44 = 193, patient could decompensate further. Currently, patient
+   is hemodynamically stable, but given his condition it is reasonable to
+   double cover him for GNR.
+   - Levoflox 750 daily, CTX 1g 24h
+   - sputum culture
+   - blood cultures pending
+   - monitor clinical status carefully
+   - IVF - received 3L already, giving another 1.5L overnight.
+   - recheck lactate in AM
+   - should receive pneumovax as outpatient, as he seems to come in every
+   year in the winter with CAP
+   - pain control
+   .
+   # Acute Renal Failure - Cr 1.7 and spec [**Last Name (un) **] of >1.035, likely prerenal
+   azotemia.  Baseline 1.0 in [**12-3**].
+   - continue IVF overnight, recheck BUN/Cr in AM
+   .
+   # Thrombocytopenia - patient with splenomegaly on CT scan, with
+   ?cirrhosis. Likely secondary to sequestration. Will still continue
+   heparin subcut for DVT ppx, but monitor plts.
+   .
+   # ?Cirrhosis on CT: etiology includes hemochromatosis, chronic hep C,
+   etoh. Patient denies etoh. No hepatitis serologies in our system.
+   - check hepatitis serologies
+   - iron studies
+   - coags, LFT's, albumin
+   - consider hepatology c/s and possible liver bx while in house once
+   clinically improved from pna
+   .
+   # Hemochromatosis: checking iron studies. Patient notes that he has not
+   gone in for therapeutic phlebotomy in several years because he lost his
+   insurance.
+   - heme consult while in house
+   .
+   # Pulmonary nodules - discovered on CT scan. ?secondary to infection.
+   Should obtain repeat CT scan in [**5-8**] months to eval for interval
+   change/resolution.
+   .
+   # FEN: replete lytes prn, regular heart healthy diet; finish 500 cc NS
+   bolus then 1.4 L NS at 200 cc/hr
+   .
+   # PPx: heparin sc tid, bowel regimen.
+   .
+   # Access: PIV
+   .
+   # Code: full
+   .
+   # Communication: With patient.  NOK is his sister.
+   ICU [**Name2 (NI) 75**]
+   Nutrition:
+   Comments: Heart healthy diet
+   Glycemic Control:
+   Lines:
+   16 Gauge - [**2842-10-19**] 01:32 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: Not indicated
+   VAP: HOB elevation
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Critical Care
+   Present for key portions of history and exam. Agree with assessment and
+   plan per Dr. [**Last Name (STitle) 3791**].  Lobar LLL bronchopneumonia in a man with prior
+   PNA in same segment. Likely has some degree of bronchiectasis in that
+   lobe.  C/O continued pleuritic pain on L.  We are covering for severe
+   CAP, controlling pain, monitoring SaO2 and heart rate.  He has been
+   stable hemodyn since transfer.  Marked L shift on diff reflects
+   severity of infection.  Certainly needs further w/u and therapy for his
+   hemochromatosis this adm including echo.  Would consult Hematology and
+   liver to see him Monday.
+   Time spent: 65
+   Patient is critically ill
+   ------ Protected Section Addendum Entered By:[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 51**] [**Last Name (NamePattern1) 35**], MD
+   on:[**2842-10-19**] 09:57 ------
+   Addendum to plan after morning rounds:
+   1. Sepsis:
+   - recheck lactate this morning
+   - cont. IVF
+   - cont. antibiotics
+   - f/u sputum gram stain & culture
+   2. Acute renal failure
+ likely entirely pre-renal & trending downward
+   3. Thrombocytopenia
+ unclear if related to sepsis vs. marrow
+   abnormality from hemochromotosis.  Will c/s hematology on [**10-20**].
+   4. ? Cirrhosis:
+   - RUQ ultrasound
+   - consider hepatology c/s
+   - f/u hepatitis labs
+   5. Hemachomotosis:
+   - f/u iron labs
+   - ECHO to assess heart function
+   ------ Protected Section Addendum Entered By:[**Name (NI) 898**] [**Last Name (NamePattern1) 3097**], MD
+   on:[**2842-10-19**] 13:29 ------
+
+
+DOC CLASS

@@ -1,0 +1,228 @@
+TITLE: CCU Progress Note
+   Chief Complaint:
+   24 Hour Events:
+   Patient had TEE yesterday which demonstrated no acute thrombus.
+   Patient then underwent cardioversion with 200 J of shock. Patient
+   spontaneously converted to sinus rhythm for a few seconds and then went
+   back into atrial fibrillation.  Discussed case with Dr. [**Last Name (STitle) 2767**] last
+   night, decided to start patient on amiodarone as well as coumadin.
+   Discussed plan with daughter who was agreeable.
+   .
+   This AM patient denies any chest pain, shortness of breath, or
+   abdominal pain. She states that she is feeling much better than
+   yesterday.
+   Allergies:
+   Codeine
+   Headache;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 800 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**2574-12-31**] 04:00 AM
+   Other medications:
+   Changes to medical and family history: none
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: as above
+   Flowsheet Data as of  [**2574-12-31**] 07:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36.8
+C (98.3
+   HR: 75 (68 - 130) bpm
+   BP: 158/78(99) {103/40(57) - 158/91(100)} mmHg
+   RR: 17 (16 - 36) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 65.8 kg (admission): 70 kg
+   Height: 62 Inch
+             Total In:
+                                                                  1,116 mL
+                                                                    250 mL
+   PO:
+                                                                    720 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    396 mL
+                                                                    130 mL
+   Blood products:
+   Total out:
+                                                                  2,660 mL
+                                                                    260 mL
+   Urine:
+                                                                  2,660 mL
+                                                                    260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,544 mL
+                                                                    -10 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///32/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   285 K/uL
+   8.6 g/dL
+   94 mg/dL
+   1.1 mg/dL
+   32 mEq/L
+   3.7 mEq/L
+   36 mg/dL
+   99 mEq/L
+   138 mEq/L
+   26.2 %
+   8.0 K/uL
+        [image002.jpg]
+                             [**2574-12-29**]  04:01 AM
+                             [**2574-12-29**]  06:50 AM
+                             [**2574-12-30**]  06:20 AM
+                             [**2574-12-30**]  07:24 PM
+                             [**2574-12-31**]  02:54 AM
+   WBC
+   10.8
+   8.9
+   8.0
+   Hct
+   27.6
+   27.7
+   26.2
+   Plt
+   [**Telephone/Fax (3) 4421**]
+   Cr
+   1.3
+   1.1
+   1.2
+   1.1
+   TCO2
+   29
+   Glucose
+   178
+   83
+   111
+   94
+   Other labs: PT / PTT / INR:12.9/56.0/1.1, Differential-Neuts:86.5 %,
+   Lymph:9.5 %, Mono:3.6 %, Eos:0.2 %, Ca++:9.4 mg/dL, Mg++:1.9 mg/dL,
+   PO4:4.7 mg/dL
+   Assessment and Plan
+   89F with PMH significant for HTN, hypothyroidism, diabetes without
+   prior cardiac history who presents  with new AF, CHF.
+   # RHYTHM:  Unknown if this AF is new, never documented before and pt
+   markedly symptomatic.  Likely she was dependent on her atrial kick in
+   setting of probable depressed cardiac function.  Ideally would like to
+   consider CV for restoration of sinus rhythm. As duration of AF unknown
+   will refrain from amio for rate control overnight to avoid accidental
+   chemical CV. TSH on admission 0.95 which is WNL. For infectious wrk-up
+   patient has had chest x-ray. Got Levaquin in the ED for ? of pneumonia.
+   Patient without fever, elevation in white count or other localizing
+   symptoms to suggest infection. Initially patient on diltiazem drip
+   which was discontinued as was dropping pressures. Plan is for TEE today
+   with possible cardioversion. Patient will need post-procedure coumadin
+   initiation.  Patient currently in atrial fibrillation with rates
+   controlled in 70-80s. Repeat UA without LE or nitrate.
+   -Hep gtt for now, started coumadin last night, goal INR [**12-27**]
+   - CIS
+   .
+   # PUMP:  On admission exam pt is volume overloaded with elevated JVP,
+   crackles, some mild LE edema.  Based on imaging pt has significant
+   cardiomegaly.  At risk for LVH/diastolic dysfunction in setting of HTN.
+   Also has DM so at risk for silent ischemia/ischemic cardiomyopathy.
+   Echo on admission demonstrates mild symmetric left ventricular
+   hypertrophy with preserved global and regional systolic function. Right
+   ventricular hypertrophy with preserved systolic function. Moderate
+   tricuspid regurgitation. Moderate pulmonary hypertension.
+   -Strict I/Os, goal is -500 cc per day to even, would give lasix to meet
+   this goal
+   - f/u TEE
+   - restart ACE inhibitor today at previous outpatient dose
+   .
+   # CORONARIES:  No known history of CAD. ECG without acute ischemic
+   changes. Rechecked admission lipid panel which demonstrated HDL 63, LDL
+   74, triglycerides 100.
+   - cont outpatient ASA
+   - started a statin on this admission given CAD equivalent despite LDL
+   being near goal
+   - check LFTs
+   -f/u repeat EKGs
+   .
+   # Hyperkalemia
+ now resolved: Unclear etiology, Cr mildly elevated
+   from baseline, but not high enough to explain hyperkalemia. On ACEI, no
+   other culprit meds.
+   -tx hyperkalemia agressively in setting of potential CV.
+   - restart ACEi as potassium3.7 this morning
+   .
+   # DM2.  Not insulin dependent at home. Holding oral agents in house s/p
+   contrast load.  Was hyperglycemic in ED in setting of receiving D5 in
+   bicarbonate.
+   -FSBS
+   -ISS
+   -diabetic diet
+   .
+   # Hypertension
+ patient hypertensive on admission currently with
+   stable BP after discontinuating of diltiazem drip. Patient as
+   outpatient maintained on Lisinopril.
+   - restarted lisinopril today as hypertensive
+   .
+   # Acute vs. chronic renal failure
+ patient with creatinine of 1.3 on
+   admission with previous value of 1.0 in [**2572**]. Unclear if this
+   represents new baseline.  Cr improving, now 1.1 today. UA without
+   obvious source of infection.
+   -          trend Cr
+   -          avoid nephrotoxins
+   -          renally dose medcations
+   -          f/u urine culture
+   .
+   #Hypothyroidism
+ TSH on admission 0.95 which is WNL.
+   -continue current outpatient dose.
+   .
+   # Anemia: baseline Hct appears to be low 30s.  Currently 27.  Anemia
+   labs sent during this admission with iron 41, tibc 302, b12 508,
+   ferritin 98, transferring 232
+   - active type and screen
+   - guaiac stools
+   - transfuse for hcT< 21 or 25 if evidence of active end organ ischemia
+   .
+   FEN: cardiac diabetic diet. No IVF as volume overloaded.
+   ACCESS: PIV's x 2
+   PROPHYLAXIS:  On heparin gtt, colace, senna, coumadin
+   CODE: DNR/DNI per pt and daughter
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2574-12-29**] 05:02 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

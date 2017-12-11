@@ -1,0 +1,296 @@
+Admission Date:  [**3146-11-18**]              Discharge Date:   [**3146-11-29**]
+
+Date of Birth:  [**3083-4-17**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 516**]
+Chief Complaint:
+Shortness of breath, pleuritic chest pain, nausea, and chills.
+
+Major Surgical or Invasive Procedure:
+Right Sided Cardiac Cath with Pericardiocentesis: [**3146-11-18**]
+pericardiectomy [**11-21**]
+
+
+History of Present Illness:
+Patient is a 63 year old female with a past medical history of
+Hypercholesterolemia who presented to [**Hospital1 22**] ED with worsening
+shortness of breath and chest pains lasting for the past week.
+Chest pain is described as a tightness around her neck and
+shoulders bilaterally. For the past week, she had also been
+having shortness of breath and pleuritic chest pain with
+inspiration relieved with an upright position. She has had a non
+productive cough for the past few days. She denies any fevers.
+She has noted chills, nausea and vomiting today. She denies any
+peripheral edema, or abdominal distension. She saw her PCP in
+[**State 12728**] who performed a CT scan of the chest. Initial
+diagnosed with pneumonia, she was given Rocephin, Avelox, and
+Decadron short acting and a depot formulation. Upon presentation
+to the Emergency Department, she was hypotensive with a systolic
+blood pressure in the 70s and tachycardic to the 110s. She
+recieved 2L IVF bolus with good response. She was taken to Cath
+Lab for a right heart cath and pericardicentesis. She was
+transfered to the CCU for further monitoring in a fair
+condition.
+
+Past Medical History:
+Dyslipidemia
+arthritis
+s/p TAH/BSO
+
+Social History:
+Patient is a nonsmoker. Occasionally uses alcohol with no
+history of alcohol abuse. She works as a nurse [**First Name (Titles) **] [**Last Name (Titles) 12728**].
+Has lost her son to pneumococcal pneumonia recently and feels
+under stress.
+
+Family History:
+No family history of CAD, Stroke, rheumatologic disorders, or
+pericardial disease.
+
+Physical Exam:
+Vital Signs: Afebrile, BP 134/75, HR 101, RR 20, O2 97% on 2L,
+CVP 20
+General Exam: WDWN female in NAD, resp or otherwise. Oriented
+x3. Mood, affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with right IJ in place. No noted lymphadeopathy.
+Cardiovascular: PMI located in 5th intercostal space,
+midclavicular line. RR, normal S1, S2. S3. Prominent rub
+throughout precordium.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Mild crackles at
+base/posterior.
+Abdomen: Ssoft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Extremeties: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+
+
+Pertinent Results:
+[**3146-11-29**] 07:35AM BLOOD WBC-11.5* RBC-3.23* Hgb-9.8* Hct-29.3*
+MCV-91 MCH-30.2 MCHC-33.3 RDW-13.6 Plt Ct-753*
+[**3146-11-29**] 07:35AM BLOOD Plt Ct-753*
+[**3146-11-18**] 10:33AM BLOOD WBC-10.2 RBC-3.75* Hgb-11.6* Hct-34.9*
+MCV-93 MCH-31.0 MCHC-33.3 RDW-13.3 Plt Ct-364
+[**3146-11-18**] 12:11PM BLOOD PT-12.4 PTT-22.4 INR(PT)-1.1
+[**3146-11-18**] 10:33AM BLOOD Glucose-160* UreaN-17 Creat-0.7 Na-142
+K-4.3 Cl-106 HCO3-21* AnGap-19
+[**3146-11-20**] 06:01AM BLOOD ALT-148* AST-32 LD(LDH)-149 AlkPhos-102
+TotBili-0.5
+[**3146-11-27**] 06:00AM BLOOD Vanco-18.7
+
+CHEST (PA & LAT)  [**3146-11-28**] 7:48 PM
+UNDERLYING MEDICAL CONDITION:
+63 year old woman s/p pericardectomy
+REASON FOR THIS EXAMINATION:
+evaluate for effusions
+PICC in mid SVC. Relatively unchanged left small and decreased
+small right pleural effusions. Similar appearance of pulmonary
+vascularity.
+
+[**Numeric Identifier 11989**] PICC W/O PORT  [**3146-11-27**] 7:30 AM
+Reason: for iv antibiotics
+PROCEDURE NAME: PICC line placement.
+INDICATION: IV access needed for antibiotics.
+TECHNIQUE: Using sterile technique and local anesthesia, the
+right brachial vein was punctured under direct ultrasound
+guidance using a micropuncture set. Hard copies of ultrasound
+images were obtained before and immediately after establishing
+intravenous access. A peel-away sheath was then placed over a
+guidewire and a double-lumen PICC line measuring 44 cm in length
+was then placed through the peel-away sheath with its tip
+positioned in the SVC under fluoroscopic guidance. Position of
+the catheter was confirmed by a fluoroscopic spot film of the
+chest. The peel-away sheath and guidewire were then removed. The
+catheter was secured to the skin, flushed, and a sterile
+dressing applied.
+The patient tolerated the procedure well. There were no
+immediate complications.
+IMPRESSION: Uncomplicated ultrasound and fluoroscopically guided
+5 French double-lumen PICC line placement via the right brachial
+venous approach. Final internal length is 44 cm, with the tip
+positioned in SVC. The line is ready to use.
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+[**Known patient lastname 7154**], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 24169**]       TEE (Complete) Done
+[**3146-11-21**] at 8:46:20 AM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] W.
+[**Hospital Unit Name 3828**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**3083-4-17**]
+Age (years): 63 F  Hgt (in): 65
+BP (mm Hg): 156/78  Wgt (lb): 120
+HR (bpm): 98  BSA (m2): 1.59 m2
+Indication: Intraoperative TEE for pericardial resection
+ICD-9 Codes: 786.05, 423.9, 424.0
+Test Information
+Date/Time: [**3146-11-21**] at 08:46    Interpret MD: [**Name6 (MD) 8386**] [**Name8 (MD) **],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 652**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 9027**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW4-: Machine: Siemens
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  45% to 50%  >= 55%
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+LEFT VENTRICLE: Mild regional LV systolic dysfunction. Mildly
+depressed LVEF.
+RIGHT VENTRICLE: Borderline normal RV systolic function.
+Abnormal septal motion c/w pericardial constriction.
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Simple atheroma in descending aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+TRICUSPID VALVE: Mild [1+] TR.
+PERICARDIUM: Small to moderate pericardial effusion. The
+pericardium may be thickened. Constriction is present.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. Bilateral pleural effusions.
+
+1. No atrial septal defect is seen by 2D or color Doppler.
+2.There is mild regional left ventricular systolic dysfunction
+with mild hypokinesia of the lateral and inferolateral wall.
+Overall left ventricular systolic function is mildly depressed
+(LVEF= 45-50 %).
+3.Right ventricular systolic function is borderline normal.
+There is abnormal septal motion suggestive of pericardial
+constriction.
+4. There are simple atheroma in the descending thoracic aorta.
+5. The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen.
+7.There is a small to moderate sized pericardial effusion. The
+pericardium may be thickened. Pericardial constriction is
+present.
+8. Post pericardial resection there is reduction in the
+pericardial effusion.
+
+
+Brief Hospital Course:
+Patient was transferred to the CCU after her pericardiocentesis
+in a fair condition. She was seen and evaluated by the CCU team
+upon her arrival. Since the procedure, she had an improvement in
+her dyspnea and pleuritic pain. She was no longer nauseated and
+her chest pain was improved with doses of IV morphine. She was
+placed on supplemental O2 via nasal canula. Wound site was
+hemostatic with no bleeding.
+
+Patient was evaluated for possible causes of pericardial
+effusion including infectious causes (Viral EBV, Adenovirus,
+HIV, TB, Streptococcus, CMV, [**Doctor Last Name **], ect), malignancy, or
+rheumatologic causes.
+
+Her pericardial drain was dc'd on [**11-19**]. She continued on vanco
+and zosyn.
+
+She was seen by cardiac surgery for potential pericardiectomy
+secondary to contriction. She was taken to the operating room on
+[**11-21**] where she underwent a pericardiectomy. She was transferred
+to the ICU in critical but stable condition. She was extubated
+later that day. She was transferred to the floor on POD #2. She
+did well postoperatively.
+She was followed closely by infectious diseases who recommended
+that she complete a 2 week course of vanco and levo, and await
+finalization of her OR cultures. Rheumatology felt that the
+effusion was not due to an immune process/RA.
+A PICC line was placed on [**11-26**]. ID recommended that she
+complete a 2 week course of vanco and levo which she will
+receive in [**State 12728**]. The results of a weekly CBC, chemistry
+and vanco trough will be sent to her PCP, [**Last Name (NamePattern4) 21**]. [**First Name (STitle) **]. She will
+also follow up with CT surgery at [**Location (un) **] Medical Center in
+[**Location (un) 681**].
+
+
+Medications on Admission:
+Zetia 10mg PO Daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+5. PICC line
+PICC line per protocal for heparin and NS flushes
+6. Outpatient Lab Work
+Weekly vanco trough, chem 7 and CBC with results to Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] Phone ([**Telephone/Fax (1) 24170**], FAX ***
+7. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 2 weeks: started [**11-26**], completed [**12-9**].
+Disp:*14 Tablet(s)* Refills:*0*
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Vancomycin 500 mg Recon Soln Sig: Seven [**Age over 90 44**]y (750)
+Recon Soln Intravenous Q 24H (Every 24 Hours) for 2 weeks:
+started [**11-22**] ends [**12-6**].
+Disp:*[**Numeric Identifier 18545**] Recon Soln(s)* Refills:*0*
+10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**State 12728**] VNA
+
+Discharge Diagnosis:
+Pericardial effusion with tamponade
+^chol, Arthritis, s/p TAH/SBO
+
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds or driving until follow up with
+surgeon.
+
+Followup Instructions:
+Dr. [**First Name (STitle) **] 1-2 weeks
+Dr. [**Last Name (STitle) 12584**] 2 weeks
+Please make an appointment with CT surgery at [**Location (un) **] Medical
+Center [**Telephone/Fax (1) 24171**] in [**3-24**] weeks. We have faxed them a copy of
+your operative report and discharge summary.
+
+
+
+Completed by:[**3146-11-29**]
+
+DOC CLASS

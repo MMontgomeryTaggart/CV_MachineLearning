@@ -1,0 +1,202 @@
+Admission Date:  [**2608-5-25**]       Discharge Date:  [**2608-5-26**]
+
+Date of Birth:   [**2534-6-29**]       Sex:  M
+
+Service:  CCU
+
+CHIEF COMPLAINT:  Inferior myocardial infarction.
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 73-year-old male
+with a history of locally advanced anaplastic bladder cancer,
+status post XRT and chemotherapy; history of PE with left
+lower extremity DVT diagnosed three months ago, status post
+IVC filter, who patient presented with the complaints of
+diaphoresis, dyspnea, nausea, and vomiting.  The patient had
+been in his usual state of health until a few days prior to
+admission, when he reported not feeling well.  Today, the
+patient had the sudden onset of nausea and vomiting
+reportedly without chest pain or dyspnea.  He presented to an
+outside hospital ED, where his ECG reveals 4-mm ST elevations
+in 2,3, and AVF and 2-mm ST elevations in V3 through V6 and
+3-mm ST depressions in 1 and AVL.  Complete heart block was
+noted with a junctional escape of 50.  The patient was given
+Atropine, Dopamine, and placed on 100% nonrebreather mask for
+oxygen saturations in the 80% range.  The patient was given
+TNK tissue plasminogen activator.  No significant improvement
+in the ST elevations were noted after the administration of
+thrombolytic.  The patient was bradycardiac into the 50s with
+a systolic blood pressure in the 70s and it was unclear
+whether the patient was actually externally paced to a rate
+of 80.  The patient was transported to [**Hospital1 470**] for management of acute inferior MI with a
+complete heart block involving bradycardia cardiogenic shock.
+
+Prior to arrival at [**Hospital1 58**], the
+patient was intubated for hypoxic respiratory failure.
+Cardiac catheterization here revealed left main with no
+obstruction.  The LAD showed tight mid stenosis, which was
+not intervened upon.  The RCA had a 90% proximal
+posterolateral, totally occluded distal posterolateral and
+70% ostial RCA lesion.  Stents were placed across the
+proximal posterolateral and ostial RCA with PTCA of the
+distal posterolateral.  The left circumflex had moderate
+diffuse disease.  The LVDP was 18, no right heart
+catheterization was performed secondary to the IVC filter.
+
+Post intervention EKG showed normal sinus at a rate of 85
+with Q waves in the inferior leads and improved 2-mm ST
+elevation in 2, 3, and F; resolution of anterior ST
+elevations was also noted and T-wave inversions were present
+in 2, 3, S, and V3 through V5.  The patient was transferred
+to the Coronary Care Unit for further management.
+
+PAST MEDICAL HISTORY:
+1.  Bladder cancer status post XRT and chemotherapy,
+anaplastic locally advanced.
+2.  Status post recent cystoscopy on [**2608-4-22**], which
+revealed response to chemotherapy, but bimanual examination
+under anesthesia confirmed a left immobile pelvic mass
+suggesting extravesicle invasive disease.  The patient was
+currently undergoing palliative chemotherapy with
+Gemcitabine.
+3.  Hypertension.
+4.  Left lower extremity DVT diagnosed three months ago
+status post IVC filter placement.  Coumadin recently
+discontinued for hematuria secondary to the patient's bladder
+carcinoma.
+5.  Status post cholecystectomy.
+6.  Status post right hip fracture in [**2601**].
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Hydralazine.
+2.  Labetalol.
+3.  Terazosin.
+4.  Zestril.
+5.  Senna.
+6.  Coumadin.
+7.  Melatonin.
+8.  Pyridium.
+9.  Iron sulfate.
+10. Cystospaz.
+11. Dulcolax.
+
+PHYSICAL EXAMINATION:  Examination revealed the following:
+VITAL SIGNS:  Temperature 96.5, blood pressure 110/60, rate
+90 in normal sinus rhythm and respiratory rate 16.
+Ventilator settings were IMV 10/700, 80% FIO2 with PEEP of 5,
+first ABG 7.28/43/336.  GENERAL:  The patient was intubated
+and sedated.  HEENT:  Pupils equal, round, and reactive to
+light.  Extraocular movements cannot be tested.  Trachea
+midline.  JVP at 12 cm.  CARDIOVASCULAR:  Normal S1 and S2,
+no S3 present.  PULMONARY:  Examination revealed that the
+patient is clear to auscultation bilaterally on anterior
+examination.  ABDOMEN:  Benign, no hepatosplenomegaly noted.
+EXTREMITIES:  Warm.  The left lower extremity has 2+ edema
+and there are 2+ pulses on both side.  The right groin site
+dressing appears clean, dry, and intact with the sheath in.
+
+HOSPITAL COURSE:  The patient was admitted to the Coronary
+Care Unit for management of respiratory failure, recent heart
+block and recent cardiogenic shock.  The patient was quickly
+extubated within the first twenty-four hours of his
+admission.  The patient's CKs appeared to peak at 1000.  The
+patient remained chest pain free throughout the rest of his
+admission.  Telemetry remained unremarkable also.  He was
+started on aspirin, Plavix, and beta blocker, ACE inhibitor
+and statin for his ischemic disease.  He did experience some
+hematuria in the immediate post procedure time thought
+secondary to the bladder cancer and use of Aggrastat.
+
+On [**2608-5-23**], the patient reported positional dizziness with
+turning of the head to the left that was new in onset.  He
+also reported diplopia, which he said was old, but which his
+wife said was new.  Moreover, it was noted that the patient's
+speech was slightly slurred, although appropriate.  Given the
+fact that the patient has a known cancer and had received
+lytics at an outside hospital and also had focal neurological
+complaints with examination notable for left-sided dysmetria,
+head CT was obtained, which revealed left cerebellar
+infarction with increased pressure in the posterior fossa.
+Neurology and neurosurgical consultation was obtained.  The
+patient was monitored closely with frequent neurological
+checks and appeared to be clinically stable.  Repeat head CT
+twenty-four hours after the initial revealed no change in the
+findings.  The patient was never given Mannitol or any other
+therapeutic modalities to reduce the intracranial pressure.
+
+On [**2608-5-24**], the patient was transferred to the floor for
+further neurological monitoring and optimization of his
+cardiac regimen.
+
+Echocardiogram was also obtained on [**2608-5-24**], which revealed
+the following:  EF 25% to 30%; E to A ratio of 0.57 with
+estimated PA systolic pressure of 33; moderate [**Hospital1 **]-atrial
+dilatation noted as was moderate RV and LV dilation; mild MR
+noted; mild aortic root dilatation was also noted.  There
+were multiple areas of apical and posterior akinesis.
+
+Given the patient suppressed EF and mild clinical heart
+failure necessitating nasal cannula oxygen, the patient was
+aggressively diuresed and appeared to tolerate this well.
+
+On [**2608-5-27**] the patient was felt to be stable for discharge
+to a rehabilitation.  Of note:  Urinalysis was sent of his
+chronic indwelling Foley, which was notable for large blood,
+greater than 10 white blood cell per high power field and
+nitrite positivity.  He was started on a course of
+Cipro for this.
+
+DISCHARGE DIAGNOSIS:
+1.  Status post inferior MI complicated by complete heart
+block and transient cardiogenic shock.
+2.  Left cerebellar infarction of subacute duration with
+radiographic evidence of increased posterior fossa
+intracranial pressure.
+3.  Depressed EF with multiple wall motion abnormalities.
+4.  Locally advanced anaplastic bladder carcinoma.
+5.  Left lower extremity DVT.
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 mg p.o.q.d.
+2.  Plavix 75 mg p.o.q.d.
+3.  Lopressor 37.5 mg p.o.b.i.d.
+4.  Captopril 37.5 mg p.o.t.i.d.
+5.  Protonix 40 mg p.o.q.d.
+6.  Iron sulfate 325 mg p.o.t.i.d.
+7.  Colace 100 mg p.o.b.i.d.
+8.  Pyridium 200 mg p.o.t.i.d.
+9.  M.V.I. one tablet p.o.q.d.
+10. Folate 1 mg p.o.q.d.
+11. Senna one tablet p.o.q.d.
+12. Lipitor 10 mg p.o.q.d.
+13. Ciprofloxacin 500 mg p.o.b.i.d. times 7 days started on
+[**2608-5-25**].
+14. Lasix 40 mg p.o.q.d.
+15. Terazosin 1 mg p.o.q.d.
+
+CONDITION ON DISCHARGE:  The patient is discharged to
+rehabilitation.
+
+DISCHARGE STATUS:  Stable.
+
+FOLLOW-UP CARE:  The patient will followup with his primary
+care physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 6795**] [**Last Name (NamePattern1) 6796**] and the urologist, Dr. [**First Name (STitle) **]
+[**Name (STitle) 15899**] Rathore at [**Hospital3 2425**].  The family has been
+made aware of the patient's overall grave prognosis.  The
+patient remained full code at the time of discharge.
+
+
+
+
+                          DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 12-463
+
+Dictated By:[**Name8 (MD) 5687**]
+MEDQUIST36
+
+D:  [**2608-5-25**]  13:29
+T:  [**2608-5-25**]  13:34
+JOB#:  [**Job Number 15900**]
+
+
+DOC CLASS

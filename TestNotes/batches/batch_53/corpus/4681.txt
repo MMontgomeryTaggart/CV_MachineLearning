@@ -1,0 +1,265 @@
+Admission Date:  [**3467-2-18**]              Discharge Date:   [**3467-3-1**]
+
+Date of Birth:  [**3382-9-25**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Tetracycline / Amoxicillin / Penicillins
+
+Attending:[**First Name3 (LF) 1487**]
+Chief Complaint:
+Transfer from OSH, STEMI
+
+Major Surgical or Invasive Procedure:
+[**3467-2-22**]  urgent cabg x3 (LIMA to LAD, SVG to OM, SVG to PDA)/
+ MV repair  (28 mm CE ring)/IABP
+
+
+History of Present Illness:
+84 y/o M with a history of diet-controlled diabetes,
+hypertension presented to [**Hospital **] hospital from PCP's office
+earlier today with cough productive of yellow sputum, sinus
+congestion, chest pain with coughing, and shortness of breath
+for the last several days, no fever.  PCP subsequently sent
+patient to the Emergency room on 2L O2.  Patient's initial
+vitals on arrival to ED were HR 102 BP 116/81 RR 20 92% 2L.  CXR
+done showed "diffuse asymmetric interstitial and alveolar
+process, worse on the right," pulmonary edema vs. pneumonia.
+Initial ECG showed NSR, LVH, TWI/STD in Leads V4-V6, Q wave III.
+ He received 40 mg IV Lasix.  He then desated to 80% when on the
+commode and was intubated for hypoxic respiratory failure. ECG
+showed [**Street Address(2) 1745**] elevation in V3, 1 mm V2, Trop I 10.  He was
+given another 40 mg IV Lasix, started on a heparin gtt, given
+aspirin 325, plavix 300, and taken urgently to the cath lab.
+Prior to cath, he was started on a dopamine gtt after SBPs were
+in the 40s, after recieving multiple doses of propofol/fentanyl
+during intubation.
+.
+Cath showed 90% distal left main disease, 80% mid-LAD, 80% D2,
+80% Circumflex, totally occluded distal RCA.  Right heart cath
+was performed (on dopamine and with IABP placed), showing CO
+6.38, CI 3.4, SVR 709, PCWP 18, PAP 39/20 (25).  Patient was
+transferred to [**Hospital1 18**] via [**Location (un) 7532**] for evaluation for urgent
+CABG.
+.
+On arrival to [**Hospital1 18**], he had been weaned off dopamine gtt.
+Initial vitals were HR 69 BP 94/52 RR 24 RR 100% on CMV 500 100%
+14 5.  IABP was in place.
+.
+Remainder of review of systems unobtainable as patient intubated
+and sedated.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes (diet controlled),
+Hypertension
+2. CARDIAC HISTORY:
+none
+3. OTHER PAST MEDICAL HISTORY:
+-  allergic rhinitis
+-  anxiety
+- osteoarthritis
+- olecranon bursitis [**3467-2-8**]
+
+Social History:
+- Tobacco history:  quit [**3430-2-2**]
+- ETOH:  yes
+
+Family History:
+- Mother:  died of cervical cancer at 58 yo
+- Father: died of "old age" at 88 yo
+-brother has hypertension
+
+
+Physical Exam:
+VS: HR 69 BP 94/52 RR 24 RR 100% on CMV 500 100% 14 5
+79 kg
+GENERAL: Intubated, sedated.  Unresponsive.
+HEENT: Sclera anicteric. PERRL.
+NECK: Supple with JVP of 8 cm at 10 degrees.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR,, occassional premature beat. normal S1, S2, left-sided
+S3. No murmurs.
+LUNGS: Coarse breath sounds in ant fields bilaterally.
+ABDOMEN: Soft, NTND. No HSM or tenderness
+EXTREMITIES: 1+ Distal pulses b/l.  No edema. Warm.
+SKIN: + stasis dermatitis
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**3467-2-18**] 11:55PM BLOOD WBC-12.6* RBC-4.07* Hgb-12.9* Hct-36.6*
+MCV-90 MCH-31.7 MCHC-35.2* RDW-14.7 Plt Ct-159
+[**3467-2-18**] 11:55PM BLOOD PT-14.0* PTT-105.9* INR(PT)-1.2*
+[**3467-2-18**] 11:55PM BLOOD CK-MB-213* MB Indx-13.2* cTropnT-2.43*
+[**3467-2-18**] 11:55PM BLOOD Calcium-8.1* Phos-4.2 Mg-2.0
+.
+CARDIAC CATH:
+90% distal left main disease, 80% mid-LAD, 80% D2, 80%
+Circumflex, totally occluded distal RCA.  Right heart cath was
+performed showing CO 6.38, CI 3.4, SVR 709, PCWP 18, PAP 39/20
+(25)
+
+Pre-CPB:
+No spontaneous echo contrast is seen in the left atrial
+appendage.
+Overall left ventricular systolic function is moderately
+depressed (LVEF= 25 - 30 %) with preserved basal segments but
+hypokinetic mid segments and akinesis of the apex.
+There is moderate global RV hypokinesis.
+There are complex (>4mm) atheroma in the descending thoracic
+aorta. There is an IABP 3 cm distal to the left subclavian
+artery.
+The aortic valve leaflets are moderately thickened. Mild (1+)
+aortic regurgitation is seen.
+The mitral valve leaflets are moderately thickened. Moderate to
+severe (3+) mitral regurgitation is seen. The jet is central and
+reflects poor co-aptation of the leaflet tips which is worsened
+by provocation with Trendelenburg position.
+There is no pericardial effusion.
+
+Post-CPB:
+The patient is AV-Paced on no inotropes.
+LV systolic fxn is improved to an EF of 35 - 40%.
+There is a partial mitral ring prosthesis with no leak, no MR
+and a residual mean gradient of 4 mmHg.
+AI remains trace - 1+.
+IABP in good position. Aorta intact.
+
+Brief Hospital Course:
+CAD/Cardiogenic Shock: Cath showing severe 3-vessel disease
+amenable to CABG.  Echo [**2-19**]  showing hypokinesis distal
+anterior/septal segments and the apex (mid-LAD distribution).
+LVEF = 40%.  As he was having ongoing ECG changes, he was
+started on an integrillin gtt.  He was diuresed due to pulmonary
+edema on CXR and high wedge on PA catheter tracings.  Patient
+was plavix loaded at OSH; Plavix was held prior to CABG.
+Patient remained on IABP on 1:1, as urine output decreased when
+pump was weaned.  He was weaned of a dopamine drip, started on a
+beta blocker.
+# Acute on chronic renal failure: Baseline Cr .9.  Likely
+secondary to renal hypoperfusion from cardiogenic
+shock/hypotension.  Cr 1.6 on arrival, trended down to 1.3 prior
+to CABG.
+
+Taken urgently for surgery on [**2-22**]. Transferred to the CVICU in
+stable condition. IABP removed on POD #1. PICC placed for access
+and removed before discharge. Went into A Fib on [**2-23**] also and
+was started on amiodarone. Remained in ICU for BP and
+respiratory mgmt. Extubated on POD #2. Amiodarone stopped per
+cardiology due to conversion pauses and managed with beta
+blockade.Evaluated for aspiration risk. Chest tubes and pacing
+wires removed per protocol. Coumadin started for A Fib.
+Transferred to the floor on POD #5 to begin increasing his
+activity level. He was gently diuresed toward his perop weight.
+Continued to make good progress and was cleared for discharge to
+Hellenic Rehab in [**Location (un) 2584**]. Target INR 2.0-2.5 for A Fib.
+
+Medications on Admission:
+-  MVI daily
+- [**Doctor First Name **] 180mg daily
+Patanol 0.1% Eye drops- 1 gtt both eyes [**Hospital1 **]
+Fluticasone 50mcg nasal spray 2 sprays each nostil daily
+amlodipine 7.5mg daily
+
+Discharge Medications:
+1. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. fexofenadine 180 mg Tablet Sig: One (1) Tablet PO once a day.
+
+3. fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2)
+Spray Nasal DAILY (Daily).
+4. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+5. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+7. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 2 weeks.
+8. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+9. warfarin 1 mg Tablet Sig: rehab provider to order
+daily;target INR 2.0-2.5 for AFib Tablets PO DAILY (Daily) as
+needed for AF: target INR 2.0-2.5; dose for today [**3-1**] only 0.5
+mg; all further dosing per rehab provider.
+10. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. insulin fixed dose and sliding scale ( see attached)
+see attached
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Hellenic - [**Location (un) 2584**]
+
+Discharge Diagnosis:
+CAD s/p cabg x3/MV repair
+cardiogenic shock
+NSTEMI
+postop A Fib
+diet-controlled diabetes mellitus
+hypertension
+anxiety
+osteoarthritis
+olecranon bursitis [**3467-2-8**]
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage.
+Edema - 1+ BLE
+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 168**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 168**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) **]  Thursday [**3-21**] @ 1:15 pm
+Cardiologist:Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] ( his office will call you
+with appt)
+
+Please call to schedule appointments with your
+Primary Care Dr. [**Last Name (STitle) 19504**] in [**5-7**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 168**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication A Fib
+Goal INR 2.0-2.5
+First draw tomorrow [**3-2**]
+Please arrange for coumadin/INR f/u prior to discharge from
+rehab
+
+
+
+Completed by:[**3467-3-1**]
+
+DOC CLASS

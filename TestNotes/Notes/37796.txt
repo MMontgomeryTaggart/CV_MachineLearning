@@ -1,0 +1,169 @@
+Admission Date:  [**3120-11-17**]              Discharge Date:   [**3120-11-24**]
+
+Date of Birth:  [**3039-8-17**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics) / Penicillins / Codeine /
+Percocet
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+left main coronary artery disease
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafts x2 (LIMA-LAD,SVG-OM) [**3120-11-19**]
+
+
+History of Present Illness:
+This 81 year old white female was visiting her sister at a
+nursing home when she developed 5/10 chest pain. Staff there
+called 911 and she was transferred to the ER at an outside
+hospital. She relates a similar episode last week with pain
+lasting 5-10 minutes.  Catheterization there demonstrated a 90%
+left main lesion and she was transferred for surgery.
+
+
+Past Medical History:
+coronary artery disease
+hypertension
+hyperlipidemia
+peripheral vascular disease
+gastroesophageal reflux
+
+Social History:
+Lives with: her sister but she is currently in nursing home
+Tobacco: no-quit many years ago
+ETOH: one drink every few nights
+
+
+Family History:
+father died at 61 of a stroke. Sister has congestive heart
+failure
+
+Physical Exam:
+admission:
+Temp: 99  Pulse:98  Resp: 18  O2 sat: 98&-RA
+B/P  Right: 165/63   Left:
+Height: 62 in    Weight: 128 Lbs/ 58 Kg
+
+General: NAD
+Skin: Dry [x] intact [n]dry skin with superficial dermatitis LT
+ankle
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur Gr. 3/6 SEM base to
+carotids
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm x[], well-perfused [x]  Edema Varicosities:
+s/p
+B vv stripping- faint scars B upper thighs
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:  Left:P
+ DP          Right: Dop  Left: Dop
+PT           [**Name (NI) 647**]: Dop  Left: Dop
+Radial       Right:   Left:
+
+Carotid Bruit        Right:trans Murmur    Left:trans murmur
+
+
+Pertinent Results:
+[**3120-11-22**] 05:45AM BLOOD WBC-9.3 RBC-3.60* Hgb-10.3* Hct-30.6*
+MCV-85 MCH-28.6 MCHC-33.7 RDW-15.5 Plt Ct-186
+[**3120-11-23**] 05:40AM BLOOD UreaN-21* Creat-0.8 K-4.2
+[**3120-11-22**] 05:45AM BLOOD Glucose-103 UreaN-18 Creat-1.0 Na-137
+K-4.4 Cl-103 HCO3-27 AnGap-11
+
+Brief Hospital Course:
+Following transfer she remained pain free and was begun on a
+Heparin infusion. On [**11-19**] she was taken to the Operating Room
+where revascularization was performed.  See operative note for
+details.  She tolerated the operation well and weaned from
+bypass on neosynephrine and propofol in stable condition.  She
+was weaned from pressors and extubated without difficulty.  CTs
+were removed on POD 1 and pacing wires on day 3.  Beta blockade
+was resumed and she was diuresed towards her preoperative
+weight.
+
+She transferred to the floor and was seen by Physical Therapy
+for mobility and strength.  Wounds were healing well at
+discharge.  Restrictions, medications and follow up were
+discussed with her.  A rehabilitation facility was utilized at
+discharge to further allow her recovery before returning home.
+
+
+Medications on Admission:
+Simvastatin 20mg/D, Norvasc 5mg/D, Aldactone 25mg [**Hospital1 **],
+Celexa 20mg/D, Ambien 10mg/D
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every four
+(4) hours as needed for pain.
+2. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO DAILY (Daily) as needed for constipation.
+3. Citalopram 20 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day for 4 weeks.
+5. Tramadol 50 mg Tablet Sig: One (1) Tablet PO every 4-6 hours
+as needed for pain for 4 weeks.
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+7. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed for constipation.
+8. Aspir-81 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+9. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+10. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as
+needed for fever or pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Maples Nursing & Retirement Center - [**Location (un) 8876**]
+
+Discharge Diagnosis:
+coronary artery disease
+s/p coronary artery bypass grafts
+hypertension
+hyperlipidemia
+peripheral vascular disease
+gastroesophageal reflex
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Call if any redness of, or drainage from incisions.
+Report any fever greater then 100.5.
+Report any weight gain of 2 pounds in 24 hours or 5 pounds in 1
+week.
+No lotions, creams or powders to incision.
+Shower daily, pat the wounds dry. No baths or swimming for 1
+month.
+No lifting greater then 10 pounds for 10 weeks from date of
+surgery.
+No driving for 1 month or while taking narcotics for pain.
+Call with any questions or concerns.
+Take all medications as directed.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in 1 month. ([**Telephone/Fax (1) 72**]
+Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1566**] ([**Telephone/Fax (1) 27588**]in [**3-16**] weeks.
+Dr. [**Last Name (STitle) 13837**] in [**3-16**] weeks.
+please call for appointments
+[**Hospital Ward Name **] 6 wound clinic in 2 weeks
+
+
+
+Completed by:[**3120-11-24**]
+
+DOC CLASS

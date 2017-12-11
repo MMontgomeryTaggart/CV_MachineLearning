@@ -1,0 +1,234 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - HgbA1c 11.2
+   - LFT's remain elevated, marginally improved from prior
+   - TTE read: EF20%, extensive apical akinesis/dyskinesis, anteroseptal
+   akinesis, and anterior and inferior free wall hypokinesis. Left
+   ventricular apical mass/thrombus cannot be excluded. Focal hypokinesis
+   of the apical free wall of the RV.
+   - Holding BB for now
+   - Plan for ACE tomorrow
+   - [**Doctor Last Name 2693**] recommending heparin gtt bridge to coumadin given lv
+   hypokinesis, [**Doctor Last Name **] prefers no heparin bridge due to concern for
+   bleeding, so coumadin will begin tonight at 2.5mg
+   - UOP low, given 10mg lasix since pt sounded crackly and also trying to
+   bring pt down on the starling curve (the left ventricle looks huge) to
+   increase contractility and improve forward flow.  UOP and BP good
+   afterwards.
+   - had persistent [**2-28**] pleuritic chest pain in the pm, pt clearly states
+   this is different from her MI pain. EKG showed diffuse ST elevation,
+   consistent with pericarditis and LV aneurysm. talked to attending Dr.
+   [**Last Name (STitle) 6546**], who suggested IV 30mg toradol x1, and start colchicine.  Pain
+   better after given above meds.
+   - glargine 10u started qhs
+   - had some back pain this AM, BPs stable in 90s. not like her anginal
+   equivalent. likely MSK from lying on back as improved with palpation by
+   RN/MD. improved with morphine, massage, and warm compresses.
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2835-2-9**] 03:14 PM
+   Heparin Sodium (Prophylaxis) - [**2835-2-9**] 03:30 PM
+   Morphine Sulfate - [**2835-2-10**] 06:15 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2835-2-10**] 06:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**37**] AM
+   Tmax: 37.8
+C (100
+   Tcurrent: 36.3
+C (97.4
+   HR: 102 (98 - 120) bpm
+   BP: 98/64(72) {75/45(52) - 105/74(81)} mmHg
+   RR: 16 (13 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 65.7 kg (admission): 72.2 kg
+   Height: 65 Inch
+             Total In:
+                                                                  1,470 mL
+                                                                     41 mL
+   PO:
+                                                                    420 mL
+             TF:
+   IVF:
+                                                                  1,050 mL
+                                                                     41 mL
+   Blood products:
+   Total out:
+                                                                  1,405 mL
+                                                                    270 mL
+   Urine:
+                                                                  1,405 mL
+                                                                    270 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     65 mL
+                                                                   -229 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   HEENT: Normocephalic, PERRL
+   Cardiovascular: tachycardia, normal s1, s2, no m/r/g
+   Respiratory / Chest: occasional crackles at bases bilaterally
+   Abdominal: Non-tender, Bowel sounds present, non-distended
+   Peripheral Vascular: DP, PT and radial pulses palpable bilaterally
+   Extremities: no LE edema
+   Labs / Radiology
+   116 K/uL
+   10.3 g/dL
+   274 mg/dL
+   0.5 mg/dL
+   24 mEq/L
+   3.9 mEq/L
+   12 mg/dL
+   102 mEq/L
+   134 mEq/L
+   30.1 %
+   6.3 K/uL
+        [image002.jpg]
+                             [**2835-2-8**]  10:04 PM
+                             [**2835-2-9**]  04:10 AM
+                             [**2835-2-9**]  02:57 PM
+                             [**2835-2-10**]  05:51 AM
+   WBC
+   8.9
+   8.7
+   6.3
+   Hct
+   35.6
+   33.2
+   30.1
+   Plt
+   116
+   124
+   116
+   Cr
+   0.6
+   0.5
+   0.5
+   TropT
+   7.63
+   4.65
+   Glucose
+   356
+   264
+   274
+   Other labs:
+   PT / PTT / INR:12.2/29.4/1.0,
+   CK / CKMB / Troponin-T:1031/58/4.65,
+   ALT / AST:67/158, Alk Phos / T Bili:87/0.6, LDH:1170 IU/L,
+   Ca++:8.3 mg/dL, Mg++:1.7 mg/dL, PO4:2.0 mg/dL
+   TTE [**2-9**]: The left atrium is normal in size. Left ventricular wall
+   thicknesses are normal. The left ventricular cavity size is normal.
+   Overall left ventricular systolic function is severely depressed (LVEF=
+   20 %) secondary to extensive apical akinesis/dyskinesis, anteroseptal
+   akinesis, and anterior and inferior free wall hypokinesis. A left
+   ventricular apical mass/thrombus cannot be excluded. Right ventricular
+   chamber size is normal. with focal hypokinesis of the apical free wall.
+   The aortic valve leaflets (3) appear structurally normal with good
+   leaflet excursion and no aortic regurgitation. The mitral valve appears
+   structurally normal with trivial mitral regurgitation. There is no
+   mitral valve prolapse. The estimated pulmonary artery systolic pressure
+   is normal. There is a trivial/physiologic pericardial effusion. There
+   are no echocardiographic signs of tamponade.
+   Impression: extensive anterior, septal, apical infarction with possible
+   apical clot
+   CXR [**2-9**]: Normal lung volumes. Mild cardiomegaly without obvious
+   overhydration. Minimal atelectasis at the left lung base. Minimal
+   Kerley B lines seen in the right hemithorax, likely to reflect
+   interstitial fluid overload. No focal parenchymal opacity suggesting
+   pneumonia. Normal appearance of the mediastinum and the hilar
+   structures.
+   Assessment and Plan
+   Ms. [**Known patient lastname **] is a 46 year old woman with a history of DM who presents with
+   chest pain and STEMI.
+   .
+   1. STEMI: LAD thrombus removed and BMS placed.  ECG territory
+   correlates with findings on cardiac catheterization.  Given significant
+   q waves and prolonged time of chest pain, likely extensive cardiac
+   ischemia.  Her risk factor is diabetes and smoking but her lipid panel
+   is unremarkable. Currently BP is slightly low but no evidence of
+   decompensated heart failure or cardiogenic shock.
+   - continue aspirin, plavix, lipitor 80mg PO qday
+   - held b-blocker for now given likely compensatory response to low
+   cardiac output
+   - pt will need PT prior to discharge
+   .
+   2. Post-MI pericarditis: She is at high risk for post-MI pericarditis.
+   Patient has been complaining of pleuritic chest pain all day
+   yesterday.  The positional nature of the pleuritic chest pain and EKG
+   finding of diffuse ST elevation are consistent with post-MI
+   pericarditis/dressler syndrome. Patient received toradol IV 30mg x1,
+   and was started on colchicine yesterday.
+   - continue colchicine
+   - morphine prn
+   .
+   3. PUMP: EF 20% on TTE. Exam revealed crackles at bases bilaterally,
+   and patient has large dyskinetic LV on echo.  CXR yesterday showed
+   minimal kerley B lines seen in the right hemithorax, likely reflecting
+   volume overload.  Patient also has diffuse crackles on lung exam.  BNP
+   is 2464.  Patient was given 10mg lasix on [**2-9**] since pt sounded
+   crackly, and also trying to bring pt down on the starling curve (the
+   left ventricle looks huge) to increase contractility and improve
+   forward flow.  UOP and BP good afterwards.
+   - lasix prn to bring pt down on starling curve to enhance
+   contractility, cardiac output and BP
+   - continue coumadin 2.5mg for anticoagulation to prevent mural thrombus
+   - holding beta blockade for now given acute STEMI
+   - start ACEI when stable
+   - will need a repeat TTE in 3 months to re-assess LV function.  If EF
+   persistently <30%, then pt will need a ICD
+   .
+   4. RHYTHM: sinus tachycardia. This is most likely a stress responses
+   with some compensation given territory of infarction.  However, she
+   also has pleuritic chest pain from pericarditis.
+   - holding bb but dc on metoprolol 25 [**Hospital1 7**] if stable
+   .
+   5. DM: HgA1c 11.2.
+   - hold oral agents
+   - continue glargine 10u plus humalog insulin sliding scale
+   - diabetic diet
+   - will need to refer to [**Last Name (un) **] for diabetic control as outpt
+   .
+   6. Elevated LFT:  transaminitis trending down slowly, but alk phos
+   trending up.  The elevated ALT, AST and LDH are possibly leakage from
+   the cardiomyocytes in the setting of infarction and part of a stress
+   response to STEMI, but alk phos elevation is likely from biliary stasis
+   from congestive heart failure given EF only 20%.  Unclear what the
+   baseline is. Unknown hepB and hepC serologies.  Patient is not
+   overweight, so fatty liver is less likely.
+   - consider hepB and hepC serologies as outpatient
+   - continue to trend LFT
+   ICU Care
+   Nutrition:
+   cardiac, diabetic diet
+   Glycemic Control:  glargine and HISS
+   Lines:
+   18 Gauge - [**2835-2-8**] 08:30 PM
+   20 Gauge - [**2835-2-8**] 08:30 PM
+   Prophylaxis:
+   DVT: sc heparin
+   Stress ulcer: none
+   VAP:  none
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: will monitor pt in CCU in the morning, can potentially
+   call out in the pm
+
+
+DOC CLASS

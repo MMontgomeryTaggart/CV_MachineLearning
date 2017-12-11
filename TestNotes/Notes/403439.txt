@@ -1,0 +1,208 @@
+Chief Complaint:
+   24 Hour Events:
+ CARDIAC CATH - At [**3493-6-1**] 05:29 PM
+   retruned at 1730
+ CORDIS/INTRODUCER - START [**3493-6-1**] 06:00 PM
+ PA CATHETER - START [**3493-6-1**] 06:00 PM
+ ARTERIAL LINE - START [**3493-6-1**] 06:00 PM
+   impella device @ P7
+   flow is 2.3L/min
+   D20w/ 25,000units/heparin (50units/ml) @ 11ml/hr or 550units/hr
+   24-hr Events:
+   - Impella device placed in cath lab
+   - Switched from Dopa to Neo for pressure support, now on 1mcg/kg/min
+   - On lopressor 5mg IV q6h for rate control (tried q4h, unstable)
+   - Switched from propafol to fentanyl/versed for sedation
+   - Remained tachy 120-140 O/N
+   - Responded well to diuril O/N, -2L
+   - sent for HIV, Hep A,B,C, CMV Abs, likely transplant candidate
+   - mixed venous 9:58 PM 7.30//43//22 --> 7/34/45/232
+   - art 1200 7.31//44//199//23
+   - latest Fick: 5.7/2.9/1103 (SVR up from 962 at MN)
+   - On dextrose for Impella: glucose 125-146
+   - Central line removed
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Phenylephrine - 1 mcg/Kg/min
+   Furosemide (Lasix) - 15 mg/hour
+   Other ICU medications:
+   Metoprolol - [**3493-6-2**] 05:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3493-6-2**] 08:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 36.9
+C (98.4
+   HR: 139 (128 - 139) bpm
+   BP: 107/83(91) {81/61(70) - 111/85(93)} mmHg
+   RR: 20 (14 - 22) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 71 Inch
+    CVP: 14 (14 - 19)mmHg
+   PAP: (48 mmHg) / (29 mmHg)
+   PCWP: 24 (24 - 24) mmHg
+   CO/CI (Fick): (5.7 L/min) / (2.5 L/min/m2)
+   SvO2: 72%
+   Mixed Venous O2% Sat: 70 - 72
+   Total In:
+                                                                  2,005 mL
+                                                                    609 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,905 mL
+                                                                    609 mL
+   Blood products:
+   Total out:
+                                                                  2,890 mL
+                                                                  1,760 mL
+   Urine:
+                                                                  2,510 mL
+                                                                  1,660 mL
+   NG:
+                                                                    380 mL
+                                                                    100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -885 mL
+                                                                 -1,151 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 21 cmH2O
+   Plateau: 15 cmH2O
+   SpO2: 99%
+   ABG: 7.34/45/232//-1
+   Ve: 11.9 L/min
+   PaO2 / FiO2: 387
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), tachycardic
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Diminished), (Right DP pulse: Diminished), (Left DP pulse:
+   Diminished)
+   Respiratory / Chest: (Expansion: Symmetric)
+   Abdominal: Soft
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   No(t) Paralyzed, Tone: Not assessed
+   Labs / Radiology
+   121 K/uL
+   13.1 g/dL
+   146 mg/dL
+   3.7 mg/dL
+   19 mEq/L
+   4.7 mEq/L
+   65 mg/dL
+   97 mEq/L
+   131 mEq/L
+   38.7 %
+   23.6 K/uL
+        [image002.jpg]
+                             [**3493-6-1**]  06:44 AM
+                             [**3493-6-1**]  07:10 AM
+                             [**3493-6-1**]  03:41 PM
+                             [**3493-6-1**]  06:27 PM
+                             [**3493-6-1**]  06:47 PM
+                             [**3493-6-1**]  09:58 PM
+                             [**3493-6-2**]  12:05 AM
+                             [**3493-6-2**]  02:47 AM
+                             [**3493-6-2**]  06:26 AM
+                             [**3493-6-2**]  06:40 AM
+   WBC
+   27.4
+   26.3
+   23.6
+   Hct
+   41.7
+   46
+   38.6
+   39.1
+   38.3
+   38.7
+   Plt
+   130
+   143
+   121
+   Cr
+   3.4
+   3.7
+   TCO2
+   21
+   23
+   21
+   23
+   25
+   Glucose
+   169
+   162
+   125
+   146
+   Other labs: PT / PTT / INR:20.4/36.2/1.9, CK / CKMB /
+   Troponin-T:208/14/1.16, ALT / AST:4267/4026, Alk Phos / T Bili:138/1.6,
+   Amylase / Lipase:58/21, Differential-Neuts:91.5 %, Band:0.0 %,
+   Lymph:5.5 %, Mono:2.8 %, Eos:0.1 %, Fibrinogen:170 mg/dL, Lactic
+   Acid:2.2 mmol/L, Albumin:3.4 g/dL, LDH:3354 IU/L, Ca++:7.3 mg/dL,
+   Mg++:2.5 mg/dL, PO4:7.5 mg/dL
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+ SHOCK, CARDIOGENIC
+   # CORONARIES:
+   -
+   - Cont ASA, statin, BB
+   - No ACE for now
+   - Heparin IV 600 + 500 for Impella
+   # PUMP: EF 15%, responded well to diuril and lasix, over 1L negative,
+   now with impella
+   - continue diuresis for TBB goal -1L
+   - continue on neo, consider milrinone
+   - monitor hemodynamics and fick q6h
+   - likely transplant candidate, follow recs by Dr. [**First Name (STitle) **]
+   #RHYTHM: Remains tachy 120-140 with pressure support.
+   - Defib pads placed
+   - Monitor on tele
+   - Continue BB as tolerated
+   - Anticoagulation heparin gtt
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3493-5-31**] 04:38 PM
+   20 Gauge - [**3493-5-31**] 04:40 PM
+   Cordis/Introducer - [**3493-6-1**] 06:00 PM
+   PA Catheter - [**3493-6-1**] 06:00 PM
+   Arterial Line - [**3493-6-1**] 06:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

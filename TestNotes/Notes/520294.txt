@@ -1,0 +1,123 @@
+Chief Complaint:
+   24 Hour Events:
+   Urine labs showed MRSA + in urine.  Plan to get follow up TTE to rule
+   out any cardiac vegetations. Patient had flexible cystoscopy yesturday
+   which revealed what appeared to be electrical copper wires in bladder (
+   ~6 inches total) which was sent for culture.  Patient c/o headaches
+   overnight which abated with Tylenol Rx.  He also had some c/o knee pain
+   and was given some topical BenGay for relief.
+ ULTRASOUND - At [**3117-7-13**] 01:00 PM
+   LENI
+   Allergies:
+   Tetanus
+   Diphther Toxoid Adult
+   Hives;
+   Aggrenox (Oral) (Aspirin/Dipyridamole)
+   Diarrhea;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3117-7-13**] 08:00 AM
+   Vancomycin - [**3117-7-13**] 09:59 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3117-7-14**] 06:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 36.7
+C (98.1
+   HR: 70 (61 - 73) bpm
+   BP: 159/56(83) {81/36(53) - 160/65(83)} mmHg
+   RR: 23 (1 - 28) insp/min
+   SpO2: 97%
+   Heart rhythm: 2nd AV M2 (Second degree AV Block - Mobitz 2)
+    CVP: 17 (-2 - 19)mmHg
+   Total In:
+                                                                  1,564 mL
+                                                                     46 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,564 mL
+                                                                     46 mL
+   Blood products:
+   Total out:
+                                                                  1,855 mL
+                                                                    435 mL
+   Urine:
+                                                                  1,855 mL
+                                                                    435 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -291 mL
+                                                                   -389 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ////
+   Physical Examination
+   Labs / Radiology
+   165 K/uL
+   8.4 g/dL
+   158 mg/dL
+   2.3 mg/dL
+   24 mEq/L
+   4.8 mEq/L
+   59 mg/dL
+   105 mEq/L
+   136 mEq/L
+   24.8 %
+   14.0 K/uL
+        [image002.jpg]
+                             [**3117-7-12**]  10:02 AM
+                             [**3117-7-12**]  02:45 PM
+                             [**3117-7-13**]  04:20 AM
+   WBC
+   14.0
+   Hct
+   24.8
+   Plt
+   165
+   Cr
+   2.4
+   2.3
+   Glucose
+   [**Telephone/Fax (3) 3794**]
+   Other labs: PT / PTT / INR:14.3/32.3/1.2, Ca++:8.0 mg/dL, Mg++:2.1
+   mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan:
+   Gen: alert, sleeping in bed, arouses easily, NAD
+   HEENT: mmm, EOMI grossly, no LAD, right EJ in place, R SC catheter in
+   place, no tenderness to palpation/erythema of sites
+   CV: RRR, 2/6 systolic murmur, S1 S2 present
+   LUNG: CTAB, no w/r/r
+   ABD: soft, NTND, bs+
+   EXT: erythema and TTP RLE, 1+pitting edema R>L; no erythema/TTP of LLE;
+   pedal pulses present bilaterally
+   SKIN: no visible rashes
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3117-7-12**] 08:35 PM
+   16 Gauge - [**3117-7-12**] 08:36 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

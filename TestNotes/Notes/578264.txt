@@ -1,0 +1,175 @@
+Chief Complaint:
+   24 Hour Events:
+ THORACENTESIS - At [**3289-3-24**] 01:45 PM
+   -patient got thoracentesis, removed 1L, still oxygen dependent and
+   tachpneic (no clinical improvement), fluid looks to be a transudate
+   -NPO for PEG in am
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3289-3-24**] 06:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3289-3-24**] 08:00 PM
+   Levofloxacin - [**3289-3-24**] 08:30 PM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3289-3-24**] 08:18 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3289-3-25**] 06:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.4
+C (97.5
+   HR: 94 (86 - 111) bpm
+   BP: 104/52(65) {86/42(53) - 128/65(77)} mmHg
+   RR: 30 (25 - 36) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 95.8 kg (admission): 101.5 kg
+   Height: 70 Inch
+                  Total In:
+                                                                  1,769 mL
+                                                                      2 mL
+   PO:
+                  TF:
+                                                                    438 mL
+                                                                      2 mL
+   IVF:
+                                                                    952 mL
+   Blood products:
+   Total out:
+                                                                  1,820 mL
+                                                                    270 mL
+   Urine:
+                                                                  1,820 mL
+                                                                    270 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -51 mL
+                                                                   -268 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///32/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   309 K/uL
+   8.5 g/dL
+   95 mg/dL
+   0.7 mg/dL
+   32 mEq/L
+   3.8 mEq/L
+   29 mg/dL
+   103 mEq/L
+   140 mEq/L
+   26.6 %
+   10.7 K/uL
+        [image002.jpg]
+                             [**3289-3-19**]  05:20 PM
+                             [**3289-3-20**]  05:38 AM
+                             [**3289-3-20**]  03:26 PM
+                             [**3289-3-21**]  04:08 AM
+                             [**3289-3-21**]  04:45 PM
+                             [**3289-3-22**]  04:30 AM
+                             [**3289-3-22**]  05:00 PM
+                             [**3289-3-23**]  06:47 AM
+                             [**3289-3-24**]  04:10 AM
+                             [**3289-3-25**]  04:18 AM
+   WBC
+   14.7
+   14.5
+   13.5
+   12.6
+   11.6
+   10.7
+   Hct
+   26.7
+   27.7
+   26.9
+   26.2
+   26.0
+   26.2
+   26.6
+   Plt
+   277
+   252
+   274
+   286
+   309
+   309
+   Cr
+   0.9
+   0.9
+   0.7
+   0.7
+   0.8
+   0.7
+   0.8
+   0.6
+   0.7
+   0.7
+   Glucose
+   132
+   146
+   138
+   139
+   120
+   127
+   130
+   124
+   92
+   95
+   Other labs: PT / PTT / INR:16.7/30.3/1.5, ALT / AST:18/20, Alk Phos / T
+   Bili:44/1.9, Differential-Neuts:80.0 %, Band:0.0 %, Lymph:15.0 %,
+   Mono:2.0 %, Eos:2.0 %, Albumin:2.4 g/dL, LDH:448 IU/L, Ca++:9.4 mg/dL,
+   Mg++:2.1 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+ PLEURAL EFFUSION, ACUTE
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ BALANCE, IMPAIRED
+ KNOWLEDGE, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ RANGE OF MOTION, IMPAIRED
+ TRANSFERS, IMPAIRED
+ VENTILATION, IMPAIRED
+ IMPAIRED SKIN INTEGRITY
+ DELIRIUM / CONFUSION
+ ALTERATION IN NUTRITION
+ PNEUMONIA, BACTERIAL, VENTILATOR ACQUIRED (VAP)
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+ ATRIAL FIBRILLATION (AFIB)
+ .H/O HEART FAILURE (CHF), SYSTOLIC, ACUTE
+ AORTIC STENOSIS
+ ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+ .H/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3289-3-16**] 01:05 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

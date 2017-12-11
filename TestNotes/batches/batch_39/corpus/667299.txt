@@ -1,0 +1,213 @@
+CVICU
+   HPI:
+   78yoW s/p AVR(21 [**Doctor Last Name **] pericardial)Maze/LAA ligation [**11-20**]
+   Chief complaint:
+   PMHx:
+   Severe Aortic Stenosis,Paroxysmal Atrial Fibrillation,
+   Hypertension,Hyperlipidemia,Diabetes Mellitus-diet controlled,Tremors,
+   Spinal surgery,Uterine polypectomy,Bladder Cancer removed, Cataract
+   surgery,Tonisellectomy
+   Current medications:
+   Metoclopramide 10 mg IV Q6H:PRN nausea/vomiting, Acetaminophen 650 mg
+   PO/PR Q4H:PRN temperature >38.0, Aspirin EC 81 mg PO DAILY,  Docusate
+   Sodium (Liquid) 100 mg NG [**Hospital1 **], Ranitidine 150 mg NG [**Hospital1 **]
+   Vancomycin 1000 mg IV Q12H Duration: 48 Hours, Atorvastatin 10 mg PO
+   DAILY, Oxycodone-Acetaminophen [**1-24**] TAB PO Q4H:PRN pain, Zantac 150mg
+   [**Hospital1 **]
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**2651-11-20**] 12:00 PM
+ INTUBATION - At [**2651-11-20**] 12:12 PM
+   From the operating room
+ OR RECEIVED - At [**2651-11-20**] 12:12 PM
+ NASAL SWAB - At [**2651-11-20**] 01:06 PM
+ CCO PAC - START [**2651-11-20**] 02:56 PM
+ PA CATHETER - START [**2651-11-20**] 02:57 PM
+ ARTERIAL LINE - START [**2651-11-20**] 02:57 PM
+ EKG - At [**2651-11-20**] 04:13 PM
+ INVASIVE VENTILATION - STOP [**2651-11-20**] 06:25 PM
+   Post operative day:
+   POD#1 - [**11-20**] AVR, MAZE, LAA
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2651-11-20**] 03:51 PM
+   Insulin - Regular - [**2651-11-20**] 05:43 PM
+   Furosemide (Lasix) - [**2651-11-21**] 05:10 AM
+   Other medications:
+   Flowsheet Data as of  [**2651-11-21**] 08:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**54**] a.m.
+   Tmax: 37.5
+C (99.5
+   T current: 37.5
+C (99.5
+   HR: 94 (65 - 94) bpm
+   BP: 101/58(67) {101/45(60) - 148/88(95)} mmHg
+   RR: 16 (12 - 21) insp/min
+   SPO2: 91%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 103.1 kg (admission): 93.2 kg
+   Height: 61 Inch
+   CVP: 11 (6 - 22) mmHg
+   PAP: (39 mmHg) / (18 mmHg)
+   CO/CI (Thermodilution): (5.31 L/min) / (2.7 L/min/m2)
+   SVR: 901 dynes*sec/cm5
+   SV: 54 mL
+   SVI: 28 mL/m2
+   Total In:
+                                                                  9,152 mL
+                                                                    102 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  8,302 mL
+                                                                    102 mL
+   Blood products:
+                                                                    850 mL
+   Total out:
+                                                                  2,987 mL
+                                                                    587 mL
+   Urine:
+                                                                    575 mL
+                                                                    397 mL
+   NG:
+                                                                    150 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,165 mL
+                                                                   -485 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 600) mL
+   Vt (Spontaneous): 404 (404 - 426) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 17 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 38.2 cmH2O/mL
+   SPO2: 91%
+   ABG: 7.33/45/130/25/-2
+   Ve: 5.4 L/min
+   PaO2 / FiO2: 260
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bilateral bases), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3, x 2, x 1), Follows simple
+   commands, (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   119 K/uL
+   10.5 g/dL
+   88 mg/dL
+   0.6 mg/dL
+   25 mEq/L
+   4.8 mEq/L
+   12 mg/dL
+   110 mEq/L
+   139 mEq/L
+   31.5 %
+   11.9 K/uL
+        [image002.jpg]
+                            [**2651-11-20**]  11:40 AM
+                            [**2651-11-20**]  12:57 PM
+                            [**2651-11-20**]  01:09 PM
+                            [**2651-11-20**]  04:22 PM
+                            [**2651-11-20**]  04:30 PM
+                            [**2651-11-20**]  05:30 PM
+                            [**2651-11-20**]  05:45 PM
+                            [**2651-11-20**]  06:30 PM
+                            [**2651-11-20**]  08:00 PM
+                            [**2651-11-21**]  02:12 AM
+   WBC
+   10.6
+   11.9
+   Hct
+   28
+   29.7
+   32.6
+   31.5
+   Plt
+   108
+   119
+   Creatinine
+   0.6
+   0.6
+   TCO2
+   24
+   22
+   26
+   25
+   Glucose
+   124
+   106
+   159
+   161
+   152
+   124
+   88
+   Other labs: PT / PTT / INR:15.1/46.2/1.3, Lactic Acid:2.9 mmol/L
+   Imaging: [**2651-11-20**] diffuse atelectasis
+   Microbiology: [**2651-11-20**]  MRSA SCREEN MRSA SCREEN-PENDING INPATIENT
+   [**2651-11-18**]  URINE URINE CULTURE-FINAL
+   ECG: SR 90s
+   Assessment and Plan
+   VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), DIABETES MELLITUS (DM),
+   TYPE I
+   Assessment and Plan: Switch pain regimen to dilaudid. IS/ambulation.
+   Start lasix and beta blockade.  Wean nitroglycerin as tolerated.  Start
+   coumadin for MAZE procedure.  Maintain chest tube secondary to output.
+   Diurese with goal of [**1-23**].5 Liters negative daily. Transfer to floor
+   later today or tomorrow.
+   Neurologic: Switch pain regimen to dilaudid for better control.
+   Cardiovascular: Aspirin, Statins, Start coumadin and beta blockade
+   today. Wean nitroglycerin as tolerated.
+   Pulmonary: IS, IS/ambulation.  Diurese with goal of [**1-23**].5 Liters
+   negative daily.
+   Gastrointestinal / Abdomen: Bowel regimen
+   Nutrition: Regular diet, Reglan for nausea
+   Renal: Foley, Remove foley tonight
+   Hematology: Hct stable
+   Endocrine: RISS
+   Infectious Disease: no current issues
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: CT surgery, P.T., EP dept
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   CCO PAC - [**2651-11-20**] 02:56 PM
+   PA Catheter - [**2651-11-20**] 02:57 PM
+   Arterial Line - [**2651-11-20**] 02:57 PM
+   18 Gauge - [**2651-11-20**] 03:00 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

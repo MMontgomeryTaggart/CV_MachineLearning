@@ -1,0 +1,201 @@
+CVICU
+   HPI:
+   HD3
+   [**9-10**] POD 1
+   s/p sternal debridement, open chest [**9-9**]
+   [**9-8**] re-admit with fever, elevated WBC, purulent drainage from sternal
+   incision [**2-4**] positive blood cx from OSH
+   43F s/p MVR(33mm SJ porcine)/closure of PFO [**2600-8-11**]
+   PMHx: MR, psoriasis, psoriatic arthritis, endometriosis, obesity,
+   recent tobacco
+   [**Last Name (un) 550**]: ASA 81', Paxil 20', Lopressor 50", Chantix 1", Remuron 15 qhs
+   Current medications:
+   Acetaminophen, Artificial Tears Preserv. Free, Artificial Tear
+   Ointment, Ascorbic Acid Aspirin, Docusate Sodium (Liquid), Furosemide,
+   Heparin, Metoclopramide, Metoprolol Tartrate, Mirtazapine,
+   Multivitamins, Nafcillin,  Nystatin Oral Suspension, Paroxetine,
+   Potassium Chloride, Ranitidine (Liquid)
+   24 Hour Events:
+ INTUBATION - At [**2600-9-9**] 09:39 AM
+   in or
+ OR RECEIVED - At [**2600-9-9**] 09:39 AM
+ ARTERIAL LINE - START [**2600-9-9**] 09:39 AM
+ MULTI LUMEN - START [**2600-9-9**] 09:39 AM
+ INVASIVE VENTILATION - START [**2600-9-9**] 09:39 AM
+ EKG - At [**2600-9-9**] 04:43 PM
+   Post operative day:
+   POD#1 - S/P Sternal debridement and wound VAC placement
+   24 hour events: OR for sternal debridement, sternum open, VAC dressing,
+   changed to naficillin for MSSA from OSH CX per ID recs, remained
+   intubated due to paralytics
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Nafcillin - [**2600-9-10**] 11:48 AM
+   Infusions:
+   Midazolam (Versed) - 5 mg/hour
+   Fentanyl - 225 mcg/hour
+   Other ICU medications:
+   Carafate (Sucralfate) - [**2600-9-10**] 08:00 AM
+   Furosemide (Lasix) - [**2600-9-10**] 11:11 AM
+   Metoprolol - [**2600-9-10**] 11:49 AM
+   Other medications:
+   Flowsheet Data as of  [**2600-9-10**] 12:59 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**03**] a.m.
+   Tmax: 37.5
+C (99.5
+   T current: 36.3
+C (97.4
+   HR: 81 (73 - 93) bpm
+   BP: 94/57(71) {89/52(65) - 125/70(87)} mmHg
+   RR: 15 (0 - 24) insp/min
+   SPO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+   CVP: 32 (13 - 32) mmHg
+   Total In:
+                                                                  1,401 mL
+                                                                  1,915 mL
+   PO:
+   Tube feeding:
+                                                                     80 mL
+   IV Fluid:
+                                                                  1,261 mL
+                                                                  1,460 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  2,870 mL
+                                                                  1,305 mL
+   Urine:
+                                                                  1,890 mL
+                                                                  1,305 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    100 mL
+   Balance:
+                                                                 -1,469 mL
+                                                                    610 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 450 (450 - 450) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Neuromusc Block
+   PIP: 28 cmH2O
+   Plateau: 24 cmH2O
+   SPO2: 94%
+   ABG: 7.36/47/81.[**Numeric Identifier 237**]/26/0
+   Ve: 7.2 L/min
+   PaO2 / FiO2: 205
+   Physical Examination
+   General Appearance: No acute distress, Well nourished
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Open), VAC intact
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: No(t) Moves all extremities, (RUE: No movement), (LUE: No
+   movement), (RLE: No movement), (LLE: No movement), Sedated, Chemically
+   paralyzed
+   Labs / Radiology
+   203 K/uL
+   7.9 g/dL
+   95 mg/dL
+   0.7 mg/dL
+   26 mEq/L
+   4.5 mEq/L
+   17 mg/dL
+   102 mEq/L
+   135 mEq/L
+   27.1 %
+   6.2 K/uL
+        [image002.jpg]
+                             [**2600-9-9**]  10:22 AM
+                             [**2600-9-9**]  11:39 AM
+                             [**2600-9-9**]  01:20 PM
+                             [**2600-9-9**]  05:19 PM
+                             [**2600-9-10**]  01:04 AM
+                             [**2600-9-10**]  01:17 AM
+                             [**2600-9-10**]  05:06 AM
+                             [**2600-9-10**]  05:17 AM
+                             [**2600-9-10**]  10:54 AM
+                             [**2600-9-10**]  11:01 AM
+   WBC
+   6.2
+   Hct
+   22.9
+   26.2
+   27.1
+   Plt
+   203
+   Creatinine
+   0.8
+   0.7
+   TCO2
+   30
+   23
+   26
+   26
+   27
+   28
+   Glucose
+   89
+   88
+   94
+   109
+   105
+   95
+   Other labs: PT / PTT / INR:17.5/46.1/1.6, ALT / AST:[**10-18**], Alk-Phos / T
+   bili:119/0.3, Amylase / Lipase:[**9-19**], Differential-Neuts:63.8 %,
+   Lymph:22.1 %, Mono:5.8 %, Eos:7.9 %, Albumin:2.6 g/dL, LDH:187 IU/L,
+   Ca:8.1 mg/dL, Mg:2.3 mg/dL, PO4:2.7 mg/dL
+   Imaging: CXR [**9-10**] no acute process
+   Microbiology: Cdiff negative
+   Sternal wound -    2+ G + cocci in pairs and clusters
+   Urine NG
+   Assessment and Plan
+   Neurologic: Neuro checks Q: 1 hr, Pain controlled, Fentanyl and versed
+   for sedation and pain while on Cisatricarium
+   Cardiovascular: Aspirin, Beta-blocker
+   Pulmonary: Cont ETT, (Ventilator mode: CMV), on cisatricarium
+   Gastrointestinal / Abdomen: OG tube
+   Nutrition: Tube feeding
+   Renal: Foley, Adequate UO, Lasix for diuresis
+   Endocrine: Insulin drip
+   Infectious Disease: Check cultures
+   Lines / Tubes / Drains: Foley, OGT
+   Wounds: VAC - sternal
+   Imaging: CXR today
+   Consults: Plastics, ID dept
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**2600-9-9**] 09:39 AM
+   Multi Lumen - [**2600-9-9**] 09:39 AM
+   16 Gauge - [**2600-9-9**] 09:39 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

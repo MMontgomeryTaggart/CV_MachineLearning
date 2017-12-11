@@ -1,0 +1,263 @@
+Admission Date:  [**3004-4-23**]              Discharge Date:   [**3004-4-28**]
+
+Date of Birth:  [**2929-8-22**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1081**]
+Chief Complaint:
+Increasing episodes of heart failure
+
+
+Major Surgical or Invasive Procedure:
+[**3004-4-24**] Redo sternotomy, Coronary artery bypass graft x2
+(saphenous vein graft > RAMUS, saphenous vein graft > posterior
+descending artery)
+
+
+History of Present Illness:
+74 year old gentleman with complex past medical history and
+multiple comorbidities who underwent coronary artery bypass
+surgery in [**2974**]. He suffered a reinfarction in [**2986**] and ICD
+placement for a ventricular fibrillation arrest. More recently
+he has been having multiple episodes of heart failure, a
+pulseless
+electrical activity arrest following anesthesia and recently
+suffered a myocardial infarction on [**3004-2-22**] following surgery to
+removed a squamous cell skin cancer from his left temporal
+region. He was admitted to [**Hospital3 448**] [**Hospital3 **] where he
+underwent a recatheterization revealing native left main and
+three vessel disease along with two of three vein grafts
+occluded. His vein graft to the left anterior descending artery
+was patent. Given that he needs further surgery with regards to
+his left temporal squamous cell skin cancer, he has been
+referred for evaluation for a redo CABG prior to any further
+surgical
+procedures. It is felt that he is rather high risk to undergo
+general anesthesia for any further surgery without his coronary
+disease first being addressed. Given the severity of his disease
+and complexity of his situation, he has been referred to Dr.
+[**Last Name (STitle) **] for further evalutation.   He is admitted today for
+further pre-op workup and heparin bridge.  Last dose of coumadin
+was Wednesday, [**3004-4-18**].
+
+Past Medical History:
+- Coronary artery disease
+- Hyperlipidemia
+- Myocardial infarction x3 ([**2974**], [**2986**], [**3003**])
+- Hypertension
+- Urosepsis
+- PEA Arrest
+- Pneumonia
+- Respiratory failure following renal stenting
+- Ventricular arrythmias/Cardiac arrest
+- Atrial fibrillation
+- Rectal Cancer
+- Skin Cancer requiring resection and radiation (SCC) - Left
+occipital region. Needs further surgery and skin grafting.
+- Urinary tract infection
+- Congestive heart failure
+- Peripheral vascular disease
+- Nephrolithiasis
+- Episode of acute kidney injury following renal stenting
+- Colon cancer
+- s/p CABGx3 (SVG->LAD, Diag, RCA) in [**2974**] [**Hospital6 17326**]
+- s/p  St. [**Male First Name (un) 657**] ICD placed in [**2986**] for VT arrest, only prior
+discharge in [**2995**] also for AF with RVR, device upgraded in [**2989**]
+and again in [**2994**]
+- Lithotripsy
+- left ureteral stent placement and removal of left nephrostomy
+tube
+- Fem [**Doctor Last Name 410**] bypass in [**2978**]
+- Small bowel resection in [**2986**] Colon cancer
+
+
+Social History:
+Lives with: Wife in [**Name2 (NI) **]
+Occupation: Retired
+Tobacco: 30pack years, quit in [**2974**].
+ETOH: None
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Pulse: 53 SR   Resp: 16   O2 sat: 99%
+B/P  Right: 156/84    Left:
+Height: 68"    Weight: 172
+
+General: WDWN in NAD
+Skin: Warm, Dry, intact. Left upper chest AICD/PPM. Well healed
+sternotomy, well healed mid-line abdominal incision
+left occipital region- large surgical site with foam dressing
+HEENT: NCAT, PERRLA, EOMI, Sclera anicteric, OP moist without
+lesions, +dentures
+Neck:  Supple [X] Full ROM [X] No JVD
+Chest: Lungs clear bilaterally [X]
+Heart: RRR,  II/VI systolic murmur at Left sternal border
+Abdomen: Soft [X] non-distended [X] non-tender [X]  bowel sounds
++ [X]
+Extremities: Warm [X], well-perfused [X]
+Edema: right- trace  left- 1+
+Varicosities: Left GSV harvested by open technique. Scar well
+healed. Right appears suitable.
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:2+   Left:2+
+DP           Right:NP   Left:NP
+PT           [**Name (NI) 422**]:1+   Left:NP
+Radial       Right:2+   Left:2+
+
+Carotid Bruit   + bilateral bruits vs. transmitted cardiac
+murmur
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted preoperatively for evaluation and on [**4-24**]
+was brought to the operating room for redo sternotomy, coronary
+artery bypass graft surgery.  Please see the operative report
+for further details.  He received Cefazolin for perioperative
+antibiotics and was transferred to the intensive care unit for
+post operative management.  That evening he was weaned from
+sedation, awoke neurologically intact and was extubated without
+complications.  His chest tubes and epicardial wires were
+removed.  Coumadin was started for atrial fibrillation.  By post
+operative day #4 he was discharged to home.  All follow-up
+appointments were advised.
+
+Medications on Admission:
+Simvastatin 80mg daily
+***Coumadin 2mg daily***  (LD [**3004-4-18**])
+Metoprolol XL 25mg daily ?dose
+Lisinopril 2.5mg daily
+Fluorouracil 5% cream
+Xalatan 0.005% daily 1 gtt OU at bedtime
+Brimonidine 0.2% daily 1gtt OU Twice daily
+Amiodarone 200mg daily
+Lasix 20mg daily
+Nitroglycerin
+Imdur 30mg daily
+
+
+Discharge Medications:
+1. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for fever/pain.
+3. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*65 Tablet(s)* Refills:*0*
+6. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 10
+days.
+Disp:*20 Tablet(s)* Refills:*0*
+8. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+9. brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2
+times a day).
+10. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO once a day:
+dose to be increased once amiodarone d/c'd.
+Disp:*30 Tablet(s)* Refills:*2*
+11. fluorouracil  Topical
+12. Coumadin 1 mg Tablet Sig: as directed for afib Tablet PO
+once a day: INR goal 2.0-2.5
+for Afib.
+Disp:*60 Tablet(s)* Refills:*2*
+13. Outpatient Lab Work
+INR goal 2.0-2.5. First draw on [**3004-4-30**] with results to Dr. [**Name (NI) 17327**] office at [**Hospital1 **] with attention to [**First Name8 (NamePattern2) 1297**]
+[**Last Name (NamePattern1) 17328**]. Fax ([**Telephone/Fax (1) 17329**]. Plan confirmed with [**Doctor First Name **] on [**4-27**].
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 211**] VNA
+
+Discharge Diagnosis:
+Coronary artery disease s/p cabg
+Chronic systolic heart failure
+Hyperlipidemia
+Myocardial infarction
+Hypertension
+Urosepsis
+PEA Arrest
+Pneumonia
+Respiratory failure following renal stenting
+Ventricular arrythmias/Cardiac arrest
+Atrial fibrillation
+Rectal Cancer
+Skin Cancer
+Urinary tract infection
+Peripheral vascular disease
+Nephrolithiasis
+Colon cancer
+
+
+Discharge Condition:
+
+
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right - healing well, no erythema or drainage.
+Edema 2+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 425**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 425**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr [**Last Name (STitle) **] on [**5-17**] at 1:45pm in the [**Hospital **] medical
+office building [**Hospital Unit Name **] [**Telephone/Fax (1) 425**]
+Cardiologist: Dr [**Last Name (STitle) 17322**] on [**4-30**] on 10:30pm
+Wound check on Wednesday [**5-2**] on [**Hospital Ward Name **] 2A
+
+Please call to schedule appointments with your
+Primary Care Dr [**Last Name (STitle) **] in [**2-21**] weeks
+
+INR goal for afib 2-2.5
+First draw on [**3004-4-29**] with results to Dr.[**Name (NI) 17330**] office at
+[**Hospital1 **] with attention to [**First Name8 (NamePattern2) 1297**] [**Last Name (NamePattern1) 17328**]. Fax
+([**Telephone/Fax (1) 17329**]. Plan confirmed with [**Doctor First Name **] on [**4-27**].
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 425**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**3004-4-28**]
+
+DOC CLASS

@@ -1,0 +1,172 @@
+TITLE:
+   Chief Complaint:  GI bleed
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   62F pmhx as detailed below presented w/ hypoxia and hypotension related
+   to diarrhea admitted [**2861-3-8**] with decompensated Rt heart failure,
+   profound DOE, stabilized in ICU developed ARF.  Had known PFO with
+   presumed dynamic flow reversal, RHC on [**3-14**] no improvement with NO or
+   Fi02 1.0.  [**3-27**] freq black tary bm, scoped found erosion GE junction,
+   gastric and esoph erosions.  Started on PPI.  Perc PFO closure on [**3-30**]
+   started on ASA, plavix.  Cont G+ stools, evolving into frank melena.
+   EGD/colonoscopy today under GETA for control of hemodynamics given
+   tenuous hemodyn status.  Extubated in PACU w/o event. Transferred to
+   ICU for close monitoring.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Medical records
+   Allergies:
+   Lisinopril
+   Rash; Abdominal
+   Kefzol (Intraven.) (Cefazolin Sodium)
+   Hives;
+   Sulfa (Sulfonamide Antibiotics)
+   Hives; Nausea/V
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   LV failure (diastolic)
+   RHF
+   PFO s/p closure
+   Afib
+   Ulcerative colitis
+   ETOH abuse
+   hernia repair
+   prior GIB
+   hypercholesterolemia
+   father MI@68
+   mother breast cancer@52
+   Occupation: retired teacher
+   Drugs: denies
+   Tobacco: nonsmoker
+   Alcohol: social w/ h/o heavy
+   Other: Married w/ children
+   Review of systems:
+   Constitutional: Fatigue
+   Cardiovascular: Edema, Orthopnea
+   Respiratory: Dyspnea
+   Gastrointestinal: melena
+   Genitourinary: Foley, Dialysis
+   Integumentary (skin): No(t) Rash
+   Heme / Lymph: Anemia
+   Neurologic: No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2861-4-4**] 10:43 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 36.5
+C (97.7
+   HR: 66 (66 - 76) bpm
+   BP: 111/54(67) {109/48(64) - 154/97(111)} mmHg
+   RR: 15 (7 - 19) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, fatigued
+   Eyes / Conjunctiva: Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), (Murmur:
+   No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   266 K/uL
+   26.4 %
+   8.5 g/dL
+   3.8 K/uL
+        [image002.jpg]
+                             [**2861-4-4**]  07:32 PM
+   WBC
+                                     3.8
+   Hct
+                                    26.4
+   Plt
+                                     266
+   Other labs: Differential-Neuts:75.2 %, Lymph:10.7 %, Mono:11.1 %,
+   Eos:2.4 %
+   Assessment and Plan
+   62F with GIB in setting of severe biventricular failure with recent
+   correction of PFO now s/p EGD and colonoscopy under GETA extubated in
+   PACU now in [**Hospital Unit Name 42**] for close hemodyn monitoring.  Two regions in colon
+   with oozing c/w source of bleeding, also bleeding lesion noted in
+   duodenum all lesion clipped w/ good hemostasis achieved.
+   GI bleed -
+   - setting of aspirin and plavix for PFO placement
+   - Cardiology consulted re: anticoag - feels need to continue treatement
+   given risk of coagulation in setting of PFO s/p occlusive device
+   - serial hct
+   - hemodynamically stable
+   - check ekg
+   - maintain 2 preriph IV
+   - cont PPI
+   - GI following
+   Anemia secondary to blood loss
+   - transfuse to hct of 30
+   CHF - biventricular
+   -lasix and diuril drips on hold secondary to bleeding
+   -careful fluid balance, follow sats
+   Respiratory
+   -extubated successfully in PACU.  Still requiring 5LNC
+   -cont close monitoring respiratory status
+   Acute on Chronic Renal failure
+   -  renal following - consulted for ?UF
+   Patient is critically ill with signficant threat of rebleed and
+   significant anemia related to blood loss.  Time spent 40 minutes.
+   Remainder of plan per resident note.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   20 Gauge - [**2861-4-4**] 09:19 PM
+   Comments:
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 40 minutes
+
+
+DOC CLASS

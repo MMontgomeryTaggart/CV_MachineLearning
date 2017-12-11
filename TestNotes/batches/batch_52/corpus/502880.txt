@@ -1,0 +1,175 @@
+Chief Complaint: 82 y/o F with PMHx of severe dementia who presents
+   with hypotension, dirty UA and massive stool ball.
+   24 Hour Events:
+ PICC LINE - START [**3154-9-2**] 03:00 PM
+   -surgery recs reviewed and discussed with resident - recommend further
+   disimpaction, avoid enemas for now.
+   -surgery consented (from patient's sister) for OR tomorrow - exam and
+   disimpaction under anesthesia, plus debridement of gluteal decubitus
+   ulcer.
+   -PICC placed successfully.
+   -disimpaction performed in early evening, successfully removed moderate
+   amount of firm brown stool, but unable to give adequate analgesia due
+   to low BP.
+   -decreased BP overnight - on pressors for several hours, given more
+   fluids.  Weaned off pressors by morning.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**3154-9-2**] 04:00 PM
+   Ciprofloxacin - [**3154-9-3**] 04:15 AM
+   Metronidazole - [**3154-9-3**] 05:05 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3154-9-2**] 10:01 PM
+   Morphine Sulfate - [**3154-9-3**] 04:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3154-9-3**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.4
+C (99.4
+   HR: 71 (68 - 87) bpm
+   BP: 90/53(56) {81/34(49) - 124/95(102)} mmHg
+   RR: 28 (15 - 28) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  8,177 mL
+                                                                    489 mL
+   PO:
+             TF:
+   IVF:
+                                                                  5,177 mL
+                                                                    489 mL
+   Blood products:
+   Total out:
+                                                                  1,870 mL
+                                                                    430 mL
+   Urine:
+                                                                  1,270 mL
+                                                                    430 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,307 mL
+                                                                     59 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   ABG: ///25/
+   Physical Examination
+   Alert, oriented x1, appears comfortable, but anxious
+   Lungs with good air movement bilaterally, mild crackles bilaterally
+   RRR, with 2/6 systolic murmur
+   Abdomen tender to palpation, stool mass palpable, + BS.
+   Trace pedal edema.
+   Labs / Radiology
+   306 K/uL
+   7.8 g/dL
+   87 mg/dL
+   0.5 mg/dL
+   25 mEq/L
+   3.0 mEq/L
+   15 mg/dL
+   112 mEq/L
+   144 mEq/L
+   24.8 %
+   11.5 K/uL
+        [image002.jpg]
+                             [**3154-9-2**]  11:55 AM
+                             [**3154-9-2**]  05:57 PM
+                             [**3154-9-3**]  03:59 AM
+   WBC
+   14.4
+   11.5
+   Hct
+   27.6
+   25.5
+   24.8
+   Plt
+   317
+   306
+   Cr
+   0.7
+   0.5
+   Glucose
+   96
+   87
+   Other labs: PT / PTT / INR:12.8/28.3/1.1, Lactic Acid:1.2 mmol/L,
+   Ca++:8.5 mg/dL, Mg++:1.8 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+ IMPAIRED SKIN INTEGRITY
+ DEMENTIA (INCLUDING ALZHEIMER'S, MULTI INFARCT)
+ HYPOTENSION (NOT SHOCK)
+ CONSTIPATION (OBSTIPATION, FOS)
+   82 y/o F with PMHx of severe dementia who presents with hypotension,
+   dirty UA and massive stool ball.
+   .
+   #  Hypotension: Patient hypotensive on arrival in the setting of
+   several weeks of poor PO intake.  The differential includes Sepsis vs
+   hypovolemia, will trend lactates.  No evidence of bleeding at this
+   time.  Concern about both urinary and gut bacteria for possible
+   evolving sepsis.  Had some decreased blood pressures overnight, on
+   Levophed for several hours.
+   - Cipro, flagyl and cefepime.
+   -significant fluid repletion yesterday - positive 6 liters with good
+   urine output.
+   - bolus PRN for hypotension.
+   - continue to follow urine output, goal UOP >30cc/hr
+   - lactate slightly elevated on admission, 1.2 after fluids
+   - f/u Urine/blood Cx
+   - obtain OSH records/Cx data
+   - hold atenolol, triameterene/HCTZ
+   .
+   # Stool ball and impaction - extremely large stool ball, with several
+   attempts at disimpaction yesterday.  Lack of rectal tones yesterday
+   initially concerning for neurologic injury.  However, yesterday evening
+   on exam and disimpaction she had fairly normal tone.
+   - discussed with general surgery yesterday evening - planning to take
+   to OR today.  Consent obtained.
+   - unable to take PO yesterday, lactulose not given.
+   - morphine PRN pain - mostly held for decreased BP.
+   .
+   # skin ulceration - buttocks and heel ulcerations.  Buttock ulceration
+   very deep and concern re: possible abscess/fistula.
+   - wound consult appreciated.
+   - surgery will debride in OR today, consider possibility of osteo
+   .
+   # ?UTI- Ucx showed contam c stool, will resend
+   .
+   # Dementia - continue aricept.
+   .
+   # Depression - continue lexipro & depakote and mirtazapine
+   .
+   # FEN: IVF with NS @ 200ml/hr. clear fluid diet, NPO after MN for
+   surgery.  replete electrolytes PRN
+   .
+   # Communication: HCP [**Name (NI) 9770**] [**Name (NI) 9771**] (son) [**Telephone/Fax (1) 9772**] &  [**Name (NI) 25**] [**Name (NI) 9773**]
+   (sister) [**Telephone/Fax (1) 9774**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3154-9-2**] 08:00 AM
+   PICC Line - [**3154-9-2**] 03:00 PM
+   Prophylaxis:
+   DVT: subQ heparin
+   Stress ulcer:  none
+   VAP:
+   Comments:
+   Communication:  Comments:  sister was visiting yesterday.
+   Code status:  full
+   Disposition:  ICU, to OR today
+
+
+DOC CLASS

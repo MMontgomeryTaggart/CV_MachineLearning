@@ -1,0 +1,217 @@
+TITLE:
+   Chief Complaint: Takusobu cardiomyopathy.
+   24 Hour Events:
+   -Chest/back pain free this AM.  C/O abdominal discomfort/constipation.
+   -AM Hct: 26.5 (decreased from 32.2 yesterday afternoon)
+   [**3-1**]
+   - patient's husband passed away [**3-1**] AM; she was able to visit him
+   briefly afterwards
+   - 3pm Hct stable (32.2 from 27.3)
+   - rectal guaiac Neg ; no complaints of back pain or R groin
+   pain/discomfort (procedure site)
+   - guaifenesin w codeine for cough
+   - O2sats drop to low 80s on RA when sleeping only (still sleeps
+   comfortably); placed on 4L O2NC
+   - had some abdominal discomfort in middle of night, resolved on its
+   own; mid-abdomen, sharp, "possibly gas pain," requested stool
+   softeners, +flatus
+   Allergies:
+   Vancomycin
+   Rash; itch;
+   Benadryl (Injection) (Diphenhydramine Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Linezolid - [**2975-2-28**] 06:37 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2975-2-28**] 12:00 PM
+   Infusions:
+   Heparin Sodium - 800 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2975-3-1**] 08:30 AM
+   Lorazepam (Ativan) - [**2975-3-1**] 10:30 AM
+   Pantoprazole (Protonix) - [**2975-3-1**] 08:20 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2975-3-2**] 07:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**77**] AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 36.2
+C (97.1
+   HR: 77 (77 - 117) bpm
+   BP: 112/61(73) {93/53(65) - 122/76(93)} mmHg
+   RR: 20 (15 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 61 Inch
+             Total In:
+                                                                  1,792 mL
+                                                                    253 mL
+   PO:
+                                                                  1,200 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    592 mL
+                                                                    133 mL
+   Blood products:
+   Total out:
+                                                                  3,125 mL
+                                                                    235 mL
+   Urine:
+                                                                  3,125 mL
+                                                                    235 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,333 mL
+                                                                     18 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula at 4L/min
+   SpO2: 94%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: Well nourished, no acute distress
+   Eyes / Conjunctiva: Conjunctiva pale
+   Lymphatic: JVP unable to be assessed
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic),
+   precordial, radiating to apex
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Diminished), (Left DP pulse:
+   Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   at bases bilaterally)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   139 K/uL
+   8.8 g/dL
+   119 mg/dL
+   1.0 mg/dL
+   25 mEq/L
+   3.2 mEq/L
+   10 mg/dL
+   106 mEq/L
+   139 mEq/L
+   26.5 %
+   8.0 K/uL
+        [image002.jpg] ([**3-1**])
+                             [**2975-2-28**]  02:15 AM
+                             [**2975-2-28**]  10:15 AM
+                             [**2975-2-28**]  10:24 AM
+                             [**2975-2-28**]  08:00 PM
+                             [**2975-3-1**]  06:08 AM
+                             [**2975-3-1**]  02:42 PM
+                             [**2975-3-2**]  04:39 AM
+   WBC
+   18.0
+   13.8
+   8.3
+   8.0
+   Hct
+   33.1
+   31.3
+   27.3
+   32.2
+   26.5
+   Plt
+   [**Telephone/Fax (3) 13193**]39
+   Cr
+   1.1
+   1.0
+   1.1
+   0.9
+   1.0
+   TropT
+   0.42
+   0.27
+   0.15
+   TCO2
+   15
+   Glucose
+   186
+   131
+   111
+   98
+   119
+   Other labs: PT / PTT / INR:12.9/64.6/1.1, CK / CKMB /
+   Troponin-T:109/5/0.15, Differential-Neuts:91.0 %, Band:0.0 %, Lymph:6.0
+   %, Mono:3.0 %, Eos:0.0 %, Lactic Acid:1.2 mmol/L, Ca++:7.3 mg/dL,
+   Mg++:1.9 mg/dL, PO4:2.4 mg/dL
+   Assessment and Plan
+   Ms [**Known patient lastname 11798**] is a 72 year-old female with pmh of hypertension, HL,
+   depression, and GERD who was admitted to the MICU on [**2-27**] with
+   hypotension and trop leak, found to have apical ballooning on TTE
+   suggestive of Takotsubo cardiomyopathy.
+   # Hypotension/Acute systolic heart failure/Takotsubo
+s cardiomyopathy:
+   Good response to lasix IV
+   - continue to diurese with lasix IV
+ bolus 20mg today.
+   - Continue heparin gtt for prevention of thrombus in the setting of
+   apical ballooning.  Start Coumadin today.
+   - captopril 6.25tid
+   - She will need a repeat TTE as an prior to discharge to reassess her
+   cardiac function.
+   #Anemia: may be hemodilutional, but in setting of heparin a GI source
+   needs to be considered.  Patient has no lower back pain that would be
+   evidence of RP bleed.  Stools are guiaic negative, hct stable.
+   -daily hct.
+   -change ppi to oral omeprazole.
+   #Abdominal pain: patient feels bloated, gas pain.  She has not had a
+   bowel movement since admission.
+   -          continue senna/colace/bisacodyl
+   -          simethecone for gas.
+   # Chest pain/coronaries:  Her cardiac cath showed clean coronaries.
+   Most likely her chest pain was due to Takotsubo
+s cardiomyopathy vs an
+   acute coronary artery occlusion which quickly self lysed.  She
+   continues to have some chest pain at present.
+   - Pain control with oxycodone 5 mg q4h prn and Tylenol prn.
+   - Continue ASA 325 mg po daily.
+   - Continue simvastatin 40 mg po daily.
+   # Mitral regurgitation:  The patient has known mitral regurgitation and
+   is followed as an outpatient for this with yearly echos.  Due to the
+   concern for a flail leaflet, CT [**Doctor First Name 204**] was consulted.
+   - Appreciate CT [**Doctor First Name 204**] consult, will f/u recs.
+   - Treatment for acute heart failure as above.
+   # Rhythm:  She is currently in sinus rhythm.
+   - Monitor on tele.
+   # Gallbladder wall thickening/Concern for infection:  There was initial
+   concern on admission that the patient
+s hypotension was related to
+   infection, specifically an intraabdominal infection involving the
+   gallbladder.  Her CTA revealed gallbladder wall thickening, however she
+   currently has no abdominal pain and has been afebrile.
+   - F/u BCx.
+   # Non-anion gap metabolic acidosis:  Most likely secondary to the many
+   liters of normal saline she received for hypotension.
+   - Resolved.
+   # Depression:
+   - Continue home buproprion and ativan prn.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2975-2-28**] 04:00 PM
+   Prophylaxis:
+   DVT: heparin IV
+   Stress ulcer: omeprazole
+   VAP:  n/a
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: floor today.
+
+
+DOC CLASS

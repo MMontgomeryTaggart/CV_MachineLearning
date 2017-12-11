@@ -1,0 +1,279 @@
+Admission Date:  [**3384-9-23**]              Discharge Date:   [**3384-10-12**]
+
+Date of Birth:  [**3303-8-1**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Lipitor
+
+Attending:[**First Name3 (LF) 1858**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**3384-10-5**] LV Apico-Aortic Valved Conduit via Left
+Thoracotomy(16mm LV Apical Connector with a 18mm Porcine Valved
+Conduit)
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 14811**] is an 81 year-old gentleman with an extensive history
+of coronary artery disease, s/p AMI at age 37, CABG in [**3366**]
+(LIMA-LAD, SVG-PDA, SVG-OM1) with redo in [**3372**] (occuded LIMA-LAD
+and SVG-PDA, RIMA-LAD,SVG-PDA, SVG-OM2). He had a [**3380**]
+catheterization for NSTEMI and underwent PCI of 90% lesion in
+the OM1 with a 3 x 8 mm Cypher DES. His RIMA-LAD, SVG-PDA and
+SVG-OM2 were all patent. History also significant for CHF with
+an an EF of 25% s/p cardiac resynchronization and biventricular
+pacemaker placement, hypertension and hyperlipidemia.
+
+At his baseline (a few months back), the patient was able to
+work in the yard for 10 minutes+ after which time he would
+become SOB. After resting for 10-15 minutes he would again be
+okay to work. Over the last few weeks, he has noticed SOB at
+rest. Some of these episodes are associated with "chest
+tightness". The tightness was across his chest with no
+radiation. He would occasionally have nausea with it but no
+diapheresis. Usually lasted a few minutes and would be relieved,
+at times, with burping or walking. He did not note any of the
+tightness with exertion. He notes that the pain is not like that
+of his MI, which was back pain and much more severe. Over the
+last week he has noticed that the symptoms are increasing in
+frequency (now occuring daily). On the day of admission, he
+awoke at 6am and felt SOB. This did not abate and given the
+duration of symptoms, he went to his PCP who then referred him
+to an OSH. His symptoms improved with intravenous Lasix and he
+was eventually transferred to the [**Hospital1 68**] for cardiac surgical
+evaluation.
+
+
+
+Past Medical History:
+Systolic Congestive Heart Failure
+Coronary Artery Disease - Prior CABG [**3366**], [**3372**]
+Anterior MI at age 37
+Biventricular Pacemaker and Cardiac Resynchronization
+Hypertension
+Hyperlipidemia
+History of Abscess Excision
+Cholecystectomy
+History of Remote MVA
+
+
+Social History:
+Retired sales officer. Lives alone in [**Location (un) **]. History of
+remote tobacco, and admits to occasional ETOH
+
+
+Family History:
+No premature coronary artery disease
+
+Physical Exam:
+Vitals: 98.2, 113/66, 73, 18, 93% on 3L
+General: Elderly male in no acute distress
+HEENT: Oropharynx benign, EOMI
+Neck: Supple, no JVD
+Lungs: CTA bilaterally
+Heart: Iregular rate and rhythm, 3/6 systolic murmur
+Abdomen: Soft, nontender with normoactive bowel sounds
+Ext: Warm, no edema. Well healed bilateral scars
+Pulses: 1+ distally
+Neuro: Alert and oriented, CN 2- 12 grossly intact, no focal
+deficits noted
+
+Pertinent Results:
+[**3384-9-23**] 11:05PM BLOOD WBC-7.8 RBC-3.90* Hgb-11.9*# Hct-35.5*
+MCV-91 MCH-30.4 MCHC-33.4 RDW-15.6* Plt Ct-212
+[**3384-9-23**] 11:05PM BLOOD PT-17.3* PTT-39.2* INR(PT)-1.6*
+[**3384-9-23**] 11:05PM BLOOD Glucose-178* UreaN-25* Creat-1.4* Na-140
+K-4.1 Cl-98 HCO3-31 AnGap-15
+[**3384-9-23**] 11:05PM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**3384-9-25**] 09:30AM BLOOD Triglyc-78 HDL-33 CHOL/HD-5.3 LDLcalc-125
+LDLmeas-129
+[**3384-9-24**] 06:00AM BLOOD TSH-2.2
+[**3384-9-23**] 11:05PM BLOOD Digoxin-2.0
+[**3384-9-24**] Echocardiogram:
+The left atrium is markedly dilated. The right atrium is
+moderately dilated. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity is moderately dilated.
+There is severe regional left ventricular systolic dysfunction
+with severe hypokinesis/akinesis of the inferolateral, lateral,
+anteroseptal and apical segments. There is hypokinesis of the
+remaining segments, with relative preservation of only the basal
+and mid-inferior segments and basal anterior segment (LVEF =
+25%). No masses or thrombi are seen in the left ventricle. Right
+ventricular chamber size and free wall motion are normal. The
+ascending aorta is mildly dilated. The aortic arch is mildly
+dilated. There are three severely thickened aortic valve
+leaflets. There is severe aortic valve stenosis (area <0.8cm2).
+Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Moderate (2+) mitral
+regurgitation is seen. The left ventricular inflow pattern
+suggests a restrictive filling abnormality, with elevated left
+atrial pressure. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+[**3384-9-27**] Cardiac Catheterization:
+1.  Selective coronary angiography of this right dominant system
+
+demonstrates severe native vessel disease.  The LMCA has a
+patent stent
+into the ramus.   The pLAD is 100 occluded.  The AV groove LCx
+is a
+small vessel- OM1 is 90% occluded and beyond OM1 there is a
+subtotal
+occlusion.  OM2 fills via the patent SVG graft.  The RCA is
+known
+occluded and is not engaged.
+2.  Arterial conduit angiography of the RIMA to LAD showed the
+graft to
+be widely patent.  Of note, the rigth subclavian artery
+originates
+distal to the origin of the left subclavian artery.  The RIMA
+graft
+travels in front of the heart, directly behind the sternum to
+anastomose
+with the LAD.
+3.  Bypass graft angiography shows that the SVG to PDA that was
+patent
+in [**3380**] is now proximally occluded.  The SVG to OM2 remains
+patent and
+fills the OM2 distally.
+[**3384-9-28**] Chest CT Scan:
+1. Widespread ground-glass opacities with upper lung
+distribution. Radiological pattern is consistent with
+respiratory bronchiolitis (in a smoker), hypersensitivity
+pneumonitis, or acute viral infection such as viral, less likely
+pulmonary hemorrhage.
+2. Extensive atherosclerotic coronary and aortic calcifications.
+3. Severe aortic valve calcifications consistent with known
+aortic stenosis.
+4. Hypodense liver lesions, some of them too small to be
+precisely characterized. Evaluation with ultrasound is
+recommended . Status post cholecystectomy.
+5. Bilateral left more than right pleural effusions.
+6. Cardiomegaly. Possible left ventricular aneurysm
+[**3384-9-28**] Carotid Ultrasound:
+Minimal plaque with bilateral less than 40% carotid stenosis.
+
+[**3384-10-11**] WBC 9.3, HCT 29.9, PLT 229
+[**3384-10-12**] INR 2.2
+[**3384-10-11**] INR 2.7
+[**3384-10-10**] INR 1.8
+[**3384-10-9**] INR 1.3
+[**3384-10-12**] Na 134, K 4.7, Cl 92, HCO3 36, BUN 29, Cr 1.0
+[**3384-10-12**] Mg 3.1
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 14811**] was admitted to cardiology service. He was noted to be
+in atrial fibrillation and started on intravenous Heparin.
+Cardiac surgery was consulted and extensive preoperative
+evaluation was performed. An echocardiogram revealed substantial
+increase in aortic stenosis and pulmonary pressures, while left
+ventricular function and the severity of mitral regurgitation
+appeared similar in comparison to [**3380**] - see result section for
+additional details. Cardiac catheterization was performed which
+showed patent RIMA to LAD and patent vein graft to obtuse
+marginal. The vein graft to the PDA was occluded. (See result
+section for additional cath results.) Additional preoperative
+workup included chest CT scan and carotid non invasive studies -
+see result section. He was also cleared by the dental service
+after clinical and radiographic examinations showed no obvious
+infection. Given the location of the RIMA and extensive aortic
+calcifications, it was decided to proceed with LV apico-aortic
+valved conduit approach via thoracotmy rather than median
+sternotomy. His preoperative course was otherwise uneventful and
+he remained pain free on medical therapy. On [**10-5**], Dr.
+[**Last Name (STitle) **] performed an LV Apico-Aortic Valved Conduit operation
+via left thoractomy. Please see seperate dictated operative note
+for details. Following the operation, he was brought to the
+CVICU for invasive monitoring. Within 24 hours, he awoke
+neurologically intact and was extubated. He was initially
+maintained on Amiodarone for ventricular ectopy while Warfarin
+anticoagulation was initiated for atrial fibrillation. Due to
+persistent postop hypotension, it took several days to wean from
+inotropic support. Once his hemodynamics stablized, he
+eventually transferred to the SDU for further care and recovery.
+He remained in atrial fibrillation with improvement in
+ventricular ectopy. Amiodarone was eventually discontinued while
+beta blockade was advanced as tolerated. Warfarin was dosed for
+a goal INR between 2.0 - 2.5. Over several days, he continued to
+make clinical improvements with diuresis and made steady
+progress with physical therapy. By postperative day seven, he
+was medically cleared for discharge to rehab. At discharge, his
+BP was 96/50 with a HR of 71. His oxygen saturations were 95% on
+room air and the discharge chest x-ray showing a slight element
+of fluid overload. At discharge, he will continue to require
+diuresis. If there is improvement in blood pressure, an ACE
+inhibitor should be resumed given his congestive heart failure.
+
+Medications on Admission:
+Aspirin 325 qd, Lopressor 50 qam and 25 qpm, Lasix 40 qd,
+Fosinopril 20 qd, Digoxin 0.25 qd, Zetia 10 qd, Prilosec, Fish
+Oil, Xanax 0.25 qhs
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4H (every 4 hours) as needed for pain.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Warfarin 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+goal INR 2-2.5 please check INR mon-wed-fri.
+5. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+6. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO BID (2 times a day): twice a
+day for 1 week then decrease to daily .
+7. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day:
+twice a day for 1 week then decrease to daily .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Watch [**Doctor Last Name **] Manor
+
+Discharge Diagnosis:
+Aortic Stenosis - s/p LV Apico-Aortic Valved Conduit
+Systolic Congestive Heart Failure
+Coronary Artery Disease - Prior CABG [**3366**], [**3372**]
+Biventricular Pacemaker
+Hypertension
+Hyperlipidemia
+Atrial Fibrillation
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1)Please shower daily. No baths. Pat dry incisions, do not rub.
+2)Avoid creams and lotions to surgical incisions.
+3)Call cardiac surgeon if there is concern for wound infection.
+4)No lifting more than 10 lbs for at least 10 weeks from
+surgical date.
+5)No driving for at least one month
+6)Warfarin should be adjusted for goal INR between 2.0 - 2.5.
+Please monitor INR every Monday, Wed, Friday. Please arrange
+Warfarin follow up with PCP or cardiologist prior to discharge
+from rehab.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in [**3-18**] weeks, call for appt
+Dr. [**Last Name (STitle) 5883**] in [**1-17**] weeks, call for appt
+Dr. [**Last Name (STitle) **] in [**1-17**] weeks, call for appt
+
+
+
+Completed by:[**3384-10-12**]
+
+DOC CLASS

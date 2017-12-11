@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="23750.txt">
+    <annotation>
+        <mention id="EHOST_Instance_109" />
+        <annotator id="eHOST_2010">Shane</annotator>
+        <span start="6992" end="7035" />
+        <spannedText>blood loss anemia requiring RBC transfusion</spannedText>
+        <creationDate>Fri Oct 20 08:48:20 EDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_111">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_109">
+        <hasSlotMention id="EHOST_Instance_111" />
+        <mentionClass id="bleeding_present">blood loss anemia requiring RBC transfusion</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_110" />
+        <annotator id="eHOST_2010">Shane</annotator>
+        <span start="7456" end="7465" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Fri Oct 20 08:48:27 EDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_112">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_113">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_110">
+        <hasSlotMention id="EHOST_Instance_112" />
+        <hasSlotMention id="EHOST_Instance_113" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

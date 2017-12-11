@@ -1,0 +1,202 @@
+Chief Complaint:
+   24 Hour Events:
+   - palliative care consult performed. suggested oxycontin even if
+   somnolent. recommended social work consult.
+   - pt has increasing scrotal pain; ordered low dose morphine IV
+   - lasix 80 IV repeated
+   - currently -1.6 L ([**3040**] hrs on [**3050-6-21**]
+   Allergies:
+   Amoxicillin
+   Rash;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3050-6-21**] 04:00 AM
+   Vancomycin - [**3050-6-22**] 12:14 AM
+   Ceftriaxone - [**3050-6-22**] 02:18 AM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3050-6-21**] 09:04 AM
+   Furosemide (Lasix) - [**3050-6-21**] 08:08 PM
+   Heparin Sodium (Prophylaxis) - [**3050-6-22**] 12:14 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3050-6-22**] 06:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 37
+C (98.6
+   HR: 72 (63 - 91) bpm
+   BP: 149/59(81) {106/52(72) - 157/90(107)} mmHg
+   RR: 14 (14 - 26) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    919 mL
+                                                                    311 mL
+   PO:
+                                                                    670 mL
+             TF:
+   IVF:
+                                                                    189 mL
+                                                                    311 mL
+   Blood products:
+   Total out:
+                                                                  2,790 mL
+                                                                    720 mL
+   Urine:
+                                                                  2,090 mL
+                                                                    720 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,872 mL
+                                                                   -410 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///31/
+   Physical Examination
+   Gen:lying in bed, somnolent, but arousable
+   HEENt: op dry
+   Chest: decreased BS right base, clear [**Hospital1 **]-apically
+   CV: RR
+   Abd:obese soft distended +BS
+   Ext: [**1-29**]+ edema
+   Labs / Radiology
+   184 K/uL
+   8.9 g/dL
+   145 mg/dL
+   1.7 mg/dL
+   31 mEq/L
+   4.2 mEq/L
+   40 mg/dL
+   101 mEq/L
+   140 mEq/L
+   28.6 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**3050-6-21**]  01:36 AM
+                             [**3050-6-21**]  03:35 AM
+                             [**3050-6-21**]  04:34 AM
+                             [**3050-6-22**]  04:30 AM
+   WBC
+   12.5
+   8.1
+   Hct
+   30.8
+   28.6
+   Plt
+   224
+   184
+   Cr
+   1.6
+   1.7
+   TropT
+   0.36
+   TCO2
+   30
+   28
+   Glucose
+   220
+   145
+   Other labs: CK / CKMB / Troponin-T:61//0.36, Lactic Acid:1.2 mmol/L,
+   Ca++:8.7 mg/dL, Mg++:2.2 mg/dL, PO4:4.3 mg/dL
+   Assessment and Plan
+   This is an 82 yo M with metastatic adenocarcinoma, systolic HF EF45%,
+   and CRI who presents from rehab after recent admit for acute on CRI
+   where meds were decreased with flash pulmonary edema in the setting of
+   hypertensive urgency.
+   .
+   #  Respiratory Distress - [**1-28**] flash pulmonary edema in setting of HTN
+   urgency. Recently lisinopril/lasix d/c'd, imdur and BB decreased. Also
+   had WBC w/ left shift with CXR concerning for RLL infiltrate.
+   - oxygen sats well on minimal 2L NC
+   - cont diuresis, strict I/Os, daily weights
+   - consider ACE if hyperkalemia resolves
+   - can decrease abx coverage to levofloxacin x 5 days
+   - prn albuterol/ipratropium
+   - follow up blood cx, obtain sputum
+   .
+   # Hypertensive Urgency - Likely precipitated by recent decreases in
+   medications.
+   - off nitro gtt, can transition to labetolol if remains hypertensive on
+   outpatient regimen
+   - continue BB
+   .
+   # CAD - h/o NSTEMI in past. Troponin mildly elevated on admission,
+   likely [**1-28**] demand in setting of hypertensive urgency.
+   - cycle CEs
+   - continue ASA, BB, imdur, statin, diures with lasix as above
+   - consider lisinopril as above
+   .
+   #  h/o anemia - Hct significantly above baseline on admission. ?
+   hemoconcentration.
+   - continue to trend
+   .
+   #  CRI - at baseline, continue to follow and renally dose all meds
+   .
+   # Parkinson's Disease - Continue on outpt regimen
+   .
+   # h/o dysphagia - Was evaluated on last admission by speech and swallow
+   team.
+   - continue soft solids, thin liquids, and medications given whole in
+   puree.
+   # FEN: replete electrolytes, low sodium, heart healthy diet
+   .
+   # Prophylaxis: Subcutaneous heparin, aggressive bowel regimen, home
+   PPI
+   .
+   # Access: PICC
+ will need to evaluate placement with CXR, appears to
+   have been placed here the beginning of [**5-28**] PIVs
+   .
+   # Code: full - reconsult of palliative care team given overall poor
+   prognosis
+   .
+   # Communication: Patient, wife and daughter
+   .
+   # Disposition: pending titration off CPAP
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3050-6-21**] 12:28 AM
+   20 Gauge - [**3050-6-21**] 01:32 AM
+   22 Gauge - [**3050-6-21**] 01:33 AM
+   Prophylaxis:
+   DVT: heparin
+   Stress ulcer: lansoprazole
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   ------ Protected Section ------
+   Critical Care Attending
+   I was present with the ICU team for rounds and agree with the detailed
+   evaluation in the attached note above. I would add/emphasize the
+   following:
+   82 yo w/met adenoCA of UPS, LV EF 40, CRI admitted from rehab with
+   acute on chronic renal failure now w/resp distress from flash pulm
+   edema and htnive urgency. Has been diuresing since admission - neg
+   1.5-2.0 L.
+   On exam today, alert and responsive. Tm 37.1, BP 150/52-90, RR 14, 97%
+   on 3L. Dry MM, decreased BS R base, abd benign, 3+ edema. Pertinent
+   labs HCT 28.6, K 4.2, BuN 40/Cr 1.7, Lact 1.2
+   Elderly gentleman with multiple medical problems now in ICU after flash
+   pulmonary edema. Will continue diuresis and wean O2 as tolerated.
+   Continue aspiration diet. Narrow antibiotics to levofloxacin. Will call
+   out to floor today.
+   [**First Name4 (NamePattern1) 372**] [**Last Name (NamePattern1) 587**], MD
+   ------ Protected Section Addendum Entered By:[**Name (NI) 372**] [**Last Name (NamePattern1) 587**], MD
+   on:[**3050-6-22**] 12:08 ------
+
+
+DOC CLASS

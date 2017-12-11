@@ -1,0 +1,197 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   -Renal spoke to outpatient renal doctor [**First Name (Titles) **] [**Last Name (Titles) 5148**] med list (per
+   patient's mom, she had been taken off clonidine, per doc, she is on.
+   We have kept her on clonidine).
+   -Off labetalol gtt since yesterday afternoon
+   -Outpatient PD settings (2.5%, 4.25%, 2.5%, 4.25%, 2.5% alternating
+   doses, ideally 1 hr each but getting 4 hr each here).  I/Os for
+   yesterday are inaccurate.  Per metavision, her balance is approx neg
+   400 but [**Name8 (MD) **] RN she is neg > 2L.
+   -Significant headaches overnight.  Minimal response to 1 mg IV
+   dilaudid.  Gave ASA/Percocet (approx outpt. Excedrin/Perc).
+   Allergies:
+   Codeine
+   seizure;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3334-7-27**] 05:35 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.6
+C (97.8
+   HR: 94 (90 - 99) bpm
+   BP: 149/92(103) {140/72(86) - 186/130(143)} mmHg
+   RR: 18 (17 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                  1,854 mL
+                                                                     60 mL
+   PO:
+                                                                    270 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                  1,584 mL
+   Blood products:
+   Total out:
+                                                                  2,300 mL
+                                                                    600 mL
+   Urine:
+   NG:
+   Stool:
+   PD:
+                                                                  1,300 mL
+                                                                       600
+   Balance:
+                                                                   -446 mL
+                                                                   -540 mL
+   Respiratory support
+   O2 Delivery Device: Room air
+   SpO2: 96%
+   Physical Examination
+   GEN: eyes closed, will open when asks, no acute distress, lying in bed,
+   drowsy
+   HEENT: EOMI, pupils small but reactive bilaterally
+   RESP: CTAB no w/r/r
+   CV: RRR 2/6 SM LUSB no rubs
+   ABD: Soft ND + BS no rebound or guarding, PD catheter in place in LLQ
+   EXT: Warm well perfused, no peripheral edema
+   SKIN: no rashes
+   NEURO: EOMI, pupils small but reactive bilaterally, facial expressions
+   intact & symmetric, moving all four extremities
+   Labs / Radiology
+   262 K/uL
+   10.8 g/dL
+   118 mg/dL
+   11.0 mg/dL
+   21 mEq/L
+   5.1 mEq/L
+   65 mg/dL
+   98 mEq/L
+   138 mEq/L
+   33.0 %
+     7.5 K/uL
+        [image002.jpg]
+                             [**3334-7-26**]  03:10 AM
+                             [**3334-7-27**]  04:50 AM
+   WBC
+   8.0
+   7.5
+   Hct
+   31.4
+   33.0
+   Plt
+   220
+   262
+   Cr
+   11.0
+   TropT
+   0.03
+   Glucose
+   118
+   Differential-Neuts:75.1 %, Lymph:10.7 %, Mono:5.5 %, Eos:8.1 %
+   Ca++:9.2 mg/dL, Mg++:2.9 mg/dL, PO4:10.8 mg/dL
+   ALT 8   AST 12   AP 47   LDH  302   Tbili 0.1  Alb 3.1
+   Imaging (all from [**7-26**]): TTE->effusion decreased
+   TTE:
+   The left atrium and right atrium are normal in cavity size. The
+   estimated right atrial pressure is 0-5 mmHg. There is mild symmetric
+   left ventricular hypertrophy with normal cavity size. Regional left
+   ventricular wall motion is normal. Overall left ventricular systolic
+   function is low normal (LVEF 50-55%). Right ventricular chamber size
+   and free wall motion are normal. The aortic valve leaflets (3) are
+   mildly thickened but aortic stenosis is not present. Mild (1+) aortic
+   regurgitation is seen. The mitral valve leaflets are structurally
+   normal. There is no mitral valve prolapse. Mild (1+) mitral
+   regurgitation is seen. The estimated pulmonary artery systolic pressure
+   is normal. There is a trivial/physiologic pericardial effusion.
+   Compared with the prior report (images unavailable for review) of
+   [**3332-1-1**], mild aortic regurgitation and mild mitral regurgitation are
+   now seen. Left ventricular systolic function is less vigorous (now low
+   normal) suggesting a diffuse process (toxin, metabolic, etc.). The
+   pericardial effusion has largely resolved.
+   CLINICAL IMPLICATIONS:
+   Based on [**3332**] AHA endocarditis prophylaxis recommendations, the echo
+   findings indicate prophylaxis is NOT recommended. Clinical decisions
+   regarding the need for prophylaxis should be based on clinical and
+   echocardiographic data.
+   Head CT:
+   no evidence of hemorrhage, edema, or mass
+   CXR:
+   In comparison with study of [**6-16**], there is again substantial
+   enlargement of the cardiac silhouette, accentuated by the low lung
+   volumes.
+   Mild indistinctness of pulmonary vessels may reflect some
+   overhydration. No
+   evidence of acute focal pneumonia.
+   Assessment and Plan
+   Pericardial effusion, negative [**Doctor First Name 1168**]
+   HA:  Assess if ASA/Perc helped.  Neuro has seen for HA as outpatient.
+   Recs: depacote, SSRI, Excedrin, Tylenol PM.  Pain vs. neuro c/s for
+   further management.
+   21 yo F with history of ESRD on PD s/p failed renal tx after recurrence
+   of MPGN, with recurrent admissions for hypertensive urgency, here with
+   hypertensive urgency.
+   # Hypertensive urgency
+ [**7-27**] BPs stable in 150s/90s
+   - Turned off labetalol gtt on [**7-26**] (afternoon).  Also, restarted all
+   home po meds as well as clonidine patch (does not wear at home).
+   - Started metoprolol po on [**7-27**] per home dosing.
+   - Continue PD as removing volume is beneficial for pressures
+   - Head CT was neg for bleed
+   - Believe she is on the correct home regimen (renal checked)
+   # ESRD on PD: Now on a regimen that more closely approximates home PD,
+   2.5%, 4.25%, 2.5%, 4.25%, 2.5% alternating doses, ideally 1 hr each but
+   getting 4 hr each here
+   - Nephrology following who checked meds and PD with outpt nephrologist
+   - continue renagel and nephrocap when taking Pos
+   - Renal rec aluminum hydroxide 30 with meals TID for increased phos
+   (does not cause nausea)
+   # Nausea/vomiting: Unclear precipitant, though appears consistent with
+   prior episodes.  Much improved the morning of [**7-27**].
+   - symptom control with compazine and zofran prn
+   - Still having some difficulty with po [**12-19**] decreased appetite
+   - Ruled out peritonitis or cardiac ischemia as cause
+   # Headache: Mostly resolved
+   - ASA/percocet more helpful than Dilaudid
+   # Eosinophilia: apprears chronic.  Continue to follow
+   # FEN: low salt renal diet when able, no IVF, continue to monitor lytes
+   & replete if necessary (potassium per PD).
+   #ACCESS: PIVs, PD cath
+   #PPx
+   - Heparin SC for DVT prophylaxis
+   - no need for PPI currently
+   - bowel meds prn
+   #CODE: FULL
+   #COMMUNICATION: patient and parents, mother [**Name (NI) 5112**] is HCP,
+   #[**Telephone/Fax (1) 5113**]
+   #DISPO: Call out to floor today
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3334-7-26**] 10:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

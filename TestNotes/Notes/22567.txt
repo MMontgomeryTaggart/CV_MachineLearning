@@ -1,0 +1,234 @@
+Admission Date:  [**3027-7-27**]              Discharge Date:   [**3027-8-10**]
+
+Date of Birth:  [**2990-6-27**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Morphine
+
+Attending:[**First Name3 (LF) 70**]
+Chief Complaint:
+Hepatitis C cirrhosis, ascited, encephalopathy
+
+Major Surgical or Invasive Procedure:
+Liver transplant for Hepatitis C cirrhosis and hemochromatosis
+[**3027-7-28**]
+
+
+History of Present Illness:
+37 y.o. male with h/o cirrhosis [**3-14**] HCV. Admitted from [**Date range (1) 37193**]
+for abd pain ? cholecystitis, but had negative HIDA and was
+discharged. Admitted [**5-25**] -51 for ATN renal failure. Not on HD
+yet. Presents for liver transplant.
+
+Past Medical History:
+1) Cirrhosis secondary to hepatitis C, diagnosed in [**3023**].
+Intolerance to IFN/ribaviran therapy. Genotype 1. On transplant
+list.
+2) H/o of IVDA [**3013**]-[**3020**], + cocaine use. Last + tox in [**3-/3027**]
+3) Iron overload syndrome. Genotyping for hemochromatosis
+negative, per report liver biopsy at outside hospital with
+normal HIC.
+4) BCC removed in [**3023**]
+5) Hernia repair
+6) Recent scalp furuncle, + MRSA, treated with Bactrim
+8) SBP [**2-14**], on Cipro prophylaxis
+10) Depression
+11) Anemia
+12) Chronic hyperkalemia
+
+Social History:
+Mr. [**Known patient lastname **] was diagnosed w/ HCV cirrhosis in [**3023**]. He used IV
+heroin for [**9-18**] yrs starting at 20, but quit in [**3020**] after
+multiple incarcerations. When he became acutely ill with
+jaundice and ascites in [**10-14**], he moved back to [**Location (un) **], MA,
+and currenly lives with his mother who has power of attorney. He
+quit drinking in [**3021**], and drank heavily intermittently before
+that. Ex-smoker, quit recently. 10 pack-year [**Year (4 digits) **] history.
+
+
+Family History:
+Cousin with hemochromatosis
+
+
+Physical Exam:
+CV: II/VI SEM
+Ch: quiet throughout but clear
+Abd: mildly tender on R side, soft. liver enlarged but difficult
+to clearly measure. neg [**Doctor Last Name 1441**] sign
+Heent: grossly icteric, skin and sclerae, OP clear. Small lesion
+on left cheek. Ext: 2+ distal pulses, cap refill ~1 sec.
+
+
+Brief Hospital Course:
+Taken to OR [**3027-7-27**] for orthotopic (piggyback)deceased donor
+liver transplant pv-pv, cbd-cbd, no t-tube. He received 3,300 of
+crystalloid, 3units FFP, 2units of RBC, 2 units of plts and 1
+cryo. EBL was 300. See operative report. Given induction
+immunosuppression (Simulect, Cellcept, and Solumedrol). A duplex
+of the liver demonstrated "Unremarkable post-transplant liver
+ultrasound and Doppler." He was transferred to SICU postop
+intubated and stable.
+
+On POD 1 sedation was decreased with goal to extubate. Lungs
+were clear. Hct was 25.4. He was transfused with 4 units of PRBC
+and 1 unit of plts. JP 1 drained 385 and JP # 2 110cc.
+Solumedrol 250m and Cellcept 1gram [**Hospital1 12**] were given. On POD 2,
+temperature was 101.7. Blood and urine cultures were done and
+subsequently negative. JP 1 drained 1245 and #2 55. He was
+extubated. Prograf was initiated in addition to cellcept and a
+daily solumedrol tapering dose for immunosuppression. Liver
+duplex was normal. Pain was managed with dilaudid prn. Alt 222,
+ast 191, alk phos 98 and t.bili 3.7.
+
+LFTs trended down until POD 4 when alk phos started to increase
+to 368. On POD 4, he received Simulect 20mg IV. The lateral JP
+and NG were removed and diet was advanced to sips of clears. He
+became dyspneic and dropped 02 sat to 88% on RA. A 70% face mask
+was applied with O2 sat that increased to 98%. Wheezing and
+decreased breath sounds were noted on the right.  ABGs,CXR and
+EKG were done. He was given albuterol neb treatment with
+improvement of O2 sat. ABG was 7.32/48/75/26/-1. CXR revealed
+small bilateral pleural effusions that were stable. EKG was
+stable.  He was treated with IV lasix 40 [**Hospital1 12**] for volume
+overload. O2 remained at 92% on 5L face tent.He continued to
+receive albuterol neb treatments every 2-4 hours. He diuresed,
+but PAO2 continued at 68 and PC02 53. Diamox was added. He
+diuresed 4290cc with repeat ABG of 7.35/54/83/31/12 and
+decreased wheezing. He required hand restraints for some
+confusion and pulling off O2.
+
+On POD 5, alk phos increased to 572 and t.bili to 3.1. A duplex
+of the liver demonstrated  " interval development of a new fluid
+collection just deep to the left lobe of the liver extending
+into the left porta. The collection contains fluid and solid
+components, with septations. It measures 5.9 x 5.7 x 3.2 cm.
+Aside from this collection, the left lobe parenchyma is normal
+in appearance. There is no intrahepatic biliary ductal
+dilatation. In addition, there is a second collection found in
+the right subhepatic region. This collection contains fluid and
+some echogenic material that may represent clot. This collection
+measures 7.5 x 3.0 x 4.7 cm. The parenchyma of the right lobe is
+normal in appearance, without biliary ductal dilatation. A right
+pleural effusion with associated atelectasis is noted."
+Arterial/venous flow and resistive indices were normal. Prograf
+level was 19.4 and prograf was held x 4 doses. Repeat prograf
+level was 7.8 and prograf was resumed at 1mg [**Hospital1 12**] on POD7. He was
+given 2 bags of platelets for a plt count of 68. A HIT antibody
+was sent. Medial JP was removed.
+
+On POD 7, he was coughing and raising thick, green sputum. He
+remained in the SICU for close management of respiratory and
+mental status. He had episodes of somnolence and confusion. At
+times, he appeared to be hallucinating. Pain medication was
+decreased.
+
+On POD 8, he was transferred to the transplant unit. Diet was
+advanced and PT continued to work with him. He required a 1:1
+sitter as he was agitated, and pulling at IV lines and removing
+O2 tubing. Foley was removed. Percocet was decreased for
+sedation.
+
+On POD 9, he received Pamidronate x1. Calcium and vitamin D were
+started. Alk phos increased to 566. A repeat duplex revealed ".
+Patent portal vein, with most probably slight narrowing in the
+anastomotic site, demonstrating velocity gradient of uncertain
+significance.
+2. Unchanged subhepatic and left intrahepatic small fluid
+collections." Prograf was increased for a level of 10.4.
+
+ON POD 11 ([**8-8**]), a liver biopsy was performed. This
+demonstrated "Features indeterminate for acute cellular
+rejection.
+Focal minimal lobular inflammation, nonspecific.
+Focal poorly formed histiocytic aggregate, suggestive of
+granuloma". Prograf was decreased to 1.5mg [**Hospital1 12**] for a level of
+13.5. Prednisone remained at 20mg and cellcept at 1gram [**Hospital1 12**]. A
+[**Last Name (un) 124**] consult was obtained for elevated glucoses. These were
+treated with sliding scale insulin. [**First Name8 (NamePattern2) **] [**Last Name (un) 124**] recommendations,
+Prandin 1mg [**Hospital1 12**] prior to meals was started.
+
+On POD 13, he was alert and ambulatory. O2 sats were in the high
+90's on room air. Lungs were clear. He was tolerating a regular
+diet and vital signs were stable. Hct trended down to 25.1. AST
+was 24, alt 40, alk phos 340 and t.bili 1.5. VNA ([**Location (un) 2419**]
+Home Care) was set up to assist with medication and
+insulin/glucose management as well as PT for strengthening and
+safety training. A rolling walker was provided for unsteady
+gait. His mother arranged for time off from work in order to
+provide 24 hour supervision as he did display poor safety
+awareness and judgement. Incision was clean and dry. There was
+extensive ecchymosis on right side of abdomen and flank. He was
+discharged home [**3027-8-10**] with scheduled f/u appointments at the
+Transplant office.
+
+
+Medications on Admission:
+Protonix, quinine, actigall, ultram, lactulose, bumex, and cipro
+
+Discharge Medications:
+1. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+2. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours).
+3. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+BID (2 times a day).
+4. Prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q8H (every 8 hours) as needed for PRN: give only [**2-11**] tablet
+every 8 hours if needed for pain.
+Disp:*10 Tablet(s)* Refills:*0*
+7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day).
+8. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+9. Repaglinide 1 mg Tablet Sig: One (1) Tablet PO BEFORE LUNCH
+AND BEFORE DINNER () as needed for hyperglycemia.
+Disp:*60 Tablet(s)* Refills:*0*
+10. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.)
+Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12
+hours).
+11. Tacrolimus 0.5 mg Capsule Sig: Three (3) Capsule PO 2X
+(TIMES 2): 1.5mg twice daily.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 **] Home Services
+
+Discharge Diagnosis:
+Liver transplant for Hepatitis C cirrhosis and hemochromatosis
+[**3027-7-28**]
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Call [**Telephone/Fax (1) 66**] if nausea, vomiting, inability to take
+medication, redness/bleeding from incision, jaundice, or
+confusion
+Labs every Monday and Thursday for cbc, chem 10, ast,alt, alk
+phos, t.bili, albumin and trough prograf level. Results to be
+fax'd to [**Hospital1 68**] [**Telephone/Fax (1) 32694**]
+No driving while taking pain medication
+No heavy lifting
+[**Month (only) 496**] shower
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD, PHD[**MD Number(3) **]: LM [**Hospital Unit Name 988**] CENTER Phone:[**Telephone/Fax (1) 66**] Date/Time:[**3027-8-15**] 10:00
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD, PHD[**MD Number(3) **]: LM [**Hospital Unit Name 988**] CENTER Phone:[**Telephone/Fax (1) 66**] Date/Time:[**3027-8-22**] 9:50
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD, PHD[**MD Number(3) **]: LM [**Hospital Unit Name 988**] CENTER Phone:[**Telephone/Fax (1) 66**] Date/Time:[**3027-8-29**] 11:20
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] MD, [**MD Number(3) 73**]
+
+Completed by:[**3027-8-23**]
+
+DOC CLASS

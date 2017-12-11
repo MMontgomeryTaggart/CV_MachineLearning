@@ -1,0 +1,173 @@
+Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2788-2-21**] 08:43 AM
+   -given 2 unit PRBCs
+   -mildly hypotension got 500cc bolus, target MAPs
+   -surgeons
+   -talked to [**Known patient lastname 671**] family
+   -attempted contact with CT surgery but no help
+   -attempted contact with oral surgery but no one was pageable in the
+   whole hospital
+   -pacemaker changed to 80bpm with improved UO and BP but still Cr rose
+   -hyperkalemia improved with kayexelate, insulin and glucose
+   -overnight levophed starte dfor low MAPs
+   -switched to CPAP
+   -given 50mg lasix
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Penicillin G potassium - [**2788-2-22**] 05:17 AM
+   Infusions:
+   Midazolam (Versed) - 0.5 mg/hour
+   Norepinephrine - 0.02 mcg/Kg/min
+   Other ICU medications:
+   Dextrose 50% - [**2788-2-21**] 01:02 PM
+   Insulin - Regular - [**2788-2-21**] 01:03 PM
+   Pantoprazole (Protonix) - [**2788-2-21**] 08:46 PM
+   Heparin Sodium (Prophylaxis) - [**2788-2-21**] 08:56 PM
+   Furosemide (Lasix) - [**2788-2-22**] 05:18 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2788-2-22**] 06:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.3
+   Tcurrent: 37.3
+C (99.1
+   HR: 80 (60 - 80) bpm
+   BP: 127/43(72) {78/29(48) - 134/48(78)} mmHg
+   RR: 27 (17 - 27) insp/min
+   SpO2: 99%
+   Heart rhythm: V Paced
+   Height: 70 Inch
+           Total In:
+                                                                  2,045 mL
+                                                                    691 mL
+   PO:
+           TF:
+   IVF:
+                                                                  1,295 mL
+                                                                    431 mL
+   Blood products:
+                                                                    260 mL
+                                                                    260 mL
+   Total out:
+                                                                  1,275 mL
+                                                                    585 mL
+   Urine:
+                                                                    475 mL
+                                                                    585 mL
+   NG:
+   Stool:
+                                                                    800 mL
+   Drains:
+   Balance:
+                                                                    770 mL
+                                                                    106 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   PS : 8 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 7
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 46
+   PIP: 24 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 30.6 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.47/33/188/23/1
+   Ve: 8.6 L/min
+   PaO2 / FiO2: 470
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   286 K/uL
+   8.5 g/dL
+   103 mg/dL
+   3.6 mg/dL
+   23 mEq/L
+   3.8 mEq/L
+   31 mg/dL
+   109 mEq/L
+   142 mEq/L
+   25.2 %
+   12.7 K/uL
+        [image002.jpg]
+                             [**2788-2-20**]  04:00 PM
+                             [**2788-2-20**]  06:11 PM
+                             [**2788-2-20**]  06:32 PM
+                             [**2788-2-21**]  04:54 AM
+                             [**2788-2-21**]  04:59 AM
+                             [**2788-2-21**]  07:46 PM
+                             [**2788-2-21**]  08:04 PM
+                             [**2788-2-22**]  01:09 AM
+                             [**2788-2-22**]  04:46 AM
+                             [**2788-2-22**]  05:01 AM
+   WBC
+   11.1
+   12.7
+   Hct
+   23.6
+   21.8
+   25.2
+   Plt
+   229
+   286
+   Cr
+   2.2
+   2.6
+   3.4
+   3.6
+   TCO2
+   23
+   25
+   25
+   25
+   25
+   Glucose
+   [**Telephone/Fax (3) 4550**]03
+   Other labs: PT / PTT / INR:13.5/27.7/1.2, ALT / AST:[**7-24**], Alk Phos / T
+   Bili:64/0.9, Differential-Neuts:84.5 %, Lymph:10.2 %, Mono:2.9 %,
+   Eos:2.1 %, Lactic Acid:1.1 mmol/L, Albumin:2.5 g/dL, LDH:207 IU/L,
+   Ca++:8.1 mg/dL, Mg++:2.0 mg/dL, PO4:5.1 mg/dL
+   Assessment and Plan
+ ENDOCARDITIS, BACTERIAL
+ COUGH
+ HYPONATREMIA (LOW SODIUM, HYPOSMOLALITY)
+ ANEMIA, OTHER
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ IMPAIRED SKIN INTEGRITY
+ VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ CARDIAC DEVICE INFECTION (PACEMAKER, DEFIBRILLATOR)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2788-2-15**] 06:40 PM
+   Arterial Line - [**2788-2-20**] 06:09 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

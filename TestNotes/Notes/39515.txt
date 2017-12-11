@@ -1,0 +1,252 @@
+Admission Date:  [**2972-10-25**]              Discharge Date:   [**2972-10-28**]
+
+Date of Birth:  [**2938-4-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lamictal
+
+Attending:[**First Name3 (LF) 2503**]
+Chief Complaint:
+Overdose
+
+Major Surgical or Invasive Procedure:
+Intubation/Extubation
+
+
+History of Present Illness:
+34yo F OD, found unresponsive by BF at 0100, empty bottles
+risperidone, wellbutrin, gabapentin, partial valproic acid.
+Brought to [**Hospital3 35**] hospital, intubated w/
+etomidate/succ, got 2 bottles activated charcoal, got 2mg ativan
+for tremors. Initially hypotensive on scene, 70s systolic,
+initially at [**Hospital1 4**] was 80s/30 and tachy to 115, lactate was 5 w/
+pH 7.25. started phenylephrine, 6L NS, on midaz drip. EKG sinus
+tach, QRS 102. Tox consulted but has not called back. Ammonia
+level, valproate level sent, needs another dose of activated
+charcoal in 4 hours. She is now on versed drip, phenylephrine
+2.5. Got a right fem line triple at AG hospital.
+
+In the ED, initial vs were: T Afebrile P 106 BP 81/35 R O2 sat.
+CPAP 99% on [**5-27**] 50% TV around 780. She was on phenylephrine
+through right femoral CVL.
+
+
+Past Medical History:
+Bipolar disorder
+Hypothyroidism
+Anxiety
+Prior suicide attempts
+Fibromyalgia
+Psychosis
+Alcohol abuse
+
+
+Social History:
+Raised in [**Location 6094**]. Parents married- mother works at town [**Doctor Last Name **],
+father as a painter. 2 older sisters. [**Name (NI) 243**] a BA and last worked
+as a mental health aide until she was fired in [**Month (only) 115**]. Living with
+her BF of 5 mos (contact info above). No children. Denies legal
+problems. Denies abuse/trauma/DV. Drinks alcohol daily, ranging
+from one bottle of wine to 6pack of beer to 1 case of beer.
+Smokes 1/2ppd; quit 1 week ago.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals: 97.9 104/68 72 18 96%RA
+General: WDWN female, NAD, flat affect
+HEENT: PERRLA, EOMI, sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+On admission:
+[**2972-10-25**] 04:55AM BLOOD WBC-4.4 RBC-3.78* Hgb-9.7* Hct-30.0*
+MCV-79* MCH-25.6* MCHC-32.2 RDW-14.6 Plt Ct-232
+[**2972-10-25**] 04:55AM BLOOD PT-15.6* PTT-25.1 INR(PT)-1.4*
+[**2972-10-25**] 04:55AM BLOOD Fibrino-130*
+[**2972-10-25**] 04:55AM BLOOD UreaN-5* Creat-0.7
+[**2972-10-25**] 03:13PM BLOOD Glucose-82 UreaN-2* Creat-0.6 Na-139
+K-4.2 Cl-111* HCO3-19* AnGap-13
+[**2972-10-25**] 04:55AM BLOOD ALT-9 AST-13 AlkPhos-39 TotBili-0.1
+[**2972-10-25**] 04:55AM BLOOD Albumin-2.8* Mg-1.7
+[**2972-10-25**] 04:55AM BLOOD Valproa-127*
+[**2972-10-25**] 04:55AM BLOOD ASA-NEG Ethanol-48* Acetmnp-5*
+Bnzodzp-POS Barbitr-NEG Tricycl-NEG
+[**2972-10-25**] 05:00AM BLOOD pH-7.25* Comment-GREEN TOP
+[**2972-10-25**] 08:30AM BLOOD Type-ART Temp-38.2 Tidal V-800 PEEP-5
+FiO2-50 pO2-135* pCO2-34* pH-7.31* calTCO2-18* Base XS--8
+-ASSIST/CON Intubat-INTUBATED
+[**2972-10-25**] 05:00AM BLOOD Glucose-63* Lactate-5.0* Na-139 K-3.4*
+Cl-113* calHCO3-17*
+[**2972-10-25**] 05:00AM BLOOD freeCa-0.99*
+[**2972-10-25**] 04:55AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.016
+[**2972-10-25**] 04:55AM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR
+[**2972-10-25**] 04:55AM URINE RBC-0-2 WBC-[**7-2**]* Bacteri-OCC Yeast-NONE
+Epi-0
+[**2972-10-25**] 04:55AM URINE bnzodzp-POS barbitr-NEG opiates-POS
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+On discharge:
+[**2972-10-27**] 08:05AM BLOOD WBC-5.7 RBC-4.47 Hgb-11.2* Hct-34.6*
+MCV-78* MCH-25.1* MCHC-32.3 RDW-14.8 Plt Ct-275
+[**2972-10-27**] 08:05AM BLOOD Glucose-107* UreaN-6 Creat-0.6 Na-139
+K-4.0 Cl-106 HCO3-26 AnGap-11
+[**2972-10-27**] 08:05AM BLOOD Calcium-8.7 Phos-3.7 Mg-1.9
+[**2972-10-26**] 05:49AM BLOOD Ammonia-27
+[**2972-10-26**] 05:49AM BLOOD Valproa-39*
+MRSA SCREEN (Final [**2972-10-27**]):    No MRSA isolated.
+
+ECG [**2972-10-25**]:
+Sinus tachycardia. Otherwise, normal tracing. No previous
+tracing available for comparison.
+
+Portable CXR [**2972-10-25**]:
+SUPINE AP VIEW OF THE CHEST: The endotracheal tube terminates
+approximately 2.5 cm above the carina. Nasogastric tube follows
+a normal course terminating in the left upper quadrant.
+
+Lung volumes are low. There is no focal consolidation. There is
+linear
+opacity at the left lung base and retrocardiac region is
+compatible with
+atelectasis. The heart size is normal. No appreciable pleural
+effusion or
+pneumothorax. The cardiomediastinal silhouette and hilar
+contours are normal. Mild prominence of the central pulmonary
+vessels suggests volume overload. There is no pulmonary edema.
+
+IMPRESSION: Endotracheal tube placement as above.
+
+
+Brief Hospital Course:
+34-year-old female with hx of bipolar disorder, multiple suicide
+attempts requiring hospitalization, and hypothyroidism
+presenting with overdose on psych medications.
+
+#Overdose:
+Pt was found unresponsive and reports having taken 100-200 pills
+of her neurontin, depakote, wellbutrin, and risperidone in the
+setting of heavy alcohol use.  She was intubated at an OSH and
+received activated charcoal and ativan.  She was transferred to
+[**Hospital1 4**] CCU where he required pressors for low blood pressure.
+Labs were significant for valproic acid levels 120s and lactic
+acidosis.  She was seen by the toxicology team who helped guide
+management.  Valproate levels eventually came down to below
+therapeutic; ammonia levels remained wnl and acidosis resolved.
+EKGs remained within normal.
+
+#Alcohol abuse:
+Pt reported history of heavy alcohol abuse.  She was maintained
+on CIWA scale for possible alcohol withdrawal but required only
+minimal doses of benzos for anxiety and sleep.  She was started
+on thiamine, folic acid, and a MVI during her hospital stay.
+
+#Depression:
+Pt had hx of bipolar disorder and depression/anxiety.  She had a
+hx of multiple suicide attempts, increasing in frequency in the
+last 6 months, and presented with overdose on medications
+consistent with another suicide attempt.  A section 12 was
+placed and a 1:1 sitter remained with her.  Her psychiatric
+medications were initially held during her hospital stay.  Per
+psych recs, low dose benzos were given for anxiety and
+risperidone was restarted after ensuring EKGs did not show QTc
+prolongation.  She was transferred to an inpatient psychiatric
+facility once she was medically cleared.
+
+#Hypothyroidism:
+She was restarted on her home dose of levothyroxine 75mcg daily.
+ No acute issues.
+
+Medications on Admission:
+Medications: (confirmed with pharmacy [**Company 1155**] ([**Telephone/Fax (1) 7805**])
+
+wellbutrin SR 100mg qam
+depakote DR 500mg; 3 tabs at bedtime
+risperidone 1mg; 1tab [**Hospital1 **]
+levothyroxine 75mcg daily
+gabapentin 100mg [**Hospital1 **] (last filled [**8-/2972**])
+thorazine 25mg 1-2tab prn for sleep (last filled [**8-/2972**])
+clonazepam 1mg; 1tab [**Hospital1 **]
+lorazepam 1mg; 1-2 tabs q6h prn (last filled [**7-/2972**])
+fluoxetine 20mg daily
+
+
+Discharge Medications:
+1. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+2. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+6. risperidone 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary:
+Overdose on psychiatric medications
+
+Secondary:
+Depression
+Bipolar disorder
+Hypothyroidism
+Fibromyalgia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you in the hospital.  You were
+admitted after being found unresponsive from an overdose of your
+psychiatric medications.  You were initially admitted to our
+cardiac intensive care unit.  You were intubated to protect your
+airway and were given medications for your low blood pressure.
+You were monitored for any heart abnormalities.  You were also
+monitored for any withdrawal signs from alcohol.  Your blood
+abnormalities from the overdose resolved by the time of
+discharge.  You were feeling well physically and you were
+medically cleared for transfer to an inpatient psychiatric unit.
+
+The following changes were made to your medications:
+1) Most of your psychiatric medications (wellbutrin, neurontin,
+depakote, clonazepam, fluoxetine) were held while you were in
+the hospital.  These may eventually be restarted with the
+approval of the psychiatric team.
+2) You were started on thiamine 100mg daily, multivitamin daily,
+and folic acid 1mg daily.
+
+Followup Instructions:
+Please follow up with your primary care provider, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 5731**], and psychiatrist, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1334**], as directed by the
+psychiatric team.
+
+
+
+Completed by:[**2972-10-29**]
+
+DOC CLASS

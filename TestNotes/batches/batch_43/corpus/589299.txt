@@ -1,0 +1,205 @@
+History of Present Illness
+   Date: [**2788-2-5**]
+   Subsequent care
+   Seen and examined with: Dr. [**Last Name (STitle) 3154**]
+   Events / History of present illness: Self-Extubated yesterday and
+   tolerated being off of the ventilator.
+   Continued on pcn/gent
+   Medications
+   Insulin SC  (per Insulin Flowsheet)      Sliding Scale 02/20 @ 1306
+   View
+   Gentamicin 300 mg IV Q24H day 1=2/17  [**2-5**] @ 0814 View
+   Pantoprazole 40 mg IV Q12H  [**2-4**] @ 0605 View
+   Penicillin G Potassium 4 million units IV Q4H day 1 = 2/14  [**2-3**] @
+   1146 View
+   Acetaminophen 325-650 mg PO Q4H:PRN  [**2-3**] @ 1146 View
+   Heparin 5000 UNIT SC TID  [**2-3**] @ 1146 View
+   Fentanyl Citrate 25-100 mcg/hr IV DRIP INFUSION  [**2-3**] @ 1146 View
+   Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL [**Hospital1 **]:PRN
+   Physical Exam
+   General appearance: Ill appearing but not acutely toxic.
+   HEENT: no JVD
+   CV: systolic murmur appreciated
+   Chest: Dullness/crackles at bases
+   Abd: Soft, NT/ND
+   EXT: no significant peripheral edema
+   BP: 101 / 49 mmHg
+   HR: 86 bpm
+   Tmax C last 24 hours: 37.9 C
+   Tmax F last 24 hours: 100.3 F
+   T current C: 37.6 C
+   T current F: 99.6 F
+   Previous day:
+   Intake: 1,655 mL
+   Output: 2,785 mL
+   Fluid balance: -1,130 mL
+   Today:
+   Intake: 736 mL
+   Output: 1,102 mL
+   Fluid balance: -366 mL
+   Labs
+   278
+   8.6
+   73
+   1.4
+   31
+   3.9
+   20
+   110
+   143
+   25.3
+   11.2
+        [image002.jpg]
+                            [**2788-2-2**]  05:27 PM
+                            [**2788-2-3**]  04:10 AM
+                            [**2788-2-3**]  06:03 AM
+                            [**2788-2-3**]  04:47 PM
+                            [**2788-2-4**]  04:10 AM
+                            [**2788-2-4**]  05:23 PM
+                            [**2788-2-4**]  05:27 PM
+                            [**2788-2-4**]  09:09 PM
+                            [**2788-2-5**]  03:11 AM
+                            [**2788-2-5**]  04:27 AM
+   WBC
+   8.5
+   8.7
+   11.2
+   Hgb
+   8.9
+   8.2
+   8.6
+   Hct (Serum)
+   27.2
+   24.4
+   28.8
+   25.3
+   Plt
+   [**Telephone/Fax (3) 4175**]
+   INR
+   1.3
+   1.3
+   1.3
+   PTT
+   24.7
+   28.1
+   27.1
+   Na+
+   143
+   144
+   148
+   145
+   146
+   146
+   143
+   K + (Serum)
+   4.4
+   4.2
+   4.2
+   4.1
+   4.0
+   3.9
+   Cl
+   111
+   113
+   111
+   109
+   110
+   110
+   HCO3
+   28
+   32
+   32
+   31
+   32
+   31
+   BUN
+   22
+   21
+   21
+   21
+   21
+   20
+   Creatinine
+   1.2
+   1.3
+   1.3
+   1.4
+   1.4
+   1.4
+   Glucose
+   [**Telephone/Fax (2) 4176**]
+   89
+   73
+   O2 sat (arterial)
+   97
+   98
+   ABG: 7.44 / 33 / 137 /  / 0   Values as of [**2788-2-5**] 04:27 AM
+   Tests
+   ECG: (Date: [**2788-2-4**]), Sinus rhythm with atrial sensing and ventricular
+   pacing. Compared to the
+   previous tracing of [**2788-1-31**] heart rate is somewhat reduced. Otherwise,
+   no major change.
+   Echocardiogram: Carotids:
+   Duplex evaluation was performed of bilateral carotid arteries.
+   There is no significant plaque seen bilaterally.
+   On the right peak velocities are 92, 95 and 98 cm/sec in the ICA, CCA
+   and ECA
+   respectively. This is consistent with no stenosis.
+   On the left peak velocities are 84, 95 and 106 cm/sec in the ICA, CCA
+   and ECA
+   respectively. This is consistent with no stenosis.
+   Assessment and Plan
+   The patient is a 53 year-old male with a history of type II diabetes
+   mellitus, Aortic Root Replacement with aortic homograft [**9-19**], and AVR
+   with abscess repair at aortic root [**3-20**], CHB s/p PPM, now with Group B
+   Strep Endocarditis.
+   .
+   # Group B Strep Endocarditis, Prosthetic Aortic Valve
+   - Does not appear that root is infected as this could be all
+   postoperative change, though cannot be certain.
+   - Continue penicillin 4 million units Q 4hrs and gentamicin for
+   synergy. Switch to daily gent.
+   - OSH Isolates pending for checking MIC
+   - Bone Scan today to eval for osteomyelitis
+   - For now pursuing with medical therapy as no hemodynamic compromise at
+   present.
+   # Infected Pacer Leads
+   - Given large vegetations might be difficult to remove immediately.
+   - Appreciate EP following, adjustment made to sensing to determine if
+   temp wires would be needed if pacer wires removed.
+   .
+   # Respiratory Failure
+ Resolved, on nasal cannula
+   - Appreciate pulm recs
+   - Consider CPAP given possibility of OSA if needed
+   .
+   # Anemia
+ Likely BLOOD LOSS and INFLAMMATION as dual contributors
+   - Gastroocult + NGT secretions, now on [**Hospital1 **] PPI
+   - Tranfusion support as needed
+   .
+   # Diabetes Mellitus Type 2 -
+   - Transition to lantus and HISS pre-meal
+   .
+   # Septic Shock
+ Shock resolved.
+   .
+   # B/L Foot Ulcers
+ Bone Scan pending for today.
+   .
+   .
+   # Thrombocytopenia - Improved
+   .
+   # FEN
+ PO diet with modifications per speech & swallow service
+   .
+   # Access - R IJ and A line, can pull A line today.
+   .
+   # PPX - Heparin SC, PPI [**Hospital1 **]
+   .
+   # Code - Full
+   .
+   # Dispo - Pending clinical improvement.
+
+
+DOC CLASS

@@ -1,0 +1,195 @@
+CVICU
+   HPI:
+   HD2   POD 1-Redo CABG/AVR cancelled 2'GIB
+   Pre-Op Weight:0 lbs   0 kgs
+   CAD s/p CABG x 3 (LIMA-LAD, SVG-OM, SVG-RCA),
+   PCI's: RCA [**4-/3057**], Cypher Stent (3.5mm x 18 mm) to thrombotic
+   SVG-PDA stenosis and (3.5mm) LCX [**1-6**], Cypher stent (2.5mm) LCX
+   [**7-6**], BMS SVG-RCA 3/09,[**3-11**] NSTEMI in setting of GIB
+   PVD s/p right fem-[**Doctor Last Name 113**] bypass [**3-5**], Left SFA stent [**1-8**], DM type 2, CRI
+   Atrial Fibrillation noted only once in chart(and not by primary);
+   pt unsure of this diagnosis although does recall being on
+   Warfarin, which was stopped with GIB in [**3-11**]. Currently in SR
+   Hyperlipidemia, HTN, AAA, s/p L CEA [**9-7**], severe AS, hemolytic anemia,
+   gastritis, sm. bowel AVM-s/p laser ablation [**3-11**] requiring 5 UPRBC,
+   Right total hip replacement, hiatal hernia
+   Medications at home: Norvasc 10mg tablet daily, Calcitonin 200 units
+   nasal spray daily, Plavix 75mg tablet daily,Cyanocobalamin 1000mcg sq
+   bimonthly, Digoxin 125 mcg tablet daily,Procrit 40,000 units weekly,
+   Tricor 145mg tablet daily, Novolog Insulin 70/30 30 units [**Hospital1 **],
+   Isosorbide Dinitrate 10mg tablet [**Hospital1 **], Toprol XL 50mg tablet daily,
+   Nitroglycerin 0.4 mg tablet PRN chest pain,Pantoprazole 40mg tablet
+   [**Hospital1 **], Zocor 40mg tablet daily, Sucralfate 1gm tablet QID, Aspirin 81mg
+   tablet daily, Ferrous Sulfate 325mg tablet daily, Multivitamin 1 tablet
+   daily, Vitamin C/Vitamin E/Copper/Zinc Oxide/Lutein(PreserVision) One
+   tablet daily
+   Chief complaint:
+   PMHx:
+   Current medications:
+   . Aspirin 2. Ferrous Sulfate 3. HydrALAzine 4. Insulin 5. Isosorbide
+   Dinitrate 6. Magnesium Sulfate
+   7. Metoprolol Tartrate 8. Morphine Sulfate 9. Nitroglycerin 10.
+   Ondansetron 11. Pantoprazole 12. Simvastatin
+   24 Hour Events:
+ INTUBATION - At [**3075-8-16**] 11:50 AM
+ INVASIVE VENTILATION - START [**3075-8-16**] 11:50 AM
+ OR RECEIVED - At [**3075-8-16**] 11:52 AM
+ NASAL SWAB - At [**3075-8-16**] 12:00 PM
+ ARTERIAL LINE - START [**3075-8-16**] 12:04 PM
+ ENDOSCOPY - At [**3075-8-16**] 01:00 PM
+ EKG - At [**3075-8-16**] 02:05 PM
+ EXTUBATION - At [**3075-8-16**] 03:45 PM
+ INVASIVE VENTILATION - STOP [**3075-8-16**] 03:45 PM
+ EKG - At [**3075-8-16**] 04:00 PM
+   Post operative day:
+   POD#1 - Cancelled CABG/AVR d/t UGI bleed
+   Allergies:
+   Atorvastatin
+   Unknown;
+   Clarithromycin
+   Unknown;
+   Biaxin (Oral) (Clarithromycin)
+   Unknown;
+   Gemfibrozil
+   Unknown;
+   Influenza Virus Vaccine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 1.5 mcg/Kg/min
+   Other ICU medications:
+   Hydralazine - [**3075-8-16**] 07:10 PM
+   Pantoprazole (Protonix) - [**3075-8-17**] 04:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3075-8-17**] 08:29 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**77**] a.m.
+   Tmax: 37.1
+C (98.7
+   T current: 36.9
+C (98.4
+   HR: 67 (48 - 71) bpm
+   RR: 20 (11 - 25) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+             Total In:
+                                                                  1,591 mL
+                                                                    259 mL
+   PO:
+                                                                    100 mL
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,491 mL
+                                                                    139 mL
+   Blood products:
+   Total out:
+                                                                    529 mL
+                                                                    177 mL
+   Urine:
+                                                                    529 mL
+                                                                    177 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,062 mL
+                                                                     82 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 272 (272 - 272) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   PIP: 10 cmH2O
+   Plateau: 18 cmH2O
+   SPO2: 96%
+   ABG: 7.34/45/95.[**Numeric Identifier **]/24/-1
+   Ve: 5 L/min
+   PaO2 / FiO2: 137
+   Physical Examination
+   Labs / Radiology
+   124 K/uL
+   10.0 g/dL
+   109 mg/dL
+   1.8 mg/dL
+   24 mEq/L
+   5.5 mEq/L
+   36 mg/dL
+   106 mEq/L
+   139 mEq/L
+   31.7 %
+   5.1 K/uL
+        [image002.jpg]
+                             [**3075-8-16**]  12:24 PM
+                             [**3075-8-16**]  12:30 PM
+                             [**3075-8-16**]  03:35 PM
+                             [**3075-8-16**]  06:59 PM
+                             [**3075-8-17**]  02:55 AM
+                             [**3075-8-17**]  02:59 AM
+   WBC
+   5.1
+   Hct
+   32.6
+   32.9
+   31.7
+   Plt
+   124
+   Creatinine
+   1.4
+   1.8
+   Troponin T
+   <0.01
+   TCO2
+   25
+   25
+   Glucose
+   88
+   97
+   109
+   Other labs: PT / PTT / INR:14.1/30.8/1.2, CK / CK-MB / Troponin
+   T:33//<0.01, ALT / AST:15/30, Alk-Phos / T bili:41/0.8,
+   Differential-Neuts:67.6 %, Lymph:21.7 %, Mono:8.5 %, Eos:1.7 %, Lactic
+   Acid:0.8 mmol/L, Ca:8.9 mg/dL, Mg:2.6 mg/dL, PO4:4.6 mg/dL
+   Assessment and Plan
+   GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB), CHEST PAIN
+   Assessment and Plan:
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3075-8-16**] 12:04 PM
+   16 Gauge - [**3075-8-16**] 12:05 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

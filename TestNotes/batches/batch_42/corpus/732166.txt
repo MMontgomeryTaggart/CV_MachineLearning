@@ -1,0 +1,255 @@
+Chief Complaint:
+   24 Hour Events:
+   - IR unable to reach HCP for consent, will try again today
+   - US upper ext done & showed RUE DVT gone so placed PICC order.
+   - restarted prednisone for autoimmune cholangiopathy
+   - C albicans found to be fluc sensitive -> now on fluc
+   - EEG prelim no evidence of seizure activity
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Micafungin - [**2583-4-8**] 08:00 PM
+   Metronidazole - [**2583-4-9**] 12:00 AM
+   Vancomycin - [**2583-4-9**] 12:00 AM
+   Infusions:
+   Norepinephrine - 0.01 mcg/Kg/min
+   Propofol - 20 mcg/Kg/min
+   Calcium Gluconate (CRRT) - 1.2 grams/hour
+   KCl (CRRT) - 3 mEq./hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2583-4-9**] 07:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**84**] AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 35.8
+C (96.4
+   HR: 55 (52 - 60) bpm
+   BP: 96/47(64) {80/43(58) - 138/68(95)} mmHg
+   RR: 18 (17 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 75 kg (admission): 72.3 kg
+   Height: 64 Inch
+             Total In:
+                                                                  5,313 mL
+                                                                  1,154 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,123 mL
+                                                                  1,034 mL
+   Blood products:
+                                                                  1,890 mL
+   Total out:
+                                                                  6,751 mL
+                                                                  2,230 mL
+   Urine:
+   NG:
+                                                                    170 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,438 mL
+                                                                 -1,076 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 82 (82 - 82) mL
+   RR (Set): 16
+   RR (Spontaneous): 4
+   PEEP: 0 cmH2O
+   FiO2: 40%
+   RSBI: 800
+   PIP: 24 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 30 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.44/27/167/17/-4
+   Ve: 9.2 L/min
+   PaO2 / FiO2: 418
+   Physical Examination
+   General Chronically ill, intubated and sedated
+   HEENT PEARL, +icteric
+   Pulm lungs clear bilaterally
+   CV regular S1 S2 soft systolic murmur
+   Abd soft +bowel sounds wound vac in place
+   Extrem warm palpable pulses, +anasarca
+   Lines/tubes/drains R femoral line, LIJ, R aline
+   Labs / Radiology
+   329 K/uL
+   8.5 g/dL
+   108 mg/dL
+   1.6 mg/dL
+   17 mEq/L
+   3.6 mEq/L
+   31 mg/dL
+   109 mEq/L
+   135 mEq/L
+   27.0 %
+   23.8 K/uL
+        [image002.jpg]
+                             [**2583-4-8**]  05:00 AM
+                             [**2583-4-8**]  05:14 AM
+                             [**2583-4-8**]  10:33 AM
+                             [**2583-4-8**]  10:37 AM
+                             [**2583-4-8**]  11:13 AM
+                             [**2583-4-8**]  04:53 PM
+                             [**2583-4-8**]  05:07 PM
+                             [**2583-4-8**]  10:44 PM
+                             [**2583-4-8**]  11:12 PM
+                             [**2583-4-9**]  04:32 AM
+   WBC
+   21.6
+   23.8
+   23.8
+   Hct
+   20.9
+   24.7
+   26.5
+   26.2
+   27.0
+   Plt
+   327
+   380
+   329
+   Cr
+   3.1
+   1.5
+   2.0
+   1.5
+   1.6
+   TCO2
+   23
+   20
+   20
+   19
+   Glucose
+   103
+   97
+   114
+   129
+   108
+   Other labs: PT / PTT / INR:20.6/49.4/1.9, CK / CKMB /
+   Troponin-T:33//0.24, ALT / AST:10/35, Alk Phos / T Bili:254/12.7,
+   Differential-Neuts:85.0 %, Band:0.0 %, Lymph:13.0 %, Mono:2.0 %,
+   Eos:0.0 %, Fibrinogen:522 mg/dL, Lactic Acid:1.3 mmol/L, Albumin:2.1
+   g/dL, LDH:244 IU/L, Ca++:8.8 mg/dL, Mg++:2.4 mg/dL, PO4:3.0 mg/dL
+   Micro
+   Blood cultures since [**4-4**] NGTD
+   [**3-31**], [**4-2**], [**4-3**] blood cx C albicans fluconazole sensitive
+   CXR clear lung fields, L HD catheter and ET tube in good position
+   Assessment and Plan
+   48 yo F with ESRD on HD, HBV, recent prolonged hospitalization for PEG
+   c/b abdominal abscess requiring debridement along with gram negative
+   bacteremia and candidemia readmitted with C.difficile colitis and found
+   to have new candidemia with [**Female First Name (un) **] albicans with episode of
+   bradycardia/hypotensive/unresponsive episode yesterday.
+   .
+   # Unresponsive episode
+   Patient had similar episode on floor prompting her transfer to the ICU.
+   Cause remains uncertain - consider seizure given prior CVA, metabolic
+   abnormalities, infection. Limited EEG with only evidence of
+   encephalopathy. Episode yesterday associated with hypotension and
+   bradycardia
+ one concern was aspiration event with vagal response.
+   Consider also primary cardiac conduction disorder. Prior head CTs
+   without evidence of cerebral abscess
+   - Neurology recommendations appreciated
+   - Consider MRI/MRA head with MRV to further assess for cerebral venous
+   thrombosis
+   - Will hold on LP for now with coagulopathy
+   - 24hr EEG
+   - limit medications likely to lower seizure threshold (eg quinolones,
+   carbepenems) to extent possible
+   # Anemia
+   Patient
+s hematocrit dropped 24->19 yesterday in setting of
+   supratherapeutic PTT on heparin drip. No gross bleeding, and no clearly
+   identified intrabdominal source of blood on CT overnight, though
+   increased density of abdominal fluid raised question of a slow bleed
+   however examination of fluid with diagnostic tap did not indicate
+   significant bleeding. Labs overnight did not show any evidence of
+   hemolysis. Could have slow GIB eg [**1-21**] gastritis. Unlikely to be large
+   pulmonary hemorrhage
+   - guiac stools, monitor closely for any evidence of bleeding
+   - holding heparin for now
+   - look for fluid in lung by ultrasound
+   - check q6h hcts
+   - transfuse hct>25
+   - continue PPI
+   - follow up final CT abdomen read (no overt RP bleed on wet read)
+   # Candidemia
+   She has not had any positive cultures since transfer to the ICU.
+   Suspect related to lines (PICC and or old HD catheter) in setting of
+   TPN. These have now been removed. Opthal eval without evidence of eye
+   involvement.
+   - ID involved, appreciate recs
+   - Continue micafungin pending fluc sensitivities, pending today
+   - F/u cultures and CIS
+   - Await TEE today or tomorrow
+   - Favor reexamining thigh fluid collection as might have been seeded
+   since last tap and would represent reservoir for recurrence
+   # C diff colitis
+   Toxin assays negative here.
+   - Would continue PO vanc (day#1=[**3-21**]) and flagyl (day #1=[**3-25**]) for 14d
+   post end of broad spectrum antibiotics (Sunday [**4-6**]). Will discuss
+   whether flagyl required with ID team.
+   # Hypotension:  Suspect [**1-21**] septic etiology. She appears
+   intravascularly volume overloaded. Cortisol level normal. Patient was
+   able to wean off Levophed overnight
+   - monitor closely in setting of upcoming dialysis / CVVH today
+   - Treating infection as above
+   # ESRD on HD:
+   Now on CVVH with new lines.
+   - Renal recs appreciated
+   - Fluid removal as BP tolerates, would try for -1L if possible as total
+   body volume overloaded
+   # HepB, autoimmune cholangiopathy:  S/p recent prednisone taper.
+   Nutrition will be issue for the patient. Had abdominal infection s/p
+   PEG placement, now with candidemia likely in setting of TPN.
+   - Nutrition:  Dophoff placement for now vs re-evaluate ability to take
+   POs (as will likely will not be enough intake & very  poor gag reflex
+   now)
+   - no steroids for now given sepsis and candidemia
+   - Continue entecavir and tenofovir
+   - Continue ursodiol
+   - Continue to follow synthetic function tests daily
+   - Liver recs appreciated
+   # Abdominal wound: Wound vac changed Friday. ABD CT unchanged.
+   - plastic surgery following, recs appreciated
+   - continue local care, wound vac in place
+   .
+   # Portal venous and RIJ clots
+   - Holding heparin for now given concern for bleeding
+   .
+   # DM:
+   - Continue insulin
+   - will d/c glargine for now and start on Humalog SSI until better
+   intake w/Dobhoff feeds
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2583-4-5**] 05:45 PM
+   Arterial Line - [**2583-4-6**] 12:13 AM
+   Dialysis Catheter - [**2583-4-7**] 08:50 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

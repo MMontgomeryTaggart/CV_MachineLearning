@@ -1,0 +1,293 @@
+Admission Date:  [**2639-7-31**]              Discharge Date:   [**2639-8-7**]
+
+Date of Birth:  [**2575-3-25**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+adhesive tape
+
+Attending:[**First Name3 (LF) 351**]
+Chief Complaint:
+64 year old with symptomatic paroxysmal atrial fibrillation
+status post pulmonary vein isolation now with palpitations on
+dofetilide admitted for re-do pulmonary vein isolation -
+complicated by perforated left atrial appendage requiring
+emergent evauation of cardiac tamponade/ exploration/Maze
+
+
+Major Surgical or Invasive Procedure:
+Emergent mediastinal exploration and evacuation of
+    pericardial tamponade and control of hemorrhage.
+ Pulmonary vein isolation using the AtriCure
+    bipolar RF system with resection of left atrial
+    appendage.
+
+
+History of Present Illness:
+ This patient is a  64 year old
+female with paroxysmal atrial fibrillation status post pulmonary
+vein isolation by Dr [**Last Name (STitle) 9540**] at [**Doctor Last Name 3024**]Hospital on
+[**2637-6-7**].
+She has been doing well until recently when she was hospitalized
+in [**Month (only) 201**] and [**Month (only) 51**] with episodes of symptomatic atrial
+fibrillation.  During her [**Month (only) 51**] admission she was started on
+dofetilide.  She continues to have intermittent palpitations on
+dofetilide, but no prolonged episodes.  She was referred for
+re-do pulmonary vein isolation.  On admission she complained of
+palpitations, shortness of breath, fatigued, and feels clammy
+when in atrial fibrillation with occasional lightheadedness.
+Denies claudication, edema, orthopnea, PND
+
+
+Past Medical History:
+Atrial fibrillation s/p PVI [**2637-6-7**]
+Diabetes mellitus
+Hypertension
+Arthritis
+Thyroid nodule, recent with biopsy negative biopsy for
+malignancy
+Dyslipidemia
+GERD
+Recent urinary tract infection
+History of anemia
+Degenerative disease lower back per patient
+S/P Uterine surgery
+S/P C-section
+S/P lysis of adhesions
+S/P Hysterectomy
+S/P bone spur removal
+
+
+Social History:
+ Lives alone.  Recently widowed.  Son visiting
+until [**8-8**].  Retired teaching assistant at high school level.
+
+Tobacco: Never
+ETOH:  None
+Contact upon discharge: [**Name (NI) **], [**First Name3 (LF) **], will accompany.  C:
+[**Telephone/Fax (1) 12156**]
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+emergent case- unable to obtain admission physical
+
+Pertinent Results:
+[**2639-8-5**] 05:50AM BLOOD WBC-8.1 RBC-3.94* Hgb-12.1 Hct-34.2*
+MCV-87 MCH-30.8 MCHC-35.4* RDW-14.7 Plt Ct-252#
+[**2639-7-31**] 03:30PM BLOOD Neuts-70.1* Lymphs-23.8 Monos-4.2 Eos-1.7
+Baso-0.3
+[**2639-8-5**] 05:50AM BLOOD PT-15.1* INR(PT)-1.3*
+[**2639-8-5**] 05:50AM BLOOD UreaN-15 Creat-0.6 Na-136 K-4.0 Cl-99
+
+PA AND LATERAL CXR
+
+Widened mediastinum has improved. Cardiomegaly is stable.
+Pulmonary edema
+has almost resolved. Bibasilar atelectasis, larger on the right
+side, have
+improved. Small bilateral pleural effusions have improved.
+Sternal wires are
+aligned. There is no evident pneumothorax
+
+TEE
+PRE-BYPASS: A small right-to-left shunt across the interatrial
+septum is seen at rest which may represent the site of
+transseptal puncture from the patient's pulmonary vein isolation
+procedure.
+There is mild-to-moderate ([**12-9**]+) tricuspid regurgitation.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Regional left ventricular
+wall motion is normal. Overall left ventricular systolic
+function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There is no aortic valve stenosis. No aortic regurgitation is
+seen.
+The mitral valve appears structurally normal with trivial mitral
+regurgitation. Mitral inflow velocity profile demonstrates
+little to no respiratory variation.
+There is a moderate sized pericardial effusion. The effusion
+appears circumferential. A catheter is seen within the effusion
+with a thrombus at the tip.
+There is sustained right atrial collapse, consistent with low
+filling pressures or early tamponade. Dr. [**Last Name (STitle) **] was notified
+in person of the results at time of surgery.
+
+POST-BYPASS: The patient is on no inotropes. Biventricular
+function is good.
+There is no pericardial effusion.
+There is trivial mitral regurgitation.
+No aortic regurgitation is seen.
+There is mild to moderate tricuspid regurgitation which is
+unchanged from pre-bypass.
+The aorta appears intact after removal of the aortic cannula.
+
+Brief Hospital Course:
+64 yr old female admitted s/p emergent repair of LAA perforation
+(due to perforated left atial appendage in the cath lab during
+redo pulmonary vein isolation) and MAZE on [**7-31**]. The surgery was
+performed by Dr. [**Last Name (STitle) **] please see intraop note for further
+details. She arrived from the OR intubated on proprofol. She
+weaned and extubated without difficulty by POD#1. Awoke
+neurologically intact. She remained hemodynamically stable her
+1st night, on POD#1 she had burst of a-fib and was restarted on
+dofetilide. On POD #2 she transferred to floor in stable
+condition. She was started on lopressor and lasix. Pacing wires
+and chest tubes were removed in timely fashion. She had recieved
+multiple blood products intraop and postop she was mildly
+throbocytopenic. Her platlets have rebounded and she was
+restarted on coumadin, her INR goal 2-2.5. She has been followed
+by the EP service, her QTC has remained stable and at their
+request she is to remain on protonix for one month post-op. She
+was started on lasix and gently diuresed, her renal function has
+remained stable. Her blood sugars were within normal range on
+her preoperative dose of glucophage. She was seen by the PT
+service and deem safe for discharge to home. ON POD#5 she was
+cleared for discharge to home. All follow-up appointments were
+arranged.
+
+Medications on Admission:
+Active Medication list as of [**2639-7-30**]:
+AMLODIPINE -  (Prescribed by Other Provider) - 10 mg Tablet - 1
+Tablet(s) by mouth daily
+DICLOFENAC SODIUM [VOLTAREN-XR] -  (Prescribed by Other
+Provider)
+- Dosage uncertain
+DOFETILIDE [TIKOSYN] -  (Prescribed by Other Provider) - 500 mcg
+Capsule - 1 Capsule(s) by mouth twice daily
+ESOMEPRAZOLE MAGNESIUM [NEXIUM] -  (Prescribed by Other
+Provider)
+- 40 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s) by mouth
+as needed
+ESOMEPRAZOLE MAGNESIUM [NEXIUM] -  (Prescribed by Other
+Provider)
+- Dosage uncertain
+LISINOPRIL -  (Prescribed by Other Provider) - 40 mg Tablet - 1
+Tablet(s) by mouth daily
+METFORMIN -  (Prescribed by Other Provider) - 500 mg Tablet - 2
+Tablet(s) by mouth twice daily
+METOPROLOL TARTRATE -  (Prescribed by Other Provider) - 25 mg
+Tablet - 1 Tablet(s) by mouth twice daily
+SIMVASTATIN -  (Prescribed by Other Provider) - 20 mg Tablet - 1
+Tablet(s) by mouth every evening
+WARFARIN -  (Prescribed by Other Provider) - 3 mg Tablet -
+Tablet(s) by mouth on Tuesday, Thursday and Saturday as directed
+Medications - OTC
+ACETAMINOPHEN [TYLENOL] -  (Prescribed by Other Provider) -
+Dosage uncertain
+
+
+Discharge Medications:
+1. warfarin 1 mg Tablet Sig: as directed based on INR tablets PO
+DAILY (Daily): Indication afib
+Goal INR 2.0-2.5
+.
+Disp:*90 tablets* Refills:*2*
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours) for
+1 months.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+6. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*65 Tablet(s)* Refills:*0*
+7. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+8. metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+9. dofetilide 500 mcg Capsule Sig: One (1) Capsule PO Q12H
+(every 12 hours).
+10. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+11. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO BID (2 times a day) for 7 days.
+Disp:*28 Tablet Extended Release(s)* Refills:*0*
+12. Outpatient Lab Work
+INR check [**8-8**] then 3x/ weekly until stable or as instructed by
+DR. [**Last Name (STitle) 12157**].
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Amedisys Home Health Care
+
+Discharge Diagnosis:
+Cardiac tamponade with left atrial tear status post percutaneous
+pulmonary vein isolation procedure.
+Left atrial repair
+MAZE
+Paroxysmal atrial fibrillation.
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with
+Incisions:
+Sternal - healing well, no erythema or drainage
+Edema trace
+
+
+Discharge Instructions:
+shower daily including washing incisions gently with mild soap,
+no baths or swimming until cleared by surgeon. Look at your
+incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 279**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) **] on [**2639-9-10**] 1:30 in the [**Hospital 103**] medical
+office building [**Hospital Unit Name **]
+WOUND CARE NURSE Phone:[**Telephone/Fax (1) 279**] Date/Time:[**2639-8-13**] 10:45 in
+the [**Hospital 103**] medical office building [**Hospital Unit Name **]
+
+Cardiologist:
+ [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 12158**], MD Phone:[**Telephone/Fax (1) 83**] Date/Time:[**2639-10-10**] 1:40
+
+Please call to schedule appointments with your
+Primary Care Dr.[**Last Name (STitle) 12159**] [**Telephone/Fax (1) 12160**] in [**12-9**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication afib
+Goal INR 2.0-2.5
+First draw [**2639-8-8**]
+Results to phone fax Dr. [**Last Name (STitle) 12157**] (P) [**Telephone/Fax (1) 12161**]; Fax
+[**Telephone/Fax (1) 12162**]
+INRs are drawn at Lifespan in [**Location (un) **], RI. [**Telephone/Fax (1) 12163**]
+
+
+
+Completed by:[**2639-8-7**]
+
+DOC CLASS

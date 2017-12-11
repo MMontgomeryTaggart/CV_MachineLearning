@@ -1,0 +1,202 @@
+Chief Complaint:
+   24 Hour Events:
+   -no lasix, run even
+   -2mg haldol at night for agitation and 2mg ativan
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3041-4-4**] 04:00 PM
+   Nafcillin - [**3041-4-5**] 02:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3041-4-4**] 10:14 PM
+   Lansoprazole (Prevacid) - [**3041-4-4**] 10:14 PM
+   Lorazepam (Ativan) - [**3041-4-5**] 02:42 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3041-4-5**] 05:19 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.7
+C (98
+   HR: 83 (76 - 89) bpm
+   BP: 88/48(58) {71/24(43) - 123/75(88)} mmHg
+   RR: 24 (12 - 31) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 95 kg (admission): 98 kg
+   Height: 72 Inch
+             Total In:
+                                                                  1,699 mL
+                                                                    153 mL
+   PO:
+                                                                    960 mL
+             TF:
+   IVF:
+                                                                    739 mL
+                                                                    153 mL
+   Blood products:
+   Total out:
+                                                                  1,985 mL
+                                                                    550 mL
+   Urine:
+                                                                  1,985 mL
+                                                                    550 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -286 mL
+                                                                   -397 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   208 K/uL
+   9.8 g/dL
+   90 mg/dL
+   3.2 mg/dL
+   29 mEq/L
+   4.6 mEq/L
+   44 mg/dL
+   103 mEq/L
+   139 mEq/L
+   29.8 %
+   6.3 K/uL
+        [image002.jpg]
+                             [**3041-3-31**]  02:49 PM
+                             [**3041-3-31**]  11:22 PM
+                             [**3041-4-1**]  06:28 AM
+                             [**3041-4-1**]  04:50 PM
+                             [**3041-4-2**]  06:23 AM
+                             [**3041-4-2**]  04:55 PM
+                             [**3041-4-3**]  04:28 AM
+                             [**3041-4-3**]  06:28 PM
+                             [**3041-4-4**]  03:58 AM
+                             [**3041-4-4**]  04:19 PM
+   WBC
+   8.6
+   7.8
+   6.3
+   Hct
+   26.5
+   25.7
+   29.6
+   29.8
+   Plt
+   [**Telephone/Fax (3) 4524**]
+   Cr
+   2.6
+   2.5
+   2.5
+   2.3
+   2.4
+   2.6
+   2.8
+   3.1
+   3.3
+   3.2
+   Glucose
+   [**Telephone/Fax (3) 4548**]89
+   124
+   227
+   110
+   90
+   Other labs: PT / PTT / INR:17.6/29.6/1.6, CK / CKMB /
+   Troponin-T:166/6/4.18, ALT / AST:45/33, Alk Phos / T Bili:54/0.9,
+   Amylase / Lipase:101/78, Differential-Neuts:84.6 %, Band:2.0 %,
+   Lymph:10.6 %, Mono:3.7 %, Eos:0.9 %, Fibrinogen:563 mg/dL, Lactic
+   Acid:1.2 mmol/L, Albumin:2.3 g/dL, LDH:295 IU/L, Ca++:8.0 mg/dL,
+   Mg++:2.2 mg/dL, PO4:5.3 mg/dL
+   67 y/o M with PMH of CAD s/p MI, DM admitted with cardiogenic shock
+   secondary to global ischemia s/p IABP removal, course complicated by
+   septic shock from MSSA empyema/line infection, ARF (now off CVVH) with
+   resolving hypotension and respiratory failure.  Now much improved
+   overall.
+   #. Acute Systolic CHF/AS leading in part to shock: The pt has an EF of
+   [**11-11**]%, Moderate AS AoVA 1.0-1.2cm2 and 3+ MR
+   - Holding lasix for apnea concern for pt becoming pre-renal
+ goal even
+   - Pt with moderate AS and 3Vessel CAD, not currently surgical candidate
+   given empyema, continue to assess, will discuss with outpatient
+   cardiologist
+   .
+   #. Empyema:  Pt felt to have initial hemothorax secondary to rib
+   fractures s/p fall, complicated by superinfection.  Chest tube output
+   persistently declined,.afebrile
+   - Cont Nafcillin for MSSA, plan for 3 weeks s/p CT guided drainage
+   ([**Date range (1) 4476**])
+   - f/u thoracic recs re empyema drain
+   .-
+   # Coag neg staph Culture tip + - surveillance cultures growing GPC in 1
+   bottle, given additional cath tip positive, will continue vancomycin
+   for 7 day course for possible line infection pending final culture data
+   - will check vanc trough in am
+   - follow daily cultures
+   .
+   # Ventricular Tachycardia
+ Transition off of gtt, to PO 400mg PO BID
+   for amio load. No further episodes of sustained VT
+   - Convert to maintenance dose of amio.
+   .
+   # Acute Kidney Injury: ATN, Cr stable. Continuing to renally dose meds,
+   follow urine output.
+   .
+   # Agitation and mental status: Pt agitated and acutely delirious.
+   Likely multifactorial related to prolonged hospitalization and longterm
+   use of BZs and opiates.
+   - Continue PRN ativan.  Will try increased dose of haldol this evening.
+   - Continue gabapentin
+   .
+   # Anemia: following HCTs - stable
+   .
+   # Shock liver -  now resolved:
+   .
+   # DM:  Lantus + SSI.  Continue standing lantus as well.
+   .
+   # Hyperlipidemia: Continue statin
+   .
+   # NEUROPATHY, PERIPHERAL: On gabapentin as outpatient, continue.  Pain
+   appears to be improved.
+   .
+   # FEN:  Reglan for h/o gastroparesis
+   # ACCESS: L PICC  Aline in place.
+   .
+    # PROPHYLAXIS:  Hep subq, PPI for Hx GIB.  Bowel regimen.
+   # CODE: Full
+   .
+   # CONTACT: Wife [**Name (NI) 4021**] [**Name (NI) 4022**] [**Telephone/Fax (1) 4023**] (H), [**Telephone/Fax (1) 4024**] (C)
+   .
+   # DISPO: CCU, may call out today.  Rehab screening.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3041-3-27**] 10:55 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,141 @@
+Chief Complaint:
+   24 Hour Events:
+   Weaning off dopa to maintain BP, down to 2 from 7.
+   Given atropine x 1 for brady, nausea, and hypotension
+   No hematoma
+   c/o back pain, but has h/o back pain and disc disease
+   S: Pt feels much better  today. HA, nausea improved. Slept on and off
+   all night. Denies CP, SOB, blurry vision.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Dopamine - 2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3019-5-5**] 04:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.8
+C (98.3
+   HR: 55 (52 - 87) bpm
+   BP: 97/58(66) {85/49(59) - 130/85(88)} mmHg
+   RR: 17 (9 - 25) insp/min
+   SpO2: 93%
+   Heart rhythm: SB (Sinus Bradycardia)
+             Total In:
+                                                                  2,153 mL
+                                                                     51 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,153 mL
+                                                                     51 mL
+   Blood products:
+   Total out:
+                                                                    400 mL
+                                                                    500 mL
+   Urine:
+                                                                    400 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,753 mL
+                                                                   -449 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 93%
+   ABG: ///28/
+   Physical Examination
+   Gen: NAD A&Ox3
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa.
+   Neck: thick neck. no bruit auscultated
+   CV: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   Chest: CTAB, no crackles, wheezes or rhonchi.
+   Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   Ext: No c/c/e.
+   Groin: rt groin with no bruits or thrills. Small stable hematoma.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Neuro: CN2-12 intact. MAE.
+   Labs / Radiology
+   210 K/uL
+   10.8 g/dL
+   115 mg/dL
+   0.9 mg/dL
+   28 mEq/L
+   3.7 mEq/L
+   18 mg/dL
+   106 mEq/L
+   140 mEq/L
+   30.8 %
+   8.8 K/uL
+        [image002.jpg]
+                             [**3019-5-4**]  07:22 PM
+                             [**3019-5-5**]  02:55 AM
+   WBC
+   12.8
+   8.8
+   Hct
+   34.9
+   30.8
+   Plt
+   274
+   210
+   Cr
+   1.0
+   0.9
+   Glucose
+   107
+   115
+   Other labs: PT / PTT / INR:14.1/26.7/1.2, CK / CKMB / Troponin-T:43//,
+   Differential-Neuts:82.1 %, Lymph:14.5 %, Mono:3.0 %, Eos:0.3 %,
+   Ca++:8.6 mg/dL, Mg++:1.7 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   ASSESSMENT AND PLAN: 69 year old male with history of CAD,
+   hyperlipidemia, HTN, CRI and severe carotid stenosis now s/p left
+   carotid stent admitted to the CCU for closer monitoring
+   Carotid stenosis s/p stent: Goal SBP ideally between 90-100.  Currently
+   off all pressors.
+   - aspirin, plavix, increase statin zocor 20->40mg
+   - frequent neuro checks
+- Sapphire study recs as follows:  Neuro evaluation including NIHSS, and [**Doctor Last Name 5231**]
+Score (24-48 hrs
+post procedure) CK/CK-MB q 8hrs x 3 (charge to [**Doctor First Name 4158**] # [**Numeric Identifier 5232**]) ECG,
+30 day office visit (NIHSS, [**Doctor Last Name 5231**] Score), Review medications
+   CAD: s/p multiple LAD interventions. currently chest pain free
+   - plavix, aspirin, statin
+   - restart home atenolol when BP stablize, half dose
+   - restart home imdur when BP stabilize, half dose
+   HTN: restart home antihypertensives as tolerated
+   CRI:  Creatinine normal. Monitor closely given dye load.
+   PPX: heparin sc
+   Dispo: may call out if stable
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3019-5-4**] 12:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

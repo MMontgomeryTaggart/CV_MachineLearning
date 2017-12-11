@@ -1,0 +1,255 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - [**Known patient firstname 11519**] celebrated his 39th birthday
+   - C. diff on [**4-5**] was negative
+   - Klebsiella is not esbl (CTX, CTZ, cefepime sensitive)
+   - ID: consider transition to CTX monotherapy if remains stable
+   - Tolerated PS 5/5 and patient would like trach collar trial tomorrow
+   - Tmax 100.4 at noon
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Voriconazole - [**3264-4-5**] 08:38 AM
+   Metronidazole - [**3264-4-5**] 02:25 PM
+   Acyclovir - [**3264-4-6**] 08:30 AM
+   Tobramycin - [**3264-4-6**] 02:18 PM
+   Meropenem - [**3264-4-7**] 05:17 AM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3264-4-6**] 08:30 AM
+   Heparin Sodium (Prophylaxis) - [**3264-4-6**] 09:52 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3264-4-7**] 07:17 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**66**] AM
+   Tmax: 38
+C (100.4
+   Tcurrent: 37.4
+C (99.3
+   HR: 114 (99 - 120) bpm
+   BP: 124/92(99) {87/57(60) - 126/92(99)} mmHg
+   RR: 26 (17 - 33) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 49.5 kg (admission): 46.2 kg
+   Height: 67 Inch
+             Total In:
+                                                                  3,288 mL
+                                                                    673 mL
+   PO:
+             TF:
+                                                                  1,189 mL
+                                                                    459 mL
+   IVF:
+                                                                  2,098 mL
+                                                                    215 mL
+   Blood products:
+   Total out:
+                                                                  2,200 mL
+                                                                    840 mL
+   Urine:
+                                                                  2,200 mL
+                                                                    840 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,088 mL
+                                                                   -167 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 287 (179 - 713) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 28
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 150
+   PIP: 16 cmH2O
+   SpO2: 97%
+   ABG: ///34/
+   Ve: 8.9 L/min
+   Physical Examination
+   GEN: NAD
+   CV: RRR
+   RESP: CTA on anterior exam
+   ABD: S, NT/ND, +BS
+   EXT: WWP, 2+ pulses, no c/c/e
+   Labs / Radiology
+   316 K/uL
+   10.3 g/dL
+   95 mg/dL
+   0.2 mg/dL
+   34 mEq/L
+   4.8 mEq/L
+   7 mg/dL
+   101 mEq/L
+   142 mEq/L
+   31.0 %
+   10.6 K/uL
+        [image002.jpg]
+                             [**3264-4-1**]  03:42 AM
+                             [**3264-4-1**]  03:20 PM
+                             [**3264-4-2**]  04:01 AM
+                             [**3264-4-3**]  06:40 AM
+                             [**3264-4-4**]  06:04 AM
+                             [**3264-4-5**]  05:29 AM
+                             [**3264-4-6**]  06:08 AM
+                             [**3264-4-7**]  05:47 AM
+   WBC
+   7.1
+   6.5
+   7.0
+   7.7
+   7.6
+   10.6
+   10.6
+   Hct
+   23.5
+   28.7
+   30.0
+   28.1
+   27.6
+   29.8
+   32.7
+   31.0
+   Plt
+   [**Telephone/Fax (3) 11839**]45
+   275
+   314
+   316
+   Cr
+   0.4
+   0.3
+   0.3
+   0.3
+   0.3
+   0.3
+   0.2
+   Glucose
+   79
+   99
+   73
+   93
+   93
+   97
+   95
+   Other labs: PT / PTT / INR:12.6/42.9/1.1, ALT / AST:33/50, Alk Phos / T
+   Bili:521/0.8, Differential-Neuts:70.0 %, Band:7.0 %, Lymph:13.0 %,
+   Mono:8.0 %, Eos:0.0 %, Albumin:3.2 g/dL, LDH:248 IU/L, Ca++:8.7 mg/dL,
+   Mg++:1.8 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   39 yo male with NHL, s/p allo BMT complicated by multi-organ GVHD and
+   bronchiolitis obliterans, now trached for repeated hypercarbic
+   respiratory failure, here for fever and hypoxia, likely secondary to
+   VAP.
+   .
+   # VAP
+ Bandemia stable from priors.  Chest CT showed improvement of
+   left, but worsening of right basilar consolidation.  Positive BCx and
+   sputum cx for Klebsiella pneumoniae; antibiogram indicates that this is
+   not ESBL.  Respiratory status remains stable on ventilator. Low IgG,
+   given IVIG on [**4-1**].
+    - [**Last Name (un) 411**] D8, Tobra D4 (Klebsiella PNA, sputum and BCx speciation and
+   sensitivities confirmed); same bacteria at [**Hospital1 **] OSH
+   - f/u repeat glucan
+   - f/u ID recs
+   - placement of picc line after becoming afebrile for > 24hrs
+   -check tobra level with am labs tomorrow
+   .
+   # respiratory failure
+ Patient with bronchiolitis obliterans and
+   profound muscle weakness leading to chronic respiratory failure and
+   tracheostomy, still vent-dependent.  Now with likely VAP.
+   - treatment for VAP as above
+   - tolerating PSV well
+   - febrile episodes could be related to aspiration events; repositioned
+   nasointestinal tube,
+   - continue vent support as needed, with ultimate plan to wean to trach
+   collar as tolerated
+   .
+   # hypotension
+ Patient with low-normal BP during this admission,
+   consistent with blood pressure seen during prior admission.  Now
+   resolved.
+   - holding aldactone, BB
+   - monitor BP, UOP
+   .
+   # anemia
+ Patient with Hct drop 28.4 to 23.5, Could have dilutional
+   component as patient was given IVF upon admission because of fever,
+   bandemia, hypotension. Given one unit and now at 32.7.
+   - continue to trend Hct
+   - guaiac stools
+   .
+   # elevated INR
+ 1.5 on admission.  Likely [**2-5**] malnutrition +/-
+   malabsorption. Now 1.0-1.1 after vitamin K
+   - continue to trend INR
+   .
+   # ARF
+ Cr 0.5 on admission, up from baseline of 0.2.  Now resolved.
+   - continue to monitor UOP
+   - IVF as needed
+   .
+   # h/o NHL s/p allo BMT c/b GVHD
+ Most recent PET scan with no evidence
+   of recurrent disease and he remains in remission.   GVHD is underlying
+   cause for patient
+s liver dysfunction and bronchiolitis obliterans.
+   IgG levels low during this admission (197).
+   - continue prednisone, mycophenolate
+   - Bactrim, acyclovir, voriconazole ppx
+   - IVIG given, trend LFTs
+   - f/u BMT recs
+   - add Creon for digestion aid
+   .
+   # HLP
+ Continue simvastatin.
+   .
+   # Hypothyroidism
+ Continue levothyroxine.
+   .
+   # FEN
+ tube feeds (Peptamen 1.5), repeat as needed.  As patient
+   Vitamin A was low, patient
+s Vitamin K level was likely low (given
+   elevated INR on admission),and patient
+s Vitamin D level borderline
+   insufficient, this may indicate malabsorption.  Discuss with Nutrition
+   / BMT whether tube feeds and/or supplements should be adjusted, as well
+   as whether restarting Creon or other enzyme supplementation is
+   warranted.
+   # PPX
+ HSQ, PPI, bowel regimen
+   # [**Name (NI) **]
+ wife [**Name (NI) **], updated at admission
+   # Code
+ FULL, confirmed with patient
+   # Dispo
+ ICU for now
+   ICU Care
+   Nutrition:
+   Peptamen 1.5 (Full) - [**3264-4-7**] 06:20 AM 55 mL/hour
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3264-4-1**] 01:21 PM
+   22 Gauge - [**3264-4-6**] 01:30 PM
+   Prophylaxis:
+   DVT: HSQ
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,224 @@
+CVICU
+   HPI:
+   [**12-25**] POD 1
+   63M s/p CABGx4(LIMA-LAD, SVG-Diag, SVG-Ramus,SVG-OM, SVG-PDA)[**12-24**]
+   EF:45% Cr:0.9 Wt: 99.8kg HgbA1c 10.8
+   PMHx:
+   PMH: HTN, ^chol, CAD (s/p stent LAD, RCA [**2872**]), DM, OA, bronchitis,
+   OSA (uses CPAP), obesity, PAF
+   PSH: B carpal tunnel release, appy, inguinal herniorrhaphy, L great toe
+   implant
+   [**Last Name (un) **]: toprol xl 200', vytorin 10/40, tricor 145', asa 325', metformin
+   1000am, 2000pm, lantus 100u'', humalog ss, fish oil, garlic, cozaar
+   100', folic acid 1mg', zoloft 50', tamsulosin 0.4', losartan 100',
+   flexeril 10'''prn, celebrex 200'', zyrtec 10'
+   Current medications:
+   Active Medications [**Known patient lastname **],[**Known patient firstname **]
+   1. 2. 250 mL D5W 3. Acetaminophen 4. Albuterol Inhaler 5. Aspirin EC 6.
+   Calcium Gluconate 7. Dextrose 50%
+   8. Docusate Sodium 9. Insulin 10. Influenza Virus Vaccine 11.
+   Ipratropium Bromide MDI 12. Ketorolac
+   13. Ketorolac 14. Magnesium Sulfate 15. Metoclopramide 16. Milk of
+   Magnesia 17. Morphine Sulfate
+   18. Nitroglycerin 19. Oxycodone-Acetaminophen 20. Phenylephrine 21.
+   Potassium Chloride 22. Ranitidine
+   23. Sodium Chloride 0.9% Flush 24. Vancomycin
+   24 Hour Events:
+ OR RECEIVED - At [**2891-12-24**] 01:45 PM
+ INVASIVE VENTILATION - START [**2891-12-24**] 01:45 PM
+ ARTERIAL LINE - START [**2891-12-24**] 01:45 PM
+ CORDIS/INTRODUCER - START [**2891-12-24**] 01:45 PM
+ PA CATHETER - START [**2891-12-24**] 01:45 PM
+ EKG - At [**2891-12-24**] 03:35 PM
+ EXTUBATION - At [**2891-12-24**] 09:48 PM
+ INVASIVE VENTILATION - STOP [**2891-12-24**] 09:48 PM
+   OR-extubated
+   Post operative day:
+   POD#1 - S/P CABG x 5
+   Allergies:
+   Tetracyclines
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Vancomycin - [**2891-12-24**] 07:45 PM
+   Infusions:
+   Insulin - Regular - 4 units/hour
+   Phenylephrine - 0.2 mcg/Kg/min
+   Other ICU medications:
+   Insulin - Regular - [**2891-12-24**] 06:44 PM
+   Morphine Sulfate - [**2891-12-25**] 05:00 AM
+   Furosemide (Lasix) - [**2891-12-25**] 06:26 AM
+   Flowsheet Data as of  [**2891-12-25**] 08:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**94**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 37.6
+C (99.7
+   HR: 95 (84 - 96) bpm
+   BP: 121/51(71) {81/45(56) - 125/81(88)} mmHg
+   RR: 38 (15 - 38) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 117.6 kg (admission): 103 kg
+   Height: 68 Inch
+   CVP: 11 (7 - 16) mmHg
+   PAP: (36 mmHg) / (17 mmHg)
+   CO/CI (Thermodilution): (7.33 L/min) / (3.4 L/min/m2)
+   SVR: 578 dynes*sec/cm5
+   SV: 79 mL
+   SVI: 36 mL/m2
+   Total In:
+                                                                  7,346 mL
+                                                                    186 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  7,346 mL
+                                                                    186 mL
+   Blood products:
+   Total out:
+                                                                  1,418 mL
+                                                                    625 mL
+   Urine:
+                                                                    745 mL
+                                                                    495 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+                                                                     10 mL
+   Balance:
+                                                                  5,928 mL
+                                                                   -439 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 600) mL
+   Vt (Spontaneous): 401 (401 - 475) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 30
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   PIP: 18 cmH2O
+   Plateau: 17 cmH2O
+   SPO2: 96%
+   ABG: 7.38/34/112/21/-3
+   Ve: 12.4 L/min
+   PaO2 / FiO2: 160
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : on bipap), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, Obese
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   302 K/uL
+   8.1 g/dL
+   76 mg/dL
+   1.3 mg/dL
+   21 mEq/L
+   5.6 mEq/L
+   20 mg/dL
+   111 mEq/L
+   136 mEq/L
+   22.8 %
+   14.1 K/uL
+        [image002.jpg]
+                             [**2891-12-24**]  11:25 AM
+                             [**2891-12-24**]  12:01 PM
+                             [**2891-12-24**]  12:55 PM
+                             [**2891-12-24**]  12:57 PM
+                             [**2891-12-24**]  02:16 PM
+                             [**2891-12-24**]  02:20 PM
+                             [**2891-12-24**]  03:11 PM
+                             [**2891-12-24**]  07:48 PM
+                             [**2891-12-24**]  09:46 PM
+                             [**2891-12-25**]  02:42 AM
+   WBC
+   19.8
+   19.3
+   14.1
+   Hct
+   26
+   25
+   26.2
+   29
+   27.4
+   24.2
+   22.8
+   Plt
+   374
+   296
+   302
+   Creatinine
+   1.0
+   1.3
+   TCO2
+   24
+   24
+   23
+   22
+   21
+   21
+   Glucose
+   170
+   142
+   138
+   122
+   90
+   76
+   Other labs: PT / PTT / INR:13.3/29.5/1.1, ALT / AST:51/54, Alk-Phos / T
+   bili:50/0.3, Amylase / Lipase:82/46, Differential-Neuts:74.0 %,
+   Band:1.0 %, Lymph:20.0 %, Mono:4.0 %, Eos:1.0 %, Lactic Acid:1.0
+   mmol/L, Albumin:4.3 g/dL, LDH:179 IU/L, Ca:8.3 mg/dL, Mg:2.1 mg/dL,
+   PO4:4.5 mg/dL
+   Assessment and Plan
+   .H/O CORONARY ARTERY BYPASS GRAFT (CABG), CHEST PAIN, HYPERGLYCEMIA
+   Assessment and Plan: 63yoM s/p CABG-extubated-hemodynamically stable
+   post
+   Neurologic: Pain controlled, Morphine/percocet
+   Cardiovascular: Aspirin, Statins, Discontinue PA monitor, wean from neo
+   then start Bblocker after off neo
+   Pulmonary: IS, ambulate later today
+   Gastrointestinal / Abdomen: ADAT
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, start diuretics today
+   Hematology: Hct 22 but hemodynamically stable, may require transfusion
+   later
+   Endocrine: Insulin drip, Lantus (R), Transition to home lantus regime
+   Infectious Disease: no active issues
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires, d/c chest tubes later today
+   Wounds: Dry dressings, sternum stable
+   Imaging: CXR today, after chest tube removal
+   Consults: P.T., [**Last Name (un) 69**]
+   ICU Care
+   Nutrition: ADAT
+   Glycemic Control:  Insulin infusion
+   Lines: Arterial Line - [**2891-12-24**] 01:45 PM
+   Cordis/Introducer - [**2891-12-24**] 01:45 PM
+   PA Catheter - [**2891-12-24**] 01:45 PM
+   20 Gauge - [**2891-12-24**] 02:00 PM
+   Prophylaxis: DVT: Boots (ambulate today)
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Comments: transfer to floor after neo gtt weaned off
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

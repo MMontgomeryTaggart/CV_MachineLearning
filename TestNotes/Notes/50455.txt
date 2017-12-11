@@ -1,0 +1,321 @@
+Admission Date:  [**3497-4-10**]              Discharge Date:   [**3497-4-24**]
+
+Date of Birth:  [**3447-5-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ivp Dye, Iodine Containing
+
+Attending:[**First Name3 (LF) 1787**]
+Chief Complaint:
+V Fib arrest
+
+Major Surgical or Invasive Procedure:
+Intubation
+Arterial line placement
+Central line placement
+Artic sun cooling blanket
+
+History of Present Illness:
+This is a 49 YOM with history of type I DM, HTN, CAD s/p CABG,
+and ischemic cardiomyopathy who presents after VFib arrest. Over
+the last several weeks has several episodes of dizzy clammy
+feelings with normal blood sugars. Has otherwise been healthy
+and active. He was at the mall this evening with his wife. [**Name (NI) **]
+was feeling fine. He told his wife suddenly that he needed to
+sit down. He then quickly passed out, hitting the back of his
+head on the ground. Bystanders preformed CPR. When EMS arrived
+he was found to be in polymorphic VT. He was shocked at 7pm and
+became asystolic. He was given epi/atopine and returned to a
+narrow complex rhythm. He was intubated and taken to an OSH. At
+the OSH, head CT was reportedly negative. He was started on an
+amiodarone dirp and transferred by med flight to [**Hospital1 52**] for
+futher care.
+.
+In our ED, his initial vitals wereHR 103, BP 118/63 satting 100%
+on FiO2 100%. He was started on a heparin gtt. He was given
+versed for aggitation on the vent and had a CT scan of his c
+spine. He also had a 1.5 cm laceration on the back of his head
+stapled.
+.
+Upon arrival to the CCU. Patient was stable. Neuro was consulted
+for question of status epilepticus vs myoclonus. A right
+subclavian central line and a left A line were placed. He was
+started an artic sun cooling blanket at 12am.
+
+
+Social History:
+significant for former tobacco use. There is no history of
+alcohol abuse.
+
+Physical Exam:
+VS: T 37 C BP 122/61 HR114 RR16 O2100%
+VENT: AC 550 RR 12 FiO2 60% PEEP 5 7.35/46/428
+Gen: WDWN middle aged male
+HEENT: Sclera anicteric. PERRL. Conjunctiva were pink, no pallor
+or cyanosis of the oral mucosa. No xanthalesma.
+Neck: Hard c collar in place
+CV: PMI located in 5th intercostal space, midclavicular line.
+Tachy, RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+Chest: No chest wall deformities. CTAB (anterior), no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Neuro: No corneal reflex. PERRL. Withdraws with purposeful
+movements in all 4 ext in response to noxious stimuli. Exhibits
+spontaneous posturing movements.
+.
+Pulses:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+Labs on admission:
+[**3497-4-10**] 09:10PM BLOOD WBC-9.8 RBC-5.05 Hgb-11.5* Hct-34.1*
+MCV-68* MCH-22.8* MCHC-33.8 RDW-14.8 Plt Ct-158
+[**3497-4-10**] 09:10PM BLOOD PT-12.3 PTT-21.7* INR(PT)-1.1
+[**3497-4-10**] 11:15PM BLOOD Glucose-350* UreaN-25* Creat-1.3* Na-139
+K-4.4 Cl-105 HCO3-15* AnGap-23*
+[**3497-4-10**] 09:10PM BLOOD CK(CPK)-269* Amylase-55
+[**3497-4-10**] 11:15PM BLOOD ALT-122* AST-147* CK(CPK)-271* AlkPhos-80
+TotBili-0.8
+[**3497-4-10**] 09:10PM BLOOD CK-MB-5 cTropnT-0.10*
+[**3497-4-10**] 11:15PM BLOOD Calcium-8.8 Phos-3.7 Mg-1.7
+[**3497-4-10**] 09:15PM BLOOD Glucose-280* Lactate-3.5* Na-139 K-3.8
+Cl-103 calHCO3-25
+.
+EKG demonstrated sinus 94 bpm,nl axis and intervals. LVH. TWI V1
+, ST depression in V4-6 with no significant change compared with
+prior dated [**5-/3494**]
+.
+TELEMETRY demonstrated:sinus tach
+.
+2D-ECHOCARDIOGRAM performed on [**5-/3494**] demonstrated:
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thicknesses
+are normal. The left ventricular cavity size is normal. There is
+mild-to-moderate global left ventricular hypokinesis (ejection
+fraction 40 percent). No masses or thrombi are seen in the left
+ventricle. There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic regurgitation. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse. There is no pericardial
+effusion.
+.
+CXR: large heart. Right subclavian line terminates at SVC. mild
+pulmonary edema. No PTX
+.
+CT c-spine [**4-10**]:  There is no fracture or malalignment within
+the cervical spine. The vertebral body and intervertebral disc
+space heights are preserved. Mild calcification of the anterior
+longitudinal ligament posterior to C2 is degenerative. The
+odontoid process approximates well with the anterior arch of C1.
+The visualized outline of the thecal sac is unremarkable.
+.
+Interstitial edema in bilateral lung apices. The visualized
+right maxillary sinus is completely opacified, and there is mild
+mucosal thickening in the left maxillary sinus. Mastoid air
+cells are clear.
+.
+MRI/MRA brain [**4-12**]:
+There is no slow diffusion to indicate an acute infarct. There
+is a left parietal subgaleal hematoma present. The brain
+parenchymal signal is normal with no evidence of midline shift
+or herniation. There is opacification of all of the paranasal
+sinuses which could be due to intubation. The normal vascular
+flow voids are present.
+.
+TTE [**4-14**]: The left atrium is mildly dilated. There is mild
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is top normal/borderline dilated. Overall left
+ventricular systolic function is mildly depressed with
+inferolateral hypokinesis/akinesis. Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic regurgitation. The mitral valve leaflets are mildly
+thickened. Trivial mitral regurgitation is seen.  There is mild
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+.
+MR [**Name13 (STitle) **] [**4-17**]:
+No signal abnormality is identified within the cervical spinal
+cord. Alignment of the vertebral bodies is anatomic. Mild
+cervical spondylosis is unchanged.
+There remains a small rim of fluid posterior to the anterior
+longitudinal ligament between the C2 and C5 levels. The anterior
+longitudinal ligament itself appears intact on these images.
+Also posterior to the C2 and C3 levels, there is a sliver of
+fluid just anterior to the posterior longitudinal ligament; the
+ligament itself appears intact. A small amount of fluid is also
+seen at the lateral atlantodental joints bilaterally. No soft
+tissue abnormalities are appreciated. The visualized cerebellum
+and brainstem appear unremarkable.
+.
+
+
+Brief Hospital Course:
+Pt is a 49 YOM with known CAD/CM who presents after v fib
+arrest.
+.
+1) CAD/V fib arrest:  Patient collapsed in mall and was found to
+be in vfib when EMS arrived.  He received bystander CPR with
+estimated time between collapse and EMS arrival of 15 minutes.
+Was shocked and became asystolic and then was given epi/atropine
+and returned to narrow complex rhythm.  Has h/o CAD s/p 4 vessel
+CABG and ischemic cardiomyopathy. EKG done afterwards did not
+look ischemic, however may have had acute occlusion of one of
+his grafts causing his arrythmia without EKG findings currently.
+Had signs of anoxic brain injury on arrival to the CCU including
+myoclonus and posturing which are poor prognostic indicators.
+Neurology was consulted. He was loaded with IV valproic acid for
+sz ppx and placed on versed drip. Given the patient had an
+[**Hospital 14199**] hospital arrest and he was within 6 hours of his
+arrest the decision was made to treat with therapeutic
+hypothermia to reduce cerebral metabolic needs. He was placed on
+Vecuronium to reduce shivering during the cooling process. He
+was cooled down to 89 degrees for 18 hours per protocol and then
+slowly rewarmed.  Given the possibility of an ischemic event he
+was placed on IV heparin and continued on ASA.  He had been
+started on amiodarone prior to arrival which was stopped due to
+prolonged QT interval.  He was continued on BB which was
+uptitrated.
+.
+2) Resp:  Patient was intubated in the field for airway
+protection.  Has no history of lung disease.  Was found to have
+an aspiration PNA which was treated as below.  During the
+hospitalization he did not tolerate his ETT, specifically, when
+attempting to wean him off of sedation he would cough violently
+and become very agitated.  Given his poor neurologic status and
+likely need for prolonged intubation Interventional Pulmonology
+was consulted regarding trach placement.  A trach was placed on
+[**4-19**].  He continued to have a strong cough despite anesthetics
+and cough suppressants.  He was changed to PS ventilation and
+tolerated this well and was then weaned to trach mask.  With
+improvement in his PNA he was able to be weaned to NC and his
+trach was capped.
+.
+3) DM: Normally on inuslin pump at home. Sugars initially
+elevated to 400 with gap acidosis. Likely DKA in setting of
+arrest and no insulin pump. Bolused with 1L NS and placed on
+insulin gtt. His anion gap resolved and he was maintained on the
+insulin gtt for tight glucose control.  [**Last Name (un) 156**] was consulted for
+assistance in transition to SC insulin.  Once TFs were
+stabilized he was switched to Glargine and RISS.  His
+long-acting insulin was uptitrated to 50U to be given at
+lunchtime daily.
+.
+4) Renal insufficency - On admission the patient's Cr was
+slightly elevated to 1.3. Etiology was likely poor perfusion in
+setting of cardiac arrest. His Cr returned to baseline and
+remained stable.
+.
+5) Fever: Patient developed high fevers on HD#2 up to 102.
+Initially felt to be either central fevers vs. infection,
+however he then developed bandemia suggestive of acute
+infection.  He was pan-cultured.  CXR was consistant with either
+aspiration pneumonitis vs. PNA so he was started on ceftriaxone
+and flagyl.  Sputum culture grew out pan-sensitive Klebsiella so
+his flagyl was discontinued.  He had recurrent fevers a week
+into treatment and was recultured.  CXR showed worsening of his
+PNA and given the concern for hospital acquired pathogens and
+VAP his antibiotics were broadened to vanc/zosyn.  Repeat sputum
+culure grew out MSSA and the vanco was discontinued.  All urine
+and blood cultures were NGTD. Zosyn, which was started on
+[**3497-4-20**], needs to be continued for a total of two weeks.
+.
+6) FEN: NPO initially given patient was paralyzed.  TFs were
+initiated and PEG was placed [**4-19**] for permanant feeding.
+.
+7) PPX: heparin gtt transiently, then heparin sc, PPI
+.
+8) Access: R subclavian, left A line
+.
+9) Code: DNR/I
+
+
+Medications on Admission:
+niacin 500 [**Hospital1 **]
+toprolxl 50
+diovan 80
+plavix 75
+crestor 5
+insulin pump
+
+
+Discharge Medications:
+1. Artificial Tear with Lanolin 0.1-0.1 % Ointment Sig: One (1)
+Appl Ophthalmic PRN (as needed).
+2. Acetaminophen 160 mg/5 mL Solution Sig: Ten (10) mL PO Q6H
+(every 6 hours) as needed.
+3. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day).
+5. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Six (6)
+Puff Inhalation Q4-6H (every 4 to 6 hours) as needed.
+6. Ferrous Sulfate 300 mg/5 mL Liquid Sig: Five (5) mL PO DAILY
+(Daily).
+7. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day) as needed for High residuals.
+8. Albuterol 90 mcg/Actuation Aerosol Sig: Six (6) Puff
+Inhalation Q4H (every 4 hours) as needed.
+9. Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H
+(every 6 hours) as needed.
+10. Beclomethasone Dipropionate 80 mcg/Actuation Aerosol Sig:
+One (1) puff Inhalation [**Hospital1 9**] (2 times a day).
+11. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+12. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+ Inhalation Q6H (every 6 hours) as needed.
+13. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+14. Levetiracetam 100 mg/mL Solution Sig: One (1)  PO BID (2
+times a day).
+15. Insulin Regular Human 100 unit/mL Cartridge Sig: AS DIR
+Injection AS DIR.
+16. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+17. Lorazepam 2 mg/mL Syringe Sig: One (1)  Injection Q4H (every
+4 hours) as needed for seizure activity.
+18. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: One (1) Recon
+Soln Intravenous Q8H (every 8 hours): Day 1 = [**3497-4-20**]. To be
+continued for a total of 4 weeks.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 492**] - [**Location (un) 493**]
+
+Discharge Diagnosis:
+Ventricular fibrillation with cardiac arrest.
+Anoxic brain injury.
+
+
+Discharge Condition:
+Awake, does not follow commands, frequent myoclonic jerks.
+
+
+Discharge Instructions:
+You are being discharged after treatment for ventricular
+fibrillation with cardiac arrest.  Please note the changes in
+your medications.  You will need to continue antibiotics until
+the course is completed.
+
+Followup Instructions:
+Follow-up with your cardiologist when your neurological rehab is
+completed.
+
+
+
+
+
+DOC CLASS

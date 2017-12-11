@@ -1,0 +1,173 @@
+Chief Complaint: Hypotension
+   HPI:
+   79M with h/o CHF/valvular disease; admitted with hypotension and
+   hypoxemia consistent with fluid overload
+   24 Hour Events:
+   Seen by cardiology yesterday who agreed with weaning of inotropes/dopa
+   and diuresis with lasix gtt.  Overnight, his MAP decreased to 50's and
+   lasix gtt was decreased with improvement in his BP.  His Cvo2 2as >
+   70%.
+   Otherwise, no significant change in his clinical status; he diuresed
+   500cc overnight.  A TTE was obtained and revealed worsening EF with
+   inferior/inferolateral segment worsened hypokinesis.
+   History obtained from Patient
+   Allergies:
+   Bacitracin
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**3259-11-27**] 06:02 AM
+   Ceftriaxone - [**3259-11-28**] 08:12 AM
+   Infusions:
+   Dopamine - 2 mcg/Kg/min
+   Dobutamine - 0.5 mcg/Kg/min
+   Furosemide (Lasix) - 2 mg/hour
+   Other medications:
+   Coumadin
+   ASA
+   Plavix
+   PPI
+   Albuterol
+   Changes to medical and family history:
+   No change
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3259-11-28**] 10:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.1
+C (98.7
+   HR: 101 (101 - 123) bpm
+   BP: 89/44(60) {82/40(54) - 117/62(80)} mmHg
+   RR: 20 (17 - 36) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 100 kg (admission): 100 kg
+   CVP: 7 (7 - 14)mmHg
+   Total In:
+                                                                    793 mL
+                                                                    295 mL
+   PO:
+                                                                    120 mL
+                                                                     50 mL
+   TF:
+   IVF:
+                                                                    673 mL
+                                                                    245 mL
+   Blood products:
+   Total out:
+                                                                  1,185 mL
+                                                                  1,095 mL
+   Urine:
+                                                                  1,185 mL
+                                                                  1,095 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -392 mL
+                                                                   -800 mL
+   Respiratory support
+   O2 Delivery Device: 50? Face maskAerosol-cool
+   SpO2: 96%
+   ABG: ///29/
+   Physical Examination
+   Gen:  obtunded, disoriented, not following commands; appears tachypneic
+   and acutely ill
+   Chest:  Diffuse wheeze, diminshed BS at anteriorly
+   CV:  Distant S1/S2, displaced PMI
+   Abd: s/nt/nd
+   Ext: [**2-12**]+ edema, warm
+   Labs / Radiology
+   9.2 g/dL
+   192 K/uL
+   91 mg/dL
+   2.1 mg/dL
+   29 mEq/L
+   5.1 mEq/L
+   52 mg/dL
+   97 mEq/L
+   136 mEq/L
+   27.9 %
+   7.1 K/uL
+        [image002.jpg]
+                            [**3259-11-27**]  04:24 AM
+                            [**3259-11-27**]  04:41 PM
+                            [**3259-11-28**]  12:19 AM
+                            [**3259-11-28**]  04:41 AM
+   WBC
+   8.5
+   7.1
+   Hct
+   26.4
+   29.2
+   27.9
+   Plt
+   171
+   192
+   Cr
+   2.5
+   2.3
+   2.3
+   2.1
+   Glucose
+   106
+   91
+   91
+   Other labs: PT / PTT / INR:34.2/47.9/3.5, ALT / AST:19/22, Alk Phos / T
+   Bili:38/1.9, LDH:164 IU/L, Ca++:8.5 mg/dL, Mg++:2.1 mg/dL, PO4:5.1
+   mg/dL
+   Imaging: CXR: Suggestion of RLL/RML infiltrate and gross volume
+   overload.
+   Assessment and Plan
+   79M admitted with hypotension and hypoxemia, thought due to cardiogenic
+   shock in setting of volume overload.  However, CXR today more
+   concerning for both overload and PNA.  Also, his exam suggests
+   bronchospasm with wheeze.
+   1.       Respiratory Failure:  COPD, also concern for PNA and volume
+   overload
+   -          Add steroids for bronchospam
+   -          Increase nebulizers to q4h and prn
+   -          Antibiotics noted below
+   -          Might require NIPPV if retaining
+   2.       Hypotension:  Unclear etiology, component of cardiogenic and
+   possible septic shock.
+   -          will continue dobutamine and dopamine
+   -          Discuss with cardiology the significance of the TTE results
+   - ? ischemic event several weeks ago, or is this sepis induced.
+   3.       ID:  Cultures negative.  CXR suggest an infiltrate.  UA+,
+   await urine culture
+   -          vancomycin and zosyn; also will cover with levofloxacin for
+   GN and atypical coverage.
+   -          Await cultures
+   4.       Renal:  Cr 2.1 from 2.5 with diuresis, suggestive of
+   cardiogenic component.
+   5.       Heme:  HCT 28 today
+ anemia of chronic disease.
+   Therapeutically anticoagulted for history of PE/DVT.
+   -          hold coumadin for INR 3.5
+   -          No acute bleed so no indication for reverasal
+   ICU Care
+   Nutrition:
+   NPO given mental status
+   Glycemic Control:  Insulin sliding scale
+   Lines:
+   Multi Lumen - [**3259-11-27**] 12:31 AM
+   20 Gauge - [**3259-11-27**] 12:38 AM
+   Arterial Line - [**3259-11-27**] 07:00 PM
+   Prophylaxis:
+   DVT: anticoagulated
+   Stress ulcer: PPI
+   Communication:  Will discuss with family regarding his overall poor
+   status and now altered mental status.
+   Code status:  DNR/DNI
+   Disposition : Remains in ICU today
+ critically ill
+   Total time spent:  35 minutes
+
+
+DOC CLASS

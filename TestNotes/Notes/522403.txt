@@ -1,0 +1,172 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   [**Age over 90 363**] yo man with recent GI Bleed due to duodenal ulcer- not bleeding-
+   covered by clot. Anticoagulation stopped. Noted recurrent melena and
+   chest pain. Trop 25, Hct 24. CK 119 when seen at [**Hospital1 754**]. HD stable.
+   Given 2U PRBC (1 at OSH). Here CK 107, 11% MB.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3216-5-6**] 08:21 AM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   HTN
+   Afib
+   Hyperchol
+   Colon CA s/p colectomy 20 yrs ago
+   GI Bleed- duodenal ulcer recently diagnosed [**3216-4-16**]
+   CAD NSTEMI 1 year ago, no intervention
+   CHF: echo EF 65% possible diastolic dysfunction
+   pleural effusion
+   Home meds: Lasix, lisinopril, zocor, prilosec
+   Occupation: retired policeman
+   Drugs:
+   Tobacco: no
+   Alcohol:
+   Other: wife at [**Hospital 11**] Rehab
+   Review of systems:
+   Constitutional: Fatigue
+   Eyes: No(t)  Blurry vision
+   Ear, Nose, Throat: No(t) Dry mouth
+   Cardiovascular: Chest pain, chest pressure
+   Respiratory: No(t) Cough, No(t) Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   melena
+   Genitourinary: No(t) Dysuria
+   Musculoskeletal: No(t) Joint pain
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Heme / Lymph: No(t) Lymphadenopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache
+   Psychiatric / Sleep: No(t) Agitated
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**3216-5-6**] 08:59 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.2
+   Tcurrent: 35.8
+C (96.5
+   HR: 75 (71 - 90) bpm
+   BP: 140/65(84) {138/63(83) - 146/73(99)} mmHg
+   RR: 18 (13 - 24) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 70 Inch
+             Total In:
+             1,260 mL
+   PO:
+             TF:
+   IVF:
+   10 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    590 mL
+   Urine:
+   590 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    670 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///21/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Distant), (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   formed black stool just prior to exam
+   Extremities: Right: Absent, Left: Absent, No(t) Cyanosis, No(t)
+   Clubbing
+   Musculoskeletal: No(t) Muscle wasting
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): all, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   246 K/uL
+   30.8 %
+   10.3 g/dL
+   106 mg/dL
+   1.3 mg/dL
+   49 mg/dL
+   21 mEq/L
+   111 mEq/L
+   4.7 mEq/L
+   142 mEq/L
+   7.8 K/uL
+        [image002.jpg]
+                             [**3216-5-6**]  05:21 AM
+   WBC
+                                     7.8
+   Hct
+                                    30.8
+   Plt
+                                     246
+   Cr
+                                     1.3
+   Glucose
+                                     106
+   Other labs: PT / PTT / INR:12.4/22.5/1.0, CK / CKMB / Troponin-T:84//,
+   Ca++:8.9 mg/dL, Mg++:2.1 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   GI Bleed
+   Appropriate response to transfusion
+   [**Month (only) 56**] not benefit from scope as no e/o of continued bleed
+   PPI
+   NPO for now
+   CAD, elevated cardiac enzymes
+   holding asa and beta blocker
+   continue trending enzymes and ECG
+   Afib
+   rate in good control
+   HTN
+   ACE held for now
+   ARF
+   Resolving with transfusions- likely prerenal
+   pneumoboots
+   16g and 18g peripherals
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   16 Gauge - [**3216-5-6**] 03:19 AM
+   20 Gauge - [**3216-5-6**] 03:20 AM
+   Comments:
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU until repeat hct
+   Total time spent: 30 minutes.
+   Critically ill with recent GI Bleed and cardiac ischemia.
+   ------ Protected Section ------
+   Error: forgot to include chief complaint: GI Bleed.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1962**] [**Last Name (NamePattern1) **], MD
+   on:[**3216-5-6**] 14:36 ------
+
+
+DOC CLASS

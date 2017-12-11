@@ -1,0 +1,325 @@
+Chief Complaint: 82 yo F with CAD s/p CABG, AF, COPD on home oxygen
+   admitted with respiratory failure requiring intubation.
+   24 Hour Events:
+   -Trial of [**Name (NI) 7099**] pt stable on [**5-30**] all day
+   -increased coreg to 25 [**Hospital1 **]
+   -d/c vanco
+   -ordered DIC labs with Mon am labs for spreading hematoma. Pm HCT 26.6
+   (from 28.2 in am)
+   -persistently hypernatremic to 149- incr free water flushes to 250Q 4
+   => Na down to 147.
+   - wound care to re-evaluate burn on backside
+   - acetazolamide x1--> Bicarb from 41->37. Still >1L positive
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2840-1-21**] 08:00 AM
+   Meropenem - [**2840-1-22**] 12:00 PM
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Midazolam (Versed) - 0.8 mg/hour
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2840-1-22**] 08:00 AM
+   Other medications:
+   Carvedilol 25 mg PO BID
+   Diltiazem 15 mg PO QID
+   Prednisone 20 mg PO daily
+   Silver Sulfadiazene
+   Simvastatin 20 mg PO daily
+   Ipratroprium MDI
+   Lactulose
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2840-1-23**] 07:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 35.6
+C (96.1
+   HR: 84 (70 - 102) bpm
+   BP: 128/50(67) {111/47(62) - 231/150(171)} mmHg
+   RR: 18 (13 - 43) insp/min
+   SpO2: 100%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Height: 60 Inch
+             Total In:
+                                                                  2,372 mL
+                                                                    417 mL
+   PO:
+             TF:
+                                                                  1,057 mL
+                                                                    322 mL
+   IVF:
+                                                                    665 mL
+                                                                     95 mL
+   Blood products:
+   Total out:
+                                                                  1,180 mL
+                                                                    330 mL
+   Urine:
+                                                                  1,180 mL
+                                                                    330 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,192 mL
+                                                                     87 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 424 (97 - 468) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 10
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI: 30
+   PIP: 11 cmH2O
+   SpO2: 100%
+   ABG: 7.44/61/71/39/13
+   Ve: 4.6 L/min
+   PaO2 / FiO2: 203
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: Endotracheal tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   70 K/uL
+   9.4 g/dL
+   125 mg/dL
+   0.9 mg/dL
+   39 mEq/L
+   4.8 mEq/L
+   52 mg/dL
+   104 mEq/L
+   147 mEq/L
+   28.5 %
+   8.5 K/uL
+        [image002.jpg]
+                            [**2840-1-20**]  01:59 PM
+                            [**2840-1-21**]  04:11 AM
+                            [**2840-1-21**]  07:46 AM
+                            [**2840-1-21**]  05:16 PM
+                            [**2840-1-22**]  04:28 AM
+                            [**2840-1-22**]  06:00 AM
+                            [**2840-1-22**]  06:51 AM
+                            [**2840-1-22**]  09:27 AM
+                            [**2840-1-22**]  04:14 PM
+                            [**2840-1-23**]  04:26 AM
+   WBC
+   9.1
+   9.3
+   8.6
+   8.5
+   Hct
+   28.9
+   28.3
+   28.2
+   26.6
+   28.5
+   Plt
+   72
+   73
+   67
+   70
+   Cr
+   1.1
+   1.0
+   0.9
+   0.8
+   0.9
+   TCO2
+   40
+   43
+   44
+   43
+   Glucose
+   193
+   155
+   163
+   170
+   126
+   125
+   Other labs: PT / PTT / INR:12.7/29.5/1.1, CK / CKMB /
+   Troponin-T:36/2/0.20, ALT / AST:[**8-24**], Alk Phos / T Bili:43/0.3,
+   Differential-Neuts:90.5 %, Band:0.0 %, Lymph:4.7 %, Mono:4.5 %, Eos:0.2
+   %, Fibrinogen:105 mg/dL, Lactic Acid:0.9 mmol/L, Albumin:3.5 g/dL,
+   LDH:284 IU/L, Ca++:8.6 mg/dL, Mg++:2.2 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   Impression: 82 year old female with CAD s/p CABG and AVR, AF, and COPD
+   on home oxygen, presenting from OSH for management of GI bleed, and
+   hypercarbic respiratory failure, with failure to extubate x2 while
+   admitted.
+   Hypercarbic Respiratory Failure:  At OSH was extubated [**2840-1-10**], but
+   re-intubated [**1-15**] at [**Hospital1 52**] for hypercarbic respiratory failure. Then
+   extubated [**1-16**], put on intermittent bipap o/n and reintubated [**2-26**] AMS
+   and hypercarbic resp failure [**1-17**].  Likely multifactorial; both
+   infectious (pneumonia) and cardiac (hypertension, tachycardia and
+   underlying CHF causing flash pulmonary edema) as well as COPD.
+   For COPD:
+   -Continue steroids at prednisone 20 mg PO daily, taper tomorrow to 10
+   mg PO daily
+   -continue advair, ipratropium, home xopenex
+   For PNA:
+   - completed 8 day course of Vancomycin and meropenem
+   - sputum cx [**1-17**] no growth
+   For Cardiac optimization: Improved BP control. Metabolic alkalosis
+   improved with IV diamox, and did have some diuresis with it earlier in
+   the day.
+   - cont carvedilol 25  [**Hospital1 **]
+   - diltiazem to 15 QID
+   - additional dose of diamox today. Goal -500 to -1 L negative.
+   Ventilation:
+   - Repeat VBG with SBT today and extubation if passes SBT.
+   - IV nitroglycerin during extubation to prevent flash pulmonary edema
+   with removal of PPV.
+   .
+   Acute Renal Failure: Cre stable at 0.9. Consider starting ACEI once
+   extubated and hemodynamically stable.
+   Gastrointestinal Bleeding:  HCT stable at 28 x3 days.   No EGD only
+   evidence for GI bleed is guaiac positive stool on admission. No scope
+   indicated per GI. Also has large ecchymosis surrounding L upper leg.
+   DIC labs negative.
+   - active type and screen
+   - PICC access currently
+   - transfusion goal > 25
+   - PO PPI daily
+   - monitoring hematoma. Low threshold to CT for RP bleed if HCT keeps
+   dropping.
+   - consider restarting anticoagulatins (ASA, coumadin) if Hct remains
+   stable.
+    .
+   Thrombocytopenia:  Possible antibiotics related. Stable in 70s.  PF4
+   antibodies negative this admission.
+   - daily PLT check
+   - transfuse for platelets < 50 or active bleeding
+   - consider restarting anticoagulation for AF.
+   Atrial Fibrillation:  Currently rate controlled  and hemodynamically
+   stable. Currently not anticoagulated after GI bleed, but has been
+   stable in Hct x3 days.
+   - diltiazem 15 [**Hospital1 **]
+   - consider restarting coumadin tomorrow.
+   - holding tykosin and digoxin
+   Coronary Artery Disease: s/p CABG (LIMA to LAD and SVG to RCA).
+   - continue simvastatin
+   - switched metoprolol to coreg [**1-18**] after bradycardia and hypotension
+   [**1-17**].
+   - consider restarting ASA
+   Aortic Valve Replacement (bioprosthetic): Not anticoagulated.
+   Performed in [**2833**]. TTE here with EF 50%, severe pulm regurg and mild
+   pulm HTN
+   .
+   Hypertension: improved control (SBPs in 130s) with transient SBPs to
+   150s-160s.
+   -cont Coreg
+   -cont dilt for now
+   Hyperlipidemia:
+   - simvastatin
+   Back Wound:  Patient with stage II ulcer on back from burn injury at
+   [**Location (un) **].
+   - Silvadene 1% cream to coccyx [**Hospital1 **]
+   - wound care consulted
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**2840-1-23**] 12:00 AM 45 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2840-1-18**] 09:20 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments: needs family meetings to discuss progress if
+   extubation successful.
+   Code status: DNR (do not resuscitate)
+   Disposition: in ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points:  82 yo F with CAD s/p CABG/AVR c/b L
+   diaphragm paralysis, a-fib, COPD on home O2 (chronic CO2 retainer)
+   admitted initially to OSH with bradycardia, HOTN, unresponsiveness, ARF
+   (atn), GIB and acute on chronic hypercarbic resp failure. Transferred
+   to [**Hospital1 52**] for management of GIB.  Course has been c/b thrombocytopenia
+   felt [**2-26**] medication (zosyn), failed extubation in setting of flash pulm
+   edema and ? aspiration, and hypertension.  Family mtg with code status
+   changed to DNR, considering trach, though will continue to
+   reassess over next few days for repeat extubation.
+   Has tolerated PS wean over 24 hrs.
+   Exam notable for Tm 98.1 BP 128/50   HR 84, RR 13-48 (SBT) with sat 98%
+   on PS 5/5 (35%)  -->  7.44/61/71
+   Eldery F, intubated, awake and alert, slightly more somnolent, distant
+   BS, [**Last Name (un) **] HR, dependent edema, diffuse echymosis back, groin and
+   thighs--stable.
+   Labs notable for WBC 8.5 HCT 28.5, plt 70, cr  0.9, na 147, INR 1.1,
+   serum bicarb 39
+   CXR
+ lines and ETT in position, rotated, slight L vol shift, unchanged
+   Primary issues include:
+     * Resp failure
+         Copd (co2 retention)
+         pna
+     * arf
+     * anemia
+         GIB
+         Groin hematoma
+     * a-fib/bradycardia/sinus pauses
+     * thrombocytopenia (from zosyn?, hit neg)
+     * hyperglycemia
+   Difficult respiratory status with significant underlying copd and pHTN
+   confounded by pulm edema and cardiac component with valvular ds,
+   tachycardia/afib. Has failed extubation X 2 but is currently doing well
+   on weaning trial.
+   Agree with plan to repeat ABG/VBG this am.  If adequate, given
+   excellent RSBi and improved BP/HR control will move toward extubation.
+   Will give nitro and diamox prior to extubation. If fails--pt will need
+   trach which we have discussed with family.
+        BP and HR are better controlled with dilt and increased coreg
+   dose. We continue to hold anticoag given thrombocytopenia and anemia.
+   Will continue to taper prednisone, continue MDIs, sx, and pulm toilet.
+   Has completed course of vanco/[**Last Name (un) 411**] for pna.
+        Renal failure improving --> with good urine.
+        Hct stable and suspect multifactorial etiology of anemia with
+   probable slow GIB, hematoma, phlebotomy all factors.  GI without plans
+   for scope. Continue to guiac stool.  Monitor hematoma on groin and
+   back.  Follow h/h, keeping active T and C. IF hct drops again will scan
+   for RP bleed (had fem linme at OSH)
+        Thrombocytopenia --stable and likely [**2-26**] med effect.  Continue to
+   monitor for improvement now off antibx.
+        Continue ICU prophylaxis.  Has picc line for access. TFs on hold
+   for extubation.
+   Remainder of plan as outlined above. Continue to address goals of care.
+   DNR.
+   Patient is critically ill
+   Total time: 40 min
+   Addendum:
+   Pt failed extubation
+developing progressive hypercarbic resp failure.
+   Son updated.  Pt reintubated.  Will procede with tracheostomy
+   evaluation.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 717**] [**Last Name (NamePattern1) 1129**], MD
+   on:[**2840-1-23**] 15:48 ------
+
+
+DOC CLASS

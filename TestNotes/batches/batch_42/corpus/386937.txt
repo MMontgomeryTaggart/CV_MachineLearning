@@ -1,0 +1,193 @@
+Date of service: [**2844-3-22**]
+   Initial visit, Cardiology service: CCU
+   History of present illness: Mrs. [**Known patient lastname 3741**] is an 80 yo woman with HTN HL
+   CAD who p/w abd pain to OSH.  She was hypotensive in the ER there.
+   started on dopamine. CK 65 trop 0.19, bmp 463. new onset afib. started
+   on heparin. EKG showed STE in II III aVF. given aspirin and plavix.
+   ?LLL infiltrate. recd aztreonam. was xferred here for PCI.
+   .
+   She reports no CP/abd pain here in CCU
+   .
+   In the cath lab, she had a mid-RCA total occlusion with thrombus. She
+   underwent thrombectomy and eventual BMS implantation. She required
+   dopamine for blood pressure support through the case.
+   Past medical history: CAD s/p LAD stent in 03
+   SSS s/p pacemaker
+   CRI
+   CHF
+   MR
+   AS
+   COPD
+   Hyperparathyroidism
+   HTN
+   HL
+   Current medications: allopurinol 100
+   sensipar 30
+   combivent
+   carvdilol 6.25 [**Hospital1 **]
+   ferrous sulfate 325
+   klor con 10
+   lasix 120 [**Hospital1 **]
+   levaquin 500 qod
+   nexium 40
+   amlodipine 10
+   robitussin
+   simvastatin 80
+   lisinipril 20
+   Social History
+   Family history: There is no family history of premature coronary artery
+   disease or sudden death.
+   Social history details: tob:quit in 82. smoked 1 ppd for 20 yrs. no
+   etoh. no illicits. lives with youger sister. drives regularly.
+   Physical Exam
+   General appearance: VS -  98.9  86  113/58  14c  100/2l
+   Gen: WDWN middle aged female in NAD. Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   Neck: Supple with no JVD.
+   CV: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. 3/6 systolic murmur best heard at apex. No thrills,
+   lifts. No S3 or S4.
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB anteriorly.
+   Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   Ext: No c/c/e. No femoral bruits.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Height: 58 Inch, 147 cm
+   Labs
+   186
+   9.5
+   105
+   2.0
+   22
+   4.0
+   72
+   103
+   138
+   28.9
+   20.5
+        [image002.jpg]
+                            [**2844-3-22**]  02:36 PM
+                            [**2844-3-22**]  02:54 PM
+                            [**2844-3-22**]  05:25 PM
+   WBC
+   20.5
+   Hgb
+   9.5
+   Hct (Serum)
+   28.9
+   Plt
+   180
+   186
+   INR
+   1.2
+   PTT
+   140.3
+   Na+
+   138
+   K + (Serum)
+   4.0
+   Cl
+   103
+   HCO3
+   22
+   BUN
+   72
+   Creatinine
+   2.0
+   Glucose
+   105
+   CK
+   3422
+   3391
+   CK-MB
+   486
+   Troponin T
+   14.93
+   O2 sat (arterial)
+   98
+   ABG: /  /  / 22 /    Values as of [**2844-3-22**] 02:54 PM
+   Tests
+   Cardiac Cath: 1.  Selective coronary angiography demonstrated two (2)
+   vessel
+   coronary artery disease.  The right coronary artery was diffusely
+   diseased with a total occlusion in the mid-distal portion of the vessel
+   without any flow.  The left main demonstrated no flow limiting lesions.
+   The left anterior descending artery demonstrated a 30% proximal lesion
+   along with a widely patent stent in the mid portion of the vessel.  The
+   left circumflex demonstrated demonstrated mild luminal irregularities
+   throughout.
+   2.  Limited hemodynamics demonstrated low central aortic pressure
+   (100/70 mm Hg) while on dopamine gtt.  The rhythm throughout the case
+   was atrial fibrillation with occasional pacing from her pacemaker.
+   3.  Successful PTCA, thrombectomy and stenting of the mid-distal RCA
+   with a Vision (3x18mm) bare metal stent. Final angiography demonstrated
+   no angiographically apparent dissection, no residual stenosis and TIMI
+   II flow throughout the vessel (See PTCA comments).
+   FINAL DIAGNOSIS:
+   1. Two vessel coronary artery disease.
+   2. Successful PTCA, thrombectomy and stenting of the mid-distal RCA
+   with a bare metal stent.
+   Assessment and Plan
+   80 yo woman with HTN HL CAD now s/p primary PCI to the mid-RCA for
+   inferior STEMI.
+   .
+   #. Inferior STEMI: now s/p primary PCI to the mid-RCA.
+   - continue aspirin 325, clopidogrel 75
+   - cont home simvastatin 80
+   - hold carvedilol, lisinopril
+   - check echo
+   .
+   # Hypotension: cardiogenic vs septic shock. wbc count elevated. no
+   fever. ?h/o c diff +ve. no h/o fever or diarrhea.
+   - wean off pressors
+   - hold off on anti-HTNs
+   - monitor fever curve and wbc count
+   - cardioversion
+   .
+   # ?C diff diarrhea: no symptoms. wbc count at osh was 15
+   - hold off on abx
+   - send stool if has diarrhea
+   .
+   #. Afib: new onset afib
+   - start IV heparin
+   - BB for rate control
+   .
+   # CHF:
+   - echo
+   - hold home dose lasix, lisinopril as pt hypotensive
+   .
+   # HTN: hold amlodipine, BB, ACE as pt hypotensive
+   .
+   #. COPD: cont home combivent
+   .
+   #. Hyperparathyroidism: cont sensipar
+   .
+   #. FEN: Replete lytes prn, cardiac diet
+   .
+   #. Access:  PIV
+   .
+   #. PPx:  Sc heparin, bowel regimen prn
+   .
+   #. Emergency contact:
+   .
+   #. Code:  Presumed full
+   .
+   #. Dispo: Pending resolution of above
+   .
+   .
+   .
+   ------ Protected Section ------
+   I agree with dr.[**Last Name (STitle) 4543**]
+s notes.Reviewed course and examined Pt.
+   In View of Hypotension,dereased U.Output and new onset AF in setting if
+   Aortic stenosis and acute MI Urgent Cardioversion is appropriate.
+   Spent 45 mins over case.
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6546**]
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) 6546**]
+   on:[**2844-3-22**] 19:09 ------
+
+
+DOC CLASS

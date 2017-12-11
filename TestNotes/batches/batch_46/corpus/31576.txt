@@ -1,0 +1,267 @@
+Admission Date:  [**3036-7-21**]              Discharge Date:   [**3036-7-30**]
+
+Date of Birth:  [**2957-10-1**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Substernal chest pressure
+
+Major Surgical or Invasive Procedure:
+[**3036-7-22**] - CABGx4 on IABP (Left internal mammary->Left anterior
+descending artery, vein graft->Ramus, Vein graft->Right coronary
+artery)
+[**3036-7-21**] - Cardiac Catheterization with placement of an IABP
+
+History of Present Illness:
+78 yo white male (DOB [**2957-10-1**]) with recent onset chest
+heaviness and positive ETT originally scheduled for outpatient
+cardiac catheterization [**3036-7-22**] was admitted to [**Hospital3 **]
+last pm with a prolonged episode of chest heaviness; Ruled out
+for MI and now transferred painfree by Dr. [**First Name4 (NamePattern1) 677**] [**Last Name (NamePattern1) 4288**] for
+diagnostic cardiac catheterization.
+
+Past Medical History:
+Hyperlipidemia
+Hypertension
+Benign Prostatic Hypertrophy
+Gastroesophageal Reflux Disease
+Emphysema
+Pneumonia
+CVA [**3034**] -- no residual
+Throat carcinoma '[**27**] s/p resection and XRT
+R nephrectomy s/p trauma 40 years ago
+
+Social History:
+married with involved children; retired; lives in [**Hospital1 294**]. 80
+pack year history of smoking quitting in [**3013**]. Drinks 3+
+beers/day.
+
+Family History:
+None noted
+
+Physical Exam:
+well appearing 78 yo white male in NAD
+VS: 49  17  124/61     Ht: 5'9"  Wt: 174 lbs
+Lungs: clear
+Heart: distant S1/S2; no murmurs/gallops
+Abdomen: + BS; soft; non-tender; no masses
+Extrem: no pedal edema
+ Pulses:       C                 F              DP       PT
+    [**Name (NI) 647**]    2+ no bruit      2+ no bruit        2+       2+
+    Left     2+ no bruit      2+ no bruit        2+       2+
+
+Pertinent Results:
+[**3036-7-21**] Carotid U/S: Bilateral calcified plaque in left and right
+carotid bulbs and internal carotid arteries. The velocity
+measurements demonstrate no significant stenosis in the left or
+right internal carotid arteries.
+[**3036-7-21**] Cardiac Cath: 1. Coronary angiography in this right
+dominant system demonstrated three vessel disease. The LMCA was
+heavily calcified with an ostial 70% plaque and a distal 80-90%
+plaque. The LAD had a calcified plaque 80-90% at the ostium and
+was otherwise small and patent. The LCX had a heavily calcified
+ostial 80-90% plaque. The large ramus had an ostial 80-90%
+plaque as well. The RCA an ostial 50% plaque followed by a
+slightly hazy plaque proximally. 2. Resting hemodynamics
+revealed an elevated LVEDP of 30 mmHg. Nitroglycerin drip was
+started and lasix 20 mg IV given. Note was made of systolic
+hypertension with SBP of 184. 3. Left ventriculography was
+deferred. 4. An intraortic balloon pump was placed.
+[**3036-7-21**] ECHO: There is moderate symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is mildly depressed (LVEF=
+45-50 %). Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets are moderately thickened
+(gradient not assessed). Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. There is an anterior space which most
+likely represents a fat pad.
+[**3036-7-26**] Video Swallow: Penetration and aspiration with sips of
+thin barium consistency.
+[**3036-7-28**] CXR: Patient is status post CABG. Right vascular sheath
+has been removed. There is interval improvement in bibasilar
+opacities. There is a small left pleural effusion. Cardiac and
+mediastinal contours are stable.
+
+[**3036-7-21**] 04:00PM BLOOD WBC-3.9* RBC-3.96* Hgb-12.9* Hct-36.5*
+MCV-92 MCH-32.7* MCHC-35.4* RDW-12.8 Plt Ct-214
+[**3036-7-23**] 03:07AM BLOOD WBC-9.3 RBC-3.07* Hgb-9.9* Hct-28.3*
+MCV-92 MCH-32.4* MCHC-35.1* RDW-13.5 Plt Ct-139*
+[**3036-7-29**] 07:10AM BLOOD WBC-7.9 RBC-3.06* Hgb-9.6* Hct-27.9*
+MCV-91 MCH-31.3 MCHC-34.4 RDW-14.1 Plt Ct-339#
+[**3036-7-21**] 04:00PM BLOOD PT-12.2 PTT-24.3 INR(PT)-1.0
+[**3036-7-28**] 06:50AM BLOOD PT-17.0* PTT-24.9 INR(PT)-1.6*
+[**3036-7-29**] 07:10AM BLOOD PT-23.8* PTT-27.9 INR(PT)-2.4*
+[**3036-7-30**] 06:00AM BLOOD PT-31.3* INR(PT)-3.3*
+[**3036-7-21**] 12:50PM BLOOD Creat-1.0
+[**3036-7-29**] 07:10AM BLOOD Glucose-101 UreaN-29* Creat-1.5* Na-144
+K-4.8 Cl-108 HCO3-27 AnGap-14
+[**3036-7-25**] 01:43AM BLOOD Calcium-8.5 Phos-4.0 Mg-2.5
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 21886**] was admitted to the [**Hospital1 22**] on [**3036-7-21**] via transfer from
+[**Hospital3 **] for further management of his chest pain. He
+underwent a cardiac catheterization which revealed severe left
+main and three vessel disease. Given the severity of his
+disease, an IABP was placed for cardiac perfusion. The cardiac
+surgical service was consulted and Mr. [**Known patient lastname 21886**] was worked-up in
+the usual preoperative manner. A carotid duplex ultrasound was
+performed which showed bilateral calcified plaque in left and
+right carotid bulbs and internal carotid arteries. The velocity
+measurements demonstrated no significant stenosis in the left or
+right internal carotid arteries. An echo was also obtained which
+showed no significant valvular disease and an ejection fraction
+of 45-50%. On [**3036-7-22**], Mr. [**Known patient lastname 21886**] was taken to the operating room
+where he underwent coronary artery bypass grafting to four
+vessels. Postoperatively he was taken to the cardiac surgical
+intensive care unit for monitoring. On postoperative day one,
+his IABP was weaned and removed.
+
+On postoperative day two, he awoke neurologically intact and was
+extubated. Thiamine and folate were given as he had a history of
+moderate to heavy alcohol use. Haldol was used for episodes of
+delirium. On postoperative day three, Mr. [**Known patient lastname 21886**] was transferred
+to the step down unit for further recovery. He was gently
+diuresed towards his preoperative weight. The physical therapy
+service was consulted for assistance with his postoperative
+strength and mobility. As Mr. [**Known patient lastname 21886**] was having trouble
+swallowing his medications, the swallowing service was
+consulted. On exam, Mr. [**Known patient lastname 21886**] was noted to have signs and
+symptoms of aspiration with all consistencies. Swallowing study
+showed silent aspiration and a diet of ground solids and nectar
+thick liquids with no mixed consistencies was suggested.
+Developed A fib and amiodarone/Coumadin started. Gram neg. rods
+found in on a radial art. line culture and treated with Cipro
+per ID consult. ENT consult done for vocal cord eval. and will
+f/u as an outpatient. He appeared to be doing well on post-op
+day eight and was discharged with the appropriate follow-up
+appointments.
+
+Medications on Admission:
+Proscar 5 mg daily
+Doxazosin (Cardura) 2 mg daily
+Aspirin 325 mg daily
+Metoprolol 12.5 mg [**Hospital1 **] (prescribed 25 mg [**Hospital1 **] but not tolerating)
+Gabapentin 300 mg qPM
+MVI 1 daily
+Fish Oil 8000u [**Hospital1 **]
+Vit D 400 IU [**Hospital1 **]
+Calcium 1200 mg [**Hospital1 **]
+Vit B6 daily
+Vit E daily
+Ranitidine 300 mg daily
+Zetia 10 mg daily (stopped 2 days ago -- not tolerating, had
+been
+on Zocor previously)
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) [**Hospital1 345**]: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Docusate Sodium 50 mg/5 mL Liquid [**Hospital1 345**]: One Hundred (100) mg
+PO BID (2 times a day) for 1 months.
+Disp:*6000 mg* Refills:*0*
+3. Finasteride 5 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Doxazosin 1 mg Tablet [**Hospital1 345**]: Two (2) Tablet PO HS (at bedtime).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Simvastatin 10 mg Tablet [**Hospital1 345**]: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Ezetimibe 10 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Folic Acid 1 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Thiamine HCl 100 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Amiodarone 200 mg Tablet [**Hospital1 345**]: Two (2) Tablet PO BID (2 times
+a day) for 3 days: 400 mg [**Hospital1 **] for 3 days, then 200 mg [**Hospital1 **] until
+[**8-8**], the 200 mg daily ongoing per cardiologist.
+Disp:*60 Tablet(s)* Refills:*0*
+10. Senna 8.6 mg Tablet [**Month/Year (2) 345**]: Two (2) Tablet PO HS (at bedtime).
+Disp:*60 Tablet(s)* Refills:*0*
+11. Ferrous Gluconate 300 mg Tablet [**Month/Year (2) 345**]: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+12. Ascorbic Acid 500 mg Tablet [**Month/Year (2) 345**]: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+13. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 345**]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+Disp:*30 Tablet,Rapid Dissolve, DR(s)* Refills:*1*
+14. Therapeutic Multivitamin     Liquid [**Last Name (STitle) 345**]: Five (5) ML PO
+DAILY (Daily).
+Disp:*100 ML(s)* Refills:*1*
+15. Metoprolol Tartrate 25 mg Tablet [**Last Name (STitle) 345**]: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+16. Warfarin 1 mg Tablet [**Last Name (STitle) 345**]: Two (2) Tablet PO DAILY (Daily):
+please take 0mg sat and 1mg sun - INR checked monday [**8-1**] with
+results to Dr [**First Name (STitle) **] for further dosing.
+Disp:*30 Tablet(s)* Refills:*2*
+17. Outpatient Lab Work
+[**Name (NI) **] PT/INR for coumadin dosing, blood draws mon-wed-fri goal
+INR 2-2.5 for atrial fibrillation results to Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+fax# [**Telephone/Fax (1) 21887**]
+18. Clindamycin HCl 150 mg Capsule [**Telephone/Fax (1) 345**]: Two (2) Capsule PO Q6H
+(every 6 hours) for 10 days.
+Disp:*80 Capsule(s)* Refills:*0*
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x 4
+Post-op Atrial Fibrillation
+PMH: Hyperlipidemia, Hypertension, Benign Prostatic Hypertrophy,
+Gastroesophageal Reflux Disease, Emphysema, Pneumonia, CVA [**3034**]
+-- no residual,
+Throat carcinoma '[**27**] s/p resection and XRT, R nephrectomy s/p
+trauma 40 years ago
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 3620**] at
+([**Telephone/Fax (1) 72**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed.  Please shower daily and pat incisons dry. No bathing or
+swimming for 1 month. Use sunscreen on incision if exposed to
+sun.
+5) No lifting greater then 10 pounds for 10 weeks.
+6) No driving for 1 month.
+7) Call with any questions or concerns [**Telephone/Fax (1) 181**]
+8) Please follow up with ENT, you have an appointment scheduled
+for wednesday [**8-3**] with Dr [**Last Name (STitle) 21888**]
+9) [**Name (NI) **] PT/INR for coumadin dosing, blood draws mon-wed-fri
+
+Followup Instructions:
+Follow-up with Dr. [**Last Name (STitle) **] in 1 month. ([**Telephone/Fax (1) 72**]
+Follow-up with cardiologist Dr. [**Last Name (STitle) 4288**] in [**12-22**] weeks. [**Telephone/Fax (1) 1550**]
+Follow-up with PCP [**Last Name (NamePattern4) 21**]. [**First Name (STitle) **] in 2 weeks. [**Telephone/Fax (1) 1550**]
+Dr [**Last Name (STitle) 21888**] (ENT) [**Hospital1 1374**] office appt Wednesday [**8-3**] at 1050 am
+Please call all providers to schedule appointments.
+[**Name (NI) **] PT/INR for coumadin dosing, blood draws mon-wed-fri goal
+INR 2-2.5 for atrial fibrillation results to Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+fax# [**Telephone/Fax (1) 21887**]
+
+
+
+Completed by:[**3036-8-1**]
+
+DOC CLASS

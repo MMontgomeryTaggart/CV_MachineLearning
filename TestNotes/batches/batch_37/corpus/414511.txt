@@ -1,0 +1,509 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Cath clean (minimal CAD), concern for anomolous pulmonary venous
+   return as SVC O2 saturation was 93%. Recommendation for cardiac MRI;
+   but patient is intubated, so cannot be done. Will do a TTE today with a
+   bubble study to rule out other left to right shunts. From that test,
+   Cards (Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **]) will assess whether a TEE is a worthwhile
+   test. Ideal to do cardiac MRI once patient is extubated...but not very
+   responsive right now, so unsure as to when that will be.
+   - EP consult pending to assess etiology/reason for sudden VT
+   - Had lots of PVC's around [**3008**], checked lytes...K of 4, gave 20 of K
+   - Spike to 101, Tachycardic with questionable started empiric tx with
+   vanc and levofloxacin o/n Bcx/sputum cx sent
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3018-7-22**] 12:45 AM
+   Levofloxacin - [**3018-7-22**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**3018-7-21**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**3018-7-21**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3018-7-22**] 06:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.3
+C (101
+   Tcurrent: 37.7
+C (99.9
+   HR: 90 (76 - 100) bpm
+   BP: 112/71(79) {112/66(79) - 155/101(109)} mmHg
+   RR: 19 (17 - 29) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 73.2 kg (admission): 70.8 kg
+   Height: 62 Inch
+             Total In:
+                                                                  2,539 mL
+                                                                  1,243 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,309 mL
+                                                                  1,043 mL
+   Blood products:
+   Total out:
+                                                                    885 mL
+                                                                    730 mL
+   Urine:
+                                                                    885 mL
+                                                                    480 mL
+   NG:
+   250 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,654 mL
+                                                                    513 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 583 (583 - 708) mL
+   PS : 8 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 69
+   PIP: 15 cmH2O
+   Plateau: 13 cmH2O
+   Compliance: 62.5 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.45/33/285/21/0
+   Ve: 10.1 L/min
+   PaO2 / FiO2: 713
+   Physical Examination
+   GENERAL - sedated, comfortable male on a ventilator
+   HEENT - pupils slightly reactive, sclerae anicteric, MMM, Conjunctiva
+   were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK - supple, no thyromegaly, no apparent JVD but difficult to assess
+   b/c patient on neck brace, no carotid bruits
+   LUNGS
+ coarse breath sounds throughout the lungs, on ventilator
+   HEART - PMI located in 5th intercostal space, midclavicular line. RRR,
+   normal S1, S2. Systolic murmur II/VI near apex. No thrills, lifts. No
+   S3 or S4.
+   ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding. Abd
+   aorta not enlarged by palpation. No abdominial bruits.
+   EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs), No
+   c/c/e. No femoral bruits.
+   SKIN - no rashes or lesions. Slight skin breakdown behind neck where
+   collar was rubbing.  Slight burn marks where defibrillator pads were on
+   abdomen.
+   LYMPH - no cervical, axillary, or inguinal LAD
+   NEURO - responding to pain, not following commands, sedated.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   255 K/uL
+   11.4 g/dL
+   130 mg/dL
+   0.8 mg/dL
+   21 mEq/L
+   4.3 mEq/L
+   12 mg/dL
+   109 mEq/L
+   141 mEq/L
+   34.4 %
+   8.7 K/uL
+        [image002.jpg]
+                             [**3018-7-20**]  09:24 PM
+                             [**3018-7-20**]  09:34 PM
+                             [**3018-7-21**]  04:23 AM
+                             [**3018-7-21**]  12:55 PM
+                             [**3018-7-21**]  03:29 PM
+                             [**3018-7-22**]  12:30 AM
+   WBC
+   11.3
+   10.8
+   8.7
+   Hct
+   37.1
+   35.3
+   34.4
+   Plt
+   [**Telephone/Fax (3) 7221**]
+   Cr
+   0.8
+   0.8
+   0.8
+   TropT
+   0.04
+   0.03
+   0.02
+   TCO2
+   26
+   24
+   Glucose
+   124
+   135
+   130
+   Other labs: PT / PTT / INR:12.1/23.3/1.0, CK / CKMB /
+   Troponin-T:1241/3/0.02, ALT / AST:109/89, Alk Phos / T Bili:69/1.8,
+   Amylase / Lipase:/19, Differential-Neuts:90.2 %, Lymph:6.0 %, Mono:3.1
+   %, Eos:0.6 %, Albumin:3.3 g/dL, LDH:506 IU/L, Ca++:8.2 mg/dL, Mg++:2.2
+   mg/dL, PO4:1.9 mg/dL
+   CT Head/Neck:
+   Diffuse sulcal and ventricular effacement with loss of [**Doctor Last Name 969**]-white
+   matter differentiation, consistent with diffuse cerebral edema
+   secondary to anoxic injury. There is no hemorrhage, no midline shift
+   and the basilar cisterns are preserved. There is pan-sinus mucosal
+   disease. No fracture is identified.
+   No fracture or malalignment in the cervical spine. mild spondylosis
+   with mild canal stenosis. small lucent lesions noted in the C5
+   vertebral body of uncertain etiology.
+   Assessment and Plan
+   Mr. [**Known patient firstname **] [**Known patient lastname 7178**] is a 64 YO M wtih history of MVP and bicuspid aortic
+   valve s/p possible seizure and cardiac arrest with subsequent elevation
+   in cardiac enzymes and LFTs transfered for further work up.
+   .
+   #. Cardiac arrest - Unclear etiology, but patient was having
+   wide-complex tachycardia at 220 BPM. The preciptiant of the cardiac
+   arrest is still unclear and etiologies suggest arrhythmia (VFib
+   specificallY) or seizure. Stroke with AFib is another posibility, but
+   we cannot assess any deficits a this time given sedation.  Also
+   possible it could be ischemia.
+   - Monitor on telemetry
+   - Serial ECGs
+   - Trend CE
+   - Per Dr. [**Last Name (STitle) 1760**]: cardiac cath today to r/o CAD
+   - Neurology consult today re: ?seizure and mental status off sedation
+   -> cortical function given minimally responsive state
+   .
+   #. CAD - Patient with normal stress test 2 weeks prior, multiple ECG
+   changes (right and left bunndle as above), Trop I of 2.24 and CK of
+   ~5500 with negative MBI. He does not have any risk factors, was not on
+   aspirin and did not have chest pain. This makes unlikley that he has
+   CAD as presenting symptom.
+   - Cardiac cath today
+   - Monitor on telemetry
+   - Trend CE
+   - Serial ECGs
+   - Continue Metorpolol (increased to 50mg po/ng TID)
+   - On simvastatin 20mg po daily
+   - No indications for ACEI/[**Last Name (un) 281**] given not known CAD and most-likley
+   increased CE after CPR
+   - ASA 325 mg Daily
+   - Plavix load given
+   - Plavix 75 mg daily
+   .
+   #. Rhythm - Pt currently with LBBB morphology, but RBBB in multiple
+   ECGs at other hospital. Pt also has extensive ectopy. At this time his
+   electrolytes are normal. No signs of ischemia. Dilated heart in
+   echocardiogram in pt with preserved EF, bicuspid AS and mixomatous
+   degeneration of mitral valve. [**Month (only) 11**] be going in and out of Atrial
+   Fibrilation.
+   - Repelte electrolytes PRN
+   - Continue metoprolol 50 mg TID for now
+   - Serial ECGs
+   - Telemetry
+   - EP consult in AM
+   - Discuss anticoagulation for AFib, poor candidate given EtOH. Will
+   hold until CT scan negative.
+   .
+   #. Pump - No signs of heart failure at this time. Preserved EF.
+   .
+   #. Fever - Pt was found down and s/p cooling protocol. WBC was high up
+   to 14,000. No signs of infection on CXR and UA clean at OSH. Concern
+   for aspiration PNA vs. aspiration pneumonitis. Given no infiltrates
+   will hold on antibiotics for now. Withdrawal is another consideration.
+   Febrile to 100.6 last night.
+   - FU U/A
+   - FU CXR
+   - FU Blood cultures
+   - No antibiotics for now
+   .
+   #. Alcohol abuse - Pt with last drink 4 days ago. Has been getting
+   ativan and valium. No signs of withdrawal at this time (HR, BP
+   adequte), but difficult to assess given beta-blocker and sedated.
+   - CIWA with ativan given shock liver; will hold for now pending neuro
+   consult
+   .
+   #. [**Name (NI) 7181**] LFTs - Pt with shock liver or ischemic hepatitis in the
+   settinf of code and being found down.
+   - Trend LFTs
+   - BP management as above
+   .
+   #. Hematuria - Resolved. Most likely traumatic after Foley placement.
+   ICU Care
+   Nutrition: Holding feeds until extubation, no diet for 3 days so far
+   Glycemic Control:
+   Lines: 18 Gauge - [**3018-7-20**] 08:00 PM (PIV x 3 from OSH)
+   Prophylaxis:
+   DVT: SC heparin
+   Stress ulcer: Ranitidine per NGT
+   Bowel regimen: Colace/senna
+   VAP:  HOB 30 degrees, mouth care
+   Comments:
+   Communication:  Wife [**Name (NI) 285**] [**Name (NI) **] [**Known patient lastname 7178**]s Home [**Telephone/Fax (1) 7182**] & Cell
+   [**Telephone/Fax (1) 7183**]
+   Code status: Full code (confirmed with wife)
+   Disposition:  CCU for now, cath today
+   TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Cath clean (minimal CAD), concern for anomolous pulmonary venous
+   return as SVC O2 saturation was 93%. Recommendation for cardiac MRI;
+   but patient is intubated, so cannot be done. Will do a TTE today with a
+   bubble study to rule out other left to right shunts. From that test,
+   Cards (Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **]) will assess whether a TEE is a worthwhile
+   test. Ideal to do cardiac MRI once patient is extubated...but not very
+   responsive right now, so unsure as to when that will be.
+   - EP consult pending to assess etiology/reason for sudden VT
+   - Had lots of PVC's around [**3008**], checked lytes...K of 4, gave 20 of K
+   - Spike to 101, Tachycardic with questionable started empiric tx with
+   vanc and levofloxacin o/n Bcx/sputum cx sent
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3018-7-22**] 12:45 AM
+   Levofloxacin - [**3018-7-22**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**3018-7-21**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**3018-7-21**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3018-7-22**] 06:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.3
+C (101
+   Tcurrent: 37.7
+C (99.9
+   HR: 90 (76 - 100) bpm
+   BP: 112/71(79) {112/66(79) - 155/101(109)} mmHg
+   RR: 19 (17 - 29) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 73.2 kg (admission): 70.8 kg
+   Height: 62 Inch
+             Total In:
+                                                                  2,539 mL
+                                                                  1,243 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,309 mL
+                                                                  1,043 mL
+   Blood products:
+   Total out:
+                                                                    885 mL
+                                                                    730 mL
+   Urine:
+                                                                    885 mL
+                                                                    480 mL
+   NG:
+   250 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,654 mL
+                                                                    513 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 583 (583 - 708) mL
+   PS : 8 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 69
+   PIP: 15 cmH2O
+   Plateau: 13 cmH2O
+   Compliance: 62.5 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.45/33/285/21/0
+   Ve: 10.1 L/min
+   PaO2 / FiO2: 713
+   Physical Examination
+   GENERAL - sedated, comfortable male on a ventilator
+   HEENT - pupils slightly reactive, sclerae anicteric, MMM, Conjunctiva
+   were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK - supple, no thyromegaly, no apparent JVD but difficult to assess
+   b/c patient on neck brace, no carotid bruits
+   LUNGS
+ coarse breath sounds throughout the lungs, on ventilator
+   HEART - PMI located in 5th intercostal space, midclavicular line. RRR,
+   normal S1, S2. Systolic murmur II/VI near apex. No thrills, lifts. No
+   S3 or S4.
+   ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding. Abd
+   aorta not enlarged by palpation. No abdominial bruits.
+   EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs), No
+   c/c/e. No femoral bruits.
+   SKIN - no rashes or lesions. Slight skin breakdown behind neck where
+   collar was rubbing.  Slight burn marks where defibrillator pads were on
+   abdomen.
+   LYMPH - no cervical, axillary, or inguinal LAD
+   NEURO - responding to pain, not following commands, sedated.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   255 K/uL
+   11.4 g/dL
+   130 mg/dL
+   0.8 mg/dL
+   21 mEq/L
+   4.3 mEq/L
+   12 mg/dL
+   109 mEq/L
+   141 mEq/L
+   34.4 %
+   8.7 K/uL
+        [image002.jpg]
+                             [**3018-7-20**]  09:24 PM
+                             [**3018-7-20**]  09:34 PM
+                             [**3018-7-21**]  04:23 AM
+                             [**3018-7-21**]  12:55 PM
+                             [**3018-7-21**]  03:29 PM
+                             [**3018-7-22**]  12:30 AM
+   WBC
+   11.3
+   10.8
+   8.7
+   Hct
+   37.1
+   35.3
+   34.4
+   Plt
+   [**Telephone/Fax (3) 7221**]
+   Cr
+   0.8
+   0.8
+   0.8
+   TropT
+   0.04
+   0.03
+   0.02
+   TCO2
+   26
+   24
+   Glucose
+   124
+   135
+   130
+   Other labs: PT / PTT / INR:12.1/23.3/1.0, CK / CKMB /
+   Troponin-T:1241/3/0.02, ALT / AST:109/89, Alk Phos / T Bili:69/1.8,
+   Amylase / Lipase:/19, Differential-Neuts:90.2 %, Lymph:6.0 %, Mono:3.1
+   %, Eos:0.6 %, Albumin:3.3 g/dL, LDH:506 IU/L, Ca++:8.2 mg/dL, Mg++:2.2
+   mg/dL, PO4:1.9 mg/dL
+   CT Head/Neck:
+   Diffuse sulcal and ventricular effacement with loss of [**Doctor Last Name 969**]-white
+   matter differentiation, consistent with diffuse cerebral edema
+   secondary to anoxic injury. There is no hemorrhage, no midline shift
+   and the basilar cisterns are preserved. There is pan-sinus mucosal
+   disease. No fracture is identified.
+   No fracture or malalignment in the cervical spine. mild spondylosis
+   with mild canal stenosis. small lucent lesions noted in the C5
+   vertebral body of uncertain etiology.
+   Assessment and Plan
+   Mr. [**Known patient firstname **] [**Known patient lastname 7178**] is a 64 YO M wtih history of MVP and bicuspid aortic
+   valve s/p possible seizure and cardiac arrest with subsequent elevation
+   in cardiac enzymes and LFTs transfered for further work up.
+   .
+   #. Cardiac arrest - Unclear etiology, but patient was having
+   wide-complex tachycardia at 220 BPM. The preciptiant of the cardiac
+   arrest is still unclear and etiologies suggest arrhythmia (VFib
+   specificallY) or seizure. Stroke with AFib is another posibility, but
+   we cannot assess any deficits a this time given sedation.  Also
+   possible it could be ischemia.
+   - Monitor on telemetry
+   - Serial ECGs
+   - Trend CE
+   - Per Dr. [**Last Name (STitle) 1760**]: cardiac cath today to r/o CAD
+   - Neurology consult today re: ?seizure and mental status off sedation
+   -> cortical function given minimally responsive state
+   .
+   #. CAD - Patient with normal stress test 2 weeks prior, multiple ECG
+   changes (right and left bunndle as above), Trop I of 2.24 and CK of
+   ~5500 with negative MBI. He does not have any risk factors, was not on
+   aspirin and did not have chest pain. This makes unlikley that he has
+   CAD as presenting symptom.
+   - Cardiac cath today
+   - Monitor on telemetry
+   - Trend CE
+   - Serial ECGs
+   - Continue Metorpolol (increased to 50mg po/ng TID)
+   - On simvastatin 20mg po daily
+   - No indications for ACEI/[**Last Name (un) 281**] given not known CAD and most-likley
+   increased CE after CPR
+   - ASA 325 mg Daily
+   - Plavix load given
+   - Plavix 75 mg daily
+   .
+   #. Rhythm - Pt currently with LBBB morphology, but RBBB in multiple
+   ECGs at other hospital. Pt also has extensive ectopy. At this time his
+   electrolytes are normal. No signs of ischemia. Dilated heart in
+   echocardiogram in pt with preserved EF, bicuspid AS and mixomatous
+   degeneration of mitral valve. [**Month (only) 11**] be going in and out of Atrial
+   Fibrilation.
+   - Repelte electrolytes PRN
+   - Continue metoprolol 50 mg TID for now
+   - Serial ECGs
+   - Telemetry
+   - EP consult in AM
+   - Discuss anticoagulation for AFib, poor candidate given EtOH. Will
+   hold until CT scan negative.
+   .
+   #. Pump - No signs of heart failure at this time. Preserved EF.
+   .
+   #. Fever - Pt was found down and s/p cooling protocol. WBC was high up
+   to 14,000. No signs of infection on CXR and UA clean at OSH. Concern
+   for aspiration PNA vs. aspiration pneumonitis. Given no infiltrates
+   will hold on antibiotics for now. Withdrawal is another consideration.
+   Febrile to 100.6 last night.
+   - FU U/A
+   - FU CXR
+   - FU Blood cultures
+   - No antibiotics for now
+   .
+   #. Alcohol abuse - Pt with last drink 4 days ago. Has been getting
+   ativan and valium. No signs of withdrawal at this time (HR, BP
+   adequte), but difficult to assess given beta-blocker and sedated.
+   - CIWA with ativan given shock liver; will hold for now pending neuro
+   consult
+   .
+   #. [**Name (NI) 7181**] LFTs - Pt with shock liver or ischemic hepatitis in the
+   settinf of code and being found down.
+   - Trend LFTs
+   - BP management as above
+   .
+   #. Hematuria - Resolved. Most likely traumatic after Foley placement.
+   ICU Care
+   Nutrition: Holding feeds until extubation, no diet for 3 days so far
+   Glycemic Control:
+   Lines: 18 Gauge - [**3018-7-20**] 08:00 PM (PIV x 3 from OSH)
+   Prophylaxis:
+   DVT: SC heparin
+   Stress ulcer: Ranitidine per NGT
+   Bowel regimen: Colace/senna
+   VAP:  HOB 30 degrees, mouth care
+   Comments:
+   Communication:  Wife [**Name (NI) 285**] [**Name (NI) **] [**Known patient lastname 7178**]s Home [**Telephone/Fax (1) 7182**] & Cell
+   [**Telephone/Fax (1) 7183**]
+   Code status: Full code (confirmed with wife)
+   Disposition:  CCU for now, cath today
+
+
+DOC CLASS

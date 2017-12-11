@@ -1,0 +1,209 @@
+CVICU
+   HPI:
+   HD2   POD 1-Bentall(27 [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1078**] [**Last Name (NamePattern1) 1079**] Aortic valved graft)
+   Ejection Fraction:65
+   Hemoglobin A1c:5.3
+   Pre-Op Weight:225 lbs   102.06 kgs
+   Baseline Creatinine:0.9
+   PMH: Asthma, Hayfever, Depression, obesity, ETOH abuse, bil.plantar
+   fasciitis
+   PSH: tonsillectomy, left eye strabismus [**Doctor First Name 86**], hydrocelectomy
+   [**Last Name (un) **]: Aspirin 81', Metoprolol Succinate 25'
+   Events:
+   [**2737-12-20**] OR
+   Assessment:43yoM s/p Bentall(27 [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1078**] [**Last Name (NamePattern1) 1079**] Aortic valved graft)[**12-20**]
+   Current medications:
+   1. 2. 250 mL D5W 3. Acetaminophen 4. Aspirin EC 5. Aspirin 6. Calcium
+   Gluconate 7. CefazoLIN
+   8. Chlorhexidine Gluconate 0.12% Oral Rinse 9. Dextrose 50% 10.
+   Dexmedetomidine 11. Docusate Sodium
+   12. Docusate Sodium (Liquid) 14. Insulin 15. Ketorolac 16. Ketorolac
+   17. Magnesium Sulfate
+   18. Metoclopramide 19. Milk of Magnesia 20. Morphine Sulfate 22.
+   Nitroglycerin 23. Oxycodone-Acetaminophen 27. Ranitidine
+   24 Hour Events:
+ OR SENT - At [**2737-12-20**] 01:00 PM
+ ARTERIAL LINE - START [**2737-12-20**] 01:11 PM
+ CORDIS/INTRODUCER - START [**2737-12-20**] 01:11 PM
+ PA CATHETER - START [**2737-12-20**] 01:11 PM
+ INTUBATION - At [**2737-12-20**] 01:15 PM
+ INVASIVE VENTILATION - START [**2737-12-20**] 01:15 PM
+ NASAL SWAB - At [**2737-12-20**] 02:00 PM
+ EKG - At [**2737-12-20**] 02:45 PM
+ INVASIVE VENTILATION - STOP [**2737-12-20**] 06:35 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2737-12-20**] 07:45 PM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2737-12-21**] 12:45 AM
+   Other medications:
+   Flowsheet Data as of  [**2737-12-21**] 06:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**40**] a.m.
+   Tmax: 37.9
+C (100.2
+   T current: 37.2
+C (99
+   HR: 78 (74 - 98) bpm
+   BP: 106/53(69) {87/45(62) - 135/86(100)} mmHg
+   RR: 10 (8 - 18) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+   CVP: 14 (4 - 19) mmHg
+   PAP: (27 mmHg) / (18 mmHg)
+   CO/CI (Thermodilution): (7.55 L/min) / (3.5 L/min/m2)
+   SVR: 604 dynes*sec/cm5
+   SV: 94 mL
+   SVI: 44 mL/m2
+   Total In:
+                                                                  6,452 mL
+                                                                    123 mL
+   PO:
+                                                                     60 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  5,702 mL
+                                                                     63 mL
+   Blood products:
+                                                                    750 mL
+   Total out:
+                                                                  3,920 mL
+                                                                    605 mL
+   Urine:
+                                                                  2,180 mL
+                                                                    315 mL
+   NG:
+                                                                    400 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,532 mL
+                                                                   -483 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 10
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 14
+   PIP: 11 cmH2O
+   Plateau: 16 cmH2O
+   Compliance: 54.5 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.37/44/167/25/0
+   Ve: 13.9 L/min
+   PaO2 / FiO2: 334
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   165 K/uL
+   10.9 g/dL
+   127 mg/dL
+   0.8 mg/dL
+   25 mEq/L
+   4.6 mEq/L
+   9 mg/dL
+   106 mEq/L
+   136 mEq/L
+   31.7 %
+   11.2 K/uL
+        [image002.jpg]
+                            [**2737-12-20**]  11:13 AM
+                            [**2737-12-20**]  12:18 PM
+                            [**2737-12-20**]  12:20 PM
+                            [**2737-12-20**]  01:25 PM
+                            [**2737-12-20**]  01:34 PM
+                            [**2737-12-20**]  03:01 PM
+                            [**2737-12-20**]  06:12 PM
+                            [**2737-12-20**]  06:17 PM
+                            [**2737-12-21**]  02:20 AM
+   WBC
+   12.3
+   11.2
+   Hct
+   32
+   33
+   32.7
+   29.7
+   31.7
+   Plt
+   154
+   152
+   165
+   Creatinine
+   0.9
+   0.8
+   TCO2
+   24
+   26
+   26
+   21
+   26
+   Glucose
+   [**Telephone/Fax (3) 9931**]17
+   151
+   127
+   Other labs: PT / PTT / INR:13.9/31.6/1.2, Fibrinogen:239 mg/dL, Lactic
+   Acid:3.0 mmol/L
+   Assessment and Plan
+   .H/O HYPERTENSION, BENIGN, .H/O VALVE REPLACEMENT, AORTIC MECHANICAL
+   (AVR)
+   Assessment and Plan: Hypertensive overnight.
+   Neurologic: Neuro checks Q: 4 hr
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Discontinue PA monitor,
+   Now off NTG. Start lopressor
+   Pulmonary: IS, Discontinue chest tube(s), OOB and CPT
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, Lasix now for acute fluid overload
+   Hematology: Serial Hct, No evidence of bleeding
+   Endocrine: RISS, Well controlled
+   Infectious Disease: Check cultures, No evidence of infection
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Post-op hypotension
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2737-12-20**] 01:11 PM
+   Cordis/Introducer - [**2737-12-20**] 01:11 PM
+   PA Catheter - [**2737-12-20**] 01:11 PM
+   16 Gauge - [**2737-12-20**] 01:11 PM
+   20 Gauge - [**2737-12-21**] 06:13 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting planning Comments:
+   Code status: Full code
+   Disposition: ICU, Transfer to floor
+   Total time spent: 32 minutes
+   Patient is critically ill
+
+
+DOC CLASS

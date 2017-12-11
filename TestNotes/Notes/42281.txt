@@ -1,0 +1,280 @@
+Admission Date:  [**3244-9-21**]              Discharge Date:   [**3244-9-28**]
+
+Date of Birth:  [**3196-1-29**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+Abnormal EKG and stress echo, referred for urgent cardiac
+catheterization.
+
+Major Surgical or Invasive Procedure:
+[**3244-9-21**]
+1. Mitral valve replacement with a 25/33 onyx Conform-X
+    mechanical valve,  reference ONXMC, serial #[**Serial Number 16143**].
+2. Coronary bypass grafting x2 with left internal mammary
+    artery, left anterior descending coronary; reverse
+    saphenous vein single graft from aorta to the distal
+    right coronary artery.
+3. Endoscopic right greater saphenous vein harvesting.
+4. Pericardial reconstruction with a core matrix acellular
+    xenograft, reference # [**Serial Number 16144**], lot #[**Serial Number 16145**].
+
+
+History of Present Illness:
+48 year old female  with type I DM,
+hypertension, tobacco use and a family history of premature CAD
+was seen by Dr. [**First Name8 (NamePattern2) 9673**] [**Last Name (NamePattern1) 9672**] on Tuesday [**3244-8-30**] after she
+a
+a routine check up.  After having the abnormal EKG, she was sent
+for a stress test which was abnormal.  The patient currently
+asymptomatic - feels well with no chest pain or dyspnea. She
+does [**Last Name (un) 16146**] and plays volleyball on a regular basis with no
+symptoms.  She denies any dizziness, lightheadness,
+edema, or claudication.  Due to the abnormalities on the stress
+test, she was referred for cardiac catheterization and found to
+have 3 vessel CAD. Cardiac [**Doctor First Name 103**] was consulted for CABG/MVR
+evaluation.
+
+Past Medical History:
+Mitral Regurgitation
+Coronary Artery Disease
+Type I diabetes x 21 years ago: NO insulin pump
+Hypertension
+Vitamin B12 deficiency
+
+Social History:
+Occupation: Lunch lady at [**Location (un) 415**] Middle School. Married
+with 2 children- 16 and 22.
+Cigarettes: Smoked no [] yes [x] ?????? ppd x 27 years
+ETOH: < 1 drink/week [x]  [**2-15**] drinks/week - 4-6 beers per
+weekend
+[] >8 drinks/week []
+Illicit drug use  - none
+
+
+Family History:
+sister had CABG in her 50s. Mother died of cervical cancer.
+Father died of an aneurysm. 5 other sisters/2 brothers healthy.
+
+
+Physical Exam:
+Pulse: 88 Resp: 17  O2 sat: 97% RA
+B/P  Right:100/61 - 138/70    Left:
+Height: 5'8"     Weight: 200#
+
+General: AAO x 3 in NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x] Irregular [] + PVC's Murmur [II/VI] holosystolic
+best heard at apex
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema none
+Varicosities: + LLE varicosities at knee
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:cath site   Left:2+
+DP           Right:2+   Left:2+
+PT           [**Name (NI) **]:2+   Left:2+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right:none    Left:none
+
+
+Pertinent Results:
+[**3244-9-21**] Intra-op TEE
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is moderately dilated. There is severe
+regional left ventricular systolic dysfunction with focalities
+in inferior, inferoseptal wall and lateral wall.
+Right ventricular chamber size and free wall motion are normal.
+There are simple atheroma in the descending thoracic aorta. The
+aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. An eccentric,
+posteriorly directed jet of Moderate to severe (3+) mitral
+regurgitation is seen. Restricted posterior leafletThere is no
+pericardial effusion.
+Dr. [**Last Name (STitle) **] was notified in person of the results before
+surgical incision. Dr.[**First Name (STitle) 1691**] concurred with the findings.
+Post_Bypass:
+Normal RV systolic function.
+Overall LVEF 35%.
+The mitral prosthesis is intact with no perivalvular leaks. Mean
+gradient across the mitral prosthesis was 5mm of Hg.
+Intact thoracic aorta.
+.
+[**3244-9-27**] WBC-8.7 RBC-3.41* Hgb-10.5* Hct-30.4* RDW-15.3 Plt
+Ct-284
+[**3244-9-26**] WBC-8.1 RBC-3.33* Hgb-10.0* Hct-28.9*  RDW-15.5 Plt
+Ct-211
+[**3244-9-24**] WBC-9.6 RBC-2.88* Hgb-9.2* Hct-25.6* RDW-14.5 Plt
+Ct-113*
+[**3244-9-23**] WBC-16.5* RBC-3.31* Hgb-10.3* Hct-29.4* Plt Ct-149*
+[**3244-9-28**] PT-26.3* INR(PT)-2.5*
+[**3244-9-27**] PT-26.4* PTT-56.0* INR(PT)-2.5*
+[**3244-9-26**] PT-24.8* PTT-44.9* INR(PT)-2.3*
+[**3244-9-26**]  PT-23.6* PTT-49.5* INR(PT)-2.2*
+[**3244-9-26**] PT-23.8* PTT-50.2* INR(PT)-2.2*
+[**3244-9-25**] PT-21.3* PTT-48.2* INR(PT)-2.0*
+[**3244-9-25**] PT-18.9* PTT-30.3 INR(PT)-1.7*
+[**3244-9-23**] PT-14.9* PTT-30.1 INR(PT)-1.3*
+[**3244-9-28**] Glucose-70 UreaN-14 Creat-0.7 Na-135 K-3.6 Cl-96
+HCO3-29
+[**3244-9-27**] Glucose-197* UreaN-16 Creat-0.7 Na-136 K-4.6 Cl-94*
+HCO3-34*
+[**3244-9-26**] Glucose-52* UreaN-17 Creat-0.6 Na-139 K-3.4 Cl-100
+HCO3-32
+[**3244-9-25**] Glucose-111* UreaN-19 Creat-0.6 Na-138 K-4.2 Cl-99
+HCO3-30
+[**3244-9-24**] Glucose-65* UreaN-23* Creat-0.6 Na-130* K-4.2 Cl-97
+HCO3-27
+[**3244-9-23**] Glucose-83 UreaN-15 Creat-0.6 Na-136 K-4.4 Cl-103
+HCO3-27 AnGap-10
+[**3244-9-28**] 06:05AM BLOOD Mg-2.1
+.
+[**3244-9-27**] Chest x-ray:
+As compared to the previous radiograph, the right venous
+introduction sheath has been removed. The lung volumes have
+increased, likely to reflect improved ventilation. However,
+bilateral pleural effusions are still present, but are slightly
+less extensive than on the previous image. No evidence of
+pulmonary edema. No pneumonia. Minimal atelectasis at the lung
+bases. Normal alignment of the sternal wires.
+.
+
+
+Brief Hospital Course:
+The patient was brought to the Operating Room on [**3244-9-21**] where
+the patient underwent CABG x 2 (LIMA-LAD, SVG-OM), Mitral Valve
+Relacement with On-X mechanical valve and Left Atrial Appendage
+ligation.   Overall the patient tolerated the procedure well and
+post-operatively was transferred to the CVICU in critical but
+stable condition for recovery and invasive monitoring.  She left
+the OR on vasopressin, epiinephrine and levophed.
+POD 1 found the patient extubated, alert and oriented and
+breathing comfortably.  The patient was neurologically intact
+and hemodynamics improved. She was extubated on POD 1 and was
+weaned from inotropic and vasopressor support by POD 2.  Beta
+blocker was initiated and the patient was gently diuresed toward
+the preoperative weight.  Coumadin was started on POD 2 for the
+mechanical valve, she was bridged with Heparin.  The patient was
+transferred to the telemetry floor for further recovery on POD
+5.  Chest tubes and pacing wires were discontinued without
+complication.  [**Last Name (un) 93**] was consulted for assistance with blood
+glucose management.  Insulin was adjusted accordingly.  The
+patient was evaluated by the physical therapy service for
+assistance with strength and mobility.  By the time of discharge
+on POD 7 the patient was ambulating freely, the [**Last Name (un) 5327**] was
+healing and pain was controlled with oral analgesics.  The
+patient was discharged home in good condition with appropriate
+follow up instructions.  She developed a phlebitis on her right
+hand and was started on Keflex.
+
+Medications on Admission:
+INSULIN LISPRO [HUMALOG] - 100 unit/mL Solution - sliding scale
+with meals - checks BS QID - current algorithm:  [**1-10**] units
+Humalog with 24 units NPH in AM, 2-3 units Humalog before supper
+and 14-16 units NPH at bedtime
+NPH 24 units in the am, 16 units at hs
+LISINOPRIL 5 mg Tablet daily
+
+Medications OTC
+ASPIRIN 325 mg Tablet daily
+CALCIUM CARBONATE-VITAMIN D3 [CALCIUM 600 + D(3)] 600 mg
+calcium-200 unit Capsule twice a day
+CYANOCOBALAMIN Dosage uncertain
+FERROUS SULFATE Dosage uncertain
+MAGNESIUM Dosage uncertain
+MULTIVITAMIN NPH INSULIN HUMAN RECOMB [HUMULIN N] -  (Prescribed
+by Other
+OMEGA-3 FATTY ACIDS-VITAMIN E [FISH OIL] Dosage uncertain
+VITAMIN B COMPLEX - Dosage uncertain
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 248**]
+
+Discharge Diagnosis:
+Mitral Regurgitation
+Coronary Artery Disease
+Type I diabetes x 21 years ago: NO insulin pump
+Hypertension
+Vitamin B12 deficiency
+Postop Arm Phlebitis
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+.
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+.
+Labs: PT/INR and chem 7(while on diuretics)
+Coumadin for mechanical Mitral Valve
+Goal INR 3.0 - 3.5
+First draw day after discharge
+Then please do INR and chem 7 checks Monday, Wednesday, and
+Friday for 2 weeks then decrease as directed by Dr. [**First Name (STitle) 618**]
+Results to phone - [**Telephone/Fax (1) 16147**] (arranged with [**Doctor Last Name 2403**])
+
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] CARE NURSE Phone:[**Telephone/Fax (1) 294**] Date/Time:[**3244-10-6**]
+10:30
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 294**]
+Date/Time:[**3244-10-25**] 2:00
+Cardiology: Dr [**Last Name (STitle) 13768**] (in same office, Dr [**Last Name (STitle) 9672**] is going on
+maternity leave) on [**3244-10-14**] at 2:30pm
+
+Please call to schedule the following:
+Primary Care Dr. [**First Name (STitle) **],KATHLYNE [**Telephone/Fax (1) 16148**] in [**4-12**] weeks
+
+Labs: PT/INR and Chem 7(while on diuretics)
+Coumadin for mechanical Mitral Valve
+Goal INR 3.0 - 3.5
+First draw day after discharge
+Then please do INR and chem 7 checks Monday, Wednesday, and
+Friday for 2 weeks then decrease as directed by Dr. [**First Name (STitle) 618**]
+Results to phone - [**Telephone/Fax (1) 16147**] (arranged with [**Doctor Last Name 2403**])
+
+
+Completed by:[**3244-9-28**]
+
+DOC CLASS

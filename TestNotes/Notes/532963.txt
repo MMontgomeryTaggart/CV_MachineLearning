@@ -1,0 +1,208 @@
+24 Hour Events:
+   Steroids were increased to 1g daily
+   Patient continued to desaturate to low 80s with movement - prophylactic
+   nebs and increase in FiO2 failed to prevent these desats
+   Patient given 0.5-1mg ativan for sleep in context for SBP to 140s,
+   tachycardia (fluid helped), and history of etoh
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**3445-10-17**] 10:00 AM
+   Cefipime - [**3445-10-17**] 08:49 PM
+   Vancomycin - [**3445-10-17**] 09:29 PM
+   Bactrim (SMX/TMP) - [**3445-10-18**] 02:00 AM
+   Infusions:
+   Other ICU medications:
+   Insulin - Humalog - [**3445-10-17**] 10:14 AM
+   Pantoprazole (Protonix) - [**3445-10-17**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3445-10-18**] 06:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 94 (91 - 111) bpm
+   BP: 120/58(73) {102/53(65) - 151/70(86)} mmHg
+   RR: 16 (16 - 30) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,352 mL
+                                                                    793 mL
+   PO:
+                                                                    370 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                  1,982 mL
+                                                                    733 mL
+   Blood products:
+   Total out:
+                                                                  2,470 mL
+                                                                    490 mL
+   Urine:
+                                                                  2,470 mL
+                                                                    490 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -118 mL
+                                                                    303 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 96%
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: No(t) Cyanosis, No(t) Clubbing
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to):
+   person, place and time, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   184 K/uL
+   9.4 g/dL
+   159 mg/dL
+   1.9 mg/dL
+   23 mEq/L
+   5.3 mEq/L
+   40 mg/dL
+   101 mEq/L
+   132 mEq/L
+   28.3 %
+   11.9 K/uL
+        [image002.jpg] K increased from 4.6
+                             [**3445-10-15**]  05:27 PM
+                             [**3445-10-15**]  09:22 PM
+                             [**3445-10-16**]  04:09 AM
+                             [**3445-10-17**]  02:07 AM
+                             [**3445-10-18**]  03:49 AM
+   WBC
+   5.7
+   8.4
+   13.0
+   11.9
+   Hct
+   30.8
+   28.8
+   31.4
+   28.3
+   Plt
+   148
+   155
+   161
+   184
+   Cr
+   1.7
+   1.8
+   1.8
+   1.9
+   TCO2
+   24
+   Glucose
+   140
+   224
+   138
+   159
+   Differential-Neuts:83.3 %, Lymph:15.3 %, Mono:1.4 %, Eos:0.0 %
+   Ca++:8.9 mg/dL, Mg++:2.2 mg/dL, PO4:4.3 mg/dL
+   BAL: neg fro virus, PCP, [**Name10 (NameIs) 669**] fast bact, legionella.  + GPC in pairs
+   Urine cx: neg
+   Blood cx: pending
+   Maybe some improvement on left in CXR from today ([**10-18**])
+   CXR: [**10-17**]
+   In comparison with study of [**10-16**], there is little change. Diffuse
+   interstitial changes are again seen with a more coalescent region in
+   the
+   lateral aspect of the right base. The wedge-shaped opacity could
+   represent
+   aspiration, infection, or even possibly an area of pulmonary infarct.
+   Assessment and Plan
+   77 y/o man with known COPD, interstitial lung disease, asbestos
+   exposure, and prior NSCLC s/p radiation therapy admitted with
+   respiratory distress and hypoxia.
+   # Respiratory distress: The patient has underlying interstitial lung
+   disease with baseline oxygen requirement and is s/p NSCLC though
+   clearly he is much worse than baseline.  With the BAL gram stain that
+   is positive for gram+ cocci in pairs, this could be infection with S.
+   pneumonia, superimposed on chronic lung disease.  The CT scan is more
+   consistent with alveolar hemorrhage, casting some doubt on the
+   diagnosis of S. pneumonia, although we might expect this patient to
+   have a somewhat atypical presentation given the severity of his
+   underlying lung disease.  Differential diagnosis includes (1) other
+   infections: bacterial, Pneumocystis (although DFI negative), viral,
+   fungal, and Mycobacteria (unlikely, but will consider in Ddx until
+   results of [**Date Range 669**] fast smear are available), (2) vasculitis (no RBC casts
+   on U/A, C3 and C4 levels normal, other studies pending), (3)
+   hypersensitivity pneumonitis, (4) neoplasm (cytology pending), and (5)
+   worsening of patient
+s underlying lung disease.  Eosinophilic pneumonia
+   excluded by lack of eosinophils on BAL differential.  Cardiac etiology
+   unlikely given non-postural nature of patient
+s symptoms, lack of
+   significant JVD, and unchanged EKG. [**Doctor First Name **] and ANCA are -.
+   - BAL- only positive on gram stain for GPC in pairs, neg for virus,
+   PCP, [**Name10 (NameIs) 669**] fast bact, legionella
+   - f/u anti-GBM
+   - f/u beta glucan, galactomannan
+   - cover HCAP with vancomycin, cefepime, and levofloxacin given recent
+   exposure to [**Hospital 601**] clinic, hospital stay several months ago.  This
+   should provide good coverage for S. pneumonia if that turns out to be
+   the diagnosis.
+   - continue empiric treatment for Pneumocystis with treatment dose
+   Bactrim and IV steroids for DAH coverage (1 g solumedrol per day).
+   - supplemental oxygen as necessary to achieve saturation > 90%
+   - atrovent nebs scheduled and prn
+   # Urinary retention: On arrival to the MICU, the patient had distended
+   bladder evident on examination. Voided ~ 800 cc with > 500 cc postvoid
+   residual.  Foley catheter placed with residual 100 cc.
+   - would like to d/c foley although patient has requested it stay in for
+   another day so he doesn
+t have to exert as much considering a high
+   urine output
+   - avoid anticholinergics
+   # Chronic renal insufficiency: Continue to monitor creatinine closely.
+   Appears at recent baseline.  No evidence of glomerulonephritis on U/A.
+   - renally dose medications as appropriate
+   - monitor lytes
+   # Alcohol use: patient drinks 4-5 beers daily. Monitor on CIWA scale
+   with valium prn (to be written by HO if necessary, no standing order).
+   Thiamine, folate, MVI daily.
+   - Received Ativan overnight for htn and tachy
+   - Also treated tachycardia with fluids
+   # Hypertension: Hold HCTZ for now and monitor BPs.
+   # Ppx: Pneumoboots, IV PPI, bowel meds prn, fingersticks 4X per day and
+   SSI while on steroids
+   # CODE: FULL, confirmed with patient and wife. Wife is HCP.
+   ICU [**Name2 (NI) 146**]
+   Nutrition:  ensure
+   Glycemic Control: SSI
+   Lines:
+   18 Gauge - [**3445-10-15**] 03:31 PM
+   Prophylaxis:
+   DVT:  pneumoboots
+   Stress ulcer:   IV PPI
+   VAP:
+   Comments:
+   Communication: wife and patient
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

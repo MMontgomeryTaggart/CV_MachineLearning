@@ -1,0 +1,221 @@
+Chief Complaint:
+   24 Hour Events:
+   - stopped lasix gtt as UOP not significantly affected
+   - pt did not tolerate his RSBI
+   Allergies:
+   Benadryl (Injection) (Diphenhydramine Hcl)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3118-6-18**] 04:00 AM
+   Infusions:
+   Fentanyl (Concentrate) - 50 mcg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Norepinephrine - 0.1 mcg/Kg/min
+   Dobutamine - 5 mcg/Kg/min
+   Other ICU medications:
+   Midazolam (Versed) - [**3118-6-17**] 03:30 PM
+   Fentanyl - [**3118-6-17**] 03:30 PM
+   Pantoprazole (Protonix) - [**3118-6-18**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3118-6-18**] 05:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 35.8
+C (96.5
+   HR: 72 (69 - 83) bpm
+   BP: 102/45(62) {96/45(62) - 126/65(85)} mmHg
+   RR: 18 (8 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 71 Inch
+             Total In:
+                                                                  2,473 mL
+                                                                    376 mL
+   PO:
+             TF:
+                                                                    274 mL
+   IVF:
+                                                                  1,598 mL
+                                                                    376 mL
+   Blood products:
+                                                                    556 mL
+   Total out:
+                                                                    390 mL
+                                                                    110 mL
+   Urine:
+                                                                    390 mL
+                                                                    110 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,083 mL
+                                                                    266 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 876 (664 - 876) mL
+   PS : 8 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 30%
+   RSBI Deferred: No Spon Resp
+   PIP: 30 cmH2O
+   Plateau: 26 cmH2O
+   SpO2: 100%
+   ABG: 7.41/41/90.[**Numeric Identifier 120**]/24/0
+   Ve: 8 L/min
+   PaO2 / FiO2: 300
+   Physical Examination
+   General
+ Sedated, Intubated, Opens eyes slightly to verbal stimuli
+   CV
+ RRR; No murmurs, rubs, or gallops
+   Resp
+ clear to auscultation; decreased breath sounds in the right
+   lower lung
+   Abdomen
+ somewhat tense still; no guarding; bowel sounds present
+   Extremities
+ significant edema in the arms and legs
+   Labs / Radiology
+   100 K/uL
+   8.6 g/dL
+   145 mg/dL
+   5.1 mg/dL
+   24 mEq/L
+   4.3 mEq/L
+   88 mg/dL
+   100 mEq/L
+   134 mEq/L
+   25.5 %
+   7.3 K/uL
+        [image002.jpg]
+                             [**3118-6-16**]  02:46 PM
+                             [**3118-6-17**]  03:16 AM
+                             [**3118-6-17**]  09:53 AM
+                             [**3118-6-17**]  11:54 AM
+                             [**3118-6-17**]  02:56 PM
+                             [**3118-6-17**]  03:05 PM
+                             [**3118-6-17**]  07:15 PM
+                             [**3118-6-17**]  10:12 PM
+                             [**3118-6-18**]  03:54 AM
+                             [**3118-6-18**]  04:16 AM
+   WBC
+   8.4
+   7.3
+   Hct
+   22.9
+   27.6
+   25.4
+   25.5
+   Plt
+   116
+   100
+   Cr
+   5.0
+   5.0
+   5.5
+   5.1
+   TCO2
+   24
+   26
+   26
+   24
+   25
+   27
+   Glucose
+   161
+   174
+   171
+   145
+   Other labs: PT / PTT / INR:15.3/37.0/1.3, CK / CKMB /
+   Troponin-T:26//0.11, ALT / AST:[**11-9**], Alk Phos / T Bili:258/1.0, Lactic
+   Acid:1.4 mmol/L, Albumin:3.2 g/dL, LDH:157 IU/L, Ca++:8.4 mg/dL,
+   Mg++:2.6 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   85 yo M with h/o CHF (EF 20%), acute on chronic (stage IV) renal
+   failure, recent GIB (h/o AVMs), in MICU with shock and respiratory
+   failure.
+   # Shock: - cardiogenic vs. combination of septic and cardiogenic.  Pt
+   is back on dobutamine (at 5) for inotropic support and is currently on
+   levophed (at 0.1).
+   - no clear septic etiologies at this point.  Pt is on empiric
+   vanco/zosyn, with vanc being dosed by level.  Pt on day 6 of zosyn.
+   Will continue for one more day and then d/c abx if no infectious
+   etiologies emerge.
+   - urine cx with yeast x3; sputum cx ([**6-12**]) no growth; sputum cx ([**6-14**])
+   contaminated; blood cx PENDING
+   - for CHF, continue to follow pt
+s fluid status and follow CXR
+   - pt not longer on lasix gtt, as it was not having significant effect
+   on his UOP
+   - will wean down dobutamine gtt
+ will obtain mixed venous O2 sat now
+   and then trend this value as the dobutamine is decreased
+   # Respiratory failure
+ intubated, on AC [**7-27**].  Plan was to wean from
+   vent several days ago, but pt with copious white, frothy oral
+   secretions c/w pulm edema, as seen with cxr as well.  So, plan changed
+   to diurese approximately 1 L negative with lasix gtt.  Lasix gtt
+   stopped [**1-21**] low BP
+s but then was restarted yesterday.  Stopped again
+   after it had no real effect on pt
+s UOP.
+   - pt did not tolerate his RSBI
+   - CXR ordered for this morning.  Will f/u to evaluate for changes in
+   pt
+s effusions or pulmonary edema
+   - If pt eventually ex extubated, will need to take care secondary to
+   her transudative pleural effusions and laryngeal edema.  Will need to
+   be careful when extubating.
+   - if fluid overload continues, will address possibility of CVVH
+   # Anemia
+ Hct rose to 27.6 (from 22.9) after 2 units of blood.  Now,
+   Hct holding steady at 25.5.
+   - ordered a Hct for 3pm
+ will f/u
+   - continue to trend pt
+s Hct
+   # Transudative effusions
+ persistent
+   - eventual diuresis versus repeat thoracentesis vs cvvh
+   # Renal failure
+ likely secondary to decreased renal perfusion
+   - BUN steady at 88; Cr down slightly today to 5.1 (from 5.5)
+   - UOP 390 mL total yesterday
+   - renal dosing of meds
+   - dose vanc by level
+   # DM2
+   - continue with insulin sliding scale and accuchecks.
+   # Altered Mental Status
+ difficult to assess [**1-21**] to patient being
+   sedated
+   # FEN: caution with IVF, replete electrolytes prn, on TF
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3118-6-12**] 08:29 PM
+   Multi Lumen - [**3118-6-12**] 08:31 PM
+   Prophylaxis:
+   DVT: boots
+   Stress ulcer: PPI
+   VAP:  HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate); ok to intubate
+   Disposition: ICU
+
+
+DOC CLASS

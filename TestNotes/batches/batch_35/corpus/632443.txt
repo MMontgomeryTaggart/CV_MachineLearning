@@ -1,0 +1,162 @@
+Chief Complaint:
+   24 Hour Events:
+   - Mental status improved from [**2984-8-14**]
+   - Added tylenol for pain given possibility of oxycodone causing mental
+   status changes.
+   - Neosynephrine restarted due to low MAP.
+   - CVVH running -100 cc/hr
+   - Down 4.9L total for length of stay
+   Allergies:
+   Penicillins
+   Unknown;
+   Heparin Agents
+   positive [**Last Name (un) 3979**]
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Calcium Gluconate (CRRT) - 1.6 grams/hour
+   KCl (CRRT) - 2 mEq./hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2984-8-15**] 08:25 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2984-8-16**] 07:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 36
+C (96.8
+   HR: 70 (70 - 71) bpm
+   BP: 101/68(74) {85/48(32) - 116/93(94)} mmHg
+   RR: 16 (13 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: AV Paced
+   Wgt (current): 119.5 kg (admission): 121 kg
+   Height: 70 Inch
+             Total In:
+                                                                  6,589 mL
+                                                                  2,445 mL
+   PO:
+                                                                    270 mL
+             TF:
+   IVF:
+                                                                  6,319 mL
+                                                                  2,445 mL
+   Blood products:
+   Total out:
+                                                                  8,922 mL
+                                                                  2,533 mL
+   Urine:
+                                                                    221 mL
+                                                                    135 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,333 mL
+                                                                    -88 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///23/
+   Physical Examination
+   GENERAL: Resting comfortably. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL left pupil slighty larger than
+   right, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral
+   mucosa. No xanthalesma.
+   NECK: Supple, no LAD, +JVD below the angle of the mandible sitting at
+   45 degrees.
+   CARDIAC: RRR, distal heart sounds, [**1-30**] holosystolic murmur most notable
+   in the sternal borders. No thrills, lifts.
+   LUNGS: well healed midline sternal scar. Resp were unlabored, no
+   accessory muscle use. Distant breath sounds, crackles at lung bases, no
+   wheezes.
+   ABDOMEN: Obese, distended, nontender, No HSM. Normoactive bowel
+   sounds.
+   EXTREMITIES: venous stasis dermatitis bilaterally; cool, dusky
+   extremities which are no different than his baseline.
+   Labs / Radiology
+   97 K/uL
+   13.0 g/dL
+   105 mg/dL
+   1.7 mg/dL
+   23 mEq/L
+   4.0 mEq/L
+   21 mg/dL
+   102 mEq/L
+   137 mEq/L
+   41.8 %
+   12.4 K/uL
+        [image002.jpg]
+                             [**2984-8-14**]  09:02 AM
+                             [**2984-8-14**]  07:45 PM
+                             [**2984-8-15**]  02:02 AM
+                             [**2984-8-15**]  07:34 AM
+                             [**2984-8-15**]  01:31 PM
+                             [**2984-8-15**]  03:14 PM
+                             [**2984-8-15**]  07:22 PM
+                             [**2984-8-15**]  07:37 PM
+                             [**2984-8-16**]  02:29 AM
+                             [**2984-8-16**]  05:19 AM
+   WBC
+   12.5
+   11.8
+   12.4
+   Hct
+   41.4
+   42.8
+   41.8
+   Plt
+   65
+   108
+   97
+   Cr
+   2.4
+   2.1
+   1.9
+   1.8
+   1.7
+   2.0
+   1.7
+   Glucose
+   135
+   124
+   118
+   117
+   134
+   141
+   156
+   124
+   105
+   Other labs: PT / PTT / INR:14.2/31.0/1.2, ALT / AST:96/99, Alk Phos / T
+   Bili:117/0.8, Lactic Acid:1.1 mmol/L, Albumin:4.2 g/dL, LDH:332 IU/L,
+   Ca++:10.0 mg/dL, Mg++:2.3 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ DIABETES MELLITUS (DM), TYPE I
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE ON CHRONIC
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2984-8-12**] 01:00 AM
+   Dialysis Catheter - [**2984-8-12**] 05:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

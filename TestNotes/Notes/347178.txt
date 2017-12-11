@@ -1,0 +1,216 @@
+TITLE:
+   Chief Complaint: Altered mental status
+   24 Hour Events:
+   - CT head negative
+   - CT torso - atelectasis, stranding around pancreas
+   - Laboratories improved
+   - Obtained medication list from the VA
+   Allergies:
+   Atenolol
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin - [**3421-12-13**] 06:00 AM
+   Infusions:
+   Insulin - Regular - 3 units/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3421-12-13**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3421-12-13**] 10:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.6
+C (101.4
+   Tcurrent: 38.6
+C (101.4
+   HR: 120 (102 - 120) bpm
+   BP: 155/88(106) {155/84(105) - 181/109(121)} mmHg
+   RR: 20 (15 - 24) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  1,510 mL
+                                                                  2,091 mL
+   PO:
+             TF:
+   IVF:
+                                                                    510 mL
+                                                                  2,091 mL
+   Blood products:
+   Total out:
+                                                                    640 mL
+                                                                    885 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    870 mL
+                                                                  1,206 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///19/
+   Physical Examination
+   Labs / Radiology
+   463 K/uL
+   12.4 g/dL
+   103 mg/dL
+   2.9 mg/dL
+   19 mEq/L
+   4.0 mEq/L
+   63 mg/dL
+   112 mEq/L
+   141 mEq/L
+   35.0 %
+   14.7 K/uL
+        [image002.jpg]
+                             [**3421-12-12**]  09:06 PM
+                             [**3421-12-13**]  05:16 AM
+   WBC
+   16.8
+   14.7
+   Hct
+   34.2
+   35.0
+   Plt
+   422
+   463
+   Cr
+   3.3
+   2.9
+   Glucose
+   283
+   103
+   Other labs: PT / PTT / INR:15.7/33.0/1.4, ALT / AST:15/18, Alk Phos / T
+   Bili:111/0.2, Amylase / Lipase:137/251, Albumin:2.3 g/dL, Ca++:8.1
+   mg/dL, Mg++:2.1 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   62M PMH CAD s/p CABG, DM2, HTN, CRF (baseline Cr 2.0), depression with
+   past suicide attempt presenting with altered mental status.
+   # Altered Mental Status: Unclear etiology and broad differential.
+   Neurologic exam is nonfocal with somewhat improved mental status from
+   presentation, now answering simple questions.  Low-grade temperature
+   and leukocytosis suggest infection, although stress response is also
+   possible.  Most likely etiology of infection would be intra-abdominal
+   process versus cellulitis
+ chest x-ray, urinalysis negative.  Unlikely
+   to be meningitis.  Medication overdose also likely, intentional or
+   unintentional
+ tox screens positive for tricyclics, otherwise
+   unrevealing.  Uremia and metabolic derangements contributing.  Patient
+   is hyperglycemic but there is no indication of ketoacidosis or HONK.
+   Calcium, liver function tests normal.
+   - Continue vancomycin and start zosyn for now for empiric coverage of
+   skin and abdominal pathogens
+   - CT head and torso without contrast
+   - Toxicology curbside
+ monitor EKG for QRS widening which would
+   suggest tricyclic overdose
+   - Supportive care for metabolic derangements
+   - Hold all sedating medications
+   - NPO for now
+   - Unclear medication regimen; will clarify regimen with home pharmacy
+   in the morning
+   - Continue to monitor
+   - Consider HIV test when patient able to consent
+   # Acute on chronic renal failure: Baseline creatinine is 2.0 and was
+   4.0 on admission.  A Foley was placed and patient drained 1.7L.  Could
+   represent post-obstructive physiology given history of BPH.  Urine
+   electrolytes not indicative of a prerenal etiology.  Hyperkalemic on
+   presentation but not hyperphosphatemic.
+   - CT abdomen/pelvis
+   - Urine eosinophils pending
+   - Renally dose medications and avoid nephrotoxins
+   - Treatment for hyperkalemia as needed
+   - Continue to trend
+   - Consider renal consult in the morning if no improvement
+   # Acid base status: Patient has primary respiratory alkalosis with
+   non-gap metabolic acidosis of unclear etiology.  Consider CNS lesion or
+   medications for respiratory alkalosis
+ unlikely hepatic failure or
+   sepsis.  Most likely etiology of metabolic acidosis is early renal
+   disease versus ingestion versus intra-abdominal process; no history of
+   diarrhea.
+   - D5 with 3 amps bicarbonate x 1 L
+   - CT head and torso without contrast
+   - Monitor closely
+   # Left shoulder lesion:  Unclear etiology
+ per patient
+s partner,
+   there is no history of trauma and the lesion has been progressively
+   worsening over weeks.  He also has a number of smaller crusted popular
+   lesions on his left arm.
+   - Consider dermatology consult for further evaluation
+   - Wound care
+   # Elevated lipase: Normal amylase.  [**Month (only) 56**] be elevated in the setting of
+   acute renal failure.  The patient does not clinically have
+   pancreatitis.
+   - Continue to monitor
+   # Tachycardia: Mild, sinus.  Unclear etiology
+ likely due to agitation
+   versus volume depletion.  Afebrile, not in pain.  Hematocrit stable.
+   - Fluids as above
+   - Monitor
+   # Type 2 diabetes: Currently not controlled.
+   - Insulin gtt overnight
+   #Hyperkalemia: In the setting of ARF.  No EKG changes.
+   - Patient received kayexalate in the ED
+   - Monitor
+   # Coagulopathy: Unclear etiology
+ likely due to nutritional deficiency
+   since low albumin as well.  No signs or symptoms of active bleeding.
+   - Consider vitamin K PO if mental status improves
+   # Anemia: Microcytic, improved from previous baseline in our system
+   after CABG.  No signs or symptoms of active bleeding.
+   - Iron studies
+   - Guaiac all stools
+   - Monitor
+   # Coronary artery disease: Status post CABG in [**3420**].  No ischemic
+   changes on EKG.
+   - Will give metoprolol IV overnight
+   - Consider rectal aspirin in the morning if mental status not improved
+   - Unclear regimen; will clarify regimen with home pharmacy in the
+   morning
+   # Hypertension: Currently hypertensive.  Unclear home regimen.
+   - Metoprolol 10 mg IV Q6H
+   - Will clarify regimen with home pharmacy in the morning
+   # Depression: Unclear home regimen.
+   - Would hold all medications in the setting of altered mental status,
+   but will clarify regimen with home pharmacy in the morning
+   ICU Care
+   Nutrition: NPO; consider NG tube if mental status continues altered
+   Glycemic Control: Insulin gtt
+   Lines:
+   18 Gauge - [**3421-12-12**] 09:01 PM
+   20 Gauge - [**3421-12-12**] 09:30 PM
+   Prophylaxis:
+   DVT: Heparin SC
+   Stress ulcer: Protonix IV
+   VAP: N/A
+   Comments:
+   Communication:  Comments:
+   Code status: Full
+   Disposition: ICU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3421-12-12**] 09:01 PM
+   20 Gauge - [**3421-12-12**] 09:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

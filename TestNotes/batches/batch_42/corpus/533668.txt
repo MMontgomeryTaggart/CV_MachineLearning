@@ -1,0 +1,170 @@
+Chief Complaint: Gi bleed
+   HPI:
+   24 Hour Events:
+ TRANSTHORACIC ECHO - At [**2968-9-28**] 10:09 AM
+   No events overnight
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2968-9-28**] 03:51 PM
+   Metronidazole - [**2968-9-28**] 08:29 PM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2968-9-28**] 06:51 PM
+   Pantoprazole (Protonix) - [**2968-9-29**] 08:00 AM
+   Other medications:
+   Synthroid
+   Mexilitine
+   Seroquel
+   Fluticasone INH
+   Celexa
+   Digoxin
+   ASA
+   Sotalol
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Cardiovascular: Chest pain
+   Respiratory: No(t) Cough, No(t) Wheeze
+   Gastrointestinal: Abdominal pain, Nausea
+   Endocrine: History of thyroid disease
+   Flowsheet Data as of  [**2968-9-29**] 10:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.4
+   Tcurrent: 36.3
+C (97.4
+   HR: 75 (75 - 79) bpm
+   BP: 92/54(64) {92/28(46) - 114/78(80)} mmHg
+   RR: 13 (10 - 26) insp/min
+   SpO2: 94%
+   Heart rhythm: AV Paced
+             Total In:
+                                                                    360 mL
+                                                                    610 mL
+   PO:
+                                                                    300 mL
+                                                                    600 mL
+   TF:
+   IVF:
+                                                                     60 mL
+                                                                     10 mL
+   Blood products:
+   Total out:
+                                                                  1,550 mL
+                                                                    400 mL
+   Urine:
+                                                                  1,550 mL
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,190 mL
+                                                                    210 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 94%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender
+   Extremities: Right: Absent, Left: Absent, No(t) Cyanosis
+   Skin:  Not assessed, No(t) Rash:
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   11.7 g/dL
+   121 K/uL
+   68 mg/dL
+   1.5 mg/dL
+   27 mEq/L
+   4.1 mEq/L
+   26 mg/dL
+   103 mEq/L
+   142 mEq/L
+   34.7 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**2968-9-27**]  07:15 PM
+                             [**2968-9-27**]  10:50 PM
+                             [**2968-9-28**]  03:22 AM
+                             [**2968-9-28**]  10:54 AM
+                             [**2968-9-28**]  06:47 PM
+                             [**2968-9-28**]  10:26 PM
+                             [**2968-9-29**]  06:38 AM
+   WBC
+   7.0
+   7.4
+   7.8
+   Hct
+   32.8
+   32.5
+   34.5
+   34.5
+   35.4
+   34.7
+   Plt
+   134
+   120
+   121
+   Cr
+   2.0
+   1.9
+   1.5
+   TropT
+   0.01
+   0.02
+   0.01
+   Glucose
+   92
+   79
+   68
+   Other labs: PT / PTT / INR:19.0/30.3/1.8, CK / CKMB /
+   Troponin-T:102/4/0.01, ALT / AST:24/38, Alk Phos / T Bili:86/0.3,
+   Amylase / Lipase:72/35, Differential-Neuts:70.3 %, Lymph:17.5 %,
+   Mono:7.3 %, Eos:4.8 %, Lactic Acid:0.7 mmol/L, Ca++:8.7 mg/dL, Mg++:2.2
+   mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   72 y.o. man with GI bleed and lower abdominal pain, concern for
+   possible ischemic colitis.
+   1) Colitis:  Continued abdominal pain with perhaps some subjective
+   improvement.  Consistent with ischemic colitis.  Plan to hold diuretics
+   to avoid hypoperfusion of bowels.  Continue empiric antibiotics for
+   gram negative coverage.
+   Antiemetics.  Advance diet slowly.
+   2) Afib:  Holding coumadin per cardiology.
+   3) CAD:  Continue current regimen.
+   4) CKD:  Cr is stable
+   5) Asthma:  Restart home Advair.
+   ICU Care
+   Nutrition:
+   Comments: Advance diet as tolerated.
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2968-9-27**] 06:08 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent:
+
+
+DOC CLASS

@@ -1,0 +1,510 @@
+Admission Date:  [**2599-1-18**]              Discharge Date:   [**2599-1-24**]
+
+
+Service: MEDICINE
+
+Allergies:
+Iodine / Fosamax / Gadolinium-Containing Agents /
+Hydrochlorothiazide / Vasotec / Etodolac
+
+Attending:[**First Name3 (LF) 69**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+[**Age over 90 **] yo woman with h/o CAD, CHF (baseline EF 45%), breast CA, DVT,
+AFib on Coumadin, who presents with hypotension.  She has a home
+health aide who lives with her 24/7 and thought that the patient
+seemed altered this morning.  Her speech was slurred and her BP
+was in the 70s.  She also has a lot of bruising on her arms and
+face, so there's a concern for elder abuse (from PCP).
+.
+In the ED, her initial vs were: T 97.3, P 85, BP 80/46, R 16, O2
+95% on RA. She triggered for hypotension and was given 1L of
+IVF, to which her BP increased to 88/46.  Per review of OMR, her
+BP typically ranges from 80-90.  She had a CXR, which
+demonstrated a ? right-sided PNA.  She was given Ceftriaxone,
+Levaquin, and Vanc.  The resident in the ED spoke with both of
+her daughters about her code status, and she is DNR/DNI with
+non-invasive measures only (no central line).  She was ordered
+for a CT-neck, abdomen, pelvis, given the concern for elder
+abuse, but she had not yet received them in the ED.  Trop 0.37,
+EKG showed AFib with RBBB, ST depressions in V2 and V3 that are
+new and no ST elevations.  She got an ASA in the ED.  Her VS at
+the time of transfer were T 97.2, 88/46, 80, 14, 98% on 2L.
+.
+On the floor, pt is drowsy but arousable.  Denies CP, SOB, abd
+pain, recent fevers/chills.
+.
+Review of systems:  unable to obtain due to pt mental status
+
+Past Medical History:
+Breast cancer s/p bilateral mastectomy, XRT [**2557**]
+Skin cancer
+Squamous cell cancer of the left ear canal - followed by Dr.
+[**First Name (STitle) **] of ENT
+Anemia
+CAD s/p MI, c/b re-stenosis of bare metal stents; last cath [**5-26**]
+with 3VD, moderated diastolic ventricular dysfunction, s/p PCI
+of the LMCA/LAD/LCX with kissing drug-eluting stents.
+Congestive heart failure (EF 40-45%)
+Aortic stenosis (4 m/s peak; moderate to severe [**6-28**] echo)
+Aortic regurgitation (mild-moderate [**6-28**] echo)
+Mitral regurgitation (mild-moderate [**6-28**] echo)
+Paroxysmal atrial fibrillation
+SVT [**2-21**]
+Carotid stenoses - 40% bilateral ([**12-25**])
+Hypertension
+Hypercholesterolemia
+Multiple mechanical falls leading to subarachnoid hemorrhage
+Hysterectomy ([**2550**])
+Colonic polyps (adenoma [**5-27**])
+Chronic sternal infection w/actinomyces - followed by [**Doctor Last Name **] at
+[**Hospital1 57**].
+Hypothyroid
+Depression
+GIB secondary to peptic ulcer/angioectasia ([**4-25**])
+CRI baseline Cr 1.4-1.8
+
+Social History:
+Pt lives alone with a full-time home health aides. She requires
+assistance with dressing, walking (unsteady on a [**Month/Year (2) 4157**]),
+preparing meals.  Able to feed herself.  She previously worked
+in the development office of [**Hospital **] Hospital for 47 years. No
+tobacco or EtOH. NOK: Eldest daughter - [**Name (NI) **] [**Name (NI) **] -
+[**Telephone/Fax (1) 22411**], daughter from [**Location (un) 10104**]  [**Name (NI) 444**] -  [**Telephone/Fax (1) 22412**].
+
+
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Admission exam:
+Vitals: T:97.5 BP:87/47 P:81 R:18 O2:98% on 2L NC
+General: somwhat drowsy but opens eyes to commands, AOx2 ([**Hospital1 **], could not give month/date/year)
+HEENT: Sclera anicteric, mucous membranes very dry. Small bruise
+on left eyelid, pt unable to tell me how she got it, does not
+remember any trauma
+Neck: supple, difficult to evaluate JVP as pt does not cooperate
+w/ exam
+Lungs: poor inspiratory effort
+CV: Regular rate and rhythm, normal S1 + S2, 4/6 systolic murmur
+Chest: open wound on the chest, 4cm long, several cm deep.  No
+evidence of active infection.
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses.  LUE swollen compared to
+right. Some bruising on R arm, +skin tear.
+
+Discharge Exam:
+VS: 96.5 134/62 90 22 95% 3L
+GENERAL: sleeping but arousable, oriented to person and place
+only, NAD
+HEENT: sclera anicteric, slightly dry mucous membranes, neck
+supple
+CHEST: dressing over chest wound intact, dry, intact
+CV: RRR, 3/6 systolic murmur at RUSB radiating to carotids, [**2-24**]
+holosystolic murmur heard at apex radiating to axilla
+RESP: bilateral crackles, R>L
+ABD: soft, non-tender, non-distended
+EXT: warm, well perfused, DPs 2+, LUE swelling unchanged, [**12-23**]+
+pitting edema of feet, right knee mildly tender to palpation but
+without warmth, erythema or edema
+
+Pertinent Results:
+Admission Labs:
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] WBC-25.2*# RBC-3.60* Hgb-8.8* Hct-28.5*
+MCV-79* MCH-24.5* MCHC-31.0 RDW-16.3* Plt Ct-352
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] Neuts-95.5* Lymphs-2.0* Monos-2.2 Eos-0.1
+Baso-0.2
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] PT-37.0* PTT-37.1* INR(PT)-3.8*
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] Glucose-125* UreaN-50* Creat-2.5* Na-140
+K-5.3* Cl-107 HCO3-23 AnGap-15
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] ALT-41* AST-64* AlkPhos-73 TotBili-0.6
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] cTropnT-0.37*
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] Albumin-2.8* Calcium-8.1* Phos-5.4*#
+Mg-2.5
+[**2599-1-18**] 01:20PM [**Month/Day/Year **] Lactate-2.3*
+.
+Other Notable Labs:
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] Lipase-15
+[**2599-1-18**] 01:10PM [**Month/Day/Year **] cTropnT-0.37*
+[**2599-1-18**] 09:40PM [**Month/Day/Year **] CK-MB-12* MB Indx-2.3 cTropnT-0.36*
+[**2599-1-19**] 05:01AM [**Month/Day/Year **] CK-MB-9 cTropnT-0.35*
+[**2599-1-19**] 03:56PM [**Month/Day/Year **] CK-MB-6 cTropnT-0.34*
+[**2599-1-19**] 03:56PM [**Month/Day/Year **] ALT-40 AST-47* LD(LDH)-293* CK(CPK)-233*
+AlkPhos-65 TotBili-0.2
+.
+Discharge Labs:
+[**2599-1-24**] 06:00AM [**Year/Month/Day **] WBC-10.3 RBC-3.17* Hgb-8.0* Hct-25.2*
+MCV-79* MCH-25.3* MCHC-31.8 RDW-17.8* Plt Ct-313
+[**2599-1-24**] 06:00AM [**Year/Month/Day **] PT-26.2* PTT-38.7* INR(PT)-2.5*
+[**2599-1-24**] 06:00AM [**Year/Month/Day **] Glucose-98 UreaN-36* Creat-1.4* Na-144
+K-4.2 Cl-113* HCO3-22 AnGap-13
+.
+Micro:
+[**Year/Month/Day **] cultures [**2599-1-18**] x2: negative
+Urine cultures [**2599-1-18**] x2: negative
+.
+Sternal wound culture [**2599-1-19**]:
+ -Gram stain: 2+ polys, 4+ gram positive rods, 2+ GPCs in pairs
+and clusters, 1+ GNRs
+  -Wound culture:
+      ENTEROCOCCUS SP..    SPARSE GROWTH.
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS).    MODERATE
+GROWTH.
+         OF TWO COLONIAL MORPHOLOGIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+CIPROFLOXACIN---------   =>8 R
+LEVOFLOXACIN----------   =>8 R
+PENICILLIN G----------     2 S
+VANCOMYCIN------------ <=0.5 S
+-Anaerobic culture (prelim): Mixed bacterial flora-culture
+screened for B. fragilis, C.       perfringens, and C. septicum.
+
+.
+Influenza DFA [**2599-1-19**]: negative for influenza A, B
+.
+Imaging:
+CXR [**1-18**]: Increased interstitial markings bilaterally are
+suggestive of interstitial edema. Superimposed infectious
+process cannot be excluded.
+.
+LUE U/S [**1-18**]: No evidence of left upper extremity DVT. Left
+cephalic and basilic veins not visualized.
+.
+CT Head [**2599-1-18**]: No acute intracranial abnormalities.
+
+CT C-spine [**2599-1-18**]: No fracture or change in alignment. If there
+is clinical concern
+for ligamentous or cord injury, MRI is more sensitive for this.
+.
+CT Abd/pelvis [**2599-1-18**]:
+1. No evidence of retroperitoneal hematoma.
+2. Redemonstration of pleural effusions and bibasilar
+atelectasis. inflammatory change on prior study has resolved.
+3. Cholelithiasis, with no evidence of cholecystitis.
+4. Sigmoid diverticula with no evidence of diverticulitis.
+5. Diffuse vascular calcifications.
+6. Diffuse spinal degenerative change.
+ .
+[**2599-1-19**] Echo: The left atrium and right atrium are normal in
+cavity size. Left ventricular wall thicknesses and cavity size
+are normal. There is mild to moderate regional left ventricular
+systolic dysfunction with hypokinesis of the inferior and
+inferolateral walls. The remaining segments contract normally
+(LVEF = 40%). The estimated cardiac index is normal
+(>=2.5L/min/m2). Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets are moderately
+thickened. There is severe aortic valve stenosis (valve area
+0.8cm2). Mild to moderate ([**12-23**]+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Moderate (2+)
+mitral regurgitation is seen. [Due to acoustic shadowing, the
+severity of mitral regurgitation may be significantly
+UNDERestimated.] The tricuspid valve leaflets are mildly
+thickened. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+.
+IMPRESSION: Normal left ventricular cavity size with regional
+systolic dysfunction c/w CAD. Severe aortic valve stenosis.
+Mild-moderate aortic regurgitation. Moderate mitral
+regurgitation. Moderate pulmonary artery systolic hypertension.
+.
+Bilateral Knee X-rays [**2599-1-19**]:
+1. No evidence of acute fracture or dislocation of the left
+knee. Left knee chondrocalcinosis.
+2. Suboptimal evaluation of the right knee as only a lateral
+view was obtained. The patella appears slightly low lying. No
+obvious fracture is seen, although evaluation is suboptimal. If
+clinical concern for right knee fracture persists, suggest
+attempt at repeat imaging or cross-sectional imaging.
+.
+CXR (PA & Lat) [**2599-1-21**]: The most significant abnormality in the
+chest developing over the past three days has been increased in
+moderate right pleural effusion and the development of new
+consolidation in a region of scarring in the right upper lobe.
+The latter could be pneumonia, or alternatively edema developing
+in a region of previous injury by radiation. A region of lesser
+consolidation at the left apex looks more like scarring and
+others at both lung bases are probably
+atelectasis. The slightly smaller left pleural effusion has also
+increased. Severe cardiomegaly is chronic. The extremely dilated
+upper esophagus is responsible for a central lucency in the neck
+and upper mediastinum. The patient has a history of extensive
+bone metastases and destruction of the sternum with soft tissue
+infection that can be evaluated by conventional radiographs.
+Thoracic aorta is heavily calcified, tortuous and unchanged
+recently. No pneumothorax.
+.
+Right Knee X-ray [**2599-1-21**]: There is chondrocalcinosis. There is
+no knee joint effusion.
+There is generalized demineralization which limits evaluation
+for subtle fractures; however no definite fractures are seen. No
+focal lytic or blastic lesions are present. If there is high
+clinical concern for nondisplaced fracture or acute
+intra-articular pathology, MRI could be performed.
+.
+CXR [**2599-1-24**] (prelim read): Worsening of right upper lobe and
+right lower lobe consolidation
+concerning for pneumonia. Stable small right greater than left
+pleural effusions.
+
+Brief Hospital Course:
+[**Age over 90 **] yo woman with h/o CAD, CHF (baseline EF 45%), breast CA, DVT,
+AFib on Coumadin, who presented with hypotension in the setting
+of possible acute on chronic sternal wound
+infection/osteomyelitis and pneumonia.
+.
+ACTIVE ISSUES:
+.
+#. Hypotension: Patient's hypotension was felt to be most likely
+secondary to sepsis, from worsening of sternal wound infection
+vs. pneumonia. Hypotension was also likely related to decreased
+fluid intake at home.  Her BP responded to IVF administration in
+the ED, and she was initially admitted to the ICU for further
+evaluation.  Per patient/family wishes, she did not have a
+central line placed for pressor support, given goals of care and
+wish for non-invasive measures.  She was started on broad
+spectrum antibiotics, with subsequent downward trend in
+leukocytosis.  [**Age over 90 **] cultures were negative.  ID consulted, and
+followed closely (see below).   Her home BP meds were initially
+held, but lasix and spironolactone were restarted prior to
+discharge (see below).  BP stabilized, and SBP remained stable
+generally in the 100s-110s leading up to discharge.
+.
+#. Acute on Chronic Osteomyelitis/sternal wound: Patient was on
+avelox at home for suppressive therapy, and it was felt her
+hypotension and leukocytosis on admission may be secondary to
+acute on chronic osteomyelitis.  Wound swab culture demonstrated
+polymicrobial infection, including enterococcus and
+corynebacterium species.  The patient was followed closely by
+the Infectious Disease team, and continued on vanc/cefepime for
+broad spectrum antibiotic coverage until time of discharge.  She
+was discharged on moxifloxacin 400mg PO daily, given goals of
+care and desire for oral regimen.  Wound care was also consulted
+for recommendations about daily dressing changes. While the
+definitive treatment for this wound is surgical, the patient and
+family have declined surgical repair.
+.
+#. Pneumonia: Patient initially started on broad spectrum
+antibiotics with vanc/ceftriaxone/azithro given concern for PNA
+on presentation.  Her antibiotics were later switched to
+vanc/cefepime as above.  While evidence of pneumonia was not
+clearly demonstrated on initial CXR, subsequent CXR demonstrated
+worsening RUL pneumonia.  The patient had a speech and swallow
+evaluation during this admission, which revealed she is
+intermittently aspirating.  Given increased cough, rales on lung
+exam, and rising leukocytosis at time of worsening radiographic
+evidence of PNA, the patient was also started on flagyl as there
+was concern for aspiration PNA.  The patient and her family are
+aware of the risks of continued aspiration should she continue
+to eat/drink, but they did not want to make her NPO or pursue
+alternate nutrition.  She was discharged home to hospice care
+and will continue to take moxifloxacin as above, but was not
+discharged on any additional antibiotics.  The patient's O2
+requirement ranged from 2-3L NC during this admission, and the
+patient will be set up with home oxygen.  It is also likely that
+worsening pleural effusions  (see below) were contributing to
+oxygen requirement.
+.
+#. CHF: Patient's most recent echo in our system from [**2595**]
+showed EF 40-45%.  Repeat echo this admission showed LVEF of 40%
+and severe aortic stenosis, similar findings compared to TTE in
+[**2595**].  The patient's lasix, spironolactone, carvedilol were
+initially held in setting of hypotension.  Serial CXRs
+demonstrated increasing pleural effusions after diuretics were
+held, and the patient also developed lower extremity edema.
+Given concern that increased fluid was contributing to cough,
+SOB, and hypoxia, the patient was restarted on Lasix  at half
+the home dose, and spironolactone at full dose prior to
+discharge.  She will have home oxygen.
+.
+#. Acute on chronic renal failure: Patient's Cr was elevated
+from baseline of 1.5 to 2.5 on admission, likely secondary to
+pre-renal etiology in the setting of hypotension and
+dehydration.  Her Cr improved throughout her hospital course,
+and was back to baseline at 1.4 on day of discharge.
+.
+#. CAD: The patient has a history of MI, last cath [**5-26**] with
+3VD, s/p PCI of the LMCA/LAD/LCX with DES. Trop elevated to 0.37
+on admission, EKG showed new ST depressions in V2 and V3;
+concerning for NSTEMI vs demand ischemia in the setting of
+hypotension.  Cards consulted, repeat EKG improved, likely lead
+placement on the first EKG.  Repeat trop stable.  She was given
+aspirin and continued on a statin.  Echo showed LVEF of 40% and
+severe aortic stenosis which is similar findings compared to TTE
+in [**2595**].  Of note, aspirin and statin stopped on discharge,
+given goals of care.
+.
+#. ? Elder abuse: PCP had concern about abuse due to bruises on
+face/arms, possibly from home care nurse.  The patient had a CT
+head, c-spine, and abd/pelvis, which were all negative for any
+acute process.  To be safe, the family will have a new home care
+provider.  [**Name10 (NameIs) 22433**] work followed along closely.  Of note, it is
+also possible that increased bruising was secondary to warfarin
+use, and INR was supratherapeutic at time of admission.
+.
+#. AFib and h/o DVT: Patient's INR was supratherapeutic on
+admission, and warfarin was initially held.  She did receive
+several doses of warfarin during this admission, but warfarin
+will not be continued on discharge given goals of care.  PCP
+aware of this decision, and in agreement.
+.
+#. Knee Pain: Patient complained of intermittent knee pain
+during the admission, likely secondary to arthritis.  X-rays did
+not show evidence of acute fracture.  The patient was started on
+standing tylenol for pain relief.
+.
+#. LFT elevation: ALT has been elevated in the past, AST
+slightly more elevated.  The patient did not complain of
+abdominal pain or tenderness, and CT abdomen showed gallstones
+but no acute process.
+.
+#. HTN: Patient's carvedilol, lasix, and spironolactone were
+initially held in the setting of hypotension.  Lasix and
+spironolactone were restarted prior to discharge as above, but
+carvedilol was not restarted.
+.
+INACTIVE ISSUES:
+.
+#. Hypercholesterolemia: Continued home simvastatin, but this
+was stopped at time of discharge given goals of care.
+.
+#. Hypothyroidism: Continued home levothyroxine.
+.
+#. Depression: Continued home citalopram, ropinirole.
+
+PENDING AT TIME OF DISCHARGE: Official read of [**2599-1-24**] portable
+CXR
+.
+TRANSITIONAL ISSUES:
+-She should continue to have daily dressing changes for her
+sternal wound.
+-She is at risk for aspiration, and should be monitored closely
+with all meals.  To reduce the risk of aspiration, a diet of
+soft pureed foods and nectar pre-thickened liquids is best.  The
+patient and her family are aware of the risks of aspiration,
+should she continue to eat/drink.
+-Patient's code status was DNR/DNI during this admission, and
+patient/family do not wish for aggressive measures.
+-Patient discharged home with hospice care.
+
+Medications on Admission:
+Coumadin 2 mg PO daily (MTWThF)
+Lorazepam 0.5mg PO daily
+Lasix 40 mg [**Hospital1 **]
+Folic Acid 1 mg daily
+spironolactone 25mg PO daily
+Citalopram 60 mg daily
+avelox ABC Pack 400mg tab PO
+carvedilol 3.125 mg daily
+Vitamin D 1,000 U PO daily
+Ferrous Sulfate 300 mg daily
+Levothyroxine 100 mcg daily
+omeprazole 40mg delayed release daily
+ropinirole 0.25mg QHS
+simvastatin 80mg QHS
+lactobacillus daily
+
+Discharge Medications:
+1. Oxyfast  [**Hospital1 718**]: 1-20 mg  Q1H as needed for difficulty breathing
+or pain: 20 mg/mL solution.
+Disp:*30 mL* Refills:*2*
+2. Home Oxygen
+continuous oxygen via nasal canula at 2-4 lpm
+3. lorazepam 0.5 mg Tablet [**Hospital1 718**]: One (1) Tablet PO once a day.
+4. furosemide 40 mg Tablet [**Hospital1 718**]: One (1) Tablet PO DAILY (Daily).
+
+5. folic acid 1 mg Tablet [**Hospital1 718**]: One (1) Tablet PO DAILY (Daily).
+
+6. spironolactone 25 mg Tablet [**Hospital1 718**]: One (1) Tablet PO DAILY
+(Daily).
+7. citalopram 20 mg Tablet [**Hospital1 718**]: Three (3) Tablet PO DAILY
+(Daily).
+8. cholecalciferol (vitamin D3) 400 unit Tablet [**Hospital1 718**]: 2.5 Tablets
+PO DAILY (Daily).
+9. levothyroxine 100 mcg Tablet [**Hospital1 718**]: One (1) Tablet PO DAILY
+(Daily).
+10. omeprazole 40 mg Capsule, Delayed Release(E.C.) [**Hospital1 718**]: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+11. ropinirole 0.25 mg Tablet [**Hospital1 718**]: One (1) Tablet PO at bedtime.
+
+12. acetaminophen 500 mg Tablet [**Hospital1 718**]: Two (2) Tablet PO TID (3
+times a day).
+13. moxifloxacin 400 mg Tablet [**Hospital1 718**]: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Hospice Good [**Last Name (un) 9011**]
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Chronic osteomyelitis, pneumonia, acute on chronic renal
+disease, chronic congestive heart failure
+
+Secondary Diagnoses: Coronary artery disease, osteoarthritis,
+hypothyroidism, depression
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Ms. [**Known patient lastname **],
+
+It was a pleasure taking care of you during your stay at [**Hospital1 1240**].  You were admitted to the
+hospital with some confusion and low [**Hospital1 118**] pressures, likely due
+to an infection in your sternal wound and a pneumonia.  We
+treated you with fluids and antibiotics, and you improved.  You
+required oxygen, and you will be set up with oxygen at home to
+help with your breathing.
+
+A speech and swallow evaluation showed you are aspirating small
+amounts of food/drink into your lungs while you are eating,
+which may contribute to pneumonia.  You were continued on a diet
+of soft foods and thick liquids to minimize this from happening,
+but there is still a chance you may develop another pneumonia.
+
+We made the following changes to your medications:
+1. STOPPED coumadin
+2. DECREASED lasix to 40mg once daily
+3. STOPPED carvediolol
+4. STOPPED ferrous sulfate
+5. STOPPED simvastatin
+6. STARTED tylenol 1000mg three times per day
+7. STARTED oxyfast as needed for pain or shortness of breath
+
+You should continue on moxifloxacin 400mg daily for your wound.
+Please continue to take all other medications as you have been
+doing.  Your primary care physician [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 2455**] [**Last Name (NamePattern1) **] is aware
+you are being discharged from the hospital, and you may contact
+her if you have any questions about your medications.
+
+Followup Instructions:
+Please follow-up with your primary care physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 2455**]
+[**Last Name (NamePattern1) **], as needed.  The clinic number is [**Telephone/Fax (1) 10314**].
+
+
+
+
+
+DOC CLASS

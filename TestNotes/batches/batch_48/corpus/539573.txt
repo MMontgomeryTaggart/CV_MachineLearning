@@ -1,0 +1,214 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - START [**3380-11-15**] 10:40 AM
+   A-line inserted
+   Carvedilol changed to Metoprolol, Lasix started, Digoxin started.  CXR
+   was obtained and appeared improved.
+   Vent able to be weaned throughout day
+   NPO after midnight for cath today.
+   Received 1 unit of PRBCs without much change in HCT.  Lasix gtt
+   titrated up for diuresis.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Azithromycin - [**3380-11-14**] 05:00 AM
+   Vancomycin - [**3380-11-14**] 09:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3380-11-16**] 12:00 AM
+   Infusions:
+   Heparin Sodium - 1,400 units/hour
+   Furosemide (Lasix) - 12 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3380-11-16**] 05:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.1
+C (100.5
+   Tcurrent: 38.1
+C (100.5
+   HR: 81 (67 - 86) bpm
+   BP: 115/44(64) {96/35(54) - 129/52(327)} mmHg
+   RR: 14 (9 - 18) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 73.7 kg (admission): 77.6 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,695 mL
+                                                                    462 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,095 mL
+                                                                    212 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  1,825 mL
+                                                                  1,110 mL
+   Urine:
+                                                                  1,825 mL
+                                                                  1,110 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -130 mL
+                                                                   -648 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 622 (622 - 622) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 56
+   PIP: 26 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 37.5 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.41/39/106/24/0
+   Ve: 11.1 L/min
+   PaO2 / FiO2: 265
+   Physical Examination
+   General Appearance: Middle-aged male lying in bed on a ventilator in
+   NAD
+   HEENT: Patient intubated, eyes closed, do not open to voice.
+   Cardiovascular: irregularly irregular, [**1-19**] Holosystolic murmur at apex
+   Respiratory / Chest: CTAB anteriorly
+   Abdominal: +BS Soft
+   Extremities: warm and well perfused, trace edema b/l
+   Skin:  Pt with R buttock 5x12cm purpuric, nonblanching lesion,
+   non-bleeding.  There is a stage II ulcer at center of the purpuric
+   lesion w/ bellow blister and additional ulcerated blister in the
+   periphery.
+   Neurologic: Not responsive to voice.
+   Labs / Radiology
+   230 K/uL
+   8.8 g/dL
+   134 mg/dL
+   2.2 mg/dL
+   24 mEq/L
+   4.0 mEq/L
+   79 mg/dL
+   111 mEq/L
+   145 mEq/L
+   25.9 %
+   9.6 K/uL
+        [image002.jpg]
+                             [**3380-11-15**]  04:14 AM
+                             [**3380-11-15**]  05:36 AM
+                             [**3380-11-15**]  05:49 AM
+                             [**3380-11-15**]  10:46 AM
+                             [**3380-11-15**]  02:45 PM
+                             [**3380-11-15**]  02:56 PM
+                             [**3380-11-15**]  09:10 PM
+                             [**3380-11-16**]  12:00 AM
+                             [**3380-11-16**]  04:04 AM
+                             [**3380-11-16**]  04:12 AM
+   WBC
+   8.5
+   9.2
+   9.6
+   Hct
+   22.0
+   25.8
+   25.1
+   25.9
+   Plt
+   [**Telephone/Fax (3) 2563**]
+   Cr
+   2.3
+   2.2
+   2.2
+   TropT
+   0.12
+   0.13
+   TCO2
+   25
+   22
+   26
+   26
+   Glucose
+   158
+   134
+   Other labs: PT / PTT / INR:14.6/72.9/1.3, CK / CKMB /
+   Troponin-T:142/4/0.13, ALT / AST:30/24, Alk Phos / T Bili:79/0.8,
+   Lactic Acid:0.9 mmol/L, Albumin:2.8 g/dL, LDH:204 IU/L, Ca++:8.6 mg/dL,
+   Mg++:2.5 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   81M with history of coronary artery disease and depressed EF,
+   presenting after respiratory failure, found to have EF of 10% with
+   3+MR.
+   # CORONARIES:  Known 3VD with most recent cath showing in-stent
+   restenosis of SVG to OM.  ECG difficult to interpret with RBBB though
+   anterior ST changes are suspicious.  Carvedilol stopped this am.
+   - Continue with aspirin and plavix
+   - Started Metoprolol 25 mg [**Hospital1 **]
+   # PUMP:  Severely depressed EF of 10%.  At this point, currently on
+   norepi which is not optimal choice for patient with questionable
+   cardiogenic shock.  His severe MR may be worsened with his current
+   dilated LV.  At this point, his CXR does not show significant
+   congestion (though he is vented) and his saturations are 98% on FiO2 of
+   0.4.  Weaned off levo, BPs appropriate.
+   - As the patient appears volume overloaded and required reintubation, a
+   lasix gtt was restarted at 5 mg/hr
+   - Will start beta-blocker as tolerated, then ACEI
+   # RHYTHM:  Atrial fibrillation at transfer.  Unclear if he has been in
+   this rhythm in the past.  Currently rate controlled.
+   - Beta-blocker, as above
+   - Heparin IV
+   # PULM:  Respiratory failure likely due to CHF though was treated for
+   PNA at OSH.  CXR a large heart with prominent right hilum but no
+   obvious infiltrate.  The patient was extubated in the am yesterday,
+   however became hypoxic by night and was reintubated.  CXR was
+   concerning for developing PNA.  Patient was started on vanc and
+   pip-tazo.
+   - Continue vanc and pip-tazo for likely PNA
+   - Continue on the ventilator for now.
+   # Ucler, stage II.  Documented on arrival to CCU.  No signs of
+   infection.  Wound consult.
+   - f/u wound recs.
+   # ANEMIA:  HCT low but stable, this am it decreased to 22, but on
+   recheck was 25.8.  Drop noted at the OSH.  Baseline is unclear though
+   most likely in the low 30s.  Fe studies consistent w/ combination of Fe
+   difficiency and ACD.
+   - Will give 1 unit PRBC today and recheck a post transfusion Hct.
+   # RENAL FAILURE:  ARF on CKD.  Based on old labs, appears to have CKD
+   with baseline SCr in the high 1s.  Currently stable at 2.3.
+   -          Will be careful if adding ACEI
+   -          Will monitor Cr
+   -          Urine lytes
+   FEN:  NPO
+   ACCESS: Right subclavian
+ will pull today.
+   PROPHYLAXIS:
+   -DVT ppx: IV heparin
+   CODE: Presumed full
+   DISPO: CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3380-11-15**] 12:15 AM
+   Arterial Line - [**3380-11-15**] 10:40 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

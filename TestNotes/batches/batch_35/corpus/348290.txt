@@ -1,0 +1,275 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   - Trach changed for cuff leak - 7 Portex
+   - VRE out of blood on [**10-27**]
+   - LUE U/S with DVT
+ likely associated with PICC removed on 25^th
+   - 1 L fluid bolus for low UOP
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Daptomycin - [**2603-10-29**] 10:30 PM
+   Cefipime - [**2603-10-30**] 04:00 AM
+   Metronidazole - [**2603-10-30**] 04:00 AM
+   Meropenem - [**2603-10-30**] 04:30 AM
+   Infusions:
+   Other ICU medications:
+   Enoxaparin (Lovenox) - [**2603-10-30**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2603-10-30**] 09:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.8
+C (98.2
+   HR: 112 (102 - 117) bpm
+   BP: 116/83(89) {87/37(49) - 129/93(97)} mmHg
+   RR: 33 (12 - 44) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 69 Inch
+           Total In:
+                                                                  2,900 mL
+                                                                  2,127 mL
+   PO:
+           TF:
+                                                                  1,440 mL
+                                                                    574 mL
+   IVF:
+                                                                    900 mL
+                                                                  1,250 mL
+   Blood products:
+   228 mL
+   Total out:
+                                                                  2,035 mL
+                                                                  1,065 mL
+   Urine:
+                                                                  1,035 mL
+                                                                    315 mL
+   NG:
+   Stool:
+                                                                  1,000 mL
+                                                                    750 mL
+   Drains:
+   Balance:
+                                                                    865 mL
+                                                                  1,062 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 424 (257 - 491) mL
+   PS : 15 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 30
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 96
+   PIP: 21 cmH2O
+   Plateau: 21 cmH2O
+   SpO2: 100%
+   ABG: ///38/
+   Ve: 11.4 L/min
+   Physical Examination
+   General Appearance: No(t) Well nourished, No acute distress, Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Trach
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Diminished: bases, Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 3+, Left: Trace, RUE swelling stable
+   Skin:  Not assessed
+   Neurologic: Responds to: Verbal stimuli, Movement: Purposeful, Tone:
+   Normal
+   Labs / Radiology
+   7.2 g/dL
+   226 K/uL
+   105 mg/dL
+   0.6 mg/dL
+   38 mEq/L
+   3.8 mEq/L
+   36 mg/dL
+   113 mEq/L
+   150 mEq/L
+   23.0 %
+   7.6 K/uL
+        [image002.jpg]
+                            [**2603-10-25**]  04:16 AM
+                            [**2603-10-26**]  03:06 AM
+                            [**2603-10-27**]  03:08 AM
+                            [**2603-10-27**]  09:50 AM
+                            [**2603-10-27**]  08:46 PM
+                            [**2603-10-28**]  12:03 AM
+                            [**2603-10-28**]  03:28 PM
+                            [**2603-10-29**]  03:37 AM
+                            [**2603-10-29**]  03:02 PM
+                            [**2603-10-30**]  03:53 AM
+   WBC
+   6.2
+   8.7
+   7.5
+   10.1
+   8.4
+   9.3
+   7.6
+   Hct
+   29.2
+   30.8
+   23.8
+   24.0
+   26.0
+   28.1
+   26.3
+   26.1
+   25.2
+   23.0
+   Plt
+   288
+   334
+   238
+   259
+   256
+   250
+   226
+   Cr
+   0.3
+   0.3
+   0.4
+   0.4
+   0.4
+   0.4
+   0.5
+   0.6
+   Glucose
+   101
+   119
+   139
+   135
+   126
+   140
+   103
+   105
+   Other labs: PT / PTT / INR:14.9/40.0/1.3, CK / CKMB /
+   Troponin-T:20/3/0.16, ALT / AST:[**9-18**], Alk Phos / T Bili:69/0.2,
+   Amylase / Lipase:36/25, Differential-Neuts:87.0 %, Band:0.0 %,
+   Lymph:6.8 %, Mono:5.7 %, Eos:0.4 %, D-dimer:881 ng/mL, Fibrinogen:386
+   mg/dL, Lactic Acid:0.7 mmol/L, Albumin:1.7 g/dL, LDH:142 IU/L, Ca++:7.9
+   mg/dL, Mg++:2.4 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+   75yoM CAD, CHF, PVD, s/p resp failure with trach/PEG with vent assoc
+   ESBL Klebsiella and Acineotbacter pna on [**Last Name (un) **]/Cefepime, VRE
+   bacteremia/sepsis on daptomycin, and LUE/RLE DVT on enox. Requires
+   nightly vent assistance for anxiety/tachypnea/diaphoresis.
+   > Respiratory failure - Pna (ESBL klebsiella and acinetobacter),
+   worsening b/l pleural effusions that have reaccumlated following
+   thoracentesis, and significant of abdominal distention.   Not treating
+   MDR acinetobacter or stenotrophomonas. Effusion was tapped for 1.2 L on
+   [**10-25**] and was transudative. He is also complicated by profound volume
+   overload and weakness (exacerbated by over all deconditioning,
+   prolonged MICU stay and courses of steroids).  Of note, patient has
+   been having very bloody secretions since [**10-26**]
+ bronch deferred given
+   stable from a respiratory standpoint and likely scope/suctioning trauma
+   given anticoagulation.  Now requiring ventilator support, likely due to
+   increased volume, capillary leak from low level sepsis and possible
+   aspiration given cuff leak.  A new PNA as source of VRE is possible as
+   well.
+   -          Trach collar mask and intermittent vent support as needed.
+   -          CXR
+   -          Completed 14 day course of Cefepime/[**Last Name (un) **] today
+   -          Diuresis as tolerated
+    > Bacteremia/Sepsis: VRE growing out of blood from [**10-27**] that may
+   explain fever/hypotension from [**10-26**].  Now afebrile for a few days with
+   stable CXR. Will need to f/u sputum, blood and urine clx and add
+   daptomycin for now.  Unclear source as PICC line is new on 25^th and no
+   evidence of UTI. [**Month (only) 56**] be from new PNA given progression of CXR over past
+   few days.  His skin exam is actually improved since [**10-8**]. The
+   thoracentesis on [**10-25**] has been unrevealing in terms of empyema as it
+   appears to be most consistent with a transudative effusion with benign
+   pH. ID does not feel that patient needs coverage for MDR
+   acinetobacter/stenotrophomonas ([**10-24**]) at this time.  Have completed 14
+   day course of cefepime/[**Last Name (un) 411**] for VAP based on [**10-15**] cultures.
+   -          F/U blood (picc vs peripheral), urine, sputum and c.diff
+   -          Continue dapto for VRE
+   -          Decrease hydrocortisone 25mg IV
+   -          ID said to add colistin if worsens
+   > Oliguria/ARF: Likely prerenal, but in the setting of massive
+   anasarca.  Now making decent urine.
+   -          Check bladder pressure
+   -          Gently diurese
+   >Hypernatremia: Now slightly worse.
+   - Increase FWF.
+   >  Ileus.  Patient had ileus since [**10-11**] that has now resolved with NGT
+   suctioning, bowel rest, and minimizing opioids.  Tolerating tube feeds
+   at goal with reglan for promotility
+   -          bowel regimen
+   -          ultram only at low dose with turns, caution with opioids,
+   cont reglan
+    >  Anemia:  H/o UGIB/coffee grounds.  Noted to have coffee grounds in
+   NG suctioning on [**10-15**], likely secondary to prolonged NG suctioning.
+   Now with decreased hct of unclear source, but having hemoptysis. S/p 1
+   unit PRBC with downtrending Hct with another unit today.   Possible
+   that he is just oozing from various sources given anticoagulation.
+   -          Serial Hcts
+   -          Po ppi
+   -          hold aspirin, plavix; consider resuming aspirin in future if
+   hct/ bleed remains stable
+   -          Transfuse for Hct goal >25
+   -
+   > LUE/RLE DVT.  Anticoagulation with heparin started on [**10-20**].
+   Transitioned to lovenox on [**10-21**].
+   -          continue lovenox at low dose, 60mg [**Hospital1 **], based on dry weight
+   (concern for bleeding)
+   -          [**Month (only) 56**] need to hold if Hct drops significantly
+   > A. fib.  Has A. fib with RVR.  HR currently in 100s.  Getting
+   anticoagulated.
+   -          titrating BB
+   -          on Lovenox
+   >  PVD - awaiting revascularization after DC.  Stable LLE dry gangrene.
+   -          further management per Dr. [**Last Name (STitle) **] as patient recovers from
+   this hospitalization.
+   -          hold asa/plavix given above, consider resuming aspirin when
+   NGT is removed and hct stable
+   -          hold opioids due to ileus
+   > HEART FAILURE (CHF), DIASTOLIC
+ hold on diuresis given hypotension,
+   although he is total body vol up.  Found to have elevated BNP.  Also
+   with pulmonary edema on bronch from [**10-14**].
+   -          Gently diurese
+   All other issues per resident note.
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2603-10-30**] 03:36 AM 60 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2603-10-25**] 12:00 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: LMWH Heparin)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition :ICU
+   Total time spent: 38 minutes
+   Patient is critically ill
+
+
+DOC CLASS

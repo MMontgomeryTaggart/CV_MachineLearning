@@ -1,0 +1,204 @@
+Chief Complaint: hypotension, ST elevations
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Admitted to MICU.
+   Art line placed.
+   NGT attempted.
+   RIJ placed.
+ SHEATH - START [**3079-8-6**] 01:30 PM
+ BLOOD CULTURED - At [**3079-8-6**] 02:24 PM
+ EKG - At [**3079-8-6**] 02:24 PM
+ URINE CULTURE - At [**3079-8-6**] 02:24 PM
+ STOOL CULTURE - At [**3079-8-6**] 02:24 PM
+ TRANSTHORACIC ECHO - At [**3079-8-6**] 04:35 PM
+ ARTERIAL LINE - START [**3079-8-6**] 09:00 PM
+ MULTI LUMEN - START [**3079-8-6**] 11:02 PM
+ SHEATH - STOP [**3079-8-7**] 12:00 AM
+   History obtained from Medical records, ICU team
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown;
+   Hydantoins
+   Unknown;
+   Trimethadione/Paramethadione
+   Unknown;
+   Phenacemide
+   Unknown;
+   Barbiturates
+   Unknown;
+   Primidone
+   Unknown;
+   Gadolinium-Containing Agents
+   Unknown;
+   Mysoline (Oral) (Primidone)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3079-8-6**] 04:36 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3079-8-7**] 02:30 AM
+   Metronidazole - [**3079-8-7**] 06:00 AM
+   Infusions:
+   Norepinephrine - 0.15 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3079-8-6**] 05:32 PM
+   Other medications:
+   sinemet, SQH, statin, Flagyle 500 q8, asa, zosyn, PPI, SQI, levophed,
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3079-8-7**] 09:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.2
+C (98.9
+   HR: 101 (90 - 113) bpm
+   BP: 113/62(81) {95/56(70) - 116/65(84)} mmHg
+   RR: 28 (18 - 28) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+   CVP: 8 (4 - 103)mmHg
+   PAP: (24 mmHg) / (13 mmHg)
+   Total In:
+                                                                  2,206 mL
+                                                                  2,532 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,206 mL
+                                                                  2,532 mL
+   Blood products:
+   Total out:
+                                                                    575 mL
+                                                                    380 mL
+   Urine:
+                                                                    575 mL
+                                                                    380 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,631 mL
+                                                                  2,152 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: 7.42/30/89.[**Numeric Identifier 119**]/19/-3
+   Physical Examination
+   General Appearance: Thin
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Percussion: Resonant : ), (Breath Sounds: Clear :
+   , Crackles : )
+   Abdominal: Soft, Non-tender, Distended
+   Extremities: Right: No edema, Left: no edema
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Normal, resting tremor
+   Labs / Radiology
+   11.2 g/dL
+   318 K/uL
+   182 mg/dL
+   2.2 mg/dL
+   19 mEq/L
+   4.6 mEq/L
+   55 mg/dL
+   106 mEq/L
+   137 mEq/L
+   34.2 %
+   19.1 K/uL
+        [image002.jpg]
+                             [**3079-8-6**]  01:41 PM
+                             [**3079-8-6**]  09:25 PM
+                             [**3079-8-7**]  02:15 AM
+   WBC
+   19.7
+   19.1
+   Hct
+   36.7
+   35
+   34.2
+   Plt
+   363
+   318
+   Cr
+   2.7
+   2.2
+   TropT
+   <0.01
+   <0.01
+   TCO2
+   20
+   Glucose
+   173
+   182
+   Other labs: PT / PTT / INR:15.6/28.8/1.4, CK / CKMB /
+   Troponin-T:35/3/<0.01, ALT / AST:[**12-29**], Alk Phos / T Bili:83/0.4,
+   Amylase / Lipase:17/8, Differential-Neuts:84.3 %, Lymph:8.1 %, Mono:7.4
+   %, Eos:0.0 %, Lactic Acid:2.1 mmol/L, Albumin:3.0 g/dL, LDH:205 IU/L,
+   Ca++:8.1 mg/dL, Mg++:2.0 mg/dL, PO4:4.2 mg/dL
+   Fluid analysis / Other labs: cortisol > 80
+   Microbiology: C diff (+)
+   Legionella (-)
+   Assessment and Plan
+   76 y/o man with
+          Shock
+   o         Likely a mixed picture.  Appears somewhat hypovolemic, but
+   likely septic.  Cardiac disease (particularly pericardial) is not
+   excluded.
+   o         Sources include C diff and pneumonia.  Decub less likely.
+   Doubt atypical pneumonia given that he was on levoflox until a couple
+   of days ago and that Legionella Ag is negative.  Antibiotic therapy:
+          Oral vanco
+          IV Flagyl
+          Zosyn
+   o         Discuss with cardiology (no RV pressure recorded)
+   o         Goal-directed therapy, aiming for CVP a bit higher then 12
+   o         Adrenal insufficiency adequately excluded
+   o         Does not meet criteria for drotrecogin
+   o         Other issues as per ICU team note
+          C diff
+   o         Vanco oral; Flagyl IV
+   o         Re-attempt NG decompression
+   o         Consult GI for assistance with complicated C diff management
+   (?supplementary therapies)
+          Repeat lactate
+ if elevated consult surgery.
+          ST elevations
+   o         Do not appear ischemic.  Will discuss further with
+   cardiology.
+   Contact PCP for old records.
+   Other issues as per ICU team note:
+          Parkinson
+          Decub
+          Line site bleeding
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**3079-8-6**] 01:30 PM
+   20 Gauge - [**3079-8-6**] 01:30 PM
+   Arterial Line - [**3079-8-6**] 09:00 PM
+   Multi Lumen - [**3079-8-6**] 11:02 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition :ICU
+   Total time spent: 60 minutes critical care time
+
+
+DOC CLASS

@@ -1,0 +1,163 @@
+TITLE:
+   Chief Complaint: overnight events-
+   - had 2 units pRBCs- during second unit pt developed temp of 101.7-
+   blood stopped, given tylenol x 1 g  and benadryl x 25mg IV
+   - pt became confused, likely in withdrawl, DTs, given valium, 60mg over
+   2 hours, required leather restraints, HR still in 130s; then valium
+   10mg Q30minutes PRN ordered since pt still restless
+   - CTA showed psuedoanuresym near duodenum, may be source of bleeding,
+   radiology recommends embolizing vessel before pancrease bx
+   - hct after 1.75 units pRBCs 31.1
+   - now valium decreased to 10mg Q1hour
+   24 Hour Events:
+ ENDOSCOPY - At [**3177-2-5**] 12:00 PM
+ FEVER - 101.8
+F - [**3177-2-5**] 08:00 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Diazepam (Valium) - [**3177-2-6**] 06:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3177-2-6**] 06:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.8
+C (101.8
+   Tcurrent: 35.8
+C (96.4
+   HR: 96 (71 - 128) bpm
+   BP: 105/65(74) {91/51(61) - 134/87(91)} mmHg
+   RR: 16 (12 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 63 Inch
+             Total In:
+                                                                  1,461 mL
+                                                                    139 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,111 mL
+                                                                    139 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                    625 mL
+                                                                    500 mL
+   Urine:
+                                                                    625 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    836 mL
+                                                                   -361 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///22/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL, Pupils dilated
+   Head, Ears, Nose, Throat: Normocephalic, NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm, No(t) Rash:
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Not assessed
+   Labs / Radiology
+   245 K/uL
+   10.2 g/dL
+   94
+   0.5
+   25
+   3.4
+   9
+   102
+   134
+   27.9 %
+   10.6 K/uL
+        [image002.jpg]
+                             [**3177-2-5**]  02:42 PM
+                             [**3177-2-5**]  08:33 PM
+                             [**3177-2-6**]  05:38 AM
+   WBC
+   9.6
+   10.6
+   Hct
+   27.2
+   31.1
+   27.9
+   Plt
+   242
+   245
+   Other labs: PT / PTT / INR:13.2/24.3/1.1, Alk Phos / T Bili:/2.6,
+   LDH:201 IU/L,
+   Ca 8.7, Mg 1.8, P 2.0, ALT 16, AST 22, AP 41, Tbili 1, LDH 217
+   Assessment and Plan
+ FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA)
+ PANCREATITIS, ACUTE
+ ALCOHOL ABUSE
+   Assessment and Plan: This is a 57 yo M with a history of EtOH abuse,
+   diverticulitis who presents to ICU for EGD evaluation of melanotic
+   stools.
+   .
+   # Melanotic stools: Patient with at least 2 episodes of melanotic
+   stools.  EGD results do not reveal a site of bleeding.  Multiple
+   potential causes including small bowel or colonic bleeding.
+   Nonetheless the patient is not showing active signs of bleeding at this
+   point.  Based on GI's recommendations, will check serial hematocrits.
+   - serial hct
+   - active type and screen
+   - 2 18g PIV
+   - ERCP fellow consulted, recommends CTA of the pancreas, to see pt
+   tomorrow AM
+   .
+   # Pancreatitis: Continue NPO, asymptomatic currently.  Treat with meds
+   prn,
+   - IVF
+   - NPO
+   - Pain meds
+   .
+   # Alcohol abuse: Continue CIWA, thiamine, folate.
+   .
+   # FEN: IVF, replete electrolytes, NPO
+   .
+   # Prophylaxis: Subcutaneous heparin
+   .
+   # Access: peripherals
+   .
+   # Code: presumed full
+   .
+   # Communication: Patient, daughter
+   ICU [**Name2 (NI) 228**]
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3177-2-5**] 12:00 PM
+   20 Gauge - [**3177-2-5**] 12:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

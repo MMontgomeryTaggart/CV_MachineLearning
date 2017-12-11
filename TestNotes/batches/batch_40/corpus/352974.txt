@@ -1,0 +1,201 @@
+TITLE: ICU
+   HPI:
+   HD22
+   [**1-7**] POD 14/9
+   81M s/p AVR(#23 [**First Name8 (NamePattern2) **] [**Male First Name (un) 1078**] tissue)CABGx3(LIMA-LAD,SVG-Diag,SVG-PDA)[**12-24**]
+   takeback for pericardial evacuation [**12-29**]
+   EF 65 Cr 1.7 Wt 71.5K
+   PMHx: HTN, PVD, Gout, R LE DVT [**4-22**], lipids, Guillian-Barrenor esp.
+   component), s/p L & R [**Doctor Last Name 1020**] bypass [**4-22**], s/p R CEA
+   Current medications:
+   Acetaminophen (Liquid) , Albuterol-Ipratropium ,Albuterol 0.083% Neb
+   Soln , Aspirin , Atorvastatin , Bisacodyl, Calcium Gluconate,
+   Citalopram Hydrobromide ,Dextrose 50% , Dexmedetomidine , Docusate
+   Sodium (Liquid),Famotidine,  Fentanyl Patch , Fluconazole , Furosemide
+   , Heparin ,HydrALAzine 22. HydrALAzine, Influenza Virus Vaccine ,
+   Ipratropium Bromide Neb , Lactulose ,Levothyroxine Sodium ,Magnesium
+   Sulfate, Nitroglycerin , OxycoDONE Liquid , Pneumococcal Vac Polyvalent
+   , Potassium Chloride , Potassium Chloride
+   Post operative day:
+   POD#14 - CABG X3
+   AVR
+   POD#9 - Sternal Exploration
+   Allergies:
+   IV Dye
+   Iodine Containing
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3024-1-4**] 08:16 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3024-1-5**] 08:00 AM
+   Vancomycin - [**3024-1-5**] 09:00 AM
+   Fluconazole - [**3024-1-6**] 12:00 PM
+   Infusions:
+   Furosemide (Lasix) - 3 mg/hour
+   Dexmedetomidine (Precedex) - 0.5 mcg/Kg/hour
+   Insulin - Regular - 5 units/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3024-1-6**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**3024-1-7**] 12:01 AM
+   Insulin - Regular - [**3024-1-7**] 08:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3024-1-7**] 09:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**27**] a.m.
+   Tmax: 36.3
+C (97.4
+   T current: 36.2
+C (97.2
+   HR: 91 (60 - 91) bpm
+   BP: 111/44(61) {90/38(53) - 169/71(106)} mmHg
+   RR: 26 (15 - 26) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 82.5 kg (admission): 73.9 kg
+   Height: 66 Inch
+             Total In:
+                                                                  2,946 mL
+                                                                    904 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    894 mL
+                                                                    127 mL
+   Blood products:
+   Total out:
+                                                                  2,875 mL
+                                                                  1,240 mL
+   Urine:
+                                                                  2,425 mL
+                                                                  1,240 mL
+   NG:
+                                                                    450 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                     71 mL
+                                                                   -336 mL
+   Respiratory support
+   O2 Delivery Device: Other
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 870 (426 - 985) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 10
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 16 cmH2O
+   SPO2: 97%
+   ABG: 7.39/44/145/26/1
+   Ve: 2.4 L/min
+   PaO2 / FiO2: 363
+   Physical Examination
+   General Appearance: Anxious
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Tender: Right upper quadrant
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   100 K/uL
+   10.3 g/dL
+   171 mg/dL
+   2.8 mg/dL
+   26 mEq/L
+   3.6 mEq/L
+   99 mg/dL
+   105 mEq/L
+   142 mEq/L
+   30.0 %
+   6.8 K/uL
+                            [**3024-1-6**]  03:14 AM
+                            [**3024-1-6**]  03:29 AM
+                            [**3024-1-6**]  10:19 AM
+                            [**3024-1-6**]  11:58 AM
+                            [**3024-1-6**]  03:38 PM
+                            [**3024-1-6**]  04:32 PM
+                            [**3024-1-6**]  05:50 PM
+                            [**3024-1-6**]  10:28 PM
+                            [**3024-1-7**]  02:13 AM
+                            [**3024-1-7**]  02:33 AM
+   WBC
+   9.1
+   6.8
+   Hct
+   32.3
+   30.5
+   30.0
+   Plt
+   113
+   100
+   Creatinine
+   2.6
+   2.8
+   2.8
+   2.8
+   TCO2
+   26
+   28
+   26
+   26
+   28
+   Glucose
+   199
+   153
+   209
+   171
+   Other labs: PT / PTT / INR:15.5/32.1/1.4, ALT / AST:56/90, Alk-Phos / T
+   bili:129/4.9, Amylase / Lipase:40/20, Differential-Neuts:76.0 %,
+   Band:0.0 %, Lymph:8.0 %, Mono:14.0 %, Eos:2.0 %, Fibrinogen:219 mg/dL,
+   Lactic Acid:1.2 mmol/L, Albumin:3.3 g/dL, LDH:217 IU/L, Ca:8.4 mg/dL,
+   Mg:2.4 mg/dL, PO4:4.7 mg/dL
+   Microbiology: all neg
+   Assessment and Plan
+   INEFFECTIVE COPING, HYPOTHERMIA, IDIOPATHIC THROMBOCYTOPENIC PURPURA
+   (ITP), RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**]), ATRIAL FIBRILLATION
+   (AFIB), DEPRESSION, ELECTROLYTE & FLUID DISORDER, OTHER, MALNUTRITION,
+   ANXIETY, ADLS (ACTIVITIES OF DAILY LIVING), INABILITY TO PERFORM,
+   AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AROUSAL, ATTENTION, AND
+   COGNITION, IMPAIRED, BALANCE, IMPAIRED, RESPIRATION / GAS EXCHANGE,
+   IMPAIRED, TRANSFERS, IMPAIRED, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN),
+   VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), CORONARY ARTERY BYPASS
+   GRAFT (CABG)
+   Assessment and Plan: Pt. cont. to have high pitched bowel sounds, RUQ
+   tenderness.  Has been on BIPAP for most of the past 36 hours.  Will
+   increase Precedex.  Pt. very anxious.  Cont. TPN.  Will repeat RUQ U/S.
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: BIPAP
+   Gastrointestinal / Abdomen: Post-op ileus
+   Nutrition: TPN, NPO
+   Renal: Foley
+   Endocrine: RISS
+   Infectious Disease: all neg
+   Lines / Tubes / Drains: Foley, NGT
+   Wounds: Dry dressings
+   Imaging: RUQ U/S
+   Consults: General surgery
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3024-1-6**] 04:14 PM 73 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3024-1-1**] 12:00 AM
+   Multi Lumen - [**3024-1-5**] 08:44 AM
+   20 Gauge - [**3024-1-6**] 11:30 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU  Time spent 31 min
+
+
+DOC CLASS

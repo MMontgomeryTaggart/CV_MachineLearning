@@ -1,0 +1,176 @@
+Admission Date:  [**3133-11-3**]              Discharge Date:   [**3133-11-12**]
+
+Date of Birth:  [**3068-12-1**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Codeine / Cephalosporins / Tofranil / Singulair
+
+Attending:[**First Name3 (LF) 3490**]
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+[**3133-11-6**] CABGX4(LIMA->LAD,SVG->Diag,SVG->OM1,SVG->PL)
+
+
+History of Present Illness:
+The patient is a 64-year-old woman with new onset chest pain.
+Presented to the [**Hospital1 **] Center where she ruled out for an MI.
+A cardiac catheterization was significant for left main coronary
+artery disease. She has a history of a factor V Leiden
+deficiency and a history of brain stem CVA in [**3119**]. She would
+like to proceed with bypass surgery= and thus was transferred to
+the [**Hospital1 68**] for surgical management.
+
+
+Past Medical History:
+Hypercholesterolemia
+HTN
+Asthma
+CVA brain stem [**3119**]
+Factor V leided defficiency
+Chronic fatigue syndrome
+Anxiety
+Osteoporosis
+
+
+Social History:
+Works in nursing home. Quit smoking in [**3119**] after 25 pack years.
+[**2-5**] alcoholic drinks per week. Lives alone.
+
+Physical Exam:
+NEURO: Grossly intact. No carotid bruits.
+PULM: Lungs clear
+HEART: RRR, No murmur
+ABD: Soft, nontender, nondistended
+EXT: Warm without edema.
+
+Pertinent Results:
+[**3133-11-11**] 05:03AM BLOOD WBC-7.4 RBC-3.46* Hgb-10.7* Hct-31.2*
+MCV-90 MCH-30.9 MCHC-34.4 RDW-13.8 Plt Ct-246#
+[**3133-11-12**] 04:40AM BLOOD Hct-31.4*
+[**3133-11-11**] 05:03AM BLOOD Plt Ct-246#
+[**3133-11-12**] 04:40AM BLOOD K-4.4
+[**3133-11-11**] 05:03AM BLOOD Glucose-115* UreaN-12 Creat-0.9 Na-137
+K-4.2 Cl-101 HCO3-27 AnGap-13
+
+[**3133-11-8**] CXR
+PA and lateral views of the chest. The endotracheal tube,
+nasogastric tube, right internal jugular central venous
+catheter, and multiple chest tubes have been removed. There are
+very small right and left apical pneumothoraces. The left apical
+pneumothorax is unchanged since the previous study. The right
+apical pneumothorax appears new. There is a small right pleural
+effusion, slightly increased since the previous study. The lungs
+appear clear. Heart size is at the upper limit of normal.
+Evidence of CABG is again noted. There is no pulmonary edema.
+
+[**3133-11-6**] EKG
+Sinus tachycardia. Left anterior fascicular block. Cannot
+exclude old inferior myocardial infarction. Incomplete right
+bundle-branch block. Poor R wave progression in leads V4-V6.
+Compared to the previous tracing of [**3133-11-4**] the tachycardia,
+right bundle-branch block and poor R wave progression are new.
+
+
+
+Brief Hospital Course:
+Ms. [**Known patient lastname **] was admitted to the [**Hospital1 68**] on [**3133-11-3**] via transfer from
+the [**Hospital1 **] Center for surgical management of her coronary
+artery disease. She was worked-up in the usual preoperative
+manner and found to be suitable for surgery. On [**3133-11-6**], Ms.
+[**Known patient lastname **] was taken to the operating room where she underwent
+coronary artery bypass grafting to four vessels. Postoperatively
+she was taken to the cardiac surgical intensive care unit for
+monitoring. On postoperative day one, Ms. [**Known patient lastname **] [**Last Name (Titles) 1762**]
+neurologically intact and was extubated. Plavix was started for
+poor distals. She was then transferred to the cardiac surgical
+step down unit for further recovery. She was gently diuresed
+towards her preoperative weight. The physical therapy service
+was consulted for assistance with he postoperative strength and
+mobility. Beta blockade and aspirin were resumed. She developed
+atrial fibrillation which was converted to normal sinus rhythm
+with correction of her electrolytes and increasing her beta
+blockade. Ms. [**Known patient lastname **] continued to make steady progress and was
+discharged home on postoperative day six. She will follow-up
+with Dr. [**Last Name (STitle) 287**], her cardiologist and her primary care physician
+as an outpatient.
+
+Medications on Admission:
+HCTZ 50mg daily
+Aspirin 81mg daily
+Fosamax
+Combivent
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID
+(2 times a day).
+Disp:*180 Tablet(s)* Refills:*0*
+7. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours).
+8. Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+10. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 1 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+11. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO BID
+(2 times a day) for 1 weeks.
+Disp:*14 Packet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA care [**Location (un) **]
+
+Discharge Diagnosis:
+CAD
+brain stem CVA, factor V Leiden def., HTN, ^chol, asthma,
+Chronic fatigue, Anxiety, OA
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Shower daily, wash incision with mild soap and water and pat
+dry. No lotions, creams or powders.
+Call with fever, redness or drainage from incision, or weight
+gain more than 2 pounds in one day or five in one week.
+No lifting more than 10 pounds or driving.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 287**] 4 weeks
+Primary Care Doctor 2 weeks
+Cardiologist 2 weeksProvider:
+[**Last Name (LF) **],[**First Name3 (LF) **] W.  [**Telephone/Fax (1) 425**]  Call to schedule appointment
+
+
+
+Completed by:[**3133-12-1**]
+
+DOC CLASS

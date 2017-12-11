@@ -1,0 +1,184 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Allergies:
+   Cardizem (Oral) (Diltiazem Hcl)
+   Unknown;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   muscle aches;
+   Last dose of Antibiotics:
+   Vancomycin - [**3120-10-14**] 10:50 AM
+   Meropenem - [**3120-10-15**] 06:00 AM
+   Infusions:
+   Midazolam (Versed) - 2.8 mg/hour
+   Fentanyl (Concentrate) - 126 mcg/hour
+   Phenylephrine - 0.4 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3120-10-15**] 07:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 36.8
+C (98.2
+   HR: 83 (75 - 132) bpm
+   BP: 127/51(77) {60/28(40) - 189/70(107)} mmHg
+   RR: 32 (0 - 32) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 62.4 kg (admission): 65.3 kg
+   Height: 64 Inch
+   CVP: 16 (8 - 19)mmHg
+   ICP: 7 (-2 - 13) mmHg
+   Total In:
+                                                                  1,531 mL
+                                                                    573 mL
+   PO:
+   TF:
+                                                                    846 mL
+                                                                    274 mL
+   IVF:
+                                                                    685 mL
+                                                                    298 mL
+   Blood products:
+   Total out:
+                                                                  1,361 mL
+                                                                    396 mL
+   Urine:
+                                                                  1,180 mL
+                                                                    385 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    181 mL
+                                                                     11 mL
+   Balance:
+                                                                    170 mL
+                                                                    177 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: PCV+Assist
+   RR (Set): 32
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 35 cmH2O
+   SpO2: 97%
+   ABG: 7.42/56/82.[**Numeric Identifier 136**]/36/9
+   Ve: 9.8 L/min
+   PaO2 / FiO2: 166
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   7.4 g/dL
+   239 K/uL
+   204 mg/dL
+   0.3 mg/dL
+   36 mEq/L
+   5.2 mEq/L
+   20 mg/dL
+   104 mEq/L
+   141 mEq/L
+   23.2 %
+   7.3 K/uL
+        [image002.jpg]
+   Differential-Neuts:62.1 %, Band:10.0 %, Lymph:31.4 %, Mono:1.9 %,
+   Eos:4.2 %,
+                            [**3120-10-13**]  03:38 AM
+                            [**3120-10-13**]  11:13 AM
+                            [**3120-10-13**]  05:17 PM
+                            [**3120-10-14**]  04:24 AM
+                            [**3120-10-14**]  04:38 AM
+                            [**3120-10-14**]  09:28 PM
+                            [**3120-10-14**]  10:00 PM
+                            [**3120-10-14**]  11:00 PM
+                            [**3120-10-15**]  05:07 AM
+                            [**3120-10-15**]  05:14 AM
+   WBC
+   5.9
+   7.3
+   Hct
+   23.5
+   25
+   23.2
+   Plt
+   241
+   239
+   Cr
+   0.3
+   0.3
+   TropT
+   0.27
+   0.24
+   TCO2
+   35
+   38
+   37
+   39
+   39
+   36
+   38
+   Glucose
+   141
+   204
+   Other labs:
+   PT / PTT / INR:12.1/32.3/1.0,
+   CK / CKMB / Troponin-T:15/3/0.24,
+   ALT / AST:22/49, Alk Phos / T Bili:69/0.1,
+   Lactic Acid:0.6 mmol/L, Albumin:2.2 g/dL, LDH:399 IU/L,
+   Ca++:8.0 mg/dL, Mg++:1.7 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK)
+ CONSTIPATION (OBSTIPATION, FOS)
+ ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name 11**])
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ AIRWAY CLEARANCE, IMPAIRED
+ AROUSAL, ATTENTION, AND COGNITION, IMPAIRED
+ BALANCE, IMPAIRED
+ GAIT, IMPAIRED
+ KNOWLEDGE, IMPAIRED
+ MOTOR FUNCTION, IMPAIRED
+ TRANSFERS, IMPAIRED
+ VENTILATORY FORCES AND FLOW, IMPAIRED
+ HYPERGLYCEMIA
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ IMPAIRED SKIN INTEGRITY
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE ON CHRONIC
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3120-10-14**] 10:07 AM 35 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3120-9-25**] 12:30 PM
+   Multi Lumen - [**3120-10-2**] 07:19 PM
+   ICP Catheter - [**3120-10-8**] 02:40 PM
+   20 Gauge - [**3120-10-12**] 12:17 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition :
+   Total time spent:
+
+
+DOC CLASS

@@ -1,0 +1,196 @@
+Chief Complaint:
+   24 Hour Events:
+   - Failed SBT.
+   - Started Diamox and rechecking lytes at 1700, recived 20mg of lasix in
+   the am.
+   - F/u cultures
+   - Vanc switched to unasyn.
+   - Blood and urine cultures.
+ NASAL SWAB - At [**2758-11-4**] 06:05 AM
+   mrsa survelliance
+   Allergies:
+   Peanut
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2758-11-3**] 08:00 AM
+   Ampicillin/Sulbactam (Unasyn) - [**2758-11-4**] 06:04 AM
+   Infusions:
+   Midazolam (Versed) - 0.5 mg/hour
+   Fentanyl - 25 mcg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2758-11-3**] 08:37 PM
+   Heparin Sodium (Prophylaxis) - [**2758-11-3**] 10:37 PM
+   Furosemide (Lasix) - [**2758-11-4**] 03:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2758-11-4**] 06:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 36.9
+C (98.4
+   HR: 81 (77 - 103) bpm
+   BP: 117/53(74) {117/53(74) - 187/92(128)} mmHg
+   RR: 21 (8 - 28) insp/min
+   SpO2: 89%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+             Total In:
+                                                                  2,464 mL
+                                                                    600 mL
+   PO:
+             TF:
+                                                                  1,431 mL
+                                                                    290 mL
+   IVF:
+                                                                    753 mL
+                                                                    311 mL
+   Blood products:
+   Total out:
+                                                                  1,900 mL
+                                                                  1,325 mL
+   Urine:
+                                                                  1,900 mL
+                                                                  1,325 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    564 mL
+                                                                   -725 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 350 (350 - 561) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 16
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 59
+   PIP: 15 cmH2O
+   SpO2: 89%
+   ABG: 7.34/67/68/37/6
+   Ve: 6.8 L/min
+   PaO2 / FiO2: 136
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL, conjunctival erythema
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition, Endotracheal
+   tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), no MRG, RRR
+   Peripheral Vascular: 2+ pulses DP and radial
+   Respiratory / Chest: (Expansion: Symmetric), Less wheezing, mechanical
+   BS throughout.
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm, bilateral skin thickening with significant erythema,
+   warmth drainage and vesicles
+   Neurologic: Responds to voice.  Answers questions with head movement.
+   Follows commands.
+   Labs / Radiology
+   141 K/uL
+   17.7 g/dL
+   183 mg/dL
+   0.7 mg/dL
+   37 mEq/L
+   4.0 mEq/L
+   27 mg/dL
+   101 mEq/L
+   141 mEq/L
+   54.9 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**2758-11-2**]  10:22 AM
+                             [**2758-11-2**]  07:40 PM
+                             [**2758-11-2**]  09:47 PM
+                             [**2758-11-3**]  04:05 AM
+                             [**2758-11-3**]  04:17 AM
+                             [**2758-11-3**]  11:01 AM
+                             [**2758-11-3**]  01:07 PM
+                             [**2758-11-3**]  04:44 PM
+                             [**2758-11-4**]  03:06 AM
+                             [**2758-11-4**]  03:41 AM
+   WBC
+   8.4
+   8.1
+   Hct
+   55.4
+   54.9
+   Plt
+   164
+   141
+   Cr
+   0.8
+   0.7
+   0.7
+   0.7
+   TCO2
+   42
+   48
+   47
+   49
+   43
+   38
+   Glucose
+   191
+   129
+   176
+   183
+   Other labs: PT / PTT / INR:12.7/27.3/1.1, Lactic Acid:1.4 mmol/L,
+   Ca++:8.7 mg/dL, Mg++:2.3 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   74yo F with hx of COPD, cellulitis, depression, medical non-compliance
+   who presents with hypoxia/hypercarbia and LE cellulitis.
+   .
+   #. Respiratory failure: Likely represents worsening COPD in the setting
+   of medical non-compliance and continued smoking.  Chest CT concerning
+   for small PNA.  CTA negative for PE.  Echo does not suggest heart
+   failure.  Likely high PCO2 at baseline (70-75% given HCO3).
+   - Extubate today.
+   - Wean fentanyl and versed gtts.
+   - Continue to decrease solumedrol to 60 mg [**Hospital1 **] today IV today,
+   Albuterol q2hrs,  ipratropium q6hrs
+   - Unasyn for a total of 14 days.
+   - Flu nasal swab pending
+   .
+   # Cellulitis: Worsening over past several months.  Likely chronic
+   changes and infection.  Blood cultures thus far negative.
+   - Abx as above Unasyn for a total of 14 days.
+   - Wound care consult and redressings.
+   - F/u cultures
+   .
+   #. Medical Non-compliance:
+   - SW consult over hospital course
+ once extubated!
+   .
+   # PPX: Heparin sc, PPI, bowel regimen
+   .
+   #. FEN: Pulm tube feeds via OGT; per nutrition recs.  Replete lytes
+   PRN.  Attempt to diurese slightly negative.
+   .
+   #. Code Status: full code
+   .
+   #. Access: PIV X 2.
+   .
+   #. Dispo: pending resolution of acute medical issues.
+   .
+   # Communications: her son [**Name (NI) 158**] [**Name (NI) 1760**] is hcp, her daughter-in-law [**Name (NI) **]
+   [**Name (NI) 1761**] [**Name (NI) 1760**] is alternate.
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2758-11-4**] 12:06 AM 45 mL/hour
+   Lines:
+   20 Gauge - [**2758-10-30**] 11:10 PM
+   Arterial Line - [**2758-10-31**] 03:55 PM
+   18 Gauge - [**2758-11-3**] 12:11 AM
+
+
+DOC CLASS

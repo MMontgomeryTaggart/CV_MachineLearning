@@ -1,0 +1,244 @@
+Chief Complaint:
+   24 Hour Events:
+ ULTRASOUND - At [**2939-6-6**] 10:45 PM
+   Bil Leni's
+ FEVER - 102.0
+F - [**2939-6-6**] 11:00 AM
+   - found to have LLL pulmonary embolism, started heparin gtt without a
+   bolus
+   - LENIs with extensive bilateral DVTs
+   - G-CSF x 1 to treat neutropenia
+   Allergies:
+   Augmentin (Oral) (Amox Tr/Potassium Clavulanate)
+   Hives;
+   Oxycodone
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Fluconazole - [**2939-6-6**] 08:00 PM
+   Metronidazole - [**2939-6-7**] 12:07 AM
+   Meropenem - [**2939-6-7**] 04:00 AM
+   Daptomycin - [**2939-6-7**] 06:10 AM
+   Infusions:
+   Heparin Sodium - 500 units/hour
+   Other ICU medications:
+   Haloperidol (Haldol) - [**2939-6-6**] 04:09 PM
+   Pantoprazole (Protonix) - [**2939-6-6**] 08:00 PM
+   Morphine Sulfate - [**2939-6-7**] 12:20 AM
+   Metoprolol - [**2939-6-7**] 06:11 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2939-6-7**] 06:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.9
+C (102
+   Tcurrent: 36.7
+C (98.1
+   HR: 110 (85 - 114) bpm
+   BP: 155/73(90) {89/44(54) - 178/94(118)} mmHg
+   RR: 20 (14 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  3,051 mL
+                                                                    731 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,918 mL
+                                                                    414 mL
+   Blood products:
+   Total out:
+                                                                  3,670 mL
+                                                                    625 mL
+   Urine:
+                                                                  3,670 mL
+                                                                    625 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -619 mL
+                                                                    106 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///28/
+   Physical Examination
+   GEN: lying in bed, curled up, rigoring, lucid but not answering
+   questions
+   HEENT: anicteric sclera, MM dry, OP erythematous
+   NECK: thin, supple, R sublcavian intact
+   PULM: Coarse BS bilat, poor inspiratory effort
+   CARD: Tachy, regular, no m/r/g
+   ABD: soft, ? mildly tender though unclear given patient's reaction, no
+   clear guarding or rebound
+   EXT: thin, 1+ pitting edema, s/p AKA
+   SKIN: diffusely friable, ecchymotic, discolored
+   NEURO: opens eyes to questions, lucid, not answering questions, moving
+   extremities
+   Labs / Radiology
+   407 K/uL
+   8.3 g/dL
+   108 mg/dL
+   0.8 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   22 mg/dL
+   112 mEq/L
+   148 mEq/L
+   24.6 %
+   4.1 K/uL
+        [image002.jpg]
+                             [**2939-6-5**]  06:21 PM
+                             [**2939-6-6**]  03:00 AM
+                             [**2939-6-7**]  02:00 AM
+   WBC
+   3.8
+   3.1
+   4.1
+   Hct
+   27.7
+   24.4
+   24.6
+   Plt
+   232
+   252
+   407
+   Cr
+   0.7
+   0.7
+   0.8
+   Glucose
+   86
+   122
+   108
+   Other labs: PT / PTT / INR:25.2/131.8/2.5, ALT / AST:17/22, Alk Phos /
+   T Bili:106/0.2, Amylase / Lipase:21/9, Differential-Neuts:40.0 %,
+   Band:6.0 %, Lymph:35.0 %, Mono:13.0 %, Eos:3.0 %, Fibrinogen:547 mg/dL,
+   Lactic Acid:1.4 mmol/L, Albumin:2.4 g/dL, LDH:280 IU/L, Ca++:7.4 mg/dL,
+   Mg++:1.7 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   70 yo F with RA previously on IS medication, CAD, HTN, PVD, admitted
+   [**2939-4-20**] for necrotizing faciitis of LLE, s/p BKA/AKA, mucositis, now
+   with neutropenia secondary to methotrexate, fevers/rigors, and altered
+   mental status.
+   1. Neutropenic Fever (No longer neutropenic):
+   Febrile in the last 24 hrs but no longer neutropenic. She was
+   previously treated for MSSA and GAS necrotizing fasciitis. Since then,
+   she became neutropenic and febrile, initially responsive to vancomycin,
+   cefepime, and fluconazole. Since then however, she has had a new fever.
+   She was transitioned to daptomycin, meropenem, and fluconazole with
+   still persistent fevers. Etiology still includes infection related to
+   central line, urinary tract infection, and decubitus ulcer. Pulmonary
+   source appears less likely given unremarkable CT chest and no
+   clinically apparent pulmonary symptoms. GI source also appears less
+   likely given unremarkable GI symptoms and CT Abd. Additional
+   non-infectious sources of her infection include drug fever, malignancy,
+   or rheumatologic disease. Drug fever is possible, although all
+   antibiotics have recently been changed. Regarding malignancy, her CT
+   abd/pelvis did note ovarian cyst and bulky uterus, both of which are
+   unexpected in a patient of this age. Regarding rheumatologic disease,
+   she does have a history of significant RA and she is now off
+   methotrexate, although this seems less likely given no findings of new
+   rash or joint inflammation
+   - Appreciate ID recs
+   - continue daptomycin, meropenem, fluconazole, and flagyl for broad
+   spectrum coverage
+   - follow-up blood, urine, and stool cultures
+   - will aim to place IR-guided PICC line on Tuesday; if patient becomes
+   hemodynamically unstable prior to then, would consider replacing
+   central line
+   - follow-up final read of CXR
+   - consider pelvic US to evaluate uterus and ovarian cyst
+   - follow-up with rheumatology regarding possible rheumatologic
+   etiology  of her symptoms
+   - continue supportive care with acetaminophen and meperidine for rigors
+   2. Pancytopenia:
+   Patient became pancytopenic on [**2939-5-29**], most likely related to bone
+   marrow suppression in the setting of methotrexate. EBV and CMV studies
+   are negative, and parvovirus is pending. Patient was started on
+   leucovorin rescue with mild improvement in her WBC, although her ANC
+   remains quite low.
+   - Trend daily CBC with ANC
+   - Active T/S, xfuse for Hct<21, Plt<10K
+   - Hold methotrexate
+   - Cont leucovorin rescue at 7.5mg IV q6 until methotrexate <0.01
+   - Check daily methotrexate levels
+   - f/u parvo B19
+   - Cont supportive care
+   - Appreciate Heme/onc recs
+   3. Abdominal Pain:
+   Patient appears to be in abdominal discomfort, although etiology is
+   unclear. CT Abd/Pelvis was unremarkable, although she may not mount an
+   inflammatory response due to her marked neutropenia.
+   - Suportive care, pain control
+   - consider pelvic US
+   - Empiric flagyl/meropenem/dapto as above
+   4. Delirium:
+   Etiology of her delirium remains unclear. Differential includes
+   infection with unclear source, ICU delirium. Additional possibilities
+   include further clot burden or stroke.
+   - consider MRI/MRA to evaluate for embolic or thrombotic events
+   - Supportive care
+   - Treat underlying fever/infection
+   - Replete lytes, monitor renal function
+   - Low dose haldol prn
+   5.Mucositis and esophagitis:
+   Etiology is most likely related to methotrexate toxicity and candidal
+   infection. Her symptoms appear improved since transfer.
+   - Cont mouth wash for comfort
+   - Cont Fluconazole at increased dose x14 days (d1 = [**5-29**])
+   - TPN
+   - Cont leucovorin
+   - magic mouthwash prn
+   6. Pulmonary embolism and DVT
+   Patient was found incidentally to have a pulmonary embolism on CT Torso
+   and follow-up bilateral lower extremity ultrasounds noted extensive
+   clot burden bilaterally. Differential diagnosis includes DVT in the
+   setting of prolonged hospitalization and immobility, although
+   malignancy is also a concern.
+   - consider pelvic US for malignancy evaluation
+   - continue conservative heparin gtt
+   7. Coagulopathy
+   Etiology of her coagulopathy is unclear. Despite very conservative
+   heparin sliding scale, patient is supratherapeutic and has had elevated
+   INRs previously.
+   - check DIC labs
+   - continue vitamin K repletion
+   8.  Tachycardia:
+   Likely multifactorial to include infection, pain, volume depletion.  PE
+   to be considered though not in any respiratory distress.  Other more
+   common reasons
+   - Treat underlying causes
+   - Cont antibiotics, IVF, pain control
+   9. Rheumatoid Arthritis:
+   Rheumatology following previously.  No acute issues at this time.  Cont
+   to hold methotrexate and cont leukovorin rescue.  Cont maintenance
+   steroids
+   10. s/p AKA: Stable currently.  No obvious infection.  Cont to monitor
+   with proper wound care.
+   - Vasc recs as needed with questions
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**2939-6-7**] 01:48 AM 50 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2939-6-5**] 05:58 PM
+   22 Gauge - [**2939-6-5**] 08:46 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:ICU
+
+
+DOC CLASS

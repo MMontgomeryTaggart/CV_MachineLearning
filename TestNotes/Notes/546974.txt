@@ -1,0 +1,238 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ EKG - At [**2603-10-19**] 05:25 PM
+   for rhythm identification
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Bactrim (SMX/TMP) - [**2603-10-17**] 06:37 PM
+   Meropenem - [**2603-10-20**] 04:00 AM
+   Cefipime - [**2603-10-20**] 04:30 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2603-10-19**] 04:17 PM
+   Pantoprazole (Protonix) - [**2603-10-19**] 08:02 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2603-10-20**] 07:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.6
+C (97.8
+   HR: 99 (80 - 120) bpm
+   BP: 127/58(73) {103/46(61) - 134/64(78)} mmHg
+   RR: 16 (11 - 22) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 69 Inch
+             Total In:
+                                                                  1,532 mL
+                                                                    810 mL
+   PO:
+             TF:
+                                                                    372 mL
+                                                                    225 mL
+   IVF:
+                                                                    800 mL
+                                                                    524 mL
+   Blood products:
+   Total out:
+                                                                    910 mL
+                                                                    265 mL
+   Urine:
+                                                                    805 mL
+                                                                    265 mL
+   NG:
+                                                                      5 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    622 mL
+                                                                    545 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 368 (345 - 562) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 17
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 18 cmH2O
+   SpO2: 96%
+   ABG: 7.37/50/63/28/1
+   Ve: 7 L/min
+   PaO2 / FiO2: 158
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: NG tube, PEG C/D/I
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Crackles : bases b/l, Diminished:
+   bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: Trace, Left: increased lower [**Year (4 digits) **] edema
+   Skin:  Warm, areas of skins break down as prev described
+   Neurologic: Responds to: Verbal stimuli, Movement: Not assessed, Tone:
+   Increased, contracted
+   Labs / Radiology
+   10.4 g/dL
+   351 K/uL
+   115 mg/dL
+   0.7 mg/dL
+   28 mEq/L
+   4.0 mEq/L
+   21 mg/dL
+   106 mEq/L
+   138 mEq/L
+   31.0 %
+   7.4 K/uL
+        [image002.jpg]
+                            [**2603-10-16**]  02:14 PM
+                            [**2603-10-17**]  03:13 AM
+                            [**2603-10-17**]  03:27 AM
+                            [**2603-10-17**]  05:57 PM
+                            [**2603-10-18**]  05:42 AM
+                            [**2603-10-18**]  03:34 PM
+                            [**2603-10-19**]  02:25 AM
+                            [**2603-10-19**]  05:33 PM
+                            [**2603-10-20**]  01:15 AM
+                            [**2603-10-20**]  02:35 AM
+   WBC
+   5.2
+   6.8
+   8.8
+   7.4
+   Hct
+   24.5
+   25.8
+   27.1
+   28.5
+   28.4
+   28.8
+   28.2
+   31.0
+   Plt
+   [**Telephone/Fax (3) 6464**]51
+   Cr
+   1.0
+   1.0
+   0.9
+   0.8
+   0.9
+   0.8
+   0.7
+   TCO2
+   29
+   30
+   Glucose
+   98
+   93
+   85
+   88
+   96
+   115
+   Other labs: PT / PTT / INR:13.1/44.7/1.1, CK / CKMB /
+   Troponin-T:20/3/0.16, ALT / AST:[**10-16**], Alk Phos / T Bili:65/0.0,
+   Amylase / Lipase:36/9, Differential-Neuts:80.4 %, Band:0.0 %,
+   Lymph:15.1 %, Mono:3.9 %, Eos:0.4 %, D-dimer:881 ng/mL, Fibrinogen:386
+   mg/dL, Lactic Acid:0.7 mmol/L, Albumin:2.0 g/dL, LDH:163 IU/L, Ca++:8.8
+   mg/dL, Mg++:2.3 mg/dL, PO4:2.5 mg/dL
+   c. dif neg
+   Assessment and Plan
+   75 y/o M COPD on home O2, ETOH abuse, CAD, PVD s/p BPG originally
+   admitted for wound infection of foot resulting in long hospital course
+   with respiratory failure, recurrent sepsis, now status post
+   tracheostomy on TM now with klebsiella/acinetobacter in sputum and
+   klebsiella in the urine as well as multiple areas of skin break down to
+   explain recent fevers and hypotension.. [**10-11**] aspirated now with non
+   functioning G tube and intermittent SBO/illeus which has been difficult
+   to resolve although he is now tolerating a slow advance in his tube
+   feeds.
+   >Fever/HOTN
+ sepsis +/- adrenal insufficiency and/or anaphylactoid
+   reaction / drug fever. Defervesced and off pressors without any new Abx
+   and with d/c of fluconazole. No other apparent source of infection. BAL
+   conts to show GNR consistent with prior known pathogens. Hydrocortisone
+   was started on [**10-14**] in the setting of refractory hypotension and we
+   were able to wean off pressors.  He has an emerging pattern of
+   increasingly resistant pathogens. We have changed coverage as below and
+   awating BAL sensitivity data.  He also has a pseudomonas pathogen
+   (<4000 colonies in BAL). We will need to figure out exactly how long to
+   treat as he has been on meropenem since [**10-6**] and Cefepime [**10-18**]. We
+   will discuss with ID a course duration.
+   - Change to Cefepime and  continued meropenem.
+   -Change to prednisone with a taper  to begin11/20, 10 mg starting today
+   and then taper
+   >Ileus vs partial SBO: We are again trying tube feed regimen, he
+   tolerated 10 cc yesterday with [**Last Name (LF) 6436**], [**First Name3 (LF) 167**] cont to uptitrate 10 cc
+   /shift
+   -Cont reglan and advancing tube feeds
+   -remove NG tube today
+    > Upper GI bleed: coffee grounds in the NG tube. Will transfuse
+   supportively he is at increase risk given his high dose steroids . Hct
+   has remained stable
+    - Hct goal < 23 or active bleeding.
+   - Change PPI to PO.
+   > lower [**First Name3 (LF) **] edema: increasing in the right lower [**Last Name (LF) **] , [**First Name3 (LF) 167**] r/o DVT and
+   consider diuresis challenge as he is likely volume up from the resus
+   efforts and the steroids.
+   - LENI
+   - consider diuresis
+   > Hypothyroidism: likely low gut absorption given recurrent illeus we
+   have changed to IV synthroid.  We will recheck free T4 later in week.
+   >Renal failure /  Hyponatremia: both issues cont to slowly improve.
+   Stopping the bactrim IV helped to decrease the free water load, in the
+   next day or two we will need to add back free water. His renal function
+   is also trending towards improvemen.
+   >Resp failure
+ PNA, ileus, effusions/volume overload.  His resp
+   failure is complicated  by his overall profound deconditioning and will
+   be difficult to improve.  We have made some improvements over the last
+   24 hrs (in terms of SBO) and has tolerated PS trial ([**9-9**]) and we have
+   been able to make slow efforts to decrease his PS requirement
+   -Continue ventilatory support
+   - Pulm toilet
+
+ PERIPHERAL VASCULAR DISEASE (PVD) WITHOUT CRITICAL LIMB ISCHEMIA:
+   holding plavix pending resolution of possible SBO
+   >PAIN:
+   -Start Tylenol around the clock
+   -avoid opiates
+   - continue wound care, f/u vascular surgery as outpt
+    Other issues per ICU resident note.
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2603-10-20**] 12:59 AM 30 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2603-8-31**] 01:06 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition :ICU
+   Total time spent: 35 minutes
+
+
+DOC CLASS

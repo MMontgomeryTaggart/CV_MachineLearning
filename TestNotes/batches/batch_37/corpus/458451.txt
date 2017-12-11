@@ -1,0 +1,176 @@
+Chief Complaint:
+   24 Hour Events:
+   Continues to have frequent PVCs, in ventricular bigemeny on tele.
+   Allergies:
+   Sulfa (Sulfonamides)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3450-12-20**] 07:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.7
+C (98
+   HR: 78 (70 - 85) bpm
+   BP: 112/55(69) {95/48(63) - 134/85(93)} mmHg
+   RR: 18 (14 - 22) insp/min
+   SpO2: 95%
+   Heart rhythm: AV Paced
+             Total In:
+                                                                    391 mL
+                                                                    211 mL
+   PO:
+                                                                    240 mL
+             TF:
+   IVF:
+                                                                    151 mL
+                                                                    211 mL
+   Blood products:
+   Total out:
+                                                                    300 mL
+                                                                    325 mL
+   Urine:
+                                                                    300 mL
+                                                                    325 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     91 mL
+                                                                   -114 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///24/
+   Physical Examination
+   Cardiovascular: VS:  97.8   120/50  82 18 95%RA
+   GENERAL: WDWN male in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of 7 cm.
+   CARDIAC: PMI displaced laterally. RR, normal S1, S2. No m/r/g. No
+   thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, bibasilar rales.  No  wheezes
+   or rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+  PT 2+
+   Left: Carotid 2+ Femoral 2+  PT 2+
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   272 K/uL
+   14.2 g/dL
+   125 mg/dL
+   1.9 mg/dL
+   24 mEq/L
+   4.6 mEq/L
+   30 mg/dL
+   104 mEq/L
+   138 mEq/L
+   42.8 %
+   12.2 K/uL
+        [image002.jpg]
+                            [**3450-12-19**]  08:43 PM
+                            [**3450-12-20**]  03:44 AM
+   WBC
+   10.6
+   12.2
+   Hct
+   41.2
+   42.8
+   Plt
+   245
+   272
+   Cr
+   1.6
+   1.9
+   TropT
+   0.05
+   0.06
+   Glucose
+   152
+   125
+   Other labs: PT / PTT / INR:21.2/29.1/2.0, CK / CKMB /
+   Troponin-T:117/4/0.06, ALT / AST:21/28, Alk Phos / T Bili:36/0.7,
+   Differential-Neuts:72.4 %, Lymph:21.7 %, Mono:2.7 %, Eos:2.8 %,
+   Ca++:9.3 mg/dL, Mg++:2.2 mg/dL, PO4:3.5 mg/dL
+   Fluid analysis / Other labs: Dig 0.7
+   Imaging: No new imaging
+   Assessment and Plan
+   81 yom with h/o of ischemic heart disease, and CMY EF 15% with BiV
+   pacer and ICD, p/w VT storm.
+   # CORONARIES: H/o ischemic disease with multiple stents.  No
+   revascularabile disease as of [**3450-1-3**]. Pt not having ischemic sx
+   currently or recently.
+   - ASA, BB, ACEI
+   - continue exetemibe, lipitor
+   - Trend CE
+   # PUMP:  Pt has h/o generally well controlled cardiomyopathy.  He
+   appears to be mildly volume overloaded based on pulmonary edema, but
+   not requiring oxygen.  Will hold off on diuresis in acute setting given
+   ectopy and risk of VT.
+   - diurese in AM, follow I/Os
+   # RHYTHM:  Pt has been in and out of NSVT with ATPs and or ICD
+   cardioversion.  Cannot appreciate afib in setting of ectopy.  He
+   continues to have significant ectopy since arrival, but is
+   hemodynamically stable and has not rquired AT pacing.  He has begun
+   bolus with amio at OSH and should continue with it.  He will likely
+   require ablation tx in EP lab on Monday.
+   - Continue Amio at 1mg/kg and reduce to 0.5mg/kg per standard bolus
+   - baseline TSH, liver enzymes
+   - replete electrolytes aggressively
+   - ICD in place and functioning appropriately, pads in place
+   - EP following
+   - for afib, continue BB, coumadin, dig, follow dig levels
+   #Chronic renal insufficiency - baseline Cr 1.6
+   - avoid nephrotoxins
+   - renally dose medications
+   # Htn: as above, continue BB, ACEI, can up titrate as needed
+   # DM - hold glyburide, ISS
+   # GERD: Cont PPI
+   # Arthritis - Tylenol
+   FEN: Cardiac, low sodium diet
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx, therapeutic on coumadin
+   -Pain management with Tylenol
+   -Bowel regimen with colace, senna.
+   CODE: Full
+   COMM: wife, children
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3450-12-19**] 08:42 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

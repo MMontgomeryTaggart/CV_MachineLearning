@@ -1,0 +1,234 @@
+TITLE:
+   Chief Complaint: respiratory distress, pneumonia
+   24 Hour Events:
+   - Sputum cx sent
+   - Vanc adjusted to 750mg q24h based on trough
+   - Standing nebs added
+   - Lasix 20mg IV x1 for goal I/O negative 1L
+   - Metoprolol changed to 50mg po tid
+   Allergies:
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Rash;
+   Tylenol (Oral) (Dm Hb/Pseudoephed/Acetamin/Cp)
+   itch;
+   Last dose of Antibiotics:
+   Cefipime - [**2902-11-9**] 04:15 AM
+   Vancomycin - [**2902-11-9**] 09:00 AM
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**2902-11-9**] 09:00 AM
+   Furosemide (Lasix) - [**2902-11-9**] 02:00 PM
+   Heparin Sodium (Prophylaxis) - [**2902-11-10**] 12:00 AM
+   Morphine Sulfate - [**2902-11-10**] 01:57 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2902-11-10**] 06:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.3
+C (97.4
+   HR: 87 (81 - 100) bpm
+   BP: 107/47(60) {107/29(57) - 165/78(94)} mmHg
+   RR: 18 (18 - 28) insp/min
+   SpO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 76.5 kg (admission): 78 kg
+                  Total In:
+                                                                    550 mL
+                  PO:
+                                                                    300 mL
+                  TF:
+   IVF:
+                                                                    250 mL
+   Blood products:
+   Total out:
+                                                                  2,110 mL
+                                                                    340 mL
+   Urine:
+                                                                  2,110 mL
+                                                                    340 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,560 mL
+                                                                   -340 mL
+   Respiratory support
+   O2 Delivery Device: High flow nasal cannula
+   SpO2: 92%
+   ABG: ///26/
+   Physical Examination
+   GEN: NAD, in bed, conversational, denies pain or SOB, appears cheerful,
+   oriented.
+   CV: irreg irreg, no murmurs
+   PULM:
+   ABD: soft, nt, nd, +bs
+   EXTR: 2+ pitting dense edema b/l in feet and distal legs
+   Labs / Radiology
+   222 K/uL
+   9.6 g/dL
+   156 mg/dL
+   1.6 mg/dL
+   26 mEq/L
+   3.9 mEq/L
+   64 mg/dL
+   108 mEq/L
+   146 mEq/L
+   32.8 %
+   13.4 K/uL
+        [image002.jpg]
+                             [**2902-11-6**]  02:06 AM
+                             [**2902-11-6**]  03:00 PM
+                             [**2902-11-6**]  05:41 PM
+                             [**2902-11-7**]  02:41 AM
+                             [**2902-11-8**]  03:16 AM
+                             [**2902-11-8**]  05:17 PM
+                            [**2902-11-9**]  06:00 AM
+                            [**2902-11-10**]  04:23 AM
+   WBC
+   10.1
+   9.5
+   11.2
+   11.0
+   13.4
+   Hct
+   29.4
+   29.0
+   30.0
+   33.0
+   32.8
+   Plt
+   120
+   139
+   179
+   178
+   222
+   Cr
+   2.5
+   2.5
+   2.4
+   2.7
+   2.3
+   2.0
+   1.6
+   TropT
+   0.13
+   TCO2
+   26
+   Glucose
+   106
+   125
+   108
+   111
+   103
+   125
+   156
+   Other labs: CK / CKMB / Troponin-T:74//0.13, Lactic Acid:1.0 mmol/L,
+   Ca++:8.9 mg/dL, Mg++:1.9 mg/dL, PO4:3.9 mg/dL
+   Fluid analysis / Other labs:
+   Imaging: [**11-9**] CXR Stable complete opacification of the left lung and
+   increased right upper lobe consolidation most compatible with worsening
+   pneumonia.
+   [**11-10**] CXR stable
+   Microbiology: None new, no growth from sputum or blood at this point
+   Assessment and Plan
+ PNEUMONIA, OTHER
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ ATRIAL FIBRILLATION (AFIB)
+ PLEURAL EFFUSION, ACUTE
+   ASSESSMENT/PLAN: 87 y/o male with cardiac history as well as squamous
+   cell CA on face, admitted with SOB/DOE x 3 days w/ pink frothy sputum
+   production and white out of left lung.
+   .
+   #. SHORTNESS OF BREATH: Patient with unilateral pulmonary infiltrate.
+   Less likely CHF b/c of unilateral nature, though appears to have
+   element of volume overload; parapneumonic effusion most likely, and
+   would consider post-obstructive PNA given degree to which whole lung is
+   affect and smoking history (thought had a normal PE four days ago at
+   PCP's office per the pt).  Also with question of hemotpysis, making
+   mass and PE a possibility (especially with the hypoxia).  S/p
+   thoracentesis with CT imaging , initially believed to show loculated
+   pleural effusion, final read pending.  TTE showed no pleural effusion
+   or aortic stenosis, but did show new [**Hospital1 **]-ventricular hypokinesis.  IP
+   evaluated patient and recommended VATS for loculated pleural effusion,
+   which the patient refused.  Re-evaluation of the CT while awaiting
+   final read appears as though patient has dense, possibly
+   post-obstructive pneumonia. Patient was initially on
+   Azithro/Ceftriaxone for empiric treatment of CAP, but this was d/c
+   [**11-6**] and patient was started on Vanc/Cefepime for HAP. When patient
+   becomes anxious, SpO2 decreases.
+   -- Continue Vanc/Cefepime for HAP and azithromycin to cover atypicals
+   -- f/u blood cultures, sputum cultures
+   -- Given [**Hospital1 **]-v hypokinesis and likely diastolic and systolic
+   dysfunction, monitor fluid status carefully to ensure patient does not
+   go into flash pulmonary edema
+   -- can repeat 20 IV lasix again today, goal -500cc today, given CXR,
+   wheeze (?cardiac wheeze), pedal edema
+   -- morphine for SOB and anxiety prn 1-2mg IV q4h
+   -- consider haldol for anxiety (as anxiety was trigger for hypoxia)
+   -- CPAP as needed
+   -- daily CXR
+   -- cont home montelukast, fluticasone, cobivent
+   -- nebs standing and prn (but cautious use of albuterol given
+   tachycardia)
+   -- Patient does not wish to be intubated
+   .
+   #. AFIB:  In afib with RVR.  Consider HF as a trigger given significant
+   pedal edema and rapid weight gain. s/p diltiazem gtt for rate control.
+   -- Change IV to PO metoprolol (metoprolol 50mg tid) as taking PO
+   without difficulty now
+   -- Lasix this AM, as above
+   -- Not on anticoagulation for fall risk and ? GIB hx.
+   -- Continue ASA 325mg daily
+   .
+   #. Systolic and likely diastolic HF:  Given BNP >[**Numeric Identifier 10874**], weight gain,
+   pitting edema b/l, and elevated Cr, patient appears he is in acute on
+   chronic HF, though fluid status is difficult to assess in this
+   patient.  Given patient
+s age and tenuous health, hold Lasix diuresis
+   today and instead attempt to rate control a fib with RVR to increase
+   forward flow and promote auto-diuresis.
+   - Lasix as above, diuresis
+   - Monitor I/O to ensure patient does not go into fluid overload & go
+   into flash pulmonary edema
+   - Morphine PRN as above
+   .
+   # Agitation: Patient agitated when SpO2 decreases.
+   - Consider haldol as needed for agitation as that was previously
+   related to desats
+   - Reorient frequently
+   .
+   # Disorientation: Patient, while hypoxic, felt vertical while was
+   horizontal in bed. Consider hypoxic cerebral hypoperfusion, verus
+   embolic phenomenom d/t afib without anticoagulation. Symptoms resolved
+   now with improved SpO2.
+   - Reorient
+   - If clinical picture changes, consider CT head
+   .
+   # End of life care:
+   - Palliative care c/s placed, f/u recs
+   .
+   #. DIABETES:
+   -- will hold home PO meds; on SSI
+   .
+   # FEN:  Regular diet
+   .
+   #. PPX: home PPI, SQH, bowel regimen
+ goal BM today
+   .
+   #. CONTACT: with patient, had friends who are [**Name (NI) 10876**] ([**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) 464**] and
+   [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 10877**])
+ they were updated yesterday ([**11-7**])
+   .
+   #. CODE: DNR/DNI.
+   #. DISPO: in ICU, pending clinical improvement.
+
+
+DOC CLASS

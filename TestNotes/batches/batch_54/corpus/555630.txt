@@ -1,0 +1,225 @@
+Chief Complaint:
+   24 Hour Events:
+   - Restarted on Keppra
+   - Nausea/vomiting: [**Doctor First Name 410**]/Lip normal, had hypoglycemic episode and
+   received 2 amps of dextrose
+   - Lasix gtt goal 1 L negative by afternoon
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 7 mg/hour
+   Other ICU medications:
+   Fosphenytoin - [**2668-11-30**] 08:14 AM
+   Heparin Sodium (Prophylaxis) - [**2668-12-1**] 12:40 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2668-12-1**] 06:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.8
+C (98.3
+   HR: 81 (78 - 88) bpm
+   BP: 111/59(71) {91/44(60) - 111/70(79)} mmHg
+   RR: 25 (21 - 31) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 88.7 kg (admission): 81 kg
+             Total In:
+                                                                  2,727 mL
+                                                                    361 mL
+   PO:
+             TF:
+                                                                  1,200 mL
+                                                                     92 mL
+   IVF:
+                                                                    407 mL
+                                                                    169 mL
+   Blood products:
+   Total out:
+                                                                  2,830 mL
+                                                                    700 mL
+   Urine:
+                                                                  2,430 mL
+                                                                    700 mL
+   NG:
+   Stool:
+                                                                    400 mL
+   Drains:
+   Balance:
+                                                                   -103 mL
+                                                                   -339 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 20
+   RR (Spontaneous): 5
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 95
+   PIP: 25 cmH2O
+   Plateau: 20 cmH2O
+   SpO2: 100%
+   ABG: ///32/
+   Ve: 9.5 L/min
+   Physical Examination
+   General: intubated, eyes open to voice, appears to smile and/or nod,
+   follows commands
+   HEENT: Sclera anicteric, pupils pinpoint, ETT in place, disconjugate
+   gaze improved, subconjunctival hemorrhages b/l
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen:  soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly; PEG tube in place
+   Ext: Warm, well perfused, 2+ pulses with edema to midcalf
+   Labs / Radiology
+   87 K/uL
+   9.8 g/dL
+   42 mg/dL
+   0.9 mg/dL
+   32 mEq/L
+   3.4 mEq/L
+   16 mg/dL
+   103 mEq/L
+   139 mEq/L
+   29.6 %
+   4.6 K/uL
+        [image002.jpg]
+                             [**2668-11-27**]  01:30 AM
+                             [**2668-11-27**]  05:08 PM
+                             [**2668-11-28**]  03:23 AM
+                             [**2668-11-28**]  01:06 PM
+                             [**2668-11-28**]  04:50 PM
+                             [**2668-11-29**]  04:45 AM
+                             [**2668-11-29**]  02:15 PM
+                             [**2668-11-30**]  03:00 AM
+                             [**2668-11-30**]  06:15 PM
+                             [**2668-12-1**]  02:58 AM
+   WBC
+   3.4
+   3.5
+   4.1
+   2.8
+   4.6
+   Hct
+   27.2
+   24.6
+   26.1
+   24.8
+   29.6
+   Plt
+   71
+   69
+   86
+   79
+   87
+   Cr
+   0.8
+   0.8
+   0.7
+   0.8
+   0.7
+   0.8
+   0.8
+   0.8
+   0.9
+   TCO2
+   31
+   Glucose
+   167
+   182
+   215
+   162
+   146
+   209
+   175
+   67
+   42
+   Other labs: PT / PTT / INR:13.7/34.5/1.2, ALT / AST:16/18, Alk Phos / T
+   Bili:140/0.3, Amylase / Lipase:35/17, Differential-Neuts:74.6 %,
+   Lymph:17.2 %, Mono:4.7 %, Eos:2.9 %, Lactic Acid:2.7 mmol/L, Ca++:8.3
+   mg/dL, Mg++:1.8 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   64 year old gentleman with NASH cirrhosis, seizure disorder and
+   increasing debilitation continues in the ICU after a seizure.  He
+   remains intubated for airway protection and unsuccessfully weaned from
+   ventilation.
+   # Respiratory failure:  Witnessed apnea during code and recent HCAP.
+   Still requires ventilatory support for what appears to be pulmonary
+   edema.  Tolerated PS trial in AM, but still tachypneic
+   - Lasix gtt to goal output of 1 liter by afternoon
+   - Wean as tolerated, with hope to extubate this afternoon.
+   - Hold TF in anticipation of extubation
+   # Seizure disorder:  Keppra order had expired, will restart today.
+   - Phenytoin taper- currently QD x3 days (ending [**2668-12-2**])
+   - Keppra 2250 [**Hospital1 **]
+   - Topamax 200mg PO BID
+   # Hypernatremia:  Resolved.
+   - D/C free water flushes as attempting to reduce volume.
+   - Check PM lytes given diuresis
+   .
+   # Hypogylcemia
+   -  currently resolved and trending up.  Will give
+ dose of insulin
+   today as
+ dose yesterday still made patient hypoglycemic and currently
+   hold TF
+   # Cirrhosis: [**12-21**] NASH, LFTs/bili/coags have not been elevated.
+   Abdominal U/S of liver w/ normal TIPS evaluation with wall-to-wall
+   flow. No ascites identified.
+   - lactulose, rifaxamin-suspect this is contributing to loose stool
+   # Stage IV sacral decubitous ulcer: XR of sacral area did not suggest
+   osteomyelitis.
+   - continue current would care with packing daily
+   # Chronic diastolic heart failure: Most recent echo in [**Month (only) 94**].  Mild
+   LVH.  Stable on exam.
+   # HTN: Blood pressures well-controlled while in-house on metop 12.5
+   [**Hospital1 **].
+   # CAD: stress MIBI in [**2-23**] w/ Fixed, medium sized, severe perfusion
+   defect involving the PDA territory.  Increased left ventricular cavity
+   size. Inferior hypokinesis with preserved systolic function.  No recent
+   h/o chest pain.  Most recent echo with improved EF.
+   # DM2: BS more elevated over the last day in the 200s.
+   - continue current regimen of lantus and humalog and titrate up prn
+   # Pancytopenia:  Chronic issue, likely BM suppression or secondary to
+   seizure medications.
+   - trend for now
+   - guaiac stools
+   # Hypothyroid: levothyroxine
+   # FEN: IVF as above, replete electrolytes prn, Tube feeds via PEG-Held
+   # Prophylaxis: Subcutaneous heparin
+   # Access: PICC
+   # Code: Full (confirmed w/ family)
+   # Communication: Patient
+s Family
+ ALTERATION IN NUTRITION
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ IMPAIRED SKIN INTEGRITY
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ SEIZURE, WITHOUT STATUS EPILEPTICUS
+ HYPOTENSION (NOT SHOCK)
+ OLIGURIA/ANURIA
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2668-11-25**] 04:59 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

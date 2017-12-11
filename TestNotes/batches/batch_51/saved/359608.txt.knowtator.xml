@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="359608.txt">
+    <annotation>
+        <mention id="EHOST_Instance_556" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="432" end="450" />
+        <spannedText>source of bleeding</spannedText>
+        <creationDate>Wed Nov 01 10:47:51 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_564">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_556">
+        <hasSlotMention id="EHOST_Instance_564" />
+        <mentionClass id="bleeding_present">source of bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_557" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4012" end="4045" />
+        <spannedText>evaluation of melanotic stools</spannedText>
+        <creationDate>Wed Nov 01 10:48:08 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_565">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_557">
+        <hasSlotMention id="EHOST_Instance_565" />
+        <mentionClass id="bleeding_present">evaluation of melanotic stools</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_558" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4055" end="4074" />
+        <spannedText># Melanotic stools:</spannedText>
+        <creationDate>Wed Nov 01 10:48:11 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_566">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_558">
+        <hasSlotMention id="EHOST_Instance_566" />
+        <mentionClass id="bleeding_present"># Melanotic stools:</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_559" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4088" end="4131" />
+        <spannedText>at least 2 episodes of melanotic stools.</spannedText>
+        <creationDate>Wed Nov 01 10:48:16 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_567">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_559">
+        <hasSlotMention id="EHOST_Instance_567" />
+        <mentionClass id="bleeding_present">at least 2 episodes of melanotic stools.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_560" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4145" end="4177" />
+        <spannedText>do not reveal a site of bleeding</spannedText>
+        <creationDate>Wed Nov 01 10:48:20 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_568">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_560">
+        <hasSlotMention id="EHOST_Instance_568" />
+        <mentionClass id="bleeding_present">do not reveal a site of bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_561" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4202" end="4250" />
+        <spannedText>causes including small bowel or colonic bleeding</spannedText>
+        <creationDate>Wed Nov 01 10:48:25 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_569">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_561">
+        <hasSlotMention id="EHOST_Instance_569" />
+        <mentionClass id="bleeding_present">causes including small bowel or colonic bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_562" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4282" end="4318" />
+        <spannedText>not showing active signs of bleeding</spannedText>
+        <creationDate>Wed Nov 01 10:48:29 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_570">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_562">
+        <hasSlotMention id="EHOST_Instance_570" />
+        <mentionClass id="bleeding_absent">not showing active signs of bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_563" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="5199" end="5208" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Wed Nov 01 10:48:35 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_571">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_572">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_563">
+        <hasSlotMention id="EHOST_Instance_571" />
+        <hasSlotMention id="EHOST_Instance_572" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

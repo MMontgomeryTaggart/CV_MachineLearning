@@ -1,0 +1,174 @@
+Admission Date:  [**2944-3-2**]              Discharge Date:   [**2944-3-16**]
+
+Date of Birth:  [**2901-7-10**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Aspirin / Percocet
+
+Attending:[**First Name3 (LF) 404**]
+Chief Complaint:
+severe AI due to endocarditis
+
+Major Surgical or Invasive Procedure:
+s/p AVR(21mmSt [**Male First Name (un) **]-mechanical) and MV repair(26mm CE
+annuloplasty band) [**3-4**]
+
+
+History of Present Illness:
+Mrs. [**Known patient lastname 5549**] was recently hospitalized for MSSA bacteremia and
+aortic valve endocarditis from an infected AV fistula which was
+removed.  While she was completing her antibiotics, she
+developed a gram negative rod bacteremia from a centeral line
+which was treated for 2 weeks with negative blood cultures prior
+to admission.  She is now admitted for AVR/MVR
+
+Past Medical History:
+HTN
+endocarditis
+ESRD on HD
+reactive airway disease
+s/p tubal ligation
+s/p multiple fistula formations
+
+Social History:
+She lives in [**Location **] with her 2 daughters.  She has a 35 pack
+year smoking history and quit 1 year ago.  She has a remote
+history of cocaine abuse and quit 16 years ago.
+
+Physical Exam:
+Discharge physical exam:
+Tm 98.2 P59SR BP135/80  RR20 SpO2 98%RA  Weight 55.6kg
+Neuro:awake, alert, non-focal, orientedx3
+CV:regular rate and rhythm, without rub or murmur
+Resp:lungs clear bilaterally
+GI:abdomen soft, non-tender, non-distended, +bowel sounds
+Extremities without edema
+Sternal incision clean and dry without erythema or drainage
+
+Pertinent Results:
+[**2944-3-16**] 08:00AM BLOOD WBC-10.1 RBC-3.23* Hgb-9.3* Hct-28.7*
+MCV-89 MCH-28.9 MCHC-32.5 RDW-16.0* Plt Ct-377
+[**2944-3-16**] 08:00AM BLOOD Plt Ct-377
+[**2944-3-16**] 05:05AM BLOOD PT-19.3* INR(PT)-2.3
+[**2944-3-16**] 08:00AM BLOOD UreaN-45* Creat-9.0*# Na-134 K-4.6 Cl-96
+HCO3-26 AnGap-17
+[**2944-3-16**] 08:00AM BLOOD Albumin-3.1* Calcium-9.3 Phos-5.2* Mg-1.7
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname 5549**] was admitted to [**Hospital1 52**] on [**3-2**] preoperatively for
+hemodialysis.  She was taken to the operating room with Dr.
+[**Last Name (STitle) **] on [**3-4**] and underwent AVR with 21mm St. [**Male First Name (un) **]
+mechanical valve and MV repair with 26mm CE annuloplasty band.
+Please see operative note for full details.  She was transferred
+to the ICU in stable condition and required vasopressors to
+maintain adequate blood pressure.  She was significantly volume
+overloaded and required several hemodialysis treatments prior to
+successful weaning from the ventilator.  She was extubated from
+mechanical ventilation on POD#3, and started on heparin for
+anticoagulation.  She continued to require lo dose vasopressor
+support to maintain an adequate blood pressure.  This was weaned
+to off by POD#4, she was started on Lopressor and transferred to
+the regular floor on POD#5.  She was noted to have a flexion
+deformity of her Left 3rd digit.  The patient reported the night
+before her surgery she felt a "[**Doctor Last Name **]" in her finger.  The hand
+surgery team surgery was consulted and it was felt that the
+patient had a mallet deformity and it was recommended that the
+patient have a splint applied to the dorsum of the L third
+finger over the DIP joint leaving the PIP joint free.  This was
+manufactured by occupational therapy and applied to the
+patient's finger.  It was recommended that she follow up with
+the hand clinic in 6 weeks.  On POD#6 the patient developed
+rapid atrial fibrillation and was treated with IV Lopressor and
+amiodarone.  She converted to sinus rhythm shortly after
+treatment and had no further atrial fibrillation.  She continued
+on heparin and Coumadin and on POD#11, her INR was >2.0 and her
+heparin was discontinued and on POD#12, she was cleared for
+discharge to home.
+
+
+Medications on Admission:
+zovirax 200mg qd
+norvasc 5mg qd
+tessalon 100mg tid
+phoslo 1324mg tid
+calcium carbonate 500mg tid
+epogen 10,000 units q HD
+flovent [**Hospital1 **]
+folate 1mg qd
+labetolol 200mg [**Hospital1 **]
+prevacid 30mg qd
+lisinopril 20mg qd
+nephrocaps 1qd
+acyclovir ointment prn
+lactulose qd
+
+Discharge Medications:
+1. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours).
+Disp:*1 MDI* Refills:*2*
+2. Beclomethasone Diprop Monohyd 0.042 % Aerosol, Spray Sig: Two
+(2) Spray Nasal Q8 HOURS ().
+Disp:*1 MDI* Refills:*2*
+3. Hydromorphone HCl 2 mg Tablet Sig: 1-2 Tablets PO every [**2-26**]
+hours as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months: while taking narcotic pain
+medication.
+Disp:*60 Capsule(s)* Refills:*0*
+5. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+7. Amiodarone HCl 200 mg Tablet Sig: One (1) Tablet PO once a
+day for 1 months.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Nephrocaps 1 mg Capsule Sig: One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*2*
+9. Coumadin 6 mg Tablet Sig: One (1) Tablet PO once a day for 2
+days: then per Dr. [**Last Name (STitle) 1446**].
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 413**] Hospice and VNA
+
+Discharge Diagnosis:
+AV endocarditis
+s/p AVR/MV repair
+ESRD on HD
+post op atrial fibrillation
+mallet finger of L 3rd finger
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+you may take a shower and wash your incisions with mild soap and
+water
+do not swim or take a bath for 1 month
+do not lift anything heavier than 10 pounds for 1 month
+do not drive for 1 month
+do not apply lotions, creams, ointments or powders to your
+incisions
+
+Followup Instructions:
+follow up with Dr. [**Last Name (STitle) 6728**] ([**Telephone/Fax (1) 25586**] in [**11-24**] weeks
+follow up with Dr. [**Last Name (STitle) 25587**] ([**Telephone/Fax (1) 25588**] in [**11-24**] weeks
+follow up with Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 25589**] in [**1-24**] weeks
+call plastic surgery hand clinic @([**Telephone/Fax (1) 25590**] for follow up
+appointment in 6 weeks
+
+
+
+Completed by:[**2944-3-16**]
+
+DOC CLASS

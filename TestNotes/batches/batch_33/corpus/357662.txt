@@ -1,0 +1,258 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - HCT stable at 30.6
+   - Started on tube feeds but had more nausea and vomiting with them so
+   they were held overnight
+   - Was changed to po bp meds in the morning- carvediolol 6.25mg [**Hospital1 **] and
+   diltiazem 15mg po tid
+   - Increased diltiazem to 30mg tid
+   - Continued to have elevated SBP's to 190's, received hydalizaine 10mg
+   iv x1 during day with bp down to 170's and an additional dose overnight
+   as bp's still in 170's
+   - Had low UOP overnight, bolused 500cc and started on maintenance
+   fluids as tube feeds being held [**2-27**] her nausea
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Diltiazem - [**2840-1-28**] 11:01 PM
+   Pantoprazole (Protonix) - [**2840-1-28**] 11:59 PM
+   Hydralazine - [**2840-1-29**] 01:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2840-1-29**] 06:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.4
+C (99.4
+   HR: 67 (52 - 109) bpm
+   BP: 116/52(65) {115/32(56) - 195/145(153)} mmHg
+   RR: 19 (16 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Height: 60 Inch
+             Total In:
+                                                                  1,040 mL
+                                                                    765 mL
+   PO:
+             TF:
+                                                                      2 mL
+   IVF:
+                                                                    958 mL
+                                                                    765 mL
+   Blood products:
+   Total out:
+                                                                    588 mL
+                                                                    120 mL
+   Urine:
+                                                                    588 mL
+                                                                    120 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    452 mL
+                                                                    645 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 342 (335 - 409) mL
+   PS : 10 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI: 49
+   PIP: 17 cmH2O
+   Plateau: 13 cmH2O
+   Compliance: 50 cmH2O/mL
+   SpO2: 99%
+   ABG: ///31/
+   Ve: 9 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: No(t) PERRL
+   Head, Ears, Nose, Throat: Normocephalic, tracheostomy
+   Cardiovascular: (PMI Hyperdynamic), (S1: Normal), (S2: Normal),
+   (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: at bases, Rhonchorous: throughout)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Warm
+   Neurologic: Responds to: Verbal stimuli, Movement: Not assessed,
+   Sedated, Tone: Not assessed
+   Labs / Radiology
+   81 K/uL
+   10.8 g/dL
+   120 mg/dL
+   1.0 mg/dL
+   31 mEq/L
+   3.2 mEq/L
+   29 mg/dL
+   107 mEq/L
+   144 mEq/L
+   32.5 %
+   7.7 K/uL
+        [image002.jpg]
+                            [**2840-1-24**]  04:45 AM
+                            [**2840-1-24**]  07:46 AM
+                            [**2840-1-25**]  04:32 AM
+                             [**2840-1-26**]  03:32 AM
+                             [**2840-1-26**]  03:07 PM
+                             [**2840-1-27**]  04:35 AM
+                             [**2840-1-27**]  04:12 PM
+                             [**2840-1-28**]  04:49 AM
+                             [**2840-1-28**]  04:57 PM
+                             [**2840-1-29**]  03:59 AM
+   WBC
+   4.6
+   5.0
+   6.8
+   4.2
+   6.6
+   7.2
+   7.7
+   Hct
+   25.2
+   26.4
+   26.3
+   24.9
+   28.4
+   27.0
+   29.4
+   31.8
+   30.6
+   32.5
+   Plt
+   61
+   70
+   65
+   122
+   94
+   90
+   81
+   Cr
+   0.8
+   0.8
+   0.8
+   0.9
+   1.1
+   1.0
+   Glucose
+   135
+   108
+   79
+   67
+   106
+   120
+   Other labs: PT / PTT / INR:12.8/27.2/1.1, CK / CKMB /
+   Troponin-T:36/2/0.20, ALT / AST:[**8-23**], Alk Phos / T Bili:43/0.3,
+   Differential-Neuts:90.5 %, Band:0.0 %, Lymph:4.7 %, Mono:4.5 %, Eos:0.2
+   %, Fibrinogen:105 mg/dL, Lactic Acid:0.6 mmol/L, Albumin:3.5 g/dL,
+   LDH:284 IU/L, Ca++:8.9 mg/dL, Mg++:2.0 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   82 year old female with CAD s/p CABG and AVR, AF, and COPD on home
+   oxygen, presenting from OSH for management of GI bleed, and hypercarbic
+   respiratory failure, with failure to extubate x3 while admitted.
+   # Hypercarbic Respiratory Failure:  Was extubated [**1-9**] at OSH and
+   retubated here for hypercardibic resp failure, then again extubated and
+   reintubated [**2755-1-15**] with failure extubattion attempt on [**1-22**].  Likely
+   multifactorial
+ PNA, CHF/flash pulmonary edema and underlying COPD.
+   Is s/p trach ane PEG [**2840-1-25**].  Has completed 8 day course of
+   Vancomycin/Meropenem
+   - optimiazing cardiac status with betablocker and CCB
+ changed to IV
+   yesterday
+   - continue advair, ipratropium, home xopenex, steroids d/c
+ed [**1-24**]
+   # Gastrointestinal Bleeding:  Has blood tinged vomit yesterday.  Hct
+   was stable in high 20
+s.  GIU c/s obtained who agreeded that bleeding
+   was not an acute issue and emergent scope not indicated inless GIB
+   worsened.    IP offered to do a scope to look at the PEG site if we
+   want this (however this would not examine the entire abdomen and they
+   don't think the blood is from the PEG site).  Her family is ok with her
+   getting a scope if GI changes their mind. Has recevieved a total of
+   4units pRBC.
+   - Maintain active type and screen, PICC access
+   - Transfusion goal > 25
+   - Restarted PPI yesterday
+ with close monitoring of plt count
+   # Thrombocytopenia: Stable in 90-100
+s.  Unclear cause. Possibiilties
+   include antibiotics or PPI related. PPI was discontinued for this
+   reason; however, had to be restarted today in setting of potential GI
+   bleed. Patient received plt transfusion 2 days ago with bump to 122
+   from 65/  PF4 antibodies negative this admission. Other etiologies
+   include infection, although appears to be recovering from PNA.
+   - Daily PLT check
+   - Transfuse for platelets < 50 or active bleeding
+   - Consider restarting anticoagulation for AF once procedures over and
+   platelets recover.
+   - Consider heme consult if platelets continue to downtrend
+   - Restart tube feeds with predosing of Zofran from nausea
+   - Guaiac all stools
+   - Will need scope if bleeds with tube feeds
+   # Atrial Fibrillation: Currently rate controlled when comfortable with
+   pain and anxiety control and is otherwise hemodynamically stable.
+   Currently not anticoagulated after GI bleed prior to presentation.
+   - will change back to po dilt and carvediolol with tube feeds, titrate
+   up as necessary
+   - Consider restarting coumadin once platelets stable and no evidence of
+   ongoing GI bleed
+   - Holding tykosin and digoxin
+   # Coronary Artery Disease: s/p CABG (LIMA to LAD and SVG to RCA).
+   - Continue simvastatin
+   - Restarted carvediolol
+   - Consider restarting ASA once platelets stable and no evidence of
+   ongoing GI bleed
+   # Aortic Valve Replacement (bioprosthetic):  Not anticoagulated.
+   Performed in [**2833**]. TTE here with EF 50%, severe pulm regurg and mild
+   pulm HTN
+   # Hypertension: Patient had elevated SBP's overnight  Was given an
+   additional 5 mg IV metoprolol (in addition to 10 mg IV q6h), however
+   her SBPs remained in the 180's to 190's (asymptomatic).  She was given
+   10 mg IV hydralazine and her metoprolol was increased to 15 mg IV q6h.
+   BP
+s now in 120
+s-130
+   - Close monitoring as weaning sedation and pain medication
+   - changed to po meds as above with prn hydralazine, titrate up as
+   necessary
+   #Agitation:   Was agitatioed last night at time of increaed bp
+   recevied haldol with good effect
+   -haldol prn for night time agitation
+   #Back Wound: Patient with stage II ulcer on back from burn injury at
+   [**Location (un) **]. Wound care seen, appreciate recs. Dressings per recs. Stopped
+   steroids (can contribute to skin thinning).
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2840-1-18**] 09:20 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition:ICU
+ screening for respiratory rehab
+
+
+DOC CLASS

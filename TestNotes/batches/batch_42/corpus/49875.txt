@@ -1,0 +1,203 @@
+Admission Date:  [**2943-10-5**]              Discharge Date:   [**2943-10-13**]
+
+Date of Birth:  [**2890-3-16**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4141**]
+Chief Complaint:
+right arm pain
+
+Major Surgical or Invasive Procedure:
+Laminectomy with excision T1 mass with intra-operative
+monitoring
+
+History of Present Illness:
+HPI: Patient is a 53 year old RHW with hx of
+fibromyalgia,hypothyroidism and depression here with several
+months R arm numbness found to have large spinal mass near T1 at
+an outside imaging facility.Patient reports that she developed
+tightness sensation that radiated down from her neck to R arm
+more medially since [**Month (only) 201**]. She describes that it felt like a BP
+cuff tightening her arm which loosened within seconds followed
+by some tingling sensation.  This was intermittent and possibly
+more intense 3 months ago when it started than now.  She then
+felt that she has been getting weaker on her R arm.  Although
+she can't describe any specific things that she is no longer
+able to do, she feels that she has been using her L hand more
+because she is weaker on her R arm than L.She denies any trauma
+or injury.  Upon more probing, she feels that her husband
+noticed that she occasionally wobbled while walking.  Possibly
+more to the R but no falls or brushing against the wall.  She
+denies any numbness or weakness in her legs.  She does have hx
+of headaches/migraines and is on Imitrex as needed.She feels
+that she may have been getting more frequent headaches than
+before but no nausea/vomiting or visual problems. She was
+diagnosed with fibromyalgia 3~4 years ago after complaining of
+severe hand pain especially in her thumbs.  She also had some
+leg throbbing that improved with starting Cymbalta for her
+"fibromyalgia."  She was on 60 mg until several months ago but
+then she developed some trouble going to the bathroom. She felt
+that she had trouble initiating urination and her PCP decreased
+the dose to 30 mg without too much relief.  She denies any
+accidents or abnormal perivaginal sensation but she still feels
+that she has hesitancy before urination.  No problems with bowel
+including constipation.
+
+ROS otherwise negative including fever, night sweats or
+significant weight loss.  She reports possible 15 lb weight gain
+over the past year or so.  Of note, she does report mild
+numbness of the tongue as if she receive Novocaine for the past
+few days.
+
+Past Medical History:
+PMHx:
+1. Fibromyalgia
+2. Depression
+3. Hypothyroidism
+4. Migraine
+5. Hx of diverticulitis
+
+Social History:
+Social Hx: Lives at home with daughter and husband.  [**Name (NI) 2139**] for
+Stop and Shop - real estate.  Denies any smoking or drugs.
+Occasional wine.  Full code and no HCP.
+
+Family History:
+Family Hx: Father died of lung cancer at age 81 and was a
+smoker.Mother died of stomach disease (?) at age 76 and was also
+a smoker.  Son died of melanoma at age 21.
+
+Physical Exam:
+PHYSICAL EXAM:
+O: T: 98.2  BP: 108/71 HR: 79   R: 20 O2Sats: 100% RA
+Gen: WD/WN, comfortable, NAD.
+Neck: Supple.
+Lungs: Clear
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Attentive and no apraxia.
+
+Motor: No pronator drift but does have curling in of R fingers.
+      D    B     T    WE   FE    IP    Q  H     AT    [**Last Name (un) 190**]    G
+R     4    4     4    5     4     4    5  5     5     5      5
+L     5    5     5    5     5     5    5  5     5     5      5
+
+Sensation: Intact to light touch, cold, proprioception, pinprick
+bilaterally.  Sensory level found posteriorly right below the
+scapula around T6 to PP but less clear anteriorly.
+
+Reflexes: B T Br Pa Ac
+Right     2 2  2  2 1
+Left      2 2  2  2 0
+No clonus. Toe down on R but mute on L.
+
+Gait: Steady and good initiation.  Able to tandem but positive
+Romberg.
+
+Exam upon discharge:
+xxxxxxx
+
+Pertinent Results:
+MRI from Shields was uploaded and reveals a large
+extra-axial,enhancing mass effacing the cord around T1.  It has
+broad dural base and seems most likely meningioma.
+
+
+Brief Hospital Course:
+Patient was admitted to neurosurgery and started on decadron.
+She had work up including brain MRI which was negative.  Her
+motor exam improved on steroids.  She was readied for the OR. On
+[**10-9**] she underwent a T1 excsion intrdural mass, without
+complications. The frozen pathology showed meningioma She had a
+post operative MRI which showied complete resection of the
+meningioma. She was monitored overnight in the PACU and was
+transferred to the floor on [**10-10**]. Her steroids were weaned, PT
+and OT consults were obtained and recommended discharge to home
+with outpatient PT. Diet and activity were advanced.  She
+required titration of pain medication and soft collar was added
+for comfort. Post op MRI showed no residual mass. Wound was
+clean and dry with staples.
+
+Medications on Admission:
+1. Synthroid 50mcg daily
+2. Cymbalta 30 mg daily
+3. Wellbutrin 150mg [**Hospital1 9**]
+4. Imitrex PRN
+
+
+Discharge Medications:
+1. Bupropion HCl 75 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+2. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day): take while on narcotic.
+Disp:*60 Capsule(s)* Refills:*0*
+4. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for T>100.4 or pain.
+6. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for no bm>48hr.
+7. Hydromorphone 2 mg Tablet Sig: 1-3 Tablets PO Q3H (every 3
+hours) as needed for pain.
+Disp:*90 Tablet(s)* Refills:*0*
+8. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO BID (2
+times a day) for 10 days: then dc.
+Disp:*40 Capsule(s)* Refills:*0*
+9. Diazepam 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for neck spasm.
+Disp:*40 Tablet(s)* Refills:*0*
+10. Outpatient Physical Therapy
+s/p laminectomy T1 with excision mass for right arm
+weakness/pain
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+T1 mass
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+??????        Do not smoke
+??????        Keep wound clean / No tub baths or pools until seen in
+follow up/ take daily showers
+??????        No pulling up, lifting> 10 lbs., excessive bending or
+twisting for two weeks.
+??????        Limit your use of stairs to 2-3 times per day
+??????        Have a family member check your incision daily for
+signs of infection
+??????        Take pain medication as instructed; you may find it
+best if taken in the a.m. when you wake if you experience muscle
+stiffness and before bed for sleeping discomfort
+??????        Increase your intake of fluids and fiber as pain
+medicine (narcotics) can cause constipation
+
+Followup Instructions:
+PLEASE RETURN TO THE OFFICE on Friday [**10-18**] FOR REMOVAL OF YOUR
+STAPLES. Call to schedule time [**Telephone/Fax (1) 6178**].
+PLEASE CALL [**Telephone/Fax (1) 4405**] TO SCHEDULE AN APPOINTMENT WITH DR.
+[**Last Name (STitle) **] TO BE SEEN IN 6 WEEKS.
+YOU WILL NOT NEED XRAYS PRIOR TO YOUR APPOINTMENT
+
+
+
+Completed by:[**2943-10-13**]
+
+DOC CLASS

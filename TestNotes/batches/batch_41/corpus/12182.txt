@@ -1,0 +1,102 @@
+Admission Date:  [**2950-3-27**]     Discharge Date:  [**2950-4-4**]
+
+Date of Birth:   [**2895-1-26**]     Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 55-year-old
+woman who presented to [**Hospital 315**] Hospital in [**Month (only) 294**] with
+increased shortness of breath.  The patient had an exercise
+tolerance test which was positive, followed by a cath which
+showed two vessel disease.  The patient's ejection fraction
+was noted to be 24% on cardiac cath.
+
+PAST MEDICAL HISTORY:  Includes insulin dependent diabetes
+mellitus, increased cholesterol, obesity, question silent MI.
+
+PAST SURGICAL HISTORY:  Includes bilateral laser surgery of
+her eyes in [**2946**] and [**2948**].
+
+MEDICATIONS:  Include Accupril 10 mg po q d, Lipitor 20 mg po
+q d, Toprol XL 25 mg po q d, Lasix 80 mg po q d, Isosorbide
+30 mg po q d, Aspirin 81 mg po q d, NPH 24 units subcu q a.m.
+and Regular insulin 8 units subcu q a.m.  NPH insulin 8 units
+subcu q p.m.
+
+ALLERGIES:  Sulfa which gives her hives.
+
+PHYSICAL EXAMINATION:  Patient has a blood pressure of
+118/70, height 5 feet, 4 inches, is a well nourished, obese
+woman.  Skin with small amount of eczema on bilateral lower
+extremities.  HEENT:  Pupils are equal, round, and reactive
+to light and accommodation, extraocular movements intact.
+Neck, no JVD, no carotid bruits.  Chest clear to auscultation
+bilaterally.  Heart, no JVD, S1 and S2, occasional faint S4.
+No murmurs, rubs or gallops.  Abdomen soft, obese, nontender,
+non distended.  Extremities, healed right outer calf
+abrasion.  Neuro, cranial nerves II through XII intact.
+
+HOSPITAL COURSE:  The patient was admitted on [**2950-3-27**] and
+underwent a three vessel CABG, LIMA to the LAD, saphenous
+vein graft to PDA and saphenous vein graft to OM1.  The
+patient did well post-operatively and was transferred to the
+CSRU.  The patient was extubated on postoperative day #1.
+The intra-aortic balloon pump was discontinued on
+postoperative day #2.  On postoperative day #3 the patient
+required two units of blood for a hematocrit of 23.5.  On
+postoperative day #3 in the evening the patient was
+transferred to the floor.  On the evening of postoperative
+day #3 the patient was noted to be in atrial fibrillation,
+atrial flutter.  The patient was started on a Heparin drip.
+The patient was also started on Coumadin.  Again, on
+postoperative day #4 the patient had a burst of atrial
+fibrillation and was given an Amiodarone bolus.  The patient
+was also started on Amiodarone 400 mg po tid.  After having
+received one dose of Coumadin, the patient's INR was 2.3.
+The patient's Heparin was discontinued.  On postoperative day
+#6 it was noted that the patient's INR was 5.5.  The
+patient's Coumadin was held.  On postoperative day #7 the
+patient's INR returned to 1.5 after 1 mg of Vitamin K was
+administered.  The patient received 1 mg of Coumadin that
+evening and on postoperative day #8 the patient was
+discharged to home in good condition.
+
+DISCHARGE MEDICATIONS:  The patient was discharged on the
+following medications: Amiodarone 400 mg po tid times three
+days, Amiodarone 400 mg po bid times seven days, Amiodarone
+400 mg po q d times 7 days, Metoprolol 25 mg po bid, Lasix 20
+mg po bid times 7 days, KCL 20 mEq po bid times 7 days, NPH
+insulin 24 units subcu q a.m., NPH insulin 8 units subcu q
+p.m., Regular insulin 8 units subcu q a.m., Coumadin 1 mg on
+[**2950-4-4**] and another mg on [**2950-4-5**] to be rechecked on [**2950-4-6**]
+and then called to her physician, [**Name Initial (NameIs) **] 75 mg po q d times
+three months, Captopril 12.5 mg po tid, Aspirin 81 mg po q d,
+Colace 100 mg po bid, Lipitor 20 mg po q d, Percocet 1-2 tabs
+po q 4-6 hours prn, Isosorbide 30 mg po q d and the patient
+was told to return to her Lasix 80 mg po q d when she
+returned home.
+
+DISCHARGE DIAGNOSIS:
+1.  Status post three vessel CABG.
+
+DISCHARGE CONDITION:  Good.
+
+DISPOSITION:  To home.
+
+FO[**Last Name (STitle) 658**]P: In four weeks with Dr. [**Last Name (Prefixes) **].
+
+
+
+
+                          [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 660**]
+
+Dictated By:[**Last Name (NamePattern1) 5824**]
+
+MEDQUIST36
+
+D:  [**2950-4-4**]  14:30
+T:  [**2950-4-4**]  19:58
+JOB#:  [**Job Number 1528**]
+
+
+DOC CLASS

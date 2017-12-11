@@ -1,0 +1,300 @@
+Chief Complaint:
+   24 Hour Events:
+   - [**Doctor First Name 3**] recs: Not likely to be appendicitis issue. D/c line and culture
+   tip. Send LFTs. F/u fever work up Cx. Continue Cipro/Flagyl (complete
+   course on Friday).
+   - A-line placed
+   - BP in low 70s, gave 500cc NS, not much improvement. Gave 1 L NS x 2,
+   and levophed started. Abx changed to Vanc/Zosyn from Cipro/Flagyl.
+   - CT abd/pelvis prelim: No peripancreatic fistula or drainable fluid
+   colelction.
+   - On D5W with 3 amps Bicarb at 150cc/hr x 1 L
+   - TPN started
+   - Spoke with HCP [**Name (NI) 4849**] [**Name (NI) 4850**] (neighbor) [**Telephone/Fax (1) 4851**]; full code at
+   this time.
+   - Sputum Gm stain:   4+ BUDDING YEAST WITH PSEUDOHYPHAE.
+   3+ Gm Pos Rods  2+ GPC IN PAIRS AND CLUSTERS.
+   - renal recs: ARF likely pre-renal etiology; continue volume
+   resuscitation, abx, and bicitra.
+ ARTERIAL LINE - START [**3347-2-3**] 10:58 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**3347-2-3**] 02:20 AM
+   Ciprofloxacin - [**3347-2-3**] 08:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3347-2-4**] 04:30 AM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Heparin Sodium - 650 units/hour
+   Norepinephrine - 0.24 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3347-2-4**] 06:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.7
+C (99.8
+   HR: 121 (87 - 143) bpm
+   BP: 87/52(66) {64/40(49) - 105/62(78)} mmHg
+   RR: 22 (18 - 31) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 66 Inch
+    CO/CI (Fick): (7.5 L/min) / (4.1 L/min/m2)
+   Mixed Venous O2% Sat: 73 - 73
+   Total In:
+                                                                  5,700 mL
+                                                                  1,316 mL
+   PO:
+   TF:
+   IVF:
+                                                                  4,688 mL
+                                                                    942 mL
+   Blood products:
+   Total out:
+                                                                  1,795 mL
+                                                                    890 mL
+   Urine:
+                                                                  1,495 mL
+                                                                    890 mL
+   NG:
+                                                                    300 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,905 mL
+                                                                    426 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 102
+   PIP: 20 cmH2O
+   Plateau: 12 cmH2O
+   SpO2: 99%
+   ABG: 7.34/36/119/19/-5
+   Ve: 12.8 L/min
+   PaO2 / FiO2: 298
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: R pupil constricted, L pupil 2mm and responsive
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition, Endotracheal
+   tube, OG tube
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), Irreg irreg
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   Rhonchorous: scattered)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: Absent, Left: Absent, RUE with signficant pitting
+   edema and erythema, LUE with minimal erythema and edema to mid-arm
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm
+   Neurologic: No(t) Attentive, No(t) Follows simple commands, Responds
+   to: Not assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   372 K/uL
+   9.3 g/dL
+   226 mg/dL
+   1.8 mg/dL
+   19 mEq/L
+   3.8 mEq/L
+   60 mg/dL
+   114 mEq/L
+   142 mEq/L
+   27.9 %
+   9.8 K/uL
+        [image002.jpg]
+                             [**3347-2-3**]  04:28 AM
+                             [**3347-2-3**]  06:12 AM
+                             [**3347-2-3**]  11:03 AM
+                             [**3347-2-3**]  04:06 PM
+                             [**3347-2-3**]  04:21 PM
+                             [**3347-2-3**]  06:00 PM
+                             [**3347-2-3**]  10:00 PM
+                             [**3347-2-4**]  01:13 AM
+                             [**3347-2-4**]  05:17 AM
+                             [**3347-2-4**]  05:38 AM
+   WBC
+   9.1
+   8.9
+   9.8
+   Hct
+   28.2
+   26.5
+   27.9
+   Plt
+   348
+   304
+   372
+   Cr
+   2.0
+   1.9
+   1.8
+   TropT
+   0.08
+   TCO2
+   18
+   17
+   16
+   18
+   20
+   Glucose
+   129
+   106
+   115
+   156
+   226
+   Other labs: PT / PTT / INR:18.3/72.7/1.7, CK / CKMB /
+   Troponin-T:38//0.08, ALT / AST:46/26, Alk Phos / T Bili:67/0.2,
+   Differential-Neuts:76.6 %, Lymph:15.7 %, Mono:6.0 %, Eos:1.1 %, Lactic
+   Acid:1.0 mmol/L, Albumin:2.2 g/dL, LDH:238 IU/L, Ca++:7.4 mg/dL,
+   Mg++:1.9 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   This is an 81 yo M with history of lung cancer s/p resection, prostate
+   ca s/p hormonal therapy and XRT as well as COPD, SVT, CHF and ruptured
+   appendix on medical therapy who was admitted with hypernatremia and
+   atrial fibrillation and is now intubated for respiratory failure.
+   .
+   # Respiratory failure: Likely a combination of IVF, afib with RVR, and
+   profound metabolic acidosis that the patient was attempting to
+   compensate for (initial pH on floor 7.16).   Patient was overbreathing
+   the ventilator overnight when less sedated to increase pH and
+   simultaneously driving down CO2.  Minute ventilation 12-17L/min.
+   Patient has a history of COPD and likely chronically has a high CO2.
+   Will not try to achieve his baseline CO2 currently as there is still an
+   ongoing metabolic acidosis.
+   - Continue to titrate vent settings to achieve target minute
+   ventilation around 12-13 L/min
+   - Will attempt to wean as acidosis improves
+   - VAP precautions
+   - Repeat CXR in am
+   .
+   # Fever: Patient has been on cipro/flagyl for medical management of a
+   ruptured appendicitis.  Fever may represent worsening of this process
+   vs. aspiration pneumonitis from intubation vs. some other occult
+   infectious process.  Notably, the patient does not have an elevated WBC
+   count.
+   - Cont. cipro & flagyl
+   - CT abdomen to examine for interval changes, worsening appendicitis
+   vs. duodenal-pancreatic communication given low HCO3
+   - f/u blood, urine, & sputum cultures
+   - trend fever curve & WBC count.
+   .
+   # Tachycardia: Patient was noted to have tachycardia (afib vs ST vs
+   MAT) during last admission which was treated with IV lopressor
+   transitioned to PO lopressor.  A CTA at that time was negative for PE
+   and CE ruled out MI.  Cardiology at that time felt that the rhythm was
+   likely sinus tachy with APBs/MAT, and recommended watching as well as
+   possibly initiating digoxin which was not started at that time.
+   Patient has ruled out for an MI again.  Dilt drip stable at 10 mg/hr
+   overnight with heart rates in the low 100s and SBP in the low 100s.
+   Unable to transition to PO meds at this time as patient is NPO due to
+   ruptured appendix.
+   - Continue dilt gtt, titrate down as tolerated and transition to home
+   metoprolol when able to take POs
+   - Can discuss possible initiation of digoxin once ARF improves
+   .
+   # Non-AG metabolic acidosis: Differential includes saline
+   resuscitation, diarrhea, renal failure (decreased acid excretion),
+   increased amino acids in TPN, or RTA.  Urine lytes with anion gap.
+   - Switch to NaHCO3 for fluid resuscitation given hyperchloremia and
+   hypernatremia
+   - Continue to trend
+   .
+   # Hypernatremia: Has been ongoing for several days at rehab.  Unclear
+   if patient has received more than 1L of free water as it is not
+   documented in NH paperwork.
+   - Calculated free water deficit is 2.8L
+   - Patient received 0.5 L D51/2NS then 1.5L D5W overnight.
+   - transition to D5W + 3amps NaHCO3 for IVF
+   .
+   # Acute on chronic renal failure: Patient appears dry on exam.  Likely
+   pre-renal though may have a component of RTA or ATN as above.  FENa
+   1.26%, so likely not entirely pre-renal.
+   - IVF resuscitation
+   - Avoid nephrotoxins
+   - Renally dose all meds
+   - nephrology consult
+   .
+   # Anemia: Baseline appears to be around 37.  Slightly decreased from
+   prior.  [**Month (only) 11**] be partially dilutional.  He was noted to be anemic with
+   guaiac positive stools during last admission.  B12,  folate, & iron
+   within normal limits (though ferritin may be elevated as an acute phase
+   reactant and should be rechecked).  [**Month (only) 11**] be partially related to CKD.
+   - Continue to trend
+   - Active T&S
+   - Guaiac all stools
+   .
+   # Right subclavian vein thrombosis: Significant erythema and edema of
+   RUE.  Has been on lovenox since admission to rehab, now started
+   coumadin for bridge on [**1-30**]. INR subtherapeutic at rehab as well as
+   here. Goal INR [**12-20**].  Also appears to have erythema and swelling of RUE
+   to mid-arm.  Left arm without any DVT.  Cont. heparin gtt and hold
+   coumadin as avoiding PO meds until further information from CT
+   abdomen.
+   - Given acute renal failure, will hold lovenox and continue heparin gtt
+   started in ED
+   .
+   # Ruptured apendicitis, medically managed: Has been on Cipro/flagyl
+   since last admission. Has been afebrile and currently has no
+   leukocytosis and only a mild left shift at 77 PMNs.  He is likely due
+   to complete a course of flagyl/cipro in the next several days. Rec'd
+   one dose of vanc/zosyn in ED due to hypotension, lactate wnl.  Surgery
+   recommended reimaging abdomen.
+   - As lactate wnl and patient appears dry with BP responding to fluid
+   boluses, will continue cipro/flagyl for appendicitis as no other clear
+   source of infection.  BPs currently normal
+   - Low threshold to increase abx regimen should patient become unstable
+   .
+   # Pancreatic mass: Followed as o/p and appears to have been stable on
+   repeat imaging.
+   - Outpatient follow up
+   .
+   # FEN: IVF, replete electrolytes, NPO for now, nutrition consult for
+   TPN recs
+   .
+   # Prophylaxis: systemic anticoagulation with heparin gtt, lansoprazole
+   (is on omeprazole as o/p as well), bowel regimen
+   .
+   # Access: PICC line, need to confirm placement, PIV, will place A-line
+   today
+   .
+   # Code: Full
+   .
+   # Communication: Patient, need to talk with HCP regarding patient
+   overall status once further info from CT available.
+   .
+   # Disposition: pending above
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3347-2-3**] 06:14 PM 54.[**Telephone/Fax (3) 1898**] mL/hour
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3347-2-2**] 04:30 PM
+   PICC Line - [**3347-2-2**] 05:00 PM
+   Arterial Line - [**3347-2-3**] 10:58 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

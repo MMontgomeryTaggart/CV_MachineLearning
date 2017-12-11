@@ -1,0 +1,284 @@
+Chief Complaint:
+   24 Hour Events:
+   [**1-4**]:
+   - EXTUBATED!
+   - subsequent ABG's look good
+   - S&S consult ordered
+   - PT consult ordered
+   - C. difficile negative, Flagyl d/c'd
+   - Respiratory consult for CPAP given OSA
+   - Received 100mg PO Lopressor at night as tachy to 120's & hr did not
+   respond to 50mg earlier in the day
+   - sbp's rise to 170's with bigeminy, drop down to 130-140's immediately
+   after resolution
+   - given valsartan 40mg x 1
+   Allergies:
+   Cozaar (Oral) (Losartan Potassium)
+   Cough;
+   Spironolactone
+   Rash; itching;
+   Lisinopril
+   Cough;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3422-1-3**] 12:00 PM
+   Ciprofloxacin - [**3422-1-3**] 03:00 PM
+   Cefipime - [**3422-1-4**] 12:06 AM
+   Metronidazole - [**3422-1-4**] 12:30 PM
+   Vancomycin - [**3422-1-5**] 06:32 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3422-1-4**] 10:43 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fatigue, frustrated
+   Eyes: Right eye
+   Ear, Nose, Throat: Dry mouth
+   Flowsheet Data as of  [**3422-1-5**] 07:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**23**] AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 37.8
+C (100
+   HR: 101 (95 - 128) bpm
+   BP: 141/90(106) {114/52(77) - 170/90(107)} mmHg
+   RR: 18 (15 - 34) insp/min
+   SpO2: 91%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 176.4 kg (admission): 200.6 kg
+   Height: 70 Inch
+             Total In:
+                                                                  2,092 mL
+                                                                    597 mL
+   PO:
+                                                                    360 mL
+                                                                    360 mL
+   TF:
+                                                                    500 mL
+   IVF:
+                                                                    782 mL
+                                                                    237 mL
+   Blood products:
+   Total out:
+                                                                  2,735 mL
+                                                                  1,100 mL
+   Urine:
+                                                                  2,535 mL
+                                                                  1,100 mL
+   NG:
+   Stool:
+                                                                    200 mL
+   Drains:
+   Balance:
+                                                                   -643 mL
+                                                                   -503 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool, Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 657 (365 - 860) mL
+   PS : 5 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 26
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   PIP: 14 cmH2O
+   SpO2: 91%
+   ABG: 7.43/44/84.[**Numeric Identifier 1111**]/29/3
+   Ve: 9.1 L/min
+   PaO2 / FiO2: 210
+   Physical Examination
+   General Appearance: Well nourished, Overweight / Obese, Anxious
+   Eyes / Conjunctiva: Bloody eye on right
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Bowel sounds present, Obese
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Oriented (to): x3, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   238 K/uL
+   12.9 g/dL
+   134 mg/dL
+   0.9 mg/dL
+   29 mEq/L
+   3.8 mEq/L
+   30 mg/dL
+   104 mEq/L
+   144 mEq/L
+   39.5 %
+   14.1 K/uL
+        [image002.jpg]
+                             [**3422-1-3**]  11:22 PM
+                             [**3422-1-4**]  04:56 AM
+                             [**3422-1-4**]  05:55 AM
+                             [**3422-1-4**]  09:35 AM
+                             [**3422-1-4**]  10:56 AM
+                             [**3422-1-4**]  01:14 PM
+                             [**3422-1-4**]  03:49 PM
+                             [**3422-1-4**]  05:26 PM
+                             [**3422-1-4**]  10:59 PM
+                             [**3422-1-5**]  05:22 AM
+   WBC
+   14.5
+   14.1
+   Hct
+   39.3
+   39.5
+   Plt
+   179
+   238
+   Cr
+   1.3
+   0.9
+   TCO2
+   33
+   32
+   33
+   32
+   30
+   24
+   29
+   30
+   Glucose
+   135
+   134
+   Other labs: PT / PTT / INR:15.6/23.1/1.4, ALT / AST:17/33, Alk Phos / T
+   Bili:90/1.7, Amylase / Lipase:83/127, Differential-Neuts:85.8 %,
+   Lymph:8.0 %, Mono:3.8 %, Eos:2.2 %, Lactic Acid:1.2 mmol/L, Albumin:4.3
+   g/dL, LDH:301 IU/L, Ca++:9.6 mg/dL, Mg++:1.9 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   24 yo M with non-ischemic cardiomyopathy admitted to CCU after failure
+   to extubate s/p elective AICD placement and right heart catheterization
+   c/b atelectasis and pulmonary infection.
+   .
+   # Fever and leukocytosis: Patient afebrile since noon on [**1-3**] with
+   change in antibiotic regimen from Levofloxacin (day 10), Cefepime (day
+   4), Vancomycin (day 11), and Flagyl (d/c'd on day 2). WBC today 14.5.
+   Repeated sputum cultures, most recently from [**1-2**], demonstrate
+   pan-sensitive Serratia Marcescens, but did not respond well to
+   Levofloxacin. CT scan from [**1-4**] pending, but preliminary read
+   demonstrates LL lobe collapse and partial RLL collapse. Blood cx from
+   [**12-29**] grew CoNS in
+ bottles, likely contamination.  Swan catheter was
+   removed on [**1-1**] after PICC placed, but swan tip culture negative.
+   Flagyl d/c'd on [**1-3**]. Other major possibilities for source of fever is
+   atelectasis and drug reaction
+   - F/U final CT chest/abdomen/pelvis read
+   - F/U outstanding blood cultures/final sputum cultures/c .diff
+   - Cefepime, day 4
+   - Vancomycin, day 10
+   - Tylenol prn: fever (< 2 grams daily)
+   - Continue to monitor for progression in suspected drug rash
+   .
+   # Respiratory failure: Patient was stable on PS [**9-13**] x several days,
+   but on [**1-3**] was switched back to AC with increasing PEEP requirement
+   for worsening respiratory status.  Preliminary CT chest from [**3422-1-4**]
+   demonstrated complete LLL collapse and partial RLL collapse. Sputum
+   cultures from [**1-2**] continue to grow Serratia. Extubated on Day 10 of
+   intubation. LOS fluid balance is negative at least 7.8L. Pulmonary
+   following, recommended changes to antibiotics regimen. Currently
+   Saturates 90% on Room air
+   - speech and swallow
+   - cool mist face tent
+   - Antibiotics as above.
+   - F/u pulmonary recs
+   .
+   # Acute renal failure: Resolved. Creatinine bumped from 1.3 to 2.3 on
+   [**1-1**] in the setting of hypotension, patient was receiving lasix gtt as
+   well as diamox, metolazone, and captopril.  Creatinine returned to
+   baseline of 1.3 this AM. Renal following.
+   - Continue to hold Lasix gtt, Diamox, Metolazone
+   - Electrolytes [**Hospital1 **]
+   - F/U renal recs
+   - Avoid nephrotoxins and renally dose medications
+   .
+   # Acute on chronic systolic CHF exacerbation: Patient with profound
+   biventricular systolic dysfunction, presumably secondary to prior heavy
+   cocaine use in year prior to CHF diagnosis.  Cardiac catheterization
+   performed on [**12-27**] included myocardial biopsy. TTE of [**12-26**] shows EF of
+   10% that may be an overestimate. [**First Name9 (NamePattern2) 10328**] [**Location (un) 101**] elevated PA pressures and
+   wedge pressures during catheterization. His morbid obesity and history
+   of substance abuse makes cardiac transplantation candidacy questionable
+   but it is likely crucial to his long term viability.  Length of CCU
+   stay negative 6.5-7L.  Blood pressures difficult to control without
+   compromising UOP and diuresis complicated by hyperbicarbia
+   (contraction) and acute renal failure (creatinine bumped from 1.3 to
+   2.3), so all antihypertensives and diuretics held on [**1-3**]. Since
+   defeverescing, patient with sbp
+s in the 130-140
+s, ARF resolved,
+   hypercarbia noticeably improved.
+   - PT to evaluate
+   - Continue to hold Diamox & Metolazone
+   - Consider Lasix boluses PRN, titrating to maintain CCU goal of -6.5 to
+   7L
+   - Increase Metoprolol Tartrate PO to 50 mg TID
+   - Digoxin 0.25mg PO daily
+   - Replete K to 5
+   .
+   # RHYTHM: Patient continues to be tachycardic, but improvement in hr
+   to the 90-100
+s since defeverescing. Patient is s/p AICD placement for
+   primary prevention of tachyarrythmias given non-ischemic cardiomyopathy
+   EF of 10% (presently). One episode of NSVT in the CCU.  Dig level 1.3
+   on [**1-3**].
+   - F/U Final CT chest to confirm lead placement
+   - Replete K to 5, Mg > 2
+   - Digoxin 0.25mg PO daily
+   - Increase Metoprolol Tartrate PO 50mg TID
+   .
+   # UGIB:  Patient was noted to have a small amount of bright red blood
+   in his NG tube on [**1-1**], NG lavage did not demonstrate an active bleed.
+   His Hct has been stable and no further blood has been detected. GI
+   aware. This was likely irritation from the NG tube
+   - Maintain active T+S
+   - Continue IV PPI
+   - Continue TF
+s if s/s failed
+   .
+   # Hyperbilirubinemia: Stable at 1.7, last checked on [**3422-1-3**], likely
+   congestive. Given fever, he was ruled out for cholecystitis and may
+   have gallbladder agenesis as it was unable to be imaged by CT or US.
+   - Intermittent LFT checks
+   .
+   # CORONARIES: No known hx of CAD.
+   - ASA 325mg daily
+   - Metoprolol Tartrate 25mg PO TID
+   .
+   # Anemia: Known iron deficiency anemia.  Hct stable despite small GIB
+   noted on [**1-1**].
+   - Ferrous Sulfate 325mg PO TID,  Ascorbic Acid 250mg PO TID, on bowel
+   regimen
+   - continue IV PPI
+   .
+   # Asthma: Albuterol 1-2 puffs q6H:PRN wheezing once extubated.
+   .
+   # OSA:  Nocturnal CPAP once extubated.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3421-12-26**] 02:03 AM
+   PICC Line - [**3422-1-1**] 09:06 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,250 @@
+Chief Complaint: septic/cardiogenic shock
+   24 Hour Events:
+   - platelets falling slowly over time.  Pt is intermediate prob for HIT
+   base on 4Ts ([**4-13**]).
+   - pt started on a lasix gtt.  Patient positive 1.4 L at 10am.  Pt
+   gently diuresed at 2300 Pos 300mL with UOP of 200 cc/hr on avg.
+   - nurse unable to draw from central line
+   -levophed d/c
+d @ 0600
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3310-5-15**] 08:29 AM
+   Nafcillin - [**3310-5-17**] 05:13 AM
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Heparin Sodium - 1,000 units/hour
+   Dobutamine - 5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3310-5-17**] 06:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 37.2
+C (99
+   HR: 91 (82 - 103) bpm
+   BP: 89/68(73) {70/47(52) - 103/68(77)} mmHg
+   RR: 25 (0 - 31) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 121.1 kg (admission): 119.3 kg
+   Height: 69 Inch
+    CVP: 17 (8 - 17)mmHg
+   PAP: (98 mmHg) / (41 mmHg)
+   CO/CI (Fick): (4.7 L/min) / (2 L/min/m2)
+   Mixed Venous O2% Sat: 53 - 57
+   SVR 927 dynes/sec x cm-5
+   Total In:
+                                                                  3,686 mL
+                                                                    879 mL
+   PO:
+                                                                  1,170 mL
+                                                                    150 mL
+   TF:
+   IVF:
+                                                                  2,516 mL
+                                                                    729 mL
+   Blood products:
+   Total out:
+                                                                  3,170 mL
+                                                                  1,100 mL
+   Urine:
+                                                                  3,170 mL
+                                                                  1,100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    516 mL
+                                                                   -221 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///24/
+   Physical Examination
+   GEN: NAD. awake, alert
+   HEENT: NCAT PERRL
+   CV: irregularly irregular nl S1S2 harsh systolic murmur at base
+   PULM: fine crackles at the bases, no wheezes or rhonchi appreciated
+   ABD: obese, soft non-distended, non-tender, normal BS
+   EXT:  warm, dry; trace edema, palpable DP/PT pulses bilat
+   NEURO: A&Ox3, responds to questions appropriately
+   Labs / Radiology
+   105 K/uL
+   9.9 g/dL
+   125 mg/dL
+   1.2 mg/dL
+   24 mEq/L
+   4.1 mEq/L
+   39 mg/dL
+   101 mEq/L
+   134 mEq/L
+   31.3 %
+   13.4 K/uL
+        [image002.jpg]
+                             [**3310-5-15**]  04:30 AM
+                             [**3310-5-15**]  04:55 AM
+                             [**3310-5-15**]  01:54 PM
+                             [**3310-5-15**]  10:16 PM
+                             [**3310-5-15**]  10:23 PM
+                             [**3310-5-16**]  04:39 AM
+                             [**3310-5-16**]  04:54 AM
+                             [**3310-5-16**]  02:04 PM
+                             [**3310-5-16**]  08:54 PM
+                             [**3310-5-17**]  04:39 AM
+   WBC
+   14.4
+   12.9
+   12.6
+   13.4
+   Hct
+   30.1
+   29
+   29
+   31.3
+   31.2
+   30
+   28
+   31.3
+   Plt
+   118
+   105
+   105
+   Cr
+   2.0
+   1.7
+   1.4
+   1.3
+   1.2
+   Glucose
+   156
+   158
+   182
+   158
+   125
+   Other labs: PT / PTT / INR:18.3/62.8/1.7, CK / CKMB /
+   Troponin-T:196/6/0.11, ALT / AST:960/341, Alk Phos / T Bili:70/3.6,
+   Amylase / Lipase:22/27, Differential-Neuts:89.9 %, Band:7.0 %,
+   Lymph:6.3 %, Mono:3.7 %, Eos:0.0 %, D-dimer:[**Numeric Identifier 5710**] ng/mL, Fibrinogen:392
+   mg/dL, Lactic Acid:1.4 mmol/L, Albumin:3.7 g/dL, LDH:730 IU/L, Ca++:7.8
+   mg/dL, Mg++:1.8 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   64 M w/ nonischemic dilated cardiomyopathy (EF 25%), severe AS,
+   rheumatic MS, DM, COPD, OSA & pulm HTN admitted to OSH with DOE,
+   transferred for further evaluation of AS, now with GPC bacteremia and
+   septic shock.
+   .
+   # Cardiogenic shock
+ levophed DC
+ed this AM, will see if still has
+   significant pressure requirement. Now appears to be volume overloaded
+   based on clinical exam, rising pulmonary pressures with PAD of 34 this
+   am.
+   - wean levophed as tolerated to maintain MAP>60 after diuresis
+   - start lasix gtt to UOP>100-150cc/hr
+   - continue Dobutamine at current rate to support cardiac output
+   - patient is difficult to [**Last Name (LF) 5725**], [**First Name3 (LF) 114**] monitor PAD as proxy for PCWP
+   .
+   # MSSA bacteremia - Remains afebrile with white count is stable.
+   - maintain Hct>30%
+   - continue nafcillin to complete a 2 week course (day #1=[**5-13**])
+   - f/u serial blood Cx (pending)
+   .
+   # Liver failure - LFT
+s are trending down; shock liver by liver team;
+   U/S neg for cholangitis or cholecystitis. Synthetic function now stable
+   (INR stable)
+   - liver consult appreciated
+   - trend LFT's
+   - avoid hepatotoxic medications
+   - tylenol 2gm max
+   .
+   # AS - [**Location (un) **] 0.8 cm2 in cath lab; surgical repair candidate given
+   symptoms of CHF however will need to clear infection prior to
+   consideration for surgery
+   - CT [**Doctor First Name **] recs
+   # Acute on chronic systolic heart failure
+ Appears to be volume
+   overloaded on exam today
+   - diuresis today as above
+   .
+   # Dyspnea
+ Chronic symptoms is multifactorial [**2-10**] COPD, CHF, pulmonary
+   hypertension
+   - continue suppl. O2 to maintain O2 sats>93%
+   - continue albuterol nebs
+   .
+   # ARF
+[**2-10**] ATN in the setting of shock, contrast nephropathy.
+   Non-oliguric and creatinine is improving with good urine output
+   - diuresis with lasix gtt as above
+   - trend Cr
+   .
+   # Anemia
+ Hct stable over several days; unclear baseline; recent GIB
+   w/ C-scope showing colonic AVM that was cauterized
+   -daily hct
+   .
+   # Thrombocytopenia
+ platelets continue to trend down slowly, at 105K
+   most likely [**2-10**] infection and liver failure. Overall, had had a
+   decrease from 276
+ 105K over last 10 days. Low probability for HIT
+   - continue to monitor.
+   - d/w heme-onc re:possibility of HIT
+   .
+   # Afib - atrial fibrillation with rate-related aberrancy. Heart rate
+   stable in 90-100
+s. INR trending down and is currently sub-therapeutic.
+   Had recent Gi bleed but [**2-10**] colonic AVM which was cauterized therefore
+   at low risk to re-bleed
+   - restart BB when hemodynamically stable
+   - start heparin gtt for now, hold coumadin until medically stable
+   - trend INR
+   .
+   # Back pain
+ Likely [**2-10**] chronic lumbar back disease.
+   -low dose narcotics to manage pain, limit tylenol use
+   -OOB to chair
+   -monitor clinical symptoms and exam for now
+   -consider imaging of back if pain worsens
+   .
+   #DM
+ well-controlled
+   -cont basal, SS insulin
+   .
+   # Hyperlipidemia
+   - cont statin
+   .
+   #Access: Cordis/RIJ [**3310-5-12**]
+   .
+   #Nutrition: diabetic, low sodium diet, replete lytes prn
+   .
+   # Code: FULL
+   .
+   #Dispo: CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PA Catheter - [**3310-5-14**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

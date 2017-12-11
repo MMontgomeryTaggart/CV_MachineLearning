@@ -1,0 +1,261 @@
+Admission Date:  [**3273-2-7**]              Discharge Date:   [**3273-2-9**]
+
+Date of Birth:  [**3195-6-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors
+
+Attending:[**First Name3 (LF) 6969**]
+Chief Complaint:
+abnormal stress test
+
+Major Surgical or Invasive Procedure:
+s/p cardiac cathterization with stent on [**3273-2-7**]
+
+History of Present Illness:
+77 year old female with DM, COPD, CAD s/p CABG [**3270**], angina and
+abnormal stress test at OSH with worsening EF on [**2-3**] presents
+for cardiac catheterization.  Patient's cardiac history includes
+a silent MI about 15 yrs ago, CP and dyspnea with MI in [**3270**],
+s/p CABGx4 by Dr. [**Last Name (STitle) 5229**].  Patient was diagnosed with DM 2 days
+prior to admission with blood sugar 300.  Pt was admitted to OSH
+last week with CHF.  She was admitted again on [**2-6**] with CHF, BNP
+1760, ruled out for MI.  At OSH patient noted to have worsening
+EF and she was admitted to [**Hospital1 18**] for cath.  Patient states she
+had CP at rest 5 days prior for 10 minutes and overnight that
+night woke up short of breath without CP.  Patient denies
+orthopnea.  She has had increasing lower extremity swelling in
+the past 4 days and does get short of breath with activity (she
+has had PFTs at [**Location (un) **] in past).
+     During catheterization patient had an episode of CP,
+increased PCWP and hypotension when balloon was inflated, but
+this resolved when balloon was deflated.  A small vessel was
+perforated and Echo performed but no effusion seen.
+
+Past Medical History:
+HTN
+hypercholesterolemia
+newly diagnosed DM
+ischemic CM
+silent MI [**3257**]'s
+CAD s/p MI and CABG [**3270**] (LIMA-LAD; VG-diag; VG2-OMs)
+known LBBB
+s/p cataract surgery
+osteo
+right CEA
+
+Social History:
+Soc Hx: widowed, 1.5 ppd tobacco x 50 yrs.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+afebrile   101  128/66   19   97%/2L n.c.
+Gen: AOX3, pleasant, NAD, speaking in full sentences
+HEENT: MMM, small amount dried blood on lip
+Neck: supple
+CV: Distant S1, S2, RRR, no murmurs appreciated
+Pulm: CTA-anteriorly
+Abd: Normoactive BS, soft, ND/NT
+Ext: wwp, 1+ pitting edema b/l, 1+ DP b/l.  Right groin without
+hematoma.
+
+Pertinent Results:
+[**3273-2-7**] 05:09PM   TYPE-ART PO2-85 PCO2-52* PH-7.40 TOTAL
+CO2-33* BASE XS-5 INTUBATED-NOT INTUBA
+[**3273-2-7**] 05:09PM   O2 SAT-96
+.
+[**3273-2-7**] 10:24PM BLOOD CK(CPK)-75 CK-MB-3
+[**3273-2-8**] 04:05AM BLOOD CK(CPK)-77 CK-MB-4
+.
+[**3273-2-7**] CARDIAC Catheterization
+FINAL DIAGNOSIS:
+1. Two vessel native coronary artery disease. Patent SVG-OM3.
+Occluded
+proximal SVG-D1-OM2 with patent D1-OM2 jump segment. Atretic
+LIMA-LAD.
+2. Mild biventricular diastolic dysfunction.
+3. PCI of LAD with DES.
+COMMENTS: 1. Selective coronary angiography demonstrated native
+two
+vessel coronary artery disease in this right dominant
+circulation. The
+LMCA had mild disease without flow limitation. The LAD was
+heavily
+calcified proximally with serial 80% and 90% stenoses in the mid
+and
+distal vessel. The diagonal had a jump segment of vein graft
+that filled
+an occluded OM. The LCX had a 50% proximal stenosis. The OM1 was
+without
+flow limiting disease. The OM2 and OM3 were totally occluded.
+The OM2
+filled via the jump segment from the diagonal. The OM3 filled
+via a
+patent vein graft. The RCA had mild luminal irregularities
+without flow
+limiting disease.
+2. Graft angiography demonstrated the SVG-OM3 to be widely
+patent. The
+SVG-D1-OM2 was totally occluded in the proximal graft with a
+patent jump
+segment supplying the OM2 via the native diagonal.
+3. Arterial conduit angiography demonstrated an atretic LIMA-LAD
+with
+minimal flow into the LAD.
+4. Resting hemodynamics from right and left heart
+catheterization
+demonstrated elevated right and left filling pressures
+(RVEDP=15mmHg,
+PCWP=20mmHg, LVEDP=20mmHg). Cardiac output and index were
+preserved at
+4.9 L/min and 2.8 L/min/m2. Mild pulmonary arterial hypertension
+was
+present.
+5. Left ventriculography was not performed to reduce contrast
+load.
+6. PCI of LAD with DES.
+.
+Echocardiogram [**3273-2-8**]:
+EF 20%.  The left atrium is elongated. Left ventricular wall
+thicknesses and cavity size are normal. There is severe regional
+left ventricular systolic dysfunction with relative preservation
+of the basal lateral and distal lateral walls and near akinesis
+of remaining segments. No masses or thrombi are seen in the left
+ventricle. Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion. Trace aortic regurgitation
+is seen. The mitral valve leaflets are mildly thickened. Mild
+(1+) mitral regurgitation is seen. There is moderate pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+IMPRESSION: Extensive regional left ventricular systolic
+dysfunction c/w multivessel CAD or other diffuse process.
+Moderate pulmonary artery systolic hypertension. Mild mitral
+regurgitation. No pericardial effusion.
+.
+Day of discharge Labs [**3273-2-9**]:
+[**3273-2-9**] 05:15AM BLOOD WBC-9.4 RBC-3.30* Hgb-10.4* Hct-30.3*
+MCV-92 MCH-31.6 MCHC-34.5 RDW-13.2 Plt Ct-341
+[**3273-2-9**] 05:15AM BLOOD Glucose-111* UreaN-28* Creat-1.3* Na-143
+K-4.1 Cl-103 HCO3-34* AnGap-10
+
+
+Brief Hospital Course:
+A/P: 77 yo F with DM, COPD, CAD s/p CABG '[**70**], recent angina and
+abnormal stress test at OSH w/ worsening EF on [**2-3**] presents
+for cardiac catheterization.
+.
+1.  CV:
+    Ischemia: s/p LAD stents.  Continue ASA, Plavix,
+beta-blocker, statin.  Not on ACEI given history of ?renal
+failure. Started Captopril, creatinine stable at 1.3 and
+transitioned to lisinopril 5 on day of discharge.  Creatinine to
+be followed by outpatient PCP and cardiologist.
+     Pump: Continued lasix and titrate to goal even to 500 cc
+negative.  Rechecked Echo on 1/0/06, EF 20%, mod PA systolic
+HTN, no pericardial effusion (results above).  Started Digoxin
+0.125.
+     Rhythm: NSR, monitor on Telemetry.  Monitor EKGs.
+.
+2.  DM: newly diagnosed and not on any medications.  Will check
+finger sticks and regular insulin sliding scale for now.
+Patient required very little insulin, blood sugars 100-170.
+Patient to follow with [**Last Name (un) **] at [**Location (un) **].  She is to follow-up
+with PCP 5 days after discharge and to schedule an appointment
+at the [**Last Name (un) **] in the next week.  She was given a glucometer and
+was instructed to test her blood sugars at least once daily and
+call her PCP if blood sugars > 300.
+.
+3.  Pulm: Patient with COPD, not currently wheezing.  Continue
+advair.
+.
+4.  FEN: low salt/heart healthy/diabetic diet.  Monitor
+electrolytes and repleted prn.
+.
+5.  Proph: ambulate, PT to see pt prior to discharge.
+.
+6.  Dispo: Patient to receive VNA at home for Diabetes teaching.
+ She is to test blood sugars at least once daily.  She has
+follow-up scheduled next week with both her PCP and her
+cardiologist.
+
+
+Medications on Admission:
+Toprol xl 200 qam, 100 qpm
+Pravachol 80 po qhs
+Plavix
+Norvasc 10 po qday
+lasix 40 po qday
+ecASA 325 qday
+zetia 10 po qday
+Fosamax qweek
+folate 1 po qday
+advair [**Hospital1 **]
+ambivent
+?metazalone (new), ?recently started on digoxin
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 30 days.
+Disp:*30 Tablet(s)* Refills:*1*
+3. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: Two (2) Tablet Sustained Release 24HR PO twice a day.
+Disp:*120 Tablet Sustained Release 24HR(s)* Refills:*2*
+4. Pravastatin 20 mg Tablet Sig: Four (4) Tablet PO HS (at
+bedtime).
+5. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+6. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] Nursing Services
+
+Discharge Diagnosis:
+coronary artery disease s/p cardiac catheterization on [**3273-2-7**]
+systolic congestive heart failure
+diabetes mellitus
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please call your physician or return to the hospital if you
+experience chest pain, shortness of breath, increased leg
+swelling or other concerning symptoms.
+
+Followup Instructions:
+You have a follow-up appointment scheduled with your
+cardiologist, Dr. [**Last Name (STitle) 11347**] on [**2-15**] at 9:45 a.m.
+You have a follow-up appointment scheduled with Dr. [**Last Name (STitle) 27400**] on
+Tuesday, [**3273-2-14**] at 9:45 a.m.
+Please call [**Telephone/Fax (1) 27401**] to schedule an appointment with the
+[**Hospital **] clinic at [**Location (un) **] in the next week.
+
+
+
+Completed by:[**3273-2-9**]
+
+DOC CLASS

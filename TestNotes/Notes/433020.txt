@@ -1,0 +1,241 @@
+Chief Complaint:
+   24 Hour Events:
+   - With initiation of standing zyprexa, sedation weaned and inspiratory
+   pressure successfully decreased to 25
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Sedated, Unresponsive
+   Allergies:
+   Cardizem (Oral) (Diltiazem Hcl)
+   Unknown;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   muscle aches;
+   Last dose of Antibiotics:
+   Vancomycin - [**3120-10-13**] 08:39 AM
+   Meropenem - [**3120-10-14**] 06:00 AM
+   Infusions:
+   Midazolam (Versed) - 3 mg/hour
+   Fentanyl (Concentrate) - 142 mcg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3120-10-13**] 08:39 AM
+   Famotidine (Pepcid) - [**3120-10-13**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3120-10-14**] 07:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.7
+C (98.1
+   HR: 88 (74 - 98) bpm
+   BP: 118/48(71) {94/40(58) - 158/64(97)} mmHg
+   RR: 27 (20 - 32) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 62.4 kg (admission): 65.3 kg
+   Height: 64 Inch
+    CVP: 9 (1 - 9)mmHg
+   ICP: 4 (2 - 18) mmHg
+                                Total In:
+                                                                  1,707 mL
+                                                                    482 mL
+   PO:
+                                TF:
+                                                                    840 mL
+                                                                    242 mL
+   IVF:
+                                                                    747 mL
+                                                                    240 mL
+   Blood products:
+   Total out:
+                                                                  1,408 mL
+                                                                    497 mL
+   Urine:
+                                                                  1,317 mL
+                                                                    460 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     91 mL
+                                                                     37 mL
+   Balance:
+                                                                    299 mL
+                                                                    -15 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: PCV+Assist
+   Vt (Spontaneous): 365 (303 - 365) mL
+   RR (Set): 32
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: No Spon Resp
+   PIP: 26 cmH2O
+   Plateau: 25 cmH2O
+   SpO2: 99%
+   ABG: 7.40/61/120/34/10
+   Ve: 9.5 L/min
+   PaO2 / FiO2: 240
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Normal), difficult to appreciate
+   heart sounds [**2-2**] to vented breathing
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: No(t)
+   Wheezes : , No(t) Diminished: , No(t) Absent : ), clear anteriorly,
+   vented
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent, No(t) Cyanosis
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Responds to: Noxious stimuli, Movement: Not assessed,
+   Sedated, Tone: Not assessed
+   Labs / Radiology
+   241 K/uL
+   7.6 g/dL
+   141 mg/dL
+   0.3 mg/dL
+   34 mEq/L
+   5.2 mEq/L
+   16 mg/dL
+   105 mEq/L
+   140 mEq/L
+   23.5 %
+   5.9 K/uL
+        [image002.jpg]
+                            [**3120-10-11**]  08:51 PM
+                            [**3120-10-11**]  10:19 PM
+                            [**3120-10-12**]  03:04 AM
+                            [**3120-10-12**]  05:27 PM
+                            [**3120-10-13**]  03:25 AM
+                            [**3120-10-13**]  03:38 AM
+                            [**3120-10-13**]  11:13 AM
+                            [**3120-10-13**]  05:17 PM
+                            [**3120-10-14**]  04:24 AM
+                            [**3120-10-14**]  04:38 AM
+   WBC
+   6.1
+   5.6
+   5.9
+   Hct
+   32
+   25.3
+   24.6
+   23.5
+   Plt
+   285
+   253
+   241
+   Cr
+   0.4
+   0.3
+   0.3
+   TCO2
+   38
+   39
+   37
+   35
+   38
+   37
+   39
+   Glucose
+   153
+   124
+   141
+   Other labs: PT / PTT / INR:12.1/32.3/1.0, CK / CKMB /
+   Troponin-T:17/3/0.02, ALT / AST:22/49, Alk Phos / T Bili:69/0.1,
+   Differential-Neuts:62.1 %, Band:10.0 %, Lymph:31.4 %, Mono:1.9 %,
+   Eos:4.2 %, Lactic Acid:0.6 mmol/L, Albumin:2.2 g/dL, LDH:399 IU/L,
+   Ca++:8.2 mg/dL, Mg++:1.7 mg/dL, PO4:3.5 mg/dL
+   Imaging: CXR [**10-13**] - In comparison with the study of [**10-12**], there is
+   little overall
+   change. Again there is diffuse bilateral pulmonary opacifications
+   consistent
+   with the fibrosing stage of ARDS. Bibasilar pleural effusions with
+   atelectatic changes at the bases. The possibility of superimposed
+   consolidation, especially at the left base, cannot be excluded.
+   Assessment and Plan
+   70 yo F with a history of CAD, s/p tracheostomy following MVA with
+   respiratory failure in the setting of bilateral opacities concerning
+   for fibroproliferative ARDS, less likely diffuse infection.
+   #  Respiratory failure: Stable, due to ARDS; compliance slightly
+   improved with less elevated peak pressures; MRSA (9000 cfu/ml) and
+   Klebsiella ([**3110**] cfu/ml) on [**10-7**] BAL, as well as sputum Cx [**10-4**]; fungal
+   markers negative; lack of respiratory drive and poor compliance are
+   barriers to weaning
+   -cont vanc/[**Last Name (un) 600**] day 7 (last day [**3120-10-15**])
+   -cont low Vt ventilation, will lower driving pressure to reduce peak
+   pressures
+   -wean sedation (10-20%/day) as Vt will tolerate, continue bolus
+   sedation/anxiolytics (zyprexa) as gradual replacement for continuous
+   infusion
+   -cautious with high PEEP in the setting of pneumomediastinum
+   #Hypotension
+ multifactorial, most attributable to sedation, less
+   likely neurogenic shock from CNS process or septic shock from VAP;
+   currently hemodynamically stable off pressors
+   -cautious fluid resuscitation given prior difficulty with
+   oxygenation/ventilation in the setting of mild volume overload (CVP
+   3-5)
+   -titrate neo gtt to MAP>65 if BP drops
+   -cont hold BB, ACEi
+   .
+   # Elevated Intracranial Pressure: ICP at goal <10; attributed to
+   malabsorptive hydrocephalus following intracranial bleeding. Drain
+   changed in OR on [**10-8**]
+   -appreciate neurosurg involvement
+   -plan for VP shunt when infectious issues resolved
+   -MRI ordered but could not tolerate traveling to study due to low
+   compliance & tidal volumes on vent
+   -maintain ICP, goal <10
+   -keppra at 1500 mg [**Hospital1 **]
+   .
+   Altered Mental Status - Difficult to assess given sedation, however, pt
+   has reactive pupils and some primitive reflexes.
+   - Continue to wean sedation
+   - Neurosurg following
+   - Will try for MRI again today if patient stable
+   .
+   # Macrocytic anemia: Hct stable
+   - daily Hct
+   - transfuse for Hct <21
+   - guaiac all stools
+   .
+   # Coronary Artery Disease:
+   - restarted aspirin
+   - holding plavix per neurosurg
+   .
+   # Scalp hematoma: No evidence of active bleed or infection.
+   -Continue wound care
+   .
+   #  Depression:
+   - restarted on fluoxetine per family request
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3120-10-13**] 10:31 AM 35 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3120-9-25**] 12:30 PM
+   Multi Lumen - [**3120-10-2**] 07:19 PM
+   ICP Catheter - [**3120-10-8**] 02:40 PM
+   20 Gauge - [**3120-10-12**] 12:17 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:ICU
+
+
+DOC CLASS

@@ -1,0 +1,194 @@
+Admission Date:  [**3366-11-30**]              Discharge Date:   [**3366-12-23**]
+
+Date of Birth:  [**3305-10-18**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Cefotaxime
+
+Attending:[**First Name3 (LF) 139**]
+Chief Complaint:
+Elective cardiac surgery
+
+Major Surgical or Invasive Procedure:
+[**3366-12-2**] Left Ventricular Myomectomy
+
+
+History of Present Illness:
+This is a 61 year old female with known HOCM since [**3359**]. Her
+original operation was delayed as preoperative evaluation was
+notable for pulmonary nodules. CT scan at that time showed a 9
+millimeter nodule in the right middle lobe and multiple,
+small(less than 5 millimeters) noncalcified pulmonary nodules.
+Subsequent PET scan showed no FDG avidity in the pulmonary
+nodule in the right middle lobe. There were multifocal
+asymmetric pulmonary opacities, which are FDG-avid and
+concerning for multifocal pneumonia. Findings were otherwise
+unremarkable. She now returns for cardiac surgical intervention.
+
+
+Past Medical History:
+Hypertrophic obstructive cardiomyopathy with mitral
+regurgitation, Congestive Heart Failure, Chronic Atrial
+fibrillation, Hypertension, Osteoarthritis, History of
+Pneumonia, Pulmonary Nodules, Depression, s/p Breast Biopsy
+
+Social History:
+Former smoker(2PPD) - quit 18 years ago.
+
+Family History:
+Father with HOCM
+
+Physical Exam:
+Vitals: T 98.2, BP 102/67, P 58, RR 18, SAT 98% RA
+General: well developed, well nourished female in no acute
+distress
+HEENT: oropharynx benign, sclera anicteric
+Neck: supple, no JVD
+Heart: irregular rate, s1s2
+Lungs: clear bilaterally
+Abdomen: soft, nontender, nondistended. normoactive bowel sounds
+Ext: warm, no edema
+Pulses: 1+ distally
+Neuro: alert and oriented, no focal deficits
+
+Pertinent Results:
+[**3366-12-12**] 06:30AM BLOOD WBC-10.0 RBC-3.17* Hgb-9.3* Hct-28.5*
+MCV-90 MCH-29.4 MCHC-32.7 RDW-16.2* Plt Ct-296#
+[**3366-12-12**] 06:30AM BLOOD PT-18.0* PTT-37.7* INR(PT)-2.3
+[**3366-12-12**] 06:30AM BLOOD Glucose-109* UreaN-25* Creat-1.2* Na-140
+K-3.9 Cl-101 HCO3-28 AnGap-15
+
+[**Last Name (NamePattern4) 1766**]ospital Course:
+Mrs. [**Known patient lastname **] was admitted and underwent routine preoperative
+evaluation. She remained stable on medical therapy and was
+started on intravenous Heparin for her chronic atrial
+fibrillation. Workup was unremarkable and she was cleared for
+surgery. On [**12-2**], Dr. [**Last Name (STitle) 141**] performed a left
+ventricular myomectomy. Following the operation, she was brought
+to the CSRU on inotropic support. Within 24 hours, she awoke
+neurologically intact and was extubated. It took several days
+for her to wean from Neo-Synephrine. Her hemodynamics gradually
+stabilized. She continued to experience atrial fibrillation with
+periods of normal sinus rhythm, and was intermittently
+transfused to maintain hematocrit near 30%. Her platelet count
+drop as low as 39K on POD#3. HIT assays were checked, returning
+negative. Her clinical status stabilized and she transferred to
+the SDU on POD#4. She continued to experience atrial
+fibrillation with periods of rapid ventricular rate. She was
+eventually started on Amiodarone while low dose beta blockade
+was resumed for rate control. Warfarin anticoagulation was also
+resumed. Heparin was temporarily required for a sub therapeutic
+prothrombin time. Over the remainder of her stay, medical
+therapy was optimized and she was intermittently transfused to
+maintain hematocrit near 30%. Norvasc and Diovan were
+discontinued due to periods of hypotension. Beta blockade was
+slowly advanced as tolerated. She remained in atrial
+fibrillation. She was fluid overloaded and required aggressive
+diuresis with intravenous Lasix. By discharge, she was
+approaching her preoperative weight with room air saturations of
+94%. Her lower extremity edema improved. Chest x-ray prior to
+discharge was notable for only small bilateral pleural
+effusions. A short course of Macrobid was given for a urinary
+tract infection. She otherwise continued to make clinical
+improvements and made steady progress with physical therapy.
+Levofloxacin was started for mild erythema on the inferior
+aspect of her sternotomy. Mrs. [**Known patient lastname **] was eventually cleared for
+discharge to home on postoperative day twenty one. She will
+follow-up with Dr. [**Last Name (Prefixes) **], her cardiologist and her primary
+care physician as an outpatient. Dr. [**Last Name (STitle) 28345**] and [**Doctor Last Name 1769**] at
+[**Hospital **] Medical Group will be following her Coumadin dosing
+for a target INR of 2.0-3.0.
+
+Medications on Admission:
+Toprol XL 200 qd, Diovan 320 qd, lexapro 10 qd, Lasix 80 [**Hospital1 12**],
+Aldactone 25 qd, Lipitor 20 qd, KCL 20 qd, Norvasc 2.5 qd
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*1*
+4. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Furosemide 40 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) for 3 weeks.
+Disp:*63 Tablet(s)* Refills:*0*
+9. Metolazone 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 3 weeks: Take 1/2 hour before Lasix (Furosemide).
+Disp:*42 Tablet(s)* Refills:*0*
+10. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day
+for 1 weeks.
+Disp:*7 Tablet(s)* Refills:*0*
+11. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): continue until discontinued by Dr. [**Last Name (STitle) 1769**].
+Disp:*30 Tablet(s)* Refills:*0*
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: Two (2) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12
+hours) for 3 weeks.
+Disp:*84 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+13. Warfarin 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Warfarin should be dosed for goal INR between 2.0 - 3.0. INR
+today, [**12-23**], is 2.2. Coumadin dosing has been between
+0.5-1mg/day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 263**] VNA
+
+Discharge Diagnosis:
+Hypertrophic obstructive cardiomyopathy with mitral
+regurgitation - s/p left ventricular myomectomy, Congestive
+Heart Failure, Chronic Atrial fibrillation, Hypertension,
+Osteoarthritis, History of Pneumonia, Pulmonary Nodules,
+Depression, Postoperative UTI
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Shower, wash incision with soap and water and pat dry. No
+lotions, creams or powders or baths. Call with redness or
+drainage from incision, fever, or weight gain more than 2 pounds
+in one day or five in one week. No heavy lifting or driving
+until follow up with surgeon. Warfarin should be dosed for goal
+INR between 2.0 - 3.0. INR today is 2.2. Coumadin dosing has
+been between 0.5-1mg/day. Dr. [**Last Name (STitle) 28345**]/[**Doctor Last Name 1769**] will follow INR
+and adjust Coumadin accordingly. You will have first blood draw
+on [**3366-12-25**] by VNA. Have VNA call [**Doctor First Name **] at [**Telephone/Fax (1) 39115**] with
+results.
+
+Followup Instructions:
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 141**] 4-5 weeks
+Dr. [**First Name8 (NamePattern2) 12214**] [**Last Name (NamePattern1) 28345**] in [**2-16**] weeks
+Dr. [**Last Name (STitle) 1769**] in [**3-20**] weeks
+Dr. [**Last Name (STitle) 28345**] and [**Doctor Last Name 1769**] at [**Hospital **] Medical Group will be
+following your Coumadin dosing and INR. Have visiting nurse [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 41647**] [**Last Name (NamePattern1) 41648**] (Coumadin nurse) at [**Telephone/Fax (1) 39115**] with results.
+
+
+
+Completed by:[**3366-12-24**]
+
+DOC CLASS

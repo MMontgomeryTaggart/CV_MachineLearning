@@ -1,0 +1,397 @@
+Admission Date:  [**2910-12-13**]              Discharge Date:   [**2910-12-30**]
+
+
+Service: SURGERY
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 617**]
+Chief Complaint:
+Left lower extremity cellilits x 1 day, CP and chills.
+
+Major Surgical or Invasive Procedure:
+Diagnostic angiogram via right femoral artery access [**2910-12-17**]
+left fem-akpop with PTFe, akpopto peroneal w left arm vein
+[**2910-12-22**]
+left #2 toe amp [**2910-12-26**]
+
+
+History of Present Illness:
+87 yo M with hx of CAD s/p MI/CABG, HTN, PVD/PAD, DM with hx L
+toe osteo with 1d of L 2nd toe swelling/erythema/pain. Also,
+episode of anginal CP 1hr before presentation, resolved with
+rest/nitro. In ED, temp to 101.2. Exam with cellulitis of L 2nd
+toe (same toe with previous osteo) with extension up lower leg.
+Given cipro/vanco. CXR no PNA, L foot x-ray no osteo. EKG
+unchanged. Continued to have cp in the ED which resolved with
+SLNG x 1. No n/v/d/abdominal pain, dysuria/no sob. Increase LLE
+swelling and erythema. He uses SLNG 1/month.
+ROS per HPI otherwise all other ROS negative. No increase in
+frequency of use of SLNG.
+
+
+Past Medical History:
+-CAD: Severe 3 vessel disease s/p 3v CABG [**2884**](SVG=>D1=>LAD,
+SVG=>OM1=>OM3, SVG= >AM). SVG=>D1=>LAD was stented [**2904**]. Repeat
+cath [**7-6**] showed inoperable disease. During admit [**10-6**], had CP
+a/w some dynamic ST segment depressions in anterior leads,
+medically managed with aspirin, plavix, ACE, imdur, and
+betablocker. LVEF >55% on Echo done [**11/2908**]
+-Incarcerated paraesophageal hernia s/p laparoscopic repair with
+fundoplication in [**10-6**]; associated gastric outlet obstruction
+resolved with surgical repair
+-Lower gastrointestinal bleed secondary to hemorrhoids and
+colonic polyps, admit [**2906-11-14**]
+-Hypertension with mild symmetric LVH
+-Afib, first noted post-op during [**10-6**] admission post op after
+paraesophageal hernia repair, converted to NSR on 11/[**2908**]. Off
+coumadin [**2-1**] significant bleeding issues.
+-Hyperlipidemia
+-Diabetes type II
+-By MRI/MRA: left posterior parietal infarct, chronic
+periventricular microvascular ischemic changes, moderate disease
+resulting in 60-70% stenosis of the right precavernous and
+cavernous ICA
+-s/p bilateral carotid endarterectomy
+-Peripheral vascular disease status post left toe amputation,
+followed by Dr. [**Last Name (STitle) **]
+[**Name (STitle) 14494**] of prostate cancer status post radiation therapy
+-Cataracts
+
+Social History:
+No history of tobacco, no illicit drugs, no EtOH use. Walks
+without a walker at home. Lives with his wife [**Name (NI) 6863**] and son
+[**Name (NI) **] who is active in his care.  Retired physical therapist,
+musician and barber. Independent of ADLs except for showering.
+Wife does the bills. He does his own medications and his son
+supervises. 3 children, 3 grandchildren and 7 great
+grandchildren. Last fell [**10-12**] and was admitted to [**Hospital 14872**].
+
+
+Family History:
+History of MI in mother (death 89), father (death 67).
+
+Physical Exam:
+VS: T = 97.8 P = 56 BP = 100/46 RR = 18 O2Sat = 96% on RA Wt =
+GENERAL:  Frail elderly male sitting up in bed
+Nourishment: At risk
+Grooming: Well groomed
+Mentation: Alert, slightly sleepy but when he wakes up he is
+able to participate in the conversation.
+Eyes:NC/AT, PERRL, EOMI without nystagmus, no scleral icterus
+noted
+Ears/Nose/Mouth/Throat: dry MM, no lesions noted in OP
+Neck: supple, no JVD or carotid bruits appreciated
+Respiratory: RLL crackles
+Cardiovascular: RRR, nl. S1S2, loud blowing holosystolic murmur.
+
+Gastrointestinal: soft, NT/ND, normoactive bowel sounds, no
+masses or organomegaly noted.
+Genitourinary: deferred
+Rectal: No stool in vault. Smear of stool is guiac negative.
+Skin: L second toe with hemtoma present. Pulses not appreciated
+on exam.
+Dopplers:
+No pressure ulcer
+Extremities: 2+ radial, pulses b/l.  LLE with erythema, edema,
+more swollen than the right. L 2nd toe amputaion site dry and
+intact.
+Lymphatics/Heme/Immun: No cervical, lymphadenopathy noted.
+Neurologic:
+-mental status: Alert, oriented x 3. Able to relate history
+without difficulty.  +DOYB. No evidence of delirium on exam.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. No abnormal
+movements noted.
+No foley catheter/tracheostomy/PEG/ventilator support/chest
+tube/colostomy
+Psychiatric:  Full affect with appropriate brightening.
+
+
+Pertinent Results:
+[**2910-12-13**] 09:47PM   VoidSpec-[**Doctor First Name **] CLOT
+[**2910-12-13**] 09:30PM   GLUCOSE-218* UREA N-35* CREAT-1.2 SODIUM-133
+POTASSIUM-3.9 CHLORIDE-99 TOTAL CO2-22 ANION GAP-16
+[**2910-12-13**] 09:30PM   estGFR-Using this
+[**2910-12-13**] 09:30PM   CK(CPK)-72
+[**2910-12-13**] 09:30PM   CK-MB-NotDone cTropnT-<0.01
+[**2910-12-13**] 09:30PM   ALBUMIN-3.9 CALCIUM-8.9 MAGNESIUM-2.0
+[**2910-12-13**] 09:20PM   WBC-10.9# RBC-2.93* HGB-8.9* HCT-26.4* MCV-90
+MCH-30.4 MCHC-33.7 RDW-14.5
+[**2910-12-13**] 09:20PM   NEUTS-81.6* LYMPHS-11.9* MONOS-5.5 EOS-0.6
+BASOS-0.4
+[**2910-12-13**] 09:20PM   PLT COUNT-211
+<br>
+Admission foot X ray:
+IMPRESSION: Stable radiographic appearance of partial
+amputations of the
+first and second digits. No radiographic evidence for
+osteomyelitis or
+subcutaneous gas.
+<br>
+Conclusions
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The aortic root is
+moderately dilated at the sinus level. The ascending aorta is
+moderately dilated. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Mild to moderate
+([**1-1**]+) mitral regurgitation is seen. There is mild pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Mild aortic regurgitation. Mild to moderate mitral
+regurgitation. Mild pulmonary hypertension. Dilated ascending
+aorta.
+
+Compared with the prior study (images reviewed) of [**2910-4-23**],
+the findings are similar.
+
+Portable TTE (Complete) Done [**2910-12-19**] at 11:54:31 AM
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The aortic root is
+moderately dilated at the sinus level. The ascending aorta is
+moderately dilated. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Mild to moderate
+([**1-1**]+) mitral regurgitation is seen. There is mild pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Mild aortic regurgitation. Mild to moderate mitral
+regurgitation. Mild pulmonary hypertension. Dilated ascending
+aorta.
+
+ECG Study Date of [**2910-12-22**]  4:37:14 PM
+Atrial fibrillation, mean ventricular rate 70. Right
+bundle-branch block.
+Inferior myocardial infarction. Compared to the previous tracing
+of [**2910-12-17**] cardiac rhythm is now atrial fibrillation.
+
+ECG Study Date of [**2910-12-23**]  2:31:48 PM
+Normal sinus rhythm. Right bundle-branch block. Prolonged A-V
+conduction.
+Inferior myocardial infarction which is old and marked notching
+across the
+precordium suggetes old anterior wall myocardial infarction as
+well. Since the previous tracing of [**2910-12-23**] no significant
+change.
+
+ECG Study Date of [**2910-12-25**]  10:21:36 AM
+Possible ectopic atrial rhythm at rate 59 with first degree A-V
+block and
+right bundle-branch block. Probable old inferior wall myocardial
+infarction. Low voltage in the precordial leads. Compared to the
+previous tracing  of [**2910-12-23**] the sinus or ectopic atrial rate
+is slower.
+
+
+
+
+
+
+
+
+Brief Hospital Course:
+The patient is an 87 y.o. M with DM, hypertension, CHF, PVD who
+presents with cellulitis of the L 2nd toe along with erythema
+and swelling of the left leg.
+<br>
+Problems:
+1. CAD: Severe 3 vessel disease s/p 3v CABG [**2884**](SVG=>D1=>LAD,
+SVG=>OM1=>OM3, SVG= >AM). SVG=>D1=>LAD was stented [**2904**]. Repeat
+cath [**7-6**] showed inoperable disease presenting with CP
+2. Hypertension with mild symmetric LVH
+3. Afib, first noted post-op during [**10-6**] admission post op
+after paraesophageal hernia repair, converted to NSR on 11/[**2908**].
+Off coumadin [**2-1**] significant bleeding issues.
+4. Hyperlipidemia
+5. Diabetes type II
+6. PVD
+7. S/p carotid endarterectomy
+Plan:
+-Continue abx, vancomycin and cipro
+- Podiatry consult
+-ROMI/tele/cycle enzymes
+- f/u blood cultures
+- ROMI negative consider PPI.
+- Continue all home meds: Plavix 75 mg qd, Toprol 12.5 mg qd,
+Imdur 30 mg qd, Lisinopril 5 mg [**Last Name (LF) 823**], [**First Name3 (LF) 824**] 81 mg qd,
+Calcium/Vitamin D 1/day, MVT qd except januvia, not available at
+Code status: FULL d/w patient and family in detail on admission.
+Access: PIVs
+ppx; sub Q heparin
+Disposition: Pending w/u in progress
+Contact: [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 14873**], cp [**Telephone/Fax (1) 14874**]
+Wife=Mrs. [**Known patient lastname 14492**] =  HCP number: [**Telephone/Fax (1) 14875**]
+[**Name2 (NI) **]ar consulted [**2910-12-14**] underwent diagnositc angio without
+complication
+Transfered to Vascualr Surgery service [**2910-12-17**]
+[**2910-12-17**] Repeat Angiogram without complication done for
+assesment of tibial vessels, not well visulaized with inital
+angio.
+[**Date range (1) 14876**] vein mapping ro access vein conduit for antcipated
+surgery was done.IV antibiotics were continued.Preoperative
+ECHO: EF >55% with mild to moderate MR
+[**2910-12-22**] s/p left fem-akpop w PTFE+akpop-peroneal artery bpg w
+left arm vein.
+[**2910-12-23**] POD#1 required transfusion for Hct of 25.Remained in
+VICU with aline and Swan catheter in place. diet advanced. IV
+fluid discontinued and patient remained on bedrest.[**Last Name (un) 156**]
+consulted for glycemic managment. Patient iniated on Glargine
+and humalog.Januvia discontinued.
+[**2910-12-24**] No acute events, transfused 2 units of PRBCs , given
+Fursemide in between units. Transferred to VICU [**Hospital Ward Name 300**] 5.
+[**2910-12-25**] pre-op and consented for left 2nd toe amputation.
+Remains in VICU.
+[**2910-12-26**] underwent L 2nd toe amputation, recovered in the PACU.
+Transferred back to [**Hospital Ward Name 300**] 5 VICU. Had some atrial rythm problems.
+Cardia Echo was done- showing LVH with preserved EF, mild MR [**First Name (Titles) **] [**Last Name (Titles) **]. Electrolytes repleted.
+12/27-28/08 No acute events, [**Last Name (un) 156**] following. Central line
+d/c'd, peripheral IV inserted.
+[**2910-12-29**] No acute events, now full weight bearing bilaterally,
+PT [**Hospital 14877**] rehab placement. Became floor status.
+Rehab screening initiated.
+[**2910-12-30**] No acute events. Discharged to Rehab in good condition,
+will FU with Dr. [**Last Name (STitle) 313**] in 2 weeks.
+
+
+Medications on Admission:
+Plavix 75 mg qd
+Toprol 12.5 mg qd
+Imdur 30 mg qd
+Januvia 50 mg qd
+Lisinopril 5 mg qd
+[**Last Name (STitle) 824**] 81 mg qd
+SLNG 0.4 mg prn
+Calcium/Vitamin D 1/day
+MVT qd
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed.
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed.
+5. Insulin Glargine 100 unit/mL Solution Sig: as directed
+Subcutaneous at bedtime: 14 units.
+6. Insulin Aspart 100 unit/mL Solution Sig: as directed
+Subcutaneous four times a day: AC:breakfast
+[**Last Name (STitle) 14878**]:
+< 70 no insulin
+71-120/2u
+121-160/3u
+161-200/5u
+201-240/6u
+241-280/7u
+281-320/8u
+321-360/9u
+361-400/10u
+>400 [**Name8 (MD) 15**] MD
+u=units
+lunch/dinner AC
+glucoes:
+<120 no insulin
+121-160/2u
+161-200/4u
+201-240/6u
+241-280/7u
+281-320/8u
+321-360/9u
+361-400/10u
+>400 [**Name8 (MD) 15**] MD
+[**First Name (Titles) **]
+[**Last Name (Titles) 14878**]:
+<160 no insulin
+161-200/2u
+201-240/4u
+241-280/6u
+281-320/7u
+321-360/8u
+361-400/9u
+>400 [**Name8 (MD) 15**] Md
+.
+7. Glyburide 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day): while taking narcotics.
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+[**Hospital1 9**] (2 times a day) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 520**] Sr Healthcare of [**Location (un) 940**]
+
+Discharge Diagnosis:
+Lower right extremity cellulitis
+angina
+histroy of chroinic systolic CHF on acute
+history of coronarary artery disease s/p 3V CABG (
+SVG_D1+LAD,Svg-OM1+OM3, svg-AM) s/p PCI/'[**04**],stenting of SVG-D1+
+LAD,Cardiac cath '[**08**], inoperable disease
+history of paraesophgeal hernia-incarcerated s/p laperscopic
+repair with fundoplication [**10-6**], complicated by gastric out let
+symdrome s /p surgical repair
+history of lower GI bleed [**2-1**] hemmroids and colonic polyps [**11-4**]
+
+history of hypertension with symmertical LVH
+history of AF, converted NSR, anticoagulated d/c'd [**2-1**] GI bleed
+history of dyslipdemia
+history of DM2, insulin dependant
+history of posterior paraiatal infract by MRA?Mhronic
+periventricular microvascular disease
+carotid disease of pericavenerous& cavernous ICA 60-70%,s/p
+bilateral CEA's
+history of peripheral vascular diasease s/p left toe amputation
+post-operative anemia requiring blood transfusions
+Atrial fibrillation
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+- walk essential distances untill FU with Dr. [**Last Name (STitle) 313**]
+- Ace wrap leg from foot-knee when ambulating
+- Elevate leg when sitting
+- no driving till FU
+- may shower, no tub baths
+- Keep wound dry and clean, call if noted to have redness,
+draining, swelling, or if temp is greater than 101.5
+- Continue all medications as directed
+- Keep all FU appointments
+- Call Dr.[**Name (NI) 2869**] office for FU appointment
+
+Weigh yourself every morning, [**Name8 (MD) 15**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+
+
+Followup Instructions:
+2 weeks Dr. [**Last Name (STitle) 313**], call for an appointment, [**Telephone/Fax (1) 624**]
+
+Dr. [**Last Name (STitle) **],[**First Name3 (LF) **] (PCP) [**Telephone/Fax (1) 781**] Date/Time: [**2910-1-12**] 1:30 PM
+
+[**First Name11 (Name Pattern1) 378**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 379**], DPM Phone:[**Telephone/Fax (1) 380**] Date/Time:[**2911-1-7**] 11:30
+
+
+
+Completed by:[**2910-12-30**]
+
+DOC CLASS

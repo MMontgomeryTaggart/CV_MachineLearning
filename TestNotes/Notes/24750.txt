@@ -1,0 +1,236 @@
+Admission Date:  [**2636-7-24**]              Discharge Date:   [**2636-7-27**]
+
+Date of Birth:  [**2586-7-1**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1125**]
+Chief Complaint:
+confusion and language problems
+
+Major Surgical or Invasive Procedure:
+i.v. t-PA
+TEE
+
+
+History of Present Illness:
+Pt is a 50 year old R handed man in his usual state of
+health today when he left home at 12pm today for a bike ride on
+a
+new bike. Shortly before 2pm, he was found lying next to his
+bike, confused, speaking, but not making sense. D-stick 98 at
+the
+scene. Brought to the ED, taken to head CT at 2pm due to
+concerns
+for head trauma vs stroke. Neurology paged, arrived to ED at
+approximately 2:05pm, Pt in CT scanner. NIH stroke scale total
+score at ~2:15 = 6. Clear deficits included fluent aphasia, R
+lower facial droop, extinction on R c/w L MCA stroke. Labs sent
+at 2:30pm. Hypertensive to 188/93; received Hydralazine 10mg x1
+with good effect. tPA was pushed at 2:55pm (7mg push, 62mg over
+1 hour). No significant change during re-examination towards end
+
+of tPA infusion. Admitted to ICU for further workup.
+
+
+Past Medical History:
+Chronic low back pain, herniated discs
+Decreased sensation in 1 leg at baseline (wife unsure of which)
+
+
+Social History:
+-married, lives with wife and son
+-denies drugs
+-tobacco: 2.5 packs/day
+
+Family History:
+-Brother: MI at age 48 (died)
+-brother: MI age 60
+-mother: stroke at age 60; cancer
+
+Physical Exam:
+VS: T Afeb HR 69 BP 156/78 Sat 100% on RA
+
+PE: GEN NAD
+HEENT NCAT, MMM, OP clear
+Neck supple, no [**Doctor First Name **], no bruits
+Chest CTAB
+CVS RRR, no m/r/g
+ABD soft, NT, ND, +BS
+EXT Superficial abrasions over LE bilaterally. no c/c/e, distal
+pulses strong, no rash
+
+Neuro
+MS: Alert, oriented to person only. Interactive, appears
+frustrated by deficits. Limited mental status exam d/t poor
+comprehension.
+Speech: Fluent speech, mostly non-sensical. Naming for low freq
+objects impaired (pen, glasses). Says "tweeze" for most items.
+Does not repeat, read, or write. Perseverates on "sorry".
+L/R confusion: +L/R confusion - refers to the L side of the body
+
+as right.
+CN: I--not tested; II,III-PERRLA (3 to 2mm bilaterally), R
+homonymous hemianopia, optic discs sharp; III,IV,VI-EOMI w/o
+nystagmus, no ptosis; V--sensation intact to LT/PP, masseters
+strong bilaterally; VII-flattened R nasolabial fold; VIII-turns
+toward voices bilaterally; IX,X--voice normal; [**Doctor First Name **]--SCM/trapezii
+[**4-7**]; XII--tongue protrudes midline, no atrophy or fasciculation
+Motor: normal bulk and tone; no tremor, rigidity, or
+bradykinesia. R arm drifts upward with eyes closed. Full
+strength throughout, symmetric
+
+|ShAb|[**Male First Name (un) **]|ElFl|ElEx|WrFl|WrEx|FgSp|HpFl|KnEx|KnFl|Dors|Plan|
+L | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5
+|
+R | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5
+|
+Coord: Unable to complete d/t comprehension problems. [**Name (NI) **] ataxia
+when reaching for objects or pointing to people.
+Reflex:
+|[**Hospital1 **] |tri |bra |pat |[**Doctor First Name **] |toe |
+L | 2 | 2 | 2 | 2 | 2 | mute |
+R | 2 | 2 | 2 | 2 | 2 | mute |
+[**Last Name (un) **]: Sensation grossly intact to pinprick throughout.
++extinction on R to double simultaneous stimulation.
+Gait: Not tested.
+
+NIHSS
+Time of exam: 2:15pm Total score - 6
+1a: Alert and responsive (0) 1b:Unable to state month and name
+(1) 1c: Follows simple commands (0) 2: Normal EOM (0) 3: R
+homonymous hemianopia (2) 4: Minor R lower facial paralysis,
+flat
+nasolabial fold (1) 5: No L arm drift (0) 6: R arm drift not
+indicative of weakness (0)
+7: No L leg drift (0) 8: No R leg drift (0) 9: No ataxia (0) 10:
+
+Normal sensation to PP (0)
+11: Moderate aphasia (1) 12: No dysarthria (0) 13: R sided
+extinction (1)
+
+
+Pertinent Results:
+[**2636-7-24**] 02:30PM   WBC-11.2* RBC-4.30* HGB-13.8* HCT-38.4*
+MCV-89 MCH-32.2* MCHC-36.1* RDW-12.3
+[**2636-7-24**] 02:30PM   PLT COUNT-286
+[**2636-7-24**] 02:30PM   PT-12.2 PTT-26.6 INR(PT)-1.0
+[**2636-7-24**] 02:30PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+.
+[**2636-7-24**] 02:30PM   GLUCOSE-90 UREA N-17 CREAT-1.0 SODIUM-139
+POTASSIUM-4.0 CHLORIDE-106 TOTAL CO2-21* ANION GAP-16
+[**2636-7-24**] 02:30PM   ALT(SGPT)-25 AST(SGOT)-21 CK(CPK)-168
+[**2636-7-24**] 02:30PM   CK-MB-3 cTropnT-<0.01
+[**2636-7-24**] 09:34PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2636-7-25**] 03:58AM BLOOD CK-MB-2 cTropnT-<0.01
+.
+Cholest-259*
+Triglyc-134 HDL-53 CHOL/HD-4.9 LDLcalc-179*
+.
+HbA1C: 5.3
+.
+CT brain without IV contrast ([**7-24**]):
+No prior studies.
+There is no acute intracranial hemorrhage, shift of normally
+midline structures, or hydrocephalus. [**Doctor Last Name 85**]-white matter
+differentiation is preserved. Soft tissues and osseous
+structures are unremarkable. Minimal mucosal thickening is seen
+within the ethmoid air cells.
+IMPRESSION: No acute intracranial hemorrhage.
+.
+EEG ([**7-24**]):This is a possibly abnormal portable EEG obtained in
+wakefulness and stage II sleep due to the presence of mildly
+disorganized background and voltage reduction over the entire
+left
+hemisphere only in wakefulness. The significance of this finding
+is
+unclear. There were no epileptiform discharges seen.
+
+.
+Carotid series ([**7-24**]):Minimal plaque with bilateral less than
+40% carotid stenosis. Of note, the left vertebral artery appears
+occluded.
+.
+TEE ([**7-26**]):Possible transpulmonary shunt. No cardiac source of
+embolism
+identified.
+.
+LENI ([**7-26**]): No evidence of lower extremity deep vein
+thrombosis, bilaterally.
+
+
+Brief Hospital Course:
+The patient was admitted to the neurology intensive care unit
+for further monitoring after his t-PA administration.  He was
+placed initially on cardiac telemetry and ruled out for an acute
+myocardial infarction.  He was transferred from the ICU to a
+regular floor bed on [**7-25**].  He had a transesophageal
+echocardiogram that was only significant for a possible small
+transpulmonary shunt.  A carotid US study was negative for
+stenosis, and an ultrasound of the legs was negative.  His lipid
+panel showed elevated cholesterol.  An EEG was performed that
+showed no epileptiform activity.  His aphasia slowly improved
+during the hospitalization.  His NIHSS score upon discharge was
+2.  He was given instructions to arrange outpatient speech
+therapy.  He was discharged with instructions to stop aspirin in
+5 days while increasing aggrenox to [**Hospital1 12**] permanently.  An
+appointment was made to have the patient follow up in stroke
+clinic in one month.
+
+
+Medications on Admission:
+advil
+
+Discharge Medications:
+1. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) for 4 days:
+Please take for 4 days then stop.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Aggrenox 200-25 mg Cap, Multiphasic Release 12 HR Sig: One
+(1) Cap, Multiphasic Release 12 HR PO twice a day.
+Disp:*60 Cap, Multiphasic Release 12 HR(s)* Refills:*2*
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. left MCA fronto-parietal infarct, cryptogenic
+2. s/p intravenous thrombolysis
+3. hyperlipidemia
+4. hypertension
+5. Transpulmonary shunt
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please take aggrenox once a day and aspirin for 5 days, then
+increase aggrenox to one tablet twice a day and stop the aspirin
+
+
+Followup Instructions:
+1. Please follow up with your Primary care Physician in one
+week.
+.
+2.Please follow up at the Neurology Clinic: Provider: [**Name Initial (NameIs) 1457**]. [**Name5 (PTitle) 939**]
+& [**Doctor Last Name **] Where: [**Hospital6 127**] NEUROLOGY Phone:[**Telephone/Fax (1) 832**]
+Date/Time:[**2636-8-31**] 2:00
+
+
+                             [**Name6 (MD) 940**] [**Last Name (NamePattern4) 1142**] MD, [**MD Number(3) 1143**]
+
+
+
+DOC CLASS

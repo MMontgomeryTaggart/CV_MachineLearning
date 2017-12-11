@@ -1,0 +1,261 @@
+Admission Date:  [**2975-9-4**]              Discharge Date:   [**2975-9-6**]
+
+Date of Birth:  [**2948-4-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Fentanyl
+
+Attending:[**First Name3 (LF) 793**]
+Chief Complaint:
+Right elbow pain and redness
+
+Major Surgical or Invasive Procedure:
+Mechanical Ventilation
+
+
+History of Present Illness:
+27M with Hajdu-[**Location (un) 4814**] Syndrome, with restrictive lung disease
+[**2-7**] kyphoscoliosis and COPD on home O2 4L NC and SIMV by
+ventilator, currently undergoing treatment for  R olecranon
+osteomyelitis on Daptomycin presents from PCP with worsening [**Name Initial (PRE) **]
+elbow pain and swelling x 2d.
+.
+Pt initially admitted [**Date range (1) 4819**] with a non-healing ulcer over R
+elbow and concern for osteomyelitis as he was noted to have
+fluctuance over the elbow. At that time  the lesion expressed a
+large amount of largely serous fluid. A swab was sent and grew
+mixed flora. An MRI of elbow was not possible as patient was
+unable to position his arm as required for scan. Bone scan
+performed on [**8-4**] read as osteomyelitis of right elbow. He was
+discharged on vancomycin 1gm IV q8 via PICC.
+.
+Pt was then readmitted on [**8-15**] with SOB and found to have
+Coagnegative Staph and  VRE. TTE which was negative for evidence
+of endocarditis. He was then changed from Vanco to Daptomycin.
+Two other superficial wound swabs were sent from his R elbow
+ulcer with subsequent growth of Coagnegative Staph and P.
+aeruginosa on [**8-16**] and CoNS on [**8-17**].
+.
+
+Pt seen in [**Hospital **] clinic on [**8-25**], doing well overall, with reports
+of drainage being increasingly bloody but decreased in amount
+since the time of his initial discharge.
+.
+
+The patient presented to PCP [**Last Name (NamePattern4) **] [**9-4**] with worsening R elbow pain
+and swelling x 2d and sent to [**Hospital1 4**] for evaluation.
+.
+
+
+Past Medical History:
+1. Hajdu-[**Location (un) 4814**] Syndrome
+2. Osteomyelitis, right olecranon (pressure-related)
+3. Chronic obstructive/restrictive lung disease
+4. h/o multiple pneumonias, including Pseudomonas pna and VAP
+
+Social History:
+Lives at home with his grandparents and brother. [**Name (NI) 243**] a Home
+Health Aide.
+- Tobacco: active tobacco use ([**4-10**] cigarettes a day)
+- Alcohol: denies
+- Illicits: denies
+
+
+Family History:
+Mother and brother with [**Location (un) 4815**] syndrome.
+
+Physical Exam:
+ON ADMISSION:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: trach in place, no secretions, supple, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, mild suprapubic tenderness, non-distended, bowel
+sounds present, no rebound tenderness or guarding, no
+organomegaly
+GU: no foley
+Ext: right elbow with 2 cm open wound with granualtion tissue
+and purulent drainage. Wound is surrounded by warmth, edema and
+erythema. No pain with active or passive motion. Other
+extremities are warm, well perfused, 2+ pulses, no clubbing,
+cyanosis or edema
+
+ON DISCHARGE:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: trach in place, no secretions, supple, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, mild suprapubic tenderness, non-distended, bowel
+sounds present, no rebound tenderness or guarding, no
+organomegaly
+GU: no foley
+Ext: right elbow with 2 cm open wound with granualtion tissue
+and mild serrous drainage. Wound is less erythemetous than
+previously. No pain with active or passive motion. Other
+extremities are warm, well perfused, 2+ pulses, no clubbing,
+cyanosis or edema.
+
+Pertinent Results:
+Admission Labs:
+[**2975-9-4**] 01:50PM   GLUCOSE-117* UREA N-23* CREAT-0.5 SODIUM-136
+POTASSIUM-4.2 CHLORIDE-92* TOTAL CO2-35* ANION GAP-13
+[**2975-9-4**] 01:50PM   WBC-8.5 RBC-3.98* HGB-10.5* HCT-32.0* MCV-80*
+MCH-26.3* MCHC-32.7 RDW-13.6
+[**2975-9-4**] 02:00PM   LACTATE-0.9
+[**2975-9-4**] 01:50PM   CRP-23.1*
+.
+Discharge Labs:
+[**2975-9-6**] 04:45AM BLOOD WBC-5.9 RBC-3.63* Hgb-9.6* Hct-29.0*
+MCV-80* MCH-26.3* MCHC-32.9 RDW-13.9 Plt Ct-156
+[**2975-9-6**] 04:45AM BLOOD Plt Ct-156
+[**2975-9-5**] 04:44AM BLOOD ESR-35*
+.
+Right Elbow Plain Film:
+In comparison with the study of [**8-1**], there is again diffuse
+demineralization of the visualized bony elements. On the lateral
+view, the
+previously described soft tissue defect posterior to the
+olecranon is not
+appreciated. However, there is now substantially more soft
+tissue swelling in the region. No definite bone erosion is
+appreciated. No evidence of
+posterior fat pad indicating joint effusion. If there is serious
+question
+about the possibility of osteomyelitis, MRI would be the next
+imaging
+procedure.
+.
+
+
+Brief Hospital Course:
+27M with Hajdu-[**Location (un) 4814**] Syndrome and chronic restrictive and
+obstructive pulmonary disease with a non-healing R elbow
+ulceration with suspected osteomyelitis admitted with clinical
+worsening despite 2 weeks of IV daptomycin. Admitted to the MICU
+becuase of ventilation requirement at night. Was seen by
+orthopedics, infectious disease, and wound care. The patient
+showed no systemic signs or symptoms of infection, and the
+worsening pain and erythema was felt to be due to
+pressure-related trauma. The patient uses the arm to move
+around, and when padding and protection was applied, the
+erythema and pain improved. The patient will follow up with PT
+and OT as an outpatient to ensure that the right elbow is
+protected, and wound care recommendations were provided to the
+patient for VNA to follow-up with. He will also continue
+daptomycin IV with regualrly scheduled visits with infectious
+disease.
+
+Medications on Admission:
+Daptomycin 500mg Daily
+Bactrim SS q day
+Prednisone 15mg PO Daily
+Morphine 60mg PO Q6H PRN
+Methadone 40mg PO TID
+Oxycodone 5mg 1-2 Tablets PO Q6H PRN Pain
+Albuterol Sulfate 2.5 mg /3 mL NEB Q4H  PRN Wheeze
+Ipratropium Bromide 0.02 % Solution Sig Q6H PRN Wheeze
+Montelukast 10mg PO Daily
+Budesonide 1 mg/2 mL Suspension for Nebulization One Inh [**Hospital1 **]
+Baclofen 40mg PO QAM
+Baclofen 20mg PO Q11AM
+Baclofen 20mg PO Q7PM
+Gabapentin 800mg PO Q8H
+Ibuprofen 800mg PO Q8H
+Lorazepam 1mg PO Q 24H
+Omeprazole 20mg PO Daily
+Testosterone 5 mg/24 hr Patch 24
+Cholecalciferol 400 PO Daily
+Calcium Carbonate 500mg PO Q12H
+Bupropion HCl 150 mg SR PO Daily
+
+
+Discharge Medications:
+1. Morphine 30 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6
+hours) as needed for pain.
+2. Methadone 40 mg Tablet, Soluble Sig: One (1) Tablet, Soluble
+PO TID (3 times a day).
+3. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: [**1-7**]  Inhalation Q6H (every 6 hours) as needed
+for wheeze.
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+5. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Baclofen 10 mg Tablet Sig: Four (4) Tablet PO QAM (once a day
+(in the morning)).
+7. Baclofen 10 mg Tablet Sig: Two (2) Tablet PO Q11AM ().
+8. Baclofen 10 mg Tablet Sig: Two (2) Tablet PO Q7PM ().
+9. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO Q 8H (Every
+8 Hours).
+10. Ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8
+hours).
+11. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+12. Testosterone 5 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal Q24H (every 24 hours).
+13. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day
+(at bedtime)).
+14. Prednisone 5 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+15. Sulfamethoxazole-Trimethoprim 400-80 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+16. Daptomycin 500 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous Q24H (every 24 hours): Give at 5 PM daily.
+Disp:*30 Recon Soln(s)* Refills:*2*
+17. Bupropion HCl 150 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO DAILY (Daily).
+18. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+19. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO Q12H (every 12 hours).
+20. Outpatient Lab Work
+Please draw weekly CBC with Diff, BUN/Cr, CK, ESR, CRP and fax
+the results to Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at [**Telephone/Fax (1) 48**]
+21. AMD Packing strips
+Please dispense 3 packages of [**1-9**] inch AMD packing strips for
+daily wound dressings
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA
+
+Discharge Diagnosis:
+Primary Diagnosis:
+- Osteomyelitis
+- Chronic Respiratory Failure
+
+
+Discharge Condition:
+Clinically stable at patients baseline. Areas around right elbow
+mildly erythematous. Ulceration stable.
+
+
+Discharge Instructions:
+You were admitted to the hospital for suspected infection of
+your right elbow. You were continued on the same antibiotics for
+osteomyeltitis. You were seen by a wound care specialist that
+made recommendations for skin care. Our team has made
+recommendations for you to be evaluated by an outpatient
+occupational therapy.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2650**], MD Phone:[**Telephone/Fax (1) 64**]
+Date/Time:[**2975-9-22**] 10:00
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 794**]
+
+
+
+DOC CLASS

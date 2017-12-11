@@ -1,0 +1,205 @@
+TITLE: Physician Resident Progress Note
+   Chief Complaint:
+   24 Hour Events:
+   -received Haldol (total 3.5 mg) overnight for agitation
+   Allergies:
+   Penicillins
+   Unknown;
+   Tegretol (Oral) (Carbamazepine)
+   Unknown;
+   Spironolactone
+   Hyperkalemia;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 850 units/hour
+   Other ICU medications:
+   Haloperidol (Haldol) - [**2821-4-12**] 05:35 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2821-4-12**] 06:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**23**] AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 35.6
+C (96
+   HR: 60 (60 - 67) bpm
+   BP: 110/65(76) {98/49(60) - 127/6,868(84)} mmHg
+   RR: 30 (16 - 30) insp/min
+   SpO2: 91%
+   Heart rhythm: V Paced
+   Height: 72 Inch
+             Total In:
+                                                                    278 mL
+                                                                    117 mL
+   PO:
+                                                                     90 mL
+             TF:
+   IVF:
+                                                                    188 mL
+                                                                    117 mL
+   Blood products:
+   Total out:
+                                                                  1,150 mL
+                                                                    610 mL
+   Urine:
+                                                                    650 mL
+                                                                    610 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -872 mL
+                                                                   -493 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 91%
+   ABG: 7.43/39/86.[**Numeric Identifier **]/26/1
+   PaO2 / FiO2: 89
+   Physical Examination
+   GENERAL: Frail elderly gentleman, uncomfortable-appearing.
+   NECK: Prominent jugular veins.
+   CARDIAC: RRR, normal S1, mechanical S2. II/VI holosystolic murmur at
+   LSB.
+   LUNGS: Diffusely wheezy and rhonchorous.
+   ABDOMEN: Distended. Non-tender. Exam limited by distention.
+   EXTREMITIES: Extensive edema in buttocks/thighs/abdomen but not in
+   legs, feet, or ankles
+   SKIN: Skin breakdown on lower extremities.
+   Labs / Radiology
+   194 K/uL
+   10.9 g/dL
+   105 mg/dL
+   1.8 mg/dL
+   26 mEq/L
+   4.3 mEq/L
+   74 mg/dL
+   94 mEq/L
+   129 mEq/L
+   35.8 %
+   6.9 K/uL
+        [image002.jpg]
+                             [**2821-4-11**]  03:07 PM
+                             [**2821-4-11**]  06:00 PM
+   WBC
+   6.9
+   Hct
+   35.8
+   Plt
+   194
+   Cr
+   1.8
+   TCO2
+   27
+   Glucose
+   105
+   Other labs: PT / PTT / INR:/67.1/, ALT / AST:13/33, Alk Phos / T
+   Bili:157/1.4, Lactic Acid:1.4 mmol/L, Albumin:3.5 g/dL, LDH:274 IU/L,
+   Ca++:9.6 mg/dL, Mg++:3.1 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   71 yo M h/o dCHF (EF>55%), AS s/p AVR, AF, pulmonary HTN, CAD s/p CABG,
+   3rd-degree heart block s/p ppm, transferred from [**Hospital 11433**] Hospital for
+   consideration of vasodilator therapy for pulmonary hypertension in the
+   setting of severe diastolic biventricular heart failure.
+   .
+   # Acute on chronic diastolic heart failure: Currently, the patient
+   exhibits symptoms of predominantly right-sided heart failure with
+   peripheral edema, hepatic congestion, poor appetite, and elevated JVP.
+   Weight is significantly elevated from dry weight. Of note, there has
+   been a recent worsening in tricuspid regurgitation that may be
+   contributing to the patient's symptoms. Per Dr. [**First Name11 (Name Pattern1) **]
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 985**], patient
+   may need a degree of peripheral edema in order to have enough preload
+   to maintain cardiac output.
+   - continue diuresis with torsemide
+   - right and left heart cath with trial of vasodilator following
+   adequate diuresis
+   - continue metoprolol
+   - consider starting ACE I again, but would favor diuresis first
+   .
+   # Altered mental status: Hypercarbia ruled out with ABG. Altered mental
+   status could be related to poor forward flow in setting of heart
+   failure. However, asterixis suggests a toxic-metabolic cause. This has
+   been attributed to uremia in the past, but BUN/Cr do not seen elevated
+   enough to explain the patient's encephalopathy.  Other possibilities
+   include non-convulsive seizures, infection, and accumulation of
+   medications in setting of decreased renal function.
+   - avoid sedating medications
+   - consult neurology
+   - check UA, UCx
+   .
+   # Recent treatment for presumed PNA: Was on cefepime and linezolid and
+   OSH for possible pneumonia but no evidence of fever, leukocytosis, or
+   infiltrate.
+   - no antibiotics for now
+   .
+   # Chronic kidney disease: The patient is actually at his recent
+   baseline creatinine (1.6-1.9). Urine sediment bland. Likely etiology is
+   poor forward flow.
+   - optimize hemodynamics
+   - avoid nephrotoxins
+   - renally dose meds
+   .
+   # COPD: The patient sounds rhonchorous and wheezy on exam.
+   - albuterol and ipratropium nebs
+   - inhaled fluticasone
+   .
+   # Mediastinal adenopathy: Unclear etiology, could relate to infection
+   vs. inflammatory or neoplastic process.  Would be helpful to have
+   radiology review images in comparison to priors, as patient has
+   multiple prior CTs.
+   .
+   # s/p mechanical aortic valve: Well-seated on recent echo.
+   - hold coumadin for now in anticipation of possible procedure
+   - heparin gtt
+   .
+   # AFib with single-chamber PPM placed for 3rd degree AV block:
+   - hold coumadin for now in anticipation of possible procedure.
+   .
+   # h/o CAD s/p CABG: Not on aspirin, presumably because of concern for
+   bleeding while on coumadin. No evidence of ischemia. Cardiac enzymes
+   negative at Wincester
+   - continue simvastatin
+   .
+   # DM:  controlled by diet
+   - insulin sliding scale
+   .
+   # BPH:  continue flomax
+   ICU Care
+   Nutrition: low sodium, diabetic diet with fluid restriction
+   Glycemic Control:  insulin sliding scale
+   Lines:
+   20 Gauge - [**2821-4-11**] 01:54 PM
+   Prophylaxis:
+   DVT: heparin gtt
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments: Son [**Name (NI) 11435**] is HCP [**Telephone/Fax (1) 11436**], [**Telephone/Fax (1) 11437**]
+   (home). Other son is [**Name (NI) **] [**0-0-**]
+   Code status: Full code
+   Disposition: CCU
+   ------ Protected Section ------
+   Cardiology Attending Progress Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr(s). [**Name (NI) 8884**].
+   I would add the following remarks:
+   History
+   He remains intermittently disoriented but aware of place and family.
+   Intermittent [**Last Name (un) **]-[**Doctor Last Name 1982**] breathing
+   Medical Decision Making
+   Diuresis is in progress with > 800 cc negative past 12 hours.   RHC to
+   assess difficulties with diuresis.
+   Total time spent on patient care: 30 minutes of critical care time
+   ------ Protected Section Addendum Entered By:[**Name (NI) 3082**] [**Last Name (NamePattern1) 5163**], MD
+   on:[**2821-4-12**] 21:18 ------
+
+
+DOC CLASS

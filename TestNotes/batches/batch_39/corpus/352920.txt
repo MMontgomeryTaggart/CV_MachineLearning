@@ -1,0 +1,151 @@
+CVICU
+   HPI:
+   HD2
+   readmit for GI bleed - BRBBR hct drop 31 to 24
+   64M s/p OPCABx4(LIMA->LAD, SVG->[**Last Name (LF) **], [**First Name3 (LF) **], PDA) [**12-7**]
+   EF: 30% Cr.: 9.4 Wt.: 100 kg.
+   PMHx: s/p STEMI [**3020-11-25**] w/ VT arrest, s/p stent to LCX [**8-4**], s/p PTCA
+   [**4-4**], s/p CVA [**4-4**], [**3017**], PAF, OSA, HTN, ^lipids,
+   ESRD(HD)hyperparathyroidism, COPD, s/p appy, s/p T+A
+   Chief complaint:
+   PMHx:
+   Current medications:
+   HYDROmorphone (Dilaudid) , Ipratropium Bromide MDI, Mirtazapine
+   ,Nephrocaps,  Pantoprazole , Simvastatin, Sodium Chloride 0.9% Flush ,
+   Sodium Chloride 0.9% Flush
+   24 Hour Events:
+ MULTI LUMEN - START [**3020-12-19**] 02:10 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3020-12-20**] 08:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**23**] a.m.
+   Tmax: 36.9
+C (98.4
+   T current: 36.2
+C (97.2
+   HR: 70 (70 - 95) bpm
+   BP: 103/44(58) {90/39(51) - 112/71(83)} mmHg
+   RR: 19 (19 - 30) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 109 kg (admission): 1 kg
+                  Total In:
+                                                                    350 mL
+                                                                    350 mL
+   PO:
+                  Tube feeding:
+   IV Fluid:
+   Blood products:
+                                                                    350 mL
+                                                                    350 mL
+   Total out:
+                                                                      0 mL
+                                                                     10 mL
+   Urine:
+   10 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    350 mL
+                                                                    340 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 100%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : ), (Sternum:
+   Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   236 K/uL
+   9.7 g/dL
+   111
+   5.9 mg/dL
+   28 mEq/L
+   4.0 mEq/L
+   45 mg/dL
+   107 mEq/L
+   144 mEq/L
+   28.1 %
+   10.4 K/uL
+        [image002.jpg]
+                            [**3020-12-19**]  02:12 PM
+                            [**3020-12-19**]  05:00 PM
+                            [**3020-12-19**]  05:56 PM
+                            [**3020-12-19**]  10:29 PM
+                            [**3020-12-20**]  05:52 AM
+   WBC
+   12.0
+   10.4
+   Hct
+   22.8
+   25.6
+   24.2
+   28.1
+   Plt
+   244
+   236
+   Creatinine
+   5.9
+   Glucose
+   84
+   111
+   Other labs: PT / PTT / INR:19.2/33.7/1.8, ALT / AST:21/17, Alk-Phos / T
+   bili:115/0.4, Amylase / Lipase:122/118, Albumin:2.5 g/dL, LDH:208 IU/L,
+   Ca:8.1 mg/dL, Mg:1.9 mg/dL, PO4:4.5 mg/dL
+   Imaging: CXR: clear
+   Microbiology: all neg
+   Assessment and Plan
+   .H/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+   Assessment and Plan: Pt.'s hct is stable.  Received 2 UPRC and 2 FFP.
+   Cont. to have BRBPR.  Will do serial Hcts.  Pt is refusing
+   colonoscopy.  Cont. present care. Will have HD today.
+   Neurologic:
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: NPO
+   Renal: HD
+   Hematology: Serial Hct
+   Endocrine: RISS
+   Infectious Disease: all neg
+   Lines / Tubes / Drains:
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: GI
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3020-12-19**] 02:10 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

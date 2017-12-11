@@ -1,0 +1,431 @@
+Admission Date:  [**2565-7-5**]              Discharge Date:   [**2565-7-11**]
+
+Date of Birth:  [**2499-8-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Betadine / chlorhexidine
+
+Attending:[**First Name3 (LF) 5414**]
+Chief Complaint:
+chills
+
+Major Surgical or Invasive Procedure:
+Removal of HD line [**2565-7-6**]
+Right IJ line placement [**2565-7-6**]
+Right IJ line removal [**2565-7-6**]
+Tunneled HD catheter placement [**2565-7-9**]
+Transesophageal echocardiogram [**2565-7-10**]
+
+History of Present Illness:
+65 y.o male with pmhx of DM type 2, COPD on 2L home O2, and CKD
+(recently started on HD in [**3-/2565**]), who presents with fevers,
+hypotension.The patient was at dialysis, and reported fever up
+to 100.0 with chills.Approx. 75 % of the dialysis was completed
+per ems and he recieved total of 1.5g of vanco at the dialysis
+center. The patient does make a small amount of urine at
+baseline and denies dysuria. He endorses a nonproductive cough
+for a couple days, but denies chest pain, nausea,
+vomiting,abdominal pain, confusion, headaches, sick contacts or
+recent travel.
+.
+Of note in [**3-/2565**] the patient started dialysis which was
+complicated by MRSA bactremia, and hypotension. He was admitted
+and had his dialysis line removed, TTE at the time negative for
+endocarditis, he was discharged with new HD line and 6 weeks of
+Vancomycin. He has been followed by outpatient [**Hospital **] clinic for
+this and completed therapy in 6/[**2564**].
+.
+In the ED initial vitals were: 101.4 75 130/44 16 100% 2L Nasal
+Cannula and the patient recieved 500mg Meropenem and 500mg p.o
+tylenol. He became tachypnic to 40s and O2 sats down to low 90s
+on 4L NC after 1 liter of NS and so put on bipap and went to
+100% oxygen sat. He was weaned off of bipap after less than 1
+hour and now resp status stable on 4L NC once again. He was
+given 0.5 mg IV ativan for comfort.For hypotension with SBP
+70's, a right IJ central catheter was placed and low dose
+Levophed started with SBP's in the 90's.The patient was
+transferred for further care to the ICU.
+.
+On arrival to the MICU, the patient is off BIPAP and breathing
+well. He is mentating well and the above HPI was obtained. He
+says his breathing is "better." The below review of systems was
+obtained including no chest pain, nausea, productive cough. He
+has felt "crummy for few days" but will not elaborate.
+
+Review of systems:
+Obtained from patient
+(+) Per HPI
+(-) Denies recent weight loss or gain. Denies headache, sinus
+tenderness, rhinorrhea or congestion. Denies chest pain, chest
+pressure, palpitations, or weakness. Denies nausea, vomiting,
+diarrhea, constipation, abdominal pain, or changes in bowel
+habits. Denies dysuria, frequency, or urgency. Denies
+arthralgias or myalgias. Denies rashes or skin changes.
+
+
+Past Medical History:
+-diabetes mellitus type II
+-HTN
+-dCHF/right heart failure (EF>55%),
+-s/p open chest surgery for "dot" on lung at [**Doctor Last Name 2096**]
+-rheumatoid arthritis
+-COPD on 2L home O2
+-Depression
+-Bipolar Disorder
+-Schizoaffective disorder
+-Glaucoma
+-stage 5 chronic kidney disease
+-peripheral vascular disease  s/p RLE bypass
+-history of pulmonary embolism on Coumadin
+-Obesity hypoventilation syndrome
+-OSA on bipap/cpap
+-chronically elevated left hemidiaphragm
+
+Social History:
+Lives in [**Hospital3 536**], Uses electric wheelchair at baseline.
+-Tobacco history: smoked 1PPD for 43 years quit several years
+ago
+-ETOH: quit drinking 4-5 years ago, used to drink socially
+-Illicit drugs: Denies
+
+
+Family History:
+Mother: [**Name (NI) 8453**] (unknown type)
+Father: [**Name (NI) 976**] disease
+
+
+Physical Exam:
+Admission Exam
+Vitals: T:99.1 BP: 90/46 P: 96 R: 18 18 O2: 96%  4L NC
+General: Alert, oriented X 3, no acute distress. Speaking in
+full sentences but pursing lips when breathing
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD.R-IJ in place . Has left
+dialysis line with erythema 1-2cm around it, nontender with no
+drainage.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: decreased breath sounds on the left side,  mild exp
+wheezing in the right lower lung field, no significant rales and
+some mild diffuse ronchi
+Abdomen: soft, non-tender, distended, bowel sounds present, no
+organomegaly
+GU: no foley
+Ext: warm, well perfused, 1+ pulses DP b/l, no clubbing,
+cyanosis or edema , bruising on shins b/l
+Neuro: CNII-XII intact, 4/5 strength upper/lower extremities,
+grossly normal sensation,  gait deferred.
+
+Discharge Exam
+VS -  T 97.8, HR88, BP 134/76, RR 01, O2Sat 98% 2LNC
+GENERAL - Awake, alert, NAD
+HEENT - NC/AT, sclerae anicteric, OP clear
+LUNGS - poor air movement bilaterally, no crackles, no wheezes
+HEART - RRR, NL S1-S2, no M/R/G
+NEURO - awake, CNs II-XII grossly intact
+
+
+Pertinent Results:
+Admission Labs
+[**2565-7-5**] 08:40PM BLOOD WBC-16.6*# RBC-3.91*# Hgb-11.7*#
+Hct-38.7*# MCV-99* MCH-29.8 MCHC-30.1* RDW-16.2* Plt Ct-180
+[**2565-7-5**] 08:40PM BLOOD Neuts-87* Bands-2 Lymphs-3* Monos-3 Eos-0
+Baso-0 Atyps-0 Metas-2* Myelos-3* NRBC-2*
+[**2565-7-6**] 04:43AM BLOOD PT-13.4* PTT-37.2* INR(PT)-1.2*
+[**2565-7-5**] 08:40PM BLOOD Glucose-103* UreaN-22* Creat-2.9*# Na-138
+K-3.9 Cl-100 HCO3-28 AnGap-14
+[**2565-7-5**] 08:40PM BLOOD ALT-11 AST-16 LD(LDH)-289* CK(CPK)-108
+AlkPhos-66 TotBili-0.1
+[**2565-7-5**] 08:40PM BLOOD Albumin-3.6 Calcium-8.9 Phos-1.1*# Mg-1.6
+[**2565-7-7**] 09:00AM BLOOD Vanco-7.4*
+[**2565-7-6**] 01:04AM BLOOD Type-[**Last Name (un) **] pO2-48* pCO2-67* pH-7.25*
+calTCO2-31* Base XS-0
+[**2565-7-5**] 09:05PM BLOOD Lactate-1.8
+
+Other Pertinent Labs:
+[**2565-7-10**] 07:20AM BLOOD Vanco-19.2
+[**2565-7-9**] 08:20AM BLOOD CRP-122.8*
+[**2565-7-5**] 08:40PM BLOOD CK-MB-2 cTropnT-0.07*
+[**2565-7-6**] 04:43AM BLOOD CK-MB-2 cTropnT-0.07*
+[**2565-7-5**] 08:40PM BLOOD ALT-11 AST-16 LD(LDH)-289* CK(CPK)-108
+AlkPhos-66 TotBili-0.1
+[**2565-7-9**] 08:20AM BLOOD ESR-30*
+[**2565-7-8**] 04:34AM BLOOD PT-11.1 PTT-32.9
+
+Discharge Labs:
+[**2565-7-11**] 07:10AM BLOOD WBC-6.7 RBC-3.43* Hgb-10.1* Hct-34.0*
+MCV-99* MCH-29.6 MCHC-29.8* RDW-16.3* Plt Ct-193
+[**2565-7-11**] 07:10AM BLOOD Glucose-96 UreaN-33* Creat-2.7* Na-134
+K-3.9 Cl-97 HCO3-29 AnGap-12
+[**2565-7-11**] 07:10AM BLOOD Calcium-8.6 Phos-3.8 Mg-1.9
+
+CXR ([**2565-7-5**]): No evidence of acute disease.
+CXR ([**2565-7-5**]): New right internal jugular central venous
+catheter terminates at the expected junction of the superior
+vena cava and right atrium, with no evidence of pneumothorax.
+There is otherwise no relevant change in the appearance of the
+chest since the recent study performed a few hours earlier.
+
+[**2565-7-7**]B BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2565-7-6**]B CATHETER TIP-IV WOUND CULTURE-PENDING
+INPATIENT
+[**2565-7-6**]B URINE URINE CULTURE-FINAL INPATIENT
+[**2565-7-6**]B BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2565-7-6**]B MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR
+METHICILLIN RESISTANT STAPH AUREUS} INPATIENT
+[**2565-7-5**]B BLOOD CULTURE Blood Culture,
+Routine-PRELIMINARY {STAPH AUREUS COAG +}; Anaerobic Bottle Gram
+Stain-FINAL; Aerobic Bottle Gram Stain-FINAL EMERGENCY [**Hospital1 **]
+[**2565-7-5**]B BLOOD CULTURE Blood Culture,
+Routine-PRELIMINARY {STAPH AUREUS COAG +}; Anaerobic Bottle Gram
+Stain-FINAL; Aerobic Bottle Gram Stain-FINAL EMERGENCY [**Hospital1 **]
+[**2565-7-5**]B BLOOD CULTURE Blood Culture,
+Routine-PRELIMINARY {STAPH AUREUS COAG +}; Anaerobic Bottle Gram
+Stain-FINAL; Aerobic Bottle Gram Stain-FINAL
+
+TEE ([**2565-7-10**]): No spontaneous echo contrast or thrombus is seen
+in the body of the left atrium/left atrial appendage or the body
+of the right atrium/right atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. Overall left ventricular
+systolic function is normal (LVEF>55%). The right ventricular
+cavity is dilated The aortic valve leaflets (3) are mildly
+thickened. No masses or vegetations are seen on the aortic
+valve. No aortic valve abscess is seen. There is no aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. No mass or vegetation is seen on
+the mitral valve. Trivial mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. No
+vegetation/mass is seen on the pulmonic valve. There is no
+pericardial effusion. IMPRESSION: No echocardiographic evidence
+of endocarditis. Preserved left ventricular function. Dilated
+right ventricle. Mild-to-moderate tricuspid regurgitation.
+
+UNILAT UP EXT VEINS US ([**2565-7-9**]): IMPRESSION:  No evidence of
+DVT in left upper extremity veins.
+
+
+Brief Hospital Course:
+65 year old male with Type 2 DM, lung disease on 2L home O2, and
+ESRD (recently started on HD in [**2565-4-9**]) who presents with
+fever and chills at dialysis complicated by hypotension.
+
+# HD line associated GPC Septicemia.  He was admitted to the
+MICU with norepinephrine gtt requirement which was weaned off
+within 24 hours on [**2565-7-6**].  He was empirically covered with
+Vancomycin and Meropenem which was narrowed to Vancomycin once
+blood cultures grew GPC. HD line was removed on [**2565-7-6**].
+Right IJ line which was placed on [**2565-7-6**] was also removed on
+[**2565-7-7**]. He underwent placement of a new right-sided tunneled
+IJ HD catheter on [**2565-7-9**]. He underwent TTE for evaluation of
+the presence of endocarditis, which was non-diagnostic.
+Subsequently, he underwent TEE, which did not show any evidence
+of vavular vegitations or abscesses. Blood cultures speciated to
+MRSA, and he was treated with vancomycin for a total course of 4
+weeks (through [**2565-8-1**]). As an outpatient, this will be dosed
+via HD protocol, and will be managed by his nephrologist. While
+on antibiotics, should have weekly CBC, LFT's, and blood
+chemistries for the next 3 weeks, or until instructed to stop by
+PCP or Renal Doctors.
+
+# HTN/dCHF/right heart failure (EF>55%): Held metoprolol while
+hypotensive, but continued aspirin 81 mg daily. Restarted
+metoprolol at 25 mg [**Hospital1 **] on [**2565-7-7**]. Blood pressures were well
+controlled after restarting this medication.
+
+# Rheumatoid arthritis: No active issues on this admisison.
+Hydroxychroloquine was continued.
+
+# Hx Pulmonary Embolism on Coumadin: Emailed Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 3933**]
+and told her we aren't bridging coumadin and ask if she objects
+for any reason - she does not know PMH and could not get
+records. Pt says only had PE once many years ago. PCP OK with
+discontinuing coumadin.
+
+# ESRD: Recieved most of dialysis session prior to MICU
+transfer. Electrolytes remained stable. Following the removal of
+his infected HD line, he was given an HD holiday. With placement
+of a new HD line, HD was reinitiated. Upon discharge he was
+restarted on his normal HD schedule on M/W/F. Next session will
+be [**2565-7-12**].
+
+# COPD: Goal SaO2 is 90-92%. Continued on home Fluticasone,
+Albuterol standing and Tiotropium. He was maintained on his home
+oxygen requirement and BiPAP at night.
+
+# EKG changes: Has baseline right bundle branch block, but did
+have deeper ST segments in anterolateral distribution in the
+setting of hypotension and tachycardia. Likely rate related
+changes vs lead placement. Patient denied any current chest
+pain, pressure, nausea/vomiting. EKG similar to priors upon lead
+change. CE stable. No further action necessary.
+
+# Contact Dermatitis: Noted following exposure to chloraprep
+and/or betadine. These medications were added as allergies on
+his record. Follow-up with allergy as an outpatient to further
+explore this issue is being arranged by care connections.
+
+# Hypophosphatemia: Resolved. Stopped sevelamer on this
+admission. Phosphate management per renal as outpatient.
+
+# Bipolar disorder/Schizoaffective disorder: No signs or
+symptoms of psychosis. Continued his home divalproex,
+oxcarbazepine, and risperdone and clinically trend mental
+status.
+
+# Diabetes mellitus II: Sugars were well controlled on this
+admission. He was maintained on a Humalog sliding scale. He was
+discharged on the same.
+
+# Obesity hypoventilation syndrome and OSA: Maintained on BIPAP
+at night.
+
+Transitional Issues:
+-Please resume HD on Monday/Wednesday/Friday schedule. Next
+session [**2565-7-12**].
+-Needs vancomycin, dosed via HD protocol, through [**2565-8-1**].
+-Please check weekly CBC, LFT's, and blood chemistries for the
+next 3 weeks, or until instructed to stop by PCP or Renal
+Doctors.
+-Please only use hypoallergenic occlusive dressings with IV
+therapy, and please avoid the use of chloraprep and betadyne.
+-Needs evaluation by Allergy to determine if he is allergic to
+betadine and/or  chlorhexidine.
+
+
+Medications on Admission:
+.  Information was obtained from .
+1. Aspirin 81 mg PO DAILY
+2. Calcitriol 0.25 mcg PO DAILY
+3. Divalproex (DELayed Release) 250 mg PO QAM
+4. Divalproex (DELayed Release) 500 mg PO QPM
+5. Docusate Sodium 100 mg PO BID
+6. Metoprolol Tartrate 25 mg PO BID
+7. Vitamin D 1000 UNIT PO DAILY
+8. Calcium Carbonate 1250 mg PO TID
+9. Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]
+10. Tiotropium Bromide 1 CAP IH DAILY
+11. Hydroxychloroquine Sulfate 400 mg PO BID
+12. Risperidone 2.5 mg PO HS
+13. Tamsulosin 0.4 mg PO HS
+14. Oxcarbazepine 300 mg PO BID
+15. sevelamer CARBONATE 1600 mg PO TID W/MEALS
+16. Warfarin 3 mg PO DAILY16
+17. Albuterol Inhaler 1 PUFF IH Q6H:PRN wheezing
+
+
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY
+2. Calcitriol 0.25 mcg PO DAILY
+3. Divalproex (DELayed Release) 250 mg PO QAM
+4. Divalproex (DELayed Release) 500 mg PO QPM
+5. Docusate Sodium 100 mg PO BID
+6. Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]
+7. Hydroxychloroquine Sulfate 400 mg PO BID
+8. Oxcarbazepine 300 mg PO BID
+9. Tiotropium Bromide 1 CAP IH DAILY
+10. Calcium Carbonate 1250 mg PO TID
+11. Tamsulosin 0.4 mg PO HS
+12. Vitamin D 1000 UNIT PO DAILY
+13. Vancomycin 0 mg IV HD PROTOCOL
+14. Insulin SC
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using HUM Insulin
+15. Metoprolol Tartrate 25 mg PO BID
+16. Risperidone 2 mg PO HS
+17. Albuterol Inhaler 2 PUFF IH [**Hospital1 **]:PRN wheezing
+18. Ascorbic Acid 500 mg PO BID
+19. Lactulose 15 mL PO BID:PRN constipation
+20. Vitabee/C *NF* (B-complex with vitamin C) 1 tab Oral daily
+21. Vitamin D 400 UNIT PO DAILY
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 536**] - [**Location (un) 543**]
+
+Discharge Diagnosis:
+Primary:     Methacillin Resistant Staph Aureus Septicemia
+             Hemodialysis catheter infection
+
+Secondary:   End stage renal disease
+             Chronic Obstrictive Pulmonary Disease
+             Hypertension
+             Bipolar disorder
+             Diastolic congestive heart failure
+
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Dear Mr. [**Known patient lastname **],
+
+You were recently admitted to [**Hospital1 969**] for treatment of fevers and chills. While you were
+hospitalized, you were found to have bacteria in your blood,
+likely from your dialysis catheter. Your infected dialysis
+catheter was removed, and you were treated with antibiotics. A
+new dialysis catheter was placed, and you were restarted on
+hemodialysis. During your hospitalization, you developed low
+blood pressure, requiring a brief stay in the medical ICU. The
+cause of this low blood pressure was likely the infection in
+your blood. During your ICU stay, you were on medications to
+treat your low blood pressure, and you improved. Those
+medications were stopped, and you were transferred to the normal
+medical floor.
+
+When you leave the hospital, you will need to continue to have
+hemodialysis, per your normal routine. You will also need to
+continue to receive IV antibiotics through [**2565-8-1**]. This
+will be managed by your kidney doctors.
+
+Also, while you were hospitalized, it was observed that you
+developed a rash following exposure to products used to clean
+your skin, including betadine and chloraprep. Please consider
+this an allergic reaction, and avoid exposure to these cleaning
+agents in the future.
+
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Department: RADIOLOGY
+When: WEDNESDAY [**2565-8-28**] at 11:00 AM [**Telephone/Fax (1) 5599**]
+Building: Gz [**Hospital Ward Name **] Building ([**Hospital Ward Name 189**]/[**Hospital Ward Name 1785**] Complex) [**Location (un) 2685**]
+Campus: EAST     Best Parking: Main Garage
+
+Department: DIV OF GI AND ENDOCRINE
+When: WEDNESDAY [**2565-8-28**] at 1 PM
+With: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 33**]
+Building: Ra [**Hospital Unit Name 1784**] ([**Hospital Ward Name 189**]/[**Hospital Ward Name 1785**] Complex) [**Location (un) 1695**]
+Campus: EAST     Best Parking: Main Garage
+
+Department: PULMONARY FUNCTION LAB
+When: THURSDAY [**2565-9-26**] at 4:10 PM
+With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 2422**]
+Building: [**Hospital6 402**] [**Location (un) 855**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+
+We are working on a follow up appointment in Allergy and
+Inflammation. It is recommended you be seen within 2 weeks of
+discharge. The office will contact you at home with an
+appointment. If you have not heard within 2 business days please
+call the office at [**Telephone/Fax (1) 6839**].
+
+
+
+Completed by:[**2565-7-11**]
+
+DOC CLASS

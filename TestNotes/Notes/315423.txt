@@ -1,0 +1,164 @@
+Chief Complaint:  Hyperglycemia
+   HPI:
+   HPI: 80 y.o. male with past medical history of CAD, DM, CHF, HTN took
+   finger sugar this afternoon at noted to be 400, asymptomatic so took
+   glucose tablet, realizing this was the incorrect management for his
+   elevated blood sugar, proceeded to take 50U regular insulin x4-5.
+   Called PCP who instructed him to present immediately to ED.
+   In the ED, was noted to have initial FSBS 142 at 17:55, then drifted to
+   74, at 18:30, and started on D10 drip at 100/hr, since then sugars have
+   been 83-143-111 every 40 minutes.
+   On ROS pt denies any recent illness, fevers, chills.  Mild HA
+   currently, earlier blurred vision has resolved.  + thirst, polyuria,
+   polydipsia. No dysuria. No cough, SOB, chest discomfort, abdominal pain
+   or diarrhea. Mild lower extremity edema is stable.  No other
+   complaints.
+   Had been in USOH, FSBS low last night, in 60s, took glucose pill. Felt
+   fatigued in class today and went home to lay down this is when he
+   noticed his elevated FSBS.  Denies depression, denies intentional
+   overdose with intent to harm self.
+   Allergies:
+   Penicillins
+   Unknown;
+   Cephalosporins
+   Unknown;
+   Carbapenem
+   Unknown;
+   A.C.E Inhibitors
+   Hyperkalemia;
+   Angiotensin Receptor Antagonist
+   Hyperkalemia;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   1. CAD, s/p MI in [**2766**] (intraoperative MI during nephrectomy),
+   s/p LAD stent in [**11/2767**] and OM1 stent in [**12/2767**] (c/b in-stent
+   restenosis of OM1 s/p balloon angio in 1/[**2769**]).
+   2. Type II DM - c/b peripheral neuropathy and nephropathy
+   - Chronic Kidney Disease - baseline creatinine 2-2.5; s/p
+   partial R nephrectomy for RCC in [**2766**]
+   - Systolic CHF - prior LVEF ([**6-/2770**]) of 35%; Most recent ECHO in
+   [**6-24**] at [**Hospital1 52**] shows EF of 45-50%
+   - Hypertension
+   - Hypercholesterolemia
+   - H/o Renal cell carcinoma, s/p partial R nephrectomy [**2-/2766**]
+   - H/o prostate CA, s/p XRT
+   - Type 1 RTA
+   - Hypoaldosteronism
+   - H/o hyperkalemia
+   - Anemia - baseline hematocrit 30
+   - Fulminant C. diff colitis ([**2767**]), s/p total colectomy w/
+   ileostomy
+   - H/o multiple falls, s/p mid-shaft and surgical neck humerus
+   fracture ([**7-/2769**])
+   - BiPap at home for ?OSA
+   - Major depression
+   Father -- CVA, fatal, 49 yo
+   Mother -- MI, fatal, 80s
+   Sister -- breast cancer, 81 yo
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Retired attorney (once argued before the supreme court). Lives
+   alone. H/o tobacco, quit 55 years ago. Denies EtOH. Uses a scooter to
+   get around, but can walk with a walker.  Currently taking adult ed
+   classes at [**University/College 316**].
+   Review of systems:
+   Flowsheet Data as of [**2772-5-2**] 01:54 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.7
+C (96.3
+   Tcurrent: 35.7
+C (96.3
+   HR: 70 (70 - 72) bpm
+   BP: 148/65(85) {148/65(85) - 165/68(91)} mmHg
+   RR: 21 (16 - 21) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+             Total In:
+                                                                     17 mL
+                                                                    134 mL
+   PO:
+             TF:
+   IVF:
+                                                                     17 mL
+                                                                    134 mL
+   Blood products:
+   Total out:
+                                                                    350 mL
+                                                                    400 mL
+   Urine:
+                                                                    350 mL
+                                                                    250 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -333 mL
+                                                                   -266 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   348
+   11.1
+   120
+   3.3
+   50
+   26
+   100
+   3.6
+   140
+   8.1
+        [image002.jpg]
+   Fluid analysis / Other labs: UA: SG 1014
+   trace protein
+   1000 Glu
+   0-2 WBC
+   no bacteria
+   Imaging: [**2772-5-1**] CXR: FINDINGS: Single bedside AP examination labeled
+   "upright at 18:50" is
+   compared with study dated [**2772-1-28**]; the overall appearance is not much
+   changed.
+   There are bilateral pleural effusions with chronic pleural abnormality
+   involving the left hemithorax, and associated atelectasis. Allowing for
+   this,
+   no focal consolidation is seen. There is cardiomegaly with LV
+   enlargement,
+   but no pulmonary vascular congestion or acute edema. There are
+   arteriosclerotic changes involving the thoracic aorta.
+   IMPRESSION: Chronic changes, with no definite acute airspace process
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2772-5-1**] 11:50 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

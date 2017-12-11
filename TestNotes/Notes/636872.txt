@@ -1,0 +1,253 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Elevated HR (up to 150s) throughout the day.  Planned for TEE today to
+   look for vegetations, evaluate atrium size, as well as for possible
+   pre-cardioversion however patient refuses it at this time.  Says he
+   wants to discuss it with his outpatient cardiologist
+today or
+   tomorrow
+   - EKG shows atypical flutter.
+   - Started on amiodarone bolus plus drip on [**8-20**].  Will keep on diltiazem
+   and beta-blocker until he converts
+   - Questionable SIRS is resolving- BP improved, benign labs.  On vanc,
+   zosyn, levaquin
+   -CT torso-> RLL air bronchogram suggestive of pneumonia, small right
+   pleural effusion, reactive LAD in mediastinum, large calcified cystic
+   mass in spleen likely old, large edematous kidneys bilaterally with
+   stranding (cannot rule out pyelo because no IV contrast)
+   -Loose BM sent for C diff in setting of abx
+   -Patient became acutely SOB, anxious, improved with lorazepam and
+   albuterol/ipratropium nebs; CXR shows stable right pleural effusion,
+   given Lasix 60mg IV as well
+   -INR up to 3.2 [**8-21**] AM
+   -Na down to 130 on [**8-21**] AM (134 on [**8-20**])
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2943-8-20**] 05:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2943-8-21**] 04:30 AM
+   Levofloxacin - [**2943-8-21**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2943-8-20**] 08:15 AM
+   Diltiazem - [**2943-8-20**] 08:55 AM
+   Coumadin (Warfarin) - [**2943-8-20**] 04:00 PM
+   Furosemide (Lasix) - [**2943-8-21**] 01:00 AM
+   Lorazepam (Ativan) - [**2943-8-21**] 01:15 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2943-8-21**] 07:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.2
+   Tcurrent: 37.6
+C (99.6
+   HR: 164 (111 - 164) bpm
+   BP: 144/108(114) {72/43(46) - 163/108(114)} mmHg
+   RR: 32 (18 - 37) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 123.3 kg (admission): 119.7 kg
+   Height: 71 Inch
+             Total In:
+                                                                  4,520 mL
+                                                                    369 mL
+   PO:
+                                                                  2,400 mL
+                                                                     90 mL
+   TF:
+   IVF:
+                                                                  2,120 mL
+                                                                    279 mL
+   Blood products:
+   Total out:
+                                                                  1,520 mL
+                                                                  1,075 mL
+   Urine:
+                                                                  1,520 mL
+                                                                  1,075 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,000 mL
+                                                                   -706 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: 7.40/31/66/20/-3
+   Physical Examination
+   GENERAL:  Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink,
+   slightly injected, no pallor or cyanosis of the oral mucosa. No
+   xanthalesma.
+   NECK: Supple with JVP not visible, No cervical LAD.
+   CARDIAC: Irregularly irregular, tachycardic, No MRG
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Crackles 2/3 up chest, decreased BS
+   at bases
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: Bilateral 2+ pitting edema w/ stasis ulcer on R shin and
+   surrounding erythema.   Feet were cool to touch.
+   PULSES:
+   Right: Carotid 2+
+   Left: Carotid 2+
+   Labs / Radiology
+   132 K/uL
+   8.3 g/dL
+   243 mg/dL
+   3.1 mg/dL
+   20 mEq/L
+   4.7 mEq/L
+   59 mg/dL
+   100 mEq/L
+   130 mEq/L
+   25.2 %
+   4.4 K/uL
+        [image002.jpg]
+                             [**2943-8-19**]  10:39 AM
+                             [**2943-8-20**]  05:20 AM
+                             [**2943-8-21**]  01:32 AM
+                             [**2943-8-21**]  04:19 AM
+   WBC
+   4.3
+   3.0
+   4.4
+   Hct
+   25.7
+   25.7
+   25.2
+   Plt
+   128
+   119
+   132
+   Cr
+   3.4
+   3.4
+   3.1
+   TCO2
+   20
+   Glucose
+   191
+   180
+   243
+   Other labs: PT / PTT / INR:31.8/37.4/3.2, Differential-Neuts:83.2 %,
+   Lymph:11.9 %, Mono:4.2 %, Eos:0.3 %, Lactic Acid:1.1 mmol/L,
+   Albumin:2.7 g/dL, Ca++:7.7 mg/dL, Mg++:2.2 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   64 yo M with single-vessel CABG in [**2929**], hypertension, hyperlipidemia,
+   diabetes, PAF, presented with fatigue, fever found to be in Afib with
+   RVR.
+   .
+   # RHYTHM: AF w/ RVR currently HD stable. Has been admitted w/ this
+   before. Has been taking his prescribed metoprolol dose as well as dilt
+   and warfarin. Likely AF RVR [**2-18**] dehydration/sepsis physiology and
+   fever.
+   - Now on home diltiazem and metoprolol doses
+   - Plan for TEE today to rule out vegetations and consider cardioversion
+   given pt. not consistently in AF and tolerates poorly.
+   - Suppress fever w/ standing tylenol as appears to be driving AF/RVR.
+   - Started on amiodarone yesterday.  Titrate down diltiazem given
+   potential cardioversion and potential for sinus bradycardia.  Down to
+   20mg of dilt today (30mg yesterday).
+   .
+   #Fever: Cough at baseline, ? lingular PNA. On vanc/zosyn for HAP
+   treatment, but no overt pna on cxr.  Also, pt still febrile despite
+   these abx.  Other sources for fever include RLE ulcer (less likely, as
+   pt. states that this has been stable) or drug fever.
+   -continue vanc and zosyn
+   - CT torso-> RLL air bronchogram suggestive of pneumonia, small right
+   pleural effusion, reactive LAD in mediastinum, large calcified cystic
+   mass in spleen likely old, large edematous kidneys bilaterally with
+   stranding (cannot rule out pyelo because no IV contrast)
+   - sputum culture
+   - Influenza negative
+   - Blood cultures- negative
+   - Repeat urin culture is pending
+   -loose stool sample sent for C. diff on [**8-21**]- pending
+   .
+    # CORONARIES: Troponin leak likely [**2-18**] ARF as well as demand given RVR
+   to 160s. Baseline trop about 0.10 and pt. denies chest pain so doubt
+   [**2-18**] plaque rupture.
+   - Continue metoprolol
+   - Restart lisinopril when BP and Cr stable
+   .
+   # PUMP:  BLE edema and crackles in lung bases, though CXR does not show
+   significant pulmonary edema. Likely dehydrated given ARF, poor PO
+   intake and diarrhea/sepsis physiology.
+   - hold bumetanide
+   - echo showing preserved EF with normal valvular function
+   - consider IV fluids given consistently elevated HR.
+   .
+   # Thrombocytopenia: Will repeat CBC and if worsens consider tick borne
+   ifxns.
+   - stable today at 132 ([**Age over 90 **] yesterday)
+   # Diabetes: Poorly controlled, last A1c 10.5% with 2/2 nephropathy and
+   neuropathy.
+   - Continue home glargine 44U QAM
+   - ISS
+   .
+   # Hyponatremia: Likely hypovolemic in setting of poor PO intake, status
+   post 4L aggressive fluid resuscitation in ED.
+   -trend Na for now
+   -if no improvement of Na in am, obtain urine lytes
+   .
+   # AOCKD: Baseline Cr~2, Patient endorsed poor PO intake and is likely
+   pre-renal [**2-18**] hypovolemia in setting of recent illness. S/p 4L IVF in
+   ED.
+   -encourage PO intake
+   -IVF as needed
+   .
+   # Anemia: baseline hct~27, at baseline today with signs/symptoms of
+   bleeding.
+   .
+   # Anticoagulation
+   -on coumadin 4mg daily.  INR up to 3.2 this AM (2.4 yesterday).
+   -will hold coumadin today
+   .
+   #FEN: follow and replete lytes, PO diabetic diet
+   .
+   #ACCESS: PIV's
+   .
+   #PROPHYLAXIS:
+   -DVT ppx with SubQ heparin
+   -Pain management with  tylenol
+   #Contact: Proxy name: [**Name2 (NI) **] [**Known patient lastname **] Relationship: wife Phone: [**Telephone/Fax (1) 9707**]
+   .
+   #CODE: confirmed full
+   .
+   #DISPO: Cardiology floor service for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2943-8-19**] 05:08 AM
+   Prophylaxis:
+   DVT: heparin IV, coumadin
+   Stress ulcer: pantoprazole
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: CCU for now
+   ------ Protected Section ------
+   Attending
+s Note.
+   I reviewed data,overnight events and examined Pt.
+   Lenghty disussion of the need for TEE+/- cardioversion.
+   Has sepsis of uncertain origin.
+   Spent 45mins over case.
+   [**First Name4 (NamePattern1) 1583**] [**Last Name (NamePattern1) **]
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1583**] [**Name (NI) **]
+   on:[**2943-8-21**] 14:05 ------
+
+
+DOC CLASS

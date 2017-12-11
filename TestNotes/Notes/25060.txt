@@ -1,0 +1,428 @@
+Admission Date:  [**2746-4-25**]              Discharge Date:   [**2746-4-29**]
+
+Date of Birth:  [**2684-3-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 137**]
+Chief Complaint:
+ICD firing
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+62 yo man with PMH of CAD, DM2, Bipolar d/o, COPD, ETOH
+cirrhosis, transferred from [**Hospital3 138**]Hospital today after
+multiple ICD shocks. He was discharged last week from [**Hospital1 22**]
+after VT arrest and intubation which was thought to be secondary
+to hypokalemia. He had an ablation study for which he had a
+non-tolerated inducible VT. He had an ablation from the inferior
+wall base to the mid inferior wall. He was discharged after ICD
+placement on metoprolol XL 150mg daily. He says that since he
+has been home, he has been feeling very anxious and not sleeping
+well. Patient admits to significant smoking and coffee drinking
+up to 10 cups per day. He says he has been taking all of his
+medications including metoprolol. (He has not been able to get
+his zyprexa.) Around 4AM he felt sudden onset of lightheadedness
+and then his ICD fired. Hours later he felt lightheaded again
+and the ICD fired another time. At this point, he went to
+[**Hospital3 138**]Hospital.
+.
+At [**Location (un) **], his initial vitals were BP 124/98, HR 87, RR 18,
+O2sat 96% on 2L NC. He had a CXR which was a poor study but was
+clear per ED attg at OSH (Dr. [**First Name (STitle) 139**]. While being evaluated by
+the ED physician, [**Name10 (NameIs) **] felt lightheaded again and was shocked. The
+ED physician at [**Name9 (PRE) **] reports that he was shocked over 15
+times. They gave him a 100mg bolus of lidocaine with no effect.
+They gave him ativan (total 3mg) for anxiety then started a
+procainamide gtt with bolus and then 2mg/min. During the 1g
+bolus of procainamide, he started having a wide QRS complex
+without being shocked. This converted to sinus. Then prior to
+departure on [**Location (un) 140**], he had a wide complex tachycardia at 160
+bpm and was transiently hypotensive. His ICD fired and he went
+to a sinus rhythm.
+.
+In our ED, his vitasl were BP 113/86, HR 90, RR 16, O2sat 100%
+RA, T 98.2. His potassium was 3.4 and he was given 10mEq of
+potassium IV and sent to the CCU for further care.
+
+
+Past Medical History:
+CAD, s/p STE IMI with RCA stenting [**3-2**] and BMS x 3 to PDA in
+[**3-/2744**]
+Hyperlipidemia
+Hypertension
+Diabetes
+Asthma
+Bipolar disorder
+History of alcohol abuse, none since [**2743-12-2**]
+Cirrhosis with hepatoma, sclerosed in [**2745**].  + portal
+gastropathy
+COPD
+GERD
+Hx of subdural hematoma after being mugged (approximately 10
+years ago)
+? Iron deficiency anemia
+? Prior GIB history per records from CCC (patient denies)
+s/p double hernia repair
+.
+Cardiac Risk Factors: + Diabetes, + Hypertension, +
+hyperlipidemia, + smoking
+.
+Cardiac History:
+Percutaneous coronary intervention, in [**2739**] and [**2744**] anatomy as
+follows:
+posterior LV branch stent at [**Hospital1 110**] in [**2739**]. Consequently, the
+inferoposterior wall of his heart is severely hypokinetic and
+his ejection fraction remains at 40%.  He was evaluated with
+cardiac catherization [**2744-3-28**] which demonstarted 90% R-PDA
+lesion that was stented with a bare metal stent. The  80% lesion
+in the posterior LV branch could not be treated as balloons
+would not deliver into that vessel.
+
+
+Social History:
+Patient is divorced and lives alone. He worked as a concession
+manager in the carnival business but due to medical issues has
+not worked since last Spring. Patient has smoked up to 2-3 packs
+a day for approximately 35-40 years. He is currently smoking one
+pack a day.
+His parents are deceased.  He has a biological son who is
+currently in prision in PA.  He did not have this son with his
+ex-wife.
+
+
+Family History:
+unknown
+
+Physical Exam:
+VS: T 97, BP 138/82 HR 91, RR 18, O2sat 100% on 2L NC
+Gen: middle-aged male in NAD, resp or otherwise. Oriented x3.
+Mood, affect appropriate. anxious.
+HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa.
+Neck: Supple with no JVD
+CV: Distant HS, RRR, nl s1s2, no MRGs. S3.
+Chest: ICD/PM on left chest wall. No hematoma. Decreased BS at
+left base and diffusely wheezing.
+Abd: BS+, soft, moderately distended. non tender. Liver tip to 2
+cm. below costal margin, spleen tip also palpable. + BS
+throughout
+Ext: trace lower extremity edema
+Pulses:
+Right: Carotid 2+ without bruit; 2+ DP
+Left: Carotid 2+ without bruit; 2+ DP
+
+
+Pertinent Results:
+[**2746-4-25**] 08:15PM BLOOD WBC-6.2 RBC-3.28*# Hgb-11.3* Hct-32.4*
+MCV-99* MCH-34.6* MCHC-34.9 RDW-16.3* Plt Ct-104*
+[**2746-4-27**] 10:03AM BLOOD WBC-2.7* RBC-2.99* Hgb-9.9* Hct-30.2*
+MCV-101* MCH-33.2* MCHC-32.9 RDW-16.4* Plt Ct-88*
+[**2746-4-25**] 08:15PM BLOOD Neuts-75.6* Lymphs-15.1* Monos-4.0
+Eos-5.2* Baso-0.1
+[**2746-4-25**] 08:15PM BLOOD Glucose-213* UreaN-15 Creat-0.9 Na-135
+K-3.5 Cl-100 HCO3-24 AnGap-15
+[**2746-4-27**] 10:03AM BLOOD Glucose-183* UreaN-11 Creat-0.7 Na-139
+K-4.5 Cl-106 HCO3-26 AnGap-12
+[**2746-4-25**] 08:15PM BLOOD CK(CPK)-46
+[**2746-4-25**] 08:15PM BLOOD cTropnT-<0.01
+[**2746-4-25**] 08:15PM BLOOD Calcium-8.9 Phos-2.8 Mg-1.9
+[**2746-4-27**] 10:03AM BLOOD Mg-1.6
+.
+CHEST (PORTABLE AP)  [**2746-4-25**] 8:13 PM
+
+CHEST (PORTABLE AP)
+
+Reason: eval for acute c hange
+
+UNDERLYING MEDICAL CONDITION:
+62 year old man with v tach and aicd firing
+REASON FOR THIS EXAMINATION:
+eval for acute c hange
+SINGLE VIEW OF THE CHEST [**2746-4-25**].
+
+HISTORY: 62-year-old man with ventricular tachycardia and AICD
+"firing"; evaluate for acute change.
+
+FINDINGS: Single bedside AP examination labeled "supine" is
+compared with recent studies dated [**4-18**] and [**2746-4-14**]. There is
+now veil-like opacity involving the left hemithorax, likely
+representing posterior layering of the laterally-layering
+effusion, demonstrated previously. The right lung remains
+relatively clear and the heart size and pulmonary vessels are,
+overall, unchanged. Left-sided dual-chamber ICD/pacing device
+has intact leads in unchanged position; note that the right
+atrial lead followed an unusual course, directed posteriorly, on
+the previous lateral view. Again demonstrated are old fracture
+deformities of the right fourth through eighth ribs, laterally.
+
+IMPRESSION:
+1. Posteriorly-layering left pleural effusion, likely unchanged
+since [**4-18**].
+2. No significant change in heart size and pulmonary vessels.
+3. Possible aberrant positioning of the right atrial lead of the
+ICD/pacer device (as communicated previously, by Dr. [**Last Name (STitle) 141**].
+.
+Cardiology Report ECG Study Date of [**2746-4-25**]  8:11:26 PM
+
+
+Normal sinus rhythm. Intraventricular conduction defect. Left
+atrial
+abnormality. Compared to the previous tracing of [**2746-4-16**] no
+diagnostic
+interval change.
+TRACING #1
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+95 144 136 368/429 67 50 21
+.
+CHEST (PORTABLE AP)  [**2746-4-26**] 7:48 AM
+
+CHEST (PORTABLE AP)
+
+Reason: Please eval effusion
+
+UNDERLYING MEDICAL CONDITION:
+62 year old man with ICD firing/VT. Had recent LLL pneumonia and
+thoracentesis for left effusion.
+REASON FOR THIS EXAMINATION:
+Please eval effusion
+INDICATION: 62-year-old man with ventricular tachycardia and
+recent left lower lobe pneumonia, please evaluate for effusion.
+
+COMPARISON: [**2746-4-25**].
+
+UPRIGHT CHEST RADIOGRAPH: The dual-lead left AICD is unchanged.
+The cardiomediastinal silloutte is stable and unremarkable.
+There is a moderate- sized left pleural effusion, which allowing
+for positional change is similar in size to [**2746-4-25**]. Stable
+associated mild left lower lobe atelectasis is noted. The right
+lung is clear.
+.
+Atrial paced and ventricularly sensed rhythm at 60 beats per
+minute. Compared
+to the previous tracing atrial pacing is new.
+TRACING #2
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+63 0 122 460/465 0 42 29
+
+
+
+
+
+Brief Hospital Course:
+This is a 62 year old male with Past Medical History of Coronary
+Artery Disease status post Myocardial infarction and stents,
+etoh cirrhosis, DMII, who presents one week after ICD placement
+with recurrent VT.
+
+# Rhythm: Patient had 39 events of Ventricular tachycardia with
+11 shocks recorded on his pacer.  He was given lidocaine 100mg
+and started on a procainamide drip at the Outside Hospital with
+some improvement.  At [**Hospital1 22**], his procainamide drip was decreased
+and stopped, and he was started on sotalol 80 [**Hospital1 **] and titrated
+to 120mg [**Hospital1 **].  His metoprolol was stopped to allow blood
+pressure room for the sotalol as well as to limit bronchospasm.
+The Electophysiology team was involved, and his VT threshold was
+increased, so that now his heart rate can increase to 210 before
+he will be cardioverted, whereas before, he was shocked at a
+rate of 200.  His electrolytes were repleted to potassium 4.5
+and magnesium 2.  He was monitored on telemetry with no further
+events.
+.
+# CAD s/p MI and stents: He was chest pain free despite shocks
+and VT. No SOB or anginal symptoms. EKG was unchanged. He was
+continued on Aspirin, ACE-inhibitor, zetia (not on statin given
+liver disease).  Beta blocker held as above.
+
+# pump: Diastolic and systolic chronic CHF with LVEF 40% on last
+ECHO in [**3-9**]. Mild to moderate regional left ventricular
+systolic dysfunction with severe hypo/akinesis of the inferior
+and inferolateral walls. Appeared euvolemic by exam during his
+stay.  He was continued on his home PO lasix dose and
+ACE-Inhibitor.  Beta blocker held as above.
+
+# Asthma: Patient had wheezes on exam upon admission.  Given
+advair and spiriva.  Albuterol was initially withheld given
+possible contribution to tachycardia.
+
+# left effusion: CXR was taken supine and suggests left effusion
+layering out with repeat overal stable from previous.
+Thoracentesis on last admission removed 2L fluid which was
+bloody exudate. He had a repeat thoracentsis during this
+admission which also showed an exudate.  Pleural fluid cultures
+showed no microorganisms. He will need continued follow-up for
+his pleural effusion.
+
+# Right arm weakness: evaluated by neurology during last
+admission and found to have spinal stenosis as likely cause of
+right arm weakness. They recommended soft collar to help.  He is
+to continue with soft collar at night with outpatient follow up
+with neurology.
+
+# HTN: He was maintained on lisinopril as above.  Beta-blocker
+held as above.
+
+# DM2: On glyburide as outpatient. This was held while in house
+and insulin SS and glargine was used and titrated up prn.
+
+# Cirrhosis: appears well-compensated for now, no coagulopathy.
+He is to follow up with hepatology as outpatient.
+
+# Anemia: unclear etiology of anemia, possibly related to
+underlying chronic liver disease. B12/folate and iron studies
+are normal on last admission. HCT stable near 32 upon admission
+but dropped to 27 overnight, which is closer to his baseline. He
+was likely dehydrated on admisstion and HCT corrected to 27 with
+hydration.
+
+# Psych: Prior to last admission patient had been on lithium and
+seroquel, discontinued per psych recs given liver disease.  He
+was continued on zyprexa during his stay.
+
+# Thrombocytopenia: chronic, at Baseline, likely secondary to
+liver disease.
+
+# Smoking cessation:  He was educated on the harms of smoking
+and that he should quit as soon as possible.  He was on a
+nicotine patch while in the hospital
+
+
+Medications on Admission:
+per d/c summary from last week
+1. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY
+2. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY
+4. Glyburide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H
+6. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+
+One (1) inhalation Inhalation [**Hospital1 **]
+7. Olanzapine 5 mg Tablet Sig: 1-2 Tablets PO twice a day: take
+
+1 tablet each morning, take two tablets each evening.
+8. Metoprolol Succinate 150 mg Tablet Sustained Release 24 hr
+daily
+9. Albuterol 90 mcg/Actuation Aerosol Sig: [**1-2**] inhalation
+Inhalation twice a day.
+10. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+inhalation Inhalation four times a day.
+11. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO BID
+12. Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY
+13. Lasix 40 mg Tablet PO once a day.
+14. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO every six (6)
+
+hours as needed for pain for 10 days.
+15. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY
+16. Astelin 137 mcg Aerosol, Spray Sig: [**1-2**] sprays each nostril
+
+Nasal once a day as needed for allergy symptoms.
+
+
+Discharge Medications:
+1. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+5. Olanzapine 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*15 Tablet(s)* Refills:*0*
+6. Olanzapine 2.5 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Sotalol 80 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+9. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+11. Glyburide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+13. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+14. Lactulose 10 gram/15 mL Syrup Sig: Fifteen (15) ML PO BID (2
+times a day).
+15. Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily): do not smoke while wearing the patch.
+
+16. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+17. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] Nursing Services
+
+Discharge Diagnosis:
+Ventricular tachycardia
+ICD firing for VT
+chronic systolic CHF with EF 40%
+asthma
+pleural effusion
+tobacco abuse
+
+
+Discharge Condition:
+Stable QT interval.
+
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1.5L daily
+.
+You were admitted to the hospital because your ICD was firing.
+Your medications have been changed. Please follow the medication
+sheets for details. You have been started on a new medication
+called sotalol 120mg twice a day and your metoprolol XL (toprol
+XL) has been discontinued.
+
+To help prevent abnormal rhythms in your heart, please avoid
+caffeine and tobacco and alcohol.
+
+Please follow up with your appointments as indicated below.
+
+Please notify your physician or return to the emergency room if
+your ICD fires again, if you feel shortness of breath, chest
+pains, have fevers over 102, or any other symptoms which are
+concerning to you.
+
+Followup Instructions:
+Please call your PCP, [**Last Name (NamePattern4) 21**]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 121**], M.D.  Phone:
+[**Telephone/Fax (1) 123**]
+to schedule a follow up appointment within one to two weeks.
+
+Cardiology:  [**Known patient firstname **] [**Last Name (NamePattern4) 142**], M.D. Phone:[**Telephone/Fax (1) 143**]
+Date/Time: [**2746-5-8**] 3:40pm.
+
+Electrophysiology: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], M.D. Phone: [**Telephone/Fax (1) 144**]
+Date/Time: [**2746-5-31**] at 2pm
+
+Neurology: [**First Name4 (NamePattern1) 145**] [**Last Name (NamePattern1) 146**], M.D. Phone: [**Telephone/Fax (1) 48**]
+Date/Time: [**2746-7-4**] at 4:30pm
+
+
+
+
+
+DOC CLASS

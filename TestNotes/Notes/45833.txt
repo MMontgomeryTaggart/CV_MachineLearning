@@ -1,0 +1,263 @@
+Admission Date:  [**2609-5-22**]              Discharge Date:   [**2609-6-8**]
+
+Date of Birth:  [**2545-1-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 19627**]
+Chief Complaint:
+Transfer for cath s/p abnormal stress
+
+Major Surgical or Invasive Procedure:
+[**2609-5-25**] CABG x 3 (LIMA->LAD, SVG->[**Last Name (LF) **], [**First Name3 (LF) **])
+[**2609-6-5**] Doxy Pleuradesis
+
+
+History of Present Illness:
+64 year old male who was initially admitted to Good Samariton on
+[**5-12**] with complaint of left sided chest pain which he states
+that he had for years and COPD exacerbation. At OSH patient had
+CTA which was negative for PE but showed RLL, RML, and LLL
+infiltrates suggestive of PNA. Patient was started on
+ceftriaxone and levofloxacin which he recieved for 7 days and
+was stopped because patient had 2 days of diarrhea. At the OSH
+patient sputum cx came back positive for group B strep. Patient
+was started on Aspirin, Imdur, Lopressor, and Plavix at the OSH
+and stated that his CP resolved after 2 days. Cardiac enzymes
+were sent and patient had flat CK but elevated Troponin that
+peaked to 2.15 and then trended down. Patient underwent
+dobutamine stress atthe OSH which showed lateral ischemia. He
+was transferred to [**Hospital1 4**] for cardiac catherization. Patient
+currently states that he his breathing at his baseline and is CP
+free. No orthopnea or PND, however patient unable to climb more
+than 1 flight of stairs [**1-18**] SOB.
+.
+ROS: Patient denies and fever/chills. He denies any cough.
+Currently denies any diarrhea, BRBPR, melena. No HA, n/v,
+lightheadedness.
+
+Past Medical History:
+COPD; severe emphysema
+HTN
+Intersitial Lung disease
+Hyperlipidemia
+GERD
+Anxiety
+Depression
+H/O rotator cuff injury
+Cardiac Cath in past (approx. 12 years ago) [**1-18**] chronic CP, no
+dialation or stenting done.
+
+
+Social History:
+Patient lives with girlfriend, currently divorced. He is a
+retired truck driver. He has a 100 pack/year history quit 15
+years ago. Occasional etoh use. No drug history.
+
+Family History:
+Mother - emphysema; sister died of CAD @ 46; F - died in
+accident
+
+Physical Exam:
+PE: T:98.3 BP 149/71 HR 65 RR 19 O2Sat 97% RA
+Gen: Patient lying on stretcher NAD, breathing well on RA;
+tatoos on arms
+HEENT: PERRLA, scelra anicteric, MMM, OP clear
+Neck: No carotid bruit, No JVD,
+Lungs: Crackles at Left base, no wheezes
+Cardiac: RRR S1/S2 no murmurs
+Abd: Soft NTND NABS no HSM
+Ext: No edema, Pedal pulses +2; no femoral bruits
+Neuro: AAOx3, no focal defecits
+
+
+Pertinent Results:
+EKG: NSR @ 62 nl axis; no ST changes or qwaves. TWI in III
+.
+Cardiac Cath [**2609-5-22**]:
+1. Selective coronary angiography revealed a right dominant
+system
+with three vessel coronary artery disease. The LMCA had a 50%
+ostial
+lesion. The LAD had a 60% mid vessel lesion with a 90% ostial
+stenosis
+at the first diagonal branch. The moderately calcified
+non-dominant LCX
+had serioal 80% lesions in the AV groove vessel leading to a 90%
+
+proximal stenosis of the OM1. The OM2 and OM3 no
+angiographically
+apparent flow limiting lesions. The RCA had a proximal occlusion
+with
+left to right collateral.
+  2. Resting hemodynamics demonstrated normal right sided and
+left sided
+pressures with mildly elevated pulmonary pressures (mean PA 26
+mmHg) and
+moderately elevated systemic pressures (central aortic pressure
+172/71
+mmHg). The cardiac index was mildly depressed (2.1 l/min/m2).
+  3. Left ventriculography showed no wall motion abnormalities
+(EF 60%).
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Normal ventricular function.
+3. Mild precapillary pulmonary hypertension
+.
+
+
+Brief Hospital Course:
+Selective coronary angiography revealed a right dominant system
+with three vessel coronary artery disease. The LMCA had a 50%
+ostial lesion. The LAD had a 60% mid vessel lesion with a 90%
+ostial stenosis at the first diagonal branch. The moderately
+calcified non-dominant LCX had serioal 80% lesions in the AV
+groove vessel leading to a 90% proximal stenosis of the OM1. The
+OM2 and OM3 no angiographically apparent flow limiting lesions.
+The RCA had a proximal occlusion with left to right collateral.
+Left ventriculography showed no wall motion abnormalities with
+an LVEF of 60%. Based on the above results, cardiac surgery was
+consulted for coronary revascularization.
+
+Further evaluation included pulmonary consultation given his
+severe COPD. He was maintained on MDI and nebulizers and was
+cleared to proceed with surgery. A preoperative carotid
+ultrasound was notable for bilateral mild internal carotid
+artery stenosis of less than 40%. He otherwise remained stable
+on medical therapy.
+
+On [**5-25**], Dr. [**Last Name (STitle) 17385**] performed three vessel coronary
+artery bypass grafting utilizing the LIMA to LAD, SVG to
+diagonal and SVG to obtuse marginal. Following the operation, he
+was brought to the CSRU. Within 24 hours, he was extubated. MDI
+and nebulizer therapies were resumed. Chest tubes were removed
+and he transferred to the Step Down Unit on postoperative day
+two. Later that night, he experienced acute respiratory distress
+secondary to a right pneumothorax. A chest tube was urgently
+placed and he returned to the CSRU. His respiratory status
+gradually improved over several days and he eventually
+transferred back to the SDU.
+
+Despite chest tube placement, serial chest x-rays were notable
+for persistent right pneumothorax. The thoracic service was
+consulted and recommended a chest CT scan which confirmed a
+small right pneumothorax, and pneumomediastinum with small
+bilateral pleural effusions. It also showed diffuse
+centrilobular emphysema with no focal lung consolidations. A new
+chest tube was therefore placed on [**6-3**] and put to suction
+while the "old" chest tube was eventually removed.
+Unfortunately, the pneumothorax persisted. On [**6-5**], Doxy
+pleurodesis was performed. The chest tube remained and serial
+chest x-rays were performed. The chest tube was eventually
+removed on [**6-7**]. The chest x-ray prior to removal was
+notable for no significant residual right pneumothorax. The post
+pull chest x-ray showed small, stable right apical pneumothorax.
+
+From a cardiac standpoint, he maintained stable hemodynamics. He
+tolerated beta blockade without significant wheezing. He
+remained in a normal sinus rhythm without ventricular or atrial
+arrhythmias. Beta blockade was advanced as tolerated. He
+responded well to diuresis and by discharge, had oxygen
+saturations of 92% on room air. He was medically cleared for
+discharge on postoperative day 14. Pt. still with dyspnea on
+exertion, states it is relieved by supplemental oxygen at
+2L/minute prn. Repeat CXR this am showed small right apical ptx
+(? somewhat smaller than post-pull film of [**6-7**])
+
+
+
+Medications on Admission:
+Levofloxacin 500mg x 7 days
+Ceftriaxone 1g daily x 7 days
+Prevacid 30mg [**Hospital1 **]
+Prozac 20mg daily
+Zocor 40mg qhs
+Aspirin 325 daily
+Singular 10mg qhs
+Motrin 800mg tid
+Plavix 75mg qd (started at OSH)
+Tylenol
+Xanax 0.25 tid
+Dilaudid 2mg q4-6
+Lopressor 50mg [**Hospital1 **]
+Imdur 60mg qam
+Diltiazem 360mg daily
+Albuterol/Atrovent neb
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+5. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation [**Hospital1 **] (2 times a day).
+Disp:*1 MDI* Refills:*2*
+7. Montelukast Sodium 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1) MDI
+Inhalation Q6H (every 6 hours).
+Disp:*1 MDI* Refills:*2*
+10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+11. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+Disp:*1 1* Refills:*2*
+12. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q2H (every
+2 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*1*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Partners [**Name (NI) **]
+
+Discharge Diagnosis:
+CAD
+Pneumothorax
+
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Oxygen at
+Shower daily,wash incisions with mild soap and water,pat dry.
+No lifting more than 10 pounds.
+No driving until follow up, or after if taking pain medication.
+Call with weight gain greater than 2 pounds in one day or five
+pounds in one week, temperature 101.5 or greater, or redness or
+drain2L/minute as needed for shortness of breathge from
+incision.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 17385**] 6 weeks
+Dr. [**Last Name (STitle) 970**] 1-2 weeks
+Dr. [**Last Name (STitle) 9578**] 2-3 weeks
+
+
+
+Completed by:[**2609-6-8**]
+
+DOC CLASS

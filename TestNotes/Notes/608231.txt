@@ -1,0 +1,153 @@
+Chief Complaint: Hypoglycemia
+   I saw and examined the patient, and was physically present with the ICU
+   resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI: 65 year-old man with ESRD here with AMS, hypotension responded
+   naloxone.
+   24 Hour Events:
+   Got narcan x 6 (last 2PM)
+   Got D50W for hypoglycemia.
+   Plan for dialysis today.  Last day of antibiotics.
+   Renal, vascular, palliative care following.
+   Allergies:
+   Neupogen (Injection) (Filgrastim)
+   "violent";
+   Neurontin (Oral) (Gabapentin)
+   Unknown;
+   Dilaudid (Injection) (Hydromorphone Hcl/Pf)
+   Hives;
+   Last dose of Antibiotics:
+   Daptomycin - [**2571-7-11**] 09:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2571-7-12**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Naloxone (Narcan) - [**2571-7-12**] 02:00 PM
+   Heparin Sodium (Prophylaxis) - [**2571-7-12**] 11:59 PM
+   Morphine Sulfate - [**2571-7-13**] 03:26 AM
+   Dextrose 50% - [**2571-7-13**] 05:57 AM
+   Other medications: nephrocaps, B12, ASA 325, digoxin, simvastatin,
+   prednisone 5mg, Plavix 75mg, atrovent, albuterol, lopressor 12.5mg [**Hospital1 **],
+   [**Hospital1 4100**] prn.
+   Changes to medical and family history: none
+   Review of systems: Review of systems is unchanged from admission except
+   as noted below. No nausea, vomiting, pain, shortness of breath, cough.
+   Flowsheet Data as of  [**2571-7-13**] 09:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 79 (72 - 97) bpm
+   BP: 81/33(42) {46/16(25) - 106/77(82)} mmHg
+   RR: 29 (10 - 31) insp/min
+   SpO2: 95% on shovel mask
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                    815 mL
+                                                                    143 mL
+   PO:
+             TF:
+   IVF:
+                                                                    640 mL
+                                                                     93 mL
+   Blood products:
+   Total out:
+                                                                  1,515 mL
+                                                                     10 mL
+   Urine:
+                                                                     15 mL
+                                                                     10 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -700 mL
+                                                                    133 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SpO2: 95%
+   ABG: ///31/
+   Physical Examination
+   GEN: No apparent distress, but not oriented, occasionally follows
+   commands.  Cushingoid.
+   CHEST: Clear
+   Heart: RRR, S1s2
+   Abd: obese, with bowel sounds.
+   Skin:  Bruising.
+   Ext: right TMA and debridement with VACC in place.
+   Neurologic: Not able to follow commands
+   Labs / Radiology
+   7.6 g/dL
+   152 K/uL
+   74 mg/dL
+   3.1 mg/dL
+   31 mEq/L
+   3.6 mEq/L
+   12 mg/dL
+   101 mEq/L
+   141 mEq/L
+   24.6 %
+   4.1 K/uL
+        [image002.jpg]
+                             [**2571-7-11**]  05:22 PM
+                             [**2571-7-12**]  03:27 AM
+                             [**2571-7-13**]  03:44 AM
+   WBC
+   7.2
+   4.1
+   Hct
+   25.9
+   24.6
+   Plt
+   172
+   152
+   Cr
+   5.0
+   3.1
+   TCO2
+   35
+   Glucose
+   120
+   74
+   Other labs: Lactic Acid:0.8 mmol/L, Ca++:7.9 mg/dL, Mg++:1.7 mg/dL,
+   PO4:2.9 mg/dL
+   Imaging: Right upper extremity non-occlusive thrombus.
+   MICRO: No positive cultures.
+   Assessment and Plan: 65 year-old man ESRD with AMS, possible narcotic
+   overdose.
+ ALTERED MENTAL STATUS: likely partially due to narcotic overdose, but
+   still delerious.  Unclear baseline
+ will discuss with family.
+   Differential Dx: Pain, narcotics, hypoglycemia, hypercarbia,
+   infection.  Plan for Tylenol/lidocaine, avoid narcotics, check ABG.
+   Consider [**Year (4 digits) **].
+ HYPOGLYCEMIA: Unclear etiology.  Worked up in past, and today.  Needs
+   to eat
+ would consider NGT placement.  In meantime would start D10 at
+   30cc/hour.
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD): Dialysis
+   today.  Renal aware of line-associated thrombosis.
+   Infection: Completes Antibiotics today.
+   ICU Care
+   Nutrition: not taking PO due to altered mental status.  Start D10W.
+   Consider feeding tube.
+   Glycemic Control:  poor. Start D10W
+   Lines: PIVs
+   Multi Lumen - [**2571-7-11**] 04:39 PM
+   Dialysis Catheter - [**2571-7-11**] 04:40 PM
+   Prophylaxis:
+   DVT: heparin SQ
+   Stress ulcer: PPI
+   VAP:
+   Comments: d/c foley catheter
+   Communication:  Comments: With wife
+   [**Name (NI) 62**] status: DNR/DNI
+   Disposition : ICU for now
+   Total time spent: 35 mins
+
+
+DOC CLASS

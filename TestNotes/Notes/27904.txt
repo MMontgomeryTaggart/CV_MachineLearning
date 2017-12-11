@@ -1,0 +1,192 @@
+Admission Date:  [**3211-7-21**]              Discharge Date:   [**3211-7-30**]
+
+Date of Birth:  [**3137-7-10**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Admitted from OSH for catheterization as part of cardiac workup
+for microcytic anemia
+
+Major Surgical or Invasive Procedure:
+[**7-22**]: Cardiac catheterization
+[**7-25**]: EGD/Colonoscopy
+[**7-26**]: CABG
+
+History of Present Illness:
+Ms. [**Known patient lastname **] is a very pleasant 73 year old woman that was
+transferred from [**Hospital 70**] Hospital to [**Hospital1 22**] for cardiac
+catheterization. Over the past few weeks, she has noticed
+increasing "heaviness" in throat and under her left arm when she
+is walking or carrying laundry up the stairs. She denies any
+shortness of breath, palpitations, nausea, vomiting,
+diaphoresis. She was found to have anemia and was transfused two
+units at the OSH. As part of her workup for her microcytic
+anemia, she was to be scoped by GI, and she was transferred to
+[**Hospital1 22**] for catheterization for cardiac clearance for colonoscopy.
+She denies any weight loss, fevers, changes in her appetite, or
+changes in stool.
+
+Past Medical History:
+None
+
+Social History:
+Patient works with special ed kids. She is quite active ("90% of
+my friends are in their 50's"). She is a "social" smoker
+(smoking only when she goes out with friends), drinks alcohol on
+New Year's Eve, and denies drug use. She lives at home in
+[**Location (un) 4109**] with her husband of 53 years, a smoker, but in good
+health.
+
+Family History:
+Father died of heart failure in his late 70's, mother died of
+cancer at age 82. Has 6 children and 18 grandchildren, all in
+good health. Two brothers with heart problems (angioplasty and
+bypass), one sister with 2 "mild" strokes.
+
+Physical Exam:
+Vitals: T 99.1, BP 140/63, P 72, R 18, O2 99%RA
+Gen: well-appearing older woman in no acute distress, sitting up
+in bed, eating dinner
+HEENT: PERRL, MMM, OP clear
+Neck: no carotid bruits auscultated, no JVD
+Heart: RRR, normal S1/S2, II/VI systolic murmur heard best at
+left sternal border, no rubs/gallops
+Lungs: Clear to auscultation bilaterally
+Back: No spinal tenderness, no costovertebral angle tenderness
+Abd: soft, non-distended, non-tender, normal active bowel sounds
+Ext: 2+ DP pulses bilaterally, no clubbing, cyanosis, edema
+
+Pertinent Results:
+[**3211-7-21**] 07:25PM   WBC-8.4 RBC-4.66 HGB-9.7* HCT-30.2* MCV-65*
+MCH-20.8* MCHC-32.1 RDW-22.2*
+[**3211-7-21**] 07:25PM   PLT COUNT-403
+[**3211-7-21**] 07:25PM   GLUCOSE-148* UREA N-13 CREAT-0.9 SODIUM-144
+POTASSIUM-4.3 CHLORIDE-110* TOTAL CO2-22 ANION GAP-16
+[**3211-7-21**] 07:25PM   CALCIUM-9.6 PHOSPHATE-3.4 MAGNESIUM-2.1
+.
+EKG: NSR at ~75 bpm, normal axis, normal intervals. Q wave in
+III, q wave in AVF. No ST changes.
+.
+Cath [**3211-7-22**]: Selective coronary angiography in this right
+dominant system revealed flow limiting epicardial coronary
+artery disease.  The LMCA was a long vessel with no apparent
+obstruction.  The LAD had a promixal 85% stenosis and then a 40%
+stenosis more distally.  The LCx had a 50% mid stenosis.  The
+RCA had an ostial 70% stenosis. Left ventriculography revealed a
+grossly normal ejection fraction. We were unable to calculate
+LVEF because a calibration image was not obtained. Central
+aortic pressure was 126/56.
+.
+CT Scan Abd/Pelvis, +/- contrast, [**3211-7-22**]: Asymmetry of the
+distal rectal wall. A malignancy cannot be excluded and physical
+exam/ proctoscopy is recommended for further evaluation. Two
+hypoattenuating subcentimeter lesions in the liver, too small to
+
+characterize. Multiple hypoattenuating lesions in both kidneys,
+most of which are too small to characterize. 2.8 x 2.5 cm simple
+cyst in the right right kidney in the upper pole. Prominent fat
+at ileocecal valve, most likely anormal variant. Extensive
+diverticulosis involving the sigmoid colon, transverse colon,
+and ascending colon, without evidence of diverticulitis. Exam
+not tailored for detection of colon cancer and dedicated
+colonoscopy or virtual CT colonoscopy would be necessary for
+this purpose if colon cancern is suspected clinically.
+.
+
+Brief Hospital Course:
+Ms. [**Known patient lastname **] is a 74 year old woman with chest discomfort on
+exertion in the setting of microcytic anemia, requiring cardiac
+clearance prior to colonoscopy for workup of the anemia. She had
+cardiac catheterization on [**3211-7-22**], which showed three-vessel
+disease. She was continued on beta-blocker and aspirin from the
+outside hospital, and started on high dose Lipitor. She received
+one transfusion while on the cardiology service, and her
+hematocrit was stable ~31. She had one CT of abdomen/pelvis,
+which was non-specific, showing thickening of the rectal wall
+and several hypodense sub-centimeter lesions in the kidneys and
+liver, but ruling out largely metastatic disease. It was decided
+to get an EGD/colonoscopy, which showed mild gastritis and an
+adenomatous polyp in the ascending colon. She was transferred to
+the cardiothoracic surgery team on Tuesday [**7-26**] for coronary
+bypass grafting.
+
+Her post-operative course was unremarkable.  She progressed
+quickly with physical therapy, had walked up a flight of stairs
+by POD # 2.  Her epicardial wires were removed on POD # 3, and
+she has remained hemodynamically stable throughout her post-op
+stay.  She is ready to be discharged home today.
+
+
+Medications on Admission:
+Multivitamin, fish oil at home.
+.
+On transfer from OSH:
+Metoprolol 25mg PO BID
+Albuterol
+Ambien
+Aspirin 325mg PO QD
+SL Nitro
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+3. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H
+(every 12 hours) for 5 days.
+Disp:*10 Packet(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO every 4-6 hours as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA of Southeastern Mass.
+
+Discharge Diagnosis:
+CAD
+colon polyps
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+may shower, no bathing or swimming for 1 month
+no lifting > 10# for 10 weeks
+no driving for 1 month
+no creams, lotions or powders to any incisions
+
+Followup Instructions:
+with Dr. [**Last Name (STitle) 2104**] in [**2-11**] weeks
+with Dr. [**Last Name (STitle) 1303**] (re:colonoscopy/colon polyps) in [**2-11**] weeks
+with Dr. [**Last Name (STitle) **] in 4 weeks
+
+
+
+Completed by:[**3211-7-30**]
+
+DOC CLASS

@@ -1,0 +1,220 @@
+Chief Complaint:
+   24 Hour Events:
+ NON-INVASIVE VENTILATION - START [**2993-7-24**] 08:00 AM
+ ARTERIAL LINE - START [**2993-7-24**] 11:00 AM
+ NON-INVASIVE VENTILATION - STOP [**2993-7-24**] 11:15 AM
+ INVASIVE VENTILATION - START [**2993-7-24**] 11:15 AM
+ CARDIAC ARREST - At [**2993-7-24**] 10:02 PM
+   .
+   -intubated
+   -axillary a-line placed
+   -renal c/s called.
+   TTE-The left atrium is moderately dilated. No atrial septal defect is
+   seen by 2D or color Doppler. Left ventricular wall thicknesses are
+   normal. The left ventricular cavity size is normal. Overall left
+   ventricular systolic function is moderately depressed (LVEF= 30-35 %)
+   with global hypokinesis and akinesis the infero-lateral wall. There is
+   no ventricular septal defect. with moderate global free wall
+   hypokinesis. The ascending aorta is mildly dilated. A bioprosthetic
+   aortic valve prosthesis is present. The aortic valve prosthesis appears
+   well seated, with normal leaflet/disc motion and transvalvular
+   gradients. No masses or vegetations are seen on the aortic valve, but
+   cannot be fully excluded due to suboptimal image quality. No aortic
+   regurgitation is seen. The mitral valve leaflets are mildly thickened.
+   No mass or vegetation is seen on the mitral valve. Mild (1+) mitral
+   regurgitation is seen. The tricuspid valve leaflets are mildly
+   thickened. There is moderate pulmonary artery systolic hypertension.
+   There is no pericardial effusion.
+   -levophed added, unable to wean off neo as pt with increased
+   tachy-brady and dropped pressures.
+   -awaiting stability for CT torso. added CT head given ?asym pupils.
+   -awaiting [**Last Name (un) **] stim
+   -IVF
+   -guaiac +stools, brown noted
+   -given 2 amps of bicarb
+   -oliguric
+   -abx renally dosed, allopurinol dcd
+   .
+   Coded around 930pm, dropped pressure, became bradycardic. PEA
+   given 1mg epi x2, 1mg atropine, bicarb, calcium. ABG pH 7.34/46/380.
+   Lactate:4.7.
+   -code lasted ~5min
+   -family came in, decided DNR/DNI, no escalation.
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2993-7-23**] 01:09 PM
+   Cefipime - [**2993-7-23**] 06:39 PM
+   Metronidazole - [**2993-7-25**] 04:36 AM
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Norepinephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Sodium Bicarbonate 8.4% (Amp) - [**2993-7-24**] 05:45 PM
+   Lansoprazole (Prevacid) - [**2993-7-24**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: unable to obtain
+   Flowsheet Data as of  [**2993-7-25**] 06:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 36.1
+C (96.9
+   HR: 92 (85 - 114) bpm
+   BP: 60/27(37) {60/27(37) - 114/50(72)} mmHg
+   RR: 0 (0 - 36) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 78.3 kg (admission): 74 kg
+    CVP: 6 (-1 - 27)mmHg
+   Total In:
+                                                                 13,297 mL
+                                                                  2,428 mL
+   PO:
+                                                                    780 mL
+   TF:
+   IVF:
+                                                                 12,357 mL
+                                                                  2,428 mL
+   Blood products:
+   Total out:
+                                                                     15 mL
+                                                                      0 mL
+   Urine:
+                                                                     15 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 13,282 mL
+                                                                  2,428 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 853 (853 - 865) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 80%
+   RSBI Deferred: PEEP > 10, FiO2 > 60%, Hemodynamic Instability
+   PIP: 34 cmH2O
+   Plateau: 23 cmH2O
+   SpO2: 100%
+   ABG: 6.92/39/92.[**Numeric Identifier 630**]/22/-25
+   Ve: 14.5 L/min
+   PaO2 / FiO2: 116
+   Physical Examination
+   gen-intubated, sedated
+   neck-R.IJ in place
+   HEENT-nc/at, PRL
+   chest-rhoncherous bs b/l
+   heart-s1s2 irreg no m/r/g
+   abd-+bs, soft, Nt, ND
+   ext-multiple areas of mottling, cyanosis, skin tears.
+   Labs / Radiology
+   384 K/uL
+   10.0 g/dL
+   173 mg/dL
+   2.2 mg/dL
+   22 mEq/L
+   4.9 mEq/L
+   15 mg/dL
+   121 mEq/L
+   151 mEq/L
+   30.9 %
+   14.3 K/uL
+        [image002.jpg]
+                             [**2993-7-23**]  03:03 PM
+                             [**2993-7-23**]  07:33 PM
+                             [**2993-7-24**]  05:22 AM
+                             [**2993-7-24**]  01:55 PM
+                             [**2993-7-24**]  02:05 PM
+                             [**2993-7-24**]  03:59 PM
+                             [**2993-7-24**]  06:19 PM
+                             [**2993-7-24**]  09:24 PM
+                             [**2993-7-24**]  09:30 PM
+                             [**2993-7-25**]  06:22 AM
+   WBC
+   19.0
+   20.7
+   14.3
+   Hct
+   34.1
+   32.2
+   30.9
+   Plt
+   397
+   384
+   Cr
+   2.0
+   2.2
+   2.4
+   2.4
+   2.2
+   TropT
+   0.23
+   0.20
+   TCO2
+   18
+   16
+   15
+   26
+   9
+   Glucose
+   83
+   41
+   89
+   140
+   173
+   Other labs: PT / PTT / INR:18.4/35.2/1.7, CK / CKMB /
+   Troponin-T:64/10/0.20, ALT / AST:[**7-15**], Alk Phos / T Bili:84/0.4,
+   Amylase / Lipase:/11, Differential-Neuts:87.9 %, Band:0.0 %, Lymph:4.2
+   %, Mono:2.6 %, Eos:4.9 %, Fibrinogen:797 mg/dL, Lactic Acid:10.4
+   mmol/L, Albumin:1.6 g/dL, LDH:228 IU/L, Ca++:19.0 mg/dL, Mg++:2.0
+   mg/dL, PO4:4.7 mg/dL
+   Assessment and Plan
+ SHOCK, SEPTIC
+ IMPAIRED SKIN INTEGRITY
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ BACTEREMIA
+ ATRIAL FIBRILLATION (AFIB)
+ FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA)
+   .
+   Mr. [**Known patient lastname **] is a 79 y.o with hx ischemic cardiomyopathy, CRF, DM, PVD,
+   tachy-brady syndrome who was admitted for bradycardia vs. syncope now
+   here septic shock and respiratory shock with no clear infectious
+   source..
+   .
+   #goals of care-given septic shock and cardiac arrest overnight and pt
+   poor prognosis, family called. After family discussion, pt made DNR/DNI
+   with no escalation of care. Current therapy continued. However, at
+   ~930am, pt became asystolic and died with family at the bedside.
+   .
+   .
+   .
+   ICU Care
+   Nutrition: NPO
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2993-7-23**] 04:55 PM
+   Arterial Line - [**2993-7-24**] 11:00 AM
+   Prophylaxis:
+   DVT: heparin SC
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR/DNI
+   Disposition:
+
+
+DOC CLASS

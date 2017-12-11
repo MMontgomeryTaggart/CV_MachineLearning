@@ -1,0 +1,38 @@
+Admission Date:  [**2584-8-2**]       Discharge Date:  [**2584-8-10**]
+
+Date of Birth:   [**2518-3-24**]       Sex:  M
+
+Service:
+
+ADDENDUM:  The patient was to be discharged on [**8-7**] but
+had persistent tachycardia in the 110s to 120s.  His
+Lopressor was eventually increased to 100 mg by mouth three
+times per day, and his heart rate was in the 90s with a good
+blood pressure.
+
+DISCHARGE DISPOSITION:   The patient was discharged to home
+on [**2584-8-10**].
+
+PERTINENT LABORATORY VALUES ON DISCHARGE:  His pertinent
+laboratories on discharge revealed his white blood cell count
+was 11,400.  His hematocrit was 31.8.  His platelets were
+416.  His sodium was 135, potassium was 4.1, chloride was
+101, bicarbonate was 26, blood urea nitrogen was 24,
+creatinine was 1.1, and his blood glucose was 102.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1887**], M.D.  [**MD Number(1) 1888**]
+
+Dictated By:[**Last Name (NamePattern1) **]
+MEDQUIST36
+
+D:  [**2584-8-10**]  11:13
+T:  [**2584-8-10**]  11:18
+JOB#:  [**Job Number 22645**]
+
+
+DOC CLASS

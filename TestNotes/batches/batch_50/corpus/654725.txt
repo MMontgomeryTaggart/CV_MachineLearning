@@ -1,0 +1,303 @@
+Chief Complaint:
+   24 Hour Events:
+   -fam mtg- family will consider dnr/dni.
+   -lactates trended down but still elevated, wbc's continue to trend
+   upward
+   -sputum cx growing mrsa
+   -ct abd showed not much (off read pending)
+   -getting addl lfts for tomorrow as LFTs high this am ?shock liver
+   -INR up a little to 1.9 suggesting ? of DIC, however fibrinogen
+   elevated
+   -per family pt had c diff at [**Hospital1 **]
+   -started flagyl for presumptive cdiff
+   -nsg requested dc fent/versed drip and do small boluses instead to
+   minimize sedation
+   -no boluses, using pressors for low bp instead as pt has anasarca
+   -Mrs[**Known patient lastname 8563**] fam would like us to get records from [**Hospital1 23**], consent
+   signed
+   -groin line will need to come out in context of infectious w/u
+   Allergies:
+   Thiazides
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2757-8-3**] 11:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2757-8-4**] 08:00 PM
+   Ciprofloxacin - [**2757-8-4**] 08:30 PM
+   Metronidazole - [**2757-8-5**] 12:00 AM
+   Infusions:
+   Vasopressin - 2 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2757-8-4**] 08:00 PM
+   Midazolam (Versed) - [**2757-8-5**] 02:15 AM
+   Fentanyl - [**2757-8-5**] 06:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2757-8-5**] 08:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100
+   Tcurrent: 36
+C (96.8
+   HR: 64 (59 - 83) bpm
+   BP: 152/82(100) {0/0(0) - 0/0(0)} mmHg
+   RR: 28 (25 - 32) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 85 kg (admission): 80 kg
+   Height: 66 Inch
+             Total In:
+                                                                  2,402 mL
+                                                                    646 mL
+   PO:
+             TF:
+                                                                    543 mL
+                                                                    296 mL
+   IVF:
+                                                                  1,139 mL
+                                                                    319 mL
+   Blood products:
+   Total out:
+                                                                    963 mL
+                                                                    101 mL
+   Urine:
+                                                                    213 mL
+                                                                    101 mL
+   NG:
+   Stool:
+                                                                    750 mL
+   Drains:
+   Balance:
+                                                                  1,439 mL
+                                                                    545 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 26
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 28 cmH2O
+   Plateau: 20 cmH2O
+   SpO2: 100%
+   ABG: 7.45/27/153/18/-2
+   Ve: 11.9 L/min
+   PaO2 / FiO2: 383
+   Physical Examination
+   Gen: Awake, following commands, intubated w/ OG tube, NAD
+   CV: regular rate
+   Abd: distended, Hypoactive BS
+   Resp: Decreased BS at the bases, occasional rhonchi
+   Ext: diffuse Anasarca, 2+ pulses b/l
+   Labs / Radiology
+   103 K/uL
+   8.1 g/dL
+   152 mg/dL
+   3.6 mg/dL
+   18 mEq/L
+   3.5 mEq/L
+   119 mg/dL
+   111 mEq/L
+   142 mEq/L
+   24.3 %
+   18.5 K/uL
+        [image002.jpg]
+                             [**2757-8-4**]  01:44 AM
+                             [**2757-8-4**]  05:00 AM
+                             [**2757-8-4**]  05:11 AM
+                             [**2757-8-4**]  11:34 AM
+                             [**2757-8-4**]  03:39 PM
+                             [**2757-8-4**]  04:16 PM
+                             [**2757-8-5**]  12:08 AM
+                             [**2757-8-5**]  04:09 AM
+                             [**2757-8-5**]  04:11 AM
+                             [**2757-8-5**]  05:45 AM
+   WBC
+   18.9
+   19.6
+   18.5
+   Hct
+   27.8
+   27.1
+   24.8
+   24.3
+   Plt
+   112
+   119
+   103
+   Cr
+   3.4
+   3.5
+   3.6
+   TCO2
+   17
+   17
+   17
+   20
+   19
+   19
+   Glucose
+   [**Telephone/Fax (3) 8564**]
+   Other labs: PT / PTT / INR:19.1/37.2/1.7, CK / CKMB /
+   Troponin-T:47/5/0.38, ALT / AST:125/77, Alk Phos / T Bili:137/0.6,
+   Differential-Neuts:92.6 %, Lymph:4.7 %, Mono:2.5 %, Eos:0.1 %,
+   Fibrinogen:430 mg/dL, Lactic Acid:1.9 mmol/L, Albumin:2.6 g/dL, LDH:191
+   IU/L, Ca++:8.5 mg/dL, Mg++:1.8 mg/dL, PO4:4.2 mg/dL
+   Imaging: ct torso
+   Large bilateral pleural effusions with bilateral lower lobe compressive
+   atelectasis. No consolidation or pneumothorax.
+   Diffuse intra-abdominal free fluid. No bowel dilatation, pneumatosis,
+   or
+   intra-abdominal free air to suggest bowel ischemia.
+   Diffuse aortic valvular, mitral annulus, and coronary artery
+   calcification
+   with moderate cardiomegaly and probable mild pulmonary arterial
+   hypertension.
+   Pleural calcification and thickening suggests prior asbestos exposure.
+   Thoracolumbar degenerative changes with facet joint disease in the
+   lower
+   lumbar and lumbosacral spine, benign right iliac bone island, and
+   healed left
+   inferior pubic ramus fracture of unknown chronicity.
+   Satisfactory position of left femoral venous line, endotracheal tube,
+   urinary
+   catheter, and gastrostomy tube.
+   Microbiology: [**2757-8-5**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B
+   TEST-PENDING INPATIENT
+   [**2757-8-4**]  STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL; FECAL
+   CULTURE - R/O E.COLI 0157:H7-PENDING INPATIENT
+   [**2757-8-3**]  CATHETER TIP-IV WOUND CULTURE-PENDING INPATIENT
+   [**2757-8-1**]  SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL {STAPH
+   AUREUS COAG +, YEAST} INPATIENT
+   [**2757-7-31**]  MRSA SCREEN MRSA SCREEN-FINAL {POSITIVE FOR METHICILLIN
+   RESISTANT STAPH AUREUS} INPATIENT
+   [**2757-7-31**]  URINE URINE CULTURE-FINAL {YEAST} EMERGENCY [**Hospital1 **]
+   [**2757-7-31**]  BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY [**Hospital1 **]
+   Assessment and Plan
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ DIABETES MELLITUS (DM), TYPE II
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ COAGULOPATHY
+ HYPOTHERMIA
+ HYPOTENSION (NOT SHOCK)
+ GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**])
+ IMPAIRED SKIN INTEGRITY
+   88 y/o F with PMHx of CAD, DM, Atrial Fib, Alzheimers, CVA in [**5-7**] on
+   coumadin who was found unresponsive and bradycardic, INR of 10 and
+   active upper/lower GI bleeds who was transferred from [**Hospital 2384**]
+   hospital intubated and on pressors, EGD showed reflux esophagitis.
+   # Respiratory Failure: Pt s/p CVA found down bradycardic and
+   hypotensive.  Unclear if underlying event was hypotension vs aspiration
+   of bloody gastric materials as bloody/brown secretions coming from
+   mouth and some frank blood being suctionned from ETT. Another
+   possibility is pulm hemorrhage.  Of note, pt was recently admitted with
+   Aspiration PNA treated with Ertapenem.  Sputum culture positive for
+   MRSA.
+   - empiric Vanc/Zosyn for hosp organisms Asp PNA (day 5)- holding vanco
+   dose as supratherapeutic today
+   - continue to meet with family q24 re goals of care
+   -Was overbreathing the [**Last Name (LF) **], [**First Name3 (LF) **] switched to pressure support. Will
+   recheck ABG
+   - acidosis is largely secondary to metabolic acidosis from renal
+   failure/lactic acidosis; administered bicarbonate yesterday (is on
+   bicarb at home)
+   -sputum cx showed gram positive cocci; pt also positive for MRSA.
+   Covering with vanc/zosyn (still want gram negative coverage for now b/c
+   ? aspiration, but d/c
+ed cipro)
+   .
+   # Hypotension: Pt is hypotensive, likely secondary to sepsis versus
+   cardiogenic shock .  Elevated lactate in setting of hypotension, now
+   resolving.
+   -CE trending down.
+   -Liver enzymes trending down
+   - No evidence of gut ischemia on CT abd/pelvis
+   - still on vasopressin; levophed and dopamine weaned off; will try to
+   wean vasopressin more aggressively
+   - bolus NS IVF for MAP>65, but only minimally; will rely mostly on
+   pressors
+   # Oliguric Acute Renal Failure: Pt with baseline creatinine in the
+   1.2-1.5 range, currently 3.6. Likely [**12-31**] ATN. Pt does appear to also
+   have a component of CRI.
+   - monitor UOP (no significant improvements), Cr trending up,
+   electrolytes stable; continues to be positive each day with anasarca
+   - renally dose all meds
+   - renal us unremarkable
+   -will formally consult renal, but likely not a good candidate for HD
+   .
+   # GI bleed/elevated INR: Pt with known diverticulosis and internal
+   hemorrhoids who presented after being found down with blood around her
+   mouth, INR of 10 and BRBPR now s/p 4units FFP with ongoing hypotension.
+   Hct 24 (three point drop from yesterday). EGD with no active source of
+   bleeding.
+   - not actively bleeding, does have guaiac pos stool
+   - maintain active type and screen
+   - will not transfuse now in the setting of volume overload. Would
+   maintain transfusion threshold of Hct <21
+   .
+   # CAD/Elevated Troponin: EKGs appear at baseline, troponin leak likely
+   due to strain in setting hypotension, bradycardia and GI bleed.
+   - No need to continue cycling CE, as they have trended down. Add on
+   labs yesterday did not suggest any new ischemia in AM. pt appears to
+   have had an NSTEMI/Demand ischemia
+   - holding ASA & Coumadin due to GI bleed
+   - holding BB & Statin due to GI bleed
+   .
+   #Elevated LFT's- likely [**12-31**] ischemia
+   - will trend for resolution and maintain MAPs>65
+   # Elevated Anion Gap: Likely due to acute renal failure and lactic
+   acidosis, AG is 17 this AM, with downward trending lactate.
+   - empiric antiobiotics
+   - sodium bicarb administration to maintain pH above 7.3-7.35 so as to
+   maintain environment in which pressors are active
+   .
+   # Afib s/p CVA: Pt with active GI bleed complicated by elevated INR
+   - holding coumadin, check INR today; last INR was 1.4
+   - hold aspirin
+   - hold BB, hypotensive, req pressors
+   .
+   #Skin sloughing: f/u wound care recs
+   .
+   # Edema: Anasarca of likely due to poor nutrition status but also
+   losing protein in urine.
+   - on tube feeds; nutrition following
+   -consider ACEi if possible
+   -limit boluses
+   .
+   # FEN: NPO with bolus IVF prn
+   - replete electrolytes aggressively
+   -on TF
+   .
+    # Prophylaxis: Pneumoboots
+   # Access: Left Femoral Line, left EJ, a line
+   # Code: Confirmed FULL with family, plan to reassess daily based on
+   clinical progresd
+   # Communication: Family, daughter/son
+   # Disposition: ICU for now.
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**2757-8-4**] 08:30 PM 35 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2757-7-31**] 10:00 AM
+   Arterial Line - [**2757-8-3**] 09:53 PM
+   Prophylaxis:
+   DVT:  pneumoboots
+   Stress ulcer:  PPI
+   VAP:  HOB elevation, mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

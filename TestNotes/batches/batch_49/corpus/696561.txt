@@ -1,0 +1,238 @@
+Chief Complaint:
+   24 Hour Events:
+   Overnight Events:
+   - spoke with neuro: recommended resuming EEG; concerned that patient
+   has not woken up yet (as she is not having active seizures on EEG) and
+   recommending LP to look for infectious etiology as well as MRI to look
+   for watershed infarct. EEG ordered. LP to be performed (? goals of
+   care)
+   - back on pressors (neo)in afternoon
+   - restarted coumadin at 1mg
+   Allergies:
+   Penicillins
+   Rash;
+   Erythromycin Base
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   Unknown; sores
+   Ampicillin
+   Unknown;
+   Lactose
+   Unknown; Abdomi
+   Latex
+   Rash;
+   Adaptic (Topical) (Non-Adherent Bandage)
+   Rash;
+   Amiodarone
+   Hepatic toxicit
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Metoprolol - [**3073-4-1**] 12:02 PM
+   Coumadin (Warfarin) - [**3073-4-1**] 04:46 PM
+   Famotidine (Pepcid) - [**3073-4-1**] 08:00 PM
+   Dilantin - [**3073-4-2**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3073-4-2**] 06:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**75**] AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37.2
+C (99
+   HR: 94 (90 - 107) bpm
+   BP: 110/49(71) {101/49(69) - 128/62(86)} mmHg
+   RR: 27 (12 - 30) insp/min
+   SpO2: 80%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 102.5 kg (admission): 80.1 kg
+   Height: 66 Inch
+    CVP: 12 (12 - 21)mmHg
+   Total In:
+                                                                    718 mL
+                                                                    291 mL
+   PO:
+                                                                     90 mL
+                                                                     30 mL
+   TF:
+                                                                    526 mL
+                                                                    243 mL
+   IVF:
+                                                                    102 mL
+                                                                     17 mL
+   Blood products:
+   Total out:
+                                                                    219 mL
+                                                                     60 mL
+   Urine:
+                                                                    119 mL
+                                                                     60 mL
+   NG:
+                                                                    100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    499 mL
+                                                                    231 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 373 (300 - 373) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 29
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 21 cmH2O
+   SpO2: 80%
+   ABG: ///19/
+   Ve: 10.9 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   436 K/uL
+   7.9 g/dL
+   96 mg/dL
+   3.6 mg/dL
+   19 mEq/L
+   5.1 mEq/L
+   107 mg/dL
+   102 mEq/L
+   136 mEq/L
+   25.6 %
+   7.4 K/uL
+        [image002.jpg]
+                             [**3073-3-29**]  10:18 PM
+                             [**3073-3-29**]  11:21 PM
+                             [**3073-3-30**]  03:29 AM
+                             [**3073-3-30**]  03:47 AM
+                             [**3073-3-30**]  05:57 AM
+                             [**3073-3-30**]  05:45 PM
+                             [**3073-3-31**]  02:19 AM
+                             [**3073-3-31**]  02:38 AM
+                             [**3073-4-1**]  02:12 AM
+                             [**3073-4-2**]  02:44 AM
+   WBC
+   10.8
+   9.7
+   8.1
+   7.4
+   Hct
+   27.8
+   27.8
+   25.3
+   25.6
+   Plt
+   [**Telephone/Fax (3) 11774**]36
+   Cr
+   3.1
+   3.2
+   3.3
+   3.6
+   TCO2
+   23
+   22
+   26
+   23
+   24
+   22
+   Glucose
+   133
+   124
+   116
+   122
+   89
+   96
+   Other labs: PT / PTT / INR:27.7/31.9/2.7, CK / CKMB /
+   Troponin-T:9/2/0.03, ALT / AST:[**6-6**], Alk Phos / T Bili:60/0.2, Amylase
+   / Lipase:/47, Differential-Neuts:72.6 %, Lymph:14.7 %, Mono:6.6 %,
+   Eos:5.9 %, Fibrinogen:499 mg/dL, Lactic Acid:1.7 mmol/L, Albumin:2.7
+   g/dL, LDH:202 IU/L, Ca++:8.1 mg/dL, Mg++:2.1 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+   86 y/o female with hx CAD s/p CABG, Afib, with severe AS s/p
+   valvuloplasty, diastolic CHF, colonic adenocarcinoma, chronic c.diff,
+   admitted with new onset tonic clonic seizures, who subsequently flashed
+   on the floor in the setting of holding lasix. Course complicated by
+   subclinical seizures and deteriorating mental status, aspiration
+   pneumonia, now w/respiratory acidosis and failure resulting in
+   intubation ([**3-23**]), ARF, hypotension requiring phenylephrine. Being
+   transferred to CCU at request of family and consulting cardiologist.
+   .
+   # Aortic Stenosis: Pt with known severe aortic stenosis s/p
+   valvuloplasty in [**12-18**]. She was initially on the CCU service early in
+   her hospitalization in the setting of flash pulmonary edema when her
+   lasix were held. Now, she is intubated in the ICU and appears very
+   fluid overloaded on physical exam. Pt has not responded to IV lasix.
+   - holding on further diuresis
+   - continue to closely monitor volume status
+   .
+   # Atrial Fibrillation: Pt has good control of HR on beta blockade and
+   digoxin.
+   - continue metoprolol tartrate 25 mg TID
+   - continue digoxin 0.0625 mg daily
+   - coumadin was being held for ?supratherapeutic INR; INR subtherapeutic
+   this AM; restart heparin gtt and coumadin
+   .
+   # Coronary Artery Disease: Pt is s/p CABG [**75**]/[**3066**].
+   - continue metoprolol as above
+   - continue aspirin 81 mg daily, atorvastatin 40 mg daily
+   .
+   # Altered Mental Status: Per prior notes, pt has had seizures, loaded
+   with dilantin and ativan PRN prior to admission with poor mental
+   status. Despite loading dose continued to have sub clinical seziures on
+   EEG. Medication regimen changed, currently on phenytoin and
+   phenobarbitol.
+   - continue phenytoin and Phenobarbital, adjusting per neuro recs
+   - appreciate neuro recs
+   .
+   # Respiratory Failure: Now, s/p trach.
+   - trach in place
+   - continue albuterol/atrovent PRN
+   .
+   # Pressor Requirement: Able to wean down this morning.
+   - will lower MAP goal to try to keep pt off of pressors
+   .
+   # Acute Renal Failure: Still worsening. Per previous notes, renal
+   believes that this is ATN. Recommend to not diurese or give IVF's.
+   - holding on further diuresis, as above
+   - continue to monitor fluid status otherwise
+   .
+   # Hypothyroidism:
+   - continue synthroid 75 mcg daily
+   .
+   # Fevers: Per notes, pt completed vanc/cefepime 7 day course for
+   pneumonia as well as 3 days course of abx for positive UA. Afebrile
+   overnight.
+   - f/u cx data
+   - follow fever curve
+   - stool for c.diff
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3073-4-2**] 04:39 AM 35 mL/hour
+   Glycemic Control:  Comments: ISS
+   Lines:
+   Arterial Line - [**3073-3-20**] 04:39 PM
+   Multi Lumen - [**3073-3-25**] 01:49 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

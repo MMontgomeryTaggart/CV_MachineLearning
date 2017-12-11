@@ -1,0 +1,153 @@
+Admission Date:  [**2939-8-27**]              Discharge Date:   [**2939-8-31**]
+
+Date of Birth:  [**2889-4-2**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Amaryl / Metformin / Lipitor
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+mild DOE and LE claudication
+
+Major Surgical or Invasive Procedure:
+[**8-27**] CABGx4(LIMA-LAD,SVG-Diag,SVG-OM,SVG-PDA)
+
+
+History of Present Illness:
+50 yo M with mild DOE and abnormal ETT, cardiac cath with 3VD
+referred for surgical revascularization.
+
+Past Medical History:
+CAD
+HTN,Hyperlipidemia,DM with foot neuropathy
+neuropathy,GERD,Claudication,Mild carotid dis,Mod.ETOH,smoking
+20PY(quit3/07),drug induced hepatitis,s/p left foot and knee
+[**Doctor First Name 97**]., tonsillectomy, plantar fasciitis.
+
+Social History:
+quit toboacco [**2-4**], 20 pack-year history.
+moderate to heavy etoh in the past. Very little since [**6-6**].
+Works as a Trader
+lives with significant other
+
+
+Family History:
+unknown.
+
+Physical Exam:
+NAD HR 86, RR 10, BP 188/100
+RRR no M/R/G
+Lungs CTAB ant/lat
+Abdomen soft/NT/protuberent
+Extrem warm, no edema
+No varicosities, 1+dp/pt pulses
+
+
+Pertinent Results:
+[**2939-8-31**] 07:25AM BLOOD Hct-30.2*
+[**2939-8-29**] 06:25AM BLOOD WBC-11.0 RBC-3.34* Hgb-10.9* Hct-30.2*
+MCV-90 MCH-32.6* MCHC-36.1* RDW-13.4 Plt Ct-104*
+[**2939-8-29**] 06:25AM BLOOD Plt Ct-104*
+[**2939-8-28**] 03:19AM BLOOD Plt Ct-176
+[**2939-8-31**] 07:25AM BLOOD UreaN-12 Creat-0.7 K-4.1
+[**2939-8-29**] 06:25AM BLOOD Glucose-284* UreaN-12 Creat-0.8 Na-134
+K-4.3 Cl-98 HCO3-29 AnGap-11
+
+CHEST (PA & LAT)  [**2939-8-30**] 8:47 AM
+No pneumothoraces are seen. There is atelectasis at both lung
+bases, most prominent on the left side. There are low lung
+volumes due to poor inspiratory effort. Very tiny bilateral
+pleural effusions are present. There is no focal consolidation
+or overt pulmonary edema.
+
+
+Brief Hospital Course:
+He was taken to the operating room on [**2939-8-27**] where he
+underwent a CABGx4. He was transferred to the CVICU in critical
+but stable condition on phenylephrine and propofol. He was
+extuabted later that same day. He was transferred to the floor
+on POD #1. He was seen by [**Last Name (un) **] for severe exacerbation of his
+uncontrolled type 2 DM. His lantus dose was increased to 80
+units, and he was asked to follow up with Dr. [**Last Name (STitle) 15383**] at the
+[**Hospital **] Clinic. He did well post operatively and was ready for
+discharge home on POD #4.
+
+Medications on Admission:
+novolog sliding scale
+levemir 60-90 units daily
+cymbalta 60 daily
+prilosec 20 daily
+no doz 200 5-6 times per day
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+2. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H
+(every 12 hours) for 10 days.
+Disp:*20 Packet(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+6. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO
+daily ().
+Disp:*30 Tablet(s)* Refills:*0*
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+8. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: One (1) Tablet
+PO Q4H (every 4 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Levemir 100 unit/mL Solution Sig: Eighty (80) units
+Subcutaneous once a day.
+10. Novolog Flexpen 100 unit/mL Insulin Pen Sig: as dir
+Subcutaneous four times a day.
+11. Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+CAD
+HTN,Hyperlipidemia,DM with foot neuropathy
+neuropathy,GERD,Claudication,Mild carotid dis,Mod.ETOH,smoking
+20PY(quit3/07),drug induced hepatitis,s/p left foot and knee
+[**Doctor First Name 97**]., tonsillectomy, plantar fasciitis.
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds or driving until follow up with
+surgeon or while taking narcotic pain medicine.
+
+Followup Instructions:
+Dr. [**First Name (STitle) 399**] 2 weeks
+Dr. [**Last Name (STitle) 15383**] 1 week
+Dr. [**Last Name (STitle) **] 2 weeks
+Dr. [**Last Name (STitle) **] 4 weeks
+
+
+
+Completed by:[**2939-9-1**]
+
+DOC CLASS

@@ -1,0 +1,180 @@
+CCU Intern Progress Note:
+   24-hour events
+   - +cough, afebrile on Vanc/Zosyn
+   - SBPs mostly in 100s, off pressors
+   - no PICC yesterday b/c of fever within 24 hrs
+   - CXR (portable) - atelectasis of RML/R, deviated trachea, distended
+   bowel loops
+   - AXR (lateral decubitus) - no free air, dilated bowel loops, however,
+   no abd pain, small/loose BM --> follow w AXRs for now + colace, senna,
+   simethicone
+   - UCx --> E. coli UTI (pan-sensitive)
+   Medications
+   Unchanged
+   Physical Exam
+   BP 93-114/55-77
+   HR 70-92 (V-paced)
+   RR 17, SaO2 100% on 4L O2
+   Tmax F last 24 hours: 100 F
+   T current F: 99 F
+   Previous day:
+   Fluid balance: 550 mL
+   Intake: 1,270 mL
+   Output: 720 mL
+   Today:
+   Fluid balance: 19 mL
+   Intake: 229 mL
+   Output: 210 mL
+   GENERAL: Elderly woman on nasal canula, talking, but confused, not able
+   to follow commands, NAD
+   NECK: Supple, JVP not well visualized, did not appear elevated
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. [**3-2**] early systolic murmur. Possible cardiac rub.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Loud rhonchi and small wheezes on
+   left.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs
+   256
+   8.2
+   98
+   1.1
+   29
+   4.1
+   30
+   105
+   142
+   24.6
+   4.4
+        [image002.jpg]
+                            [**2598-2-14**]  08:57 AM
+                            [**2598-2-14**]  04:48 PM
+                            [**2598-2-14**]  08:05 PM
+                            [**2598-2-15**]  04:22 AM
+                            [**2598-2-15**]  05:26 PM
+                            [**2598-2-16**]  03:48 AM
+                            [**2598-2-17**]  04:35 AM
+   WBC
+   8.4
+   6.8
+   4.8
+   4.4
+   Hgb
+   8.5
+   8.3
+   8.0
+   8.2
+   Hct (Serum)
+   25.0
+   24.4
+   22.8
+   23.9
+   24.6
+   Plt
+   [**Telephone/Fax (3) 7525**]56
+   INR
+   1.2
+   PTT
+   34.8
+   Na+
+   139
+   138
+   141
+   142
+   K + (Serum)
+   3.5
+   3.3
+   3.4
+   4.8
+   4.2
+   4.1
+   Cl
+   99
+   100
+   105
+   105
+   HCO3
+   29
+   29
+   30
+   29
+   BUN
+   29
+   30
+   27
+   30
+   Creatinine
+   1.0
+   1.1
+   1.1
+   1.1
+   Glucose
+   [**Telephone/Fax (3) 7526**]8
+   CK
+   47
+   50
+   Troponin T
+   0.03
+   0.03
+   ABG: /  /  / 29 /    Values as of [**2598-2-17**] 04:35 AM
+   Assessment and Plan
+   89F w chronic diastolic heart failure (EF 70% on echo in [**11/2597**]) with
+   several recent admissions for CHF, severe MR, CAD (MI in [**2570**]), HTN,
+   dyslipidemia who presented from [**Hospital3 1115**] with shortness of breath
+   likely [**2-26**] acute CHF exacerbation from PNA and UTI, transferred to CCU
+   for hypotension requiring phenylephrine.
+   .
+   # Acute on chronic diastolic heart failure: Sx, exam, labs, imaging
+   suggest exacerbation of her diastolic heart failure. Respiration
+   improved with diuresis.
+   - continue carvedilol
+   - continue furosemide 40mg PO daily
+   - monitor creatinine
+   - monitor I/O closely
+   - wean off supplemental oxygen
+   - recheck BNP upon discharge
+   # PNA: 02 sats improved. Unable to get sputum cultures, will continue
+   for 10 day antibiotic course on vanco and pip-tazo; afebrile.
+   - continue pip-tazo and vanco
+   - suplemental O2 as needed
+   - speech and swallow eval if continues to have difficulty swallowing
+   -
+   # UTI: pyuria, unable to obtain sx; Urine Cx
+ E. coli (pan-sensitive)
+   - continue pip-tazo (for pna as well)
+   .
+   # Distended abdomen: dilated bowel loops on AXR, no sxs of free air.
+   Concerning for partial impaction.
+   - serial abd exams
+   - serial AXRs
+   - more aggressive bowel regimen
+   .
+   # CORONARIES:  history of MI in [**2570**]. No sign of active ischemia
+   currently.
+   - continue home aspirin, statin
+   .
+   # RHYTHM:  v-paced, s/p pacer for 3rd-degree AV block in [**2584**].
+   - telemetry
+   .
+   # History of hypertension: Hypotensive on admission likely [**2-26**] sepsis,
+   in light of infections (PNA/UTI). S/p phenylephrine drip. No need for
+   pressors at this time.
+   - fluid bolus if needed, but caution [**2-26**] CHF
+   - on carvedilol
+   - will restart lisinopril once BP more stable
+   .
+   # Dyslipidemia: hypercholesterolemia in [**2594**].
+   - continue statin
+   .
+   FEN:  thickened liquids, aspiration precautions
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with hep SC
+   CODE: DNR/DNI
+   DISPO: CCU care for now
+
+
+DOC CLASS

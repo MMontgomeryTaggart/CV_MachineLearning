@@ -1,0 +1,178 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - ENT packed bilateral nares; plan for 5 days of packing, then moisten
+   with saline and pull out if patient stabalized
+   - received total 7u FFP, 1u PRBCs
+   - SQ methylnaltrexone given, trace stool
+   - abd more distended, bladder pressure overnight 21
+   - KUB with ground glass ascites, less distended stomach air bubble, no
+   signs of free air or obstruction
+   - lactate trending upwards into 8s; unclear etiology at this point, but
+   probably bowel related. Could be secondary to liver disease and
+   inability to clear lactate.
+   Allergies:
+   Tums (Oral) (Calcium Carbonate)
+   Rash;  itchines
+   Last dose of Antibiotics:
+   Linezolid - [**2864-11-17**] 12:00 AM
+   Metronidazole - [**2864-11-17**] 04:00 AM
+   Meropenem - [**2864-11-17**] 05:48 AM
+   Infusions:
+   Dopamine - 5 mcg/Kg/min
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Norepinephrine - 0.22 mcg/Kg/min
+   KCl (CRRT) - 2 mEq./hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2864-11-16**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2864-11-17**] 07:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 36.8
+C (98.2
+   HR: 117 (103 - 133) bpm
+   BP: 90/45(60) {83/40(56) - 116/54(75)} mmHg
+   RR: 26 (0 - 31) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 91.4 kg (admission): 80 kg
+   Height: 64 Inch
+    CVP: 293 (10 - 293)mmHg
+   CO/CI (Fick): (19 L/min) / (10.3 L/min/m2)
+   Bladder pressure: 21 (16 - 21) mmHg
+   Mixed Venous O2% Sat: 89 - 89
+   Total In:
+                                                                  9,055 mL
+                                                                  2,376 mL
+   PO:
+   TF:
+   IVF:
+                                                                  5,161 mL
+                                                                  1,635 mL
+   Blood products:
+                                                                  3,444 mL
+                                                                    562 mL
+   Total out:
+                                                                  6,019 mL
+                                                                  2,192 mL
+   Urine:
+                                                                     12 mL
+   NG:
+                                                                  1,400 mL
+                                                                    300 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,036 mL
+                                                                    184 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 360 (360 - 400) mL
+   RR (Set): 30
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 60%
+   RSBI Deferred: FiO2 > 60%
+   PIP: 25 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 30 cmH2O/mL
+   SpO2: 94%
+   ABG: 7.28/42/99.[**Numeric Identifier 237**]/19/-6
+   Ve: 10.8 L/min
+   PaO2 / FiO2: 167
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   74 K/uL
+   9.4 g/dL
+   71 mg/dL
+   2.4 mg/dL
+   19 mEq/L
+   4.2 mEq/L
+   25 mg/dL
+   99 mEq/L
+   138 mEq/L
+   25.6 %
+   9.1 K/uL
+        [image002.jpg]
+                            [**2864-11-16**]  03:10 PM
+                            [**2864-11-16**]  05:13 PM
+                            [**2864-11-16**]  09:11 PM
+                            [**2864-11-16**]  09:14 PM
+                            [**2864-11-16**]  09:22 PM
+                            [**2864-11-17**]  01:18 AM
+                            [**2864-11-17**]  01:24 AM
+                            [**2864-11-17**]  03:53 AM
+                            [**2864-11-17**]  04:12 AM
+                            [**2864-11-17**]  04:37 AM
+   WBC
+   9.1
+   Hct
+   25.0
+   23.5
+   25.6
+   25.6
+   Plt
+   81
+   80
+   74
+   Cr
+   3.0
+   2.4
+   TCO2
+   23
+   22
+   21
+   21
+   21
+   Glucose
+   81
+   71
+   Other labs: PT / PTT / INR:26.4/47.7/2.6, CK / CKMB /
+   Troponin-T:798//0.24, ALT / AST:314/718, Alk Phos / T Bili:199/29.2,
+   Fibrinogen:117 mg/dL, Lactic Acid:8.6 mmol/L, Albumin:3.8 g/dL, LDH:675
+   IU/L, Ca++:11.2 mg/dL, Mg++:2.4 mg/dL, PO4:5.1 mg/dL
+   Assessment and Plan
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+    Right arm hematoma
+ HEPATIC ENCEPHALOPATHY
+ HYPERTENSION, BENIGN
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ COAGULOPATHY
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2864-11-14**] 09:00 AM
+   Cordis/Introducer - [**2864-11-14**] 11:53 AM
+   Arterial Line - [**2864-11-14**] 04:00 PM
+   Dialysis Catheter - [**2864-11-15**] 02:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

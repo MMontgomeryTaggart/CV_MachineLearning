@@ -1,0 +1,248 @@
+Chief Complaint:
+   24 Hour Events:
+   -In AM on [**11-9**]:  ABG: 7.41/41/149; repeat ABG later 7.41/42/174.
+   -[**Month/Year (2) **] [**Name (NI) 161**] and aware patient may be intubated next time he sees
+   him (not coming in since has URI)
+   -decided not to intubate as patient continued to do well; patient
+   refuses intubation unless he is
+actively dying
+ and can
+t breath.
+   Understands risks.
+   -got ativan for anxiety
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown;
+   Hydantoins
+   Unknown;
+   Trimethadione/Paramethadione
+   Unknown;
+   Phenacemide
+   Unknown;
+   Barbiturates
+   Unknown;
+   Primidone
+   Unknown;
+   Gadolinium-Containing Agents
+   Unknown;
+   Mysoline (Oral) (Primidone)
+   Unknown;
+   Last dose of Antibiotics:
+   Cefipime - [**3080-11-9**] 04:10 PM
+   Vancomycin - [**3080-11-9**] 08:30 PM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3080-11-9**] 08:16 AM
+   Heparin Sodium (Prophylaxis) - [**3080-11-9**] 11:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3080-11-10**] 07:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36.9
+C (98.5
+   HR: 85 (80 - 100) bpm
+   BP: 125/62(79) {101/55(65) - 136/83(100)} mmHg
+   RR: 29 (22 - 38) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 61 kg (admission): 61 kg
+             Total In:
+                                                                    877 mL
+                                                                     70 mL
+   PO:
+             TF:
+   IVF:
+                                                                    597 mL
+                                                                     70 mL
+   Blood products:
+   Total out:
+                                                                    625 mL
+                                                                    145 mL
+   Urine:
+                                                                    625 mL
+                                                                    145 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    252 mL
+                                                                    -75 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: Standby
+   Vt (Spontaneous): 851 (566 - 851) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 25
+   PEEP: 4 cmH2O
+   FiO2: 50%
+   PIP: 18 cmH2O
+   SpO2: 99%
+   ABG: 7.41/42/174/23/2
+   Ve: 10.1 L/min
+   PaO2 / FiO2: 435
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   176 K/uL
+   11.7 g/dL
+   99 mg/dL
+   0.9 mg/dL
+   23 mEq/L
+   4.5 mEq/L
+   40 mg/dL
+   104 mEq/L
+   138 mEq/L
+   36.2 %
+   7.9 K/uL
+        [image002.jpg]
+                            [**3080-11-8**]  05:10 PM
+                            [**3080-11-9**]  04:31 AM
+                            [**3080-11-9**]  11:13 AM
+                            [**3080-11-9**]  11:37 AM
+                            [**3080-11-9**]  04:25 PM
+                            [**3080-11-9**]  09:54 PM
+                            [**3080-11-10**]  05:14 AM
+   WBC
+   7.0
+   7.9
+   Hct
+   37.3
+   36.2
+   Plt
+   156
+   176
+   Cr
+   0.8
+   0.9
+   0.9
+   TropT
+   <0.01
+   TCO2
+   29
+   28
+   26
+   28
+   Glucose
+   164
+   134
+   99
+   Other labs: CK / CKMB / Troponin-T:146/3/<0.01, Differential-Neuts:79.7
+   %, Lymph:13.8 %, Mono:6.2 %, Eos:0.1 %, Ca++:9.0 mg/dL, Mg++:2.2 mg/dL,
+   PO4:4.3 mg/dL
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**3080-11-10**]):
+Feces negative for C.difficile toxin A & B by EIA.
+GRAM STAIN (Final [**3080-11-9**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+[**11-8**]: Legionella antigen negative
+DIRECT INFLUENZA A ANTIGEN TEST (Final [**3080-11-8**]):
+      Negative for Influenza A.
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**3080-11-8**]):
+      Negative for Influenza B.
+Blood Culture, Routine (Preliminary):
+      GRAM POSITIVE COCCUS(COCCI).    IN CLUSTERS.
+   Aerobic Bottle Gram Stain (Final [**3080-11-9**]):
+      GRAM POSITIVE COCCI IN CLUSTERS.
+[**11-8**]: Blood culture pending
+[**11-8**]: Urine culture pending
+   Assessment and Plan
+   Assessment and Plan
+   77yo gentleman with h/o presumed COPD as well as restriction from
+   scoliosis and left hemidiaphragm elevation admitted with respiratory
+   distress in the setting of fever and cough.
+   .
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**]):
+   Patient has acute decompensation superimposed on chronic lung disease.
+   No PFTs in OMR, but likely has predominantly restrictive physiology.
+   Acute process may have been aspiration pneumonia vs pneumonitis, viral
+   infection, pneumonia, or COPD exacerbation.  Contributors to his poor
+   baseline lung function include COPD as well as severe scoliosis and
+   left hemidiaphragm elevation.   Only on intermittent BIPAP overnight,
+   now on facemask
+   - Wean to nasal cannula as tolerated
+   - No need to repeat ABG as respiratory status continues to improve
+   - continue vanc/cefepime for possible aspiration vs health care
+   associated pneumonia
+   - Start prednisone 60mg QD; d/c solumedrol
+   - continue atrovent and albuterol nebs, standing q6 and prn
+   - Can consider repeating CT chest when more stable to evaluate
+   underlying disease
+   - Follow-up sputum culture speciation
+   - guafenesin, hyoscyamine to decrease oral secretions
+   .
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN):
+   Possible sources include pneumonia, UTI, viral infection (such as
+   influenza), pneumonitis, or C diff.  Does not report diarrhea, but has
+   had significant C diff infections in the past.  Not history of
+   quinolone resistant UTIs in the past.  Blood culture from ED now
+   growing GPCs in clusters, although this could be contaminant.  Max temp
+   in 24 hours is 37.2
+   - Urine culture consistent with fecal contamination
+   - Continue coverage with vanc and cefepime for now
+   - influenza neg and tamiflu stopped
+   #URINARY TRACT INFECTION:
+   Culture shows psuedomonas and E.Coli as preliminary read.
+   --Await final speciation and antibiotic sensitivity
+   --Continue broad spectrum antibiotics for now
+   # Tachycardia:  Likely due to respiratory distress and dehydration (he
+   has concentrated urine, elevated BUN, and hct above baseline).
+   Received gentle volume resuscitation and tachycardia improved.  HR this
+   morning in the 70s.
+   - Gentle fluids if needed (but careful not to volume overload)
+   - Continue to monitor
+   .
+   # Elevated cardiac biomarkers: No longer acute issue
+   EKG is reassuring and he denies chest pain.  Likely has some demand
+   ischemia from respiratory distress and tachycardia.
+   .
+   # Hyperkalemia:  resolved with repeat blood draws.
+   .
+ .H/O PARKINSON'S DISEASE
+   - continue sinemet
+   - continue hyoscyamine, presumably to decrease oral secretions
+   .
+   # AFib:  continue amiodarone; not on anticoagulation given h/o GI bleed
+   .
+   # ? h/o Hyperlipidemia:
+   - continue statin and ASA
+   .
+   # h/o DVTs:
+   - monitor exam given h/o line-associated and unprovoked DVTs in the
+   past
+   - not on anticoagulation given h/o GI bleed
+   .
+   # Anxiety:  ativan prn
+   ICU Care
+   Nutrition: Resume tube feeds
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3080-11-8**] 01:22 PM
+   20 Gauge - [**3080-11-8**] 01:23 PM
+   Prophylaxis:
+   DVT: Heparin SC TID
+   Stress ulcer: PPI
+   VAP:
+   Comments: Bowel regimen with senna and colace, pain control with
+   Tylenol prn
+   Communication:  Comments: Patient, [**Name (NI) 5892**] [**Name (NI) 200**] [**Name (NI) 12078**] is HCP: (cell)
+   [**Telephone/Fax (3) 12079**], [**Telephone/Fax (1) 12080**].  [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] is [**Telephone/Fax (1) 12081**]
+   Code status: Full Code (confirmed with patient)
+   Disposition: ICU
+
+
+DOC CLASS

@@ -1,0 +1,223 @@
+Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - START [**2566-11-17**] 10:30 PM
+ ENDOSCOPY - At [**2566-11-17**] 11:00 PM
+   - on presentation vomitting blood and hematochezia
+   - total of 3 U pRBC OSH and here, 1 FFP
+   -banded 2 esophogeal varices
+   Allergies:
+   Penicillins
+   Unknown; itchin
+   Sulfa (Sulfonamides)
+   chills;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2566-11-17**] 10:00 PM
+   Infusions:
+   Octreotide - 50 mcg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2566-11-17**] 09:45 PM
+   Midazolam (Versed) - [**2566-11-17**] 11:00 PM
+   Fentanyl - [**2566-11-17**] 11:00 PM
+   Other medications:
+   Sucralfate
+   ISS
+   Ciprofloxacin
+   Pantoprazole
+   Octreotide
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2566-11-18**] 06:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.4
+C (95.7
+   Tcurrent: 35
+C (95
+   HR: 76 (58 - 78) bpm
+   BP: 88/49(60) {82/43(56) - 102/50(67)} mmHg
+   RR: 15 (11 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+           Total In:
+                                                                  3,413 mL
+                                                                    388 mL
+   PO:
+           TF:
+   IVF:
+                                                                  2,210 mL
+                                                                     44 mL
+   Blood products:
+                                                                  1,203 mL
+                                                                    344 mL
+   Total out:
+                                                                    100 mL
+                                                                     90 mL
+   Urine:
+                                                                    100 mL
+                                                                     90 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,313 mL
+                                                                    298 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: 7.39///20/
+   Physical Examination
+   Gen: Pleasant, chronically illappearing male in no distress, able to
+   talk in full sentences
+   HEENT: + scleral icterus, MM  dry
+   NECK: supple, no elevation in JVP
+   CV: bradycardic, regular, 2/6 SEM
+   LUNGS: clear bilaterally
+   ABD: distended but does not appear to have large amount of ascities.,
+   nontender to palpation, RUQ with biliary drain with oozing around drain
+   or yellowish fluid
+   EXT: dp pulses 2+ bilaterally
+   SKIN: + jaundice
+   NEURO: alert, interactive, face symmetric, moving all extremities
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   201 K/uL
+   10.5 g/dL
+   246 mg/dL
+   1.0 mg/dL
+   20 mEq/L
+   4.8 mEq/L
+   36 mg/dL
+   99 mEq/L
+   134 mEq/L
+   29.3 %
+   14.5 K/uL
+        [image002.jpg]
+   Cr 0.8 to 1.0
+   EGD: varices in distal third of esophogal with stimata of bleeding.
+                            [**2566-11-17**]  09:07 PM
+                            [**2566-11-18**]  05:18 AM
+   WBC
+   20.0
+   14.5
+   Hct
+   26.7
+   29.3
+   Plt
+   266
+   201
+   Cr
+   1.0
+   Glucose
+   246
+   Other labs: PT / PTT / INR:20.2/40.1/1.9, ALT / AST:36/67, Alk Phos / T
+   Bili:87/4.4, Differential-Neuts:88.5 %, Lymph:6.6 %, Mono:4.6 %,
+   Eos:0.2 %, Lactic Acid:1.3 mmol/L, Albumin:2.4 g/dL, LDH:151 IU/L,
+   Ca++:7.3 mg/dL, Mg++:1.7 mg/dL, PO4:5.0 mg/dL
+   Assessment and Plan
+   This is a 71 y/o man with PSC complicated by cirrhosis with known
+   esophageal varices presenting with melenotic stools and hct drop.
+   .
+   # GI bleeding: EGD performed on arrival to the ICU demonstrated cherry
+   red spots (stigmata of recent bleeding). Two varices were banded during
+   EGD.
+   - appreciate liver input and prompt EGD
+   - continue octreotide gtt
+   - protonix 40 mg iv bid
+   - maintain active type & cross
+   - 2 18g pivs
+   - serial hcts (2 u given on arrival to [**Hospital1 **], next hct with AM labs at
+   0400)
+   - cipro for sbp prophlyaxis in setting of variceal bleeding
+   - reverse coagulopathy for INR ~ 1.5 (got FFP 2 U with procedure,
+   repeat with AM labs)
+   .
+   # Hypotension: Related to blood loss as above. Received a total of 6 L
+   NS (4 l at [**Location (un) 1375**] and 2 L here on arrival) in addition to total of 3 U
+   prbcs. Arterial line placed by Liver team prior to endoscopy with SBPs
+   ~ [**9-22**] points higher than cuff pressures.
+   - continue to trend Bps, stabilized for now
+   - use PRBCs preferably if hypotensive
+   - hold spironolactone and nadolol until stabilized
+   .
+   # PSC with cirrhosis: Has PSC which caused cirrhosis.
+   - needs paracentesis in AM to eval for SBP, empirically covered for now
+   with ciprofloxacin
+   - add on LFTs to labs sent on arrival
+   - restart ursodiol when able to take POs
+   - continue lactulose in AM when able to take POs
+   - for cirrhosis, will hold spironolactone/lasix for now given
+   hypotension
+   - discuss with Liver RUQ drain and role for replacement (just replaced
+   last admit)
+   .
+   # Leukocytosis: WBC up to 20 with left shift. No fevers as of yet.
+   Cover with ciprofloxacin for SBP as above. Could also reflect stress
+   from GI bleeding. Continue to monitor.
+   .
+   # elevated blood sugar: Likely related to D5 infusion (?). Sliding
+   scale insulin with fingersticks four times daily for now.
+   .
+   # MEtabolic acidosis: Likely related to bicarb losses in diarrhea
+   today. Continue to trend. Check lactate with AM labs.
+   .
+   # anemia: Related to GI bleeding as above.
+   .
+   # Ulcerative colitis: Restart mesalamine in AM when able to take POs.
+   .
+   # CAD s/p CABG: Had recent stress test with fixed defect along anterior
+   wall and septum.
+   - restart statin in AM when taking meds
+   - send cardiac enzymes with AM labs, if positive likely demand in
+   setting of hypotension & anemia
+   - hold aspirin for now until bleeding stabilized
+   .
+   # Depression/ADHD: Restart sertraline and ritalin when able to take
+   POs.
+   .
+   # FEN: npo for now with sips, clears in AM if no signs of further
+   bleeding, replete lytes prn
+   .
+   # PPx: pneumoboots, no need for bowel meds currently, [**Hospital1 **] ppi.
+   .
+   # ACcess: 2 18 g pivs, arterial line (right)
+   .
+   # CODE: full, confirmed with wife
+   .
+   # COMM: with patient and wife, [**Name (NI) 6918**] [**Telephone/Fax (1) 6919**]
+   .
+   # DISP: icu care until stable hct
+ CIRRHOSIS OF LIVER, OTHER
+ ESOPHAGEAL VARICES
+ CHOLANGITIS
+ ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ HERNIA, INGUINAL / FEMORAL
+ HYPOTENSION (NOT SHOCK)
+ LEUKOCYTOSIS
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2566-11-17**] 10:30 PM
+   18 Gauge - [**2566-11-17**] 11:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

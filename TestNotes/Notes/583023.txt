@@ -1,0 +1,150 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   None
+   S: No CP, SOB, palpitations, lightheadedness.
+   Allergies:
+   Megace (Oral) (Megestrol Acetate)
+   Unknown;
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Latex
+   Rash;
+   Reglan (Oral) (Metoclopramide Hcl)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2643-2-7**] 05:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.8
+C (98.2
+   HR: 59 (42 - 68) bpm
+   BP: 113/53(67) {90/33(50) - 140/69(75)} mmHg
+   RR: 13 (11 - 22) insp/min
+   SpO2: 96%
+   Heart rhythm: PAT (Paroxysmal Atrial Tachycardia)
+   Wgt (current): 58 kg (admission): 58 kg
+             Total In:
+                                                                    560 mL
+                                                                    783 mL
+   PO:
+                                                                    560 mL
+                                                                    200 mL
+   TF:
+   IVF:
+   583 mL
+   Blood products:
+   Total out:
+                                                                  1,300 mL
+                                                                    300 mL
+   Urine:
+                                                                  1,300 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -740 mL
+                                                                    483 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///26/
+   Physical Examination
+   Gen: Thin elderly female in NAD . Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. MM slightly dry.
+   Neck: Supple with no JVD
+   CV: Irregularly irregular rhythm. No m/r/g.
+   Chest: Bibasilar crackles.
+    Abd: NABS. Soft, NTND. Incisional hernia NT. pin-point fistula covered
+   with clean, dry dressing.
+   Ext: No edema, WWP.
+   Neuro: A+OX3
+   Labs / Radiology
+   262 K/uL
+   9.0 g/dL
+   104 mg/dL
+   0.9 mg/dL
+   26 mEq/L
+   4.2 mEq/L
+   23 mg/dL
+   106 mEq/L
+   140 mEq/L
+   27.0 %
+   5.8 K/uL
+        [image002.jpg]
+                             [**2643-2-7**]  04:23 AM
+   WBC
+   5.8
+   Hct
+   27.0
+   Plt
+   262
+   Cr
+   0.9
+   Glucose
+   104
+   Other labs: PT / PTT / INR:20.2/27.7/1.9, Ca++:8.5 mg/dL, Mg++:1.9
+   mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   86yo F with h/o AF on coumadin and [**Hospital 4727**] transferred to the CCU for
+   tachy-brady syndrome and need for likely pacemaker placement.
+   .
+   1. Rhythm:
+   Patient has likely tachy-brady syndrome, with plan to get pacemaker due
+   to symptomatic sinus arrest. Since holding beta blocker and
+   propafenone, HR improved to 50s-60s with less frequent and shorter
+   duration (<=2.25sec) pauses on tele.
+   - PPM today
+   - F/u EP recs re: post-procedure antiarrhythmics. Likely will start
+   amiodarone.
+   - Until procedure, keep pacer pads on, and administer atropine for any
+   further symptomatic bradycardia (has not been needed thus far).
+   .
+   2. Anemia: Hct down 5 pts this am, although still c/w baseline of high
+   20s to low 30s. No clear source of blood loss, vitals stable.
+   - Guaiac stools
+   - Hemolysis labs normal
+   - PM hct
+   .
+   3. Coronary Artery Disease:
+   Nonobstructive CAD on cardiac cath at OSH in [**2639**].
+   - Determine why pt not on 81mg ASA daily, and consider starting if no
+   contraindication.
+   .
+   4. Pump:
+   TTE in [**5-1**] was notable for MR only. Appears euvolemic or slightly
+   hypovolemic on exam.
+   - I/O goal even to 500ml positive, less if develops resp symptoms.
+   .
+   5. Entero-cutaneous fistula:
+   - Continue wound care as she does at home and monitor
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2643-2-6**] 11:00 AM
+   22 Gauge - [**2643-2-6**] 05:28 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Likely call out to floor after procedure
+
+
+DOC CLASS

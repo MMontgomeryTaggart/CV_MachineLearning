@@ -1,0 +1,94 @@
+Admission Date:  [**3132-2-5**]       Discharge Date:  [**3132-2-8**]
+
+
+Service:  PURPLE SURGERY
+
+CHIEF COMPLAINT:  Port-A-Cath insertion into left subclavian
+arteries status post removal and arterial stent.
+
+HISTORY OF PRESENT ILLNESS:  Ms. [**Known patient lastname 24091**] is an 85 year-old
+woman who presents with severe depression and requiring
+intravenous access.  She presents now for Port-A-Cath
+placement.
+
+PAST MEDICAL HISTORY:
+1.  Breast cancer.
+2.  Mitral regurgitation.
+3.  Status post left TKR.
+4.  Status post hip fracture.
+5.  Depression.
+6.  Urinary incontinence.
+7.  Glaucoma.
+8.  Anxiety.
+
+MEDICATIONS:  Amlodipine 2.5 mg po q day, calcium carbonate
+650 mg po t.i.d., Famotidine 20 mg po b.i.d., Ritalin 2.5 mg
+po b.i.d., Risperdal 0.5 mg po q day, Detrol 2 mg po q day,
+Dulcolax and Colace prn.
+
+ALLERGIES:  Morphine, shellfish, sulfa.
+
+SOCIAL HISTORY:  The patient lives at [**Hospital 99**] Rehab.
+
+PHYSICAL EXAMINATION:  Vital signs pulse 75.  Blood pressure
+120/64.  Respirations 15.  O2 sat 99% on room air.  Heart is
+regular rate and rhythm.  Lungs are clear to auscultation
+bilaterally.  Abdomen soft, nontender, nondistended.
+Extremities are without clubbing, cyanosis or edema.
+
+HOSPITAL COURSE:  Ms. [**Known patient lastname 24091**] was taken to the Operating Room
+on [**3132-2-5**] for attempted Port-A-Cath placement.  The
+procedure was complicated by arterial placement of the
+dilator.  The patient was subsequently transferred to the
+catheterization laboratory where the dilator was removed
+and stent placed.  She was administered thrombin, Protamine
+and aspirin following the procedure.  She did well. She was
+monitored in the Intensive Care Unit overnight without any
+evidence of bleeding.  Ms. [**Name14 (STitle) 24092**] did have some episodes of
+bradycardia and was monitored closely.  She was
+evaluated by cardiology and Gerontology who felt this was a
+sinus rhythm and recommended follow up as an outpatient.  By
+[**3132-2-8**] the patient continued to do well.  Her hematocrit
+remained stable.  She was felt stable at this time for
+discharge back to her rehabilitation facility.
+
+PHYSICAL EXAMINATION ON DISCHARGE:  Vital signs temperature
+98.9.  Pulse 68.  Blood pressure 128/76.  Respirations 18.
+O2 sat 95% on room air.  Heart is regular rate and rhythm.
+Lungs are clear to auscultation bilaterally.  Left chest
+wound is dressed and dry.  Abdomen is soft, nontender,
+nondistended, with normoactive bowel sounds.  Extremities are
+without clubbing, cyanosis or edema.
+
+DISCHARGE MEDICATIONS:  Plavix 75 mg po q day, Protonix 40 mg
+po q day, Detrol 2 mg po b.i.d., Risperdal 0.5 mg po q day,
+Ritalin 2.5 mg po b.i.d., aspirin 325 mg po q day, calcium
+carbonate 650 mg po t.i.d., Dulcolax and Colace prn,
+Amlodipine 2.5 mg po q day.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:  Ms. [**Known patient lastname 24091**] is to be discharged to [**Hospital 99**]
+Rehab.
+
+DISCHARGE DIAGNOSES:
+1.  Status post attempted left Port-A-Cath placement with
+subsequent subclavian arterial placement dilator.
+2.  Status post stent placement subclavian artery.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) 4885**] [**Last Name (NamePattern1) 4886**], M.D.  [**MD Number(1) 4887**]
+
+Dictated By:[**Doctor First Name 24093**]
+MEDQUIST36
+
+D:  [**3132-2-8**]  11:04
+T:  [**3132-2-8**]  11:10
+JOB#:  [**Job Number 24094**]
+
+
+DOC CLASS

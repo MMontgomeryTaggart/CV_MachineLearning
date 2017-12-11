@@ -1,0 +1,215 @@
+Chief Complaint:
+   24 Hour Events:
+ BRONCHOSCOPY - At [**3093-10-31**] 01:12 PM
+ FEVER - 101.8
+F - [**3093-10-31**] 03:00 PM
+   - Had bronch- unremarkable except for some dilitaion of RUL airways.
+   - On TB precautions over radiology concern of ariways on X-ray
+   - ID recs: continue current abx; BMT recs initiating antifungals while
+   bronch cultures are pending.
+   - restarted lovenox following bronch
+   -Stopped neutropenic diet
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3093-10-31**] 08:22 PM
+   Cefipime - [**3093-11-1**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**3093-10-31**] 01:10 PM
+   Midazolam (Versed) - [**3093-10-31**] 01:11 PM
+   Enoxaparin (Lovenox) - [**3093-10-31**] 08:45 PM
+   Other medications:
+   Changes to medical and family history: No change to FH
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: No change to ROS
+   Flowsheet Data as of  [**3093-11-1**] 07:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.8
+C (101.8
+   Tcurrent: 38.1
+C (100.6
+   HR: 110 (96 - 125) bpm
+   BP: 113/57(71) {81/29(46) - 117/68(73)} mmHg
+   RR: 21 (13 - 32) insp/min
+   SpO2: 91%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+             Total In:
+                                                                  3,618 mL
+                                                                    122 mL
+   PO:
+                                                                    360 mL
+             TF:
+   IVF:
+                                                                  2,883 mL
+                                                                    122 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  2,125 mL
+                                                                    470 mL
+   Urine:
+                                                                  2,125 mL
+                                                                    470 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,493 mL
+                                                                   -348 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 91%
+   ABG: ///23/
+   Physical Examination
+   GENERAL - well-appearing man in NAD, comfortable, appropriate
+   HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+   NECK - supple, no thyromegaly, no JVD, no carotid bruits
+   LUNGS - CTA bilat, no r/rh/wh, good air movement, resp
+   unlabored, no accessory muscle use
+   HEART - PMI non-displaced, RRR, no MRG, nl S1-S2
+   ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+   rebound/guarding
+   EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+   SKIN - no rashes or lesions, possible stage 1 decubiti ulcers, will
+   confirm with nursing staff
+   LYMPH - no cervical, axillary, or inguinal LAD
+   NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength
+   [**3-27**] throughout, sensation grossly intact throughout, DTRs 2+ and
+   symmetric, cerebellar exam intact, steady gait
+   Labs / Radiology
+   123 K/uL
+   9.1 g/dL
+   108 mg/dL
+   0.6 mg/dL
+   23 mEq/L
+   3.6 mEq/L
+   15 mg/dL
+   104 mEq/L
+   132 mEq/L
+   25.6 %
+   7.1 K/uL
+        [image002.jpg]
+                             [**3093-10-30**]  08:24 PM
+                             [**3093-10-31**]  03:25 AM
+                             [**3093-10-31**]  11:35 AM
+                             [**3093-10-31**]  11:34 PM
+                            [**3093-11-1**]  03:15 AM
+   WBC
+   8.1
+   6.3
+   7.1
+   Hct
+   25.6
+   24.2
+   22.9
+   25.2
+   25.6
+   Plt
+   99
+   85
+   123
+   Cr
+   0.7
+   0.6
+   Glucose
+   123
+   108
+   Other labs: PT / PTT / INR:16.1/69.5/1.4, Ca++:7.9 mg/dL, Mg++:1.7
+   mg/dL, PO4:1.7 mg/dL
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK)
+ PNEUMONIA, OTHER
+   60 year old M with h/o of diffuse large B-cell lymphoma (s/p six cycles
+   of MR-CHOP) presented on [**10-28**] with fevers and new right upper lobe
+   infiltrate -- > transferred to the [**Hospital Unit Name 42**] for worsening oxygen
+   requirements and hypotension, now s/p bronchoscopy.
+    #Fevers/Hypotension/Tachycardia:  On admission fit SIRS, but not shock
+   criteria; End organs without dysfunction.   Blood pressures currently
+   in 90
+s in setting of A fib as opposed to sepsis. Source of earlier
+   SIRS likely pulmonary. Urine/PICC cultures negarive. On Bactrim, so PCP
+   [**Name Initial (PRE) 6720**]. Bronchoscopy [**3093-10-3**] with negative AFB, so  tuberculosis
+   also less likely, but given concern on subsequent radiology, have
+   started precautions.  Atypical pathogens and [**Month/Day/Year 1119**] diseases are
+   possible given location of infiltrate and immunocompromised state.
+   Currently on vancomycin and cefepime for hospital acquired pneumonia,
+   Azithro started s/p bronch.
+   -f/uLegionella antigen, beta-glucan, galactomannan, are all pending.
+   -Toxo and crypto neg. Rapid respi Viral test negative.  Histoplasma
+   negative.
+-Bronchoalveolar Lavage showed:
+-GRAM STAIN (Final [**3093-10-31**]):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+   -f/u  induced sputum for gram stain, culture, PCP, [**Name10 (NameIs) 1119**] culture
+   - f/u bronch cultures
+   - currently on vancomycin and cefepime, Azithro HAP
+   - will leave PICC in place for now with low threshold for removing
+   - follow up blood and urine cultures, negative thus far
+   - will send mycolytic cultures
+   - f/u urine histoplasma, urine legionella, urine AFB, serum toxoplasma,
+   serum cryptococcal Ag, serum coccidiodes antibiotics, serum
+   strongyloides
+   - IVF boluses for MAP < 65, urine output < 50 cc/hr
+   A fib. Patient has history of A fib in past. Episodes this AM were
+   asymptomatic; perhaps precipitated by fevers. Patient has earlier ECHO
+   demonstrating myxoma which subsequently was reported to have cleared.
+   This AM, required Lopressor times two for HR to 170
+s, asymptomatic,
+   with limited result. Then gave Dilt 5 mg times two with better control.
+   -Starting Metoprolol 25-50BID for goal HR under 100 with presssures
+   above 90 systolic.
+   -Repeat ECHO
+   Hypoxia:  New oxygen requirement over past 24 hours.  Pulmonary
+   embolism is a concern (known cancer), but Lovneox makes less likekely.
+   No evidence to suggest cardiac ischemic at this time given negative
+   cardiac enzymes. No evidence of pulmonary edema/volume overload on
+   exam.
+   - wean oxygen as tolerated
+   -Con
+t Lovenox
+   - if worsening pulmonary status would consider repeat CT scan to assess
+   for PE as well as worsening interstitial disease
+   Diffuse Large B Cell Lymphoma: Admitted in his [**4-28**] cycle of MR-CHOP now
+   on day 15. Completed HD-MTX one week prior to admission and his counts
+   have recovered although he remains thrombocytopenic and anemic.
+   - hematocrit goal > 25 (received one unit today)
+   - no indication for platelet transfusion at this time
+   - not neutropenic
+   - continue bactrim for prophylaxis
+   DVT: Diagnosed in [**Month (only) 1002**].  On lovenox on admission.  They are not
+   painful.
+   - con
+t  lovenox
+   - stop Heparin gtt today now s/p bronch
+   FEN: Neutropenic low acid diet, NPO after midnight for possible
+   bronchoscopy, monitor electrolytes, IVF for urine output < 50 cc/hr,
+   MAP < 65
+   Access: left sided pICC
+   Prophylaxis: Lovenox, bowel regimen, home PPI
+   Code: Full (discussed with patient)
+   Communication: Wife [**Name (NI) 245**] [**Name (NI) **] [**Telephone/Fax (1) 3998**]
+   Disposition: ICU care for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3093-10-30**] 08:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

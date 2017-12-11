@@ -1,0 +1,180 @@
+Chief Complaint:  Chest Pain
+   Pneumonia
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Patient has had multiple days of increased cough, small amount of blood
+   tinged sputum and chest discomfort.
+   He did take ASA and TNG at home without meaningful improvement in chest
+   discomfort.
+   In ED--Patient with fever to 105(?)
+   CTA--no PE, [**Hospital1 **]-basilar infiltrates are seen
+   -Vanco/ZOsyn given
+   Patient then admitted to ICU for further care with pneumonia and chest
+   pain
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Nausea/Vomiting
+   Sulfa (Sulfonamides)
+   Rash;
+   Seroquel (Oral) (Quetiapine Fumarate)
+   Nausea/Vomiting
+   Heparin Agents
+   Unknown;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3443-4-19**] 03:00 AM
+   Ampicillin/Sulbactam (Unasyn) - [**3443-4-19**] 03:34 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   CAD
+   Hep B
+   Hep C
+   Non-contributory for pneumonia
+   Occupation: Unemp
+   Drugs: On methadone
+   Tobacco: 3 cigs/day
+   Alcohol: Denies current use
+   Other:
+   Review of systems:
+   Constitutional: Fever
+   Cardiovascular: Chest pain, Tachycardia
+   Respiratory: Tachypnea
+   Gastrointestinal: No(t) Abdominal pain
+   Heme / Lymph: Anemia
+   Signs or concerns for abuse : No
+   Pain: [**1-28**] Minimal
+   Flowsheet Data as of [**3443-4-19**] 09:33 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**45**] AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 36.2
+C (97.2
+   HR: 106 (83 - 106) bpm
+   BP: 134/77(91) {100/60(68) - 134/77(91)} mmHg
+   RR: 29 (18 - 29) insp/min
+   SpO2: 86%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 63 Inch
+             Total In:
+             3,333 mL
+   PO:
+             TF:
+   IVF:
+   333 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  2,750 mL
+   Urine:
+   2,000 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    583 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 86%
+   ABG: ///25/
+   Physical Examination
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Distant)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Dullness : ),
+   (Breath Sounds: Diminished: , Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   50 K/uL
+   29.4 %
+   10.3 g/dL
+   106 mg/dL
+   0.9 mg/dL
+   14 mg/dL
+   25 mEq/L
+   106 mEq/L
+   3.6 mEq/L
+   138 mEq/L
+   8.0 K/uL
+        [image002.jpg]
+                             [**3443-4-19**]  03:00 AM
+   WBC
+                                     8.0
+   Hct
+                                    29.4
+   Plt
+                                     50
+   Cr
+                                     0.9
+   TropT
+                                    <0.01
+   Glucose
+                                     106
+   Other labs: PT / PTT / INR:21.0/31.0/2.0, CK / CKMB /
+   Troponin-T:48/2/<0.01, ALT / AST:19/20, Alk Phos / T Bili:55/0.9,
+   Differential-Neuts:88.0 %, Band:0.0 %, Lymph:7.0 %, Mono:1.0 %, Eos:2.0
+   %, Lactic Acid:1.9 mmol/L, Albumin:3.1 g/dL, LDH:131 IU/L, Ca++:7.8
+   mg/dL, Mg++:1.6 mg/dL, PO4:3.7 mg/dL
+   Imaging: CXR--Right middle lobe consolidation
+   CT--Multiple mediastinal nodes seen with right middle lobe
+   consolidation confirmed.  We have small areas of basilar opacities as
+   well.
+   Microbiology: BC--Pending
+   Assessment and Plan
+   52 yo male with history of CAD, Hepatitis and now admitted with 3 day
+   prodrome of cough and blood tinged sputum now diagnosed with
+   pneumonia.  He has clear evidence of multilobar pneumonia and now with
+   persistent hemoptysis
+   1)Pneumonia-Right middle lobe opacity seen and [**Hospital1 **]-basilar opacities are
+   present as well.  With hemoptysis does expand the differential as well.
+   -Continue with Unasyn/Levoflox
+   -Will follow sputum GS C+S
+   -Will wean O2 as tolerated
+   -Will need follow up to resolution of symptoms and signs for active
+   pneumonia
+in addition, will need to confirm resolution of infiltrate
+   -Reaonable for pulmonary consultation service to follow
+   -He has known PPD negative at this time
+apices are clear at this
+   time
+and that makes reactivation TB unlikely but we are left
+   -BAC is of concern but patient with normal CXR 6 months prior
+   2) CHEST PAIN-No evidence of active myocardial ischemia and patient
+   does state that chest pain is resolved at this time and was strongly
+   associated with cough and pain.  We see no evidence of pleural effusion
+   at this time.
+   -Follow exam
+   ICU Care
+   Nutrition: PO diet
+   Glycemic Control:
+   Lines / Intubation:
+   20 Gauge - [**3443-4-19**] 12:43 AM
+   Comments:
+   Prophylaxis:
+   DVT: Ambulation
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Transfer to Floor
+   Total time spent: 35
+
+
+DOC CLASS

@@ -1,0 +1,311 @@
+Chief Complaint:  respiratory distress
+   HPI:
+   Ms. [**Known patient lastname **] is a 68 y/o man with PMH notable for COPD, ESRD on
+   hemodialysis, and h/o chronic diastolic CHF who presented to [**Hospital1 **]
+   [**Location (un) 1375**] with increased dyspnea. She notes worsening dyspnea nearly
+   every afternoon; yesterday, her symptoms progressed and she "felt like
+   she was going to die." She called EMS and was transported to [**Hospital1 **]
+   [**Location (un) 1375**]. She received 100 mg IV lasix en route. On arrival to the [**Hospital1 **]
+   [**Location (un) 1375**] ER, the patient's vitals were BP 256/99, HR 115, RR 30, 84%
+   (?oxygen) --> 90% on 100%NRB. CXR showed pulmonary edema. Blood
+   pressures quickly improved on nitro gtt to 130s-140s systolic. She was
+   placed on BIPAP with symptomatic improvement; she was also treated with
+   a nebulizer due to wheezing. Of note, BNP elevated to > 11,000 at
+   [**Location (un) 1375**]. Due to inability to obtain timely dialysis, she was
+   transferred to [**Hospital1 52**].
+   .
+   In the [**Hospital1 52**] ED, her vitals were HR 92, BP 138/103 (on nitro gtt), RR
+   22, 99% on CPAP. She was transitioned to NRB with sats remaining 100%.
+   .
+   On arrival to the MICU, the patient reports thirst and wants to have
+   ginger ale. She denies any chest pain. Her breathing is improved per
+   her report. She denies missing any medications or any dialysis
+   sessions. She has not increased salt intake in her diet per her report.
+   She reports increased orthopnea at home (baseline 3.5 pillows & sleeps
+   on side). She denies any chest pain, palpitations, dizziness, or
+   lightheadedness. She denies any abdominal pain but endorses some
+   constipation. She denies any dysuria. She has recently had symptoms of
+   a URI (fever/nasal congestion/cough) but has finished a recent course
+   of azithromycin with improved symptoms.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   (need to confirm with husband or pharmacy-meds adjusted per last d/c
+   summary per online records)
+   nitroquick 0.4 mg prn
+   paroxetine 20  mg daily
+   colchicine 0.6 mg 3X per week
+   lipitor 80 mg daily
+   isordil 10 mg tid
+   metoprolol tartrate 50 mg [**Hospital1 **]
+   lisinopril 20 mg daily
+   singulair 10 mg daily
+   pentoxifylline 400 mg daily
+   protonix 40 mg daily
+   insulin novolog sliding scale
+   renagel 3200 mg tid with meals
+   plavix 75 mg daily
+   coumadin 1 mg daily
+   etodolac 400 mg prn
+   haloperidol 10 mg after dialysis
+   allopurinol 100 mg after dialysis
+   renal softgel 1 tab after dialysis
+   prednisone 5 mg prn (gout)
+   salsalate 500 mg [**Hospital1 **]
+   asa 325 mg daily
+   fluticasone 50 mg 2 puffs daily
+   lantus (sliding scale?)
+   morphine 15 mg prn
+   hyoscyamine 375 mcg [**Hospital1 **]
+   lasix 60 mg (nondialysis days)
+   sensipar 30 mg with evening meal
+   tylenol prn
+   Past medical history:
+   Family history:
+   Social History:
+   - Diabetes Mellitus  (insulin dependent)
+   - Coronary Artery Disease: Cypher x 2 to left circumflex in [**3161**]
+   and Cypher to LAD after NSTEMI in [**3164-9-23**]
+   - Congestive Heart Failure: EF >55% on echo [**9-30**]; h/o Cypher to
+   LAD in [**3163**] in setting of NSTEMI, h/o recurrent pulmonary edema
+   - ESRD on HD
+   - COPD
+   - Lung CA, status post resection [**3147**]
+   - Neuropathy secondary to DM
+   - Gout
+   - Sleep Apnea
+   - Obesity
+   - GERD: status post endoscopy in [**3164-9-23**] which revealed
+   nonerosive gastritis, reflux disease
+   - Depression
+   non contributory
+   Occupation:
+   Drugs:
+   Tobacco: 1 ppd
+   Alcohol:
+   Other: lives with husband who helps with meds, patient performs own
+   bathing and toileting
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever
+   Ear, Nose, Throat: Dry mouth
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, Edema, No(t)
+   Tachycardia, Orthopnea
+   Respiratory: No(t) Cough, Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, Constipation
+   Genitourinary: No(t) Dysuria, Dialysis
+   Musculoskeletal: left neck/shoulder pain, tender to palpation
+   Integumentary (skin): No(t) Rash
+   Flowsheet Data as of [**3166-11-14**] 12:35 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 36.1
+C (96.9
+   HR: 82 (82 - 91) bpm
+   BP: 123/44(64) {113/44(61) - 123/48(64)} mmHg
+   RR: 19 (19 - 19) insp/min
+   SpO2: 98%
+   Height: 66 Inch
+             Total In:
+             9 mL
+   PO:
+             TF:
+   IVF:
+   9 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     25 mL
+   Urine:
+   25 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -16 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   Physical Examination
+   T: 96.9 BP: 113/86 HR: 91 20 100% on NRB (not on bipap)
+   Gen: elderly female in no distress, intermittently closing eyes but
+   easily
+   HEENT: no conjunctival pallor, tongue dry with prominent papillae,
+   tongue midline, pupils reactive bilaterally
+   NECK: jvp difficult to assess given body habitus
+   CV: RRR, difficult to hear, 2/6 systolic murmur at lusb, left HD cath
+   in place with clean dressing
+   LUNGS: diminished breath sounds bilaterally, crackles at bases
+   bilaterally, no wheezing
+   ABD: soft, normoactive bowel sounds, nontender to palpation
+   EXT: warm, 1+ pitting edema bilaterally
+   SKIN: no rashes
+   NEURO: alert, interactive, appropriate. face symmetric, speech clear
+   and able to speak in full sentences, moving all extremities without
+   difficulty
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: From [**Location (un) 1375**]:
+   WBC 14.2 (79N, 1 bands, 10L, 7M)
+   Hgb 12.2 / hct 36.5
+   plt 291
+   INR 2.6, PTT 29.9
+   Na 140, K 4, Cl 105, bicarb 30, BUN 35, Cr 5.2, glucose 220
+   Mg 1.8, calcium 7.9
+   albumin 3.6, total protein 7, bili 0.2, alk phos 119, ALT 19, AST 15
+   CK 57, CK mb not done
+   trop t 0.029
+   BNP [**Numeric Identifier 7020**]
+   .
+   UA: [**12-28**] rbcs, 5-10 wbcs, [**12-28**] epis, innumerable bacteria
+   Imaging: CXR ([**Location (un) **]): There are changes of acute congestive failure
+   which now are more prominent as compared with the previous examination
+   from [**3166-10-12**]. There is general increased density on both lung bases
+   with prominence of the interstitial markings.  There are no definite
+   acute parenchymal infiltrates.  The indwelling central catheter with
+   tip at the junction between superior vena cava and the right atrium has
+   unchanged appearance. IMPRESSION: ACUTE CONGESTIVE FAILURE WITH EDEMA.
+   .
+   Echo ([**3166-11-10**]):  The left atrium is mildly dilated. The left atrium is
+   elongated. Left ventricular wall thicknesses are normal. The left
+   ventricular cavity size is normal. Overall left ventricular systolic
+   function is normal (LVEF>55%). Tissue Doppler imaging suggests an
+   increased left ventricular filling pressure (PCWP>18mmHg). Right
+   ventricular chamber size and free wall motion are normal. The number of
+   aortic valve leaflets cannot be determined. There is no aortic valve
+   stenosis. No aortic regurgitation is seen. The mitral valve leaflets
+   are moderately thickened. Trivial mitral regurgitation is seen. There
+   is no pericardial effusion. MPRESSION: Techinically difficult study.
+   Overall left ventricular and right ventricular systolic functions are
+   normal. No gross valvular abnormalities noted. Pulmonary pressures
+   could not be assessed due to inadequate TR jet. Compared to the
+   previous echo on [**3164-10-21**] ( images not available for review) LV
+   function has improved and moderate mitral regurgiation is not noted.
+   .
+   Persantine MIBI ([**5-30**]): The patient is a 67 yo female with a history of
+   CAD s/p LCX, LAD stents, CRI, DMII, CHF EF 45-50% referred for
+   shortness of breath, CAD evaluation. The patient received 0.142
+   mg/kg/min of persantine over 4 minutes. The patient did not report any
+   chest, arm, neck, or back discomfort with peak infusion or recovery.
+   EKG showed sinus rhythm with rare VPBs. There were no ischemic ST-T
+   wave changes. The patient received 125 mg IV aminophylline to reverse
+   persantine. Hemodynamic response to persantine was appropriate.
+   IMPRESSION: No ischemic ST-T wave changes or anginal-type symptoms.
+   Nuclear report: Left ventricular cavity size is normal. Rest and stress
+   perfusion images reveal uniform tracer uptake throughout the left
+   ventricular myocardium. Gated images reveal normal wall motion. The
+   calculated left ventricular ejection fraction is 54%. IMPRESSION:
+   Normal study; LVEF 54%.
+   .
+   Cardiac cath ([**9-29**]): 1.  Selective coronary angiography in this right
+   dominant patient revealed single vessel CAD.  The LMCA was
+   angiographically normal.  The previously placed LCX stents were patent
+   with mild narrowing proximal and distal to them.  The LAD had a
+   mid-proximal 80% hazy lesion just prior to a large diagonal.  The RCA
+   was a previously dominant vessel that was diffusely diseased and
+   occluded proximally. The PDA filled via collaterals from the left.
+   2.  Resting hemodynamics revealed elevation of left and right sided
+   filling pressures with RA of 11mmHg and wedge of 26mmHG.  There was
+   mild pulmonary hypertension.  The cardiac output was high normal due to
+   anemia.  The systemic blood pressure was normotensive. 3. The lesion in
+   the LAD was predilated with a 2.0 mm then a 2.5 mm balloon, stented
+   with a 2.5 mm X 23 mm cypher stent and post dilated with a 2.75 mm
+   balloon with lesion reduction from 80 to 0%. The final
+   angiogram showed TIMI III flow with no residual stenosis, no dissection
+   and no embolisation. (see PTCA comments)
+   ECG: ekg: sinus rhythm at 80, normal axis, inverted p wvae in v1, no
+   ischemic st changes, t wave flattening in v1 (similar to prior) and v2,
+   q wave in iii (old)
+   Assessment and Plan
+   This is a 68 y/o woman with PMH notable for ESRD on HD, chronic
+   diastolic CHF, and coronary artery disease admitted to MICU with
+   respiratory distress.
+   .
+   # Respiratory distress: Patient hypertensive on arrival to [**Hospital1 **] [**Location (un) 1375**]
+   and CXR & labs compatible with acute on chronic diastolic congestive
+   heart failure. BNP also elevated at OSH. Unclear precipitant as cannot
+   determine if hypertension the cause of her symptoms or a reaction to
+   respiratory distress. Now much improved-on nasal cannula, not
+   hypertensive off of nitro gtt.
+   - dialysis planned for today
+   - nitro gtt now off, give usual BP meds
+   - closely monitor blood pressures
+   - continue supplemental oxygen to keep O2 > 92%
+   - continue nebs prn
+   - continue advair
+   - no clear indication for pneumonia treatment at this time
+   - continue po lasix on non-HD days per usual routine
+   - check 3rd set CEs this evening to rule out for MI though no changes
+   on EKG
+   .
+   # Hypertension: As above, already weaned off of nitro gtt with
+   subsequent BP 120s/40s. Plan to resume usual home meds and continue to
+   monitor.
+   .
+   # Leukocytosis: ? related to UTI. Plan cipro X 3 day course. Follow
+   culture. No clear pulmonary infiltrate on CXR.
+   - add on urine culture
+   - cipro x 3 days
+   .
+   # ESRD on HD: Renal fellow contact[**Name (NI) **] from the [**Name (NI) **], plan for dialysis
+   today.
+   - Appreciate renal input
+   - lyte management per HD, repeat lytes after dialysis
+   - Dialysis today for volume removal
+   - continue sevelamer, sensipar, nephrocaps
+   .
+   # CAD s/p stenting: Continue statin, aspirin, plavix, ACEi and beta
+   blocker per home regimen. Continue tid nitrate as per home regimen. Has
+   recent echo (see above).
+   .
+   # h/o HD-cath associated DVT: Continue coumadin, goal INR [**12-26**].
+   .
+   # h/o COPD: Continue singulair, advair. Supplemental O2 as above.
+   Continue albuterol nebs prn.
+   .
+   # Insulin dependent DM: Continue lantus with sliding scale. Plan to
+   give 1/2 dose lantus when NPO.
+   - fingersticks four times daily
+   - lantus with sliding scale humalog
+   .
+   # Gout: allopurinol after HD per usual routine.
+   .
+   # FEN: diabetic, low salt cardiac diet; lytes per HD
+   .
+   # PPx: INR 2.6 today at [**Location (un) 1375**], ppi per home regimen, bowel meds prn
+   .
+   # CODE: full, confirmed with patient, does not want central line but
+   would like to readdress if situation arises.
+   .
+   # Access: 2 18 g PIVs
+   .
+   # COMM: with patient and husband, [**Name (NI) 6550**] [**Name (NI) **] [**Telephone/Fax (1) 7021**]
+   .
+   # DISP: ICU care until off bipap, nitro gtt
+   ICU Care
+   Nutrition:
+   Comments: diabetic, low sodium diet
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**3166-11-14**] 11:36 AM
+   18 Gauge - [**3166-11-14**] 11:36 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

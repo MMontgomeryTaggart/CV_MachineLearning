@@ -1,0 +1,204 @@
+CVICU
+   HPI:
+   86M s/p MVR/CABG [**6-10**] readmitted with hypoxia, purulent sputum and
+   hypotension from rehab
+   EF 70 Cr 1.8 Wt 68.5K HgbA1c 6.3
+   Antibx: Vanco-Zosyn-Enterococcus/blood
+   PMH: ^lipids, AFib, TURP, Ing Hernia repair, Sleep Apnea-CPAP -home,
+   CRI(1.8), Ascites, Squamous Cell CA-excision groin, Lower Back
+   Arthritis, depression
+   [**Last Name (un) **]: ASA 325', Diltiazem SR 240', Furosemide 80", Metolazone 2.5 Q
+   M-W-F, Metoprolol 25', Warfarin 2alt4mg, Potassium 20'''
+   Current medications:
+   Artificial Tears, Aspirin, Famotidine, Phenylephrine,
+   Piperacillin-Tazobactam, Vancomycin
+   24 Hour Events:
+   Remains on ventilator and neo
+   No clinical changes
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3261-7-28**] 10:38 PM
+   Infusions:
+   Phenylephrine - 1 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3261-7-29**] 09:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**64**] a.m.
+   Tmax: 37.1
+C (98.7
+   T current: 37.1
+C (98.7
+   HR: 84 (81 - 90) bpm
+   BP: 99/49(62) {90/39(55) - 105/50(62)} mmHg
+   RR: 28 (19 - 29) insp/min
+   SPO2: 100%
+   Heart rhythm: V Paced
+   Wgt (current): 84 kg (admission): 80 kg
+   Height: 67 Inch
+             Total In:
+                                                                  1,640 mL
+                                                                    767 mL
+   PO:
+             Tube feeding:
+                                                                    842 mL
+                                                                    325 mL
+   IV Fluid:
+                                                                    798 mL
+                                                                    231 mL
+   Blood products:
+   Total out:
+                                                                  1,257 mL
+                                                                    590 mL
+   Urine:
+                                                                    982 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    275 mL
+                                                                    150 mL
+   Balance:
+                                                                    383 mL
+                                                                    177 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 364 (364 - 416) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 29
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 61
+   PIP: 18 cmH2O
+   SPO2: 100%
+   ABG: ////
+   Ve: 10.6 L/min
+   Physical Examination
+   General Appearance: Cachectic, nonresponsive, trached on ventilator
+   HEENT: PERRL, right eye with redness no drainage
+   Cardiovascular: (Rhythm: Regular), vpaced with episodes of VT
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: throughout), (Sternum: Stable ), sternal wound healing
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, chole
+   tube to gravity, Jtube feeding
+   Left Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: left foot - toes with necrosis, right BKA ; torso with
+   maculopapular, blanching erythema.
+   Neurologic: (Responds to: Unresponsive)
+   Labs / Radiology
+   183 K/uL
+   9.5 g/dL
+   128 mg/dL
+   2.1 mg/dL
+   22 mEq/L
+   3.5 mEq/L
+   99 mg/dL
+   101 mEq/L
+   136 mEq/L
+   29.0 %
+   12.7 K/uL
+        [image002.jpg]
+                             [**3261-7-21**]  03:15 AM
+                             [**3261-7-22**]  01:23 AM
+                             [**3261-7-23**]  02:13 AM
+                             [**3261-7-24**]  01:37 AM
+                             [**3261-7-25**]  12:18 AM
+                             [**3261-7-26**]  01:43 AM
+                             [**3261-7-27**]  05:07 AM
+                             [**3261-7-28**]  04:17 AM
+                             [**3261-7-29**]  04:07 AM
+   WBC
+   18.5
+   16.0
+   8.8
+   12.0
+   11.2
+   11.4
+   12.0
+   12.7
+   Hct
+   33.4
+   33.4
+   28.1
+   31.3
+   30.8
+   30.5
+   29.4
+   29.0
+   Plt
+   152
+   158
+   138
+   141
+   137
+   143
+   150
+   183
+   Creatinine
+   2.9
+   2.8
+   2.8
+   2.6
+   2.4
+   2.4
+   2.8
+   2.1
+   2.1
+   Glucose
+   109
+   165
+   142
+   122
+   100
+   116
+   137
+   128
+   Other labs: PT / PTT / INR:23.6/32.2/2.2, ALT / AST:45/61, Alk-Phos / T
+   bili:85/10.5, Amylase / Lipase:153/234, Differential-Neuts:92.0 %,
+   Lymph:5.4 %, Mono:2.6 %, Eos:0.0 %, Lactic Acid:3.6 mmol/L, Albumin:2.8
+   g/dL, LDH:295 IU/L, Ca:7.1 mg/dL, Mg:2.3 mg/dL, PO4:5.6 mg/dL
+   Assessment and Plan
+   SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION), HYPOGLYCEMIA, IMPAIRED SKIN
+   INTEGRITY, .H/O RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF,
+   CHRONIC KIDNEY DISEASE), .H/O RESPIRATORY FAILURE, CHRONIC, .H/O
+   CORONARY ARTERY BYPASS GRAFT (CABG), HYPOTENSION (NOT SHOCK)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr,
+   Cardiovascular: Aspirin, continues on neo gtt no change
+   Pulmonary: Trach, (Ventilator mode: CPAP + PS)
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Tube feeding
+   Renal: Foley, Adequate UO
+   Hematology: stable
+   Infectious Disease: entercoccus  and staph in blood sensitive to
+   vancomycin, stop zosyn due to rash change to cipro for sparse gram
+   negative
+   Lines / Tubes / Drains: Foley, J-Tube, Trach
+   Consults: Nutrition
+   Billing Diagnosis: (Respiratory distress: Failure)
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3261-7-28**] 11:31 AM 35 mL/hour
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3261-7-21**] 01:00 AM
+   Multi Lumen - [**3261-7-21**] 01:12 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: DNR / DNI
+   Disposition: ICU
+   Total time spent: 32 minutes
+
+
+DOC CLASS

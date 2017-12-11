@@ -1,0 +1,203 @@
+CVICU
+   HPI:
+   [**12-15**] POD#1
+   s/p CABG x4 (LIMA>LAD, SVG>PDA, SVG>OM, SVG>RAMUS) [**12-14**]
+   EF >55  Wt 85.9  Cr 1.0
+   PMH Dyslipidemia, DM, Herpes zoster, Eczema, Skin CA s/p removal, s/p
+   resection colon adenoma, s/p hernia repair
+   [**Last Name (un) 500**] metformin 500', Zocor 20', ASA 81', Torpol xl 50', Preservision',
+   Betamethasone 0.005% prn, NTG sl prn
+   Current medications:
+    Aspirin EC, CefazoLIN 9, Docusate, Insulin gtt,  Metoclopramide,
+   Morphine Sulfate. Oxycodone-Acetaminophen, Ranitidine, Simvastatin
+   24 Hour Events:
+ Intubated in the OR, Aline, Cordis, PA catheter in place.
+ EXTUBATION - At [**3271-12-14**] 03:30 PM
+ FEVER - 101.1
+C - [**3271-12-15**] 06:00 AM
+   Post operative day:
+   POD#1 - S/P CABG
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**3271-12-15**] 12:00 AM
+   Infusions:
+   Insulin - Regular - 1 units/hour
+   Other ICU medications:
+   Insulin - Regular - [**3271-12-14**] 05:18 PM
+   Morphine Sulfate - [**3271-12-15**] 12:29 AM
+   Other medications:
+   Flowsheet Data as of  [**3271-12-15**] 06:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**74**] a.m.
+   Tmax: 38.4
+C (101.1
+   T current: 38.4
+C (101.1
+   HR: 88 (75 - 97) bpm
+   BP: 110/41(61) {88/38(56) - 124/60(79)} mmHg
+   RR: 29 (10 - 33) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 88.6 kg (admission): 84.8 kg
+   Height: 72 Inch
+   CVP: 5 (3 - 13) mmHg
+   PAP: (30 mmHg) / (9 mmHg)
+   CO/CI (Thermodilution): (6.84 L/min) / (3.3 L/min/m2)
+   SVR: 585 dynes*sec/cm5
+   SV: 81 mL
+   SVI: 39 mL/m2
+   Total In:
+                                                                  7,848 mL
+                                                                    154 mL
+   PO:
+                                                                     30 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  6,098 mL
+                                                                    124 mL
+   Blood products:
+                                                                  1,750 mL
+   Total out:
+                                                                  2,690 mL
+                                                                    760 mL
+   Urine:
+                                                                  1,700 mL
+                                                                    560 mL
+   NG:
+                                                                    150 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,158 mL
+                                                                   -606 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Set): 0 (0 - 550) mL
+   Vt (Spontaneous): 421 (421 - 514) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 21
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 11 cmH2O
+   Plateau: 15 cmH2O
+   SPO2: 96%
+   ABG: 7.35/42/153/26/-2
+   Ve: 8.3 L/min
+   PaO2 / FiO2: 383
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: bilateral bases), Small hematoma at superior
+   margin of sternotomy incision
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), (Responds to: Verbal
+   stimuli), Moves all extremities
+   Labs / Radiology
+   143 K/uL
+   10.1 g/dL
+   108 mg/dL
+   0.6 mg/dL
+   26 mEq/L
+   4.0 mEq/L
+   9 mg/dL
+   104 mEq/L
+   133 mEq/L
+   27.7 %
+   9.2 K/uL
+        [image002.jpg]
+                             [**3271-12-14**]  09:40 AM
+                             [**3271-12-14**]  10:29 AM
+                             [**3271-12-14**]  11:09 AM
+                             [**3271-12-14**]  11:11 AM
+                             [**3271-12-14**]  12:16 PM
+                             [**3271-12-14**]  12:26 PM
+                             [**3271-12-14**]  01:45 PM
+                             [**3271-12-14**]  03:15 PM
+                             [**3271-12-14**]  05:10 PM
+                             [**3271-12-15**]  03:35 AM
+   WBC
+   17.4
+   9.2
+   Hct
+   29
+   28
+   27
+   32.8
+   33.1
+   27.7
+   Plt
+   155
+   193
+   143
+   Creatinine
+   0.7
+   0.6
+   TCO2
+   29
+   27
+   27
+   28
+   26
+   24
+   Glucose
+   127
+   133
+   150
+   107
+   85
+   108
+   Other labs: PT / PTT / INR:14.1/48.2/1.2, Fibrinogen:107 mg/dL, Lactic
+   Acid:2.3 mmol/L
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan:
+   Neurologic: Pain controlled
+   Cardiovascular: Aspirin, Statins, Discontinue PA monitor. Will start
+   beta blocker today
+   Pulmonary: Encourage incentive spirometry
+   Gastrointestinal / Abdomen:  Bowel regimen
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, Adequate UO, Will give lasix today
+   Hematology: Moderate anemia, will con't to follow
+   Endocrine: Insulin drip, Will start Lantus and regular insulin sq today
+   and stop insulin gtt.
+   Infectious Disease: continue post op cefazolin x 2 doses
+   Lines / Tubes / Drains: Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires.  Will d/c swan and cordis today.
+   Wounds: Dry dressings, will con
+t to follow exam of sternotomy
+   hematoma
+ is currently stable
+   Imaging: none
+   Fluids: Other, D5
+   Consults: CT surgery
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3271-12-14**] 12:05 PM
+   Cordis/Introducer - [**3271-12-14**] 12:05 PM
+   PA Catheter - [**3271-12-14**] 12:05 PM
+   16 Gauge - [**3271-12-14**] 12:05 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

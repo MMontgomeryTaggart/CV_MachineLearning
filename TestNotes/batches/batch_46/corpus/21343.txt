@@ -1,0 +1,214 @@
+Admission Date:  [**2527-4-24**]              Discharge Date:   [**2527-5-2**]
+
+Date of Birth:  [**2461-5-1**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 419**]
+Chief Complaint:
+Increasing shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2527-4-25**] Aortic Valve Replacement(21mm St. [**Male First Name (un) 657**] Mechanical Valve)
+
+
+History of Present Illness:
+This is a 65 year old female with recent increase in exertional
+dyspnea with moderate activity. Workup was notable for
+mod-severe aortic stenosis with a valve area of 0.9 cm square
+with a peak gradient of 52 and mean gradient of 38 mmHg. LVEF on
+echocardiogram was 67%. Subsequent cardiac catheterization
+revealed normal coronary arteries. Based on the above results,
+she was referred for cardiac surgical intervention.
+
+Past Medical History:
+Aortic Stenosis
+Type II Diabetes Mellitus
+Hypertension
+Hyperlipidemia
+Obesity
+Hysterectomy
+Cholecystectomy
+Appendectomy
+Tonsillectomy
+
+
+Social History:
+Quit tobacco in [**2489**]. Denies ETOH. She is married and retired.
+
+Family History:
+Father died of MI ?age
+
+Physical Exam:
+Vitals: BP 140/60, HR 60, RR 20, SAT 97%on room air
+General: obese female in no acute distress
+HEENT: oropharynx benign,
+Neck: supple, no JVD, transmitted carotid bruits noted
+Heart: regular rate, normal s1s2, 3/6 systolic ejection murmur
+Lungs: clear bilaterally
+Abdomen: soft, nontender, normoactive bowel sounds
+Ext: warm, 1+ edema, no varicosities
+Pulses: 2+ distally
+Neuro: alert and oriented, nonfocal
+
+
+Pertinent Results:
+[**2527-4-24**] 07:14PM BLOOD WBC-9.4 RBC-4.14* Hgb-12.8 Hct-37.5
+MCV-91 MCH-31.0 MCHC-34.2 RDW-15.5 Plt Ct-225
+[**2527-4-24**] 07:14PM BLOOD PT-15.1* PTT-34.3 INR(PT)-1.4*
+[**2527-4-24**] 07:14PM BLOOD Glucose-152* UreaN-15 Creat-1.0 Na-142
+K-4.3 Cl-101 HCO3-30 AnGap-15
+[**2527-4-24**] 07:14PM BLOOD ALT-29 AST-30 LD(LDH)-291* AlkPhos-56
+TotBili-0.4
+[**2527-4-24**] 07:14PM BLOOD %HbA1c-7.2*
+[**2527-4-29**] 02:38AM BLOOD Triglyc-98 HDL-29 CHOL/HD-3.3 LDLcalc-48
+[**2527-4-29**] 05:20PM BLOOD TSH-2.7
+
+[**2527-4-28**] Head CTA: The posterior fossa structures are
+unremarkable. The cerebral parenchyma has normal [**Doctor Last Name **] and white
+matter differentiation. Slightly prominent ventricles and
+extra-axial CSF spaces are noted, consistent with age
+appropriate involutional change of the brain parenchyma. There
+is no evidence of intracranial hemorrhage, mass effect, or shift
+of midline structures. The osseous and the soft tissue
+structures are normal. Bilateral intracranial, internal carotid,
+anterior and middle cerebral arteries are patent and normal in
+caliber. Bilateral vertebral, basilar, and posterior cerebral
+arteries are patent and normal in caliber. No evidence of
+aneurysm is apparent and there is no evidence of stenosis or
+occlusion of the vasculature.
+
+[**2527-4-29**] ECHO: The left atrium is moderately dilated. Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. Overall left  ventricular systolic
+function is normal (LVEF>55%). A bileaflet aortic valve
+prosthesis is present. The transaortic gradient is normal for
+this prosthesis. No aortic regurgitation is seen. The mitral
+valve is not well seen. No mitral regurgitation is seen. There
+is no pericardial effusion.
+
+[**2527-4-30**] Spine CT Scan: No evidence of cervical spine fracture or
+abnormal alignment. Moderate degenerative changes
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname 34714**] was admitted and underwent routine preoperative
+evaluation. Workup was unremarkable and she was cleared for
+surgery. On [**4-25**], Dr. [**First Name (STitle) **] performed aortic valve
+replacement utilizing a St. [**Male First Name (un) 657**] mechanical valve. For further
+surgical details, pleas see seperate dictated operative note.
+Following the operation, she was brought to the CSRU for
+invasive monitoring. Within 24 hours, she awoke neurologically
+intact and was extubated without incident. Early postop, she
+developed atrial fibrillation which was treated with Amiodarone,
+betablockade and Heparin anticoagulation. K and Mg levels were
+monitored and repleted per protocol.
+
+On postoperative day three, she was noted to have significant
+right-sided weakness. Heparin was promptly discontinued and head
+CT scan was performed. Head CT scan showed no evidence of
+infarction or bleed. The neurology service was consulted and
+suspicious for small embolic subcortical infarctions. Head MRI
+was preferred but unable to obtain secondary to obesity/body
+habitus. Additional studies included echocardiogram which was
+unremarkable(see result section). Given that the head CT was
+negative, heparin anticoagulation was resumed and Warfarin
+anticoagulation initiated. Over the next several days, her
+neurological deficits improved and she eventually transferred to
+the SDU on postoperative day five. She continued to work with PT
+to help improve her activity level and was medically ready for
+discharge to a rehabiliatation facility on post-operative day
+seven.
+
+Medications on Admission:
+Lisinopril 10 qd
+Lipitor 40 qd
+Aspirin 81 qd
+Metformin 1000 [**Hospital1 12**]
+Avandia 4 qd
+Oxybutinin 5 [**Hospital1 12**]
+Novolin 70/30 - 34 units qam, 10 units qpm
+Bisoprolol 5 qd
+MVI
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day) for 2 days: until [**5-4**], then 400 mg daily for 7 days
+until [**5-11**], then 200 mg daily ongoing.
+6. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours).
+Disp:*60 Tablet(s)* Refills:*0*
+9. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours).
+Disp:*120 Capsule, Sustained Release(s)* Refills:*0*
+10. Vitamin B-12 1,000 mcg/mL Solution Sig: One (1)  Injection
+once a day for 14 days.
+Disp:*14 syringes* Refills:*0*
+11. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+Disp:*120 Tablet(s)* Refills:*0*
+12. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO ONCE (Once)
+for 1 doses: titrate daily for INR goal of [**2-7**].5.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1228**] - [**Location (un) 6466**]
+
+Discharge Diagnosis:
+Aortic Stenosis - s/p AVR
+Postop Atrial Fibrillation
+Postop Stroke
+Type II Diabetes Mellitus
+Hypertension
+Hyperlipidemia
+Obesity
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Patient may shower, no baths. No creams, lotions or ointments to
+incisions. No driving for at least one month. No lifting more
+than 10 lbs for at least 10 weeks from the date of surgery.
+Monitor wounds for signs of infection. Please call with any
+concerns or questions.
+Warfarin should be dosed for goal INR between 2.0 - 3.0. Please
+have INR checked with 24 hours of discharge to rehab.
+
+
+Followup Instructions:
+Dr. [**First Name (STitle) **] in [**4-10**] weeks, call for appt [**Telephone/Fax (1) 425**]
+Dr. [**Last Name (STitle) 14633**] in [**2-8**] weeks, call for appt
+Dr. [**Last Name (STitle) 15784**] in [**2-8**] weeks, call for appt
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 430**]
+
+Completed by:[**2527-5-2**]
+
+DOC CLASS

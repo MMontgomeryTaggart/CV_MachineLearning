@@ -1,0 +1,225 @@
+Chief Complaint:
+   24 Hour Events:
+   [**2861-4-9**]:
+   - Started lopressor
+   - Started phenylephrine in addition to vasopressin for blood pressure
+   support
+   - SBPs lower than renal would like, decreased goal of UF to 100cc/hr
+   initially, however then after discussion with Dr. [**First Name (STitle) **], goal can be
+   250cc/hr if MAPs stay above 50, can increase phenylephrine as needed.
+   - Checked mixed venous sat to calculate CI, 5!
+   Allergies:
+   Lisinopril
+   Rash; Abdominal
+   Kefzol (Intraven.) (Cefazolin Sodium)
+   Hives;
+   Sulfa (Sulfonamide Antibiotics)
+   Hives; Nausea/V
+   Shellfish Derived
+   facial swelling
+   Last dose of Antibiotics:
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Phenylephrine - 1.3 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2861-4-9**] 09:00 AM
+   Heparin Sodium (Prophylaxis) - [**2861-4-9**] 04:00 PM
+   Metoprolol - [**2861-4-9**] 04:25 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2861-4-10**] 06:10 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 90 (71 - 96) bpm
+   BP: 91/52(67) {71/41(52) - 107/64(81)} mmHg
+   RR: 14 (0 - 24) insp/min
+   SpO2: 93%
+   Heart rhythm: AF (Atrial Fibrillation)
+    PAP: (49 mmHg) / (29 mmHg)
+   Mixed Venous O2% Sat: 74 - 74
+   Total In:
+                                                                  7,344 mL
+                                                                  1,964 mL
+   PO:
+   TF:
+   IVF:
+                                                                  7,344 mL
+                                                                  1,964 mL
+   Blood products:
+   Total out:
+                                                                 10,358 mL
+                                                                  2,141 mL
+   Urine:
+                                                                    352 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,014 mL
+                                                                   -177 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: 7.38///28/
+   Physical Examination
+   VS: T 94.0 HR 76 irreg irreg BP [**Numeric Identifier 7010**]/60  20 94RA
+   GENERAL: Alert, NAD, anasarca, breathing comfortably.
+   HEENT: Normocephalic, atraumatic. No scleral icterus. MMM.
+   CARDIAC: Irregularly irregular, no m/g/r. JVP >15cm.
+   LUNGS: Crackles LLL rest CTAB
+   ABDOMEN: NABS. Distended mild RLQ TTP with no rebound or guarding.
+   EXTREMITIES: 4+ lower extremity peripheral edema. 2+ LUE edema. 2+ RUE
+   edema. 2+ radial pulses with 3 sec cap refill. LE warm.
+   NEURO: A&Ox3. Appropriate.
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+   215 K/uL
+   8.7 g/dL
+   118 mg/dL
+   1.8 mg/dL
+   28 mEq/L
+   3.9 mEq/L
+   34 mg/dL
+   96 mEq/L
+   135 mEq/L
+   26.0 %
+   21.2 K/uL
+        [image002.jpg]
+                             [**2861-4-8**]  11:02 AM
+                             [**2861-4-8**]  11:04 AM
+                             [**2861-4-8**]  03:10 PM
+                             [**2861-4-8**]  03:23 PM
+                             [**2861-4-8**]  09:43 PM
+                             [**2861-4-9**]  03:40 AM
+                             [**2861-4-9**]  03:47 AM
+                             [**2861-4-9**]  08:15 AM
+                             [**2861-4-9**]  02:54 PM
+                             [**2861-4-10**]  04:17 AM
+   WBC
+   5.6
+   4.6
+   21.2
+   Hct
+   23.5
+   24.9
+   25.0
+   22.9
+   25.5
+   26.0
+   Plt
+   190
+   181
+   215
+   Cr
+   2.5
+   2.3
+   2.4
+   1.9
+   1.8
+   TCO2
+   25
+   34
+   Glucose
+   116
+   108
+   108
+   110
+   138
+   127
+   118
+   Other labs: PT / PTT / INR:14.8/30.9/1.3, ALT / AST:[**8-4**], Alk Phos / T
+   Bili:150/1.9, Differential-Neuts:75.2 %, Lymph:10.7 %, Mono:11.1 %,
+   Eos:2.4 %, Albumin:2.8 g/dL, LDH:184 IU/L, Ca++:10.0 mg/dL, Mg++:1.7
+   mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+   62 year old woman with severe diastolic CHF and R systolic HF admitted
+   for hypoxia, diarrhea, and hypotension with long hospital course
+   complicated by volume overload (ongoing), worsening renal failure
+   (ongoing), GI bleeding (stable), PFO repair with endovascular device,
+   transferred from cardiology floor to CCU for Ultrafiltration after
+   failing to increase UOP on aggressive diuretic regimen with very active
+   LGIB overnight.
+   #. Leukocytosis: Concerned for occult sepsis given prolonged hospital
+   course and hypotension.
+   -          Will check U/A, Bcx, Ucx, cxr, and C.Diff
+   -          Will treat with abx if necessary
+   -          Continue to trend white count
+   # Acute decompensated diastolic failure: s/p RH cath showing elevated
+   RV, LV pressures but no elevated pulmonary pressures (thus making the
+   concern for idiopathic pulm HTN unlikely). Continued on Vasopressin
+   with MAP of 64 (average).
+   - goal fluid balance negative 3-4Liters today with UF
+   -Continue vasopressin for hypotension with aggressive fluid removal as
+   this will have no B1 activity and will not increase heart rate which
+   would worsen her diastolic dysfunction.
+   - Continue Phenylephrine. Will uptitrate as necessary so that can
+   continue aggressive diuresis
+   - Continue beta blocker for HR control given diastolic CHF will be
+   worsened from tachycardia and want to give LV long enough time to
+   fill.
+   - Continue Ranolazine for diastolic dysfunction as some evidence this
+   does improve diastolic CHF.
+   - Continue fluid restriction
+   - Will check CI today and trend.
+   # ARF, stage III chronic renal failure: Cr now trending down possibly
+   as result of better forward flow. Lytes suggested pre-renal. Likely
+   secondary to poor forward flow from heart failure; urine microscopy not
+   suggestive of ATN
+   - UF as above, with aggressive diuresis
+   - No need for dialysis now as electrolytes wnl
+   - Renally dose meds and avoid nephrotoxins
+   - Renal is following
+   # GI BLEEDING: History of UC. Status post clipping/injection of ulcers.
+   Most likely precipitant for bleed is CHF. GI on board, rec monitoring
+   HCT and if this decreases they may go in again to evaluate, however
+   unlikely now that venous pressures are decreased.
+   - Continue IV ppi [**Hospital1 **], ferrous sulfate
+   - PIV x2  plus CVL
+   - Active T+S
+   - Transfuse for hct < 22
+   # PPX: heparin SC, PPI IV BID, holding bm regimen given diarrhea
+   # ACCESS: PIVs, PICC placement [**2861-4-7**]
+   # CODE STATUS: full- confirmed with Dr. [**First Name (STitle) **]
+   # EMERGENCY CONTACT: [**Name (NI) **] is HCP: [**Name (NI) 804**] ([**0-0-**])
+   # DISPOSITION: CCU for UF
+   ICU Care
+   Nutrition: Advance diet today to HH/low sodium
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2861-4-7**] 06:19 PM
+   Dialysis Catheter - [**2861-4-7**] 07:16 PM
+   PA Catheter - [**2861-4-8**] 10:00 PM
+   Arterial Line - [**2861-4-9**] 01:19 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: IV PPI [**Hospital1 **]
+   Communication:  with patient and HCP which is her son
+   [**Name (NI) 62**] status: Full code
+   Disposition: ICU for UF
+   ------ Protected Section ------
+   Ultrafiltration is going well.  She has an elevated wbc and low
+   systemic vascular resistance although no obvious infectious focus.  We
+   will check cxr, bld and urine cultures.  No abx for now.
+   I remain puzzled by her hemodynamics.  If her cardiac index is normal
+   or supranormal, then why should she require ultrafiltration for volume
+   regulation in the presence of presumably intact kidneys?
+   For now, we will continue ranolazine for diastolic function, beta
+   blocker to moderate heart rate, ultrafiltration (aggressive) to volume
+   unload, ppi for ulcers.  Prognosis is uncertain at this time.  I am
+   hoping that by aggressively volume unloading, her right heart will
+   shrink down, the tricuspid regurgitation decrease, and her tendency for
+   fluid avidity be reduced.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) 3116**]  on:[**2861-4-10**]
+   12:55 ------
+
+
+DOC CLASS

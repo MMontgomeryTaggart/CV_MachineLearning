@@ -1,0 +1,197 @@
+Chief Complaint:
+   24 Hour Events:
+   - Admitted yesterday evening
+   - Was started on Labatalol gtt to titrate for BP140-180s, turned off
+   o/n as BP 130-140s
+   - Neuro status stable o/n
+   Allergies:
+   Lisinopril
+   Cough;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3224-1-12**] 06:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 51 (51 - 72) bpm
+   BP: 127/49(68) {127/40(68) - 188/92(111)} mmHg
+   RR: 24 (22 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+             Total In:
+                                                                     56 mL
+                                                                     17 mL
+   PO:
+             TF:
+   IVF:
+                                                                     56 mL
+                                                                     17 mL
+   Blood products:
+   Total out:
+                                                                    350 mL
+                                                                      0 mL
+   Urine:
+                                                                    350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -294 mL
+                                                                     17 mL
+   Respiratory support
+   SpO2: 100%
+   ABG: ////
+   Physical Examination
+   Gen: Tired appearing, awake and responding appropriately, NAD. Oriented
+   x3.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   Neck: Supple with no appreciable JVD
+   CV: Irregular, 3/6 SEM @ RSB, radiates to carotids. No audible S2
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTA anteriorly. no crackles,
+   wheezes or rhonchi.
+   Abd: Soft, NTND. No HSM or tenderness.
+   Ext: No c/c/e.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   NEURO: L-sided facial droop,tongue midline,L beating nystagmus, [**Month (only) 199**].
+   sensation on L face and RLE to knee, pupils reactive b/l, muscle
+   strength 5/5 in all 4 ext.
+   Labs / Radiology
+   179 K/uL
+   10.5 g/dL
+   32.0 %
+   6.7 K/uL
+        [image002.jpg]
+                             [**3224-1-12**]  05:23 AM
+   WBC
+   6.7
+   Hct
+   32.0
+   Plt
+   179
+   Other labs: PT / PTT / INR:/66.4/
+   Assessment and Plan
+   89F with h/o poorly controlled HTN, and moderate AS, who presented
+   after pre-syncopal episode s/p fall, found to have an acute cerebellar
+   infarct, transferred to CCU for closer monitoring.
+   .
+   # CVA: Developed acute L facial droop this morning, found to have L
+   cerebellar and medullary stroke.  Neuro following.  Also has [**Month (only) 199**].
+   sensation in V1-V3 distribution and on R side as well as left beating
+   nystagmus.  Has [**Month (only) 199**]. flow in L vertebral artery and therefore BP should
+   autoregulate to maintain perfusion given risk of brainstem
+   hypoperfusion.  Started on heparin gtt given concern for embolic
+   stroke.
+   - Neuro following, appreciate their recs
+   - q1 hour neuro checks
+   - If ANY change in exam or MS [**First Name (Titles) **] [**Last Name (Titles) **] head CT to rule out evolving
+   infarct vs. conversion to hemorrhagic stroke.
+   - Let BP autoregulate, treat only if >180
+   - IV labetolol prn BP>180, avoiding hydral and nitro given severe AS
+   - Repeat head CT in am
+   - Cont. Hep gtt without bolus, goal PTT 50-70
+   - If BP very labile consider d/c heparin given risk for bleed.
+   - Keep HOB <30 degrees
+   - NPO
+   .
+   # pre-syncope - Etiology felt to be likely multifactorial with
+   contributions from n/v, dehyration exerbating underlying mod-severe
+   aortic stenosis, and malignant hypertension. ACS felt to be less
+   likely. Now with cerebellar stroke which could also be contributing.
+   - continue telemetry
+   - CE mildly elevated, trop peaked at 0.13 likely demand
+   - TTE shows stable mod-severe AS
+   - prn anti-emetics
+   - gentle IVF
+   .
+   #. Coronaries - no known h/o CAD, ?q's in lead III, avF.  EKG unchanged
+   from prior.  Had trop elevation, however felt to be secondary to demand
+   in setting of severe, uncontrolled HTN.
+   - Cont. tele
+   - Cont. ASA
+   - IV labetolol prn as above
+   .
+   #. Pump: TTE shows EF >55% with LVH and severe AS.  Preload dependent.
+   Currently appears euvolemic. recieved 1L IVF in ED and additional 1L
+   IVF on admission.  Evaluated by CSURG for ? AVR, however patient
+   declines surgery at this point.
+   - IV labetolol as above
+   - Monitor I/O
+   - Gentle IVF o/n given NPO
+   - Discuss possibility of valvuloplasty with pt. and family if
+   neurologically stable
+   - Once stable and able to take PO would likely benefit from [**Last Name (un) 281**]
+   .
+   #. Rhythm - NSR with PVCs in telemetry.
+   .
+   #. HTN - appears poorly controlled at baseline based on LVH on ECG and
+   TTE, likely exacerbating subendocardial ischemia given her AS. Ideal
+   medications for her would include BB and [**Last Name (un) 281**] given AS.
+   - while unable to tolerate PO presently, will use IV labetolol,
+   avoiding hydral and nitro given severe AS
+   - Goal BP 120-180 in setting of acute stroke
+   .
+   #. ARF - Baseline Cr 1.1, was 1.7 on admission which is stable today.
+   Likely [**1-8**] volume depletion and also poor forward flow in setting of
+   AS.  FeNa 1% on admission.
+   - Gentle IVF given NPO
+   - Cont. to follow
+   - holding HCTZ
+   - renally dose meds
+   .
+   # nausea/vomiting - etiology unclear, developed after fall. ? whether
+   this was related to TIA prior to CVA vs other process such infection (?
+   viral gastroenteritis). per neuro, meningioma unlikely to cause these
+   symptoms. No signs of edema on head CT. UTI unlikely, culture shows
+   contamination. No abdominal discomfort and abdomen soft. CXR negative.
+   No fevers.
+   - if develops abdominal pain, will check AXR.
+   - LFTs wnl.
+   - zofran prn.
+   .
+   # meningioma - incidental finding, and not felt likely to contribute to
+   presentation.
+   - neuro following
+   .
+   #. FEN -  Patient failed S&S today.  Currently NPO.
+   - Follow lytes, replete prn
+   - Gentle IVF for maintenance
+   .
+   #. PPx:
+   - heparin gtt.
+   - bowel regimen prn.
+   .
+   #. Code: DNR/DNI - confirmed with pt and HCP
+   .
+   #. COMM: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3837**] [**Telephone/Fax (1) 3838**] (HCP).
+   .
+   # Dispo: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3224-1-11**] 07:30 PM
+   18 Gauge - [**3224-1-11**] 08:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,233 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Pt will have left shoulder arthroscopy and left hip/ right MCP
+   aspiration tomorrow am.  Agrees to intubation for procedure
+   - vit K 10mg x 1 to reverse INR, heparin gtt to be turned off at 2am,
+   NPO after midnight
+   - gave 1 U FFP and had 1UFFP on call for OR
+   - OSH BCx: Staph aureus, sensitive to Vanc, Gent
+   - decreased UOP: 250cc NS, increased Dopa (6)
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3425-1-18**] 08:45 AM
+   Infusions:
+   Dopamine - 6 mcg/Kg/min
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**3425-1-19**] 01:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3425-1-20**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 35.5
+C (95.9
+   HR: 72 (68 - 81) bpm
+   BP: 82/46(56) {71/33(44) - 99/54(66)} mmHg
+   RR: 15 (12 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: AV Paced
+   Wgt (current): 71.5 kg (admission): 73 kg
+   Height: 71 Inch
+             Total In:
+                                                                  1,763 mL
+                                                                    205 mL
+   PO:
+                                                                    480 mL
+             TF:
+   IVF:
+                                                                  1,283 mL
+                                                                    205 mL
+   Blood products:
+   Total out:
+                                                                  1,660 mL
+                                                                    255 mL
+   Urine:
+                                                                  1,660 mL
+                                                                    255 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    103 mL
+                                                                    -50 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///29/
+   Physical Examination
+   GENERAL: Elderly female, lying comfortably in bed; A+O x 3
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI.
+   NECK: Supple with RIJ in place with surrounding ecchymoses and hematoma
+   CARDIAC: normal S1, S2. II/VI SEM, RRR
+   LUNGS: equal air entry bilaterally
+   ABDOMEN: Soft, NT, NABS; +ascites
+   EXTREMITIES: + trace  pedal edema, +2DP pulses b/l, Left shoulder with
+   dressing c/d/i, right MCP joint: with +blanching erythema and edema.  L
+   hip: nontender to palpation; no surrounding erythema;  Pain with
+   passive ROM
+   SKIN: +dry skin
+   Labs / Radiology
+   189 K/uL
+   11.0 g/dL
+   114 mg/dL
+   1.5 mg/dL
+   29 mEq/L
+   4.4 mEq/L
+   57 mg/dL
+   97 mEq/L
+   133 mEq/L
+   34.9 %
+   6.9 K/uL
+        [image002.jpg]
+                             [**3425-1-17**]  02:10 PM
+                             [**3425-1-17**]  06:07 PM
+                             [**3425-1-18**]  02:30 AM
+                             [**3425-1-18**]  06:29 AM
+                             [**3425-1-18**]  09:23 AM
+                             [**3425-1-18**]  10:39 AM
+                             [**3425-1-18**]  05:44 PM
+                             [**3425-1-19**]  06:29 AM
+                             [**3425-1-19**]  03:32 PM
+                            [**3425-1-20**]  03:28 AM
+   WBC
+   6.2
+   7.1
+   6.9
+   Hct
+   37.2
+   35.5
+   34.9
+   Plt
+   180
+   184
+   189
+   Cr
+   2.5
+   2.3
+   1.7
+   1.5
+   TCO2
+   30
+   27
+   30
+   30
+   31
+   Glucose
+   147
+   133
+   131
+   128
+   114
+   Other labs: PT / PTT / INR:27.3/43.3/2.7, CK / CKMB /
+   Troponin-T:15//0.07, ALT / AST:[**12-2**], Alk Phos / T Bili:107/2.4, Lactic
+   Acid:1.0 mmol/L, Albumin:3.5 g/dL, LDH:213 IU/L, Ca++:8.2 mg/dL,
+   Mg++:2.0 mg/dL, PO4:2.6 mg/dL
+   Microbiology:
+   Blood cx: [**1-16**]- [**1-18**]  GPC
+   Blood cx: [**1-19**], [**1-20**] pending
+   Assessment and Plan
+   71 yo F w/ CAD, ischemic [**Month/Year (2) 5254**] (EF 10%) s/p [**Hospital1 **]-V ICD, atrial
+   fibrillation, CKD, with past history of DVT and PE on Coumadin who was
+   recently discharged from the CCU ([**1-1**]) for CHF exacerbation c/b
+   C.diff infection, admitted from OSH with septic shoulder joint (MRSA)
+   and hypoxia, requiring intubation.
+   # Hypotension: low BP requiring pressor support with dopamine (weaned
+   off dobutamine).  Etiology likely multifactorial shock from sepsis
+   (MRSA bacteremia and septic shoulder) and cardiogenic with EF of 10%.
+   On RV catheterization [**1-17**]; CVL > 17 suggesting that hypovolemia is not
+   playing significant role in hypotension
+   - wean dopamine to maintain adequate end organ perfusion
+   - cont abx coverage with vancomycin 1gm q 48hrs
+   - source control with left shoulder/ hip washout/ aspiration
+   - aggressive diuresis role with -1 to 2 L/day as tolerated by BP
+   # Septic Joint:  Patient with +staph aureus in left shoulder.  Patient
+   also had +hemarthrosis of left shoulder. Ortho performed aspiration of
+   L shoulder joint [**3425-1-16**].
+   - continue Vanc
+   - arthoscopy of left shoulder, arthroscopy of right MCP and left hip
+   planned for today
+   - PO vitamin K for reversal of INR, hold heparin gtt at 2am tomorrow
+   # Bacteremia: OSH blood cultures positive today for GPC in
+   clusters/pairs, likely MRSA with likely source septic glenohumeral
+   joint.  No evidence of endocarditis on TEE yesterday.  Other possible
+   etiologies PNA (GPC in sputum), UTI, line infection.  Picc line placed
+   at OSH replaced yesterday with central cordis
+   - continue IV Vanc
+   - cont daily surveillance cx until negative
+   # CORONARIES: Patient with h/o CAD w/ right dominant system, mild
+   instent re-stenois of the LAD BM stent and occluded RCA.  No evidence
+   of ischemic event precipitating cardiogenic shock
+   - con Simva 20mg
+   - on telemetry
+   - hold ASA pending surgical intervention tomorrow
+   # PUMP: Patient with h/o ischemic [**Last Name (LF) 5254**], [**First Name3 (LF) 281**] 10%, s/p BiV ICD ([**Company 2322**]
+   Concerto C154DWK) [**2-19**].  As above, admitted with  symptoms of
+   cardiogenic shock with volume overload .  Currently autodiuresing
+   - strict I/Os  with aggressive diuresis as tolerated by BP
+   - daily weights
+   - consider restarting Lasix if output diminishes
+   # Respiratory Failure:  Patient currently extubated and maintaining
+   adequate saturation on RA.  Respiratory failure likely secondary to
+   mucus plugging and underlying CHF. Pt has sputum Cx with GPC in pairs,
+   but no evidence of PNA on CXR.
+   - wean O2 as tolerated
+   - elective intubation for procedure tomorrow
+   # RHYTHM: Patient with h/o atrial fibrillation, s/p BiV ICD ([**Company 2322**]
+   Concerto C154DWK) [**2-19**], on coumadin.  Patient paced on [**Last Name (LF) **], [**First Name3 (LF) 167**]
+   obtain ECG to compare with previous ECG. Intra-atrial thrombus on TEE,
+   on heparin gtt
+   - cont home Amiodarone
+   - hold dig, supratherapeutic level 2.6
+   - reverse INR with vitamin K pending surgical intervention tomorrow
+   -hold heparin gtt at 2 am tomorrow am.
+   # Acute on CRF: Patient w/ baseline Cr 1.3-1.8, 2.4 on presentation.
+   Likely related to CHF. FEUrea 35%.
+   - monitor Cr
+   .
+   # H/o DVT/PE: Patient has h/o DVT/PE currently on heparin gtt and has a
+   [**Location (un) **] filter in place.  Supratherapeutic INR, now improved to
+   therapeutic range of 2.8.
+   - reverse INR with vitamin k x 1
+   - start heparin gtt, hold tomorrow prior to OR
+   .
+   # Hypothyroidism: Continue Levothyroxine.
+   .
+   # Allopurinol:  Patient on Allopurinol, unclear why. Right 3^rd MCP
+   joint swelling may be related to gout, but shoulder tap shows
+   pseudogout.
+   # FEN: NPO after midnight, replete lytes PRN
+   .
+   # ACCESS: L subclavian triple lumen
+   .
+   # PROPHYLAXIS: heparin gtt
+   .
+   # CODE: DNR/ DNI (will reverse for OR tomorrow am)
+   .
+   # DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3425-1-16**] 04:12 AM
+   22 Gauge - [**3425-1-16**] 02:04 PM
+   Cordis/Introducer - [**3425-1-17**] 09:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,516 @@
+Admission Date:  [**2671-7-11**]              Discharge Date:   [**2671-7-17**]
+
+Date of Birth:  [**2589-9-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 107**]
+Chief Complaint:
+Chest pain and dyspnea
+
+Major Surgical or Invasive Procedure:
+Cardiac Cath
+IABP placement and removal
+
+
+History of Present Illness:
+81 year old man with HTN, PUD, DM and CRI presented on [**2671-7-10**] to
+[**Hospital3 **] with progressive shortness of breath, epigastric
+fullness, chest pain and dysuria. His EKG showed Q waves V1-4
+and STD laterally and initial Troponin-I was 0.85, which
+subsequently bumped to 70.93 on next draw and then trended down
+to 55.28 prior to transfer to [**Hospital1 22**]. His CXR and exam were also
+found to be consistent with pulmonary edema (pt O2 sat 95% 3L)
+and pt was diuresed with 40 mg IV Lasix. He was noted to have a
+UTI (+ E.Coli with unknown antimicrobial sensitivities) and
+treated with a dose of 500 mg IV Levoquin (remained afebrile).
+Also, his Cr on admission 2.5 (recent baseline apparently 1.6)
+with a K 6.9. These were treated with Kayexalate, insulin,
+calcium gluoncate and Lasix. The pt's home ACEi was held and his
+repeat SCr this morning was 2.1.
+.
+Pt was reportedly loaded with 600 mg clopidogrel and started on
+heparing and nitroglycerin gtts. Arrangments were made for
+transfer to [**Hospital1 22**] for cardiac catheterization.
+.
+On arrival to [**Hospital1 22**], the patient was comfortable with stable
+vitals, but was noted to have persistent wet crackles on lung
+exam with a 4L NC oxygen requirement. Repeat CE were CK: 459
+MB:19 MBI:4.1 Trop-T:5.27. As the nitro infusion rate was very
+low, this was stopped and he was continued on heparin.
+Integrelin was not started due to renal failure.
+.
+After several hours on the floor, the patient reported
+experiencing recurrent [**3-14**] right chest pain (achy, pressure
+sensation) while eating. This pain was identical to this
+discomfort that caused him to present initially. An ECG was
+remarkable for new 2 mm STE in V1 and 1 mm STE in V2, as well as
+new inferior Q waves. A nitroglycerin gtt was restarted with
+rapid resolution in the patient's symptoms. Repeat ECG once pain
+free was remarkable for a new RBBB. Given the patient's
+recurrent CP and dynamic ECG changes he was transferred to the
+CCU for ongoing monitoring.
+
+REVIEW OF SYSTEMS: current
+Cardiac:
+(+)ve: None
+(-)ve: chest pain, dyspnea on exertion, paroxysmal nocturnal
+dyspnea, orthopnea, ankle edema, palpitations, syncope,
+presyncope
+General:
+(+)ve: Difficulty hearing
+(-)ve: fevers, chills, rigors, dysuria, hematuria, myalgias,
+joint pains, cough, hemoptysis, black stools, red stools,
+exertional buttock pain, calf pain
+
+
+Past Medical History:
+Cardiac Risk Factors:
+(+)ve Diabetes (Last recorded Hgb A1C = 8.1% [**12/2670**])
+(+)ve Hypertension
+(-)ve Dyslipidemia
+.
+Cardiac History:
+CABG: None
+Percutaneous coronary intervention: None
+Pacemaker/ICD: None
+.
+Other Past History:
+1) Peripheral vascular disease
+2) CKD with baseline CR of 1.5
+3) Chronic lower extremity edema
+4) ? BPH (patient on doxazosin as outpatient and presented to
+OSH with urinary retension)
+
+
+Social History:
+The pt is retired from the army. He lives at home with his wife
+and son. [**Name (NI) **] under 3 pack years of tobacco use. Denies EtOH.
+
+Family History:
+The patient's father died at 69 from his first MI. The pt's
+mother died in her 50's from non-alcoholic cirrhosis. The
+patient has two brothers and one sister who underwent CABG in
+their 50s. There is a strong FH of smoking and lung cancer.
+
+Physical Exam:
+Gen: Thin, elderly male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple with flat neck veins.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Few bibasilar crackles,
+no wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: No C/C/E. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+.
+Pulses:
+Right: Carotid 2+ Femoral 2+ DP 1+
+Left: Carotid 2+ Femoral 2+ DP 1+
+
+
+Pertinent Results:
+[**2671-7-11**] 05:04PM BLOOD WBC-14.6* RBC-3.89* Hgb-11.4* Hct-32.4*
+MCV-83 MCH-29.2 MCHC-35.2* RDW-13.1 Plt Ct-369
+[**2671-7-11**] 05:04PM BLOOD PT-16.0* PTT-46.5* INR(PT)-1.4*
+[**2671-7-11**] 05:04PM BLOOD Glucose-146* UreaN-58* Creat-2.0* Na-139
+K-3.7 Cl-98 HCO3-27 AnGap-18
+[**2671-7-12**] 10:30AM BLOOD ALT-32 AST-45* CK(CPK)-170 AlkPhos-63
+Amylase-44 DirBili-0.1
+[**2671-7-12**] 05:31AM BLOOD Calcium-9.0 Phos-3.6 Mg-2.2 Iron-34*
+Cholest-91
+[**2671-7-12**] 05:31AM BLOOD Triglyc-135 HDL-25 CHOL/HD-3.6 LDLcalc-39
+[**2671-7-11**] 05:04PM BLOOD %HbA1c-6.9*
+[**2671-7-12**] 05:31AM BLOOD calTIBC-234* Ferritn-157 TRF-180*
+[**2671-7-12**] 10:30AM BLOOD VitB12-196*
+[**2671-7-11**] 05:04PM BLOOD CK-MB-19* MB Indx-4.1 cTropnT-5.27*
+[**2671-7-11**] 09:38PM BLOOD CK-MB-15* MB Indx-4.3 cTropnT-4.20*
+proBNP-[**Numeric Identifier **]*
+[**2671-7-11**] 09:38PM BLOOD CK-MB-14* MB Indx-4.3 cTropnT-4.15*
+proBNP-[**Numeric Identifier **]*
+[**2671-7-12**] 05:31AM BLOOD CK-MB-10 MB Indx-4.8 cTropnT-3.52*
+proBNP-[**Numeric Identifier **]*
+[**2671-7-12**] 10:30AM BLOOD cTropnT-2.87*
+[**2671-7-12**] 07:04PM BLOOD CK-MB-6
+[**2671-7-13**] 08:00PM BLOOD CK-MB-5
+[**2671-7-14**] 04:24AM BLOOD CK-MB-7
+[**2671-7-11**] 05:04PM BLOOD CK(CPK)-459*
+[**2671-7-11**] 09:38PM BLOOD CK(CPK)-345*
+[**2671-7-11**] 09:38PM BLOOD CK(CPK)-327*
+[**2671-7-12**] 05:31AM BLOOD CK(CPK)-210*
+[**2671-7-12**] 07:04PM BLOOD CK(CPK)-143
+[**2671-7-13**] 08:00PM BLOOD CK(CPK)-112
+[**2671-7-14**] 04:24AM BLOOD CK(CPK)-130
+
+[**2671-7-12**] 03:25PM URINE CastHy-0-2
+[**2671-7-12**] 03:25PM URINE RBC-[**7-12**]* WBC-21-50* Bacteri-MOD
+Yeast-NONE Epi-0
+[**2671-7-12**] 03:25PM URINE Blood-LG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD
+[**2671-7-12**] 03:25PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.018
+
+URINE CULTURE (Final [**2671-7-13**]):    NO GROWTH.
+
+OSH Urine Culture: E. Coli pansensitive
+
+ECG:
+Sinus tachycardia. Left axis deviation. Late R wave progression.
+
+Predominantly anterolateral ST-T wave abnormalities. Low
+precordial
+QRS voltage. No previous tracing available for comparison.
+Clinical
+correlation is suggested.
+
+[**7-12**] Cardiac Cath
+COMMENTS:
+1. Selective coronary angiography in this right dominanat system
+
+revealed severe LM and 3 vessel coronary artery disease. The
+LMCA had
+diffues 90% stenosis involving the proximal LAD. Poor distal
+filling of
+the LAD was noted with R to L collaterals. The LCX was noted to
+have
+poor filling with one reasonable sized OM with a diffuse 80%
+proximal
+stenosis. The RCA was a large vessel with a proximal PDA 70%
+stenosis in
+a notably small vessel. The RPL had a 60% stenosis.
+2. Resting hemodynamics revealed normal systemic blood pressure.
+There
+was elevated right sided filling pressures with RVEDP of 16
+mmHg. There
+were elevated estimated left sided filling pressures with mean
+PCWP of
+18 mmHg. There was mild pulmonary hypertension with PASP of 30
+mmHg.
+3. Successful IABP placement.
+
+FINAL DIAGNOSIS:
+1. Left main and Three vessel coronary artery disease.
+2. Successful IABP placement.
+
+[**7-13**] Cardiac Cath
+COMMENTS:
+1. Selective coronary angiography revealed 3 vessel coronary
+artery
+disease. The LMCA had a 90% stenosis. The proximal LAD had a 90%
+
+stenosis and was diffusely diseased distally. The LCX was
+diffusely
+disease and the OM2 had an 80% mid vessel stenosis. The RCA was
+not
+engaged.
+2. Limited resting hemodynamics revealed normal systemic
+pressures with
+good diastolic augmentation from the IABP.
+3. Left ventriculography was deferred.
+4. Successful PTCA and stenting of the LMCA with a 3.0 x 28 mm
+XIENCE
+DES which was post dilated with a 4.0 x 12 mm NC balloon at 14
+ATM.
+Final angiography revealed no residual stenosis in the stent, no
+
+dissection and TIMI III flow. (See PTCA comments)
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Successful stenting of the LMCA.
+
+[**7-12**] TTE
+Left ventricular wall thicknesses and cavity size are normal. No
+masses or thrombi are seen in the left ventricle. Overall left
+ventricular systolic function is severely depressed (LVEF= 25-30
+%) with globbal hypokinesis and regioanl akinesis of the
+inferior wall, distal septum and apex (multivessel CAD?). RV
+with borderline normal free wall function. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. There is mild pulmonary
+artery systolic hypertension. There is a small pericardial
+effusion. There are no echocardiographic signs of tamponade.
+
+Carotid U/S
+IMPRESSION: Mild plaque in the internal carotid arteries
+bilaterally with
+less than 40% stenosis on both sides. This is a baseline
+examination at the
+[**Hospital1 22**].
+
+
+Brief Hospital Course:
+[**2671-7-14**]:
+- balloon pump removed at 14:30, will need groin check
+- I/O (goal 500-1000cc): 4:30pm +622, gave 20mg IV lasix.
+- Urine lytes...
+[**2671-7-13**]:
+-Successful cath w/ placement of left main stent
+-IABP remained in o/n, hep gtt restarted
+-unremarkable post cath check
+-
+[**2671-7-12**]:
+- [**Hospital3 **] U/A: yellow, turbid, SG 1.011, -glucose,
+-bili, -ketones, blood large, pH5.5, protein 300, urobilinogen
+0.2, -nitrite, large leuk esterase, few squamous epi, TNTC WBC,
+[**11-15**] RBC, 2+ bacteria. Growing E.Coli 100,000 CFU/mL,
+pansensitive. Record is in chart.
+- U/A: cont to be dirty
+- Echo: LVEF= 25-30 % with globbal hypokinesis and regioanl
+akinesis of the inferior wall, distal septum and apex. RV with
+borderline normal free wall function. No AS/AR, no MVP. 1+ MR,
+Mild pulmonary HTN. Small pericardial effusion, no echo signs of
+tamponade.
+- Carotid U/S: <40% bilaterally
+- Iron studies: Fe 34, ferritin 157, TIBC 234, TRF 180. Thought
+mildy iron deficient. Started iron 325mg daily, and guiac stools
+x3
+- lipid panel: total chol 91, HDL 25, LDL 39
+- HbA1c: 6.9%
+- labs ordered for AM per CT [**Doctor First Name 97**]: albumin, LFTs, T+C
+- EKG: unchanged
+- CT surgery will take in morning.
+- became nauseated w/ K replacement, vomit x1, compazine x1
+[**2671-7-11**]:
+Repeat CE trending down: CK:327 MB:14 MBI:4.3 Trop-T:4.15
+
+81 yo male with history of HTN and diabetes who presented to OSH
+with SOB/CP found to have NSTEMI, transferred to [**Hospital1 22**] for
+cardiac cath and to CCU for ongoing monitoring in setting of
+recurrent CP and new RBBB.
+.
+#. CAD: Patient was found to have an NSTEMI at an OSH.  He was
+transferred to [**Hospital1 22**] for cardiac cath and further monitoring.
+His EKG showed Q waves V1-4 and STD laterally and initial
+Troponin-I was 0.85, which subsequently bumped to 70.93 on next
+draw and then trended down to 55.28 prior to transfer to [**Hospital1 22**].
+.
+Pt was reportedly loaded with 600 mg clopidogrel and started on
+heparin and nitroglycerin gtts. On arrival to [**Hospital1 22**], the patient
+was comfortable with stable vitals, but was noted to have
+persistent wet crackles on lung exam with a 4L NC oxygen
+requirement. Repeat CE were CK: 459 MB:19 MBI:4.1 Trop-T:5.27.
+As the nitro infusion rate was very low, this was stopped and he
+was continued on heparin. Integrelin was not started due to
+renal failure.
+.
+After several hours on the floor, the patient reported
+experiencing recurrent [**3-14**] right chest pain (achy, pressure
+sensation) while eating. This pain was identical to this
+discomfort that caused him to present initially. An ECG was
+remarkable for new 2 mm STE in V1 and 1 mm STE in V2, as well as
+new inferior Q waves. A nitroglycerin gtt was restarted with
+rapid resolution in the patient's symptoms. Repeat ECG once pain
+free was remarkable for a new RBBB. Given the patient's
+recurrent CP and dynamic ECG changes he was transferred to the
+CCU for ongoing monitoring.
+Pt with multiple risk factors for CAD, including HTN and
+diabetes.  The patient underwent cardiac cath on that showed
+severe LM and 3 vessel coronary artery disease. The LMCA had
+diffues 90% stenosis involving the proximal LAD, OM with a
+diffuse 80% proximal stenosis. The RCA was a large vessel with a
+proximal PDA 70% stenosis and RPL with 60% stenosis.
+Additionally, an IABP was successfully placed.  Given the
+patient's disease a discussion occured regarding CABG, but the
+patient declined surgery and opted for stenting.  The patient
+then underwent successful stenting of his LMCA with a 3.0 x 28
+mm DES on [**2671-7-13**].  The patient tolerated the procedure well and
+his IABP was weaned and successfully removed on [**7-14**].  The
+patient remained chest pain free.  He was continued on aspirin,
+plavix, metoprolol, and atorvastatin.  His ACE-I was held
+secondary to his renal failure.
+
+#. Pump: At the OSH the patient's CXR and exam were consistent
+with pulmonary edema (pt O2 sat 95% 3L) and pt was diuresed with
+40 mg IV Lasix. Pt initially with evidence of mild failure on
+exam by report, although in the CCU the patient appeared
+improved.  The patient was on Lasix as an outpatient. An ECHO
+performed on [**7-12**] showed EF 25-30% with global hypokinesis and
+regioanl akinesis of the inferior wall, distal septum and apex.
+Likely suspect ischemia as major contributing etiology to his
+failure.  The patient was given lasix 20mg IV for diuresis and
+restarted on his home dose of 40mg po.
+
+#. Rhythm: NSR per OSH EKGs, with RBBB initally on ECG.  On
+repeat [**7-13**] the bundle branch had resolved.
+
+#. [**Last Name (un) **] on CKD: By report pt had some urinary retention at OSH
+and improved s/p Foley catheter placement. Also, his Cr on
+admission 2.5 (recent baseline apparently 1.6) with a K 6.9.
+These were treated with Kayexalate, insulin, calcium gluoncate
+and Lasix at the OSH. The pt's home ACEi was held and his repeat
+SCr this morning was 2.1. The patient's creatine did trend up to
+2.3 after his two cardiac catheterizations.  Prior to each
+procedure he was given mucomyst and pre-cath hydration.  His
+ACE-I was held secondary to his rising creatinine. On discharge
+hos creatine was improving and was 2.0 on discharge.
+.
+#. Urinary Tract Infection: At the OSH he was noted to have a
+UTI (+ E.Coli that was pansensitive). He was treated at the OSH
+with a dose of 500 mg IV Levoquin.  He reamined afebrile.  On
+admission he was treated with Ciprofloxacin 500 mg Q24H x 6 days
+(total 7 day course). His repeat urine culture here was no
+growth.
+.
+#. Urinary Retention: The patient was found to have retention at
+the OSH and foley catheter was placed.  During his admission his
+foley was removed, but the patient was unable to void. A foley
+was placed again and speaking with Urology recommended leaving
+the foley in place for 1 week with urology follow-up as an
+outpatient.  He was arranged with outpatient follow-up on [**7-20**].
+He was also restarted on doxazosin.
+
+#. GERD: Was on PPI at home and at OSH. Due to interaction with
+clopidogrel he was changed to H2 blocker (Ranitidine 150 mg
+[**Hospital1 **]).
+.
+#. Diabetes: His home medications of metformin, glimepiride,
+rosiglitazone were held. He was continued on ISS and diabetic
+diet.  He was discharged on his home regimen.
+.
+# Anemia: The patient was found to be iron deficient and low
+B12.  He was started on iron supplements and given an IM dose of
+Vit B12.  His Hct remained stable and discharge Hct was 28.4.
+He did not receive blood products durng his admission.
+
+Medications on Admission:
+Metformin 500mg [**Hospital1 **]
+Nadolol 80mg daily
+Glimeperide 4mg BS <140
+Glimeperide 8mg BS >140
+Lasix 40mg daily
+KChlor 20mg daily
+Quinapril 20mg daily
+Avandia 50mg daily
+Doxazosin 4mg qHS
+Omeprazole 20mg daily
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*30 Tablet(s)* Refills:*0*
+6. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24
+hours).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Glimepiride 4 mg Tablet Sig: One (1) Tablet PO once a day.
+11. Metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+12. Rosiglitazone  Oral
+13. Doxazosin 4 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+Primary:
+NSTEMI
+UTI
+Urinary Retention
+
+Secondary:
+CRI
+Anemia
+
+
+Discharge Condition:
+stable, ambulating with walker, foley in place
+
+
+Discharge Instructions:
+It was a pleasure taking care of you while you were in the
+hospital.  You were admitted to [**Hospital1 22**] because of a heart attack.
+ You underwent intervention and got a stent to your heart. You
+also had a balloon pump in place to help your heart pump, this
+was removed without complications.  You were also treated for a
+urinary tract infection with antibiotics.
+
+You also had difficulty urinating and a foley catheter was
+placed.  This should remain inplace until you follow-up with
+your Urology appointment below.
+
+Please follow the medications prescribed below.
+1) START metoprolol 25mg twice a day
+2) START plavix 75mg daily
+3) START atorvastatin 80mg daily
+4) START Ferrous Sulfate 325mg daily
+5) START Aspirin 325mg daily
+6) CONT lasix 40mg daily
+7) STOP omeprazole and START famotidine 20mg daily
+8) START docusate and senna for bowel regimen if needed
+9) START Doxazosin 4mg daily at night
+
+Please follow up with the appointments below.
+
+Please call your PCP or go to the ED if you experience chest
+pain, palpitations, shortness of breath, nausea, vomiting,
+fevers, chills, or other concerning symptoms.
+
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction:
+
+Followup Instructions:
+Appointment #1
+MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 23091**], NP
+Specialty: Urology
+Date and time: [**7-20**] at 9:30am
+Location: [**Hospital Ward Name 211**] Clinical Center, [**Location (un) 600**]
+Phone number: [**Telephone/Fax (1) 2899**]
+Special instructions if applicable: for Foley Catheter removal
+
+Appointment #2
+MD: Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+Specialty: Cardilogy
+Date and time: [**8-8**] at 10:20am
+Location: [**Hospital Ward Name 211**] [**Location (un) **]
+Phone number: [**Telephone/Fax (1) 854**]
+Special instructions if applicable:
+
+Appointment #3
+MD: Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4110**]
+Specialty: Primary Care
+Date and time: [**7-31**] at 11:30am
+Location: [**Street Address(2) 16481**], [**Location (un) 1211**]
+Phone number: [**Telephone/Fax (1) 16521**]
+
+
+
+Completed by:[**2671-7-17**]
+
+DOC CLASS

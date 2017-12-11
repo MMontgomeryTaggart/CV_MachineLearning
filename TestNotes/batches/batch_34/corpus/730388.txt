@@ -1,0 +1,263 @@
+Chief Complaint: ALS with ventilator dependence with sepsis
+   24 Hour Events:
+ MIDLINE - START [**3114-5-13**] 11:[**Street Address(2) 3061**] [**4-19**]..HO wants it out
+ MIDLINE - STOP [**3114-5-13**] 08:[**Street Address(2) 3062**] [**4-19**]..HO wants it out
+ MULTI LUMEN - START [**3114-5-13**] 08:39 PM
+   Vancomycin, Zosyn, Ceftazidime and Flagyl - hx of resistant Pseudomonas
+   and Morganella
+   Received 3L IVF following arrival to ICU
+   Large amount of stool production overnight
+   Aggressive K repletion
+   History obtained from Medical records
+   Patient unable to provide history: ALS
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3114-5-13**] 10:00 PM
+   Metronidazole - [**3114-5-13**] 11:00 PM
+   Ceftazidime - [**3114-5-14**] 05:35 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3114-5-13**] 10:00 PM
+   Heparin Sodium (Prophylaxis) - [**3114-5-14**] 03:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3114-5-14**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.2
+   Tcurrent: 35.7
+C (96.3
+   HR: 81 (72 - 92) bpm
+   BP: 99/66(74) {76/47(56) - 109/71(80)} mmHg
+   RR: 16 (16 - 19) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+    CVP: 8 (7 - 9)mmHg
+   Total In:
+                                                                  6,428 mL
+                                                                    161 mL
+   PO:
+   TF:
+   IVF:
+                                                                  3,798 mL
+                                                                    161 mL
+   Blood products:
+   Total out:
+                                                                  1,980 mL
+                                                                    980 mL
+   Urine:
+                                                                  1,980 mL
+                                                                    980 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,448 mL
+                                                                   -819 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 24 cmH2O
+   Plateau: 19 cmH2O
+   SpO2: 100%
+   ABG: 7.32/55/29/24/0
+   Ve: 8.5 L/min
+   PaO2 / FiO2: 58
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, tracheostomy
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   coarse throughout, greater at bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended,
+   distenstion improved, PEG in place
+   Extremities: Right: Absent, Left: Absent
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm, Rash:
+   Neurologic: Attentive, Responds to: Not assessed, Movement: No
+   spontaneous movement, Tone: Increased, blinks eyes in response to
+   questions
+   Labs / Radiology
+   178 K/uL
+   7.6 g/dL
+   117 mg/dL
+   0.2 mg/dL
+   24 mEq/L
+   3.5 mEq/L
+   29 mg/dL
+   119 mEq/L
+   149 mEq/L
+   25.5 %
+   9.7 K/uL
+        [image002.jpg]
+                             [**3114-5-13**]  11:58 AM
+                             [**3114-5-13**]  03:44 PM
+                             [**3114-5-13**]  09:18 PM
+                             [**3114-5-14**]  12:50 AM
+                             [**3114-5-14**]  05:10 AM
+   WBC
+   16.9
+   9.7
+   Hct
+   27.3
+   27
+   25.3
+   25.1
+   25.5
+   Plt
+   186
+   178
+   Cr
+   0.7
+   0.3
+   0.3
+   0.2
+   TCO2
+   30
+   Glucose
+   179
+   164
+   133
+   138
+   117
+   Other labs: Lactic Acid:1.0 mmol/L, Ca++:8.0 mg/dL, Mg++:2.4 mg/dL,
+   PO4:1.9 mg/dL
+   Imaging: CT ABD/Pelvis [**5-13**]
+   1. Atonic, dilated, stool-filled rectum and colon.
+   2. No evidence of proximal obstruction.
+   3. Bibasilar aspiration.
+   .
+   [**5-13**] Port Abd FINDINGS: Single supine abdominal radiograph is reviewed
+   without comparison.
+   The diaphragms, and portions of the upper abdomen are not included on
+   current
+   study. There is no sign of free intraperitoneal air on this single
+   supine
+   view. Multiple distended loops of colon are seen, measuring up to 10
+   cm. No
+   definite pneumatosis is seen, though evaluation is limited by the large
+   amount
+   of stool throughout the colon. Note is made of IVC filter at the level
+   of L1.
+   IMPRESSION: Multiple distended loops of colon of uncertain
+   significance. CT
+   recommended for further evaluation.
+   .
+   CXR [**5-13**] IMPRESSION:
+   1. No free air, but multiple distended loops of bowel seen in the upper
+   abdomen. CT recommended for further evaluation.
+   2. Slightly improved left basilar aeration, but residual retrocardiac
+   opacity
+   and likely left effusion persists.
+   Microbiology: [**3114-5-13**] 2:27 am URINE
+      URINE CULTURE (Pending): [**3114-5-13**] 6:30 am BLOOD CULTURE
+   VENIPUNCTURE.
+      Blood Culture, Routine (Pending):
+   [**3114-5-13**] 6:46 pm SPUTUM      Source: Endotracheal.
+      GRAM STAIN (Final [**3114-5-13**]):
+         >25 PMNs and <10 epithelial cells/100X field.
+         4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      RESPIRATORY CULTURE (Preliminary):
+   [**3114-5-14**] 12:33 am STOOL     CONSISTENCY: SOFT
+      CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Pending):
+   Assessment and Plan
+   /P: 52 yo male with ALS, chronically vent dependent with G tube,
+   presents with severe constipation, hematemesis and sepsis
+   # Sepsis: Had fever to 102.5 upon arrival to ED. Per nursing home he
+   has not been having fevers but was recently treated for "leukocytosis"
+   with unasyn and vanco.  Was intermittently being straight-cathed.
+   Unclear where/when foley was placed. Also, has midline in place that
+   was placed at outside facility on [**4-19**]. Likely source of infection is
+   UTI, but also consider pneumonia given chronically vented and is having
+   secretions. Also, consider C. diff given recent antibiotic and dilated
+   colon.
+   - if this is not new foley, then should replace
+   - sputum culture
+   - follow-up blood and urine cultures
+   - stool for C.diff
+   - d/c midline
+   - give ceftaz, vanco, flagyl to treat broadly given chronically vented
+   and in a facility, has had pseudomonas in sputum, coag negative staph
+   bacteremia in the recent past, and is at risk for bowel translocation
+   given dilated bowel loops
+   - Bolus IVFs to keep MAPS 60, UOP>50 cc/hr
+   - place CVL if BPs remain low and has poor UOP
+   - monitor lactate
+   # Constipation: Patient has been having increasing abdominal
+   distention. Seems that he has had chronic problem with constipation. No
+   evidence of obstruction on KUB or CT scan.  Surgery saw in ED and
+   disimpacted. Also, consider c.diff
+   - Lactulose 30 ml QID, titrate to BM
+   - prn enemas
+   - NPO
+   - appreciate surgery recs
+   - monitor abdominal exam
+   # Hematemesis:  Has history of bleed around G tube site. HCT currently
+   stable. No output for NG or G-tube
+   - Q6H HCT
+   - GI aware and will likely scope
+   - Hold ASA for now
+   - 2 large bore PIVs, and CVL if needed
+   - active type and crossmatch
+   - [**Hospital1 **] PPI
+   # Chronic vent dependence/respiratory failure: Currently satting well.
+   Does have significant secretions
+   - HOB >15 degrees
+   - mouth care
+   .
+   # ALS: continue baclofen
+   .
+   # Psych: continue zoloft, remeron
+   .
+   # Glucose intolerance: Currently hold TFs. 1/2 dose Q6h regular insulin
+   sliding scale
+   .
+   #FEN: Hold TFs for now, replete lytes
+   .
+   #ACCESS: d/c  left midline, PIV 18# x2
+   .
+   #PPx: SQ heparin, has IVC filter in
+   .
+   #CODE: full code, per OMR d/c summary. Has been seen by palliative care
+   in the past, but did not want to partake in discussions. Would likely
+   benefit from another palliative care consult and family meeting in Am
+   with the [**Hospital1 960**] interpretor
+   .
+   #COMMUNICATION: Patient wife [**Name (NI) 3052**] ([**Name2 (NI) **]-only speaking)
+   .
+   #DISPO: ICU
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**3114-5-13**] 11:00 AM
+   Multi Lumen - [**3114-5-13**] 08:39 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

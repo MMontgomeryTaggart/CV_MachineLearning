@@ -1,0 +1,161 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ EKG - At [**3234-10-10**] 08:40 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3234-10-10**] 03:43 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3234-10-11**] 06:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.3
+C (97.3
+   HR: 43 (41 - 55) bpm
+   BP: 126/47(66) {103/36(44) - 138/52(72)} mmHg
+   RR: 17 (16 - 23) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 88.2 kg (admission): 89.5 kg
+   Height: 70 Inch
+                  Total In:
+                                                                    880 mL
+                  PO:
+                                                                    880 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  2,004 mL
+                                                                    355 mL
+   Urine:
+                                                                  2,004 mL
+                                                                    355 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,124 mL
+                                                                   -355 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///28/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   206 K/uL
+   10.6 g/dL
+   163 mg/dL
+   1.5 mg/dL
+   28 mEq/L
+   3.9 mEq/L
+   31 mg/dL
+   103 mEq/L
+   140 mEq/L
+   32.3 %
+   5.9 K/uL
+        [image002.jpg]
+                             [**3234-10-10**]  12:03 AM
+                             [**3234-10-10**]  06:02 AM
+                             [**3234-10-10**]  08:52 PM
+                             [**3234-10-11**]  05:13 AM
+   WBC
+   6.0
+   5.9
+   Hct
+   32.4
+   32.3
+   Plt
+   184
+   206
+   Cr
+   1.4
+   1.5
+   TropT
+   0.02
+   0.03
+   Glucose
+   72
+   163
+   Other labs: PT / PTT / INR:35.8/37.5/3.7, CK / CKMB /
+   Troponin-T:81//0.03, Ca++:8.7 mg/dL, Mg++:2.2 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   ASSESSMENT AND PLAN: Mr. [**Known patient lastname 6879**] is a 82M with CAD s/p CABG, systolic
+   CHF who presents with dyspnea on exertion for 3 days duration.
+   .
+   # Respiratory Distress: Patient's symptoms of dyspnea on exertion most
+   concerning for CHF exacerbation in the context of medical
+   noncompliance.  No concern for infection at this time.
+   - Lasix 60 mg IV for goal urine ouput > 150 cc/hr, -1L 24 hours (add
+   dose of IV lasix given this AM)
+   - Continue outpatient medications Metoprolol 25 mg qd (convert to short
+   acting due to bradycardia), ASA
+   - Daily weights, strict I/O, low Na diet, fluid restrict 1.5 L
+   - Cycle cardiac enzymes
+   - Wean off oxygen as tolerated
+   - Monitor on telemetry
+   .
+   # RHYTHM: Rate controlled atrial fibrillation. Patient
+   supra-therapeutic on coumadin (CHADS2 score = 6).
+   - Continue outpatient medications Metoprolol 25 mg qd (convert to short
+   acting due to bradycardia)
+   - Hold warfarin due to INR 4, will re-start at 7.5 q day when INR is in
+   therapeutic range
+   .
+   # Coronaries: 3vd s/p CABG
+   - Continue ASA, statin, BB
+   - Hold Lisinopril due to acute renal failure (see below).
+   .
+   # Acute renal failure: Hyaline casts on Ua suggest poor perfusion.
+   Creatinine elevated mildly from baseline of 1.1.
+   - renally dose all meds
+   - hold Lisinopril in setting of aggressive diuresis
+   - replete K to 4
+   - follow creatinine, urine lytes pending
+   .
+   # HTN
+   - Continue amlodipine
+   - Hold Lisinopril due to acute renal failure
+   .
+   # DM
+   - Continue NPH with sliding scale
+   .
+   # Depression
+   - Continue celexa, risperidone
+   .
+   # Glaucoma
+   -          Continue Brimonidine/Dorzolamide/Timolol
+   ICU Care
+   Nutrition: low Na/diabetic
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3234-10-9**] 08:46 PM
+   18 Gauge - [**3234-10-10**] 12:00 AM
+   Prophylaxis:
+   DVT: sq heparin
+   Stress ulcer: not intubated
+   VAP:  not intubated
+   Comments:
+   Communication:  Comments: [**Name (NI) **] [**Name (NI) 6879**], [**First Name3 (LF) **]/HCP [**Telephone/Fax (1) 6880**]
+   Code status: Full code
+   Disposition: to floor today
+
+
+DOC CLASS

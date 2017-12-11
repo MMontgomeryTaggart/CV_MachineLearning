@@ -1,0 +1,198 @@
+CVICU
+   HPI:
+   HD6   POD 1-CABGx4 (LIMA to LAD, SVG to DIAG/Ramus/PDA)
+   Ejection Fraction:55
+   Hemoglobin A1c:7.4
+   Pre-Op Weight:249.12 lbs   113 kgs
+   Baseline Creatinine:1.8
+   PMHx: diabetes mellitus, hypertension, hyperlipidemia, CAD s/p multiple
+   coronary interventions, most recently DES to left circ '[**01**].,
+   retinopathy s/p laser surgery, PVD, obesity, light headedness [**1-7**]
+   diabetic neuropathy, Cellulitus, s/p chole, s/p left common femoral
+   artery to above-knee popliteal artery, bypass graft with nonreversed
+   greater saphenous vein, angioscopy, and valve lysis, percutaneous
+   flexor tenotomy on the fourth, and fifth toe performed [**3005-12-21**] - on
+   bactrim for 5 days
+   [**Last Name (un) **]: norvasc 10mg daily, Hydralazine 50mg twice a day, HCTZ 25mg once a
+   day, Lisinopril 40mg twice a day, Toprol XL 50mg daily, Simvastatin
+   80mg daily, Timoptic maleate 0.5 % 1 drop OS at bedtime
+   Aspirin 325mg daily, Insulin Humulin 70/30-65units twice a day,
+   Nicotine patch
+   Current medications:
+   Acetaminophen Albuterol-Ipratropium Amiodarone Aspirin EC Clotrimazole
+   Cream Docusate Sodium Magnesium Sulfate Metoclopramide Milk of Magnesia
+   Morphine Sulfate  Nicotine Patch Phenylephrine Ranitidine Simvastatin
+   Timolol Maleate 0.5% TraMADOL (Ultram) Vancomycin
+   24 Hour Events:
+   Post operative day:
+   POD#1 - cabg x4
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3005-12-27**] 09:00 PM
+   Infusions:
+   Phenylephrine - 0.4 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3005-12-28**] 09:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**07**] a.m.
+   Tmax: 37.3
+C (99.1
+   T current: 37.3
+C (99.1
+   HR: 78 (72 - 80) bpm
+   BP: 119/43(63) {90/38(54) - 130/57(75)} mmHg
+   RR: 18 (10 - 28) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 123.1 kg (admission): 117.8 kg
+   Height: 68 Inch
+   CVP: 12 (6 - 19) mmHg
+   Total In:
+                                                                  6,212 mL
+                                                                    170 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  5,712 mL
+                                                                    170 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  1,495 mL
+                                                                    605 mL
+   Urine:
+                                                                    735 mL
+                                                                    505 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,717 mL
+                                                                   -435 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 551 (463 - 551) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 20
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   PIP: 11 cmH2O
+   Plateau: 21 cmH2O
+   SPO2: 98%
+   ABG: 7.41/36/90.[**Numeric Identifier 287**]/25/-2
+   Ve: 9.4 L/min
+   PaO2 / FiO2: 225
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Distant heart sounds: Present) +
+   Rub
+   Respiratory / Chest: (Breath Sounds: Wheezes : bilaterally), (Sternum:
+   Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   Obese, Hypoactive
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: No(t) Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3)
+   Labs / Radiology
+   209 K/uL
+   8.4 g/dL
+   106 mg/dL
+   1.1 mg/dL
+   25 mEq/L
+   5.3 mEq/L
+   28 mg/dL
+   109 mEq/L
+   139 mEq/L
+   25.9 %
+   13.2 K/uL
+        [image002.jpg]
+                             [**3005-12-27**]  10:08 AM
+                             [**3005-12-27**]  11:02 AM
+                             [**3005-12-27**]  11:58 AM
+                             [**3005-12-27**]  11:59 AM
+                             [**3005-12-27**]  01:56 PM
+                             [**3005-12-27**]  02:08 PM
+                             [**3005-12-27**]  05:55 PM
+                             [**3005-12-27**]  06:14 PM
+                             [**3005-12-27**]  08:47 PM
+                             [**3005-12-28**]  03:10 AM
+   WBC
+   6.5
+   17.9
+   13.2
+   Hct
+   20
+   22
+   22.5
+   24
+   26.3
+   25.3
+   25.9
+   Plt
+   133
+   190
+   209
+   Creatinine
+   1.0
+   1.1
+   TCO2
+   31
+   27
+   26
+   27
+   28
+   23
+   Glucose
+   90
+   140
+   183
+   130
+   106
+   Other labs: PT / PTT / INR:13.1/29.9/1.1, Differential-Neuts:63.0 %,
+   Band:8.0 %, Lymph:20.0 %, Mono:5.0 %, Eos:2.0 %, Fibrinogen:427 mg/dL,
+   Lactic Acid:1.1 mmol/L, Mg:3.2 mg/dL
+   Assessment and Plan
+   70 yo female s/p CABGx4 (LIMA to LAD, SVG to DIAG, SVG to Ramus, SVG to
+   PDA)[**12-27**]
+   Neurologic: Perc for pain
+   Cardiovascular: Wean neo as tolerated.  Amio given last pm for
+   ventricular ectopy.  Start lopressor once off neo and BP tolerates.
+   Pulmonary: OOB and monitor CT drainage.  Pull later today if drainage
+   low. Nebs, Flovent with + tobacco hx
+   Nutrition: Regular diet, Hx of constipation -  bowel regimen
+   Renal: Foley, Albumin for low UOP  while on neo- start lasix to run neg
+   later today.  Crea stable
+   Hematology: Monitor Hct.  ASA, teds, venodynes
+   Endocrine: RISS, Transition to home dose insulin regimen
+   Infectious Disease: Afebrile.  Periop Abx
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Fluids: KVO
+   Consults: P.T.
+   ICU Care
+   Glycemic Control:  Insulin infusion, Lantus (R) protocol
+   Lines:
+   Arterial Line - [**3005-12-27**] 02:00 PM
+   Multi Lumen - [**3005-12-27**] 02:00 PM
+   Prophylaxis:
+   DVT: Boots, teds
+   Stress ulcer: H2 blocker
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

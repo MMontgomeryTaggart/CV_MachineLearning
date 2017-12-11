@@ -1,0 +1,192 @@
+I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note, including assessment and plan as detailed in my note below.
+   Chief Complaint:  Respiratory distress
+   HPI:
+   80 yo male hx  right hemi diaphragm paralysis, COPD, bronchiectais and
+   tracheal malacia with stent placed in [**2919**].  Presents with low grade
+   fevers, increased cough. And focal findings on x-ray.
+   24 Hour Events:
+   [**Location (un) 5929**] tube fell out will need to go back to OR to have it
+   replaced.
+ OR SENT - At [**2924-4-13**] 01:00 PM
+ OR RECEIVED - At [**2924-4-13**] 02:56 PM
+   Allergies:
+   Opioid Analgesics
+   Confusion/Delir
+   Sulfa (Sulfonamides)
+   Unknown;
+   Tetanus
+   Unknown;
+   Benzodiazepines
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2924-4-12**] 04:55 AM
+   Levofloxacin - [**2924-4-12**] 12:00 PM
+   Vancomycin - [**2924-4-12**] 02:57 PM
+   Meropenem - [**2924-4-14**] 12:01 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   -meropemem 500 Q8hr
+   -Levaquin 750 Q48
+   -Prednisone 60mg qday
+   -venlafaxine
+   -lipitor
+   -ASA 325 (will go back to 81 when coumadin is restarted)
+   -Dilt 120qday
+   -prilosec
+   -atrovent standing nebs
+   -Albuterol PRN
+   -Lidoderm patch
+   -hep SQ tid
+   -Cinemet 1tab qid
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2924-4-14**] 11:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.2
+C (97.2
+   HR: 76 (70 - 83) bpm
+   BP: 158/57(83) {125/27(60) - 158/86(105)} mmHg
+   RR: 24 (18 - 32) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,627 mL
+                                                                    590 mL
+   PO:
+                                                                    100 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  2,227 mL
+                                                                    470 mL
+   Blood products:
+                                                                    300 mL
+   Total out:
+                                                                  1,060 mL
+                                                                    460 mL
+   Urine:
+                                                                  1,060 mL
+                                                                    460 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,567 mL
+                                                                    130 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 97%
+   ABG: ///26/
+   Physical Examination
+   GEN:  much more responsive
+   HEENT: PERRL, EOMI, unable to assess JVD
+   RESP:  tachypnic, central expiratory wheeze increased rales RLL
+   CVS: RRR, no MRG appreciated
+   ABD: soft, NT/ND, NABS
+   EXT: no edema, multiple excoriations on limbs
+   Neuro:  less ridgid
+   Labs / Radiology
+   9.8 g/dL
+   251 K/uL
+   154 mg/dL
+   1.2 mg/dL
+   26 mEq/L
+   3.7 mEq/L
+   32 mg/dL
+   105 mEq/L
+   139 mEq/L
+   28.1 %
+   17.0 K/uL
+        [image002.jpg]
+                             [**2924-4-11**]  11:02 AM
+                             [**2924-4-11**]  03:23 PM
+                             [**2924-4-12**]  04:15 AM
+                             [**2924-4-12**]  09:43 AM
+                             [**2924-4-13**]  02:37 AM
+                             [**2924-4-14**]  04:52 AM
+   WBC
+   8.6
+   16.9
+   17.0
+   Hct
+   30.9
+   27.7
+   28.1
+   Plt
+   [**Telephone/Fax (3) 6275**]
+   Cr
+   1.5
+   1.4
+   1.4
+   1.2
+   TropT
+   0.03
+   0.01
+   TCO2
+   26
+   25
+   Glucose
+   95
+   146
+   154
+   154
+   Other labs: PT / PTT / INR:14.4/25.1/1.3, CK / CKMB /
+   Troponin-T:95/5/0.01, Differential-Neuts:89.8 %, Lymph:6.0 %, Mono:4.1
+   %, Eos:0.1 %, Lactic Acid:0.7 mmol/L, Ca++:9.0 mg/dL, Mg++:2.0 mg/dL,
+   PO4:3.5 mg/dL
+   Micro-Growing proteus [**Doctor Last Name **] pending
+   Assessment and Plan
+   80 yo male hx  right hemi diaphragm paralysis, COPD, bronchiectais and
+   tracheal malacia with stent placed in [**2919**].  Presents with low grade
+   fevers, increased cough. And focal findings on x-ray.
+   # Pneumonia, suspect Health Care Associated: Of note chart reports
+   pulmonary fibrosis but no evidence of fibrosis on CT scan and it is
+   more suggestive of bronchiectasis and tracheal malacia.
+   - Continue broad spectrum antibiotics: pending sensitivities
+    - Will d
+c vanc as no gram + growing
+    - [**Last Name (un) 339**] for GNR (prior sputum from [**9-7**] showing ESBL e.coli)
+    - Levo for atypicals
+   - Going back to OR for [**Location (un) **] replacement
+   - Continue standing atrovent and prn albuterol.
+   - Change to prednisone 40mg daily ([**4-12**]) for component of COPD and
+   taper over 2 weeks.
+   # Acute on CKD:  Baseline SCr ~1.0; presented with 1.5.  Improved
+   ([**4-12**]) to 1.4.
+   - Keep euvolemic ([**4-12**])
+   # PVD:  On coumadin/ASA
+   - Will hold coumadin per vascular surgeon (Dr. [**Last Name (STitle) 5014**] email
+   communication) in case of bronch; can be restarted after procedures and
+   place back to 81mg asa.
+   - Continue ASA 325mg
+   # Parkinsons
+   - Continue sinemet
+   - Confirm addition Parkinson
+s medications with rehab ([**4-12**])
+   - Parkinsons-On sinemet.
+   ICU Care
+   Nutrition: CV diet
+   Glycemic Control:
+   Lines: Pending PICC line
+   Prophylaxis:
+   DVT: Hep SQ
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition :Floor once [**Location (un) **] issue resolved.
+   Total time spent:
+
+
+DOC CLASS

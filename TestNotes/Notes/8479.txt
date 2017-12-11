@@ -1,0 +1,406 @@
+Admission Date:  [**3161-7-22**]              Discharge Date:   [**3161-7-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2660**]
+Chief Complaint:
+Chest pain and shortness of breath
+
+Major Surgical or Invasive Procedure:
+1)Cardiac catheterization with thrombectomy and balloon
+angioplasty of a bare metal stent in a venous graft to the
+obtuse marginal artery.
+.
+2) Intubation/Ventilation
+.
+3) Right subclavian central line
+
+
+History of Present Illness:
+CHIEF COMPLAINT: Chest pain
+.
+EVENTS / HISTORY OF PRESENTING ILLNESS: [**Age over 90 **] year old male with
+CAD (s/p CABG and multiple stents to the venous grafts),
+hypertension, type II diabetes, and chronic renal insufficency
+who presented with suddent onset chest pain and respiratory
+distress starting at 6a.m. on day of admission. The patient felt
+this was the same type of pain as his past myocardial
+infarction. The patient did not have nausea or vomiting.
+.
+In the ED, vital signs were as follows: HR-108-120, BP:
+128-254/100-164, RR: 32, O2sat: 93-100% on CPAP at 5cm H20. On
+exam, patient was diaphoretic with cool extremities, there was
+JVD, bibasilar rales, and bilateral pedal edema. EKG showed ST
+elevations in aVR and V1-V3. Cardiac enzymes showed a CPK of
+125, MB-8, and Trop T 0.21. The patient was given morphine,
+Aspirin 325mg, metoprolol, Plavix 600mg, integrillin, heparin
+drip, nitro drip, Lasix 40mg. The patient continued to have
+respiratory distress an arterial blood gas showed a ph of 7.15,
+pC02 of 54, and a pO2 of 74 and was therefore intubated with an
+8.0 ETT with ventilator settings of Assist control mode with a
+respiratory rate of 12, tidal volume of 550ml, and PEEP of 7.5,
+and FiO2 of 100% and an NG tube was placed. He was then brought
+urgently to the catheterization lab.
+On review of symptoms, he was intubated/sedated and unable to
+obtain history.
+
+
+Past Medical History:
+1. CAD s/p CABG with 3 venous grafts(SVG->LAD, SVG->LCx,
+SVG->PDA '[**45**].)  Status post stent in [**3158**] (3.5 x 23 mm and 3.5 x
+8 mm Cypher in SVG->PDA).  Status post stent in [**3161**](3.5 x 18mm
+Vision RX bare metal stent in the SVG-OM with TIMI 3 flow.)
+
+Cath [**2-8**] with: Three vessle coronary disease. 90% mid-vessel
+stenosis of the SVG to OM with TIMI 2 flow. 40% stenosis of the
+SVG to PDA prior to the Taxus stent. Total occlusion of the SVG
+to LAD graft. LVEDP of 26mm Hg. Moderate left ventricular
+diastolic dysfunction. Successful stention of the SVG-OM graft
+with a 3.5x1 8mm bare metal stent.
+
+ECHO ([**3159-12-10**]): Elongated LA. Normal LV wall thickness and
+cavity size. LVEF of 50% with mild hypokinesis of the anterior
+septum, anterior free wall, and apex. Dilated RA. Normal RV
+chamber size and free wall motion. No AS, or AR. 1+ MR and1-2+
+TR. There was moderate pulmonary artery systolic hypertension.
+2. HTN
+3. Hyperlipidemia
+4. Peripheral vascular disease status post bypass [**3147**]
+5. DM Type II (not on oral hypoglycemics)
+6. Chronic renal insufficiency- baseline Cr of 1.7-2.0
+7. Gout
+8. Status post right cataract surgery
+
+
+Social History:
+The patient lives with daughter and wife. [**Name (NI) **] 8 children.
+Ambulates at home.
+Denies tobacco, alcohol, and illegal drug use.
+
+
+Family History:
+Non contributory.
+
+Physical Exam:
+VS: T: 99.0 , BP: 135/68 , HR: 65 , RR: 100% O2sat on
+AC/16/500/5/50% Wt: 68kg
+Gen: Slender elderly male who is intubated and sedated.
+HEENT: Normal cephalic and atraumatic. Sclera anicteric. EOMI.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+
+Neck: Supple with JVP of less than 10cm.
+CV: PMI located in 5th intercostal space, midclavicular line.
+regular rate, normal S1, S2. No S4, no S3. No murmurs.
+Chest: No chest wall deformities, scoliosis or kyphosis.
+Bibasilar crackles.
+Abd: Soft, non-tender and non-distended, No hepatosplenomegally
+or tenderness. No abdominal bruits.
+Ext: Warm, 2+ pedal edema bilaterally.
+Skin: Minimal stasis dermatitis, No ulcers, scars, or xanthomas.
+
+Pulses:
+Right: Carotid 1+ without bruit; DP 1+; PT 1+
+Left: Carotid 1+ without bruit; DP 1+; PT 1+
+Neur: Opens eyes to painful stimulus. Moving all four
+extremities.
+
+
+Pertinent Results:
+EKG ([**3161-7-22**]): Sinus Tachycardia with a rate of 117bpm. Nml PR
+and QRS intervals. Mildly prolonged QT interval. Nml axis. LVH.
+ST elevations in aVR, V1-V3. ST depressions in I, II, aVF,
+V5-V6. T wave inversions in I, and aVL. Compared to prior EKG:
+Sinus Tachycardia, worsening of ST elevation in aVR and V1-V3.
+Though, in the past, minimal ST elevations were present in those
+leads.
+.
+CXR ([**3161-7-22**]): The cardiac silhouette size remains borderline
+enlarged but stable. Extensive degenerative changes are noted
+throughout the thoracic spine.  There is mild cardiogenic
+hydrostatic edema with small bilateral pleural effusions.
+.
+CARDIAC CATHETERIZATION ([**3161-7-22**])SVG-RCS with 40% stenosis.
+SVG-OM with previous stent occluded and thrombus. SVG-OM
+thrombectomy with balloon angioplasty (22atms)resulting in
+normal flow. LVEDP 25. Right renal artery with no critical
+lesions. Left renal artery with mild ostial disease.
+.
+ECHO ([**3161-7-22**]): Dilated LV with LVEF depressed (20%) Inferior
+akinesis/hypokinesis, anterior hypokinesis, septal
+akinesis/hypokinesis, and apical akinesis/dyskinesis. Nml RV
+size with depressed RV funcion. No AS. No pericardial
+effusion/tamponade.
+.
+ECHO ([**3161-7-24**]):  Mild LA enlargement.  Mild symmetric LVH with
+normal cavity size.  There is mild hypokinesis of the distal
+septum and distal inferior wall.  Left ventricular ejection
+fraction of 30-35%.  Mild RA dilation.  Normal RV chamber size
+and mild RV hypokinesis.  Trace AR, ([**1-3**]+) MR, (1+) TR.
+Compared to study on [**3161-7-22**], there is improvement in LV
+function.
+.
+[**3161-7-22**] WBC-14.4*# RBC-4.99 Hgb-16.4 Hct-51.2 MCV-103*
+MCH-32.9* MCHC-32.0 RDW-16.0* Plt Ct-212
+[**3161-7-27**] WBC-7.5 RBC-3.43* Hgb-11.3* Hct-33.3* MCV-97 MCH-32.8*
+MCHC-33.8 RDW-15.7* Plt Ct-189
+.
+[**3161-7-22**] PT-11.4 PTT-26.3 INR(PT)-1.0
+[**3161-7-27**] PT-11.8 PTT-27.1 INR(PT)-1.0
+.
+[**3161-7-22**] Glucose-201* UreaN-28* Creat-2.0* Na-140 K-4.4 Cl-104
+HCO3-24 AnGap-16
+[**3161-7-27**] Glucose-134* UreaN-35* Creat-2.0* Na-138 K-4.2 Cl-101
+HCO3-27 AnGap-14
+.
+[**3161-7-22**] ALT-53* AST-40 AlkPhos-145* Amylase-29 TotBili-0.8
+[**3161-7-23**] ALT-39 AST-57*
+.
+[**3161-7-22**] CPK-125
+[**3161-7-22**] CPK-95
+[**3161-7-22**] CPK-773*
+[**3161-7-22**] CPK-603*
+[**3161-7-23**] CPK-354*
+.
+[**3161-7-22**] CK-MB-8
+[**3161-7-22**] cTropnT-0.21*
+[**3161-7-22**] CK-MB-95* MB Indx-12.3* cTropnT-3.10*
+[**3161-7-22**] CK-MB-49* MB Indx-8.1*
+[**3161-7-23**] CK-MB-23* MB Indx-6.5* cTropnT-1.88*
+.
+[**3161-7-22**] 08:15AM BLOOD Triglyc-153* HDL-37 CHOL/HD-3.5
+LDLcalc-62
+.
+[**3161-7-22**] Blood gas in ED:  pO2-54* pCO2-74* pH-7.15* calTCO2-27
+Base XS--4
+[**3161-7-22**] Blood gas before extubation:  pO2-90 pCO2-40 pH-7.45
+calTCO2-29 Base XS-3
+.
+[**3161-7-22**] %HbA1c-5.8
+.
+[**3161-7-22**]  HIV AB - negative, HCV Ab - negative
+.
+[**3161-7-22**] Urine Culture.  Enterococcus greater than 100,000
+organisms.  Sensitive to ampicilln, nitrofurantoin, and
+vancomycin.  Resistant to tetracycline.
+
+
+Brief Hospital Course:
+ASSESSMENT AND PLAN, AS REVIEWED AND DISCUSSED IN MULTI
+DISCIPLINARY ROUNDS : Mr. [**Known patient lastname **] is a [**Age over 90 **] year old man with a
+history of CAD (s/p CABG and mult. stent placements), type II
+diabetes, hypertension, and hyperlipidemia who presented with
+chest pain and shortness of breath and found to have an ST
+elevation myocardial infarction based on EKG and cardiac
+enzymes.  Status post cardiac catheterization with thrombectomy
+and balloon angioplasty of the SBG-OM graft.
+.
+CAD/STEMI:  Patient is s/p cardiac cath with thrombectomy and
+balloon angioplasty of the SBG-OM graft.  Cardiac enzymes were
+cycled with a peak CPK of 773 and a peak CK-MB of 95.  The fact
+that the patient had thrombosis of a bare metal stent in the
+SBG-OM graft while on a home dose aspirin and Plavix is
+concerning for some sort of hypercoagulable state.  The patient
+was therefore started on Plavix 75mg PO BID.  The patient was
+continued on aspirin 325 mg daily, continued on Integrilin for
+18 hours after catheterization, atorvastatin 80 mg, and a nitro
+drip (which was later weaned.)  Metoprolol was titrated up to 75
+mg PO TID.  The patient was also started on isosorbide 30mg TID.
+ An ACE inhibitor was held until hospital day 4 because of the
+history of chronic renal insufficiency and the recent cardiac
+catheterization dye load.  The lisinopril then was started and
+titrated up to 20mg Daily.  A lipid panel showed and HDL of 37
+and LDL of 62,
+.
+Pump/CHF: Patient has history of LVEF of 50% with diastolic
+dysfunction repeat ECHO showed and an ejection fraction of 20%
+with inferior, septal, and anterior hypokinesis. On admission
+exam, the patient had bilateral crackles and pedal edema.
+Admission chest x-ray showed infiltrates.  Therefore the patient
+was given Lasix 20mg IV for three days.  The patient was 4.5
+liters negative for the length of stay with decreasing oxygen
+requirement (now on room air) and resolved pedal edema.  The
+patient will be discharged on his home dose of Lasix 20mg PO
+Daily.  The patient was maintained on a beta blocker and an ACE
+inhibitor was started on hospital day 4.
+.
+Rhythm:  Patient stayed in normal sinus rhythm.  Occasional
+premature atrial beats.
+.
+Resp: On admission to the CCU, the patient was
+intubated/sedated. The ventilator setting were weaned and the
+patient passed a pressure support trial.  An arterial blood gas
+before extubation showed a ph of 7.45, pCO2 of 40, and pO2 of
+90.  On the evening of admission, the patient was extubated
+successfully.  Since that time the patient has had decreasing
+oxygen requirement and was discharged on room air.
+.
+Hypotension: On transport from the cath lab, the patient became
+bradycardic and hypotensive (SBP to the 80's.) The patient was
+given atropine with good response. The patient was also started
+on a neosynephrine drip which was quickly weaned. This episode
+was thought to be due to a post-cath vaso-vagal event or recent
+administration of propofol. There was concern from a cardiac
+tamponade and/or ACS an ECHO was rapidly performed and ruled
+this out.  The patient did not have any more hypotensive
+episodes.
+.
+Respiratory Acidosis: ABG on admission showed a ph of 7.20 pCO2
+of 58, and pO2 of 314 consistent with respiratory acidosis. The
+respiratory rate was increased and repeat ABG showed a pH of
+7.47, pCO2 of 29, and pO2 of 193.
+.
+DM type II:  A HbA1c was 5.8%.  The patient was maintained on an
+insulin sliding scale.  The patient was restarted on his home
+dose of glipized before discharge.
+.
+ID/Fever:  On [**3161-7-22**], the patient had rectal temperature to
+102.4.  The patient was started on a course of levofloxacin for
+possible pneumonia (equivocal infiltrate on CXR).  Blood
+cultures were negative and and urine cultures grew enterococcus
+sensitive to ampicillin, nitrofuratoin, and vancomycin.  The
+patient was started on a 10 day course of amoxicillin on [**3161-7-25**]
+and remained afebrile throughout the rest of his stay.
+.
+Renal Function: Patient has history of chronic renal
+insufficiency with a baseline Cr of 1.8-2.0, and received
+Acetylcysteine x2 after catheterization.  His renal function
+remained stable and he is discharged on lisinopril 20mg.
+.
+Hematuria: Mr. [**Known patient lastname **] developed hematura on aspirin, Plavix,
+heparin, and Integrilin.   Because of clots, urology was
+consulted and a 3 way catheter was placed and irrigated.  The
+catheter was removed the next day w/o complication and he was
+urinating wihtout difficulty on discharge.
+.
+Prophy: The patient was maintained on a bowel regimen, proton
+pump inhibitor, and Heparin SQ.
+.
+Access: Right SCV line was placed on [**3161-7-22**] and removed on
+[**3161-7-24**].  Patient had peripheral IV access at that time.
+.
+Code: Full
+.
+Contact: [**Name (NI) 29484**], [**Telephone/Fax (1) 29485**]. Granddaughter, [**Name (NI) **],
+[**Telephone/Fax (1) 29486**].
+.
+Dispo: The patient was discharged to the floor on [**3161-7-26**].  The
+patient was seen by physical therapy and sent home with
+services.  The patient will follow up with his cardiologist and
+primary care doctor.
+
+
+Medications on Admission:
+1. Colchicine 0.6 mg po qod
+2. Allopurinol 100 mg po qod
+3. Lisinopril 40 mg po daily
+4. Atorvastatin 20 mg po daily
+5. Aspirin 325 mg po daily
+6. Hexavitamin  po daily
+7. Glipizide 5 mg po daily
+8. Furosemide 20 mg po daily
+9. Clopidogrel 75 mg  po daily
+10. Nitroglycerin 0.3 mg Tablet sl prn
+11. Isosorbide Dinitrate 30mg po tid
+12. Metoprolol Tartrate 75 mg po bid
+13. Ferrous Sulfate 325mg po daily
+14. Docusate Sodium 100 mg PO BID
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+5. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID
+(3 times a day).
+9. Amoxicillin 250 mg Capsule Sig: Two (2) Capsule PO Q12H
+(every 12 hours) for 8 days.
+Disp:*32 Capsule(s)* Refills:*0*
+10. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) tablet
+Sublingual once a day as needed for chest pain.
+11. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+12. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO once a day.
+
+13. Glipizide 10 mg Tablet Sig: One (1) Tablet PO once a day.
+14. Isosorbide Dinitrate 30 mg Tablet Sig: One (1) Tablet PO
+three times a day.
+Disp:*90 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+1) ST elevation myocardial infarction
+2) Congestive heart failure
+3) Hypoxic respiratory failure
+4) Urinary tract infection
+
+
+Discharge Condition:
+good; stable/normal vital signs, tolerating po, ambulating with
+assistance.
+
+
+Discharge Instructions:
+During this hospitalization, you were diagnosed with a heart
+attack.  The type of heart attack you had is called an ST
+elevation myocardial infarction. You underwent a cardiac
+catheterization to help open up the vessels in your heart.
+.
+It is very important that you take all of your medications.  It
+is especially important that you take your Plavix and aspirin.
+You should take your aspirin once a day and your Plavix twice a
+day.  Under no circumstance should you stop taking these
+medications without speaking to your cardiologist.  If you
+become sick and vomit and are not able to take your aspirin or
+plavix, please contact your cardiologist.
+.
+If you have chest pain, shortness of breath, dizziness, or feel
+hot/sweaty, please call your doctor or go to the nearest
+emergency room.  Please call your doctor if you have any other
+concerns.
+
+We also found that you have a urinary tract infection for which
+you will need to finish about 1 week of antibiotics.
+
+If you develop fevers, chills, nausea, vomiting, abdominal pain
+and diarrhea, or any other problems then please seek medical
+advice.
+
+Followup Instructions:
+Please follow up with your cardiologist.  You have an
+appointment with Dr. [**Last Name (STitle) **] on [**3161-8-2**] at 11:30am at [**Hospital3 29422**] Suite 310.  Please call [**Telephone/Fax (1) 5910**] if you have any
+questions.
+.
+Because you were in the hospital, you should follow up with your
+primary care doctor.  You have an appointment with DR. [**First Name (STitle) **] [**Name8 (MD) 29487**], MD on [**3161-7-26**] at 2:15pm.  Please call [**Telephone/Fax (1) 7881**] with
+any questions.
+.
+You also have an appointment with [**First Name5 (NamePattern1) 6729**] [**Last Name (NamePattern1) 29488**] [**Doctor Last Name **] on
+[**3161-8-7**] at 11:00am.  Please call [**Telephone/Fax (1) 7881**] with any questions.
+
+
+
+
+
+DOC CLASS

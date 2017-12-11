@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="552472.txt">
+    <annotation>
+        <mention id="EHOST_Instance_468" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="145" end="164" />
+        <spannedText>PMH Rectal bleeding</spannedText>
+        <creationDate>Thu Nov 02 13:08:41 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_472">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_468">
+        <hasSlotMention id="EHOST_Instance_472" />
+        <mentionClass id="bleeding_historical">PMH Rectal bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_469" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="1473" end="1507" />
+        <spannedText>Received Protamine for CT drainage</spannedText>
+        <creationDate>Thu Nov 02 13:08:55 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_473">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_469">
+        <hasSlotMention id="EHOST_Instance_473" />
+        <mentionClass id="bleeding_present">Received Protamine for CT drainage</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_470" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6446" end="6479" />
+        <spannedText>Protamine for increased CT output</spannedText>
+        <creationDate>Thu Nov 02 13:09:55 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_474">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_470">
+        <hasSlotMention id="EHOST_Instance_474" />
+        <mentionClass id="bleeding_present">Protamine for increased CT output</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_471" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="8008" end="8017" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Thu Nov 02 13:10:04 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_475">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_476">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_471">
+        <hasSlotMention id="EHOST_Instance_475" />
+        <hasSlotMention id="EHOST_Instance_476" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

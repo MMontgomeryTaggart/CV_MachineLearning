@@ -1,0 +1,221 @@
+Chief Complaint:
+   24 Hour Events:
+   [**3310-5-10**]
+    - Had HD but no UF as below IBW and BP dropped to 100 systolic.
+    - Patient feeling good and doing well, restarted metoprolol post HD at
+   25 and uptitrated
+    - Removed sutures in foot
+    - Stayed in unit given lack of IV access above the belt
+    - fingerstick of 46 this AM, agreed to drink cranberry juice
+   Allergies:
+   Tapazole (Oral) (Methimazole)
+   Rash;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3310-5-8**] 05:00 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3310-5-10**] 09:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3310-5-11**] 06:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**12**] AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 92 (80 - 112) bpm
+   BP: 116/65(76) {103/59(70) - 145/85(99)} mmHg
+   RR: 12 (12 - 24) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 62.7 kg (admission): 62.7 kg
+   Height: 70 Inch
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory support
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   General: Alert, oriented, no acute distress.  Arousable to voice,
+   responds appropriately but selectively to questions.
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: Supple, unable to assess JVD, no LAD
+   Lungs: Coarse BS b/l
+   CV: Regular rate, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen:  Soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Labs / Radiology
+   178 K/uL
+   9.6 g/dL
+   64 mg/dL
+   4.7 mg/dL
+   29 mEq/L
+   4.0 mEq/L
+   16 mg/dL
+   102 mEq/L
+   142 mEq/L
+   29.1 %
+   7.5 K/uL
+        [image002.jpg]
+                             [**3310-5-6**]  04:55 PM
+                             [**3310-5-6**]  07:28 PM
+                             [**3310-5-6**]  07:32 PM
+                             [**3310-5-6**]  07:47 PM
+                             [**3310-5-7**]  12:00 AM
+                             [**3310-5-7**]  06:00 AM
+                             [**3310-5-7**]  03:25 PM
+                             [**3310-5-8**]  03:35 PM
+                             [**3310-5-9**]  12:00 PM
+                             [**3310-5-10**]  05:14 AM
+   WBC
+   11.8
+   9.5
+   9.7
+   7.5
+   Hct
+   34.7
+   31.1
+   30.1
+   29.1
+   Plt
+   372
+   317
+   207
+   178
+   Cr
+   7.4
+   6.6
+   7.2
+   7.3
+   7.7
+   8.3
+   4.7
+   TropT
+   0.31
+   0.31
+   0.31
+   TCO2
+   26
+   Glucose
+   259
+   273
+   636
+   53
+   113
+   298
+   279
+   64
+   Other labs: PT / PTT / INR:11.6/26.8/1.0,
+   Ca++:8.2 mg/dL, Mg++:1.8 mg/dL, PO4:3.7 mg/dL
+   Vanc level: 21.3
+   Assessment and Plan
+   56 yo man with a h/o DM I with insulin autoantibody receptor syndrome,
+   ESRD, PVD, dCHF p/w DKA and non-working HD graft.
+   .
+   # Nonworking graft: Presumed rethrombosed. Went to OR on [**5-8**] for graft
+   thrombectomy and revision, was cleared from OR to use graft for HD.
+   However, prior to HD graft went down. Underwent repeat procedure in OR
+   [**5-9**]. Graft functioned appropriately for HD yesterday.
+   - Appreciate surgery recs
+   - Appreciate renal recs
+   .
+   # Blood pressure: Patient with brief episode of hypotension on [**3310-5-8**]
+   but responded well to fluid bolus, currently normotensive
+   - Follow blood pressure post HD
+   - Continue home dose of metoprolol 50 TID
+   - Continue to hold home minoxidil, dilt, doxazosyn
+   .
+   # ESRD:  Graft used successfully for HD yesterday PM post-revision.
+   - Trend lytes if patient will agree to labs
+   - Epo in HD
+   - Zemplar in HD
+   - Continue sevelamer
+   - Hold calcitriol and PO iron
+   - F/U renal recs
+   .
+   # DKA: Pt noncompliant with insulin; hyperglycemia may also have been
+   precipitated by pneumonia or other infection. Gap initially 23, now
+   closed with normoglycemia. Currently on home lantus and sliding scale.
+   Episode of ASX hypoglycemia this AM.
+   - Seen by [**Last Name (un) 257**] (appreciate recs)
+   - Continue sliding scale per most recent [**Last Name (un) 257**] recs
+   - Will discuss best home SS with [**Last Name (un) 257**] team as patient has been
+   non-compliant in past and no revisions to scale in some time
+   .
+   # ? Pneumonia: Given recent hospitalizations and HD pt, will cover
+   broadly for HCAP. Pt is DM but does not have h/o pseudomonas infection
+   and BP currently stable. Coarse BS on initial exam, refuses repeat exam
+   this morning. Afebrile. Still no read on CXR from yesterday, today
+   continued opacity in RLL. Abx stopped yesterday given afebrile, normal
+   white count.
+   - F/U final reads of CXR [**5-9**] and [**5-10**]
+   - Consider resume Abx if febrile
+   .
+   # Elevated troponin: Has been flat at ~0.3 over multiple sets of
+   enzymes; no rise in CK-MB noted. Therefore, likely elevated troponin is
+   due to ESRD.
+   - Trend CE, telemetry
+   - Restart aspirin once cleared by surgery
+   .
+   # Immunosuppression: On prednisone per med list (restarted yesterday)
+   for insulin Ab production.
+   - Continue prednisone for now
+   .
+   # Hypothyroidism: Check TSH given c/o increased fatigue
+   - Continue levothyroxine
+   .
+   # Capacity: Patient threatened earlier this admission to leave AMA. He
+   has been declared to lack capacity to do so in the past given poor
+   insight into his disease condition and lack of safe place to go. Son
+   serves as limited guardian. Psych recs as above. Currently, pt cannot
+   leave AMA. Will continue to work with family. Patient needs guardian.
+   - F/U legal recs
+   - F/U further psych recs
+   .
+   # FEN: 50 cc/hr D5W, replete electrolytes (K only if low), regular diet
+   # Prophylaxis: Subcutaneous heparin
+   # Access: peripherals (1 in foot currently)
+   # Communication: Patient
+   # Code:  Full - discussed at length with HCP. Pt has been DNR/DNI in
+   the past but with recent discussions, uncertain of current feelings as
+   he has been grateful for resuscitative efforts after the fact.  Ok to
+   intubate for reversible situation (e.g. PNA and fluid overload).
+   Pressors ok.  Less certain about CPR/defibrillation.
+   # Disposition:  observe in the peridialysis period, if hemodynamically
+   stable then call out to floor
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3310-5-9**] 11:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

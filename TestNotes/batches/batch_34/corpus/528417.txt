@@ -1,0 +1,205 @@
+Chief Complaint: Thrombotic microangiopathy
+   HPI:
+   44F p/w NSTEMI with subsequent TMA and multiorgan failure.
+   24 Hour Events:
+   Dobutamine increased to 2 mcg/kg/min.
+   HD initiated this morning.
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Sulfasalazine
+   Unknown;
+   Zosyn (Intraven) (Piperacillin Sodium/Tazobactam)
+   Transaminitis
+   Last dose of Antibiotics:
+   Gancyclovir - [**3225-9-30**] 02:00 PM
+   Ceftazidime - [**3225-10-1**] 08:00 AM
+   Metronidazole - [**3225-10-1**] 10:00 AM
+   Vancomycin - [**3225-10-1**] 10:00 AM
+   Infusions:
+   Dobutamine - 2 mcg/Kg/min
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Other medications:
+   ASA
+   MVI
+   Captopril 6.25mg tid
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fever
+   Cardiovascular: Edema
+   Nutritional Support: Tube feeds
+   Respiratory: Tachypnea
+   Genitourinary: Foley
+   Heme / Lymph: Anemia
+   Neurologic: No(t) Seizure
+   Pain: Unable to answer
+   Flowsheet Data as of  [**3225-10-1**] 11:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 37.1
+C (98.8
+   HR: 82 (79 - 97) bpm
+   BP: 93/60(71) {72/40(51) - 119/84(95)} mmHg
+   RR: 31 (18 - 31) insp/min
+   SpO2: 75%
+   Heart rhythm: WAP (Wandering atrial pacemaker)
+   Wgt (current): 97.5 kg (admission): 92 kg
+   Height: 66 Inch
+   CVP: 20 (17 - 26)mmHg
+   CO/CI (Fick): (5.4 L/min) / (2.7 L/min/m2)
+   Mixed Venous O2% Sat: 36 - 41
+                                Total In:
+                                                                  2,336 mL
+                                                                  1,247 mL
+   PO:
+                                TF:
+                                                                    722 mL
+                                                                    349 mL
+   IVF:
+                                                                  1,465 mL
+                                                                    686 mL
+   Blood products:
+   93 mL
+   Total out:
+                                                                    853 mL
+                                                                     27 mL
+   Urine:
+                                                                     53 mL
+                                                                     27 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,483 mL
+                                                                  1,220 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   SpO2: 75%
+   ABG: 7.49/28/80.[**Numeric Identifier 18**]/22/0
+   PaO2 / FiO2: 200
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: NG tube, trach
+   Cardiovascular: (S1: Normal), (S2: Normal), irregular
+   Peripheral Vascular: (Right radial pulse: Absent), (Left radial pulse:
+   Not assessed), (Right DP pulse: Present), (Left DP pulse: Absent)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 3+, Left: 3+
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Verbal stimuli, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   7.5 g/dL
+   124 K/uL
+   108 mg/dL
+   1.1 mg/dL
+   22 mEq/L
+   3.5 mEq/L
+   50 mg/dL
+   99 mEq/L
+   136 mEq/L
+   22.6 %
+   13.3 K/uL
+        [image002.jpg]
+                             [**3225-9-29**]  03:54 AM
+                             [**3225-9-29**]  03:58 AM
+                             [**3225-9-29**]  09:54 AM
+                             [**3225-9-29**]  10:06 PM
+                             [**3225-9-30**]  03:43 AM
+                             [**3225-9-30**]  03:56 AM
+                             [**3225-9-30**]  02:21 PM
+                             [**3225-9-30**]  11:38 PM
+                             [**3225-10-1**]  03:13 AM
+                             [**3225-10-1**]  04:29 AM
+   WBC
+   18.4
+   18.2
+   16.3
+   13.3
+   Hct
+   25.5
+   22.8
+   22.4
+   22.6
+   Plt
+   100
+   112
+   110
+   124
+   Cr
+   0.5
+   0.6
+   0.9
+   1.1
+   TCO2
+   17
+   26
+   27
+   23
+   22
+   Glucose
+   125
+   116
+   101
+   107
+   108
+   Other labs: PT / PTT / INR:18.3/58.9/1.7, CK / CKMB /
+   Troponin-T:397/123/1.50, ALT / AST:391/327, Alk Phos / T Bili:395/1.6,
+   Amylase / Lipase:189/45, Differential-Neuts:85.0 %, Band:0.0 %,
+   Lymph:9.0 %, Mono:4.0 %, Eos:0.0 %, D-dimer:6112 ng/mL, Fibrinogen:302
+   mg/dL, Lactic Acid:2.3 mmol/L, Albumin:2.7 g/dL, LDH:754 IU/L, Ca++:8.4
+   mg/dL, Mg++:1.8 mg/dL, PO4:2.4 mg/dL
+   Microbiology: No new data.
+   Assessment and Plan
+   1) Cardiogenic shock:
+   Has improved with dobutamine in terms of her lactate.
+   Will titrate up captopril for afterload reduction and being to remove
+   volume with HD.
+   If required, can use low-dose levophed during HD to allow volume
+   removal.
+   2) Renal failure:
+   Plan for HD now.
+   3) MAT with ectopy:
+   Continue amiodarone gtt which has been effective.
+   4) TMA:
+   Repeat ADAMTS13 level pending.
+   Continue anticoaguation.
+   5) Acinetobacter PNA:
+   --continue ceftazidime for 8d course.
+   --Currently on TM.
+   6) Heme:
+   Will d/w ID and heme re bone marrow bx to r/o a marrow infiltrative
+   infectious process.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3225-9-30**] 05:14 PM 30 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3225-9-7**] 07:09 PM
+   Arterial Line - [**3225-9-16**] 06:48 PM
+   Dialysis Catheter - [**3225-9-23**] 12:00 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Need for restraints reviewed
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+
+
+DOC CLASS

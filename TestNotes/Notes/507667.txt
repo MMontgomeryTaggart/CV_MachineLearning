@@ -1,0 +1,151 @@
+Chief Complaint:
+   24 Hour Events:
+   - Still with low grade temps, 99s
+   - Asked podiatry to see who said they will be by in am.
+   - OOB to chair.
+   - Repeat XR foot IMPRESSION: Bilateral soft tissue ulcers on the
+   plantar aspects of the forefeet. Questionable lucency and cortical
+   irregularity of the right sesamoid bone on the plantar aspect adjacent
+   to the ulcer that could possibly represent osseous infectious
+   involvement. If high clinical concern, bone scan or MRI can be
+   performed.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Penicillin G potassium - [**2788-2-20**] 12:30 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2788-2-19**] 09:06 PM
+   Pantoprazole (Protonix) - [**2788-2-19**] 09:06 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2788-2-20**] 05:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.1
+C (98.7
+   HR: 60 (60 - 60) bpm
+   BP: 111/53(67) {90/34(49) - 120/84(89)} mmHg
+   RR: 21 (11 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: V Paced
+   Height: 70 Inch
+             Total In:
+                                                                  1,290 mL
+                                                                    107 mL
+   PO:
+                                                                    800 mL
+             TF:
+   IVF:
+                                                                    490 mL
+                                                                    107 mL
+   Blood products:
+   Total out:
+                                                                  1,550 mL
+                                                                      0 mL
+   Urine:
+                                                                  1,550 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -260 mL
+                                                                    107 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///23/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   257 K/uL
+   8.0 g/dL
+   240 mg/dL
+   2.0 mg/dL
+   23 mEq/L
+   5.3 mEq/L
+   20 mg/dL
+   105 mEq/L
+   133 mEq/L
+   24.5 %
+   10.6 K/uL
+        [image002.jpg]
+                             [**2788-2-16**]  01:40 AM
+                             [**2788-2-16**]  01:37 PM
+                             [**2788-2-17**]  04:00 AM
+                             [**2788-2-17**]  12:20 PM
+                             [**2788-2-18**]  03:18 AM
+                             [**2788-2-19**]  04:15 AM
+                             [**2788-2-19**]  06:25 PM
+   WBC
+   14.3
+   10.8
+   11.9
+   10.6
+   Hct
+   24.5
+   22.7
+   23.9
+   23.2
+   23.6
+   24.5
+   Plt
+   237
+   217
+   270
+   257
+   Cr
+   2.2
+   2.1
+   2.2
+   1.8
+   1.9
+   2.0
+   Glucose
+   145
+   112
+   175
+   117
+   169
+   240
+   Other labs: PT / PTT / INR:14.1/28.2/1.2, ALT / AST:[**7-24**], Alk Phos / T
+   Bili:64/0.9, Differential-Neuts:84.5 %, Lymph:10.2 %, Mono:2.9 %,
+   Eos:2.1 %, Albumin:2.5 g/dL, LDH:207 IU/L, Ca++:8.1 mg/dL, Mg++:2.0
+   mg/dL, PO4:2.8 mg/dL
+   Assessment and Plan
+ COUGH
+ HYPONATREMIA (LOW SODIUM, HYPOSMOLALITY)
+ ANEMIA, OTHER
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ IMPAIRED SKIN INTEGRITY
+ VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ CARDIAC DEVICE INFECTION (PACEMAKER, DEFIBRILLATOR)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2788-2-15**] 06:40 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

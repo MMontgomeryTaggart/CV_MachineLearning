@@ -1,0 +1,231 @@
+Chief Complaint: CC: Shortness of Breath
+   [**Hospital Unit Name 42**] Admission: Hypercarbic Respiratory Failure
+   24 Hour Events:
+   - On PSV from 11:00 to 22:00 yesterday with PSof 18/12 -> [**10-7**], then
+   put back on AC as TV in 200s.
+   - 9PM ABG: 7.40/65/93/42/11
+   - goal negative 0.5L --> negative 410 cc over past 24 hours
+   - final sputum cx: OP flora
+   - tapered prednisone to 20mg PO BID, will discuss goal
+   immunosuppression with dr. [**Last Name (STitle) **]
+   - d/w dr. [**Last Name (STitle) **] about plan for nutrition ongoing
+   - d/w dr. [**Last Name (STitle) **] about ? dobhoff
+   - mildly iron deficient, no supplementation for now
+   - vitamin d levels pending
+   - hold TF's in AM
+ ARTERIAL LINE - STOP [**3264-3-6**] 01:00 PM
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientNo Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**3264-3-4**] 10:05 PM
+   Cefipime - [**3264-3-5**] 08:30 AM
+   Vancomycin - [**3264-3-5**] 09:00 AM
+   Acyclovir - [**3264-3-7**] 03:11 AM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3264-3-6**] 02:00 PM
+   Heparin Sodium (Prophylaxis) - [**3264-3-6**] 11:03 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3264-3-7**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**66**] AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 37
+C (98.6
+   HR: 70 (68 - 96) bpm
+   BP: 91/60(67) {88/58(66) - 117/79(88)} mmHg
+   RR: 16 (12 - 26) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 58 kg (admission): 48.4 kg
+   Height: 67 Inch
+             Total In:
+                                                                  1,480 mL
+                                                                    112 mL
+   PO:
+             TF:
+                                                                  1,080 mL
+                                                                     20 mL
+   IVF:
+                                                                    240 mL
+                                                                     52 mL
+   Blood products:
+   Total out:
+                                                                  1,890 mL
+                                                                    620 mL
+   Urine:
+                                                                  1,890 mL
+                                                                    620 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -410 mL
+                                                                   -508 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: PSV/SBT
+   Vt (Set): 309 (309 - 350) mL
+   Vt (Spontaneous): 243 (243 - 426) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 0
+   PEEP: 0 cmH2O
+   FiO2: 40%
+   RSBI: 89
+   PIP: 17 cmH2O
+   Plateau: 17 cmH2O
+   Compliance: 29.2 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.40/65/92.[**Numeric Identifier 1139**]/36/11
+   NIF: -34 cmH2O
+   Ve: 4.4 L/min
+   PaO2 / FiO2: 232
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   156 K/uL
+   9.8 g/dL
+   108 mg/dL
+   0.4 mg/dL
+   36 mEq/L
+   4.4 mEq/L
+   21 mg/dL
+   94 mEq/L
+   136 mEq/L
+   30.3 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**3264-3-5**]  03:43 AM
+                             [**3264-3-5**]  05:08 AM
+                             [**3264-3-5**]  12:36 PM
+                             [**3264-3-5**]  02:59 PM
+                             [**3264-3-5**]  06:07 PM
+                             [**3264-3-6**]  03:20 AM
+                             [**3264-3-6**]  03:25 AM
+                             [**3264-3-6**]  04:50 AM
+                             [**3264-3-6**]  09:38 PM
+                             [**3264-3-7**]  02:28 AM
+   WBC
+   8.3
+   7.6
+   9.4
+   Hct
+   30.0
+   28.7
+   30.3
+   Plt
+   137
+   136
+   156
+   Cr
+   0.4
+   0.4
+   0.4
+   TCO2
+   39
+   35
+   36
+   39
+   41
+   38
+   42
+   Glucose
+   184
+   165
+   108
+   Other labs: PT / PTT / INR:12.5/29.8/1.1, CK / CKMB /
+   Troponin-T:31/4/0.02, ALT / AST:108/84, Alk Phos / T Bili:303/1.1,
+   Differential-Neuts:84.0 %, Band:3.0 %, Lymph:5.0 %, Mono:5.0 %, Eos:0.0
+   %, Lactic Acid:1.0 mmol/L, Albumin:3.3 g/dL, LDH:254 IU/L, Ca++:9.1
+   mg/dL, Mg++:1.9 mg/dL, PO4:3.6 mg/dL
+   Microbiology:  Sputum gram stain and culture [**3264-3-4**]:
+   >25 PMNs and <10 epithelial cells/100X field.
+   1+    (<1 per 1000X FIELD):   MULTIPLE ORGANISMS CONSISTENT WITH
+   OROPHARYNGEAL FLORA.
+   Assessment and Plan
+   38M with NHL s/p alloBMT complicated by multi-organ GVHD and BO with
+   severe baseline lung disease and CO2 retention, presented with dyspnea
+   and cough on [**3264-2-14**], now day 8 in [**Hospital Unit Name 42**] for hypercarbic respiratory
+   failure, intubated, but tolerating PS for several hours a day.
+   # Hypercarbic respiratory failure - Likely multifactorial [**2-5**] to GVHD,
+   bronchiolitis obliterans. Completed 8 day course for VAP.  Doing
+   progressively better with PSV during the day.  Plan for SBT and
+   possible extubation today.
+   - Decrease prednisone to 20mg PO daily
+   - Lasix 20mg IV PRN, goal negative 0.5L daily
+   - SBT tomorrow, possible extubation.  If he cannot tolerate this, will
+   reintubate and plan for trach Monday.
+   .
+   # Liver cirrhosis/ascites - Likely secondary to GVHD c/b portal HTN,
+   esophageal varices, ascites.  Could complicate approach for PEG
+   placement, but thoracic surgery did not feel therapeutic paracentesis
+   was necessary given moderate ascites.  No paracentesis for now
+   - Lasix 20mg IV PRN: diuresis
+   - Trend LFT
+s, coags
+   - consider Dobhoff placement, d/w Dr. [**Last Name (STitle) 2183**] given varices
+   # Depression: In the context of prolonged ICU course and need for
+   further interventions. Not seen by SW on this admission.
+   - Discuss SW visit with patient today
+   # Non-Hodgkin's lymphoma s/p allo BMT, GVHD: Most recent PET scan with
+   no evidence of recurrent disease. Patient remains in remission.
+   - Monitor counts and toxicities
+   - Cellcept 250mg PO BID
+   - Bactrim DS 1 tab M/W/F
+   - Acyclovir 400mg q8H
+   - Prednisone 20mg PO daily
+   - f/u BMT recs
+   # Anemia: Stable. Hct 30.0 -> 28.7 today. Mildly iron deficient, normal
+   b12/folate, but normal Hct prior to this hospitalization. [**Month (only) 56**] be [**2-5**]
+   liver disease causing occult GI losses from hemorrhoids/varices and
+   anemia of chronic inflammation. No clear trigger for hemolysis.
+   - Trend Hct
+   - Guaiac stools
+   # Elevated PTT: Mildly elevated 38.1, PT/INR normal.
+   - continue SC Heparin 2500u TID
+   - hold heparin for procedure
+   # Hypothyroidism: Normal TSH & free T4 from [**1-/3264**]
+   - Continue Levothyroxine 125mcg PO daily
+   # Gastric varices:  Currently normotensive
+   - Continue Metoprolol 12.5 mg PO BID
+   # Anxiety
+   - ativan prn
+   # Hypotension: BP slightly decreased this am.  Could be related to vent
+   weaning.
+   - monitor, fluid boluses prn
+ ANXIETY
+ ALTERATION IN ELIMINATION RELATED TO CONSTIPATION
+ HYPOTENSION (NOT SHOCK)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ ANEMIA, OTHER
+ DEPRESSION
+   ICU Care
+   Nutrition: TF held this am for SBT
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3264-2-27**] 12:02 PM
+   Prophylaxis:
+   DVT: Heaprin
+   Stress ulcer: Lansoprazole
+   VAP:  HOB elevated, mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

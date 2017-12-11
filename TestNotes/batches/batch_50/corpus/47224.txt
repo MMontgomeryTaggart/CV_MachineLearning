@@ -1,0 +1,300 @@
+Admission Date:  [**2730-12-18**]              Discharge Date:   [**2731-1-1**]
+
+Date of Birth:  [**2667-7-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 813**]
+Chief Complaint:
+Dyspnea on Exertion, dark tarry stools
+
+Major Surgical or Invasive Procedure:
+1. EGD with hemoclip placement
+2. Angiography with coiling to the gastroduodenal artery
+3. Repeat EGD to evaluate clips
+
+
+History of Present Illness:
+63-year-old gentleman with history of diastolic CHF, chronic
+kidney disease stage III, hypertension, hyperlipidemia, and
+history of upper GIB from AV malformation in [**2728**] who presented
+to the ED on evening of admission with shortness of breath for
+one week. He noticed difficulty breathing when walking up to 40
+feet with oxygen set at 2 liters for the last 4-5 days. He was
+also complaining of some "chest tightness." He had called his
+primary care physician earlier on day of admission who told him
+to come to the emergency room for evaluation.
+
+In the ED, his initial vital signs were T 96.8, HR 77, BP
+122/59, RR 20, satting 96%RA. A chest x-ray showed question of
+pulmonary edema, per report, and patient was given 40 mg of
+intravenous furosemide prior to labs being drawn. Labs then came
+back showing a hematocrit of 16.5 down from recent baseline in
+the mid 30s. White count was stable at 6.3 and platelets were
+276. INR was 1.1, and PTT was slightly elevated at 38.0. Notably
+the BNP was 1243, which was down from 5088 one month ago.
+Patient was then given 1L of normal saline. Rectal exam showed
+guiaic positive brown stool, per report. 2 peripheral IVs were
+placed, GI was consulted and an NGT lavage performed which was
+reportedly negative. GI saw the patient and plans for upper
+endoscopy and colonoscopy tomorrow, as they are uncertain where
+the bleeding is coming from. Patient was typed and crossed for
+four units PRBCs prior to transfer. Current vital signs are BP
+103/45, HR 80s (patient takes carvedilol as outpatient).
+
+Of note, patient was recently admitted to the hospital [**Date range (1) 31085**]
+for shortness of breath requiring intubation. He was treated for
+congestive heart failure and pneumonia with vancomycin and
+levofloxacin, ultimately completing a seven-day course of the
+latter. Addtionally, he was started on CPAP to treat suspected
+obstructive sleep apnea. He was discharged with home oxygen due
+to desaturations to 85% on ambulation.
+
+ROS: No cough, fever, chills, or pedal edema. Appetite normal.
+Patient currently without chest pain, shortness of breath (at
+rest), leg swelling, palpitations, lightheadedness, or
+dizziness.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+2. CARDIAC HISTORY: Rt heart failure with diastolic dysfunction
+
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS: none
+-PACING/ICD: none
+3. OTHER PAST MEDICAL HISTORY:
+MGUS
+Acquired [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Disease
+H/O RESPIRATORY FAILURE
+H/O RT HEART FAILURE
+Diastolic dysfunction.
+H/O MORBID OBESITY
+RENAL INSUFFICIENCY
+FACTOR VIII DEFICIENCY
+ERECTILE DIFFICULTY
+MONOCLONAL GAMMOPATHY
+HYPERTENSION
+IRON DEFICIENCY ANEMIA
+h/o ugi bleed from AV malformation seen on endoscopy 08.
+PROBLEMS WITH BALANCE
+SECONDARY HYPERPARATHYROIDISM
++Lupus anticoagulant
+
+Social History:
+Quit smoking in [**2726**] (20 pack year history of smoking), denies
+alcohol or drug abuse.
+
+
+Family History:
+Significant for cancer and sickle cell trait (sister). The same
+sister is also s/p kidney transplant.
+
+Physical Exam:
+Admission Exam:
+General: overweight man in no acute distress, breathing
+comfortably
+Vitals: T afebrile, HR 79, BP 111/58, RR 16, O2 sat 100% 2L
+HEENT: PERRLA, non-icteric sclera, moist mucus membranes
+Neck: supple, difficult to assess JVP
+Heart: RRR, normal and distant s1/s2
+Lungs: faint bibasilar crackles, no wheezes
+Abdomen: obese, soft, non-tender, no focal tenderness, [**Doctor Last Name 36**]
+(-)
+Extremities: warm, well-perfused, non-edematous
+Rectal: dark, guiaic positive stool in the rectal vault, no
+frank blood, no external anal lesions or fissures
+
+
+Pertinent Results:
+Admission Results [**2730-12-18**]
+
+WBC-6.3# RBC-2.08*# Hgb-5.3*# Hct-16.5*# MCV-80* MCH-25.6*
+MCHC-32.2 RDW-17.3* Plt Ct-276#
+
+Neuts-85.0* Bands-0 Lymphs-10.5* Monos-3.4 Eos-0.9 Baso-0.1
+
+PT-12.9 PTT-38.0* INR(PT)-1.1
+
+Glucose-103* UreaN-46* Creat-2.0* Na-136 K-4.8 Cl-99 HCO3-29
+AnGap-13
+
+ALT-16 AST-52* LD(LDH)-103 AlkPhos-37* TotBili-0.4
+
+calTIBC-346 Hapto-98 Ferritn-7.1* TRF-266
+
+ECG ([**2730-12-19**]): Blood in the stomach body. Blood in the pylorus.
+Polyp in the duodenal bulb. Red blood is active oozing from the
+duodenal bulb. However, there is no visible vessel or ulcer
+seen. (injection, endoclip)
+Otherwise normal EGD to third part of the duodenum.
+
+ANGIO ([**2730-12-23**]):
+1. SMA, celiac and common hepatic arteriograms reveal
+conventional arterial anatomy.
+2. No active contrast extravasation or AVM seen.
+3. Multiple GDA branches seen in close proximity to the clips
+placed on
+endoscopy.
+4. Successful embolization of the gastroduodenal artery using 4
+mm x 3 cm
+coils.
+5. Post-coil deployment angiogram reveals markedly reduced flow
+through the GDA and is expected to completely occlude with time.
+
+
+Discharge Labs:
+[**2731-1-1**] 05:20AM WBC-3.5* RBC-2.68* Hgb-7.4* Hct-22.6* MCV-84
+Plt Ct-126*
+[**2731-1-1**] 05:20AM PT-12.5 PTT-33.2 INR(PT)-1.1
+[**2731-1-1**] 05:20AM FacVIII-149
+[**2730-12-30**] 05:33AM VWF AG-GREATER TH VWF CoF-337*
+[**2731-1-1**] 05:20AM VWF AG-PND VWF CoF-PND
+[**2731-1-1**] 05:20AM Glc-100 UreaN-16 Creat-1.3* Na-137 K-4.4 Cl-97
+HCO3-39*
+
+Brief Hospital Course:
+Mr [**Known patient lastname 31084**] is a 63 year old man admitted for dyspnea and found
+to have a Hct of 15.4. He is known to have acquired [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **] syndrome factor VIII deficiency) attributed to his
+underlying MGUS.
+
+1. Acute upper GI bleeding.  Presented with dyspnea and found to
+have HCT of 15.4 in setting of guaiac positive stools and known
+bleeding disorder (VWD).  He underwent EGD which showed bleeding
+at the duodenal bulb with hemoclip placement.  Post-procedure
+his HCT continued to trend slowly down so he underwent
+angiography with coiling of gastroduodenal artery on [**12-23**].
+Before each of these two procedures he recieved Humate-P
+infusions, under the guidance of hematology and the blood bank.
+He did not appear to respond to these treatments. A repeat EGD
+was performed on [**12-29**] which did not show persistent bleeding.
+An impacted clip was seen, and surgical and GI consultants felt
+that this could be observed unless bleeding recurred. His
+hematocrit was subsequently stable, and at the time of discharge
+he was having one dark brown to black stool a day. He was sent
+home on pantoprazole 40mg PO BID with instructions to continue a
+low-residue diet for two weeks. He will follow-up with
+Dr.[**Last Name (STitle) 4245**] in GI at the beginning of [**Month (only) 949**].
+
+2. [**Name Prefix (Prefixes) **]-[**Last Name (Prefixes) 31086**]'s Disease.  In addition to giving Humate-P
+infusions, the Hematology service further recommended checking
+vWF levels and ristocetin cofactor assay levels.  IVIG was
+initiated in addition to the factor VIII, given persistent
+bleeding and lack of hemostasis at the GI site. The factor VIII
+levels increased following this treatment, administered with the
+assistance of the hematology consult team. He will follow-up
+with Dr.[**Last Name (STitle) 1132**] on [**Last Name (LF) 473**], [**1-9**].
+
+3. Acute renal failure.  Creatinine was variable during
+admission with ACEI and furosemide held at times given blood
+loss and use of contrast for angiography.  His serum creatinine
+also remained stable after the IVIG infusions. His Lisinopril
+was resumed at his home dose on the day of discharge, and his
+Lasix was resumed at half his home dose. He will have his
+electrolytes checked on Saturday, [**1-3**], with results sent
+to Dr.[**Last Name (STitle) 9071**].
+
+
+Medications on Admission:
+- carvedilol 25 mg [**Hospital1 **]
+- aminocaproic acid
+- furosemide 40 mg once daily
+- lisinopril 10 mg once daily
+- sildenafil prn
+- B complex vitamins once daily
+- calcium and vitamin D
+
+Discharge Medications:
+1. carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+2. aminocaproic acid  Oral
+3. calcium carbonate  Oral
+4. cholecalciferol (vitamin D3)  Oral
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Outpatient Lab Work
+Please have a Chem 10 and a CBC checked on Saturday, [**1-3**]
+or Monday [**1-5**] and have the results sent to Dr[**Doctor Last Name 31087**]
+office.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 100**] VNA
+
+Discharge Diagnosis:
+Gastrointestinal bleeding
+Acute blood loss anemia
+[**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] disease
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Mr [**Known patient lastname 31084**],
+It has been a pleasure to care for you during this admission. As
+you know you were admitted with new anemia, and were found to be
+bleeding from your duodenum or small intestine. You had several
+procedures, including endoscopies to clip the area that was
+bleeding and an angiogram to embolize the bleeding.
+
+You had several treatments for your [**First Name5 (NamePattern1) **] [**Last Name (Prefixes) 3202**] disease,
+including humate (factor 8) and IVIG (intravenous
+immunoglobulin). The combination seemed to help you stop
+bleeding.
+
+It is very important that you follow-up with Hematology next
+week, and continue a low-residue diet for two weeks. If you
+notice an increase in black stools, please call your PCP or come
+back to the hospital immediately.
+
+Your Lasix and Lisinopril were initially held due to your
+bleeding. Your Lisinopril was re-startd at your regular dose on
+the day of discharge, and your Lasix was re-started at half your
+normal dose. You should have your electrolytes checked on
+Saturday, [**1-3**] and have the results sent to Dr.[**Last Name (STitle) 9071**].
+If these are stable, he may increase your Lasix back to its
+regular dose.
+
+Followup Instructions:
+Department: MEDICAL SPECIALTIES
+When: THURSDAY [**2731-1-8**] at 2:00 PM
+With: [**Name6 (MD) 317**] [**Name8 (MD) **], M.D. [**Telephone/Fax (1) 655**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+PLEASE HAVE YOUR BLOOD DRAWN PRIOR TO THIS APPOINTMENT AND STOP
+BY [**Hospital Ward Name **] 9 AFTER THIS APPOINTMENT TO SEE DR.[**Last Name (STitle) **].
+
+Department: [**Hospital1 **] INTERNAL MEDICINE
+When: [**Hospital1 **] [**2731-1-9**] at 12:30 PM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD, MPH [**Telephone/Fax (1) 9070**]
+Building: [**Hospital1 9076**] ([**Location (un) 953**], MA) [**Location (un) **]
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+Department: CARDIAC SERVICES
+When: MONDAY [**2731-3-30**] at 9:00 AM
+With: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**Telephone/Fax (1) 113**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+You also have an appointment with Dr.[**Last Name (STitle) 4245**] at the beginning
+of [**Month (only) 949**]. His office will call you with the details.
+
+
+
+
+DOC CLASS

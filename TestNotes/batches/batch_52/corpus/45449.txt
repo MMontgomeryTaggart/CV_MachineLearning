@@ -1,0 +1,172 @@
+Admission Date:  [**3396-7-27**]              Discharge Date:   [**3396-8-3**]
+
+Date of Birth:  [**3315-2-16**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 18203**]
+Chief Complaint:
+Asymptomatic
+
+Major Surgical or Invasive Procedure:
+[**3396-7-27**] Endovascular repair of Thoracic aortic aneurysm with a
+TAG modular [**Last Name (LF) 26357**], [**First Name3 (LF) 2914**] aortography and Right femoral
+artery repair
+
+
+History of Present Illness:
+Mrs. [**Known patient lastname 26358**] is an 81 year old female found to have a newly
+discovered thoracic aortic aneurysm during preoperative
+evaluation for possible D&C for questionable uterine bleeding. A
+CT scan in [**3396-3-16**] revealed two areas of fusiform aneurysmal
+dilatation of descending thoracic aorta up to 6.6 centimeters.
+The CT scan was also notable for an infrarenal abdominal aortic
+aneurysm, measuring 6.7 centimeters. Given the above results,
+she was referred to the cardiac and vascular services for
+endovascular stent grafting. Of note, the etiology of her
+bleeding turned out to be hemorrhoids, not uterine.
+
+Past Medical History:
+Thoracic and Abdominal Aortic Aneurysms
+Hypertension
+Diverticulosis
+Chronic Back Pain(L1 collapse)
+Arthritis
+s/p Cataract Surgery
+s/p Appendectomy
+s/p Cholecystectomy
+s/p Mole removals
+s/p D&C
+
+Social History:
+Active smoker, 50 pack year history. Denies ETOH. She is
+widowed, currently lives with her 22 year old granddaughter. She
+is retired.
+
+Family History:
+Denies history of premature coronary disease.
+
+Physical Exam:
+Vitals: BP 127/81, HR 90, RR 14, SAT 98% on room air
+General: obese elderly female in no acute distress, smelled of
+smoke
+HEENT: oropharynx benign, edentulous
+Neck: supple, no JVD,
+Heart: regular rate, normal s1s2, no murmur or rub
+Lungs: clear bilaterally
+Abdomen: soft, nontender, normoactive bowel sounds, pulsatile
+mass noted
+Ext: warm, trace edema L>R, no varicosities
+Pulses: 1+ distally, no femoral or carotid bruits
+Neuro: nonfocal
+
+
+Pertinent Results:
+[**3396-8-3**] 06:10AM BLOOD Hct-28.2*
+[**3396-8-2**] 05:55AM BLOOD WBC-12.2* RBC-3.46* Hgb-9.9* Hct-28.3*
+MCV-82 MCH-28.5 MCHC-34.9 RDW-16.2* Plt Ct-213
+[**3396-8-3**] 06:10AM BLOOD Glucose-97 UreaN-35* Creat-1.5* Na-139
+K-4.0 Cl-99 HCO3-30 AnGap-14
+
+[**3396-8-2**] Chest CTA ************
+
+
+Brief Hospital Course:
+On the day of admission, Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) 19576**] performed
+an endovascular repair of her thoracic aortic aneurysm.
+Arteriography following stent placement revealed no endo leak at
+the proximal attachment site, with a small endo leak seen at the
+distal attachment site. The endo leak did not appear to
+communicate with the aneurysm sac. The operation was otherwise
+uneventful and there were no complications. She was brought to
+the CSRU for invasive monitoring. On postoperative day one, she
+experienced hypotension. Subsequent CT scan showed a moderate
+amount retroperitoneal hemorrhage. Serial hematocrits remained
+stable and she transiently required pressors for hemodynamic
+support. Over the next 24 hours, her hemodynamics improved and
+she successfully weaned from pressors without difficulty. She
+was extubated without incident and the lumbar drain was removed
+without complication. She made clinical improvements and
+transferred to the SDU on postoperative day two. She was
+intermittently transfused to maintain hematocrit near 30%. She
+maintained stable hemodynamics and tolerated resumption of beta
+blockade. She remained in a normal sinus rhythm. She had a
+transient decline in renal function with creatinine peaking to
+1.8 but by discharge, her renal function improved. Creatinine at
+discharge was 1.5. Prior to discharge, a chest CTA was obtained
+to re-evaluate the small endo leak at the distal attachement
+site. The CTA was reviewed by both the vascular and cardiac
+surgery services and it was determined that intervention was not
+required at this time.  She was discharged in stable condition
+to home.
+
+Medications on Admission:
+HCTZ 50 qd
+Lopressor 25 qd
+Ecotrin 81 qd
+Crestor 10 qd
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day for 5
+days.
+Disp:*10 Tablet(s)* Refills:*0*
+8. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO twice a day for 5
+days.
+Disp:*10 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 238**] Homecare
+
+Discharge Diagnosis:
+Thoracic Aortic Aneurysm
+Postop Anemia with Retroperitoneal Bleed
+Abdominal Aortic Aneurysm
+HTN
+Arthritis
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Keep incisions clean and dry.
+Call with fever, redness or drainage from incisions, or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths.
+
+[**Last Name (NamePattern4) **]p Instructions:
+Dr. [**Last Name (Prefixes) **] & Dr. [**Last Name (STitle) **] 4 weeks
+Dr. [**Last Name (STitle) 3954**] 2 weeks
+Dr. [**Last Name (STitle) **] 2 weeks
+
+
+Completed by:[**3396-8-3**]
+
+DOC CLASS

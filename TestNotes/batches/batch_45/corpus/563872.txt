@@ -1,0 +1,187 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with her
+   note above, including assessment and plan.
+   HPI:
+    71yo man with PSC, ESLD s/p recent MICU stay for variceal bleed and
+   SBP represented to the MICU with recurrent bleed. EGD [**11-25**] with
+   banding of varicies but no evidence of active bleed. Hct bumped to 30%
+   transfusion but back down to 26% 12/24 AM. Mental status somewhat
+   depressed yesterday possibly due to hepatic encephalopathy; his level
+   of consciousness and interaction is better today.
+   24 Hour Events:
+ ULTRASOUND - At [**2566-11-26**] 10:32 AM
+   Allergies:
+   Penicillins
+ itchin
+   Sulfa
+ chills;
+   Last dose of Antibiotics:
+   Vancomycin - [**2566-11-26**] 08:00 PM
+   Meropenem - [**2566-11-27**] 06:00 AM
+   Infusions:
+   Octreotide - 50 mcg/hour
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Other medications:
+   Carafate
+   Mesalamine
+   Sertraline
+   Ursodiol
+   Zocor
+   Fluconazole 200 q24h
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2566-11-27**] 07:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.2
+C (97.1
+   HR: 101 (95 - 106) bpm
+   BP: 113/73(80) {67/48(51) - 113/73(80)} mmHg
+   RR: 22 (15 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  4,301 mL
+                                                                    474 mL
+   PO:
+                                                                     60 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                  2,630 mL
+                                                                    414 mL
+   Blood products:
+                                                                  1,611 mL
+   Total out:
+                                                                    605 mL
+                                                                    440 mL
+   Urine:
+                                                                    605 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,696 mL
+                                                                     34 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 94%
+   ABG: ///17/
+   Physical Examination
+   General: Pleasant, awake, interactive, NAD, breathing comfortably.
+   HEENT: Dry mouth. Scleral icterus.
+   CV: S1S2 RRR w/o m/r/g
+s. No heave.
+   Lungs: Bibasilar crackles without wheezing.
+   Ab: Distended but non-tender. Positive BS
+   Ext: No peripheral edema, no c/c.
+   Neuro: Awake, interactive, appropriately answering most questions.
+   Labs / Radiology
+   11.4 g/dL
+   134 K/uL
+   111 mg/dL
+   0.7 mg/dL
+   17 mEq/L
+   3.9 mEq/L
+   40 mg/dL
+   104 mEq/L
+   130 mEq/L
+   30.8 %
+   16.2 K/uL
+        [image002.jpg]
+   Differential-Neuts: 92.5 %, Band:0.0 %, Lymph:3.2 %, Mono:3.9 %,
+   Eos:0.4 %
+   No new micro data.
+                            [**2566-11-26**]  12:02 AM
+                            [**2566-11-26**]  03:35 AM
+                            [**2566-11-26**]  08:30 AM
+                            [**2566-11-26**]  01:39 PM
+                            [**2566-11-26**]  04:39 PM
+                            [**2566-11-26**]  04:41 PM
+                            [**2566-11-26**]  09:37 PM
+                            [**2566-11-27**]  04:01 AM
+   WBC
+   22.7
+   17.6
+   16.2
+   Hct
+   30.2
+   27.4
+   26.3
+   30.1
+   31.6
+   30.8
+   30.8
+   Plt
+   196
+   154
+   134
+   Cr
+   1.1
+   1.1
+   0.9
+   0.7
+   TropT
+   <0.01
+   <0.01
+   Glucose
+   138
+   131
+   132
+   111
+   Other labs:
+   PT / PTT / INR: 22.7/46.2/2.2,
+   ALT / AST:33/42, Alk Phos / T Bili:101/10.3,
+   Lactic Acid: 1.8 mmol/L, Albumin:3.8 g/dL,
+   LDH: 166 IU/L,
+   Ca++: 8.4 mg/dL, Mg++:2.2 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   71yo man with PSC, ESLD, variceal bleeding s/p banding x 2, and chronic
+   peritonitis.
+ .H/O ALTERED MENTAL STATUS (NOT DELIRIUM)
+   Improved mental status from yesterday; continue Lactulose. Follow
+   clinically.
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+   Has been stable since his second banding 2 days ago. Hct stable since
+   last transfusion. Will coordinate d/c
+ing Octreotide drip in concert
+   with Hepatology service. Will continue to follow [**Hospital1 **] Hcts at this time.
+ PERITONITIS, SPONTANEOUS BACTERIAL (SBP)
+   Chronic peritonitis on long-term antibiotics. Has been on Fluconazole
+   since [**11-19**] and Vanc / [**Last Name (un) **] since [**11-25**]. Presumptively planning for a 2
+   week course. Had planned to do a CT abdomen to assess for peritoneal
+   inflammation or other intra-abdominal acute pathology; however, given
+   his abdominal exam is very reassuring today, WBC is decreasing, will
+   defer CT scan at this time.
+ HYPONATREMIA
+   Improved over the past several days with optimization of volume status.
+   Follow daily.
+ END STAGE LIVER DISEASE
+   Can restart Nadolol for variceal prophylaxis. Follow BP with
+   re-introducing this medicine.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:  20 Gauge - [**2566-11-26**] 12:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition : Perhaps to floor later today or tomorrow pending clinical
+   stability.
+   Total time spent:
+
+
+DOC CLASS

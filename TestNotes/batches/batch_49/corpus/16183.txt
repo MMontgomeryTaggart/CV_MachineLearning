@@ -1,0 +1,184 @@
+Admission Date:  [**3051-3-19**]     Discharge Date:  [**3051-3-23**]
+
+
+Service:  CT [**Doctor First Name **]
+
+HISTORY OF PRESENT ILLNESS:   This 81 year old female with
+known mitral valve prolapse for greater than 60 years and a
+ten year history of dyspnea on exertion was admitted in
+[**3050-10-6**] with congestive heart failure and pulmonary
+edema.  She was followed by Cardiology, Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **],
+for her mitral regurgitation.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Mitral regurgitation.
+3.  Chronic bronchitis.
+4.  Spinal stenosis.
+5.  Kyphosis.
+6.  Osteoporosis.
+7.  Paroxysmal atrial fibrillation.
+8.  Status post sinus surgery.
+9.  Status post tonsillectomy and adenoidectomy.
+
+ALLERGIES:   She had no known drug allergies.
+
+MEDICATIONS AT THE TIME OF PREADMISSION TESTING:
+1.  Fosamax 70 mg p.o. q. day.
+2.  Atenolol 50 mg p.o. q. day.
+3.  Monopril 20 mg p.o. q. day.
+4.  Calcium.
+5.  Centrum vitamins.
+6.  Aspirin.
+
+LABORATORY:  Catheterization data revealed a left ventricular
+ejection fraction of 58% with a pulmonary capillary wedge
+pressure of 16, an left ventricular end diastolic pressure of
+17, four plus mitral regurgitation; one to two plus aortic
+regurgitation and no coronary artery disease.
+
+REVIEW OF SYSTEMS:  She denied any cerebrovascular accident
+or transient ischemic attack symptoms.  She had no history of
+gastrointestinal bleed.  She did have exertional dyspnea and
+palpitations.  No history of claudication, anemia or bleeding
+problems.
+
+PHYSICAL EXAMINATION:   On examination, her blood pressure
+was 101/57; respiratory rate 12; room air saturation of 97%
+with sinus bradycardia at 57.  She was alert and oriented and
+neurologically grossly intact.  She had a Grade IV-V/VI
+holosystolic murmur and her heart was regular rate and
+rhythm.  Her breath sounds were clear bilaterally without any
+wheezes, rhonchi or rales.  She had positive bowel sounds.
+Her abdominal examination was benign with no masses
+appreciated.  Her extremities were warm and well perfused
+with two plus pulses throughout.  Her carotids had no bruits
+bilaterally.
+
+She was referred to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1882**] for mitral valve repair
+versus replacement.
+
+PREOPERATIVE LABS:  On [**3-3**] showed a white blood cell
+count of 7.1, hematocrit 39, platelet count 161,000.  Sodium
+143, potassium 4.6, chloride 102, carbon dioxide 31, BUN 19,
+creatinine 1.0.  INR was 0.9.
+
+HOSPITAL COURSE:   On [**3-19**], she underwent a mitral
+valve annuloplasty repair by Dr. [**Last Name (STitle) 1882**] with a 26 millimeter
+[**Doctor Last Name 1326**] band.  She also had inversion and suturing of her
+left atrial appendage.  She was transferred to the
+Cardiothoracic Intensive Care Unit on a Propofol drip for
+titration and Neo-Synephrine drip, in stable condition.
+
+On postoperative day one, she had been extubated over that 24
+hour period, was in sinus rhythm in the 70s with a blood
+pressure of 96/32, central venous pressure 11, and cardiac
+index of 2.7.  She had a saturation of 97% on three liters,
+remained on a Neo-Synephrine drip at 1 mic per kilo per
+minute, started her aspirin again, was taking morphine for
+pain control.
+
+Postoperative labs as follows:  White blood cell count of
+13.3, hematocrit 29.3, platelet count 105,000.  Sodium 134,
+potassium 4.6, chloride 106, carbon dioxide 24, BUN 13,
+creatinine 0.6 with a blood sugar of 156.  She was
+comfortable on examination.  Her lungs were clear.  Her heart
+was regular in rate and rhythm.  The Neo-Synephrine continued
+to be weaned and her diet was advanced as tolerated.  As soon
+as her Neo was to be weaned, Lasix diuresis was begun and the
+patient continued on her perioperative antibiotics.
+
+Overnight on postoperative day one, the patient's urine
+output dropped slightly.  Her pacing rate was decreased to
+allow her to intrinsically pace herself at a faster rate.
+Neo-Synephrine drip was started to increase her blood
+pressure and urine output.  She was given some Hespan also on
+postoperative day two as her neo-synephrine was back down to
+0.5 with a blood pressure of 105/29 in sinus rhythm at 72.
+She finished her antibiotics.  White count came down to 12.7.
+Potassium was 4.4, BUN 14, creatinine 0.5.  She had decreased
+lung sounds at the bases, but her heart was regular in
+rhythm.  Her examination was otherwise benign with attempts
+continuing to be made to wean her neo-synephrine and she
+remained in the Cardiothoracic Intensive Care Unit.
+
+On postoperative day, she was transfused one unit of packed
+red blood cells in the morning.  Her blood pressure responded
+appropriately with the volume and the Neo-synephrine was
+weaned to off.  The patient was out of bed and moving in the
+Intensive Care Unit, and was transferred out of the Intensive
+Care Unit to the floor on postoperative day two, alert and
+oriented.
+
+She was seen by Physical Therapy for evaluation and to
+continue ambulation.  On postoperative day three, she had no
+events overnight, had a good blood pressure, was
+hemodynamically stable, saturating at 92% on room air, with
+good urine output.  Her heart was regular rate and rhythm.
+Her lungs were clear.  She had trace peripheral edema.  Her
+chest tubes were pulled.  Her pacing wires were discontinued.
+She continued working out of bed with Physical Therapy.  Her
+incisions were clean, dry and intact and she was using
+incentive spirometry for pulmonary toilet.
+
+She continued to ambulate and increased to a level four.  She
+did have a couple of premature ventricular contractions but
+remained stable with no additional ectopy.  On the day of
+discharge, postoperative day four, her lungs were clear.  She
+had no edema.  Her heart was regular rate and rhythm with a
+blood pressure of 120/64; sinus rhythm at 76.  She continued
+to ambulate to a level five and was discharged from the
+hospital on postoperative day four in stable condition.
+
+DISCHARGE DIAGNOSES:
+1.  Status post mitral valve repair with annuloplasty and
+inversion and ligation of left atrial appendage.
+2.  Status post mitral regurgitation.
+3.  Hypertension.
+4.  Chronic bronchitis.
+5.  Spinal stenosis.
+6.  Kyphosis.
+7.  Osteoporosis.
+8.  Paroxysmal atrial fibrillation.
+9.  Prior moderate pulmonary hypertension.
+10. Status post sinus surgery.
+11. Status post tonsillectomy and adenoidectomy.
+
+DISCHARGE MEDICATIONS:  ([**Location (un) 655**] from dictation by Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 524**])
+1.  Metoprolol 12.5 mg p.o. twice a day.
+2.  Colace 100 mg p.o. twice a day.
+3.  Aspirin 325 mg p.o. q. day.
+4.  Tylenol 325 mg times two, p.o. p.r.n. q. four hours for
+pain.
+5.  Ibuprofen 400 mg p.o. p.r.n. q. six hours as needed.
+6.  Percocet 5/325 mg, one tablet p.o. p.r.n. q. four hours
+as needed for pain.
+7.  Lasix 20 mg p.o. q. day.
+8.  Sennosides A and B, calcium 8.6 tablet, one tablet p.o.
+Twice a day.
+
+DISCHARGE STATUS:   The patient was discharged to home.
+
+CONDITION ON DISCHARGE:   Stable condition.
+
+DISCHARGE INSTRUCTIONS:
+1.  To follow-up with Dr. [**Last Name (STitle) 1882**] in approximately three to four
+weeks for postoperative appointment.
+2.  To follow-up with her primary care physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 20520**], in his office in approximately two weeks.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1887**], M.D.  [**MD Number(1) 1888**]
+
+Dictated By:[**Last Name (NamePattern1) 1871**]
+
+MEDQUIST36
+
+D:  [**3051-8-4**]  11:58
+T:  [**3051-8-8**]  17:43
+JOB#:  [**Job Number **]
+
+
+DOC CLASS

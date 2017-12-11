@@ -1,0 +1,213 @@
+Chief Complaint: None
+   24 Hour Events:
+   - Cultures reveal MSSA bacteremia. Changed from Vanco to Nafcillin.
+   Surveillance cultures remain NGTd x 2 days
+   - Dofetelide dose unchanged because of changing Cr. [**Month (only) 8**] need increased
+   dose if Cr remains stable or improved.
+   - I/o Goal even to positive 500 cc
+   - Reversed Code status for procedure
+   - Back pain/anxiety responded midazolam 0.5 x1
+   - Remains Hyponatremic so meds changed to NS instead of D5w. Urine
+   sodium less than 10 and Osm 634 indicating hyponatremia from low intake
+   vs insensible losses.
+   - 2 pm lytes - Na trending up at 127. Cr improved to 1.1 from 1.3.
+   - Aortic Valvuloplasy performed with change in peak valve gradient of
+   roughly 20 mmHg, BMS x2 placed in RCA. Loaded with plavix 300 mg x1.
+   - Noted to be in Afib but rate controlled post-procedure
+   - Sheath time [**3371**]. Post cath check 0200 unremarkable. Heparin
+   post-procedure started at 2 am along with plavix 300 mg x1. Scant
+   bleeding noted at cath site. Bruising marked to eval for interval
+   change.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**3380-5-30**] 12:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3380-5-31**] 08:00 AM
+   Vancomycin - [**3380-5-31**] 08:30 AM
+   Nafcillin - [**3380-6-2**] 06:00 AM
+   Infusions:
+   Phenylephrine - 0.4 mcg/Kg/min
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**3380-6-1**] 12:00 PM
+   Other medications:
+   Changes to medical and family history:
+   None
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Denies pain, sob, nausea, anxiety
+   Flowsheet Data as of  [**3380-6-2**] 07:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 35.3
+C (95.6
+   HR: 99 (73 - 99) bpm
+   BP: 103/56(67) {85/41(39) - 109/70(69)} mmHg
+   RR: 25 (17 - 31) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 71 Inch
+    CVP: 5 (4 - 9)mmHg
+   Total In:
+                                                                  1,424 mL
+                                                                    616 mL
+   PO:
+                                                                     90 mL
+   TF:
+   IVF:
+                                                                  1,424 mL
+                                                                    526 mL
+   Blood products:
+   Total out:
+                                                                    900 mL
+                                                                    180 mL
+   Urine:
+                                                                    900 mL
+                                                                    180 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    524 mL
+                                                                    436 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: 7.47/28/124/22/-1
+   Physical Examination
+   Gen: ill appearing, lethargic but easily arousable, A and Ox3 but more
+   tangential this morning and inappropriate
+   HEENT: no appreciable JVD while lying flat
+   CV: Regular , [**3-24**] harsh late peaking SEM, no rubs or gallops
+   Pulm: CTA
+   Abdomen: +BS, soft, NT, ND, no organomegaly
+   Exts: WWP, 1+ edema 3 cm above ankle bilaterally, 1+ DP bilaterally,
+   Right groin dressing c/d/I, no palpable thrill and no audible bruit
+   Neuro: A and O x3, PERRLA, EOMI, CN ii-xii intact, MAEs, sensation in
+   tact to gross touch
+   Labs / Radiology
+   P K/uL
+   P g/dL
+   143 mg/dL
+   1.0 mg/dL
+   22 mEq/L
+   3.9 mEq/L
+   34 mg/dL
+   97 mEq/L
+   127 mEq/L
+   P %
+   P K/uL
+        [image002.jpg]
+                             [**3380-5-30**]  02:36 PM
+                             [**3380-5-31**]  05:03 AM
+                             [**3380-5-31**]  02:29 PM
+                             [**3380-6-1**]  05:51 AM
+                             [**3380-6-1**]  02:58 PM
+                             [**3380-6-1**]  05:07 PM
+                             [**3380-6-2**]  06:09 AM
+   WBC
+   13.7
+   11.4
+   Hct
+   38.7
+   40.3
+   39.1
+   Plt
+   86
+   88
+   Cr
+   1.5
+   1.8
+   1.5
+   1.3
+   1.1
+   1.0
+   TCO2
+   21
+   Glucose
+   101
+   130
+   229
+   122
+   138
+   143
+   Other labs: PT / PTT / INR:18.9/50.8/1.7, CK / CKMB / Troponin-T:40//,
+   ALT / AST:68/159, Alk Phos / T Bili:56/2.6, Differential-Neuts:82.0 %,
+   Lymph:12.0 %, Mono:5.2 %, Eos:0.4 %, Lactic Acid:2.2 mmol/L, LDH:292
+   IU/L, Ca++:8.5 mg/dL, Mg++:2.2 mg/dL, PO4:2.4 mg/dL
+   Assessment and Plan
+   79M w/ hx of critical AS (valve area 0.5cm2), sCHF (EF 40), alcoholic
+   cirrhosis, DM, recently admitted w/ sCHF exacerbation and worsening of
+   AS, who no p/w persistent severe DOE due to critical AS now awaiting
+   valvuloplasty, course complicated by sepsis.
+   # Sepsis: Bacteria identified as MSSA. Surveillance x 1negative.. No
+   peripheral manifestations of endocarditis, and TTE negative for
+   vegetations. No obvious sources for staph bacteremia. Sensitivities
+   pending. C diff negative x1.
+   - D/c Vanco and Start Nafcillin.
+   - Wean phenylephrine as tolerated now that past septic shock and will
+   help reduce afterload in setting of critical as
+   - Repeat surveillance cx today
+   # Critical AS: AS critical by valve area. Plan to undergo valvuloplasty
+   today. CXR looks improved today in regards to cephalization. .
+   -  Continue phenylephrine for MAPs greater than 55
+   -  daily CXR to assess volume status
+   -  Valvuloplasty today
+   # New onset A fib: Noted on admission. Cardioversion [**5-26**]. Chads 2 is
+   4. Was on heparin gtt on the floor but will d/c now given hct drop..
+   Not on anticoagulation  while awaiting procedure. Has been in NSR last
+   24 hrs.
+   - Continue Dofetelide at reduced dose
+   - Plan to hold anticoagulation for procedure today (see above). Will
+   readress anticoagulation post-procedure.
+   # Hyponatremia: Given exam, likely hypovolemic hyponatremia from being
+   NPO. Will give fluid gently as needed (see below)
+   # Acute renal failure: Cr improved to 1.3 today from 1.8. Likely
+   improving with better hemodynamics in the setting of resolving septic
+   shock.. Fena 0.2.
+   - Trend Cr. Renally dose meds
+   - goal 500 cc + today
+   # Cirrhosis/G positive stools: - Likely [**2-21**] EtOH use. Pt reports that
+   he stopped drinking approx 1 year ago.documented on MRCP as well as CT
+   abdomen. Pt hepatitis panel negative for Hep A,B,C. Hct stable since
+   admission to CCU.
+   -2 pivs
+   -active T and S
+   -continue PPI
+   # ?Aspiration: [**Name8 (MD) **] RN and patient report, patient coughs with thin
+   liquids. Will defer swallow eval while NPO.
+   - S and S consult tomorrow once NPO order reversed
+   # Anxiety/Pain: Will attempt low dose benzo post procedure once stroke
+   risk assessed
+   # DM
+ ISS
+   # FEN
+ NPO while awaiting
+   # Access: Right Cordis with IJ. Was placed while bacteremic so will
+   need to be replaced.
+   # PPx
+ No heparin given ? GIB.
+   # Code- DNR/I
+   # Communication
+ [**Known patient firstname 64**] [**Last Name (NamePattern1) 2967**] (first cousin [**Name (NI) 217**] [**Telephone/Fax (1) 6181**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Cordis/Introducer - [**3380-5-30**] 01:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

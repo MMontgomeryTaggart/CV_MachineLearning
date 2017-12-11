@@ -1,0 +1,290 @@
+Chief Complaint: [** **]/tachycardia
+   24 Hour Events:
+   24 hr events:
+   - Stable with SBPs in low 90s, tachy at 110s.
+   - A-line placed
+   - WBC continues to rise 24.2 -> 28.5
+   - Cre continues to rise, 2.7 -> 3.0
+   - Na+ trending down, 133 -> 131
+   - Platelets trending down, 125 -> 122
+   - CK peaked at 316, now down to 264
+   - Ionized Ca repleted with Ca Gluconate
+   - lipids:
+   - midnight LFTs:
+   - midnight Coags:
+   - midnight DIC panel:
+   - I/O: even at midnight -> incr lasix gtt to 15, goal -500mL
+   - 5:25 AM run on SVT: tachy to 150-160s, SBP in 90s -> lopressor 5 mg
+   x1 -> HR to 120s, SBP to 60s -> recovered to MAP 67
+   - Incresased FiO2 to 60% at 6:00 AM for SaO2 91-92%. Suction showing
+   clots and darker blood.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,600 units/hour
+   Dopamine - 8 mcg/Kg/min
+   Propofol - 40 mcg/Kg/min
+   Furosemide (Lasix) - 15 mg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3493-5-31**] 10:00 PM
+   Metoprolol - [**3493-6-1**] 05:34 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3493-6-1**] 06:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 37
+C (98.6
+   HR: 139 (108 - 139) bpm
+   BP: 94/64(74) {89/60(-17) - 100/67(77)} mmHg
+   RR: 20 (16 - 21) insp/min
+   SpO2: 95%
+   Heart rhythm: PAT (Paroxysmal Atrial Tachycardia)
+             Total In:
+                                                                    693 mL
+                                                                    733 mL
+   PO:
+             TF:
+   IVF:
+                                                                    693 mL
+                                                                    673 mL
+   Blood products:
+   Total out:
+                                                                    270 mL
+                                                                    740 mL
+   Urine:
+                                                                    270 mL
+                                                                    740 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    423 mL
+                                                                     -7 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 6,000 (6,000 - 6,000) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 28 cmH2O
+   Plateau: 15 cmH2O
+   SpO2: 95%
+   ABG: 7.32/39/84.[**Numeric Identifier 981**]/19/-5
+   Ve: 12.1 L/min
+   PaO2 / FiO2: 140
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal, No(t) Absent), (S2: Normal), (Murmur:
+   No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   , Wheezes : , Rhonchorous: )
+   Abdominal: Soft, No(t) Distended
+   Extremities: Right: 1+, Left: 1+, No(t) Cyanosis, No(t) Clubbing
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   122 K/uL
+   13.9 g/dL
+   166 mg/dL
+   3.0 mg/dL
+   19 mEq/L
+   5.0 mEq/L
+   50 mg/dL
+   98 mEq/L
+   131 mEq/L
+   41.7 %
+   28.5 K/uL
+        [image002.jpg]
+                             [**3493-5-31**]  04:59 PM
+                             [**3493-5-31**]  10:33 PM
+                             [**3493-5-31**]  11:59 PM
+   WBC
+   24.2
+   28.5
+   Hct
+   40.1
+   41.7
+   Plt
+   107
+   122
+   Cr
+   2.7
+   3.0
+   TropT
+   1.21
+   1.16
+   TCO2
+   21
+   Glucose
+   125
+   166
+   Other labs: PT / PTT / INR:26.3/ 114.5/2.6, CK / CKMB /
+   Troponin-T:264/18/1.16, ALT / AST:4197/4632, Alk Phos / T Bili:138/1.6,
+   Amylase / Lipase:58/21, Differential-Neuts:96.9 %, Band:0.0 %,
+   Lymph:1.7 %, Mono:1.2 %, Eos:0.1 %, Fibrinogen:170 mg/dL, Lactic
+   Acid:1.7 mmol/L, Albumin:3.4 g/dL, LDH:3354 IU/L, Ca++:7.7 mg/dL,
+   Mg++:2.4 mg/dL, PO4:5.8 mg/dL
+   Fluid analysis / Other labs: Hapto 162
+   Fibrinogen 170
+   Thrombin time: 61.6*
+   ABG: 7.32/39/84
+   Peripheral smear: 1+ anisocytes, 1+ macrocytes
+   Assessment and Plan
+   60M with h/o COPD, tachycardia and recently diagnosed dilated
+   cardiomyopathy (EF 15%) transferred with narrow-complex tachycardia and
+   [**Year (4 digits) 270**].
+   CORONARIES: CK peaked at 316, now trending down, likely r/t cardiac
+   strain from tachyarrhythmia in setting of low EF. No acute ischemic
+   changes on EKG. No episodes of CP overnight. No known history of CAD,
+   plan for cath before discharge.
+   - f/u ECHO
+   - Trend CEs
+   - Continue ASA and Statin
+   - No BB or ACE for now given low BPs
+   - d/c heparin IV
+   - cath when hemodynamically stable, diagnostic +/- therapeutic
+   - daily EKGs
+   .
+   PUMP: Known dilated cardiomyopathy with EF 15%, likely ischemic given
+   regional WMAs. Clinically slightly volume up; lasix drip increased from
+   10 to 15/hr and he has been putting out 130-180cc/hr since then; will
+   likely achieve goal of -500cc by midday.
+   - Plan for swan placement and determnation of need for balloon pump
+   placement today
+   - Gentle diuresis for preload reduction and pulmonary edema
+   - Wean pressors as tolerated (currently on dopamine) but maintain BP
+   support during diuresis
+   - Echo today
+   .
+   RHYTHM: Has been mostly in sinus tachycardia since admission, with
+   pressure support, but with episode of narrow-complex tachyarrhythmia at
+   05:25 this morning. Broke with lopressor 5mg x1 but caused low BPs to
+   SBP 63. Tele tracings of the event show abrupt transition and unclear
+   if sinus vs. afib/flutter. EKGs from OSH show likely Afib vs Aflutter
+   with 2:1 block that was refractory to lopressor, adenosine, verapamil
+   and converted with DCCV.
+   - Defib pads placed
+   - Monitor on tele
+   - Holding beta-blocker in setting of hypotension
+   - d/c heparin gtt
+   .
+   Respiratory failure: Likely pulmonary edema vs COPD flare vs PNA. WBCs
+   remain elevated, red blood coming out of ETT today but remains
+   afebrile. Required increase in FiO2 to 60% due to desats to 91-92, not
+   in setting of tachyarrhythmia.
+   - f/u CXR today
+   - Diuresis for pulmonary edema as above
+   - Continue mechanical ventilation pending improved hemodynamic
+   stability
+   - ABG improved from OSH admission, 7.32/39/84. f/u AM ABG. Continue to
+   trend and adjust vent settings as needed.
+   - No antibiotics at this point
+   - No stress dose steroids
+   .
+   ARF: Baseline Cre <1.0 now 3.0. Likely related to hypoperfusion in
+   setting of cardiogenic [**Year (4 digits) 270**]. Urine output responsive to lasix.
+   Continue to diurese and follow Cre.
+   - Trend Cre
+   - Renally dose meds
+   .
+   Metabolic acidosis: Improving. pH at OSH 7.10, now 7.32. Most likely
+   resolving lactic acidosis and ARF in setting of cardiogenic [**Last Name (LF) 270**], [**First Name3 (LF) **]
+   likely improve with improved oxygenation after diuresis.
+   - Will trend ABG
+   .
+   Leukocytosis: likely acute demargination in setting of [**First Name3 (LF) 270**] and
+   electrical cardioversion vs acute infection vs steroid-induced
+   leukocytosis. Has been afebrile. Given hyperacute rise in WBC (10 at
+   OSH ED yesterday), likely not infectious etiology. Given neutrophilia
+   vs lymphocytosis, may not all be steroid related. CXR shows likely
+   retrocardiac atalectasis but not PNA. Given isolated finding of high
+   WBC, likely not sepsis.
+   - Trend WBCs and monitor for fever or signs of infection
+   - f/u culture data from OSH
+   - Holding antibiotics
+   - No steroids
+   .
+   Transaminitis: likely [**First Name3 (LF) 270**] liver in setting of hypoperfusion.
+   - trend LFTs
+   .
+   Thrombocytopenia/Coagulopathy: Unclear etiology for platelets 125, INR
+   1.21. Cannot r/o DIC given multi-organ ischemia and [**First Name3 (LF) 270**].
+   - INR trending down, 2.8 -> 2.6
+   - low fibrinogen,  and elevated thrombin time
+   - f/u repeat coags, platelets
+   .
+   COPD: Likely not an acute flare
+   - Continue standing ipratropium, PRN albuterol but cautious with
+   tachycardia
+   - holding steroids
+   .
+   FEN: try tube feeding today, replete electrolytes as needed
+   ACCESS: PIV's, A-line, RIJ. Need to change RIJ CVL.
+   PROPHYLAXIS:
+   -DVT ppx with heparin IV
+   -Bowel regimen with senna/colace
+   CODE: Presumed full
+   DISPO: CCU for now
+   HCP: [**Name (NI) 2265**] [**Name (NI) 6290**], [**Telephone/Fax (1) 7989**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3493-5-31**] 04:38 PM
+   20 Gauge - [**3493-5-31**] 04:40 PM
+   Arterial Line - [**3493-5-31**] 09:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr(s). [**Name (NI) 5566**], Quereshi.
+   I would add the following remarks:
+   History
+   60 yr old transferred with catastrophic deterioration from dilated
+   cardiomyopathy with intermittent SVT, hypotension requiring pressors,
+   oliguria, increasing oxygen requirement on respirator, liver failure,
+   incr INR, incr WBC, persistent pulmonary edema with modest elevation of
+   troponin and no gross ischemic EKG changes.
+   Physical Examination
+   intubated, sedated, cool extremities with mild edema
+   Medical Decision Making
+   Patient with life threatening deterioration from cardiogenic [**Name (NI) 270**],
+   probably nonischemic.
+   Will need support with IABP or better Impella device together with
+   pressors and high dose diuretics.
+   Will proceed with swan, support device and coronary angiography later
+   today.
+   Adv CHF consult.
+   Prognosis poor.
+   Discussed with family.    Full code.   Time spent:  60 min.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 18**] [**Last Name (NamePattern1) 2693**], MD
+   on:[**3493-6-1**] 14:38 ------
+
+
+DOC CLASS

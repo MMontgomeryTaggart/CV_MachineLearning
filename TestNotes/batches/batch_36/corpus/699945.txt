@@ -1,0 +1,212 @@
+CVICU
+   HPI:
+   HD7   POD 5-CABGx1/AVR/pericardial stripping/pericardiectomy
+   Ejection Fraction:55
+   Hemoglobin A1c:5.6
+   Pre-Op Weight:158 lbs   71.67 kgs
+   Baseline Creatinine:7.5
+   TLD:rt IJ:Day6   lft IJ-temp Vwire:Day5
+   Plan:*L effusion-will likely need L decortication-[**Last Name (un) 8249**] following
+   PMHx:
+   PMH::CAD, AS,PVD,DM europathy/retinopathy/nephropathy,hyperlipidemia,
+   HT, glaucoma, hx of pericardial effusion w tamponade, CHF,anemia,
+   agranulcytosis, recurrent pleural effusion s/p thoracentesis w chronic
+   left pleural effusion,ESRD on HD, hx of GI bleed, chronic constipation,
+   hx of CVA, s/p left forefoot amputation, cataract surgery,umbilical
+   hernia, tonsillectomy, RT CEA
+   [**Last Name (un) **]: ASA 81mg daily, insulin sliding scale, imdur , 60mg daily,
+   lopressor 25mg daily, prilosec 20mg daily, renvela
+   8--mg TID, Travatan opthalmic solution, Vitamin B complex/vitamin ,
+   C/folic acid 1 capsule daily, crestor 20mg daily, repaglinide 2mg ,
+   daily, fligrastim 300 mcg SC Saturdays
+   Current medications:
+   Acetaminophen 5. Aspirin EC 6. Calcium Gluconate 7. Docusate Sodium 9.
+   Heparin 10. Insulin 11. Lorazepam  Magnesium Sulfate 14. Metoclopramide
+   15. Milk of Magnesia 16. Omeprazole 17. Phenylephrine . Potassium
+   Chloride 20. Quetiapine Fumarate 21. Rosuvastatin Calcium 22. Sarna 4.
+   Travatan 25. sevelamer CARBONATE
+   24 Hour Events:
+   Events:
+   [**3455-12-31**] CHB/slow vent escape under pacer for PPM in AM. HD today
+   [**3455-12-29**] CTs/JP DC'd.HD both days.TV PW**PPM tues. Nothing underneath.
+   +/-Neo
+   Post operative day:
+   [**1-1**] HD7   POD 5-CABGx1/AVR/pericardial stripping/pericardiectomy
+   Allergies:
+   Sulfa (Sulfonamide Antibiotics)
+   Unknown;
+   Niacin
+   Unknown;
+   Lisinopril
+   Unknown;
+   Lorazepam
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3455-12-29**] 07:00 PM
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3455-12-31**] 08:01 PM
+   Heparin Sodium (Prophylaxis) - [**3456-1-1**] 12:21 AM
+   Flowsheet Data as of  [**3456-1-1**] 07:29 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**57**] a.m.
+   Tmax: 38.1
+C (100.6
+   T current: 36.7
+C (98
+   HR: 82 (82 - 88) bpm
+   BP: 126/49(74) {88/35(50) - 140/49(80)} mmHg
+   RR: 34 (16 - 34) insp/min
+   SPO2: 99%
+   Heart rhythm: V Paced
+   Wgt (current): 79.4 kg (admission): 71.1 kg
+   Height: 68 Inch
+             Total In:
+                                                                    750 mL
+                                                                     94 mL
+   PO:
+                                                                    300 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    450 mL
+                                                                     94 mL
+   Blood products:
+   Total out:
+                                                                  1,020 mL
+                                                                      0 mL
+   Urine:
+                                                                     20 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -270 mL
+                                                                     94 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 99%
+   ABG: ///34/
+   Physical Examination
+   General Appearance: No acute distress, Arrousable but lethargic
+   HEENT: PERRL, Dry oral mucosa
+   Cardiovascular: (Rhythm: Regular), Vpaced, CHB under pacer. Occaisional
+   PVC's
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: No(t) Absent, Trace), (Temperature: Warm,
+   No(t) Cool), (Pulse - Dorsalis pedis: Diminished), (Pulse - Posterior
+   tibial: Diminished)
+   Right Extremities: (Edema: No(t) Absent, Trace), (Temperature: Warm,
+   No(t) Cool), (Pulse - Dorsalis pedis: Diminished), (Pulse - Posterior
+   tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities, Received ativan for sleep last night
+   Labs / Radiology
+   186 K/uL
+   9.0 g/dL
+   115 mg/dL
+   4.1 mg/dL
+   34 mEq/L
+   3.8 mEq/L
+   22 mg/dL
+   97 mEq/L
+   141 mEq/L
+   26.5 %
+   12.0 K/uL
+        [image002.jpg]
+                             [**3455-12-28**]  08:39 PM
+                             [**3455-12-29**]  02:18 AM
+                             [**3455-12-29**]  02:31 AM
+                             [**3455-12-29**]  03:34 PM
+                             [**3455-12-29**]  11:38 PM
+                             [**3455-12-30**]  03:48 AM
+                             [**3455-12-30**]  05:40 PM
+                             [**3455-12-30**]  06:23 PM
+                             [**3455-12-31**]  03:18 AM
+                             [**3456-1-1**]  03:19 AM
+   WBC
+   9.9
+   11.5
+   11.4
+   12.0
+   Hct
+   28.1
+   26.8
+   25.2
+   26.5
+   Plt
+   [**Telephone/Fax (3) 10870**]86
+   Creatinine
+   5.4
+   6.6
+   4.3
+   5.3
+   6.0
+   4.1
+   TCO2
+   23
+   26
+   30
+   27
+   Glucose
+   122
+   113
+   109
+   132
+   109
+   102
+   135
+   124
+   115
+   Other labs: PT / PTT / INR:14.6/39.1/1.3, Differential-Neuts:59.0 %,
+   Band:0.0 %, Lymph:36.0 %, Mono:2.0 %, Eos:1.0 %, Fibrinogen:204 mg/dL,
+   Lactic Acid:1.2 mmol/L, Ca:8.1 mg/dL, Mg:2.3 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+   DELIRIUM / CONFUSION, CORONARY ARTERY BYPASS GRAFT (CABG), [**Last Name 9**]
+   PROBLEM - ENTER DESCRIPTION IN COMMENTS, .H/O RENAL FAILURE, END STAGE
+   (END STAGE RENAL DISEASE, ESRD), VALVE REPLACEMENT, AORTIC
+   BIOPROSTHETIC (AVR)
+   Assessment and Plan: 76 M s/p CABGx1(LIMA-LAD)/AVR(25mm
+   Magna)/pericardial stripping/pericardiectomy
+   Neurologic: Pt denied pain, no pain meds.  Agitated/confused overnight,
+   refused seroquel, received ativan for anxiety.  Arrousable but
+   lethargic this morning.  Following commands, MAE
+   Cardiovascular: Aspirin, Statins, Discontinue epicardial wires, D/C
+   epicardial wires after patient returns from pacemaker placement.  Start
+   BB per EP.
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: NPO, NPO today for permanent pacemaker placement
+   Renal: HD, [**12-31**] HD
+   Hematology: Hct stable, continue to follow
+   Endocrine: RISS
+   Infectious Disease: No active issues, afebrile, WBC wnl
+   Lines / Tubes / Drains: Pacing wires, R IJ trauma line
+   L IJ cordis with transvenous pacing wire
+   Wounds: Dry dressings
+   Imaging: CXR [**1-2**] in am
+   Consults: CT surgery, Nephrology, P.T., Nutrition, EP dept
+   ICU Care
+   Nutrition:  NPO for procedure
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3455-12-27**] 08:30 PM
+   Trauma line - [**3455-12-27**] 08:30 PM
+   Cordis/Introducer - [**3455-12-30**] 04:29 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

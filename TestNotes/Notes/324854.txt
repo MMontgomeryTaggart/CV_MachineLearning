@@ -1,0 +1,219 @@
+Chief Complaint:
+   Ms. [**Known patient lastname 5051**] is a 73 yo female with PTLD s/p R-CHOP, s/p liver
+   transplant in [**2660**] for cryptogenic cirrhosis, pulmonary fibrosis, type
+   2 diabetes, and HTN admitted for constellation of non-specific symptoms
+   such as fatigue, urinary incontinence, shortness of breath, and leg
+   swelling.
+   24 Hour Events:
+ BLOOD CULTURED - At [**2668-8-15**] 03:12 PM
+   - TTE showed EF 70%, RV hypertrophy, dilated RV with depressed RV
+   function. Moderate pulmonary artery systolic HTN with no significant
+   difference from prior ECHO in [**2-/2668**]
+   - Patient with hypothermia, diaphoresis, was started on empiric
+   antibiotics
+ vanco/levofloxacin. BCx taken
+   - Blood sugars elevated in 200-300s, evening NPH increased from 5 to
+   10units, insulin sliding scale uptitrated. BS more controlled today
+   Allergies:
+   Codeine
+   Unknown;
+   Oxycodone/Acetaminophen (Oral) (Oxycodone Hcl/Acetaminophen
+   Unknown;
+   Morphine Sulfate
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin 1gm IV Q12 (day #1 [**8-15**])
+   Levofloxacin 750mg PO daily (day #1 [**8-15**])
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Tacrolimus 3mg PO Q12h
+   Metoprolol 25mg PO TID
+   Advair 1 inh [**Hospital1 **]
+   ASA 325mg PO daily
+   Bactrim 3d/week
+   Prednisone 40mg PO daily
+   Levothyroxine 75mcg daily
+   Omeprazole 20mg PO daily
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2668-8-16**] 06:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.7
+   Tcurrent: 35.4
+C (95.7
+   HR: 75 (71 - 141) bpm
+   BP: 106/64(75) {89/23(41) - 130/72(82)} mmHg
+   RR: 18 (11 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 86.9 kg (admission): 86.5 kg
+             Total In:
+                                                                  1,808 mL
+                                                                    125 mL
+   PO:
+                                                                    720 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  1,088 mL
+                                                                      5 mL
+   Blood products:
+   Total out:
+                                                                  1,300 mL
+                                                                    500 mL
+   Urine:
+                                                                  1,300 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    508 mL
+                                                                   -375 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula at 4L
+   SpO2: 100%
+   ABG: ///30/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   123 K/uL
+   11.0 g/dL
+   213 mg/dL
+   1.0 mg/dL
+   30 mEq/L
+   4.4 mEq/L
+   29 mg/dL
+   97 mEq/L
+   135 mEq/L
+   31.1 %
+   3.8 K/uL
+        [image002.jpg]
+                             [**2668-8-15**]  04:34 AM
+                             [**2668-8-16**]  04:03 AM
+   WBC
+   4.4
+   3.8
+   Hct
+   33.9
+   31.1
+   Plt
+   120
+   123
+   Cr
+   0.9
+   1.0
+   TropT
+   0.02
+   Glucose
+   140
+   213
+   Other labs: PT / PTT / INR:11.6/20.0/1.0, CK / CKMB /
+   Troponin-T://0.02, ALT / AST:19/14, Alk Phos / T Bili:67/0.2,
+   Differential-Neuts:82.0 %, Lymph:13.9 %, Mono:3.4 %, Eos:0.5 %,
+   Albumin:3.0 g/dL, LDH:244 IU/L, Ca++:8.7 mg/dL, Mg++:2.0 mg/dL, PO4:4.0
+   mg/dL
+   Micro data:
+   BCx [**8-14**] and [**8-15**] pending
+   UCx [**8-14**] pending
+   TTE [**2668-8-15**]:
+   The left atrium is moderately dilated. Left ventricular wall
+   thicknesses are normal. The left ventricular cavity size is normal.
+   Overall left ventricular systolic function is normal (LVEF 70%). There
+   is no ventricular septal defect. The right ventricular free wall is
+   hypertrophied. The right ventricular cavity is dilated with depressed
+   free wall contractility. The aortic root is mildly dilated at the sinus
+   level. The ascending aorta is mildly dilated. The aortic valve leaflets
+   (3) are mildly thickened but aortic stenosis is not present. No aortic
+   regurgitation is seen. The mitral valve leaflets are mildly thickened.
+   There is no mitral valve prolapse. Trivial mitral regurgitation is
+   seen. The tricuspid valve leaflets are mildly thickened. The supporting
+   structures of the tricuspid valve are thickened/fibrotic. There is
+   moderate pulmonary artery systolic hypertension. The main pulmonary
+   artery is dilated. The branch pulmonary arteries are dilated. There is
+   no pericardial effusion.
+   Compared with the findings of the prior report (images unavailable for
+   review) of [**2668-2-21**], the findings are similar.
+   Assessment and Plan
+   Ms. [**Known patient lastname 5051**] is a 73 yo female with PTLD s/p R-CHOP, s/p liver
+   transplant in [**2660**] for cryptogenic cirrhosis, pulmonary fibrosis, type
+   2 diabetes, and HTN admitted for constellation of non-specific symptoms
+   such as fatigue, urinary incontinence, shortness of breath, and leg
+   swelling.
+   .
+   1.  Dyspnea/fatigue.  Unclear if these symptoms truly represent a
+   difference from baseline. Per patient she is at baseline dyspnea.  [**Month (only) 56**]
+   be secondary to deconditioning. Currently being covered empirically
+   with vanc/levofloxacin (day #2). Cultures pending. Also may be
+   component to diastolic dysfunction and known pulmonary fibrosis and
+   moderate pulmonary HTN (but not changed from prior per repeat TTE
+   yesterday).  Patient weaned back to home O2 dose at 2L NC.
+   Hemodynamically stable.
+   - continue home prednisone at 40mg PO daily
+   - continue vanc/levo (day#2 today) for now, but if cultures negative
+   after 24 hours, can consider d/c abx
+   .
+   2.  s/p Tachycardia.  Patient had sinus tachycardia and then A. fib
+   with RVR on day of admission.  HR has increased in recent months at
+   outpatient visits.  Concern for ongoing A. fib with RVR with poor RV
+   function and possible diastolic dysfunction.  Normal TSH.  No evidence
+   of dehydration. Patient
+s HR has been well controlled overnight HR
+   70-80s on 25mg PO metoprolol. Patient
+s BP transiently decreases to SBP
+   80s after administration of metoprolol but patient mentating well and
+   this is controlling her HR well.
+   - continue metoprolol 25mg PO TID for rate control. Can switch to
+   12.5mg PO QID if continues to have large transient BP drop after 25mg
+   dosing
+   - continue aspirin
+   - determine why patient is not on anticoagulation
+   - f/u with family and/or PCP [**Last Name (NamePattern4) **]: whether anticoagulation would be
+   feasible for patient
+   .
+   3.  S/p liver transplant, on tacrolimus.
+   - check tacrolimus level
+   4.  IPF.  Patient requires 2-2.5L/NC at home, currently back on home
+   dosing.  On Prednisone 40 mg daily.
+   - continue steroids
+   - continue supplemental oxygen to maintain O2 sats > 95
+   .
+   5.  DM. On NPH and RISS. NPH uptitrated overnight due to high BS and
+   her sugars have been controlled in 100s so far today
+   - follow fingersticks
+   - continue NPH 30/10 and RISS. Uptitrate as needed.
+   .
+   6. Hypothyroidism
+ TSH normal
+   - continue home dose of levothyroxine
+   ICU Care
+   Nutrition: Diabetic diet
+   Glycemic Control:  Uncontrolled overnight with highest BS in 400s.
+   Evening NPH was increased from 5 to 10 units overnight. Current control
+   is good.
+   Lines:
+   20 Gauge - [**2668-8-14**] 05:45 PM
+   Prophylaxis:
+   DVT: SC heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNI but would like cardiac resuscitation
+   Disposition: Stable for call out to medical floor. Plan to transfer
+   patient to Transplant Medicine service on [**Hospital Ward Name 763**] 10 when bed available
+
+
+DOC CLASS

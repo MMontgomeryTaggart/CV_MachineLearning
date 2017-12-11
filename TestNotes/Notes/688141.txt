@@ -1,0 +1,199 @@
+CVICU
+   HPI:
+   HD2   POD 1-CABGx3 (LIMA>LAD, SVG>Diag, SVG>PDA)
+   Ejection Fraction:55
+   Hemoglobin A1c:5.1
+   Pre-Op Weight:164.9 lbs   74.8 kgs
+   Baseline Creatinine:1
+   PMHx:Ulcerative colitis, quiescent on tx, Hyperlipdemia, GERD,
+   arthritis, appy [**6-29**], cataract sx x2,lt arthroscopic shoulder sx,L4-5
+   linectomy,RIH x3,PNA [**1-30**]
+   [**Last Name (un) 500**]:azathioprine 25mg daily,clonazepam 1mg HS,omeprazole 20mg daily,
+   VitC 500mg daily, ASA 81mg daily,CaC03/VitD [**Hospital1 **],VitB12 1gm daily,
+   Ergocalciferol 1000U daily, Fish Oil daily
+   Assessment:s/p CABGx3 (LIMA to LAD, SVG to Diag, SVG to PDA)
+   Current medications:
+   Acetaminophen . Aspirin EC . Azathioprine . Calcium Gluconate . Calcium
+   Carbonate CefazoLIN . Dextrose 50% . Docusate Sodium . Insulin .
+   Ketorolac . Magnesium Sulfate Metoclopramide . Metoprolol Tartrate .
+   Milk of Magnesia  Morphine Sulfate . Oxycodone-Acetaminophen
+   Pantoprazole . Pneumococcal Vac Polyvalent. Potassium Chloride.
+   Simvastatin
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**3177-3-16**] 03:15 PM
+ INTUBATION - At [**3177-3-16**] 03:20 PM
+ NASAL SWAB - At [**3177-3-16**] 03:32 PM
+ OR RECEIVED - At [**3177-3-16**] 03:32 PM
+ ARTERIAL LINE - START [**3177-3-16**] 03:43 PM
+ PA CATHETER - START [**3177-3-16**] 03:44 PM
+ CORDIS/INTRODUCER - START [**3177-3-16**] 03:44 PM
+ EXTUBATION - At [**3177-3-16**] 06:05 PM
+ INVASIVE VENTILATION - STOP [**3177-3-16**] 06:10 PM
+ PA CATHETER - STOP [**3177-3-17**] 06:31 AM
+   Post operative day:
+   POD#1 - cabg x3
+   Allergies:
+   Remicade (Intraven) (Infliximab)
+   Anemia;
+   Last dose of Antibiotics:
+   Cefazolin - [**3177-3-16**] 07:30 PM
+   Infusions:
+   Other ICU medications:
+   Insulin - Regular - [**3177-3-16**] 10:15 PM
+   Morphine Sulfate - [**3177-3-17**] 12:30 AM
+   Other medications:
+   Flowsheet Data as of  [**3177-3-17**] 07:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**79**] a.m.
+   Tmax: 38.1
+C (100.6
+   T current: 37.8
+C (100
+   HR: 101 (70 - 101) bpm
+   BP: 108/55(74) {88/41(57) - 142/73(96)} mmHg
+   RR: 24 (13 - 30) insp/min
+   SPO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 82.5 kg (admission): 75.8 kg
+   Height: 67 Inch
+   CVP: 2 (0 - 14) mmHg
+   PAP: (20 mmHg) / (7 mmHg)
+   CO/CI (Thermodilution): (7.18 L/min) / (3.8 L/min/m2)
+   SVR: 713 dynes*sec/cm5
+   SV: 79 mL
+   SVI: 42 mL/m2
+   Total In:
+                                                                  7,013 mL
+                                                                  1,837 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  6,513 mL
+                                                                  1,487 mL
+   Blood products:
+                                                                    500 mL
+                                                                    350 mL
+   Total out:
+                                                                  3,270 mL
+                                                                    806 mL
+   Urine:
+                                                                  1,635 mL
+                                                                    630 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     45 mL
+   Balance:
+                                                                  3,743 mL
+                                                                  1,031 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 500) mL
+   Vt (Spontaneous): 537 (537 - 537) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 18 cmH2O
+   Plateau: 15 cmH2O
+   SPO2: 98%
+   ABG: 7.46/38/109/22/0
+   Ve: 8.1 L/min
+   PaO2 / FiO2: 218
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   121 K/uL
+   8.9 g/dL
+   98
+   0.7 mg/dL
+   22 mEq/L
+   4.3 mEq/L
+   10 mg/dL
+   109 mEq/L
+   137 mEq/L
+   25.0 %
+   8.3 K/uL
+        [image002.jpg]
+                             [**3177-3-16**]  08:37 PM
+                             [**3177-3-16**]  11:00 PM
+                             [**3177-3-17**]  12:00 AM
+                             [**3177-3-17**]  12:55 AM
+                             [**3177-3-17**]  02:00 AM
+                             [**3177-3-17**]  02:03 AM
+                             [**3177-3-17**]  03:00 AM
+                             [**3177-3-17**]  04:00 AM
+                             [**3177-3-17**]  05:00 AM
+                             [**3177-3-17**]  06:00 AM
+   WBC
+   8.3
+   Hct
+   25.0
+   Plt
+   121
+   Creatinine
+   0.7
+   TCO2
+   25
+   Glucose
+   148
+   109
+   90
+   114
+   107
+   115
+   132
+   128
+   104
+   98
+   Other labs: PT / PTT / INR:14.2/29.4/1.2, Fibrinogen:192 mg/dL, Lactic
+   Acid:1.3 mmol/L
+   Imaging: CXR pending
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), CORONARY ARTERY DISEASE (CAD,
+   ISCHEMIC HEART DISEASE), PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   Assessment and Plan: Stable. Resume BB, begin diuresis and transfer.
+   CTs out-XR pending.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Discontinue PA monitor
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, Adequate UO
+   Endocrine: RISS
+   :Lines / Tubes / Drains: Foley, Surgical drains (hemovac, JP), Chest
+   tube - pleural , Chest tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: P.T.
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3177-3-16**] 03:43 PM
+   Cordis/Introducer - [**3177-3-16**] 03:44 PM
+   16 Gauge - [**3177-3-16**] 03:48 PM
+   Prophylaxis:
+   Stress ulcer: H2 blocker
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

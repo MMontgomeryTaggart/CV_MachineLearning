@@ -1,0 +1,195 @@
+Admission Date:  [**2650-5-22**]              Discharge Date:   [**2650-5-22**]
+
+Date of Birth:  [**2573-1-23**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfa (Sulfonamides) / Ciprofloxacin
+
+Attending:[**First Name3 (LF) 105**]
+Chief Complaint:
+back pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization.  intra-aortic balloon pump placement
+
+History of Present Illness:
+Mr. [**Known patient lastname 3221**] is a 77 yo man with mulitvessel CAD s/p numerous
+PCI, CHF (EF 30%), pulmonary hypertension, PVD, DM, who
+presented to the ED with back pain since the night before,
+consistent with his prior angina.  Further questioning
+impossible due to critical illness.
+.
+In the ED his presenting vitals were: HR 120, BP 77/11, RR 25.
+He rapidly decompensated with a Wide-complex tachycardia,
+hypotension, respiratory distress. At somepoint he had a
+bradycardic arrest and was given atropine, he was intubated,
+started on dopamine & norepinephrine drips and was taken to the
+cath lab for concern of ACS given his positive troponin.
+.
+In the cath lab he had what appeared to be a chronic LCX
+occlusion which appeared to be chronic and was unable to be
+crossed with a wire. He had an IABP placed, no other
+interventions occurred. He remained hypotensive in the cath lab,
+requiring dopamine drip at 20 & levophed at 0.25.  He was given
+vancomycin + ceftriaxone for concern of urosepsis.
+
+
+Past Medical History:
+-CAD status post silent MI in [**2637**] (found to have 100% mid LAD
+stenosis)
+-Status post NSTEMI in [**2647-1-31**] -> staged percutaneous
+interventions of multivessel disease. Left main distal 40%
+lesion. LAD long 90% lesion in the mid vessel. Ostial left
+circumflex had a 90% lesion; ostial right coronary artery had a
+
+probable 70% lesion.
+- Severe pulmonary HTN with a systolic PA pressure of 83 mmHg
+and
+a mean pressure of 53 mmHg. His overall LVEF was 40-45%. Status
+post PCI of the left main into the left circumflex with
+rotational atherectomy (drug-eluting stent). Status post
+angioplasty of the left main/left circumflex stent and
+rotational atherectomy and stenting of the ostial right coronary
+with a drug- eluting stent. In [**2647-8-31**], cardiac cath
+revealed moderate diastolic ventricular dysfunction, severe
+pulmonary hypertension, and successful PCI of the LCx.
+-DM2 x 34 yrs
+-PVD s/p LLE bypass graft in [**2643**], with subsequent revision in
+[**2645**].
+-Pulmonary HTN
+-Chronic LE neuropathy
+-Chronic constipation
+-h/o substance abuse - cocaine and EtOH
+-h/o MRSA RLE abscess- [**2644**]
+
+
+Social History:
+The patient currently works as an instructor in the Finance
+Department at [**University/College **]. For several decades, he worked in [**State 525**] at
+the stock exchange. He left that job to retire and moved to the
+[**Location (un) 505**] area. He is married; both he and his currentwife are
+in their second marriages. They have five children between the
+two of them, along with nine grandchildren. Mr. [**Known patient lastname 3221**]
+describes himself as a former heavy smoker; he stopped about ten
+years ago after his first heart attack. He indicated that he
+never smoked cigarettes, only cigars. He did not believe that he
+inhaled them on a regular basis. The patient is a recovering
+alcoholic and also a former cocaine
+abuser. However, he has not used either substance in nearly 20
+years.
+
+
+Family History:
+Family history is remarkable for mother who died at age [**Age over 90 **] of
+complications of diabetes.  The patient's father died in his 60s
+secondary to lung cancer; he was a smoker.  Mr. [**Known patient lastname 3221**] has only
+one sibling, a sister who is currently age 59. She was diagnosed
+with lung cancer.
+
+Physical Exam:
+Critically ill.  Balloon pump in place, intubated.  vitals
+unstable with hypotension and tachycardia.  unable to examine
+further.
+
+Pertinent Results:
+[**2650-5-22**] 01:12PM   TYPE-ART PO2-85 PCO2-36 PH-7.02* TOTAL
+CO2-10* BASE XS--21
+[**2650-5-22**] 01:12PM   GLUCOSE-348* LACTATE-10.3* NA+-134* K+-4.4
+[**2650-5-22**] 01:10PM   GLUCOSE-391* UREA N-39* CREAT-1.9* SODIUM-136
+POTASSIUM-4.6 CHLORIDE-107 TOTAL CO2-9* ANION GAP-25*
+[**2650-5-22**] 01:10PM   ALT(SGPT)-150* AST(SGOT)-197* CK(CPK)-1019*
+ALK PHOS-77 TOT BILI-0.8
+[**2650-5-22**] 01:10PM   CK-MB-105* MB INDX-10.3* cTropnT-4.63*
+[**2650-5-22**] 01:10PM   CALCIUM-6.8* PHOSPHATE-5.5*# MAGNESIUM-1.9
+[**2650-5-22**] 01:10PM   WBC-43.1* RBC-3.72* HGB-11.1* HCT-35.6*
+MCV-96 MCH-29.8 MCHC-31.2 RDW-13.6
+[**2650-5-22**] 01:10PM   NEUTS-89.0* LYMPHS-7.7* MONOS-3.0 EOS-0.1
+BASOS-0.3
+[**2650-5-22**] 01:10PM   PLT COUNT-221
+[**2650-5-22**] 01:10PM   PT-21.1* PTT-137.3* INR(PT)-2.0*
+[**2650-5-22**] 01:03PM   TYPE-ART PO2-110* PCO2-21* PH-7.23* TOTAL
+CO2-9* BASE XS--16
+[**2650-5-22**] 01:03PM   LACTATE-7.8*
+[**2650-5-22**] 11:15AM   TYPE-ART RATES-/14 TIDAL VOL-500 PEEP-5
+PO2-62* PCO2-35 PH-7.18* TOTAL CO2-14* BASE XS--14 -ASSIST/CON
+INTUBATED-INTUBATED
+[**2650-5-22**] 11:15AM   LACTATE-6.4*
+[**2650-5-22**] 11:15AM   O2 SAT-86
+[**2650-5-22**] 10:16AM   TYPE-ART RATES-/14 TIDAL VOL-500 O2 FLOW-100
+PO2-125* PCO2-32* PH-7.15* TOTAL CO2-12* BASE XS--16
+INTUBATED-INTUBATED VENT-CONTROLLED
+[**2650-5-22**] 10:16AM   HGB-13.0* calcHCT-39 O2 SAT-97
+[**2650-5-22**] 09:38AM   PH-7.39
+[**2650-5-22**] 09:38AM   GLUCOSE-271* LACTATE-6.7* NA+-136 K+-4.2
+CL--102 TCO2-19*
+[**2650-5-22**] 09:38AM   freeCa-0.97*
+[**2650-5-22**] 09:30AM   GLUCOSE-278* UREA N-40* CREAT-1.8* SODIUM-135
+POTASSIUM-4.0 CHLORIDE-99 TOTAL CO2-21* ANION GAP-19
+[**2650-5-22**] 09:30AM   estGFR-Using this
+[**2650-5-22**] 09:30AM   CK(CPK)-195*
+[**2650-5-22**] 09:30AM   cTropnT-0.27*
+[**2650-5-22**] 09:30AM   CK-MB-16* MB INDX-8.2*
+[**2650-5-22**] 09:30AM   CALCIUM-8.8 PHOSPHATE-3.3 MAGNESIUM-1.8
+[**2650-5-22**] 09:30AM   WBC-34.6*# RBC-4.57* HGB-13.7* HCT-41.9
+MCV-92 MCH-30.0 MCHC-32.7 RDW-13.5
+[**2650-5-22**] 09:30AM   NEUTS-78* BANDS-14* LYMPHS-6* MONOS-2 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2650-5-22**] 09:30AM   CALCIUM-8.8 PHOSPHATE-3.3 MAGNESIUM-1.8
+[**2650-5-22**] 09:30AM   WBC-34.6*# RBC-4.57* HGB-13.7* HCT-41.9
+MCV-92 MCH-30.0 MCHC-32.7 RDW-13.5
+[**2650-5-22**] 09:30AM   NEUTS-78* BANDS-14* LYMPHS-6* MONOS-2 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2650-5-22**] 09:30AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-OCCASIONAL SCHISTOCY-OCCASIONAL
+[**2650-5-22**] 09:30AM   PLT SMR-NORMAL PLT COUNT-210
+[**2650-5-22**] 09:30AM   PT-16.6* PTT-26.6 INR(PT)-1.5*
+
+
+Brief Hospital Course:
+Mr [**Known patient lastname 3221**] was transferred from the cath lab to the CCU in
+critical condition.  Shortly after arrival he went into PEA
+arrest.  He was unable to be resuscitated despite CPR, numerous
+rounds of epinephrine, atropine, calcium, and bicarbonate.  His
+family was present and CPR was terminated at 1:30 PM.  He died
+at 1:32 PM.  Autopsy was declined.
+
+Medications on Admission:
+Lipitor 80 mg daily
+Plavix 75 mg daily
+folic acid daily
+Lasix 80 mg twice a day
+Lantus insulin 20 units in the morning, 14 units in the evening
+Humalog per sliding scale
+Cozaar 100 mg daily
+Toprol-XL 25 mg daily
+spironolactone 25 mg daily
+eyedrops daily
+aspirin 325 mg daily
+and stool softeners up to twice a day, iron daily
+
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+sepsis and shock
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+
+
+
+DOC CLASS

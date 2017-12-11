@@ -1,0 +1,211 @@
+TITLE:
+   Chief Complaint:  L sided neck mass
+   HPI:
+   53 year old female with PMH of HIV (CD4 448 [**7-10**]) who presented to the
+   [**Hospital **] clinic with large left sided neck swelling, hoarseness, and
+   drooling. There was concern for neck space infection, and pt was sent
+   to ER for evaluation.
+   .
+   In the ED, initial vs were: T 98.4 P 87 BP 124/79 R 12 O2 sat. 98% on
+   RA.  Similar presentation in ER.  She was having some mild shortness of
+   breath and CT neck showed left sided infection.  ENT scoped her and her
+   airway was patent. Patient was given one dose of clindamycin, decadron,
+   tylenol, morphine and 1L NS.  She was admitted to the ICU for close
+   airway monitoring.
+   .
+   On the floor, patient remains hoarse and answers questions by head nod
+   and writing.  She has had 5 days of fevers and chills with a productive
+   cough, rhinorrhea, sinus pain and pressure.  Neck swelling began two
+   days ago and progressed to difficulty swallowing liquids this morning.
+   She complains of L sided head, ear, neck and jaw pain. No recent dental
+   work.
+   .
+   Review of sytems:
+   (+) Per HPI
+   (-) Denies Denied chest pain or tightness, vomiting, diarrhea,
+   constipation or abdominal pain.
+   Patient admitted from: [**Hospital1 1**] ER
+   History obtained from Patient
+   Allergies:
+   Penicillins
+   Rash;
+   Last dose of Antibiotics:
+   Ampicillin/Sulbactam (Unasyn) - [**3477-9-12**] 10:05 PM
+   Clindamycin - [**3477-9-12**] 11:50 PM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**3477-9-12**] 10:05 PM
+   Heparin Sodium (Prophylaxis) - [**3477-9-12**] 10:46 PM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   - HIV - diagnosed in [**3456**], most recent CD4 count 488 in [**3477-7-2**]
+   - Bipolar disorder
+   - Fibromyalgia x 20 yrs
+   - Secondary Cushings--[**3-5**] steroid injection ([**4-8**])
+   - Scoliosis
+   - Cervical radiculopathy
+   - Gastric ulcers
+   - Hiatal hernia
+   - Seasonal allergies
+   - Uterine fibroids
+   - Abnormal PAP smears
+   - s/p tubal ligation [**3451**]
+   - s/p lumpectomy [**3442**]
+   - history of syphillis
+   - history of varicella
+   - history of peri-rectal HSV2
+   Father had prostate CA, Mother- cervical CA
+   Two brothers with AIDS
+   Grandmother had DM, HTN
+   Son with bipolar disorder, daughter with schizophrenia
+   Occupation:
+   Drugs: denies
+   Tobacco: denies
+   Alcohol: denies
+   Other:
+   Review of systems:
+   Constitutional: Fever
+   Ear, Nose, Throat: L ear, neck,  head pain
+   Respiratory: Cough
+   Gastrointestinal: Nausea
+   Allergy / Immunology: Immunocompromised
+   Flowsheet Data as of [**3477-9-13**] 01:04 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.7
+   Tcurrent: 37.4
+C (99.4
+   HR: 81 (79 - 86) bpm
+   BP: 127/69(84) {111/63(77) - 127/69(84)} mmHg
+   RR: 17 (14 - 24) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    156 mL
+                                                                     70 mL
+   PO:
+             TF:
+   IVF:
+                                                                    156 mL
+                                                                     70 mL
+   Blood products:
+   Total out:
+                                                                    550 mL
+                                                                      0 mL
+   Urine:
+                                                                    550 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -394 mL
+                                                                     70 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   Vitals: T: 103 BP: 139/77 100 100% on 2L
+   General: Alert, actively suctioning her own mouth, ill appearing, no
+   acute distress
+   HEENT: Sclera anicteric, MMM moist, oropharynx clear
+   Neck: prominent left sided edema with tenderness, not erythematous or
+   warm, no stridor
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen:  soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Labs / Radiology
+   268
+   10.3
+   103
+   0.8
+   11
+   27
+   99
+   3.9
+   138
+   31.8
+   12.1
+        [image002.jpg]
+   .
+   CT neck (wet read):
+   Assymmetric soft tissue left oropharyngeal mucosal and submucosal
+   region (extending to the level of C7) from the location of left
+   palatine tonsil extending laterally to the parapharyngeal space and
+   mildly displacing the left carotid artery laterally and into the
+   retropharyngeal space and crossing midline to the right parapharyngeal
+   space . with surrounding fat stranding extending to the left lateral
+   neck soft tissues. multiple adjacent prominant
+   lymph nodes. No drainable abcess seen at this time, however mild
+   peripheral enhancement may represent developing abcess.
+   Assessment and Plan
+   53 year old female with PMH of HIV (CD4 448 [**7-10**]) who presents with L
+   sided neck swelling.
+   # L sided neck mass: CT neck showed supraglottitis/pharyngitis. ENT
+   following, and ID service will begin following tomorrow AM.  On
+   clindamycin, decadron and unasyn per their recs.  Patient is currently
+   sating 100% on RA without increased work of breathing.  She is actively
+   suctioning her saliva but airway is fine.
+   -closely monitor RR and exam for development of stridor
+   -continue clinda, decadron (only 3 doses) and unasyn
+   -racemic epinephrine nebs (along with preparation for possible
+   intubation and possible surgical airway) if any stridor or true
+   respiratory distress develops
+   .
+   # HIV: Most recent CD4 448.  Inpatient ID will begin following in AM.
+   ID wanted HIV genotype but will be difficult to obtain while inpt.
+   -continue Truvada and Kaletra
+   .
+   # Bipolar disorder/depression: She is being seen by Dr. [**Last Name (STitle) **] in
+   behavioral neurology.  Continue home bupropion, lamotrigine, setraline
+   and lorazepam.
+   -continue bupropion, lamotrigine, setraline and lorazepam
+   .
+   # Chronic back pain: Holding her home lido patch and
+   tramadol as she is receiving IV morphine PRN pain.  Giving home lyrica.
+   .
+   # Iatrogenic [**Location (un) 5873**]/Adrenal Insufficiency: Had secondary adrenal
+   insuffiency back in [**Month (only) 11**] after an injection of steroids for shoulder
+   pain thought to be due to an interaction between her HAART and
+   steroids.  She does not take steroids at home.  Currently on decadron
+   for a total of 3 doses.
+   - consider endocrine consult if signs of insuffiency after decadron d/c
+   .
+   # Gastric ulcer: Continuing home ranitidine.
+   -holding loratadine as non-formulary
+   .
+   # FEN: maintenance IVF, replete electrolytes, NPO (except meds) for now
+   .
+   Prophylaxis: Subutaneous heparin, H2 blocker
+   .
+   Access: peripherals
+   .
+   Code:  Full (discussed with patient)
+   .
+   Communication: Patient, son [**Name (NI) 7534**] (HCP)
+   .
+   Disposition: pending clinical improvement
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control: Comments: monitoring
+   Lines:
+   20 Gauge - [**3477-9-12**] 05:20 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

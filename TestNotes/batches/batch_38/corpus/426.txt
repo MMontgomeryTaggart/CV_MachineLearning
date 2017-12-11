@@ -1,0 +1,398 @@
+Admission Date:  [**3273-5-30**]              Discharge Date:   [**3273-6-7**]
+
+Date of Birth:  [**3214-3-31**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin / Levaquin / Opioid Analgesics
+
+Attending:[**First Name3 (LF) 819**]
+Chief Complaint:
+Recurrent high fevers, HTN, increased O2 req
+
+Major Surgical or Invasive Procedure:
+Central venous catheter insertion
+
+
+History of Present Illness:
+59 yo M w/ PMH ESRD s/p renal tx in [**3270**], on immunosuppressants,
+HTN, DM who presented to OSH with fevers/fatigue and tx to [**Hospital1 18**]
+for concern of sepsis. He experienced fatigue after working
+outside in hot weather, and later that day, was noted to have a
+fever to 104. He went to [**Hospital **] Hosp where he was febrile to
+104. He was given levofloxacin and IVFs and transferred to [**Hospital1 18**]
+where he was admitted to the ICU for sepsis.
+.
+He denies current f/c/sweats. He denies cp/sob/cough. He denies
+n/v/abd pain. He denies dysuria. He denies URI sx/sore
+throat/myalgias. He denies LAD/swelling/rash.
+
+.
+
+
+Past Medical History:
+1. Congestive heart failure with EF 65% on [**3273-5-30**]
+2. Type 2 diabetes with triopathy, controlled.
+3. Hypertension.
+4. Hypercholesterolemia.
+5. History of seizure disorder.
+6. History of hepatitis C - no therapy - [**11-7**] bx -Minimal
+portal and lobular mononuclear cell inflammation, consistent
+with involvement by chronic viral hepatitis C ( Grade 1
+activity).
+7. End-stage renal disease, status post cadaveric renal
+transplant, creatinine 1.2-1.5
+in [**3270-2-2**].
+8. Peripheral [**Year (4 digits) 1092**] disease.
+9. Post-Op AFIB s/p DCCV in [**2-8**]
+10. Rt rectus femoris intramuscular hematoma - [**2-8**] (INR 4.2)
+11. ? enlarged LN in his neck s/p bx - 2-3 years ago, pt reports
+nl
+12. EBV IgG positive in [**3269**]/CMV IgG positive
+.
+PAST SURGICAL HISTORY:
+1. Right AK [**Doctor Last Name **]-PT with nonreversed saphenous vein on [**3269-5-1**]
+by Dr. [**Last Name (STitle) **].
+2. Left AV fistula.
+3. Cadaver renal transplant in [**3270-2-2**]. Induction with
+Thymoglobulin and Tacrolimus
+4. Cholecystectomy.
+5. Parathyroidectomy in [**8-4**] by Dr. [**Last Name (STitle) **] - path c/w
+hypercellular parathyroid
+6. Status post second toe amputation in [**12-4**].
+7. Right first toe amputation.
+8. Aortic Valve Replacement [**3272-12-1**] - Well seated aortic
+bioprosthesis with high-normal gradient and trace aortic
+regurgitation ([**3273-5-30**]).
+
+
+Social History:
+denies smoking; rare alcohol; distant h/o IVDA (>40yrs ago).
+Lives w/girlfriend who is a PT.
+
+Family History:
+Father, mother and brother w/ DM. Father died of MI @54. Mother
+died of stomach CA.
+
+Physical Exam:
+1. Congestive heart failure with EF 65% on [**3273-5-30**]
+2. Type 2 diabetes with triopathy, controlled.
+3. Hypertension.
+4. Hypercholesterolemia.
+5. History of seizure disorder.
+6. History of hepatitis C - no therapy - [**11-7**] bx -Minimal
+portal and lobular mononuclear cell inflammation, consistent
+with involvement by chronic viral hepatitis C ( Grade 1
+activity).
+7. End-stage renal disease, status post cadaveric renal
+transplant in [**3270-2-2**].
+8. Peripheral [**Year (4 digits) 1092**] disease.
+9. Post-Op AFIB s/p DCCV in [**2-8**]
+10. Rt rectus femoris intramuscular hematoma - [**2-8**] (INR 4.2)
+11. ? enlarged LN in his neck s/p bx - 2-3 years ago, pt reports
+nl
+12. EBV IgG positive in [**3269**]/CMV IgG positive
+
+
+Pertinent Results:
+[**3273-6-6**] 07:13AM BLOOD WBC-5.8 RBC-3.87* Hgb-9.4* Hct-29.3*
+MCV-76* MCH-24.3* MCHC-32.1 RDW-25.6* Plt Ct-109*
+[**3273-6-1**] 06:02AM BLOOD Neuts-72.4* Bands-6.7* Lymphs-9.5*
+Monos-5.7 Eos-4.8* Baso-0 Myelos-1.0* NRBC-2*
+[**3273-6-3**] 04:07AM BLOOD Neuts-58 Bands-2 Lymphs-16* Monos-14*
+Eos-4 Baso-0 Atyps-0 Metas-4* Myelos-2* NRBC-3*
+[**3273-6-6**] 07:13AM BLOOD PT-11.6 INR(PT)-1.0
+[**3273-6-1**] 06:02AM BLOOD Fibrino-677*# D-Dimer-1004*
+[**3273-6-1**] 06:02AM BLOOD FDP-0-10
+[**3273-5-30**] 02:35AM BLOOD Glucose-230* UreaN-42* Creat-2.2* Na-138
+K-4.0 Cl-103 HCO3-22 AnGap-17
+[**3273-6-6**] 07:13AM BLOOD Glucose-88 UreaN-28* Creat-1.1 Na-146*
+K-4.2 Cl-114* HCO3-26 AnGap-10
+[**3273-5-30**] 02:35AM BLOOD ALT-25 AST-24 LD(LDH)-399* AlkPhos-55
+TotBili-0.5
+[**3273-6-1**] 06:02AM BLOOD LD(LDH)-387* TotBili-0.4
+[**3273-6-2**] 12:40AM BLOOD proBNP-[**Numeric Identifier 3583**]*
+[**3273-5-30**] 02:35AM BLOOD Albumin-3.1* Calcium-7.9* Phos-2.2*
+Mg-1.7
+[**3273-6-6**] 07:13AM BLOOD Calcium-8.4 Phos-2.7 Mg-2.3
+[**3273-6-1**] 06:02AM BLOOD calTIBC-273 VitB12-378 Folate-12.2
+Ferritn-201 TRF-210
+[**3273-5-30**] 02:35AM BLOOD CRP-59.5*
+[**3273-6-6**] 07:13AM BLOOD rapmycn-8.3
+[**3273-5-30**] 02:29AM BLOOD Lactate-2.0
+[**3273-6-1**] 09:03PM BLOOD Lactate-1.5
+[**3273-6-2**] 12:40AM BLOOD ASPERGILLUS GALACTOMANNAN ANTIGEN-
+TEST
+[**3273-6-2**] 03:05PM BLOOD B-GLUCAN-Test
+
+[**3273-6-2**] 2:00 pm BRONCHOALVEOLAR LAVAGE     Site: LUNG
+      RIGHT LUNG.
+
+   GRAM STAIN (Final [**3273-6-2**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**3273-6-4**]):
+      ~9000/ML OROPHARYNGEAL FLORA.
+      YEAST.    10,000-100,000 ORGANISMS/ML..
+
+   FUNGAL CULTURE (Preliminary):
+      YEAST.
+
+   ACID FAST SMEAR (Final [**3273-6-5**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Pending):
+
+   NOCARDIA CULTURE (Preliminary):    NO NOCARDIA ISOLATED.
+
+[**3273-6-2**] 1:44 pm BRONCHOALVEOLAR LAVAGE      LEFT LOWER LUNG.
+
+   GRAM STAIN (Final [**3273-6-2**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   MODIFIED ACID-FAST STAIN FOR NOCARDIA (Final [**3273-6-5**]):
+      Test cancelled by laboratory due to lack of branching gram
+positive
+      rods in the gram stain.
+      Gram stain is an equally sensitive means of detecting
+Nocardia in a
+      primary specimen.
+      Culture may be a more sensitive means of detecting
+Nocardia and
+      should be considered.
+      PATIENT CREDITED.
+
+   RESPIRATORY CULTURE (Final [**3273-6-4**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      YEAST.    ~[**3266**]/ML.
+
+   LEGIONELLA CULTURE (Final [**3273-6-9**]):    NO LEGIONELLA
+ISOLATED.
+
+   POTASSIUM HYDROXIDE PREPARATION (Final [**3273-6-5**]):
+      Test cancelled by laboratory.
+      PATIENT CREDITED.
+      This is a low yield procedure based on our in-house
+studies.
+      if pulmonary Histoplasmosis, Coccidioidomycosis,
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected,
+contact the
+      Microbiology Laboratory (7-2306).
+
+   IMMUNOFLUORESCENT TEST FOR PNEUMOCYSTIS CARINII (Final
+[**3273-6-4**]):
+      PNEUMOCYSTIS CARINII NOT SEEN.
+
+   FUNGAL CULTURE (Preliminary):
+      YEAST.
+
+   ACID FAST SMEAR (Final [**3273-6-5**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Pending):
+
+   NOCARDIA CULTURE (Preliminary):    NO NOCARDIA ISOLATED.
+
+[**3273-6-2**] SEROLOGY/BLOOD CRYPTOCOCCAL ANTIGEN-FINAL INPATIENT
+[**3273-6-1**] BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+[**3273-6-1**] CATHETER TIP-IV WOUND CULTURE-FINAL INPATIENT
+[**3273-6-1**] URINE URINE CULTURE-FINAL INPATIENT
+[**3273-5-30**] BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+[**3273-5-30**] BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL INPATIENT
+[**3273-5-30**] URINE Legionella Urinary Antigen -FINAL INPATIENT
+[**3273-5-30**] BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC
+BOTTLE-FINAL EMERGENCY [**Hospital1 **]
+[**3273-5-30**] URINE URINE CULTURE-FINAL EMERGENCY [**Hospital1 **]
+
+Echocardiogram on [**3273-5-30**]:
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+systolic
+function (LVEF>55%). Normal regional LV systolic function. No
+resting LVOT  gradient.
+IMPRESSION: Well seated aortic bioprosthesis with high-normal
+gradient and  trace aortic regurgitation. Pulmonary artery
+systolic hypertension. Mild  mitral regurgitation.  If
+clinically indicated, a TEE would be better able to define a
+structural  abnormality involving the aortic valve.
+
+CT Chest on [**3273-5-30**]:
+IMPRESSION:
+1.  Three parenchymal abnormalities new over six months, the
+largest in the left lower [**Year (4 digits) 3579**] and two in the right upper and
+right middle lobes.  Given their nodular appearance and
+patient's symptoms of infection, Nocardia infection would be the
+most likely diagnosis, especially for the left lower [**Year (4 digits) 3579**]
+consolidation. Alternatively, the two, smaller right lung
+lesions could be PTLD.
+2.  Cardiomegaly. Status post aortic valve replacement and CABG.
+ Sternal
+dehiscence with peristernal fat stranding and collections might
+represent
+osteomyelitis. If this diagnosis is plausible clinically, MRI or
+radionuclide scanning would be be helpful to confirm.
+
+Echocardiogram on [**3273-6-2**]:
+Conclusions:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated.
+There is symmetric left ventricular hypertrophy. The left
+ventricular cavity  size is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal.  The aortic arch
+is mildly dilated. A bioprosthetic aortic valve prosthesis is
+present and appears well-seated. The transaortic gradient is
+normal for this prosthesis. Trace aortic regurgitation is seen.
+The mitral valve leaflets are moderately thickened. There is
+mild functional mitral stenosis (mean gradient 4 mmHg) due to
+mitral annular calcification. Mild (1+) mitral regurgitation is
+seen. [Due to acoustic shadowing, the severity of mitral
+regurgitation may be significantly UNDERestimated.] The
+tricuspid valve leaflets are mildly thickened. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.  No vegetation seen.
+
+Renal transplant ultrasound on [**3273-6-2**]:
+IMPRESSION:  Unremarkable renal transplant in the left iliac
+fossa with some mild fullness of the collecting system, which is
+reduced  when compared with the previous ultrasound from
+[**11-7**].
+
+
+Brief Hospital Course:
+# Pneumonia: Patient improved on Vancomycin/Meropenem started
+empirically for sepsis broad spectrum coverage.  However,
+culture-data and fungal organism tests remained negative.  He
+was therefore transitioned to oral levofloxacin and discharged
+on this regimen, with specific instruction to contact his
+physician immediately if he had recurrence of any symptoms or
+fevers.  Due to finding of incidental lung nodules, will repeat
+chest CT in 1 month.
+.
+# HYPERTENSION: Continued metoprolol.
+.
+# Renal transplant: Initially with renal failure that resolved
+with treatment of sepsis and hydration.  Continued sirolimus and
+cellcept.
+.
+# DM - Continued RISS, standing insulin.
+.
+# Prophylaxis:  Pantoprazole, pneumoboots for DVT prophylaxis,
+bowel medications as necessary.
+.
+# CODE: FULL  code
+
+Medications on Admission:
+Bactrim 400-80mg 1tab po daily
+Cellcept 500mg 1tab po bid
+Rapamune 1mg 1tab po daily
+Prednisone 5mg 1tab po daily
+Lamivudine 100mg 1tab po daily
+Valcyte 450mg 1tab po daily
+Ecotrin 325mg 1tab po daily
+Florinef 0.1mg 1tab po bid
+Folic Acid 1mg 1tab po daily
+Lasix 80mg po bid
+Insulin NPH 50u [**Hospital1 **]
+Humalog insulin SS
+Metoprolol 100mg 1tab po bid
+Omeprazole 40mg 1tab po daily
+Pravastatin 80mg 1tab po qhs
+Viagra 50mg 1tab po daily prn
+
+Discharge Medications:
+1. Insulin Glargine 100 unit/mL Solution Sig: Seventy (70) Units
+Subcutaneous at bedtime.
+Disp:*3 vials* Refills:*2*
+2. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+3. Mycophenolate Mofetil 500 mg Tablet Sig: One (1) Tablet PO
+BID (2 times a day).
+4. Rapamune 1 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Ecotrin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+10. Insulin Syringe-Needle U-100 1 mL 31 x [**5-17**]   Syringe Sig:
+One (1)  Miscellaneous once a day.
+Disp:*30 syringes* Refills:*2*
+11. Metoprolol Tartrate 100 mg Tablet Sig: One (1) Tablet PO
+twice a day.
+12. Pravastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+
+13. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+14. Viagra 50 mg Tablet Sig: One (1) Tablet PO once a day as
+needed.
+15. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+16. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Sepsis
+
+Secondary diagnoses:
+chronic renal insufficiency
+Renal transplant
+Type 2 diabetes mellitus
+Hypertension
+Hypercholesterolemia
+Gastroesophageal reflux disease
+
+
+Discharge Condition:
+Vital signs stable, afebrile, breathing comfortably and
+tolerating PO diet.
+
+
+Discharge Instructions:
+You were admitted for possible infection of the blood stream and
+also pneumonia.  You were treated with IV antibiotics, and then
+switched to antibiotics by mouth.  Please complete the entire
+course of antibiotics as prescribed, even if you no longer have
+symptoms.  If you notice fevers, chills, worsening cough, chest
+pain, shortness of breath, or lightheadedness, please call your
+physician or report to the emergency room.
+
+Followup Instructions:
+Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 798**] would like to see you in the office in the
+next 2-3 weeks.  His office will call you to let you know when
+the appointment will be scheduled.  Please call ([**Telephone/Fax (1) 810**]
+with any questions or concerns.
+
+You also have an appointment with Dr. [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3354**], MD on
+[**3273-6-19**] at 8:30 AM.  Please call ([**Telephone/Fax (1) 3584**] with any
+questions or to change your appointment.
+
+You have been scheduled for a follow-up CT scan, because the one
+done while in the hospital had some findings that need to be
+followed up.  The CT scan is scheduled for [**7-7**] at 12:45 PM
+in [**Hospital Ward Name 23**] Clinical Center, [**Location (un) **] on [**Location (un) 823**].
+Please call [**Telephone/Fax (1) 323**] to reschedule your appointment or with
+any other questions or concerns.
+
+
+
+Completed by:[**3273-6-10**]
+
+DOC CLASS

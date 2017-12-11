@@ -1,0 +1,476 @@
+Admission Date:  [**2940-6-27**]              Discharge Date:   [**2940-7-11**]
+
+Date of Birth:  [**2859-12-25**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 420**]
+Chief Complaint:
+hemoptysis s/p right heart cath
+
+Major Surgical or Invasive Procedure:
+right heart catheterization
+pulmonary artery coil embolization
+
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:
+CC:  80 yo F with AS s/p biprosthetic AVR in 12/99, MR with most
+recent LVEF of 55%, Afib, asthma/COPD referred who was initially
+referred for RHC +/- exercise, and possible LHC for progressive
+shortness of breath who was found to have hemoptysis of 150 cc
+during RHC after SGC was inflated.
+
+Pt has had long history of SOB. Of note she was recently
+hospitalized at [**Hospital3 1425**] hospital for worsening SOB
+with dyspnea on exertion. She was treated for CHF with diuresis
+and for her pulmonary disease and was d/c. At home pt reports
+DOE and is unable to climb stair or walk far without symptoms.
+She has no dyspnea at rest.Humidity exacerbates her SOB. She
+sleeps with 1-2 pillows and denies PND or LE edema.
+
+Recently the patient has been seen by her outpatient
+cardiologist to determine whethere the SOB is directly related
+to MR prior to any definitive treatment or surgical
+intervention. For these reasons she was referred to have a RHC
++/- exercise +/- LHC/coronary angiography.
+.
+On review of system, pt reports dyspnea on exertion, cough,
+hemoptysis.
+.
+She denies any prior history of stroke, TIA, deep venous
+thrombosis, pulmonary embolism, bleeding at the time of surgery,
+myalgias, joint pains, black stools or red stools. She denies
+recent fevers, chills or rigors. She denies exertional buttock
+or calf pain. All of the other review of systems were negative.
+
+.
+Cardiac review of systems is notable for absence of chest pain,
+paroxysmal nocturnal dyspnea, ankle edema, palpitations, syncope
+or presyncope.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+.
+2. CARDIAC HISTORY:
+Atrial fibrillation
+--undergone multiple cardioversions and has failed antiarrythmic
+therapy. remains in AF
+Aortic stenosis, s/p Bioprosthetic AVR [**12/2928**]
+Partial flail anterior mitral valve leaflet with moderate to
+severe MR
+Cardiomyopathy with LVEF ranging 40% to 55% more recently
+Paroxysmal SVT
+Non-obstructive coronary artery disease
+.
+3. OTHER PAST MEDICAL HISTORY:
+asthma
+COPD
+Significant Nosebleed [**5-10**] s/p nasal tamponade
+Perforated ear drum
+GERD
+Depression
+hypothyroid
+
+Social History:
+lives alone, daughter lives in apartment downstairs. denies
+tobacco, ETOh, and illicit drug use. Retired, primary languate
+is Italian but speaks and understands English, declines need for
+interpreter.
+
+Family History:
+Father with CAD, unknown details.
+
+Physical Exam:
+Admission Exam
+T: 97.4 BP: 114/70 Pulse: 73 RR: O2:98% (heart rhythm: Afib)
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, MMM
+NECK: supple with RIJ in place
+CARDIAC: RR, systolic murmur at RUSB and at LLSB.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored. Scattered wheezing at L. base CTAB
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No LE edema
+SKIN: warm
+PULSES:
+Right: Carotid 2+  DP 2+ PT 2+
+Left: Carotid 2+  DP 2+ PT 2+
+
+Discharge Exam
+Vitals: Tm/tc:99.9 HR:70  BP: 117/67 RR:20    O2 Sat: 98%ra
+Tele: AF, 70's to 80's.  5 beat run NSVT
+Gen: alert, oriented, NAD sitting on edge of bed.
+HEENT: supple, no JVD sitting upright
+CV: RRR, [**2-7**] holosystolic murmur at apex.
+RESP: CTAB, no wheezes rales or ronchi.
+ABD: S/NT/ND, +BS
+EXTR: no edema
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2940-6-27**] 06:48PM   HCT-36.0
+[**2940-6-27**] 12:13PM   GLUCOSE-106* UREA N-20 CREAT-0.9 SODIUM-143
+POTASSIUM-3.8 CHLORIDE-101 TOTAL CO2-31 ANION GAP-15
+[**2940-6-27**] 12:13PM   CALCIUM-9.6 PHOSPHATE-3.7 MAGNESIUM-1.9
+[**2940-6-27**] 12:13PM   WBC-10.7 RBC-4.48 HGB-12.2 HCT-38.0 MCV-85
+MCH-27.2 MCHC-32.1 RDW-15.8*
+[**2940-6-27**] 12:13PM   PLT COUNT-243
+[**2940-6-27**] 12:13PM   PT-12.1 PTT-25.2 INR(PT)-1.0
+
+Cardiac catheterization [**2940-6-27**]:
+1. Mild pulmonary aterial hypertension.
+2. Moderate right ventricular diastolic heart failure.
+3. Elevated PCW pressures consistent with at least moderate left
+
+ventricular diastolic heart failure, with prominent V waves
+consistent
+with her known mitral regurgitation.
+4. Exercise portion of the hemodynamic assessment was aborted
+following
+development of self-limited hemoptysis, likely due to rupture of
+a
+small right upper or middle lobe pulmonary arteriole and
+secondary
+pulmonary hemorrhage following inflation of the SGC balloon
+after the
+Swan-Ganz catheter had migrated more distally during calibration
+of the
+transducer system while the patient was sitting upright on the
+exercise
+ergometer and thus not amenable to fluoroscopic evaluation.
+
+CXR ([**6-27**]):
+IMPRESSION:
+1. No acute cardiopulmonary process.
+2. Nodular density projects over the heart. Recommend PA and
+lateral views when possible.
+
+CXR ([**6-28**]):
+IMPRESSION:
+1. Nodule no longer visualized.
+2. Chronic mediastinal widening with new right apical extension.
+If the
+patient has referable findings such as chest pain or Horner
+syndrome, CT is indicated to evaluate for right apical lung
+lesion. If CT is going to be performed for hemoptysis, this
+finding will be evaluated at that time.
+3. Possible right neck hematoma. Correlate clinically.
+
+CTA chest ([**6-30**]):
+IMPRESSION:
+1. Partially thrombosed pseudoaneurysm in right middle lobe
+medial segment pulmonary artery with localized surrounding
+hemorrhage, but no active extravasation.
+2. Retained catheter fragment in the main pulmonary artery.
+3. Contrast refluxing into the IVC suggests right heart
+dysfunction.
+4. Mild enlargement of the main and central pulmonary arteries
+suggests
+pulmonary hypertension.
+5. Left renal hypodensity can be further evaluated with renal
+ultrasound if clinically indicated.
+
+COIL EMBOLIZATION PROCEDURE ([**2940-7-5**])
+FINDINGS: The right pulmonary arteriogram, as well as selective
+arteriograms of the segmental arteries supplying the middle lobe
+of the right lung did not show evidence of the small
+pseudoaneurysm seen on CT.
+Three-dimensional rotation angiography as well as cone beam CT
+reconstructions also failed to precisely demonstrate filling of
+the pseudoaneurysm.
+COMPLICATIONS: No immediate complications.
+IMPRESSION: Inability to precisely demonstrate the 1-cm
+pseudoaneurysm seen to arise from the right pulmonary artery
+within the right lung-middle lobe. A followup CT pulmonary
+arteriogram will be obtained to assess for persistence or
+thrombosed status of the pseudoaneurysm.
+
+CXR PA AND LATERAL ([**2940-7-8**])
+Lung volumes are low. There is increased right infrahilar
+opacity and possibly new left retrocardiac opacity compatible
+with developing infection. Small bilateral pleural effusions are
+increased. Heart size is severely enlarged as before. Sternal
+wires are intact. Prosthetic aortic valve is unchanged.
+Atherosclerotic calcification of aortic arch is present and
+prominence of the mediastinal contour related to increased
+ascending aorta diameter is better characterized on CT.
+
+MICROBIOLOGY:
+- Blood culture [**2940-7-7**] - No growth
+- Blood culture [**2940-7-7**] - No growth
+- URine culture [**2940-7-6**] - ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     1 S
+- Blood culture [**2940-7-7**] - PENDING
+- Blood culture [**2940-7-7**] - PENDING
+- Blood culture [**2940-7-8**] - PENDING
+- Blood culture [**2940-7-8**] - PENDING
+- Sputum culture [**2940-7-10**]
+   GRAM STAIN (Final [**2940-7-10**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST WITH
+PSEUDOHYPHAE.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND IN SHORT
+CHAINS.
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+   RESPIRATORY CULTURE (Preliminary):
+      MODERATE GROWTH Commensal Respiratory Flora.
+      YEAST.    MODERATE GROWTH.
+
+
+Brief Hospital Course:
+80 yo F with cardiac history significant for AS s/p biprosthetic
+AVR in 12/99, MR, Afib who initially presented for RHC +/-
+exercise and possible LHC to evaluate her MR in the setting of
+progressive SOB.  During catheterization, she developed
+hemoptysis of 150 cc after the Swan Ganz Catheter was inflated
+and was subsequently found to have partially thrombosed
+pseudoaneurysm in RML pulmonary artery. An incidental finding of
+(presumed) migrated epicardial pacing wire in the main pulmonary
+artery was also noted.
+
+ACTIVE ISSUES:
+
+#DYSPNEA: No clear cause was discovered for the patient's
+ongoing dyspnea. THe exercise portion of planned RHC was aborted
+secondary to hemoptysis as below. She continued to complain of
+some subjective DOE throughout her stay, though she maintained
+oxygen saturations in the upper 90s with ambulation and symptoms
+were stable to slightly improved from baseline. She will require
+follow up with pulmonary and cardiology services to further
+evaluate and manage her symptoms.
+
+#HEMOPTYSIS: Pt had hemoptysis of 150 cc during RHC procedure
+after the SGC balloon was inflated and was admitted to the CCU
+for monitoring. She remained hemodynamically stable with no
+transfusions required (Hct 31 at discharge from 38 on
+admission). She had 2 episodes of blood tinged sputum on the
+floor and anticoagulation was stopped. The interventional
+pulmonary team was consulted and  CTA chest was obtained showed
+evidence of partially thrombosed pseudoaneurysm in RML pulmonary
+artery and retained catheter fragment in main pulmonary artery.
+Old imaging records were obtained from [**Hospital3 1425**]
+hospital which showed evidence of a foreign body in the
+pulmonary artery (presumed to represent migration of an
+epicardial pacing wire) present since [**2932**] [see also additional
+discussion of the retained foreign body in OMR notes by Dr.
+[**First Name (STitle) **] [**Name (STitle) **] [**2940-7-1**] and [**2940-7-3**]]. The primary team collaborated with
+interventional radiology, cardiology, and pulmonary physicians
+to determine the best course of action. At this time it was
+decided that coil embolization of the pseudoaneurysm by IR to
+prevent future bleeds was appropriate. However, given the
+chronic nature of migrated epicardial wire, the decision was
+made to leave the wire in place. Coil embolization was attempted
+on [**7-5**], however, IR was unable to find the pseudoaneurysm
+previously seen on imaging to arise from the R. pulmonary
+artery, and recommended a follow up CT pulmonary arteriogram.
+Following this procedure, she developed a low-grade fever and
+cough; repeat CXR revealed a small infarct in RML as possible
+soruce of her fever. She also had a small amount of hemoptysis
+that was attributed to the infarct. It is recommended that she
+follow up with CT with contrast 2 weeks post-procedure to to
+further assess if pseudoaneurysm is present. Current plan is to
+hold anticoagulation until after this study. Patient will need
+follow up with pulmonary team.
+
+#HOSPITAL ACQUIRED PNEUMONIA
+Patient developed fever to Tmax of 102F and had CXR with
+evidence of focal opacity concerning for infectious process vs.
+RML infarct. Given prolonged hospital course patient was started
+on cefepime for coverage of hospital acquired pneumonia. She was
+transitioned to PO levaquin to finish a 7 day course of
+antibiotics.
+
+#UTI
+Enterococcus was isolated from urine culture on [**7-6**]. The patient
+had no urinary symptoms though UTI may have been a source
+contributing to or causing her fever. This infection was likely
+covered by the levofloxacin that the pt was already receiving
+for possible pneumonia.
+
+CHRONIC ISSUES:
+
+#CHRONIC SYSTOLIC HEART FAILURE: Pt remained comfortable during
+hospitalization.  She required periodic boluses with IV lasix
+for diuresis.  She will be discharged on lasix 40mg PO BID.
+
+#HYPERTENSION: stable on home regimen of losartan 50mg [**Hospital1 **],
+diltiazem ER 180 mg po BID, hydralazine 25 po BID.  Have
+increased home dose of lasix to 40 [**Hospital1 **]
+
+#A FIB: pt remained in afib during hospitalization with rates
+70-80s.  Her anticoagulation is being held in the setting of her
+pulmonary pseudoaneurysm until it can be further evaluated as an
+outpatient with CTA.
+
+#COPD/ASTHMA - stable.  Pt was continued on albuterol inhaler,
+advair diskus and spiriva.
+
+#HYPOTHYROID: continued outpatient regimen of levothyroxine
+
+#DEPRESSION: continued home dose of mirtazapine
+
+#GERD: continued pantoprazole
+
+TRANSITIONAL ISSUES:
+Pt was full code.  She will need to have close follow up with
+CTA to further evaluate her pseudoaneurysm.  Anticoagulation is
+being deferred until after results of CTA for risk of
+hemoptysis.
+
+
+Medications on Admission:
+-Albuterol nebulizer - dose uncertain
+-albuterol sulfate - 90 mcg HFA, 1 puff as needed
+-diltaizem HCL ER, 180 mg po BID
+-enoxaparin - dose uncertain
+-fluticasone-salmeterol (advair diskus) - 500 mcg-50 mcg/dose -
+1 puff [**Hospital1 **]
+-furosemide - 40 mg po qd
+-hydralazine - 25 mg po BID
+-levothyroxine - 75 mcg po qd
+-losartan - 50 mg po BID
+-mirtazapine - 15 mg po qhs
+-montelukast (singulair) - 10 mg po qd
+-pantoprazole EC - 40 mg po qd
+-pravastatin - 40 mg po qd
+-warfarin - 5 mg po qd, 1.5 mg po Sunday (last dose [**2940-6-21**])
+------Patient was receiving Lovenox injections daily at her
+local
+cardiologists office on [**2940-6-25**] and [**2940-6-26**].
+- caltrate 600 +D
+-glucosamine sulfate
+- MVI
+- fish oil - 1000 mg po qd
+
+
+Discharge Medications:
+1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) vial Inhalation Q6H (every 6 hours) as
+needed for shortness of breath.
+2. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every four (4) hours as needed for
+shortness of breath or wheezing.
+3. diltiazem HCl 180 mg Capsule, Extended Release Sig: One (1)
+Capsule, Extended Release PO BID (2 times a day).
+4. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+5. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+6. hydralazine 25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+7. levothyroxine 75 mcg Capsule Sig: One (1) Capsule PO once a
+day.
+8. losartan 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+9. mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+10. montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+12. pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+
+13. Caltrate 600 + D 600 mg(1,500mg) -400 unit Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO twice a day.
+14. multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. Fish Oil 1,000 mg Capsule Sig: One (1) Capsule PO once a
+day.
+
+16. Outpatient Lab Work
+Please check Chem-7 on Wednesday [**7-13**] with results to Dr.
+[**Last Name (STitle) 11407**] at Phone: [**Telephone/Fax (1) 11408**]
+Fax: [**Telephone/Fax (1) 11409**] and Dr. [**First Name8 (NamePattern2) 11410**] [**Last Name (NamePattern1) **] at Primary care:
+Phone: [**Telephone/Fax (1) 11411**]
+Fax: [**Telephone/Fax (1) 11412**]
+
+17. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+18. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q48H
+(every 48 hours): Take next dose on [**7-12**] and [**7-14**].
+Disp:*2 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 3837**] Health VNA
+
+Discharge Diagnosis:
+Primary diagnosis:
+Ruptured pulmonary artery during right heart catheterization
+with subsequent pseudoaneurysm
+Retained catheter fragment in the pulmonary artery (old)
+Cardiomyopathy
+Mitral Regurgitation
+Secondary Diagnosis:
+ATrial fibrillation
+Asthma
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. [**Known patient lastname 11413**],
+It was a pleasure caring for you at [**Hospital1 18**]. You came to the
+hospital for a catheterization to see if the cause of your
+shortness of breath was related to your heart function. After
+you were found to cough up blood and you were admitted to the
+cardiac care unit for further monitoring. Testing revealed an
+aneurysm and tear in the lingin of the pulmonary artery. Your
+blood counts remained stable and you were able to breathe well
+without any oxygen. You underwent a procedure to try to coil off
+the pseudoaneurysm that was not able to cannulate the artery.
+You will need to have another CT scan in about 2 weeks to
+evaluate the pulmonary artery. We found a wire or catheter in
+your pumonary artery that has been there for many years. It is
+not recommended that this be removed.
+You had some fevers that could be related to a small pneumonia
+or from a small area of lung that was infarcted during the
+pseudoaneuysm procedure. You completed a four day course of
+antibiotics and will need 2 more doses (take every other day) to
+complete a course. The cough and chest pain seems better.
+You should continue taking all of your home medications except
+for the following changes.
+1. Take two more doses of the levofloxacin to treat the fevers
+and possible pneumonia.
+2. Please get your INR and electrolytes checked on [**2940-7-13**].
+3. Start Spiriva for your breathing instead of the atrovent
+nebulizers.
+4. We have stopped your coumadin for now. Dr. [**Last Name (STitle) 11407**] will
+decide when to restart this medicine but likely after the CT
+scan in 2 weeks. You will need to come back to [**Hospital1 18**] for this CT
+scan so we can compare the two tests.
+
+Followup Instructions:
+Name: [**Last Name (LF) 5611**], [**Name8 (MD) **] MD
+Location: [**Hospital 11414**] [**Hospital 106**] Hospital
+Address: [**Street Address(2) 11415**] [**Location (un) 545**] [**Location (un) 1450**], [**Numeric Identifier 11416**]
+Phone: [**Telephone/Fax (1) 11408**]
+Appointment: Wednesday [**2940-7-13**] 9:30am
+Please talk to Dr. [**Last Name (STitle) 11417**] about checking another
+echocardiogram to assess your heart function after the increased
+dose of lasix.
+
+
+
+Completed by:[**2940-7-12**]
+
+DOC CLASS

@@ -1,0 +1,164 @@
+Admission Date:  [**2959-9-25**]              Discharge Date:   [**2959-10-3**]
+
+Date of Birth:  [**2877-6-27**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+coronary artery disease
+
+Major Surgical or Invasive Procedure:
+Replacement of ascending thoracic aorta(30mm Gelweave graft) and
+coronary artery bypass gratfs x 2( LIMA-LAD, SVG-RCA)[**9-28**]
+
+ left heart catheterization, coronary angiography
+
+History of Present Illness:
+The patient is an 82 year old gentleman with a history of
+hypertension, hyperlipidemia, COPD, and aortic stenosis.  He
+developed chest pain with EKG changes, suggestive of ischemia,
+during a stress test.  Pain was relieved with one sublingual
+nitroglycerine tab.  The patient was transported via ambulance
+to the [**Hospital3 **] ED.  The patient was stabilized and
+transferred to [**Hospital1 22**] cardiac surgical service for further workup
+and evaluation.
+
+Past Medical History:
+Hypertension
+hyperlipidemia
+s/p RLE chain saw injury
+chronic obstructive pulmonary disease
+s/p cholecystectomy
+benign prostatic hypertrophy
+
+Social History:
+Retired
+Tob: 40 pack years, quit in [**2937**]
+EtOH: 1 beer/day, 2 cognac/week
+Lives with wife
+
+Family History:
+non-contributory
+
+Physical Exam:
+awake and alert.
+Lungs- clear.
+Cor- RSR at 80
+Exts- 1+ edema. Vein harvest site clean and dry
+wounds- stable sternum
+Abdomen- soft, nontender, BS normoactive
+
+
+Pertinent Results:
+[**2959-10-1**] 05:30AM BLOOD WBC-13.3* RBC-3.38* Hgb-10.8* Hct-30.6*
+MCV-91 MCH-31.8 MCHC-35.1* RDW-14.0 Plt Ct-173
+[**2959-10-1**] 05:30AM BLOOD Plt Ct-173
+[**2959-10-1**] 05:30AM BLOOD Glucose-118* UreaN-29* Creat-1.4* Na-133
+K-4.2 Cl-99 HCO3-29 AnGap-9
+[**2959-10-3**] 06:30AM BLOOD Glucose-105 UreaN-33* Na-138 K-3.9 Cl-94*
+HCO3-34* AnGap-14
+
+Brief Hospital Course:
+Following transfer to [**Hospital1 22**] he remained stable and pain free.
+Further workup was undertaken to delineate anatomy and stratify
+his risk and care. Mr. [**Known patient lastname **] [**Last Name (Titles) 1084**] cardiac catheterization
+and coronary angiography, which revealed 100% LAD stenosis with
+left collateralization, 90% RCA stenosis and a dilated aortic
+root.  Non-invasive carotid study revealed no stenoses
+bilaterally.  Echocardiography  showed a LVEF >55%, minimal AS
+and an ascending aortic aneurysm of 5.2cm.  CT report from [**Hospital **] states ascending aortic aneurysm- 4.85cm.
+
+On [**9-28**] he went to the operating room where the ascending
+aorta was replaced utilizing a 30 mm gelweave graft and two
+coronary grafts were performed (LIMA-LAD and SVG -RCA). He
+weaned from bypass on low dose phenylephrine and propofol. He
+remained stable upon transfer to the ICU and was weaned from the
+pressor and extubated easily on the day after surgery.   Beta
+blockade was resumed and diuretics begun.
+
+He was transferred to the floor.  The CTs were removed on POD 3,
+as were pacing wires.  He experienced  some nausea despite
+normal bowel functioning, but otherwise did well.  He was
+diuresed towards his preoperative weight. he did develop a
+contraction alkalosis from diuresis and , therefor, aggressive
+potassium chloride repletion was undertaken. he should have
+electrolytes rechecked in [**3-24**] days after discharge.
+
+He was stable from a cardiovascular standpoint and was
+discharged for rehabilitation prior to returning home.
+
+Medications on Admission:
+indapamide 1.25', hytrin 2', advair 250/50'', alprazolam 0.5',
+zocor 20', atenolol 25'
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+3. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+5. Terazosin 2 mg Capsule Sig: One (1) Capsule PO twice a day.
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+Two (2) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours):
+after 72 hours decrease to one tablet [**Hospital1 **].
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4H (every 4 hours) as needed for pain for 3 weeks.
+9. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+11. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+12. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. Compazine 10 mg Tablet Sig: One (1) Tablet PO four times a
+day as needed for nausea for 2 weeks.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 13471**]
+
+Discharge Diagnosis:
+s/p Ascending Aorta replacement & Coronary artery bypass grafts
+x 2( LIMA-LAD, SVG-RCA) [**9-28**]
+hypertension
+benign prostatic hypertrophy
+chronic obstructive pulmonary disease
+hypercholesterolemia
+s/p cholecystectomy
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Shower daily, no bathing or swimming.
+Take all medications as prescribed.
+report any redness or drainage from wounds.
+report any temperature greater than 100.5
+no lotions, creams or powders to incisions
+no driving for 4 weeks and off all narcotics
+no lifting more than 10 pounds for 10 weeks
+
+Followup Instructions:
+Dr [**Last Name (STitle) 27284**] in 2 weeks
+Dr [**Last Name (STitle) 9162**] in 4 weeks ([**Telephone/Fax (1) 181**])
+Please call to make appointments
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**2959-10-3**]
+
+DOC CLASS

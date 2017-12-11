@@ -1,0 +1,400 @@
+Admission Date:  [**2819-6-4**]              Discharge Date:   [**2819-6-19**]
+
+Date of Birth:  [**2741-9-13**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Type A Aortic Dissection
+
+Major Surgical or Invasive Procedure:
+[**2819-6-4**] - Emergent repair of aortic dissection
+
+
+History of Present Illness:
+77 year old female found to have a type A aortic dissection at
+[**Hospital3 **], Her pain started the night prior to admission
+and was localized to her chest with radiation to her back. A CT
+scan at [**Hospital1 294**] revealed a type A dissection and she was
+transported to the [**Hospital1 22**] for emergent surgical management.
+
+Past Medical History:
+HTN
+Aortic aneurysm
+DM
+CRI
+
+
+Social History:
+Lives with Husband
+
+Family History:
+N/C
+
+Physical Exam:
+110 186/110 157cm  120lbs
+GEN: WDWN in NAD
+SKIN: Warm, dry, no clubbing or cyanosis.
+HEENT: PERRL, Anicteric sclera, OP Benign
+NECK: Supple, no JVD, FROM.
+LUNGS: CTA bilaterally
+HEART: ST, no M/R/G
+ABD: Soft, ND/NT/NABS
+EXT:warm, 1+ DP/PT pulses, no bruits, no varicosities.
+NEURO: No focal deficits.
+
+Pertinent Results:
+[**2819-6-19**] 02:19AM BLOOD WBC-12.6* RBC-3.20* Hgb-9.5* Hct-29.9*
+MCV-94 MCH-29.7 MCHC-31.8 RDW-16.2* Plt Ct-518*
+[**2819-6-18**] 03:28AM BLOOD WBC-14.6* RBC-3.31* Hgb-10.0* Hct-31.0*
+MCV-94 MCH-30.3 MCHC-32.4 RDW-16.1* Plt Ct-531*
+[**2819-6-17**] 03:06AM BLOOD WBC-13.3* RBC-3.16* Hgb-9.4* Hct-29.3*
+MCV-93 MCH-29.7 MCHC-32.0 RDW-16.1* Plt Ct-472*
+[**2819-6-16**] 12:51AM BLOOD WBC-14.0* RBC-3.31* Hgb-9.9* Hct-30.8*
+MCV-93 MCH-30.0 MCHC-32.2 RDW-15.7* Plt Ct-461*
+[**2819-6-16**] 12:51AM BLOOD PT-12.9 PTT-39.9* INR(PT)-1.1
+[**2819-6-19**] 02:19AM BLOOD Glucose-145* UreaN-36* Creat-1.1 Na-147*
+Cl-116* HCO3-25
+[**2819-6-18**] 04:00PM BLOOD K-3.8
+[**2819-6-18**] 03:28AM BLOOD Glucose-107* UreaN-36* Creat-1.2* Na-148*
+K-3.6 Cl-113* HCO3-24 AnGap-15
+[**2819-6-17**] 03:06AM BLOOD Glucose-193* UreaN-38* Creat-1.1 Na-145
+K-3.6 Cl-113* HCO3-27 AnGap-9
+[**2819-6-16**] 12:51AM BLOOD Glucose-147* UreaN-43* Creat-1.3* Na-144
+K-4.0 Cl-113* HCO3-24 AnGap-11
+[**2819-6-15**] 01:42AM BLOOD Glucose-111* UreaN-46* Creat-1.3* Na-146*
+K-4.4 Cl-113* HCO3-27 AnGap-10
+[**2819-6-14**] 02:06AM BLOOD Glucose-147* UreaN-50* Creat-1.5* Na-145
+K-3.8 Cl-109* HCO3-27 AnGap-13
+[**2819-6-7**] 01:51AM BLOOD ALT-5 AST-34 LD(LDH)-230 AlkPhos-115
+Amylase-132* TotBili-0.6
+[**2819-6-19**] 02:19AM BLOOD Phenyto-9.3*
+[**2819-6-18**] 03:28AM BLOOD Phenyto-7.9*
+[**2819-6-17**] 03:06AM BLOOD Phenyto-8.9*
+[**2819-6-16**] 12:51AM BLOOD Phenyto-11.7
+[**2819-6-15**] 01:42AM BLOOD Phenyto-15.1
+[**2819-6-14**] 04:38PM BLOOD Phenyto-16.6
+
+[**2819-6-5**] ECHO
+PRE-CPB:1. No atrial septal defect is seen by 2D or color
+Doppler.
+2. There is moderate symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF>55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The aortic root is mildly dilated at the sinus level. There
+are simple atheroma in the aortic root. The ascending aorta is
+markedly dilated There are simple atheroma in the ascending
+aorta. There is a dissection flap that originates around the
+right coronary and extends into the arch. The aortic arch is
+moderately dilated. There are complex (>4mm) atheroma in the
+aortic arch. There is intramural thrombus present in the
+descending aorta. There is spontaneous echo contrast in the
+descending thoracic aorta. The descending thoracic aorta is
+mildly dilated. There are complex (>4mm) atheroma in the
+descending thoracic aorta.
+5. There are three aortic valve leaflets. The aortic valve
+leaflets are mildly thickened. There is no aortic valve
+stenosis. Mild (1+) aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. The mitral
+valve leaflets are not well seen. Mitral regurgitation is
+present but cannot be quantified.
+7. There is a moderate sized pericardial effusion.
+Dr. [**Last Name (STitle) **] was notified in person of the results.
+
+POST-CPB: On infusions of nitroglycerine. Well-seated synthetic
+graft in the aortic position from the sinotubular junction. No
+apparent leak. There is residual intramural thromus at the level
+of right coronary cusp. Coronary flow is visible in both the RCA
+and LMCA. The descending aorta is unchanged post decannulation.
+There is a small right pleural effusion. The pericardial
+effusion is small..
+
+[**Known patient lastname 27659**],[**Known patient firstname **] [**PT ID Number 27660**] F  77  [**2741-9-13**]
+
+Radiology Report CT HEAD W/O CONTRAST Study Date of [**2819-6-10**]
+10:07 AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG CSRU [**2819-6-10**] SCHED
+CT HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) 27661**]
+Reason: ischemic event/bleed
+
+
+
+UNDERLYING MEDICAL CONDITION:
+   77 year old woman s/p emergent AAA
+REASON FOR THIS EXAMINATION:
+   ischemic event/bleed
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Provisional Findings Impression: RSRc MON [**2819-6-10**] 2:08 PM
+
+
+Evolution of multiple subacute infarctions throughout right
+frontal, parietal,
+temporal, bilateral occipital, and cerebellar lobes. No
+hemorrhage, mass
+effect, or midline shift.
+
+
+Final Report
+HISTORY: 77-year-old female with emergent AAA repair several
+days prior.
+Please evaluate for ischemic event or hemorrhage.
+
+COMPARISON: CTA head four days prior.
+
+TECHNIQUE: Contiguous axial imaging was performed from the
+cranial vertex to
+the foramen magnum without IV contrast.
+
+HEAD CT WITHOUT IV CONTRAST: Multifocal cortical and subcortical
+
+hypodensities involving the frontal, parietal, and occipital
+lobes as well as
+the cerebellum bilaterally are more well defined, indicative of
+evolving
+ischemic infarction. There is no hemorrhage, edema, mass effect,
+or shift of
+normally midline structures. The visualized paranasal sinuses
+are
+unremarkable. The mastoid air cells are clear. Mild
+periventricular
+hypodensity is indicative of chronic small vessel ischemic
+disease.
+
+IMPRESSION: Multiple bilateral hypodensities consistent with
+evolving
+subacute infarction.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**First Name (STitle) **] [**Doctor Last Name **]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 1714**]
+Approved: MON [**2819-6-10**] 4:31 PM
+
+  Imaging Lab
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2819-6-17**] 1:47
+PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG CSRU [**2819-6-17**] SCHED
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 27662**]
+Reason: ptx
+
+
+
+UNDERLYING MEDICAL CONDITION:
+   77 year old woman s/p trach/bronch
+REASON FOR THIS EXAMINATION:
+   ptx
+
+Final Report
+INDICATION: 77-year-old female status post trach and
+bronchoscopy.
+
+COMPARISON: [**2819-6-14**]..
+
+FRONTAL CHEST RADIOGRAPH: Over the interval, the patient has
+undergone
+tracheostomy which is appropriately positioned. A right internal
+jugular
+central venous line has been removed and there is no
+pneumothorax. The left-
+sided PICC line tip resides within the proximal SVC. The
+Dobbhoff tube has
+been removed. There is a persistent left retrocardiac opacity
+and small left-
+sided pleural effusion. There is a small right-sided pleural
+effusion as
+well.
+
+Radiology Report PORTABLE ABDOMEN Study Date of [**2819-6-17**] 1:47 PM
+
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG CSRU [**2819-6-17**] SCHED
+PORTABLE ABDOMEN   Clip # [**Clip Number (Radiology) 27663**]
+Reason: free air
+
+
+
+UNDERLYING MEDICAL CONDITION:
+   77 year old woman s/p PEG
+REASON FOR THIS EXAMINATION:
+   free air
+
+
+
+Provisional Findings Impression: CXWc TUE [**2819-6-18**] 1:15 PM
+New PEG tube overlies the left mid abdomen. No evidence of free
+intraperitoneal air. Stool and gas to the rectum.
+
+
+Final Report
+INDICATION: 77-year-old woman status post PEG, evaluate for free
+air.
+
+COMPARISON: [**2819-6-10**].
+
+SINGLE SUPINE VIEW OF THE ABDOMEN AT 2:00 P.M.: There has been
+interval
+placement of a PEG tube, overlying the left mid abdomen. There
+is no
+gross evidence of free intraperitoneal air. Stool and gas
+present in the
+colon, extending from the cecum to the rectum.
+
+Other findings are unchanged. Skin staples overlie the mid upper
+abdomen.
+Phleboliths are present in the pelvis. Degenerative changes are
+present at
+the hips bilaterally and the lower lumbar spine, where there is
+mild convex
+leftward scoliosis.
+
+IMPRESSION: No gross evidence of intraperitoneal air.
+
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname **] was admitted to the [**Hospital1 22**] on [**2819-6-4**] for emergent
+surgical management of her type A dissection. She was taken to
+the operating room where she underwent replacement of her
+ascending aorta and hemiarch using a 38mm gelweave graft.
+Postoperatively she was taken to the cardiac surgical intensive
+care unit for monitoring. She received multiple blood products.
+Her sedation was weaned to off but she remained unresponsive to
+pain without pupillary reflex, head CT showed Subacute
+infarction involving the cerebellum, frontal, parietal, and
+occipital lobes bilaterally as well as chronic infarction in the
+right temporal lobe. She began having seizures and was loaded
+with and started on dilantin. She was followed closely by
+neurology. Dobhoff tube was placed and she was started on tube
+feeds.
+She remained unresponsive. Repeat head ct showed Multiple
+bilateral hypodensities consistent with evolving subacute
+infarction. She was started on cipro and zosyn for gram negative
+bacteria in sputum and UTI. General surgery consulted to plan
+for trach/PEG placement. Her neuro exam improved very slightly
+and she opened her eyes to noxious stim. Repeat EEG showed mild
+to moderate encephalopathy but no evidence of seizures.
+Neurological prognosis remained poor. Tracheostomy and PEG tube
+were placed on [**6-17**]. Dilantin level should be maintained at
+15-20. Tube feeds were restarted, and she tolerated 8 hours of
+trach collar. PICC line became totally occluded seconadry to IV
+dilantin and her dilantin was changed to PO. BUE U/S for edema
+showed right axillary DVT but none on left. PICC line was
+changed to a single lumen. She was raedy for discharge to rehab
+on [**6-19**].
+
+
+Medications on Admission:
+Prednisone 2mg QD
+Vytorin 10/10 QD
+HCTZ 25mg QD
+Metformin 500mg QD
+Detrol 4mg QD
+Timolol eye drops
+Labetolol 100mg QD
+Nifedipine 90mg QD
+
+Discharge Medications:
+1. Chlorhexidine Gluconate 0.12 % Mouthwash Sig: One (1) ML
+Mucous membrane [**Hospital1 **] (2 times a day).
+2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for temperature >38.0.
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Docusate Sodium 50 mg/5 mL Liquid Sig: [**12-19**]  PO BID (2 times a
+day).
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Artificial Tear with Lanolin 0.1-0.1 % Ointment Sig: One (1)
+Appl Ophthalmic PRN (as needed).
+7. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-19**]
+Drops Ophthalmic PRN (as needed).
+8. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q4H (every 4 hours).
+9. Timolol Maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **]
+(2 times a day).
+10. HydrALAzine 10 mg IV Q6H:PRN sbp > 160
+11. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+12. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+13. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+14. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+15. Phenytoin 125 mg/5 mL Suspension Sig: Two [**Age over 90 44**]y
+(250) mg PO BID (2 times a day).
+16. Ranitidine HCl 15 mg/mL Syrup Sig: One [**Age over 90 44**]y (150)
+mg PO DAILY (Daily).
+17. Furosemide 10 mg/mL Solution Sig: Twenty (20) mg
+ Injection [**Hospital1 **] (2 times a day).
+18. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO BID (2 times a
+day): while on lasix
+.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 1004**] - [**Location (un) 1005**]
+
+Discharge Diagnosis:
+Aortic dissection s/p repair
+intra-op CVA
+right axillary DVT
+HTN
+CVA
+CRI
+DM
+Aortic Aneurysm
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 3620**] at
+([**Telephone/Fax (1) 72**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks.
+6) No driving for 1 month.
+7) Call with any questions or concerns.
+
+Followup Instructions:
+Follow-up with Dr. [**Last Name (STitle) **] in 1 month. ([**Telephone/Fax (1) 7302**]
+Follow-up with Dr. [**First Name (STitle) **] after discharge from rehab.
+[**Telephone/Fax (1) 1550**]
+
+
+
+Completed by:[**2819-6-19**]
+
+DOC CLASS

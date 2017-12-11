@@ -1,0 +1,238 @@
+History of Present Illness
+   - minimal UOP (~5 cc/h)-->started IVF
+UOP ~30-50 cc/h
+   - 2 negative c diff; d/c'ed contact precautions
+   - started diltiazem, downtitrated metoprolol--> HR ~100
+   - restless and awake all night, confused/anxious and pulling off bipap
+   Medications
+   Diltiazem ER 120 mg qd, metoprolol 100 mg [**Hospital1 **], ASA 325 mg qd,
+   levofloxacin 250 mg qd ([**Date range (1) 7430**]), citalopram 20 mg qd, MVI,
+   senna/docusate PRN,  ipratropium nebs prn, latanoprost eye drops
+   Physical Exam
+   Tmax C last 24 hours: 37.1 C
+   Tmax F last 24 hours: 98.8 F
+   T current C: 36.7 C
+   T current F: 98 F
+   Previous day:
+   Weight: 79.7 kg
+   Intake: 1,958 mL
+   Output: 695 mL
+   Fluid balance: 1,263 mL
+   Today:
+   Intake: 150 mL
+   Output: 185 mL
+   Fluid balance: -35 mL
+   VS: 98-130/81-99, HR 100-117, RR 13-40, O2 Sat 96% on 2L NC
+   TELE: a-fib with occasional PVC
+   GEN: sleeping but easily arousable, oriented x 2 (person and year)
+   HEENT: NC/AT, EOMI, PERRL, right eye conjunctival lesion
+   NECK: JVP ?
+   CV: irregularly irregular, systolic/diastolic murmurs
+   CHEST: clear bilaterally, with decreased sounds at the bases
+   ABD: soft, NT/ND, NABS
+   EXT: WWP, no e/c/c, palpable DP pulses
+   LABS:
+   CBC: 10.2>13.1/38.4<86
+   Chem7: 142/4.2/109/24/47/1.8<138
+   Ca 8.6, Mg 2.5, Phos 2.9
+   LFTs:  65/118/2.8/--<782
+   Coags:  20.5/66.4<1.9
+   Labs
+   [**2884-1-5**]  04:53 PM
+                            [**2884-1-5**]  05:07 PM
+                            [**2884-1-6**]  05:00 AM
+                            [**2884-1-6**]  07:10 PM
+                            [**2884-1-7**]  01:27 AM
+                            [**2884-1-8**]  04:02 AM
+                            [**2884-1-9**]  03:33 AM
+   WBC
+   11.2
+   12.2
+   12.8
+   8.8
+   10.1
+   Hgb
+   13.6
+   13.4
+   12.6
+   12.3
+   13.4
+   Hct (Serum)
+   41.0
+   41.5
+   37.9
+   37.8
+   41.6
+   Plt
+   105
+   101
+   89
+   80
+   92
+   INR
+   2.5
+   2.4
+   2.3
+   1.7
+   1.9
+   PTT
+   32.4
+   33.9
+   39.6
+   45.7
+   57.9
+   Na+
+   146
+   148
+   142
+   143
+   142
+   143
+   K + (Serum)
+   4.7
+   4.5
+   3.5
+   4.3
+   3.8
+   4.4
+   Cl
+   111
+   111
+   111
+   109
+   109
+   HCO3
+   25
+   24
+   25
+   22
+   26
+   25
+   BUN
+   70
+   69
+   60
+   48
+   47
+   Creatinine
+   2.2
+   2.2
+   2.1
+   1.8
+   2.0
+   Glucose
+   140
+   118
+   148
+   101
+   131
+   O2 sat (arterial)
+   94
+   Assessment and Plan
+   85M w chronic systolic CHF (EF 30%), atrial fibrillation w RVR, aortic
+   stenosis ([**Location (un) **] 0.8-1.0 cm2), HTN, Burkitt's lymphoma, who presented with
+   altered mental status and dehydration, was transferred to CCU with low
+   urine output, rising lactate, recent afib with RVR.
+   # AMS: Similar to AMS on last admission, likely from delirium secondary
+   to pneumonia. Slowly improving.
+   - continue to limit sedating medications, limit restraints, remove
+   Foley when possible
+   - continue levofloxacin
+   # RHYTHM: Atrial fibrillation
+ Sligtly better rate control after the
+   addition of diltiazem to metoprolol.
+   - continue diltiazem/metoprolol
+   - hold warfarin per PCP for fall risk, will continue aspirin 325 mg
+   daily
+   .
+   # PUMP: Chronic systolic heart failure, EF 30% on [**2883-12-21**]. Low urine
+   output yesterday.
+   - 1L of NS today
+   - monitor I/O closely
+   - continue metoprolol
+   .
+   # VALVES: Aortic stenosis - the patient
+s aortic valve area of approx
+   0.9cm2.  [**Month (only) 56**] be worsened overall status secondary to natural history of
+   worsening of AS.
+   - might consider valvuloplasty in the future, after this admission, if
+   needed for symptomatic relief; not ideal AVR candidate
+   .
+   # PNA: CXR ([**1-5**]) w ?RLL consolidation. Treated w Zosyn at first, given
+   that pt is from nursing home. Transitioned to levofloxacin PO.
+   Currently O2 Sats excellent on 2L.
+   - levofloxacin PO day 3 of 7 day course through [**2884-1-14**]; redose given
+   improving renal function
+   - f/u blood cx
+ NGTD
+   - wean supplemental O2 as tolerated
+   .
+   # ACUTE ON CHRONIC RENAL FAILURE:  After improving for several days,
+   yesterday UOP was down and creatinine bumped.  Likely again prerenal in
+   part from poor perfusion given severe heart disease.  UOP improved with
+   IVF.  History of CKD with baseline creatinine in ~1.5.
+   - renally dose all meds
+   - 1 L NS today
+   .
+   # ELEVATED LFTs:  Likely [**1-24**] poor perfusion (dehydration, aortic
+   stenosis, ?cardiogenic shock). Unrevealing hepatitis and autoimmune
+   workup during last admission.  Transaminitis resolving, but alk phos
+   continues to increase, likely reflecting hepatic congestion.
+   - trend LFTs
+   - consult hepatology
+   .
+   # Elevated INR: INR 2.6 on admission, up from 1.3 at discharge on
+   [**2883-12-28**]. Also elevated during last admission even though patient was not
+   on warfarin. Again, likely from transient liver failure and
+   malnutrition. No sign of active bleeding. Downtrending to 1.9 today.
+   - trend coags
+   .
+   # RUE edema: stopped IV antibiotics.
+   -PICC only for labs
+   -elevate right arm
+   .
+   # HTN: Currently BP is stable.
+   - continue metoprolol, diltiazem
+   .
+   # OSA: Not candidate for theophylline as uncontrolled AF.
+   - CPAP at night as tolerated
+   .
+   # FEN: Regular low-sodium cardiac diet
+   .
+   # Access: PICC for labs only, PIV
+   .
+   # PPx:
+   -DVT ppx with SQ Heparin
+   -Bowel regimen
+   .
+   # Code: FULL CODE  for now; ongoing discussion regarding changing code
+   to DNR/DNI
+   .
+   # Dispo: CCU care for now
+   .
+   # Contact: HCP: [**Name (NI) **] [**Name (NI) 7360**] [**Name (NI) **] [**Name (NI) 2491**]. [**Telephone/Fax (1) 7361**]; Son [**Name (NI) 372**]
+   [**Telephone/Fax (1) 7362**].
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   per housestaff
+   Physical Examination
+   per [**Hospital 4449**]
+   Medical Decision Making
+   per housestaff
+   Total time spent on patient care: 60 minutes.
+   Additional comments:
+   new issue is rising alkaline phosphatase - will ask hepatology to
+   informally consult
+   atrial fibrillation is better controlled
+   hydrate with close attention to urine output
+   Creatinine is no normalizing
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Name (NI) **]
+   on:[**2884-1-10**] 09:02 ------
+
+
+DOC CLASS

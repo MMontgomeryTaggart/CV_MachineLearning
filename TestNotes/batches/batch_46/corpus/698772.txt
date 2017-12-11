@@ -1,0 +1,243 @@
+Chief Complaint: Hematemesis and [**Last Name (un) 874**]
+   82 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA s/p
+   repair, who was transferred from OSH with lower GI bleed.
+   24 Hour Events:
+ PICC LINE - START [**2868-1-12**] 12:00 AM
+ MULTI LUMEN - STOP [**2868-1-12**] 12:30 AM
+   - CT final read: 1. No evidence of aortoenteric fistulization. Mild
+   stranding between the aorta and graft and duodenum is consistent with
+   postoperative change, a stable finding, with no evidence of contrast
+   extravasation. 2.....
+   - GI deferred performing EGD until tomorrow.
+   - Vascular surgery without further recommendations at this time;
+   awaiting EGD before signing off.
+   - Renal will perform HD tomorrow.
+   - Upper extremity ultrasound: Right cephalic vein not visualized.
+   Otherwise, unremarkable bilateral upper extremity ultrasound without
+   evidence of DVT.
+   - Patient failed SBT twice during the afternoon; decision was made to
+   try again in morning.
+   - Updated [**Doctor First Name **], patient's daughter, regarding his care during the
+   afternoon.
+   - IV nursing team requested to place PICC instead of midline for better
+   access.
+   - Hct 32.1->30.9->33.4
+   Allergies:
+   Vicodin (Oral) (Hydrocodone Bit/Acetaminophen)
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Rash;
+   Darvocet A500 (Oral) (Propoxyphene/Acetaminophen)
+   Rash;
+   Oxycodone
+   Rash;
+   Vancomycin
+   Hypotension;
+   Adhesive Tape (Topical)
+   skin tears;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2868-1-10**] 02:25 PM
+   Metronidazole - [**2868-1-11**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Midazolam (Versed) - [**2868-1-11**] 08:30 PM
+   Fentanyl - [**2868-1-11**] 08:30 PM
+   Pantoprazole (Protonix) - [**2868-1-11**] 10:15 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2868-1-12**] 07:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**69**] AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 35.8
+C (96.5
+   HR: 70 (59 - 78) bpm
+   BP: 138/46(80) {112/35(59) - 158/61(98)} mmHg
+   RR: 13 (13 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,398 mL
+                                                                     87 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,048 mL
+                                                                     87 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                    400 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    998 mL
+                                                                     87 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 500 (252 - 500) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 14
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 18
+   PIP: 6 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 45 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.36/40/187/23/-2
+   Ve: 8.6 L/min
+   PaO2 / FiO2: 468
+   Physical Examination
+   General: Intubated, conversational.
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: Incisonal scar present. Soft, non-tender, non-distended, bowel
+   sounds present, no rebound tenderness or guarding, no organomegaly.
+   Abdominal bruit loudest at midline, less audible over flanks
+   Ext: warm, well perfused, 1+ pulses, 1+ pitting edema bilateral,
+   Fistula left upper extremity. Swelling left upper extremity>right.
+   Labs / Radiology
+   180 K/uL
+   11.2 g/dL
+   89 mg/dL
+   5.1 mg/dL
+   23 mEq/L
+   4.3 mEq/L
+   97 mg/dL
+   98 mEq/L
+   139 mEq/L
+   34.6 %
+   14.3 K/uL
+        [image002.jpg]
+                             [**2868-1-10**]  06:57 PM
+                             [**2868-1-10**]  10:04 PM
+                             [**2868-1-10**]  10:40 PM
+                             [**2868-1-11**]  04:04 AM
+                             [**2868-1-11**]  09:10 AM
+                             [**2868-1-11**]  09:29 AM
+                             [**2868-1-11**]  04:51 PM
+                             [**2868-1-11**]  05:10 PM
+                             [**2868-1-12**]  02:30 AM
+                             [**2868-1-12**]  05:36 AM
+   WBC
+   15.3
+   13.3
+   14.3
+   Hct
+   29.5
+   32.1
+   30.9
+   33.4
+   34.6
+   Plt
+   174
+   167
+   163
+   167
+   180
+   Cr
+   4.3
+   4.8
+   5.1
+   TCO2
+   30
+   28
+   26
+   27
+   24
+   Glucose
+   95
+   116
+   89
+   Other labs: PT / PTT / INR:13.3/28.6/1.1, ALT / AST:14/17, Alk Phos / T
+   Bili:77/0.4, Amylase / Lipase:/91, Differential-Neuts:92.6 %, Lymph:3.7
+   %, Mono:3.6 %, Eos:0.1 %, Lactic Acid:0.9 mmol/L, LDH:183 IU/L,
+   Ca++:8.7 mg/dL, Mg++:1.8 mg/dL, PO4:7.3 mg/dL
+   Fluid analysis / Other labs: None.
+   Imaging: As per overnight events, above.
+   Microbiology: C. diff. (but almost certainly negative based on new
+   antigen test) and MRSA screen pending.
+   ECG: No new.
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+ IMPAIRED SKIN INTEGRITY
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+ GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB)
+   82 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA s/p
+   repair, who was transferred from OSH with lower GI bleed.
+   GI Bleed
+   Hemodynamically stable. HCT relatively stable sp 7 Units PRBCs.
+   - GI to repeat EGD today.
+   - Q8H hematocrits
+   - IV PPI [**Hospital1 **]
+   - Definitive management depends on endoscope.
+   Leukocytosis
+   White count trending down. No clear source of infection. Abd CT without
+   intra abdominal process. Afebrile. C. Diff Negative. Cipro/Flagyl
+   stopped yesterday.
+   - Culture if spikes
+   - FU blood cultures
+   ESRD on HD
+   Renal planning for HD today.
+   - Will discuss with Renal possibility of HD today to take off some
+   volume prior to extubation.
+   - Renally dose meds
+   - Avoid nephrotoxins.
+   Ventilation
+   Failed SBTs x 2 yesterday. Likely [**1-24**] fluid overload in context of
+   transfusions.
+   - D/w Renal for aggressive goal for fluid off.
+   - Attempt SBT again after dialysis
+   - Extubate if passed SBT
+   CAD
+   Stable
+   - Hold ASA, BB in the setting of GI bleed
+   - Continue statin
+   Back and hip pain
+   - Continue tramadol, oxazepam as BP tolerates.
+   Bullous pemphigoid
+   Stable. Patient on prednisone taper. Will continue taper after acute
+   episode resolves. Continuing stress dose steroids yesterday. Follow up
+   with Dermatology at discharge.
+   - Resume taper
+   # FEN: No IVF, replete electrolytes, NPO (no NGT at present)
+   # Prophylaxis: pneumoboots, [**Hospital1 **] PPI
+   # Access:
+   Arterial Line - [**2868-1-10**] 04:00 PM
+   PICC Line - [**2868-1-12**] 12:00 AM
+   # Communication: Patient and Daughter [**Name (NI) **] [**Telephone/Fax (1) 12515**] (HCP) and
+   Cell [**Telephone/Fax (1) 12549**]
+   # Code:  Full (discussed with patient)
+   # Disposition: ICU pending clinical improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2868-1-10**] 04:00 PM
+   PICC Line - [**2868-1-12**] 12:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

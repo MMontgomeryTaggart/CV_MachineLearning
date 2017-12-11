@@ -1,0 +1,313 @@
+Chief Complaint:
+   24 Hour Events:
+ WOUND CULTURE - At [**3105-3-26**] 11:12 AM
+   sternal wound
+ BLOOD CULTURED - At [**3105-3-26**] 11:21 AM
+   from PICC
+ STOOL CULTURE - At [**3105-3-26**] 02:46 PM
+   ? c-diff
+   -started ambisome for presumed endovascular fungal infection
+   -ophtho evaluated patient for evidence of fungal endopthalmitis. No
+   real evidence of fungal infection. But there is a superficial lesion on
+   left retina. Very unlikely to be fungal. More likely cotton wool spot
+   or myelin. But can't rule out fungus. They'd like to see her again in 2
+   weeks.
+   -restarted metoprolol 12.5mg po bid
+   -CXR:  There is pleural fluid/thickening along the left chest wall,
+   more pronounced than on the film from one day earlier. There is
+   increased retrocardiac density, consistent with left lower lobe
+   collapse and/or consolidation essentially, unchanged. Hazy opacity at
+   right base laterally again noted, unchanged. ? minimal right pleural
+   fluid.
+    -HCT down to 20.7. Labs suggest hemolysis vs. DIC. Transfused 1u PRBCs
+   -poor urine output overnight
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3105-3-25**] 01:00 PM
+   Ambisome - [**3105-3-26**] 04:34 PM
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3105-3-26**] 07:50 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3105-3-27**] 06:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.6
+C (97.8
+   HR: 117 (107 - 118) bpm
+   BP: 114/54(67) {94/35(50) - 114/60(70)} mmHg
+   RR: 27 (18 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 80.2 kg (admission): 74 kg
+   Height: 56 Inch
+             Total In:
+                                                                  2,661 mL
+                                                                    470 mL
+   PO:
+             TF:
+                                                                    754 mL
+                                                                    201 mL
+   IVF:
+                                                                    800 mL
+                                                                     69 mL
+   Blood products:
+                                                                    277 mL
+   Total out:
+                                                                    483 mL
+                                                                     85 mL
+   Urine:
+                                                                    483 mL
+                                                                     85 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,178 mL
+                                                                    385 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 350 (350 - 350) mL
+   Vt (Spontaneous): 319 (310 - 357) mL
+   PS : 16 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 28
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 101
+   PIP: 22 cmH2O
+   SpO2: 99%
+   ABG: ///32/
+   Ve: 8.1 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   147 K/uL
+   7.7 g/dL
+   101 mg/dL
+   1.8 mg/dL
+   32 mEq/L
+   4.5 mEq/L
+   69 mg/dL
+   92 mEq/L
+   133 mEq/L
+   23.1 %
+   25.8 K/uL
+        [image002.jpg]
+                             [**3105-3-23**]  04:00 AM
+                             [**3105-3-23**]  04:28 PM
+                             [**3105-3-24**]  02:55 AM
+                             [**3105-3-24**]  02:59 PM
+                             [**3105-3-25**]  03:00 AM
+                             [**3105-3-25**]  04:50 PM
+                             [**3105-3-26**]  01:27 AM
+                             [**3105-3-26**]  05:00 PM
+                             [**3105-3-27**]  12:41 AM
+                             [**3105-3-27**]  04:42 AM
+   WBC
+   22.3
+   17.3
+   24.8
+   27.2
+   20.4
+   25.8
+   Hct
+   27.5
+   23.7
+   28.0
+   23.8
+   21.3
+   23.2
+   20.7
+   24.5
+   23.1
+   Plt
+   [**Telephone/Fax (3) 5653**]56
+   109
+   147
+   Cr
+   1.1
+   1.1
+   1.2
+   1.4
+   1.4
+   1.4
+   1.4
+   1.7
+   1.8
+   Glucose
+   109
+   106
+   88
+   113
+   82
+   99
+   100
+   101
+   Other labs: PT / PTT / INR:21.8/60.0/2.1, CK / CKMB /
+   Troponin-T:12/2/0.03, ALT / AST:13/36, Alk Phos / T Bili:109/1.0,
+   Amylase / Lipase:19/30, Differential-Neuts:77.0 %, Band:1.0 %,
+   Lymph:7.0 %, Mono:14.0 %, Eos:0.0 %, Fibrinogen:123 mg/dL, Lactic
+   Acid:1.3 mmol/L, Albumin:2.7 g/dL, LDH:294 IU/L, Ca++:7.5 mg/dL,
+   Mg++:2.6 mg/dL, PO4:5.4 mg/dL
+   [**3-26**]: C diff negative
+   [**3-26**]: Swab: Gram stain 2+ PMNs, 3+ GPCs in pairs.
+   [**3-26**]: BCs pending
+   [**3-25**]: BCx pending
+   [**3-24**]: BCx x 2: pending
+   [**3-24**]:   Stool c-diff neg
+   [**3-23**]: Stool c-diff neg
+   [**3-23**]: UCx: Yeast >100,000
+   [**3-22**]: UA: 6-10 WBCs
+   [**3-21**]: Peritoneal fluid: 1+ PMNs on Gram stain. Culture pending
+   [**3-21**]: BCx: PND
+   [**3-20**]: BCx: PND
+   [**3105-3-20**]: PICC tip: negative
+   [**3105-3-20**]: Wound Cx: GN Diplococci 2+ GP Diplococci 1+
+   [**3105-3-19**] UCx: Klebsiella Pneumoniae
+   [**3105-3-19**]: Sputum culture: Acinetobacter baumannii, Ecoli
+   [**3105-3-18**] BLOOD CULTURE- Coag negative staph.
+   [**3105-3-18**] BLOOD CULTURE- NEGATIVE
+   [**3105-3-18**] URINE CULTURE- GNR and Yeast
+   [**3105-3-16**]  STOOL FECAL CULTURE-PENDING NEGATIVE; CAMPYLOBACTER
+   CULTURE-PENDING NEGATIVE; CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL
+   NEGATIVE
+   [**3105-3-16**]  URINE URINE CULTURE-FINAL INPATIENT  NEGATIVE
+   [**3105-3-16**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT NGTD
+   [**3105-3-15**]  PLEURAL FLUID GRAM STAIN-FINAL NEGATIVE; FLUID
+   CULTURE-PRELIMINARY NGTD; ANAEROBIC CULTURE-PRELIMINARY NGTD
+   [**3105-3-15**]  BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY
+   CULTURE-PRELIMINARY {ACINETOBACTER BAUMANNII COMPLEX}
+ tobramycin
+   sensitive
+   [**3105-3-14**]  URINE URINE CULTURE-FINAL {YEAST}
+   [**3105-3-13**]  CATHETER TIP-IV WOUND CULTURE-FINAL NGTD
+   [**3105-3-12**]  BLOOD CULTURE Blood Culture, Routine-PENDING NGTD
+   [**3105-3-12**]  BLOOD CULTURE Blood Culture, Routine-PENDING NGTD
+   Assessment and Plan
+   73F s/p CABG on [**12-24**] complicated by sternal wound infxn, a-fib, and
+   respiratory failure requiring trach/PEG returns with bleeding from her
+   tracheostomy site and later developed loculated left pleural effusion
+   and persistent leukocytosis on tobramycin, tigecycline, and vancomycin.
+   # Hypoxemic respiratory failure:
+   Pt s/p Vent 2/09 after surgery. Now with recurrent L.sided pulmonary
+   effusions. Consideration are infection-although pleural fluid from [**3-15**]
+   without positive cultures; however had elevated WBCs on cell count.
+   Sputum growing E.coli and acinetobacter from [**3-7**]. Recent sputum from
+   [**3-15**], [**3-18**] growing acinetobacter with same sensitivities of [**3-7**]
+   sample. [**3-18**] sputum also growing Ecoli.  Likely other components
+   include fluid overload (basilar crackles on exam, gross edema) and
+   decompensation. Thoracic and IP services have been involved and have
+   bronched and performed thoracentesis.  Increased pleural effusions on
+   CT chest on [**3-20**], CXR [**3-25**].
+   - Furosemide drip and diuril were restarted 4/28 per Cardiology recs
+   with goal diuresis 1-2L/day.  However patient has been hypotensive over
+   the last 48 hours. Lasix gtt held overnight. Though appears clinically
+   overloaded, may be intravascularly depleted. [**Month (only) 11**] restart lasix gtt and
+   diuril this afternoon as blood pressure tolerates to keep patient net
+   even.
+   - Continue tobramycin, vanc, and tigecycline
+   - Cont. surveillance Cx
+   - interventional pulmonology/thoracic surgery not planning for repeat
+   drainage of left pleural effusion given that she likely would not
+   tolerate VATS or thoracotomy. Plan for diuresis, wean pressure support
+   as tolerated. Continue abx for aspiration pneumonia, per ID recs.
+   .
+   # Hypotension: Patient continues to be hypotensive requiring dopamine.
+   Diltiazem and metoprolol d/c
+d  [**3-24**]. Likely secondary to over-diuresis,
+   however patient still markedly fluid positive with elevated JVP vs
+   infection, although lactate wnl, afebrile.
+   -restart diuresis with lasix gtt as blood pressure tolerates with goal
+   of net even
+   -fluid bolus as blood pressure necessitates
+   -lactate wnl
+   -weaned off dopamine
+   - restart metoprolol 12.5mg
+   .
+   # Leukocytosis/fever
+   Likely related to pulmonary etiology.  BCx grew coag negative staph
+   from [**3-18**], likely contaminant. On tobramycin and tigecycline
+   following. C Diff. negative x 3 ([**3-12**], 23, 26).  Now with Klebsiella in
+   urine, resistant to tobramycin.  Sputum culture still growing
+   Acinetobacter and Ecoli from [**3-18**], despite abx.  UCx growing highly
+   resistant klebsiella, resistant to tobramycin. Repeat UA growing [**4-2**]
+   WBCs. Echo [**3-24**] showed small vegetation, ? fungal, no persistent
+   bacteremia or fungemia. Worsening sternal wound noted [**3-26**].
+   - Continue tobramycin (day 13), tigecycline (day 14), and vancomycin
+   per ID recs. Total course of Tobra and Tigecycline is 3 weeks for
+   pneumonia.
+   -Continue ambisome (day 2) for presumed endovascular fungal infection
+   -reconsult optho [**4-9**] to re-eval for fungal endophthalmitis
+   - Appreciate ongoing infectious disease consult input will discuss with
+   ID antifungals, given that currently we are continuing aggressive
+   treatment
+   -recheck C diff
+   - Follow-up cultures
+   - Follow-up trend fever curve/WBCs
+   .
+   . # Cardiac:
+   History of hypertension, hyperlipidemia, and new onset atrial
+   fibrillation post-operatively. Is not currently anticoagulated. Had
+   been in sinus rhythm until atrial fibrillation [**3-18**].  A fib c/ RVR
+   initially controlled with metoprolol and diltiazem but now both being
+   held in setting of hypotension.  Also volume overloaded echo
+   demonstrating moderate aortic regurgitation and mild to mod mitral
+   regurg. Moderate pulmonary HTN. Cardiology recommended aggressive
+   diuresis given fluid overload. Overall LOS 7.5 L positive. However this
+   is being held in the setting of hypotension.
+   - restart lasix/diuril diuresis this afternoon
+   - Continue amiodarone, asa, statin
+   - Dilt d/c
+d for hypotension.
+   -restart metoprolol this AM at low dose. Titrate up for HR control as
+   BP tolerates.
+   .
+   # Anemia: HCT 23.2, despite 1u PRBCs overnight. HCT yesterday 21.3.
+   Continues to be hypotensive, but no active signs of bleeding. INR 2.0
+   for unclear reasons. No known liver disease. [**Month (only) 11**] be nutritional.
+   -guaiac stools
+   -Vit K 5mg x3 doses
+   -d/c-ed lovenox given renal failure and anemia
+   -make sure patient has active T&S
+   .
+   # Acute renal failure: Creatinine elevated from 0.8 to 1.4.  Patient
+   had dye loads last week for CT scan.  Possibly ATN in the setting of
+   dye load vs prerenal in the setting of over diuresis. FE urea 52.4,
+   suggesting ATN as likely etiology.
+   -redose medications, especially Vancomycin and Tobramycin
+   -continue to monitor Cr
+   -avoid further nephrotoxins
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3105-3-27**] 02:22 AM 27 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3105-3-23**] 02:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

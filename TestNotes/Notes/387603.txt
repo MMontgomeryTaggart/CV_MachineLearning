@@ -1,0 +1,179 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2969-4-6**] 10:54 PM
+ EKG - At [**2969-4-7**] 12:00 AM
+ NON-INVASIVE VENTILATION - START [**2969-4-7**] 12:00 AM
+ INVASIVE VENTILATION - START [**2969-4-7**] 03:20 AM
+ BRONCHOSCOPY - At [**2969-4-7**] 03:30 AM
+   Allergies:
+   Losartan
+   angioedema/lip
+   Lisinopril (Oral)
+   Cough;
+   Penicillins
+   itching;
+   Flagyl (Oral) (Metronidazole)
+   Wheezing;
+   Ultram (Oral) (Tramadol Hcl)
+   Rash;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2969-4-7**] 06:55 AM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Other ICU medications:
+   Metoprolol - [**2969-4-6**] 10:00 PM
+   Heparin Sodium - [**2969-4-6**] 10:32 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2969-4-7**] 07:29 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 35.8
+C (96.5
+   HR: 80 (80 - 145) bpm
+   BP: 107/56(69) {92/54(64) - 189/148(151)} mmHg
+   RR: 15 (12 - 28) insp/min
+   SpO2: 94%
+             Total In:
+                                                                    516 mL
+                                                                    137 mL
+   PO:
+             TF:
+   IVF:
+                                                                    516 mL
+                                                                    137 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    260 mL
+   Urine:
+   260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    516 mL
+                                                                   -123 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 600 (600 - 760) mL
+   PS : 0 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   PIP: 31 cmH2O
+   Plateau: 26 cmH2O
+   Compliance: 25 cmH2O/mL
+   SpO2: 94%
+   ABG: 7.29/57/69/23/0
+   Ve: 4.1 L/min
+   PaO2 / FiO2: 115
+   Physical Examination
+   Gen: Acutely ill appearing adult female, agitated, in respiratory
+   distress.
+   HEENT: PERRL, EOMI. MMM. Conjunctiva well pigmented.
+   Neck: Supple, without adenopathy or JVD. No tenderness with palpation.
+   Chest: Diffusely wheezy and rhoncherous with poor air movement
+   throughout.
+   Cor: Normal S1, S2. Regular, tachycardic. No murmurs appreciated.
+   Abdomen: Soft, non-tender and non-distended. +BS, no HSM.
+   Extremity: Warm, without edema. 2+ DP pulses bilat. Trace LE to
+   mid-calves bilaterally. Diffuse ecchymotic patches.
+   Neuro: Alert and oriented. CN 2-12 intact. Motor strength intact in all
+   extremities. Sensation intact grossly.
+   Labs / Radiology
+   262 K/uL
+   10.8 g/dL
+   229 mg/dL
+   1.2 mg/dL
+   23 mEq/L
+   4.1 mEq/L
+   27 mg/dL
+   110 mEq/L
+   144 mEq/L
+   34.4 %
+   13.0 K/uL
+        [image002.jpg]
+                             [**2969-4-6**]  10:31 PM
+                             [**2969-4-7**]  02:51 AM
+                             [**2969-4-7**]  04:05 AM
+   WBC
+   13.0
+   Hct
+   34.4
+   Plt
+   262
+   Cr
+   1.2
+   TropT
+   0.02
+   TCO2
+   29
+   29
+   Glucose
+   229
+   Other labs: PT / PTT / INR:14.7/137.7/1.3, CK / CKMB /
+   Troponin-T:216/6/0.02, ALT / AST:22/30, Alk Phos / T Bili:83/0.2,
+   Albumin:3.5 g/dL, LDH:268 IU/L, Ca++:7.5 mg/dL, Mg++:2.0 mg/dL, PO4:5.3
+   mg/dL
+   Assessment and Plan
+   81 yoF with a h/o dCHF, COPD and eosinophilic lung disease presents
+   with acute onset of respiratory distress in setting of several days of
+   worsening dyspnea.
+   #. Dyspnea/SOB: Most likely etiology is exacerbation of chronic lung
+   disease. This is supported by mild hypercarbia on ABG; of note, this
+   was drawn at least fifteen minutes after the initiation of BiPAP, thus
+   pCO2 may be slightly lower than in acute setting. Trigger for initial
+   decompensation appears to be likely a viral URI. Reason for the
+   patient's sudden decline on arrival to medical floor is less clear. PE
+   or PTX are considerations, versus fatigue from increased work of
+   breathing over several days.
+   -continue BiPAP
+   -repeat CXR now
+   -emperic heparin gtt
+   -consider CTA given intermediate d-dimer
+   -standing albuterol and ipratropium nebs
+   -methylprednisolone
+   -no antiobiotics per patient request given history of recurrent C. Diff
+   #. ECG changes: Most likely secondary to transient demand ischemia in
+   setting of respiratory distress
+   -repeat ECG now
+   -heparin gtt as abobe
+   -continue home ASA and statin
+   -hold BB in setting of labile BP, however will restart as soon as able
+   #. CHF: Pt does not appear sigificantly volume overloaded by physical
+   exam or x-ray. Has required a single 500cc NS bolus for transiently low
+   BP. Will attempt to limit additional fluids; hold home Lasix for now.
+   #. Chronic cough: Has had some workup as an outpatient and is already
+   on PPI, H2 blockers, nasal steroids and nasal risens. [**Month (only) 56**] represent
+   manifestation of lung disease. Will continue PPI for now and monitor.
+   #. Anemia: HCT currently at baseline. W/U in [**11-21**] c/w AOCD and
+   possible Fe deficiency. [**Month (only) 56**] need further w/u as outpt.
+   ICU Care
+   Nutrition:  NPO
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2969-4-6**] 10:32 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

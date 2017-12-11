@@ -1,0 +1,114 @@
+Chief Complaint:
+   24 Hour Events:
+   - PICC LINE - START [**3424-3-28**] 07:24 PM
+   - Hypotensive to high 70s systolic. Received 5+ L of NS, including
+   fluid given in ED. Started Levophed.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3424-3-29**] 12:00 AM
+   Vancomycin - [**3424-3-29**] 03:00 AM
+   Infusions:
+   Norepinephrine - 0.05 mcg/Kg/min
+   Other ICU medications:
+   Omeprazole (Prilosec) - [**3424-3-28**] 11:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3424-3-29**] 07:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 38.2
+C (100.8
+   HR: 83 (75 - 113) bpm
+   BP: 105/58(70) {75/43(53) - 139/98(103)} mmHg
+   RR: 15 (14 - 32) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  5,131 mL
+                                                                    469 mL
+   PO:
+                                                                    120 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  3,011 mL
+                                                                    349 mL
+   Blood products:
+   Total out:
+                                                                    340 mL
+                                                                    800 mL
+   Urine:
+                                                                    340 mL
+                                                                    800 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,791 mL
+                                                                   -331 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 95%
+   ABG: 7.41/53/43/26/
+   PaO2 / FiO2: 61
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   146 K/uL
+   9.9 g/dL
+   150 mg/dL
+   0.2 mg/dL
+   26 mEq/L
+   3.2 mEq/L
+   8 mg/dL
+   108 mEq/L
+   141 mEq/L
+   30.5 %
+   16.6 K/uL
+        [image002.jpg]
+                             [**3424-3-29**]  03:30 AM
+   WBC
+   16.6
+   Hct
+   30.5
+   Plt
+   146
+   Cr
+   0.2
+   Glucose
+   150
+   Other labs: PT / PTT / INR:17.4/43.5/1.6, Differential-Neuts:91.2 %,
+   Lymph:7.2 %, Mono:1.5 %, Eos:0.0 %, Ca++:7.7 mg/dL, Mg++:1.8 mg/dL,
+   PO4:1.9 mg/dL
+   Assessment and Plan
+ .H/O PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ .H/O SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3424-3-28**] 07:24 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,214 @@
+Chief Complaint: hypercarbic respiratory distress
+   24 Hour Events:
+ BLOOD CULTURED - At [**2981-6-1**] 06:24 PM
+ SPUTUM CULTURE - At [**2981-6-1**] 06:24 PM
+ URINE CULTURE - At [**2981-6-1**] 06:24 PM
+ FEVER - 102.5
+F - [**2981-6-2**] 12:00 AM
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Levofloxacin - [**2981-6-1**] 08:30 AM
+   Vancomycin - [**2981-6-1**] 08:03 PM
+   Metronidazole - [**2981-6-1**] 09:03 PM
+   Infusions:
+   Midazolam (Versed) - 7 mg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2981-6-1**] 02:59 PM
+   Heparin Sodium (Prophylaxis) - [**2981-6-1**] 08:01 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2981-6-2**] 06:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.2
+C (102.5
+   Tcurrent: 37.7
+C (99.8
+   HR: 83 (81 - 113) bpm
+   BP: 123/50(66) {105/50(66) - 181/92(114)} mmHg
+   RR: 15 (14 - 30) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 52 Inch
+             Total In:
+                                                                  1,755 mL
+                                                                    255 mL
+   PO:
+             TF:
+                                                                    164 mL
+                                                                      8 mL
+   IVF:
+                                                                  1,271 mL
+                                                                    117 mL
+   Blood products:
+   Total out:
+                                                                  1,910 mL
+                                                                    330 mL
+   Urine:
+                                                                  1,910 mL
+                                                                    330 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -155 mL
+                                                                    -75 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (0 - 500) mL
+   Vt (Spontaneous): 198 (198 - 497) mL
+   PS : 10 cmH2O
+   RR (Set): 15
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Sao2 < 90%
+   PIP: 30 cmH2O
+   Plateau: 22 cmH2O
+   SpO2: 96%
+   ABG: 7.33/69/76.[**Numeric Identifier 119**]/34/6
+   Ve: 7.5 L/min
+   PaO2 / FiO2: 152
+   Physical Examination
+   Gen: NAD, more sedated today
+   CV: RRR, no M/R/G
+   Lungs: difficult to assess over vent sounds, on Volume Control
+   Abd: obese, +bs, ntnd
+   Ext: warm, dry, 2+ pedal pulses
+   Skin: Blisters on L hand in multiple stages, starting to dry out,
+   cellulitis on back of thighs resolving, inflammation and edema of inner
+   R thigh and groin persists
+   Labs / Radiology
+   214 K/uL
+   11.7 g/dL
+   98 mg/dL
+   0.5 mg/dL
+   34 mEq/L
+   3.9 mEq/L
+   12 mg/dL
+   101 mEq/L
+   142 mEq/L
+   35.7 %
+   6.4 K/uL
+        [image002.jpg]
+                             [**2981-5-29**]  06:07 AM
+                             [**2981-5-29**]  08:06 AM
+                             [**2981-5-30**]  04:46 AM
+                             [**2981-5-31**]  04:56 AM
+                             [**2981-6-1**]  04:05 AM
+                             [**2981-6-1**]  05:41 PM
+                             [**2981-6-1**]  11:50 PM
+                             [**2981-6-2**]  02:31 AM
+                             [**2981-6-2**]  03:47 AM
+   WBC
+   8.3
+   7.9
+   7.7
+   8.5
+   6.4
+   Hct
+   37.4
+   37.2
+   37.4
+   38.0
+   35.7
+   Plt
+   194
+   166
+   180
+   192
+   214
+   Cr
+   0.5
+   0.5
+   0.5
+   0.5
+   0.5
+   0.5
+   TCO2
+   37
+   38
+   38
+   Glucose
+   96
+   91
+   85
+   99
+   96
+   98
+   Other labs: PT / PTT / INR:15.7/27.2/1.4, Lactic Acid:0.9 mmol/L,
+   Ca++:8.7 mg/dL, Mg++:1.9 mg/dL, PO4:3.5 mg/dL
+   CXR [**2981-6-1**]: in comparison with the study of [**5-29**] there is extensive
+   opacification at the L base, consistent with pleural fluid and
+   underlying atelectasis.  Supervening pneumonia cannot be excluded.
+   ECHO [**2981-5-30**]: Normal left ventricular cavity size and good global
+   systolic function. Mild right ventricular cavity enlargement with
+   borderline normal free wall systolic function.
+   Sputum cx [**2981-5-30**]: NG
+   Urine cx [**2981-5-29**]: NG
+   Blood cx [**2981-5-29**]: pending
+   Assessment and Plan
+   Mr. [**Known patient lastname 885**] is a 49 yo M with achondroplasia, chronic LE lymphedema
+   with recent admission for lower extremity cellulitis c/b tachycardia,
+   dyspnea and hypercarbic respiratory failure requiring intubation.
+   # Hypercarbic respiratory failure - unclear inciting cause for
+   respiratory failure in the ED which prompted intubation. Likely has a
+   component of chronic hypercarbia +/- acute hypercarbia as well given
+   CO2 of 90 on admission.  DDx include pneumonia, pulmonary edema,
+   intracranial event such as CVA or hemorrhage although not seen on CT
+   scan.   Pneumonia more likely given infiltrate on CT scan.
+   - mental status improved
+   - Pt currently on PSV with MMV; pt  has high RR and low tidal volumes;
+   is requiring frequent suctioning for sputum production; RSBI of 152
+   this am.  Pt not likely to be extubated today.
+   - CXR [**2981-6-1**]: in comparison with the study of [**5-29**] there is extensive
+   opacification at the L base, consistent with pleural fluid and
+   underlying atelectasis.  Supervening pneumonia cannot be excluded.
+   - continue lasix (20mg IV prn) to maintain slight negative fluids and
+   attempt to reduce effusion
+   - continue levaquin
+   -hold off on additional abx for now, consider adding cefepime for
+   additional GN coverage if continues to spike fevers or has elevated WBC
+   # Altered Mental Status:  resolved.  Pt communicating with letter
+   board.
+   -- unclear etiology; may be secondary to infection or hypercarbic
+   respiratory failure
+   -- continue levaquin
+   #Bilateral LE cellulitis -  appears to be chronic stasis in setting of
+   lymphedema.  No WBC or fever at OSH.  Wife brought in photos of pts
+   cellulitis from last week.  Markedly improved on abx treatment.
+   -continue vancomycin for now
+   - vanco level [**2981-5-30**]: 17.1
+   - change to [**Doctor First Name **]-air mattress
+   #Hypertension
+ stable;
+   continue metoprolol; continue captropril and consider increasing dose
+   this afternoon if bp remains elevated.  (home meds: metoprolol and
+   terazosin)
+   # FEN
+   - Continue tube feeds.  Hold after midnight for attempted extubation
+   tomorrow.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2981-5-29**] 03:08 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

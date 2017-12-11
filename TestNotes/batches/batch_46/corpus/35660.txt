@@ -1,0 +1,284 @@
+Admission Date:  [**2875-3-29**]              Discharge Date:   [**2875-4-4**]
+
+Date of Birth:  [**2793-7-23**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Dilaudid / Morphine / Percocet / Neurontin / Lisinopril /
+Celebrex
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+severe mitral regurgitation and coronary artery disease
+
+Major Surgical or Invasive Procedure:
+mitral valve repair (26mm Band)and coronary artery bypass graft
+x3 (LIMA-LAD,SVG-PDA,SVG-PLV)[**3-29**]
+
+
+History of Present Illness:
+Mrs. [**Known patient lastname 31073**] is an 81 yo female with known coronary artery
+disease and severe mitral regurgitation that has been shown to
+be worsening on recent Echo. She was admitted for MV repair and
+coronary artery bypass grafting.
+
+Past Medical History:
+-Coronary artery disease:cardiac catheterization on [**2875-1-10**] revealed 3VD, right dominant system with a left main 30%
+lesion, LAD 70% lesion, left circumflex lesion showed diffuse
+disease, RCA had 70% stenosis, and EF was recorded as 75% with a
+PA mean of 43
+-Mitral valve prolapse and mitral regurgitation (moderate to
+severe)
+-Hypertension
+-Pulmonary hypertension
+-Obesity
+-Carotid artery disease: carotid ultrasound, which showed her
+left internal carotid artery stenosis to be between 50-69% and
+right internal carotid artery stenosis to be less than 50%.
+-H/o skin cancer on the face s/p removal
+-GERD
+-Osteoarthritis on the right hand
+-S/p fall in [**2860**]
+S/p shoulder surgery on both left and right shoulders
+S/p bilateral hand surgery
+S/p left foot surgery
+S/p hysterectomy
+S/p cholecystectomy
+S/p bilateral cataract surgery
+
+
+Social History:
+She is retired. Former smoker of [**3-6**] packs per week x30 years;
+quit in [**2850**]. She rarely drinks any alcohol and currently lives
+with her daughter who is also her PCP.
+
+
+Family History:
+sister died of MI at the age 79; father died from a stroke at
+the age of 59.
+
+Physical Exam:
+General:81 yo female in NAD
+Skin:unremarkable
+HEENT: EOMI, PERRL.
+Neck: supple, full ROM, No JVD
+chest: decreased breath sounds bilat
+Heart: Regular rate and rhythm with II/VI systolic murmur
+abd; soft, Nt, +BS
+Extrem: well profused, no edema.
+neuro: Alert and oriented x3. non-focal.
+
+
+Pertinent Results:
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 31074**]       TEE (Complete)
+Done [**2875-3-29**] at 12:48:31 PM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 22**], Division of Cardiothorac
+[**Hospital Unit Name 4615**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**2793-7-23**]
+Age (years): 81 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Coronary artery disease. Left ventricular function.
+Mitral valve disease. Mitral valve prolapse. Right ventricular
+function. Valvular heart disease.
+ICD-9 Codes: 440.0, 424.0
+Test Information
+Date/Time: [**2875-3-29**] at 12:48    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6534**], MD
+
+Test Type: TEE (Complete)
+3D imaging. Son[**Name (NI) 652**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6534**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW-1: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  0.8 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  0.8 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.1 cm  <= 5.6 cm
+Aorta - Ascending:  3.1 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  1.9 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.2 m/sec  <= 2.0 m/sec
+Pulmonic Valve - Peak Velocity:  1.2 m/sec  <= 1.5 m/sec
+
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+
+LEFT ATRIUM: Good (>20 cm/s) LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness, cavity size
+and regional/global systolic function (LVEF >55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. Complex (>4mm) atheroma
+in the aortic arch. Normal descending aorta diameter. Complex
+(>4mm) atheroma in the descending thoracic aorta. Complex
+(mobile) atheroma in the descending aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR.
+
+
+MITRAL VALVE: Moderate/severe MVP. Eccentric MR jet. Severe (4+)
+MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+Conclusions
+PRE-BYPASS: No atrial septal defect is seen by 2D or color
+Doppler. Left ventricular wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%). Right
+ventricular chamber size and free wall motion are normal. There
+are complex (>4mm) atheroma in the aortic arch. There are
+complex (>4mm) atheroma in the descending thoracic aorta. There
+are complex (mobile) atheroma in the descending aorta. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic stenosis. Trace aortic
+regurgitation is seen. There is moderate/severe mitral valve
+prolapse of the P2 segment. An eccentric, anteriorly directed
+jet of severe (4+) mitral regurgitation is seen. There is no
+pericardial effusion.
+
+POST-BYPASS: The patient is A-paced and on an infusion of
+phenylephrine. The mitral valve has been repaired and an
+annuloplasty band placed. There is no MR. [**First Name (Titles) **] [**Last Name (Titles) 31075**]
+gradients are not significant. The aorta is intact.
+Biventricular function is preserved. The Swan-Ganz catheter is
+in good position. The remainder of the examination is unchanged.
+
+
+Dr. [**Last Name (STitle) **] was notified in person of the results in the
+operating room.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6534**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2875-4-1**] 14:27
+
+
+Brief Hospital Course:
+On [**3-29**] [**Known patient firstname 5700**] [**Last Name (NamePattern1) 367**] underwent a mitral valve repair and
+coronary artery bypass grafting times three.  This procedure was
+performed by Dr. [**First Name (STitle) **] [**Name (STitle) **].  She tolerated the procedure
+well and was transferred in critical but stable condition to the
+surgical intensive care unit.  She was extubated and weaned from
+her pressors by post operative day one.  Her chest tubes were
+removed.  On post-operative day two she was nauseated and unable
+to tolerate food.  She was seen in consultation by the general
+surgery team for bowel distension and was asked not to eat
+anything.  She underwent an aggressive bowel regimen and within
+days she began to stool and her nausea abated.  She experienced
+post-operative atrial fibrillation with a rapid ventricular
+response.  She was given amiodarone and she converted back to
+sinus rhythm.  She was transferred to the surgical step down
+floor and her epicardial wires were removed.  She experienced
+diarrhea after the aggressive bowel regimen and so she stayed in
+house until this problem abated.  At discharge she was weak when
+she walked with physical therapy, but both the patient and her
+daughter insisted that she go home rather than to rehab.
+Physical therapy cleared her to go home, but she was encouraged
+to be active when she returned home.
+
+Medications on Admission:
+metoprolol 50mg daily
+lasix 40mg daily
+zantac 150mg [**Hospital1 **]
+KCL 10meq weekly
+
+
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO once a day:
+take 400mg (two tablets) daily for 7 days, then decrease to
+200mg (one tablet) daily until advised otherwise by your
+cardiologist.
+Disp:*60 Tablet(s)* Refills:*2*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID
+(2 times a day).
+Disp:*180 Tablet(s)* Refills:*2*
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day): take 40mg two times daily for 7 days, then decrease to
+40mg daily thereafter.
+Disp:*60 Tablet(s)* Refills:*2*
+7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 1115**] Area VNA
+
+Discharge Diagnosis:
+Gastrointestinal bleed
+cholesystecomy
+TAH/Appy
+Gastroesophageal reflux disease
+Obesity
+hypertension
+Pulmonary hypertension
+Skin Cancer
+cataract surgery
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+
+
+Followup Instructions:
+Please call and schedule the following appointments:
+Dr. [**Last Name (STitle) **] (cardiac surgeon) in 4 weeks. ([**Telephone/Fax (1) 7302**].
+Dr. [**First Name4 (NamePattern1) 2043**] [**Known patient lastname 31073**] (PCP) in [**2-5**] weeks
+Dr. [**First Name8 (NamePattern2) 171**] [**Last Name (NamePattern1) 169**] (cardiologist) in 2 weeks.
+
+
+
+Completed by:[**2875-4-4**]
+
+DOC CLASS

@@ -1,0 +1,311 @@
+Admission Date:  [**2661-2-3**]              Discharge Date:   [**2661-2-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Sulfa (Sulfonamides) / Barium Sulfate / Prednisone
+/ Collagen / IV Dye, Iodine Containing / Gantrisin
+
+Attending:[**First Name3 (LF) 23695**]
+Chief Complaint:
+chest pain, DOE
+
+Major Surgical or Invasive Procedure:
+cardiac cath
+
+History of Present Illness:
+[**Age over 90 **] yoF with hypertension, hyperlipidemia, prior admissions for
+pneumonia here with shortness of breath/DOE x1 week. Patient was
+in her usual state of health until 1 week ago when her BP was
+elevated. She went to see Dr. [**Last Name (STitle) **] who started her on
+hydralazine. Then, starting a few days ago, she began to notice
+centrally located chest pain as well as dyspnea with minimal
+exertion (walking from elevator to her apartment) which would
+normally not be a problem for her. Over the last 2 days her
+chest pain remained with her at rest and with exertion. She had
+been taking SL NTGs at home w/o significant change in her CP.
+She denied SOB at rest but had persistent dyspnea w/ minimal
+exertion. Today, as her symptoms persisted, she presented to the
+ED.
+
+In the ED, 97.4, 183/72, 83, 20, 100% NRB.  On exam, chest pain
+reproducible and atypical. CXR was unremarkable. However, ECG
+with lateral ST depressions. Given NTGx1 with no effect. Aspirin
+given as well as morphine. ECG repeated w/ second set of CEs. ST
+depressions then diffuse w/ 2mm STD in precordial leads and some
+elevation in AVR. With ECG changes, patient received plavix
+600mg, heparin gtt, and nitro gtt. She also received 1 dose of
+mucomyst w/ expectation of cath. CEs negative x2.  She became
+chest pain free in the ED w/ nitro and heparin gtt.
+
+Upon arrival to the floor, she continues to be chest pain free.
+On review of systems,  she denies any recent fever or chills.
+She does note some recent wheezing which she attributes to a
+[**Male First Name (un) 14408**] rug in her apartment. Denies any bowel or bladder
+symptoms.
+
+
+Past Medical History:
+# HTN
+# hyperlipidemia
+# h/o rheumatic fever
+# GERD
+# h/o pna requiring steroid taper
+# thyroid nodules s/p eval in nodule clinic, no FNA performed
+# urinary incontinence
+# arthritis
+
+Social History:
+Lives in independent living facility @ [**Street Address(2) **].
+Widowed w/ one son. Denies tobacco and EtOH use.
+
+Family History:
+Family history is noncontributory.
+
+
+Physical Exam:
+VS: T: 98.5, BP: 131/46, HR: 67, RR: 20, O2: 94% on 2LNC
+Gen: Elderly female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple. Cannot appreciate JVP.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2.II/VI <> sys murmur at LUSB and holosys murmur
+at apex.
+Chest: Bibasilar crackles, L>R. Diffuse end exp wheezes
+Abd: Soft, NTND. No HSM or tenderness. No organomegaly.
+Groin: 2+ femoral pulses. No bruits
+Ext: WWP. No c/c/e.  2+ DP pulses.
+Skin: No stasis dermatitis, ulcers, scars
+
+Pertinent Results:
+[**2661-2-3**] 4:15 pm URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT [**2661-2-5**]**
+
+   URINE CULTURE (Final [**2661-2-5**]):
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    64 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ECG [**2661-2-4**]: NSR @ 70. Nl axis and intervals. Inferior TW
+flattening w/ <[**Street Address(2) 1697**] depressions in II, aVF. 1 mm STD w/ TWI
+in V5-6.
+
+ECG [**2661-2-3**] 17:23: NSR@90. Nl axis and intervals. TWI in lateral
+leads c/w strain pattern of LVH. 1-2mm ST depressions in V4-6. [**Street Address(2) **] depression in II. Compared to prior [**2659-4-13**], ST changes
+are new.
+
+CXR [**2661-2-3**]:
+The cardiomediastinal silhouette is stable.  The left CPA is not
+included in this study.  The upper lungs are clear.
+IMPRESSION:  No evidence of CHF or acute cardiopulmonary
+process.
+
+CARDIAC CATH [**2-6**]:
+1. Coronary angiography of this right dominant system revealed
+severe
+three vessel disease. The LMCA was normal. The LAD had 60-70%
+tubular
+diffuse disease. The LCX had 80% tubular diffuse disease. The
+RCA had
+80% tubular diffuse disease.
+2. Resting hemodynamics revealed elevated systemic arterial
+pressures
+during the case with an SBP of 139 mm Hg.
+3. Left ventriculography was not performed.
+4. After the diagnostic procedure, the patient complained of
+throat and
+eye itching. She subsequently developed facial erythema plethora
+with
+whole body pruritus and developed angioedema of the tongue and
+had
+difficulty speaking and breathing consistent with anaphylaxis.
+Arterial
+pressure rose to 220 mm Hg systolic. The patient was given
+benadryl, IV
+solumedrol, nitro gtt and IC nitro, albuterol nebulizers,
+pepcid, 100 mg
+IV lasix and epinephrine 0.3 mg SC x 1 with close respiratory
+monitoring. Anesthesia was present but intubation was not
+necessary and
+the patient was stabilized and transferred to the CCU for closer
+
+monitoring.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Anaphylaxis to IV contrast.
+
+[**2661-2-9**] 07:40AM BLOOD WBC-10.0 RBC-3.80* Hgb-11.6* Hct-33.5*
+MCV-88 MCH-30.6 MCHC-34.6 RDW-13.3 Plt Ct-465*
+[**2661-2-3**] 12:20PM BLOOD WBC-11.0 RBC-3.70* Hgb-11.1* Hct-32.6*
+MCV-88 MCH-30.1 MCHC-34.1 RDW-13.1 Plt Ct-447*
+[**2661-2-8**] 06:52AM BLOOD PT-11.9 PTT-24.6 INR(PT)-1.0
+[**2661-2-9**] 07:40AM BLOOD Glucose-117* UreaN-48* Creat-1.4* Na-140
+K-4.3 Cl-101 HCO3-29 AnGap-14
+[**2661-2-8**] 06:52AM BLOOD Glucose-110* UreaN-41* Creat-1.2* Na-139
+K-3.7 Cl-99 HCO3-30 AnGap-14
+[**2661-2-7**] 03:34AM BLOOD Glucose-214* UreaN-30* Creat-1.4* Na-139
+K-3.7 Cl-93* HCO3-30 AnGap-20
+[**2661-2-6**] 10:00PM BLOOD Glucose-199* UreaN-29* Creat-1.3* Na-138
+K-4.0 Cl-97 HCO3-29 AnGap-16
+[**2661-2-6**] 06:05AM BLOOD Glucose-95 UreaN-27* Creat-1.2* Na-141
+K-4.3 Cl-104 HCO3-28 AnGap-13
+[**2661-2-5**] 08:10AM BLOOD Glucose-95 UreaN-21* Creat-1.0 Na-140
+K-3.7 Cl-101 HCO3-26 AnGap-17
+[**2661-2-4**] 06:40AM BLOOD Glucose-112* UreaN-26* Creat-1.0 Na-141
+K-3.9 Cl-107 HCO3-24 AnGap-14
+[**2661-2-3**] 12:20PM BLOOD Glucose-177* UreaN-38* Creat-1.4* Na-143
+K-4.3 Cl-106 HCO3-22 AnGap-19
+[**2661-2-4**] 06:40AM BLOOD LD(LDH)-175 CK(CPK)-36 TotBili-0.8
+[**2661-2-7**] 03:34AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2661-2-4**] 06:40AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2661-2-4**] 01:07AM BLOOD CK-MB-NotDone
+[**2661-2-3**] 07:20PM BLOOD cTropnT-<0.01
+[**2661-2-3**] 12:20PM BLOOD cTropnT-<0.01
+[**2661-2-9**] 07:40AM BLOOD Mg-2.0
+[**2661-2-8**] 06:52AM BLOOD Calcium-9.8 Phos-3.1# Mg-2.3
+[**2661-2-4**] 06:40AM BLOOD Hapto-241*
+[**2661-2-6**] 03:59PM BLOOD Type-ART pO2-114* pCO2-55* pH-7.30*
+calTCO2-28 Base XS-0
+[**2661-2-6**] 03:41PM BLOOD Glucose-165* Lactate-1.3 Na-138 K-4.2
+
+Brief Hospital Course:
+CAD:  The patient presented with unstable angina, she had ST
+depressions in her L anterior precordial leads which were 2mm
+depressions and seemed significant.  She ruled out for MI.  She
+was started on aspirin, plavix, statin, heparin, and a beta
+blocker.  She underwent a cardiac cathterization which revealed
+severe calcified 3 vessel disease and no intervention was made.
+Decision was made for medical management.  Started on Toprol
+200mg daily, Losartan increased to 100mg daily.  Norvasc 5mg
+daily continued, ASA 325mg daily, Plavix 75mg daily, Lipitor
+80mg daily, hydralazine 25mg po tid.  She should continue on
+these medications as an outpatient.
+
+URINARY TRACT INFECTION:  pan sensitive Klebsiella UTI.   Has
+had same organism multiple times in the past, simple UTI but
+given elderly and recurrance will treat for 7 days in total with
+ciprofloxacin. Day 1 of treatment was [**2-5**], last day should be
+[**2-11**].
+
+ANAPHYLAXIS: The patient had an anaphylactic reaction to
+contrast dye during her cardiac cath.  She began to have
+pruritis and tongue swelling initially and then shortness of
+breath as the cathters were pulled out.  She was given sc
+epinephrine, solumedrol, pepcid, benadryl and responded well.
+She was never intubated and was not hypotensive.  Symptoms
+resolved after 12 hours.
+
+CHRONIC RENAL INSUFFICIENCY: Cr. now stable between 1.2 and 1.4,
+baseline is 1.1.  Acute on chronic renal insufficiency very
+likely related to contrast nephropathy.  She did receive pre and
+post cath hydration in addition to mucomyst.
+
+Medications on Admission:
+Inderal 160 mg daily
+cozaar 50 mg daily
+aspirin 81 mg daily
+triamterene/hctz 37.5/25 mg QM/W/F
+detrol 2 mg daily
+pravastatin 80 mg daily
+norvasc 5 mg daily
+hydralazine 25 mg [**Hospital1 **]
+omeprazole 20 mg daily
+calcium
+vit D
+MVI
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Tolterodine 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+5. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+7. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+8. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+9. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+10. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 4 days: last dose on [**2-11**] for total 7 day
+course.
+11. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+12. Combivent 18-103 mcg/Actuation Aerosol Sig: One (1)
+Inhalation every four (4) hours as needed for shortness of
+breath or wheezing.
+13. Losartan 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+14. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **] CENTER
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Unstable Angina
+Urinary Tract Infection
+Hypertension
+Anaphylaxis to contrast dye
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted with chest pain.   You were found to have
+severely narrowed coronary arteries with a decision to medically
+manage (treat with medications rather than a stent).
+
+You should continue to take your medications as prescribed.
+Please call your doctor or return to the emergency room if you
+have additional chest pain, shortness of breath or any other
+symptoms that concern you.
+
+Followup Instructions:
+Follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 25605**] ([**Street Address(2) **]
+Cardiology) within 3 weeks of discharge from the hospital.
+
+Please follow up with your primary care physician
+[**Name9 (PRE) **],[**Name9 (PRE) **] [**Name9 (PRE) **] [**Telephone/Fax (1) 4173**] within 2 weeks of your
+discharge from the skilled nursing facility.
+
+
+
+
+
+DOC CLASS

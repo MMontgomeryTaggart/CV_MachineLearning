@@ -1,0 +1,159 @@
+Chief Complaint:
+   24 Hour Events:
+   - got an ABG, which was stable
+   - stopped lasix gtt temporarily because she was hypotensive, restarted
+   when BP's improved
+   - allowed her to get some applesauce
+   - changed metoprolol to PO
+   - all Cx NGTD
+   - sent stool for C.diff
+   - wound care: rheum should be consulted when patients condition
+   improves (for leg ulcers) - refer to wound care note for furhter
+   details
+   Allergies:
+   Penicillins
+   Rash;
+   Erythromycin Base
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   Unknown; sores
+   Ampicillin
+   Unknown;
+   Lactose
+   Unknown; Abdomi
+   Latex
+   Rash;
+   Adaptic (Topical) (Non-Adherent Bandage)
+   Rash;
+   Amiodarone
+   Hepatic toxicit
+   Last dose of Antibiotics:
+   Vancomycin - [**3073-3-15**] 08:00 PM
+   Cefipime - [**3073-3-15**] 08:00 PM
+   Metronidazole - [**3073-3-15**] 11:00 PM
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3073-3-15**] 08:45 AM
+   Metoprolol - [**3073-3-15**] 12:45 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3073-3-16**] 06:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**75**] AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 35.9
+C (96.7
+   HR: 93 (82 - 99) bpm
+   BP: 115/52(66) {82/38(49) - 119/62(73)} mmHg
+   RR: 22 (16 - 28) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 86 kg (admission): 80.1 kg
+             Total In:
+                                                                  1,523 mL
+                                                                    104 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,523 mL
+                                                                    104 mL
+   Blood products:
+   Total out:
+                                                                  1,215 mL
+                                                                    475 mL
+   Urine:
+                                                                  1,215 mL
+                                                                    475 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    308 mL
+                                                                   -371 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: 7.36/60/73.[**Numeric Identifier 582**]//5
+   PaO2 / FiO2: 104
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   354 K/uL
+   8.8 g/dL
+   85 mg/dL
+   1.0 mg/dL
+   33 mEq/L
+   3.6 mEq/L
+   20 mg/dL
+   101 mEq/L
+   142 mEq/L
+   30.0 %
+   8.2 K/uL
+        [image002.jpg]
+                             [**3073-3-12**]  04:27 AM
+                             [**3073-3-14**]  07:42 PM
+                             [**3073-3-14**]  09:22 PM
+                             [**3073-3-15**]  05:40 AM
+                             [**3073-3-15**]  02:18 PM
+                             [**3073-3-16**]  05:28 AM
+   WBC
+   11.7
+   9.9
+   8.2
+   Hct
+   34.7
+   30.6
+   30.0
+   Plt
+   [**Telephone/Fax (3) 11586**]
+   Cr
+   0.8
+   1.0
+   1.0
+   TropT
+   0.02
+   TCO2
+   34
+   35
+   Glucose
+   107
+   87
+   85
+   Other labs: PT / PTT / INR:55.1/41.5/6.1, CK / CKMB /
+   Troponin-T:15//0.02, ALT / AST:[**6-27**], Alk Phos / T Bili:62/0.2, Amylase
+   / Lipase:/47, Differential-Neuts:80.4 %, Lymph:10.9 %, Mono:6.6 %,
+   Eos:2.0 %, Fibrinogen:499 mg/dL, LDH:202 IU/L, Ca++:8.1 mg/dL, Mg++:1.8
+   mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+ IMPAIRED SKIN INTEGRITY
+ PNEUMONIA, ASPIRATION
+ AORTIC STENOSIS
+ SEIZURE, WITHOUT STATUS EPILEPTICUS
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3073-3-13**] 11:01 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:Possible transfer to floor
+
+
+DOC CLASS

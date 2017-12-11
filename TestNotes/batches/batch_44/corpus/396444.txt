@@ -1,0 +1,147 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ BLOOD CULTURED - At [**3108-6-17**] 04:10 AM
+ URINE CULTURE - At [**3108-6-17**] 04:21 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3108-6-16**] 08:12 PM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3108-6-17**] 08:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.1
+C (100.6
+   Tcurrent: 38.1
+C (100.5
+   HR: 90 (74 - 99) bpm
+   BP: 123/68(80) {104/53(66) - 133/96(105)} mmHg
+   RR: 22 (14 - 23) insp/min
+   SpO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    678 mL
+                                                                     83 mL
+   PO:
+             TF:
+   IVF:
+                                                                    678 mL
+                                                                     83 mL
+   Blood products:
+   Total out:
+                                                                  1,500 mL
+                                                                  1,000 mL
+   Urine:
+                                                                  1,500 mL
+                                                                  1,000 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -822 mL
+                                                                   -918 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   11.7 g/dL
+   143 K/uL
+   89 mg/dL
+   1.6 mg/dL
+   25 mEq/L
+   4.1 mEq/L
+   24 mg/dL
+   108 mEq/L
+   143 mEq/L
+   33.6 %
+   6.5 K/uL
+        [image002.jpg]
+                             [**3108-6-16**]  04:41 PM
+                             [**3108-6-16**]  09:55 PM
+                             [**3108-6-17**]  03:54 AM
+   WBC
+   6.5
+   Hct
+   35.0
+   34.4
+   33.6
+   Plt
+   143
+   Cr
+   1.6
+   Glucose
+   89
+   Other labs: PT / PTT / INR:13.5/27.3/1.2, CK / CKMB / Troponin-T:274/4/
+   Assessment and Plan
+   53 yo male with a day of n/v and diarrhea and drop in his HCT with
+   hypotension (systolics to 88mmHg) in the ED and report of guiac + and
+   NG lavage + for blood with new onset acute on chronic renal failure .
+   Notably BP improved with fluid bolus.
+   >Hypotension / anemia: seems that a GI source is probable given new
+   anemia ? UGI with ulcer, gastritis (no EtOH hx),
+   MW tear in setting of recent nausea (? Underlying gastroenteritis as
+   source) or alternatively with lower GI source given hx of adenomas.
+   Reponded well to fluid bolus. Appreciate GI input
+   - Type and cross
+   -  Serial Hct
+   - 2 18 G PIV
+   - IVF at 125 cc /hr with LR
+   - GI for EGD +/- [**Last Name (un) **] in AM
+   > Nausea/vomiting: ? gastroenteritis (viral vs food contamination).  ?
+   gallbladder/liver/pancreatic source
+   - check LFTs and lactate
+   -check pancreatic enzymes
+   - if teting abnl consider imaging (US vs CT scan).
+   > Renal failure: acute on chronic with likely pre-renal component in
+   the setting of recent hydration. Will fluid resuscitate and recheck
+   renal function in AM
+   >HTN: hold anti-htn
+s for now given hypotension
+   Additional issues per ICU resident note
+   ICU Care
+   Nutrition:
+   Comments: NPO pending GI team eval
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3108-6-16**] 04:38 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 45 minutes
+
+
+DOC CLASS

@@ -1,0 +1,185 @@
+CVICU
+   HPI:
+   62yoM s/p CABGx4(LIMA-LAD,SVG-Diag,SVG-OM,SVG-PLV)[**12-5**]
+   EF 50% CR 0.9 WT 65K
+   PMHx:
+   PMH:^lipid, HTN, MGUS, GERD, Barrett's Esophagus, Contact Dermatitis
+   [**Name2 (NI) **]: Protonix 40', Benadryl prn
+   Current medications:
+   Aspirin EC Atorvastatin  Calcium Gluconate Docusate Sodium .
+   Furosemide  Insulin Magnesium Sulfate
+    Metoclopramide . Metoprolol Tartrate  Milk of Magnesia
+    Morphine Sulfate Nitroglycerin  Oxycodone-Acetaminophen Pantoprazole
+   . Potassium Chloride
+   30. Vancomycin
+   24 Hour Events:
+ OR RECEIVED - At [**2851-12-5**] 03:50 PM
+ ARTERIAL LINE - START [**2851-12-5**] 03:50 PM
+ MULTI LUMEN - START [**2851-12-5**] 03:50 PM
+ INTUBATION - At [**2851-12-5**] 03:57 PM
+ INVASIVE VENTILATION - START [**2851-12-5**] 03:57 PM
+ EKG - At [**2851-12-5**] 04:07 PM
+ INVASIVE VENTILATION - STOP [**2851-12-5**] 11:47 PM
+   Post operative day:
+   62yoM s/p CABGx4(LIMA-LAD,SVG-Diag,SVG-OM,SVG-PLV)[**12-5**]
+   EF 50% CR 0.9 WT 65K
+   24hr events-OR-extubated. 1 unit PRBC's for HCT 24
+   Allergies:
+   Fish Protein
+   Unknown;
+   Latex Gloves (Miscell) (Gloves
+   Latex)
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2851-12-6**] 08:00 AM
+   Other ICU medications:
+   Insulin - Regular - [**2851-12-5**] 08:34 PM
+   Morphine Sulfate - [**2851-12-6**] 12:45 AM
+   Metoprolol - [**2851-12-6**] 06:35 AM
+   Furosemide (Lasix) - [**2851-12-6**] 08:00 AM
+   Flowsheet Data as of  [**2851-12-6**] 10:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**54**] a.m.
+   Tmax: 37.9
+C (100.3
+   T current: 36.8
+C (98.3
+   HR: 64 (62 - 90) bpm
+   BP: 91/54(63) {91/54(63) - 126/65(80)} mmHg
+   RR: 22 (12 - 27) insp/min
+   SPO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 74.4 kg (admission): 65.9 kg
+   Height: 67 Inch
+   CVP: 6 (4 - 26) mmHg
+   Total In:
+                                                                  7,759 mL
+                                                                    605 mL
+   PO:
+                                                                    250 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  6,962 mL
+                                                                    355 mL
+   Blood products:
+                                                                    797 mL
+   Total out:
+                                                                  2,988 mL
+                                                                  2,270 mL
+   Urine:
+                                                                  1,760 mL
+                                                                  1,990 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,771 mL
+                                                                 -1,665 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   FiO2: 50%
+   SPO2: 92%
+   ABG: 7.40/33/108/25/-2
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: left>rt), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   185 K/uL
+   9.6 g/dL
+   107 mg/dL
+   0.6 mg/dL
+   25 mEq/L
+   4.1 mEq/L
+   9 mg/dL
+   102 mEq/L
+   132 mEq/L
+   26.7 %
+   6.4 K/uL
+        [image002.jpg]
+                             [**2851-12-5**]  02:10 PM
+                             [**2851-12-5**]  02:17 PM
+                             [**2851-12-5**]  04:21 PM
+                             [**2851-12-5**]  04:32 PM
+                             [**2851-12-5**]  08:31 PM
+                             [**2851-12-5**]  10:36 PM
+                             [**2851-12-5**]  10:51 PM
+                             [**2851-12-5**]  11:25 PM
+                            [**2851-12-6**]  03:05 AM
+   WBC
+   5.3
+   5.9
+   6.4
+   Hct
+   21.9
+   25
+   22.8
+   26.2
+   26.7
+   Plt
+   87
+   131
+   185
+   Creatinine
+   0.6
+   0.6
+   TCO2
+   25
+   26
+   21
+   25
+   21
+   Glucose
+   122
+   107
+   107
+   Other labs: PT / PTT / INR:14.9/32.9/1.3, Fibrinogen:327 mg/dL, Lactic
+   Acid:2.5 mmol/L, Mg:1.9 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan: Hemodynamically stable, ready for transfer to
+   floors
+   Neurologic: Pain controlled, Percocet and toradol
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, Diuresis to goal net negative 1 liter
+   Hematology: stable hct
+   Endocrine: RISS, Lantus (R)
+   Infectious Disease: no infectious issues
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires, Cordis
+   Aline
+   Wounds: Dry dressings
+   Fluids: KVO
+   Consults: P.T.
+   ICU Care
+   Nutrition: ADAT
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2851-12-5**] 03:50 PM
+   Multi Lumen - [**2851-12-5**] 03:50 PM
+   20 Gauge - [**2851-12-5**] 04:03 PM
+   Prophylaxis:
+   DVT:  (ambulate today)
+   Stress ulcer: PPI:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

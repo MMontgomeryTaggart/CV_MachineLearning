@@ -1,0 +1,178 @@
+Admission Date:  [**3004-8-16**]              Discharge Date:   [**3004-8-23**]
+
+Date of Birth:  [**2938-3-14**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Elective CABG
+
+Major Surgical or Invasive Procedure:
+[**3004-8-16**] CABGx4(LIMA->LAD, SVG->[**Last Name (LF) **], [**First Name3 (LF) **], PDA)
+
+History of Present Illness:
+This is a 66 year old male who presented with acute
+cholecystitis in [**3004-4-18**]. Preoperative evaluation was notable
+for abnormal EKG(exact details unknown). This led to cardiac
+catheterization which revealed severe three vessel coronary
+disease. The LAD was totally occluded; the RCA had a 80-90%
+stenosis while the circumflex had a 90% lesion. His LVEF was
+estimated at 60%. Based on the above results, he was referred
+for cardiac surgical intervention. Further evaluation included
+an echocardiogram which showed no significant valvular disease
+and a carotid ultrasound which showed normal internal carotid
+arteries.
+
+Of note, an ultrasound guided chole tube was placed in [**3004-4-18**]
+and subsequently removed in mid [**3004-5-18**]. His cholecystitis
+symptoms have completely resolved. In addition, he is currently
+on PO Vancomycin for C. diff colitis.
+
+Past Medical History:
+NIDDM (diet controlled)
+HTN
+Hyperlipidemia
+Gout
+Acute cholecystitis - s/p chole tube
+Basal cell carcinoma
+C. diff colitis - currently on PO Vancomycin
+
+Social History:
+Negative tobacco.  + alcohol (moderate drinker: greater than a
+six-pack per week, but does not drink every day).  Works at a
+boat yard.
+
+
+Family History:
+Non-contributory. No premature CAD.
+
+Physical Exam:
+Vitals: BP 170/100, HR 68, R 18
+General: Well developed male in no acute distress
+HEENT: Oropharynx benign
+Neck: Supple, no JVD
+Lungs: Clear bilaterally
+Heart: Regular rate, s1s2, no murmur
+Abd: Benign
+Ext: Warm, no edema
+Pulses: 2+ distally, no carotid bruits
+Neuro: Nonfocal
+
+Pertinent Results:
+[**3004-8-22**] 06:50AM BLOOD WBC-10.9 RBC-3.08* Hgb-9.6* Hct-28.5*
+MCV-93 MCH-31.2 MCHC-33.7 RDW-14.1 Plt Ct-369
+[**3004-8-23**] 07:20AM BLOOD PT-16.1* INR(PT)-1.8
+[**3004-8-22**] 06:50AM BLOOD Glucose-149* UreaN-14 Creat-1.0 Na-140
+K-4.2 Cl-101 HCO3-28 AnGap-15
+[**3004-8-22**] 06:50AM BLOOD Calcium-8.6 Phos-3.6 Mg-1.9
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 4287**] was admitted and underwent four vessel coronary artery
+bypass grafting by Dr. [**Last Name (STitle) **]. The operation was uneventful and
+he transferred to the CSRU for invasive monitoring. Within 24
+hours, he awoke neurologically intact and was extubated without
+incident. He was started on Plavix in addition to Aspirin for
+poor distal coronary circulation. He maintained stable
+hemodynamics and transferred to the SDU on postoperative day
+one. He experienced paroxsymal atrial fibrillation for which
+beta blockade was resumed and advanced as tolerated. Due to
+persistent atrial arrhythmias, he was eventually started on
+Amiodarone therapy and Warfarin. Warfarin was dosed for a goal
+INR between 2.0 - 2.5. He otherwise continued to make clinical
+improvements. At time of discharge, he was in a normal sinus
+rhythm(rate 60-70) with systolic BP in the 100-120 mmHg range.
+He was near his preoperative weight with room air oxygen
+saturations of 95%. He was medically cleared for discharge to
+home on postoperative day 7.
+
+Medications on Admission:
+Lisinopril 20 qd, Lopressor 150 [**Hospital1 **], Allopurinol 100 qd,
+Protonix 40 qd, Vancomycin 250 qid, Culturelle qd, Pravachol 80
+qd, Aspirin 325 qd, Iron
+
+Discharge Medications:
+1. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours) for 7
+days.
+Disp:*28 Capsule, Sustained Release(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+6. Pravastatin 20 mg Tablet Sig: Four (4) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Vancomycin 250 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours).
+Disp:*90 Capsule(s)* Refills:*2*
+8. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+10. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+11. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day) for 7 days: After 1 week decrease dose to 400 mg PO daily
+for 7 days, then decrease to 200 mg PO daily.
+Disp:*60 Tablet(s)* Refills:*0*
+12. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+13. Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day:
+Please follow-up with Dr. [**Last Name (STitle) 4288**].
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 289**] Homecare
+
+Discharge Diagnosis:
+Coronary artery disease - s/p CABG
+Postoperative atrial fibrillation
+NIDDM (diet controlled)
+HTN
+Hyperlipidemia
+Gout
+Acute cholecystitis - s/p chole tube
+Basal cell carcinoma
+C. diff colitis - currently on PO Vancomycin
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+Do not drive for 4 weeks.
+Do not lift more than 10 lbs. for 2 months.
+You should shower daily, let water flow over wounds, pat dry
+with a towel.
+Do not use lotions, creams or powders on wounds.
+Call our office for sternal drainage, temp.>101.5
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 4288**] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) **] for 4 weeks.
+
+
+
+Completed by:[**3004-9-5**]
+
+DOC CLASS

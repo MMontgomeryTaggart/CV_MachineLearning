@@ -1,0 +1,204 @@
+Chief Complaint:
+   24 Hour Events:
+ ENDOSCOPY - At [**3216-5-6**] 12:30 PM
+   pt tolerated procedure well, had one episode of decreased hr to 50's bp
+   stable in the 130's... procedure quickly finished which found no
+   evidence of bleed
+   Needs small bowel follow through per GI
+   Transfused 1 unit for HCT 28
+   BP + HR stable
+   Outpatient colonoscopy [**10-25**] without source of bleeding
+   H pylori sent
+   Patient reports feeling well; did have black stool this morning.  No
+   abdominal pain, lightheadedness.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3216-5-6**] 08:21 AM
+   Midazolam (Versed) - [**3216-5-6**] 12:30 PM
+   Fentanyl - [**3216-5-6**] 12:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3216-5-7**] 07:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.1
+C (96.9
+   HR: 63 (63 - 84) bpm
+   BP: 122/52(71) {108/30(58) - 150/86(100)} mmHg
+   RR: 15 (11 - 21) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 70 Inch
+                  Total In:
+                                                                  2,335 mL
+                  PO:
+                                                                    500 mL
+                  TF:
+   IVF:
+                                                                    210 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  1,095 mL
+                                                                    570 mL
+   Urine:
+                                                                  1,095 mL
+                                                                    570 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,240 mL
+                                                                   -570 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///23/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   252 K/uL
+   10.6 g/dL
+   89 mg/dL
+   1.3 mg/dL
+   23 mEq/L
+   5.0 mEq/L
+   34 mg/dL
+   110 mEq/L
+   141 mEq/L
+   31.3 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**3216-5-6**]  05:21 AM
+                             [**3216-5-6**]  11:37 AM
+                             [**3216-5-6**]  04:39 PM
+                             [**3216-5-7**]  03:55 AM
+   WBC
+   7.8
+   8.1
+   Hct
+   30.8
+   30.0
+   28.4
+   31.3
+   Plt
+   246
+   252
+   Cr
+   1.3
+   1.3
+   TropT
+   1.23
+   Glucose
+   106
+   89
+   Other labs: PT / PTT / INR:13.1/24.6/1.1, CK / CKMB /
+   Troponin-T:59/6/1.23, Ca++:8.9 mg/dL, Mg++:1.9 mg/dL, PO4:3.1 mg/dL
+   Micro
+   H pylori pending
+   Rads / studies
+   TTE [**5-6**]
+   The left atrium is mildly dilated. The right atrium is moderately
+   dilated. The estimated right atrial pressure is 10-20mmHg. There is
+   mild symmetric left ventricular hypertrophy with normal cavity size.
+   There is mild global left ventricular hypokinesis (LVEF = 40-45 %). The
+   estimated cardiac index is borderline low (2.0-2.5L/min/m2). Right
+   ventricular chamber size and free wall motion are normal. The aortic
+   root is mildly dilated at the sinus level. The aortic valve leaflets
+   (3) are mildly thickened but aortic stenosis is not present. No aortic
+   regurgitation is seen. The mitral valve leaflets are structurally
+   normal. There is no mitral valve prolapse. Moderate (2+) mitral
+   regurgitation is seen. The tricuspid valve leaflets are mildly
+   thickened. Moderate to severe [3+] tricuspid regurgitation is seen.
+   There is moderate to severe pulmonary artery systolic hypertension.
+   There is no pericardial effusion.
+   IMPRESSION: Mild symmetric left ventricular hypertrophy with mild
+   global hypokinesis and boderline low cardiac index. Moderate mitral
+   regurgitation. Moderate to severe tricuspid regurgitation. Moderate to
+   severe pulmonary hypertension.
+   Assessment and Plan
+   90M h/o HTN, hypercholesterolemia, Afib, h/o colon CA s/p colectomy,
+   recent upper GI bleed presents with acute blood loss anemia and NSTEMI.
+   .
+   # Acute blood loss anemia:
+   Recent identification of duodenal ulcer treated with PPI (no biopsy/H.
+   pylori performed), now here with guaiac positive stool and continued
+   melena.  EGD without obvious source of bleeding.  Likely small bowel
+   source.  Cannot get SBFT on wknd.  Will get capsule study on Tuesday.
+   Otherwise, vitals are stable.  Did receive 1 unit PRBCs last night for
+   hct<30.
+   - maintain 2 large bore IVs at all times
+   - typed and crossed
+   - transfuse to Hct>30 given cardiac ischemia
+   - PO bid ppi
+   - clear diet
+   - consider H. pylori testing pending
+   .
+   # NSTEMI
+   Likely remote demand event due to acute anemia, rather than unstable
+   plaque, as normal CK and positive troponin. Cardiology with no plans
+   for cath.  CK / MB flat.
+   - no anticoagulation given recent GIB: hold asa + coumadin
+   - transfuse to Hct>30
+   - cont hold antihypertensives w/ ongoing melanotic stool
+   - continue statin
+   .
+   # Afib:
+   Well-controlled of meds.  Telemetry.  Previously on anticoagulation,
+   being held w/ gi bleeding.
+   .
+   # Hypertension: Currently normotensive, hold ACEi + BB for now in
+   setting of acute GI bleed.
+   .
+   # Renal failure:
+   Trending down w/ fluids, blood.
+   Unclear if now at baseline.
+   Cont trend + hold lasix/ACEi
+   ICU Care
+   Nutrition:
+   clears
+   Glycemic Control:  none
+   Lines:
+   16 Gauge - [**3216-5-6**] 03:19 AM
+   20 Gauge - [**3216-5-6**] 03:20 AM
+   Prophylaxis:
+   DVT: boots
+   Stress ulcer: pantoprazole iv bid
+   VAP:  na
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: icu
+   ------ Protected Section ------
+   Physical Exam
+   GEN: appears younger than stated age, friendly and speaking in full
+   sentences
+   HEENT: ~ 1 cm superficial split in distal tongue tip w/ mild bleeding.
+   MMM.  Perrla
+   COR: nl s1s2 no mrg
+   PUL: rhonchi right base, diminishing as move upward in lung field.  Cta
+   on L.
+   ABD: soft, NT, ND, linear incision from prior surgeries.
+   EXTREM: dry skin, no edema, warm.
+   NEURO; alert and oriented x 3
+   GU: foley catheter in place
+   ------ Protected Section Addendum Entered By:[**Name (NI) 140**] [**Last Name (NamePattern1) 1734**], MD
+   on:[**3216-5-7**] 11:48 ------
+
+
+DOC CLASS

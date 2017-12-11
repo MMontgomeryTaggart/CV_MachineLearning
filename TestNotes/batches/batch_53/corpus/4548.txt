@@ -1,0 +1,272 @@
+Admission Date:  [**2761-10-15**]              Discharge Date:   [**2761-10-21**]
+
+Date of Birth:  [**2684-2-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Peanut / Flagyl
+
+Attending:[**First Name3 (LF) 884**]
+Chief Complaint:
+Cough/SOB
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+The patient is a 77yoF with oxygen dependent COPD, diastolic CHF
+(EF 55% in [**2757**]), DMII, HL, presents to ER with 3 days of SOB,
+cough productive of sputum, and need for increasing O2 at home.
+States she was unable to get out of her chair today, and so her
+son brought her in. Denies sick contacts, lives alone at home
+with just her dog and cat. No muscle aches, has not had a flu
+shot yet. Also notes very poor PO intake since Friday, drinking
+only water intermittently. States she is feeling lightheaded
+now.
+
+In the ED inital vitals were, 98.8 120 130/67 22 93-98% on NRB.
+She was given duonebsx3, solumedrol 125mg IV x 1, azithromycin,
+ceftriaxone. She was noted to improve afterwards, requiring 5-6L
+to maintain her sats, but occasionally requiring facetent and
+therefore requires ICU admission. EKG was SR at 109 bpm, NA/NI,
+no ischemic changes. CXR showed ?infiltrate vs atelectasis.
+Lactate was 4.2, Cr was 2.0 (baseline around 0.8-1.2), WBC 20
+with 90% neutrophils and no bands.
+
+On the floor, she reports feeling better. Denies CP, SOB, f/c.
+She endorses her usual depression and anxiety, but denied s/h
+ideation. She wished to stop stool softners.
+
+Review of Systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies visual changes, headache, dizziness, sinus
+tenderness, neck stiffness, rhinorrhea, congestion, sore throat
+or dysphagia. Denies chest pain, palpitations, orthopnea,
+dyspnea on exertion. Denies vomiting, heartburn, diarrhea,
+constipation, BRBPR, melena, or abdominal pain. No dysuria,
+urinary frequency. Denies arthralgias or myalgias. Denies
+rashes. No increasing lower extremity swelling. No
+numbness/tingling or muscle weakness in extremities. No suicidal
+ideation. All other review of systems negative.
+
+
+
+Past Medical History:
+COPD, on 3L O2 at home (increases to 5L O2 with exertion)
+DM II
+allergic rhinitis
+Depression
+Anxiety
+Osteopenia
+Tobacco Abuse (quit [**7-/2760**])
+sCHF (Preserved EF in [**10/2758**])
+h/o Squamous cell ca of lip
+hyperlipidemia
+polycythemia
+
+
+Social History:
+Use to work in polaroid factory x 30yrs, then at an xmas tree
+store x 8yrs. Lives alone, has a son.
+- Tobacco: Quit tobacco [**7-/2760**] , prior smoking 3ppd x 60yrs
+- Alcohol: Denies
+- Illicits: Denies
+
+
+Family History:
+- father- unknown
+- mother- heart disease
+- no siblings
+
+Physical Exam:
+VS: 98.0 98 25 128/70 93% on 3L NC; pain 0/10
+GEN: No apparent distress
+HEENT: no trauma, pupils round and reactive to light and
+accommodation, no LAD, oropharynx clear, no exudates
+CV: regular rate and rhythm, no murmurs/gallops/rubs
+PULM: Decreased breathsounds bilaterally, no
+wheezes/rales/crackles/rhonchi
+GI: soft, non-tender, non-distended; no guarding/rebound
+EXT: no clubbing/cyanosis/edema; 2+ distal pulses; peripheral IV
+present
+NEURO: Alert and oriented to person, place and situation; CN
+II-XII intact, [**5-4**] motor function globally
+DERM: no lesions appreciated
+
+Discharge:
+PULM: Excellent air movement without wheeze
+ABD: Soft and non-tender
+
+
+
+Pertinent Results:
+Admission Labs: [**2761-10-15**]
+WBC-20.1*# RBC-4.20 Hgb-13.2 Hct-39.3 MCV-94 MCH-31.5 MCHC-33.7
+RDW-13.0 Plt Ct-252 Neuts-90.9* Lymphs-5.6* Monos-3.2 Eos-0
+Baso-0.3
+Glucose-296* UreaN-38* Creat-2.0* Na-139 K-4.3 Cl-97 HCO3-28
+AnGap-18
+Albumin-3.7 Calcium-9.2 Phos-2.5* Mg-2.1
+ALT-18 AST-21 LD(LDH)-199 AlkPhos-94 TotBili-0.3
+
+Culture data:
+   Respiratory Viral Culture (Final [**2761-10-18**]):
+      No respiratory viruses isolated.
+      Culture screened for Adenovirus, Influenza A & B,
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus..
+   Respiratory Viral Antigen Screen (Final [**2761-10-16**]):
+      Negative for Respiratory Viral Antigen.
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3,
+Influenza A, B,
+      and RSV by immunofluorescence.
+
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2761-10-18**]): Feces
+negative for C.difficile toxin A & B by EIA.
+
+CXR ([**2761-10-15**]): Bibasilar opacities while could relate to
+atelectasis, underlying aspiration or infection is not excluded,
+particularly in the right lower lobe.  Recommend followup to
+resolution. Dedicated PA and lateral views may be helpful for
+further evaluation.
+
+
+Brief Hospital Course:
+1. COPD exacebation with acute respiratory failure: Treateed
+with solumedrol 125mg IV x 1, azithromycin, ceftriaxone, and
+nebulizers. Prednisone 60 mg was given once then started 40 mg
+once daily ([**10-17**]) to be given for 1 week, then followed by 20
+mg prednisone daily for another week. Her oxygen demand
+decreased during her stay such that she had returned to her
+baseline on discharge. Nasopharyngeal swab for viral antigens
+was negative.
+
+She will follow up with her PCP on monday and the pulmonary
+clinic.
+
+2. Acute renal failure: Creatinine 2 on admission, improved to
+1.7 with IVF's. Likely due to volume depletion.
+
+3. Diabetes Mellitus, type II: Her sugar was difficult to
+control in the ICU, most likely in setting of infection,stress
+and steroid treatment. Initially was on insulin drip, then
+shifted. Her sugars were stable on the floor. Metformin
+restarted on discharge.
+
+4. Diarrhea: C.diff was negative and stool guaiac was negataive.
+ She was given imodium and had improvement in her symptoms.
+
+5. Chronic diastolic CHF: Remained euvolemic during
+hospitalization.
+
+Medications on Admission:
+Home medications (updated on floor):
+
+Oxygen-Air Delivery Systems Device 2 L nasal cannula with
+exertion and at night
+Spiriva with HandiHaler 18 mcg 1 puff inhale daily for COPD
+Sodium Chloride 0.65 % Nasal Spray 2 puffs each nostril Q1H prn
+nasal congestion
+pravastatin 10 mg one Tablet(s) by mouth nightly at hour of
+sleep
+aspirin 81 mg Tab, Delayed Release 1 Tablet(s) by mouth daily
+clonazepam 0.5 mg 1-2 Tablets PO TID prn anxiety max of 4 pills
+daily
+albuterol sulfate 2.5 mg/3 mL (0.083 %) Neb Solution 1 vial(s)
+Neb QID sertraline 25 mg one Tablet(s) by mouth daily
+bupropion HCl XL 150 mg 24 hr one Tablet(s) by mouth every
+morning
+metformin 850 mg one Tablet(s) by mouth daily
+budesonide 0.25 mg/2 mL Neb 1 vial inhaled via nebulizaiton
+twice a day
+furosemide 40 mg po daily
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. bupropion HCl 150 mg Tablet Extended Release Sig: One (1)
+Tablet Extended Release PO QAM (once a day (in the morning)).
+3. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+4. pravastatin 10 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. metformin 850 mg Tablet Sig: One (1) Tablet PO once a day.
+7. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for shortness of breath or wheezing.
+8. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device
+Sig: One (1)  Inhalation once a day.
+9. sodium chloride 0.65 % Aerosol, Spray Sig: Two (2)  Nasal
+every hour as needed for cold symptoms.
+10. clonazepam 0.5 mg Tablet Sig: 1-2 Tablets PO three times a
+day as needed for anxiety: max 4 pills per day.
+11. budesonide 0.25 mg/2 mL Suspension for Nebulization Sig: One
+(1)  Inhalation twice a day.
+12. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+13. sertraline 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 2 days.
+Disp:*2 Tablet(s)* Refills:*0*
+15. prednisone 20 mg Tablet Sig: as directed Tablet PO DAILY
+(Daily): 2 tablet (40 mg) for 3 days
+1 tablet (20 mg) for 6 days.
+Disp:*10 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+1. COPD exacerbation
+2. Acute renal failure
+3. Hypoxic repsiratory failure
+4. Diabetes, type II
+5. Chronic diastolic CHF
+6. Diarrhea
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted with a COPD exacerbation and treated with
+steroids, inhalers and antibiotics.  Your symptoms improved and
+you were discharged with a steroid taper and a short antibiotic
+course and your normal inhalers.
+
+Please see your primary care physician [**Last Name (NamePattern4) **] [**10-23**] as well as the
+COPD clinic (who will call you with an appointment).
+
+New Medications
+1. Prednisone: Take 40 mg until [**10-24**], then 20mg until [**10-30**]
+2. Azithromycin: Take 1 tablet daily until [**10-23**]
+
+Followup Instructions:
+Department: [**Hospital1 18**] [**Location (un) 2318**]- ADULT MED
+When: MONDAY [**2761-10-23**] at 9:30 AM
+With: [**First Name11 (Name Pattern1) 1550**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3953**], MD [**Telephone/Fax (1) 1129**]
+Building: [**Location (un) 2321**] ([**Location (un) **], MA) [**Location (un) 545**]
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+Name: [**Last Name (LF) 569**], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Location: PULMONARY, CRITICAL CARE & SLEEP MEDICINE
+Address: [**Location (un) **],[**Hospital Ward Name **] [**Location (un) **], [**Location (un) **],MA
+Phone: [**Telephone/Fax (1) 606**]
+***The office is working on a follow up appt for you in the next
+week and will call you at home with an appt.  If you dont hear
+from them by Monday afternoon, please call them direclty to
+book.
+
+
+
+
+
+DOC CLASS

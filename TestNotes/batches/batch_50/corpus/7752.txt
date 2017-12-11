@@ -1,0 +1,183 @@
+Admission Date: [**2620-8-1**]        Discharge Date: [**2620-8-15**]
+
+
+Service:  CSU
+
+
+CHIEF COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENT ILLNESS:  This is a [**Age over 90 **] year old man with
+peripheral vascular disease, hypertension, and coronary
+artery disease, positive stress test and preserved ejection
+fraction who was admitted in [**Month (only) **] of this year for a cardiac
+workup, refused surgical intervention at that time, and has
+had recurrent episode of chest pain.  He underwent cardiac
+catheterization at [**Hospital3 **] Hospital and transferred to [**Hospital1 1426**] for possible surgical option.
+
+PAST MEDICAL HISTORY:  Peripheral vascular disease.
+
+Hypertension.
+
+B12 deficiency anemia.
+
+Coronary artery disease.
+
+PAST SURGICAL HISTORY:  Appendectomy.
+
+SOCIAL HISTORY:  He lives with his wife.  [**Name (NI) **] tobacco and no
+ethanol use.
+
+Echocardiogram done in [**2620-6-13**], showed an ejection fraction
+of 60 percent with one plus aortic regurgitation and one plus
+mitral regurgitation.  He had a positive stress test in [**Month (only) **]
+of this year.  Also, cardiac catheterization done at [**Hospital3 **]
+Hospital showed 90 percent ostial left anterior descending
+coronary artery, 50 percent mid lesion, 80 percent obtuse
+marginal one, tubular 80 percent diagonal lesion, right
+coronary artery with a 70 percent proximal lesion and ramus
+with a 20 percent lesion.
+
+LABORATORY DATA:  White blood cell count was 7.8, hematocrit
+40.3, platelet count 159,000.  Sodium 140, potassium 3.9,
+chloride 102, CO2 27, blood urea nitrogen 23, creatinine 1.3,
+glucose 132.  Prothrombin time 12.8, partial thromboplastin
+time 27.1, INR 1.1.
+
+MEDICATIONS ON ADMISSION:
+1. Hydrochlorothiazide 25 mg once daily.
+2. Aspirin 325 mg once daily.
+3. IMDUR 30 mg once daily.
+4. Nitroglycerin p.r.n.
+5. Norvasc 7.5 mg once daily.
+6. Ambien q.h.s.
+7. Pentoxifylline 400 mg twice a day.
+
+
+PHYSICAL EXAMINATION:  Temperature 97, heart rate 60, blood
+pressure 113/67, respiratory rate 18, oxygen saturation 100
+percent in room air.  An elderly man in no acute distress.
+Speaks Russian.  He is younger than age.  Respiratory is
+clear to auscultation bilaterally.  Cardiovascular is regular
+rate and rhythm.  The abdomen was soft, nontender,
+nondistended.  Right groin catheterization site no hematoma.
+Extremities are warm with no edema.
+
+Electrocardiogram showed sinus bradycardia, heart rate 50, T
+wave inversion in lead [**Last Name (LF) 1091**], [**First Name3 (LF) **] changes in aVF.
+
+HOSPITAL COURSE:  The patient was admitted to the medical
+service and CT surgery was consulted and the patient was seen
+and accepted for coronary artery bypass grafting.  On
+[**2620-8-3**], he went to the operating room at which he underwent
+coronary artery bypass grafting times three. Please see the
+operating room report for full details.  In summary, he had a
+coronary artery bypass graft times three with left internal
+mammary artery to the left anterior descending coronary
+artery, saphenous vein graft to the obtuse marginal,
+saphenous vein graft to left posterior descending coronary
+artery.  His bypass time was 69 minutes with a cross clamp
+time of 54 minutes.  He tolerated the operation well and was
+transferred from the operating room to the Cardiothoracic
+Intensive Care Unit.  The patient did well in the immediate
+postoperative period.  His anesthesia was reversed.  He was
+weaned from the ventilator and successfully extubated on
+postoperative day number one.  He remained hemodynamically
+stable requiring Nitroglycerin to maintain an adequate blood
+pressure.  He was begun on Lasix as well as Lopressor and his
+chest tubes were discontinued.  He remained in the
+Cardiothoracic Intensive Care Unit for close hemodynamic
+monitoring.  On postoperative day number two, the patient
+remained hemodynamically stable in sinus rhythm.  His
+preoperative Norvasc was resumed.  The patient remained in
+the Cardiothoracic Intensive Care Unit as he was slightly
+confused and lethargic.  Additionally, the patient's Foley
+catheter was removed on postoperative day number three. The
+patient continued to be hemodynamically stable.  His beta
+blocker and diuretic doses were increased.  He failed to void
+and his Foley was reinserted.  He was additionally started on
+Flomax and the patient was kept in the Cardiothoracic
+Intensive Care Unit yet again for monitoring of his pulmonary
+and neurological status.  On postoperative day number four,
+the patient continued to do well hemodynamically.  His minor
+confusion had cleared by this point and he was less lethargic
+and he was transferred to the floor for continuing
+postoperative care and cardiac rehabilitation. Following
+transfer to the floor, the patient was found in the bathroom
+somewhat unresponsive and he was placed in the bed.  At that
+point, he was fully responsive, cooperative and following
+commands.  He had a heart rate in the 90s and a blood
+pressure of 150/90.  He had no memory of the event.
+Following this event, neurology was consulted as well as
+cardiology.  Both the neurology service and the cardiology
+service felt that this event was due to cough syncope.  The
+patient continued on telemetry for close hemodynamic and
+cardiac event monitoring.  Over the next several days, the
+patient's activity level was advanced with the help of the
+nursing staff and the physical therapist.  He remained
+hemodynamically stable with no further syncopal events.  He
+had a head CT that showed no hemorrhage and only old chronic
+infarcts.  On postoperative day number eleven, it was decided
+that the patient would be stable and ready for discharge
+within the next day or two.  At that time, the patient's
+physical examination was as follows:  Vital signs revealed
+temperature 97.6, heart rate 85, sinus rhythm, blood pressure
+120/40, respiratory rate 20, oxygen saturation 93 percent in
+room air.  Laboratories showed sodium 136, potassium 4.2,
+chloride 106, CO2 22, blood urea nitrogen 24, creatinine 1.2,
+glucose 115.  White blood cell count 14.0, hematocrit 32.0,
+platelet count 435,000.  Physical examination revealed he is
+alert and responsive, respiratory rate clear to auscultation
+bilaterally.  Cardiovascular shows regular rate and rhythm,
+S1 and S2, no murmur.  The sternum is stable.  The incision
+is open to air, clean and dry.  The abdomen is soft,
+nontender, nondistended, with positive bowel sounds.
+Extremities are warm and well perfused with no edema.
+
+MEDICATIONS ON DISCHARGE:
+1. Metoprolol 25 mg twice a day.
+2. Amlodipine 10 mg once daily.
+3. Aspirin 325 mg once daily.
+4. Simvastatin 20 mg once daily.
+5. Tamsulosin 0.4 q.h.s.
+6. Zantac 150 mg twice a day.
+7. Atrovent two puffs four times a day.
+8. Albuterol two puffs four times a day.
+9. Pentoxifylline 400 mg twice a day.
+10.      Colace 100 mg twice a day.
+
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSES:  Coronary artery disease, status post
+coronary artery bypass grafting times three with left
+internal mammary artery to the left anterior descending
+coronary artery, saphenous vein graft to obtuse marginal and
+saphenous vein graft to left posterior descending coronary
+artery.
+
+Hypertension.
+
+Peripheral vascular disease.
+
+Anemia.
+
+Status post appendectomy.
+
+FOLLOW UP:  The patient is to be discharged to
+rehabilitation.  He is to follow-up with Dr. [**Last Name (STitle) **] in two
+to three weeks following his discharge from rehabilitation
+and follow-up with Dr. [**Last Name (STitle) **] in four weeks from the date of
+discharge from [**Hospital1 69**].
+
+
+
+                        [**Name6 (MD) **] [**Name8 (MD) **], M.D. [**MD Number(2) 5822**]
+
+Dictated By:[**Last Name (NamePattern4) 1699**]
+MEDQUIST36
+D:  [**2620-8-14**] 17:50:27
+T:  [**2620-8-14**] 19:38:27
+Job#:  [**Job Number 27728**]
+
+
+DOC CLASS

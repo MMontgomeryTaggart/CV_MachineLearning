@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="586761.txt">
+    <annotation>
+        <mention id="EHOST_Instance_632" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6157" end="6214" />
+        <spannedText>Gastric contents changed from bilious to maroon sludge</spannedText>
+        <creationDate>Wed Nov 01 11:18:09 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_636">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_632">
+        <hasSlotMention id="EHOST_Instance_636" />
+        <mentionClass id="bleeding_present">Gastric contents changed from bilious to maroon sludge</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_633" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6216" end="6248" />
+        <spannedText>gastro-occult positive yesterday</spannedText>
+        <creationDate>Wed Nov 01 11:18:12 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_637">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_633">
+        <hasSlotMention id="EHOST_Instance_637" />
+        <mentionClass id="bleeding_present">gastro-occult positive yesterday</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_634" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6250" end="6271" />
+        <spannedText>Stool guaiac negative</spannedText>
+        <creationDate>Wed Nov 01 11:18:16 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_638">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_634">
+        <hasSlotMention id="EHOST_Instance_638" />
+        <mentionClass id="bleeding_absent">Stool guaiac negative</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_635" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="13148" end="13157" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Wed Nov 01 11:19:43 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_639">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_640">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="absent" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_635">
+        <hasSlotMention id="EHOST_Instance_639" />
+        <hasSlotMention id="EHOST_Instance_640" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

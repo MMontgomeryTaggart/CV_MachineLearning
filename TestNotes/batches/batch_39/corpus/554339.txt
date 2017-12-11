@@ -1,0 +1,294 @@
+24 Hour Events:
+   - Lasix drip started for diuresis after patient had been off pressors
+   for 12 hours
+   - Patient has remained off pressors
+   - Vancomycin dosing changed to Q12 hours
+   Overnight, with disynchronous breathing when sedation lightened
+   Patient without response to verbal or tactile stimuli this morning.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**3088-12-18**] 08:00 AM
+   Clindamycin - [**3088-12-19**] 09:20 AM
+   Vancomycin - [**3088-12-19**] 08:00 PM
+   Ciprofloxacin - [**3088-12-19**] 08:00 PM
+   Meropenem - [**3088-12-20**] 04:00 AM
+   Infusions:
+   Furosemide (Lasix) - 3 mg/hour
+   Insulin - Regular - 6.5 units/hour
+   Midazolam (Versed) - 6 mg/hour
+   Fentanyl - 200 mcg/hour
+   Other ICU medications:
+   - Aspirin 300 mg PR daily
+   - Chlorhexidine rinses [**Hospital1 **]
+   - Heparin SQ TID
+   - Albuterol Inhaler
+   - Pantoprazole 40 mg IV
+   - Atrovent Inhaler
+   Changes to medical and family history:
+   None
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   None
+   Flowsheet Data as of  [**3088-12-20**] 07:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 38.2
+C (100.8
+   HR: 106 (97 - 106) bpm
+   BP: 113/66(81) {101/58(70) - 129/75(91)} mmHg
+   RR: 19 (12 - 90) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+    CVP: 16 (9 - 22)mmHg
+   Total In:
+                                                                  5,194 mL
+                                                                  1,012 mL
+   PO:
+   TF:
+   IVF:
+                                                                  3,178 mL
+                                                                    549 mL
+   Blood products:
+   Total out:
+                                                                  3,660 mL
+                                                                  2,330 mL
+   Urine:
+                                                                  3,410 mL
+                                                                  2,230 mL
+   NG:
+                                                                    250 mL
+                                                                    100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,534 mL
+                                                                 -1,318 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: PRVC/AC
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 0 (0 - 0) mL
+   RR (Set): 30
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10
+   PIP: 32 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 40.9 cmH2O/mL
+   SpO2: 93%
+   ABG: 7.37/46/86.[**Numeric Identifier 88**]/26/0
+   Ve: 14.1 L/min
+   PaO2 / FiO2: 145
+   Physical Examination
+   General: Intubated, sedated, in NAD
+   HEENT/Neck: No scleral icterus, right IJ unchanged, MMM
+   Lungs: Decreased BS at bases, but no other change
+   Cardiac: Remain somewhat distant, but RR, S1, S2, no m/g/r
+   Abd: Softer still distended, diminished BS
+   Extr: Trace to 1+ edema bilaterally, + sacral and scrotal edema
+   Neuro: CNs appear grossly sym, PERRL
+   Skin: No lesions
+   Labs / Radiology
+   105 K/uL
+   10.6 g/dL
+   112 mg/dL
+   1.3 (1 mg/dL
+   26 mEq/L
+   3.5 mEq/L
+   53 mg/dL
+   117 mEq/L
+   149 mEq/L
+   30.9 %
+   9.6 K/uL
+        [image002.jpg]
+                            [**3088-12-18**]  04:27 PM
+                            [**3088-12-18**]  04:36 PM
+                            [**3088-12-18**]  08:56 PM
+                            [**3088-12-19**]  01:00 AM
+                            [**3088-12-19**]  01:15 AM
+                            [**3088-12-19**]  02:37 AM
+                            [**3088-12-19**]  05:42 AM
+                            [**3088-12-19**]  05:20 PM
+                             [**3088-12-20**]  02:25 AM
+                             [**3088-12-20**]  02:47 AM
+   WBC
+   11.2
+   11.4
+   9.6
+   Hct
+   32.2
+   31.6
+   30.9
+   Plt
+   131
+   122
+   105
+   Cr
+   1.7
+   1.6
+   1.3
+   TropT
+   1.16
+   TCO2
+   24
+   24
+   25
+   25
+   26
+   26
+   28
+   Glucose
+   115
+   183
+   112
+   Other labs: PT / PTT / INR:14.2/31.4/1.2
+   CK / CKMB / Troponin-T:919/4/1.16
+   ALT / AST:31 (43)/47 (76), Alk Phos / T Bili:60 (61)/0.5 (0.7), LDH 713
+   (773)
+   Amylase / Lipase:254/41, Differential-Neuts:79.0 %, Band:7.0 %,
+   Lymph:9.0 %, Mono:5.0 %, Eos:0.0 %, Lactic Acid:0.8 mmol/L, Albumin:2.3
+   g/dL, LDH:713 IU/L, Ca++:7.9 mg/dL, Mg++:2.0 mg/dL, PO4:2.2 mg/dL
+   Microbiology Data:
+   No new positive culture data (numerous blood cultures pending)
+   Imaging Data:
+   [**3088-12-20**] Chest X-ray pending
+   Assessment and Plan
+   Patient is a 63 year old male with history of coronary artery disease
+   status-post CABG in [**5-/3088**], presents with hypotension, bradycardia,
+   epigastric pain, found severe pancreatitis with ARDS and persistent
+   pressor requirement, with improved respiratory status, and renal
+   function today, weaned off of pressors.
+   # Respiratory failure: Hypoxemic respiratory failure and now ARDS.
+   Intubated in setting of respiratory distress, also given need for
+   aggressive IVF resuscitation. Patient was on paralytics for about 24
+   hours to facilitate tolerance of AC mode and lessen resistance. He mets
+   ARDS criteria in setting of pancreatitis and possible aspiration event
+   at home. RV dysfunction also noted on transthoracic echo (likely from
+   ARDS and positive-pressure ventilation, and catecholamines from
+   ARDS/pancreatitis) which has been likely etiology of transient
+   hypotension and hypoxia with movement.
+   - He remains at goal 6cc/kg ARDSnet ventilation protocol, continue
+   current TV and rate settings, will aim to wean FiO2 down to 40%, then
+   work  weaning down PEEP.
+   - Continue to diuresis down to CVP <5 to help fluid status, on lasix
+   gtt currently with good urine output (was net out 1 L since midnight)
+   - Continue vancomycin and meropenem, added ciprofloxacin on [**12-18**] to
+   extend coverage against gram negative rods for question of possible VAP
+   or resistance organisms (stopped flagyl as  c. difficile negative).
+   Will plan to continue all for 7 day course (started [**12-15**], last day
+   would be [**3088-12-21**]), pending any further culture data (has not had
+   secretions). Will call to have sputum culture further speciated.
+   - Continue sedation with fentanyl and versed, lighten up today to
+   assess mental status better.
+   .
+   # Pancreatitis: Patient with severe, acute pancreatitis. Based on
+   gallstones seen on CT from OSH (per surgery
+s evaluation of this
+   imaging), and based on improvement in LFT
+s and CBD, story is most
+   consistent with gallstone pancreatitis. No history of EtOH use or
+   elevated triglycerides. Appeared that patient has SIRS related to his
+   pancreatitis given his persistent hypotension. Intubated for hypoxia,
+   had initial bradycardia and hypotension which resolved w/IVF.
+   Greatly appreciate surgery and ERCP recommendations and assistance.
+   Abdominal examination has improved.
+   - Patient is status-post > 11 liters of IVF
+initially had held off on
+   further fluid resuscitation for hypotension given concerns about
+   oxygenation and worsening of abdominal compartment syndrome in setting
+   of poor urine output. Given that his bladder pressure remains
+   relatively low ([**8-30**]) and he has significant (likely post-ATN)
+   auto-diuresis, was able to wean pressors.
+   - Per surgery, no need for repeat imaging at this time, as this would
+   have risk of further dye exposure in setting of resolving ARF, and
+   already on appropriate antibiotics (and HD stable, so surgical
+   intervention not desired)
+   - ERCP team aware of patients.
+   - Treat w/broad spectrum Abx: Vanc/meropenam (day 1=[**12-16**]), cipro
+   started [**12-18**], will continue to [**3088-12-21**].
+   - Continuing to trend [**Doctor First Name **]/lipase, HCT, WBCs, calcium, (lactate has been
+   normal)
+   - Triglycerides were within normal limits
+   - Sedation to fentanyl/versed
+   - Appreciate surgical assistance.
+   - Insulin gtt for hyperglycemia
+   # Hypotension: Resolved: patient has been off neo and vasopressin since
+   AM of [**12-19**]. Hypotension with movement as noted above likely secondary
+   to decreased venous return and forward flow with movement. Overall
+   hypotension most likely secondary to significant third spacing of
+   fluids in abdomen from pancreatitis, leading to hypovolemia, as well as
+   SIRS from his pancreatitis. No new clear wall motion abnormalities on
+   transthoracic echocardiogram. Status post over 14 L of fluid during his
+   stay.
+   # EKG changes, history of CAD: Do not suspect new ischemic event, but
+   instead some low levels of demand ischemia secondary to hypotension and
+   stress of infection/SIRS/pancreatitis with circulating catecholamies.
+   Patient noted to have new TWI in V1, V2, with <1 mm of STE in inferior
+   leads- STE noted on prior EKGs from [**5-27**]. Patient does have h/o recent
+   4vCABG in 6/[**3087**]. At this time, risks continue to outweigh benefits for
+   anticoagulation given concern of hemorrhagic transformation/necrosis.
+   Cardiology was contact[**Name (NI) **] morning after admission and reviewed EKG and
+   case, felt current EKG was not significantly different from old, STE
+   could be ventricular aneurismal in nature. No other recommendations for
+   change in management, as management of his pancreatitis was felt to be
+   larger priority.
+   - CE trending downward, stopped checking.
+   - Holding statin in the setting of elevated LFTs
+   - Continue ASA (PR if possible, currently with diarrhea, while NG tube
+   is to suction)
+   - Transfuse for HCT goal >25
+   - Hold BB in the setting of hypotension, if tolerated once off
+   pressors, start esmolol gtt
+   - Transthoracic echo today as noted above, suspect depressed RV
+   function noted could be in setting of ARDS
+   # ARF: Marked improvement to 1.3 today. Suspected ATN secondary to
+   severe third spacing and relative hypovolemia causing hypotension, also
+   with possible component of abdominal compartment syndrome. Patient also
+   received dye with CT at OSH so contrast nephropathy also a possibility.
+   Urine output has remained stable.
+   # Leukocytosis: Resolved.
+   .
+   # Hypernatremia: Today patient with sodium 149, again suspect secondary
+   to inability to give PO water, insensible losses, and diuresis. Will
+   contact nutrition to see if can deliver more free water with TPN, also
+   give D5W. Will check again in PM.
+    # Abdominal distension: Patient without bowel movement for last 24
+   hrs, had previously had diarrhea. Continues to have diminished bowel
+   sounds. Blood pressure has been good, and lactate had been normal, so
+   less concern for mesenteric ischemia, but will need to remain mindful
+   of this.
+   ICU Care
+   Nutrition:
+   TPN (cannot give tube feeds due to persistent NG output of bilious
+   material)
+   Glycemic Control:  Insulin gtt
+   Lines:
+   Arterial Line - [**3088-12-15**] 10:18 PM
+   Multi Lumen - [**3088-12-15**] 10:22 PM
+   Prophylaxis:
+   DVT: Heparin SQ
+   Stress ulcer: PPI
+   VAP:  Chlorhexidine
+   Comments:
+   Communication:  Comments: Family has been updated (wife [**Doctor First Name 1251**]
+   throughout stay
+   Code status: Full code
+   Disposition: ICU for further monitoring
+   ------ Protected Section ------
+   Will also place request for PICC line given patient does not have
+   enough access for all needed medications/TPN (due to
+   incompatibilities), and inability to place additional peripheral IV
+   This may also allow us to remove his central line.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 5202**] [**Last Name (NamePattern1) 5545**], MD
+   on:[**3088-12-20**] 15:10 ------
+
+
+DOC CLASS

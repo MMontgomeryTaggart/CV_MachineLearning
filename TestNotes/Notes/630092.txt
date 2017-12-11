@@ -1,0 +1,200 @@
+TITLE:
+   Chief Complaint: Mr [**Known patient lastname 4595**] is a 66 year-old nab with a PMHx of stage 4
+   COPD (FEV1 0.65L;FEV1/FVC 37% predicted in [**5-25**]) on 4L home o2 with
+   numerous hospitalizations for COPD exacerbations and intubation,
+   hypertension, coronary artery disease, GERD who presents with SOB and
+   CP; admitted to the ICU for management of dyspnea and hypotension.
+   24 Hour Events:
+ ARTERIAL LINE - START [**3375-10-3**] 08:52 PM
+   Allergies:
+   Levaquin (Oral) (Levofloxacin)
+   Last dose of Antibiotics:
+   Azithromycin - [**3375-10-3**] 04:00 PM
+   Vancomycin - [**3375-10-3**] 09:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3375-10-4**] 02:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3375-10-4**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3375-10-4**] 07:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 37.3
+C (99.1
+   HR: 84 (84 - 110) bpm
+   BP: 101/48(65) {94/41(51) - 149/69(95)} mmHg
+   RR: 19 (17 - 28) insp/min
+   SpO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+             Total In:
+                                                                  8,004 mL
+                                                                  1,672 mL
+   PO:
+                                                                  1,850 mL
+             TF:
+   IVF:
+                                                                  4,854 mL
+                                                                  1,672 mL
+   Blood products:
+   Total out:
+                                                                  1,330 mL
+                                                                  1,220 mL
+   Urine:
+                                                                    855 mL
+                                                                  1,220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,674 mL
+                                                                    452 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   ABG: 7.30/61/120/29/1
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : )
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Not assessed, Tone: Normal
+   Labs / Radiology
+   282 K/uL
+   8.0 g/dL
+   107 mg/dL
+   0.6 mg/dL
+   29 mEq/L
+   5.0 mEq/L
+   13 mg/dL
+   103 mEq/L
+   135 mEq/L
+   26.5 %
+   14.7 K/uL
+        [image002.jpg]
+                             [**3375-10-3**]  01:02 PM
+                             [**3375-10-3**]  04:16 PM
+                             [**3375-10-3**]  09:28 PM
+                             [**3375-10-3**]  10:39 PM
+                             [**3375-10-4**]  04:14 AM
+                             [**3375-10-4**]  04:41 AM
+   WBC
+   14.7
+   Hct
+   26.5
+   Plt
+   282
+   Cr
+   0.6
+   TropT
+   <0.01
+   <0.01
+   TCO2
+   35
+   26
+   31
+   Glucose
+   107
+   Other labs: PT / PTT / INR:12.1/34.0/1.0, CK / CKMB /
+   Troponin-T:50//<0.01, Differential-Neuts:94.3 %, Lymph:3.8 %, Mono:1.8
+   %, Eos:0.0 %, Lactic Acid:1.4 mmol/L, Ca++:7.7 mg/dL, Mg++:1.8 mg/dL,
+   PO4:3.3 mg/dL
+   Imaging: CT TORSO PRELIM: since CTA chest of [**3375-7-29**], increased
+   consolidation in RLL concerning for
+   aspiration with atelectasis; debris noted in right trachea just above
+   Rt main
+   bronchus. emphysema w/ basilar bronchiectasis and bronchial wall
+   thickening
+   probably due to chronic aspiration. new tiny bilateral pleural
+   effusion,
+   perihepatic and perisplenic fluid. colonic diverticulosis without
+   evidence of
+   diverticulitis. right shoulder joint effusion partially imaged.
+   Assessment and Plan
+   Mr [**Known patient lastname 4595**] is a 66 year-old nab with a PMHx of stage 4 COPD (FEV1
+   0.65L;FEV1/FVC 37% predicted in [**5-25**]) on 4L home o2 with numerous
+   hospitalizations for COPD exacerbations and intubation, hypertension,
+   coronary artery disease, GERD who presents with SOB and CP; admitted to
+   the ICU for management of dyspnea and hypotension
+   # SIRS/?Sepsis:  Has sepsis physiology with tachycardia, hypotension,
+   leukocytosis, though no clear source.  However, received CXR before
+   being hydrated, and could also have evidence of infection in other
+   areas with suppression while on steriods.  CT chest prelim suggests
+   consolidation related to chronic aspiration.
+   - will cont vanc/zosyn for now pending culture data
+   - stress dose steroids with Hydrocortisone Na Succ. 50 mg IV Q8H
+   - f/u final read of CT chest and abdomen
+   - IVF boluses prn
+   - trend lactate
+   - defer CVL for now but will follow closely
+   - f/u blood cx
+   # Dyspnea/chest pain:  Likely secondary to COPD exacerbation but DDx
+   also includes pneumonia, particularly given leukocytosis, bronchitis,
+   ACS, and pulmonary embolism.  Has been hospitalized multiple times for
+   COPD exacerbation and his recent history of running out of his
+   albuterol/ipratropium inhalers at home is consistent with this
+   presentation.
+   - will start azithromycin and continue vanc/zosyn and hydrocortisone
+   empirically for COPD exacerbation
+   - ipatroprium and albuterol nebs standing and prn
+   - f/u blood cx
+   - sputum cx though not currently coughing
+   - repeat CXR in a.m.
+   - ROMI with cardiac enzymes
+   - will defer on chest CTA
+   # Hypotension:  Likely secondary to sepsis physiology vs volume
+   depletion given history consistent with decreased po intake.  Arterial
+   line placed.
+   - sepsis management as above
+   - IVF boluses
+   - follow blood pressure
+   # CAD s/p NSTEMI:  Acute on chronic chest pain unlikely to be ischemic
+   in etiology.  CEs neg x 3.
+   - will clarify why patient is not on aspirin (likely related to history
+   of GIB)
+   - will also clarify why patient is not on a BB (likely because of COPD)
+   and statin
+   # Lower back pain:
+   - continue fentanyl patch
+   FEN: heart healthy diet, IVFs as above
+   Access: 2 PIVs
+   PPx: pneumoboots, heparin sc, PPI, bowel reg, continue ppx bactrim
+   Code: full but explicitly states that he does not want to be intubated
+   for COPD exacerbations; he agrees to intubation for cardiac arrest
+   unrelated to COPD
+   DISPO: ICU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3375-10-3**] 02:35 PM
+   18 Gauge - [**3375-10-3**] 02:36 PM
+   Arterial Line - [**3375-10-3**] 08:52 PM
+   22 Gauge - [**3375-10-4**] 12:25 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

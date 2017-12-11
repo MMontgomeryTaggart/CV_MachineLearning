@@ -1,0 +1,195 @@
+TITLE:
+   CVICU
+   HPI:
+   HD6   POD 2-s/p CABG x4 (LIMA>LAD, SVG>RAMUS, SVG>OM, SVG>PDA)
+   Ejection Fraction:60%
+   Hempglobin A1c:6.5
+   Pre-Op Weight:205 lbs   92.99 kgs
+   Baseline Creatinine:0.7
+    PMHx:
+   PMH: CAD,s/p left CEA, HTN, DM, hypercholesterolemia, s/p appy, s/p
+   cataract surgery '[**26**]
+   [**Last Name (un) 500**]: Amitriptyline 125', ASA 81', Pepcid 20", Tussionex 5 mL", Insulin
+   70/30 45units QAM,35 units QPM,Imdur 15", Lisinopril 10', Metformin
+   500", Lopressor 50", MVI, Protonix 40', Simvastatin 80', NTG 0.4mg SL
+   prn
+   **Has loose teeth***
+   Current medications:
+   Acetaminophen . Albuterol 0.083% Neb Soln . Amitriptyline  Aspirin EC
+   Calcium Gluconate  Dextrose 50%  Docusate Sodium  Furosemide
+   HydrALAzine  Hydrocodone-Acetaminophen  Insulin. Ketorolac  Lisinopril
+    Magnesium Sulfate  Metoclopramide . Metoprolol Tartrate 21. Milk of
+   Magnesia  Omeprazole  Potassium Chloride  Prochlorperazine  Simvastatin
+   . Vancomycin
+   24 Hour Events:
+ TRAUMA LINE - STOP [**2540-9-20**] 10:11 AM
+ CHEST TUBE REMOVED - At [**2540-9-20**] 10:13 AM
+ ARTERIAL LINE - STOP [**2540-9-20**] 12:14 PM
+   Post operative day:
+   [**9-20**] HD6   POD 2-s/p CABG x4 (LIMA>LAD, SVG>RAMUS, SVG>OM, SVG>PDA)
+   Allergies:
+   Codeine
+   Unknown;
+   Dilaudid (Oral) (Hydromorphone Hcl)
+   Unknown;
+   Zofran (Oral) (Ondansetron Hcl)
+   Unknown;
+   Penicillins
+   Unknown;
+   Sincalide
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2540-9-20**] 07:49 PM
+   Other ICU medications:
+   Hydralazine - [**2540-9-20**] 06:59 AM
+   Omeprazole (Prilosec) - [**2540-9-20**] 07:45 AM
+   Metoprolol - [**2540-9-20**] 08:21 AM
+   Morphine Sulfate - [**2540-9-20**] 10:13 AM
+   Furosemide (Lasix) - [**2540-9-20**] 06:01 PM
+   Insulin - Regular - [**2540-9-20**] 10:22 PM
+   Flowsheet Data as of  [**2540-9-21**] 07:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**43**] a.m.
+   Tmax: 37
+C (98.6
+   T current: 36.9
+C (98.4
+   HR: 111 (92 - 114) bpm
+   BP: 109/53(67) {87/31(45) - 114/60(69)} mmHg
+   RR: 15 (10 - 32) insp/min
+   SPO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 98.9 kg (admission): 93.2 kg
+   Height: 66 Inch
+             Total In:
+                                                                  1,090 mL
+                                                                     87 mL
+   PO:
+                                                                    350 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    740 mL
+                                                                     87 mL
+   Blood products:
+   Total out:
+                                                                  2,517 mL
+                                                                    335 mL
+   Urine:
+                                                                  2,255 mL
+                                                                    335 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,427 mL
+                                                                   -248 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: ///30/
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   Obese, hypoactive BS
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   249 K/uL
+   9.1 g/dL
+   204 mg/dL
+   0.7 mg/dL
+   30 mEq/L
+   4.8 mEq/L
+   14 mg/dL
+   100 mEq/L
+   134 mEq/L
+   27.9 %
+   9.0 K/uL
+                             [**2540-9-19**]  09:40 PM
+                             [**2540-9-19**]  10:00 PM
+                             [**2540-9-19**]  10:31 PM
+                             [**2540-9-19**]  11:00 PM
+                             [**2540-9-19**]  11:50 PM
+                             [**2540-9-20**]  12:00 AM
+                             [**2540-9-20**]  02:09 AM
+                             [**2540-9-20**]  04:12 AM
+                             [**2540-9-20**]  05:36 AM
+                             [**2540-9-20**]  09:55 PM
+   WBC
+   10.2
+   9.0
+   Hct
+   31.5
+   29.5
+   27.9
+   Plt
+   278
+   249
+   Creatinine
+   0.5
+   0.7
+   TCO2
+   24
+   26
+   18
+   26
+   Glucose
+   180
+   183
+   137
+   111
+   204
+   Other labs: PT / PTT / INR:15.6/52.3/1.4, Fibrinogen:224 mg/dL, Lactic
+   Acid:1.9 mmol/L, Ca:8.3 mg/dL, Mg:2.2 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), PAIN CONTROL (ACUTE PAIN, CHRONIC
+   PAIN), HYPERGLYCEMIA
+   Assessment and Plan: 67yo woman s/p CABG x4. Hemodynamically stable in
+   ICU for glycemic control.
+   Neurologic: Pain controlled with percocet and toradol. Confused O/N
+   floor room will likely help
+   Cardiovascular: Aspirin, Beta-blocker, Statin, Discontinue epicardial
+   wires, increase B-blockers as BP tolerates.
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, Advance diet as tolerated , encourage oral
+   intake
+   Renal: Foley, Adequate UO, continue diuresis to keep net negative 1-1.5
+   liters/d
+   monitor BUN/Cr
+   Hematology: stable hct
+   Endocrine: Lantus (R), increase baseline lantus dose/wean insulin gtt
+   to RISS
+   Start metformin after improves oral intake
+   Infectious Disease: no active issues.
+   afebrile, normal wbc
+   Lines / Tubes / Drains: Foley, Pacing wires for d/c on floor
+   Wounds: Dry dressings
+   Consults: CT surgery, P.T.
+   ICU Care
+   Nutrition: cardiac/[**Doctor First Name **] diet: advance as tolerated. Encourage PO intake
+   Glycemic Control:  Lantus (R) protocol
+   Lines:
+   22 Gauge - [**2540-9-20**] 10:25 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Time spend : 31 min
+
+
+DOC CLASS

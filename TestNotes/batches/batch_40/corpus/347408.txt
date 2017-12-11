@@ -1,0 +1,228 @@
+Chief Complaint:
+   24 Hour Events:
+ MULTI LUMEN - START [**3114-11-11**] 03:13 PM
+ LUMBAR PUNCTURE - At [**3114-11-11**] 04:30 PM
+ URINE CULTURE - At [**3114-11-11**] 05:37 PM
+   No seizure activity since arrival
+   LP showed O WBC or RBC, slightly elevated 50, opening pressure of 15
+   amp, ctx, vanco stoped
+   ABGs resp alk, improving with decreased VT and FiO2
+   responding to voice early am.
+   Allergies:
+   Lorazepam
+   Hallucinations;
+   Last dose of Antibiotics:
+   Vancomycin - [**3114-11-11**] 02:30 PM
+   Ampicillin - [**3114-11-11**] 07:44 PM
+   Ceftriaxone - [**3114-11-12**] 12:11 AM
+   Infusions:
+   Propofol - 15 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3114-11-12**] 12:10 AM
+   Dilantin - [**3114-11-12**] 12:20 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3114-11-12**] 05:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.6
+C (97.9
+   HR: 71 (65 - 86) bpm
+   BP: 126/52(71) {107/50(65) - 177/71(98)} mmHg
+   RR: 11 (10 - 15) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    461 mL
+                                                                    120 mL
+   PO:
+             TF:
+   IVF:
+                                                                    461 mL
+                                                                    120 mL
+   Blood products:
+   Total out:
+                                                                    720 mL
+                                                                      0 mL
+   Urine:
+                                                                    720 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -259 mL
+                                                                    120 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 700) mL
+   RR (Set): 10
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 18 cmH2O
+   Plateau: 13 cmH2O
+   Compliance: 68.7 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.47/40/227/28/5
+   Ve: 6.1 L/min
+   PaO2 / FiO2: 568
+   Physical Examination
+   Gen: elderly male, intubated & sedated, opens eyes to voice
+   HEENT: no scleral icterus, tongue moist and midline, R pupil larger
+   than left but both reactive, + oculocephalic reflex, no eye deviation
+   or nystagmus noted, EEG leads in place
+   NECK: supple, no lymphadenopathy, no meningismus
+   CV: RRR, normal S1, S2,
+   LUNGS: clear anteriorly, no wheezing or rhonchi
+   ABD: soft, no grimace with palpation, normoactive bowel sounds
+   EXT: feet cool with + dp pulses bilaterally, not rigid in UE or LE
+   SKIN: No rashes/lesions, ecchymoses.
+   NEURO: sedated, opens eyes to voice, weak bilateral hand grip on
+   command, face symmetric, R pupil > L pupil but both reactive, + gag
+   (coughs with tube repositioning), toes mute bilaterally, DTRs 2+ at
+   bilateral biceps, 1+ at bilateral patellae; withdraws to pain mainly in
+   RUE
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   110 K/uL
+   10.8 g/dL
+   134 mg/dL
+   7.1 mg/dL
+   28 mEq/L
+   4.3 mEq/L
+   48 mg/dL
+   101 mEq/L
+   140 mEq/L
+   29.2 %
+   6.6 K/uL
+        [image002.jpg]
+                             [**3114-11-11**]  05:03 PM
+                             [**3114-11-11**]  05:56 PM
+                             [**3114-11-11**]  11:35 PM
+                             [**3114-11-12**]  03:42 AM
+   WBC
+   7.1
+   6.6
+   Hct
+   30.6
+   29.2
+   Plt
+   111
+   110
+   Cr
+   6.7
+   7.1
+   TropT
+   0.07
+   0.08
+   TCO2
+   27
+   30
+   Glucose
+   244
+   134
+   Other labs: PT / PTT / INR:13.6/150.0/1.2, CK / CKMB /
+   Troponin-T:54//0.08, ALT / AST:60/46, Differential-Neuts:85.4 %,
+   Lymph:10.1 %, Mono:3.1 %, Eos:1.2 %, Lactic Acid:1.1 mmol/L, Ca++:9.0
+   mg/dL, Mg++:1.9 mg/dL, PO4:5.1 mg/dL
+   Assessment and Plan
+   This is a 78 y/o man with PMH notable for Hx of R focal seizures with
+   hyperperfusion syndrome, CAD s/p CABG, recent carotid endarterectomy,
+   and type 2 DM admitted with seizures X 3 earlier today.
+   .
+   # Seizures: the patient does have a history of right focal motor
+   seizures following his first carotid endarterectomy in [**3106**] and was on
+   dilantin for a period of time (unclear for how long). He apparently
+   never had a generalized tonic-clonic seizure at that time. For this
+   episodes, differential includes infectious, stroke, toxic metabolic,
+   and primary seizure disorder. No acute hemmorrhage on CT head, multiple
+   hypodensities sound chronic. No hypoglycemia, electrolytes WNL. CSF
+   with mild elevated protein, NL glucose, no WBC/RBC. Lactate 10 on
+   admission likely [**1-10**] seizure, 1 on repeat on arrival to the ICU.
+   - MRI/MRA brain and neck to eval for CVA
+   - neuro recs appreciated
+   - Covered with Vanco, CTX, AMP, acyclovir. CSF only showed mild
+   elevation of protein (ddx: Viral, lyme, and neurosyphilis). Can now d/c
+   Vanco, CTX, AMP. Continue Acyclovir pending HSV pcr result .
+   - EEG monitoring overnight (in progress)
+   - Dilantin loaded in ED, additional 500mg in divided doses today, 100
+   TID [**11-12**] with dilantin level in [**11-12**] am.
+   - seizure precautions
+   - d/c fentanyl and versed as soon as possible, add back low dose
+   propofol if necessary.
+   - pt is on bualbital-APAP-Caffeine which can cause withdraw seizures if
+   suddenly stoped, however as per nursing home notes has not been
+   consistantly getting med.
+   - f/u CSF, UA and urine cultures
+   .
+   # Respiratory failure: Intubated for airway protection in ED. Likely
+   extubation tomorrow AM after studies & seizures under control.
+   - titrate vent by ABGs
+   - wean sedation in AM if possible with RSBI and SBT if possible
+   .
+   # Lactic acidosis: Resolved on repeat ABG on arrival to the ICU.
+   .
+   # Transaminitis: ? etiology. Trend in AM.
+   .
+   # ESRD on HD: Renal consulted and appreciate their recs. Plan for HD
+   tomorrow.
+   - continue nephrocaps, calcitriol, and Phoslo
+   .
+   # Type 2 DM: Not hypoglycemic currently. HISS.
+   .
+   # Anemia: Hct near recent baseline. Has active T&S. Continue to trend.
+   .
+   # Thrombocytopenia: Near baseline. Continue to trend.
+   .
+   # Hypertension: Hypotensive with propofol, increasing as sedation
+   weaned. Holding Metoprolol, nifedipine, diovan, imdur for now, add back
+   as sedation titrated and BP allows.
+   .
+   #CAD: continue ASA and Statin. No acute EKG changes. Repeat CEs in the
+   AM (2 sets 12 hours apart).
+   .
+   # FEN: NPO for now. (diet at facility no potatoes, tomatoes, oranges,
+   or bananas due to renal disease). replete lytes prn.
+   .
+   # PPx: hep sc tid, BM reg, ISS
+   .
+   #Access: R fem line, R wrist PIV, R antecub PIV. IF BP stable overnight
+   d/c fem line in am.
+   .
+   # CODE: full code, confirmed with patient's wife who is hcp
+   .
+   # COMM: With patient and family. Wife [**Name (NI) **] [**Name (NI) 4016**] is HCP, [**Telephone/Fax (1) 4017**]
+   (home), [**Telephone/Fax (1) 4018**] (cell). Son [**Name (NI) 2438**] [**Name (NI) 4016**] is [**Telephone/Fax (1) 4019**].
+   .
+   # DISP: ICU care for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3114-11-11**] 03:13 PM
+   18 Gauge - [**3114-11-11**] 05:13 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

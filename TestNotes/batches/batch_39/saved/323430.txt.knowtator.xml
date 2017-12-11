@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="323430.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1524" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="2856" end="2870" />
+        <spannedText>until GI bleed</spannedText>
+        <creationDate>Wed Oct 18 05:53:06 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1527">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1524">
+        <hasSlotMention id="EHOST_Instance_1527" />
+        <mentionClass id="bleeding_historical">until GI bleed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1525" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="9700" end="9709" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Wed Oct 18 05:54:23 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1528">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_1529">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="absent" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1525">
+        <hasSlotMention id="EHOST_Instance_1528" />
+        <hasSlotMention id="EHOST_Instance_1529" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1526" />
+        <annotator id="eHOST_2010">Arianna</annotator>
+        <span start="9145" end="9185" />
+        <spannedText>no anticoagulation given recent GI bleed</spannedText>
+        <creationDate>Wed Oct 18 05:54:34 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_1530">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_1526">
+        <hasSlotMention id="EHOST_Instance_1530" />
+        <mentionClass id="bleeding_historical">no anticoagulation given recent GI bleed</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

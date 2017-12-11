@@ -1,0 +1,245 @@
+Chief Complaint:
+   24 Hour Events:
+ PAN CULTURE - At [**2880-4-11**] 09:50 AM
+ PARACENTESIS - At [**2880-4-11**] 04:24 PM
+ MULTI LUMEN - START [**2880-4-11**] 05:05 PM
+ BLOOD CULTURED - At [**2880-4-12**] 03:55 AM
+   [**4-11**] Events:
+   - diagnostic and therapeutic para -> 4L off, given 30g albumin,
+   required small dose neo gtt (bladder pressures from 30 to 23)
+   Gave lactulose edema, now having bowel movements
+   - ascites fluid c/w SBP by PMNs but gram stain negative, increased dose
+   of mitrodrine
+   - placed R IJ
+   - intermittently hypotensive (fluid responsive) overnight
+   - CVP and central venous O2 adequate
+   - remained anuric
+   Allergies:
+   Zanaflex (Oral) (Tizanidine Hcl)
+   hallucinations;
+   Last dose of Antibiotics:
+   Caspofungin - [**2880-4-11**] 06:14 PM
+   Meropenem - [**2880-4-12**] 04:00 AM
+   Infusions:
+   Norepinephrine - 0.2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2880-4-12**] 07:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 35.6
+C (96
+   HR: 76 (73 - 88) bpm
+   BP: 106/55(74) {64/32(43) - 111/65(82)} mmHg
+   RR: 15 (0 - 34) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+    CVP: 18 (18 - 18)mmHg
+   CO/CI (Fick): (7 L/min) / (4.1 L/min/m2)
+   Bladder pressure: 22 (22 - 30) mmHg
+   Mixed Venous O2% Sat: 74 - 74
+   Total In:
+                                                                  3,336 mL
+                                                                  1,347 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,877 mL
+                                                                  1,202 mL
+   Blood products:
+                                                                  1,429 mL
+   Total out:
+                                                                  4,860 mL
+                                                                    465 mL
+   Urine:
+                                                                     60 mL
+                                                                     15 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  4,000 mL
+   Balance:
+                                                                 -1,524 mL
+                                                                    882 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula 3L
+   SpO2: 99%
+   ABG: 7.27/40/227/16/-7
+   Physical Examination
+   General: patient has waxing/[**Doctor Last Name 40**] mental status, she is inconsistently
+   following commands
+   HEENT: PERRL,
+   Neck: supple, no JVD, R dialysis cath and L IJ in place w/o signs of
+   infection
+   Pulm: bilateral crackles at bases
+   Cardiac: RR, nl S1, S2, 2/6 SEM, no R/G.
+   Abdomen: soft, massively distended with fluid wave, +bowel sounds, EXT:
+   no LE edema, 2+ radial, DP/PT pulses b/l
+   Skin: stage 2 sacral ulcers .
+   Labs / Radiology
+   106 K/uL
+   11.1 g/dL
+   222 mg/dL
+   4.2 mg/dL
+   16 mEq/L
+   3.5 mEq/L
+   86 mg/dL
+   107 mEq/L
+   146 mEq/L
+   31.9 %
+   21.9 K/uL
+        [image002.jpg]
+                             [**2880-4-10**]  04:35 PM
+                             [**2880-4-11**]  12:37 AM
+                             [**2880-4-11**]  05:22 AM
+                             [**2880-4-11**]  07:21 AM
+                             [**2880-4-11**]  01:50 PM
+                             [**2880-4-11**]  01:54 PM
+                             [**2880-4-11**]  11:01 PM
+                             [**2880-4-12**]  01:07 AM
+                             [**2880-4-12**]  01:14 AM
+                             [**2880-4-12**]  03:46 AM
+   WBC
+   14.8
+   13.5
+   19.0
+   21.9
+   Hct
+   35.5
+   32.5
+   34.0
+   31.9
+   Plt
+   85
+   53
+   84
+   106
+   Cr
+   2.4
+   2.0
+   2.4
+   3.0
+   3.6
+   4.2
+   TCO2
+   22
+   22
+   19
+   Glucose
+   195
+   141
+   156
+   159
+   146
+   229
+   222
+   Other labs: PT / PTT / INR:29.6/45.0/3.0, ALT / AST:15/38, Alk Phos / T
+   Bili:103/58.5, Amylase / Lipase:/11, Differential-Neuts:88.0 %,
+   Band:2.0 %, Lymph:4.0 %, Mono:6.0 %, Eos:0.0 %, Lactic Acid:5.0 mmol/L,
+   Albumin:3.9 g/dL, LDH:476 IU/L, Ca++:10.4 mg/dL, Mg++:2.6 mg/dL,
+   PO4:8.0 mg/dL
+   Assessment and Plan
+   58 F with history of HCV cirrhosis s/p TIPS, CKD, resolved respiratory
+   failure, with ascities and abdominal compartment syndrome s/p
+   paracentesis with SBP on vanco, [**Last Name (un) 411**], caspofungin. Patient was
+   initially admitted from OSH with encephalopathy and hepatorenal
+   syndrome requiring dialysis, s/p respiratory failure (extubated [**3-29**])
+   and s/p paracentesis complicated by intraabdominal bleed, awaiting
+   liver/kidney transplant, desated to day in the setting of
+   unresponsiveness.
+   .
+   # Hemodynamics/hypotension
+ likely chronically hypotensive in setting
+   of liver disease with a high cardiac output.  Has art line, will
+   continue to monitor.  Continue fluids with boluses as needed and
+   albumin.
+   - will tolerate MAPs >60
+   - albumin day [**4-17**]
+   - trend lactates as sign of end organ damage
+   - on levophed
+   .
+   # Leukocytosis
+ worsening, on vanco, [**Last Name (un) 411**], caspofungin (since [**4-6**]).
+   Yeast identified in urine, sputum and skin/ascites SBP, other etiology
+   is L abdominal eschar could be infected. Patient had diagnostic and
+   therapeutic tap on [**4-11**] where 4L removed. SBP diagnosis was made, after
+   correcting for RBCs, however gram stain negative.
+   - ID following, sent b-glucan, galactomannin on [**4-12**]
+   - for skin infection, getting surgery and derm c/s [**4-12**]
+   - continue vanco, [**Last Name (un) 411**], caspofungin
+ follow up with renal dosing of
+   meds, after CVVH will change to 500mg IV Q24H
+   .
+   # AMS/unresponsiveness:
+   --> Finding: In the ICU responds to voice but clearly somnolent, no
+   focal deficit, although difficult to assess
+   --> data: liver failure, renal failure, CNS active meds, minimal
+   electrolyte abnormalitries, infection, normal glucose
+   --> differential: most likely hepatic encephalopathy, worsend by ?
+   ongoing infection, electrolye, renal failure, other DD include seizure,
+   IC bleed, IC infection
+   --> continue lactulose, increasing dose today to 60 mg qid to see if
+   she wakes up
+   --> q4 neuro checks
+   .
+   # Hepatorenal syndrome/Abdominal Compartment Syndrome - likely
+   triggered by 11 L Para on [**3-14**] with only 25gm albumin. Patient is
+   currently oliguric.  Renal has been following.  Has been getting
+   intermittent HD.  UO has basically been 0 since transfer to ICU.
+   Previously, patient was listed for a kidney transplant. Renal function
+   is worse in the setting of Abdominal Compartment Syndrome. On [**4-11**], had
+   tap to reduce pressures
+   - since blood pressures unstable, renal will do CVVH.
+   - f/u renal recs
+   - cont albumin, octreotide, midodrine for now
+   # Hoarse Voice: Pt reports that voice became hoarse following
+   self-extubation. Possible that she endured vocal [**Last Name (un) 8082**] trauma.
+   - will ENT consult
+   .
+   # HCV cirrhosis - decompensated w/ varices, massive ascites s/p tips,
+   encephalopathy. Hepatology does not feel that she is transplant
+   candidate, too unstable.
+   - liver team following
+   .
+   # DM2
+ lantus 32u daily for hyperglycemia, and HISS, starting insulin
+   drip since renal failure.
+   # Seizure disorder -  tegretol levels can be altered in hepatic/renal
+   failure and altered albumin levels
+   -back on home tegretol, checking levels [**4-12**]
+   .
+   # Depression/Anxiety. - holding psych meds due to delta MS.
+   .
+   # PPx:  pneumoboots, PPI
+   .
+   # FEN: TF at goal 40 cc/hr
+   # Access RIJ replaced [**4-11**], HD line; 2 [**Last Name (LF) 3418**], [**First Name3 (LF) **] line
+   # Code: Full
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2880-4-10**] 01:30 PM
+   Arterial Line - [**2880-4-10**] 11:31 PM
+   20 Gauge - [**2880-4-11**] 02:28 AM
+   Multi Lumen - [**2880-4-11**] 05:05 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

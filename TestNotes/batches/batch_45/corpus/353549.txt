@@ -1,0 +1,178 @@
+Chief Complaint:
+   24 Hour Events:
+   Some erythema around HD catheter
+   Isolated high temp of 100.9; cultures taken from PICC and HD line
+   History obtained from Medical records
+   Patient unable to provide history: trached
+   Allergies:
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Rash;
+   Penicillins
+   Rash;
+   Dicloxacillin
+   Rash;
+   Morphine
+   Unknown;
+   Compazine (Oral) (Prochlorperazine Maleate)
+   Unknown; dyston
+   Reglan (Oral) (Metoclopramide Hcl)
+   Unknown; parkin
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3032-12-16**] 09:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Nutritional Support: Tube feeds
+   Respiratory: trached
+   Flowsheet Data as of  [**3032-12-18**] 07:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.3
+C (100.9
+   Tcurrent: 37.2
+C (99
+   HR: 109 (89 - 128) bpm
+   BP: 158/84(102) {135/50(73) - 170/101(140)} mmHg
+   RR: 18 (11 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 45.1 kg (admission): 50 kg
+             Total In:
+                                                                  1,213 mL
+                                                                    261 mL
+   PO:
+             TF:
+                                                                    602 mL
+                                                                    190 mL
+   IVF:
+                                                                    551 mL
+                                                                     12 mL
+   Blood products:
+   Total out:
+                                                                  2,800 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+                                                                    800 mL
+   Drains:
+   Balance:
+                                                                 -1,587 mL
+                                                                    261 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   Ventilator mode: Standby
+   Vt (Spontaneous): 97 (97 - 97) mL
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 0 cmH2O
+   SpO2: 100%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   252 K/uL
+   9.6 g/dL
+   116 mg/dL
+   2.8 mg/dL
+   29 mEq/L
+   3.5 mEq/L
+   22 mg/dL
+   100 mEq/L
+   139 mEq/L
+   27.3 %
+   10.0 K/uL
+        [image002.jpg]
+                            [**3032-12-13**]  08:56 PM
+                            [**3032-12-14**]  03:25 AM
+                            [**3032-12-14**]  04:41 PM
+                            [**3032-12-15**]  03:53 AM
+                            [**3032-12-15**]  05:33 PM
+                            [**3032-12-16**]  12:00 AM
+                            [**3032-12-16**]  05:24 AM
+                            [**3032-12-16**]  03:02 PM
+                            [**3032-12-17**]  03:51 AM
+                            [**3032-12-18**]  02:58 AM
+   WBC
+   4.2
+   5.5
+   10.7
+   9.4
+   10.0
+   Hct
+   29.1
+   27.2
+   27.0
+   30.9
+   30.0
+   28.5
+   26.9
+   27.3
+   Plt
+   181
+   227
+   243
+   257
+   239
+   252
+   Cr
+   2.3
+   2.8
+   3.5
+   3.8
+   1.8
+   2.8
+   4.2
+   2.8
+   Glucose
+   118
+   88
+   77
+   91
+   104
+   108
+   112
+   98
+   116
+   Other labs: PT / PTT / INR:15.3/36.7/1.4, CK / CKMB / Troponin-T:45//,
+   ALT / AST:34/35, Alk Phos / T Bili:107/0.6, Differential-Neuts:83.0 %,
+   Band:2.0 %, Lymph:7.0 %, Mono:4.0 %, Eos:0.0 %, Fibrinogen:565 mg/dL,
+   Lactic Acid:0.6 mmol/L, Albumin:3.1 g/dL, LDH:468 IU/L, Ca++:9.0 mg/dL,
+   Mg++:1.7 mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3032-12-17**] 02:05 PM 25.[**Telephone/Fax (5) 7019**] mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3032-12-4**] 02:59 PM
+   Dialysis Catheter - [**3032-12-5**] 03:24 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

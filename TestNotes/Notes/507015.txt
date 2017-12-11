@@ -1,0 +1,124 @@
+Chief Complaint:
+   24 Hour Events:
+   -Weaning O2.  Now down to NC and maintaining SpO2.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2737-5-25**] 08:00 AM
+   Levofloxacin - [**2737-5-25**] 11:00 AM
+   Vancomycin - [**2737-5-25**] 07:57 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2737-5-25**] 02:20 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2737-5-26**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.2
+C (98.9
+   HR: 65 (57 - 74) bpm
+   BP: 124/63(78) {114/45(62) - 148/85(99)} mmHg
+   RR: 23 (20 - 39) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+                  Total In:
+                                                                  1,002 mL
+                  PO:
+                                                                    440 mL
+                  TF:
+   IVF:
+                                                                    562 mL
+   Blood products:
+   Total out:
+                                                                  1,650 mL
+                                                                      0 mL
+   Urine:
+                                                                  1,650 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -648 mL
+                                                                      0 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ////
+   Physical Examination
+   Gen: young male, mild resp distress but more comfortable than yesterday
+   CV: tachy loud S2
+   Chest: bilat rales, insp pops (improved from prior exam)
+   Abd: overweight soft NT
+   Ext: no edema
+   Neuro: alert and conversant
+   Labs / Radiology
+   407 K/uL
+   13.5 g/dL
+   94 mg/dL
+   0.6 mg/dL
+   22 mEq/L
+   4.1 mEq/L
+   13 mg/dL
+   101 mEq/L
+   135 mEq/L
+   37.9 %
+   8.9 K/uL
+        [image002.jpg]
+                             [**2737-5-24**]  05:34 AM
+                             [**2737-5-24**]  06:04 AM
+                             [**2737-5-24**]  03:00 PM
+                             [**2737-5-24**]  05:45 PM
+                             [**2737-5-25**]  03:54 AM
+   WBC
+   6.7
+   8.9
+   Hct
+   36.4
+   37.9
+   Plt
+   304
+   407
+   Cr
+   0.6
+   0.6
+   0.6
+   TropT
+   <0.01
+   TCO2
+   25
+   25
+   Glucose
+   108
+   103
+   94
+   Other labs: PT / PTT / INR:14.5/29.1/1.3, CK / CKMB /
+   Troponin-T:4307/3/<0.01, ALT / AST:116/139, Alk Phos / T Bili:80/0.6,
+   Differential-Neuts:73.5 %, Lymph:23.2 %, Mono:2.4 %, Eos:0.4 %, Lactic
+   Acid:1.0 mmol/L, Albumin:3.3 g/dL, LDH:1115 IU/L, Ca++:8.9 mg/dL,
+   Mg++:2.7 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2737-5-25**] 09:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,196 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Written for tramadol for fracture pain.
+   - Weaned off phenylephrine without issue.
+   - Episode of CP c/w heartburn. EKG similar to prior, improved with
+   maalox.
+   - Volume up 2.5L in pm, written for 80mg IV furosemide.
+   Allergies:
+   Penicillins
+   Rash;
+   Aspirin
+   Wheezing;
+   Last dose of Antibiotics:
+   Vancomycin - [**2913-4-25**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2913-4-24**] 09:35 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2913-4-25**] 06:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.2
+C (97.2
+   HR: 99 (93 - 110) bpm
+   BP: 92/69(75) {81/17(39) - 111/72(82)} mmHg
+   RR: 21 (17 - 27) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 64.5 kg (admission): 65.7 kg
+    CVP: 11 (7 - 16)mmHg
+   Total In:
+                                                                  4,516 mL
+                                                                    800 mL
+   PO:
+                                                                  1,910 mL
+                                                                    600 mL
+   TF:
+   IVF:
+                                                                    606 mL
+                                                                    200 mL
+   Blood products:
+   Total out:
+                                                                  2,885 mL
+                                                                    500 mL
+   Urine:
+                                                                  2,885 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,631 mL
+                                                                    300 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 93%
+   ABG: ///27/
+   Physical Examination
+   GEN: A+Ox3, pleasant, NAD
+   HEENT: MMM, R facial hematoma with ecchymoses
+   NECK: JVP about 8 cm on the left, R IJ in neck without evidence of
+   erythema, tenderness, or discharge
+   CV: RRR, II/VI holosystolic M at apex, no gallops, rubs
+   [**Year (4 digits) **]: CTAB, occasional expiratory wheezes
+   ABD: Soft, mildly distended, NT, +BS
+   EXT: No peripheral edema.RUE in sling. No focal weakness.
+   Labs / Radiology
+   358 K/uL
+   10.1 g/dL
+   165 mg/dL
+   0.9 mg/dL
+   27 mEq/L
+   4.4 mEq/L
+   27 mg/dL
+   97 mEq/L
+   130 mEq/L
+   30.9 %
+   11.8 K/uL
+        [image002.jpg]
+                             [**2913-4-23**]  10:35 PM
+                             [**2913-4-24**]  12:14 AM
+                             [**2913-4-24**]  04:43 AM
+                             [**2913-4-25**]  04:19 AM
+   WBC
+   10.5
+   11.8
+   Hct
+   32.8
+   31.8
+   30.9
+   Plt
+   510
+   358
+   Cr
+   1.3
+   1.0
+   0.9
+   TropT
+   0.12
+   0.07
+   Glucose
+   [**Telephone/Fax (3) 6225**]
+   Other labs: PT / PTT / INR:14.8/31.9/1.3, CK / CKMB /
+   Troponin-T:53//0.07, ALT / AST:28/19, Alk Phos / T Bili:60/0.6,
+   Albumin:3.8 g/dL, LDH:245 IU/L, Ca++:8.5 mg/dL, Mg++:2.5 mg/dL, PO4:2.2
+   mg/dL
+   Assessment and Plan
+   59 F with CAD s/p LAD BMS x 2 on [**2913-4-17**], CHF (EF 20%), [**Date Range 6209**] htn and
+   asthma recently discharged three days ago now presents with syncope and
+   hypotension.
+   Syncope and hypotension.
+   Likely multifactorial, related to increased diuresis, anti-hypertensive
+   medications, and UTI. Her symptoms are improved currently.
+   - wean neosynephrine for goal SBP>80
+   - cautious 250mL NS bolus prn as needed
+   - continue UTI treatment with vancomycin
+   - hold diuretics
+   - hold antihypertensives
+   - currently holding enalapril, spironilactone, metoprolol
+   - restart torsemide today and captopril
+   CHF
+   EF 20% with severe LV dilation and severe MR [**First Name (Titles) **] [**Last Name (Titles) 6209**] htn.  Currently
+   euvolemic
+   - continue prn fluid boluses for SBP > 80
+   - hold beta blocker, ACEI, diuretics, and spironolactone given
+   hypotension
+   - continue digoxin
+   - restart torsemide 40mg PO once
+   - start captopril instead of enalapril
+   UTI/Vaginal burning: Ucx positive for enterococcus from this admission.
+   Likely same bacteria as from last culture.
+   - continue vancomycin for 7 day course (day 1: [**4-23**])
+   - Phenazopyridine for ureteral spasm
+   - patient can use vagifem twice weekly per home regimen.
+   Coronary Artery Disease
+   Recent LAD BMSx2.  She continues to be chest pain free and ECG
+   demonstrates no acute changes
+   - continue aspirin, statin, and plavix
+   - continue to hold beta blocker and ACEI
+   ARF
+   Most likely secondary to hypovolemia as above. Much improved with fluid
+   boluses overnight
+   - continue cautious fluid boluses
+   - maintain SBP>80
+   Rib/Clavicle fx
+   Sustained fractures with fall yesterday. Pain currently well controlled
+   with only Tylenol.
+   - Tylenol prn
+   - Sling for comfort
+   - appreciate trauma recs
+   Depression/Anxiety: Stable
+   -Continue venlafaxine, temazepam, buspirone
+   Rhythm: sinus.
+   - continue telemetry
+   .
+   Hypothyroidism: stable
+   - Continue levothyroxine
+   .
+   Asthma: currently faint wheezing
+   - continue prednisone per home regimen
+   - inhalers PRN, advair
+   Type 2 Diabetes Mellitus:
+   Patient is usually on glipizde.
+   - hold glipizide for now and use HISS
+   ICU Care
+   Nutrition: low sodium, diabetic
+   Glycemic Control:  insulin sliding scale
+   Lines:
+   Multi Lumen - [**2913-4-23**] 11:01 PM
+   Prophylaxis:
+   DVT: hep sc
+   Stress ulcer:  not indicated
+   Communication:  Comments: self
+   Code status: Full
+   Disposition:
+   ------ Protected Section ------
+   [**Known patient firstname 6233**] had syncope most likely as result of excessive diuresis.  We have
+   given back some volume and will restart torsemide at a reduced dose of
+   20 mg po bid.  Her other hf meds should be reintroduced one-by-one and
+   at time of discharge we should give explicit parameters for holding of
+   diuretics (on basis of daily weights) and afterload reducing agents (on
+   basis of bp measurement and sx).
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) **]  on:[**2913-4-25**]
+   12:44 ------
+
+
+DOC CLASS

@@ -1,0 +1,244 @@
+Admission Date:  [**3204-9-6**]              Discharge Date:   [**3204-9-19**]
+
+Date of Birth:  [**3124-6-15**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Lisinopril
+
+Attending:[**First Name3 (LF) 1081**]
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**3204-9-8**] Redo sternotomy and tricuspid valve
+replacement with a 31-mm Mosaic tissue valve.
+
+
+History of Present Illness:
+79 year old female with progressive dyspnea on exertion with
+plan for tricuspid valve replacement, with recent admission for
+heart failure.
+
+Past Medical History:
+Severe tricuspid regurgitation,
+right-sided heart failure, status post mitral valve repair
+PMH:
+Chronic heart failure
+Atrial fibrillation
+Hypertension
+Varicose Veins with Chronic Venous insufficiency
+Hemorrhoids
+Glaucoma
+Elevated creatinine related to diuretic use (last 1.5)
+
+
+Social History:
+Originally from [**Country 4988**]. She lives with her husband in
+[**Name (NI) 8571**], MA. She has six healthy children, 5 of which live in
+the [**Location (un) 211**] area, one in [**Country 4988**]. She is a lifetime nonsmoker,
+nondrinker, no IV drug use.
+
+
+Family History:
+Melanoma brother, CVA mother. Otherwise, non-contributory.
+No premature coronary artery disease
+
+
+Physical Exam:
+Pulse: 64  Resp: 18 O2 sat: 96% RA
+B/P 116/70
+
+General: no acute distress
+Skin: Warm, Well healed sternotomy
+[**Country 490**]: PERRL, EOMI, Upper and lower partials. Teeth in good
+repair.
+Neck: Supple [X] Full ROM [X] +JVD
+Chest: Clear diminished
+Heart: Irregular rate and rhythm, II/VI holosystolic and II/VI
+diastolic murmur
+Abdomen: Soft, non-tender, bowel sounds +.
+Extremities: Warm [X], well-perfused [X] 2+ LE Edema
+Varicosities: Significant on right, moderate on left small
+raised
+area left shin no erythema no drainage
+Neuro: alert oriented x3 nonfocal
+Pulses:
+Femoral      Right: +1   Left: +1
+DP           Right: doppler  Left: doppler
+PT           [**Name (NI) 422**]: doppler  Left: doppler
+Radial       Right: +1  Left: +1
+
+Carotid Bruit      Right: no bruit    Left: murmur vs bruit
+
+
+Pertinent Results:
+[**3204-9-18**] 04:30AM BLOOD Hct-33.1*
+[**3204-9-18**] 04:30AM BLOOD PT-21.5* INR(PT)-2.0*
+[**3204-9-18**] 04:30AM BLOOD UreaN-35* Creat-1.1 Na-139 K-4.1 Cl-100
+[**3204-9-18**] 04:30AM BLOOD ALT-29 AST-42* AlkPhos-138* Amylase-192*
+TotBili-2.2*
+[**3204-9-17**] 04:49AM BLOOD WBC-7.6 RBC-3.62* Hgb-10.8* Hct-33.3*
+MCV-92 MCH-29.8 MCHC-32.4 RDW-19.2* Plt Ct-174
+[**3204-9-16**] 03:14AM BLOOD WBC-5.5 RBC-3.43* Hgb-10.4* Hct-31.1*
+MCV-91 MCH-30.4 MCHC-33.5 RDW-18.8* Plt Ct-139*
+[**3204-9-17**] 04:49AM BLOOD PT-21.5* PTT-30.4 INR(PT)-2.0*
+[**3204-9-17**] 04:49AM BLOOD Glucose-83 UreaN-39* Creat-1.2* Na-136
+K-4.1 Cl-97 HCO3-32 AnGap-11
+[**3204-9-16**] 03:14AM BLOOD Glucose-118* UreaN-47* Creat-1.3* Na-137
+K-3.9 Cl-99 HCO3-33* AnGap-9
+[**3204-9-10**] 01:56AM BLOOD ALT-31 AST-77* LD(LDH)-420* AlkPhos-100
+TotBili-8.7*
+
+Intra-op TEE [**3204-9-13**]
+Conclusions
+The left atrium is mildly dilated. The right atrium is markedly
+dilated. Left ventricular wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%). Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. The right ventricular cavity is
+markedly dilated with severe global free wall hypokinesis. The
+aortic valve leaflets are moderately thickened (?#). There is no
+aortic valve stenosis. Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. A mitral valve
+annuloplasty ring is present. The mitral annular ring appears
+well seated with normal gradient. Mild (1+) mitral regurgitation
+is seen. A well-seated bioprosthetic tricuspid valve is present.
+The leaflets open well (gradient was not assessed). Mild
+tricuspid regurgitation is suggested through a paravalvular
+leak. There is borderline pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**3204-9-11**],
+the right ventricular cavity size is slightly smaller, with
+similar systolic function and severity of tricuspid
+regurgitation. A similar aortic valve gradient is obtained on
+the current study which is not suggestive of aortic valve
+stenosis.
+
+
+
+
+Brief Hospital Course:
+The patient was taken to the operating room on [**3204-9-8**] and
+underwent a redo sternotomy and tricuspid valve replacement with
+a 31-mm Mosaic tissue valve.  See operative notes for full
+details.  Post operatively she was extubated on post operative
+day 1.  She was weaned off epinephrine, levophed and continued
+on Vasopressin for several days.  She developed hyponatremia and
+Vasopressin was switched to Neosynephrine.  This was weaned off
+by post operative 5.  She developed post operative atrial
+fibrillation and was started on Amiodarone and was rate
+controlled atrial fibrillation at the time of discharge.  She
+was anticoagulated with Coumadin for A fib and INR is to be
+followed at rehab with a goal of [**1-14**].  She was followed by
+hepatology for elevated liver function tests preopoeratively
+which were thought to be due to liver congestion.  These were
+trending down at the time of discharge.  She became oliguric
+post operatively and the nephrology service was consulted.  She
+had acute kidney failure on top of chronic renal insufficency.
+She responded minially to Lasix bolus and drips and creatinine
+peaked at 2.6.  She had a PA catheter replaced on post operative
+day 5 to assess fluid status.  She started to respond to
+diuresis with lasix and creatinine decreased to 1.1 at the time
+of discharge. Her pleural chest tubes were left in due to high
+drainage and the left pleural chest tube was pulled post
+operative day 9 and the right chest tube was removed post
+operative day 10. Pacing wires were removed without incidence.
+On post operative day 11 she was transferring to the chair with
+assistance and physical therapy continued to work with her to
+improve strength and endurance.  Her incisions were healing well
+and she was tolerating a full po diet with strong encouragement.
+ She was felt safe for discharge to [**Hospital1 **] at [**Hospital 240**] rehab
+at this time.
+
+
+Medications on Admission:
+Multivitamin 1 tablet DAILY
+Famotidine 20 mg DAILY
+Calcium 500 + D (D3) 500-125 mg-unit Tablet twice a day
+Carvedilol 12.5 mg twice a day
+Furosemide 60 mg twice a day
+Loperamide 2 mg as needed as for diarrhea.
+
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily). Tablet, Delayed
+Release (E.C.)(s)
+2. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain.
+3. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+4. loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times
+a day) as needed for loose stool.
+5. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever.
+6. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+7. famotidine 20 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Coumadin 1 mg Tablet Sig: as directed Tablet PO once a day:
+2mg alternating with 3mg.  Received 2mg on [**3204-9-19**].
+9. Outpatient Lab Work
+INR goal of [**1-14**] for atrial fibrillation.  She takes 2mg
+alternating with 3mg to attain this goal.
+10. furosemide 10 mg/mL Syringe Sig: Sixty (60) mg Injection
+once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+tba
+
+Discharge Diagnosis:
+Severe tricuspid regurgitation,
+right-sided heart failure, status post mitral valve repair
+PMH:
+Chronic heart failure
+Atrial fibrillation
+Hypertension
+Varicose Veins with Chronic Venous insufficiency
+Hemorrhoids
+Glaucoma
+Elevated creatinine related to diuretic use (last 1.5)
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 425**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 425**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) 1975**], MD Phone:[**Telephone/Fax (1) 425**]
+Date/Time:[**3204-10-14**] 1:30
+Cardiologist: Dr. [**Last Name (STitle) 1873**]  [**10-21**] @ 1:00 pm
+Please call to schedule the following:
+Primary Care Dr. [**Last Name (STitle) **],[**First Name3 (LF) **] A. [**Telephone/Fax (1) 33043**] in [**3-15**] weeks
+Hepatologist: Dr. [**Last Name (STitle) 90**] in [**3-15**] weeks
+
+
+
+Completed by:[**3204-9-19**]
+
+DOC CLASS

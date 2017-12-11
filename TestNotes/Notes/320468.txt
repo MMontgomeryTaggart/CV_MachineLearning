@@ -1,0 +1,232 @@
+Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**2872-9-18**] 12:22 PM
+ INVASIVE VENTILATION - STOP [**2872-9-18**] 04:20 PM
+   successfully extubated yesterday,  no events overnight
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ampicillin/Sulbactam (Unasyn) - [**2872-9-17**] 02:00 PM
+   Clindamycin - [**2872-9-19**] 12:15 AM
+   Piperacillin - [**2872-9-19**] 12:15 AM
+   Vancomycin - [**2872-9-19**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2872-9-19**] 12:15 AM
+   Other medications:
+   Changes to medical and family history: None
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Continues to complain of throat pain, though improved from prior. No
+   SOB, no increased sputum production.
+   Flowsheet Data as of  [**2872-9-19**] 07:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 37.3
+C (99.1
+   HR: 60 (60 - 135) bpm
+   BP: 144/83(98) {129/74(86) - 171/99(116)} mmHg
+   RR: 23 (15 - 33) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+             Total In:
+                                                                  2,377 mL
+                                                                    564 mL
+   PO:
+             TF:
+                                                                    649 mL
+   IVF:
+                                                                  1,448 mL
+                                                                    564 mL
+   Blood products:
+   Total out:
+                                                                  2,380 mL
+                                                                    380 mL
+   Urine:
+                                                                  2,380 mL
+                                                                    380 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     -3 mL
+                                                                    184 mL
+   Respiratory support
+   O2 Delivery Device:
+   Physical Examination
+   General Appearance: Well appearing sitting up in chair
+   Eyes / Conjunctiva: Muddy sclera, conjunctiva non-injected
+   Head, Ears, Nose, Throat: tender mildly erythematous firm anterior neck
+   swelling, appears more consolidated and slightly larger than prior
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular:  (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:rhonchi,
+   clears with coughing. Sl decrease at left base. No upper airway wheeze
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended
+   Extremities: Right: Trace, Left: Trace edema
+   GU: Foley in place, draining pink urine.
+   Musculoskeletal: No Muscle wasting
+   Skin:  Warm, No Rash:
+   Neurologic: Awake and alert, oriented x 3.  Responds to questions
+   appropriately.
+   Labs / Radiology
+   185 K/uL
+   11.0 g/dL
+   158
+   1.1 mg/dL
+   26 mEq/L
+   3.6 mEq/L
+   30 mg/dL
+   109 mEq/L
+   144 mEq/L
+   34.8 %
+   13.9 K/uL
+        [image002.jpg]
+                             [**2872-9-16**]  04:56 AM
+                             [**2872-9-16**]  05:41 AM
+                             [**2872-9-16**]  06:30 AM
+                             [**2872-9-16**]  07:13 AM
+                             [**2872-9-17**]  02:51 AM
+                             [**2872-9-17**]  01:14 PM
+                             [**2872-9-18**]  04:19 AM
+                             [**2872-9-18**]  09:57 PM
+                             [**2872-9-19**]  04:01 AM
+                             [**2872-9-19**]  06:00 AM
+   WBC
+   7.4
+   13.5
+   15.1
+   13.5
+   13.9
+   Hct
+   26.6
+   36.4
+   36.5
+   38.3
+   35.9
+   34.8
+   Plt
+   113
+   174
+   187
+   201
+   185
+   Cr
+   0.7
+   1.1
+   1.3
+   1.3
+   1.1
+   TCO2
+   27
+   Glucose
+   193
+   264
+   216
+   329
+   281
+   172
+   158
+   Other labs: PT / PTT / INR:17.5/29.2/1.6, CK / CKMB /
+   Troponin-T:53//<0.01, Differential-Neuts:90.2 %, Band:0.0 %, Lymph:7.3
+   %, Mono:2.1 %, Eos:0.2 %, Lactic Acid:1.7 mmol/L, Ca++:8.6 mg/dL,
+   Mg++:2.2 mg/dL, PO4:3.4 mg/dL
+   Radiology: none new
+   Micro data:
+   Blood cx [**7-16**] and [**7-18**] NGTD
+   Urine cx [**7-18**] NGTD
+   BAL:
+[**2872-9-17**] 1:27 pm BRONCHOALVEOLAR LAVAGE      BRONCHIAL LAVAGE FLLUID.
+   GRAM STAIN (Final [**2872-9-17**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+   RESPIRATORY CULTURE (Preliminary):    NO GROWTH.
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+   POTASSIUM HYDROXIDE PREPARATION (Final [**2872-9-18**]):
+      TEST CANCELLED, PATIENT CREDITED.
+      This is a low yield procedure based on our in-house studies if
+      pulmonary Histoplasmosis, Coccidioidomycosis, Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected, contact the
+      Microbiology Laboratory (7-2306).
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) (Final
+      [**2872-9-18**]):    NEGATIVE for Pneumocystis jirvovecii (carinii).
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+   Assessment and Plan
+   57-year-old man with history of DM, hypertension, status post CABG
+   complicated by CVA and subglottic stenosis (after multiple
+   intubations), CHF with the EF of 35%-40%, who presented to the ED with
+   shortness of breath & stridor and was found to have a fluid collection
+   in anterior neck s/p tracheal dilation two days prior as well as
+   possible multi-focal PNA on CXR
+   # Airway compromise/Anterior Neck Collection: H/o subglottic stenosis
+   s/p multiple intubations.  Has h/o stridor.  Underwent tracheal
+   dilation at Mass Eye & Ear on [**9-12**] w/ Dr. [**First Name4 (NamePattern1) 3004**] [**Last Name (NamePattern1) 4246**].  Suspect acute
+   compromise in airway is related to procedure; however, no clear
+   findings on fiberoptic imaging while intubating.  Per ENT, pt's sridor
+   could be rebound subglottic swelling from recent procedure, however
+   this usually doesn't happen in this time frame.  Anterior neck
+   collection may be related to airway compromise given its size.  Again,
+   suspect that this collection is related to recent procedure.  [**Month (only) 56**] be
+   early infectious collection vs. edema.  On exam neck is more swollen,
+   tender
+   - swelling discussed with ENT, obtained neck u/s with goal to drain any
+   fluid collection, discussed with radiology who saw only small shallow
+   11mm collection, did not look like abscess and was not amenable to
+   draining, recommend following clinically and repeating u/s in [**2-3**] days
+   to assess for evolving collection with possible future drainage.
+   - Continue to treat with clinda and unasyn for 14 day course.
+   - Discussed steroids with ENT team, no indication to continue high dose
+   steroids.  Unclear indication for baseline 10mg daily prednisone pt is
+   on.  Will plan to discuss with him and wife to determine why he is on
+   these and to potentially begin tapering them if indication is not
+   clear.
+   - Monitor neck for increasing size of mass
+   - ENT following, f/u daily recs.  Pt
+s surgeon at [**Hospital 3345**] Dr.
+   [**Last Name (STitle) 4246**] is aware he is here.
+   # Fevers: Has been having low grade temps, past 24 hour max 100.2,
+   slightly elevated WBC. Elevated WBC could be in setting of steroid use.
+   -unlikely pt has PNA in absence of symptoms, significant CXR findings
+   and negative BAL.
+   -will d/c empiric Vanc/Zosyn.
+   -Continue to treat potential neck infection with clinda/unasyn as above
+   -plan to repeat u/s in [**2-3**] days if neck swelling persists to look for
+   fluid collection.
+   # CAD: s/p 5 vessel CABG.  CE negative x2 since presentation.  No CP.
+   - Restarted coreg, aspirin, will resume statin as well
+   # CHF/Cardiomyopathy: last TTE in [**8-9**] w/ EF 35-40%.
+   - restart lasix
+   - Carvedilol, spironolactone, lisinopril
+   #Afib/CVA: in sinus at present. Rate 70s. INR 1.4.  Coumadin had been
+   on hold peri-procedure (trach dilation).
+   - holding Coumadin for possible procedure, restart as soon as possible.
+   Ok
+d with ENT.
+   - on decreased dose of Carvedilol
+   # H/o postoperative polymorphic VT: has not received mexilitine x 6
+   days.  No episodes VT. Discussed with pt
+s outpatient cardiologist Dr
+   [**First Name (STitle) 37**] and [**Doctor Last Name 4203**] who agree that mexilitine may be stopped.
+   #DM II: RISS plus lantus (will increase lantus dose to home dose of 32u
+   QHS)
+   # Contact/HCP: Wife
+   ICU [**Name (NI) **]
+   Nutrition: S&S today, then adat
+   Lines:
+   PICC
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Communication:  spoke w/ wife today about pt
+s care
+   Code status: Full code
+   Disposition: Call out to floor
+
+
+DOC CLASS

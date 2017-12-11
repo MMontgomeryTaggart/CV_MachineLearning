@@ -1,0 +1,269 @@
+Chief Complaint: This is a 59 y.o. Male with HD dependent ESRD, CAD s/p
+   MI, non-ischemic CMY (EF 35-40%) p/w 3 day h.o. malaise, found down and
+   initially hyperkalemic with back pain. Pt transferred from the floor
+   for suspicion of GPC sepsis from HD line and hypotension responsive to
+   IVF.
+   24 Hour Events:
+ MAGNETIC RESONANCE IMAGING - At [**3161-10-9**] 10:30 AM
+   -Got R shoulder Xray with more views to evaluate for trauma
+   -CVVH started, continued overnight
+   -ID recs - continue nafcillin and levaquin
+      -continue flagyl, increase dose to 500 mg PO Q8
+      -should have LP and TEE done within next day or two.
+      -will continue to follow
+   -Renal recs - CVVH, start Epo 3x/week
+   -MRI discussed with radiology - should follow up final neurorad read
+   tomorrow.  Preliminary read -
+      -no signs of cord compression
+      -significant degenerative changes from C3 to C7
+      -grossly no sign of acute process
+      -bilateral pleural effusions noted
+   -acidosis on evening ABG's, switched to AC
+   -post-AC gas actually showed increased acidosis, so RR increased from
+   16 to 22 with improvement.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**3161-10-7**] 06:05 AM
+   Meropenem - [**3161-10-8**] 12:00 PM
+   Nafcillin - [**3161-10-10**] 02:17 AM
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl (Concentrate) - 100 mcg/hour
+   Norepinephrine - 0.14 mcg/Kg/min
+   KCl (CRRT) - 1 mEq./hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3161-10-9**] 07:10 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3161-10-10**] 05:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.6
+C (97.8
+   HR: 94 (85 - 98) bpm
+   BP: 91/50(61) {80/50(61) - 136/67(87)} mmHg
+   RR: 24 (13 - 24) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 97.7 kg (admission): 97.2 kg
+   Height: 79 Inch
+             Total In:
+                                                                  4,891 mL
+                                                                  2,027 mL
+   PO:
+             TF:
+                                                                    797 mL
+                                                                    280 mL
+   IVF:
+                                                                  3,645 mL
+                                                                  1,686 mL
+   Blood products:
+   Total out:
+                                                                  1,624 mL
+                                                                  1,007 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,267 mL
+                                                                  1,020 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 625 (625 - 685) mL
+   PS : 14 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 29 cmH2O
+   Plateau: 20 cmH2O
+   SpO2: 100%
+   ABG: 7.34/45/125/22/-3
+   Ve: 15.4 L/min
+   PaO2 / FiO2: 313
+   Physical Examination
+   Intubated, sedated, but responsive to voice, opens eyes.
+   Continues to wince with any touch, regardless of body location.
+   Coarse inspiratory ronchi bilaterally
+   RRR, no audible murmurs
+   Abdomen soft, non-distended, +BS
+   Labs / Radiology
+   363 K/uL
+   8.2 g/dL
+   134 mg/dL
+   10.5 mg/dL
+   22 mEq/L
+   4.9 mEq/L
+   47 mg/dL
+   99 mEq/L
+   141 mEq/L
+   27.8 %
+   16.7 K/uL
+        [image002.jpg]
+                             [**3161-10-9**]  02:31 AM
+                             [**3161-10-9**]  02:48 AM
+                             [**3161-10-9**]  02:50 PM
+                             [**3161-10-9**]  03:51 PM
+                             [**3161-10-9**]  09:49 PM
+                             [**3161-10-9**]  09:54 PM
+                             [**3161-10-10**]  01:12 AM
+                             [**3161-10-10**]  01:28 AM
+                             [**3161-10-10**]  02:28 AM
+                             [**3161-10-10**]  04:08 AM
+   WBC
+   19.1
+   16.7
+   Hct
+   30.9
+   27.8
+   Plt
+   383
+   363
+   Cr
+   12.4
+   11.1
+   10.5
+   TCO2
+   26
+   23
+   24
+   24
+   24
+   Glucose
+   152
+   133
+   165
+   127
+   134
+   Other labs: PT / PTT / INR:17.1/33.7/1.5, ALT / AST:24/56, Alk Phos / T
+   Bili:83/1.5, Lactic Acid:1.1 mmol/L, LDH:456 IU/L, Ca++:8.6 mg/dL,
+   Mg++:2.5 mg/dL, PO4:6.3 mg/dL
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ SEIZURE, WITHOUT STATUS EPILEPTICUS
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   Assessment and Plan: This is a 59 y.o. Male with HD dependent ESRD, CAD
+   s/p MI, non-ischemic CMY (EF 35-40%) p/w 3 day h.o. malaise, found down
+   and initially hyperkalemic with back pain. Pt transferred from the
+   floor for suspicion of GPC sepsis from HD line and hypotension
+   responsive to IVF.
+   .
+   ##. Sepsis: Given the hypotension, hypoglycemia, leukocytosis with +
+   bld cultures, pulmonary abscess pt is currently in sepsis. Suspect
+   source to be tunnelled catheter line. Pt currently has several blood
+   cultures and line culture pending ALL CX NGTD FOR PAST 48 HOURS, bld
+   cultures show MSSA. WBC still elevated, but decreased.  Low grade fever
+   to 100.1.
+   - On nafcillin (day 5) for MSSA and levo/flagyl (day 2) for ?
+   aspiration pna as found down. will need to confirm with ID how long
+   course of therapy is, likely will depend on TEE and MRI results
+   -will require TEE; discussed yesterday
+   -needs LP to evaluate for seeding to meninges, as per ID; but has been
+   on antibiotics for days now, wondering if it will change management.
+   Will discuss further with ID
+   -no evidence of abscesses/emboli to brain on head CT.
+   -non-contrast MRI obtained yesterday - no evidence of epidural abscess
+   on prelim read, but will follow up on final read.
+   -transplant surgery removed tunneled HD cath, will continue to follow
+   cultures.
+   -f/u pending blood cultures, no surveillance cx for today given 48hrs
+   NGTD.
+   -resent sputum cultures, pending.
+   -appreciate ID recs .
+   .
+   # Respiratory failure: intubated for airway protection after seizure.
+   Continuing to have copious purulent secretions overnight. Also awaiting
+   TEE. Mild respiratory acidosis on PSV, switched to AC overnight with
+   slight improvement.
+   -Unable to wean vent overnight - increased PS without significant
+   improvement in CO2.
+   -Will work more to wean after TEE
+   -Will do therapeutic bronch /cultures today to help with purulent
+   secretions
+   .
+   ##. Back Pain: Pt on admission was noted to have full body pain and
+   specifically back pain. In the [**Name (NI) **] pt was placed on a C-spine given his
+   pain and underwent a C/T/L Spine CT with contrast which showed no gross
+   abscess but did show the aforementioned lung abscesses.
+   - shoulder Xrays negative for fracture.
+   - so far have been unable to clear C-spine due to altered mental
+   status.  Continue C-collar for now, clear when able.
+   - Fentanyl boluses for pain control.
+   - f/u final read of MRI of back to r/o epidural abscess
+   .
+   ##. ESRD: Pt currently HD dependent, was dialyzed 2 days ago, CVVH
+   started yesterday, continuing into this morning.  Goal fluid balance
+   even.
+   - continue pt on Sevelamer TID and phoslo
+   .
+   ##. Non-Ichemic CMY: Pt's prior Echo in [**3159**] shows EF of 35-40% as well
+   as left ventricular severe hypokinesis/near akinesis of the basal to
+   mid septal, anterior and inferior segments.
+   - will continue to monitor fluid status
+   - continue on Digoxin
+   .
+   ##. Seizure d.o.: Pt with seizure 2 nights ago, likely because did not
+   receive oxcarbazepine (b/c no NGT present and felt to be aspiration
+   risk by S&S). Will continue on home regimen of Levetiracetam,
+   Oxcarbazepine now that patient has NGT.
+   -20 min EEG ordered - read pending.
+   -continue Keppra, switch back to PO now that pt has NGT.
+   -no evidence of septic emboli on head CT.
+   -appreciate neuro recs.
+   .
+   # elevated INR:
+   -INR of 1.5 - stably elevated for past 2 days, likely [**3-6**] abx and npo.
+   #Hypotension: currently on Levophed. Does not seem to be extremely
+   responsive to fluids. Likely [**3-6**] sedation.
+   - wean levophed as tolerated
+   .
+   #. FEN: tube feeds.  IVF boluses for hypotension. Will continue to
+   follow electrolytes and replete as necessary.
+   .
+   #. Prophylaxis: Subcutaneous heparin
+   .
+   # Access: peripherals, aline, HD temp line
+    .
+   # Code: FULL
+   .
+   # Communication: HCP :  - person to notify in emergency per chart is
+   [**Name (NI) 925**] [**Name (NI) 9985**] (sister) [**Telephone/Fax (1) 10002**]. Nephew, [**Name (NI) 196**], told nsg he is
+   HCP, #[**Telephone/Fax (1) 10003**] [**Doctor First Name 196**].
+   .
+   # Disposition: ICU for now
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**3161-10-9**] 10:52 PM 50 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**3161-10-4**] 04:35 PM- will pull after PICC
+   Dialysis Catheter - [**3161-10-6**] 01:30 PM- will address with renal when
+   another can be place
+   Arterial Line - [**3161-10-7**] 06:45 PM
+   Will get PICC
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

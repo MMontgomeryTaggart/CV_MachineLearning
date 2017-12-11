@@ -1,0 +1,171 @@
+Chief Complaint:
+   24 Hour Events:
+ THORACENTESIS - At [**3025-3-27**] 02:30 PM
+ INVASIVE VENTILATION - STOP [**3025-3-27**] 06:05 PM
+   Overnight Events:
+   - No further culture data is positive.
+   - Had right [**Female First Name (un) 208**] - removed 1.6 L of fluid
+   - diuresed very well
+   Allergies:
+   Ace Inhibitors
+   Unknown;
+   Cozaar (Oral) (Losartan Potassium)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3025-3-26**] 08:53 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3025-3-27**] 05:30 PM
+   Piperacillin - [**3025-3-28**] 05:27 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium - [**3025-3-28**] 12:38 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3025-3-28**] 06:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**27**] AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 37.7
+C (99.8
+   HR: 82 (66 - 82) bpm
+   BP: 162/78(93) {125/47(71) - 189/78(103)} mmHg
+   RR: 24 (12 - 27) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 71 kg (admission): 81 kg
+   Height: 62 Inch
+             Total In:
+                                                                    994 mL
+                                                                    310 mL
+   PO:
+             TF:
+                                                                    321 mL
+   IVF:
+                                                                    673 mL
+                                                                    310 mL
+   Blood products:
+   Total out:
+                                                                  4,970 mL
+                                                                  1,220 mL
+   Urine:
+                                                                  3,370 mL
+                                                                  1,220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,976 mL
+                                                                   -910 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 288 (225 - 288) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 25
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 10 cmH2O
+   SpO2: 97%
+   ABG: 7.44/58/145//13
+   Ve: 7.9 L/min
+   PaO2 / FiO2: 290
+   Physical Examination
+   No jvp
+   Irregularly
+   [**2-12**] holosystolic murmur. Loudest at apex.
+   Intubated, able to follow commands, less alert than yesterday, on more
+   sedation today
+   Pitting edema in all 4 extremities
+   Labs / Radiology
+   386 K/uL
+   10.6 g/dL
+   230 mg/dL
+   1.2 mg/dL
+   34 mEq/L
+   3.2 mEq/L
+   32 mg/dL
+   104 mEq/L
+   148 mEq/L
+   32.6 %
+   6.2 K/uL
+        [image002.jpg]
+                             [**3025-3-25**]  04:11 AM
+                             [**3025-3-25**]  11:32 AM
+                             [**3025-3-25**]  06:13 PM
+                             [**3025-3-25**]  06:35 PM
+                             [**3025-3-26**]  03:52 AM
+                             [**3025-3-26**]  08:52 AM
+                             [**3025-3-26**]  06:50 PM
+                             [**3025-3-27**]  03:52 AM
+                             [**3025-3-27**]  02:59 PM
+                             [**3025-3-28**]  04:52 AM
+   WBC
+   7.4
+   5.5
+   6.0
+   6.2
+   Hct
+   31.0
+   30.5
+   31.3
+   32.6
+   Plt
+   295
+   284
+   349
+   386
+   Cr
+   1.3
+   1.5
+   1.4
+   1.3
+   1.2
+   TropT
+   0.28
+   0.28
+   TCO2
+   33
+   33
+   41
+   Glucose
+   145
+   148
+   168
+   162
+   230
+   Other labs: PT / PTT / INR:12.8/95.7/1.1, CK / CKMB /
+   Troponin-T:45//0.28, ALT / AST:22/25, Alk Phos / T Bili:119/0.8,
+   Differential-Neuts:78.5 %, Lymph:15.0 %, Mono:3.6 %, Eos:2.4 %, Lactic
+   Acid:1.1 mmol/L, Albumin:2.3 g/dL, LDH:231 IU/L, Ca++:8.4 mg/dL,
+   Mg++:2.0 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+ HYPERNATREMIA (HIGH SODIUM)
+ HYPOTHYROIDISM
+ IMPAIRED SKIN INTEGRITY
+ [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ ATRIOVENTRICULAR (AV) BLOCK
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**3025-3-24**] 05:42 PM
+   Midline - [**3025-3-24**] 05:43 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

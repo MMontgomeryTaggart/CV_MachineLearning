@@ -1,0 +1,279 @@
+Chief Complaint:
+   24 Hour Events:
+   - Goal fluid status -500 mL
+   - Thrombocytopenia: will stop Vanc/Zosyn (Vanc could be contributing)
+   and stop famotidine/pantoprazole. Most likely thrombocytopenia related
+   to IABP.Did send off HIT Ab today.
+   - ? Aspiration PNA: started Levaquin to replace Vanc/Zosyn
+   -Holding Asacol per pharmacy (cannot crush PO and PR is only
+   local).Emailed primary gastroenterologist re: PR Asacol.
+   - Starting TF slowly
+   - Afternoon gas showed improved O2 to 165 so FiO2 [**Month (only) 199**] to 50%-->repeat
+   ABG O2 98 so FiO2 weaned to 40%
+   - I/Os at 1730 showed -740 fluid balance p midnight but +190 since 8AM,
+   with hourly UOP as low as 15cc/hr. Will re-check at 11PM and consider
+   bolus/lasix.
+   - Per GI ([**First Name4 (NamePattern1) 6272**] [**Last Name (NamePattern1) 6273**]), OK to hold Asacol if no signs of UC. If
+   develops signs of [**Last Name (LF) **], [**First Name3 (LF) 114**] use low-dose prednisone.
+   -O/N pressures remained labile. Small adjustements to dopamine
+   corrects.
+   -HR trending down, now in 50's--?autonomic dysregulation
+   -2330 ABG: 7.41/36/74 on 40% FiO2
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**3146-7-8**] 04:04 PM
+   Vancomycin - [**3146-7-8**] 09:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3146-7-9**] 08:00 AM
+   Infusions:
+   Midazolam (Versed) - 3 mg/hour
+   Heparin Sodium - 1,100 units/hour
+   Fentanyl - 100 mcg/hour
+   Dopamine - 3 mcg/Kg/min
+   Other ICU medications:
+   Fentanyl - [**3146-7-10**] 06:39 AM
+   Midazolam (Versed) - [**3146-7-10**] 06:39 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3146-7-10**] 07:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 36.3
+C (97.3
+   HR: 74 (55 - 77) bpm
+   BP: 92/42(68) {68/26(47) - 178/64(125)} mmHg
+   RR: 16 (16 - 22) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 86.9 kg (admission): 76.4 kg
+   Height: 66 Inch
+    CVP: 11 (9 - 15)mmHg
+   PAP: (33 mmHg) / (20 mmHg)
+   CO/CI (Fick): (7.3 L/min) / (3.9 L/min/m2)
+   Mixed Venous O2% Sat: 66 - 71
+   Total In:
+                                                                  1,677 mL
+                                                                    603 mL
+   PO:
+   TF:
+                                                                    232 mL
+                                                                    262 mL
+   IVF:
+                                                                  1,415 mL
+                                                                    341 mL
+   Blood products:
+   Total out:
+                                                                  2,460 mL
+                                                                    540 mL
+   Urine:
+                                                                  2,435 mL
+                                                                    540 mL
+   NG:
+                                                                     25 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -783 mL
+                                                                     63 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Hemodynamic Instability, No Spon Resp
+   PIP: 24 cmH2O
+   Plateau: 17 cmH2O
+   SpO2: 93%
+   ABG: 7.41/36/74/19/0
+   Ve: 8.9 L/min
+   PaO2 / FiO2: 148
+   Physical Examination
+   GEN: intubated, sedate, responds to pain
+   Eyes/conjunctiva: PERRL
+   CV: RRR over IABP sounds. No m/r/g appreciated. JVP flat.
+   Chest: No c/r/w over IABP sounds.
+   Abd: Soft, NT/ND, BS+
+   Ext: 1+ edema to 6cm above ankle, dopplerable pulses bilaterally
+   Labs / Radiology
+   111 K/uL
+   9.5 g/dL
+   118 mg/dL
+   1.3 mg/dL
+   19 mEq/L
+   3.7 mEq/L
+   17 mg/dL
+   112 mEq/L
+   139 mEq/L
+   27.8 %
+   6.4 K/uL
+        [image002.jpg]
+                             [**3146-7-8**]  05:10 AM
+                             [**3146-7-8**]  05:21 AM
+                             [**3146-7-8**]  02:36 PM
+                             [**3146-7-8**]  10:21 PM
+                             [**3146-7-9**]  05:30 AM
+                             [**3146-7-9**]  05:53 AM
+                             [**3146-7-9**]  12:32 PM
+                             [**3146-7-9**]  04:24 PM
+                             [**3146-7-9**]  11:33 PM
+                             [**3146-7-10**]  04:04 AM
+   WBC
+   6.6
+   7.0
+   6.4
+   Hct
+   29.1
+   29.9
+   31.0
+   31
+   27.8
+   Plt
+   121
+   111
+   111
+   Cr
+   1.4
+   1.4
+   1.6
+   1.3
+   TCO2
+   19
+   19
+   22
+   22
+   22
+   24
+   Glucose
+   125
+   109
+   114
+   118
+   Other labs: PT / PTT / INR:13.8/61.9/1.2, CK / CKMB /
+   Troponin-T:3175/148/15.28, ALT / AST:20/71, Alk Phos / T Bili:71/1.0,
+   Differential-Neuts:66.1 %, Lymph:20.5 %, Mono:6.6 %, Eos:5.9 %,
+   Fibrinogen:625 mg/dL, Lactic Acid:2.1 mmol/L, Albumin:2.7 g/dL, LDH:840
+   IU/L, Ca++:7.3 mg/dL, Mg++:1.9 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+ ALTERATION IN NUTRITION
+ THROMBOCYTOPENIA, ACUTE
+ NAUSEA / VOMITING
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ SHOCK, CARDIOGENIC
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+ .H/O CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ .H/O ULCERATIVE COLITIS
+ .H/O CORONARY ARTERY BYPASS GRAFT (CABG)
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   75yo man with hx of CAD s/p CABG [**3132**] (LIMA to LAD, SVG to PDA, OM and
+   Diagonal), PVD, HTN, admitted with STEMI in perioperative period and
+   now with cardiogenic shock s/p IABP.
+   .
+   # Cardiogenic Shock/STEMI. Latest Co/CI/SVR=7.3/3.9/722. Remains very
+   labile O/N but less highs/lows than yesterday. Could be autonomic
+   instability. Levophed has been weaned off yeaterday  and he remains on
+   dopamine. Latest CO/CI/SVR = TTE yesterday demonstrated mildly
+   depressed LVEF with EF 45-50%.
+   - Plan to con
+t  IABP on 1:1
+   - Continue dopamine for enhanced cardiogenc shock pressor treatment,
+   attempt to wean dopamine off today
+   - Maintain MAP 60
+   - continue ASA 325
+   - plavix 75 daily
+   - continue heparin gtt for IABP
+   - continue simvastatin 80
+    .
+   # Cards Pump: Inferiolat hypokinesis persisted on ECHO yesterday.  Pt
+   was negative 783 in last 24 hours. Lasix was held last night due to
+   hypotension.  Cont afterload reduction with diuresis.
+   -  Goal I/O
+ 1000 -500 cc with aggressive diuresis
+   - afterload reduce with IABP
+   .
+   # RHYTHM: NSR with rate 60-70
+s for now.  Hold BB
+   .
+   # Anemia/thrombocytopenia: Hct dropped. Plts stable and likely [**3-11**]
+   hemolysis from balloon pump. Hemolysis labs unremarkable. HIT is
+   certainly possible and 4T score is intermediate, although unlikely
+   given likely explanation is balloon pump. Plts now  stable
+   - f/u Heparin dependent Ab, but will cont heparin given alternate more
+   probable explanation
+   - Stop meds that could be contributing: PPI, Vanc
+   - Will continue heparin gtt/plavix for now
+   - recheck Hct, hold on transfusion for now
+   .
+   # Vomiting: No episodes, restarted TF and tolerating.  [**Month (only) 11**] be due to
+   UGIB or more likely ileus secondary to sedating meds.
+   - No e/o obstruction or ileus on KUB
+   - Limit sedating meds as much as possible
+   .
+   # Hypoxic Resp Failure/Aspiration: Likely due to aspiration in Cath
+   lab. Hypoxia likely due to edema, consolidation, and underlying COPD.
+   FiO2 changed to 50% FiO2 overnight. Hoping that cont diuresis will
+   improve oxygenation.
+   - Wean FiO2 as tolerated levels as tolerated pending diuresis
+   - frequent suctioning
+   - MDI albuterol and atrovent for suspected COPD underlying
+   - Continue levoflox  for aspiration.
+   - F/u cx data and CIS
+   .
+   # Metabolic acidosis: Resolved.
+   .
+   # ARF: Cr 1.6.-baseline around 1.3   Suspect poor renal perfusion and
+   ATN.
+   - cont to monitor
+   - monitor daily lytes and renally dose meds
+   .
+   # s/p shoulder surgery - pain control w fentanyl bolus prn
+   - f/u XR
+   - Ortho recs
+   .
+   # Ulcerative colitis: Can give pr  asacol  per primary GI. Can
+t crush
+   po asocol
+   .
+   # depression: cont celexa
+   .
+   # hx of GERD: holding PPI and H2 blocker for now
+   .
+   FEN: NPO. cont TFs
+   ACCESS: cortis and swan
+   PROPHYLAXIS:
+   -DVT ppx covered by heparin gtt (50-70)
+   -Pain management with fentanyl
+   -Bowel regimen with senna/colace
+   CODE: full, discussed
+   DISPO: CCU
+   CONTACT: wife is HCP [**Telephone/Fax (1) 6182**]
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   Nothing to add
+   Physical Examination
+   Nothing to add
+   Medical Decision Making
+   Nothing to add
+   Total time spent on patient care: 60 minutes of critical care time.
+   Additional comments:
+   intubated, hypotensive, iabp, hypoxic,
+   ------ Protected Section Addendum Entered By:[**Name (NI) 845**] [**Name (NI) 3154**],MD
+   on:[**3146-7-10**] 10:56 ------
+
+
+DOC CLASS

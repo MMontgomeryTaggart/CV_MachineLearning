@@ -1,0 +1,186 @@
+Admission Date:  [**3060-9-4**]              Discharge Date:   [**3060-9-9**]
+
+Date of Birth:  [**2991-6-16**]             Sex:   M
+
+Service: CSURG
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 139**]
+Chief Complaint:
+69 y/o man presents with increasing fatigue and shortness of
+breath with acitivity.
+
+Major Surgical or Invasive Procedure:
+CABG x 2 and Aortic Valve Repair 23mmCE
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 33702**] is a 69 year old
+gentleman with a history of increasing fatigue and shortness
+of breath, especially with activity. The patient underwent
+echo after diagnosis of a murmur and was found to have
+critical aortic stenosis. Preoperative cardiac
+catheterization revealed 20 percent left main disease, serial
+80 and 100 percent left anterior descending lesions, 50
+percent or less diagonal lesion and 80 percent posterior
+descending artery and 60 percent PLV stenosis, in addition to
+a very stenotic circumflex that arose from the right coronary
+artery. The patient was seen and evaluated and felt suitable
+for surgery.
+
+
+Past Medical History:
+Gout
+Hypercholesterolemia
+HTN
+CAD
+Obesity
+
+Social History:
+Never smoked tobacco. Patient is retired salesman consumes [**4-23**]
+drinks per week for the past 50 years. Never used drugs. Lives
+with wife in [**Location 5850**], [**State **].
+
+Family History:
+Mother died at 88 y/o of natural causes. Father died of lung
+cancer at 66 y/o.
+
+Physical Exam:
+Vitals: 98/84 NSR/140/92/20 Height 5'[**66**]" weight 244lbs
+Gen: WD, WN in NAD appearing stated age
+Skin: well hydrated, w/o rash of suspicious lesions
+Neck: supple, No JVD
+Chest: CTA-B, no W/R/R
+Heart: RRR, S1S2
+ABD: obese NT/ND, NABS
+EXT: warm, no edema/cyanosis/ clubbing
+Neuro: CNII-XII grossly intact, no motor/sensory deficits
+
+Pertinent Results:
+[**3060-9-4**] 10:12PM   HGB-9.8*#
+[**3060-9-4**] 08:27PM   TYPE-ART PO2-147* PCO2-49* PH-7.32* TOTAL
+CO2-26 BASE XS--1
+[**3060-9-9**] 05:28AM BLOOD WBC-9.4 RBC-3.48* Hgb-10.0* Hct-29.4*
+MCV-85 MCH-28.7 MCHC-33.9 RDW-14.7 Plt Ct-155
+[**3060-9-7**] 02:50AM BLOOD WBC-11.0 RBC-2.79* Hgb-8.2* Hct-22.9*
+MCV-82 MCH-29.2 MCHC-35.6* RDW-13.6 Plt Ct-88*
+[**3060-9-8**] 07:59AM BLOOD Plt Ct-139*#
+[**3060-9-9**] 05:28AM BLOOD Glucose-101 UreaN-18 Creat-1.0 Na-141
+K-4.2 Cl-106 HCO3-29 AnGap-10
+[**3060-9-9**] 05:28AM BLOOD Calcium-8.6 Phos-3.0 Mg-2.1
+[**3060-9-4**] 05:15PM BLOOD UreaN-16 Creat-0.7 Cl-112* HCO3-23
+[**3060-9-4**] 08:05PM BLOOD Mg-2.0
+[**3060-9-6**] 03:46PM BLOOD Type-ART pH-7.48*
+
+[**Last Name (NamePattern4) 1766**]ospital Course:
+The patient was taken to the operating room on [**3060-9-4**]
+to undergo an aortic valve replacement with a 23 mm
+[**Last Name (un) 1768**]-[**Doctor Last Name 529**] bioprosthetic valve and coronary artery
+bypassgrafting times two, specifically saphenous vein grafts to
+the
+left anterior descending, right posterolateral. The
+cardiopulmonary bypass time was 168 minutes, cross clamp time
+was 130 minutes. Two atrial and two ventricular wires were place
+in addition to three chest tubes, one mediastinal, one
+mediastinal right and one left pleural. The patient tolerated
+the procedure extremely well and was transferred to cardiac
+intensive care unit. The patient was extubated shortly after
+surgery; aterial blood gas post extubation with consistent with
+good ventilation and perfusion of both lungs. On post op day one
+the patient remained in the CRSU and was delined. His chest
+tubes were removed, diet was advanced, aggressive pulmonary
+therapy was employed to improve lung ventilation. The patient
+worked with physical therapy on transferring from his bed to a
+chair. The patient's pain was well controlled with intravenous
+morphine and he was deemed ready for the regular hospital floor.
+Prior to being transferred to the floor the patient experienced
+some agitation during the night and was treated with haldol. On
+postop day two the patient continued to be slightly confused
+while in the CRSU however his cordis and pacing wires were
+removed and he was transferred to the regular hospital floor in
+stable condition. Specifically, his pain was well controlled and
+he was tolerating a regular diet. On post op day three the
+patient worked very well with physical therapy and ambulated
+with minimal assistance. On postop day four the patient was
+deemed level five after walking up a flight of stairs and around
+the floor. The patient became progressively less agitated during
+his hospital stay on the regular floor. He was put back on his
+home medications while on the floor and tolerated them well
+without any untoward events. The patient was discharged home on
+the morning of postop day five with cardiopulmonary nursing
+services. He has an appointment to see Dr. [**Last Name (Prefixes) **] in [**3-22**]
+weeks. He was discharged on all his prior home medications in
+addition to 4 days of lasix, oral pain meds, metoprolol and
+amiodarone.
+
+
+Medications on Admission:
+Lipitor 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Probenecid 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+Enalapril 10mg po qd
+Tylenol XS
+
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours): Take medication for 4 days.
+Disp:*8 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+7. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: One
+(1) Capsule, Sustained Release PO twice a day: Take for 4 days
+with Furosemide.
+Disp:*8 Capsule, Sustained Release(s)* Refills:*0*
+9. Lipitor 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+10. Probenecid 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 891**] VNA
+
+Discharge Diagnosis:
+CAD and aortic stenosis.
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Patient to be discharge home. Avoid strenous activity for the
+next 5-6 weeks. If patient experiences acute shortness of breath
+or chest pain go directly to emergency room. Patient can shower
+with soap and water. Avoid soaking in a bath for 3 weeks.
+
+Followup Instructions:
+Provider: [**Last Name (Prefixes) **],[**First Name3 (LF) **]  [**Telephone/Fax (1) 425**]  Follow-up appointment
+should be in 1 month
+Provider: [**Name10 (NameIs) 33703**] cardiologist  Appointment should be in [**7-28**] days
+
+
+
+
+
+DOC CLASS

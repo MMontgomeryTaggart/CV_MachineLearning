@@ -1,0 +1,220 @@
+CVICU
+   HPI:
+   HD2
+   67 yo s/p AVR [**3-15**], admit [**2-17**] w/fevers, +bld cx peptostreptococcus,
+   elevated lactate, ARF, CHB. Has required temporary pacing
+   wire(replaced/resited [**3-11**]), dobutamine/levophed dependant-EF 20-25 [**3-6**]
+   down from normal on [**2-18**], thrombus in LAA/LA, severe TR mod TV veg
+   attached to atrial wall, RV depressed, Ao root dialation, reduced AV
+   leaflet excursion, prob infected AV
+   PMH:s/p AVR [**3-15**], EtOH abuse-h/o DT, GI-gastric ulcers [**2-22**], L frontal
+   CVA, cirrhosis-childs B, s/p dental extraction for severe periodontal
+   disease and abscess, CHF, h/o afib
+   Chief complaint:
+   PMHx:
+   Current medications:
+   1. 2. 3. Acetylcysteine 20% 4. Chlorhexidine Gluconate 0.12% Oral Rinse
+   5. Ciprofloxacin 6. Ciprofloxacin
+   7. DOBUTamine 8. DOBUTamine 9. Influenza Virus Vaccine 10. Insulin 11.
+   Lorazepam 12. Lorazepam
+   13. MetRONIDAZOLE (FLagyl) 14. Miconazole Powder 2% 15. Norepinephrine
+   16. Pantoprazole 17. Silver Sulfadiazine 1% Cream
+   18. Sodium Chloride 0.9% Flush 19. Sodium Chloride 0.9% Flush 20.
+   Vancomycin
+   24 Hour Events:
+ PAN CULTURE - At [**3096-3-12**] 09:00 PM
+   fungal and blood culture x 2
+   urine
+   sputum
+   mrsa swab
+ ARTERIAL LINE - START [**3096-3-12**] 09:00 PM
+ MULTI LUMEN - START [**3096-3-12**] 09:00 PM
+ INVASIVE VENTILATION - START [**3096-3-12**] 09:00 PM
+ CORDIS/INTRODUCER - START [**3096-3-12**] 09:01 PM
+   placed at [**Hospital1 **], cordic introducer with transvenous pacing wire,
+ EKG - At [**3096-3-12**] 10:30 PM
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3096-3-12**] 11:00 PM
+   Metronidazole - [**3096-3-13**] 08:00 AM
+   Infusions:
+   Norepinephrine - 0.05 mcg/Kg/min
+   Dobutamine - 5 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3096-3-13**] 12:00 AM
+   Heparin Sodium (Prophylaxis) - [**3096-3-13**] 04:00 AM
+   Lorazepam (Ativan) - [**3096-3-13**] 04:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3096-3-13**] 09:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**99**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 37.8
+C (100
+   HR: 69 (58 - 83) bpm
+   BP: 106/57(73) {93/52(60) - 127/70(246)} mmHg
+   RR: 20 (15 - 27) insp/min
+   SPO2: 100%
+   Heart rhythm: JR (Junctional Rhythm)
+   Wgt (current): 110.4 kg (admission): 104 kg
+   Height: 71 Inch
+             Total In:
+                                                                    312 mL
+                                                                  1,206 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    312 mL
+                                                                  1,206 mL
+   Blood products:
+   Total out:
+                                                                    190 mL
+                                                                    440 mL
+   Urine:
+                                                                    190 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    122 mL
+                                                                    766 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 30%
+   RSBI Deferred: No Spon Resp
+   PIP: 26 cmH2O
+   Plateau: 17 cmH2O
+   Compliance: 45.8 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.47/35/120/23/2
+   Ve: 10.2 L/min
+   PaO2 / FiO2: 400
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : ), (Sternum: Stable ), old sternal incision that has
+   healed
+   Abdominal: Soft, Non-distended, Non-tender, No(t) Bowel sounds present
+   Left Extremities: (Edema: 4+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Right Extremities: (Temperature: Warm), (Pulse - Dorsalis pedis:
+   Diminished), (Pulse - Posterior tibial: Diminished)
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   No(t) Moves all extremities, (RUE: Weakness), (LUE: Weakness), (RLE:
+   Weakness), (LLE: Weakness), Sedated
+   Labs / Radiology
+   157 K/uL
+   10.4 g/dL
+   118 mg/dL
+   1.1 mg/dL
+   23 mEq/L
+   4.6 mEq/L
+   33 mg/dL
+   108 mEq/L
+   141 mEq/L
+   31.6 %
+   6.1 K/uL
+        [image002.jpg]
+                             [**3096-3-12**]  08:59 PM
+                             [**3096-3-12**]  09:27 PM
+                             [**3096-3-13**]  03:37 AM
+                             [**3096-3-13**]  03:51 AM
+                             [**3096-3-13**]  08:00 AM
+   WBC
+   6.5
+   6.1
+   Hct
+   33.9
+   31.6
+   Plt
+   161
+   157
+   Creatinine
+   1.2
+   1.1
+   Troponin T
+   6.02
+   TCO2
+   26
+   25
+   26
+   Glucose
+   115
+   112
+   118
+   Other labs: PT / PTT / INR:17.0/59.5/1.5, CK / CK-MB / Troponin
+   T:57//6.02, ALT / AST:54/111, Alk-Phos / T bili:243/1.3, Amylase /
+   Lipase:53/81, Differential-Neuts:70.5 %, Lymph:21.1 %, Mono:5.6 %,
+   Eos:2.7 %, Lactic Acid:1.5 mmol/L, Albumin:2.6 g/dL, LDH:698 IU/L,
+   Ca:7.8 mg/dL, Mg:1.9 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   ENDOCARDITIS, OTHER, ALCOHOL ABUSE, DECUBITUS ULCER (PRESENT AT
+   ADMISSION)
+   Assessment and Plan:
+   Neurologic: Intubated, Sedated, -S/P DT's. Wean Ativan , Ativan [**Hospital1 7**]. No
+   current evidence of DT'S.Check Ammonia Level
+   Cardiovascular: S/p Bioprosthetic AVR, Now with with Endocarditis
+   complicated with Cardiogenic shock.ef25%-with tricuspid valve
+   endocarditis and Complete heart block which temporary transvenous pacer
+   was placed at [**Hospital1 **]. Now on Dobutamine and levophed wean as
+   tolerated MAP > 60 and CI > 2.0 and initiate vigilio, TEE today to
+   evalaute valves and LV function
+   Pulmonary: Cont ETT, (Ventilator mode: CMV), Plan to CPAP after TEE,
+   adequate blood gases on current ventilator settings
+   Gastrointestinal / Abdomen: OG to gravity, Liver consult to evaluate
+   cirrhosis - u/s to evaluate for ascites and liver flow, classification
+   Childs B based on data from [**Hospital1 **], check hepatitis serologies
+   Nutrition: NPO, resume tube feeds if unable to extubate
+   Renal: Foley, monitor fluid balance with goal to run even
+   Hematology: stable anemia
+   Endocrine: RISS, goal BG < 150, check Hgb A1C
+   Infectious Disease: ID consult for endocaritis - blood cultures 1/10
+   [**3-9**] positive for peptostrepto coccus currently on vancomycin, flagyl,
+   and cipro awaiting additional culture date from [**Hospital1 **], normal WBC 6,
+   and afebrile
+   Lines / Tubes / Drains: Foley, OGT, ETT, cordis - rt subclavian only
+   line from [**Hospital1 **] - changed [**3-11**] with screw in temporary ([**Company **]
+   6416),
+   foley from [**Hospital1 **] - change today
+   Wounds: Skin care evaluation due to multiple skin break down see
+   admission note
+   Imaging: CT scan abd today, CT scan chest today, LE vascular US , start
+   SCD if lower ultrasounds negative
+   Fluids: KVO
+   Consults: CT surgery, ID dept, P.T., Nutrition, EP dept, hepatology
+   Billing Diagnosis: Arrhythmia, (Respiratory distress: Failure), (Shock:
+   Unspecified)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3096-3-12**] 09:00 PM
+   Multi Lumen - [**3096-3-12**] 09:00 PM
+   Cordis/Introducer - [**3096-3-12**] 09:01 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments: heparin SQ discontinued due to elevated PTT - CT to evaluate
+   for PE and LE u/s to r/o DVT - place SCD after u/s negative
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 40 minutes
+
+
+DOC CLASS

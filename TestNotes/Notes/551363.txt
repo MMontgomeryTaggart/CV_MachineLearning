@@ -1,0 +1,150 @@
+Chief Complaint: resp dostress, hypotension
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ ULTRASOUND - At [**3317-2-1**] 01:00 PM
+   renal US
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3317-1-31**] 09:57 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3317-2-2**] 08:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 60 (60 - 66) bpm
+   BP: 94/54(54) {66/38(45) - 109/69(72)} mmHg
+   RR: 12 (9 - 19) insp/min
+   SpO2: 99%
+   Heart rhythm: AV Paced
+   Wgt (current): 75 kg (admission): 75 kg
+             Total In:
+                                                                  3,533 mL
+                                                                  1,083 mL
+   PO:
+                                                                     60 mL
+             TF:
+   IVF:
+                                                                  3,473 mL
+                                                                  1,083 mL
+   Blood products:
+   Total out:
+                                                                    407 mL
+                                                                     10 mL
+   Urine:
+                                                                    407 mL
+                                                                     10 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,126 mL
+                                                                  1,073 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///18/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   9.9 g/dL
+   236 K/uL
+   104 mg/dL
+   5.0 mg/dL
+   18 mEq/L
+   4.2 mEq/L
+   67 mg/dL
+   108 mEq/L
+   140 mEq/L
+   29.3 %
+   5.7 K/uL
+        [image002.jpg]
+                            [**3317-1-31**]  11:16 PM
+                            [**3317-2-1**]  11:16 AM
+                            [**3317-2-2**]  01:31 AM
+   WBC
+   5.7
+   5.6
+   5.7
+   Hct
+   29.0
+   29.9
+   29.3
+   Plt
+   263
+   261
+   236
+   Cr
+   5.4
+   5.1
+   5.0
+   Glucose
+   168
+   127
+   104
+   Other labs: PT / PTT / INR:20.6/31.0/1.9, Ca++:8.0 mg/dL, Mg++:2.7
+   mg/dL, PO4:6.6 mg/dL
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK)
+ COUGH
+ IMPAIRED SKIN INTEGRITY
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ URINARY TRACT INFECTION (UTI)
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+   1.       Hypotension: etiology likely dehydration with some SIRS in
+   setting of UTI and possible PNA
+   2.       ARF: DDx is dehydration is concern with FeNa of 0.5%, but
+   checked urine eos neg, and will check renal US in case she has a post
+   obstr process with UTI/stone looking for hydro.
+   3.       UTI: Double cover for GNR with quinolone and 3rd gen
+   cephalosporin in case of resistance
+   4.       Pleural effusion: etiology unclear  - may be large transudate
+   due to heart failure but parapneumonic and malignancy are also of
+   concern. Will plan for thoracentecis but need to speak with daughter
+   Update on overall gaols of care
+ we have learned that while at [**Hospital **]
+   Rehab with aggressive diuresis her Cr bumped to 4 and when the issue of
+   HD was brought up family seemed to decline and indeed initiaed
+   cobnversation on possible Palliative Care. Need to meet with daughter
+   at 6Pm to clarify goals before further procedures are done.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3317-1-31**] 07:39 PM
+   22 Gauge - [**3317-2-2**] 02:30 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition :
+   Total time spent:
+
+
+DOC CLASS

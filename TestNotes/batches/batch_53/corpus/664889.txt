@@ -1,0 +1,14 @@
+TITLE: Procedure Note
+   Procedure: DC cardioversion
+   Indication: Atrial flutter, hypotension
+   Methods:  The patient was already intubated and sedated.  He was
+   bolused with 0.5 mg versed and 25 mg fentanyl prior to the procedure.
+   Following a time out, the patient was DC cardioverted with 200J and
+   resumed normal sinus rhythm at 80 bpm.  There were no complications.
+   The patient tolerated the procedure well.
+   Impression: Successful DC cardioversion.  Further management per CCU
+   team.
+   Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **], EP attending, was present for the entire procedure.
+
+
+DOC CLASS

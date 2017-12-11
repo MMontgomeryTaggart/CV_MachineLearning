@@ -1,0 +1,242 @@
+Chief Complaint: Severe septic shock.
+   HPI:
+   42F CVID, HCV cirrhosis p/w Cdiff colitis and severe septic shock.
+   Required multiple pressors, RRT, MV.  Now off CVVH, but recurrent
+   fevers and hypotension.
+   24 Hour Events:
+ PERCUTANEOUS TRACHEOSTOMY - At [**3391-1-21**] 04:48 PM
+ BRONCHOSCOPY - At [**3391-1-21**] 05:07 PM
+   Peri-operative, developed acute pulmonary edema and was diuresed.
+   2U PRBC yesterday.
+   RR decreased for respiratory alkalosis
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Aspirin
+   rectal bleeding
+   Penicillins
+   Rash; Hives;
+   Sulfonamides
+   aseptic menigi
+   Biaxin (Oral) (Clarithromycin)
+   Diarrhea;
+   Levaquin (Oral) (Levofloxacin)
+   Rash;
+   Cefzil (Oral) (Cefprozil)
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   aseptic meningi
+   Erythromycin Base
+   Rash;
+   Last dose of Antibiotics:
+   Daptomycin - [**3391-1-20**] 11:00 PM
+   Metronidazole - [**3391-1-21**] 03:30 PM
+   Vancomycin - [**3391-1-21**] 08:21 PM
+   Meropenem - [**3391-1-22**] 02:57 AM
+   Infusions:
+   Insulin - Regular - 0.5 units/hour
+   Midazolam (Versed) - 8 mg/hour
+   Fentanyl - 250 mcg/hour
+   Other ICU medications:
+   Vecuronium - [**3391-1-21**] 04:25 PM
+   Fentanyl - [**3391-1-21**] 04:55 PM
+   Midazolam (Versed) - [**3391-1-21**] 04:55 PM
+   Furosemide (Lasix) - [**3391-1-21**] 11:36 PM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fever
+   Ear, Nose, Throat: OG / NG tube
+   Cardiovascular: Edema
+   Nutritional Support: Tube feeds, No(t) Parenteral nutrition
+   Respiratory: Tachypnea
+   Genitourinary: Foley
+   Heme / Lymph: Anemia
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**3391-1-22**] 10:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 35.9
+C (96.7
+   HR: 108 (79 - 112) bpm
+   BP: 154/67(91) {114/44(64) - 188/79(111)} mmHg
+   RR: 17 (0 - 29) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 59.9 kg (admission): 64 kg
+   Height: 64 Inch
+   CVP: 19 (5 - 44)mmHg
+   Total In:
+                                                                  9,982 mL
+                                                                  1,668 mL
+   PO:
+   TF:
+                                                                     95 mL
+   IVF:
+                                                                  6,699 mL
+                                                                  1,199 mL
+   Blood products:
+                                                                  1,998 mL
+                                                                    375 mL
+   Total out:
+                                                                  1,849 mL
+                                                                  1,760 mL
+   Urine:
+                                                                  1,614 mL
+                                                                  1,760 mL
+   NG:
+                                                                    235 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  8,133 mL
+                                                                    -91 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: PCV+Assist
+   Vt (Spontaneous): 420 (420 - 420) mL
+   PC : 25 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 33 cmH2O
+   SpO2: 99%
+   ABG: 7.55/28/120/21/3
+   Ve: 8.8 L/min
+   PaO2 / FiO2: 300
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: NG tube, No(t) OG tube, trach
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, No(t) Bowel sounds present
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   10.1 g/dL
+   112 K/uL
+   54 mg/dL
+   0.9 mg/dL
+   21 mEq/L
+   3.3 mEq/L
+   38 mg/dL
+   107 mEq/L
+   141 mEq/L
+   28.2 %
+   11.8 K/uL
+        [image002.jpg]
+                             [**3391-1-21**]  01:29 AM
+                             [**3391-1-21**]  03:53 AM
+                             [**3391-1-21**]  04:06 AM
+                             [**3391-1-21**]  11:55 AM
+                             [**3391-1-21**]  03:21 PM
+                             [**3391-1-21**]  06:53 PM
+                             [**3391-1-21**]  07:09 PM
+                             [**3391-1-21**]  10:53 PM
+                             [**3391-1-22**]  05:02 AM
+                             [**3391-1-22**]  05:21 AM
+   WBC
+   13.4
+   10.1
+   10.0
+   11.8
+   Hct
+   27.6
+   27.4
+   23.3
+   25.2
+   28.2
+   Plt
+   143
+   128
+   117
+   112
+   Cr
+   0.8
+   0.7
+   0.8
+   0.9
+   TropT
+   0.05
+   TCO2
+   21
+   25
+   25
+   25
+   Glucose
+   [**Telephone/Fax (2) 4978**]
+   Other labs: PT / PTT / INR:21.1/41.8/2.0, CK / CKMB /
+   Troponin-T:19//0.05, ALT / AST:58/113, Alk Phos / T Bili:145/18.1,
+   Amylase / Lipase:[**9-23**], Differential-Neuts:76.5 %, Band:4.0 %,
+   Lymph:18.0 %, Mono:4.5 %, Eos:0.6 %, D-dimer:6342 ng/mL, Fibrinogen:202
+   mg/dL, Lactic Acid:2.9 mmol/L, Albumin:2.8 g/dL, LDH:325 IU/L, Ca++:8.6
+   mg/dL, Mg++:2.6 mg/dL, PO4:4.6 mg/dL
+   Imaging: CXR:  b/l patchy opacities improved c/w [**1-21**]
+   Microbiology: BAL micro NTD
+   HD line GPCs
+   Assessment and Plan
+   Sepsis:
+   --Recurrent may be from HD line infection
+   --Continue meropenem.  D/w ID changing vanco to linezolid given h/o VRE
+   and GPCs from line though there is no bacteremia.
+   --Follow fever, WBC
+   --Hypotension resolved.
+   CHF:
+   --Diurese goal 1-2L
+   Cdiff Colitis:
+   Continue IV flagyl, PO/PR vanco.
+   Respiratory Failure:
+   ARDS, cardiogenic pulmonary edema.
+   --Change to PSV with less Pi and potential SBT later today or tomorrow.
+   Sedation:
+   Wean 10% day given did not tolerate more rapid wean.
+   Cirrhosis:
+   --Bilirubin rising but LFTs otherwise stable.  Fractionate bilirubin,
+   continue to follow.
+   Anemia:
+   Drop in Hct yesterday with several possible etiologies including
+   ongoing hemolysis, blood loss during tracheostomy.
+   Continue to monitor.
+   Renal Failure:
+   Creatinine stable off CVVH for 2days now.
+   Renal following.  Cont to follow.
+   Nutrition:
+   High residuals on TFs.
+   Trial of PO narcan given abscence of bowel sounds and high-dose
+   opioids.
+   ICU Care
+   Nutrition:
+   Vivonex (Full) - [**3391-1-22**] 12:24 AM 10 mL/hour
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**3391-1-18**] 09:29 PM
+   20 Gauge - [**3391-1-20**] 06:28 PM
+   Multi Lumen - [**3391-1-20**] 10:30 PM
+   Prophylaxis:
+   DVT: Boots(coagulopathic)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 60 minutes
+   Patient is critically ill
+
+
+DOC CLASS

@@ -1,0 +1,210 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ MULTI LUMEN - START [**3268-7-21**] 12:00 PM
+ NUCLEAR MEDICINE - At [**3268-7-22**] 04:00 AM
+   Has received 5 units PRBCs since presentation to the ED, without
+   appropriate increase in Hct. 2 small maroon-colored BM; no BRBPR.
+   Non-con CT scan prelim read of abd/pelvis showed b/l pleural effusions
+   without retroperitonal or intraperitoneal bleed; radiologist read as
+   nodule potentially consistent with diverticulitis.  Subsequently, he
+   underwent a tagged RBC study performed this AM, which was negative for
+   bleed.  Started on meropenem for UTI (history of ESBLs.)
+   Allergies:
+   Cozaar (Oral) (Losartan Potassium)
+   pt developed so
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3268-7-21**] 04:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3268-7-22**] 07:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 36.7
+C (98
+   HR: 60 (60 - 78) bpm
+   BP: 154/53(78) {122/42(55) - 154/66(87)} mmHg
+   RR: 16 (11 - 29) insp/min
+   SpO2: 98%
+   Heart rhythm: A Paced
+                  Total In:
+                                                                    711 mL
+                                                                    276 mL
+   PO:
+                                                                    100 mL
+                  TF:
+   IVF:
+                                                                     55 mL
+   Blood products:
+                                                                    556 mL
+                                                                    276 mL
+   Total out:
+                                                                     55 mL
+                                                                     55 mL
+   Urine:
+                                                                     55 mL
+                                                                     55 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    656 mL
+                                                                    221 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///25/
+   Physical Examination
+   General:  Alert. In no acute distress.
+   Cardiovascular: Regular rate and rhythm, normal S1 and S2. No murmurs,
+   rubs or gallops.
+   Peripheral Vascular: Warm, well-perfused. Trace edema of the feet.
+   Respiratory: Clear to auscultation bilaterally.
+   Abdomen: Linear midline incision with small amounts of
+   Labs / Radiology
+   176 K/uL
+   9.6 g/dL
+   68 mg/dL
+   5.4 mg/dL
+   25 mEq/L
+   5.2 mEq/L
+   41 mg/dL
+   103 mEq/L
+   140 mEq/L
+   30.6 %
+   6.7 K/uL
+        [image002.jpg]
+                             [**3268-7-21**]  01:00 PM
+                             [**3268-7-21**]  05:45 PM
+                             [**3268-7-21**]  11:43 PM
+                             [**3268-7-22**]  03:27 AM
+   WBC
+   7.1
+   6.7
+   Hct
+   25.5
+   27.9
+   28.7
+   29.3
+   Plt
+   181
+   176
+   Cr
+   4.5
+   5.4
+   TropT
+   0.39
+   0.41
+   0.44
+   Glucose
+   95
+   68
+   Other labs: PT / PTT / INR:14.9/36.7/1.3, CK / CKMB /
+   Troponin-T:37//0.44, Amylase / Lipase:286/246, Differential-Neuts:82.4
+   %, Band:0.0 %, Lymph:9.6 %, Mono:4.8 %, Eos:3.2 %, Ca++:9.0 mg/dL,
+   Mg++:1.8 mg/dL, PO4:7.2 mg/dL
+   Imaging: CT abdomen and pelvis [**3268-7-22**]: .
+   1. No evidence of retroperitoneal hematoma.
+   2. Small bilateral pleural effusions, right greater than left, with
+   adjacent
+   basilar atelectasis.
+   3. 1.4 cm soft tissue density which appears to be contiguous with the
+   transverse colon and may represent an inflamed diverticulum with a
+   small
+   amount of stranding adjacent to it.
+   4. Extensive atherosclerotic disease of the descending aorta and branch
+   vessels.
+   CXR: Interval increase to perihilar opacities bilaterally and right
+   pleural effusion.
+   Assessment and Plan
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+   Assessment and Plan: 78 year old male with a past medical history
+   significant for DM, HTN, atrial fibrillation on coumadin, hx
+   tachy-brady s/p pacemaker, ESRD on HD s/p recent ex-lap for small bowel
+   obstruction with evidence of lower GI bleed.
+   1)  Lower GI Bleed: known diverticular disease, given neg NG lavage in
+   ED upper GI bleed less likely. Received 5 units PRBC
+ Hct 25.5
+   27.9
+28.7
+ 29.3
+ 30.6. Negative tagged RBC scan and maroon-colored
+   stool suggests non-brisk bleed, and stabilization of Hct suggests
+   resolution of active bleed.
+   - Check Hct Q6H
+   - Transfuse to keep HCT >28
+   - Continue PPI daily
+   - F/u surgery and GI recs
+   2) Acute Blood Loss Anemia on Chronic Anemia: GI bleed, but baseline
+   HCT 25-30 likely due to ESRD and anemia of chronic disease.
+   - Trend Hct as above
+   3) Elevated troponin, now stable. Stable CK. Likely represents demand
+   ischemia in the setting of ESRD with decreased renal clearance of
+   troponin. Since troponin has stabilized in the past 24hrs, and he lacks
+   a clinical syndrome consistent with ACS, we will withhold further
+   collection of cardiac enzymes at this time.
+   4) UTI: On Meropenem given history of ESBLs. We can consider narrowing
+   coverage pending identification of pathogen on UCx.
+   -Cont Meropenem day 1 of [**6-22**].
+   -Follow up UCx .
+   5) ESRD: On dialysis MWF. Current evidence of fluid overload but with
+   maintenance of adequate Sp02.
+   - Follow up with renal regarding HD.
+   - Continue nephrocaps, renagel
+   - Darbopoetin at the time of HD
+   6) Soft tissue density on CT suspicious for diverticulitis.  However,
+   he lacks symptoms consistent with diverticulitis such as focal
+   abdominal pain at this time. Although indicated for UTI, his current
+   regimen of meropenem would provide coverage of the most common bacteria
+   associated with diverticulitis (GNR and anaerobes); however, we would
+   not continue meropenem for diverticulitis coverage if UCx allows for
+   the use of a more targeted abx given lack of clinical evidence of
+   diverticulitis.
+   7) DM
+   -- Continue HISS
+   6) Atrial fibrillation, s/p ablation, now paced.
+   -- Continue amiodarone.
+   --Continue to hold warfarin, aspirin and BB held in setting of bleed.
+   7) HTN:
+   --Continue to hold antihypertensives in setting GI bleed
+   8)  Dyslipidemia:
+   --Continue simvastatin
+   # Secondary hyperparathyroidism: cont cinacelcet
+   - unclear why also on paricalcitol will need to speak to Radius
+   # S/P lysis of adhesions: cont to control pain, use iv morphine prn
+   # FEN:NPO
+   # Prophylaxis: pneumoboots, ppi
+   # Access: peripherals and central line
+   -- subclavian central line appears to be from last discharge [**7-12**], in
+   place. Site looks clean. Needs dressing change.
+   # Code: FULL
+   # Communication: Patient, patient's wife, [**Name (NI) **], and daughter [**Name (NI) 9785**]
+   phone for both: [**Telephone/Fax (1) 9786**]
+   # Disposition: pending above
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control:  Comments: HISS
+   Lines:
+   Multi Lumen - [**3268-7-21**] 12:00 PM
+   18 Gauge - [**3268-7-21**] 12:00 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

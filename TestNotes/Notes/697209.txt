@@ -1,0 +1,174 @@
+TITLE:
+   Chief Complaint: Hypotension/Pneumonia
+   24 Hour Events:
+   --changed parameters on metoprolol (hold MAP < 55)
+   --gave an additional metoprolol 12.5 mg at 5 pm due to HR > 100
+   --patient on schedule for CT surgery on [**2579-4-27**]
+   --will not hold aspirin prior to surgery per CT surgery
+   History obtained from Family / Friend, Medical records
+   Allergies:
+   History obtained from Family / Friend, Medical [**Name2 (NI) 2443**] Known Drug
+   Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2579-4-22**] 08:36 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2579-4-23**] 06:28 AM
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**2579-4-22**] 11:31 AM
+   Heparin Sodium (Prophylaxis) - [**2579-4-23**] 04:34 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-4-23**] 07:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 36.2
+C (97.1
+   Tcurrent: 35.6
+C (96.1
+   HR: 97 (66 - 120) bpm
+   BP: 77/54(59) {72/46(52) - 95/74(79)} mmHg
+   RR: 18 (12 - 36) insp/min
+   SpO2: 99%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 72.7 kg (admission): 77.4 kg
+   Height: 69 Inch
+             Total In:
+                                                                  1,644 mL
+                                                                    327 mL
+   PO:
+                                                                  1,110 mL
+                                                                    150 mL
+   TF:
+   IVF:
+                                                                    534 mL
+                                                                    177 mL
+   Blood products:
+   Total out:
+                                                                  2,172 mL
+                                                                    620 mL
+   Urine:
+                                                                  2,172 mL
+                                                                    620 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -528 mL
+                                                                   -294 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///35/
+   Physical Examination
+   GEN: NAD, AOX3
+   HEENT: JVP 12cm
+   CARD: RRR, SEM at the USB
+   PULM: bibasilar rales, decreased breath sounds at R base
+   ABD: soft, NT, ND, no masses
+   EXT: WWP, no c/c/e
+   NEURO: AOx3, grossly normal
+   Labs / Radiology
+   115 K/uL
+   11.2 g/dL
+   100 mg/dL
+   0.9 mg/dL
+   35 mEq/L
+   3.7 mEq/L
+   15 mg/dL
+   93 mEq/L
+   133 mEq/L
+   34.9 %
+   8.3 K/uL
+        [image002.jpg]
+                             [**2579-4-17**]  07:06 AM
+                             [**2579-4-17**]  09:37 AM
+                             [**2579-4-17**]  11:24 AM
+                             [**2579-4-17**]  05:22 PM
+                             [**2579-4-18**]  03:26 AM
+                             [**2579-4-19**]  03:01 AM
+                             [**2579-4-20**]  03:04 AM
+                             [**2579-4-21**]  04:01 AM
+                             [**2579-4-22**]  03:59 AM
+                             [**2579-4-23**]  04:01 AM
+   WBC
+   11.7
+   10.8
+   11.8
+   9.5
+   9.6
+   8.3
+   Hct
+   37.9
+   35.1
+   38.3
+   36.8
+   34.6
+   39.2
+   34.9
+   Plt
+   273
+   224
+   206
+   159
+   148
+   115
+   Cr
+   1.6
+   1.5
+   1.5
+   1.3
+   1.2
+   1.0
+   0.9
+   0.9
+   0.9
+   TCO2
+   31
+   Glucose
+   [**Telephone/Fax (2) 11883**]
+   127
+   92
+   96
+   101
+   100
+   Other labs: ALT / AST:886/928, Alk Phos / T Bili:156/1.2, Lactic
+   Acid:2.3 mmol/L, Albumin:2.8 g/dL, Ca++:7.9 mg/dL, Mg++:2.0 mg/dL,
+   PO4:2.7 mg/dL
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ PNEUMONIA, OTHER
+ IMPAIRED SKIN INTEGRITY
+   79 year old man with hospital-acquired pneumonia, who has failed
+   outpatient treatment with azithromycin, and then levofloxacin, now
+   admitted with worsening dyspnea, CXR evidence of worsening pna and
+   leukocytosis all suggestive of HAP.
+   # HAP: improving but continues to have cough. Treating with zosyn and
+   vanco x 10 day course.
+   -cont zosyn and vancomycin
+   -continue to f/u cultures
+   -guaifenasin/cough suppressants and chest
+   #  Atrial tachycardia: not tolerated well given systolic CHF and
+   critical AS.
+   -continue to uptitrate beta [**Last Name (LF) 751**], [**First Name3 (LF) 119**] discuss with cardiology using
+   amiodarone
+   # Systolic CHF / Critical AS: Plan for AVR when antibiotic course for
+   pneumonia completed. Most likely will keep prior surgery date of
+   [**2579-4-27**].
+   -d/[**Initials (NamePattern4) 11952**] [**Doctor First Name 86**]
+   -i/o balance even
+   -daily weights
+   -BP goal MAP > 55, monitor UOP and MS
+   [**Name13 (STitle) **]/c foley
+   ACCESS: PIV x2
+   CODE: FULL
+   DISPO: ICU
+
+
+DOC CLASS

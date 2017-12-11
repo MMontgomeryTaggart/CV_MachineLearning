@@ -1,0 +1,194 @@
+Chief Complaint: septic shock
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   75 y/o M w/COPD, CAD, PVD, now with a complicated hospitalization s/p
+   MRSA wound infection, admitted to the MICU with hypotension
+   24 Hour Events:
+   - over weekend, daptomycin discontinued
+   - acinetobacter growing from pleural fluid on R
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2603-8-19**] 11:47 AM
+   Metronidazole - [**2603-8-20**] 04:00 AM
+   Daptomycin - [**2603-8-20**] 04:15 PM
+   Meropenem - [**2603-8-22**] 06:28 AM
+   Infusions:
+   Heparin Sodium - 1,300 units/hour
+   Other ICU medications:
+   Morphine Sulfate - [**2603-8-22**] 08:00 AM
+   Other medications:
+   eucerin cream, pravastatin, lansoprazole, aspirin, neurontin, atrovent
+   nebs, insulin sliding scale, plavix, tylenol q6h, hydrocortisone 50
+   q8h, neutraphos, lopressor 25 tid, synthroid
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2603-8-22**] 10:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.1
+C (98.7
+   HR: 87 (87 - 120) bpm
+   BP: 129/58(88) {105/46(69) - 154/77(112)} mmHg
+   RR: 15 (15 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+   CVP: 10 (6 - 15)mmHg
+   Total In:
+                                                                  2,463 mL
+                                                                  1,160 mL
+   PO:
+   TF:
+                                                                  1,204 mL
+                                                                    523 mL
+   IVF:
+                                                                    940 mL
+                                                                    467 mL
+   Blood products:
+   Total out:
+                                                                  1,673 mL
+                                                                    929 mL
+   Urine:
+                                                                    948 mL
+                                                                    739 mL
+   NG:
+   Stool:
+   Drains:
+                                CT 100 on L, 90 on R over past 12 hours mL
+   Balance:
+                                                                    790 mL
+                                                                    231 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: 7.35/60/78
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: Normocephalic, NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic), II/VI
+   SEM at apex
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ),
+   actively gurgling secretions
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 1+, Left: Absent, necrotic toes on left, unchanged
+   Skin:  Warm
+   Neurologic: Responds to: Noxious stimuli, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   9.3 g/dL
+   484 K/uL
+   121 mg/dL
+   0.5 mg/dL
+   30 mEq/L
+   4.8 mEq/L
+   27 mg/dL
+   106 mEq/L
+   139 mEq/L
+   28.7 %
+   10.5 K/uL
+        [image002.jpg]
+                             [**2603-8-20**]  12:02 PM
+                             [**2603-8-20**]  08:02 PM
+                             [**2603-8-21**]  02:30 AM
+                             [**2603-8-21**]  02:57 AM
+                             [**2603-8-21**]  03:42 AM
+                             [**2603-8-21**]  08:26 AM
+                             [**2603-8-21**]  09:26 AM
+                             [**2603-8-21**]  12:34 PM
+                             [**2603-8-22**]  03:28 AM
+                             [**2603-8-22**]  04:21 AM
+   WBC
+   15.7
+   10.5
+   Hct
+   30.1
+   28.7
+   Plt
+   [**Telephone/Fax (3) 5440**]
+   Cr
+   0.5
+   0.4
+   0.5
+   TropT
+   0.12
+   TCO2
+   34
+   34
+   34
+   34
+   33
+   35
+   Glucose
+   147
+   126
+   121
+   Other labs: PT / PTT / INR:13.8/81.6/1.2, CK / CKMB /
+   Troponin-T:21/4/0.12, ALT / AST:33/30, Alk Phos / T Bili:54/0.4,
+   Amylase / Lipase:24/10, Differential-Neuts:89.5 %, Lymph:6.2 %,
+   Mono:4.2 %, Eos:0.1 %, Lactic Acid:0.7 mmol/L, LDH:218 IU/L, Ca++:8.4
+   mg/dL, Mg++:2.5 mg/dL, PO4:3.2 mg/dL
+   Imaging: CXR: worsened LLL infiltrate, bilateral pigtail catheters in
+   place
+   Microbiology: Pleural fluid on R growing 4+ acinetobacter, sensitive
+   only to bactrim (resistant to imipenem)
+   Pleural fluid on L negative
+   Assessment and Plan
+   75 y/o M w/COPD, CAD, PVD, now with a complicated hospitalization s/p
+   MRSA wound infection, admitted to the MICU with septic shock, likely
+   source is pleural space.
+   1. Shock:  BP improved overweekend. Likely source is pleural fluid as
+   he is growing acinetobacter.
+   - appreciate ID input; will discuss gram negative coverage with them as
+   acinetobacter is resistant or insensitive to all antibiotics tested
+   except for bactrim
+   - continue stress dose steroids: today is day 4; will taper to 50 [**Hospital1 **]
+   2. PVD/necrotic foot:  Eventually needs AKA and fem-fem bypass.
+   Vascular surgery following.  On heparin gtt.
+   3. CAD/CHF:  On aspirin, plavix, statin.  Per Cardiology, will need
+   persantine MIBI prior to surgery but not currently ready for surgery so
+   will hold off on this.
+   - diurese today as appears volume overloaded, bp is stable
+   4. Altered mental status:  Less interactive this AM.  Yesterday morning
+   was reportedly A&O x3.  Has had intermittent delirium throughout
+   hospital course.
+   - repeat ABG
+   - hold morphine for now
+   5. AFib:  On metoprolol, heparin gtt.
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2603-8-22**] 08:18 AM 50 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Blood sugar well
+   controlled
+   Lines:
+   Multi Lumen - [**2603-8-18**] 11:34 AM
+   Arterial Line - [**2603-8-18**] 11:35 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   Patient is critically ill
+
+
+DOC CLASS

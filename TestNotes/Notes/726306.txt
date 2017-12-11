@@ -1,0 +1,241 @@
+TITLE:
+   Chief Complaint:  Fever, hypoxia
+   HPI:
+   Mr. [**Known patient firstname 1025**] [**Known patient lastname 13070**] is a 55 year old man with history of left cerebellar
+   stroke, R temporal lobe astrocytoma and recurrent meningiomas s/p
+   resection, seizure disorder, PE in [**10-12**] on Coumadin, hypertension, and
+   urosepsis presents from his nursing home with fever and hypoxia.
+   Patient is alert but nonverbal at baseline.  Per his wife he normally
+   waxes / wanes in his ability to interact, on good days he is able to
+   maintain eye contact, have minimal movement and make sounds but not
+   formulate words.  He has been less interactive since 3 days prior to
+   admission.  Per the wife he did not localize anything specific,
+   although he did seem to have pain when his head was moved.  By his
+   nursing home staff he was found today to be markedly less responsive,
+   in addition he was found to be tachycardic and hypoxic to the 80s on
+   room air.  He was started on 8L NC and his oxygenation did not improve,
+   he was given 1 gram of tylenol prior to his arrival to the ER.
+   .
+   Of note, patient was recently discharged from [**Hospital1 17**] [**3140-2-28**] after
+   admission for urosepsis. This admission was complicated by altered
+   mental status found to represent increased seizure activity in the
+   setting of sepsis as well as acute renal failure believed to be
+   prerenal and intrinsic from antibiotic therapy.  During this recent
+   admission he developed a coagulopathy that initially required vitamin K
+   and subsequently a lovenox bridge to acheive goal INR. He had
+   significant dysphagia that required a restricted diet and NGT feedings.
+   He was discharged to an LTAC with instructions to complete a 2 week
+   course of Unasyn (for Aerococcus viridans positive urine cx [**3140-2-17**]).
+   Since his discharge he underwent G-tube placement.
+   .
+   In the ED, initial VS: T 98.4 Rectal 103.6 HR 124 BP 108/73 RR 28 SpO2
+   95% on NRB.   His WBC was noted to be 47.6 with 2% bands.  He was given
+   vancomycin and zosyn, ibuprofen, and lovenox 60mg SQ. He received at
+   total of 4L NS.
+   .
+   Vitals prior to transfer, HR 97 BP 99/72 RR 18 SpO2 99% on NRB.
+   He underwent CXR which revealed possible LLL infiltrate (my read).  His
+   U/a was negative.
+   .
+   ROS: Unable to attain due to patient's mental status.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Unresponsive
+   Allergies:
+   Codeine
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Cefipime - [**3140-3-19**] 06:08 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   - R temporal lobe astrocytoma s/p resection and XRT
+   - Multiple meningiomas s/p resections, XRT, Cyberknife [**3139-8-29**],
+   with residual cognitive deficit including memory/attention
+   problems
+   - L superior cerebellar infarct [**2-13**] with severe scanning
+   dysarthria, dysphagia, left leg weakness
+   - Seizure disorder
+   - PE in [**10-12**], started on Coumadin
+   - HTN
+   - UTI in [**10-12**], Proteus sensitive to Cipro
+   - UTI in [**2-14**], Aerococcus viridans
+   - Left thyroid nodule, stable since [**3134**]
+   - G tube placement [**3140-3-12**]
+   Per OMR -- Mother has breast cancer, father had heart disease,
+   hypertension, arrhythmia, macular degeneration, prostate cancer,
+   type 2 diabetes.
+   .
+   Occupation: unemployed
+   Drugs: None
+   Tobacco: None
+   Alcohol: None
+   Other:
+   Review of systems: Unable to attain
+   Flowsheet Data as of [**3140-3-19**] 07:09 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**42**] AM
+   Tmax: 36
+C (96.8
+   Tcurrent: 36
+C (96.8
+   HR: 86 (79 - 94) bpm
+   BP: 98/59(68) {87/55(62) - 117/79(87)} mmHg
+   RR: 13 (13 - 24) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             7,293 mL
+   PO:
+             TF:
+   IVF:
+   3,293 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    740 mL
+   Urine:
+   740 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  6,553 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: 7.41/39/85.[**Numeric Identifier 119**]//0
+   PaO2 / FiO2: 85
+   Physical Examination
+   GENERAL: Appears comfortable, responds to painful stimuli only
+   HEENT:  MM slightly dry, pupils constricted bilaterally minimal
+   reactivity.  JVP 7cm.
+   CARDIAC:  RRR, no m/r/g
+   LUNG:  CTAB anteriorly
+   ABDOMEN:  soft, ND, winces with deep palpation, no masses or
+   organomegaly.  BS absent.  G tube site c/d/i.
+   EXT: cool extremities, + mottled hands, knees, feet, no clubbing or
+   edema
+   NEURO:  The patient is unresponsive to verbal stimuli, winces to
+   painful stimuli.  Winces with neck movement, negative kernig /
+   brudzinski signs.
+   Labs / Radiology
+   353 K/uL
+   8.8 g/dL
+   27.1 %
+   29.1 K/uL
+        [image002.jpg]
+                                  [**3136-1-6**]
+                          2:33 A3/16/[**3140**]  02:49 PM
+                                  [**3136-1-10**]
+                         10:20 P3/16/[**3140**]  06:48 PM
+                                  [**3136-1-11**]
+                                   1:20 P
+                                  [**3136-1-12**]
+                                   11:50 P
+                                  [**3136-1-13**]
+                                   1:20 A
+                                  [**3136-1-14**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3136-2-6**]
+                                   1:20 P
+                                  [**3136-2-6**]
+                                   11:20 P
+                                  [**3136-2-6**]
+                                   4:20 P
+   WBC
+                                    29.1
+   Hct
+                                    27.1
+   Plt
+                                     353
+   TC02
+                                     26
+   Other labs: Lactic Acid:1.9 mmol/L
+   Assessment and Plan
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   55 yoM w/ baseline neurologic deficts related astrocytoma/meningioma
+   resections and previous CVA [**2-6**] XRT, nursing home resident, presents
+   with fever, leukocytosis, hypoxia and tachycardia.
+   .
+   #  Sepsis: Leukocytosis, fever, tachycardia, and hypotension on
+   presentation with several possible sources of infection.  Most likely
+   source currently being pulmonary with a LLL infiltrate, hypoxia,
+   increased sputum production and aspiration risk. Other sources of
+   infection include recent GI procedure (G-tube placement), recent PICC
+   line, decubitus ulcer, C. diff given recent antibiotic course, and
+   urosepsis as patient has a history of recurrent UTIs.  Will evaluate
+   for intraabdominal source such as C. diff or cholecystitis given high
+   grade leukocytosis and abdominal tenderness.  Decubitus coccygeal ulcer
+   is also present and remains a possible source of infection, though
+   currently does not appear to be the primary contributor to his
+   presentation.
+   -obtain LFTs
+   -serial abdominal exams
+   -f/u final read of CXR
+   -obtain ECHO
+   -follow up blood/urine culture
+   -send sputum culture
+   -repeat Lactate
+   -currently hemodynamically stable, will place foley to monitor UOP
+   -s/p 3L IVF, continue steady bolus for tachycardia, hypotension or low
+   UOP
+   -continue empiric abx- had recently rec'd unasyn so will use cefepime
+   (rather than zosyn started in ED) and vancomycin
+   -currently no central line, the patient currently has 2 x 18g PIVs and
+   is hemodynamically stable, JVP appears to be 10cm so will defer CVL for
+   now.
+   .
+   # Hypoxia: Likely secondary to pneumonia given increased sputum
+   production, risk of aspiration, and fever. Early ARDS less likely based
+   on CXR.  Hypoxia largely resolved with deep suctioning on arrival to
+   the unit.
+   -obtain ABG
+   -attempt to wean O2 to assess O2 requirement
+   -f/u final read of CXR
+   -repeat CXR in am after fluid resuscitation
+   -send sputum
+   .
+   # ARF- Baseline Cr is 1-1.2.  Currently 1.6 and oliguric.  Assuming
+   prerenal etiology as patient appear clinically dry and hypoperfused.
+   - place foley
+   - send urine lytes
+   - oliguria appears to be fluid responsive
+   .
+   #  Altered Mental Status: Very poor baseline cognitive reserve
+   secondary to strokes, meningioma, astrocytoma, brain and tumor
+   resections, exacerbated by current infection.  Monitor as he is being
+   treated for infection.
+   .
+   # h/o seizure disorder: continue Keppra, renally dose.  (was on 1g [**Hospital1 **],
+   will start with 500mg IV bid and adjust based on renal function).
+   .
+   # h/o PE: on coumadin at home, will hold coumadin as may require
+   procedures. Given lovenox in ER, will hold off on that for now as his
+   hypoxia seems to be related to PNA versus aspiration.  Start heparin
+   gtt when INR subtherapeutic.
+   .
+   # Goals of Care: Patient currently full code per wife.  She would like
+   to discuss goals of care with their son and readdress tomorrow.  She
+   was offered social work and palliative care and expressed interest in
+   meeting with both groups.
+   .
+   # FEN: IVFs / replete lytes prn / NPO
+   # PPX: PPI, INR therapeutic, continue wound care
+   # ACCESS: 18 g PIV x 2
+   # CODE: FULL  though wife would like to further discuss
+   # CONTACT:  Wife
+   # ICU CONSENT:
+   # DISPO: ICU
+
+
+DOC CLASS

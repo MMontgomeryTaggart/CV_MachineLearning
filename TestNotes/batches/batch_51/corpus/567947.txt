@@ -1,0 +1,177 @@
+Chief Complaint:  wheezing, SOB
+   I saw and examined the patient, and was physically present with the ICU
+   Fellow for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   81 yo M with wheezing and SOB x few weeks, new, with minimal exertion,
+   sometimes at rest, sometimes with exertion. No
+   cough/fever/palp/N/V/PND/orthopnea. Has experienced worseing CP and
+   GERD symptoms lately. Was supposed to get CT trachea as outpt.
+   ED: VSS, RR 24, wheezing. Got ASA, IVF. Got bipap in ED for wheezing,
+   ceftriaxone, steroids. ABG 7.45/39/.522 on bipap. Med res reported that
+   patient looked blue and wheezy like COPD exacerbation, but patient
+   doesnt have a hx for it. EKG showed new Q waves and TWI c/w old. Trop
+   0.34, flat CK 62. Started on iv heparin. CTA ruled out PE. ? Bibasilar
+   consolidations c/w aspiration. Then went into Afib RVR and started on
+   cardizem and metoprolol.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Diltiazem - 15 mg/hour
+   Heparin Sodium - 850 units/hour
+   Other ICU medications:
+   Other medications:
+   Medications at home:
+   Omeprazole 20mg daily
+   ASA 81 mg daily
+   Motilium 10mg daily
+   Levothyroxine 75mcg daily, recently stopped
+   Past medical history:
+   Family history:
+   Social History:
+   GERD s/p fundoplication [**2602**]
+   HTN
+   Charcot [**Doctor First Name 15**] Tooth Disease: demyelinating neuropathy, stork legs, uses
+   walker
+   Pancreatitis
+   Laminectomy [**2617**]
+   Colonoscopy: [**2619**] polyp, LGI bleed
+   N/C
+   Occupation: retired
+   Drugs: no
+   Tobacco: never
+   Alcohol: no
+   Other: wife
+   Review of systems:
+   Cardiovascular: Chest pain
+   Respiratory: Cough, Dyspnea, Wheeze
+   Gastrointestinal: heartburn
+   Flowsheet Data as of [**2625-3-11**] 09:29 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.5
+C (95.9
+   Tcurrent: 35.3
+C (95.6
+   HR: 68 (68 - 131) bpm
+   BP: 112/69(67) {94/35(50) - 114/79(84)} mmHg
+   RR: 23 (21 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: A Flut (Atrial Flutter)
+             Total In:
+             193 mL
+   PO:
+             TF:
+   IVF:
+   193 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    785 mL
+   Urine:
+   785 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -592 mL
+   Respiratory
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 97%
+   ABG: ///23/
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Poor dentition, No JVD
+   Cardiovascular: S1S2 irreg
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed), All present
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Crackles : at bases, Wheezes : polyphonic)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): x 3, Movement: Not assessed, Tone: Not
+   assessed
+   Labs / Radiology
+   173 K/uL
+   27.7 %
+   9.5 g/dL
+   246 mg/dL
+   0.8 mg/dL
+   30 mg/dL
+   23 mEq/L
+   103 mEq/L
+   4.7 mEq/L
+   138 mEq/L
+   2.8 K/uL
+        [image002.jpg]
+                             [**2625-3-11**]  02:28 AM
+   WBC
+                                     2.8
+   Hct
+                                    27.7
+   Plt
+                                     173
+   Cr
+                                     0.8
+   TropT
+                                    0.23
+   Glucose
+                                     246
+   Other labs: PT / PTT / INR:16.8/150.0/1.5, CK / CKMB /
+   Troponin-T:/4/0.23, Ca++:8.3 mg/dL, Mg++:2.5 mg/dL, PO4:4.0 mg/dL
+   Imaging: CT chest: thick esophagus with AF level, posterior bronchial
+   wall thickening with bibasilar infiltrates suggesting acute on chr
+   aspiration.
+   ECG: Irregular rate and rhythm, T wave flattening I-III. T wave
+   inversions V1-V5.  qwaves V1-V2.
+   Assessment and Plan
+ PNEUMONIA, ASPIRATION
+   81 yom with history of GERD s/p fundoplication, HTN, Charcot [**Doctor First Name 15**] Tooth
+   disease who presents to the Emergency room for worsening shortness of
+   breath and wheezing x few weeks associated with severe GERD symptoms
+   and cough. CT chest shows esophageal thickeing and bronchial wall
+   thickening with bibasilar consolidations, suggestive of recurrent
+   aspiration, with thick sputum production. Also, asociated afib with RVR
+   in ED with troponin bump on anticoagulation.
+   Resp/GI: Aspiration pneumonia: Keep NPO till GI evaluated. Keep on
+   Levoflox due yellow productive cough. Check sputum cx. D/c steroids.
+   Nebs for comfort. Wean O2. High dose ppi. Speech and swallow, barum
+   swallow and follow thru, GI consult for endoscopy. Aspiration
+   precautions.
+   Card: Trops coming down. therapeutic anticoagulation for NSTEMI. ASA,
+   tele, holding metoprolol due to bronchospasm, maintain on cardizem
+   iv/po, check TTE. Check TSH.
+   Anemia: Guiac stool, iron studies
+   Pancytopenia: follow clinically
+   I/O: keep even, sugar source
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines / Intubation:
+   20 Gauge - [**2625-3-11**] 01:39 AM
+   18 Gauge - [**2625-3-11**] 01:40 AM
+   Comments:
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 min
+   Patient is critically ill
+
+
+DOC CLASS

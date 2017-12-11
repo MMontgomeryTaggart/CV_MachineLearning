@@ -1,0 +1,286 @@
+Admission Date:  [**3116-11-6**]              Discharge Date:   [**3116-11-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+A.C.E Inhibitors
+
+Attending:[**First Name3 (LF) 259**]
+Chief Complaint:
+respiratory failure
+
+Major Surgical or Invasive Procedure:
+1. intubation
+2. A-line
+
+History of Present Illness:
+[**Age over 90 **] yof Russian speaking only w/ h/o MI x 3, s/p STEMI 10/RCA
+stents
+placed, DDD pacer who presents now with respiratory failure from
+[**Hospital **] Rehab. Per rehab staff, patient had been in her usual
+state of health when she became hypertensive to SBP 190's, HR
+in, sating in 80's requiring nonrebreathing, became unresponsive
+and was then intubated. In the field, patient was given IV Lasix
+40mg and narcan.
+.
+In ED, creatinine 2.2, pH 7.17, HCO3 18, trop 0.06, lactate 2.1.
+CXR consistent with pulmonary congestion/CHF exacerbation. She
+became hypotensive in the SBP 70's with increase in propofol.
+Patient also on nitro gtt. She was then transferred to the CCU
+for further management.
+
+
+Past Medical History:
+1. CAD
+2. Pacesetter A-V pacer for sick sinus syndrome
+3. HTN
+4. Hyperchol
+5. GERD
+6. CRI baseline 2.2
+7. Anemia [**1-12**] CRI
+8. Constipation
+9. Hypothyroid
+10. Afib
+11. Gout
+12. Upon discharge in early [**10-14**] was DNR/DNI to [**Hospital **] Rehab
+
+
+Social History:
+The patient lives alone, but has been at [**Hospital **] Rehab since her
+prior admission. Her daughter is involved with her care. She
+denies EtOH, Illicits, Tobacco.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T99.8  BP 65/40 -> 111/59  HR 80  RR 21  99%
+AC  14x500  Fi02 0.8  PEEP 8.0
+Gen: lying in bed sedated and intubated, somnolent
+HEENT: NCAT, PERRL, Neck supple, No
+bruit, no JVD visible, No LAD
+CV: RRR, nml S1/S2, no extra heart sounds
+Lung: diffuse expiratory wheezes bilaterally, rhonchorous
+Abd: soft, NT, ND, nml BS,
+Ext: no clubbing, cyanosis, nor edema. 2+ DP bilaterally, 1+
+PT bilaterally
+Groin: no hematoma
+Neuro: sedated on intubation
+
+
+Pertinent Results:
+WBC-10.9 RBC-3.98* Hgb-12.3 Hct-39.3 Plt Ct-357
+Neuts-55.6 Lymphs-37.8 Monos-2.9 Eos-2.9 Baso-0.8
+PT-20.4* PTT-30.4 INR(PT)-2.9
+Glucose-350* UreaN-29* Creat-2.2* Na-133 K-4.9 Cl-102 HCO3-18
+CK(CPK)-83 cTropnT-0.06*
+BLOOD CK(CPK)-99 cTropnT-0.22*
+Calcium-8.5 Phos-7.0*# Mg-2.3
+TSH-8.1* Free T4-1.4
+ART Rates-14/15 Tidal V-400 FiO2-100 pO2-96 pCO2-62* pH-7.17*
+calHCO3-24 Base XS--6 AADO2-581 REQ O2-92 -ASSIST/CON
+Intubat-INTUBATED
+Lactate-2.1*
+O2 Sat-98
+freeCa-1.11*
+
+URINE Color-Straw Appear-Clear Sp [**Last Name (un) 7**]-1.010 Nitrite-NEG
+Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG
+pH-5.0 Leuks-NEG
+
+CHEST (PORTABLE AP)  [**3116-11-5**] 10:53 PM
+1. ET tube is seen, with the tip in the right main stem
+bronchus. Withdrawal is recommended by several cm.
+2. Diffusely increased prominence of the pulmonary vasculature,
+consistent with CHF. There is asymmetric increased opacity in
+the right lower lobe, which may represent asymmetric pulmonary
+edema, or a superimposed infectious process. Clinical
+correlation is recommended.
+
+[**3116-11-5**] A-V paced rhythm
+Since previous tracing of [**3116-10-25**], further precordial ST-T wave
+changes
+present
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+80 0 194 444/[**Telephone/Fax (2) 24805**]6
+
+Micro: BCx pending
+Sputum cx mixed resp flora
+
+
+
+Brief Hospital Course:
+A/P: This is a [**Age over 90 **] year old female with history of 3VD s/p RCA
+stents, 80-90% occlusion of LCx and LAD. Last stented for STEMI
+[**10-1**]. Presented from rehab after becoming hypertenive, hypoxic
+and unresponsive, likely had flash pulmonary edema. Patient was
+intubated and brought to [**Hospital1 52**]. Patient was in florid CHF with
+possible aspiration pna after vomitting during OT insertion and
+trop leak likely secondary to myocardial wall stretching.
+.
+#Diarrhea: secondary to over-aggressive bowel regimen. held all
+bowel meds, encouraging PO, bolus with fluids as needed. skin
+care [**1-12**] to irritation from diarrhea and frequent turns to avoid
+sacral decubs.
+.
+#Cardiac:
+a) ischemia: The patient had a history of recurrent stenosis of
+RCA, diffuse 3VD on cath. Initially received IV heparin on the
+floor however given more likely troponin elevation was secondary
+to CHF and no other clear signs of ischemia, it was
+discontinued. Continued on ASA, plavix, simvastatin. started
+lopressor 12.5 PO TID and isosorbide mononitrate ER was changed
+from 60mg to 30mg QD secondary to hypotension on both bb and
+nitrate.
+.
+b) pump: Known history of diastolic CHF. Now with CHF
+exacerbation on CXR. Was not on diuretic as an outpatient. Was
+on lasix gtt with goal of [**12-12**] liters negative. Switched to PO
+lasix and decreased to lasix 20mg PO daily with goal of -500-1L
+negative.
+.
+c) rhythm: The patient has a h/o a/v pacemaker placement in [**3105**]
+for sinus brady.  H/O afib with RVR and AV node ablation to
+prevent tachycardia. In NSR. Continued amiodarone 200mg QD.
+Resuming warfarin at 1mg HS given interaction with
+levoquin.(warfarin 4mg PO QHS outpt dose). warfarin dose may
+need to be adjusted while at rehab and INR levels should be
+checked regularly.
+.
+# Pulm: Was intubated on AC transitioned to pressure support and
+eventually weaned over the course of [**12-12**] days. Now sat'ing in
+90's on 2L NC. Concern for aspiration pneumonia given patient
+vomitted with OT tube placement. Continued on Levoquin and
+Flagyl day [**3-16**] to treat aspiration pneumonia for 1 wk course.
+.
+# Renal: Patient's baseline is 2.2-2.6. Currently at baseline
+however elevated BUN/Cr ratio s/p diuresis. Likely element of
+prerenal azotemia. Gave [**Month/Day (4) 4286**] bolus as needed with improvement
+in Cr.
+.
+# H/O hypothyroidism: Continued synthroid, elevated TSH free T4
+wnl.
+.
+# FEN: Low salt cardiac healthly diet, repleted lytes, dc'd ISS
+w/FSQID as glucose <150.
+.
+# Prophy - therapeutic on coumadin, cont [**Hospital1 9**] protonix, PRN
+colace/senna
+.
+# Code: Discussed code status with patient in the presence of a
+Russian interpreter and patient requested her status to be DNR
+but ****CAN INTUBATE****. Was unable to talk to health care
+proxy regarding code status as she was out of the country at the
+time of this admission.
+.
+# Communication: Daughter in am [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 24806**] ([**Telephone/Fax (1) 24807**]
+(home), ([**Telephone/Fax (1) 24808**] (cell). Pt's immediate family out of the
+country currently. Additional family members [**Telephone/Fax (1) 24809**] in
+town.
+
+Medications on Admission:
+1. Aspirin 325 mg
+2. Clopidogrel 75 mg PO DAILY
+3. Docusate Sodium 100 mg PO BID
+4. Levothyroxine Sodium 25 mcg Tablet PO DAILY
+5. Simvastatin 80 mg Tablet PO DAILY
+6. Acetaminophen 325 mg 1-2 Tablets PO Q4-6H PRN
+7. Heparin (Porcine) 5,000U TID
+8. Pantoprazole 40 mg E.C. PO Q12H
+9. Metoprolol Succinate 75 mg SR 24HRs PO HS
+10. Multivitamin PO DAILY
+14. Amiodarone 200 mg Tablet 200mg DAILY
+15. Warfarin 4mg PO HS
+16. Metoclopramide 5 mg PO TID as needed for AC.
+17. Ferrous Sulfate 325 mg PO DAILY
+18. Aluminum-Magnesium Hydroxide 15-30 MLs PO QID PRN
+19. Zolpidem 5 mg PO HS PRN
+20. Isosorbide Mononitrate 120 mg PO DAILY.
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Levothyroxine Sodium 25 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+4. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+7. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed.
+8. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3
+times a day): Hold for SBP<100 or HR<55.
+9. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+12. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 3 days.
+13. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H
+(every 48 hours) for 3 days.
+14. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily):
+Hold for SBP<100.
+15. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): Hold for SBP<100.
+16. Warfarin 1 mg Tablet Sig: One (1) Tablet PO QOD: Please take
+qod until off levoquin then take qd.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 47**] for the Aged - LTC
+
+Discharge Diagnosis:
+Primary diagnosis:
+CHF exacerbation
+
+Secondary diagnosis:
+Aspiration pneumonia
+Coronary artery disease
+Hypothyroidism
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 15**] MD if weight > 3 lbs.
+
+Adhere to 2 gm sodium diet
+
+Please take your medications as prescribed.
+
+Please have your INR checked on Sunday [**11-12**] or Monday [**11-13**] and
+have your warfarin accordingly.
+
+Please get your TSH and free T4 rechecked and have your
+physician adjust your levothyroxine dose accordingly.
+
+If you have any difficulty breathing, chest pain, fevers/chills
+or any other worrying symptoms, please call your primary care
+physician or come to the emergency room.
+
+Followup Instructions:
+Please call your cardiologist Dr. [**First Name11 (Name Pattern1) 126**] [**Last Name (NamePattern4) 1269**], M.D.
+Phone:[**Telephone/Fax (1) 251**] to setup an appointment.
+
+Please follow up with your PCP at [**Hospital **] rehab after discharge.
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 264**] MD, [**MD Number(3) 265**]
+
+Completed by:[**3116-11-9**]
+
+DOC CLASS

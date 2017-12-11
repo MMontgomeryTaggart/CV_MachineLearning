@@ -1,0 +1,147 @@
+Chief Complaint:  Hypertension
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Patient at home and with onset of abdominal pain and nausea, patient
+   unable to tolerate PO today consistent with past episodes.
+   She was to ED for eval and found with-->
+   BP-230/135
+   Rx with Labetolol and TNG without improvement and patient to ICU with
+   TNG gtt and Zofran
+   Patient admitted from: [**Hospital1 5**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 2 mcg/Kg/min
+   Other ICU medications:
+   Hydralazine - [**3368-1-2**] 09:40 PM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   Schizophrenia
+   PICA
+   HTN
+   DM
+   non contributory
+   Occupation:
+   Drugs: rare THC
+   Tobacco: 1 ppd x 30 yrs
+   Alcohol: none
+   Other:
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever
+   Eyes: No(t)  Blurry vision
+   Cardiovascular: No(t) Chest pain
+   Respiratory: No(t) Cough, No(t) Dyspnea
+   Gastrointestinal: Abdominal pain, Nausea
+   Genitourinary: No(t) Dysuria
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Signs or concerns for abuse : No
+   Pain: [**1-27**] Mild
+   Flowsheet Data as of [**3368-1-2**] 10:15 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 90 (89 - 94) bpm
+   BP: 178/105(122) {159/82(101) - 178/105(122)} mmHg
+   RR: 26 (13 - 26) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             386 mL
+   PO:
+             TF:
+   IVF:
+   386 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    200 mL
+   Urine:
+   200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    186 mL
+   Respiratory
+   SpO2: 95%
+   ABG: ////
+   Physical Examination
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   289
+   44.8
+   0.5
+   6
+   23
+   103
+   3.1
+   141
+   7
+        [image002.jpg]
+   Other labs: CK / CKMB / Troponin-T://<0.01
+   ECG: NSR, nl axis, no LVH, T-inv inferiorly
+   Assessment and Plan
+   53 yo female with h/o HTN now with acute onset of abdominal pain
+   consistent with past admissions and associated HTN in the setting of
+   medication non-compliance in the setting of nausea.  She has an absence
+   of end organ damage at this time and has had reasonable response to
+   medication Rx to date.  The acute onset, absence of LVH and rapid
+   resolution with TNG alone does raise the question of possible acute
+   ingestion with adrenergic agonist, although this is unlikely it has not
+   been investigated in past.
+   1)Hypertension-
+   -Wean TNG gtt to off
+   -Return to po medications
+   -Will check tox screen for possible cocaine
+   -Good response to date
+   2)Nausea/Abdominal Pain/Vomiting-
+   -Will continue with Zofran
+   -Possible abdominal migraine
+   -Will discuss trial of NSAIDS with GI
+   3)Schizophrenia-
+   -Continue with monitoring
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines / Intubation:
+   20 Gauge - [**3368-1-2**] 07:43 PM
+   Comments:
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+
+
+DOC CLASS

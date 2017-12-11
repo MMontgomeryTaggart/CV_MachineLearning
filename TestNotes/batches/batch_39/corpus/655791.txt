@@ -1,0 +1,179 @@
+Chief Complaint: Respiratory Failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Extubated yesterday
+   Lasix drip stopped due to HoTN --> 2 fluid boluses given back
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**2708-7-28**] 02:25 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Meropenem - [**2708-7-29**] 08:00 AM
+   Infusions:
+   Heparin Sodium - 750 units/hour
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2708-7-29**] 09:32 AM
+   Other medications:
+   per ICU resident note
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fever
+   Cardiovascular: No(t) Tachycardia
+   Genitourinary: Foley
+   Heme / Lymph: Anemia
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**2708-7-29**] 11:17 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.4
+C (97.6
+   HR: 63 (63 - 85) bpm
+   BP: 110/46(66) {88/41(56) - 134/66(88)} mmHg
+   RR: 18 (10 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 108.5 kg (admission): 101.2 kg
+   Height: 74 Inch
+   CVP: 4 (-7 - 345)mmHg
+   Total In:
+                                                                  1,999 mL
+                                                                  1,493 mL
+   PO:
+                                                                    900 mL
+   TF:
+                                                                     52 mL
+   IVF:
+                                                                  1,752 mL
+                                                                    593 mL
+   Blood products:
+   Total out:
+                                                                  4,380 mL
+                                                                    760 mL
+   Urine:
+                                                                  4,380 mL
+                                                                    760 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,381 mL
+                                                                    733 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Spontaneous): 781 (781 - 781) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 16
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 11 cmH2O
+   SpO2: 100%
+   ABG: 7.47/53/76.[**Numeric Identifier 120**]/35/12
+   Ve: 12.5 L/min
+   PaO2 / FiO2: 190
+   Physical Examination
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Non-tender
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Warm
+   Neurologic: No(t) Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed, somnolent
+   Labs / Radiology
+   8.7 g/dL
+   277 K/uL
+   137 mg/dL
+   1.2 mg/dL
+   35 mEq/L
+   3.6 mEq/L
+   71 mg/dL
+   102 mEq/L
+   145 mEq/L
+   27.5 %
+   7.5 K/uL
+        [image002.jpg]
+                             [**2708-7-27**]  12:09 PM
+                             [**2708-7-27**]  02:54 PM
+                             [**2708-7-28**]  03:40 AM
+                             [**2708-7-28**]  03:57 AM
+                             [**2708-7-28**]  11:39 AM
+                             [**2708-7-28**]  03:34 PM
+                             [**2708-7-28**]  05:55 PM
+                             [**2708-7-28**]  09:47 PM
+                             [**2708-7-29**]  03:49 AM
+                             [**2708-7-29**]  04:48 AM
+   WBC
+   6.4
+   7.5
+   Hct
+   29.2
+   27.5
+   Plt
+   255
+   277
+   Cr
+   1.5
+   1.4
+   1.3
+   1.2
+   TCO2
+   39
+   38
+   36
+   39
+   42
+   40
+   Glucose
+   168
+   153
+   185
+   137
+   Other labs: PT / PTT / INR:22.8/71.3/2.1, CK / CKMB /
+   Troponin-T:41/3/0.10, ALT / AST:28/69, Alk Phos / T Bili:68/0.7,
+   Differential-Neuts:85.6 %, Lymph:9.1 %, Mono:3.9 %, Eos:1.1 %,
+   Fibrinogen:736 mg/dL, Lactic Acid:1.3 mmol/L, Albumin:2.9 g/dL, LDH:398
+   IU/L, Ca++:8.5 mg/dL, Mg++:3.2 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   67 yo man with CHF post volume resuscitation for urosepsis.
+   Hypercarbic/Hypoxemic Respiratory Failure: Now extubated doing well on
+   3L.  CXR improved
+   Fevers: On meropenem for pseudomonas UTI - Day [**8-10**].  Fever curve
+   improving
+   CHF: goal even
+   Anticoagulation: continue Coumadin and heparin bridge until INR > 2.5
+   Remainder of issues per ICU team
+   ICU Care
+   Nutrition:
+   Comments: Starting po diet
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2708-7-20**] 12:35 PM
+   Arterial Line - [**2708-7-20**] 01:45 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   Patient is critically ill
+
+
+DOC CLASS

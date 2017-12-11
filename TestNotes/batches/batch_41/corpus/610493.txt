@@ -1,0 +1,195 @@
+CVICU
+   HPI:
+   HD19
+   [**6-26**] POD 18/17
+   37M s/p Bental-St. [**Male First Name (un) 629**] composite mechanical graft /AVR(29 StJude
+   mech)hemiarch (gelweave graft) [**6-8**], Exploration of L
+   subclavian/brachial embolectomy/stent of axillary/subclavian [**6-9**]
+   EF 55 CR 1.3 Wt 150K HgA1c
+   PMH: obesity, type A dissection, ? Marfan
+   [**Last Name (un) 500**]: MVI
+   Chief complaint:
+   PMHx:
+   Current medications:
+   . 2. Acetaminophen 3. Amlodipine 4. Atorvastatin 5. Calcium Gluconate
+   6. Carvedilol 7. Clopidogrel
+   8. Clonazepam 9. CloniDINE 10. Dextrose 50% 11. Fentanyl Patch 12.
+   Furosemide 13. Gabapentin 14. HYDROmorphone (Dilaudid)
+   15. HydrALAzine 16. Insulin 17. Ipratropium Bromide Neb 18.
+   Lansoprazole Oral Disintegrating Tab
+   19. Magnesium Sulfate 20. Metoclopramide 21. Metoprolol Tartrate 22.
+   Potassium Chloride 23. Potassium Chloride
+   24. Sodium Chloride 0.9% Flush 25. Warfarin 26. Warfarin 27. Xopenex
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**2664-6-25**] 01:15 PM
+   Post operative day:
+   POD#17 - Bental.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Meropenem - [**2664-6-24**] 11:35 AM
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**2664-6-25**] 02:53 PM
+   Insulin - Humalog - [**2664-6-26**] 11:32 AM
+   Other medications:
+   Flowsheet Data as of  [**2664-6-26**] 11:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**67**] a.m.
+   Tmax: 37.8
+C (100.1
+   T current: 37.1
+C (98.7
+   HR: 95 (95 - 114) bpm
+   BP: 132/48(69) {85/25(51) - 152/81(85)} mmHg
+   RR: 44 (24 - 44) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 151.2 kg (admission): 150 kg
+   Height: 74 Inch
+   CVP: 12 (12 - 12) mmHg
+   Total In:
+                                                                  3,140 mL
+                                                                    737 mL
+   PO:
+                                                                  2,040 mL
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,100 mL
+                                                                    267 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  3,250 mL
+                                                                  1,400 mL
+   Urine:
+                                                                  3,250 mL
+                                                                  1,400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -110 mL
+                                                                   -663 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 100%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, c/o blurred vision right eye with shadowing on upper
+   visual field
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: left base), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present) left arm +3 edema
+   with facsciotomy sites sutures intact no erythema no drainage, forearm
+   with open fasciotomy site with serosanguous drainage with wet
+ dry
+   dressing
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: No(t) Moves all extremities, (RUE: Weakness), (RLE:
+   Weakness), (LLE: Weakness), left upper extremity able to twist arm in
+   no lifting or movement of fingers
+   Labs / Radiology
+   429 K/uL
+   8.1 g/dL
+   126 mg/dL
+   1.2 mg/dL
+   27 mEq/L
+   4.1 mEq/L
+   29 mg/dL
+   106 mEq/L
+   144 mEq/L
+   25.5 %
+   12.5 K/uL
+        [image002.jpg]
+                             [**2664-6-23**]  04:31 PM
+                             [**2664-6-23**]  06:41 PM
+                             [**2664-6-24**]  05:00 AM
+                             [**2664-6-24**]  05:23 AM
+                             [**2664-6-24**]  12:25 PM
+                             [**2664-6-25**]  03:56 AM
+                             [**2664-6-25**]  06:00 AM
+                             [**2664-6-25**]  03:37 PM
+                             [**2664-6-26**]  03:12 AM
+                             [**2664-6-26**]  08:42 AM
+   WBC
+   11.9
+   11.2
+   12.5
+   Hct
+   27.1
+   27.6
+   23.9
+   25.5
+   Plt
+   483
+   469
+   429
+   Creatinine
+   1.3
+   1.1
+   1.2
+   1.2
+   TCO2
+   32
+   33
+   33
+   Glucose
+   124
+   127
+   121
+   147
+   126
+   Other labs: PT / PTT / INR:27.1/37.6/2.7, CK / CK-MB / Troponin
+   T:3427/25/, ALT / AST:[**2-22**], Alk-Phos / T bili:61/0.4, Amylase /
+   Lipase:31/51, Differential-Neuts:89.5 %, Lymph:5.2 %, Mono:5.0 %,
+   Eos:0.2 %, Fibrinogen:143 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:2.6
+   g/dL, LDH:303 IU/L, Ca:8.8 mg/dL, Mg:2.0 mg/dL, PO4:5.1 mg/dL
+   Assessment and Plan
+   ADLS (ACTIVITIES OF DAILY LIVING), INABILITY TO PERFORM, AEROBIC
+   CAPACITY / ENDURANCE, IMPAIRED, BALANCE, IMPAIRED, KNOWLEDGE, IMPAIRED,
+   MUSCLE PERFORMACE, IMPAIRED, POSTURE, IMPAIRED, TRANSFERS, IMPAIRED,
+   RASH, AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG,
+   AIRWAY CLEARANCE, COUGH), IMPAIRED SKIN INTEGRITY, [**Last Name **] PROBLEM -
+   ENTER DESCRIPTION IN COMMENTS, AORTIC DISSECTION
+   Assessment and Plan:
+   Neurologic: Neuro checks Q:  hr, Pain controlled
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO
+   Hematology:
+   Endocrine: RISS, Lantus (R)
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings, Wet / Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol
+   Lines:
+   Multi Lumen - [**2664-6-18**] 09:32 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

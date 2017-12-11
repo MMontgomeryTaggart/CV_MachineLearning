@@ -1,0 +1,475 @@
+Admission Date:  [**3383-11-18**]              Discharge Date:   [**3383-11-22**]
+
+Date of Birth:  [**3312-10-25**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Adhesive Tape
+
+Attending:[**First Name3 (LF) 3992**]
+Chief Complaint:
+Mental status change, abdominal pain
+
+Major Surgical or Invasive Procedure:
+Flexible Sigmoidoscopy
+Right IJ intravenous catheter placement
+
+
+History of Present Illness:
+Ms. [**Known patient lastname 4571**] is a 71 yo wheel-chair bound woman with
+paraplegia, hypertension, and question of COPD who was admitted
+on [**11-18**] with altered mental status.   Per the patient, she had
+been experiencing constipation for 5-6 days prior to admission.
+She did have a small BM on the morning of admission. On the day
+of admission, the patient reported feeling sweaty and dizzy, and
+dropped a cup of tea onto her lap.  Her neighbor who was
+visiting noticed she was weak and dysarthric, and called
+lifeline who then brought the patient to the ED.
+.
+In the ED, her initial vitals were temp 99.5, bp 113/44, HR 96,
+RR 16, SaO2 96% on NRB.  Her bp decreased to 81/38 in the ED and
+she became unable to respond to commands, so she was given 4 L
+NS.  Her bp slightly improved to 91/45.  She also had a large
+loose BM in ED.  A right IJ was placed.  UA was nitrite positive
+with moderate bacteria.  CXR was concerning for left lower lobe
+pneumonia.  The patient was thought to have sepsis [**3-14**] to PNA
+vs. UTI, and she was given Vancomycin 1 mg IV x1, Levaquin 750
+mg IV x1, and Tylenol PR 1 gm x1 and transferred to the MICU.
+.
+In the MICU the patient was started on Levophed for pressure
+support.  WBC 19.6 with a left shift, Lactate 3.4 -> 2.2.  She
+was initially drowsy and lethargic.  She then complained of
+being constipated, despite having repeated episodes of loose
+stool since arrival to the MICU.  She complained of low back
+pain & LLQ. No CP/SOB or cough. Other ROS negative.  The
+patient's family reports that she often develops similar MS
+changes when she has an infection.
+.
+Currently, the patient reports a 2 day history of servere
+([**11-19**]) constant burning lower midline abdominal pain that
+radiates down to her rectum.  She says this is similar pain to
+what she experienced when she was admitted [**2-16**].  No back pain
+though she is unsure if she would sense back pain. She also
+notes severe diarrhea and loose stools since admission.  She
+reports a cough occasionally productive of light brown mucous.
+Denies HA, fevers/chills.
+
+
+Past Medical History:
+1. Hypertension
+2. Hyperlipidemia
+3. Paraplegia (From Anterior Spinal Infarct sustained during a
+thoracic aneurysm repair)
+4. Suprapubic Catheter in place, recurrent UTIs ? on Ppx Bactrim
+
+5. Fecal Incontinence
+6. ? COPD: Per PCP note, patient is CO2 retainer. PFTs on [**5-/3376**]
+showed FVC 3.59 (104% pred) and FEV1 2.66 (105% pred). On 2L
+home O2 at night.
+7. s/p Thoracic Aneurysm Repair ([**3376**])
+8. LLL Collapse/PNA s/p mucous plug removal via bronchoscopy
+9. GERD
+10. Depression
+
+Social History:
+The patient lives alone in [**Hospital3 4569**]. Wheelchair bound.
+She has a health aid for assistance in the morning and evening,
+for help with dressing and bathing.  Her son usually prepares
+her food.  Has son, [**Name (NI) **], & dtr in-law, [**Name (NI) 1421**], are her HCPs.
+They see pt ~wkly. The patient has a 2-3ppd x 40+ years, but has
+smoked +/- (3 cigarettes/day) for the past 5 yrs. No EtOH or
+illicit drug use.
+
+Family History:
+Son: DM.
+
+Physical Exam:
+Vitals: temp 97.7, bp 130/70, HR 80, RR 20, SaO2 96% on 2L
+Gen: Obese female in no distress. Alert and oriented to person,
+place, and time.
+HEENT: Slera anicteric. NCAT. EOMI. MMM. No pharyngeal erythema.
+No nuchal rigidity.
+CV: Regular rate.  Nl S1, S2, No murmur, rub, gallop.
+Pulm: CTA anteriorly and laterally. No wheezes/rhonchi.
+Abd: Positive bowel sounds.  Soft and obese abdomen. Tender
+diffusely, but especially in periumbilical area.  Has decreased
+senstaion of lateral abdominal wall.  No guarding, positive
+rebound in the midline.  Tympanitic to percussion.  No masses.
+Suprapubic catheter in place and the surrounding area is not
+erythematous.  Rectal tube in place.
+Ext: Trace lower extremity edema, stockings on.
+Neuro: Sensory level on abdomen at approx T6.  Full [**6-14**] UE
+strength, 0/0 LE strength.  PERRL. CN II-XII intact.
+
+Pertinent Results:
+LABS:
+[**3383-11-18**] 08:25PM BLOOD WBC-19.6*# RBC-5.60* Hgb-17.1* Hct-50.5*
+MCV-90 MCH-30.4 MCHC-33.7 RDW-16.0* Plt Ct-322
+[**3383-11-22**] 06:45AM BLOOD WBC-8.5 RBC-4.06* Hgb-12.3 Hct-36.5
+MCV-90 MCH-30.4 MCHC-33.8 RDW-15.7* Plt Ct-198
+[**3383-11-18**] 08:25PM BLOOD Neuts-87.7* Lymphs-9.1* Monos-2.4 Eos-0.4
+Baso-0.3
+[**3383-11-19**] 05:47AM BLOOD PT-12.4 PTT-23.8 INR(PT)-1.1
+[**3383-11-18**] 08:25PM BLOOD Glucose-270* UreaN-16 Creat-0.7 Na-136
+K-4.5 Cl-94* HCO3-27 AnGap-20
+[**3383-11-22**] 06:45AM BLOOD Glucose-150* UreaN-2* Creat-0.4 Na-144
+K-3.0* Cl-108 HCO3-25 AnGap-14
+[**3383-11-19**] 02:12AM BLOOD ALT-45* AST-53* LD(LDH)-203 CK(CPK)-50
+AlkPhos-134* Amylase-63 TotBili-0.4
+[**3383-11-19**] 12:46PM BLOOD CK(CPK)-55
+[**3383-11-19**] 07:40PM BLOOD CK(CPK)-42
+[**3383-11-20**] 07:15AM BLOOD CK(CPK)-37
+[**3383-11-21**] 07:15AM BLOOD ALT-36 AST-30 LD(LDH)-200 AlkPhos-101
+Amylase-29 TotBili-0.2
+[**3383-11-19**] 02:12AM BLOOD Lipase-18
+[**3383-11-21**] 07:15AM BLOOD Lipase-21
+[**3383-11-19**] 02:12AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3383-11-19**] 12:46PM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**3383-11-19**] 07:40PM BLOOD CK-MB-NotDone cTropnT-0.01
+[**3383-11-20**] 07:15AM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**3383-11-19**] 02:12AM BLOOD Albumin-3.5 Calcium-7.6* Phos-3.2 Mg-2.5
+[**3383-11-21**] 07:15AM BLOOD Albumin-3.0* Cholest-160
+[**3383-11-21**] 07:15AM BLOOD Triglyc-182* HDL-36 CHOL/HD-4.4
+LDLcalc-88 LDLmeas-98
+[**3383-11-20**] 01:02PM BLOOD %HbA1c-5.9
+[**3383-11-19**] 03:30AM BLOOD Type-ART Temp-35.6 O2 Flow-4 pO2-92
+pCO2-45 pH-7.32* calTCO2-24 Base XS--3 Intubat-NOT INTUBA
+[**3383-11-18**] 08:33PM BLOOD Lactate-3.4*
+[**3383-11-18**] 11:02PM BLOOD Lactate-2.2*
+[**3383-11-20**] 10:59AM BLOOD Lactate-1.0
+[**3383-11-18**] 09:25PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.021
+[**3383-11-18**] 09:25PM URINE Blood-NEG Nitrite-POS Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-SM Urobiln-NEG pH-5.0 Leuks-TR
+[**3383-11-18**] 09:25PM URINE RBC-0-2 WBC-[**4-14**] Bacteri-MOD Yeast-NONE
+Epi-0-2 TransE-0-2
+[**3383-11-18**] 09:25PM URINE CastHy-[**7-20**]*
+[**3383-11-20**] 08:23PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.006
+[**3383-11-20**] 08:23PM URINE Blood-TR Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+.
+MICRO:
+Blood Cx ([**11-18**]): No growth x4
+.
+Urine Cx ([**11-18**]): MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES),
+CONSISTENT WITH FECAL CONTAMINATION.
+.
+Stool Cx ([**11-19**]):
+   FECAL CULTURE (Final [**3383-11-21**]):    NO SALMONELLA OR SHIGELLA
+FOUND.
+
+   CAMPYLOBACTER CULTURE (Final [**3383-11-21**]):    NO CAMPYLOBACTER
+FOUND.
+
+   OVA + PARASITES (Final [**3383-11-20**]):
+      NO OVA AND PARASITES SEEN.
+      This test does not reliably detect Cryptosporidium,
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected
+by routine
+      O+P, the Giardia antigen test may enhance detection when
+organisms
+      are rare.
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final [**3383-11-20**]):
+      NO E.COLI 0157:H7 FOUND.
+
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**3383-11-20**]):
+      FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.
+
+   OVA + PARASITES (Final [**3383-11-20**]):
+      NO OVA AND PARASITES SEEN.
+.
+Urine Cx ([**11-19**]): NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+.
+Stool Cx ([**11-20**]): FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.
+.
+Urine Cx ([**11-20**]): YEAST.    ~1000/ML.
+.
+IMAGING:
+CXR Portable ([**11-18**]): IMPRESSION: Findings concerning for left
+lower lobe pneumonia.
+.
+CXR Portable ([**11-18**]): FINDINGS: There has been interval placement
+of a right IJ intravenous catheter with its tip projecting over
+the expected location of the lower SVC. The upper vascular
+redistribution as well as interstitial edema is more prominent
+in the supine view. Again seen is an area of increased opacity
+projecting over the left mid lung. There is no supine evidence
+of pneumothorax.
+IMPRESSION:
+1. No pneumothorax.
+2. Findings concerning for left lower lobe pneumonia.
+3. Pulmonary vascular redistribution and interstitial edema.
+.
+ECG ([**11-19**]): Sinus rhythm at a rate of 62 with prolonged P-R
+interval to 224. Left axis deviation. Poor R wave progression.
+Consider anterior myocardial infarction, age undetermined. Since
+prior tracing of [**3383-2-17**] left atrial abnormality is not seen on
+the current tracing.
+.
+CT Head ([**11-19**]): There is no acute intracranial hemorrhage.
+There is no mass, edema or shift of normally midline structures.
+Extensive periventricular white matter hypodensities are present
+again. There is an area of new and more conspicuous and
+extensive hypodensity in the left frontal lobe, extending to the
+cortex and subcortical white matter.
+Surrounding soft tissues and osseous structures are
+unremarkable.
+Imaged mastoid air cells are well aerated. There is mucosal
+thickening in the maxillary sinuses, bilaterally, as well as
+ethmoid and sphenoid sinuses.
+IMPRESSION:
+1. No acute intracranial hemorrhage.
+2. New and more conspicuous area of left frontal hypodensity,
+which may represent acute infarction. Evaluation with MR [**First Name (Titles) 150**] [**Last Name (Titles) 4574**]n-weighted sequence is recommended.
+.
+TTE ([**11-19**]): The left atrium is normal in size. There is mild
+symmetric left ventricular hypertrophy with normal cavity size
+and systolic function (LVEF=60-65%). Right ventricular chamber
+size and free wall motion are normal. The ascending aorta is
+mildly dilated. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve appears structurally normal with
+trivial mitral regurgitation. There is no mitral valve prolapse.
+There is mild pulmonary artery systolic hypertension. There is
+no pericardial effusion.
+IMPRESSION: Normal biventricular systolic function. Mild
+pulmonary artery systolic hypertension.
+.
+CT Abdomen/Pelvis ([**11-19**]):
+Left basilar atelectasis is again noted.
+Diffuse fatty infiltration of the liver is incidentally seen.
+Adrenal glands, pancreas, and spleen appear grossly
+unremarkable. Numerous gallstones are identified. Simple right
+renal cyst is seen. Also, several small hypoattenuating foci are
+seen within the kidneys bilaterally, which are too small to
+characterize but likely represent simple cysts.
+Evaluation of the bowel reveals mural thickening involving the
+sigmoid colon as well as a portion of the rectum. Surrounding
+fat stranding is noted consistent with inflammation. This is a
+nonspecific imaging finding. Differential considerations do
+include inflammatory and infectious etiologies as well as
+ischemia. In retrospect on the prior exam dated [**3381-11-18**], there
+is suggestion of distal sigmoid and rectal wall thickening to
+suggest chronicity _____ recurrence of this disease process.
+Pelvic structures are grossly unremarkable. A rectal tube and
+Foley catheter are noted.
+No lytic or blastic bony lesions are identified. Multiple
+Tarlov's cysts are again seen within the region of the sacrum.
+IMPRESSION:
+1. Sigmoid and rectal thickening as detailed above. This is a
+nonspecific finding and may represent an infectious or
+inflammatory etiologies as well as ischemia. Of note, this
+similar though less diffuse findings were identified on a prior
+CT scan dated [**3381-11-18**].
+.
+MR [**Name13 (STitle) 425**]/MRA Brain ([**11-20**]): IMPRESSION:
+1. No acute infarct.
+2. FLAIR hyperintense foci consistent with chronic microvascular
+infarcts in the white matter of both cerebral hemispheres.
+3. Maxillary sinus disease.
+
+Brief Hospital Course:
+# Abdominal pain/Diarrhea: The patient reported constipation for
+the 5-6 days prior to admission. In the MICU, she complained of
+being constipated, despite having repeated episodes of loose
+stool since arrival to the MICU. She was empirically started on
+Flagyl. Once she was on the medicine floor, she reported a 2 day
+history of servere ([**11-19**]) constant burning lower midline
+abdominal pain that radiated down to her rectum. She also
+complained of severe diarrhea and loose stools since admission.
+CT abdomen/pelvis showed sigmoid and rectal thickening which is
+a nonspecific finding and may represent infectious or
+inflammatory etiologies as well as ischemia. Serial exams showed
+a soft abdomen. Stools were guaiac positive. Stools were
+negative for C. difficile x2 and O&P x2. Of note, her admission
+in [**2-16**] noted "that the patient developed burning rectal pain
+during course of admission" which was felt to be secondary to
+referred neuropathic pain. GI was consulted as there was concern
+for ischemic colitis given the patient's recent hypotension and
+lactate of 3.4 on admission. She went for flexible sigmoidoscopy
+on [**11-21**] which showed erythema and edema in the mid-sigmoid
+colon and distal sigmoid colon compatible with colitis, and a
+polyp in the mid-descending colon which was not removed since
+the patient was on heparin SQ. These findings were compatible
+with a resolving colitis including ischemic or infectious
+etiologies. The patient was scheduled for a screening
+colonoscopy on [**1-13**] at which point the very small polyp, and any
+others can be removed. She was discharged on Flagyl PO.
+.
+# Hypotension: On admission, the patient's blood pressure was
+113/44, then decreased to 81/38 in the ED. She became unable to
+respond to commands and was given 4 L NS with only slight
+improvement to 91/45. A right IJ was placed, and the patient was
+transferred to the MICU with concern for pneumonia or UTI
+sepsis. She received Levophed, but it remains unclear if the
+patient was truly hypotensive. The MICU team reported that
+non-invasive BPs were 20 points below the arterial values. TTE
+showed mild symmetric LVH, LVEF 60-65%, and mild pulmonary
+artery systolic hypertension. Cardiac enzymes were negative x4.
+Her Lasix was held upon discharge until the patient follows up
+with Dr. [**Last Name (STitle) 1251**] as an outpatient.
+.
+# Mental status change: On the day of admission, the patient
+reported feeling sweaty and dizzy, and dropped a cup of tea onto
+her lap. Her neighbor who was visiting noticed she was weak and
+dysarthric, and called lifeline who then brought the patient to
+the ED. She continued to have waxing and [**Doctor Last Name 681**] mental status,
+which was likely due to delirium in the setting of acute
+illness. Head CT showed no acute intracranial hemorrhage but did
+show a new and more conspicuous area of left frontal
+hypodensity, which may represent acute infarction. Neurology was
+consulted, and they did not believe that the head CT findings
+were consistent with her presentation with bilateral upper
+extremity weakness. MRI head/MRA brain showed no acute infarct,
+and FLAIR hyperintense foci were consistent with chronic
+microvascular infarcts in the white matter of both cerebral
+hemispheres. HgA1c was 5.9%. She was started on ASA 81 mg daily.
+.
+# Pneumonia: On admission to the ED, the patient was afebrile,
+but SaO2 was 96% on NRB and she had a WBC of 19.6 with 88%
+neutrophils. Lactate was 3.4. CXR was concerning for left lower
+lobe pneumonia. She became hypotensive in the ED, and there was
+concern she had a pneumonia or UTI sepsis, so she was started on
+Vancomycin and Ceftriaxone and transferred to the MICU (she also
+got Levofloxacin in the ED). Blood cultures were negative, and
+urine legionella antigen was negative. On day 3 of admission,
+the Vancomycin was discontinued, and Azithromycin was started.
+She was discharged on Levofloxacin daily to complete a 10 day
+course.
+.
+# UTI: The patient has a suprapubic catheter, and is likely
+chronically colonized. UA showed positive nitrite, trace
+leukocytosis, [**4-14**] WBC, and moderate bacteria. Urine culture
+showed fecal contamination, and the patient has a history of
+fecal incontinence. She was initially started on Ceftriaxone
+which was changed to Levofloxacin.
+.
+# GERD: She was started on Protonix 40 mg daily.
+.
+# Hyperlipidemia: Lipid panel during this admission showed Chol
+160, TG 182, HDL 36, and LDL 88. She is not on any medications
+for hyperlipidemia.
+.
+# Paraplegia: The patient is paraplegic from an Anterior Spinal
+Infarct sustained during a thoracic aneurysm repair. She was
+continued on Gabepentin 900 mg tid and Baclofen 40 mg tid.
+.
+# COPD: She is on 2 L home O2 at night. She was continued on
+Advair and Duonebs.
+.
+# Depression: She was continued on Nortriptyline 50 mg qhs and
+Bupropion SR 100 mg [**Hospital1 **].
+.
+# Code status: DNR/DNI - confirmed with [**Name (NI) 1421**] [**Name (NI) 4575**] (pt's
+dtr-in-law & HCP)
+.
+# Contact: [**Name (NI) 2714**] [**Name (NI) **] [**Name (NI) 4571**] (son) & [**Name (NI) 1421**] [**Name (NI) 4575**]
+(daughter-in-law) [**Telephone/Fax (1) 4570**]/ c [**Telephone/Fax (1) 4576**]
+
+Medications on Admission:
+MEDICATIONS (confirmed w/ [**Location (un) 1211**] pharmacy [**Telephone/Fax (1) 4577**]):
+1. Baclofen 40 mg TID
+2. Gabapentin 900 mg PO TID (3 times a day).
+3. Nortriptyline 50 mg qhs
+4. Lactulose 1 tablespoon [**Hospital1 **]
+5. Bupropion SR 100 mg [**Hospital1 **]
+6. Furosemide alternating 40 mg and 80 mg every other day.
+7. Advair 250/50 one puff [**Hospital1 **]
+8. Duonebs one amp QID prn
+9. Nystatin powder
+.
+ALLERGIES: NKDA
+
+Discharge Medications:
+1. Baclofen 10 mg Tablet Sig: Four (4) Tablet PO TID (3 times a
+day).
+2. Gabapentin 300 mg Capsule Sig: Three (3) Capsule PO TID (3
+times a day).
+3. Nortriptyline 25 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+4. Bupropion 100 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO BID (2 times a day).
+5. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+6. Nystatin 100,000 unit/g Powder Topical
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours) as
+needed for GERD.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+9. DuoNeb 2.5-0.5 mg/3 mL Solution Sig: One (1) amp Inhalation
+four times a day as needed for shortness of breath or wheezing.
+
+10. medication
+Nystatin powder
+11. Flagyl 500 mg Tablet Sig: One (1) Tablet PO three times a
+day for 5 days.
+Disp:*15 Tablet(s)* Refills:*0*
+12. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day
+for 5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+13. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA carenetwork
+
+Discharge Diagnosis:
+PRIMARY
+1. Abdominal Pain, Diarrhea
+2. Chronic Microvascular Brain Infarcts
+3. Hypotension
+SECONDARY
+1. Hypertension
+2. Hyperlipidemia
+3. Paraplegia (From Anterior Spinal Infarct sustained during a
+thoracic aneurysm repair)
+4. Suprapubic Catheter
+5. Fecal Incontinence
+6. COPD on 2L Home O2 at night
+7. s/p Thoracic Aneurysm Repair ([**3376**])
+8. GERD
+9. Depression
+
+
+Discharge Condition:
+afebrile, tolerating oral diet, abdominal pain improved
+
+
+Discharge Instructions:
+You came to the hospital with confusion.  You experienced low
+blood pressure and required a stay in the intensive care unit.
+You then underwent a CAT scan of your abdomen and a flex sig of
+your intestines.  It showed that you had some colitis.  Please
+have a repeat colonoscopy in several months/years as an
+outpatient.
+.
+1. Take all medications as prescribed
+2. Make all follow-up appointments
+3. If you develop fevers >101.5, chills, nausea, vomiting,
+severe abdominal pain, weakness, or any other concerning
+symptoms, contact your provider or report to the Emergency
+Department
+4.  Please continue your levoflox and flagyl for another 5 days.
+5.  Please hold your lasix until you meet with Dr. [**Last Name (STitle) 1251**] to
+discuss.
+6.  We started you on aspirin daily
+7.  We started you on protonix daily.
+
+Followup Instructions:
+Please follow-up with your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 1251**] [**Telephone/Fax (1) 602**] in [**2-11**]
+weeks.
+
+
+                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 3995**]
+
+
+
+DOC CLASS

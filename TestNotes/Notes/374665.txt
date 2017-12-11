@@ -1,0 +1,316 @@
+Chief Complaint:
+   24 Hour Events:
+   - CT torso/abdomen shows fluid & air collection associated with the
+   duodenum and head of the pancreas, concerning for perf duodenal
+   diverticulum vs. pancreatic pseudocyst with superinfection; surgery
+   consulted
+   - PSV trial (VBG 7.43/38/33/26, lactate 2.2)
+   - NPO overnight
+   - Fluconazole 200 mg IV x 1 for concern that the fluid/air collection
+   may be fungal; mycolytic blood cultures with am labs
+   Allergies:
+   Cholestyramine
+   ?erectile dysfc
+   Niacin
+   Hepatic toxicit
+   Iodine; Iodine Containing
+   Rash;
+   Ciprofloxacin
+   muscle weakness
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2522-4-6**] 02:00 PM
+   Erythromycin - [**2522-4-6**] 11:46 PM
+   Meropenem - [**2522-4-8**] 07:45 PM
+   Fluconazole - [**2522-4-9**] 01:25 AM
+   Metronidazole - [**2522-4-9**] 04:24 AM
+   Infusions:
+   Norepinephrine - 0.14 mcg/Kg/min
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2522-4-8**] 08:00 AM
+   Morphine Sulfate - [**2522-4-8**] 02:25 PM
+   Heparin Sodium (Prophylaxis) - [**2522-4-8**] 07:48 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2522-4-9**] 06:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 35.8
+C (96.5
+   HR: 77 (68 - 99) bpm
+   BP: 83/45(54) {76/29(37) - 130/94(99)} mmHg
+   RR: 18 (13 - 34) insp/min
+   SpO2: 100%
+   Heart rhythm: V Paced
+   Height: 64 Inch
+             Total In:
+                                                                  4,310 mL
+                                                                  1,832 mL
+   PO:
+             TF:
+                                                                    315 mL
+   IVF:
+                                                                  2,565 mL
+                                                                  1,797 mL
+   Blood products:
+   Total out:
+                                                                  2,471 mL
+                                                                  2,176 mL
+   Urine:
+                                                                     50 mL
+                                                                     10 mL
+   NG:
+   Stool:
+   500 mL
+   Drains:
+   Balance:
+                                                                  1,839 mL
+                                                                   -344 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 553 (454 - 562) mL
+   PS : 15 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability, Agitated
+   PIP: 23 cmH2O
+   Plateau: 32 cmH2O
+   SpO2: 100%
+   ABG: ///23/
+   Ve: 9.8 L/min
+   Physical Examination
+   General Appearance: Well nourished; drifting off to sleep (just
+   received morphine) but easily arousable
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, trach and G tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: bilaterally),
+   Abdominal: Soft, Non-tender, normal bowel sounds, significant scrotal
+   edema
+   Extremities: 2+ edema, well perfused
+   Skin:  Warm, no rashes, patient has perianal stage 2 decubuti
+   Neurologic: A+Ox3, following commands
+   Labs / Radiology
+   113 K/uL
+   6.6 g/dL
+   102 mg/dL
+   1.5 mg/dL
+   23 mEq/L
+   4.8 mEq/L
+   21 mg/dL
+   106 mEq/L
+   137 mEq/L
+   20.7 %
+   21.8 K/uL
+        [image002.jpg]
+                             [**2522-4-7**]  08:33 AM
+                             [**2522-4-7**]  01:50 PM
+                             [**2522-4-7**]  04:34 PM
+                             [**2522-4-7**]  05:31 PM
+                             [**2522-4-7**]  10:00 PM
+                             [**2522-4-7**]  10:10 PM
+                             [**2522-4-8**]  06:00 AM
+                             [**2522-4-8**]  06:40 AM
+                             [**2522-4-8**]  07:16 PM
+                             [**2522-4-9**]  02:44 AM
+   WBC
+   22.9
+   21.8
+   Hct
+   21.3
+   23.4
+   23.4
+   20.7
+   Plt
+   142
+   113
+   Cr
+   1.5
+   1.5
+   1.4
+   1.7
+   1.5
+   TCO2
+   24
+   24
+   25
+   22
+   23
+   Glucose
+   73
+   133
+   100
+   91
+   102
+   Other labs: PT / PTT / INR:24.9/48.8/2.4, CK / CKMB /
+   Troponin-T:522/9/0.08, ALT / AST:13/41, Alk Phos / T Bili:90/1.4,
+   Amylase / Lipase:93/73, Differential-Neuts:84.1 %, Band:0.0 %,
+   Lymph:12.2 %, Mono:2.9 %, Eos:0.4 %, Fibrinogen:457 mg/dL, Lactic
+   Acid:2.8 mmol/L, Albumin:2.0 g/dL, LDH:398 IU/L, Ca++:8.4 mg/dL,
+   Mg++:2.0 mg/dL, PO4:2.3 mg/dL
+   CT abdomen with IV contrast [**2522-4-8**], prelim read:
+   PFI: Collection of fluid with a few foci of gas situated between the
+   duodenum
+   and the pancreatic head. The collection is intimately associated with
+   the
+   duodenum as well as the pancreatic head and uncinate process.
+   Diverticulum
+   off the second portion of the duodenum is again noted, and is within
+   the fluid
+   collection.
+   CT chest, abdomen and pelvis with PO contrast only, [**2522-4-8**], final read:
+   1. Approximately 7.8 cm low-attenuation lesion in the region of the
+   second
+   and third portion of the duodenum, adjacent to the uncinate process of
+   pancreas with multiple pockets of gas. This finding is most consistent
+   with
+   abscess, possibly from perforated duodenal ulcer or duodenal
+   diveritulitis,
+   although underlying neoplasm cannot be excluded. Additionally, it is
+   difficult
+   to assess how much of this lesion represents abscess, underlying
+   hematoma, or
+   component of known duodenal diverticulum. Further evaluation with
+   contrast-
+   enhanced study is recommended.
+   2. Moderate amount of ascites identified, tracking into the pelvis.
+   3. Findings consistent with moderate pulmonary edema.
+   4. Coronary calcifications are identified.
+   5. Exophytic lesion arising from the right kidney and hyperintense
+   lesion in
+   the left kidney, possibly representing cysts, although these are
+   incompletely
+   evaluated on this study. Further evaluation with dedicated ultrasound
+   is
+   recommended when patient is stable.
+   Assessment and Plan
+   81M with ischemic heart dz EF 30%, p/w septic shock and multiorgan
+   failure from CAP PNA complicated by VAP, currently on CVVH with c diff
+   colitis on PO vanc and IV flagyl; on meropenem for HAP
+   Leukocytosis/fever
+ afebrile overnight. No new microbiology data.
+   Lactate [**Month/Day/Year 1833**].
+   - On meropenem Day   HAP as above with 8-day course of ABX (Ceftriaxone
+   -> meropenem). Day 8 today. Will ask ID about discontinuing.
+   - HD line replaced (was accidentally d/c
+d while moving patient);
+   beneficial if the line was source of fever
+   - on PO vanc and IV flagyl for c. diff
+   - CT of chest, abdomen, and pelvis to look for occult foci of infection
+   per ID recs
+   - consider thoracentesis to evaluate pleural effusion for empyema
+   - ID c/s for persistent fever
+   - F/u beta-glucan, galactomannin for persistent yeast in urine
+   .
+   Septic Shock/Hypotension:   Initially hypotensive in setting of septic
+   shock.  Had Early Goal Directed Therapy with Apache IV score of 114.
+   PNA and C. diff are likely source.  Lactate [**Last Name (LF) 1833**], [**First Name3 (LF) **] be indicative
+   of decreased end organ perfusion. On Levophed to maintain BP
+   - Would add vasopressin if lactate increases further or levophed
+   requirement increases >0.15mcg/kg/min
+   - on CVVH; run it even while needing pressors
+   - Continue midodrine 10mg TID for pressure support in attempt to wean
+   Levophed
+   .
+   VAP PNA/ Resp failure/ ARDS: ARDS secondary to PNA.. Patient trached on
+   [**3-25**]. On Vent, Assist Control
+   - intermittent trach mask trials as tolerated, supplemented by PSV PRN
+ able to tolerate a few hours before tiring
+   - treat new HAP as above with 8-day course of ABX (Ceftriaxone ->
+   meropenem), follow up cultures
+   - F/u mixed venous gas
+   .
+   Anemia
+ severe anemia, patient is DAT (super Coombs positive), has
+   many antibodies and will hemolyze donor blood. Should only transfuse in
+   emergency settings of active ischemia. Patient has anemia of chronic
+   disease, limited benefit from iron supp, but little harm to give it.
+   Folate nl, B12 high, evidence of hemolysis bc low hapto high LDH.
+   Appropriate reticulocytosis.
+   - f/u heme recs
+   - F/u hemolysis labs
+   - Continue Procrit, Fe++ po
+   .
+   Dysphonia
+ due to cuffed 8.0 trach
+   - Will hold off changing to smaller cuff until resp status improves
+   - ENT consult as needed as outpatient, confirmed with ENT and IP on
+   [**2522-3-31**]. Got PMV on [**3-30**].
+   .
+   Coagulopathy: improving, Appears to be have been caused by shock liver.
+   Platelets stable, no evidence of DIC. Given vitamin [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8025**] [**3-28**].
+   Continues to improve with slowly decreasing INR.
+   - following daily
+   - continue checking stool guaiac
+   Transaminitis: Likely due to shock liver in setting of distributive
+   picture with decreased EF. RUQ u/s shows known CBD dialation, s/p
+   chole. LFT
+s improving.
+   .
+   Oliguric, acute on chronic ARF/Uremia: Baseline Cr 2.3.  Patient in ARF
+   from acute tubular necrosis in setting of hypotension.  Pt on CVVH at
+   this time
+   - Renal following
+   - Continue EPO
+   .
+   Mental Status: Alert and oriented x 3, clear mentation. Frustrated with
+   long ICU stay and illness. [**Month (only) 56**] also be delirious at moments.
+   - Frequent reorientation; maintain sleep-wake cycle.
+   - Hold Ativan. Use  Zyprexa PRN for agitation.
+   .
+   CV: Stable. CK elevated in the setting of hypovolemia/shock. No
+   ischemic EKG changes. .
+   CAD: CABG [**2501**] with multiple PCI.  Continue ASA, statin, re-start BB
+   when pressures stable.
+   PUMP: EF 29%.  Off of pressors, rpt echo EF 25%
+   RHYTHM: CHB s/p DDD PCM,ICD in [**2515**]. Not on Warfarin.
+   -          Maintain on telemetry
+   -          Maintain Hct >21, ideally >25, but issues with transfusing,
+   see above.
+   -          Continue midodrine
+   .
+   Hypoalbuminemia: decreased in the setting of sepsis
+   -          Pt with high residuals but producing adequate stool, will
+   continue erythromycin for bowel motility
+   .
+   FEN
+ tube feeds thru G tube
+   PPx
+HSQ [**Hospital1 **], placed on pneumoboots, H2 qday
+   Code - full
+   Access
+ Replaced HD line today
+   Dispo
+ MICU for now
+   - PT/OT consult placed [**3-23**], redone [**3-29**]
+ hold for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2522-4-7**] 02:43 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

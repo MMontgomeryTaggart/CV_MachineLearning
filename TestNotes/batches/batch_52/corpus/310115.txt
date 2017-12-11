@@ -1,0 +1,134 @@
+Chief Complaint:  Hyperglycemia
+   HPI:
+   43 year old male history of hypertension, aortic dissection repair, who
+   presented with increased urination for one week and was found to be
+   hyperglycemic.  Also relates had some falls in the last week and has
+   complained of right sided weakness.  Denies fevers, chills.
+   Received
+   History obtained from Patient, Medical records
+   Allergies:
+   Valium (Oral) (Diazepam)
+   slurred speech
+   Last dose of Antibiotics:
+   Infusions:
+   Insulin - Regular - 8 units/hour
+   Other ICU medications:
+   Other medications:
+   ASA
+   HCTZ
+   Lopressor
+   Amlodipine
+   Trileptal
+   Amitryplyine
+   Calictriol
+   Gabapentin
+   Past medical history:
+   Family history:
+   Social History:
+   1- Hypertension
+   2- Aortic Dissection Repair () complicated by embolic strokes
+   3- Chronic Renal Insufficiency
+   4- Hyperlipidemia
+   5- Asthma
+   6- Chronic Low back pain
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**3342-2-10**] 12:16 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.7
+C (99.8
+   HR: 94 (84 - 94) bpm
+   BP: 139/102(110){122/70(85) - 149/109(136)} mmHg
+   RR: 18 (13 - 21) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+             Total In:
+             543 mL
+   PO:
+             TF:
+   IVF:
+   543 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    680 mL
+   Urine:
+   680 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -137 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 93%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: Overweight / Obese, Diaphoretic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   250 mg/dL
+   3.5 mg/dL
+   42 mg/dL
+   26 mEq/L
+   92 mEq/L
+   3.0 mEq/L
+   134 mEq/L
+        [image002.jpg]
+                             [**3342-2-10**]  08:49 AM
+   Cr
+                                     3.5
+   TropT
+                                    0.03
+   Glucose
+                                     250
+   Other labs: CK / CKMB / Troponin-T:245/3/0.03, ALT / AST:34/35, Alk
+   Phos / T Bili:128/0.7, LDH:350 IU/L, Ca++:10.2 mg/dL, Mg++:2.3 mg/dL,
+   PO4:3.5 mg/dL
+   Assessment and Plan
+   1-       Hyperglycemic (hyperosmotic non-ketosis)
+   Plan: Hydrate with normal saline
+   2-       Acute renal failure: likely secondary to pre-renal azotemia;
+   hydrate with normal saline
+   3-       Neuro:
+   Plan: Has some nystagmus on examination
+   4-       Myocardial ischemia: serial cardiac enzymes.  Continue aspirin
+   and beta blocker
+   5-
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   20 Gauge - [**3342-2-10**] 07:29 AM
+   Comments:
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   Total time spent:
+
+
+DOC CLASS

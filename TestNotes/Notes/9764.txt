@@ -1,0 +1,37 @@
+Admission Date:  [**3247-8-1**]       Discharge Date:  [**3247-8-24**]
+
+Date of Birth:   [**3174-2-18**]       Sex:  M
+
+Service:
+
+ADDENDUM:  The patient's chest tube was discontinued on the
+[**8-7**] following his CT scan that demonstrated that
+his abscess had markedly diminished in size.  During this
+time his 16 French pigtail catheter was left in place.  We
+are asking that the rehabilitation facility flush this
+catheter with 10 cc of saline once a day and observe it for
+any output.  In addition, the patient's discharge status is
+amended as follows:
+
+The patient was kept on the Acute Surgical Service for
+another two days as he awaited rehab placement.  The patient
+was discharged on [**3247-8-24**] in stable condition to
+[**First Name4 (NamePattern1) 434**] [**Last Name (NamePattern1) 1863**] in [**Location (un) 1962**], [**State **].
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1958**], M.D.
+[**MD Number(1) 1959**]
+
+Dictated By:[**Last Name (NamePattern1) 1960**]
+MEDQUIST36
+
+D:  [**3247-8-23**]  09:58
+T:  [**3247-8-23**]  10:06
+JOB#:  [**Job Number 1963**]
+
+
+DOC CLASS

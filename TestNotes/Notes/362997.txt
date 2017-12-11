@@ -1,0 +1,241 @@
+CCU Intern Progress Note:
+   History of Present Illness
+   [**3067-2-25**]
+   - continues to be febrile 102-103, received tylenol 2gm max/day, no
+   motrin [**3-4**] ARF/CRF, on vanc/zosyn
+   - UOP improved, urine lytes showed FeBUN 16.7% (<35) --> prerenal
+   - vanc trough = 6.6 (LOW) --> gave 500mg IV x 1 and increased daily
+   dose to 1250mg IV q24h
+   - TEE - No atrial septal defect by 2D or color Doppler. Well seated
+   tricuspid annular ring with mild-moderate tricuspid regurgitation.
+   Severe right ventricular cavity enlargement with depressed
+   biventricular systolic function.
+   - AXR, CXR - stable (though difficult to see anything); CXR -
+   Unchanged cardiomegaly with bilateral retrocardiac atelectasis,
+   unchanged mediastinal widening.
+   - evaluated by BACH service ([**Hospital3 2452**] congenital cards) -
+   continue management (nothing revolutionary)
+   - pulm - continue iNO, consider Swan-Ganz for pressures
+   -still on nitric oxide, vasopressin and levo
+   -tele- frequent 3-4 beat runs of NSVT
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 40.4 C
+   Tmax F last 24 hours: 104.8 F
+   T current C: 39 C
+   T current F: 102.2 F
+   Previous day:
+   Intake: 5,273 mL
+   Output: 2,123 mL
+   Fluid balance: 3,150 mL
+   Today:
+   Intake: 1,050 mL
+   Output: 940 mL
+   Fluid balance: 110 mL
+   Vent- CMV/AS PEEP 20, TV 450, RR 32, FiO2 70%, SpO2 99%, nitric oxide
+   at 20
+   VS: HR 81, 91-93; BP 98-61; 96-110/61-79
+   Gen: Obese, sedated, intubated, paralyzed
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: ET tube in place, unable to assess oral
+   cavity
+   Neck: (Jugular veins: Not visible), (Thyroid: WNL)- very large neck
+   Back / Musculoskeletal: (Chest wall structure: WNL)
+   Respiratory: (Auscultation: diminished on bilaterally, L>R
+   Cardiac: (Rhythm: Regular), (Palpation / PMI: WNL), (Auscultation: S1:
+   WNL, S3: Absent, S4: Absent)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),
+   (Pulsatile mass: No), (Hepatosplenomegaly: No)
+   Genitourinary: (WNL)
+   Femoral Artery: (Right femoral artery: No bruit), (Left femoral artery:
+   No bruit), fem line in place
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Gait and
+   station: WNL), (Muscle strength and tone: WNL), (Dorsalis pedis artery:
+   Right: 1+, Left: 1+), (Posterior tibial artery: Right: 1+, Left: 1+),
+   (Edema: Right: 0, Left: 0)
+                   Warm extremities
+   Labs
+   239
+   13.0
+   170
+   3.2
+   23
+   4.4
+   48
+   96
+   129
+   38.2
+   13.2
+        [image002.jpg]
+   ABG 7.4/36/83/23
+   ALT 1211, AST 1132
+   AP 53
+   T Bili 1.8
+   Alb 3.3
+   Ca 8.2, mag 1.7, phos 5.0
+   FDP 80-160, Fibrinogen 546
+   Urine lytes- UreaN 199, Cr 93, Na 38, Osml 346
+   Sputum cx
+ oral flora prelim
+   Urine cx- 8000 GP bacteria
+                            [**3067-2-24**]  09:49 PM
+                            [**3067-2-25**]  03:01 AM
+                            [**3067-2-25**]  03:25 AM
+                            [**3067-2-25**]  07:36 AM
+                            [**3067-2-25**]  09:16 AM
+                            [**3067-2-25**]  11:06 AM
+                            [**3067-2-25**]  01:18 PM
+                            [**3067-2-25**]  02:59 PM
+                            [**3067-2-25**]  04:53 PM
+                            [**3067-2-26**]  03:33 AM
+   WBC
+   13.4
+   14.1
+   13.2
+   Hgb
+   14.2
+   14.1
+   13.0
+   Hct (Serum)
+   42.9
+   41.0
+   38.2
+   Plt
+   338
+   270
+   239
+   INR
+   1.9
+   2.5
+   2.2
+   PTT
+   37.5
+   39.6
+   42.7
+   Na+
+   134
+   132
+   129
+   K + (Serum)
+   6.2
+   5.6
+   5.3
+   4.4
+   K + (Whole blood)
+   5.3
+   5.2
+   Cl
+   101
+   99
+   96
+   HCO3
+   22
+   23
+   23
+   BUN
+   30
+   41
+   48
+   Creatinine
+   2.6
+   3.2
+   3.2
+   Glucose
+   126
+   129
+   170
+   O2 sat (arterial)
+   91
+   96
+   97
+   97
+   92
+   ABG: 7.40 / 36 / 83 /  / -1   Values as of [**3067-2-26**] 03:44 AM
+   Assessment and Plan
+   39M w/ PMhx of Ebstein's anomaly, s/p tricuspid valve reconstruction,
+   right and left sided systolic congestive heart failure, presenting with
+   unstable ventricular tachycardia, s/p resuscitation with return to
+   sinus tachycardia, now intubated, with hypoxic and hypercarbic
+   respiratory failure.
+   .
+   # Ventricular Tachycardia: Likely result of scarring from ebstein
+   anomaly/repairs. Currently receiving amiodarone IV, remains in sinus
+   tachycardia s/p resuscitation.  Cardiac enzymes mildly elevated, likely
+   related to CPR and cardioversion. AM 1/26 episodes of SVT with rate in
+   120s to 130s, improved with amio bolus x 2 and lido gtt, now off lido.
+   -likely need VT albation
+   -continue amiodarone gtt for now, but careful monitoring of LFTs
+   -electrophysiology consult
+   .
+   # Respiratory Failure: Likely multifactorial origin possibling include
+   low cardiac output, volume overload, aspiration PNA, sepsis. No shunt
+   seen on TEE bubble study. Difficulty oxygenating until addition of
+   nitric oxide on [**2-25**], now on Fi02 70% and PEEP of 20. PE ruled out with
+   CTA. CT initially showed left pneumothorax, but f/u CT showed
+   resolution after chest tube attempt. Also CT and CXRs showing
+   right-sided possible aspiration PNA, which is consistent w/ reported
+   aspiration during intubation. Being ventilated according to ARDS net
+   protocol.
+   -pulm recs to stop paralytic- Nimbex, decrease FIO2 to 60%, and start
+   weaning nitric oxide
+   -continuing lasix gtt, improved UO
+   -ARDS net protocol
+   -nebs
+   - [**Hospital1 **] CXR to eval for PTX
+   .
+   # Hypotension: Initially secondary to ventricular tachycardia, and
+   response to sedatives s/p intubation. Initially on three pressors but
+   now only on levophed and vasopressin.  Will try to minimize PEEP to
+   maximize venous return. Likely due to both cardiogenic and septic
+   shock.
+   - Pressors as needed
+   - Fluids as neded, but currently on lasix gtt for volume overload
+   - consider Swan-Ganz placement to evaluate pressures/volumes
+   .
+   # Sepsis: Leukocytosis/fever/right lobe infiltrate- likely aspiration
+   PNA, witnessed emesis during intubation. Continued to be febrile
+   overnight and this morning. Vanco level was low, dose increased
+   - MRSA screen and precautions
+   - Continue vanco and zosyn, day 3 on
+   - Following vanco levels
+   - follow sputum, urine, and blood cxs
+   .
+   # Chronic Systolic Congestive Heart Failure: Has right and left sided
+   heart failure, s/p tricuspid reconstruction and ASD repair. Will hold
+   metoprolol, lisinopril, lasix, and digoxin in setting of hypotension.
+   - hold metoprolol, lisinopril, digoxin
+   - TEE and TTE
+ showed poor systolic function, EF not estimated
+   - consider diurese w lasix drip to goal -500 cc / 24 hours
+   .
+   # ARF: Cr increased to 3.2. Likely [**3-4**] hypotension. Prerenal by urine
+   lytes. UO now improved
+   - monitor UOP
+   - renally dose meds
+   .
+   # Transaminitis: LFTs increased to 1000s, likely from shock liver, and
+   CHF. Also has abdominal extension.
+   - monitor liver function
+   - may need to stop amio
+   - AXR done on [**2-25**]- no free air, no obstruction seen (wet read)
+   .
+   # Family dynamics: family concerned about care of pt in the hospital,
+   mother wants transfer to [**Name (NI) 48**],
+   - social work consult
+   - patient relations/advocate consults
+   - Children
+s congenital specialist contact[**Name (NI) **]- no other recs
+   .
+   #Gout: holding allopurinol and colchicine
+   .
+   FEN:  NPO
+   ACCESS: right femoral line
+   PROPHYLAXIS:
+   -DVT ppx with pneumoboots, sub q heparin
+   - bowel regimen (Colace, Pantoprazole)
+   CODE: Full
+   DISPO: CCU for now
+
+
+DOC CLASS

@@ -1,0 +1,179 @@
+Admission Date:  [**3501-7-20**]              Discharge Date:   [**3501-7-25**]
+
+Date of Birth:  [**3422-7-31**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Amiodarone / Vancomycin
+
+Attending:[**First Name3 (LF) 5505**]
+Chief Complaint:
+edema
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Patient is a 78M with CHF (EF 20%), chronic renal insufficiency
+(baseline Cr 2.2-2.6), Atrial Fibrillation, who presents with
+increasing edema. According to patient, he was in his usual
+state of health until 3 weeks ago, when he began experiencing an
+increase in LE edema. Reports gradual increase in weight, with
+most recent report of 4lb increase in weight over the last 2
+days. [**First Name3 (LF) **] excessive salt intake, no recent infection, no
+chest pain. [**First Name3 (LF) **] cough, SOB, orthopnea, palpitations,
+dizziness or lightheadedness. Patient came to the Emergency
+Department given weight change and increasing edema.
+
+Past Medical History:
+1. CKD [**3-7**] HTN, cardiorenal syndrome
+2. CAD s/p CABG [**3485**] with stenting in [**3498**] and [**3499**]
+3. CHF - Ischemic cardiomyopathy with severe LV systolic
+dysfunction
+with LVEF of 20%
+4. VT status post ICD with biventricular capability
+5. Atrial Fibrillation, rate controlled, on coumadin
+6. Anemia
+7. BPH
+8. Hypothyroidism [**3-7**] amio
+9. Amio induced pulm toxicity
+10. H/O MRSE bacteremia, [**1-7**], unclear source
+11. s/p CCY?
+
+
+Social History:
+Lives with wife in [**Name (NI) 136**] in an apartment building. Retired
+engineer. One son who lives in [**Name (NI) 3324**] and is involved with his
+father's care.
+Tob: quit 30 years ago; before that 25 year history at 1.5 ppd
+EtOH: occasional
+IVDA:none
+
+
+Family History:
+Mother with MI, died at 64; Father died at 86 in [**Country **] of "old
+age"; Son with no medical problems
+
+Physical Exam:
+VITALS: T 96.6, BP 134/63, HR 74, RR 20, O2sat 94% RA
+GEN: chronically ill-appearing, NAD
+HEENT: PERRL, EOMI, Sclera anicteric, dry MM, no OP lesions
+NECK: Large - JVP not observed. No carotid bruits
+PULM: Lungs are clear to auscultation bilaterally. no
+crackles/wheezes/rhonchi
+CV: irregularly irregular, distant heart sounds, S1, S2,
+murmurs/rubs/gallops could not be appreciated
+ABD: SNT, ND, NABS, no HSM, 4+ presacral edema
+EXT: 4+ pitting edema to thighs, 1+ DP pulses
+NEURO: alert and oriented x 3
+
+
+Pertinent Results:
+[**3501-7-20**] 10:00PM   POTASSIUM-5.7*
+[**3501-7-20**] 10:00PM   CK(CPK)-367*
+[**3501-7-20**] 10:00PM   CK-MB-12* MB INDX-3.3 cTropnT-0.20*
+[**3501-7-20**] 02:27PM   K+-5.7*
+[**3501-7-20**] 11:45AM   GLUCOSE-74 UREA N-78* CREAT-3.6* SODIUM-138
+POTASSIUM-5.7* CHLORIDE-103 TOTAL CO2-22 ANION GAP-19
+[**3501-7-20**] 11:45AM   ALT(SGPT)-109* AST(SGOT)-173* CK(CPK)-489*
+ALK PHOS-761* AMYLASE-93 TOT BILI-1.9*
+[**3501-7-20**] 11:45AM   LIPASE-33
+[**3501-7-20**] 11:45AM   CK-MB-14* MB INDX-2.9
+[**3501-7-20**] 11:45AM   PT-30.7* PTT-44.4* INR(PT)-3.2*
+[**3501-7-20**] 10:00AM   WBC-9.3 RBC-4.00* HGB-12.7* HCT-38.3* MCV-96
+MCH-31.8 MCHC-33.3 RDW-18.5*
+[**3501-7-20**] 10:00AM   NEUTS-93* BANDS-0 LYMPHS-1* MONOS-5 EOS-0
+BASOS-0 ATYPS-1* METAS-0 MYELOS-0
+[**3501-7-20**] 10:00AM   PLT SMR-NORMAL PLT COUNT-188#
+[**3501-7-20**] 10:00AM   PT-30.1* PTT-41.6* INR(PT)-3.2*
+
+Brief Hospital Course:
+This is a 78 year old gentleman with class IV CHF with an EF
+20%, AF, cardiorenal syndrome, CRI, hypothyroidism, presenting
+with severe CHF decompensation refractory to standard diuretic
+therapies. He was transferred to the CCU after developing
+hypotension with associated mental status change after attempted
+diuresis with IV lasix drip along with nesiritide. In order to
+treat the hypotension, consideration must be given to his poor
+heart function which, in and of itself, likely has large
+contribution to the hypotensive picture.  The patient was
+started on lasix drip with dopamine for inotropic support. His
+hemodynamic status remained tenuous and his urine output was
+only marginally satisfactory.  The following morning the patient
+went into atrial fibrillation and became hypotensive.
+Cardioversion was not successful.  Levophed was started for
+blood pressure support, dopamine was weaned. Chemical
+cardioversion and rate control was successfully achieved with
+amiodarone.  The patients hemodynamic status improved.  The
+following morning, however, the patient again became hypotensive
+with increasing oxygen requirement and declining urinary output.
+ Mental status unchanged.  Vasopressin was added for blood
+pressure support.
+
+Given these events, Dr. [**First Name (STitle) 205**] called a family meeting to explain
+that the prognosis, unfortunately, was extremely poor.  The
+family elected to make the patient comfort measure only.
+Pressors were weaned off and all medicines not realted to
+comfort were discontinued.  The patient expired the afternoon of
+[**3501-7-25**].  His family was at the bedside.
+
+
+Medications on Admission:
+Aspirin 325mg once daily
+Plavix 75mg once daily
+Metoprolol XL 100mg once daily
+Chlorothiazide 250 mg IV BID
+Nesiritide 0.02mcg/kg/min gtt
+Lasix gtt 10mg/hour
+Levothyroxine 200 mcg once daily
+Doxycycline Hyclate 100 mg PO Q12H
+Protonix
+Iron
+Folic Acid
+Colace/Senna
+Acetaminophen prn
+
+
+Discharge Medications:
+Not applicable
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary
+1. Decompensated Heart Failure
+2. Acute on Chronic Renal Failure
+3. Hypothyroidism
+
+Secondary
+1. HTN,
+2. Cardiorenal syndrome
+3. CAD s/p CABG [**3485**] with stenting in [**3498**] and [**3499**]
+4. CHF - Ischemic cardiomyopathy with severe LV systolic
+dysfunction, last LVEF 20%
+5. VT status post ICD with biventricular capability
+6. Atrial Fibrillation, rate controlled, on coumadin
+7. Anemia, multifactorial including chronic kidney disease
+8. BPH
+9. Hypothyroidism [**3-7**] amio
+10. Amiodarone Toxicity: Pulmonary and Thyroid (Hypothyroidism)
+11. H/O MRSE bacteremia, [**1-7**], unclear source
+12. s/p CCY
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Not applicable
+
+Followup Instructions:
+Not applicable
+
+
+
+
+DOC CLASS

@@ -1,0 +1,239 @@
+CVICU
+   HPI:
+   HD28   POD 27-TAA repair
+    POD 25-chest closure/abdm-[**State 5464**] patch
+    POD 22-abdominal closure
+    POD 12-trach
+   Ejection Fraction:>55
+   Hemoglobin A1c:6
+   Pre-Op Weight:250.44 lbs   113.6 kgs
+   Baseline Creatinine:1.2
+   TLD:Left IJ TLC (new):Day22
+   PMH: HTN
+   [**Last Name (un) **]:benicar 40/12.5mg daily
+   Micro/Imaging:
+   [**2972-4-26**] MRI/MRA brain multiple areas of infarct *R occipital
+   largest-Pt [**Name (NI) 8469**]
+   [**2972-4-19**] Blood cx
+   [**2972-4-19**] Bronch Lots of secretions right lung
+   [**2972-4-18**] Urine cx
+   Events:
+   [**2972-5-7**] No issues->screening bed
+   [**2972-5-6**] Trach collar, passe-muir valve, awaiting bed at rehab
+   [**2972-5-4**] BC ([**5-2**]) GPC - started on IV vancomycin;
+   [**2972-5-2**] Large amount secretions/Free H20/*follow up on Cxs
+   [**2972-5-1**] Trach collar trial-didn't tol.^RR/anxiety.PO Vanco for
+   ?CDiff->*PICC at IR
+   [**2972-4-30**] Bumex d/c'd. lopressor incr to 37.5 TID. clonipin incr for
+   anxiety
+   [**2972-4-20**] Shock x4 for SVT/Afib.TF started. Bumex gtt started. Echo
+   showed tanked.
+   [**2972-4-19**] ID consulted - cipro d/c'd, cefepime, tobra started. Bronch'd.
+   cx, BAL sent
+   [**2972-4-18**] Cx'd - lots of secretions, line changed, lasix gtt started
+   [**2972-4-17**] OR for abdominal closure and G to J
+   [**2972-4-14**] To OR for chest closure
+   [**2972-4-12**] open chest and abdomen
+   Assessment:60 year old male s/p TAA repair(open chest and abdomen)
+   [**4-12**]
+   Plan:***Brain/Neck MRI/MRA=multiple areas of infarct *R occipital
+   largest-Pt [**Name (NI) 8469**]. Neuro updated-need to f/u. Opth consult after Neuro
+   recs per RH
+   Current medications:
+    Acetaminophen . Albuterol-Ipratropium . Amiodarone . Artificial Tears
+   Preserv. Free  Aspirin . Calcium Gluconate . Chlorhexidine Gluconate
+   0.12% Oral Rinse. Clonazepam . Dextrose 50% Glucagon . Haloperidol
+   Heparin . HydrALAzine  Insulin . Lorazepam . Magnesium Sulfate
+   Metoprolol Tartrate . Miconazole Powder 2% . Potassium Chloride .
+   Ranitidine (Liquid) . Sertraline TraMADOL (Ultram) . Vancomycin
+   24 Hour Events:
+   Post operative day:
+   POD#25 - washout
+   POD#21 - abd washout, PEG/PEJ insertion, fascial closure.
+   POD#12 - tracheostomy, flex and rigid bronch
+   Allergies:
+   Morphine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2972-5-8**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Haloperidol (Haldol) - [**2972-5-8**] 09:15 PM
+   Heparin Sodium (Prophylaxis) - [**2972-5-9**] 06:00 AM
+   Hydralazine - [**2972-5-9**] 06:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2972-5-9**] 10:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**74**] a.m.
+   Tmax: 37.9
+C (100.3
+   T current: 37.4
+C (99.3
+   HR: 86 (69 - 98) bpm
+   BP: 111/53(66) {90/42(57) - 137/83(92)} mmHg
+   RR: 25 (14 - 57) insp/min
+   SPO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 101.4 kg (admission): 113.6 kg
+   Height: 68 Inch
+                  Total In:
+                                                                  1,980 mL
+                                                                  1,075 mL
+   PO:
+                  Tube feeding:
+                                                                    960 mL
+                                                                    425 mL
+   IV Fluid:
+                                                                    400 mL
+   Blood products:
+   Total out:
+                                                                  1,305 mL
+                                                                    715 mL
+   Urine:
+                                                                  1,305 mL
+                                                                    715 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    675 mL
+                                                                    360 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 0 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 18 cmH2O
+   Plateau: 16 cmH2O
+   Compliance: 50 cmH2O/mL
+   SPO2: 99%
+   ABG: ///23/
+   Ve: 20.4 L/min
+   Physical Examination
+   General Appearance: No acute distress, Anxious
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   423 K/uL
+   8.4 g/dL
+   102 mg/dL
+   1.3 mg/dL
+   23 mEq/L
+   4.6 mEq/L
+   49 mg/dL
+   108 mEq/L
+   139 mEq/L
+   26.1 %
+   10.2 K/uL
+        [image002.jpg]
+                             [**2972-5-3**]  01:15 AM
+                             [**2972-5-3**]  03:55 AM
+                             [**2972-5-3**]  09:24 AM
+                             [**2972-5-4**]  02:28 AM
+                             [**2972-5-4**]  06:00 AM
+                             [**2972-5-5**]  02:19 AM
+                             [**2972-5-6**]  02:54 AM
+                             [**2972-5-7**]  03:09 AM
+                             [**2972-5-8**]  02:34 AM
+                             [**2972-5-9**]  05:08 AM
+   WBC
+   13.2
+   15.9
+   12.9
+   11.9
+   10.6
+   10.3
+   10.2
+   Hct
+   28.6
+   31.3
+   27.8
+   27.9
+   26.0
+   26.0
+   26.1
+   Plt
+   521
+   566
+   484
+   493
+   439
+   462
+   423
+   Creatinine
+   1.6
+   1.5
+   1.5
+   1.4
+   1.4
+   1.4
+   1.3
+   TCO2
+   28
+   28
+   Glucose
+   119
+   117
+   151
+   111
+   106
+   111
+   112
+   102
+   Other labs: PT / PTT / INR:20.1/30.0/1.9, CK / CK-MB / Troponin T:72//,
+   ALT / AST:137/190, Alk-Phos / T bili:171/2.8, Amylase / Lipase:104/103,
+   Differential-Neuts:91.0 %, Band:2.0 %, Lymph:1.0 %, Mono:2.0 %, Eos:1.0
+   %, Fibrinogen:547 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:3.1 g/dL,
+   LDH:434 IU/L, Ca:8.4 mg/dL, Mg:2.3 mg/dL, PO4:3.3 mg/dL
+   Imaging: CXR- no infiltrates
+   Microbiology: no new cx pos since [**2-15**] bc [**5-3**] coag neg s.a.
+   Assessment and Plan
+   ANXIETY, BALANCE, IMPAIRED, KNOWLEDGE, IMPAIRED, MUSCLE PERFORMACE,
+   IMPAIRED, MOTOR FUNCTION, IMPAIRED, RESPIRATION / GAS EXCHANGE,
+   IMPAIRED, AEROBIC CAPACITY / ENDURANCE, IMPAIRED, RESPIRATORY FAILURE,
+   ACUTE (NOT ARDS/[**Doctor Last Name 73**]), AORTIC RUPTURE
+   Assessment and Plan: stable CV, on/off vent.  Secretions now
+   thin/clear.  Afebrile. Anticipate rehab early next week.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins
+   Pulmonary: Trach
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding
+   Renal: Foley, Adequate UO
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley, J-Tube
+   Consults: General surgery, Vascular surgery, Neurology, ID dept, P.T.
+   ICU Care
+   NovaSource Renal (Full) - [**2972-5-8**] 10:41 PM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2972-5-9**] 05:19 AM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

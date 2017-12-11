@@ -1,0 +1,197 @@
+Admission Date:  [**3456-9-9**]              Discharge Date:   [**3456-9-13**]
+
+Date of Birth:  [**3399-8-31**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**3456-9-9**] CABGx3 (Left internal mammary artery->Left anterior
+descending artery, Saphenous vein graft(SVG)->Ramus artery,
+SVG->Left sided Posterior descending artery).
+
+
+History of Present Illness:
+56 y/o male patient of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 25001**] and Dr. [**Last Name (STitle) 11294**] with
+known CAD, exertional angina and an abnormal stress test who was
+referred for a cardiac catheterization. This revealed
+significant three vessel disease and he was referred for
+surgical revascularization.
+
+
+Past Medical History:
+Past Medical History:CAD, HTN, Hyperlipidemia, [**12/3449**] cardiac
+catheterization: moderate disease of the ramus, and LAD that was
+medically managed, Asthma, Sleep apnea-does not have CPAP/Bipap
+GERD, Anxiety, Depression, Congenital heart disease
+Past Surgical History: [**11/3454**] 2.25mm x 12mm Microdriver bare
+metal stent to ramus, [**3-/3456**] cardiac catheterization:  2.25mm x
+12mm Taxus DES to ISR of ramus, short LMCA, 50% LAD and 50% left
+circumflex, Coarctation of aorta s/p repair at age 9,
+Tonsillectomy as a child, Adenoidectomy as a child, Bilateral
+inguinal hernia repair as child, [**3417**] Appendectomy, [**3424**]
+Varicele
+repair, [**3442**] Laminectomy
+
+
+Social History:
+Lives with: [**Name (NI) 436**], wife.
+Occupation: Accountant.
+ETOH:  Social and denies illicit drug use.
+
+
+Family History:
+Family History: (parents/children/siblings CAD < 55 y/o):Father
+died of MI @ age 59, maternal uncle died of MI @ age 54
+
+
+Physical Exam:
+Pulse:51 Resp:18  O2 sat:100% RA
+B/P  Right:139/69    Left:140/70
+Height:5'[**56**]"     Weight:80.9kgs
+
+General:AAOx3 in NAD, pleasant
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ []
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:2+   Left:2+
+DP           Right:2+   Left:2+
+PT           [**Name (NI) **]:2+   Left:2+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right:neg    Left:neg
+
+
+Pertinent Results:
+[**3456-9-9**] CXR
+Status post CABG with no evidence of acute complications;
+support tubes in
+place.
+
+
+Brief Hospital Course:
+Mr. [**Name13 (STitle) 7245**] was admitted to the [**Hospital1 4**] on [**3456-9-9**] for surgical
+management of his coronary artery disease. He was taken directly
+to the operating room where he underwent coronary artery bypass
+grafting to three vessels. Please see operative note for
+details. Postoperatively he was taken to the intensive care unit
+for monitoring. Within 24 hours, he awoke neurologically intact
+and was extubated. Betablockade, aspirin and a statin were
+resumed. He later was transferred to the step down unit for
+further recovery. He was gently diuresed towards his
+preoperative weight. The physical therapy service was consulted
+for assistance with his postoperative strength and mobility.
+His chest tubes and epicardial wires were removed. [**9-11**]
+
+Medications on Admission:
+Potassium Chloride 10meq by mouth daily
+Metoprolol Succinate 25mg by mouth daily
+Plavix 75mg by mouth daily
+Lisinopril 5mg by mouth daily
+Aspirin 325mg by mouth daily
+Simvastatin 40mg by mouth daily
+Lorazepam 1mg tablet, two tablets by mouth at bedtime as needed
+Afrin nasal spray one spray each nare at bedtime
+Combivent inhaler two puffs by mouth twice a day as needed
+NTG 0.3mg by mouth as needed for chest pain
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Lorazepam 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime)
+as needed for anxiety/sleep.
+4. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q3H (every 3
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO every twenty-four(24)
+hours for 7 days: discontinue after 7 days.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day for
+7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+7. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+9. Combivent 18-103 mcg/Actuation Aerosol Sig: Two (2) puffs
+Inhalation twice a day.
+10. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 1477**] Area VNA
+
+Discharge Diagnosis:
+CAD s/p CABG
+Past Medical History: HTN, Hyperlipidemia, [**12/3449**] cardiac
+catheterization: moderate disease of the ramus, and LAD that was
+medically managed, Asthma, Sleep apnea-does not have CPAP/Bipap
+GERD, Anxiety, Depression, Congenital heart disease
+Past Surgical History: [**11/3454**] 2.25mm x 12mm Microdriver bare
+metal stent to ramus, [**3-/3456**] cardiac catheterization:  2.25mm x
+12mm Taxus DES to ISR of ramus, short LMCA, 50% LAD and 50% left
+circumflex, Coarctation of aorta s/p repair at age 9,
+Tonsillectomy as a child, Adenoidectomy as a child, Bilateral
+inguinal hernia repair as child, [**3417**] Appendectomy, [**3424**]
+Varicele
+repair, [**3442**] Laminectomy
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 239**] at
+([**Telephone/Fax (1) 229**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks from date of
+surgery.
+6) No driving for 1 month or while taking narcotics for pain.
+7) Call with any questions or concerns [**Telephone/Fax (1) 294**]
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) 222**] (cardiac surgery) in 1 month.
+([**Telephone/Fax (1) 229**]
+Please follow-up with Dr. [**Last Name (STitle) 11294**] (cardiologist) in [**1-29**] weeks.
+Please follow-up with Dr. [**Last Name (STitle) 25001**] (PCP) in 2 weeks.
+Call all providers for appointments.
+
+
+
+Completed by:[**3456-9-13**]
+
+DOC CLASS

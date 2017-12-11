@@ -1,0 +1,187 @@
+Chief Complaint:
+   24 Hour Events:
+   Allergies:
+   Sulfonamides
+   Rash;
+   Dicloxacillin
+   Rash;
+   Last dose of Antibiotics:
+   Cefipime - [**3384-4-25**] 03:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3384-4-28**] 08:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.4
+C (97.6
+   HR: 70 (70 - 74) bpm
+   BP: 117/62(76) {95/52(64) - 119/62(108)} mmHg
+   RR: 23 (20 - 30) insp/min
+   SpO2: 94%
+   Heart rhythm: AV Paced
+   Height: 63 Inch
+    CVP: 10 (7 - 16)mmHg
+   Total In:
+                                                                  2,202 mL
+                                                                    180 mL
+   PO:
+                                                                  1,680 mL
+                                                                    100 mL
+   TF:
+   IVF:
+                                                                    522 mL
+                                                                     80 mL
+   Blood products:
+   Total out:
+                                                                  1,025 mL
+                                                                  1,125 mL
+   Urine:
+                                                                  1,025 mL
+                                                                  1,125 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,177 mL
+                                                                   -945 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic), high
+   pitched systolic
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: b/l Lt>rt)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed, confused. thought she was at postoffice
+   Labs / Radiology
+   102 K/uL
+   11.0 g/dL
+   104 mg/dL
+   0.8 mg/dL
+   27 mEq/L
+   3.6 mEq/L
+   18 mg/dL
+   103 mEq/L
+   139 mEq/L
+   33.4 %
+   4.1 K/uL
+        [image002.jpg]
+                             [**3384-4-24**]  09:22 PM
+                             [**3384-4-24**]  11:18 PM
+                             [**3384-4-25**]  05:28 AM
+                             [**3384-4-25**]  04:39 PM
+                             [**3384-4-26**]  04:05 AM
+                             [**3384-4-26**]  08:06 PM
+                             [**3384-4-27**]  03:59 AM
+                             [**3384-4-28**]  04:39 AM
+   WBC
+   4.1
+   5.4
+   3.3
+   4.1
+   Hct
+   35.2
+   34.1
+   33.7
+   33.4
+   Plt
+   113
+   115
+   105
+   102
+   Cr
+   1.2
+   1.2
+   1.1
+   1.1
+   1.1
+   0.9
+   0.8
+   TropT
+   0.08
+   0.18
+   0.12
+   TCO2
+   26
+   Glucose
+   158
+   130
+   81
+   78
+   120
+   91
+   104
+   Other labs: PT / PTT / INR:12.5/57.0/1.1, CK / CKMB /
+   Troponin-T:48/4/0.12, Differential-Neuts:73.0 %, Band:1.0 %, Lymph:19.0
+   %, Mono:3.0 %, Eos:0.0 %, Ca++:8.3 mg/dL, Mg++:1.9 mg/dL, PO4:1.9 mg/dL
+   Assessment and Plan
+   87 yo female w/ sick sinus s/p DDD pacer, afib (no anticoagulation),
+   pul HTN now w/ acute drop in EF (70
+ 20%), CPOD, severe AS, and
+   influenza.
+   # PULM
+   **SOB / Hypoxemia
+   Antibiotics d/c
+s yesterday, and continuing to improve w/ resp status.
+   CXR shows ? R retrocardiac opacification, however without fever, sputum
+   production, leukocytosis.
+   -         AM cxr
+   -         Consider CT scan to eval lung findings, r/o pneumonia
+   -         Cont oseltamivir
+   -         Wean o2
+   # CARDIOVASCULAR
+   ** CHF
+   Decompensated CHF, w/ acute drop in EF.
+   Ddx wide, including stress / takatsubo, viral myocarditis, cad (less
+   likely).  Ruled out on presentation for MI.
+   Will hold off on beta blockers / ace I while in decompensation /
+   acutely.
+   Holding off on diuresis as well given low BP.  Will consider lasix if
+   desats.
+   ** Sustained VT
+   H/o Vt, now off beta blocker.  Lytes wnl.
+   Unclear if cardiac stretch from CHF
+ ectopy, or simply viral infection
+   -> ectopy.
+   Will cont amio gtts until 8p, then convert to PO bid amiodarone.
+   # CAD ppx asa 81 mg daily
+   **  AS
+   Avoid over aggressive diuresis
+   # Hypothyroidism
+   Cont home levothyroxine
+   # Depression
+   Cont celexa 60 mg daily
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3384-4-24**] 08:00 PM
+   Prophylaxis:
+   DVT:  hep sc
+   Stress ulcer:   not neeed
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

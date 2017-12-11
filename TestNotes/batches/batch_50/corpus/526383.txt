@@ -1,0 +1,153 @@
+CVICU
+   HPI:
+   84M s/p Angioplasty of L PT [**10-18**]
+   PMHx: COPD, DM, ESRD on HD, CHF, AS, demented at baseline
+   All PCN, Sulfa
+   Found minimally arousable (much worse than baseline) and transferred to
+   CVICU for intubation and further workup
+   Meds: Insulin, Simvastatin, donepezil, ASA, Levothyroxin, Imdur, Folic
+   Acid, Metoprolol,Heparin, Gabapentin, Vit C, Nephrocaps
+   Plan: Head MRI [**10-24**], IR exchange Permacath [**10-25**] then HD(no flow)
+   24 Hour Events:
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown;
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2915-10-27**] 11:22 AM
+   Cefipime - [**2915-10-27**] 02:00 PM
+   Infusions:
+   Labetalol - 1 mg/min
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2915-10-28**] 04:30 AM
+   Heparin Sodium (Prophylaxis) - [**2915-10-28**] 04:30 AM
+   Other medications:
+   Flowsheet Data as of  [**2915-10-28**] 07:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**19**] a.m.
+   Tmax: 37.4
+C (99.3
+   T current: 37.2
+C (99
+   HR: 70 (63 - 76) bpm
+   BP: 136/43(73) {103/36(57) - 156/51(88)} mmHg
+   RR: 17 (14 - 21) insp/min
+   SPO2: 100%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 84.6 kg (admission): 81.6 kg
+   Height: 69 Inch
+   CVP: 12 (9 - 16) mmHg
+   Total In:
+                                                                  2,048 mL
+                                                                    398 mL
+   PO:
+   Tube feeding:
+                                                                    960 mL
+                                                                    291 mL
+   IV Fluid:
+                                                                    828 mL
+                                                                     47 mL
+   Blood products:
+   Total out:
+                                                                    340 mL
+                                                                    150 mL
+   Urine:
+                                                                    340 mL
+                                                                    150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,708 mL
+                                                                    248 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 491 (491 - 626) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 19
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 52
+   PIP: 21 cmH2O
+   SPO2: 100%
+   ABG: 7.44/41/113/25/4
+   Ve: 12.2 L/min
+   PaO2 / FiO2: 283
+   Labs / Radiology
+   311 K/uL
+   7.9 g/dL
+   133 mg/dL
+   4.4 mg/dL
+   25 mEq/L
+   4.2 mEq/L
+   75 mg/dL
+   99 mEq/L
+   134 mEq/L
+   22.8 %
+   15.1 K/uL
+        [image002.jpg]
+                             [**2915-10-24**]  04:00 AM
+                             [**2915-10-24**]  06:01 AM
+                             [**2915-10-24**]  07:09 PM
+                            [**2915-10-25**]  12:51 AM
+                            [**2915-10-25**]  01:01 AM
+                            [**2915-10-26**]  03:10 AM
+                            [**2915-10-27**]  03:11 AM
+                            [**2915-10-27**]  03:37 AM
+                            [**2915-10-28**]  03:31 AM
+                            [**2915-10-28**]  03:48 AM
+   WBC
+   11.6
+   14.7
+   13.4
+   15.1
+   Hct
+   25.3
+   25.8
+   24.2
+   22.8
+   Plt
+   233
+   239
+   266
+   311
+   Creatinine
+   3.4
+   2.5
+   3.6
+   4.4
+   TCO2
+   22
+   23
+   24
+   29
+   29
+   Glucose
+   103
+   91
+   185
+   167
+   160
+   131
+   133
+   Other labs: PT / PTT / INR:13.9/27.5/1.2, CK / CK-MB / Troponin
+   T:514/13/0.11, ALT / AST:16/15, Alk-Phos / T bili:122/0.1,
+   Fibrinogen:796 mg/dL, Lactic Acid:1.1 mmol/L, Albumin:2.6 g/dL, LDH:172
+   IU/L, Ca:8.5 mg/dL, Mg:1.9 mg/dL, PO4:2.4 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**2915-10-27**] 05:43 PM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2915-10-19**] 11:50 AM
+   Dialysis Catheter - [**2915-10-19**] 12:12 PM
+   Arterial Line - [**2915-10-26**] 12:05 AM
+
+
+DOC CLASS

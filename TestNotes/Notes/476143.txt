@@ -1,0 +1,221 @@
+Chief Complaint: altered mental status
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   56 yo man with DMI, ESRD on HD, anti-insulin receptor antibodies with
+   recurrent episodes of hypoglycemia, admitted [**2-18**] with altered mental
+   status in the setting of undetectable glucose levels.
+   24 Hour Events:
+   -extubated at 3PM, doing well
+   -intraosseous line removed
+   -episodes of transient hypotension responding to 500cc crystalloid
+   bolus
+   -successfully rewarmed without metabolic disarray
+   -episodes of nausea this morning
+   -FSBG all over 200, D5W weaned off this morning
+   Allergies:
+   Tapazole (Oral) (Methimazole)
+   Rash;
+   Last dose of Antibiotics:
+   Piperacillin - [**3310-2-19**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Colace
+   Vancomycin per HD protocol
+   Thiamine
+   MVI
+   Synthroid 75mcg daily
+   Sevalemer [**Hospital1 **]
+   Nephrocaps
+   Cellcept [**Pager number **] po BID (refusing)
+   Prednisone 20mg daily
+   RISS
+   Lantus 3U [**Hospital1 **]
+   Prilosic 40 po daily
+   Allopurinol
+   Eye drops
+   Rosuvastatin
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3310-2-19**] 08:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**12**] AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 37.3
+C (99.1
+   HR: 96 (63 - 96) bpm
+   BP: 173/70(106) {73/37(50) - 173/70(106)} mmHg
+   RR: 21 (12 - 23) insp/min
+   SpO2: 93% (RA)
+   Heart rhythm: SR (Sinus Rhythm)
+   FSBG 304 (at 6AM, D5W off)
+             Total In:
+                                                                  2,705 mL
+                                                                  1,035 mL
+   PO:
+                                                                    480 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                  2,225 mL
+                                                                    795 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,705 mL
+                                                                  1,035 mL
+   Respiratory support
+   O2 Delivery Device: None
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 24 cmH2O
+   Plateau: 21 cmH2O
+   SpO2: 93%
+   ABG: 7.48/43/123/26/8
+   Ve: 6.4 L/min
+   PaO2 / FiO2: 308
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: alert and oriented x3
+   Labs / Radiology
+   10.5 g/dL
+   216 K/uL
+   207 mg/dL
+   5.9 mg/dL
+   26 mEq/L
+   4.3 mEq/L
+   38 mg/dL
+   98 mEq/L
+   139 mEq/L
+   31.9 %
+   11.9 K/uL
+        [image002.jpg]
+                             [**3310-2-18**]  10:10 AM
+                             [**3310-2-18**]  11:40 AM
+                             [**3310-2-18**]  12:22 PM
+                             [**3310-2-18**]  08:19 PM
+                             [**3310-2-19**]  12:00 AM
+                             [**3310-2-19**]  02:49 AM
+   WBC
+   7.6
+   10.3
+   11.9
+   Hct
+   35.8
+   33.5
+   31.9
+   Plt
+   223
+   239
+   216
+   Cr
+   5.7
+   5.8
+   5.9
+   TCO2
+   34
+   33
+   Glucose
+   [**Telephone/Fax (3) 11244**]07
+   Other labs: PT / PTT / INR:11.4/27.8/0.9, CK / CKMB / Troponin-T:152//,
+   Differential-Neuts:93.4 %, Lymph:4.2 %, Mono:1.9 %, Eos:0.3 %, Lactic
+   Acid:2.1 mmol/L, Ca++:8.7 mg/dL, Mg++:1.7 mg/dL, PO4:4.1 mg/dL
+   Blood cultures all NGTD
+   Assessment and Plan
+   #altered mental status
+   -now resolved with correction of hypoglycemia.
+   -head CT with improved subdural hematoma on L
+   -on thiamine and MVI
+   #hypoglycemia
+   -given recurrent nature may be related to underlying anti-insulin
+   receptor antibody
+   -remains hyperglycemic, getting home lantus dose at 3U [**Hospital1 **] with insulin
+   sliding scale coverage
+   -change prednisone 20mg daily to IV solumedrol equivalent given
+   vomiting
+   -patient refusing cellcept
+   -check FSBG qAC
+   #hypothermia
+   -unclear if this is due to altered mental status or other etiology such
+   as infection
+   -dicontinue vancomycin and zosyn (got 48 hour course with negative
+   cultures)
+   -now rewarmed
+   #EKG changes likely due to hypothermia
+   -will repeat EKG this morning
+   ICU Care
+   Nutrition: diabetic diet
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3310-2-18**] 11:17 AM to be removed once peripheral IV
+   placed
+   Arterial Line - [**3310-2-18**] 12:21 PM to be removed
+   Prophylaxis:
+   DVT: heparin
+   Stress ulcer: not inticated
+   VAP: not indicated
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI, this was again reconfirmed with patient
+   Disposition : call out to floor
+   Total time spent:
+   ------ Protected Section ------
+   I have seen and examined the patient and agree substantially with the
+   assessment and plan with the following modifications/emphasis:
+   Overnight, remained extubated and no new problems arose though had one
+   episode of emesis after eating a salad this morning
+   T 37.3  P 96  BP 170/80  RR 20  Sat: 95%
+   Awake, no acute distress
+   Chest: CTA bilaterally
+   Heart: S1 S2 reg
+   Abd: Soft, NT ND
+   Ext: no edema
+   Assessment:
+   1) Hypoglycemia
+ resolved
+   2) Hypothermia
+ improved
+   3)  Hypotension
+ resolved
+   4) ESRD
+   5) DM
+   Plan:
+   1- Continue empiric antibiotics for 48 hours pending culture results
+   2- [**Last Name (un) 257**] following for glucose management
+   3- Vomiting episode appears isolated and abdomen is completely benign
+   so will follow -> if recurs or develops abdominal pain, would consider
+   abdominal CT scan
+   4- Can transfer to the floor
+   Time Spent: 25 minutes
+   ------ Protected Section Addendum Entered By:[**Name (NI) 140**] [**Last Name (NamePattern1) 294**], MD
+   on:[**3310-2-19**] 15:27 ------
+
+
+DOC CLASS

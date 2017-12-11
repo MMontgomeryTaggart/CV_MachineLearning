@@ -1,0 +1,213 @@
+Chief Complaint: Fatigue, intubated for hypercarbic respiratory failure
+   24 Hour Events:
+   - spoke to patient
+s daughter who gave more history to patient
+   presentation
+ basically that the patient did not have any increased
+   facial edema or shortness of breath, was brought to ED for increased
+   fatigue with no other complaints
+   - reviewing patient chart, she has had known history of compliance
+   issues and DNK on outpatient visits
+   Allergies:
+   Ace Inhibitors
+   angioedema;
+   Lisinopril (Oral)
+   Shortness of br
+   Last dose of Antibiotics:
+   Vancomycin - [**3093-9-8**] 03:00 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3093-9-8**] 08:00 PM
+   Other medications:
+   Metoprolol 25mg PO BID
+   Prednisone 5mg PO daily
+   Levothyroxine 150mcg daily
+   Clonidine 0.1mg PO daily
+   Desmopressin 0.2mg daily
+   Changes to medical and family history: As above
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3093-9-9**] 07:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38
+C (100.4
+   Tcurrent: 37.9
+C (100.3
+   HR: 93 (68 - 93) bpm
+   BP: 139/77(93) {115/60(71) - 167/96(107)} mmHg
+   RR: 21 (13 - 23) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 57 Inch
+             Total In:
+                                                                    305 mL
+                                                                    658 mL
+   PO:
+             30 mL
+   TF:
+   IVF:
+                                                                    285 mL
+                                                                    628 mL
+   Blood products:
+   Total out:
+                                                                  1,575 mL
+                                                                  1,100 mL
+   Urine:
+                                                                  1,575 mL
+                                                                  1,100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,270 mL
+                                                                   -442 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 70%
+   RSBI: 88
+   PIP: 30 cmH2O
+   Plateau: 25 cmH2O
+   Compliance: 23.5 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.49/52/103/35/13
+   Ve: 9.4 L/min
+   PaO2 / FiO2: 147
+   Physical Examination
+   GENERAL - short, obese woman, intubated, but opening eyes and
+   responding yes/no to simple questions in Spanish
+   HEENT - pupils small and pinpoint, patient with periorbital edema and
+   large obese neck. +evidence of facial hirsutism
+   LUNGS - trace wheezing on posterior exam, clear anteriorly
+   HEART - 4/6 SEM across precordium
+   ABDOMEN - NABS, soft/NT/ND, obese. With some rash on pannus area
+   EXTREMITIES - slightly warm with trace erythema but no evidence of open
+   lesions
+   NEURO: Able to move all extremities
+   Labs / Radiology
+   179 K/uL
+   9.9 g/dL
+   138 mg/dL
+   0.8 mg/dL
+   35 mEq/L
+   4.0 mEq/L
+   9 mg/dL
+   108 mEq/L
+   151 mEq/L
+   32.3 %
+   15.5 K/uL
+        [image002.jpg]
+                             [**3093-9-8**]  09:44 PM
+                             [**3093-9-9**]  03:17 AM
+                             [**3093-9-9**]  05:04 AM
+   WBC
+   15.5
+   Hct
+   32.3
+   Plt
+   179
+   Cr
+   0.8
+   TropT
+   <0.01
+   TCO2
+   38
+   41
+   Glucose
+   138
+   Other labs: PT / PTT / INR:14.9/26.7/1.3, CK / CKMB /
+   Troponin-T:31//<0.01, Lactic Acid:0.9 mmol/L, Ca++:9.4 mg/dL, Mg++:1.7
+   mg/dL, PO4:1.9 mg/dL
+   Sputum Cx with 2+ GPC in pairs on gram stain, culture pending
+   UCX, BCx NGTD
+   Assessment and Plan
+   53F with obesity hypoventilation on home CPAP with multiple hospital
+   admissions for hypercarbic respiratory failure, OSA,
+   panhypopituitarism, pulmonary HTN, diastolic CHF who presented with
+   fatigue, and intubated for hypercarbic respiratory failure.
+   .
+   #)Hypercarbic respiratory failure: ABGs overnight showed some
+   overventilation with pCO2 in 50s. Being trialed on PSV this AM, goal to
+   have pCO2 in high 60s. Patient with no complaints on admission, CXR
+   without clear infiltrate, but will f/u on sputum Cx with GPCs in gram
+   stain. Increased WBC difficult to separate from increase [**1-28**] to steroid
+   dose in ED. If patient spikes fever, low threshold to start antibiotics
+   to cover for PNA
+   - wean down on vent with goal pCO2 60s, possible extubation today
+   - continue to hold on sedation and allow patient to wake
+   - f/u fever curve, add abx if spikes
+   - continue home CPAP for OSA (16cm H2O)
+   - resend sputum culture to r/o pneumonia but hold on any antibiotics
+   .
+   #) Facial swelling: Per daughter, patient without notable increase in
+   facial swelling. Patient with no signs of anaphylaxis, acute allergic
+   angiodema, no tongue swelling or urticaria. Had history of angioedema
+   with ACEi, but has been on [**Last Name (un) 223**] with no medication changes recently to
+   explain new facial swelling. Could also be [**1-28**] volume overload with
+   morbid obesity and diastolic dysfunction. Also would want to rule out
+   subclavian vein thrombosis or SVC syndrome in this patient with prior
+   central line placement. Symptoms improved with steroids, benadyrl,
+   pepcid in ED
+   - assess for airway and tongue edema after intubation
+   - hold [**Last Name (un) 223**]
+   .
+   #) Hypernatremia: patient has had episodes of hypernatremia in past,
+   but is increased overnight
+   - 500ml D5 bolus, recheck lytes in PM
+   .
+   #) LE edema/erythema: Unclear baseline. No white count of fever to
+   indicate cellulitis. No history of diabetes or vascular disease, but
+   likel chronic venous stasis changes. Received vanco/zosyn in ED.
+   - hold on antibiotics for now
+   - f/u blood cultures
+   - follow exam, white count, fever curve off antibiotics
+   .
+   #) Obesity hypoventilation syndrome: On CPAP at home. Did not keep last
+   appointment with outpatient sleep lab. Likely component of patient's
+   hypercarbic respiratory failure
+   - continue CPAP when extubated
+   - set up patient with close follow up for sleep study and weight
+   management
+   .
+   #)Diastolic CHF: Patient hypervolemic by CXR, JVD difficult to assess
+   with body habitus, no LE edema. Patient not on lasix at home
+   - allow patient to autodiurese and follow UOP and CXR
+   .
+   #)Panhypopituitarism: Thought to be secondary to "empty sella". No
+   evidence of shock, hypotension.
+   - continue on home dose of Prednisone 5mg, Levoxyl, and Desmopressin.
+   .
+   #)Hypertension:
+   - hold diovan given facial edema
+   - continue on home dose of metoprolol
+   .
+   #) Social issues: Patient was sent into ED for unclear reasons, patient
+   lives at home with daughter but has had difficulty with caring for
+   patient in addition to her children. Patient has had h/o noncompliance
+   with appointments and meds. Upon discharge, will need to make sure case
+   management helps with services at home, or possible need for SNIF
+   placement.
+   ICU Care
+   Nutrition: NPO for now
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3093-9-8**] 03:33 PM
+   Prophylaxis:
+   DVT:  SC heparin
+   Stress ulcer:  PPI
+   VAP:  HOB elevated, mouth care, RSBI in AM
+   Comments:
+   Communication:  Comments: Daughter home number : [**Telephone/Fax (1) 5256**], ICU
+   Code status: Full code
+   Disposition: ICU for now
+
+
+DOC CLASS

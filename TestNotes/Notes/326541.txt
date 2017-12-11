@@ -1,0 +1,228 @@
+Chief Complaint: respiratory distress
+   I saw and examined the patient, and was physically present with the ICU
+   Fellow for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   44 y/o F admitted with NSTEMI, course complicated by persistent fevers,
+   altered mental status, elevated LFTs, and urine eosinophilia.  Her
+   overall picture is confusing and perhaps suggestive of a vasculitis
+   given the persistent fevers and multisystem disease.  However, multiple
+   serologies for rheumatologic disease are negative to date.  Also, ? of
+   a hypercoaguable state given RCA thrombosis and multiple infarcts on
+   head MRI.
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**3225-9-4**] 01:00 PM
+   Diuresis attempted yesterday.  Got lasix 40 IV and then 80 IV without
+   response in UOP.  BUN and creatinine continue to rise.  Then got NS 500
+   cc boluses x3.
+   Appeared more tachypneic this morning, so placed back on ventilator.
+   Allergies:
+   Sulfasalazine
+   Unknown;
+   Last dose of Antibiotics:
+   Aztreonam - [**3225-9-3**] 12:00 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3225-9-4**] 02:14 PM
+   Heparin Sodium (Prophylaxis) - [**3225-9-5**] 12:37 AM
+   Other medications:
+   lansoprazole, insulin sliding scale, peridex, plavix, thiamine, folate,
+   multivitamin, atrovent, aspirin 325 mg daily, metoprolol (held this
+   AM), albuterol, free water 250 q3h
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3225-9-5**] 09:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.7
+C (98
+   HR: 85 (83 - 95) bpm
+   BP: 96/60(68) {94/51(64) - 122/87(96)} mmHg
+   RR: 34 (25 - 41) insp/min
+   SpO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 84.3 kg (admission): 92 kg
+   Height: 66 Inch
+   CVP: 24 (23 - 43)mmHg
+   Mixed Venous O2% Sat: 35 - 35
+   Total In:
+                                                                  4,747 mL
+                                                                  3,282 mL
+   PO:
+   TF:
+                                                                    881 mL
+                                                                    365 mL
+   IVF:
+                                                                  2,556 mL
+                                                                  2,418 mL
+   Blood products:
+   Total out:
+                                                                    645 mL
+                                                                    235 mL
+   Urine:
+                                                                    645 mL
+                                                                    235 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,102 mL
+                                                                  3,047 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 614 (614 - 614) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 13 cmH2O
+   SpO2: 92%
+   ABG: 7.44/21/84  VBG 7.33/32 this AM on vent
+   Ve: 19 L/min
+   PaO2 / FiO2: 210
+   Physical Examination
+   General Appearance: Overweight / Obese, tachypneic but unchanged from
+   prior
+   Head, Ears, Nose, Throat: Normocephalic, trach site c/d/i
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed, eyes open but does not track or follow commands
+   Labs / Radiology
+   8.9 g/dL
+   295 K/uL
+   171 mg/dL
+   2.2 mg/dL
+   16 mEq/L
+   4.9 mEq/L
+   112 mg/dL
+   116 mEq/L
+   147 mEq/L
+   29.3 %
+   32.1 K/uL
+        [image002.jpg]
+                             [**3225-9-2**]  04:02 AM
+                             [**3225-9-3**]  04:01 AM
+                             [**3225-9-3**]  05:19 AM
+                             [**3225-9-3**]  03:30 PM
+                             [**3225-9-4**]  04:59 AM
+                             [**3225-9-4**]  05:12 AM
+                             [**3225-9-4**]  09:36 AM
+                             [**3225-9-4**]  11:43 AM
+                             [**3225-9-4**]  05:16 PM
+                             [**3225-9-5**]  05:00 AM
+   WBC
+   24.8
+   22.5
+   32.1
+   Hct
+   29.2
+   29.1
+   29.3
+   Plt
+   400
+   382
+   295
+   Cr
+   1.6
+   1.4
+   1.5
+   1.9
+   2.2
+   TropT
+   2.63
+   TCO2
+   20
+   19
+   16
+   15
+   15
+   Glucose
+   141
+   171
+   139
+   143
+   171
+   Other labs: PT / PTT / INR:17.0/29.2/1.5, CK / CKMB /
+   Troponin-T:3705/12/2.63, ALT / AST:253/226, Alk Phos / T Bili:130/1.4,
+   Amylase / Lipase:278/98, Differential-Neuts:85.0 %, Band:0.0 %,
+   Lymph:12.0 %, Mono:3.0 %, Eos:0.0 %, D-dimer:5093 ng/mL, Fibrinogen:667
+   mg/dL, Lactic Acid:2.4 mmol/L, Albumin:3.7 g/dL, LDH:799 IU/L, Ca++:8.1
+   mg/dL, Mg++:3.2 mg/dL, PO4:6.8 mg/dL
+   Fluid analysis / Other labs: Aldolase pending
+   Anti-Ro, La, & [**Doctor Last Name 643**] all negative
+   Beta-2 glycoprotein negative
+   GGT 300
+   Imaging: CXR: improved RLL opacity but with evidence of subpulmonic
+   effusion
+   Assessment and Plan
+   44 y/o F admitted with NSTEMI, course complicated by persistent fevers,
+   altered mental status, elevated LFTs, and urine eosinophilia.
+   Vasculitis workup has been negative to date.  Now afebrile & off of
+   antibiotics, with worsening renal failure and persistently altered
+   mental status.
+   1. Respiratory failure:  Placed on PSV earlier this AM for tachypnea,
+   but respiratory rate appears unchanged over past 10 days.  Will try
+   trach collar again today.
+    - trach collar today, repeat VBG
+    - cont albuterol and atrovent
+   2. s/p MI:  s/p BMS to RCA.  Most recent echo with preserved EF.
+    - cont aspirin, beta-blocker, plavix
+    - holding ace given renal failure
+   3. Altered mental status:  Unclear cause of findings on MRI.  TTE
+   negative, TEE negative for vegetations.
+   - uremia is likely the primary cause of her somnolence at this point
+   - off propofol
+   - CK continuing to rise of unclear etiology - will discuss ?myopathy
+   with neuro
+    4. Elevated LFTs:  Likely related to muscle breakdown as CK is also
+   elevated.  Alk phos and total bili have been normal.
+   - GGT elevated so some component of this is hepatic
+   -  aldolase pending
+   5. ARF:  BUN and creatinine continue to rise and seemed to worsen with
+   the administration of lasix despite not effectively diuresing.  This
+   suggests that she is somewhat volume depleted although for LOS is
+   likely extremely positive.  Will give additional IVF today but wonder
+   if she would benefit from dialysis given ? of BUN contributing to
+   mental status.
+   6. ? Hx EtOH abuse:  Cont thiamine, folate, mvt.  Will d/w Neuro
+   whether any of this could be Wernicke's.
+   7. Leukocytosis:  Has been persistent but worsened today.  Afebrile.
+   Will add on differential.  No abx for now, f/u cx.
+   8. Hypernatremia:  Replete free water - will switch to IV as unclear
+   how much she absorbs given her gastric bypass.
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3225-9-5**] 02:58 AM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Blood sugar well
+   controlled
+   Lines:
+   Multi Lumen - [**3225-8-21**] 03:25 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 60 min
+   Patient is critically ill
+
+
+DOC CLASS

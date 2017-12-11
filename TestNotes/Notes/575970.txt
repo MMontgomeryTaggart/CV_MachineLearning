@@ -1,0 +1,201 @@
+Chief Complaint:
+   24 Hour Events:
+ BRONCHOSCOPY - At [**2861-1-27**] 12:00 PM
+ INVASIVE VENTILATION - STOP [**2861-1-27**] 02:30 PM
+ ARTERIAL LINE - STOP [**2861-1-27**] 07:35 PM
+   - Extubated without difficulty
+   - Increased lasix drip up to 12mg/hr to increase diuresis, then D/C
+   - Repleted K
+   - Gave ambien for sleep aid
+   - Started insulin SS for elevated BG
+   Patient complains only of sore throat
+   Allergies:
+   Lisinopril
+   Rash; Abdominal
+   Kefzol (Intraven.) (Cefazolin Sodium)
+   Hives;
+   Sulfa (Sulfonamide Antibiotics)
+   Hives; Nausea/V
+   Last dose of Antibiotics:
+   Metronidazole - [**2861-1-25**] 07:59 AM
+   Aztreonam - [**2861-1-25**] 08:00 AM
+   Infusions:
+   Furosemide (Lasix) - 12 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2861-1-28**] 07:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 35.9
+C (96.7
+   HR: 97 (65 - 119) bpm
+   BP: 116/50(66) {98/40(58) - 152/79(133)} mmHg
+   RR: 21 (10 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 63 Inch
+    CVP: 140 (14 - 255)mmHg
+   Total In:
+                                                                    913 mL
+                                                                    697 mL
+   PO:
+                                                                    120 mL
+                                                                    540 mL
+   TF:
+                                                                    100 mL
+   IVF:
+                                                                    643 mL
+                                                                    157 mL
+   Blood products:
+   Total out:
+                                                                  1,980 mL
+                                                                    595 mL
+   Urine:
+                                                                  1,980 mL
+                                                                    595 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,067 mL
+                                                                    102 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: PSV/SBT
+   Vt (Spontaneous): 533 (533 - 533) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 8
+   PEEP: 0 cmH2O
+   FiO2: 50%
+   PIP: 13 cmH2O
+   SpO2: 96%
+   ABG: 7.50/38/69/31/5
+   Ve: 4.8 L/min
+   PaO2 / FiO2: 138
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: Normal S1, S2, no murmurs
+   Respiratory / Chest:  Crackles BL, distant breath sounds on right lower
+   lobe.
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended, Obese
+   Extremities: Right: 2+, Left: 2+
+   Neurologic: Responds to voice, able to communicate although sedated
+   Labs / Radiology
+   248 K/uL
+   8.7 g/dL
+   133 mg/dL
+   1.2 mg/dL
+   31 mEq/L
+   4.3 mEq/L
+   32 mg/dL
+   98 mEq/L
+   135 mEq/L
+   25.4 %
+   6.7 K/uL
+        [image002.jpg]
+                             [**2861-1-26**]  12:31 PM
+                             [**2861-1-26**]  04:00 PM
+                             [**2861-1-26**]  04:06 PM
+                             [**2861-1-26**]  10:49 PM
+                             [**2861-1-27**]  03:29 AM
+                             [**2861-1-27**]  03:49 AM
+                             [**2861-1-27**]  02:24 PM
+                             [**2861-1-27**]  03:40 PM
+                             [**2861-1-27**]  03:50 PM
+                             [**2861-1-28**]  05:25 AM
+   WBC
+   5.4
+   6.3
+   6.7
+   Hct
+   26.0
+   26.6
+   25.9
+   26.7
+   25.4
+   Plt
+   191
+   243
+   248
+   Cr
+   1.4
+   1.3
+   1.2
+   1.1
+   1.2
+   TCO2
+   30
+   30
+   32
+   31
+   31
+   Glucose
+   101
+   158
+   151
+   138
+   133
+   Other labs: PT / PTT / INR:14.7/26.0/1.3, Lactic Acid:0.9 mmol/L,
+   Ca++:9.8 mg/dL, Mg++:1.9 mg/dL, PO4:3.7 mg/dL
+   Imaging: CXR Pending
+   Microbiology: URINE CULTURE (Final [**2861-1-26**]):
+         STAPHYLOCOCCUS, COAGULASE NEGATIVE.    10,000-100,000
+   ORGANISMS/ML
+   Assessment and Plan
+   62 y/o F with PMHx of biventricular heart failure and moderate pulm
+   hypertension presents with pleuritic chest pain, hypoxia and DOE
+   transferred to the MICU for hemoptysis following thoracentesis.  She is
+   extubated now and doing well.
+   # Hypoxia S/P Thoracentesis:  The patient is extubated and awake today,
+   still requiring 5L O2 per NC.  Her Hct remains stable and her CXR is
+   consistent with continued effusion and fluid overload.  She had a small
+   response to lasix gtt overnight.
+   -          Lasix 80mg IV BID goal net -1-2L today
+   -          PM Electolytes
+   -          Nebs PRN
+   # Afib:  The patient was not anticoagulated previously secondary to
+   recent Dx of Duodenal Ulcer.  Will not start anticoagulation in the
+   setting of acute bleed.
+   - Metoprolol 25mg PO TID, uptitrate as needed to control rate.
+   # Ulcerative Colitis: currently asymptomatic, continue home regimen
+   - Asacol 800mg TID
+   # Hypotension:  Resolved with elevated CVP.
+   # Chest pain:  Resolved. EKGs essentially unchanged, CE's ruled out and
+   cardiac cath in [**11-13**] was normal.
+   -          Hold Aspirin
+   -          Restart metoprolol 25mg PO TID, uptitrated as needed.
+   # Hypertension: Restart Metoprolol as above
+   # FEN Discontinue tube feeds for SBT, replete lytes PRN
+   # Access: Re-establish PIV or place PICC, D/C L IJ, right radial line
+   # PPx: pneumoboots, bowel regimen, IV PPI
+   # Code: FULL
+   # Dispo: Call out to HMED
+   # Comm: With patient
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2861-1-24**] 06:42 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,177 @@
+Chief Complaint:
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**2672-1-23**] 09:45 AM
+ UNPLANNED LINE/CATHETER REMOVAL (PATIENT INITIATED) - At [**2672-1-24**]
+   04:15 AM
+   History obtained from Medical records, Overnight resident and nurse
+   Patient unable to provide history: Language barrier
+   Allergies:
+   Ace Inhibitors
+   Cough;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2672-1-22**] 02:00 PM
+   Vancomycin - [**2672-1-22**] 04:28 PM
+   Piperacillin - [**2672-1-24**] 05:30 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2672-1-23**] 08:00 AM
+   Heparin Sodium (Prophylaxis) - [**2672-1-24**] 12:00 AM
+   Hydralazine - [**2672-1-24**] 05:45 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2672-1-24**] 07:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 35.6
+C (96.1
+   HR: 113 (86 - 119) bpm
+   BP: 179/59(96) {116/50(73) - 193/72(114)} mmHg
+   RR: 25 (11 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 56.6 kg (admission): 56 kg
+             Total In:
+                                                                  3,272 mL
+                                                                    460 mL
+   PO:
+                                                                    600 mL
+                                                                    200 mL
+   TF:
+   IVF:
+                                                                  2,632 mL
+                                                                    260 mL
+   Blood products:
+   Total out:
+                                                                  1,185 mL
+                                                                    490 mL
+   Urine:
+                                                                  1,185 mL
+                                                                    490 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,087 mL
+                                                                    -30 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   PS : 5 cmH2O
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 0 cmH2O
+   FiO2: 80%
+   PIP: 21 cmH2O
+   Plateau: 17 cmH2O
+   SpO2: 94%
+   ABG: 7.31/52/98.[**Numeric Identifier 170**]/27/0
+   Ve: 7.3 L/min
+   PaO2 / FiO2: 245
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: right surgical pupil, left reactive
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4, No(t)
+   Rub, (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   Crackles : at bases BL, No(t) Bronchial: , No(t) Wheezes : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: Absent, Left: Absent, No(t) Cyanosis, No(t)
+   Clubbing
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Responds to: Verbal stimuli, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   119 K/uL
+   6.6 g/dL
+   129 mg/dL
+   2.9 mg/dL
+   27 mEq/L
+   4.5 mEq/L
+   43 mg/dL
+   108 mEq/L
+   141 mEq/L
+   18.9 %
+   8.8 K/uL
+        [image002.jpg]
+                            [**2672-1-22**]  03:44 PM
+                            [**2672-1-22**]  07:02 PM
+                            [**2672-1-22**]  07:27 PM
+                            [**2672-1-22**]  10:28 PM
+                            [**2672-1-22**]  10:50 PM
+                            [**2672-1-23**]  04:40 AM
+                            [**2672-1-23**]  04:51 AM
+                            [**2672-1-23**]  09:24 AM
+                            [**2672-1-23**]  04:38 PM
+                            [**2672-1-24**]  02:51 AM
+   WBC
+   10.4
+   8.8
+   Hct
+   25.0
+   27
+   23.0
+   22.8
+   18.9
+   Plt
+   155
+   119
+   Cr
+   2.8
+   2.8
+   2.9
+   3.0
+   2.9
+   TCO2
+   26
+   28
+   27
+   29
+   27
+   Glucose
+   159
+   137
+   67
+   118
+   129
+   Other labs: PT / PTT / INR:13.6/52.5/1.2, ALT / AST:100/57, Alk Phos /
+   T Bili:30/0.6, Amylase / Lipase:1485/68, Differential-Neuts:82.4 %,
+   Lymph:10.7 %, Mono:5.3 %, Eos:0.9 %, Lactic Acid:1.1 mmol/L,
+   Albumin:4.1 g/dL, LDH:254 IU/L, Ca++:8.5 mg/dL, Mg++:2.2 mg/dL, PO4:3.8
+   mg/dL
+   Assessment and Plan
+ DIABETES MELLITUS (DM), TYPE II
+ HYPERTENSION, BENIGN
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ PANCREATITIS, ACUTE
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2672-1-22**] 03:20 AM
+   Arterial Line - [**2672-1-22**] 03:20 AM
+   Dialysis Catheter - [**2672-1-22**] 05:32 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

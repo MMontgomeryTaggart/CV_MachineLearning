@@ -1,0 +1,176 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Began to wake up overnight.
+   Remained normotensive overnight.
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   pantoprazole, rifaximin, sucralfate, lactulose
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3151-12-17**] 10:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 108 (80 - 115) bpm
+   BP: 123/58(73) {82/39(55) - 131/70(79)} mmHg
+   RR: 15 (12 - 18) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  8,443 mL
+                                                                    317 mL
+   PO:
+             TF:
+   IVF:
+                                                                  7,903 mL
+                                                                    107 mL
+   Blood products:
+   Total out:
+                                                                  3,220 mL
+                                                                  1,945 mL
+   Urine:
+                                                                  1,025 mL
+                                                                    545 mL
+   NG:
+                                                                     45 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,223 mL
+                                                                 -1,629 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///17/
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL, icteric sclera
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4,
+   (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended
+   Extremities: Right: Trace, Left: Trace, Chronic venous stasis changes.
+   Skin:  Not assessed, No(t) Rash: , Jaundice
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   9.5 g/dL
+   81 K/uL
+   107 mg/dL
+   1.7 mg/dL
+   17 mEq/L
+   3.8 mEq/L
+   28 mg/dL
+   116 mEq/L
+   144 mEq/L
+   27.9 %
+   7.4 K/uL
+         [image002.jpg]
+                             [**3151-12-15**]  04:46 PM
+                             [**3151-12-15**]  10:56 PM
+                             [**3151-12-16**]  02:13 AM
+                             [**3151-12-16**]  04:29 AM
+                             [**3151-12-16**]  10:21 AM
+                             [**3151-12-17**]  03:49 AM
+   WBC
+   6.5
+   5.6
+   6.8
+   7.4
+   Hct
+   27.6
+   27.9
+   26.3
+   27.3
+   27.9
+   Plt
+   67
+   64
+   74
+   81
+   Cr
+   2.2
+   2.0
+   1.9
+   1.7
+   TCO2
+   17
+   Glucose
+   146
+   153
+   113
+   107
+   Other labs: PT / PTT / INR:23.1/44.0/2.2, CK / CKMB / Troponin-T:98//,
+   ALT / AST:94/323, Alk Phos / T Bili:315/9.8, Amylase / Lipase:203/,
+   Albumin:2.6 g/dL, LDH:271 IU/L, Ca++:8.3 mg/dL, Mg++:2.0 mg/dL, PO4:2.2
+   mg/dL
+   Imaging: no new imaging.
+   Microbiology: BCx:  NGTD
+   UCx: NGTD
+   Assessment and Plan
+   56 yo M with h/o etoh cirrhosis admitted with recent vomiting and now
+   unresponsiveness.  Found to be in renal failure with hyperammonemia.
+   Altered mental status:  Improving Mental status overnight.  Putting
+   picture together, seems most c/w hepatic encephalopathy in the setting
+   of recent increase in vomiting and dehydration and respiratory
+   alkalosis
+     -Continue Lactulose and rifaximin
+     -There does not appear to be enough fluid to in abdomen to safely
+   tap.
+    Renal Failure: Prerenal from dehydration vs HRS.  Both GFR and
+   potassium have improved with hydration.
+     -Creatinine improving still
+     -Maintenance fluid today.
+   ?GIB:  Some blood in his mouth and per partner some hematemesis
+   recently.  No signs of active bleeding, HCT stable.
+     -PPI and carafate
+     -No plans for endoscopy at present.
+    Cirrhosis:
+     -Lactulose and rifaximin as above
+     -Diuretics on hold in setting of dehydration
+    Etoh abuse:  Per prior discharge summaries, has not had episodes of
+   DT's in the past although has been drinking more recently
+     -CIWA scale unless clear evidence of seizure. Clearly no need for
+   benzo's at present.
+     -Vitamin Support
+   FEN:  Start TF.
+   Rest of plan per Resident Note
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   20 Gauge - [**3151-12-15**] 03:46 PM
+   18 Gauge - [**3151-12-16**] 10:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 35 minutes
+
+
+DOC CLASS

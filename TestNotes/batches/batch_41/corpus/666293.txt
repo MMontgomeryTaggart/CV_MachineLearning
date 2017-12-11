@@ -1,0 +1,219 @@
+CVICU
+   HPI:
+   76M s/p Redo sternotomy/Asc. aorta, total arch(#28 Gelweave), s/p
+   tracheostomy, GJ tube placement
+   Chief complaint:
+   PMHx:
+   PVD, Asc Aortic aneurysm/Type A dissection, Htn, CHF, A fib s/p
+   ablation [**6-7**], Tachy-Brady syndrome s/p pacemaker, ? Hypertrophic
+   obstructive cardiomyopathy, Ventral Hernia, Cholelithiasis, BPH,
+   Diverticulosis, Spinal stenosis (cortison inj. 3 yrs ago, Replacement
+   of Asc Ao(26mm Gelweave graft)/resusp of Aortic Valve/CABGx1(SVG to
+   PDA) [**1-3**],Coil embolization of left internal iliac [**6-6**], s/p
+   Tonsillectomy, s/p left trigger finger release, s/p removal of skin
+   lesion right shoulder
+   Current medications:
+   Acetaminophen 650 mg, Lactulose 30 mL, Lisinopril 10 mg PO DAILY,
+   Amlodipine 10 mg PO DAILY, Metoprolol Tartrate 75 mg PO TID, Amiodarone
+   400 mg PO BID, OxycoDONE-Acetaminophen, Aspirin 81 mg PO/NG DAILY,
+   BuPROPion 75 mg PO BID, Ranitidine 150 mg NG DAILY, Simvastatin 20 mg
+   PO DAILY, Docusate Sodium (Liquid) 100 mg G TUBE [**Hospital1 **], Furosemide 20 mg
+   IV TID, Warfarin 5 mg PO ONCE
+   24 Hour Events:
+   Post operative day:
+   POD#25 - [**9-3**] Redo Sternostomy, ascending aorta  & total arch
+   replacement
+   POD#10 - PEG/J placement
+   Allergies:
+   Amiodarone
+   hyperthryoidism
+   Monosodium Glutamate
+   violent headach
+   Last dose of Antibiotics:
+   Ampicillin - [**3303-9-25**] 02:30 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3303-9-28**] 12:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3303-9-28**] 10:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**05**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.1
+C (98.7
+   HR: 65 (60 - 73) bpm
+   BP: 134/67(83) {83/39(49) - 136/67(83)} mmHg
+   RR: 26 (15 - 32) insp/min
+   SPO2: 100%
+   Heart rhythm: A Paced
+   Wgt (current): 101.5 kg (admission): 92.3 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,798 mL
+                                                                    788 mL
+   PO:
+             Tube feeding:
+                                                                  1,324 mL
+                                                                    558 mL
+   IV Fluid:
+                                                                    264 mL
+                                                                     51 mL
+   Blood products:
+   Total out:
+                                                                  2,495 mL
+                                                                    880 mL
+   Urine:
+                                                                  2,495 mL
+                                                                    880 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -697 mL
+                                                                    -92 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 350 (316 - 470) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 116
+   PIP: 19 cmH2O
+   SPO2: 100%
+   ABG: 7.49/37/114/29/4
+   Ve: 7.5 L/min
+   PaO2 / FiO2: 285
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : bilateral), (Sternum: Stable ), trach in place
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, GJ
+   tube in place
+   Left Extremities: (Edema: 2+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), abdominal staples intact from
+   open GJ tube placement
+   Neurologic: (Responds to: Unresponsive), No(t) Moves all extremities,
+   (RUE: No movement), (LUE: No movement), (RLE: No movement), (LLE: No
+   movement)
+   Labs / Radiology
+   241 K/uL
+   9.1 g/dL
+   98 mg/dL
+   1.3 mg/dL
+   29 mEq/L
+   4.0 mEq/L
+   61 mg/dL
+   105 mEq/L
+   144 mEq/L
+   28.1 %
+   4.3 K/uL
+        [image002.jpg]
+                            [**3303-9-24**]  06:16 PM
+                            [**3303-9-25**]  02:56 AM
+                            [**3303-9-25**]  01:26 PM
+                            [**3303-9-26**]  03:19 AM
+                            [**3303-9-26**]  05:06 PM
+                            [**3303-9-27**]  02:41 AM
+                            [**3303-9-27**]  05:30 PM
+                            [**3303-9-28**]  12:00 AM
+                            [**3303-9-28**]  01:29 AM
+                            [**3303-9-28**]  04:41 AM
+   WBC
+   5.2
+   5.3
+   5.0
+   4.3
+   Hct
+   27.9
+   28.7
+   27.9
+   28.1
+   Plt
+   263
+   275
+   262
+   241
+   Creatinine
+   1.3
+   1.2
+   1.3
+   1.3
+   TCO2
+   29
+   Glucose
+   97
+   94
+   104
+   102
+   95
+   100
+   97
+   124
+   98
+   Other labs: PT / PTT / INR:16.6/28.4/1.5, ALT / AST:158/135, Alk-Phos /
+   T bili:91/1.4, Amylase / Lipase:117/178, Differential-Neuts:77.9 %,
+   Lymph:9.2 %, Mono:6.9 %, Eos:5.4 %, Fibrinogen:150 mg/dL, Lactic
+   Acid:1.6 mmol/L, Albumin:4.6 g/dL, LDH:327 IU/L, Ca:8.8 mg/dL, Mg:2.6
+   mg/dL, PO4:4.2 mg/dL
+   Imaging: [**9-24**] The tracheostomy is in place, 7 cm above the carina. The
+   cardiomediastinal
+   silhouette is unchanged. There are bibasilar retrocardiac opacities
+   most
+   likely consistent with atelectasis. The bilateral pleural effusions are
+   most
+   likely present, small. There is no evidence of failure.
+   Microbiology: no active issues
+   ECG: V paced with permanebt pacemaker
+   Assessment and Plan
+   HYPERNATREMIA (HIGH SODIUM), LIVER FUNCTION ABNORMALITIES, RESPIRATORY
+   FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **]), ATRIAL FIBRILLATION (AFIB), PNEUMONIA,
+   OTHER, FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN),
+   IMPAIRED SKIN INTEGRITY, SEIZURE, WITHOUT STATUS EPILEPTICUS, AORTIC
+   ANEURYSM, THORACIC (TAA)
+   Assessment and Plan: Maintain current seizure prophylaxis. Trach collar
+   trials slowly progressing. Beta-blockade/dronedarone/coumadin.
+   Nebulizers.  Bowel regimen.  Transfer to neuro rehab next week.
+   Neurologic: Phenytoin - therapeutic, Maintain current seizure
+   prophylaxis.
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   Beta-blockade/dronedarone/coumadin.
+   Pulmonary: Trach, Trach collar trials slowly progressing.  Nebulizers.
+   Gastrointestinal / Abdomen: Bowel regimen
+   Nutrition: Tube feeding, GJ tube
+   Renal: Foley, Adequate UO
+   Hematology: Hct stable
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley, G-tube, Trach
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: CT surgery, Neurology, P.T., Nutrition
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**3303-9-28**] 08:06 AM 55 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3303-9-19**] 04:34 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

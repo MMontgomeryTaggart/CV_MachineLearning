@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="47224.txt">
+    <annotation>
+        <mention id="EHOST_Instance_204" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="285" end="302" />
+        <spannedText>dark tarry stools</spannedText>
+        <creationDate>Tue Oct 31 09:00:25 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_220">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_204">
+        <hasSlotMention id="EHOST_Instance_220" />
+        <mentionClass id="bleeding_present">dark tarry stools</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_205" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="613" end="654" />
+        <spannedText>history of upper GIB from AV malformation</spannedText>
+        <creationDate>Tue Oct 31 09:00:37 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_221">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_205">
+        <hasSlotMention id="EHOST_Instance_221" />
+        <mentionClass id="bleeding_historical">history of upper GIB from AV malformation</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_206" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="1698" end="1748" />
+        <spannedText>NGT lavage performed which was reportedly negative</spannedText>
+        <creationDate>Tue Oct 31 09:00:59 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_222">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_206">
+        <hasSlotMention id="EHOST_Instance_222" />
+        <mentionClass id="bleeding_absent">NGT lavage performed which was reportedly negative</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_207" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="1837" end="1880" />
+        <spannedText>uncertain where the bleeding is coming from</spannedText>
+        <creationDate>Tue Oct 31 09:01:08 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_223">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_207">
+        <hasSlotMention id="EHOST_Instance_223" />
+        <mentionClass id="bleeding_present">uncertain where the bleeding is coming from</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_208" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="3204" end="3238" />
+        <spannedText>h/o ugi bleed from AV malformation</spannedText>
+        <creationDate>Tue Oct 31 09:01:30 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_224">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_208">
+        <hasSlotMention id="EHOST_Instance_224" />
+        <mentionClass id="bleeding_historical">h/o ugi bleed from AV malformation</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_209" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4046" end="4067" />
+        <spannedText>guiaic positive stool</spannedText>
+        <creationDate>Tue Oct 31 09:01:56 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_225">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_209">
+        <hasSlotMention id="EHOST_Instance_225" />
+        <mentionClass id="bleeding_present">guiaic positive stool</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_210" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4089" end="4103" />
+        <spannedText>no frank blood</spannedText>
+        <creationDate>Tue Oct 31 09:02:04 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_226">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_210">
+        <hasSlotMention id="EHOST_Instance_226" />
+        <mentionClass id="bleeding_absent">no frank blood</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_211" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4573" end="4593" />
+        <spannedText>Blood in the stomach</spannedText>
+        <creationDate>Tue Oct 31 09:03:36 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_227">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_211">
+        <hasSlotMention id="EHOST_Instance_227" />
+        <mentionClass id="bleeding_present">Blood in the stomach</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_212" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4600" end="4620" />
+        <spannedText>Blood in the pylorus</spannedText>
+        <creationDate>Tue Oct 31 09:03:39 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_228">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_212">
+        <hasSlotMention id="EHOST_Instance_228" />
+        <mentionClass id="bleeding_present">Blood in the pylorus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_213" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="4650" end="4676" />
+        <spannedText>Red blood is active oozing</spannedText>
+        <creationDate>Tue Oct 31 09:03:44 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_229">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_213">
+        <hasSlotMention id="EHOST_Instance_229" />
+        <mentionClass id="bleeding_present">Red blood is active oozing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_214" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="5950" end="5973" />
+        <spannedText>Acute upper GI bleeding</spannedText>
+        <creationDate>Tue Oct 31 09:03:55 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_230">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_214">
+        <hasSlotMention id="EHOST_Instance_230" />
+        <mentionClass id="bleeding_present">Acute upper GI bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_215" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6043" end="6065" />
+        <spannedText>guaiac positive stools</spannedText>
+        <creationDate>Tue Oct 31 09:03:59 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_231">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_215">
+        <hasSlotMention id="EHOST_Instance_231" />
+        <mentionClass id="bleeding_present">guaiac positive stools</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_216" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6115" end="6140" />
+        <spannedText>EGD which showed bleeding</spannedText>
+        <creationDate>Tue Oct 31 09:04:32 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_216">
+        <hasSlotMention id="EHOST_Instance_232" />
+        <mentionClass id="bleeding_present">EGD which showed bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_217" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9038" end="9063" />
+        <spannedText>Gastrointestinal bleeding</spannedText>
+        <creationDate>Tue Oct 31 09:04:50 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_233">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_217">
+        <hasSlotMention id="EHOST_Instance_233" />
+        <mentionClass id="bleeding_present">Gastrointestinal bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_218" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9064" end="9087" />
+        <spannedText>Acute blood loss anemia</spannedText>
+        <creationDate>Tue Oct 31 09:04:53 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_234">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_218">
+        <hasSlotMention id="EHOST_Instance_234" />
+        <mentionClass id="bleeding_present">Acute blood loss anemia</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_219" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="11818" end="11827" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Tue Oct 31 09:05:02 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_235">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_236">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_219">
+        <hasSlotMention id="EHOST_Instance_235" />
+        <hasSlotMention id="EHOST_Instance_236" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

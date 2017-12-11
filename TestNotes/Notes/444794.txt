@@ -1,0 +1,242 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ MULTI LUMEN - START [**3209-10-30**] 01:00 PM
+   tip of 20 cm cath is in lt illiac vein,. placed in IR with tip just
+   before entering stent in IVC
+   - Access: IR procedure to get temporary Quad-lumen done. Placed quad in
+   a stent and left existing femoral in place. Can't use TPN in new quad
+   b/c will clog up in stent. So, old femoral will be dedicated to tpn and
+   new quad will be for everything else.
+   - temporarily off vasopressin (about one and a half hours) then became
+   hypotensive even after fluid boluses. Re-started vasopressin and
+   continued fluid boluses. Got 2 L NS and 1 L of LR.
+   - final TTE IMPRESSION: No vegetations or clinically-significant
+   regurgitant valvular disease seen. Normal global and regional
+   biventricular systolic function. Mild pulmonary hypertension
+   - f/u pending cultures
+   - Can re-start plavix 48 hours s/p quad placement as if anything
+   happens to quad it will happen in 48 hours per IR. Also consider
+   holding if getting TEE on Monday.
+   - pt will need to get another procedure to replace Quad-lumen to get
+   Double-lumen catheter again before leaving the hospital
+   - TEE to look for vegetations will happen on Monday; cards couldn't do
+   it Friday.
+   - c. diff #3 pending
+   - Did not give boluses overnight b/c doesn't have a foley. In AM, try
+   giving a bolus of LR if still not off pressors.
+   - FSBS in 260s overnight with TPN. Gave 4 units of regular insulin.
+   Allergies:
+   Demerol (Oral) (Meperidine Hcl)
+   seizures;
+   Compazine (Oral) (Prochlorperazine Maleate)
+   Rash;
+   Reglan (Oral) (Metoclopramide Hcl)
+   Rash;
+   Betadine Surgi-Prep (Topical) (Povidone-Iodine)
+   blisters;
+   blisters/paper
+   Iodine; Iodine Containing
+   Hives; Nausea/V
+   Vancomycin
+   Rash; red man s
+   Last dose of Antibiotics:
+   Fluconazole - [**3209-10-29**] 01:20 PM
+   Cefipime - [**3209-10-29**] 02:32 PM
+   Daptomycin - [**3209-10-30**] 01:30 PM
+   Ambisome - [**3209-10-30**] 10:20 PM
+   Meropenem - [**3209-10-31**] 02:30 AM
+   Infusions:
+   Vasopressin - 1.2 units/hour
+   Other ICU medications:
+   Morphine Sulfate - [**3209-10-31**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3209-10-31**] 06:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.4
+C (97.6
+   HR: 74 (69 - 93) bpm
+   BP: 93/58(67) {83/46(56) - 106/63(71)} mmHg
+   RR: 16 (13 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 54.6 kg (admission): 52.9 kg
+             Total In:
+                                                                  4,242 mL
+                                                                  1,734 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,837 mL
+                                                                  1,163 mL
+   Blood products:
+   Total out:
+                                                                  4,150 mL
+                                                                  1,150 mL
+   Urine:
+                                                                  2,050 mL
+                                                                    850 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     92 mL
+                                                                    584 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: Thin, appears comfortable, quiet, anxious
+   Eyes / Conjunctiva: PERRL, EOMI, conjunctiva without pallor
+   Cardiovascular: Normal S1/S2, RRR, no murmurs rubs or gallops, no
+   palpable thrills or heaves
+   Peripheral Vascular: 2+ pulses throughout radial, dp, equal and
+   symmetric bilaterally, warm and well perfused with cap refill < 2
+   seconds
+   Respiratory / Chest: good air movement bilaterally, minimal crackles at
+   bases
+   Abdominal: Soft, Tender: LLQ tender; no tap tenderness, no rebound
+   tenderness, PEG tube in place; uneven surgical scar at midline, old;
+   ostomy bag in place, full of liquid material, no skin changes around
+   lines
+   Extremities: no edema or cyanosis
+   Skin:  no rashes, no jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): place, time, situation, Movement: Purposeful,
+   Tone: Normal, strength in extremities [**5-3**] left biceps pull, [**6-2**] right
+   biceps pull. [**6-2**] hand grip bilat.  Word finding difficulty noted in
+   conversation
+   Labs / Radiology
+   212 K/uL
+   7.8 g/dL
+   175 mg/dL
+   0.5 mg/dL
+   25 mEq/L
+   4.2 mEq/L
+   11 mg/dL
+   100 mEq/L
+   129 mEq/L
+   23.2 %
+   3.4 K/uL
+        [image002.jpg]
+                             [**3209-10-29**]  02:00 AM
+                             [**3209-10-29**]  02:08 AM
+                             [**3209-10-30**]  04:02 AM
+                             [**3209-10-30**]  06:51 PM
+                             [**3209-10-31**]  04:22 AM
+   WBC
+   2.5
+   4.1
+   3.4
+   Hct
+   19.0
+   24.2
+   23.2
+   Plt
+   178
+   198
+   212
+   Cr
+   0.5
+   0.6
+   0.5
+   0.5
+   Glucose
+   121
+   116
+   105
+   78
+   175
+   Other labs: Lactic Acid:0.6 mmol/L, Ca++:7.9 mg/dL, Mg++:1.8 mg/dL,
+   PO4:3.0 mg/dL
+   Assessment and Plan
+   This is a 47 year old woman with history of TPN-dependence leading to
+   many complications of intravenous lines including infection, clots,
+   etc. p/w
+   .
+   HYPOTENSION
+   Associated with fever earlier. [**Month (only) 56**] be related to infection; switched to
+   Daptomycin, Meropenem, Ambisone per ID recs.  ID concerned about
+   another Malassezia infection due to pt
+s recent history of Malassezia
+   bacteremia.  If it were bacterial, it would have grown on the cultures
+   sooner, but this fungus can take much longer to appear.  Watery ostomy
+   output, C-dif negative, vomiting prior to admission, may still be
+   volume down.  Cortisol normal.
+   - Weaned off of levophed and now on vasopressin. Is currently off
+   vasopressin, but will
+   - continue Ambisone, Meropenem (Day 1 [**10-29**]) and Daptomycin (day 1 [**10-28**])
+   - Patient with hyponatremia this morning, further IV fluids will
+   receive NS
+   - cultures pending, but all with NGTD
+   SUB-ACUTE STROKE
+   Word finding difficulty noted by patient to be new over the last [**1-30**]
+   weeks, noted also by family to be new within the last 1 week.  Areas of
+   hypodensity on CT head without contrast in L basal ganglia and L
+   cerebellum.  Given history of clots and bacteremia, concern for
+   thromboembolism or septic embolism.  Pt cannot have MRI given placement
+   of hardware in early [**3180**].  Neuro does not think this is a subacute
+   stroke.
+   - change from lovenox to sub-cutaneous heparin 5000 units per neuro due
+   to concern for possible septic thrombus that could bleed, pt has h/o
+   bleeding with lovenox
+   - TEE to evaluate for clots/vegetations on Monday
+   .
+   ACCESS: Patient with difficult access. TPN/Hickman with double lumen
+   and quad lumen in left femoral as well, but placed in a stent in the
+   vein so will be unable to give TPN,  but can use for
+   pressors/abx/fluids
+   - Hold plavix in 48 hours s/p procedure, then restart if no
+   complications with new line per IR
+   - continue sub-cutaneous heparin for now.
+   .
+   PAST PULMONARY EMBOLISM
+   Pt not on Coumadin due to antibiotic interactions, difficulties with
+   absorption. Her Lovenox was stopped in the past, per OMR "because the
+   injections gave her welts, which bled."
+   - on subcutaneous heparin
+   - restart plavix  likely post TEE on Monday
+   .
+   ANEMIA Stable at 24.
+   - guaiac trace positive [**10-29**]
+   - s/p transfusion of 1 unit PRBCs [**10-29**]
+   - monitor daily Hcts
+   - will follow up prior anemia work up, especially since she is now on
+   daptomycin which can cause marrow suppression
+   .
+   FEN: IVF, TPN, replete electrolytes.  Potassium low, repleted with 60
+   meq, Mg low, repleted
+   - will continue TPN now that patient has additional access, TPN through
+   her original line with ethanol dwells
+   - continue magnesium and potassium sliding scale repletion.
+   - pt usually gets IV ativan for anxiety, but will get sublingual ativan
+   PRN because of her decreased access
+   - will touch base with nutrition about insulin in her TPN
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3209-10-30**] 07:30 PM 90 mL/hour
+   Glycemic Control:
+   Lines:
+   Tunneled (Hickman) Line - [**3209-10-28**] 05:10 PM
+   Multi Lumen - [**3209-10-30**] 01:00 PM
+   Prophylaxis:
+   DVT:  Heparin SQ
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR/DNI
+   Disposition: ICU, pending resolution of pressor requirements
+
+
+DOC CLASS

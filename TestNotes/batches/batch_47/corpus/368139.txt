@@ -1,0 +1,175 @@
+Chief Complaint: Hypotension
+   24 Hour Events:
+ MULTI LUMEN - START [**2927-2-3**] 03:20 PM
+   The patient has maintained a stable BP since admission
+   AM labs showed an elevated troponin to 2.56, pt on systemic
+   anticoagulation with coumdain, denies CP/SOB
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2927-2-4**] 07:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 37.1
+C (98.8
+   HR: 90 (85 - 98) bpm
+   BP: 114/41(60) {97/31(49) - 144/52(75)} mmHg
+   RR: 25 (7 - 25) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    540 mL
+                                                                    240 mL
+   PO:
+                                                                    540 mL
+                                                                    240 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    540 mL
+                                                                    240 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///30/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   HEENT: clear OP, sclerae anicteric, MMM
+   CV: tachy, irregular
+   Resp:  lungs CTA, normal respiratory effort
+   Abdomen: soft NT/ND
+   Extrem: fistula in LUE, s/p bilateral BKA
+   Neurologic: awake, supine in bed, A&Ox3; Movement: moves all
+   extremities
+   Labs / Radiology
+   258 K/uL
+   8.8 g/dL
+   77 mg/dL
+   5.3 mg/dL
+   30 mEq/L
+   3.8 mEq/L
+   34 mg/dL
+   104 mEq/L
+   144 mEq/L
+   27.3 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**2927-2-4**]  03:55 AM
+   WBC
+   8.1
+   Hct
+   27.3
+   Plt
+   258
+   Cr
+   5.3
+   TropT
+   2.56
+   Glucose
+   77
+   Other labs: PT / PTT / INR:22.7/34.1/2.2, CK / CKMB /
+   Troponin-T:223/36/2.56, ALT / AST:72/113, Alk Phos / T Bili:58/0.3,
+   LDH:255 IU/L, Ca++:8.5 mg/dL, Mg++:1.7 mg/dL, PO4:3.7 mg/dL
+   Imaging: [**2-3**] CXR - portable AP CHEST: A faint outline of a peripheral
+   line is visualized in the
+   region of the right lower neck. The tip of the line likely projects
+   over the
+   right internal jugular vein although this is difficult to assess
+   radiographically. Compared to the examination from three days prior
+   there has
+   been marked improvement in pulmonary edema. The cardiac silhouette
+   remains
+   mildly enlarged. The pulmonary vasculature is mildly prominent. There
+   is no
+   consolidation. Incidental note is made of the outline of a stent
+   projecting
+   over the left upper arm.
+   Microbiology: Blood Cx [**2-3**] - NGTD
+   Assessment and Plan
+   Assessment and Plan: 73F with PMH of ESRD on HD, PVD s/p bilateral BKA,
+   DM, diastolic CHF presenting with hypotension.
+   .
+   #. Hypotension - Differential for hypotension includes hypovolemia vs.
+   sepsis vs. primary cardiac event.  Of note, she is s/p recent
+   hospitalization for volume overload with aggressive fluid removal;
+   thus, most likely explanation is related to aggressive BP regimen and
+   volume depletion.  She has no clear infectious source by lab data,
+   imaging, or clinical exam.  AM labs, however, are notable for elevated
+   troponin.
+   - cycle cardiac enzymes.
+   - Hold BP meds for now
+   - IVF bolus as needed for MAP<65, currently stable
+   - f/u micro
+   - further antibiotics deferred for now
+   # Elevated troponin:  Likely demand ischemia, but also must consider
+   NSTEMI.  Patient had cath in [**12-26**] without obstructive disease.
+   - TTE today to evaluate for wall motion abnormality
+   - ASA 325 mg daily
+   - continue Simvastatin
+   - no indication for heparin as patient is currently anticoagulated with
+   therapeutic INR on coumadin
+   - resume beta-blocker in PM if tolerated by BP
+   # CKD, stage V - Continued calcium acetate, sevelamer per home regimen.
+   - Continue MWF schedule as outpatient
+   - Goal for 1.5 L negative at HD today
+   - appreciate Renal recs
+   # DM2 - Continue home regimen of NPH 4U [**Hospital1 **] + sliding scale insulin
+   # HTN:  BP meds (metoprolol, verapamil, valsartan, isosorbide)
+   currently held following episode of hypotension.
+   - Consider resuming beta-blocker if tolerated by BP.
+   # Chronic diastolic CHF (LVEF >75%) - No evidence of volume overload
+   - beta-blocker and [**Last Name (un) 223**] held
+   - TTE today
+   .
+   # Hyperlipidemia  - continue simvastatin
+   # Paroxysmal a-flutter s/p failed ablation with subsequent atrial
+   fibrillation; on warfarin
+   - Continue coumdain with goal INR [**1-21**]
+   - Continue amiodarone for rate control
+   - Resume CCB, beta-blocker for rate control once tolerated by BP
+   # FEN - monitor lytes, cardiac/renal diet, bowel regimen
+   #. PPx: Coumadin, PPI, bowel regimen
+   # Access - REJ, R femoral line
+   - d/c femoral line today
+   #. Code: Full code
+   #. Dispo: ICU until hemodynamically stable.
+   #. Communication: Patient, [**Name (NI) **] [**Last Name (NamePattern1) 7349**] (daughter) [**Telephone/Fax (1) 7350**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2927-2-3**] 03:20 PM
+   18 Gauge - [**2927-2-3**] 04:38 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:  not indicated
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition:ICU
+
+
+DOC CLASS

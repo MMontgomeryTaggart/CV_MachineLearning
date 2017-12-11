@@ -1,0 +1,204 @@
+TITLE:
+   CVICU
+   HPI:
+   HD12   POD 4-CABGx1 (SVG>RCA), AVR
+   Ejection Fraction:50%
+   Hemoglobin A1c:5.9
+   Pre-Op Weight:138.89 lbs   63 kgs
+   Baseline Creatinine:5
+   TLD:rt Ij tunnel line :Day9
+   PMH: HTN, hypercholesterolemia, non-ischemic cardiomyopathy, DM, PVD,
+   anemia, ESRD, PAF, AS, CAD, gangrenous left foot, left tibial artery
+   stent [**11-28**], h/o syncope, s/p AICD (Guidant), RUE AV fistula for
+   dialysis
+   Medications on transfer:
+   protonix 40', nifedipine 60', lipitor 10', metoprolol 25'', zemplar
+   1mcg', ancef 1g q8h, lasix 80 po qd, RISS, acetylcysteine 600'',
+   procrit 10,000U sc qweek, [coumadin at home for a-fib]
+   Current medications:
+   Docusate Sodium, Epoetin Alfa, Furosemide, Gabapentin, Hydrocerin,
+   Insulin, Metoprolol Tartrate, Morphine Sulfate, NIFEdipine, Nephrocaps,
+   Oxycodone-Acetaminophen, Pantoprazole, Paricalcitol, sevelamer
+   CARBONATE
+   24 Hour Events:
+   Remains in ICU for hemodynamic management
+   HD
+ MIDLINE - START [**2631-1-3**] 04:45 PM
+   R cephalic
+ CORDIS/INTRODUCER - STOP [**2631-1-3**] 08:26 PM
+   L groin
+   Post operative day:
+   POD#4 - cabgx1 AVR
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2631-1-1**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2631-1-4**] 04:27 AM
+   Other medications:
+   Flowsheet Data as of  [**2631-1-4**] 08:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**32**] a.m.
+   Tmax: 36.6
+C (97.8
+   T current: 36.4
+C (97.6
+   HR: 64 (60 - 91) bpm
+   BP: 148/61(90) {148/61(90) - 148/61(90)} mmHg
+   RR: 16 (11 - 22) insp/min
+   SPO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 71.2 kg (admission): 62 kg
+   Height: 66 Inch
+             Total In:
+                                                                  1,158 mL
+                                                                     86 mL
+   PO:
+                                                                    850 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    308 mL
+                                                                     86 mL
+   Blood products:
+   Total out:
+                                                                  5,012 mL
+                                                                    105 mL
+   Urine:
+                                                                    312 mL
+                                                                    105 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,854 mL
+                                                                    -19 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 100%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: No acute distress, confusion overnight resolved at
+   this time
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Breath Sounds: diminished bilateral bases),
+   (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds hypoactive
+   Left Extremities: (Edema: +1), (Temperature:Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+ dry
+   gangrene gauze between toes
+   Right Extremities: (Edema: +1), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3
+   Labs / Radiology
+   107 K/uL
+   10.2 g/dL
+   80 mg/dL
+   3.1 mg/dL
+   25 mEq/L
+   4.0 mEq/L
+   24 mg/dL
+   101 mEq/L
+   139 mEq/L
+   30.7 %
+   13.0 K/uL
+        [image002.jpg]
+                             [**2631-1-1**]  05:15 PM
+                             [**2631-1-2**]  02:24 AM
+                             [**2631-1-2**]  04:45 AM
+                             [**2631-1-2**]  05:38 AM
+                             [**2631-1-2**]  06:54 AM
+                             [**2631-1-2**]  12:00 PM
+                             [**2631-1-2**]  12:21 PM
+                             [**2631-1-2**]  07:59 PM
+                             [**2631-1-3**]  02:00 AM
+                             [**2631-1-4**]  04:32 AM
+   WBC
+   15.8
+   14.0
+   13.0
+   Hct
+   31.3
+   26.0
+   26.7
+   28.6
+   30.7
+   Plt
+   84
+   83
+   107
+   Creatinine
+   3.2
+   3.8
+   3.1
+   TCO2
+   29
+   30
+   27
+   Glucose
+   85
+   128
+   123
+   118
+   111
+   107
+   95
+   80
+   Other labs: PT / PTT / INR:40.5/55.6/4.3, ALT / AST:85/130, Alk-Phos /
+   T bili:79/1.5, Amylase / Lipase:51/44, Differential-Neuts:80.5 %,
+   Lymph:9.5 %, Mono:3.6 %, Eos:6.4 %, Fibrinogen:517 mg/dL, Lactic
+   Acid:3.7 mmol/L, Albumin:3.2 g/dL, LDH:328 IU/L, Ca:8.2 mg/dL, Mg:2.3
+   mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   HYPOTENSION (NOT SHOCK), ALTERED MENTAL STATUS (NOT DELIRIUM),
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**]), CORONARY ARTERY BYPASS GRAFT
+   (CABG), .H/O DIABETES MELLITUS (DM), TYPE II, .H/O PERIPHERAL VASCULAR
+   DISEASE (PVD) WITH CRITICAL LIMB ISCHEMIA, .H/O ATRIAL FIBRILLATION
+   (AFIB), .H/O RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD),
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), VALVE REPLACEMENT, AORTIC
+   BIOPROSTHETIC (AVR)
+   79 M s/p CABGx1 (SVG>RCA), AVR [**12-31**]
+   Neurologic: Neuro checks q4h, continue neurontin for nerve pain which
+   has decreased significantly, percocet prn as needed denies pain at this
+   time
+   Cardiovascular: Aspirin, Statins, nitro gtt for b/p management
+   betablocker decreased due to bradycardia restarted on nifedipine for
+   blood pressure
+ goal sbp < 120
+   Pulmonary: IS, cough and deep breath, flutter valve
+   Gastrointestinal / Abdomen:  bowel regimen
+   Nutrition: renal diet
+   Renal: dc foley stop lasix as discussed with renal plan for HD in next
+   1-2 days
+   Hematology: Stable anemia, no Coumadin tonight f/u with hematology  INR
+   4 stablizing, thrombocytopenia improving continue to monitor plt
+   continue
+   Endocrine: RISS goal BG < 150
+   Infectious Disease: Afebrile, wbc 13 down from 14 no evidence of
+   infection
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Consults: Nephrology, P.T., Hematology
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**2630-12-31**] 07:15 PM
+   Midline - [**2631-1-3**] 04:45 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

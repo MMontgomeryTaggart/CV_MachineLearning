@@ -1,0 +1,232 @@
+Admission Date:  [**3337-5-28**]              Discharge Date:   [**3337-6-1**]
+
+Date of Birth:  [**3272-5-21**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 64**]
+Chief Complaint:
+65M with DOE
+
+Major Surgical or Invasive Procedure:
+CABG x3 on [**3337-5-28**] (LIMA to LAD, SVG to ramus, SVG to diagonal)
+
+
+History of Present Illness:
+64 yo male hospitalized [**3-28**] for increasing DOE. Echo [**4-27**]
+showed E 60%, mild to mod. MR, mild TR, dilated aortic root
+(4.0cm). Cath also in [**4-27**] showed CX 80-90%, 50-60% ostial LM,
+80% ostial LAD, diag 75%, PDA 40%, RCA diffuse mild dz, ramus
+50%. Referred to Dr. [**Last Name (STitle) 259**] for surgical evaluation. Pre-op
+carotid evaluation showed less than 40% [**Last Name (un) **]. bilat.
+
+Past Medical History:
+[**Last Name (un) **]
+[**Last Name (un) 11219**]
+CAD
+MR
+[**Last Name (Titles) 11220**]. chol.
+depression
+
+Social History:
+works as carpenter
+quit tobacco in [**3299**]
+1-2 drinks/day
+lives with significant other
+
+Family History:
+Unremarkable.
+
+Physical Exam:
+HR 80  RR 20  right 160/90   left  160/90
+5' 8 [**12-24**] "  209 #
+well-appearing in NAD
+skin/HEENt unremarkable
+neck supple, full ROM
+CTAB
+no carotid bruits
+RRR no murmur
+soft, NT, ND, + BS
+extrems warm, well-perfused, no edema
+neuro grossly intact
+2+ bilat. fem/DP/PT/radials
+
+Pertinent Results:
+[**3337-5-31**] 06:25AM BLOOD WBC-10.4 RBC-3.46* Hgb-10.4* Hct-31.2*
+MCV-90 MCH-30.1 MCHC-33.4 RDW-13.6 Plt Ct-128*
+[**3337-5-31**] 06:25AM BLOOD Plt Ct-128*
+[**3337-5-31**] 06:25AM BLOOD Glucose-138* UreaN-26* Creat-0.9 Na-141
+K-4.0 Cl-104 HCO3-27 AnGap-14
+
+[**Known patient lastname 11221**],[**Known patient firstname **] L:[**Hospital1 22**] Radiology Detail - CCC Record #[**Numeric Identifier 11222**]
+PRELIMINARY REPORT
+
+
+REASON FOR EXAMINATION: Left-sided chest pain and low saturation
+in a patient
+after CABG.
+
+Portable AP chest radiograph compared to 10:03 a.m. the same
+date and to [**5-28**], [**3336**].
+
+The Swan- Ganz was removed in the meantime interval. The heart
+is mildly
+enlarged in comparison to the previous film but markedly
+enlarged in
+comparison to [**3337-5-28**], exam done immediately after
+operation. The
+mediastinum is widened now more than on two previous films.
+
+The bilateral pleural effusion is slightly increased on the left
+and unchanged
+on the right. The mediastinum is widened.
+
+There is no evidence of congestive heart failure. The left lower
+lobe
+consolidation is due to atelectasis.
+
+IMPRESSION:
+1. Widening of the mediastinum and enlarged heart size. These
+findings may
+be due to increased pericardial effusion and mediastinal
+bleeding.Clinical
+correlation is required.
+2. Left lower lobe consolidation due to atelectasis, unchanged.
+3. These findings were paged to Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **].
+DR. [**First Name4 (NamePattern1) 1924**] [**Last Name (NamePattern1) 1925**]
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3428**]
+
+TEE Conclusions :
+Pre bypass: The left atrium is mildly dilated and elongated. No
+atrial septal defect is seen by 2D or color Doppler. There is
+mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Regional left ventricular
+wall motion is normal. Overall left ventricular systolic
+function is normal (LVEF>55%). Right ventricular chamber size
+and free wall motion are normal. There is focal calcification of
+the sinotubular junction. There are scattered, small (<5 mm)
+nonmobile plaques in the proximal ascending aorta. The ascending
+aorta is borderline dilated, measuring 3.5 cm at its greatest
+diameter, but averaging 3-3.2 cm. There are complex (>4mm)
+atheroma in the aortic arch. There are simple atheroma in the
+descending thoracic aorta. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. There is no aortic valve stenosis. The mitral
+valve leaflets are mildly thickened. The mitral valve leaflets
+are myxomatous. Mild (1+) central mitral regurgitation is seen.
+Mitral regurgitation remains mild even with provactive manuvers
+such as trendelenburg and increased blood pressures. Pulmonary
+vein flow pattern is normal. Mitral annulus measures 3.9 cm.
+
+Post Bypass: Patient is Apaced, on Phenylepherine. Preserved
+biventricular function with an LVEF >55%. No wall motion
+changes. MR remains mild and central. Aortic contours are
+intact. Remaining exam reviewed and unchanged. Findings
+discussed with surgeons at the time of the exam.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 256**], MD, Interpreting
+physician
+
+
+
+
+
+Brief Hospital Course:
+Admitted on [**5-28**] and underwent CABG x3 with Dr. [**Last Name (STitle) 259**].
+Transferred to the CSRU in stable condition on neo and propofol
+drips. Extubated overnight and neo weaned off on POD #1. He had
+some hypoxia and oliguria , but was responsive to lasix. Chest
+tubes removed without incident. He c/o some chest pain and EKG
+showed ? pericarditis, so he was started on a NSAID.Gentle
+diuresis continued and he was transferred to the floor to begin
+increasing his activity level. Pacing wires removed on POD #3.
+He continued to do well and was discharge to home in stable
+condition on POD#4.
+
+Medications on Admission:
+lisinopril 40 mg daily
+norvasc 10 mg daily
+bisoprolol 5 mg daily
+lipitor 40 mg daily
+ASA 325 mg daily
+prilosec 20 mg daily
+fluoxetine 40 mg daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q2H (every 2
+hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+6. Fluoxetine 20 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+Disp:*60 Capsule(s)* Refills:*2*
+7. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) for 10 days.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Albuterol-Ipratropium 2.5-0.5 mg/3 mL Solution Sig: Two (2)
+Puff Inhalation Q6H (every 6 hours) for 1 months: one month
+supply.
+Disp:*2 MDI* Refills:*0*
+10. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day) for 1 months: one month supply.
+Disp:*2 MDI* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 335**] VNA
+
+Discharge Diagnosis:
+s/p CABG x3
+CAD
+MR
+[**First Name (Titles) **]
+[**Last Name (Titles) 11219**]
+[**Last Name (Titles) 11220**]. chol.
+depression
+s/p spinal fusion [**3306**]
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+no lotions, creams, or powders on any incision
+may shower over incision and pat dry
+no driving for one month
+no lfting greater than 10 pounds for 10 weeks
+call for fever, redness or drainage
+
+Followup Instructions:
+follow up with Dr. [**First Name (STitle) **] in [**12-24**] weeks
+follow up with Dr. [**Last Name (STitle) 1250**] in [**1-25**] weeks
+follow up with Dr. [**Last Name (STitle) 259**] in 4 weeks  [**Telephone/Fax (1) 181**]
+
+
+
+Completed by:[**3337-7-11**]
+
+DOC CLASS

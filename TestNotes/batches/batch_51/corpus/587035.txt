@@ -1,0 +1,202 @@
+CVICU
+   HPI:
+   [**2-20**] POD 1
+   70M s/p CABGx 3(LIMA-LAD, SVG-OM, SVG-PDA)[**2-19**].
+   EF 55%   Cr 0.7   Wt  78.1K    HgA1c. 6.1
+   PMH:HTN, GERD, hyperlipidemia, +tobacco, s/p R hernia repair, s/p R
+   shoulder surgery.
+   [**Last Name (un) 500**]:ASA 81', lisinopril/HCTZ 10/12.5 daily, lopressor 25", Plavix LD
+   [**2-12**], vytorin 10/40, zantac 150"
+   Current medications:
+   Acetaminophen, Aspirin EC, Docusate Sodium, Ezetimibe, Insulin,
+   Morphine Sulfate, Oxycodone-Acetaminophen, Pantoprazole, Sarna Lotion,
+   Simvastatin, Vancomycin
+   24 Hour Events:
+   Received from OR
+   Required nitroglycerin for hypertension management
+ OR RECEIVED - At [**3468-2-19**] 01:43 PM
+ INVASIVE VENTILATION - START [**3468-2-19**] 01:45 PM
+ ARTERIAL LINE - START [**3468-2-19**] 01:51 PM
+ MULTI LUMEN - START [**3468-2-19**] 01:53 PM
+ EKG - At [**3468-2-19**] 09:15 PM
+ EXTUBATION - At [**3468-2-20**] 06:30 AM
+ INVASIVE VENTILATION - STOP [**3468-2-20**] 06:30 AM
+   Post operative day:
+   POD#1 - cabg x3
+   Allergies:
+   No Known Drug Allergies
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**3468-2-20**] 08:00 AM
+   Infusions:
+   Insulin - Regular - 4 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3468-2-20**] 06:30 AM
+   Morphine Sulfate - [**3468-2-20**] 07:15 AM
+   Pantoprazole (Protonix) - [**3468-2-20**] 08:28 AM
+   Insulin - Regular - [**3468-2-20**] 08:57 AM
+   Other medications:
+   Flowsheet Data as of  [**3468-2-20**] 09:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**71**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.3
+C (99.2
+   HR: 104 (76 - 104) bpm
+   BP: 127/56(75) {93/39(54) - 168/84(112)} mmHg
+   RR: 26 (12 - 32) insp/min
+   SPO2: 95%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+   CVP: 6 (5 - 15) mmHg
+   Total In:
+                                                                  7,358 mL
+                                                                  1,390 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  6,858 mL
+                                                                    710 mL
+   Blood products:
+                                                                    500 mL
+                                                                    500 mL
+   Total out:
+                                                                  1,550 mL
+                                                                  2,495 mL
+   Urine:
+                                                                  1,160 mL
+                                                                  2,215 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,808 mL
+                                                                 -1,105 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool, Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 569 (420 - 569) mL
+   PS : 5 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 100%
+   RSBI: 49
+   PIP: 11 cmH2O
+   Plateau: 20 cmH2O
+   SPO2: 95%
+   ABG: 7.44/34/78.[**Numeric Identifier 271**]/24/0
+   Ve: 9.5 L/min
+   PaO2 / FiO2: 79
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), Left leg EVH ace wrap
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   107 K/uL
+   8.9 g/dL
+   171
+   0.8 mg/dL
+   24 mEq/L
+   3.5 mEq/L
+   13 mg/dL
+   111 mEq/L
+   141 mEq/L
+   25.4
+   8.4 K/uL
+        [image002.jpg]
+                             [**3468-2-19**]  11:51 PM
+                             [**3468-2-20**]  12:56 AM
+                             [**3468-2-20**]  01:41 AM
+                             [**3468-2-20**]  02:00 AM
+                             [**3468-2-20**]  03:06 AM
+                             [**3468-2-20**]  03:17 AM
+                             [**3468-2-20**]  04:35 AM
+                             [**3468-2-20**]  06:00 AM
+                             [**3468-2-20**]  07:53 AM
+                             [**3468-2-20**]  09:00 AM
+   WBC
+   8.4
+   Hct
+   25.4
+   Plt
+   107
+   Creatinine
+   0.8
+   TCO2
+   23
+   28
+   25
+   24
+   26
+   24
+   Glucose
+   127
+   130
+   126
+   101
+   99
+   79
+   132
+   121
+   171
+   Other labs: PT / PTT / INR:15.1/37.1/1.3, Lactic Acid:2.0 mmol/L,
+   Ca:8.1 mg/dL, Mg:1.8 mg/dL, PO4:3.0 mg/dL
+   Imaging: [**2-19**] nl post op
+   Microbiology: urine [**2-14**] no growth
+   MRSA [**2-19**] pending
+   Assessment and Plan
+   HYPERGLYCEMIA, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), CORONARY ARTERY
+   BYPASS GRAFT (CABG)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, morphine and
+   percocet for pain, toradol x1
+   Cardiovascular: Aspirin, Beta-blocker, Statins, start betablockers
+   Pulmonary: IS, Extubate today, extubate - cough and deep breath, oob to
+   chair , dc chest tubes
+   Gastrointestinal / Abdomen: no issues
+   Nutrition: Clear liquids, Advance diet as tolerated , after extubation
+   Renal: Foley, Adequate UO, lasix for diuresis with goal 1000 ml
+   negative for 24 hours
+   Hematology: recheck hct this am
+   Endocrine: goal BG < 150 will use lantus to transition to sliding scale
+   insulin
+   Infectious Disease: vancomycin for periop antibioitcs
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest
+   tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**3468-2-19**] 01:51 PM
+   Multi Lumen - [**3468-2-19**] 01:53 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

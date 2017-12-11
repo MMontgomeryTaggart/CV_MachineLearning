@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="684551.txt">
+    <annotation>
+        <mention id="EHOST_Instance_655" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="356" end="373" />
+        <spannedText>rectal guaiac Neg</spannedText>
+        <creationDate>Wed Nov 01 11:23:32 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_659">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_655">
+        <hasSlotMention id="EHOST_Instance_659" />
+        <mentionClass id="bleeding_absent">rectal guaiac Neg</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_656" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="5710" end="5736" />
+        <spannedText>Stools are guiaic negative</spannedText>
+        <creationDate>Wed Nov 01 11:24:03 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_660">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_656">
+        <hasSlotMention id="EHOST_Instance_660" />
+        <mentionClass id="bleeding_absent">Stools are guiaic negative</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_657" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="5651" end="5707" />
+        <spannedText>no lower back pain that would be evidence of RP bleed</spannedText>
+        <creationDate>Wed Nov 01 11:24:06 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_661">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_657">
+        <hasSlotMention id="EHOST_Instance_661" />
+        <mentionClass id="bleeding_hypothetical">no lower back pain that would be evidence of RP bleed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_658" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="7647" end="7656" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Wed Nov 01 11:24:23 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_662">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_663">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="absent" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_658">
+        <hasSlotMention id="EHOST_Instance_662" />
+        <hasSlotMention id="EHOST_Instance_663" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

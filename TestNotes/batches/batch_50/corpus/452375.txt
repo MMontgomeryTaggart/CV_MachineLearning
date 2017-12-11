@@ -1,0 +1,172 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ NASAL SWAB - At [**3324-12-29**] 02:10 AM
+   Transferred to CCU overnight
+   Slept well overnight, no more chest pain
+   On call for OR
+   Allergies:
+   Shellfish Derived
+   Hives; swelling
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 0.21 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3324-12-29**] 06:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 65 (60 - 74) bpm
+   BP: 122/54(72) {99/34(51) - 130/59(75)} mmHg
+   RR: 16 (15 - 22) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 98 kg (admission): 98 kg
+             Total In:
+             780 mL
+   PO:
+             TF:
+   IVF:
+   130 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    500 mL
+   Urine:
+   200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    280 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ////
+   Physical Examination
+   GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+   NECK: Supple with JVP of 7cm.
+   CARDIAC: RR, normal S1, S2. 3/6 systolic murmur best heard at LUSB,
+   radiating to the carotids.
+   LUNGS: CTAB, no crackles, wheezes or rhonchi
+   ABDOMEN: BS+, Soft, NT, ND. No HSM.
+   Peripheral Vascular: (Right radial pulse: 2+), (Left radial pulse: 2+),
+   (Right DP pulse: 2+), (Left DP pulse: 2+)
+   Skin:  No stasis dermatitis, ulcers, scars, or xanthomas.
+   Neurologic: AOx3, neuro exam intact.
+   Labs / Radiology
+   138
+                               [image002.gif]
+                                     103
+                               [image002.gif]
+                                     40
+   [image004.gif]
+   407
+                                                                   AGap=14
+   [image005.gif]
+   4.5
+                               [image002.gif]
+                                     26
+                               [image002.gif]
+                                     1.5
+   94
+                                                                       6.8
+                                                            [image007.gif]
+                                     9.8
+   [image004.gif]
+   136
+                 [image008.gif]
+   [image004.gif]
+                                    29.2
+   [image007.gif]
+   CK: 89
+   MB: Notdone
+   Trop-T: <0.01
+   Ca: 8.7 Mg: 1.6 P: 4.0
+   PT: 13.6
+   PTT: 24.7
+   INR: 1.2
+   Assessment and Plan
+   Mrs. [**Known patient lastname 4068**] is a 68 yo F with CAD, HTN, HLD, IDDM presenting with
+   chest pain and abnormal stress test. Transferred from the floor for
+   intermittent chest pain despite medical management, for closer
+   monitoring in the event of intra-aortic balloon pump.
+   .
+   # CORONARIES: Patient with CAD and severe 3VD, including 90% distal
+   left main stenosis. Patient was awaiting CABG today on the floor when
+   had 2 episodes of [**1-31**] chest discomfort that resolved with SL
+   nitroglycerin. No ischemic EKG changes or troponin leak throughout all
+   episodes of CP. However, patient triggered when she developed
+   hypotension to SBP of 90s in setting of increasing her nitro gtt on the
+   floor from 20 mcg to 40 mcg. Per discussion between CT surgeon (Dr.
+   [**First Name (STitle) **] and interventional cardiology attending (Dr. [**Last Name (STitle) 9523**] and
+   on-call CCU fellow (Dr. [**First Name4 (NamePattern1) 5355**] [**Last Name (NamePattern1) 6929**]), patient was transferred to CCU for
+   closer monitoring.
+   - CABG today (first case in the morning)
+   - continue nitro gtt for now
+   - continue statin, BB, ACEI
+   - hold plavix for washout prior to CABG
+   - hold aspirin this morning for CABG
+   .
+   # PUMP:  no TTE on record in-house. No evidence of failure currently.
+   - intra-operative TEE during CABG today
+   .
+   # RHYTHM: sinus rhythm currently.
+   - continue beta-blocker
+   - monitor on tele
+   .
+   # IDDM:
+   - RISS
+   - continue FS qACHS
+   .
+   # HTN:
+   - continue nitro gtt at 20mcg
+   - hold imdur
+   - continue HCTZ, ACEI
+   .
+   # Hyperlipidemia:
+   - continue statin
+   .
+   # UTI: dirty UA. No urine culture was sent.
+   - continue cipro 500mg [**Hospital1 7**] for 3 days
+   .
+   # GERD:
+   - Maalox prn
+   .
+   # h/o colon ca s/p resection/XRT/chemo: stable, mild incontinence of
+   stools.
+   - hold stool softeners
+   .
+   # Hypothyroidism:
+   - continue home levoxyl
+   .
+   # Osteoporosis:
+   - continue home raloxifene
+   ICU Care
+   Nutrition: NPO
+   Glycemic Control:  insulin
+   Lines:
+   22 Gauge - [**3324-12-29**] 02:12 AM
+   18 Gauge - [**3324-12-29**] 02:13 AM
+   Prophylaxis:
+   DVT: Pneumoboots
+   Stress ulcer: none
+   VAP:  n/a
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: will go to Csurg service after surgery today
+
+
+DOC CLASS

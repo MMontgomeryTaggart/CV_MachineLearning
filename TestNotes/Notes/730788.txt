@@ -1,0 +1,150 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Fellow for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   - C/o headache overnight
+   - Melanotic stools
+   - Total of 3 units of PRBC, 2 FFP, 10 vit K; Hct 28 -> 29; INR 7.1 ->
+   1.4
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2705-5-17**] 09:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**07**] AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.3
+C (97.3
+   HR: 82 (82 - 93) bpm
+   BP: 116/90(95) {116/62(82) - 176/105(123)} mmHg
+   RR: 23 (18 - 23) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+           Total In:
+           2,777 mL
+   PO:
+           TF:
+   IVF:
+   742 mL
+   Blood products:
+   700 mL
+   Total out:
+                                                                      0 mL
+                                                                  1,085 mL
+   Urine:
+   1,085 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,692 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Follows simple commands, Responds to: Not assessed,
+   Movement: Not assessed, Tone: Not assessed, Tremor
+   Labs / Radiology
+   8.1 g/dL
+   166 K/uL
+   92 mg/dL
+   0.5 mg/dL
+   29 mEq/L
+   3.7 mEq/L
+   6 mg/dL
+   107 mEq/L
+   144 mEq/L
+   29.5 %
+   11.2 K/uL
+        [image002.jpg]
+                             [**2705-5-17**]  03:48 AM
+                             [**2705-5-17**]  08:15 AM
+   WBC
+   11.2
+   Hct
+   23.9
+   29.5
+   Plt
+   166
+   Cr
+   0.5
+   Glucose
+   92
+   Other labs: PT / PTT / INR:19.1/36.8/1.7, ALT / AST:21/41, Alk Phos / T
+   Bili:62/1.7, Albumin:3.6 g/dL, Ca++:7.9 mg/dL, Mg++:2.1 mg/dL, PO4:3.4
+   mg/dL
+   Imaging: No imaging.
+   Assessment and Plan
+   63 year-old male with h/o alcoholism, gastritis, essential tremor, HTN,
+   and St. [**Initials (NamePattern4) 6097**] [**Last Name (NamePattern4) 4880**] on home Coumadin who presents with 2 days of
+   melanotic stools and acute HCT drop in setting of supratherapeutic INR
+   (7.1).
+   #. GI Bleed: Hematemesis and maroon stools with h/o erosive gastritis,
+   although NG lavage in ED negative. Heavy ETOH use and ongoing Coumadin
+   may have both contributed to upper GI bleed. No hemodynamic
+   instability; Hct increased with PRBC.
+   - GI c/s with EGD this am
+   - PPI [**Hospital1 **]
+   - Trend Hct, goal > 30
+   - Holding anticoagulation, s/p Vit K and FFP
+   #. ETOH abuse: Patient drinking abundance of beer daily. Last drink was
+   Monday afternoon ([**5-15**]) so patient at high risk for withdrawal. New
+   elevated T. bili likely [**2-28**] ETOH liver disease. HCV negative in past
+   with [**Doctor First Name 1168**] + at 1:40.
+   - CIWA scale
+   - Thiamine, MVI, folate
+   - SW consult
+   - Trend bilis
+   #. Mechanical [**Doctor First Name 4880**] [**2-28**] AS: Goal INR is 2.5-3.5 per ACC guidelines.
+   - Await EGD and then start heparin gtt if no concerning findings
+   #. HTN:
+   - Holding all anti-hypertensives in setting of current GIB
+   #. Dementia: Has been evaluated in past and thought [**2-28**] hypoxic or
+   microembolic events during surgery or depression/ETOH abuse. A+O x 1 at
+   baseline.
+   - Check RPR.
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2705-5-17**] 03:22 AM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None, Coumadin held. )
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes
+
+
+DOC CLASS

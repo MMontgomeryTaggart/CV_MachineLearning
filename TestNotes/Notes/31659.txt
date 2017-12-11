@@ -1,0 +1,299 @@
+Admission Date:  [**3341-10-9**]              Discharge Date:   [**3341-10-13**]
+
+Date of Birth:  [**3275-8-13**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+[**3341-10-9**]  - 1. Left subclavian to left common carotid artery
+bypass with 8-mm PTFE graft. 2. A left common carotid to right
+common carotid artery bypass using 8-mm ring PTFE graft. 3.
+Exposure of left axillary artery. 4. Ultrasound-guided access of
+right common femoral artery. 5. Exposure of left common femoral
+artery. 6. Bilateral placement of catheter into the aorta. 7.
+Selective catheterization of coronary artery bypass graft. 8.
+Coronary angiogram.
+9. Aortogram. 10.Endovascular stent graft repair of ascending
+thoracic pseudoaneurysm with Talent 40 x 40 x 46-mm endograft.
+11.Perclose closure of right common femoral arteriotomy.
+[**3341-10-11**] - Ultrasound-guided left thoracentesis.
+
+
+History of Present Illness:
+65 year old male with known
+coronary disease, status post coronary artery bypass grafting
+surgery in [**3326**]. He is an active smoker and has severe COPD
+confirmed by PFT and recent CT scan. On his recent CT scan,
+there
+was an incidental finding of a focal aneurysmal outpouching of
+his ascending aorta along with a left lingula mass. Further
+review by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 20877**] thought it looked like a penetrating
+atherosclerotic plaque that had ulcerated and that it was only
+covered by a very thin aortic wall and thus was at risk for
+rupture. Given the above findings, he was referred for surgical
+evaluation. Had left thoracentesis for one liter of pleural
+fluid yesterday by Dr. [**Last Name (STitle) **], with some improvement in
+breathing, but has continued cough.
+
+
+Past Medical History:
+Past Medical History:
+- Coronary Artery Disease
+- COPD
+- Hyperlipidemia
+- Hypertension
+- Calcified aorta
+- New finding of Left lingula lung mass
+- Bilateral Pleural Effusions; s/p left thoracentesis [**3341-10-2**]
+- Hypothyroidism
+- Trauma to lower extremities
+- Emphysema
+Past Surgical History:
+- coronary artery bypass grafting surgery x5 in [**3326**] - [**Hospital3 14505**] Dr.[**Name (NI) 20871**]
+- Polypectomy [**3340**]
+- Right elbow seroma, s/p debridement and drainage
+- Appendectomy
+
+
+Social History:
+Occupation:  retired
+Last Dental Exam:has only 2 native teeth; no recent dental care
+Lives with wife in [**Name (NI) 466**]
+Race:Caucasian
+Tobacco:[**12-9**] cigarettes daily
+ETOH:[**3-12**] glasses of wine daily
+
+
+Family History:
+Brothers with CAD. One brother died of MI at age 57, another
+brother with CABG in early 50's.
+
+
+Physical Exam:
+Pulse: 51 Resp:  O2 sat:
+B/P  Right:    Left: 147/75
+Height:  69"   Weight:200#
+
+General:coughs periodically,clear sputum
+Skin: Dry [x] intact []warm, dry, chronic venous stasis changes
+BLE
+HEENT: PERRLA [x] EOMI [x]injected sclera; OP unremarkable;
+fair repair of teeth
+Neck:  Supple [x] Full ROM [x]no JVD
+Chest: right lung CTA; left lung clear to lower-mid, with
+basilar
+rales; well-healed sternotomy scar
+Heart: RRR [x]  Irregular []  Murmur- none
+Abdomen: Soft [] non-distended [] non-tender []  bowel sounds +
+[]
+Extremities: Warm [x], well-perfused [x]  Edema: trace BLE
+Varicosities: None [] chronic venous stasis changes bilat.
+Left GSV surgically absent from open saphenectomy.
+Right GSV may have been disrupted below knee due to trauma.
+Multiple incisions along R GSV tract below knee. Thigh may be
+usable.
+
+Neuro: Grossly intact, nonfocal exam, MAE [**4-11**] strengths
+Pulses:
+Femoral      Right: 2+   Left: 2+
+DP           Right: NP  Left: NP
+PT           [**Name (NI) 647**]: trace  Left:trace
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruits  :none
+
+
+Pertinent Results:
+[**3341-10-9**] ECHO
+The left atrium is normal in size. No spontaneous echo contrast
+or thrombus is seen in the body of the left atrium or left
+atrial appendage. No atrial septal defect is seen by 2D or color
+Doppler. Left ventricular wall thicknesses and cavity size are
+normal. The right ventricular cavity is moderately dilated with
+normal free wall contractility. The ascending, transverse and
+descending thoracic aorta are normal in diameter and free of
+atherosclerotic plaque.. There are complex (>4mm) atheroma in
+the descending thoracic aorta. There are three aortic valve
+leaflets. The aortic valve leaflets are mildly thickened (?#).
+There is no aortic valve stenosis. No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened.
+Physiologic mitral regurgitation is seen (within normal limits).
+There is no pericardial effusion.
+
+[**3341-10-9**] Cardiac Catheterization
+1. Three vessel coronary disease.
+2. Patent LIMA-LAD, RIMA-PDA, SVG-D1. Occluded SVG-OM1, SVG-OM2.
+
+3. Graft position obtained for repair of thoracic aortic
+aneurysm.
+
+[**3341-10-9**] 04:11PM BLOOD PT-14.7* PTT-38.7* INR(PT)-1.3*
+[**3341-10-12**] 06:00AM BLOOD Glucose-120* UreaN-23* Creat-1.0 Na-133
+K-4.5 Cl-99 HCO3-27 AnGap-12
+
+[**Known patient lastname 20872**],[**Known patient firstname **] [**PT ID Number 20873**] M  66  [**3275-8-13**]
+
+Radiology Report CHEST (PA & LAT) Study Date of [**3341-10-12**] 2:38 PM
+
+
+
+[**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 8401**] FA6A [**3341-10-12**] 2:38 PM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 22083**]
+Reason: check L effusion
+UNDERLYING MEDICAL CONDITION:
+   66 year old man s/p thoracentesis, aortic stent
+REASON FOR THIS EXAMINATION:
+   check L effusion
+
+Final Report
+INDICATION: 66-year-old man status post thoracentesis, aortic
+stent, check
+left effusion.
+
+COMPARISON: [**3341-10-11**]; [**3341-10-3**]; CT of [**8-22**], [**3340**].
+
+CHEST, TWO VIEWS: Median sternotomy wires are unchanged. An
+aortic stent is
+in place. Heart size is probably normal, although obscured. The
+aorta is
+calcified and mildly tortuous. Hilar contours are normal. There
+is a
+persistent small right and small-moderate left effusion. Round
+atelectasis in
+the left mid lung persists, stable from the pre-operative study
+and CT of
+[**3341-8-22**]. There is no pneumothorax. Upper lungs are
+clear.
+Surgical clips are seen.
+
+Overall unchanged.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted to the [**Hospital1 22**] on [**3341-10-9**] for surgical
+management of his thoracic aortic arch aneurysm. He was taken to
+the operating room where he underwent endostenting of his aortic
+aneurysm as well as left subclavian to left common carotid
+artery bypass and a left common carotid to right common carotid
+artery
+bypass. Please see operative note for details. Postoperatively
+he was taken to the intesnive care unit for monitoring. Given
+his severe COPD, he was slow to extubate. Eventually he awoke
+neurologically intact and was extubated.  The Otolaryngology
+service was consulted for a hoarse voice however his voice
+returned without issue. The thoracic surgery service was
+consulted for a large recurrent pleural effusions. A left
+thoracentesis was performed which drained 1500cc's of fluid.
+Multiple studies were sent on the fluid. Mr. [**Known patient lastname **] continued to
+make steady progress and was discharged [**Last Name (un) **] on [**3341-10-13**]. He will
+follow-up with Dr. [**Last Name (STitle) **], Dr. [**Last Name (STitle) **], Dr.[**Last Name (STitle) **],
+his cardiologist and his primary care physician as an
+outpatient.
+
+Medications on Admission:
+Lipitor 80mg daily, Lisinopril 10mg daily, Synthroid 137mcg
+daily, Lasix 20mg daily, Atenolol 50mg daily, Aspirin 81mg
+daily, Proventil inhaler prn.
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+3. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours).
+Disp:*1  MDI* Refills:*2*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*90 Tablet, Delayed Release (E.C.)(s)* Refills:*4*
+5. Levothyroxine 137 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+9. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day for 7
+days: After 7 days, resume Lasix 10 mg PO daily.
+Disp:*14 Tablet(s)* Refills:*0*
+10. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO twice a day for 7
+days.
+Disp:*14 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+11. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation every six (6) hours.
+Disp:*1 inhaler* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 289**] Homecare
+
+Discharge Diagnosis:
+ Descending thoracic aortic aneurysm
+- Coronary Artery Disease
+- COPD
+- Hyperlipidemia
+- Hypertension
+- Calcified aorta
+- New finding of Left lingula lung mass
+- Bilateral Pleural Effusions; s/p left thoracentesis [**3341-10-2**]
+- Hypothyroidism
+- Trauma to lower extremities
+- Emphysema
+- coronary artery bypass grafting surgery x5 in [**3326**] - [**Hospital1 120**] Dr.[**Name (NI) 20871**]
+- Polypectomy [**3340**]
+- Right elbow seroma, s/p debridement and drainage
+- Appendectomy
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1) Monitor wounds for signs of infection. These include redness,
+drainage or increased pain.
+2) Monitor blood pressure. Maintain systolic blood pressure less
+then 130mmHg.
+3) Wash incisions daily with soap and water.
+4) No driving for 2 weeks or while ever using narcotic pain
+medicine.
+
+Followup Instructions:
+Scheduled appointments:
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD Phone:[**Telephone/Fax (1) 1621**]
+Date/Time:[**3341-11-1**] 11:30, [**Last Name (un) 2619**] Building. [**Hospital Unit Name 22084**]. [**Location (un) 268**] Mass.
+Provider: [**Name10 (NameIs) **] [**Name11 (NameIs) 298**], MD Phone:[**0-0-**]
+Date/Time:[**3341-10-19**] 2:30
+.
+Please follow-up with Dr. [**Last Name (STitle) 2535**] in [**1-10**] weeks.
+Please follow-up with Dr. [**Last Name (STitle) 468**] in [**1-10**] weeks.
+Please follow-up with Dr. [**Last Name (STitle) **] in 1 month. ([**Telephone/Fax (1) 72**]
+Please contact all providers for appointments.
+
+
+
+Completed by:[**3341-10-13**]
+
+DOC CLASS

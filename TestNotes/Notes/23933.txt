@@ -1,0 +1,307 @@
+Admission Date:  [**3449-3-23**]              Discharge Date:   [**3449-3-25**]
+
+Date of Birth:  [**3387-6-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 12151**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with cypher stent placement
+
+History of Present Illness:
+   62yo M former tobacco smoker with family history of early CAD
+presents with episode of chest pain.  The chest pain is
+described as crushing chest pain located across the chest.  The
+pain occurred while asleep at 2AM and woke him up.  There was no
+radiation and was not associated with any sob, diaphoresis, n/v.
+ The patient took one maalox without any improvement.  He
+subsequently took one adult ASA and went to the local hospital.
+There he was diagnosed with STEMI with 0.5mm elevation of ST
+segment in III and aVF.  He was started on heparin gtt and
+transferred directly to the catheterization lab.  In hindsight,
+he reports an episode of shortness of breath while shoveling
+dirt in his driveway the day prior to admission.
+
+Past Medical History:
+1.  Low back pain.
+
+Social History:
+Pt admits to smoking 1 to 1.5ppd x 20+year but reports he quit
+in [**3416**].  He also admits to drinking 1-2 beers/day for many
+years.  He denies any illicit drug use.
+
+Family History:
+Father: 1st MI at age 66.
+Mother: deceased from brain tumor
+Brother: 1st MI at age 50
+Sister: [**Name (NI) 14292**]
+
+Physical Exam:
+VS: BP: 110/70   P: 60   RR: 12   SaO2: 99% on 2L NC
+Gen: well nutritioned caucasian male lying in bed in NAD.
+Unable to move as he is post cath, but conversing fluently in
+full sentences.
+HEENT: PERRL, EOMI, anicteric, op clear, mmm
+CV: RRR, S1, S2
+Chest: CTA bilaterally
+Abd: soft, NT, ND, BS+
+Ext: wwp, no c/c/e, DP+2
+Neuro: CN II-XII grossly intact.
+
+Pertinent Results:
+[**3449-3-23**] 05:51AM   HGB-13.8* calcHCT-41 O2 SAT-97
+[**3449-3-23**] 05:51AM   TYPE-ART O2 FLOW-3 PO2-135* PCO2-44 PH-7.35
+TOTAL CO2-25 BASE XS--1
+[**3449-3-23**] 07:42AM   WBC-7.6 RBC-4.53* HGB-14.2 HCT-40.2 MCV-89
+MCH-31.3 MCHC-35.4* RDW-12.7
+[**3449-3-23**] 07:42AM   PLT COUNT-136*
+[**3449-3-23**] 07:42AM   TRIGLYCER-97 HDL CHOL-46 CHOL/HDL-3.8
+LDL(CALC)-108
+[**3449-3-23**] 07:42AM   ALBUMIN-3.7 CALCIUM-8.7 PHOSPHATE-2.9
+MAGNESIUM-1.9 CHOLEST-173
+[**3449-3-23**] 07:42AM   CK-MB-263* MB INDX-11.7* cTropnT-4.21*
+[**3449-3-23**] 07:42AM   LIPASE-21
+[**3449-3-23**] 07:42AM   GLUCOSE-114* UREA N-22* CREAT-0.9 SODIUM-139
+POTASSIUM-4.7 CHLORIDE-107 TOTAL CO2-25 ANION GAP-12
+[**3449-3-23**] 07:42AM   ALT(SGPT)-49* AST(SGOT)-191* LD(LDH)-402*
+CK(CPK)-2240* ALK PHOS-60 AMYLASE-62 TOT BILI-0.5
+[**3449-3-23**] 12:32PM   CK-MB-280* MB INDX-12.7* cTropnT-5.13*
+[**3449-3-23**] 12:32PM   CK(CPK)-2209*
+.
+.
+CARDIAC CATHETERIZATION [**3449-3-23**]:
+COMMENTS:
+  1. Selective coronary angiography revealed a right dominant
+system.
+The RCA had a long 60% mid vessel lesion and was totally
+occluded in the
+mid to distal vesel with left to right collaterals to the distal
+vessel.
+The LMCA had a 60% distal lesion. The LAD had a 70% mid vessel
+lesion.
+The D1 had a 70% lesion. The LCX had a 70% ostial lesion. The
+first
+major OM had a 80% lesion.
+  2. Hemodynamics post PCI showed normal central pressure,
+mildly
+elevated left sided filling pressures, and a normal cardiac
+index.
+  3. After the export catheter was used during the procedure,
+the
+patient had a bradycardic episode to HR 32 with decreased blood
+pressure
+- which required atropine. Pacer was introduced, but patient did
+not
+require pacing.
+  4. Successful Primary PCI of the RCA with two overlapping
+Cypher DES
+(3.5 x 33 mm, post-dilated with a 4.0 mm balloon, and 3.0 x 33
+mm,
+post-dilated with a 3.5 mm balloon).
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Mildly elevated left sided filling pressure.
+3. Acute inferior myocardial infarction, managed by acute PCI of
+the
+RCA.
+.
+.
+TTE [**3449-3-23**]:
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *4.2 cm (nl <= 4.0 cm)
+Left Atrium - Four Chamber Length: *6.1 cm (nl <= 5.2 cm)
+Right Atrium - Four Chamber Length: *6.1 cm (nl <= 5.0 cm)
+Left Ventricle - Septal Wall Thickness: 1.0 cm (nl 0.6 - 1.1 cm)
+
+Left Ventricle - Inferolateral Thickness: 1.1 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 5.2 cm (nl <= 5.6 cm)
+Left Ventricle - Ejection Fraction: 35% (nl >=55%)
+Aorta - Valve Level: 3.5 cm (nl <= 3.6 cm)
+Aorta - Ascending: 3.0 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: 1.3 m/sec (nl <= 2.0 m/sec)
+Mitral Valve - E Wave: 0.4 m/sec
+Mitral Valve - A Wave: 0.7 m/sec
+Mitral Valve - E/A Ratio: 0.57
+Mitral Valve - E Wave Deceleration Time: 255 msec
+TR Gradient (+ RA = PASP): *29 mm Hg (nl <= 25 mm Hg)
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Mild LA enlargement.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA.
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Moderate
+regional LV systolic dysfunction. No LV mass/thrombus.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending, transverse and descending thoracic
+aorta with no
+atherosclerotic plaque.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+MITRAL VALVE: Normal mitral valve leaflets. Mild to moderate
+([**12-24**]+) MR. LV inflow pattern c/w impaired relaxation.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Borderline PA systolic hypertension.
+
+PERICARDIUM: No pericardial effusion.
+
+Conclusions:
+The left atrium is mildly dilated. The right atrium is
+moderately dilated. Left ventricular wall thicknesses are
+normal. The left ventricular cavity size is normal. There is
+moderate regional left ventricular systolic dysfunction with
+akinesis of the inferior wall and hypokinesis of the
+infero-septum and infero-lateral walls. No masses or thrombi are
+seen in the left ventricle. Right ventricular chamber size and
+free wall motion are normal. The ascending, transverse and
+descending thoracic aorta are normal in diameter and free of
+atherosclerotic plaque. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve leaflets are structurally
+normal. Mild to moderate ([**12-24**]+) mitral regurgitation is seen.
+The left ventricular inflow pattern suggests impaired
+relaxation. There is borderline pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Moderate regional LV systolic dysfunction c/w CAD.
+
+
+
+
+Brief Hospital Course:
+A/P: 61yo M former tob smoker with family history of early CAD
+who presents with STEMI s/p cath with 3VD and PCI of RCA.
+.
+1.  CV:
+A).  Coronaries: Pt presented to OSH with chest pain and was
+found to have an STEMI.  He was transferred to [**Hospital1 68**], where he
+underwent urgent cardiac catheterization.  The cath demonstrated
+left main and 3v CAD and the patient underwent a PCI of RCA
+which was thought to be the culprit lesion based on angiographic
+findings.  After his cardiac catheterization, he was monitored
+on telemetry and managed medically.  He was initially ordered
+for metoprolol 12.5mg [**Hospital1 **] which was subsequently held and then
+d/c'd due to bradycardia.  He was started on ACEI which he
+tolerated as well as ASA and Plavix.  He was also given lipitor
+80mg QHS initially, but this was also stopped due to elevated
+LFT.  The patient requires a repeat LFT and Cholesterol panel as
+outpatient to be re-evaluated for statin therapy.  Pt was
+successfully rate and pressure controlled with goal of: HR <70
+and SBP <120.  The patient received a surgical evaluation for
+possible CABG on [**3449-4-5**], he was already evaluated by anesthesia
+while in house as well.  Pt is to call Dr. [**Last Name (STitle) 287**] for an
+outpatient appointment as he still requires a carotid US prior
+to undergoing CABG.
+.
+B).  Pump: Pt with STEMI, and unknown pre-MI cardiac function.
+TTE demonstrates a reduced EF of 35%.  Given lack of clinical
+findings of CHF, he was not actively diuresed.  He was however
+counseled on fluid and salt balance and given some education on
+dietary control.
+.
+C).  Rhythm: The patient was monitored on telemtry during the
+duration of his stay and he was in NSR to sinus bradycardia
+during his admission.  His bradycardia limitted use of beta
+blocker.  This should be re-addressed as an outpatient.
+.
+D).  Primary risk reduction:  The patient was initially started
+on lipitor 80mg QHS given his ACS.  However due to slightly
+elevated LFT, the statins were held.  We recommend outpatient
+follow up of his LFT and cholesterol.  If LFTs are normal, the
+patient will benefit from statins.  The patient was counsel on
+lifestyle, diet, and exercise and their impact on his
+cardiovascular as well as generalized health.  Even though his
+FS and glucose on chemistries were wnl, his A1c was 6.4
+suggesting some degree of glucose intolerance.  We recommend an
+outpatient follow up of his glucose and A1c levels as
+uncontrolled blood sugars have been shown to have an effect on
+mortality.
+.
+.
+2.  LBP: pt with hx of LBP.  He was given percocet PRN after
+cath with good control.
+.
+.
+3.  Elevated LFT: AST:ALT of 2.5 to 1 ratio suggestive of
+possibly Alc liver disease.  Currently no sign of cirrhosis with
+intact synthetic function.  Although he was initially started on
+lipitor, this was stopped once his LFT were returned.  Suggest
+outpatient LFT check and re-administration of lipitor if
+possible.
+.
+.
+4.  PPx: Pt was initially on integrillin after cath and then
+subsequently on Heparin subQ TID for DVT prophylaxis.  Colace,
+senna for bowel regimen, and PPI for ICU stress were also given
+during his stay.
+.
+
+Medications on Admission:
+Aspirin
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+5. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: ACS - 3 vessel coronary artery disease with stenting of
+RCA with overlapping cypher stents.
+
+Secondary: Hyperlipidemia
+
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Please take all of your medication.
+
+Please follow up with your doctors.
+
+If you notice any episode of chest pain, palpitations, shortness
+of breath, please call your PCP or come directly to the ED.
+
+
+Followup Instructions:
+Please follow up with your PCP [**Name9 (PRE) 39984**] one to two weeks of
+discharge.
+
+Please call Dr. [**Last Name (STitle) **] for a follow up appointment as well.  At
+the time, please have your physician [**Name9 (PRE) 16583**] [**Name Initial (PRE) **] cholesterol
+level and liver panel and if necessary, have a cholesterol
+medication (statin) started.  In addition, please arrange to
+have a carotid US series performed in anticipation of cardiac
+bypass graft surgery.
+
+Provider: [**Name10 (NameIs) **],[**Name Initial (NameIs) **]  [**Name12 (NameIs) **] to schedule appointment: [**Telephone/Fax (1) 425**]
+
+
+
+Completed by:[**3449-3-31**]
+
+DOC CLASS

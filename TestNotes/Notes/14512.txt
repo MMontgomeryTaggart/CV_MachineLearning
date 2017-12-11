@@ -1,0 +1,123 @@
+Admission Date:  [**3033-5-30**]     Discharge Date:  [**3033-5-31**]
+
+Date of Birth:   [**2969-12-9**]     Sex:  F
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 63-year-old female
+admitted for elective carotid stent.  Patient is referred by
+Dr. [**Last Name (STitle) **] [**Last Name (STitle) **] carotid stenting.  The patient has had serial
+carotid ultrasounds for several years due to a strong family
+history of CVA.  Patient's carotid ultrasounds have been
+stable until recently when a carotid study was done on [**3033-4-10**], which showed a 70-90% right ICA stenosis and a
+70-80% stenosis involving the left proximal ICA.  Patient
+denied chest pain or shortness of breath.  She also denied
+any lightheadedness or dizziness.  She denied any visual
+changes, heat intolerance, weight loss, headaches,
+incontinence, diarrhea, fever or chills.
+
+PAST MEDICAL HISTORY:
+1. Hypertension.
+2. Neuropathy.
+3. Myopathy.
+4. Migraines.
+5. Hypercholesterolemia.
+6. Bilateral carotid artery stenosis.
+7. Colon cancer in [**3023**] status post chemotherapy and XRT,
+status post resection.
+8. Status post bilateral axillary sweat gland surgery for
+removal.
+9. Tonsillectomy.
+10. Thyroid nodule.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:
+1. Clonidine 0.2 b.i.d.
+2. Triamterene 35/25 q.d.
+3. Plavix 75 q.d.
+4. Aspirin 325 q.d.
+5. Multivitamin.
+6. Vitamin E.
+7. Folic acid.
+8. Fish oil.
+
+SOCIAL HISTORY:  The patient is employed at [**Hospital3 808**] Eye
+Associates.  She is married.  She denies tobacco use.  She
+drinks alcohol socially.
+
+FAMILY HISTORY:  The patient has a mother with vascular
+disease at age 75 and a brother who is status post CABG at
+age of 50 with a redo CABG at the age of 58.
+
+PHYSICAL EXAM ON ADMISSION:  Patient is a well-appearing
+female in no acute distress.  Cardiac was regular, rate, and
+rhythm, normal S1, S2.  Lungs were clear to auscultation
+bilaterally.  Abdomen was soft, nontender, nondistended, good
+bowel sounds.  There is no edema in the extremities.  She has
+good pulses bilaterally.
+
+SUMMARY OF HOSPITAL COURSE:
+1. Carotid stenosis:  Patient is status post a right internal
+carotid stent.  She tolerated this procedure well without
+complications.  The patient was continued on her aspirin and
+Plavix.  During this procedure, the patient was started on
+phenylephrine for blood pressure control to maintain a
+systolic blood pressure in the 140s.
+
+Patient was monitored in the Cardiac Intensive Care Unit
+overnight.  The patient received fluid boluses approximately
+1 liter, and was able to be successfully weaned from the
+phenylephrine.  Patient's blood pressure remained stable
+throughout the remainder of her hospitalization.
+
+2. Blood pressure:  The patient was originally hypotensive at
+the time of carotid stenting and transiently on phenylephrine
+for blood pressure control.  With fluid boluses, the
+patient's pressure came up.  The patient's blood pressure
+rose in the morning of discharge in the setting of having her
+antihypertensives held.  The patient had a blood pressure of
+170s systolic that morning and was instructed to take
+clonidine 0.1 mg on the night following discharge.  After
+that, the patient will resume clonidine b.i.d. per Dr.
+[**First Name (STitle) **].  The patient will follow up with Dr. [**First Name (STitle) **] for blood
+pressure check in the days following discharge, and he will
+resume further antihypertensives as blood pressure tolerates.
+
+3. Neurologic:  The patient was evaluated by Neurology during
+the carotid stenting as well as prior to discharge.  She had
+no neurologic events, and was neurologically intact at the
+time of discharge.  She had no complaints.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE DIAGNOSIS:  Carotid stenosis.
+
+MEDICATIONS ON DISCHARGE:
+1. Aspirin 325 q.d.
+2. Plavix 75 q.d.
+3. Clonidine b.i.d.
+
+FOLLOW-UP PLANS:  The patient will follow up with her primary
+care physician within two weeks.  She will call Dr. [**First Name (STitle) **] on
+the Monday following discharge with a blood pressure check,
+and he will restart antihypertensives as tolerated.  In
+addition, the patient will follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6053**] of
+Neurology in one month's time.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1429**], M.D. [**MD Number(1) 4899**]
+
+Dictated By:[**Name8 (MD) 18553**]
+
+MEDQUIST36
+
+D:  [**3033-6-5**]  21:38
+T:  [**3033-6-6**]  05:04
+JOB#:  [**Job Number 18554**]
+
+
+DOC CLASS

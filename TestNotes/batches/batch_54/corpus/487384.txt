@@ -1,0 +1,222 @@
+Chief Complaint: Need for inotropic assisted diuresis
+   24 Hour Events:
+   [**2768-5-12**]:
+   -check retic count because patient is leukopenic/anemic. Retic count
+   was 5.2.
+   -diuresed very well
+   -markedly hypokalemia (K=2.8) on 2 a.m. labs: repleted with 80 meq IV.
+   Will need recheck and likely also further repletion.
+   -NSVT on tele
+   History obtained from Medical records
+   Allergies:
+   History obtained from Medical recordsAmbien (Oral) (Zolpidem Tartrate)
+   Confusion/Delir
+   Beta-Blockers (Beta-Adrenergic Blocking Agts)
+   Very sensitive
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 20 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Patient denies CP or SOB. Feels well. Says edema is slightly improved
+   since yesterday.
+   Flowsheet Data as of  [**2768-5-13**] 07:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**70**] AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.7
+C (98
+   HR: 67 (65 - 89) bpm
+   BP: 94/47(57) {74/39(47) - 130/90(100)} mmHg
+   RR: 14 (10 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 73 kg (admission): 74.6 kg
+   Height: 68 Inch
+             Total In:
+                                                                  1,955 mL
+                                                                    803 mL
+   PO:
+                                                                  1,320 mL
+                                                                    480 mL
+   TF:
+   IVF:
+                                                                    635 mL
+                                                                    323 mL
+   Blood products:
+   Total out:
+                                                                  4,305 mL
+                                                                  1,260 mL
+   Urine:
+                                                                  4,305 mL
+                                                                  1,260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,350 mL
+                                                                   -457 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 94%
+   ABG: ///37/
+   Physical Examination
+   GENERAL: Elderly M in NAD. Oriented x 3. Mood, affect appropriate.
+   HEENT: NC/AT. Sclera anicteric.
+   NECK: Supple with EJ elevated 1/3 up neck at angle of 45 degrees.
+   CARDIAC: Somewhat distant HS. Irregular rhythm. [**2-21**] holosystolic
+   murmur, loudest at the apex.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Lungs were CTAB
+   ABDOMEN: S, obese, NT/ND, BS present, No masses appreciated
+   EXTREMITIES: [**3-20**]+ pitting edema noted in the bilateral LE's to the
+   thighs. TTP noted in the LLE.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas appreciated.
+   PULSES:  Unable to palpate [**3-19**] compression stockings in place
+   Labs / Radiology
+   132 K/uL
+   8.0 g/dL
+   93 mg/dL
+   1.4 mg/dL
+   37 mEq/L
+   2.8 mEq/L
+   58 mg/dL
+   84 mEq/L
+   130 mEq/L
+   24.8 %
+   3.3 K/uL
+        [image002.jpg]
+                             [**2768-5-12**]  04:16 AM
+                             [**2768-5-12**]  05:26 PM
+                             [**2768-5-13**]  02:29 AM
+   WBC
+   2.9
+   3.3
+   Hct
+   25.5
+   24.8
+   Plt
+   155
+   132
+   Cr
+   1.6
+   1.5
+   1.4
+   Glucose
+   104
+   107
+   93
+   Other labs: PT / PTT / INR:27.2/39.3/2.6, Ca++:9.1 mg/dL, Mg++:2.0
+   mg/dL, PO4:3.9 mg/dL
+   Imaging: None
+   Microbiology: No new growth
+   Assessment and Plan
+ HEART FAILURE (CHF), SYSTOLIC AND DIASTOLIC, ACUTE ON CHRONIC
+   Assessment and Plan
+   69 yo m with hx of sCHF, MVR, and Tricuspid ring, PAF, admitted to [**Hospital1 2208**]
+   with elevated INR and acute exacerbation of systolic heart failure with
+   lasix driven diuresis limited by persistent hypotension. Was initially
+   admitted to CCU for ionotrope assisted diuresis but diuresed 7.8 L
+   during his ICU stay on lasix gtt alone. Now, having further problems
+   with diuresis on the floor and being transferred to the CCU again from
+   inotrope-assisted diuresis.
+   # Acute on Chronic Systolic Heart Failure: The patient is in the midst
+   of a prolonged hospitalization for acute on chronic systolic heart
+   failure. Clinically, he appears volume overloaded, with pitting edema
+   in the lower extremities and elevated JVP. Of note, his lungs are
+   relatively clear on exam. His most recent echo shows an EF of <20%. His
+   current weight is 157 lbs, which is up from his self-reported dry
+   weight of 135 lbs. He is currently being transferred to the CCU for
+   intotrope-assisted diuresis.
+   - will continue current regimen of 20mg/hr lasix gtt as has had
+   favorable response.
+   - consider adding milrinone for inotropic support if UOP does not
+   improve with lasix
+ no need for inotropy thus far
+   - consider adding pressors for BP support if necessary
+   - continue digoxin to further augment contractility
+   - continue metolazone [**Hospital1 **] to help with diuresis
+   - continue captopril
+   - strict I/O's and daily weights, with goal of maximum diuresis as BP
+   will allow
+   - [**Hospital1 **] lytes while diuresing, repleting aggressively given ectopy
+   - Low sodium diet with 1L fluid restriction
+   - no ICD, per patient wishes
+   - consider viability study this week to look for any treatable
+   ischemia; will d/w with Dr. [**First Name (STitle) **]
+   - consulting Dr. [**First Name (STitle) **] to come evaluate the pt today
+   # Runs of Vtach: Per signout from cardiology floor team, the patient
+   has been having frequent runs of nonsustained Vtach. Of note, the
+   patient has expressed that he does not wish to have an ICD, as he
+   requires frequent MRI's because of his h/o pancreatic cysts.
+   - Monitor telemetry
+   - [**Hospital1 **] lytes while diuresing
+   - Aggressive K repletion with IV and PO
+   # Paroxysmal AFib: Patient currently in atrial fibrillation.
+   Uncontrolled rate could place a role in HF exacerbation; however, pt
+   currently with normal HR. Beta blocker on hold [**3-19**] bradycardia.
+   - continue to monitor on telemetry
+   - metoprolol on hold, as above
+   - digoxin for rate control
+   - continue coumadin for INR goal of [**3-20**]
+   - repeat ECG
+   # Acute Renal Failure: Recent baseline Cr has been ~1.2 to 1.5. Pt
+   presented this hospitalization with a Cr of 2.2, likely from poor
+   forward flow. With diuresis, the patient's Cr improved to 1.1, now
+   increased to 1.6 - poor forward flow vs. ATN. FeUrea of 27 is
+   suggestive of a prerenal etiology
+   - continue to trend creatinine
+   - will obtain urine lytes
+ FeUrea 27
+   - Add on sediment/eos
+   # Hyponatremia: ? hypervolemic hyponatremia in the setting of fluid
+   overload.
+   - diuresis as above
+   - fluid restriction as above
+   - [**Hospital1 **] lytes
+   # Microcytic Anemia: Per primary team notes, patient with falling Hct
+   from admission. Source not clear. Pt has reportedly been guaiac
+   negative. Hct recently has been stable.
+   - continue to guaiac stools and trend Hct
+   - maintain active type and screen
+   # Thrombocytopoenia: Stable. Per primary team notes, HIT and ITP ruled
+   out; might be due to marrow suppression.
+   - continue to trend platelets
+   - platelet count not low enough for bleeding complications at this
+   point but will be cautious of complications if platelet count continues
+   to drop
+   # Bioprosthetic Mitral Valve: Goal INR [**3-20**]. Currrently at goal (INR =
+   2.6.
+   - continue coumadin
+   - continue to trends coags
+   # Cholestatic Transaminitis: likely due to hepatic congestion.
+   Improving. Benign abdominal exam.
+   - continue to trend LFT's
+   # Hyperlipidemia: Continue home atorvastatin
+   Diet: Low salt, cardiac heart healthy
+   PIV: PICC, 20 guage.
+   Code status: Full, confirmed with patient
+   Dispo: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2768-5-11**] 05:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Floor
+
+
+DOC CLASS

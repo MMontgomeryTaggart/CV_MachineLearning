@@ -1,0 +1,205 @@
+Admission Date:  [**3502-8-19**]              Discharge Date:   [**3502-9-10**]
+
+Date of Birth:  [**3430-5-26**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Heparin Agents / Ativan
+
+Attending:[**First Name3 (LF) 1221**]
+Chief Complaint:
+Cecal colon cancer and infected abdominal wall mesh, EtOH
+cirrhosis
+
+
+Major Surgical or Invasive Procedure:
+Exploratory laparotomy, right colectomy and excision of infected
+mesh, repair ventral hernia [**3502-8-19**]
+
+
+Past Medical History:
+ETOH cirrhosis
+grade 1 esoph varices
+h/o encephalopathy
+DM-2 diagnosed 20 years ago
+grand mal seizures in the setting of hypoglycemia ([**3501-8-15**]).
+pneumonia hospitalized [**3501-7-16**] with sepsis, admission also
+complicated by UTI.
+vocal cord polyps s/p surgery
+cataracts surgery
+hypertension
+right foot drop following discectomy surgery [**13**] years ago
+heparin-induced thrombocytopenia
+
+Social History:
+Patient lives with his wife in [**Name (NI) 1017**]. He is her
+primary caretaker. Former [**Name2 (NI) **], retired 16 years ago when
+he
+sustained a back injury.
+50 pk.yr tobacco use; 1ppd for 50 years from age 13 to 63.
+Denies illicit drug use. h/o Alcohol abuse.
+
+
+Family History:
+diabetes
+grandmother w/ h/o CVA
+
+Physical Exam:
+afebrile, vss
+NAD
+no flap/asterixis
+not icteric
+rrr
+ctab
+soft, nt, nd
+warm
+
+Pertinent Results:
+[**3502-8-19**] 05:57PM BLOOD WBC-10.8 RBC-4.03* Hgb-12.3* Hct-35.4*
+MCV-88 MCH-30.5 MCHC-34.8 RDW-14.7 Plt Ct-138*
+[**3502-8-22**] 06:33AM BLOOD WBC-4.2 RBC-2.94* Hgb-9.0* Hct-25.8*
+MCV-88 MCH-30.7 MCHC-35.0 RDW-15.2 Plt Ct-76*
+[**3502-8-23**] 06:00AM BLOOD WBC-5.5 RBC-3.49* Hgb-10.8* Hct-30.0*
+MCV-86 MCH-30.9 MCHC-35.9* RDW-14.7 Plt Ct-131*
+[**3502-8-28**] 03:15AM BLOOD WBC-11.0 RBC-2.65* Hgb-8.5* Hct-23.6*
+MCV-89 MCH-32.0 MCHC-36.0* RDW-17.6* Plt Ct-97*
+[**3502-8-29**] 11:05AM BLOOD WBC-11.5* RBC-3.56* Hgb-10.8* Hct-31.0*
+MCV-87 MCH-30.3 MCHC-34.7 RDW-17.6* Plt Ct-64*
+[**3502-9-6**] 03:25AM BLOOD WBC-4.5 RBC-3.39* Hgb-10.5* Hct-31.8*
+MCV-94 MCH-30.9 MCHC-32.9 RDW-17.7* Plt Ct-63*
+[**3502-9-10**] 10:06AM BLOOD WBC-13.4* RBC-2.89* Hgb-9.2* Hct-28.4*
+MCV-98 MCH-31.7 MCHC-32.4 RDW-18.8* Plt Ct-124*
+[**3502-8-19**] 11:45AM BLOOD PT-14.3* PTT-26.5 INR(PT)-1.3
+[**3502-8-21**] 04:51AM BLOOD PT-16.9* PTT-35.7* INR(PT)-1.9
+[**3502-8-23**] 06:00AM BLOOD PT-14.8* PTT-31.2 INR(PT)-1.4
+[**3502-8-27**] 06:53PM BLOOD PT-19.9* PTT-39.4* INR(PT)-2.6
+[**3502-8-28**] 04:05PM BLOOD PT-17.6* PTT-45.3* INR(PT)-2.1
+[**3502-8-30**] 04:00AM BLOOD PT-25.1* PTT-46.0* INR(PT)-4.2
+[**3502-8-31**] 09:54AM BLOOD PT-18.3* PTT-42.4* INR(PT)-2.2
+[**3502-9-8**] 03:41AM BLOOD PT-17.3* PTT-41.7* INR(PT)-2.0
+[**3502-9-10**] 12:08PM BLOOD PT-20.2* PTT-50.6* INR(PT)-2.7
+[**3502-8-26**] 06:40AM BLOOD Glucose-94 UreaN-31* Creat-3.6*# Na-133
+K-4.0 Cl-96 HCO3-20* AnGap-21*
+[**3502-8-27**] 06:53PM BLOOD Glucose-70 UreaN-48* Creat-5.5* Na-134
+K-4.4 Cl-100 HCO3-14* AnGap-24*
+[**3502-8-30**] 03:43PM BLOOD Glucose-160* UreaN-52* Creat-3.0* Na-140
+K-3.7 Cl-103 HCO3-23 AnGap-18
+[**3502-8-31**] 02:11PM BLOOD Glucose-118* UreaN-55* Creat-2.1* Na-144
+K-3.9 Cl-110* HCO3-24 AnGap-14
+[**3502-9-3**] 03:53AM BLOOD Glucose-101 UreaN-44* Creat-1.1 Na-141
+K-3.7 Cl-113* HCO3-22 AnGap-10
+[**3502-9-7**] 04:04AM BLOOD Glucose-124* UreaN-38* Creat-1.0 Na-128*
+K-4.4 Cl-107 HCO3-15* AnGap-10
+[**3502-9-9**] 05:45AM BLOOD Glucose-142* UreaN-58* Creat-1.3* Na-131*
+K-5.4* Cl-105 HCO3-17* AnGap-14
+[**3502-9-10**] 05:20AM BLOOD Glucose-203* UreaN-64* Creat-2.0* Na-128*
+K-6.5* Cl-103 HCO3-9* AnGap-23*
+[**3502-8-19**] 07:42PM BLOOD Ammonia-79*
+[**3502-9-7**] 04:57PM BLOOD Ammonia-39
+[**3502-9-9**] 04:43PM BLOOD Ammonia-94*
+[**3502-9-10**] 04:50AM BLOOD Ammonia-161*
+[**3502-9-7**] 04:23AM BLOOD Type-ART pO2-92 pCO2-34* pH-7.36
+calHCO3-20* Base XS--5
+[**3502-9-10**] 06:28AM BLOOD Type-ART pO2-124* pCO2-25* pH-7.13*
+calHCO3-9* Base XS--19 Intubat-NOT INTUBA
+[**3502-9-10**] 01:14PM BLOOD Type-ART pO2-142* pCO2-30* pH-7.13*
+calHCO3-11* Base XS--18
+[**3502-9-10**] 03:52PM BLOOD Type-ART pO2-81* pCO2-50* pH-7.06*
+calHCO3-15* Base XS--16
+
+Brief Hospital Course:
+The pt tolerated the procedure well, please see the operative
+note for details.  The pt was extubated and transferred to the
+floor in a stable condition.  The pt's diet was advanced and his
+immediate post op course was remarkable only for hypoglycemia.
+[**Doctor First Name 8195**] was consulted.  The pt developed nausea and vomiting on
+POD 6 and his urine output began to decline.  He was bolused
+with IVF with some improvement.  His abdomen was distended and a
+therapeutic paracentiesis was performed.  Fluid analysis was
+consisted with SBP and ceftriaxone was started.  A ct abdomen
+was performed (see results below).  His renal function
+deteriorated and he developed acute renal failure.  His hepatic
+function also decompensated and his INR rose to > 2.5.  He was
+transferred to the ICU for further monitoring on [**3502-8-27**].  A
+CVL/swan ganz catheter/NGT/Aline were placed.  He became
+hypotension despite fluid resusitation on POD 9 and neo ggt was
+started.  The pt was given FFP/vit k for his coagulopathy.  He
+became increasingly acidotic and was intubated for respiratory
+distress.  Broad spectrum antibiotics were started.  The pt's
+clinically condition slowly improved; his liver/renal function
+and coagulopathy improved, his urine output increased, he was
+weaned from the vent and off pressors. TPN was initiated and
+continued throughout most of his hospital stay.  He was
+extubated without difficulty on POD15.
+He passed a video swallow study and was started on PO's.  He was
+doing well and transferred to the floor in a stable condition on
+POD22.  On [**9-10**], the pt'd urine output began to decrease. IVF
+boluses were given without response.
+
+CT abd [**3502-8-28**]: Redemonstration of bowel wall thickening to the
+segment of distal small bowel just proximal to the anastomosis.
+Contrast study reveals lack of bowel wall enhancement, and lack
+of enhancement to mesenteric vasculature draining this segment
+of small bowel. The findings are thereby highly concerning for
+bowel ischemia/New left lower lobe consolidation, likely
+secondary to aspiration/Increase to intra-abdominal ascites and
+mesenteric edema, mildly increased
+
+Echocardiogram [**3502-8-28**]: EF 55%, 1+MR, mild pulm HTN
+
+OR Pathology [**3502-8-19**]:
+Adenocarcinoma, Low-grade (well or moderately differentiated)
+Primary Tumor:  pT3:  Tumor invades through the muscularis
+propria into the subserosa or the nonperitonealized pericolic or
+perirectal soft tissues. No regional lymph node metastasis.
+Proximal margin: Uninvolved by invasive carcinoma:  Distance of
+tumor from closest margin:  185 mm.
+Distal margin:  Uninvolved by invasive carcinoma:  Distance of
+tumor from closest margin:  40 mm.
+Circumferential (radial) margin: Uninvolved by invasive
+carcinoma:  Distance of tumor from closest margin:  7 mm.
+
+
+Medications on Admission:
+[**Last Name (un) 673**]: aldactone 50'', nadolol 20', prilosec 40', dilantin 400'
+qMTh and 500' qSuTuWFSa, lactulose 30'''', insulin 70/30 38qam
+and 18qpm, MVI, thiamine 100', folate 1', vit c 1000', Fe 650'.
+
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+cecal adenocarcinoma
+infected adominal wall mesh
+ventral hernia
+Exploratory laparotomy, right colectomy and excision of infected
+mesh, repair ventral hernia [**3502-8-19**]
+ESLD
+ETOH cirrhosis
+ARF requiring CVVH
+respiratory failure requiring intubation
+arrythmia-bradycardia/atrial fibrillation
+severe acidosis
+coagulopathy requiring blood products
+death
+
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+
+Completed by:[**3502-9-29**]
+
+DOC CLASS

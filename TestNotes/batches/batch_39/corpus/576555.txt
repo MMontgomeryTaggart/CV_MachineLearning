@@ -1,0 +1,195 @@
+Chief Complaint:  hypotension
+   HPI:
+   Mr. [**Known patient lastname 7528**] is an 88M with CAD, afib on warfarin, AS, and h/o GIB who
+   presented on [**3-1**] with melena x2. In the ED, VS: 96.2, 54, 136/69, 96%
+   RA. He was trace guiac positive on rectal exam. He was started on
+   protonix and admitted for further workup.
+   .
+   Since admission, Hcts have trended down from 31.3->27.1, for which he
+   received 1 units PRBCs this AM. NG lavage was negative. He was taken to
+   EGD today but unable to get the procedure [**3-12**] acute onset of low back
+   pain. Per his daughter this has not happened before. He was given 2mg
+   of dilaudid which made him very groggy.
+   .
+   Back on the floor, he was hypotensive to the 70's initially with
+   improvement to the 80's systolic following NS boluses. With time, his
+   mental status did improve back to baseline. MICU was called to evaluate
+   given persistent hypotension. Of note, urine culture obtained [**3-1**] has
+   grown >100,000 E coli. SBPs improved from 80's to low 100's overnight
+   following IVF resuscitation.
+   .
+   On initial floor eval, patient denied any further chest, back, or
+   abdominal discomfort, cough, diarrhea. He had some recent dysuria and
+   hematuria.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Family / Friend, Medical records
+   Allergies:
+   Cisatracurium
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   On transfer:
+   Ceftriaxone 1g daily day1=[**3-3**]
+   Protonix 40 iv bid
+   Pyridostigmine
+   Finasteride
+   Tamsulosin
+   Donepezil
+   Levothyroxine
+   Calcitriol
+   Allopurinol
+   Pravastatin
+   Morphine prn
+   Tylenol prn
+   Past medical history:
+   Family history:
+   Social History:
+   Moderate AS (AoVA 0.8-1.19cm2)
+   AR
+   CAD s/p BMS to OM [**3045**]
+   --p-MIBI [**3-17**] EF 54% no significant abnormalities
+   CRI baseline Cr ~1.6
+   HTN
+   Atrial fibrillation on warfarin
+   Myasthenia [**Last Name (un) 3314**]
+   Hematuria, h/o TURP
+   Arthritis
+   Gout
+   GIB
+   Dementia
+   n/c
+   Occupation: retired pharmacist
+   Drugs:
+   Tobacco: none
+   Alcohol: none
+   Other: lives with daughter
+   Review of systems:
+   As above
+   Flowsheet Data as of [**3055-3-3**] 09:00 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Physical Examination
+   Vitals T 94.2 P 63 BP 99/66 RR 14 O2 100% on RA
+   General Pleasant elderly man in no acute distress
+   HEENT Sclera anicteric, PEARL
+   Neck EJ prominent
+   Pulm Lungs with rales at bilateral bases, no wheezing
+   CV Irregular S1 S2 soft systolic murmur at base
+   Abd Soft +bowel sounds distended nontender
+   Extrem Warm without edema palpable distal pulses
+   Neuro Alert, answering appropriately, no gross deficits
+   Labs / Radiology
+        [image002.jpg]
+   CBC 14.5>31.4<88 N 64 Bands 23 L 2 M 2 E 0 Baso 0 Metas 8 Myelo 1
+   Chem 140/4.3/105/25/55/2.7<158
+   INR 1.8 PTT 34.8
+   [**3-2**]
+   abg 7.46/37/152/30
+   lactate 2.1
+   [**3-1**] UA negative
+   Imaging: [**3-2**] CTU (prelim)
+   Normal kidneys without hydronephrosis, hydroureter or renal calculi.
+   Normal- appearing minimally distended urinary bladder. Diverticulosis
+   without evidence of diverticulitis. Cholelithiasis without evidence of
+   cholecystitis. Small bilateral pleural effusions.
+   .
+   [**3-3**] CXR (my read) L pleural effusion vs infiltrate, possible small R
+   pleural effusion as well
+   Microbiology: [**3-1**] urine >100,000 E coli
+   [**3-2**], [**3-3**] blood cx NGTD
+   ECG: afib no ischemia
+   Assessment and Plan
+   This 88M with h/o afib on warfarin, CAD, AS, and GIV presents with
+   melena x2 and is transferred to the MICU for further management of
+   hypotension.
+   .
+   1. Septic shock
+   Hypotension most likely secondary to E coli urosepsis given +E coli
+   recent culture, though surprising that UA completely unremarkable. Labs
+   concerning today for marked bandemia. Fortunately his blood pressure
+   has improved with IVF resuscitation. Think other common infections such
+   as C. diff or pna less likely. Hypotension yesterday may have been
+   exacerbated by large dose of dilaudid.
+   - Continue ceftriaxone; should be adequate gram negative coverage as he
+   is community dwelling without history of more resistant GNs. Will add
+   vancomycin empirically and will discontinue if no gram positives
+   isolated
+   - Follow up blood and urine cultures, reculture if febrile
+   - Place central line, fluid resuscitation to CVP 8-12
+   - Target MAP>65, following urine output
+   - Repeat ABG/lactate
+   - Hold off on sedating meds
+   .
+   2. Acute on chronic renal failure
+   Most concerning for ATN in the setting of hypotension. Obstruction [**3-12**]
+   blood clot possible but less likely - no hydronephrosis on CTU
+   - Check UA/UCX, urine lytes
+   - Renally dose meds, follow urine output
+   - Hold lasix
+   - If minimal urine output will d/w renal
+   .
+   3. Anemia, h/o GIB and hematuria
+   No further gross bleeding over hematuria overnight, Hct ~stable since
+   transfusion yesterday AM
+   - Type and cross, transfuse hct>25
+   - Follow hct q6
+   - Continue PPI IV bid
+   - EGD when stabilized
+   - Follow up final CTU read
+   .
+   4. Thrombocytopenia
+   Concern for consumption in setting of infection
+   - Check smear, fibrinogen, FDP as part of DIC workup
+   .
+   5. Back pain
+   Now resolved. Considerations include pyelonephritis, or early protean
+   presentation of sepsis.
+   6. Aortic stenosis
+   Moderate on [**3052**] echo. Will need to monitor respiratory status closely
+   given potential for fluid overload.
+   7. CAD
+   Not on antiplatelet agents as an outpatient presumably given GIB
+   Continue pravastatin.
+   8. Atrial fibrillation
+   Auto rate controlled off beta blockers. No plans to restart
+   anticoagulation given h/o bleeding.
+   9. Myasthenia continue home pyridostigmine
+   10. BPH continue finasteride and tamsulosin
+   11. Hypothyroidism continue levothyroxine
+   12. Dementia continue donepezil, avoid sedating meds as possible
+   ICU Care
+   Nutrition:
+   Comments: npo
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   Comments: PIV x2 will place central line and A line
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

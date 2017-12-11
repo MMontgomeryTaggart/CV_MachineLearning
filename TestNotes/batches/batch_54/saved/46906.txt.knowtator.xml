@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="46906.txt">
+    <annotation>
+        <mention id="EHOST_Instance_151" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="2552" end="2584" />
+        <spannedText>IMPRESSION: Right groin hematoma</spannedText>
+        <creationDate>Mon Nov 06 09:08:24 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_154">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_151">
+        <hasSlotMention id="EHOST_Instance_154" />
+        <mentionClass id="bleeding_present">IMPRESSION: Right groin hematoma</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_152" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="2279" end="2326" />
+        <spannedText>right groin demonstrate a 5 x 5 x 2 cm hematoma</spannedText>
+        <creationDate>Mon Nov 06 09:08:30 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_155">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_152">
+        <hasSlotMention id="EHOST_Instance_155" />
+        <mentionClass id="bleeding_present">right groin demonstrate a 5 x 5 x 2 cm hematoma</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_153" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6594" end="6603" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Mon Nov 06 09:08:49 MST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_156">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_157">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_153">
+        <hasSlotMention id="EHOST_Instance_156" />
+        <hasSlotMention id="EHOST_Instance_157" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

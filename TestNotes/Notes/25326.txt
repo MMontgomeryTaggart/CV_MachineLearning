@@ -1,0 +1,271 @@
+Admission Date:  [**2715-12-18**]              Discharge Date:   [**2715-12-27**]
+
+Date of Birth:  [**2677-2-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 293**]
+Chief Complaint:
+Infected AICD
+
+Major Surgical or Invasive Procedure:
+AICD removal
+PICC
+Central line
+
+
+History of Present Illness:
+38 year old male with h/o CAD s/p 2 vessel CABG, biventricular
+pacemaker placement, dilated cardiomyopathy, and CHF with EF
+20-25% who presents with erythema and swelling over AICD site.
+It was difficult to obtain history as patient was very sleepy,
+and information is gathered from chart and from limited patient
+interaction. Patient states that approximately one week ago he
+noticed swelling around AICD site, and over past week site has
+become warm and painful. Pain occasionally radiates across chest
+to the right, but no jaw pain, arm pain, SOB, palps. Does relate
+fever, but unclear of onset. He presented to [**Hospital3 383**]
+today and was found to have a fever to 104, o/w HD stable, with
+erythema and warmth around AICD site. Given Invanz (Carbapenem)
+1G IV, Vanc 1 g IV, and dilaudid and then developed runs of NSVT
+(monomorphic, 16-20 beats per ED verbal, 10-15 per ED notes, [**4-10**]
+per tele sent over from [**Hospital3 383**]) that broke on its own.
+Patient was given lidocaine 100 mg IV, amiodarone 150 mg PO x 1
+and started on amiodarone gtt. Transferred to [**Hospital1 22**] for further
+management.
+.
+In ED patient was febrile to 101.9, HR 100, BP 110/70. His site
+was noted to be erythematous and painful and was given
+gentamycin loading dose of 430mg x 1 as well as dilaudid,
+tylenol, and amiodarone gtt. 2 large bore IV's were placed and
+patient sent to floor.
+
+
+Past Medical History:
+# 2VD CABG (LIMA --> LAD, SVG --> PDA) in [**6-/2713**]
+# Last CATH [**2714-9-24**] - 3VD, occluded SVG-RPDA, patent LIMA-LAD,
+no intervention.
+# Last ECHO [**2715-8-23**] - Apical LV aneurysm, 1+MR, 1+TR. No EP
+report
+on when BiV pacer was placed.
+# Has had LAD and RCA stents placed in past, but in North
+[**Doctor First Name **]
+# H/O NSVT
+# AICD placed [**2715-10-24**] - leads in RA and RV (old pacer leads
+abandoned on CXR [**10-13**])
+# Dental extraction [**10-28**] (7 teeth removed)
+# CHF/Ischemic cardiomyopathy - EF 20-25%, admissions in past
+for CHF
+# Previous wedge P 30s in [**9-11**] cath
+# HTN
+# Hyperlipidemia
+# H/O Biventricular pacemaker, now removed
+# MRSA abscess on abdomen
+
+
+Social History:
+He is divorced and has one daughter. [**Name (NI) **] spent two months in
+prison secondary to domestic abuse charges. He quit smoking
+after his CABG. He does not use alcohol or illicit drugs. He
+does not work and is on disability. His mother is very ill and
+has hospice services. She is his main source of support.
+
+
+Family History:
+CAD - mother
+
+Physical Exam:
+Vitals: 104.8, 98/60 (MAP 70), 110, 98% on 4L, 26
+HEENT: PERRL, EOMI, anicteric sclera, MMM, no teeth
+Neck: supple, no LAD, no thyromegaly
+Cardiac: tachycardic, regular, NL S1 and S2, no MRGs
+Lungs: CTAB, no wheezes, rhonchi, crackles anteriorly
+Abd: soft, mildly TTP in lower quadrant, NABS, no HSM, no
+rebound or guarding
+Ext: cool (on cooling blanket), 2+ DP pulses, no C/C/E
+Neuro: CN III-XII intact, MAE
+Skin: psoriatic plaques with silvery scale on abdomen around
+umbilicus, right knee, left LE
+Skin:
+.
+
+
+Pertinent Results:
+[**2715-12-18**] 09:30PM   WBC-13.9*# RBC-4.92 HGB-16.3 HCT-48.3 MCV-98
+MCH-33.0* MCHC-33.7 RDW-14.1
+[**2715-12-18**] 09:30PM   NEUTS-87* BANDS-1 LYMPHS-9* MONOS-2 EOS-0
+BASOS-0 ATYPS-1* METAS-0 MYELOS-0
+[**2715-12-18**] 08:42PM   LACTATE-1.5 K+-6.6*
+[**2715-12-18**] 09:30PM   DIGOXIN-<0.2*
+[**2715-12-18**] 09:30PM   CALCIUM-9.0 PHOSPHATE-3.5 MAGNESIUM-1.7
+[**2715-12-18**] 09:30PM   CK-MB-NotDone cTropnT-<0.01
+[**2715-12-18**] 09:30PM   CK(CPK)-55
+
+Brief Hospital Course:
+A/P: 38 year old male with CAD s/p CABG, pacer, AICD, CHF, who
+presents with infection over AICD site.
+.
+# AICD INFECTION: His AICD was placed in [**2715-10-8**] for
+non-ischemic cardiomyopathy.  He presented from OSH on [**12-18**]
+with high grade MRSA bacteremia and infected AICD pocket.  ID
+consult was called and he was put on vancomycin and gentamycin.
+On [**12-20**], he had the AICD and all the wires removed.  His blood
+cultures drawn from [**12-20**] to [**12-23**] were persistently positive
+for MRSA.  While in the ICU, he remained hemodynamically stable.
+ A temporary subclavian central catheter was placed for access
+and was later discontinued.  A left PICC was placed on [**12-23**]
+while still presumably bacteremic but he needed access.
+Surveillance cultures from [**12-24**] onward finally became negative.
+ His PICC was left in since he became afebrile and MRSA was no
+longer growing in his blood.  Gentamycin was discontinued after
+blood cultures remained negative x 72 hours.  He had a TTE on
+admission that was negative for endocarditis or abcess but he
+needed a TEE for a more definitely rule out.  However, he
+persistently refused to have the TEE despite encouragement from
+the primary team and the ID consult team.
+.
+On [**12-27**], he left the hospital against medical advice.  He was
+being set up for VNA service and will get long term vancomycin
+treatment (6 weeks) since he refused the TEE.  However, he
+decided not to stay until the VNA was set up.  Eventually VNA
+was scheduled and they will follow up at home.  He still had his
+PICC when he left.
+.
+For followup, he needs to be seen at infectious disease clinic,
+appointment made for him at discharge.  He also needs to follow
+up at EP clinic since his AICD was removed.  For the pocket
+wound, plastics surgery was consulted and they recommended wet
+to dry dressings x 4 weeks with help from VNA.  Then he will
+need primary closure.  Orthopaedic consult was called to assess
+for possibly bone infection in the pocket area but this was
+deemed unlikely.
+.
+# NSVT: He has had runs of NSVT on telemetry but is
+asymptomatic.  He was started on amiodarone, loaded with 400mg
+[**Hospital1 **] x 1 week and then 100mg daily therafter.  PFTs were done to
+assess lung function pre-amiodarone: FVC 59%, FEV1 56%, FEV1/FVC
+94%, suggesting baseline restrictive disease.  His TSH and LFTs
+were normal.  He will follow up with Dr. [**Last Name (STitle) **] at EP clinic.
+.
+# CAD: s/p CABG.  PMIBI in [**Month (only) **] showed no definite areas of
+ischemia although there is global perfusion abnormalities.  EKG
+did not suggest active ischemia and troponins were negative x 3.
+ He continued asa + metoprolol + lisinopril + plavix + lipitor +
+ezetimibe.
+.
+# CHF: echo on this admission shows EF of 15-20%.  He had signs
+of overload on admission and was diursed in his MICU course.  He
+continued metoprolol and lisinopril but lasix and spirinolactone
+were held because he seemed euvolemic after adequate diureses
+and his blood pressure was low-normal.
+
+
+Medications on Admission:
+Digoxin 125 mcg PO QD
+Atorvastatin 80 mg PO QD
+Spironolactone 25 mg PO QD
+Lasix 80 mg PO QAM
+ASA 81 mg PO QD
+Plavix 75 mg PO QD
+Metoprolol 25 mg PO BID
+Ezetimibe 10 mg PO QD
+Gemfibrozil 600 mg PO QD
+Fluticasone 110 mcg 2 puffs [**Hospital1 **]
+Lisinopril 5 mg PO QD
+Folic acid
+
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+7. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day) for 5 days: then 400mg (2 tablets) daily thereafter.
+Disp:*120 Tablet(s)* Refills:*0*
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+10. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+11. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Vancomycin 500 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous  Q 8H (Every 8 Hours) for 6 weeks.
+Disp:*90 Recon Soln(s)* Refills:*1*
+
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Infected AICD (defibrillator)
+Bacteremia
+
+SECONDARY DIAGNOSIS:
+CAD
+CHF
+Non-sustained Vtach
+Htn
+Hyperlipidemia
+
+
+Discharge Condition:
+hemodynamically stable, afebrile, ambulating
+
+
+Discharge Instructions:
+Please take all medication as prescribed.  Keep all appointments
+listed below.  If you have fever or chills or worsening pain
+where your defibrillator site was, please seek medical attention
+immediately.  Also seek attention if you have chest pain or
+shortness of breath.  If you have any general medical questions
+or concerns, please call your doctor or go to the emergency
+room.
+------------------
+You need to do wet-to-dry dressings on your wound twice a day
+for 4 weeks.  After 4 weeks, you need to go back to your
+cardiologist for futher care of your wound, possibly including
+primary closure of the wound.
+------------------
+You will be on vancomycin three times daily x 6 weeks.
+------------------
+HEART FAILURE INSTRUCTIONS
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1500mL
+
+Followup Instructions:
+Please follow up with your PCP in two weeks:
+[**Last Name (LF) **],[**First Name3 (LF) 2206**] H. [**Telephone/Fax (1) 2207**]
+--------------------
+Please follow up with Dr. [**Last Name (STitle) 2208**] from Infectious Disease:
+[**Telephone/Fax (1) 302**].  Appointment is set [**1-12**] @ 11am.  Call for
+their location.  She will monitor you antibiotics level and lab
+work.
+--------------------
+You need to follow up with Cardiology in four weeks with Dr.
+[**Last Name (STitle) **].  ([**Telephone/Fax (1) 1088**].  Please call for an appointment.
+They will check on your wound to see if anything needs to be
+done.
+
+
+
+Completed by:[**2716-6-21**]
+
+DOC CLASS

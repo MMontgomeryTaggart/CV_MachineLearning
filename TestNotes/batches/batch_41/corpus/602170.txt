@@ -1,0 +1,177 @@
+Chief Complaint: post-op hypotension
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   76 yo male with COPD, CAD s/p CABG, MS with left sided weakness,
+   trigeminal neuralgia
+   Underwent left ankle fusion- repaired yesterday with 500 cc EBL
+   Intraoperatively he became hypotensive requiring neo gtt
+   post-op he was also hypoxic and in rapid afib
+   Foley placed with frank pus recovered
+   24 Hour Events:
+ MULTI LUMEN - START [**3123-5-25**] 07:37 PM
+   *Despite 2 units of blood , hct's unchanged- transfusing an additional
+   2 units
+   *With aggressive fluid resuscitation, rapid afib resolved with HR
+   dropping to the 90
+   History obtained from Patient, Medical records, ICU team
+   Allergies:
+   Levofloxacin
+   Rash;
+   Quinolones
+   Unknown;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3123-5-25**] 10:00 PM
+   Vancomycin - [**3123-5-25**] 11:37 PM
+   Infusions:
+   Other ICU medications:
+   Diltiazem - [**3123-5-25**] 08:30 PM
+   Fondaparinux - [**3123-5-26**] 08:30 AM
+   Other medications:
+   dilaudid PCA, tylenol prn, colace, SSI, neurontin, [**Last Name (un) 520**], zoloft,
+   spiriva, fluticasone diskus, carbamazepine, simvastatin, flomax,
+   zonisamide
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3123-5-26**] 11:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 36.3
+C (97.3
+   HR: 98 (87 - 126) bpm
+   BP: 101/57(67) {78/39(50) - 204/156(166)} mmHg
+   RR: 17 (15 - 21) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   CVP: 18 (4 - 18)mmHg
+   Total In:
+                                                                  2,831 mL
+                                                                  2,175 mL
+   PO:
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                  2,757 mL
+                                                                    763 mL
+   Blood products:
+                                                                     73 mL
+                                                                  1,172 mL
+   Total out:
+                                                                    150 mL
+                                                                    515 mL
+   Urine:
+                                                                    150 mL
+                                                                    515 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,681 mL
+                                                                  1,660 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal), (S2:
+   Normal), No(t) S3, No(t) S4, No(t) Rub, irreg irreg
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Not assessed), (Right DP pulse: Not assessed), (Left DP pulse: Not
+   assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: No(t)
+   Clear : , Rhonchorous: at both bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender: , Obese
+   Extremities: No(t) Cyanosis, No(t) Clubbing, left leg dressing soaked
+   in blood, boot on right leg
+   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, No(t) Sedated, No(t) Paralyzed, Tone:
+   Normal, left weakness (baseline)
+   Labs / Radiology
+   9.8 g/dL
+   220 K/uL
+   115 mg/dL
+   0.6 mg/dL
+   27 mEq/L
+   3.9 mEq/L
+   11 mg/dL
+   106 mEq/L
+   138 mEq/L
+   28.9 %
+   6.7 K/uL
+        [image002.jpg]
+                             [**3123-5-25**]  09:21 PM
+                             [**3123-5-26**]  05:09 AM
+   WBC
+   13.0
+   6.7
+   Hct
+   28.8
+   28.9
+   Plt
+   309
+   220
+   Cr
+   0.6
+   0.6
+   TropT
+   0.07
+   Glucose
+   131
+   115
+   Other labs: PT / PTT / INR:15.5/26.9/1.4, CK / CKMB /
+   Troponin-T:50/5/0.07, Differential-Neuts:87.5 %, Lymph:6.9 %, Mono:4.6
+   %, Eos:0.8 %, Ca++:6.9 mg/dL, Mg++:1.7 mg/dL, PO4:3.1 mg/dL
+   Microbiology: Urine culture: pending
+   Blood culture pending
+   Assessment and Plan
+   76 yo male with COPD, MS, DM, CAD s/p ankle repair with post-op
+   hypotension from acute blood loss anemia and UTI/SIRS
+   1. Hypotension/anemia: still requiring resuscitation with fluids and
+   blood
+   *Transfuse an additional 2 units blood and continue to monitor hct
+   *Hold lasix and BP medicines
+   *Ortho to re-look at ankle
+   2. Afib: Rapid rate improved with fluid/blood support
+   3. Hypoxia: appears improved. Inaccurate [**First Name9 (NamePattern2) 3937**] [**Location (un) **] may have
+   explained his preivous low readings
+   Rest of plan per ICU team
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ URINARY TRACT INFECTION (UTI)
+ HYPOTENSION (NOT SHOCK)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3123-5-25**] 07:15 PM
+   Multi Lumen - [**3123-5-25**] 07:37 PM
+   Prophylaxis: Fondaparinux
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+
+
+DOC CLASS

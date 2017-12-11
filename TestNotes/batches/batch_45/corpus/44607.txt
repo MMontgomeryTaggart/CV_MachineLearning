@@ -1,0 +1,106 @@
+Admission Date:  [**2573-10-31**]              Discharge Date:   [**2573-11-6**]
+
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 23851**]
+Chief Complaint:
+Recurrent rectal prolapse and fecal incontinence
+
+Major Surgical or Invasive Procedure:
+Altemaier Procedure [**11-1**]
+
+History of Present Illness:
+Mr. [**Known patient lastname 23852**] has a long history of fecal incontinence and
+recurrent rectal prolapse. He usually wears diapers at home. He
+decided to undergo elective repair of the recurrent rectal
+prolapse to treat his incontinence.
+
+Past Medical History:
+1. muscular dystrophy
+2. prostate cancer
+- dx in [**2569**] by biopsy after rising psa
+- s/p radiation with suspected
+radiation proctitis; flex sig done in [**2570**]
+and changes consistent with radiation proctitis
+were treated with argon laser
+3. radiation proctitis
+
+
+Social History:
+No tobacce, no ETOH.
+Lives alone with family close by.
+H/o multiple falls, for which he had to call repeatedly 911
+
+Physical Exam:
+Physical exam:
+93.8, 54, 18, 118/75, 100% RA
+gen: cachectic, no acute distress
+cv: regular bradycardia, no m/r/g
+resp: CTA bilaterally
+abdomen: flat, NABS, non tender
+rectaL: + rectal prolapse
+extr: trace bilateral lower extremity edema
+
+Brief Hospital Course:
+After the preineal resection of his rectal prolapse, Dr. [**Known patient lastname 23852**]
+was admitted to the surgical floor. He had an uncomplicated
+immediate postoperative course and developed bowel function on
+POD1. His incision was clean/dry and intact. Late on POD2 his
+mental status declined and he was protectively intubated. He was
+found to have a WBC of 1. He was transferred to the intensive
+care unit where he became hypotensive over night. His blood
+pressure was stabilized with several fluid boluses initially.
+Then Levaphed was added to support his pressure. He was
+pancultured and empirically started on broad spectrum anibiotics
+as well as antifungal coverage. It was felt that he had a septic
+reaction with unknown source. A CT scan of his body was obtained
+and showed a small infiltrate in his right lower lobe. His
+sputum cultures grew pansensitive Klebsiella as well as
+nonspecified gram-positive cocci and yeast. His mental status
+improved and he was able to comunicate with his family who was
+at his bedside every day of his postoperative course. On POD5,
+he was on minimal vent settings and only a small amount of
+pressor. His family, who had changed his status to DNR/DNI
+previously, requested in conjunction with Mr. [**Known patient lastname 23852**] to extubate
+him to spend some time with him. The family and the patient were
+well aware that there may be a need for re-intubation. He was
+extubated and spent time with his family. During the course of
+[**2573-11-6**], he tired out and had respiratory distress. The patient
+and the family refused intubation according to his official DNI
+status. Dr. [**Known patient lastname 23852**] expired peacefully with his family in the
+room on [**2573-11-6**]. The family requested that no autopsy would be
+performed.
+
+Medications on Admission:
+1. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QWED (every
+Wednesday).
+2. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO TID (3
+
+times a day) as needed.
+3. Terazosin 2 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime).
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+5. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+
+Discharge Disposition:
+Expired
+
+Facility:
+[**Hospital1 4**]
+
+Discharge Diagnosis:
+S/p Altemeier procedure
+
+Discharge Condition:
+Expired
+
+
+Completed by:[**2573-11-9**]
+
+DOC CLASS

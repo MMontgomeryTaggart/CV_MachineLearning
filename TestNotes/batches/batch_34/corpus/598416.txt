@@ -1,0 +1,155 @@
+Chief Complaint:
+   24 Hour Events:
+   - transitioned to PO home regimen
+   - called out to floor
+ DIALYSIS CATHETER - START [**3355-3-21**] 03:00 PM
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Morphine
+   Itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3355-3-22**] 07:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 36.2
+C (97.2
+   HR: 72 (68 - 88) bpm
+   BP: 150/99(110) {108/63(77) - 180/125(136)} mmHg
+   RR: 17 (12 - 20) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 60 Inch
+                  Total In:
+                                                                    139 mL
+                  PO:
+                                                                     60 mL
+                  TF:
+   IVF:
+                                                                     79 mL
+   Blood products:
+   Total out:
+                                                                  2,100 mL
+                                                                    100 mL
+   Urine:
+                                                                    100 mL
+                                                                    100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,961 mL
+                                                                   -100 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///23/
+   Physical Examination
+   General: Pleasant, comfortable, no distress
+   HEENT: L eye enucleated. Moon facies. Right pupil reactive
+   Heart: Regular rate and rhythm, s1 + s2, soft systolic murmur at RLSB,
+   no rubs or gallops
+   Respiratory: Crackles at bases bilaterally, no wheezes, rales, ronchi
+   GI: soft, non-tender, non-distended, +BS
+   GU: no foley
+   Ext: Warm and well perfused, no clubbing, cyanosis or edema
+   Labs / Radiology
+   83 K/uL
+   8.7 g/dL
+   74 mg/dL
+   5.3 mg/dL
+   23 mEq/L
+   6.6 mEq/L
+   25 mg/dL
+   101 mEq/L
+   134 mEq/L
+   28.1 %
+   2.7 K/uL
+        [image002.jpg]
+                             [**3355-3-22**]  04:07 AM
+   WBC
+   2.7
+   Hct
+   28.1
+   Plt
+   83
+   Cr
+   5.3
+   Glucose
+   74
+   Other labs: PT / PTT / INR:29.9/48.9/3.1, Ca++:9.6 mg/dL, Mg++:1.9
+   mg/dL, PO4:4.9 mg/dL
+   Assessment and Plan
+   24 year old female with ESRD on hemodialysis, SLE, malignant
+   hypertension, history of SVC syndrome, PRES who presents with abdominal
+   pain and shortness of breath admitted to the ICU for hypertensive
+   emergency.
+   Hypertensive Emergency:  Patient's blood pressure did not normalize in
+   the emergency room with administration of her home blood pressure
+   medications and she transiently required a nitroglycerin and labetalol
+   drips.  Likely precipitated by lack of ultrafiltration at dialysis
+   yesterday.  She has not received dialysis and her blood pressures are
+   at her baseline off the drips.
+   - continue home blood pressure regimen
+   - Nifedipine  150 mg Tablet SR daily
+   - Hydralazine  100 mg Tablet Q8H
+   - Labetalol  1000 mg Tablet TID
+   - Aliskiren  150 mg Tablet PO BID
+   - Clonidine  0.2 mg/24 hr Patch Weekly
+   - Hydralazine 100 mg PO PRN for SBP > 200
+   - discontinue IV drips
+   - continue regular dialysis schedule
+   Chronic Abdominal Pain: Currently managed with PO dilaudid, fentanyl
+   patch and lidocaine patch.  Prior authorization paperwork for fentanyl
+   was sent during last admission and is pending.
+   - continue fentanyl patch
+   - continue PO dilaudid
+   - continue lidocaine patch
+   Lupus Erythematous:  Complicated by uveitis and ESRD.
+   - continue prednisone
+   ESRD:  On dialysis.  Did not receive ultrafiltration yesterday but
+   received today.
+   - continue home dialysis schedule
+   - appreciate renal recommendations
+   Thrombocytopenia:  Platelet count at 94.  Baseline 80s to 130s.
+   - continue to monitor
+   Thrombotic Events:  History of SVC thrombosis with negative workup.
+   - continue coumadin
+   Anemia: Hematocrit 28.1 currently.  Baseline 23 to 28.
+   - continue to monitor
+   - transfusion threshold > 21
+   FEN: Renal diet, monitor electrolytes, no IVF
+   Prophylaxis: Coumadin (INR 2.9)
+   Code: Full
+   Communication: Patient
+   Disposition: Transfer to floor
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3355-3-21**] 03:00 PM
+   18 Gauge - [**3355-3-21**] 03:04 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

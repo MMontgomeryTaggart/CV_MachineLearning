@@ -1,0 +1,249 @@
+Chief Complaint:
+   24 Hour Events:
+ ENDOSCOPY - At [**3094-4-9**] 10:05 AM
+ LUMBAR PUNCTURE - At [**3094-4-9**] 11:55 AM
+   - GI push enteroscopy: A mass of malignant appearance was found at the
+   lower third of the esophagus. The mass was friable and bleeding
+   spontaneously on contact. The scope traversed the lesion. Normal mucosa
+   was noted in the stomach, duodenum, and jejunum up to 120 cm from the
+   incisors, likely in distal jejunum. No evidence of bleeding was noted.
+   - Got LP by neuro: normal pressure, protein minimally elevated at 49,
+   otherwise unremarkable, sent for cytology, cx.
+   -lasix gtt uptitrated from 5 to 7.5 given UOP dropping off.  Repeat
+   Echo showed Repeat echo showed EF 20-25%,  from 55 %, worsened MR/TR
+   -pt self dc
+d dopoff y/d
+   Gave 1L D5W for hypernatremia
+   -
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3094-4-9**] 04:00 PM
+   Infusions:
+   Furosemide (Lasix) - 7.5 mg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3094-4-10**] 01:37 AM
+   Heparin Sodium (Prophylaxis) - [**3094-4-10**] 01:37 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3094-4-10**] 07:35 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**96**] AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.6
+C (97.9
+   HR: 90 (85 - 103) bpm
+   BP: 108/71(85) {85/50(60) - 123/88(102)} mmHg
+   RR: 17 (12 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 80.1 kg (admission): 91.3 kg
+   Height: 67 Inch
+             Total In:
+                                                                  1,503 mL
+                                                                    217 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,503 mL
+                                                                    217 mL
+   Blood products:
+   Total out:
+                                                                  1,620 mL
+                                                                    405 mL
+   Urine:
+                                                                  1,620 mL
+                                                                    405 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -117 mL
+                                                                   -188 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///25/
+   Physical Examination
+   Gen: A&Ox3
+   CV: RRR. Normal s1, s2. No M/G/R.
+   Resp: mildly ronchorous
+   Abd: S/ND; BS present
+   Ext: Pitting edema in all 4 extremities
+   Labs / Radiology
+   272 K/uL
+   9.3 g/dL
+   92 mg/dL
+   0.8 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   27 mg/dL
+   113 mEq/L
+   144 mEq/L
+   29.2 %
+   5.9 K/uL
+                             [**3094-4-6**]  08:43 PM
+                             [**3094-4-6**]  08:49 PM
+                             [**3094-4-7**]  06:36 AM
+                             [**3094-4-7**]  06:56 AM
+                             [**3094-4-7**]  05:16 PM
+                             [**3094-4-8**]  05:32 AM
+                             [**3094-4-8**]  05:31 PM
+                             [**3094-4-9**]  05:13 AM
+                             [**3094-4-9**]  04:40 PM
+                             [**3094-4-10**]  05:20 AM
+   WBC
+   6.6
+   6.0
+   5.7
+   5.9
+   Hct
+   28.3
+   33.0
+   31.9
+   31.3
+   31.9
+   30.1
+   29.1
+   29.2
+   Plt
+   [**Telephone/Fax (3) 13887**]72
+   Cr
+   0.9
+   0.9
+   0.9
+   0.9
+   0.8
+   0.8
+   0.8
+   TCO2
+   23
+   21
+   Glucose
+   81
+   141
+   148
+   128
+   82
+   109
+   92
+   Other labs: PT / PTT / INR:12.5/26.0/1.1, CK / CKMB /
+   Troponin-T:29//0.03, ALT / AST:24/54, Alk Phos / T Bili:146/1.0,
+   Amylase / Lipase:70/36, Differential-Neuts:75.6 %, Band:0.0 %,
+   Lymph:12.5 %, Mono:7.4 %, Eos:4.1 %, Lactic Acid:1.4 mmol/L,
+   Albumin:2.2 g/dL, LDH:381 IU/L, Ca++:7.8 mg/dL, Mg++:2.2 mg/dL, PO4:3.5
+   mg/dL
+   Assessment and Plan
+ ALTERATION IN NUTRITION
+ BALANCE, IMPAIRED
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ TRANSFERS, IMPAIRED
+ VENTILATION, IMPAIRED
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP)
+ IMPAIRED SKIN INTEGRITY
+ IMPAIRED HEALTH MAINTENANCE
+ HEART FAILURE (CHF), SYSTOLIC, CHRONIC
+   63 y/o F w/ decompensated Stage IV CHF admitted for inotropic-assisted
+   diuresis, with ICU course c/b hypercarbic respiratory failure requiring
+   intubation, superimposed sepsis, GI bleeding requiring transfusion,
+   persistent pressor requirement now found to have likely malignancy on
+   push enteroscopy.
+   .
+   GI malignancy: Pt  continues to have persistent [**Last Name (LF) 7332**], [**First Name3 (LF) **]
+   esophagus as well as evidence of GI malignancy. Transfused 9 units so
+   far, last on 19^th. Discuss goals of care with family given new
+   diagnosis.
+   Plan for EGD for biopsy once acute bleeding stopped.
+   In interim continue to trend crit. Currently stable. Daily Crit checks,
+   transfuse for falling blood volume.
+   Guiac all stools
+   -hold anticoagulants if possible., currently on hep SC BID, with small
+   amount of [**First Name3 (LF) 7332**] per flexiseal.
+   Follow up GI recs
+   Continue PPI
+   .
+   # Fluid overload/Congestive heart failure: Fluid overload likely
+   multifactorial, related to hypoalbuminemia in addition to heart failure
+   with EF worse.  Seems that most of the patient
+s fluid is in the
+   peripheral tissues secondary to low oncotic pressure. Was receiving
+   fluid for hypernatremia. Albumin improved from 1.9 to 2.2
+   -continue to address nutrition, replace NGT.
+   - lasix GTT currently at 7.5, continue to diurese with lasix GTT
+   Continue to diurese, goal negative 1-2L/day, with BP monitoring.
+   -[**Hospital1 7**] lytes.
+   .
+   # Altered mental status: Mental status has been persistently altered
+   throughout patient
+s admission. Non-contrast CT head [**3094-3-20**] showed
+   extensive paranasal sinus disease, ?NP hydrocephalus, small radiolucent
+   focus in left frontal bone. Consulted neuro on [**4-6**],  LP performed,
+   pressure normal
+possible NPH, elevated protein otherwise unremarkable.
+   Gram stain negative, f/u cx, cytology
+   - f/u neuro recs
+   .
+   # Hypernatremia: Due to inability to take PO and inadequate access to
+   free water. Sodium currently wnl.
+   Continue to trend.
+   .
+   .
+   # S/p Dental Extraction: The patient presented with poor dentition. She
+   underwent extraction of 24 teeth on [**3094-4-2**]. Culture of surgical
+   specimen showing VRE and [**Female First Name (un) **].
+   - continue to follow micro data/path for surgical specimens
+   - routine post-operative mouth care
+   - RTC Tylenol with morphine for breakthrough (morphine may be
+   contributing to pt
+s hypotension and AMS, so will try to avoid)
+   .
+   # MRSA Bacteremia; MRSA/Proteus in sputum: Pt treated with vanc as well
+   as cefepime/flagyl. ID recommended 15 day course of cefepime/flagyl,
+   which is complete. Recommending 21-day course of vanc for MRSA
+   bacteremia.
+   -  vanc x 21 day course (ended [**4-9**])
+   .
+   # CORONARIES:  CTO of proximal LAD.  CE's negative at OSH.
+   - continue aspirin 81mg daily
+   - continue zocor
+   - holding on beta blocker and ACEi due to pressor requirement
+   .
+   # RHYTHM: Sinus, occasional accelerated narrow complex rhythm w/o
+   p-waves (?junctional), and NSVT. Pt did have VT/?VF last weekend and
+   was shocked out of it by her ICD.
+   - Continue amiodarone 200 mg TID for total 3
+   weeks
+   - continue
+   telemetry
+   - electrolyte repletion PRN, [**Hospital1 7**] electrolyte checks
+   - contact her [**Name2 (NI) 254**] cardiologist ([**Name (NI) 1197**] [**Name (NI) 10046**]) to get more details
+   re: her defibrillator and systolic function
+   .
+   #  Hypothyroidism: TSH elevated; however free T4 WNL.
+   - continue Synthroid
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3094-3-21**] 04:00 PM
+   Arterial Line - [**3094-4-2**] 08:07 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments: HCP [**Name (NI) 1024**], discuss goals of care.
+   Code status: Full code
+   Disposition: CCU
+
+
+DOC CLASS

@@ -1,0 +1,180 @@
+Chief Complaint: Acute diastolic CHF, HAP
+   24 Hour Events:
+   -lasix 20 mg IV -> 1.8L neg (-2.8L ICU LOS)
+   -discussed clozaril dose with psych
+ recommended increasing by 50 mg
+   daily until total daily dose 500 mg day, cover with olanzapine while
+   uptitrating (ADR is [**Last Name (LF) **], [**First Name3 (LF) 167**] cont. to monitor BP)
+   -ID rec sputum cx and to cont vanc & zosyn (vanc needs ID approval in
+   am)
+   -TChol 124, HDL 26, LDL 72, TG 131
+   Allergies:
+   Haloperidol
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2536-4-21**] 10:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2536-4-22**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2536-4-21**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**2536-4-21**] 10:59 PM
+   Other medications:
+   Changes to medical and family history: n/a
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: c/o diffuse intermittent abd pain which is
+   improving; able to tolerate full diet last PM; cough prod of white
+   sputum, occas. SOB; +flatus, no BM in 2 days; no f/c, CP, palp, N/V/D
+   Flowsheet Data as of  [**2536-4-22**] 06:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.4
+C (99.3
+   HR: 69 (65 - 79) bpm
+   BP: 114/52(69) {86/42(53) - 122/65(89)} mmHg
+   RR: 17 (17 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+             Total In:
+                                                                  1,910 mL
+                                                                    522 mL
+   PO:
+                                                                    850 mL
+                                                                    360 mL
+   TF:
+   IVF:
+                                                                    940 mL
+                                                                    162 mL
+   Blood products:
+   Total out:
+                                                                  3,760 mL
+                                                                    630 mL
+   Urine:
+                                                                  3,760 mL
+                                                                    630 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,850 mL
+                                                                   -108 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula 3L
+   SpO2: 94%
+   Physical Examination
+   GEN: Appears well
+   NECK: JVP 10 cmH20 @ HOB 30 deg
+   CV: reg rate III/VI harsh late-peaking cresc-decresc murmur @ LUSB no
+   r/g
+   PULM: R>L bibasilar rales scattered rhonchi, no wheeze
+   ABD: soft mildly distended, tympanic, diffusely tender to deep palp
+   hyperactive BS
+   EXT: warm, dry +PP no edema
+   Labs / Radiology
+   177 K/uL
+   12.3 g/dL
+   161 mg/dL
+   0.9 mg/dL
+   28 mEq/L
+   4.3 mEq/L
+   10 mg/dL
+   107 mEq/L
+   140 mEq/L
+   36.2 %
+   9.9 K/uL
+        [image002.jpg]
+                             [**2536-4-20**]  05:25 PM
+                             [**2536-4-21**]  04:15 AM
+                             [**2536-4-22**]  04:35 AM
+   WBC
+   12.0
+   9.9
+   Hct
+   36.9
+   36.2
+   Plt
+   158
+   177
+   Cr
+   0.8
+   1.0
+   0.9
+   TropT
+   0.16
+   Glucose
+   196
+   154
+   161
+   Other labs: CK / CKMB / Troponin-T:/4/0.16, Differential-Neuts:84.0 %,
+   Band:0.0 %, Lymph:8.0 %, Mono:8.0 %, Eos:0.0 %, Ca++:8.2 mg/dL,
+   Mg++:2.1 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   63 M severe AS, IDDM, hyperlipidemia, schizophrenia, recurrent SBO a/w
+   partial SBO transferred to CCU for acute diastolic CHF complicated by
+   demand ischemia and HAP.
+   .
+   #Acute diastolic CHF
+ [**1-23**] aggressive IVF for partial SBO/PNA in the
+   setting of severe AS ([**Location (un) **] 0.8-1.0 cm2); -2.8L [**Location **] gentle diuresis w/ goal -500-1L
+   - avoid nitrates given preload dependence
+   - cont.  lopressor
+   - start ACEi if BP allows
+   .
+   #Demand ischemia
+ trop leak most c/w subendocardial ischemia in the
+   setting of systemic illness, tachycardia, AS, LVH
+   - cont ASA, statin, BB
+   - metoprolol 25mg po bid
+   - continue statin
+   - HgbA1c pending
+   .
+   #HAP
+ persistent low-grade temps but fever curve/WBC# trending down,
+   oxygen requirement improving, blood Cx NGTD
+   -appreciate ID recs
+   -cont vanc/ zosyn day [**3-27**]
+ given improvement after 72 hrs, could
+   consider stopping vanco or switching regimen to monotherapy with 3^rd
+   gen cephalosporin or FQ
+   -sputum Cx
+   -check vanc trough
+   -f/u culture data
+   -wean oxygen as tolerated
+   .
+   #pSBO - improving with conservative mgmt, tolerating low res diet
+   - cont low residue diet
+   - appreciate [**Doctor First Name 438**] f/u
+   - dilaudid prn for pain control, limit narcotics to minimize resp
+   depression
+   .
+   #Schizophrenia  - mood appears stable
+   -appreciate psych recs
+   - clozaril uptitration with zyprexa in the interim
+   .
+   #DM
+   - cont insulin sliding scale
+   .
+   #BPH - stable
+   - avoid alpha blockers due to severe AS
+   .
+   #Hyperlipidemia  - lipid panel WNL but HDL low at 26
+   - recheck lipid panel as above
+   - cont statin
+   .
+   #GERD : stable
+   - cont PPI
+   .
+   # FEN: low res diet, replete
+lytes prn
+   # PPx: SQH, bowel rest
+   # CODE: FULL CODE
+   # COMM: [**Name (NI) 51**]
+   # [**Name2 (NI) **]: call out to floor
+
+
+DOC CLASS

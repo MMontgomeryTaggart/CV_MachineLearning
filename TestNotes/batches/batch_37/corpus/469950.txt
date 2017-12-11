@@ -1,0 +1,322 @@
+Chief Complaint:  Cough, Nausea
+   HPI:
+   Ms. [**Name13 (STitle) 11508**] is an 80 year old lady followed closely in our [**Hospital **] clinic for
+   pulmonary aspergillus infection and Mycobacterium abscessus and a
+   recent H. Flu PNA. Upon presentation to [**Hospital **] clinic, she was noted to
+   have persistent productive cough with sputum production and decreased
+   energy. Exam in [**Hospital **] clinic was notable for BP 80/45. She was then
+   referred to the ED for further evaluation.
+   .
+   In the ED, initial VS: T 98.3, HR 82, BP 92/42, RR 19, and pulse ox 92%
+   on RA. Exam was notable for RLQ Crackles, nontender abdomen. Labs,
+   Imaging concerning for cholecystitis, and surgery was consulted
+   recommending only a HIDA scan for possible percutaneous cholecystostomy
+   tube. Broad spectrum coverage for HAP with Linezolid/Clinda/Zosyn was
+   initiated, constrained by allergies.  ASA, 2L NS Transfer VS: VS: 99.4
+   88 105/39 18 99% 2L
+   .
+   On arrival to the MICU, the patient is actually signing with her nurses
+   and dancing in bed.  She is oriented to place, year and self, and
+   reports 3 days of nausea and vomiting with intermittent coughing and
+   dyspnea on exertion for several weeks.  On further questioning, she is
+   not able to provide much more detail.
+   .
+   REVIEW OF SYSTEMS:
+   Patient denies chest pain or dyspnea, endorses some constipation but no
+   black/bloody stools, dysuria or abdominal pain.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Patient unable to provide history: Cognitive decline
+   Allergies:
+   Darvon (Oral) (Propoxyphene Hcl)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3370-3-12**] 10:47 PM
+   Metronidazole - [**3370-3-13**] 12:39 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   1. Acetylcysteine neb tid
+   2. ACRIVASTINE-PSEUDOEPHEDRINE [SEMPREX-D] 60 mg-8 mg Capsule - 1
+   capsule [**Hospital1 **]
+   3. Atenolol 12.5mg PO daily
+   4. Atorvastatin 20mg PO qhs
+   5. Baclofen 5mg PO tid prn back pain
+   6. Benzonatate 100mg PO tid prn cough
+   7. Vitamin B12 1000mcg SC q month (given on the 17th of each month)
+   8. Vitamin D 50,000 units q month (given on the 1st of each month)
+   9. Fentanyl patch 25mcg transdermally q72h
+   10. Folate 1mg PO daily
+   11. Furosemide 20mg PO daily
+   12. Ibuprofen 400mg PO tid
+   13. Duoneb qid
+   14. Keppra 500mg PO bid
+   15. Levothyroxine 50mcg PO daily
+   16. Lidoderm patch daily to back
+   17. Lisinopril 20mg PO daily
+   18. Nitroglycerin patch .1mg/hour daily
+   19. Nystatin suspension [**Hospital1 **]
+   20. Omeprazole 40mg PO daily
+   21. Oxycodone prn
+   22. Phenytoin 75mg PO bid
+   23. Potassium Chloride 10mEq daily
+   24. Prednisone 5mg PO daily
+   25. Prochlorperazine 25mg PO prn nausea / vomiting
+   26. Tiotropium daily
+   27. Tramadol 25mg PO q8h prn pain
+   28. Voriconazole 300mg PO bid
+   29. Tylenol prn
+   30. Maalox prn indigestion
+   31. Aspirin 81mg PO daily
+   32. Bisacodyl 10mg PR daily prn constipation
+   33. Tums
+   34. Benadryl prn itching
+   35. Guaifenesin prn cough
+   36. Milk of Mag prn constipation
+   37. Miralax prn constipation
+   Past medical history:
+   Family history:
+   Social History:
+   1. COPD
+   2. GERD
+   3. Coronary Artery Disease s/p stent placement
+   4. Breast Cancer s/p Mastectomy
+   5. Colon Cancer s/p Colectomy
+   6. h/o LLE DVT
+   7. Hypertension
+   8. Hyperlipidemia
+   9. Pulmonary Aspergillosis
+   10. Mycobacterial Pulmonary Abscessus
+   - not currently undergoing therapy
+   Non-contributory
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Home: lives in nursing home since [**3368-5-19**]
+   Occupation: retired, former hairdresser
+   EtOH: Denies
+   Drugs: Denies
+   Tobacco: 60 PPY smoking history, quit > 15 years ago
+   Review of systems:
+   Flowsheet Data as of [**3370-3-13**] 02:55 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**72**] AM
+   Tmax: 35.4
+C (95.7
+   Tcurrent: 35.3
+C (95.6
+   HR: 67 (67 - 76) bpm
+   BP: 129/89(94) {113/18(44) - 142/89(94)} mmHg
+   RR: 26 (19 - 40) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+           Total In:
+                                                                  1,075 mL
+                                                                    381 mL
+   PO:
+           TF:
+   IVF:
+                                                                    700 mL
+                                                                    100 mL
+   Blood products:
+                                                                    375 mL
+                                                                    281 mL
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,075 mL
+                                                                    381 mL
+   Respiratory
+   SpO2: 99%
+   ABG: ///28/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   282 K/uL
+   9.8 g/dL
+   184 mg/dL
+   3.0 mg/dL
+   24 mg/dL
+   28 mEq/L
+   102 mEq/L
+   4.8 mEq/L
+   139 mEq/L
+   31.3 %
+   16.9 K/uL
+        [image002.jpg]
+                                  [**3366-1-20**]
+                          2:33 A2/23/[**3370**]  12:01 AM
+                                  [**3366-1-24**]
+                         10:20 P2/23/[**3370**]  01:50 AM
+                                  [**3366-1-25**]
+                                   1:20 P
+                                  [**3366-1-26**]
+                                   11:50 P
+                                  [**3366-1-27**]
+                                   1:20 A
+                                  [**3366-1-28**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3366-2-20**]
+                                   1:20 P
+                                  [**3366-2-20**]
+                                   11:20 P
+                                  [**3366-2-20**]
+                                   4:20 P
+   WBC
+                                    16.9
+   Hct
+                                    31.3
+   Plt
+                                     282
+   Cr
+                                     3.0
+   Glucose
+                                     184
+   Other labs: PT / PTT / INR:15.3/34.3/1.3, CK / CKMB / Troponin-T:42//,
+   Lactic Acid:1.0 mmol/L, Ca++:8.4 mg/dL, Mg++:1.9 mg/dL, PO4:2.3 mg/dL
+   Fluid analysis / Other labs: U/A: Color Yellow Appear Clear SpecGr
+   1.015 pH 5.0 Urobil Neg
+   Bili Neg Leuk Tr Bld Neg Nitr Neg Prot 25 Glu Neg Ket Tr
+   RBC 0  WBC [**3-23**]  Bact Few  Yeast Mod  Epi 0
+   12:24p Lactate:0.9
+   .
+   [**3370-3-12**] 12:20p
+   140  104  31
+   -------------<80
+   3.6  22  2.0
+   estGFR: 24/29
+   CK: 29  MB: Notdone
+   ALT: 12 AP: 216 Tbili: 0.2 AST: 25 Lip: 22
+   .
+   Phenytoin: 10.0
+   .
+   9.5
+   8.6>---<172
+   31.1
+   N:79.1 L:11.4 M:5.9 E:3.2 Bas:0.4
+   .
+   PT: 12.4  PTT: 30.5  INR: 1.0
+   Imaging: Liver U/S: Markedly distended gallbladder with impacted stone
+   in GB neck.  Early acute cholecystitis cannot be excluded. Recommend
+   HIDA scan.
+   .
+   CT Abd/Pelvis:
+   1. Distended gallbladder. Recommend right upper quadrant ultrasound for
+   further evaluation as clinically warranted.
+   2. Severe constipation.
+   3. Infrarenal aortic ectasia.
+   .
+   CXR: IMPRESSION: No acute intrathoracic process. Right upper lobectomy
+   changes, multiple surgical clips.  No clear consolidation.
+   Microbiology: Blood Cx
+   ECG: EKG: Sinus @ 90with PVCs, NA/NI
+   Assessment and Plan
+   ASSESSMENT & PLAN:
+   An 80 year old lady with multiple pulmonary insults, Fungal PNA
+   admitted to the ICU with borderline hypotension in the setting of ?
+   cholecystitis.
+   .
+   #. Hypotension: The patient's BP, once receiving 2L NS in the ED has
+   remained in the 90s-100s, close to her apparent baseline.  She is on
+   Lisinopril, Atenolol and multiple narcotics at her nursing home and
+   presumable received them today.  Possible causes include Iatrogenic BP
+   Meds, Hypovolemia from hypotension, Sepsis from Pulmonary or GI source
+   (unlikely given CXR, normal WBC count, benign abdominal exam).  The
+   patient also has poor peripheral access.
+   - Monitor UOP goal 30mL/hr
+   - Goal SBP >= 90
+   - Fluid bolus PRN given likely hypotension
+   - Continue Linezolid, Zosyn, Voriconazle for Pulm/GI source
+   - Minimize Narcotics, hold Lisinopril/Atenolol, Lasix
+   .
+   #. Nausea/?CCY: The patient has a stone and possible distended bladder
+   neck on U/S & CT.  She has no abdominal tenderness and no [**Doctor Last Name 2010**]
+   sign, but has been vomiting x3 days.  Differential includes biliary
+   colic, gastroenteritis with incidental finding and early
+   cholecystisits.  Elevated Alk Phos non-specific, may be from fungal
+   infection, anti-fungals or from CCY.
+   - HIDA Scan in AM
+   - Surgery Recs
+   - Zofran prn
+   - NPO
+   .
+   #. Multiple Pulmonary Infections: The patient has an ongoing treatment
+   with ID for Pulmonary Aspergillosis & M. abscessus with a recent H. Flu
+   PNA.  She has a continued cough, worse the last three days.
+   - Appreciate ID Input
+   - Continue Voriconazole
+   - Nebs
+   - Cough suppresion with Guaifenisin &  Benzonatate
+   .
+   #. Acute Kidney Injury: Cr 2.0, baseline 0.9, likely pre-renal from
+   poor PO intake, but ATN possible.  No obstruction noted.
+   - Urine Lytes, Eos
+   - Fluid hydration as above
+   - Hold Lasix, Lisinopril
+   .
+   #. COPD: Not likely an exacerbation, treat underlying infections as
+   above.
+   - Tiotropium
+   - Nebs
+   - No indication for steroids at this time
+   .
+   #. Anti-Epileptic Use:  Cannot find history of epilepsy, seizures or
+   brain mets currently.
+   - Continue current doses of Keppra & Dilantin, check levels in AM
+   .
+   #. Prednisone Use: unsure why patient is on prednisone
+   - Random Cortisol in AM
+   .
+   #. Chronic Pain: Unclear why, but the patient is on Fentanyl, Lidoderm,
+   Oxycodone, Tramadol, Ibuprofen and Tylenol.
+   - Obtain outside records
+   - Continue Fentanyl, Lidoderm, Tylenol only
+   .
+   #. Hypothyroidism: Continue Levothyroxine
+   .
+   #. Hyperlipidemia: Continue Statin
+   .
+   #. Constipation: continue Bowel regimen
+   .
+   # FEN: IVFs / replete lytes prn / regular diet
+   # PPX: PPI, heparin SQ, bowel regimen
+   # ACCESS: PIV
+   # CODE:  Full, discussed with patient, will confirm with son
+   # CONTACT:  [**Name (NI) **] [**Name (NI) 196**] [**Name (NI) 11508**] [**Telephone/Fax (1) 11509**]
+   # DISPOSITION:
+   [ ] Floor pending further investigation
+   [ ] Floor pending
+   [ ] Stepdown / [**Hospital Unit Name 4201**]
+   [x] ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   PICC Line - [**3370-3-12**] 06:29 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

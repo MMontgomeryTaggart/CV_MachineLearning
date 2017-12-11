@@ -1,0 +1,165 @@
+Chief Complaint:
+   24 Hour Events:
+   [**3289-3-8**]
+   - S+S: Ground solids, nectar thick liquids
+   - Ortho from OSH: WBAT. No need to c/s ortho here.
+   - Transfused 1 unit RBC with 40mg IV lasix for anemia/hypotension.
+   - Increased D5W to 120cc/hr given persistent hyperNa.
+   - LENIs negative (R [**Doctor Last Name 1510**] not seen).
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Enoxaparin (Lovenox) - [**3289-3-8**] 08:00 AM
+   Pantoprazole (Protonix) - [**3289-3-8**] 10:00 AM
+   Furosemide (Lasix) - [**3289-3-8**] 11:02 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3289-3-9**] 06:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36.9
+C (98.4
+   HR: 94 (83 - 111) bpm
+   BP: 102/51(62) {85/41(52) - 124/73(94)} mmHg
+   RR: 35 (18 - 35) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+             Total In:
+                                                                  2,822 mL
+                                                                    948 mL
+   PO:
+                                                                    660 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  2,162 mL
+                                                                    828 mL
+   Blood products:
+   Total out:
+                                                                  1,450 mL
+                                                                    700 mL
+   Urine:
+                                                                  1,450 mL
+                                                                    700 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,372 mL
+                                                                    248 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///29/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   257 K/uL
+   8.9 g/dL
+   113 mg/dL
+   0.9 mg/dL
+   29 mEq/L
+   3.7 mEq/L
+   50 mg/dL
+   113 mEq/L
+   149 mEq/L
+   28.7 %
+   15.2 K/uL
+        [image002.jpg]
+                             [**3289-3-5**]  04:21 AM
+                             [**3289-3-5**]  06:18 AM
+                             [**3289-3-5**]  10:21 AM
+                             [**3289-3-5**]  06:09 PM
+                             [**3289-3-6**]  05:16 AM
+                             [**3289-3-6**]  04:41 PM
+                             [**3289-3-7**]  04:33 AM
+                             [**3289-3-7**]  04:13 PM
+                             [**3289-3-8**]  06:15 AM
+                             [**3289-3-8**]  08:30 PM
+   WBC
+   18.5
+   17.0
+   15.2
+   Hct
+   28.2
+   29.0
+   26.9
+   29.1
+   26.9
+   28.7
+   Plt
+   172
+   218
+   257
+   Cr
+   0.9
+   0.9
+   0.9
+   0.8
+   0.8
+   0.8
+   0.9
+   TCO2
+   26
+   31
+   Glucose
+   120
+   108
+   116
+   120
+   122
+   200
+   113
+   Other labs: PT / PTT / INR:21.0/30.6/2.0, CK / CKMB /
+   Troponin-T:2282/144/7.61, ALT / AST:55/374, Alk Phos / T Bili:35/0.8,
+   Differential-Neuts:84.7 %, Lymph:10.6 %, Mono:4.4 %, Eos:0.2 %,
+   D-dimer:2446 ng/mL, Fibrinogen:422 mg/dL, Lactic Acid:1.2 mmol/L,
+   Albumin:2.6 g/dL, LDH:911 IU/L, Ca++:9.6 mg/dL, Mg++:2.2 mg/dL, PO4:2.4
+   mg/dL
+   Assessment and Plan
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ AIRWAY CLEARANCE, IMPAIRED
+ BALANCE, IMPAIRED
+ KNOWLEDGE, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ RANGE OF MOTION, IMPAIRED
+ TRANSFERS, IMPAIRED
+ ALTERATION IN NUTRITION
+ ATRIAL FLUTTER (AFLUTTER)
+ DELIRIUM / CONFUSION
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   s/p total righ hip replacement
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3289-3-7**] 02:00 PM
+   20 Gauge - [**3289-3-9**] 03:26 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

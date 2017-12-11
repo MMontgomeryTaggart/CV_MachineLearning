@@ -1,0 +1,318 @@
+Admission Date:  [**3341-11-21**]              Discharge Date:   [**3341-12-1**]
+
+Date of Birth:  [**3271-3-13**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Dizziness and dyspnea
+
+Major Surgical or Invasive Procedure:
+[**3341-11-24**] Aortic Valve Replacement(23mm St. [**Male First Name (un) 262**] Epic Supra
+Porcine) and Single Vessel Coronary Artery Bypass Grafting(vein
+graft to ramus intermedius).
+
+History of Present Illness:
+Mr. [**Known patient lastname 31542**] is a 70 year old male with known aortic stenosis. He
+admits to a several month history of worsening dyspnea. He
+presented to outside hospital with several hours of dizziness.
+He ruled out for myocardial infarction. Echocardiogram was
+notable for worsening aortic stenosis with [**First Name8 (NamePattern2) **] [**Location (un) **] of 0.6 cm2
+with mild to moderate aortic insufficiency. His ejection
+fraction was normal at 65-70%. Cardiac catheterization confirmed
+severe aortic stenosis while coronary angiography showed
+significant disease in the ramus branch and first obtuse
+marginal arteries. Given the above findings, he was transferred
+to the [**Hospital1 22**] for cardiac surgical intervention.
+
+Past Medical History:
+Aortic Stenosis, Aortic Insufficiency
+Coronary Artery Disease
+History of Myocardial Infarction [**3335**]
+Hypertension
+Dyslipidemia
+Atrial Fibrillation
+Diverticular Disease
+Interstitial Lung Disease
+Prior Colonic Resection
+s/p Appendectomy
+
+Social History:
+Retired mechanical engineer. Quit tobacco over 18 years ago.
+Admits to only social ETOH. Lives with wife.
+
+Family History:
+Two sons died of heart attacks.
+
+Physical Exam:
+VS - 114/74, 60, 24
+Gen: well developed well nourished elderly male in NAD. Oriented
+x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa.
+Neck: Supple, No LAD, no JVP appreciated
+CV: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+
+Chest: decreased breath sounds bilaterally
+Abd: Soft, NT, ND. No abdominial bruits appreciated.
+Ext: Warm. No edema or cyanosis.
+Skin: multiple nevi on face and head
+Pulses: 1+ bilaterally, no carotid or femoral bruits noted
+
+Pertinent Results:
+[**3341-11-22**] Trans-thoracic ECHO: The left atrium is moderately
+dilated. The estimated right atrial pressure is 0-5 mmHg. There
+is mild symmetric left ventricular hypertrophy with normal
+cavity size. There is mild regional left ventricular systolic
+dysfunction with thinning/akinesis of the inferolateral wall and
+hypokinesis of the inferior wall. The remaining segments
+contract well (LVEF 45%). Right ventricular chamber size and
+free wall motion are normal. The ascending aorta is mildly
+dilated. The aortic valve leaflets are severely
+thickened/deformed. There is severe aortic valve stenosis (area
+<0.8cm2). Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. Trivial mitral
+regurgitation is seen. The pulmonary artery systolic pressure
+could not be quantified. There is an anterior space which most
+likely represents a fat pad.
+[**3341-11-22**] Carotid US:
+1. No significant stenosis of the right ICA.
+2. Less than 40% stenosis of the left ICA.
+
+[**3341-11-23**]:
+SPIROMETRY 12:43 PM Pre drug Post drug
+    Actual Pred %Pred Actual %Pred %chg
+FVC   4.37 4.23 103 4.30 102 -2
+FEV1   2.75 2.85 97 2.70 95 -2
+MMF   1.11 2.61 42 1.23 47 +11
+FEV1/FVC   63 67 93 63 93 0
+
+LUNG VOLUMES 12:43 PM Pre drug Post drug
+    Actual Pred %Pred Actual %Pred
+TLC   6.55 6.71 98
+FRC   2.95 3.82 77
+RV   2.17 2.48 88
+VC   4.52 4.23 107
+IC   3.60 2.89 125
+ERV   0.78 1.34 58
+RV/TLC   33 37 90
+He Mix Time   3.38
+
+DLCO 12:43 PM
+    Actual Pred %Pred
+DSB   15.16 24.79 61
+VA(sb)   6.22 6.71 93
+HB   15.20
+DSB(HB)   14.91 24.79 60
+DL/VA   2.40 3.70 65
+
+[**3341-11-24**] Intraop TEE:
+Pre Bypass: The left atrium is normal in size. There is mild
+symmetric left ventricular hypertrophy. Right ventricular
+chamber size and free wall motion are normal. There are complex
+(>4mm) atheroma in the aortic arch. The descending thoracic
+aorta is mildly dilated. There are simple atheroma in the
+descending thoracic aorta. The aortic valve leaflets are
+severely thickened/deformed. There is severe aortic valve
+stenosis (area <0.8cm2). Mild to moderate ([**1-4**]+) aortic
+regurgitation is seen. The mitral valve leaflets are moderately
+thickened. Mild to moderate ([**1-4**]+) mitral regurgitation is seen.
+There is no pericardial effusion.
+Post bypass: Preserved biventricular function LVEF 45%. Mid
+inferior hypokinesis is unchanged. MR remains 1+. Aortic
+bioprosthesis is insitu (#23 [**Doctor Last Name **]) Peak gradient 17, mean
+gradient 5 mm hg. No perivalvular leaks or insufficiency. Aortic
+contours intact. Remaining exam is unchanged. All findings
+discussed with surgeons at the time of the exam.
+
+[**Known patient lastname **],[**Known patient firstname **] C [**PT ID Number 31543**] M  70  [**3271-3-13**]
+
+Radiology Report CHEST (PA & LAT) Study Date of [**3341-11-27**] 9:05 AM
+
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG FA6A [**3341-11-27**] SCHED
+CHEST (PA & LAT)   Clip # [**0-0-**]
+Reason: pleural effusions
+Final Report
+PA AND LATERAL CHEST RADIOGRAPH
+
+HISTORY: 70-year-old man status post AVR and CABG. Evaluate for
+pleural
+effusions.
+
+COMPARISON: Chest radiograph from [**11-25**] dating back to
+[**3341-11-21**].
+
+FINDINGS: Small bilateral pleural effusions are present and
+unchanged.
+Bilateral pleural densities may be due to subpleural adipose
+tissue or pleural
+thickening. In the right apex, there is an ill-defined
+spiculated nodule
+which is either in the lung parenchyma or abuts the pleura. This
+nodule is
+unchanged since [**3341-11-21**].
+
+The patient is status post median sternotomy and CABG with
+appropriately
+positioned cerclage wires. The cardiac silhouette is normal in
+size. The
+aorta is mildly tortuous but unchanged. The hilar and
+mediastinal contours
+appear unremarkable. A Swan-Ganz catheter has been removed.
+
+IMPRESSION:
+1. Unchanged bilateral pleural effusions with slight improvement
+in the left
+basilar atelectasis.
+2. Right apical spiculated nodule will require further
+investigation with
+chest CT when the patient is clinically stable.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**First Name (STitle) 23226**] [**Name (STitle) 23227**]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3428**]
+Approved: MON [**3341-11-27**] 4:18 PM
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**3341-11-29**] 05:15AM    8.2 3.13* 9.6* 27.5* 88 30.8 35.0 14.3
+182#
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**3341-12-1**] 06:05AM      26* 1.4* 139 3.9
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 31542**] was admitted to the cardiac surgical service and
+underwent routine preoperative evaluation which included repeat
+echocardiogram, carotid ultrasound and pulmonary function
+testing - please see result section for details. He remained
+stable on medical therapy. Prior to surgery, he was cleared by
+the dental service. His preoperative course was otherwise
+uneventful. Given his hospital stay was greater than 24 hours
+prior to surgery, Vancomycin was used for perioperative
+coverage.
+
+On [**11-24**], Dr. [**Last Name (STitle) **] performed an aortic valve
+replacement and coronary artery bypass grafting surgery. For
+surgical details, please see separate dictated operative note.
+Following the operation, he was brought to the CVICU for
+invasive monitoring. Within 24 hours, he awoke neurologically
+intact and was extubated without incident. His CVICU course was
+uneventful and he transferred to the step down floor on
+postoperative day two. Chest tubes and pacing wires were
+discontinued without complication.  The patient made excellent
+progress with physical therapy, showing good strength and
+balance prior to discharge.  He did require meclizine for
+vertigo, which was diagnosed pre-operatively.  The patient
+required supplemental oxygen throughout his post-operative
+course. A blood gas was drawn on room air on [**11-29**] and
+reavealed a PO2 of 49. He was diuresed aggressively and treated
+with inhalers and his oxygenation improved with room air
+saturations above 90% with ambulation.  There was a right upper
+lobe nodule found on CXR and he had a chest CT which revealed
+bullous emphysema and a right upper lobe pleural based mass
+which could represent scarring, inflamation, or neoplasm.  He
+was evaluated by Dr. [**Last Name (STitle) 31544**] from thoracic surgery and will
+follow up with him.  He should obtain a PET CT and head CT prior
+to that visit.  He was discharged to home in stable condition on
+POD#7.
+
+Medications on Admission:
+Aspirin 81 qd, Zocor 20 qd, Metoprolol 150 [**Hospital1 **], Cartia 120 qd,
+Zestril 5 qd, Tikosyn 0.5 [**Hospital1 **], Celebrex 200 qd, Protonix 40 qd
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Dofetilide 250 mcg Capsule Sig: One (1) Capsule PO Q12H
+(every 12 hours).
+Disp:*60 Capsule(s)* Refills:*0*
+4. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+5. Meclizine 12.5 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day) as needed for vertigo symptoms.
+Disp:*90 Tablet(s)* Refills:*0*
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+7. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+9. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation every six (6) hours.
+Disp:*1 vial* Refills:*2*
+10. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+Disp:*1 vial* Refills:*2*
+11. Potassium Chloride 20 mEq Packet Sig: One (1)  PO BID (2
+times a day) for 10 days.
+Disp:*20 tabs* Refills:*0*
+12. Lasix 20 mg Tablet Sig: One (1) Tablet PO three times a day
+for 10 days.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 777**] Hospice and VNA
+
+Discharge Diagnosis:
+aortic stenosis
+emphysema
+paroxysmal atrial fibrillation
+hypertension
+hyperlipidemia
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+
+
+Followup Instructions:
+1) Dr. [**Last Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 181**]) please call for
+appointment
+2) Dr. [**Last Name (STitle) **],[**First Name3 (LF) **] N [**Telephone/Fax (1) 18918**]  in 1 week () please call
+for appointment *follow up with Dr. [**Last Name (STitle) 15975**] re: right apical
+nodule on cxr [**11-27**]*
+3) Dr. [**Last Name (STitle) 1303**] in [**2-5**] weeks please call for appointment
+4) Wound check appointment [**Hospital Ward Name **] 2 as instructed by nurse
+([**Telephone/Fax (1) 3833**])
+5)Make an appointment with Dr. [**Last Name (STitle) 31544**] for 4 weeks.  Obtain
+PET CT and head CT prior to visit.
+
+
+
+Completed by:[**3341-12-1**]
+
+DOC CLASS

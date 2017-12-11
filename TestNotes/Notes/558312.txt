@@ -1,0 +1,281 @@
+Chief Complaint:  DKA, pneumonia
+   HPI:
+   47 year old male with h/o IDDM found unresponsive on day of admission
+   by his father. [**Name (NI) **] EMS, the patient had a question of blown R pupil,
+   Kussmaul respirations and no purposeful movement. He was intubated in
+   field and transferred to [**Hospital3 595**]. On arrival he was
+   hypotensive with no purposeful movements. He was given narcan 6mgIV
+   with no response. CT head was negative per OSH and labs were
+   significant for WBC 50.2 with 28% bands, glucose 1259 with AG 35, K
+   7.2. On ABG 6.88/23/94/4.3/89% and lactate 2.6.
+   CXR was consistant with multifocal pna and question of aspiration. He
+   received zosyn, unasyn, 4L IV NS, 1amp Ca gluconate, 1amp HCO3. Given
+   no intensivist available at [**Location (un) **] ED she was Transfered [**Hospital1 52**] by
+   [**Location (un) **].
+   On arrival to ED, patient was hypotensive (83/45, hr 80s), received 4L
+   IV NS, IV vancomycin and zosyn were started. Insulin drip at 8U/hr was
+   initiated and FS 780 reported prior to ICU transfer. Levophed drip was
+   initiated at 0.15/hr with vitals prior to transfer [**Location (un) 289**] at BP 90/47
+   HR92. Vent was set to PS [**10-25**] FIO2 of 100, with saturations to 97%.
+   According to family (ex-wife provided history), he has had recurrent
+   episodes of hyperglycemia (to the 500s) at home. Last week he was taken
+   to [**Hospital3 595**] (by ambulance) for hyperglycemia where he was
+   admitted for several days. Prior to this he had teeth pulled and was
+   given pain medications but not antibiotics. He also recently had a fall
+   and was taken to OSH for stitches to his head. He is known to have
+   peripheral neuropathy and takes several types of pain medications,
+   including a duragesic patch. Otherwise he has not had any other medical
+   issues or symptoms to her knowledge.
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Sedated, Unresponsive
+   PCP: [**Last Name (NamePattern4) **]. [**Last Name (STitle) 7070**] at [**Hospital3 7071**]Hospital
+   Pharmacy: Target in [**Location (un) 7072**] ([**Telephone/Fax (1) 7073**]) or Target in [**Location (un) 1899**]
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2764-1-11**] 03:30 AM
+   Infusions:
+   Insulin - Regular - 16 units/hour
+   Phenylephrine - 0.2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   -IDDM
+   -Medullary sponge kidney
+   -Nephrolithiasis
+   -neuropathy
+   -chronic back pain
+   M: Leukemia, currently undergoing chemotherapy
+   F: CAD, HTN
+   Occupation:
+   Drugs: denies
+   Tobacco: Tob 1/2ppd
+   Alcohol: denies
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**2764-1-11**] 04:53 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 34.2
+C (93.5
+   Tcurrent: 34.2
+C (93.5
+   HR: 95 (95 - 103) bpm
+   BP: 94/54(63) {89/45(55) - 95/54(63)} mmHg
+   RR: 32 (22 - 32) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             2,594 mL
+   PO:
+             TF:
+   IVF:
+   2,594 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     70 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  2,524 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 500) mL
+   RR (Set): 32
+   RR (Spontaneous): 0
+   PEEP: 16 cmH2O
+   FiO2: 100%
+   PIP: 40 cmH2O
+   Plateau: 32 cmH2O
+   Compliance: 22.5 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.07/40/57//-18
+   Ve: 14.8 L/min
+   PaO2 / FiO2: 57
+   Physical Examination
+   T: 93.7 BP: 86/45 HR:97 RR:20 O2 93% on AC
+   GEN:intubated, sedated, unresponsive
+   HEENT:NCAT MMM anicteric, pupils reactive to light, 2mm anisocoria,
+   pink conjunctiva, ET tube in place could not visualize OP
+   Lymph:no LAD
+   JVP:not appreciated
+   CV: RRR S1S2 no mrg
+   PULM: coarse breath sounds bilaterally with good air movement, no
+   wheezes, rales,
+   ABD:soft nontender nondistended +BS
+   EXT: cool but 2+ capillary reflex, 1+pitting edema on upper and lower
+   extremities (mainly hands, feet), excoriations and abrasions noted on
+   bilateral shins and L thigh
+   PULSES: thready radial and DP pulses b/l
+   NEURO: sedated, not responding to voice or tactile stimulus; twitchy,
+   shaking movements on occasion in lower extremities
+   Labs / Radiology
+   30
+        [image002.jpg]
+                                  [**2761-1-16**]
+                         2:33 A12/27/[**2763**]  02:15 AM
+                                  [**2761-1-20**]
+                                   10:20 P
+                                  [**2761-1-21**]
+                                   1:20 P
+                                  [**2761-1-22**]
+                                   11:50 P
+                                  [**2761-1-23**]
+                                   1:20 A
+                                  [**2761-1-24**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2761-2-16**]
+                                   1:20 P
+                                  [**2761-2-16**]
+                                   11:20 P
+                                  [**2761-2-16**]
+                                   4:20 P
+   WBC
+                                    37.4
+   Hct
+                                     30
+   Plt
+                                     577
+   TC02
+                                     12
+   Other labs: Lactic Acid:1.1 mmol/L
+                                     pH
+                                    7.07
+                                    pCO2
+                                     40
+                                     pO2
+                                     57
+                                    HCO3
+                                     12
+                                   BaseXS
+                                     -18
+                                     pH
+                                    7.01
+                                    pCO2
+                                     44
+                                     pO2
+                                     141
+                                    HCO3
+                                     12
+                                   BaseXS
+                                     -20
+   Assessment and Plan
+   This is a 43 year old man with history of IDDM found unresponsive at
+   home with hyperglycemia and metabolic acidosis.
+   .
+   # Altered mental status: Toxic-metabolic vs. infectious vs. ingestion
+   (? toxicology at OSH). CT head at OSH negative for acute process,
+   although there is concern for significant brain injury given report of
+   unilateral dilated pupil. Would consult neurology to determine if
+   further imaging is necessary to rule out acute process such as storke,
+   new-onset seizure and infection (meningitis, encephalitis). Cardiac
+   etiology is also possible in a patient with long-standing diabetes.
+   Lastly, CXR shows bilateral pulmonary infiltrates, concerning for
+   pneumonia, the most likely nidus of infection on admission. Intubated
+   at OSH for unresponsiveness.
+   - corrent metabolic acidosis and hyperglycemia as below
+   - blood culture, UA and urine culture, sputum culture
+   - neurology consult re: need for MRI, EEG
+   - repeat CT or f/u final read from OSH
+   - EKG and cycle cardiac enzymes
+   - continue PS overnight and monitor ABGs post-changes to vent settings
+   .
+   # Sepsis: In setting of DKA concern for infectious etiology to his
+   uresponsive episode. On CXR pulmonary infiltrates could represent
+   pneumonia, aspiration vs CAP vs atypical. Hemodynamically he continues
+   to require pressors (levophed) with minimal UOP (450cc total at OSH)
+   and was admitted to ICU with hypothermia.
+   -continue pressors with goal MAP>65
+   -IV NS
+   -sputum cx and blood cx
+   -repeat CXR
+   -continue broad spectrum antibiotics
+   -maintain UOP>30cc/hr
+   .
+   # Hyperglycemia: DKA vs. Hyperosmolar Hyperglycemic State. Possible
+   non-compliance with medications vs. underlying infection, especially in
+   setting of CXR findings. Patient has history of ICU admission for
+   similar presentation one year ago. It is possible pneumonia is source
+   of infection, leading to metabolic decompensation and unresponsive
+   presentation.
+   -insulin gtt
+   -q1h fingerstick check
+   -replete K slowly
+   -UA, urine lytes and osm
+   -IV hydration with bicarb, switch to D5W once glucose <200
+   -monitor electrolytes q4h
+   -pan-cultures as above
+   .
+   # AG Metabolic acidosis: In setting of hyperglycemia most likely due to
+   DKA. Also with some component of rhabdomyolysis (patient found down,
+   unclear for how long). Although less likely, given patient was found
+   down also consider ingestion.
+   - IV NS plus bicarb for now, switch to D5W once glucose <200
+   - trend electrolytes q4h, follow AG for resolution
+   - serum/urine tox if not done at OSH
+   - follow lactate, CK
+   .
+   # Multifocal pneumonia: Possible aspiration pneumonia/pneumonitis in
+   setting of unresponsive period, also consider community-acquired
+   pneumonia vs influenza. Also, given the similar appearance of CXR from
+   this and last admission, opacity on film could be pulmonary edema.
+   -repeat CXR
+   -sputum culture
+   -blood culture
+   -continue IV vanco, zosyn for broad spectrum coverage
+   .
+   # Acute renal failure: baseline cr 0.7, now 2.7. Likely pre-renal in
+   setting of dehydration secondary to DKA.
+   -monitor UOP
+   -IVF hydration
+   -renally dose medications
+   -follow BUN, Cr
+   .
+   # Leukocytosis: ? due to rescusitative efforts vs infectious process
+   -pan culture
+   -IV vanco and zosyn for
+   -follow CBC
+   .
+   # FEN: NPO; monitor and replete electrolytes q4 prn; IVF as above.
+   .
+   # PPx: pneumoboots for now; PPI
+   .
+   # ACCESS: RIJ, 2 PIV
+   .
+   # CODE: Full, confirmed with HCP (ex-wife, info below)
+   .
+   # COMM: [**First Name4 (NamePattern1) **] [**Known patient lastname 7065**] (ex-wife) [**Telephone/Fax (1) 7068**] (h), [**Telephone/Fax (1) 7069**] (c)
+   .
+   # DISP: ICU care
+ HYPERGLYCEMIA
+ HYPOTENSION (NOT SHOCK)
+ PNEUMONIA, OTHER
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2764-1-11**] 02:00 AM
+   18 Gauge - [**2764-1-11**] 02:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

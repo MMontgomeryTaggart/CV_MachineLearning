@@ -1,0 +1,298 @@
+Chief Complaint:  CC: diarrhea, delirium
+   MICU admission: hypotension, concern for sepsis
+   HPI:
+   86yoM ischemic CMA, EF 17%, prior STEMI, PVD, p/w worsening fatigue and
+   diarrhea.  Family notes worsened malaise, fatigue, diarrhea, over past
+   week, also with loose, non-bloody stools over past 3 days, then with
+   decreased PO intake.  Wife has noticed more sundowning at night-time,
+   worse than normal.  Of note, recently started digoxin and diuresed with
+   diuril from wt of 160lbs to current wt ~140lbs.  Outpt EKG showed +lat
+   lead scooping on [**9-29**].
+      In [**Hospital1 52**] ED, 95/50, 95%ra, hr 70, lungs ctab, guaiac (-), otherwise
+   benign exam.  EKG showed lateral lead scooping, given asa 325,
+   lidocaine Jelly 2% (Urojet) 5mL Urojet.  Patient dropped SBP to 70s,
+   given 3 250cc boluses, with appropriate bump to 90s, asympt.  Concern
+   for digoxin toxicity, digibind given, but then stopped after dig level
+   returned at 1 - only half vial administered.  Toxicology consulted.
+   CXR showed trace bil effusions, +streaky atelectasis in RLL, final read
+   ?pna --> given levaquin and ctx for CAP.  Cardiology consulted: recs
+   for careful fluid resuscitation.  2 large bore pIVs.  Admitted to MICU
+   for concern for evolving pneumo-sepsis.
+   Allergies:
+   Vasotec (Oral) (Enalapril Maleate)
+   Cough;
+   Niacin
+   Facial erythema
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2640-10-5**] 10:00 PM
+   Levofloxacin - [**2640-10-5**] 10:09 PM
+   Infusions: none
+   Other ICU medications:
+   Other outpt meds:
+   1.  lasix 20mg [**Hospital1 **] OR diuril as outpt
+   2.  digoxin ?dose
+ 125mcg
+   3.  metoprolol ?12.5mg XL
+   4.  amiodarone ?200mg qd
+   5.  prilosec OTC 20mg qd
+   6.  docusate 100mg qd
+   7.  zolpidem 5mg qhs prn
+   8.  aspirin 81 mg PO qd
+   9.  torsemide 20mg [**Hospital1 **]?
+   no coumadin for past 6m per wife
+   Past medical history:
+   Family history:
+   Social History:
+   1.  colon ca - last c-scope [**2635**] w/ polyp
+   2.  atrial fibrillation - ?3yrs
+   3.  basal cell carcinoma
+   4.  MVR [**11/2637**] - (#29 Perimount Thermafix pericardial valve).
+   5.  htn
+   6.  gout
+   7.  PVD
+   8.  mild aortic stenosis
+   9.  dvt hx - IVF filter placed [**2636**]
+   10. hypercholesterolemia
+   11. spinal stenosis
+   12. familial hand tremor
+   13. hernia repair, R-side inguinal
+   14. cataract repair, last [**2639-6-12**]
+   15. nephrolithiasis
+   16. ckd - unsure of etiology
+   Father had heart attack at age 60. "Four generations" of
+   "tremors," mother had "head shake." Has two sons, one of which is
+   affected by  the hand tremors.  Denies history of CA, diabetes in
+   family.
+   Occupation:
+   Drugs: (-)
+   Tobacco: past
+   Alcohol: occassional
+   Other: former orthodontist, +tobacco - smoked until early 40s at 1-1.5
+   packs/day since age 22. Denies smoking since.  Denies ethanol. Lives
+   with in [**Location (un) 321**].
+   Review of systems:
+   Flowsheet Data as of [**2640-10-5**] 11:10 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.6
+   Tcurrent: 35.9
+C (96.6
+   HR: 62 (62 - 77) bpm
+   BP: 83/50(58) {83/50(58) - 98/57(64)} mmHg
+   RR: 26 (20 - 34) insp/min
+   SpO2: 100%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Wgt (current): 66.5 kg (admission): 66.5 kg
+   Height: 66 Inch
+             Total In:
+             1,011 mL
+   PO:
+             TF:
+   IVF:
+   211 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    300 mL
+   Urine:
+   300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    711 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   95/60, hr 65, 99%2l, afebrile
+   General Appearance: No(t) Well nourished, No acute distress, No(t)
+   Overweight / Obese, Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: no conjunctival injection
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (PMI No(t) Normal, Hyperdynamic), (S2: Distant), No(t)
+   Rub, laterally displaced pmi, 2cm L lateral of midclavicular line 5th
+   intercostal space
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   lower bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 4+, Left: 4+
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   278
+   128
+   4.6
+   98
+   34
+   91
+   4.2
+   139
+   34 (mcv
+   6.6
+        [image002.jpg]
+                                  [**2637-11-20**]
+                         2:33 A11/17/[**2639**]  09:00 PM
+                                  [**2637-11-24**]
+                                   10:20 P
+                                  [**2637-11-25**]
+                                   1:20 P
+                                  [**2637-11-26**]
+                                   11:50 P
+                                  [**2637-11-27**]
+                                   1:20 A
+                                  [**2637-11-28**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2637-12-21**]
+                                   1:20 P
+                                  [**2637-12-21**]
+                                   11:20 P
+                                  [**2637-12-21**]
+                                   4:20 P
+   TropT
+                                    0.21
+   Other labs: CK / CKMB / Troponin-T://0.21
+   Fluid analysis / Other labs: trop-t 0.22 --> 0.21, ck 83
+   ua (-), sg 1.008
+   lactate 2.1, 2.0
+   na 139, k 4.2, cl 91, hco3 34, bun 98, cr 4.6 (2-3.3), gluc 128, ag 12
+   ca 9.6, mg 3.3, p 5.5
+   tb 1.6, alt 13, ast 28
+   dig 1.0
+   pBNP [**Numeric Identifier 6424**]
+   wbc 6.6 (4.5 eos), hgb 10.4, hct 34, plat 278
+   inr 1.6 (1.4 - 2), pt 17, ptt 31.6
+   Imaging: ECHO [**2-25**]:
+   The left atrium is moderately dilated. A possible thrombus is seen in
+   the body of the left atrium (acoustic artifact from the prosthetic
+   mitral annulus may be causing this finding; best excluded by
+   transesophageal echocardiography). The right atrium is moderately
+   dilated. There is mild symmetric left ventricular hypertrophy. The left
+   ventricular cavity is moderately dilated. Overall left ventricular
+   systolic function is severely depressed (LVEF= 20 %) secondary to
+   akinesis of the inferior and posterior walls, and hypokinesis of the
+   rest of the left ventricle. Tissue Doppler imaging suggests an
+   increased left ventricular filling pressure (PCWP>18mmHg). There is no
+   ventricular septal defect. The right ventricular cavity is mildly
+   dilated with depressed free wall contractility. The ascending aorta is
+   mildly dilated. There are three aortic valve leaflets. The aortic valve
+   leaflets are moderately thickened. There is mild aortic valve stenosis
+   (area 1.2-1.9cm2). Mild (1+) aortic regurgitation is seen. A
+   bioprosthetic mitral valve prosthesis is present. The mitral prosthesis
+   appears well seated, with normal leaflet/disc motion and transvalvular
+   gradients. Trivial mitral regurgitation is seen. The tricuspid valve
+   leaflets are mildly thickened. Severe [4+] tricuspid regurgitation is
+   seen. There is borderline pulmonary artery systolic hypertension. There
+   is no pericardial effusion.
+   Compared with the findings of the prior report (images unavailable for
+   review) of [**2637-10-26**], the mitral valve has been replaced; the
+   left ventricular ejection fraction is markedly reduced; severe
+   tricuspid regurgitation is now present. Cannot exclude left atrial
+   thrombus/mass.
+   CARDIAC CATH performed on [**1-22**]:
+   1. 3vd with patent stents in LAD and LCX
+   2. Moderate-Severe MR
+   3. Moderate AI
+   4. Elevation of left sided filling pressures
+   PMIBI [**5-25**]:
+   IMPRESSION: 1. No reversible perfusion defects. 2. Fixed inferior wall
+   defect.  3. Markedly dilated left ventricle. 4. Diffuse hypokinesis. 5.
+   EF 17%.
+   Microbiology: Urine cx P
+   Blood cx P
+   ECG: irregular, nl axis, twi lateral leads, bl RBBB (unchanged from
+   prior), ?dig effect
+   Assessment and Plan
+   86yoM ischemic CMA, EF 17%, prior STEMI, PVD, p/w worsening fatigue and
+   diarrhea, admitted to MICU for concern for developing sepsis, likely
+   pulmonary infection.
+   # shock/infection/sepsis: <1 of 4 SIRS criteria met, as no
+   leukocytosis, no fever, no bandemia, no tachypnea, no tachycardia (but
+   on digoxin), but hemodynamic instability with  ?e/o infection on cxr,
+   concern for developing sepsis presention.  Lactate elevated at 2.
+   Given cold extremities, more likely cardiogenic shock.
+   - gentle IVF boluses to maintain MAPs>55, UOP >30cc/hr
+   - transfuse hct >27
+   - trend lactate, ag (presented with ag 12)
+   - continue levofloxacin and ceftriaxone for CAP, D#1 [**10-5**]
+   - f/u blood, urine, sputum cxs, urine legionella
+   - trend WBC, fever curve
+   - TTE am
+   # cardiovascular/pump: signficant LF dysfunction with EF 17%, likely
+   with hemodynamic decompensation from diuresis as outpt, with
+   significant loss in wt ~20lbs.
+   - TTE AM
+   - hold digoxin/diuretics given AR
+   - cycle CEs (not likely ACS, moderate TIMI risk score)
+   - cont asa 81(CKs flat)
+   - hold htn meds, beta blocker, amiodorone
+   - check TSH given amio use and relative hypotension and fatigue
+   # arf/metabolic alkalosis - baseline cr ~2-2.5, now with rise to 4.6,
+   with low bp, dry exam, low chloride, low EF, decreased PO intake,
+   likely pre-renal physiology.  Alkalosis likely [**12-21**] to pre-renal with
+   hco3 retention from over-diuresis or from fluid loss from diarrhea over
+   past 3 days (although with arf may suspect more acidosis).  Given
+   eosinophils, normocytic anemia, and alkalosis, consideration for
+   adrenal insufficiency.
+   - foley, trend UOP
+   - renally dose meds
+   - add-on urine lytes, calculate FeNa/Feurea
+   - urine chloride to assess metabolic alkalosis (if cl can be added on
+   prior to NS)
+   - renal consult in AM
+   - fecal smear r/o GI infection (no abx to suggest Cdiff risk)
+   - random cortisol
+ if nl, hold on stress dose steroids (did take
+   medrol dose pak in [**5-26**] for
+pemphigus
+   # hyperbilirubinemia - tbili 1.6, no transaminitis or cholangitic lab
+   panel, hct stable, no signs of hemolysis
+   - fractionate bili with direct
+   - t/s
+   - if indirect bili elevated, will send hemolysis labs
+   # heme/coagulopathy - has had >1yr of elevated INR without reported
+   intake of coumadin (despite hx of afib), other transaminases nl with no
+   hx of liver disease.
+   - add-on albumin to assess liver synthetic function
+   - still at risk for dvt given h/o DVT, hep sq
+   # lower extremity edema
+ per hx, pt has been extensively diuresed, yet
+   per wife, LE edema has persisted.  Query malfunction of IVC filter.
+   - will follow
+   - dvt prophylaxis with hep sq
+   # fEN: overall
+ likely cardiac cachexia with marked decreased PO
+   intake, will need nutrition consult on floor.  NPO for now after MN,
+   just to assess how pt clinically declares himself, keep mg>2, k>4.
+   # access: 2pIVs
+   # PPx: hep sq, ppi
+   # code: full code, reviewed with HCP and patient
+   # dispo: icu until stable
+   ICU Care
+   Nutrition:  npo until am
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   16 Gauge - [**2640-10-5**] 10:05 PM
+   20 Gauge - [**2640-10-5**] 10:06 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP: HOB elevation
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: icu until am
+
+
+DOC CLASS

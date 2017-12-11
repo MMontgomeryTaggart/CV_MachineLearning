@@ -1,0 +1,382 @@
+Admission Date:  [**2708-12-20**]              Discharge Date:   [**2708-12-31**]
+
+Date of Birth:  [**2641-3-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin Flush
+
+Attending:[**First Name3 (LF) 3156**]
+Chief Complaint:
+Hypotension found at rehab
+
+Major Surgical or Invasive Procedure:
+Right Internal Jugular central line was placed
+
+History of Present Illness:
+67 yo male with CAD s/p CABG, CHF EF 20%, HTN, DM2, h/o UTI, h/o
+CoNS bacteremia, most recently admitted for ischemic bowel s/p
+small bowel resection and anastomosis, now admitted for
+hypotension and low grade temps. Patient had been at [**Hospital1 1121**] doing fairly well, when this AM his vitals were checked
+and his SBPs were in the 70s. Patient tends to run in the high
+90s/low 100s. He was given a 250 cc bolus, with improvement to
+the 80s, and then transferred to [**Hospital1 4**] ED for further
+evaluation.
+.
+In the ED, initial VS: 100.4, 64, 93/58, 15, 99%2L. He had an
+initial CXR which was not too remarkable, but given his
+persistent abdominal pain and his recent surgery, patient had a
+CT torso which revealed RLL atelectasis, but no acute pathology
+in the abdomen/pelvis. He was given vancomycin/zosyn to cover
+for HAP as well as any abdominal pathology. UA was negative.
+LFTs were WNL. Patient was given 1.5L IVFs in the ED, and given
+his significant anemia, he was ordered for 2 units pRBCS which
+were not given until after transfer. While he was in the ED, he
+was again hypotensive to the low 80s, therefore a RIJ was
+placed, and the patient was started on levophed to maintain
+MAPs. Surgery was consulted in the ED, felt there was no acute
+surgical issue. An ECG showed no acute ischemic changes, trop
+was 0.03 and he was given ASA PR. He was then transferred to the
+MICU for further evaluation. His vitals prior to transfer were
+63, 93/50, 15, 100%2L.
+
+
+Past Medical History:
+CAD s/p CABGx3 [**2698**]
+- h/o VF arrest [**6-2**] s/p ICD placement; required explantation
+for MRSA pocket infection with reimplantation [**10-3**], s/p lead
+removal [**3-5**]
+- mechanical [**Last Name (LF) **], [**First Name3 (LF) **]. [**Male First Name (un) 5219**], [**2698**]
+- ascending aorta repair c graft [**3-/2699**]
+- CHF (EF 20% per TTE [**2708-7-22**])
+- high grade CoNS bacteremia in [**1-5**] c/b high grade CoNS, VRE
+bactermia while on vancomycin [**2-2**], s/p 4 weeks daptomycin and
+explantation of ICD leads
+- pseudomonas UTI [**5-5**] s/p cefepime x 14 days, now pseudomonas
+UTI [**7-5**] s/p meropenem x 14 days
+- R lateral foot ulcer s/p debridement s/p zosyn x 14 days
+- DM2 c/b neuropathy
+- Hep C (dx [**3-5**], 2.38 million IU/ml. Seen by Hepatology, [**2708-7-2**]
+note emphasizes deferring IFN/ribavirin tx for now given
+infections, etc.)
+- HTN
+- HLP
+- PVD s/p L BKA [**6-29**]
+- hypothyroidism
+- h/o opiate dependence, ?benzo dependence
+- acute on chronic SDH, [**8-2**]
+- h/o R scapula fx
+- h/o MRSA elbow bursitis, [**4-3**]
+- h/o closed bimalleolar fx s/p repair, removal of hardware [**5-29**]
+
+Social History:
+Lives in [**Location (un) **], though has been in rehab for much of the
+past few months. Former cab driver. Social history is
+significant for the current tobacco use of 40 pack years. There
+is no history of alcohol abuse or recreational drug use. Lives
+with common-law wife of 35 years who is a home health aid.
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Vs: T: 96.7 HR: 87  BP: 108/55 RR: 16 02 sats: 94% RA
+GEN: Caucasian male in NAD
+HEENT: Moist mucus membranes, anicteric
+NECK: JVP
+CV:: S1, S2 2/6 SEM,  mechanical S2, regular rhythm
+RESP: bibasilar crackles
+ABD: +bs, soft, NT, obese
+Ext: L BKA, R c with chronic venous stasis2+ edema to knees.
+
+Pertinent Results:
+ECHO:
+The left atrium is moderately dilated. The estimated right
+atrial pressure is 0-5 mmHg. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is
+moderately dilated with moderate to severe global hypokinesis
+(LVEF = 25 %). Tissue Doppler imaging suggests an increased left
+ventricular filling pressure (PCWP>18mmHg). Right ventricular
+chamber size and free wall motion are normal. The ascending
+aorta is mildly dilated. A bileaflet aortic valve prosthesis is
+present. The aortic valve prosthesis appears well seated, with
+normal leaflet/disc motion and transvalvular gradients. Trace
+aortic regurgitation is seen. [The amount of regurgitation
+present is normal for this prosthetic aortic valve.] The mitral
+valve leaflets are structurally normal. Moderate (2+) mitral
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2708-11-30**], the
+left ventricular cavity is slightly smaller and global LVEF is
+slightly improved. Moderate pulmonary artery systolic
+hypertension is now identified. Increased PCWP.
+
+CLINICAL IMPLICATIONS:
+
+CXR [**12-20**]:
+
+Comparison is made to the prior study from [**2708-12-20**] at 8:25
+hours. There is no change in the appearance of the chest. There
+is continued bibasilar
+atelectasis, elevation of the right hemidiaphragm, small right
+pleural
+effusion. New right IJ catheter terminates in superior vena
+cava. Right PICC is unchanged. The patient is status post
+sternotomy.
+
+CT ABDOMEN: [**12-20**]
+IMPRESSION:
+1. Fluid obstructing the right lower lobe bronchus, resulting in
+lobar
+atelectasis of the right lower lobe. This may be related to
+aspiration.
+2. Moderate right pleural effusion and small left pleural
+effusion.
+3. Patent small bowel anastomosis, without obstruction, fluid
+collection, or
+other abnormality.
+4. Cholelithiasis without cholecystitis.
+5. No evidence of new mesenteric ischemia.
+6. Diverticulosis without diverticulitis.
+7. Extensive atherosclerotic disease
+
+
+Brief Hospital Course:
+67M with CAD s/p CABG, systolic CHF EF 20%, mechanical [**Month/Year (2) **] for
+aortic insufficiency, s/p bental/chabral/AAA repair,  DM2, HTN,
+h/o UTI, h/o CoNS bacteremia, recently admitted for ischemic
+bowel s/p small bowel resection and primary anastomosis admitted
+with hypotension and low grade temps.
+.
+# SIRS/Sepsis: He was noted to have low grade temperature,
+hypotension with white count of 4. In the ED a central line was
+placed and sepsis protocal initiated.
+The source of infection was not immediately clear - UA negative,
+CXR wtih RLL atelectasis vs. aspiration, CT abdomen without
+definite pathology, C. diff negative, and no thrombus on echo.
+He was started on Levophed, received 2U prbcs and pancultured.
+He was started on broad coverage antibiotics including
+vancomycin and zosyn for possible aspiration pneumonia and/or
+abdominal source and admitted to the MICU.  He did well in the
+MICU; was quickly weaned off of pressors and subsequently
+required diuresis on the floor. He had a TTE which did not show
+evidence of endocarditis. He also received daily EKG's to
+evaluate for possible PR prolongation which could indicate
+endocarditis. He completed a 10 day course of zosyn and
+vancomycin.
+.
+# Chronic Systolic CHF (EF 20%). The diuretics, carvedilol, and
+ACE-I were held on admission in the setting of hypotension. An
+echo was done that showeed no change in global systolic function
+compared to prior. His hospital course was complicated by flash
+pulmonary edema in the setting of HTN during a bowel movement
+requiring intubation. He was extubated the following day. He
+received diuresis initially with lasix drip and then
+subsequently was started on torsemide PO and spironolactone to
+goal net negative fluid balance of 0.5-1L per day. He was still
+felt to be volume overloaded at discharge so plan to continue
+diuresis to net negative 500-1000cc/day with fliud restriction
+of 1.5L/day.
+.
+#Heparin induced thrombocytopenia: Per Dr. [**First Name8 (NamePattern2) 388**] [**Last Name (NamePattern1) 21433**], at
+[**Hospital 10557**] Rehab, patient has positive HIT antibody test (unclear
+optical density). We re-sent heparin dependent antibodies, which
+were negative, although after discussion with the blood bank
+there was still concern for re-introducting the patient to
+heparin. An adverse reaction was added to the patient's
+electronic chart pending the completion of these studies.
+Patient should not be given heparin, including heparin flushes,
+until these tests return.
+.
+# Anemia: patient had initial Hct drop to 22 in setting of
+supratherapeutic INR; received transfusion of 2 U prbcs and
+bumped appropriately. He was Guaiac negative in ED. CT without
+any evidence of acute bleed. DIC and hemolysis labs did not show
+any abnormalities.   Coumadin was held and no FFP given because
+patients mechanical valve. Coumadin was reinitiated to maintain
+his INR in the therapeutic range, his INR was monitored and he
+had no further evidence of bleeding.
+.
+# Mechical [**Hospital **]: patient on warfarin; INR goal 2.5-3.5.He Arrived
+with supratherapeutic INR so warfarin held. His warfarin was
+subseqeuntly restarted at home dose with therapeutic INR
+maintained between 2-2.5.
+.
+# Abdominal Pain: patient has chronic abd pain since surgery;
+had ischemic bowel and is s/p anastamosis. CT torso without any
+acute pathology noted. LFTs are WNL. patient reports that
+current pain is consistent with pain he has been having since
+discharge. Surgery was aware and saw patient without any new
+recommendations made. C.diff was negative.
+.
+# HTN: During his hospitalization he was hypertensive to the
+170s, experiencing flash pulmonary edema with subsequent
+transfer to the ICU. He has at this point had several episodes
+of flash pulmonary edema raising the question of why his HTN is
+difficult to control, and why he flashes so easily. Renal artery
+stenosis is a possible etiology of hypertension in the setting
+of repeated flash pulmonary edema, however patient had aortogram
+in [**2699**] which showed patent renal arteries. Repeat imaging may
+be considered as an outpatient. He became hypotensive in the
+setting of diuresis in the ICU and his antihypertensives were
+initially held, and restarted judiciously, and he remained
+normotensive.
+.
+#DIABETES: Blood sugar control was maintained on an insulin
+sliding scale with glargine for basal coverage and humalog based
+on finger-sticks three times a day.
+.
+
+
+Medications on Admission:
+Acetaminophen 325-650 mg Q6H PRN
+Albuterol nebs Q6H PRN
+Amiodarone 200 mg daily
+Amitryptiline 10 mg QHS
+Atorvastatin 40 mg QHS
+Captopril 12.5 mg TID
+Carvedilol 12.5 mg [**Hospital1 **]
+Fondaparniux 7.5 mg SQ daily
+Colace 100 mg TID
+Gabapentin 400 mg TID
+Lantus 50 units QHS
+Humalog ISS
+Atrovent nebs q6H PRN
+Keppra 500 mg QHS
+Ativan 0.5-1mg Q6-8H PRN Anxiety
+Metolazone 5 mg [**Hospital1 **]
+Zofran 4 mg Q8H PRN
+Oxycodone 5-10 mg Q6H PRN
+Pantoprazole 40 mg daily
+Senna 1 tab [**Hospital1 **] PRN
+Spironolactone 25 mg daily
+Torsemide 30 mg [**Hospital1 **]
+Warfarin 2.5 mg daily
+MVI daily
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain/fever.
+2. Ipratropium Bromide 0.02 % Solution Sig: One (1) inhalation
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+3. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) inhalation Inhalation Q6H (every 6
+hours) as needed for wheezing.
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Amitriptyline 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+6. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+7. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO QHS (once
+a day (at bedtime)).
+8. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+9. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed for cough.
+10. Torsemide 20 mg Tablet Sig: Three (3) Tablet PO BID (2 times
+a day).
+11. Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+12. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+14. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+15. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day:
+would increase dosage if hypertensive.
+16. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+17. Outpatient Lab Work
+INR check twice weekly for goal INR of [**12-29**].5
+18. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)
+Sublingual 1 tablet every 5 minutes, up to 3, if pain persists
+call 911 as needed for chest pain.
+19. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+20. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO twice a day.
+21. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+22. Insulin Glargine 100 unit/mL Solution Sig: Sixty Five (65)
+units Subcutaneous once a day: 8PM.
+23. Insulin Lispro 100 unit/mL Solution Sig: use before meals to
+prevent elvated blood sugar three times a day  Subcutaneous once
+a day.
+24. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO three
+times a day.
+25. Outpatient Lab Work
+Chem-10 at least three times a week
+26. Mepilex AG 6 X 6   Bandage Sig: One (1)  Topical every
+seventy-two (72) hours: to abdominal wound with gauze dressing.
+
+27. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for anxiety.
+28. Miralax 17 gram Powder in Packet Sig: One (1)  PO once a day
+as needed for constipation.
+29. fluid restric to <1.5L /day
+30. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day): hold if >3 bowel movements per day .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 372**] & Rehab Center - [**Hospital1 373**]
+
+Discharge Diagnosis:
+PRIMARY
+Presumed Pneumonia
+Pulmonary edema
+.
+SECONDARY
+Acute Congestive Heart Failure Exacerbation
+
+
+Discharge Condition:
+non ambulatory (below the knee amputation on left)
+mental status (alert and oriented to person place and time)
+
+
+Discharge Instructions:
+You were admitted to the hospital because you were having
+difficulty breathing. Your CXR here suggested a pneumonia and
+you were treated with antibiotics. While you were here you
+became very hypertensive and experienced flash pulmonary edema.
+You went to the intensive care unit. You received diuretics to
+remove the extra fluid and you were transferred back to the
+regular floor. There you were started on oral diuretics for a
+goal negative fluid balance.
+.
+The following changes were made to your medications.
+1. INCREASE TORSEMIDE to 60mg by mouth twice a day
+2. INCREASE SPRINOLACTONE to 25mg by mouth once a day
+3. INCREASE METOPROLOL SUCCINATE to 25mg by mouth once a day
+4. START TAKING LISINOPRIL 5mg by mouth once a day
+5. STOP TAKING CAPTOPRIL
+6. START TAKING AMITRIPYLINE by mouth for peripheral neuropathy
+7. TAKE YOUR STOOL SOFTNERS to prevent constipation
+
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+1. Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 20616**], M.D. Date/Time:[**2709-1-1**] 11:50
+
+2. Provider: [**First Name11 (Name Pattern1) 2194**] [**Last Name (NamePattern4) 2195**], MD Phone:[**Telephone/Fax (1) 84**]
+Date/Time:[**2709-1-26**] 10:15
+
+3. Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone: [**Telephone/Fax (1) 113**]
+Date/Time: [**2709-2-19**] 2:20
+
+
+
+
+
+DOC CLASS

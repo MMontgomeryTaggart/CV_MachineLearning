@@ -1,0 +1,213 @@
+Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**3380-6-2**] 12:00 PM
+ CORDIS/INTRODUCER - STOP [**3380-6-2**] 03:00 PM
+   - Increased Dofetilide to 250 mcg PO Q12H
+   - Re-instated DNR/DNI
+   - Increased Neo___
+   - Began 'Statin (Simva 40)
+   - S and S ordered
+   - Goal even to 500
+   - Lipid panel ordered (con't statin given RF's)
+   a) HDL: 10
+   b) CHOL/HD: 9.0
+   c) LDLcalc: 64
+   - Pulled Central line, restarted Heparin at 800
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3380-5-31**] 08:00 AM
+   Vancomycin - [**3380-5-31**] 08:30 AM
+   Nafcillin - [**3380-6-3**] 06:17 AM
+   Infusions:
+   Heparin Sodium - 800 units/hour
+   Phenylephrine - 2.2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3380-6-3**] 07:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 35.7
+C (96.3
+   HR: 83 (68 - 92) bpm
+   BP: 109/45(61) {75/36(46) - 109/72(78)} mmHg
+   RR: 17 (16 - 27) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 71 Inch
+    CVP: 3 (-3 - 4)mmHg
+   Total In:
+                                                                  1,393 mL
+                                                                    598 mL
+   PO:
+                                                                    270 mL
+   TF:
+   IVF:
+                                                                  1,123 mL
+                                                                    598 mL
+   Blood products:
+   Total out:
+                                                                    437 mL
+                                                                    165 mL
+   Urine:
+                                                                    437 mL
+                                                                    165 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    956 mL
+                                                                    433 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: 7.43/30/74/19/-2
+   Physical Examination
+   Gen: ill appearing, lethargic but easily arousable, A and Ox3 but more
+   tangential this morning and inappropriate
+   HEENT: no appreciable JVD while lying flat
+   CV: Regular , [**3-24**] harsh late peaking SEM, no rubs or gallops
+   Pulm: CTA
+   Abdomen: +BS, soft, NT, ND, no organomegaly
+   Exts: WWP, 1+ edema 3 cm above ankle bilaterally, 1+ DP bilaterally,
+   Right groin dressing c/d/I, no palpable thrill and no audible bruit
+   Neuro: A and O x3, PERRLA, EOMI, CN ii-xii intact, MAEs, sensation in
+   tact to gross touch
+   Labs / Radiology
+   93 K/uL
+   13.0 g/dL
+   84 mg/dL
+   1.9 mg/dL
+   19 mEq/L
+   3.8 mEq/L
+   44 mg/dL
+   99 mEq/L
+   131 mEq/L
+   38.1 %
+   11.6 K/uL
+        [image002.jpg]
+                             [**3380-5-30**]  02:36 PM
+                             [**3380-5-31**]  05:03 AM
+                             [**3380-5-31**]  02:29 PM
+                             [**3380-6-1**]  05:51 AM
+                             [**3380-6-1**]  02:58 PM
+                             [**3380-6-1**]  05:07 PM
+                             [**3380-6-2**]  06:09 AM
+                             [**3380-6-2**]  12:08 PM
+                             [**3380-6-3**]  04:49 AM
+   WBC
+   13.7
+   11.4
+   8.4
+   11.6
+   Hct
+   38.7
+   40.3
+   39.1
+   36.6
+   38.1
+   Plt
+   86
+   88
+   69
+   93
+   Cr
+   1.5
+   1.8
+   1.5
+   1.3
+   1.1
+   1.0
+   1.9
+   TCO2
+   21
+   21
+   Glucose
+   101
+   130
+   229
+   122
+   138
+   143
+   84
+   Other labs: PT / PTT / INR:19.4/150.0/1.8, CK / CKMB / Troponin-T:40//,
+   ALT / AST:50/64, Alk Phos / T Bili:57/4.8, Differential-Neuts:79.7 %,
+   Lymph:12.0 %, Mono:7.7 %, Eos:0.6 %, Lactic Acid:1.7 mmol/L, LDH:295
+   IU/L, Ca++:8.6 mg/dL, Mg++:2.4 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   79M w/ hx of critical AS (valve area 0.5cm2), sCHF (EF 40), alcoholic
+   cirrhosis, DM, recently admitted w/ sCHF exacerbation and worsening of
+   AS, later developed MSSA sepsis and now s/p aortic valvuloplasty and
+   PTCA to RCA on [**3380-6-1**].
+   # Sepsis: Bacteria identified as MSSA. Surveillance cultures no growth
+   . No peripheral manifestations of endocarditis, and TTE negative for
+   vegetations. No obvious sources for staph bacteremia
+   - Continue Nafcillin day 2 of 14
+   - Wean phenylephrine as tolerated
+   - Plan for PICC line so that cordis can be removed as it was placed
+   while patient was bacteremic
+   # Critical AS: AS critical by valve area. Now s/p valvuloplasty [**6-1**].
+   Post cath check unremarkable.
+   -  Repeat TTE
+   # CAD: BMS x 2 to RCA [**6-1**]. Plavix loaded with 300 mg x1 and now
+   writtedn for 75 mg daily
+   - Continue plavix for at least 3 months
+   # New onset A fib: Noted on admission. Cardioversion [**5-26**]. Chads 2 is
+   4. Heparin gtt restarted after postcath check. Had been in NSR but now
+   Afib rate controlled since procedure.
+   - Continue Dofetelide. Plan to increase dose as Cr has normalized to
+   250 mg [**Hospital1 **]
+   - Consider starting coumadin while bridging with heparin. .
+   # Hyponatremia: Improving.
+   .
+   # Acute renal failure: Cr improved to 1 from 1.3. Likely improving with
+   better hemodynamics in the setting of resolving septic shock.
+   - Trend Cr.
+   - goal 500 cc + today
+   # Cirrhosis/G positive stools: - Likely [**2-21**] EtOH use. Pt reports that
+   he stopped drinking approx 1 year ago.documented on MRCP as well as CT
+   abdomen. Pt hepatitis panel negative for Hep A,B,C. Hct stable since
+   admission to CCU.
+   -2 pivs
+   -active T and S
+   -continue PPI
+   # ?Aspiration: [**Name8 (MD) **] RN and patient report, patient coughs with thin
+   liquids.
+   - Request s and s eval today
+   # Anxiety/Pain: Will attempt low dose benzo post procedure once stroke
+   risk assessed
+   # DM
+ ISS
+   # FEN
+ Restart diet with aspiration precautions.
+   # Access: Right Cordis with IJ. Was placed while bacteremic so will
+   need to be replaced. PICC requested.
+   # PPx
+ No heparin given ? GIB.
+   # Code- DNR/I
+   # Communication
+ [**Known patient firstname 64**] [**Last Name (NamePattern1) 2967**] (first cousin [**Name (NI) 217**] [**Telephone/Fax (1) 6181**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3380-6-2**] 12:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,196 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**2861-12-21**] 05:44 PM
+ ARTERIAL LINE - START [**2861-12-21**] 06:30 PM
+   Complained of pain at line sites yesterday, requiring oxycodone for
+   pain control.  Otherwise, denies lightheadedness, dyspnea, chest pain,
+   other complaints.  Still requiring elevation of head of bed to sleep
+   comfortably
+   Allergies:
+   Lisinopril
+   Rash; Abdominal
+   Kefzol (Intraven.) (Cefazolin Sodium)
+   Hives;
+   Sulfa (Sulfonamide Antibiotics)
+   Hives; Nausea/V
+   Shellfish Derived
+   facial swelling
+   Last dose of Antibiotics:
+   Infusions:
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Other ICU medications:
+   Other medications:
+   Metolazone 5mg [**Hospital1 **]
+   Heparin 5000 U TID
+   Mesalamine 800mg TID
+   Albuterol
+   Oxycodone 5mg q 12hrs
+   Metoprolol 25mg [**Hospital1 **]
+   Gabapentin 200mg
+   Trazadone 25mg qhs prn
+   ASA 81mg
+   Ferrous sulfate
+   Folic acid
+   Omeprazole 20mg [**Hospital1 **]
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2861-12-22**] 06:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.4
+   Tcurrent: 36.3
+C (97.4
+   HR: 52 (51 - 61) bpm
+   BP: 90/50(66) {82/44(59) - 117/67(87)} mmHg
+   RR: 12 (12 - 31) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                    736 mL
+                                                                  1,736 mL
+   PO:
+                                                                    100 mL
+                                                                     90 mL
+   TF:
+   IVF:
+                                                                    136 mL
+                                                                  1,646 mL
+   Blood products:
+   Total out:
+                                                                  1,458 mL
+                                                                  3,145 mL
+   Urine:
+                                                                    340 mL
+                                                                    115 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -722 mL
+                                                                 -1,409 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: 7.45///26/
+   Physical Examination
+   GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor
+   or cyanosis of the oral mucosa. Malar erythematous rash
+   NECK: Supple with JVP to the earlobe
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line.
+   Irregularly irregular, normal rate. S1, S2. No m/r/g. No thrills,
+   lifts. Right heart +S3.
+   LUNGS: Resp were unlabored, no accessory muscle use. bibasilar crackles
+   [**1-8**] of the way up the lung fields, wheezes or rhonchi.
+   ABDOMEN: obese, soft, NTND. No HSM or tenderness. edema to the
+   umbilicus
+   EXTREMITIES: No c/c/ +4 pitting edema.
+   PULSES:  difficult to assess with ankle edema
+   Labs / Radiology
+   228 K/uL
+   7.7 g/dL
+   123 mg/dL
+   1.8 mg/dL
+   26 mEq/L
+   3.6 mEq/L
+   52 mg/dL
+   98 mEq/L
+   137 mEq/L
+   24.5 %
+   4.3 K/uL
+        [image002.jpg]
+                            [**2861-12-21**]  07:44 PM
+                            [**2861-12-22**]  03:49 AM
+   WBC
+   4.1
+   4.3
+   Hct
+   24.8
+   24.5
+   Plt
+   207
+   228
+   Cr
+   2.1
+   1.8
+   Glucose
+   106
+   123
+   Other labs: PT / PTT / INR:15.5/30.2/1.4, Differential-Neuts:66.0 %,
+   Lymph:12.1 %, Mono:15.5 %, Eos:5.9 %, Lactic Acid:0.9 mmol/L, Ca++:9.1
+   mg/dL, Mg++:2.0 mg/dL, PO4:2.9 mg/dL
+   Urine:
+   UreaN:173 ; Creat:60 ; Na:49 ; TotProt:390 ; Prot/Cr:6.5 ; Osmolal:298
+   Urinalysis: red, cloudy, large blood, > 500 protein, > 50 RBC
+   Assessment and Plan
+   63 year old woman with severe diastolic heart failure, severe tricuspid
+   regurgitation presenting with decompensated heart failure in the
+   setting of medication non compliance, admitted to CCU for initiation of
+   ultrafiltration.
+   .
+   # ACUTE DECOMPENSATED DIASTOLIC HEART FAILURE: Patient not responding
+   to intravenous diuretics, remains massively volume overloaded and a
+   risk of pulmonary edema and respiratory distress. A reported in the
+   literature ([**Doctor Last Name 10985**], JACC [**2859**]) benefit to ultrafiltration in this
+   setting.  Etiology of diastolic dysfunction unknown: consider
+   infiltrative disease especially with evidence of nephritic range
+   protienuria (see below)
+   -- Initiate UF, goal 1.5 to 2L out today
+   -- placement of temp CVVH line by IR today
+   -- d/c diuretics while pt receiving CVVHD
+   -- repeat TTE
+   -- patient not on ACE-I or spironolactone
+   .
+   # CORONARIES: No history of CAD
+   .
+   # RHYTHM: Pt with a-fib. Not on anti-coagulation given history of
+   severe GI bleed.  Has significant bradycardia, although asymptomatic
+   no confusion, dizziness, chest pain
+   - d/c b blocker
+   - pt not on full dose ASA and only on ASA 81mg
+   - monitor on tele
+   .
+   # Acute on Chronic Kidney Disease: Pt with baseline 1.2-1.4. On
+   admission 1.8 and increased to 2.1 with diuresis and poor for[**Hospital1 **]
+   flow.  However, patient only with minimal urine output with lasix gtt
+   and metolazone. Plan for initiation of UF for volume removal.  U/A with
+   nephrotic range proteinuria and significant edema.  Possible etiologies
+   include amyloidosis, multiple myeloma, minimal change disease, other
+   causes glomerular nephrosis
+   -- f/u renal recs
+   -- f/u SPEP/ UPEP, albumin/ creatinine ratio
+   -- f/u lipid panel
+   -- renal U/S
+   -- avoid nephrotoxins and renally dose meds
+   - consider necessity of kidney/ heart or fat pad biopsy if suspicion
+   for amyloidosis remains high
+   .
+   # UC: Patient w/ hx of Ulcerative Colitis. Pt with loose stools.
+   - cont mesalamine 800mg TID
+   - guaiac stools
+   .
+   #. Anemia: Hct 25.4 and stable over the last 72hrs. Likely combination
+   of anemia [**2-7**] renal failure and possible GI loss given prior history.
+   - acitve T&S
+   - monitor Hct
+   - guaiac stools
+   .
+   FEN: Cardiac/ replace prn
+   .
+   ACCESS: PIV's, a-line  temp CVVH line
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin sq
+   -Pain management oxycodone q 4hrs prn
+   -Bowel regimen prn
+   .
+   COMMUNICATION: family and patient
+
+
+DOC CLASS

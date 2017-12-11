@@ -1,0 +1,325 @@
+Admission Date:  [**2614-5-23**]              Discharge Date:   [**2614-6-2**]
+
+Date of Birth:  [**2544-7-8**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Iodine-Iodine Containing
+
+Attending:[**First Name3 (LF) 351**]
+Chief Complaint:
+Asymptomatic ascending Aneurysm
+
+
+Major Surgical or Invasive Procedure:
+[**2614-5-26**]
+Redo sternotomy, replacement of ascending aorta
+and hemiarch using deep hypothermic circulatory arrest with a
+30-mm Vascutek Dacron tube graft.
+
+
+History of Present Illness:
+This is a 69-year-old gentleman with history of rheumatic heart
+disease status post mechanical AVR and MVR in [**2601**], who
+currently
+presents for evaluation of stable ascending thoracic aortic
+aneurysm, estimated on recent MRA as measuring 6.2 cm in its
+maximal dimension.  This has been stable on serial
+echocardiograms measurements as well as compared to prior MRA
+obtained in [**2613-8-8**].  He remains asymptomatic.
+
+
+Past Medical History:
+Ascending Aortic Aneurysm
+PMH:
+- Chronic Systolic Congestive Heart Failure
+- History of Rheumatic heart disease
+- Hypertension
+- Atrial fibrillation
+- Colonic adenomas
+- ?Osteoporosis
+- BPH
+- Remote CVA was noted on brain CT and MRI [**2596**] (R thalamic)
+Past Surgical History
+- s/p mechanical AVR (#29 Carbomedics) and MVR (#31 carbomedics)
+in [**2601**]
+- Laparoscopic right colectomy complicated by anastomotic bleed
+requiring exploratory laparoscopy [**2613-8-8**]
+- Appendectomy
+- Bilateral Shoulder
+- Left Foot Bunion
+
+
+Social History:
+Lives with: Wife
+Occupation: Retired construction worker
+Tobacco: 5 cigars per month
+ETOH: nightly Glass of wine with dinner
+
+
+Family History:
+Father had valvular heart disease. Mother had
+[**Name2 (NI) 72**] CA
+
+
+Physical Exam:
+Pulse: 87 Resp: 16  O2 sat: 99%
+B/P  Right: 105/73   Left: 117/73
+Height:  69 inches   Weight: 200 lbs
+
+General: WDWN male in no acute distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR []  Irregular [x]  Murmur - crisp mechanical clicks
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema - none
+Varicosities: None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2  Left: 2
+DP           Right: 1  Left: 1
+PT           [**Name (NI) 278**]: 1  Left: 1
+Radial       Right: 2  Left: 2
+
+Carotid Bruit        Right: none    Left: none
+
+
+Pertinent Results:
+[**2614-5-26**] Intra-op TEE
+Conclusions
+PRE-CPB:
+The left atrium is moderately dilated. The pt is in atrial
+fibrillation. No thrombus is seen in the left atrial appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy. The LV
+chamber is severely dilated. Overall left ventricular systolic
+function is severely depressed (LVEF= 25-30%) with the inferior
+wall appearing more hypokinetic than other wall segments. Right
+ventricular chamber size and free wall motion are normal.
+The aortic root is moderately dilated at the sinus level. The
+ascending aorta is severely dilated. While the entire visualized
+ascending aorta appears dilated, there appears to be a focal
+outpouching at the level just below the RPA. There are simple
+atheroma in the descending thoracic aorta. No thoracic aortic
+dissection is seen.
+A bileaflet mechanical aortic valve prosthesis is present. There
+appear to be three small paravalvular leaks, two in the area
+near the interatrial septum, and one next to the area by the
+pulmonary valve. The prosthetic valve appears to be well-seated
+with normal leaflet motion.
+A bileaflet mitral valve prosthesis is present. The normal
+washing jets of this mechanical prosthesis is seen. The valve
+appears to be well-seated. Occasionally, one leaflet is slower
+than the other to close, possibly due to poor LV contractility.
+POST-CPB:
+The patient is now on Epi, Phenylephrine, and Milrinone
+infusions. The LV EF appears improved on inotropic support,
+estimated EF is 40-50%. The inferior wall still appears to be
+more hypokinetic than other wall segments.
+The bioprothetic valves continue to show appropriate function.
+The aortic valve paravalvular leaks remain unchanged from
+pre-op. The peak gradient across the aortic valve is 20mmHg, and
+the mean gradient is 9mmHg with a CO of 7.
+There is no evidence of aortic dissection.
+Dr. [**Last Name (STitle) **] was notified in person of the results at the time of
+study.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**First Name8 (NamePattern2) 4363**] [**Name8 (MD) 4364**], MD, Interpreting physician [**Last Name (NamePattern4) **]
+[**2614-5-26**] 18:44
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2614-5-31**] 7:24 PM
+
+Final Report: PA and lateral upright chest radiographs were
+reviewed in comparison to [**2614-5-29**] and several prior studies
+dating back to [**2612**].
+The cardiomegaly is unchanged, including both left and right
+ventricle. Two replaced valves are noted, unchanged since the
+prior examination. The small amount of right pleural effusion is
+unchanged. Anterior mediastinal air with small air-fluid level
+noted on the lateral view are redemonstrated with the air-fluid
+level potentially representing small loculated anterior
+pneumothorax in combination with post-surgery air in the
+mediastinum. Small amount of pneumopericardium cannot be
+excluded laterally, although it might represent summation of
+shadows. Continued followup is recommended.
+Post-sternotomy wires appear intact.
+The study and the report were reviewed by the staff radiologist.
+
+DR. [**First Name (STitle) 2010**] [**Name (STitle) 2011**]
+DR. [**First Name4 (NamePattern1) 4659**] [**Last Name (NamePattern1) 4660**]
+
+Discharge Labs:
+[**2614-6-1**] 04:10AM BLOOD WBC-5.1 RBC-2.91* Hgb-9.7* Hct-27.7*
+MCV-95 MCH-33.4* MCHC-35.1* RDW-14.2 Plt Ct-201
+[**2614-6-1**] 04:10AM BLOOD Plt Ct-201
+[**2614-6-1**] 04:10AM BLOOD UreaN-16 Creat-0.8 Na-133 K-4.1 Cl-98
+
+Admission labs:
+[**2614-5-23**] 04:47PM   PT-15.6* PTT-27.7 INR(PT)-1.4*
+[**2614-5-23**] 04:47PM   PLT COUNT-139*
+[**2614-5-23**] 04:47PM   WBC-4.1 RBC-3.78* HGB-13.0* HCT-36.5* MCV-97
+MCH-34.4* MCHC-35.6* RDW-13.3
+[**2614-5-23**] 04:47PM   %HbA1c-5.7 eAG-117
+[**2614-5-23**] 04:47PM   ALBUMIN-4.3 MAGNESIUM-2.0
+[**2614-5-23**] 04:47PM   ALT(SGPT)-16 AST(SGOT)-23 LD(LDH)-322* ALK
+PHOS-47 TOT BILI-0.5
+[**2614-5-23**] 04:47PM   GLUCOSE-95 UREA N-24* CREAT-0.8 SODIUM-139
+POTASSIUM-4.8 CHLORIDE-105 TOTAL CO2-29 ANION GAP-10
+
+Brief Hospital Course:
+The patient was a direct admission to the operating room on
+[**2614-5-26**] where the patient underwent replacement of ascending
+aorta and aortic hemiarch. Please see the operative report for
+details. In summary he had:
+Redo sternotomy, replacement of ascending aorta and hemiarch
+using deep hypothermic circulatory arrest with a 30-mm Vascutek
+Dacron tube graft, catalog number [**Serial Number 8393**], lot number [**Serial Number 8394**],
+serial number [**Serial Number 8395**]. His CARDIOPULMONARY BYPASS TIME was  119
+minutes, with a CROSSCLAMP TIME of 75 minutes, and CIRCULATORY
+ARREST TIME of  18 minutes.
+He tolerated the procedure well and post-operatively was
+transferred to the CVICU in stable condition for recovery and
+invasive monitoring.
+POD 1 found the patient extubated, alert and oriented and
+breathing comfortably.  The patient was neurologically intact
+and hemodynamically stable, weaned from inotropic and
+vasopressor support.  Beta blocker was initiated and the patient
+was gently diuresed toward the preoperative weight.  The patient
+was transferred to the telemetry floor for further recovery.
+Chest tubes and pacing wires were discontinued without
+complication.  Heparin was initiated as a bridge to coumadin for
+his mechanical valves.  The patient was evaluated by the
+physical therapy service for assistance with strength and
+mobility.  By the time of discharge on POD #7 the patient was
+ambulating freely, the wound was healing and pain was controlled
+with oral analgesics.  The patient was discharged on to home
+with VNA services, in good condition with appropriate follow up
+instructions advised.
+
+Medications on Admission:
+Warfarin 6 mg Daily (last dose [**2614-5-20**])
+Alendronate 70 mg Daily; Carvedilol 6.25 mg [**Hospital1 9**]; Eplerenone 50
+mg
+Daily; Flomax 0.4 mg Daily; Benicar daily; Calcium + Vit D
+Daily;
+Magnesium
+
+
+Discharge Medications:
+1. potassium chloride 20 mEq Packet Sig: One (1) Packet PO once
+a day for 5 days.
+Disp:*5 Packet(s)* Refills:*0*
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. aspirin 81 mg [**Hospital1 8396**], Delayed Release (E.C.) Sig: One (1)
+[**Hospital1 8396**], Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*60 [**Hospital1 8396**], Delayed Release (E.C.)(s)* Refills:*2*
+4. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+Disp:*60 Capsule, Ext Release 24 hr(s)* Refills:*2*
+5. carvedilol 12.5 mg [**Hospital1 8396**] Sig: One (1) [**Hospital1 8396**] PO BID (2 times
+a day).
+Disp:*60 [**Hospital1 8396**](s)* Refills:*2*
+6. alendronate 70 mg [**Hospital1 8396**] Sig: One (1) [**Hospital1 8396**] PO 1X/WEEK (ONCE
+PER WEEK).
+Disp:*30 [**Hospital1 8396**](s)* Refills:*2*
+7. oxycodone 5 mg [**Hospital1 8396**] Sig: 1-2 Tablets PO Q4H (every 4 hours)
+as needed for pain.
+Disp:*50 [**Hospital1 8396**](s)* Refills:*0*
+8. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+9. warfarin 10 mg [**Hospital1 8396**] Sig: One (1) [**Hospital1 8396**] PO ONCE (Once) for
+1 doses.
+Disp:*1 [**Hospital1 8396**](s)* Refills:*0*
+10. furosemide 20 mg [**Hospital1 8396**] Sig: One (1) [**Hospital1 8396**] PO DAILY
+(Daily).
+Disp:*5 [**Hospital1 8396**](s)* Refills:*0*
+11. warfarin 2.5 mg [**Hospital1 8396**] Sig: [**Name8 (MD) **] MD [**First Name (Titles) 8396**] [**Last Name (Titles) **] once a day: INR
+goal= 3-3.5 for double mechanical valves.
+Disp:*180 [**Last Name (Titles) 8396**](s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 5716**] VNA
+
+Discharge Diagnosis:
+Ascending Aortic Aneurysm
+PMH:
+- Chronic Systolic Congestive Heart Failure
+- History of Rheumatic heart disease
+- Hypertension
+- Atrial fibrillation
+- Colonic adenomas
+- ?Osteoporosis
+- BPH
+- Remote CVA was noted on brain CT and MRI [**2596**] (R thalamic)
+Past Surgical History
+- s/p mechanical AVR (#29 Carbomedics) and MVR (#31 carbomedics)
+in [**2601**]
+- Laparoscopic right colectomy complicated by anastomotic bleed
+requiring exploratory laparoscopy [**2613-8-8**]
+- Appendectomy
+- Bilateral Shoulder
+- Left Foot Bunion
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 279**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Wound Check at Cardiac Surgery Office [**Telephone/Fax (1) 279**], [**2614-6-8**]
+10:15
+Surgeon Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 279**], [**2614-6-21**] 1:30
+Cardiologist Dr. [**Name (NI) **], [**Telephone/Fax (1) 83**], [**2614-6-30**] 11:00
+
+Please call to schedule the following:
+Primary Care Dr. [**Last Name (STitle) **],[**First Name3 (LF) **] A. [**Telephone/Fax (1) 3079**] in [**4-12**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR
+Coumadin for mechanical AVR and MVR
+Goal INR 3-3.5
+First draw day after discharge:[**2614-6-3**]
+Then please do INR checks Monday, Wednesday, and Friday for 2
+weeks then decrease as directed by Dr. [**First Name (STitle) **]
+Results to fax- [**Telephone/Fax (1) 4864**]
+
+
+
+Completed by:[**2614-6-2**]
+
+DOC CLASS

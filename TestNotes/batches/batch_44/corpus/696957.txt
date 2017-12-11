@@ -1,0 +1,211 @@
+TITLE:
+   CVICU
+   HPI:
+   60 year old male s/p TAA emergent repair (open chest and abdomen) on
+   [**4-12**], complicated by CVA and blindness, AF, and bigeminy/trigeminy.
+   Arrhythmia resolved, POD # 4 from a trach.
+   Chief complaint:
+   PMHx:
+   PMH: HTN
+   [**Last Name (un) **]:benicar 40/12.5mg daily
+   Current medications:
+   24 Hour Events:
+ [**5-1**]: No events overnight. Not tolerating PSV trial yesterday.
+   BLOOD CULTURED - At [**2972-4-30**] 05:14 PM
+ BLOOD CULTURED - At [**2972-4-30**] 05:14 PM
+ URINE CULTURE - At [**2972-4-30**] 05:14 PM
+ STOOL CULTURE - At [**2972-4-30**] 05:14 PM
+ ARTERIAL LINE - STOP [**2972-4-30**] 06:18 PM
+   Post operative day:
+   POD#17 - washout
+   POD#13 - abd washout, PEG/PEJ insertion, fascial closure.
+   POD#4 - tracheostomy, flex and rigid bronch
+   Allergies:
+   Morphine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2972-4-30**] 10:13 AM
+   Heparin Sodium (Prophylaxis) - [**2972-5-1**] 06:14 AM
+   Other medications:
+   Flowsheet Data as of  [**2972-5-1**] 09:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**74**] a.m.
+   Tmax: 38
+C (100.4
+   T current: 37.7
+C (99.9
+   HR: 100 (86 - 113) bpm
+   BP: 113/50(68) {83/28(46) - 134/65(82)} mmHg
+   RR: 23 (18 - 36) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 102.3 kg (admission): 113.6 kg
+   Height: 68 Inch
+                  Total In:
+                                                                  2,034 mL
+                                                                    406 mL
+   PO:
+                  Tube feeding:
+                                                                  1,725 mL
+                                                                    356 mL
+   IV Fluid:
+                                                                    189 mL
+   Blood products:
+   Total out:
+                                                                  1,637 mL
+                                                                    480 mL
+   Urine:
+                                                                  1,637 mL
+                                                                    480 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    397 mL
+                                                                    -74 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 720 (720 - 774) mL
+   PS : 16 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 28
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Agitated
+   PIP: 21 cmH2O
+   Plateau: 18 cmH2O
+   SPO2: 100%
+   ABG: 7.47/36/334/29/3
+   Ve: 13.4 L/min
+   PaO2 / FiO2: 835
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: Pupils fixed and dilated, Pupils are less dilated (4 mm vs 7 mm
+   at the beginning of the week)
+   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)
+   Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   incision C/D/I
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   516 K/uL
+   9.3 g/dL
+   137 mg/dL
+   1.7 mg/dL
+   29 mEq/L
+   4.5 mEq/L
+   84 mg/dL
+   109 mEq/L
+   143 mEq/L
+   29.5 %
+   11.3 K/uL
+        [image002.jpg]
+                             [**2972-4-29**]  02:08 AM
+                             [**2972-4-29**]  10:09 AM
+                             [**2972-4-30**]  02:58 AM
+                             [**2972-4-30**]  03:16 AM
+                             [**2972-4-30**]  06:00 AM
+                             [**2972-4-30**]  09:00 AM
+                             [**2972-4-30**]  09:50 AM
+                             [**2972-4-30**]  01:00 PM
+                             [**2972-4-30**]  05:02 PM
+                             [**2972-5-1**]  01:45 AM
+   WBC
+   11.7
+   11.3
+   Hct
+   31.0
+   29.5
+   Plt
+   497
+   516
+   Creatinine
+   1.5
+   1.7
+   TCO2
+   32
+   29
+   31
+   27
+   Glucose
+   127
+   139
+   106
+   182
+   113
+   161
+   111
+   137
+   Other labs: PT / PTT / INR:13.4/25.7/1.1, CK / CK-MB / Troponin T:72//,
+   ALT / AST:137/190, Alk-Phos / T bili:171/2.8, Amylase / Lipase:104/103,
+   Differential-Neuts:91.0 %, Band:2.0 %, Lymph:1.0 %, Mono:2.0 %, Eos:1.0
+   %, Fibrinogen:547 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:3.1 g/dL,
+   LDH:434 IU/L, Ca:8.8 mg/dL, Mg:2.9 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   BALANCE, IMPAIRED, KNOWLEDGE, IMPAIRED, MUSCLE PERFORMACE, IMPAIRED,
+   MOTOR FUNCTION, IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED, AEROBIC
+   CAPACITY / ENDURANCE, IMPAIRED, RESPIRATORY FAILURE, ACUTE (NOT
+   ARDS/[**Doctor Last Name 73**]), AORTIC RUPTURE
+   Assessment and Plan: 60 year old male s/p TAA emergent repair (open
+   chest and abdomen) on [**4-12**], complicated by CVA and blindness, AF, and
+   bigeminy/trigeminy. Arrhythmia resolved, POD # 4 from a trach.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Stable neuro status.
+   Pt reports of starting to see shadows. Blindness m/p due to optic
+   nerves ischemia due to hypotension. In addition, multiple areas of
+   small embolic CVAs, mostly in occipital lobes. All are stable with no
+   specific management. Clonazepam and  lorazepam with good effect on
+   anxiety. Ultram for pain
+   Cardiovascular: Aspirin, Beta-blocker, HD stable. Occasional ST.
+   Amiodarone PO
+   Pulmonary: Trach, (Ventilator mode: CPAP + PS), Please wean PS as
+   tolerated. No evidence of fluid overload on CXR. Trach collar trial
+   today.
+   Gastrointestinal / Abdomen: Diarrhea, with negative c-diff->Vanco po
+   Nutrition: Tube feeding
+   Renal: Foley, Adequate UO, Renal dysfunction is stable BUN/Cr= 84/1.7
+   Hematology: Serial Hct, Stable anemia
+   Endocrine: RISS, Hyperglycemic. Will start Lantus 10. Goal BG < 150
+   Infectious Disease: No evidence of infection
+   Lines / Tubes / Drains: Foley, G-tube, J-Tube, Trach
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery, P.T.
+   Billing Diagnosis: Arrhythmia, (Respiratory distress: Failure), Post-op
+   complication, Acute renal failure
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**2972-4-30**] 08:45 AM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2972-4-18**] 11:24 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+   ------ Protected Section Addendum Entered By:[**Name (NI) 749**] [**Last Name (NamePattern1) **], MD
+   on:[**2972-5-1**] 17:00 ------
+
+
+DOC CLASS

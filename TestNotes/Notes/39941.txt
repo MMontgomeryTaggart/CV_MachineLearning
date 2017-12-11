@@ -1,0 +1,441 @@
+Admission Date:  [**3153-12-14**]              Discharge Date:   [**3153-12-21**]
+
+Date of Birth:  [**3076-8-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 835**]
+Chief Complaint:
+"Ventricular tachycardia with 3 shocks".
+
+Major Surgical or Invasive Procedure:
+1. Ventricular Tachycardia ablation
+2. Thyroidectomy
+
+
+History of Present Illness:
+77 yr old pt with hx of large anterior wall infarct in [**3130**],
+cardiac arrest [**3139**], s/p AICD, treated with Amiodarone over last
+several years for VT. He is s/p upgrade to BIV ICD in [**3150**] and
+s/p VT ablation at CMC several years ago and again this summer.
+This summer, his amiodarone had to be stopped after he became
+hyperthyroid. He was treated with steroids and Tapozole, however
+free T4 is still 1.78, and TSH is 0.133. As a result, he has
+been on Mexilitine since the summer. He presented this weekend
+to St. [**Hospital 796**] Hospital in [**Location (un) 300**], NH after being shocked by
+his AICD three times on [**Holiday 3759**]. The patient reports he
+"felt different as if he might pass out" for a fleeting second.
+He also notes lightheadedness right before his first shock. He
+felt normal for 2 seconds, and then received two subsequent
+shocks. He denies feeling chest pain or shortness of breath at
+that time. He went to St. Josephs Hospital in [**Location (un) 300**]. At that
+point, he was restarted on PO amiodarone. Since restarting
+amiodarone, he has been stable with no recurrent episodes of VT.
+He is currently on telemetry for monitoring. He is being
+transferred for further management of VT, and evaluation for
+possible VT Ablation. Also, of note the patient is on warfarin
+for Low EF.
+.
+ROS: + BPH like symptoms
+- He denies any prior history of stroke, TIA, deep venous
+thrombosis, pulmonary embolism, bleeding at the time of surgery,
+myalgias, joint pains, cough, hemoptysis, black stools or red
+stools. S/he denies recent fevers, chills or rigors. S/he denies
+exertional buttock or calf pain. All of the other review of
+systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope. He sleeps on
+two pillows at night.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+2. CARDIAC HISTORY: large anterior wall infarct in [**3130**]
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS: none
+-PACING/ICD: sudden cardiac arrest [**3139**], ICD implant [**4-/3139**],
+cardiac arrest [**8-19**] and 3/07ICD upgrade to biv icd [**4-22**], prior
+VT ablation [**8-23**] and [**9-24**], amiodarone initiated [**Date range (1) 9126**],
+started mexiletine [**3153-9-14**]
+3. OTHER PAST MEDICAL HISTORY:
+-Diabetes mellitus
+-Ischemic Cardiomyopathy last EF 22% in [**3147**] on warfarin
+-prior tobacco abuse
+-ascending thoracic aneurysm 4.6cms ([**9-21**])
+-Stage 3 CKD
+-Hyperthyroidism, presumed secondary to amio toxicity
+-colonoscopy normal in [**5-24**]
+-sleep apnea
+-dental surgery with 4 teeth extractions, 6 implants in [**3153-11-25**]
+
+
+Social History:
+-Tobacco history: smoked up to 2 ppd for 25 years, quit in [**3130**]
+
+-ETOH: 3 glasses wine/week
+-Illicit drugs: none
+-Retired pilot. Two grown children, lives with wife. [**Name (NI) **] [**3-19**]
+mile daily.
+
+Family History:
+Mother with CAD and CABG age 78, died age [**Age over 90 **]. Two brothers died
+of heart failure. Father committed suicide. No family history of
+early MI, arrhythmia, cardiomyopathies, or sudden cardiac death;
+otherwise non-contributory.
+
+Physical Exam:
+Upon admission:
+VS: T= 98.1 BP= 117/58 HR= 63 RR= 18 O2 sat 99% on RA FS 121
+GENERAL: WDWN male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple without JVD.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. Paced, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+At discharge:
+GENERAL: WDWN male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple without JVD.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. Paced, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Right sided crackles.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: 1+ Left upper extremity edema. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+Upon admission:
+[**3153-12-15**] 05:10AM BLOOD WBC-5.5 RBC-3.43* Hgb-11.5* Hct-33.2*
+MCV-97 MCH-33.4* MCHC-34.6 RDW-16.7* Plt Ct-153
+[**3153-12-15**] 05:10AM BLOOD Neuts-72.3* Lymphs-20.9 Monos-5.8 Eos-0.5
+Baso-0.4
+[**3153-12-15**] 05:10AM BLOOD PT-22.9* PTT-29.1 INR(PT)-2.2*
+[**3153-12-18**] 04:00AM BLOOD Ret Aut-3.6*
+[**3153-12-15**] 05:10AM BLOOD UreaN-35* Creat-1.8* Na-140 K-3.6 Cl-99
+HCO3-35* AnGap-10
+[**3153-12-15**] 05:10AM BLOOD ALT-17 AST-20 LD(LDH)-256* AlkPhos-41
+TotBili-0.5
+[**3153-12-15**] 05:10AM BLOOD Albumin-3.2* Calcium-8.3* Phos-4.2 Mg-1.9
+[**3153-12-18**] 04:00AM BLOOD calTIBC-207* VitB12-605 Folate-10.9
+Ferritn-225 TRF-159*
+[**3153-12-15**] 05:10AM BLOOD Triglyc-84 LDLmeas-86
+[**3153-12-15**] 05:10AM BLOOD TSH-0.045*
+[**3153-12-15**] 05:10AM BLOOD T3-90 Free T4-2.7*
+
+At discharge:
+[**3153-12-21**] 06:35AM BLOOD WBC-5.2 RBC-3.04* Hgb-10.3* Hct-29.4*
+MCV-97 MCH-33.7* MCHC-34.9 RDW-16.1* Plt Ct-153
+[**3153-12-18**] 04:00AM BLOOD Neuts-70.5* Lymphs-20.8 Monos-8.0 Eos-0.6
+Baso-0.1
+[**3153-12-21**] 06:35AM BLOOD PT-19.3* INR(PT)-1.8*
+[**3153-12-21**] 06:35AM BLOOD UreaN-23* Creat-1.5* Na-138 K-4.3 Cl-98
+HCO3-33* AnGap-11
+[**3153-12-21**] 06:35AM BLOOD Calcium-7.7* Phos-3.1 Mg-2.2
+[**3153-12-20**] 07:25AM BLOOD TSH-0.091*
+[**3153-12-20**] 07:25AM BLOOD Free T4-2.5*
+[**3153-12-21**] 07:25AM BLOOD freeCa-1.02*
+
+Imaging:
+[**3153-12-17**] CXR: 1. Opacification in right lower lung may represent
+pneumonia versus loculated pleural effusion versus pleural or
+parenchymal-based mass. CT is advised for further evaluation. 2.
+Right-sided pleural effusion.
+
+[**3153-12-21**] CXR: 1. Stable opacification in the right lower lobe
+likely represents loculated pleural effusion, but pneumonia or
+mass cannot be excluded. CT is recommended for further
+evaluation. 2. Stable free small right pleural effusion.
+
+[**3153-12-21**] UENI: Nonocclusive thrombus expanding the basilic vein
+of the right upper extremity. Patent deep venous system in the
+right upper
+extremity.
+
+Brief Hospital Course:
+77 yo male history of old anterior wall infarct, multiple
+cardiac arrests s/p ICD, ischemic cardiomyopathy last EF 22% on
+warfarin, hyperthyroidism [**2-17**] amio toxicity, stage 3 CKD and two
+prior VT ablations admitted after three ICD shocks on
+[**Holiday 3759**], now s/p VT ablation and thyroidectomy, back on
+amiodarone.
+
+#VT: Transferred from OSH for VT ablation.  Amiodarone started
+at OSH, but stopped upon admission to [**Hospital1 4**] given possible VT
+ablation.  Patient underwent VT mapping and ablation, during
+which he was put on dopamine and neosynephrine.  He quickly
+weaned off of these pressors and was extubated.   He was
+transferred to the CCU for observation overnight.  He came back
+to the medical floor the next morning.  He had further episodes
+of VT the next day, the longest of which was 9 beats.  Inpatient
+endocrinology was consulted and it was decided to proceed to
+thyroidectomy after discussion of VT management with cardiology.
+He continued to have runs of VT, but was able to be paced out of
+them by his pacemaker.  He was restarted on amiodarone 200mg PO
+TID x1month after thyroidectomy.  He will then transition down
+to 300mg PO daily.  An appointment was made for him to follow up
+with his outpatient cardiologist.
+
+#Hyperthyroidism:  This is most likely secondary to amiodarone
+toxicity, but not known if it is destructive thyroiditis or
+autonomy.  Initially, this was thought to be conducive to
+medical manangement.  As a diagnostic trial, his prednisone was
+quickly tapered to 5mg daily for five days, and his methimazole
+was increased to 20mg twice daily.  However, it became clear
+that he needed thyroidectomy sooner than later given the
+incidence of VT.  He underwent thyroidectomy without
+complication.   Stress dose hydrocortisone was given prior to
+surgery to avoid adrenal insufficiency.  It is possible that a
+parathyroid gland was taken upon removal of the thyroid gland,
+so calcium was monitored every 12 hours thereafter.  He was sent
+home on calcium carbonate 1000mg daily and instructed to call
+with any symptoms of hypocalcemia.  Synthroid was started at a
+50mcg dose given recurrent VT.  Oxycodone was given for pain
+control.
+
+#LV aneurysm:  His INR was 1.6 prior to thyroidectomy so he was
+maintained on a heparin drip until the day of surgery.  He was
+continued on warfarin after surgery.  His dose was increased to
+3mg daily given concommitant use of amiodarone.  He was
+instructed to have his INR checked one week after discharge and
+to follow this up with his cardiologist.
+
+#Diabetes:  His sugars have been elevated during his prednisone
+use.  He was maintained on his outpatient sliding scale, which
+was initially 1:7 carb count.  This was titrated down to 1:5
+when his prednisone was tapered down to 5mg daily.
+
+#Right pleural effusion and mass: Noted on multiple chest xrays
+during admission.  Mr. [**Known patient lastname 1444**] notes this was previously worked
+up with biopsy and serial CT scans but they stopped surveillance
+four years ago.  His PCP was notified of the persistent finding,
+and a repeat CT scan was suggested for comparison.
+
+#CORONARIES: He has a history of large anterior wall infarct
+complicated by ischemic cardiomyopathy.  He did not have chest
+pain or shortness of breath during admission.  He was maintained
+on medical management of aspirin, carvedilol, and  valsartan.
+His Crestor was increased to 20mg daily.  He will need need
+repeat LFT's in 6 weeks.
+
+#PUMP: Ischemic cardiomyopathy with EF 22% on last Echo [**3147**] per
+OSH records.  He was euvolemic on exam.   He was continued on
+medical management with spironolactone, furosemide, carvedilol,
+and warfarin.
+
+#Left arm swelling:  An upper extremity ultrasound on the day of
+discharge revealed a superficial vein thrombus. He was
+recommended to use warm compresses.
+
+#STAGE 3 CKD: His creatinine was at baseline 1.5.
+
+#Anemia: Likely combination of iron deficiency, B12 deficiency,
+and CKD. Hematocrit was stable throughout admission.  He was
+continued on iron and B12 supplementation.
+
+#BPH: Stable.  Polyuria during admission evident.  He was
+continued on doxazosin and finasteride.
+
+#COPD: Stable.  He was continued on albuterol and tiotropium
+inhalers.
+
+Medications on Admission:
+MEDICATIONS at home:
+1. Carvedilol 12.5mg [**Hospital1 **]
+2. warfarin 1.25mg mwf 3mg otherwise
+3. crestor 20mg daily - increased from home dose of 10mg daily
+4. albuterol (proair) inhaler
+5. doxazosin 4mg daily
+6. furosemide 40mg [**Hospital1 **]
+7. Calcium 600mg [**Hospital1 **]
+8. colace 240mg [**Hospital1 **]
+9. iron sulfate 325 daily
+10. finasteride 5mg daily
+11. januvia 5mg daily
+12. lantus 14 units qAM
+13. novolog sliding scale
+14. prednisone 15mg daily
+15. aldactone 12.5mg qod
+16 zinc sulfate 220mg daily
+17. spiriva 1 capsule daily
+18. B6 50mcg on even days
+19. B12 1000mcg on even days
+20. vitamin D 1000units po bid
+MED CHANGES ON TRANSFER FROM [**Hospital **] HOSPITAL:
+23. Nitro prn
+24. ambien qhs
+25. valsartan 40mg daily
+26. tapazole 10mg q8h - replaced PTU
+27. amiodarone 200mg [**Hospital1 **]
+
+Discharge Medications:
+1. carvedilol 6.25 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+2. warfarin 1 mg Tablet Sig: Three (3) Tablet PO once a day.
+Disp:*90 Tablet(s)* Refills:*0*
+3. rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q4H (every 4 hours) as needed for sob or
+wheezing.
+5. doxazosin 4 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+6. furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+7. Calcium 600 600 mg (1,500 mg) Tablet Sig: One (1) Tablet PO
+twice a day.
+8. Colace  Oral
+9. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+10. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Lantus 100 unit/mL Solution Sig: Fourteen (14) units
+Subcutaneous qAM.
+12. Novolog 100 unit/mL Solution Sig: per sliding scale units
+Subcutaneous three times a day.
+13. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+14. spironolactone 25 mg Tablet Sig: 0.5 Tablet PO QOD ().
+15. zinc sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+16. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+17. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO ON EVEN DAYS
+().
+18. cyanocobalamin (vitamin B-12) 500 mcg Tablet Sig: Two (2)
+Tablet PO ON EVEN DAYS ().
+19. cholecalciferol (vitamin D3) 400 unit Tablet Sig: 2.5
+Tablets PO BID (2 times a day).
+20. amiodarone 200 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day) for 1 months.
+Disp:*90 Tablet(s)* Refills:*0*
+21. valsartan 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+22. levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+23. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain for 1 days.
+Disp:*6 Tablet(s)* Refills:*0*
+24. senna 8.6 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for constipation for 1 months.
+Disp:*30 Tablet(s)* Refills:*0*
+25. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+capful PO DAILY (Daily) as needed for constipation for 1 months.
+Disp:*1 bottle* Refills:*0*
+26. Januvia  Oral
+27. Outpatient Lab Work
+Please draw INR on Thursday [**12-24**] and fax to Dr. [**Name (NI) 9127**] office at [**Telephone/Fax (1) 9128**]. Thanks.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Ventricular tachycardias status post ablation
+2. Hyperthyroidism status post thyroidectomy
+3. Superficial vein thrombus
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Patient is chest pain free.  He is having ventricular
+tachycardia once per day but is paced out of it by his
+pacemaker.  Thyroidectomy scar is clean, dry, and intact.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you during your stay here at
+[**Hospital1 4**].
+
+You were admitted for ventricular tachycardia refractory to
+pacing.  You went for a ablation of a scar in your heart that
+was causing this abnormal rhythm.  You are still experiencing
+ventricular tachycardia from other scars, however, the pacemaker
+is able to stop this rhythm.  In addition, you went for
+thyroidectomy for your refractory hyperthyroidism.  Your
+prednisone dose was decreased and you were started on
+levothyroxine for thyroid supplementation.
+
+The following changes have been made to your medication regimen:
+
+START amiodarone
+START levothyroxine
+START valsartan
+INCREASE rosuvastatin
+INCREASE warfarin
+DECREASE prednisone
+STOP methimazole
+START senna as needed for constipation
+START miralax as needed for constipation
+START oxycodone as needed for pain control
+
+Please follow up with your PCP, [**Name10 (NameIs) **] endocrinologist, your
+cardiologist, and your surgeon as noted below. We also
+recommended that you have a CT scan of your chest as an
+outpatient to follow up fluid that was noted in the lungs. We
+discussed this with your parimary care doctor's office and they
+will assist you in scheduling this.
+
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Please keep the following appointments:
+Name: Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 522**] (works with [**Last Name (LF) 9129**],[**First Name3 (LF) 580**] A.)
+Address: [**Location 9130**], [**Location (un) **],[**Numeric Identifier 9131**]
+Phone: [**Telephone/Fax (1) 9132**]
+Appt: [**12-25**] at 11am
+
+Name: [**Last Name (LF) 5206**], [**First Name3 (LF) **]
+Address: [**Street Address(2) 4174**], [**Location (un) **], MA
+Phone: [**Telephone/Fax (1) 8105**]
+Appt: [**12-28**] at 4pm
+
+Name: [**Last Name (LF) 9133**],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD
+Location: CARDIOVASCULAR CENTER
+Address: [**Last Name (un) 9134**], [**Location (un) **],[**Numeric Identifier 9135**]
+Phone: [**Telephone/Fax (1) 9136**]
+Appt: [**12-29**] at 10am
+
+Name: [**First Name8 (NamePattern2) 225**] [**Last Name (NamePattern1) **] PA (works with [**Last Name (LF) **],[**First Name3 (LF) **] J. MD )
+Address: [**Last Name (un) 9137**] STE 301, [**Location (un) **],[**Numeric Identifier 9135**]
+Phone: [**Telephone/Fax (1) 4328**]
+Appt: [**1-5**] at 2pm
+
+Please call to make an appointment with Dr. [**Last Name (STitle) **] at ([**Telephone/Fax (1) 9138**] within one month.
+
+
+
+
+
+DOC CLASS

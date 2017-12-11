@@ -1,0 +1,278 @@
+Chief Complaint:  Lightheadedness
+   Reason for MICU admission: Hypotension
+   HPI:
+   This is an 84 yo M with a past medical history significant for multiple
+   myeloma (gets care at DF), on dexamethasone, who presents to the ED
+   today with complaints of weakness and fatigue for several days. He does
+   not endorse any localizing symptoms, but notes that he is "not feeling
+   well" and feels weak. He describes that he had a near syncopal event
+   yesterday. He describes that he was about to leave his home and
+   suddenly fell. He did not have his walker with him. He endorses a
+   prodrome of lightheadedness and felt "woozy" but denies loss of
+   consciousness.  He did scrape his right knee and side of the face a
+   little bit. He saw his gerontologist the same day, but felt better by
+   that time. He describes possible fever/chills at home, but did not
+   measure his temperature. He denies any n/v/d, sick contacts, myalgias,
+   chest pain, palpitations or headache. He is complaining about severe
+   sweating that occurs at night without any reason for which he had a
+   work up at the VA that was unrevealing.
+   Upon arrival to the ED, initial vital signs were 98.2 80 80/43 20 98%
+   on room air. Tmx was 99.7. Exam was nonlocalizing with a benign
+   abdominal exam. His lactate was 1.3, but labs were otherwise
+   significant for a leukocytosis to 26,000 with a left shift, acute renal
+   failure with a creatine of 2.3. He had a normal cxr, neg UA.
+   Blood/urine cx were drawn and he was given 3L of NS with little
+   improvement in his blood pressure. ECG was without acute change, and a
+   troponin was elevated at 0.44, prompting a cardiology consult who
+   advised that this was likely in the setting of ARF and hypotension and
+   was not ACS. He was given an aspirin. At this time, the concern for
+   relative adrenal insufficiency was raised and he was given a dose of
+   stress dose hydrocortisone, with subsequent improvement in his BP to
+   88/39. He was mentating clearly throughout.
+   He is being admitted to the MICU for hypotension. At time of transfer
+   to the MICU, his vitals were 73 88/39 20 96%ra, but he subsequently
+   dropped his pressures to the 60
+s. A CVL was placed, he was started on
+   levophed and given a dose of vanco, CTX and flagyl. He now has a CVL
+   and 2 18g PIV's for access, and has been started on his 4th L NS.
+   Upon arrival to the ICU, the patient is alert and talkative. He feels
+better
+. He notes that he always has some amount of shortness of
+   breath, and although he appears somewhat breathless, he will not
+   endorse that this is any worse from his baseline. He denies pleuritic
+   chest pain, palpitiations.
+   Patient admitted from: [**Hospital1 5**] ER
+   History obtained from Patient
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics: [**2780-1-23**] 11:30pm
+   Infusions: levophed
+   Other ICU medications:
+   Other medications (OUTPATIENT):
+CITALOPRAM - 20 mg qhs
+DEXAMETHASONE 4 mg Tablet - 10 Tablet(s) by mouth once a day every monday
+FINASTERIDE 5 mg Tablet - 1
+Tablet(s) by mouth once a day
+GABAPENTIN - 100 mg Capsule - 1 Capsule(s) by mouth at bedtime and then increase
+ it up to 300 mg tid
+LISINOPRIL - 20 mg daily once daily
+OXYCODONE-ACETAMINOPHEN 5
+mg-325 mg Tablet - 1 Tablet(s) by mouth once a day as needed for as needed for p
+ain in legs
+RANITIDINE HCL - 150 mg
+WARFARIN
+ASPIRIN
+CALCIUM-CHOLECALCIFEROL
+CHLORHEXIDINE GLUCONATE - 2 % Liquid - mouth wash twice a day
+DOCUSATE SODIUM - 100 mg
+FOLIC ACID - 0.4 mg Tablet
+GUAR GUM
+MULTIVITAMINS WITH MINERALS
+SENNA
+   Past medical history:
+   Family history:
+   Social History:
+   Multiple Myeloma - treated at DF currently, on dexamethasone
+   DVT x 2, on coumadin
+   Valvular heart disease
+   Hyperlipidemia
+   BPH
+   Constipation
+   Hypertension
+   Plantar fasciitis
+   Severe leg pain
+   appendectomy and tonsillectomy as a child
+   a kidney stone removed by Dr. [**First Name8 (NamePattern2) 767**] [**Last Name (NamePattern1) 30**] in [**2766**]
+   cholecystectomy by Dr. [**Last Name (STitle) 458**] in [**2774-8-26**]
+   His father died at 90 of cancer in the brain and his mother at 52 of
+   breast cancer.
+   Occupation: Retired. Used to run a sportswear company.
+   Drugs: None
+   Tobacco: None
+   Alcohol: None
+   Other: Married. Has a son and daughter.
+   Review of systems:
+   Constitutional: Fatigue, Fever
+   Cardiovascular: Lightheadedness
+   Neurologic: weakness
+   Flowsheet Data as of [**2780-1-23**] 11:46 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   T 99.8
+   BP 124/53
+   P 78
+   RR 26
+   Sat 94% 2L
+             Total In:
+             3000mL
+   PO:
+             TF:
+   IVF:
+   3000mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   O2 Delivery Device: None
+   Physical Examination
+   General: mild respiratory distress, can
+t finish complete sentences
+   HEENT: EOMI, PERRL. Anicteric. OP clear.
+   Neck: no JVD
+   Chest: RRR, II/VI systolic murmur heard best at LLSB.
+   Lungs: Bibasilar rales, no egophany
+   Abd: soft, obese, NT/ND
+   Ext: trace peripheral edema
+   Neuro:  CN II-XII in tact bilaterally, nonfocal exam
+   Skin: warm and well perfused, no rashes. Excoriation on right knee.
+   Access: RIJ
+   Labs / Radiology
+   [**Telephone/Fax (2) 4250**]6
+   98
+   5.3
+   134
+   38
+   26
+        [image002.jpg]
+   ALT: 30
+   AP: 46
+   Tbili: 0.6
+   Alb:
+   AST: 35
+   LDH:
+   Dbili:
+   TProt:
+   [**Doctor First Name 281**]:
+   Lip: 31
+   Lactate:1.3
+   PT: 19.1
+   PTT: 25.1
+   INR: 1.8
+   Color
+   Amber
+   Appear
+   Clear
+   SpecGr
+   1.021
+   pH
+   5.0
+   Urobil
+   Neg
+   Bili
+   Sm
+   Leuk
+   Neg
+   Bld
+   Neg
+   Nitr
+   Neg
+   Prot
+   Tr
+   Glu
+   Neg
+   Ket
+   15
+   RBC
+   0-2
+   WBC
+   [**2-28**]
+   Bact
+   Mod
+   Yeast
+   None
+   Epi
+   0-2
+   Comments:
+   URINE Color: Abn Color [**Month (only) 8**] Affect Dipstick
+   Other Urine Counts
+   CastGr: 0-2
+   CastHy: [**11-14**]
+   CastWax: <1
+   CastWBC: <1
+   Uric-AX: Few
+   Imaging:
+   CXR [**2780-1-23**] - no acute cardiopulmonary process
+   Prior TTE [**2776**] - Conclusions
+   The left atrium is mildly dilated. The right atrium is moderately
+   dilated. There may be a small interatrial shunt by color Doppler
+   examination. There is mild symmetric left ventricular hypertrophy. The
+   left ventricular cavity size is normal. Overall left ventricular
+   systolic function is normal (LVEF>55%). Right ventricular chamber size
+   and free wall motion are normal. The ascending aorta is markedly
+   dilated The aortic valve leaflets (3) are mildly thickened. There is no
+   aortic valve stenosis. Mild (1+) aortic regurgitation is seen. The
+   mitral valve leaflets are mildly thickened. Moderate (2+) mitral
+   regurgitation is seen. The mitral regurgitation jet is eccentric. The
+   left ventricular inflow pattern suggests impaired relaxation. The
+   tricuspid valve leaflets are mildly thickened. There is moderate
+   pulmonary artery systolic hypertension. There is no pericardial
+   effusion.
+   No intracardiac mass identified (cannot definitively exclude).
+   Microbiology:
+   Blood cx x 2 pending
+   Urine cx pending
+   ECG: No acute STTWC
+   Assessment and Plan
+   84 yo M with history of MM, DVT, admitted with hypotension and ARF.
+   #. Hypotension - Patient is afebrile, with a leukocytosis and no
+   localizing symptoms. Hypotension was refractory to 3L of NS. Elevated
+   WBC could be from dexamethasone, but there is a left shift and a mild
+   bandemia. Suspicion is for occult infection compounded by poor PO
+   intake and relative adrenal insufficiency in the setting of chronic
+   steroid use. Other possibilties include PE, but no shortness of breath
+   or tachycardia; cardiogenic shock is unlikely, as troponin elevation is
+   less likely ACS and more likely the result of ARF and hypotension. As
+   for source of possible sepsis, patient does not have any localizing
+   symptoms. He is s/p CCY, UA is unremarkable, CXR is clear, abdominal
+   exam is benign, no rashes. Given that he is relatively
+   immunocompromised, it could be bacterial, atypicals or perhaps viral or
+   fungal infection leading to poor PO intake and dehydration and actually
+   not sepsis at this point. ?influenza, but no characteristic symptoms.
+   - continue stress dose steroids for now
+   - continue IVF aggressively overnight with caution for his history of
+   valvular dysfunction
+   - maintain CVP>10-12 mmHg, MAP>65
+   - measure CvO2 sat
+   - continue broad spectrum abx with vanco, zosyn, azithro
+   - hold home anti-hypertensives until hemodynamically stable
+   - r/o flu
+   #. ARF - likely prerenal azotemia. IVF overnight. If BUN/Cr continue to
+   rise, will send urine lytes.
+   #. Leukocytosis - either secondary to infection or perhaps due to
+   dexamethasone. Will hold off on antibiotics until there is a clear
+   source or if patient decompensates.
+   #. Elevated troponin - no EKG changes. This is likely in the setting of
+   hypotension and ARF. Can complete ROMI, but low probability for ACS.
+   #. Multiple Myeloma - multiple myeloma for which he takes dexamethasone
+   weekly on a regular basis.  He gets most of his medications as well as
+   labs done at the VA and his oncologist is at [**Hospital3 **].  He recently
+   has been having problems with pain in his back and legs.
+   #. History of DVT- continue coumadin
+   #. Depression - continue citalopram
+   #. Benign prostatic hypertrophy - continue finasteride at nighttime.
+   ICU Care
+   Nutrition: Regular
+   Glycemic Control:
+   Lines: CVL (RIJ)
+   Prophylaxis:
+   DVT: coumadin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR/DNI
+   Disposition: ICU for now
+
+
+DOC CLASS

@@ -1,0 +1,378 @@
+Admission Date:  [**3421-11-27**]              Discharge Date:   [**3421-12-8**]
+
+Date of Birth:  [**3349-11-8**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2170**]
+Chief Complaint:
+Shortness-of-breath
+
+Major Surgical or Invasive Procedure:
+Dr. [**Name (NI) **]:
+*[**11-29**] - Rigid bronchoscopy, flexible bronchoscopy, balloon
+dilatation, and Ultraflex covered metallic stent placement (40 x
+10) in LLL
+*[**11-30**] - Flexible bronchoscopy with tumor excision
+*[**12-1**] - Flexible bronchoscopy with therapeutic aspiration of
+retained secretions
+*[**12-2**] - Flexible bronchoscopy with tumor excision
+*[**12-3**] - Flexible bronchoscopy and aspiration of secretions.
+
+History of Present Illness:
+The patient is a 72 year-old female recently diagnosed with
+NSCLC [**10-17**] undergoing cehmotherapy (last [**3421-11-20**]) transferred
+from [**Hospital 70**] Hospital for evaluation of central airway
+obstruction and possible stent placement.  She reported
+increasing shortness of breath and general fatigue over the
+previous 2 months.  On transfer, her OSH records indicated her
+oxygen saturation's ranged from 84-85% on room air and she was
+intermittently placed on BIPAP.
+
+Past Medical History:
+HTN
+Hypercholesterolemia
+LBBB
+s/p appy
+s/p TAH-BSO
+s/p L elbow repair
+
+Social History:
+48 pack year history of smoking.
+
+Family History:
+Noncontributory
+
+Pertinent Results:
+[**3421-12-8**] 04:38AM BLOOD WBC-11.1* RBC-3.27* Hgb-10.0* Hct-29.1*
+MCV-89 MCH-30.7 MCHC-34.4 RDW-14.6 Plt Ct-229
+[**3421-12-7**] 02:07AM BLOOD WBC-11.2* RBC-3.01* Hgb-9.4* Hct-26.6*
+MCV-88 MCH-31.1 MCHC-35.2* RDW-14.4 Plt Ct-219
+[**3421-11-28**] 03:19PM BLOOD WBC-32.7* RBC-3.83* Hgb-11.7* Hct-32.7*
+MCV-86 MCH-30.7 MCHC-35.9* RDW-13.2 Plt Ct-159
+[**3421-11-27**] 10:56PM BLOOD WBC-46.5* RBC-3.94* Hgb-12.3 Hct-33.9*
+MCV-86 MCH-31.2 MCHC-36.3* RDW-13.1 Plt Ct-162
+[**3421-12-4**] 04:10AM BLOOD Neuts-90.0* Lymphs-6.5* Monos-3.2 Eos-0.2
+Baso-0.1
+[**3421-11-27**] 10:56PM BLOOD Neuts-97* Bands-0 Lymphs-1* Monos-2 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**3421-12-8**] 04:38AM BLOOD Plt Ct-229
+[**3421-12-8**] 04:38AM BLOOD PT-12.8 PTT-36.7* INR(PT)-1.1
+[**3421-11-27**] 10:56PM BLOOD Plt Smr-NORMAL Plt Ct-162
+[**3421-11-27**] 10:56PM BLOOD PT-12.5 PTT-27.6 INR(PT)-1.1
+[**3421-12-8**] 04:38AM BLOOD Glucose-102 UreaN-24* Creat-0.5 Na-139
+K-4.0 Cl-97 HCO3-34* AnGap-12
+[**3421-12-7**] 02:07AM BLOOD UreaN-24* Creat-0.5 Cl-98 HCO3-32
+[**3421-11-28**] 03:19PM BLOOD Glucose-132* UreaN-15 Creat-0.5 Na-134
+K-4.4 Cl-94* HCO3-32 AnGap-12
+[**3421-11-27**] 10:56PM BLOOD Glucose-148* UreaN-12 Creat-0.5 Na-133
+K-3.3 Cl-90* HCO3-31 AnGap-15
+[**3421-12-8**] 04:38AM BLOOD Calcium-8.9 Phos-4.0 Mg-1.8
+[**3421-12-7**] 02:07AM BLOOD Mg-1.8
+[**3421-11-28**] 03:19PM BLOOD Calcium-8.9 Phos-2.7 Mg-2.5
+[**3421-11-27**] 10:56PM BLOOD Calcium-8.5 Phos-3.3 Mg-2.0
+[**3421-12-7**] 09:16PM BLOOD Type-ART pO2-105 pCO2-53* pH-7.36
+calTCO2-31* Base XS-2
+[**3421-12-7**] 05:20PM BLOOD Type-ART pO2-134* pCO2-56* pH-7.41
+calTCO2-37* Base XS-9
+[**3421-11-29**] 02:31PM BLOOD Type-ART pO2-90 pCO2-54* pH-7.39
+calTCO2-34* Base XS-5
+[**3421-11-28**] 09:46AM BLOOD Type-ART pO2-79* pCO2-51* pH-7.43
+calTCO2-35* Base XS-7
+[**3421-12-7**] 09:16PM BLOOD Glucose-138* K-4.3
+[**3421-12-7**] 02:00PM BLOOD Glucose-116* Na-137 K-3.6
+[**3421-12-7**] 02:00PM BLOOD O2 Sat-98
+[**3421-12-7**] 02:18AM BLOOD O2 Sat-99
+[**3421-11-28**] 09:46AM BLOOD Glucose-180* K-3.9
+[**3421-11-29**] 04:12PM BLOOD Glucose-103 K-3.6
+[**3421-12-7**] 09:16PM BLOOD freeCa-1.16
+
+RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**3421-12-5**] 7:06 AM
+
+CHEST (PORTABLE AP)
+
+Reason: eval for interval change
+
+UNDERLYING MEDICAL CONDITION:
+72 year old woman Advanced NSCLC and Central airway obstruction
+s/p L-MS/LLL stent s/p bronch, SBT on [**12-4**]
+REASON FOR THIS EXAMINATION:
+eval for interval change
+INDICATION: 72-year-old woman with advanced nonsmall cell lung
+cancer and central airway obstruction.
+
+Portable AP view of the chest from [**3421-12-5**] is compared to the
+prior from yesterday. Endotracheal tube, nasogastric tube, and
+the right PICC are in standard position. Partial opacification
+of the entire mid and lower left hemithorax with associated left
+volume loss and leftward mediastinal shift. A right hilar mass
+is again seen with remainder of the right lung clear.
+
+IMPRESSION: Multiple abnormalities as described above without
+significant short interval change.
+
+   RADIOLOGY  Final Report
+
+CT CHEST W/CONTRAST  [**3421-11-28**] 1:12 PM
+
+CT CHEST W/CONTRAST
+
+Reason: IV CONTRAST; eval extent of lung mass
+Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+72 year old woman with recently dx lung ca [**10-17**] with increased
+SOB and outside report of lung mass compression of airway
+REASON FOR THIS EXAMINATION:
+IV CONTRAST; eval extent of lung mass
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: 72-year-old woman with recently diagnosed lung
+cancer with increased shortness of breath. Please evaluate
+extent of mass.
+
+Multidetector CT images were obtained through the chest with
+contrast at 1.25 and 5 mm reconstructions in the lung algorithm.
+
+COMPARISON: Portable chest [**3421-11-27**] and [**3421-11-28**].
+
+CT CHEST WITH CONTRAST: There is a large mass within the left
+lung abutting the left heart border and invading the mediastinal
+airway and vascular structures. This mass causes complete
+collapse of the left upper lobe bronchus and partial collapse of
+left lower lobe bronchus. Measurable solid components measures
+8.4 x 5.6 cm (2:25) and 3.1 x 3.1 cm (2:34). This mass
+compresses the left main pulmonary artery to a diameter of 5 mm
+(2:21). Additionally, the left main stem bronchus is narrowed to
+3 mm at the hilum of this invasive mass and adjacent
+lymphadenopathy. Large conglomerate lymph nodes in the
+subcarinal and right hilar region also causes narrowing of the
+right bronchus intermedius to 3.5 mm and compression of the
+right upper lobe bronchus. This right hilar lymphadenopathy
+measures up to 22 mm. Additionally, there is a very large right
+supraclavicular lymph node measuring 34 x 41 mm.
+
+The patient is intubated. Just above the level of the carina,
+lymphadenopathy compresses the trachea to 10 mm x 9 mm.
+
+Within the remainder of the lung fields, multiple metastatic
+nodules and masses are identified, the largest within the right
+middle lobe measuring 28 x 35 mm. There are no significant
+pleural effusions.
+
+The heart is normal in size. As described above, there is
+significant narrowing of the left main pulmonary artery. There
+is probable narrowing of the left main pulmonary artery that is
+compressed between subcarinal and right hilar lymphadenopathy
+(2:26). There are atherosclerotic calcifications seen within the
+aorta and coronary arteries. There is a small pericardial
+effusion.
+
+Within the imaged portion of the abdomen, the gallbladder is
+noted to be distended (2:59). Additionally, just above the
+gallbladder is a subtle rounded density, which may represent
+metastatic lesion measuring 5.1 x 4.7 cm, (series 2:54). This
+lesion is seen best on liver windows. The imaged portions of the
+pancreas and spleen are normal. The adrenal glands are
+thickened, but no focal masses are identified.
+
+Bone windows show no evidence of suspicious lytic or sclerotic
+osseous lesions.
+
+IMPRESSION:
+1. Large central left lung mass with post-obstructive collapse
+of left upper lobe and partial collapse left lower lobe.
+Associated large bilateral hilar and mediastinal conglomerate
+lymph nodes, which encase the airway and the central pulmonary
+arteries. Additional findings of metastatic disease throughout
+the lungs and a large right supraclavicular lymph node.
+2. Trachea and bronchi are encased/narrowed by conglomerate
+nodal disease, with most severe narrowing at left main bronchus
+proximal to left upper lobe obstruction.
+3. Oval soft-tissue density structure in gallbladder fossa
+region, likely a distended, sludge filled gallbladder but solid
+mass is difficult to exclude. A right upper quadrant ultrasound
+is recommended to confirm and further characterize this finding.
+4. Probable discrete mass within the right lobe of the liver
+superior to the gallbladder fossa. This finding can be evaluated
+on the right upper quadrant ultrasound to evaluate the
+gallbladder.
+
+
+Brief Hospital Course:
+The patient is a 72 year-old female recently diagnosed with
+NSCLC [**10-17**] undergoing cehmotherapy (last [**3421-11-20**]) transferred
+from [**Hospital 70**] Hospital to Dr.[**Name (NI) 4572**] Interventional Pulmonology
+service at the [**Hospital1 37**] on [**3421-11-27**]
+for evaluation of central airway obstruction and possible stent
+placement.
+.
+On HD 1, she had an elevated WBC of 46.5 and her chest x-ray
+demonstrated complete whiteout of the left chest.  She was
+afebrile and was empirically started on vancomycin and
+meropenem.  She was placed on BIPAP 10 and 5 to maintain her
+oxygenation.
+.
+On HD 2, she underwent an elective intubation and bronchoscopy
+which demonstrated extrinsic compression of the left and right
+mainstem bronchi.  For details of the operation, please refer to
+the operative report.  She was continued on the antibiotics and
+remained afebrile.
+.
+On HD 3 the patient underwent a rigid bronchoscopy, flexible
+bronchoscopy, balloon dilatation, and Ultraflex covered metallic
+stent placement (40 x 10) in the LLL.  For details of the
+operation, please refer to the operative report.  She was
+continued on the antibiotics,  remained afebrile and intubated.
+Status post stent placement, the patient was found to have a-fib
+and metoprolol and amiodarone were started.
+.
+On HD 4, she was continued on the antibiotics and remained
+afebrile.  She ahd converted back to normal sinus rhythm.  She
+was extubated early in the morning, however, by mid evening it
+was found that she was having progressive respiratory failure
+and re-intubation was done.  She underwent a flexible
+bronchoscopy with tumor excision.  For details of the operation,
+please refer to the operative report.
+.
+On HD 5, she underwent a flexible bronchoscopy with therapeutic
+aspiration
+of retained secretions.  For details of the operation, please
+refer to the operative report.  Trials of pressure support for
+extubation failed with increasing respiratory rates and poor
+arterial blood gases.
+.
+On HD 6, she underwent a flexible bronchoscopy with tumor
+excision.  For details of the operation, please refer to the
+operative report.  She was continued on the antibiotics and
+remained afebrile.  Her WBC count had progressively decreased to
+11.4.  Continued trials at extubation failed.
+.
+On HD 7, she underwent a flexible bronchoscopy with aspiration
+of retained secretions.  For details of the operation, please
+refer to the operative report.  She was continued on the
+antibiotics and remained afebrile.  Continued attempts to wean
+fromthe ventilator failed.
+.
+On HD 8, it was decided that she would benefit from pulmonary
+rehabilitation for ventilator weaning.  She was continued on
+BIPAP for good part of the afternoon without difficulty.  She
+was continued on the antibiotics and remained afebrile.
+.
+On HD 9, it was decided to trasnfer her to a ventilatory
+rehabilitation facility for further weaning off the vent.  Her
+family was in agreement.  She was discharged to a rehabilitation
+facility close to her home and will be followed by her primary
+care physician as well as her oncologist for further treatment.
+
+Patient will undergo a speech and swallow evaluation and pending
+her passing the evaluation, she will resume a normal diet. Until
+this is so, she will continue on tube feeds.
+
+Medications on Admission:
+Solumedrol 80mg IV Q8
+Vanco 1gmQ12
+Nasarel
+Imipnenem 500mgQ6
+Procardia 60'
+K-dur 2-MEq [**Hospital1 **]
+Zocor 10'
+Lasix 20QD
+Ativan 1mgQ8prn
+Combivent
+
+Discharge Medications:
+1. Fluticasone 50 mcg/Actuation Aerosol, Spray [**Hospital1 345**]: Two (2)
+Spray Nasal [**Hospital1 **] (2 times a day).
+2. Heparin (Porcine) 5,000 unit/mL Solution [**Hospital1 345**]: One (1)
+Injection TID (3 times a day).
+3. Acetaminophen 325 mg Tablet [**Hospital1 345**]: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+4. Ipratropium Bromide 0.02 % Solution [**Hospital1 345**]: [**2-12**]  Inhalation Q6H
+(every 6 hours) as needed.
+5. Guaifenesin 100 mg/5 mL Syrup [**Month/Day (2) 345**]: One (1)  PO Q4H (every 4
+hours).
+6. Metoprolol Tartrate 25 mg Tablet [**Month/Day (2) 345**]: 1.5 Tablets PO TID (3
+times a day).
+7. Amiodarone 200 mg Tablet [**Month/Day (2) 345**]: Two (2) Tablet PO DAILY
+(Daily): Hold for SBP < 100, HR < 60. Tablet(s)
+8. Bisacodyl 10 mg Suppository [**Month/Day (2) 345**]: One (1) Suppository Rectal
+DAILY (Daily) as needed.
+9. Docusate Sodium 150 mg/15 mL Liquid [**Month/Day (2) 345**]: One (1)  PO BID (2
+times a day).
+10. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution [**Month/Day (2) 345**]: 5-10 MLs
+PO Q4-6H (every 4 to 6 hours) as needed for 5 days.
+11. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol [**Month/Day (2) 345**]: [**2-12**]
+Puffs Inhalation Q4H (every 4 hours).
+12. Lorazepam 2 mg/mL Syringe [**Month/Day (2) 345**]: One (1)  Injection Q6H (every
+6 hours) as needed.
+13. Lasix 20 mg Tablet [**Month/Day (2) 345**]: One (1) Tablet PO twice a day for 7
+days: Please re-assess fluid status and adjust accordingly.
+14. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) [**Month/Day (2) 345**]: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+15. Outpatient Lab Work
+Electrolytes, especially potassium Q3 days until stable.
+16. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+[**Month/Day (2) 345**]: Two (2) Tab Sust.Rel. Particle/Crystal PO once a day: As
+needed for potassium repletion.
+17. Lorazepam 0.5 mg Tablet [**Month/Day (2) 345**]: 1-2 Tablets PO Q4-6H (every 4
+to 6 hours) as needed.
+18. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 345**]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+19. tube feeds
+Diet: Tubefeeding: Nutren Pulmonary Full strength; Additives:
+Beneprotein, 35 gm/day
+Starting rate:40 ml/hr; Do not advance rate Goal rate:40 ml/hr
+Residual Check:q4h Hold feeding for residual >= :100 ml
+Flush w/ 50 ml water q8h
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1026**] Northeast - [**Location (un) 1005**]
+
+Discharge Diagnosis:
+Central airway obstructing NSCLC
+
+
+Discharge Condition:
+Stable to ventilatory rehabilitation facility.
+
+
+Discharge Instructions:
+Call Dr.[**Last Name (STitle) **], [**First Name3 (LF) **]/ Interventional Pulmonology ([**Telephone/Fax (1) 3498**])
+for: fever, shortness of breath, chest pain, difficulty
+breathing, drainage from incision sites.
+*Continue your medications as previous to surgery as stated on
+discharge instructions
+*Take new medications as directed and as needed, stated on
+discharge instructions. Presriptions.
+You may shower in 2 days, remove chest tube dressing after
+showering and place bandaid or guaze daily as needed.
+No tub baths or swimming for 3-4 weeks.
+
+Patient will be going to a ventilatory rehab facility.
+
+
+
+
+Followup Instructions:
+CAll Dr.[**Last Name (STitle) **] or [**Doctor Last Name **] at [**Telephone/Fax (1) 3498**] for an
+appointment. Follow-up 2 weeks after chemotherapy.
+
+Patient will follow up with her primary care physician and her
+oncologist.
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 2177**]
+
+Completed by:[**3421-12-8**]
+
+DOC CLASS

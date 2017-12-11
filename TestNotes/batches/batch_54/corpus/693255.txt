@@ -1,0 +1,229 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - uptitrated milrone and lasix gtt to maintain UOP.
+   - episodes of atrial tach, controlled with BB.
+   - started ISS
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Milrinone - 0.375 mcg/Kg/min
+   Heparin Sodium - 1,000 units/hour
+   Furosemide (Lasix) - 20 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2508-12-13**] 07:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.4
+C (97.5
+   HR: 85 (79 - 121) bpm
+   BP: 113/51(65) {94/35(53) - 122/70(81)} mmHg
+   RR: 18 (15 - 28) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 82.3 kg (admission): 82 kg
+   Height: 68 Inch
+             Total In:
+                                                                  1,352 mL
+                                                                    301 mL
+   PO:
+                                                                    540 mL
+             TF:
+   IVF:
+                                                                    812 mL
+                                                                    301 mL
+   Blood products:
+   Total out:
+                                                                  1,945 mL
+                                                                    420 mL
+   Urine:
+                                                                  1,945 mL
+                                                                    420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -593 mL
+                                                                   -119 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///22/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   374 K/uL
+   9.2 g/dL
+   184 mg/dL
+   5.9 mg/dL
+   22 mEq/L
+   4.4 mEq/L
+   130 mg/dL
+   90 mEq/L
+   131 mEq/L
+   27.4 %
+   10.2 K/uL
+        [image002.jpg]
+                            [**2508-12-10**]  05:14 AM
+                            [**2508-12-10**]  03:10 PM
+                            [**2508-12-11**]  02:52 AM
+                            [**2508-12-11**]  05:12 PM
+                            [**2508-12-12**]  04:41 AM
+                            [**2508-12-13**]  04:35 AM
+   WBC
+   15.5
+   12.3
+   13.2
+   11.7
+   10.2
+   Hct
+   30.9
+   28.1
+   29.8
+   29.0
+   27.4
+   Plt
+   [**Telephone/Fax (3) 11413**]66
+   374
+   Cr
+   5.7
+   5.8
+   5.9
+   5.8
+   5.7
+   5.9
+   TropT
+   5.68
+   4.52
+   4.76
+   Glucose
+   123
+   117
+   141
+   180
+   82
+   184
+   Other labs: PT / PTT / INR:16.6/81.1/1.5, CK / CKMB /
+   Troponin-T:43/5/4.76, ALT / AST:63/191, Alk Phos / T Bili:65/0.7,
+   Differential-Neuts:65.4 %, Lymph:24.9 %, Mono:7.2 %, Eos:2.3 %,
+   Albumin:3.1 g/dL, LDH:420 IU/L, Ca++:8.3 mg/dL, Mg++:2.4 mg/dL, PO4:8.7
+   mg/dL
+   Assessment and Plan
+   75 yom with multiple risk factors for CAD without prior history p/w
+   with anginal events and new LBBB on EKG and NSTEMI with depressed
+   cardiac function (EF 20%).  Transferred from [**Hospital3 **] for cath by Dr.
+   [**Last Name (STitle) **] in anticipation of Cardiac cath.  CKD, CLL, Anemia, and looming
+   HD complicate his picture.
+   .
+   # CP:  Given his risk factors, his atypical chest pain is likely to
+   have represented ACS. He initially was well controlled on medical
+   management, but subsequently developed recurrent pain, which is now
+   controlled on morphine and nitro.   Horrendous 3VD on cath, elevated
+   PCWP, CABG indicated as per C-[**Doctor First Name **] recs.  Cath -> 90% prox LAD crossing
+   D1, LCX 90% Prox to OM1, and a left dominant system with serial 70%
+   lesions in the LPDA.
+   - CABG in a week?
+    -
+   Impression: Right ICA with <40% stenosis.
+   Left ICA with <40% stenosis.
+    No need to fix before surgery
+   - on asa, heparin gtt, lipitor, BB
+   - pre-CABG workup
+ carotids, ABI
+s today
+   - If CP call C-[**Doctor First Name 204**]
+   .
+   # decompensated LV dysfunction: CXR and TTE at OSH reporting worsened
+   CHF with EF of 25%. Currently euvolemic on exam, after lasix ggt.
+   Likely precipitant is an ischemic event given above presentation.
+   ECHO here yesterday showed, Ef 20-25%, CI-1.95, PASP
+ 34-60, LVH with
+   Global hypokinesis, mild AR, mild MR, small cicumferential pericardial
+   effusion.
+   - Continue lasix with milrinone given very high PCWP
+ lasix currently
+   at 10,
+   - monitor I/O keep (-) 1L today
+   - on BB
+   - UOP has tapered off, creatinine has bumped
+   .
+   # LBBB: Noted on initial presentation to OSH, on [**2508-12-7**]. Now appears
+   resolved. Unclear if this was really new, since the only comparison is
+   from 07.
+   - monitor on tele
+   .
+   # Pulm/SOB: most likely CHF, although has h/o COPD, so perhaps mixed
+   picture. Less likely infective, but given levofloxacin at OSH
+   presumably for leucocytosis and concern for CAP.
+   - nebs, O2, will d/c levo and monitor for fever/leukocytosis.
+   .
+   # CKD:  Creatinine has been upward trending since his admission, unsure
+   of the baseline Creatinine prior to OSH. Likely secondary to poor
+   forward flow.   FeNa <1, FeUrea-25% = Pre-Renal, low flow
+   - avoid nephrotoxic meds
+   - monitor I/O
+ output greatly improved with milrinone and lasix though
+   tapering off now
+   - started Phoslo
+   - continue Procrit
+   - f/u renal recs.
+       - No HD for now, place A-V fistula at time of surgery
+   - creatinine has bumped with diuresis
+   .
+   Claudication- Precludes IABP
+   .
+   CLL: doing very well on chlorambucil, Dr. [**Last Name (STitle) 11389**] aware, would like to
+   discuss with him today.
+   -          No Chlorambucil prior to surgery
+   -          Onc [**Last Name (un) **] for CBC/Diff, Ig, smear
+   -          f/u with Dr. [**Last Name (STitle) **]
+   .
+   Anemia:
+   Chronic, on epo, adding iron
+   .
+   # HTN: controlled
+   .
+   # DM: on levimer and aspart SSI
+   .
+   FEN: replete lytes
+   .
+   ACCESS: Dominant Hand PICC placed.
+   .
+   PROPHYLAXIS: heparin
+   .
+   CODE: per osh note: DNR/DNI
+   .
+   COMM: patient.
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2508-12-11**] 02:35 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,387 @@
+Admission Date:  [**3428-2-14**]              Discharge Date:   [**3428-2-21**]
+
+Date of Birth:  [**3363-7-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 107**]
+Chief Complaint:
+transferred for evaluation of exertional dyspnea/acute CHF
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This 64M with CAD s/p CABG in [**3421**] for a positive stress test
+and hyperlipidemia who stopped taking all his cardiac
+medications 8 months ago was traveling in [**State 1289**] on
+business began experiencing dyspnea and chest pressure after
+walking 50-60 feet, which was new for him, four days prior to
+admission to this hospital. Two days prior to admission, he was
+dyspneic after just 20-25 feet, and presented to an OSH for
+evaluation. He was found to be in CHF with marked volume
+overload and also in rapid atrial fibrillation.
+.
+Diuresis was limited by acute renal failure (peak creatinine
+1.8, up from 1.4 on admission). Control of atrial fibrillation
+was attempted with diltiazem and he was loaded with digoxin.
+Runs of NSVT were noted on telemetry. An echocardiogram showed
+LVEF 10% and a dilated, hypokinetic RV. CXR showed mild
+pulmonary edema. CTPA showed bilateral effusions but was
+negative for PE.
+.
+.
+On review of systems, he endorses cough productive of clear,
+whitish sputum over the last three weeks. He denies orthopnea,
+PND, or ankle edema. He reports a history of presyncope related
+to uptitration of antihypertensives in the past and this is why
+he self-discontinued beta blockers. He denies symptoms of stroke
+or TIA. No history of bleeding problems.
+
+
+Past Medical History:
+# CAD s/p CABG [**3421**] @ [**State 26893**]; LIMA to midLAD,
+SVG to midLCX, SVG to D2
+# CHF (EF 10%)
+- post-CABG EF 20-30%
+# AF, noted at outpatient visit in [**3426**] in MN
+# hypercholesterolemia
+# ORIF of L tibial fracture, [**3419**]; hardware subsequently
+removed, [**3420**]
+
+Social History:
+Lives with wife in [**State 8468**], works in [**Name (NI) 26894**] but travels
+frequently to MA. Denies tobacco or illicit drug use. Drinks a
+glass of wine with dinner 2-3 times per week.
+
+
+Family History:
+Brother died of sudden cardiac death during a plane flight at
+age 62.
+
+Physical Exam:
+(on admission)
+VS: T:97.6, BP:98/66, HR:111, RR:18, O2: 98% on 2L NC
+Gen: obese middle aged male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with JVP of 16 cm H2O.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, soft S1, paradoxically S2. No m/r/g. No thrills, lifts. No
+S3 or S4.
+Chest: Breathing with accessory muscles but able to speak in
+sentences. Decreased breath sounds at both bases with R > L
+crackles at the bases. Scattered wheezing. No rhonchi.
+Abd: Obese, NTND. Pulsatile liver.
+Groin: 2+ femoral pulses. No bruits
+Ext: WWP. 1+ bilateral ankle edema. 2+ DP pulses.
+Skin: Slight jaundice. No stasis dermatitis, ulcers, surgical
+scar on L ankle, surgical scar along R leg c/w vein harvesting
+
+Pertinent Results:
+LABORATORY DATA from OSH:
+Troponin I 0.18-->0.22
+Cr 1.5-->1.87-->1.37
+BNP 1164
+.
+Admission Labs:
+[**3428-2-14**] 10:35PM   GLUCOSE-106* UREA N-33* CREAT-1.4* SODIUM-134
+POTASSIUM-3.7 CHLORIDE-92* TOTAL CO2-34* ANION GAP-12
+[**3428-2-14**] 10:35PM   ALT(SGPT)-748* AST(SGOT)-227* LD(LDH)-242 ALK
+PHOS-72 TOT BILI-1.2
+[**3428-2-14**] 10:35PM   proBNP-5719*
+[**3428-2-14**] 10:35PM   WBC-12.3* RBC-4.58* HGB-14.3 HCT-41.2 MCV-90
+MCH-31.2 MCHC-34.7 RDW-15.5
+[**3428-2-14**] 10:35PM   PT-15.0* PTT-41.0* INR(PT)-1.3*
+.
+Admission ECG: atrial fibrillation with PVCs vs aberrancy, LBBB;
+similar to tracings from [**Hospital3 929**] dated [**2-12**] and [**2-13**], no
+older tracings available
+.
+Admission CXR (AP) ([**3428-2-15**]): The patient has had median
+sternotomy.  The heart is mildly enlarged.  Right lung is clear.
+ Left lower lung is opacified, and there may be a small left
+pleural effusion.  In the absence of prior imaging, I cannot
+ascribe the left lower lobe to benign post-surgical atelectasis
+and there is the suggestion of a left hilar mass.  Chest CT
+imaging is recommended unless the explanation for the abnormal
+left lower lung is known.
+.
+Echo ([**3428-2-15**]): The left atrium is markedly dilated. The right
+atrium is markedly dilated. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity is
+moderately dilated. There is severe global left ventricular
+hypokinesis (LVEF = 20 %). A left ventricular apical
+mass/thrombus cannot be excluded. There is no ventricular septal
+defect. The right ventricular cavity is mildly dilated with
+depressed free wall contractility. The ascending aorta is
+moderately dilated. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Mild to moderate
+([**12-5**]+) mitral regurgitation is seen. There is borderline
+pulmonary artery systolic hypertension. The end-diastolic
+pulmonic regurgitation velocity is increased suggesting
+pulmonary artery diastolic hypertension. There is no pericardial
+effusion.
+.
+CT ([**3428-2-15**]): 1.  Mild pulmonary edema.  Moderate right pleural
+effusion. No evidence of pneumonia. 2.  The appearance on chest
+radiograph is likely secondary to a combination of the
+moderate-sized loculated left pleural effusion, left lower lobe
+and lingular atelectasis and cardiomegaly.  3.  6-mm right upper
+lobe nodule.  In a high-risk patient (history of smoking
+or known malignancy), followup is recommended in six months.
+Otherwise, 12-
+month followup is recommended.
+.
+PVR at the time of d/c 193
+.
+Discharge weight 110.7kg
+
+Brief Hospital Course:
+64M with CAD s/p CABG in [**3421**], also hyperlipidemia, self-d/c'd
+all cardiac medications 8 months ago, now with acute on chronic
+systolic heart failure and rapid atrial rhythm.
+.
+#  Acute on chronic systolic heart failure, LVEF 20%
+Pt was admitted with NYHA Class IV symptoms, acutely over the
+week prior to presentation but had been off all cardiac
+medications for the past 8 months (aside from lasix) as he
+wanted to be on herbal medications instead. Acute decompensation
+was most likely related to worsening of her cardiomyopathy [**1-5**]
+rapid heart rate over time, in the setting of no meds. On
+transfer, he was dyspneic at rest with 2L O2 requirement despite
+some diuresis at OSH, and on dobutamine for low blood pressure.
+He diuresed 1300cc overnight on lasix drip with dobutamine and
+SOB improved. Dobutamine was weaned off in the am the following
+day.
+The etiology of the acute HF was thought to be hypertension for
+stopping the meds (increased afterload and work on heart) +/-
+[**1-5**] paroxysmal afib with RVR.
+Pt was digoxin loaded at the OSH to control HR, and when seen in
+the CCU here was continued at 0.25 (given hr into 110-120s
+despite load.  BB was also added for rate control once tolerated
+from BP standpoint.
+Lasix gtt was continued and 3-4L was taken off the following 2
+days.   Echo was done demonstrating severe global left
+ventricular hypokinesis with an LVEF = 20 % as previously known.
+Over the following days we continued lasix with boluses IV for
+diuresis, and the pt diuresed another 3-4 L prior to discharge
+and the dry weight at the time of discharge was 110.7kg.  he was
+discharged on 40mg po lasix to maintain this dry weight.
+On day #4, afterload reduction was added in the form of [**First Name8 (NamePattern2) **] [**Last Name (un) **]
+(given hx of cough with ACEi) once bp tolerated.  Also,
+aldactone was started for class IV heart failure.
+On the echo, a left ventricular apical mass/thrombus could not
+be excluded.  The plan for this was to have pt anticoagulated
+for at least one month prior to possible DCCV in order to
+prevent possibly dislodging a thrombus from the LV.
+.
+# CAD: s/p CABG
+Pt was not currently taking any anti-ischemic therapy at the
+time of admission. ASA, plavix, simvastatin 40mg was started
+empirically and continued throught d/c.  Lipid profile included
+a very low HDL and niacin and/or fibrates were considered.
+However, the thinking was that the cholesterol panel may be
+falsely low due peri-MI.  Therefore, the recommendation was to
+recheck as an outpt and to consider niacin or fibrate if low. We
+also recommended exercise as this may raise HDL. Ischemic insult
+was felt very unlikely as a cause of HF and more likely related
+to medication noncompliance. BB and [**Last Name (un) **] were started as above.
+.
+# Rhythm: Atrial fibrillation
+Digoxin and BB for rate control as mentioned above as well as
+heparin gtt.  DCCV was considered (although given the size of
+the atria will have have high risk of recurrence) but given that
+possible LV thrombus would not be better visualized with TEE
+than TTE the decisiton was made to have pt be anticoagulated for
+at least one month prior to possible DCCV in order to prevent
+possibly dislodging a thrombus from the LV.  The pt was
+therefore started on coumadin with the heparin bridge although
+the heparin had to be held tha day prior to discharge.  At this
+time the INR was 1.5.  Since 3 days had passed after starting
+5mg coumadin the dose was increased to 7.5 mg on [**2-20**].  At the
+time of discharge INR was still 1.5.  He was instructed to have
+his INR checked on [**2-25**] in [**State 25890**] and given a script for a
+lab draw.
+.
+# E.Coli UTI and bacteremia, pan-sensitive
+Pt was found to have positive UA on routine UA taken on
+admission and therefore ciprofloxacin was started on day#2.  The
+urine culture grew out pan-sensitive E.Coli.  Blood cultures
+taken at the same time (for hypotension) had 1/4 bottles
+positive for E.Coli as well.  Pt continued to be HD stable and
+without s/s of sepsis and the abx regiment was therefore not
+changed and cipro was continued in hospital and at the time of
+discharge for a total of 14 days for complicated UTI.  Pt did
+not have any lines in when blood culture was found to be
+positive, and foley was removed prior to this as well.  Repeat
+cultures for clearing of blood were negative.
+.
+# Persistent Hematuria
+Started after placing foley on admission and thought likely [**1-5**]
+traumatic foley + anticoagulation + UTI.  Pt slowly had clearing
+of his urine with treatment of UTI, but then on HOD#5 had
+recurrence of dark hematuria (no clots) likely [**1-5**]
+supratherapeutic PTT of 106.8. Urology were consulted and
+agreed.  No imaging was recommended given no smoking hx and
+other liekly etiology.  When heparin was held the hematuria
+resolved and was not present at the time of discharge. Pt
+probably had some underlying BPH but no meds were started since
+the prostate was probably a bit enlarged due to the foley
+trauma.  If the pt continues to have sx's of retention when
+returning home he should be seen by a urologist.  His PVR at the
+time of d/c was 193.
+.
+# Loculated L pleural effusion
+Pulm was initially conslted for a diagnostic tap but were they
+not able to given small effusions and it was almost completely
+resolved with diuresis. There was no reason to tap since
+remained afebrile without another reason for infection.  teh
+most likely etiology we thought was  scar tissue from CABG plus
+pulm edema.
+.
+# Multiple prominent mediastinal lymph nodes.
+Largest node in the prevascular space measures 22 x 12 mm. Pt
+had left lower lobe and lingular atelectasis that resolved but
+radiology recommended followup in six months.
+.
+# Abnml LFTs: Trended down after admission with diuresis and
+almost certainly [**1-5**] congestive hepatopathy from CHF.
+.
+# Contact: with patient, also wife [**Name (NI) **] [**Name (NI) 2172**] [**Telephone/Fax (1) 26895**]
+***FAX this summary to Mayo Clinic at [**Telephone/Fax (1) 26896**] (ATTN:
+[**Doctor First Name 18058**]) at the time of discharge**** Phone [**Telephone/Fax (1) 26897**]
+
+Medications on Admission:
+asa 325 mg daily
+plavix 75 mg daily
+heparin gtt
+metoprolol 25 mg TID
+Protonix 40 mg daily
+Atorvastatin 40 mg daily
+hydralazine 20 mg QID
+spironolactone 25 mg daily
+bumex 2 mg [**Hospital1 **]
+digoxin 0.125 mg daily
+dobutamine gtt
+
+Discharge Medications:
+1. Outpatient Lab Work
+please obtain PT q3d as pt. on coumadin
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 8 days.
+Disp:*16 Tablet(s)* Refills:*0*
+6. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Warfarin 7.5 mg Tablet Sig: One (1) Tablet PO DAILY16 (Once
+Daily at 16).
+Disp:*20 Tablet(s)* Refills:*0*
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*15 Tablet(s)* Refills:*2*
+10. Losartan 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*15 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+# Acute on chronic systolic heart failure, LVEF 20%
+# CAD s/p CABG
+- [**3421**] @ [**State 26893**]; LIMA to midLAD, SVG to midLCX,
+SVG to D2
+# Atrial fibrillation with RVR
+- digoxin and BB started for rate control
+- consider DCCV after antiacoag x1mo
+- first noted in [**3426**] but not on coumadin before
+# E.Coli UTI and bacteremia, pan-sensitive
+- cipro was continued for 14 days
+# Multiple prominent mediastinal lymph nodes
+- largest node in the prevascular space measures 22 x 12 mm
+- left lower lobe and lingular atelectasis; given hx history of
+smoking followup is recommended in six
+# Persistent Hematuria
+- likely [**1-5**] traumatic foley + anticoagulation + UTI -->
+resolved by time of d/c
+.
+Secondary Diagnosis:
+# Hypercholesterolemia
+# ORIF of L tibial fracture, [**3419**]; hardware subsequently
+removed, [**3420**]
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted and treated for acute on chronic congestive
+heart failure and atrial fibrillation which was making your
+heart contract too quickly.
+.
+If you develop fever greater than 101F, chest pain, shortness of
+breath, or if you at any time become concerned about your health
+please contact your PCP, [**Name10 (NameIs) 22**] at [**Telephone/Fax (3) **] or present to the
+nearest ED.
+.
+Please take your medications as prescribed.  Not taking your
+prescribed heart failure medications likely played a large role
+in putting you in acute heart failure.
+.
+- The cardiology department at Mayo clinic has been contact[**Name (NI) **] by
+us on your request and all you have to do is to call and give
+them your insurance info and shcedule a time to be seen within 2
+weeks.  There are times available but you have to call to make
+this appointment.
+- Please schedule an appointment to be seen by your primary care
+provider [**Name Initial (PRE) 942**] 1-2 weeks.
+- It is very important that you go to your doctors office and
+have a lab draw on Monday [**2-25**] to have your INR checked and your
+coumadin dose adjusted
+- If you have recurrence of hematuria or continue to have
+difficulty initiating urination, have a stream or frequesnt
+visits to the bathroom at night you should set up an appointment
+with a urologist.
+.
+Please weigh yourself daily and call your PCP if you gain >3lbs.
+ Please adhere to a diet with <2g sodium day.
+
+Followup Instructions:
+- The cardiology department at Mayo clinic has been contact[**Name (NI) **] by
+us on your request and all you have to do is to call and give
+them your insurance info and shcedule a time to be seen within 2
+weeks.  There are times available but you have to call to make
+this appointment.
+- Please schedule an appointment to be seen by your primary care
+provider [**Name Initial (PRE) 942**] 1-2 weeks.
+- It is very important that you go to your doctors office and
+have a lab draw on Monday [**2-25**] to have your INR checked and your
+coumadin dose adjusted
+- If you have recurrence of hematuria or continue to have
+difficulty initiating urination, have a stream or frequesnt
+visits to the bathroom at night you should set up an appointment
+with a urologist.
+
+
+
+
+
+DOC CLASS

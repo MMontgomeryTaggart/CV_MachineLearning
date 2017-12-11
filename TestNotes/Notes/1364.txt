@@ -1,0 +1,291 @@
+Admission Date:  [**2526-6-28**]              Discharge Date:   [**2526-7-8**]
+
+Date of Birth:  [**2449-6-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 886**]
+Chief Complaint:
+Cough, hypoxia
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known patient lastname 8192**] is a 76 year-old gentleman with history of CAD s/p
+CABG [**2517**], PVD, HTN, COPD, U/L RAS and asthma who had presented
+to the ED with 2 days of productive cough and SOB. In the ED he
+was febrile to 103.8, RR 22, O2 sat was 85% on RA which improved
+to 98 % on 100% NRB. With NRB, ABG was 7.47/33/195. Given
+tachypnea and general appearance, patient was started on CPAP
+which provided symptomatic relief. CXR was done in ED with
+showed evidence of CHF +/-PNA. He was treated with combivent
+nebs x2, ceftriaxone 1 g x1, azithromycin 250 mg x 1, lasix 40
+mg IV x 2, levaquin 500 mg IV x1, vancomycin I g x 1, morphine 4
+mg x 1, ASA supp 600 mg x1, tylenol 1300 mg PR x1, and nitro
+paste 1 inch.
+.
+In the MICU, patient was breathing more comfortably and reported
+interval improvement in his symptoms. COPD flare/PNA/CHF were
+treated with Ceftriaxone, Azithromycin, Lasix 80 mg IV x 1 and
+supportive nebulizers. By the morning, he was weaned down to 2L
+nasal cannula.
+.
+Of note, patient has undergone a right TPT/PT lesion with
+atherectomy on [**2526-6-19**] complicated by groin hematoma with
+extension into penis and scrotum. U/S did not reveal fistula or
+pseudoaneursym.
+.
+On transfer to the floor, patient reported that his breathing
+status was better, still felt short of breath but nowhere near
+when he had come in last night. Had eaten full meal, denied
+abdominal or urinary complaints. Reported that his lower
+extremity edema was better, but still persisted.
+
+
+Past Medical History:
+1. CAD s/p 3 vessel CABG around [**2517**] without further cardiac
+issues
+2. HTN
+3. COPD -patient unsure of this diagnosis
+4. BPH s/p turp
+5. Second degree AV block s/p PPM
+6. Hyperlipidemia
+
+Social History:
+Lives with his son. Remote history of 20 year smoking a pipe and
+cigars. Rare alcohol use.  No IVDA.  Retired art teacher.
+
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+PHYSICAL EXAMINATION:
+Vitals: Tc 96.6; Tm 98.0; BP 130/61 (96-135/41-70); HR 61-84
+sinus; RR 20-25; O2 Sat 95-99% 2L NC
+GEN: NAD, sitting in chair, speaking [**4-6**] word sentences, using
+some accessory muscles of respiration
+HEENT: PRRL. EOMI. MMM. OP clear.
+CV: Distant HS (difficult to hear [**1-3**] wheezing). No appreciable
+abnormal sounds
+LUNGS: + Diffuse expiratory and inspiratory wheeze, prolonged
+expiratory phase. Coarse breath sounds diffusely. Decent air
+entry.
+ABD: obese. soft, NT/ND. BS normoactive.
+EXT: 1+ edema to mid-calf. DPs symmetric, diminished. Chronic
+venous stasis changes. PT pulses [**Hospital1 2779**] than DP.
+GU: + ecchymosis pubic symphysis to scrotum, foley in place
+
+
+Pertinent Results:
+[**2526-6-28**] 03:13PM   LACTATE-2.6*
+[**2526-6-28**] 03:32PM   PT-13.3* PTT-23.5 INR(PT)-1.2*
+[**2526-6-28**] 03:32PM   PLT COUNT-427
+[**2526-6-28**] 03:32PM   POIKILOCY-1+ MICROCYT-1+
+[**2526-6-28**] 03:32PM   NEUTS-90.7* LYMPHS-3.8* MONOS-5.2 EOS-0.3
+BASOS-0.1
+[**2526-6-28**] 03:32PM   WBC-20.0* RBC-3.96* HGB-11.9* HCT-32.5*
+MCV-82 MCH-30.1 MCHC-36.7* RDW-14.0
+[**2526-6-28**] 03:32PM   CALCIUM-9.0 PHOSPHATE-4.6* MAGNESIUM-2.3
+[**2526-6-28**] 03:32PM   CK-MB-14* MB INDX-4.8 proBNP-4882*
+[**2526-6-28**] 03:32PM   cTropnT-0.32*
+[**2526-6-28**] 03:32PM   CK(CPK)-293*
+[**2526-6-28**] 03:32PM   GLUCOSE-108* UREA N-55* CREAT-2.1* SODIUM-135
+POTASSIUM-4.3 CHLORIDE-93* TOTAL CO2-22 ANION GAP-24*
+[**2526-6-28**] 04:09PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2526-6-28**] 04:09PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 154**]-1.018
+[**2526-6-28**] 04:09PM URINE  UHOLD-HOLD
+[**2526-6-28**] 04:09PM URINE  HOURS-RANDOM CREAT-157 SODIUM-27
+[**2526-6-28**] 04:35PM   TYPE-ART PO2-195* PCO2-33* PH-7.47* TOTAL
+CO2-25 BASE XS-1
+[**2526-6-28**] 10:34PM   CK-MB-15* MB INDX-5.8 cTropnT-0.34*
+[**2526-6-28**] 10:34PM   CK(CPK)-258*
+[**2526-6-28**] 10:34PM   GLUCOSE-96 UREA N-57* CREAT-2.1* SODIUM-138
+POTASSIUM-3.4 CHLORIDE-96 TOTAL CO2-25 ANION GAP-20
+.
+Imaging Studies
+1. CXR [**2526-6-28**]
+Findings consistent with CHF.
+.
+2. CXR [**2526-6-29**]
+Stable CHF with possible left lower lobe pneumonia.
+
+
+Brief Hospital Course:
+Patient is a 76 year-old gentleman with PMHx CAD s/p CABG, PVD,
+HTN, COPD/Asthma who presented with PNA/CHF exacerbation/COPD
+flare. The following issues were addressed during hospital
+admission.
+.
+# Cough/SOB/fever/leukocytosis
+Given tachypnea and oxygen desturation on room air, patient was
+admitted to the medical ICU for overnight monitoring. He did
+well on a non-rebreather and BIPAP overnight, and was quickly
+transitioned to nasal cannula once his underlying respiratory
+issues were addressed. Dyspnea was thought to be secondary PNA,
+COPD flare, and CHF exacerbation, the latter two precipitated by
+infection. Patient was treated for community acquired PNA with
+10 days of antibiotics; for CHF exacerbation, patient was placed
+on low sodium diet, diuresed with Lasix; and for COPD flare,
+patient was treated with short course of steroids and adjuncitve
+nebulizers/inhaled steroids. He was weaned off of oxygen with an
+oxygen saturation of 94-97% on room air. After treatment,
+patient remained afebrile and hemodynamically stable throughout
+his hospital stay. Patient exhibited leukocytosis on discharge,
+and this was attributed to steroids administration. CBC should
+be checked in [**1-4**] days to ensure it does not continue to rise.
+Patient was afebrile without any new localizing sources of
+infection. On discharge, a chest CT ordered to f/u a ground
+glass appearance on CXR showed multiple areas of consolidation
+and emphysema. Aspiration cannot be ruled out. Pt. will need
+outpatient speech and swallow study.
+.
+# ARF: Baseline 1.1
+On admission, patient's creatinine was 2.1. This was thought to
+be due to both dehydration and ? post-obstructive component from
+groin hematoma (patient with history of peripheral
+cath/intervention). Foley was placed by urology and creatinine
+improved to 1.3 on discharge. Creatinine should be checked in
+[**1-4**] days to ensure it continues to normalize. Medications were
+renally dosed and NSAIDS were avoided.
+.
+# Groin hematoma
+Patient with known groin hematoma following recent peripheral
+revascularization procedure. Ultrasound was done which was not
+concerning for pseudoaneurysm or fistula. Continued to improve
+by exam.
+.
+# Anemia
+Patient guiaic positive on exam. Hct remained stable during
+hospital stay. On colonoscopy in [**2521**], adenomatous polyps were
+found and repeat colonoscopy was recommended in 3 years, for
+which patient is overdue. Outpatient PCP was notified that a
+colonoscopy needs to be scheduled in the near future and pt.
+will f/u with PCP [**Last Name (NamePattern4) **] [**2526-7-8**] . Iron was low; transferrin and
+saturation were not checked in acute setting of pulmonary
+process, but should be re-checked and managed accordingly (i.e.
+iron supplementation, f/u colonoscopy) as outpatient.
+.
+# CARDIAC
+No chest pain/angina issues. EKG without changes, paced rhythm.
+Trop of 0.34 in the setting of creatinine of 2.1 - per cards
+curbside in ED, most likely [**1-3**] demand ischemia and ARF. Patient
+was continued on ASA, statin, plavix. Patient was not on BB due
+to underlying COPD/Asthma. Outpatient [**Last Name (un) **] (Candesartan) was
+restarted at 4 mg and titrated up to 16 mg with good effect.
+.
+# HTN: BP well controlled on Diltiazem and Candesartan.
+.
+# PVD
+Continued ASA, plavix
+.
+# Hypothyroidism
+Continued Levothyroxine 50 mcg Po QD. TSH was elevated at 4.9,
+FT4 was within norml limits. Should be re-checked once acute
+issues resolve.
+.
+# FEN:
+Electrolytes were repleted as necessary. He was maintained on
+low salt, cardiac healthy diet, with fluid restriction to 1.5
+liters
+.
+# FULL CODE
+.
+# COMMUNICATION: Son [**Name (NI) **], cell [**Telephone/Fax (1) 8193**], home [**Telephone/Fax (1) 8194**]
+
+Medications on Admission:
+MEDICATIONS AT HOME:
+ASA 325 mg Po QD
+Diltiazem SR 240 mg PO QD
+Plavix 75 mg Po QD
+Levothyroxine 50 mcg Po QD
+Atorvastatin 20 mg Po QD
+Colace 100 mg Po BID:PRN
+Albuterol inh [**12-3**] pufs Q6H PRN
+Fluticasone nasal spray PRN
+Salmeterol 50 mcg/dose Q12H
+Fluticasone 100 mcg 2 puffs [**Hospital1 **]
+
+
+Discharge Medications:
+1. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+2. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Salmeterol 50 mcg/Dose Disk with Device Sig: One (1) Disk
+with Device Inhalation Q12H (every 12 hours).
+Disp:*qs Disk with Device(s)* Refills:*2*
+5. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+Disp:*qs * Refills:*2*
+6. Diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+7. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer
+Inhalation Q6H (every 6 hours) as needed.
+Disp:*qs * Refills:*0*
+10. Albuterol Sulfate 0.083 % Solution Sig: One (1) nebulizer
+Inhalation every six (6) hours as needed.
+Disp:*qs * Refills:*0*
+11. Candesartan 16 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home with Service
+
+Facility:
+[**First Name4 (NamePattern1) 527**] [**Last Name (NamePattern1) **] for Extended Care - [**Location 1253**]
+
+Discharge Diagnosis:
+Primary
+1. Dyspnea [**1-3**] PNA/CHF/COPD
+Secondary
+1. CAD s/p CABG
+2. PVD
+3. HTN
+4. Unilateral renal artery stenosis
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+1. Take all medications as prescribed
+2. Make all follow-up appointments
+3. Contact your provider or report to the Emergency Department
+if you develop shortness of breath, fevers, chills or any other
+concerning signs/symptoms
+
+Followup Instructions:
+You have a follow-up appointment with Dr. [**First Name (STitle) 1298**] scheduled for
+[**Last Name (LF) 759**], [**2526-7-8**] at 3:30 PM.
+
+Please keep your previously scheduled appointments:
+Provider: [**Name10 (NameIs) **] CALL Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2526-9-3**]
+10:00
+Provider:  [**Name10 (NameIs) 669**] CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2526-10-30**]
+10:30
+
+
+
+
+
+DOC CLASS

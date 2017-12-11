@@ -1,0 +1,221 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ BLOOD CULTURED - At [**3424-9-6**] 01:15 PM
+   a-line
+ URINE CULTURE - At [**3424-9-6**] 01:20 PM
+ SPUTUM CULTURE - At [**3424-9-6**] 01:30 PM
+ BLOOD CULTURED - At [**3424-9-6**] 01:36 PM
+   CVL
+ FEVER - 104.8
+F - [**3424-9-6**] 06:00 PM
+   - patient placed on droplet precautions to r/o flu
+   - spiked fever to 102.4 F at 7PM, blood, urine and sputum cultures
+   sent, pt given tylenol
+   - Temp 103.4 (axillary) 104.8 (rectal) at 4:30pm, CVP 8, BP 100s-110s.
+   Tylenol and cooling blankets given.  H1N1 nasal swab sent.
+   - pt defervesced at around 9PM
+   - continued on low dose levophed of 0.05mcg/kg/min with arterial BPs in
+   the 95-118/55-70.
+   - ABG was ok, ScvO2 was sent which was above 70s%
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3424-9-6**] 07:42 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3424-9-7**] 04:00 AM
+   Infusions:
+   Fentanyl (Concentrate) - 100 mcg/hour
+   Midazolam (Versed) - 4 mg/hour
+   Norepinephrine - 0.04 mcg/Kg/min
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3424-9-6**] 08:15 AM
+   Heparin Sodium (Prophylaxis) - [**3424-9-7**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3424-9-7**] 06:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 40.4
+C (104.8
+   Tcurrent: 37.6
+C (99.6
+   HR: 60 (59 - 91) bpm
+   BP: 107/60(78) {93/51(64) - 118/70(89)} mmHg
+   RR: 24 (24 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 75.3 kg (admission): 72.3 kg
+    CVP: 6 (5 - 9)mmHg
+   Total In:
+                                                                  6,878 mL
+                                                                    193 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,468 mL
+                                                                    193 mL
+   Blood products:
+   Total out:
+                                                                    825 mL
+                                                                    170 mL
+   Urine:
+                                                                    825 mL
+                                                                    170 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,053 mL
+                                                                     23 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 380 (380 - 380) mL
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 28 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 29.2 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.39/36/115/20/-2
+   Ve: 9.1 L/min
+   PaO2 / FiO2: 230
+   Physical Examination
+   General: intubated, sedated, responds appropriately to verbal stimuli
+   HEENT: Sclera anicteric, MMM
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: decreased coarse breath sounds bilaterally
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen:  soft, non-tender, moderately-distended, bowel sounds present,
+   no rebound tenderness or guarding, no organomegaly
+   GU: foley in place
+   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Labs / Radiology
+   200 K/uL
+   10.1 g/dL
+   123 mg/dL
+   0.4 mg/dL
+   20 mEq/L
+   3.4 mEq/L
+   14 mg/dL
+   113 mEq/L
+   141 mEq/L
+   30.9 %
+   10.4 K/uL
+        [image002.jpg]
+                             [**3424-9-5**]  11:48 PM
+                             [**3424-9-6**]  02:18 AM
+                             [**3424-9-6**]  04:28 AM
+                             [**3424-9-6**]  05:21 AM
+                             [**3424-9-6**]  01:21 PM
+                             [**3424-9-6**]  01:27 PM
+                             [**3424-9-6**]  04:31 PM
+                             [**3424-9-7**]  03:04 AM
+   WBC
+   7.8
+   10.4
+   Hct
+   33.7
+   30.9
+   Plt
+   189
+   200
+   Cr
+   0.2
+   0.5
+   0.4
+   TCO2
+   27
+   25
+   23
+   22
+   23
+   Glucose
+   145
+   139
+   123
+   Other labs: Lactic Acid:1.4 mmol/L, Ca++:8.0 mg/dL, Mg++:2.5 mg/dL,
+   PO4:1.9 mg/dL
+   Micro:
+   -[**9-5**]: blood cultures pending
+   -[**9-5**]: sputum:  gram stain: 4+ gram negative rods, 1+ yeast
+   -[**9-6**]: urine culture: pending
+   -[**9-6**]: blood culture: pending
+   -[**9-6**]: sputum: gram stain: 1+ gram negative rods
+   -[**9-6**]: pending nasal swab for influenza
+   Imaging:
+   - CXR from [**9-6**]:  ET 3.9 cm above the carina.  Moderate right effusion
+   and bilateral alveolar infiltrate that is more confluent and dense on
+   today
+s study, most marked in the left mid lung.  There is also
+   increased infiltrate in the left lower lobe.  Assessment for change in
+   infiltrate on the right is made difficult by the layering effusion but
+   the infiltrate also looks slightly worse on the right.
+   - CXR from [**9-7**]: My read: improvement in bilateral alveolar
+   infiltrates.  Improved right sided pleural effusion.
+   Assessment and Plan
+   50 yoF w/ a h/o MVA/T2 paraplegia since [**3418**] and intermittent episodes
+   of respiratory failure due to UTIs and pneumonia now admitted with
+   hypotension and acute respiratory failure.
+   # Sepsis: The patient does not have a clear source for her sepsis.  It
+   is possible she has urosepsis given positive U/A.  Blood cultures
+   pending.  Alternative source is a possible pneumonia, given history of
+   mucous plugging, possible reduced ability to clear secretions secondary
+   to her paraplegia.  Also, RLL infiltrate on CXR and 4+ GNR on sputum
+   culture.  However this is unchanged from previous films and likely a
+   chronic change.
+   -fully resusciated for septic picture, attempt to wean levophed
+   -SVO2 is 60, but pressors were held.  Given IVF for low CVP
+   -based on previous culture data will treat with broad spectrum
+   antibiotics with vanc, zosyn, and azithromycin for atypical coverage
+   -f/u sputum speciation
+   -f/u blood cultures
+   -levophed to keep MAP > 65
+   -placed a line
+   # Hypoxia: as above possibilities include sepsis, pleural effusion,
+   pulmonary edema s/p vigorous hydration, and RLL pneumonia.  Pneumonia
+   fits with her cough productive of brown sputum.  F/u sputum cx and
+   other cx data as above.  Given fever, muscle atrophy in lower
+   extremities with decreased lower leg blood flow,  PE is less likely.
+   -intubated and sedated; patient awakens at times and appears agitated.
+   Will try to increase sedation
+   -on AC 380X28
+   -try to wean FIO2 or PEEP as tolerated
+   # T2 Paraplegia:
+   -continue home pain regimen with baclofen, methadone, lyrica.
+   -continue home bowel regimen.
+   #Hypokalemia: resolved.  intrinsic renal disease vs. potassium wasting
+   -replete K with monitoring
+   FEN: No maintenance IVF (bolus prn), replete electrolytes, regular diet
+   Prophylaxis: Subutaneous heparin
+   Access: peripherals and R IJ, R radial arterial line
+   Code:  Full (discussed with patient)
+   Communication: Patient, husband [**Name (NI) 78**]
+   Disposition: pending clinical improvement
+   ICU Care
+   Nutrition: No maintenance IVF (bolus prn), replete electrolytes,
+   regular diet
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3424-9-6**] 02:11 AM
+   20 Gauge - [**3424-9-6**] 06:18 AM
+   a.line
+   Prophylaxis:
+   DVT:  subQ heparin
+   Stress ulcer: PPi
+   VAP: VAP bundle
+   Comments:
+   Communication:  Comments:
+   Code status: Full
+   Disposition : pending clinical improvement
+
+
+DOC CLASS

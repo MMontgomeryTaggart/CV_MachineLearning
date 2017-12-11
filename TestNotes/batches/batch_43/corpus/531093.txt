@@ -1,0 +1,254 @@
+SICU
+   HPI:
+   53M s/p OLT [**7-17**], p/w ?sepsis, pSBO & transition point on CT, now s/p
+   neg ex lap [**9-15**], s/p staged closure [**9-22**]. Postop course c/b Pseudomonas
+   PNA, VRE UTI, ARF, acid base disturbances
+   Chief complaint:
+   PMHx:
+   ETOH cirrhosis s/p OLT [**7-15**], ascites, hepatorenal syndrome, esophageal
+   varices, portal gastropathy, partial portal vein thrombosis, SBP,
+   benign polyp (vs adenoCA), cervical stenosis, HTN, Cdiff,
+   hyperlipidemia, anemia, depression, BPH, s/p subtotal colectomy [**1-14**]
+   Current medications:
+    IV access: PICC, heparin dependent Order date: [**10-3**] @ 1241 19.
+   Lorazepam 0.5 mg IV Q8H:PRN  Order date: [**10-12**] @ 1230
+   2. 1000 mL NS Bolus 500 ml Over 30 mins Order date: [**10-16**] @ 0045 20.
+   Lorazepam 0.5 mg IV ONCE Duration: 1 Doses Order date: [**10-15**] @ 1511
+   3. 500 mL NS Bolus 500 ml Over 10 mins Order date: [**10-15**] @ 2329 21.
+   Lorazepam 0.5 mg IV ONCE Duration: 1 Doses Order date: [**10-15**] @ [**2636**]
+   4. Acetylcysteine 20% 1-10 mL NEB Q2H:PRN  Order date: [**10-3**] @ 1250 22.
+   Magnesium Sulfate  IV Sliding Scale Order date: [**10-3**] @ 1250
+   5. Acetaminophen 325 mg PO Q6H:PRN  Order date: [**10-11**] @ 1519 23.
+   Metoprolol Tartrate 37.5 mg PO TID HTN
+   As per primary tranplant team recommendation Hold for SBP <95 and HR <
+   65  Order date: [**10-14**] @ 0103
+   6. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN  Order date: [**10-3**] @ 1250
+   24. Nystatin Oral Suspension 5 mL PO QID:PRN thrush  Order date: [**10-3**]
+   @ 1250
+   7. Albuterol MDI 4 PUFF IH Q4H  Order date: [**10-16**] @ 0601 25. OxycoDONE
+   (Immediate Release)  5 mg PO Q 12H chronic pain  Order date: [**10-11**] @
+   1519
+   8. Calcium Gluconate  IV Sliding Scale Order date: [**10-3**] @ 1250 26.
+   Phenylephrine 0.5 mcg/kg/min IV DRIP TITRATE TO MAP>60  Order date:
+   [**10-16**] @ 0055
+   9. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]
+   Use only if patient is on mechanical ventilation.  Order date: [**10-5**] @
+   1758 27. Potassium Chloride  IV Sliding Scale Order date: [**10-3**] @ 1250
+   10. Famotidine 20 mg PO Q24H  Order date: [**10-14**] @ 0847 28. PredniSONE
+   10 mg PO DAILY  Order date: [**10-3**] @ 1256
+   11. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+   PICC, heparin dependent: Flush with 10mL Normal Saline followed by
+   Heparin as above daily and PRN per lumen.  Order date: [**10-3**] @ 1241 29.
+   Propofol 5-20 mcg/kg/min IV DRIP TITRATE TO sedation  Order date: [**10-15**]
+   @ 2331
+   12. Heparin 5000 UNIT SC TID  Order date: [**10-3**] @ 1250 30. Sodium
+   Chloride 0.9% Flush 10 mL IV PRN line flush
+   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and
+   PRN.  Order date: [**10-3**] @ 1330
+   13. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+   heparin dependent PICC - Flsuh with 10mL normal saline followed by
+   heparin as above daily and PRN per lumen.  Order date: [**10-3**] @ 1339 31.
+   Sodium Chloride 0.9% Flush 3 mL IV DAILY:PRN
+   Peripheral IV - Inspect site every shift  Order date: [**10-3**] @ 1339
+   14. HydrALAzine 10 mg IV ONCE MR1 htn Duration: 1 Doses Order date:
+   [**10-15**] @ 0901 32. Sodium Chloride 0.9% Flush 10 mL IV DAILY:PRN
+   temporary central access - ICU. flush with 10mL normal saline daily and
+   PRN  Order date: [**10-3**] @ 1339
+   15. HydrALAzine 10 mg IV ONCE Duration: 1 Doses Order date: [**10-15**] @
+   1511 33. Sulfameth/Trimethoprim Suspension 10 mL PO DAILY  Order date:
+   [**10-9**] @ 1208
+   16. HydrALAzine 10 mg IV ONCE Duration: 1 Doses Order date: [**10-15**] @
+   2101 34. Tacrolimus 3 mg PO Q12H
+   Dose to be admin. at 6am [**10-16**] and 6pm [**10-15**]  Order date: [**10-15**] @ 1749
+   17. Insulin SC  (per Insulin Flowsheet)
+         Sliding Scale Order date: [**10-3**] @ 1312 35. Thiamine 100 mg NG
+   DAILY  Order date: [**10-14**] @ 0847
+   18. Linezolid 600 mg IV Q12H  Order date: [**10-16**] @ 0154 36.
+   ValGANCIclovir Suspension 450 mg PO EVERY OTHER DAY  Order date: [**10-15**]
+   @ 1253
+   24 Hour Events:
+ EKG - At [**2594-10-15**] 10:29 PM
+ URINE CULTURE - At [**2594-10-15**] 10:30 PM
+ BLOOD CULTURED - At [**2594-10-16**] 01:00 AM
+   PICC
+ SPUTUM CULTURE - At [**2594-10-16**] 01:00 AM
+ BLOOD CULTURED - At [**2594-10-16**] 01:05 AM
+   peripheral
+   Post operative day:
+   POD#31 - [**9-15**] expl lap, lysis of adhesions, temporary closure of abd
+   with [**State **] patch
+   POD#24 - closure of open abdomen
+   POD#13 - bronch, trach
+   Allergies:
+   Penicillins
+   Unknown;
+   Aspirin
+   Unknown;
+   Ibuprofen
+   Unknown;
+   Ciprofloxacin
+   Tosades ;
+   Last dose of Antibiotics:
+   Cefipime - [**2594-10-13**] 04:00 PM
+   Daptomycin - [**2594-10-14**] 04:18 PM
+   Linezolid - [**2594-10-16**] 02:00 AM
+   Infusions:
+   Propofol - 25 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2594-10-16**] 09:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**98**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 36.1
+C (96.9
+   HR: 78 (49 - 97) bpm
+   BP: 116/61(79) {74/34(49) - 194/89(129)} mmHg
+   RR: 34 (22 - 47) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 54.6 kg (admission): 70 kg
+   Height: 70 Inch
+             Total In:
+                                                                  2,651 mL
+                                                                  1,205 mL
+   PO:
+             Tube feeding:
+                                                                    920 mL
+                                                                    111 mL
+   IV Fluid:
+                                                                  1,041 mL
+                                                                  1,044 mL
+   Blood products:
+   Total out:
+                                                                  2,022 mL
+                                                                    635 mL
+   Urine:
+                                                                  1,822 mL
+                                                                    335 mL
+   NG:
+   Stool:
+   300 mL
+   Drains:
+   Balance:
+                                                                    629 mL
+                                                                    571 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (350 - 400) mL
+   Vt (Spontaneous): 322 (322 - 456) mL
+   PS : 20 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 13
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 37 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 28.6 cmH2O/mL
+   SPO2: 98%
+   ABG: 7.34/34/109/17/-6
+   Ve: 15.7 L/min
+   PaO2 / FiO2: 218
+   Physical Examination
+   General Appearance: Anxious
+   HEENT: PERRL
+   Respiratory / Chest: (Expansion: Symmetric)
+   Left Extremities: (Edema: Trace)
+   Right Extremities: (Edema: Trace)
+   Neurologic: Moves all extremities
+   Labs / Radiology
+   95 K/uL
+   9.9 g/dL
+   128
+   1.7 mg/dL
+   17 mEq/L
+   4.4 mEq/L
+   56 mg/dL
+   115 mEq/L
+   142 mEq/L
+   28.0 %
+   5.9 K/uL
+        [image002.jpg]
+                             [**2594-10-15**]  10:00 AM
+                             [**2594-10-15**]  05:08 PM
+                             [**2594-10-15**]  07:14 PM
+                             [**2594-10-15**]  08:59 PM
+                             [**2594-10-15**]  10:52 PM
+                             [**2594-10-16**]  12:12 AM
+                             [**2594-10-16**]  01:34 AM
+                             [**2594-10-16**]  01:46 AM
+                             [**2594-10-16**]  04:00 AM
+                             [**2594-10-16**]  06:18 AM
+   WBC
+   5.9
+   Hct
+   28.0
+   Plt
+   95
+   Creatinine
+   1.7
+   Troponin T
+   0.14
+   TCO2
+   18
+   19
+   17
+   18
+   20
+   18
+   19
+   Glucose
+   109
+   123
+   128
+   Other labs: PT / PTT / INR:13.9/38.9/1.2, CK / CK-MB / Troponin
+   T:20/13/0.14, ALT / AST:[**12-24**], Alk-Phos / T bili:87/0.3, Amylase /
+   Lipase:34/12, Differential-Neuts:66.0 %, Band:19.0 %, Lymph:7.0 %,
+   Mono:5.0 %, Eos:0.0 %, Fibrinogen:638 mg/dL, Lactic Acid:0.4 mmol/L,
+   Albumin:3.1 g/dL, LDH:344 IU/L, Ca:9.1 mg/dL, Mg:1.7 mg/dL, PO4:3.5
+   mg/dL
+   Assessment and Plan
+   PNEUMONIA, ASPIRATION
+   Assessment and Plan: 53M s/p OLT [**7-17**], p/w ?sepsis, pSBO & transition
+   point on CT, now s/p neg ex lap [**9-15**], s/p staged closure [**9-22**]. Postop
+   course c/b Pseudomonas PNA, VRE UTI, ARF, acid base disturbances.
+   Neurologic: Neuro checks Q: 2 hr
+   Cardiovascular: low blood pressure last night treated with normal
+   saline, started on small dose of phenylephrine for support
+   Pulmonary: (Ventilator mode: CMV)
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal: low hicarb renal consult no recomendations
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: continue linezolid and vancylovir
+   Lines / Tubes / Drains: Foley, Dobhoff
+   Wounds:
+   Imaging:
+   Fluids: NS
+   Consults:
+   Billing Diagnosis: (Respiratory distress: Failure)
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2594-10-16**] 06:27 AM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2594-9-25**] 02:30 PM
+   PICC Line - [**2594-10-2**] 10:55 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 32 minutes
+
+
+DOC CLASS

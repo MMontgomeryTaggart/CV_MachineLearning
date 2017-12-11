@@ -1,0 +1,253 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**3192-6-19**] 09:09 PM
+   - Went down to [**Hospital Ward Name 372**] 3 where she triggered twice for tachypnea and
+   desats to low 80's.  Eventually bounced back to CCU because of frequent
+   nursing needs.
+   - Too out of breath to get OOB with PT.
+   - Dobhoff remained in as nursing felt she was not getting adequate POs.
+   Allergies:
+   Penicillins
+   Unknown;
+   Methyldopa
+   Unknown;
+   Clindamycin
+   Unknown;
+   Sulfamethoxazole
+   Unknown;
+   Trimethoprim
+   Unknown;
+   Tylenol (Oral) (Dm Hb/Pseudoephed/Acetamin/Cp)
+   Anaphylaxis;
+   Tylenol (Oral) (Dm Hb/Pseudoephed/Acetamin/Cp)
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Meropenem - [**3192-6-19**] 11:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3192-6-20**] 06:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 72 (72 - 76) bpm
+   BP: 122/64(78) {98/51(63) - 130/68(81)} mmHg
+   RR: 24 (19 - 31) insp/min
+   SpO2: 96%
+   Heart rhythm: V Paced
+   Wgt (current): 56.2 kg (admission): 48.2 kg
+   Height: 60 Inch
+                  Total In:
+                                                                  2,151 mL
+                                                                    360 mL
+   PO:
+                                                                    240 mL
+                                                                     60 mL
+   TF:
+                                                                    208 mL
+                                                                    300 mL
+   IVF:
+                                                                    113 mL
+   Blood products:
+   Total out:
+                                                                  2,545 mL
+                                                                    280 mL
+   Urine:
+                                                                    520 mL
+                                                                    280 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -394 mL
+                                                                     80 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///36/
+   Physical Examination
+   GENERAL: Cushingoid appearing elderly female. Chronically ill
+   appearing, sleepy but able to answer questions, oriented to name,
+in a
+   hospital
+ and [**3191**].
+   CARDIAC: S1&S2,  Normal rhythm, II/VI SEM LSB
+   LUNGS: Barrel chested, coarse inspiratory wheezes bilaterally,
+   expiratory rhonchi bilaterally, breathing w/ accessory muscles.
+   ABDOMEN: Soft, NTND. No HSM or tenderness.
+   EXTREMITIES: no C/C/E, incision in right groin moist but clean, L fem
+   no hematoma, bruit. R leg dressing staples intact, healing but with
+   expanding surrounding hematoma. R A-line removed, dressing C/D/I.
+   PULSES:
+   Right: 1+ DP doppler PT doppler
+   Left: 1+ DP doppler PT Doppler
+   [**Name (NI) 347**] / Radiology
+   275 K/uL
+   8.3 g/dL
+   99 mg/dL
+   0.8 mg/dL
+   36 mEq/L
+   4.2 mEq/L
+   27 mg/dL
+   96 mEq/L
+   138 mEq/L
+   25.1 %
+   8.4 K/uL
+        [image002.jpg]
+                             [**3192-6-13**]  05:54 PM
+                             [**3192-6-14**]  01:31 AM
+                             [**3192-6-14**]  10:31 AM
+                             [**3192-6-14**]  11:38 AM
+                             [**3192-6-15**]  02:39 AM
+                             [**3192-6-16**]  05:02 AM
+                             [**3192-6-16**]  06:23 PM
+                             [**3192-6-17**]  05:10 AM
+                             [**3192-6-18**]  05:25 AM
+                             [**3192-6-20**]  03:28 AM
+   WBC
+   8.9
+   8.2
+   9.5
+   11.0
+   10.8
+   8.4
+   Hct
+   29.2
+   29.4
+   27.1
+   28.8
+   26.5
+   26.6
+   25.1
+   Plt
+   177
+   208
+   236
+   285
+   306
+   275
+   Cr
+   1.0
+   0.8
+   0.7
+   0.8
+   0.7
+   0.8
+   TCO2
+   34
+   31
+   31
+   Glucose
+   109
+   73
+   87
+   84
+   84
+   105
+   109
+   99
+   Other [**Year (4 digits) **]: PT / PTT / INR:12.9/28.1/1.1, CK / CKMB /
+   Troponin-T:128/24/2.82, ALT / AST:138/62, Alk Phos / T Bili:97/0.9,
+   Amylase / Lipase:/19, Differential-Neuts:90.5 %, Lymph:6.4 %, Mono:1.5
+   %, Eos:1.2 %, Lactic Acid:1.2 mmol/L, Albumin:2.1 g/dL, LDH:509 IU/L,
+   Ca++:8.5 mg/dL, Mg++:2.3 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   78 yo F with COPD presents with anterior MI and failed PCI on a tight
+   proximal lesion currently on medical management, s/p pacemaker
+   placement complicated by RV perforation and right leg ischemia.
+   # HAP : WBC trending down, now on [**Last Name (un) **] for pseudomonas and levo for
+   stenotrophomonas. Per ID, steno may be a colonizer, but started Levo
+   due to continued respiratory distress.  Remains afebrile, but is on
+   steroids due to COPD.
+   - cont abx meropenem day #[**12-7**] (pseudomonas not tested for quinolone
+   sensitivity)
+   - cont levo day #[**5-3**]
+   - maintain MAPs>60
+   - blood cx and urine cx negative (final)
+   - monitor temperature and trend WBC (normalized)
+   - will be important to continue to mobilize her daily.
+   .
+   # RESPIRATORY FAILURE: Pt was had O2 requirement at home.  Returned to
+   CCU because of frequent desaturations.
+   - On 50mg prednisone and tapering.
+   - cont albuterol/ipratropium Q4, on home doses of Spiriva and Advair.
+   - daily CXR
+   - monitor resp status, esp w/ pneumothorax
+   - On standing 40mg PO Lasix, yesterday -394ccs.  Goal today slightly
+   negative with additional prn.
+   .
+   # RV PERFORATION: Pt with tamponade after perforation of RV during
+   pacer placement. Repeat ECHO showed trivial effusion and no e/o
+   tamponade. Drain was removed [**6-9**]. Hct steady.
+   -daily Hct, fluctuating slightly, consider repeat ECHO if hemodynamic
+   changes.
+   - Active T&S
+   - cont to monitor hemodynamics closely
+   .
+   # RIGHT LEG ISCHEMIA: Distal pulses were lost after placement of right
+   femoral a-line. s/p left SFA thrombectomy, femoral endarterectomy,
+   right fasciotomy. +dopplerable pulses post-procedure. CK wnl
+   - appreciate vascular recs
+   - cont to check dopplers
+   - monitor wound site, keep groin dry w/ desitin
+   # RHYTHM: H/O paroxysmal Afib but presents with slow afib and AV
+   dissociation.  Pt underwent pacemaker placement that was complicated by
+   RV perforation. CXR neg for PTX. Pt previously with a-fib with RVR, now
+   A-paced. Treated with amio
+   - appreciate EP recs
+   - Now on Amiodarone 400mg PO BID.
+   - On metoprolol 25mg TID for rate control.
+   - no warfarin; on asa/plavix
+   - cont to monitor on tele
+   # CORONARIES: Pt transferred for NSTEMI and is s/p ccath that  focal
+   LAD lesions that could not be intevened . Pt was being medically
+   managed and stable.  BP meds were held secondary to hypotension.
+   - cont ASA and plavix given stable Hct when taking po (can change ASA
+   to pr)
+   - cont BB, ACE-inh
+   .
+   # PUMP: EF 45-50%,  +500 cc o/n.
+   - daily CXR
+   .
+   # COPD: Pt on steroids for flare. Pulm was consulted prior to RV
+   perforation. Recommended non-con CT for eval for right hilum. Question
+   as to whether pt truly as COPD or other process given recent worsening
+   over the last year.
+   - cont steroids with taper.
+   - cont albuterol/ipratropium
+   .
+   # HTN: Pressures have been labile but currently stable.
+   -cont metoprolol for now as above
+   -now on captopril 12.5mg TID
+   .
+   ACCESS: PICC placed [**6-19**]
+   FEN: Cleared by S&S, replete lytes prn
+   CONTACT: [**First Name8 (NamePattern2) **] [**Known patient lastname **] [**Telephone/Fax (5) 6892**]
+   CODE: FULL (family in favor of re-intubation)
+   DISPO: CCU to rehab (Case Mgmt screening)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3192-6-19**] 09:09 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,290 @@
+Admission Date:  [**2957-1-25**]              Discharge Date:   [**2957-1-27**]
+
+Date of Birth:  [**2904-5-31**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Phenergan / Zofran
+
+Attending:[**First Name3 (LF) 3796**]
+Chief Complaint:
+Torsades, ICD firing
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Mr [**Known patient lastname 26538**] is a 52M with recent admission for Vtach [**3-2**] QT
+prolongation s/p ICD placement and h/o narcotics abuse who
+presented to [**Hospital1 4**] [**Location (un) **] for SOB concerning for COPD
+exacerbation as well as N/V and was found to have QT
+prolondation to 510.  He was given steroids, abx, zofran.  He
+was given mag sulfate 2g IV preemptively for long QT of 510, Mg
+1.8 and plans were made for admission for COPD exacerbation.
+Shortly after Mag was hung, pt reports feeling short of breath
+and lightheaded and had a witnessed episode of torsades, with
+subsequent ICD firing. He was given lidocaine 100mg IV, 1mg drip
+which was increased to 2mg.  He had 4 episodes total.  Per [**Hospital1 **]
+cards, pacer rate was increased to 80 and he was transferred to
+[**Hospital1 4**] for further management.
+.
+On arrival to our ED, vitals were 97.9 80 146/111 17 100% ra.
+Labs were notable for phos of 1.8 and K of 3.3 without any other
+abnormalities.  QTc was 460.  He was given additional Mg, 40meq
+K in IVF, Ativan for anxiety and nausea.  Lidocaine was
+continued.  He had another episodes of torasdes and his ICD
+fired for the second time.  On transfer to the CCU, VS:  HR 92,
+150/99, 20 98% 2L NC.
+.
+Currently, the patient denies any symptoms other than
+significant diffuse chest pressure which he experienced both
+after the first ICD firing and following the second ICD firing.
+He continues to experience the chest pressure/pain without
+change.  He denies shortness of breath or lightheadedness,
+denies arm or jaw pain, n/v.
+.
+Of note, the patient does note he had been experiencing green
+loose stool x1-2 days, abdominal pain, and nausea/vomiting.  He
+reports experiencing these same symptoms every other week since
+his gastric bypass, and denies any sick contacts, unusual food
+intake, fevers, or changes to his typical GI symptoms.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, cough, hemoptysis, black stools or
+red stools. He denies recent fevers, chills or rigors. He denies
+exertional buttock or calf pain. All of the other review of
+systems were negative.
+.
+Cardiac review of systems is notable for absence of baseline
+dyspnea on exertion or exertional chest pain or pressure,
+paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+palpitations.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Dyslipidemia, +Hypertension
+2. CARDIAC HISTORY:
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS:  none
+-PACING/ICD:  s/p pacemaker/ICD placed [**2956-12-3**] during prior
+episode of torsades [**3-2**] prolonged QT
+3. OTHER PAST MEDICAL HISTORY:
+-Asthma vs COPD
+-Bronchitis
+-Morbid obesity
+-Gout
+-Obstructive Sleep Apnea
+-Depression/Anxiety
+-Narcotic dependence/abuse
+
+Social History:
+Quit tobacco [**2950**], 30 pack-year history.  Wife reports patient
+is still currently smoking.
+Social EtOH
+Dependence on prescribed narcotics
+
+Family History:
+Father with CAD, s/p CABT in 40's; otherwise non-contributory.
+
+Physical Exam:
+VS: T=37.2   BP=145/107 -> 160/80   HR=97   R=15   PO2=100%RA
+GENERAL: Alert, interactive, in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa, white plaque on
+tongue. No xanthalesma.
+NECK: Supple with JVP of ~11 cm.  No carotid bruits.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation.
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ DP 2+ PT 2+
+Left: Carotid 2+ DP 2+ PT 2+
+
+Pertinent Results:
+[**2957-1-27**] 06:10AM BLOOD WBC-12.2* RBC-5.01 Hgb-14.7 Hct-42.5
+MCV-85 MCH-29.3 MCHC-34.6 RDW-15.7* Plt Ct-434
+[**2957-1-26**] 09:38AM BLOOD WBC-14.8* RBC-4.74 Hgb-14.0 Hct-40.5
+MCV-85 MCH-29.6 MCHC-34.6 RDW-15.9* Plt Ct-456*
+[**2957-1-26**] 06:08AM BLOOD WBC-13.0* RBC-4.47* Hgb-13.3* Hct-38.7*
+MCV-87 MCH-29.7 MCHC-34.3 RDW-15.9* Plt Ct-453*
+[**2957-1-25**] 11:47AM BLOOD WBC-10.4 RBC-5.38# Hgb-15.8# Hct-46.6#
+MCV-87 MCH-29.3 MCHC-33.9 RDW-15.9* Plt Ct-471*
+[**2957-1-25**] 11:47AM BLOOD Neuts-91.6* Lymphs-7.0* Monos-0.4*
+Eos-0.5 Baso-0.5
+[**2957-1-27**] 06:10AM BLOOD PT-13.3 PTT-25.3 INR(PT)-1.1
+[**2957-1-25**] 11:47AM BLOOD PT-12.9 PTT-23.2 INR(PT)-1.1
+[**2957-1-27**] 06:10AM BLOOD Glucose-87 UreaN-2* Creat-0.5 Na-130*
+K-3.9 Cl-95* HCO3-24 AnGap-15
+[**2957-1-26**] 09:38AM BLOOD Glucose-109* UreaN-3* Creat-0.5 Na-134
+K-4.0 Cl-99 HCO3-26 AnGap-13
+[**2957-1-26**] 06:08AM BLOOD Glucose-95 UreaN-3* Creat-0.5 Na-137
+K-4.0 Cl-101 HCO3-26 AnGap-14
+[**2957-1-25**] 10:30PM BLOOD Na-137 K-4.1 Cl-104
+[**2957-1-25**] 11:47AM BLOOD Glucose-120* UreaN-2* Creat-0.7 Na-138
+K-3.3 Cl-99 HCO3-25 AnGap-17
+[**2957-1-27**] 06:10AM BLOOD CK(CPK)-49
+[**2957-1-26**] 05:35PM BLOOD CK(CPK)-59
+[**2957-1-27**] 06:10AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2957-1-26**] 05:35PM BLOOD CK-MB-2 cTropnT-<0.01
+[**2957-1-27**] 06:10AM BLOOD Calcium-8.4 Phos-2.8 Mg-1.9
+[**2957-1-25**] 11:47AM BLOOD Calcium-9.3 Phos-1.8*# Mg-2.1
+[**2957-1-25**] 10:30PM BLOOD TSH-0.99
+.
+[**2957-1-25**] ECG
+Atrial paced, ventricular sensed rhythm with atrial premature
+beats. Since the
+previous tracing the atrial pacing then was associated with a P
+wave and there
+is no longer ventricular pacing. Perhaps the pateint was in
+atrial
+fibrillation on the prior two tracings. Clinical correlation is
+suggested.
+.
+[**2957-1-26**] ECG
+Atrial paced, ventricular sensed rhythm with a single atrial
+premature beat.
+Since the previous tracing the Q-T interval is shorter.
+Otherwise, unchanged.
+
+
+
+Brief Hospital Course:
+52 yo gentleman with history of ventricular arrhythmias in the
+setting of prolonged QT presents with torsades and ICD firing in
+the setting of medication prolonging QT.
+.
+# RHYTHM:  Mr. [**Known patient lastname 26538**] presented in [**Month (only) 435**] in the setting
+of prolonged QT, believed to be secondary to Zofran and had an
+ICD placed during that time.  He presented again dyspneic and
+developed torsades de [**Last Name (un) **] after receiving zofran.  QT
+interval was 510 at outside hospital and 460 in [**Hospital1 4**] ED after
+receiving magnesium repletion prior to transfer.  Episodes of
+torsades appear to be provoked by QT-prolonging medications, and
+threshold may also have been lowered by electrolyte
+abnormalities.  He was additionally repleted with magnesium and
+potassium and was initially put on a lidocaine drip for
+continued anti-arrythmic effect overnight. Daily EKGs performed
+to monitor QT interval. He was discharged with close follow up
+and no changes were made to his medications.  He was instructed
+to continue avoiding QT prolonging medications.
+.
+# CORONARIES: On recent catheterization prior to admission, no
+intervenable lesions however patient  with several narrowed
+vessels as well as evidence of microvascular disease.  No
+history of chest pain on admission and cardiac enzymes cycled
+and were unremarkable.  He was continued on aspirin, statin ,
+betablocker and ace inhibitor at home dose.
+.
+# Chronic CHF: History of mild systolic CHF  post-torsades (last
+EF 45%). Euvolemic on admission without evidence of
+exacerbation.  He was continued on home dose of betablocker and
+lisinopril and put on a low sodium diet.
+.
+# HTN: Mildly blood pressures on admission.  He was continued on
+home regimen as outlined above.
+.
+# HLD: Continued Simvastatin.
+.
+# Thrush:  White plaque on tongue consistent with flush. He was
+started on nystatin swish and swallow.
+.
+# Hx COPD/Asthma: No wheeze or evidence of active flare.
+Albuterol, flovent and ventolin were available.
+.
+# Depression/Anxiety: He was continued on celexa daily with
+ativan as needed.  He was encouraged to follow-up with his
+primary care physician and former psychiatrist to address
+underlying anxiety.
+.
+# Chronic pain: Continued on tylenol and cyclobenzaprine for
+chronic pain in setting of past history of narcotics abuse.
+.
+
+Medications on Admission:
+Zocor 20mg daily
+Aspirin 81mg daily
+Lisinopril 5mg daily
+Lopressor 25mg [**Hospital1 **]
+Celexa 40mg daily
+Docusate 100mg [**Hospital1 **]
+Miralax 1 packet daily
+Ambien prn
+
+Discharge Medications:
+1. Zocor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+2. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+3. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+5. Celexa 40 mg Tablet Sig: One (1) Tablet PO once a day.
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+7. Miralax 17 gram Powder in Packet Sig: One (1)  PO once a day.
+
+8. zolpidem 5 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for insomnia.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Ventricular Tachycardia/Torsades de Pointes related to prolonged
+
+QT interval
+Acute Systolic Dysfunction
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted to the hospital for management of an abnormal
+cardiac rhythm, ventricular tachycardia or torsades de pointes
+that caused your internal cardiac defibrillator (ICD)to fire.
+This abnormal rhythm was likely caused by a medication that you
+took for symptoms of nausea (zofran). You should avoid any
+medicines
+that make you more prone to ventricular tachycardia, please
+continue to avoid these medications, you have been given a list
+of these medications.
+
+No changes were made to your medications.
+
+Weigh yourself every morning, please call Dr. [**Last Name (STitle) 763**] if
+weight goes up more than 3 lbs.
+
+Followup Instructions:
+Name: [**Last Name (LF) 26539**],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+Address: [**Location (un) **]., STE 530, [**Location (un) **],[**Numeric Identifier 1514**]
+Phone: [**Telephone/Fax (1) 26540**]
+Appt: [**2-2**] at 3pm
+***Please ask dr [**Last Name (STitle) **] to assist you in establishing with a
+psychiatrist during this office visit.****
+
+Department: CARDIAC SERVICES
+When: [**Last Name (STitle) **] [**2957-2-11**] at 10:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 17301**], NP [**Telephone/Fax (1) 17302**]
+Building: [**Hospital6 355**] [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+
+
+
+
+DOC CLASS

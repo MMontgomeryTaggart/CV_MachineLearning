@@ -1,0 +1,202 @@
+CVICU
+   HPI:
+   HD8
+   Pre-Op Weight:0 lbs   0 kgs
+   [**3445-4-28**]:Left superficial femoral artery/bypass graft
+   Dacron patch angioplasty.
+   [**4-24**]: Bilateral lower extremity ischemia
+   with ulceration.
+   OPERATION PERFORMED:
+   1. Ultrasound-guided puncture of left brachial artery.
+   2. Second-order catheterization of left external iliac
+   artery.
+   3. Serial arteriogram of the left lower extremity.
+   4. Additional second-order catheterization of the right
+   external iliac artery.
+   5. Serial arteriogram of the right lower extremity.
+   PAST MEDICAL HISTORY: hypertension, hypercholesterolemia, PVD,
+   aortic stenosis with [**Location (un) 534**] of 0.6 cm2, mild mitral regurgitation,
+   CAD, LVH, CHF-LVEF 60%, h/o a-fib, DM II, retinopathy, peripheral
+   neuropathy, obesity, SIRS, h/o pulm edema w/ bronchospasm, OA,
+   bilateral renal artery stenosis, GERD, h/o left lower extremity
+   cellulitis with sepsis [**12/3441**], h/o GI bleed [**12/3441**], h/o
+   osteomylitis of left lower extremity, h/o gangrene left foot,
+   chronic back pain, chronic tremors
+   PAST SURGICAL HISTORY: - L fem-PT bypass NRSVG [**3-/3444**]
+   - endo AAA repair [**3-/3442**]
+   - right CEA with patch angioplasty [**3432-5-9**]
+   - trach/PEG [**12/3441**] for pulmonary edema with bronchospasm
+   - tonsillectomy
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Ciprofloxacin 2. Furosemide 4. Heparin 6. Insulin 8. Magnesium Sulfate
+   9. MetRONIDAZOLE (FLagyl) 10. Metoprolol Tartrate 12. Phenylephrine 14.
+   Propofol 15. Vancomycin
+   24 Hour Events:
+   Events:
+   [**3445-4-29**] Tx from VICU->resp failure/intubated.? R/o PE.Echo, diurese,
+   heparin gtt
+ INTUBATION - At [**3445-4-29**] 08:45 PM
+ EKG - At [**3445-4-29**] 09:02 PM
+ ARTERIAL LINE - START [**3445-4-29**] 09:02 PM
+   Allergies:
+   Unasyn (Intraven.) (Ampicillin Sodium/Sulbactam Na)
+   Wheezing; SOB;
+   Last dose of Antibiotics:
+   Vancomycin - [**3445-4-30**] 12:30 AM
+   Ciprofloxacin - [**3445-4-30**] 12:32 AM
+   Metronidazole - [**3445-4-30**] 02:15 AM
+   Infusions:
+   Heparin Sodium - 1,000 units/hour
+   Insulin - Regular - 5 units/hour
+   Other ICU medications:
+   Hydralazine - [**3445-4-29**] 09:02 PM
+   Metoprolol - [**3445-4-30**] 12:00 AM
+   Furosemide (Lasix) - [**3445-4-30**] 05:00 AM
+   Insulin - Regular - [**3445-4-30**] 05:01 AM
+   Other medications:
+   Flowsheet Data as of  [**3445-4-30**] 06:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**47**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 37.8
+C (100
+   HR: 88 (86 - 114) bpm
+   BP: 119/51(71) {79/39(54) - 169/77(113)} mmHg
+   RR: 12 (9 - 24) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    183 mL
+                                                                    821 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    183 mL
+                                                                    821 mL
+   Blood products:
+   Total out:
+                                                                    615 mL
+                                                                  1,215 mL
+   Urine:
+                                                                    335 mL
+                                                                  1,215 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -432 mL
+                                                                   -394 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 566 (538 - 661) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 15
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI: 33
+   PIP: 21 cmH2O
+   SPO2: 100%
+   ABG: 7.38/42/195/25/0
+   Ve: 9 L/min
+   PaO2 / FiO2: 488
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Follows simple commands, Moves all extremities, Sedated
+   Labs / Radiology
+   204 K/uL
+   9.8 g/dL
+   247 mg/dL
+   1.4 mg/dL
+   25 mEq/L
+   4.7 mEq/L
+   24 mg/dL
+   98 mEq/L
+   131 mEq/L
+   30.5 %
+   7.4 K/uL
+        [image002.jpg]
+                             [**3445-4-29**]  09:05 PM
+                             [**3445-4-29**]  09:17 PM
+                             [**3445-4-29**]  09:38 PM
+                             [**3445-4-30**]  01:20 AM
+                             [**3445-4-30**]  03:10 AM
+   WBC
+   12.1
+   7.4
+   Hct
+   31.4
+   30.5
+   Plt
+   238
+   204
+   Creatinine
+   1.4
+   1.4
+   Troponin T
+   0.03
+   TCO2
+   23
+   25
+   26
+   Glucose
+   255
+   247
+   Other labs: PT / PTT / INR:12.3/39.8/1.0, CK / CK-MB / Troponin
+   T:69//0.03, Lactic Acid:1.2 mmol/L, Ca:8.3 mg/dL, Mg:1.9 mg/dL, PO4:3.6
+   mg/dL
+   Assessment and Plan
+   Assessment and Plan:
+   Neurologic: Minimize sedatives in prep for extubation.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, R/O for MI by enzymes
+   and check TTE today.  PE of concern but less likely, will discuss d/c
+   heparin pending ECHO findings.
+   Pulmonary: Extubate today, (Ventilator mode: CPAP + PS)
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet after extubation to cardiac diet.
+   Renal: Foley, Adequate UO, Improved UOP with diuresis, cont lasix for
+   goal 1 liter negative.
+   Hematology: Mild anemia post-op
+   Endocrine: Insulin drip
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley, ETT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: Vascular surgery
+   Billing Diagnosis: (Respiratory distress: Failure)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3445-4-29**] 09:02 PM
+   20 Gauge - [**3445-4-29**] 09:04 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments: STart H2-blocker.
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 31 minutes
+   Patient is critically ill
+
+
+DOC CLASS

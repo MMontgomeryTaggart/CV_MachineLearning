@@ -1,0 +1,454 @@
+Admission Date:  [**2628-1-1**]              Discharge Date:   [**2628-1-6**]
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Doctor First Name 3240**]
+Chief Complaint:
+Fevers, cough, sob.
+
+Major Surgical or Invasive Procedure:
+1. Thoracentesis [**2628-1-3**]
+
+
+History of Present Illness:
+This is a [**Age over 90 **] year old man with PMH significant for multiple
+hospitalizations for PNA, CAD status post CABG [**8-/2620**], no caths
+in our system, Peripheral arterial disease,
+Chronic kidney disease, baseline creatinine 1.0-1.3,HTN, GERD,
+VitB12 deficiency, history of mild COPD, presented to ED with
+fevers, and weakness.
+.
+Per patient and wife, patient had a fever of 37.5 at home 3 days
+PTA, and they called Dr. [**Last Name (STitle) **], who is patient's pulmonologist.
+He prescribed azithromycin for 3 days. Over the past sevearal
+days patient has been feeling tired, but has been able to get up
+for his usual morning walks. This morning he had a fever of 38.5
+as well as chills, which promoted a visit to the emergency room.
+
+
+On arrival to [**Last Name (LF) **], [**First Name3 (LF) **] report, he came in in severe resp distress
+tachypneic to 30-40, with PNA, got antibiotics and steroids and
+started improving. Now 95% on 5L, tachypneic in 30s, HR in 110.
+
+In the ED, initial VS were: 100.4 108 136/67 18 100%. He was
+noted to be tachypneic. He was given Levofloxacin, Ceftriaxone,
+Tylenol, Albuterol/Ipratropium NEBs, Methylprednisolone.
+
+On arrival to the MICU, patient was coughing, was arousable and
+answered questions, was alert to name, hospital, but did not
+know the year, appeared sleepy, and only said "[**2616**]".
+
+Past Medical History:
+Multiple Hospitalizations for Pneumonia
+CAD status post CABG [**8-/2620**], no caths in our system
+Peripheral arterial disease
+Chronic kidney disease, baseline creatinine 1.0-1.3
+Hypertension
+GERD
+Vitamin B12 deficiency
+History of abnormal CXR
+Dyslipidemia
+COPD
+
+
+Social History:
+Married, lives with wife.  Lives in [**Hospital3 **] facility.
+Has VNA services.  Uses wheelchair to get around.  Remote [**Hospital3 1796**]
+(quit in [**2576**]), daily small glass of wine.  No narcotic use.
+
+
+Family History:
+No history of pulmonary issues in family.
+
+
+Physical Exam:
+Admission:
+Vitals: T: 96.7 BP: 130/52 P: 78 R: 22 O2: 94% on 2L NC
+GENERAL: Elderly [**Male First Name (un) 4680**] in NAD. Unable to answer orientation
+questions, however A+Ox1 in the ED per report. No central or
+peripheral cyanosis; no jaundice/pallor. Not using accessory mm
+to breath
+HEENT: NCAT. Sclera anicteric.
+NECK: Supple; No JVD,
+CARDIAC: RRR, nl S1,S2, no r/g noted (possible grade II/IV
+holosystolic murmur heard throughout precordium, but difficult
+to differentiate from breath sounds)
+LUNGS: Good air flow, end expiratory wheezes bases>mid lung
+fields, no obvious crackles.
+ABDOMEN: Soft, NTND.
+EXTREMITIES: No cyanosis, clubbing. Trace edema. WWP. 1+ distal
+pulses.
+
+Discharge Physical:
+Afebrile, RR 20 O2 sat 96% on 2LNC
+GENERAL: Elderly [**Male First Name (un) 4680**] in NAD. [**Male First Name (un) 589**]-speaking only. Able to
+communicate with interpreter and family. Hard of hearing (must
+speak loudly)
+HEENT: NCAT. Sclera anicteric.
+NECK: Supple; No JVD
+CARDIAC: RRR, nl S1,S2, 2/6 systolic murmur LUSB, difficult to
+appreciate with patient talking
+LUNGS: no use of accessory muscles, occasional end expiratory
+wheezes, crackles right>L
+ABDOMEN: NABS, Soft, NTND, no rebound or guarding.
+EXTREMITIES: No cyanosis, clubbing. Trace edema. WWP. 1+ distal
+pulses.
+
+
+Pertinent Results:
+Admission Labs:
+[**2628-1-1**] 08:52PM BLOOD WBC-19.1* RBC-4.41* Hgb-12.6* Hct-38.8*
+MCV-88 MCH-28.7 MCHC-32.6 RDW-13.7 Plt Ct-425#
+[**2628-1-1**] 08:52PM BLOOD Neuts-85.2* Lymphs-10.8* Monos-2.8
+Eos-0.9 Baso-0.3
+[**2628-1-1**] 09:10PM BLOOD PT-11.3 PTT-30.8 INR(PT)-1.0
+[**2628-1-1**] 09:10PM BLOOD Glucose-199* UreaN-23* Creat-1.4* Na-134
+K-4.9 Cl-99 HCO3-24 AnGap-16
+[**2628-1-1**] 09:10PM BLOOD cTropnT-<0.01 proBNP-1395*
+[**2628-1-2**] 05:22AM BLOOD D-Dimer-3549*
+[**2628-1-1**] 09:00PM BLOOD Lactate-2.1* K-5.9*
+
+CBC trend:
+[**2628-1-1**] 08:52PM BLOOD WBC-19.1* RBC-4.41* Hgb-12.6* Hct-38.8*
+MCV-88 MCH-28.7 MCHC-32.6 RDW-13.7 Plt Ct-425#
+[**2628-1-2**] 05:22AM BLOOD WBC-25.7* RBC-4.10* Hgb-11.5* Hct-37.2*
+MCV-91 MCH-28.1 MCHC-30.9* RDW-13.2 Plt Ct-331
+[**2628-1-3**] 07:45AM BLOOD WBC-31.7* RBC-4.06* Hgb-11.3* Hct-35.8*
+MCV-88 MCH-27.9 MCHC-31.6 RDW-13.8 Plt Ct-368
+[**2628-1-4**] 06:50AM BLOOD WBC-25.0* RBC-4.40* Hgb-12.2* Hct-38.1*
+MCV-87 MCH-27.7 MCHC-32.0 RDW-13.8 Plt Ct-374
+[**2628-1-5**] 06:50AM BLOOD WBC-15.3* RBC-3.90* Hgb-10.9* Hct-34.2*
+MCV-88 MCH-28.1 MCHC-32.0 RDW-13.9 Plt Ct-286
+
+Discharge Labs:
+[**2628-1-5**] 06:50AM BLOOD WBC-15.3* RBC-3.90* Hgb-10.9* Hct-34.2*
+MCV-88 MCH-28.1 MCHC-32.0 RDW-13.9 Plt Ct-286
+[**2628-1-5**] 06:50AM BLOOD Glucose-147* UreaN-27* Creat-1.1 Na-137
+K-4.1 Cl-106 HCO3-21* AnGap-14
+
+Microbiology:
+Blood cultures [**2628-1-1**] pending at time of discharge
+
+[**2628-1-2**] 1:00 am Influenza A/B by DFA
+      Source: Nasopharyngeal swab.
+
+                            **FINAL REPORT [**2628-1-2**]**
+
+   DIRECT INFLUENZA A ANTIGEN TEST (Final [**2628-1-2**]):
+      Negative for Influenza A.
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**2628-1-2**]):
+      Negative for Influenza B.
+
+MRSA SCREEN (Final [**2628-1-4**]):    No MRSA isolated.
+
+[**2628-1-3**] 12:44 pm PLEURAL FLUID      PLEURAL FLUID.
+
+   GRAM STAIN (Final [**2628-1-3**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (Preliminary):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Final [**2628-1-5**]):
+      DUE TO LABORATORY ERROR, UNABLE TO PROCESS.
+      ANAEROBES ARE SCREENED FOR IN THE FLUID CULTURE.
+      TEST CANCELLED, PATIENT CREDITED.
+
+   ACID FAST SMEAR (Final [**2628-1-4**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+
+   ACID FAST CULTURE (Preliminary):
+
+   Legionella Urinary Antigen  (Final [**2628-1-4**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+Studies:
+
+CXR [**2628-1-1**]
+PORTABLE UPRIGHT AP VIEW OF THE CHEST: The patient is status
+post median
+sternotomy and CABG. Evaluation of the cardiac silhouette size
+is difficult due to the presence of a chronic, moderate-to-large
+left pleural effusion, which appears slightly increased in size
+when compared to prior study. There is persistent left basilar
+opacification, likely reflecting compressive atelectasis. The
+right lung demonstrates mild atelectasis at the lung base, but
+is otherwise clear. No pneumothorax is identified. There is no
+pulmonary vascular congestion. The aorta remains tortuous and
+calcified.
+
+IMPRESSION: Moderate-to-large chronic left pleural effusion,
+slightly
+increased compared to the prior study with persistent left
+basilar
+opacification, likely reflecting compressive atelectasis, though
+infection
+cannot be completely excluded.
+
+CXR [**2628-1-3**]:
+FINDINGS: Sternotomy wires are unchanged. The heart and
+mediastinal contours are within normal limits and stable. There
+has been interval decrease in a left-sided pleural effusion with
+some persisting left basilar atelectasis.  The right lung is
+clear. A line between the posterior aspects of the left third
+and fourth rib space is more compatible with a skin fold rather
+than the visceral pleura of the lung, so pneumothorax is not
+favored. However, given the recent instrumentation, if growing
+clinical concern for pneumothorax exists, short-interval
+followup may be considered.
+
+LENI [**2628-1-2**]:
+IMPRESSION: No evidence of deep vein thrombosis in either leg.
+
+
+Brief Hospital Course:
+Brief Course:
+Mr. [**Known patient lastname 27729**] is a [**Age over 90 **] year old man with PMH significant for
+multiple hospitalizations for PNA, CAD status post CABG [**8-/2620**],
+peripheral arterial disease, chronic kidney disease, baseline
+creatinine 1.0-1.3, HTN, GERD, VitB12 deficiency, history of
+mild COPD, presented to ED with fevers, and weakness as well as
+SOB. He was initially in respiratory distress in monitored in
+the ICU overnight. He was quickly transitioned to the medicine
+floor and on nasal cannula. He was treated for
+community-acquired pneumonia, and he clinically improved. He was
+discharged to rehabilitation.
+
+Active issues:
+
+#. Fevers, cough: Likely secondary to community acquired
+pneumonia. On admission patient had cough, fevers, elevated WBC.
+CXR unchanged from prior and still showed pleural effusions.
+Etiolgy was likely bacterial vs viral pneumonia. He was treated
+with Ceftriaxone/Levaquin to cover for CAP in ICU setting. He
+was given albuterol/Ipratropium standing NEBS. Suspicion low for
+PE, d-dimer was elevated but LENIs were negative. He was treated
+empirically with Tamiflu initially but discontinued once DFA
+negative. He had a thoracentesis on [**1-3**] that was exudative by
+light's criteria, though culture and gram stain were negative.
+He was continued on Levofloxacin on the floors and continued to
+improve. He was discharged on planned 10 day course of
+Levofloxacin. He required 2L NC on discharge (sats 96%), which
+should be weaned as able on at rehab. If he was unable to be
+weaned to room air after treatment for pneumonia, recommend
+consideration of gentle diuresis (pt received fluids while
+admitted and lasix initially held).
+
+# Acute on chronic renal failure: Baseline Cr 1.1-1.3, up to
+1.4, improved with fluids to 1.1 on day prior to discharge,
+therefore likely pre-renal. His lasix was initially held, and
+restarted the day prior to discharge.
+
+# Aspiration: Pt found to be aspirating on bedside evaluation
+with speech and swallow. Aspiration precautions were maintained.
+Recommend that patient have formal video swallow after
+resolution of his pneumonia.
+
+Inactive issues:
+
+#. Type 2 diabetes: He has a slowly rising hemoglobin A1c (7.8
+from 6/[**2627**]).  Had been diet controlled until [**Month (only) **] of last
+year.  He was written for an insulin sliding scale while on the
+medical floors, and required around 8 units Humalog daily for BG
+high 100s-200. Pt will require follow-up with this PCP, [**Name10 (NameIs) **] if
+he continues to have elevated BG may require oral medications.
+This was not started in house given concern for hypoglycemia in
+this patient with significant coronary artery disease.
+
+# CAD status post CABG [**8-/2620**]: Continued on home ASA. No longer
+on statin.
+
+# HTN: Continued on amlodipine. His lasix was restarted at 10mg
+daily the day prior to discharge (held briefly given pre-renal
+ARF as discussed above).
+
+# GERD: Pt was changed from prilosec to lansoprazole for ease of
+taking given aspiration as discussed above.
+
+# Vitamin B12 deficinecy: Continued home Vitamin B12.
+
+Transitional care:
+1. CODE: DNR/DNI
+2. Contact:
+dtr ([**Name2 (NI) **]) 1 ([**Telephone/Fax (1) 27732**], ([**Telephone/Fax (1) 27733**] dtr speaks english.
+Also Wife ([**Telephone/Fax (1) 27734**]. Grandson [**Name (NI) 2457**] [**Telephone/Fax (1) 27735**].
+3. Pending studies:
+Blood cultures from [**1-1**] pending at time of discharge
+Final pleural fluid culture [**1-3**]
+4. Follow-up:
+Pulmonology
+Recommend video swallow after treatment for pneumonia
+Will need assistance with making PCP [**Name9 (PRE) 695**] after discharge
+Recommend repeat labs for CBC, chem 7 2-3 days after discharge
+for assessment of improving WBC count, and monitoring renal
+function
+
+
+Medications on Admission:
+-Amlodipine 5mg PO daily
+-Aspirin 81mg PO daily
+-Fluticasone, 2 sprays in each nostril daily (**Last filled in
+[**Month (only) 944**])
+-Furosemide 10mg daily
+-Ipratropium-albuterol 0.5 mg-3 mg (2.5 mg base)/3 mL Solution
+for Nebulization; 1 neb QID prn SOB (**last filled in [**Month (only) **])
+-Omeprazole 20mg PO daily
+-Tamsulosin 0.4mg PO qPM
+-Calcium citrate-Vitamin D3 (200mg-125u); 1 tab PO BID
+-Vitamin B12 1,000 units PO daily
+-Simethicone 80mg PO BID prn gassiness (chew one 20minutes
+before
+eating)
+
+
+Discharge Medications:
+1. bisacodyl 5 mg Tablet, Delayed Release (E.C.) [**Month (only) **]: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+2. senna 8.6 mg Tablet [**Month (only) **]: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+3. docusate sodium 50 mg/5 mL Liquid [**Month (only) **]: One (1)  PO BID (2
+times a day).
+4. aspirin 81 mg Tablet, Chewable [**Month (only) **]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. amlodipine 5 mg Tablet [**Month (only) **]: One (1) Tablet PO DAILY (Daily):
+HOLD if SBP<100.
+6. furosemide 20 mg Tablet [**Month (only) **]: 0.5 Tablet PO once a day: hold
+if SBP<100.
+7. ipratropium bromide 0.02 % Solution [**Month (only) **]: One (1) neb
+Inhalation Q6H (every 6 hours): during the day, HOLD at night.
+8. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization [**Month (only) **]: One (1) neb Inhalation Q4H (every 4 hours):
+only during the day, HOLD at night.
+9. Vitamin B-12 1,000 mcg Tablet [**Month (only) **]: One (1) Tablet PO once a
+day.
+10. calcium citrate-vitamin D3 200-125 mg-unit Tablet [**Month (only) **]: One
+(1) Tablet PO twice a day.
+11. tamsulosin 0.4 mg Capsule, Ext Release 24 hr [**Month (only) **]: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime): HOLD for SBP<100.
+
+12. simethicone 80 mg Tablet [**Month (only) **]: One (1) Tablet PO twice a day
+as needed for gas.
+13. levofloxacin 500 mg Tablet [**Month (only) **]: One (1) Tablet PO Q24H
+(every 24 hours) for 5 days: to be completed on [**2628-1-11**].
+14. heparin (porcine) 5,000 unit/mL Solution [**Date Range **]: 5000 (5000)
+units Injection TID (3 times a day): if not ambulating.
+15. lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+16. guaifenesin 100 mg/5 mL Syrup [**Last Name (STitle) **]: Ten (10) ML PO Q6H (every
+6 hours).
+17. insulin lispro 100 unit/mL Cartridge [**Last Name (STitle) **]: per sliding scale
+units Subcutaneous QACHS: recommend ISS if needed:
+for breakfast, lunch, dinner, recommend starting at BG 151-200 2
+units, increasing by 2 units for every 50 BG; for bedtime scale,
+start at BG 201, 2 units, increasing by 1 unit for every
+increase in BG of 50.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 454**] for the Aged - [**Location (un) 544**]
+
+Discharge Diagnosis:
+Primary:
+1. Community-acquired pneumonia
+2. Aspiration
+Secondary:
+1. Coronary artery disease
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Dr. [**Last Name (STitle) **]. [**Known patient lastname 27729**],
+
+It was a pleasure taking care of you during this admission. You
+were admitted with fevers and shortness of breath. You were
+initially in the ICU, but moved to the medicine floors shortly
+thereafter. You were placed on antibiotics and you improved. You
+were seen by the speech specialists, and you were found to be
+aspirating, so you were placed on a special diet. You will
+benefit from further evaluation with a video swallow after your
+pneumonia improves.
+
+The following medications were changed during this
+hospitalization:
+1. START Levofloxacin 500mg by mouth for 5 more days (to be
+completed [**2628-1-11**])
+2. START Guaifenesin 10 mL by mouth every 6 hours until cough
+improves
+3. START Insulin per sliding scale while at rehab (only during
+the day, may hold at night)
+4. Take Albuterol nebulizer 1 neb every 4 hours until your
+breathing improves (only during the day, may hold at night)
+5. Take Ipratropium nebulizer 1 neb every 6 hours until your
+breathing improves (you can then change back to as needed)
+6. CHANGE the medication Omeprazole 20mg daily to Lansoprazole
+30mg daily
+7. START Docusate sodium twice daily for constipation
+8. TAKE Bisacodyl and senna as needed for constipation
+
+You were found to have Type 2 Diabetes earlier this year with
+your primary doctor. You have not yet been started on oral
+medications for this. In the hospital we had you on a gentle
+insulin sliding scale for high blood sugars, but you required
+only small doses. If your blood sugars continue to be high, you
+may need to start a medication for this. Please discuss this
+further with your primary doctor at your follow-up appointment.
+
+Please continue the other medications you were taking prior to
+this admission.
+
+Followup Instructions:
+Please follow-up with the following appointments:
+
+We cannot schedule primary care appointments when you go to
+rehab. Please call your doctor, Dr. [**Last Name (STitle) **], at [**Telephone/Fax (1) 247**]
+when you are discharged from rehabilitation. The speech
+therapists recommended that you have a video swallow evaluation
+when you are discharged. Please discuss this with him if this is
+not done at rehab.
+
+Department: PULMONARY FUNCTION LAB
+When: THURSDAY [**2628-2-7**] at 2:40 PM
+With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 603**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: MEDICAL SPECIALTIES
+When: THURSDAY [**2628-2-7**] at 3:00 PM
+With: [**Name6 (MD) 604**] [**Name8 (MD) **] RN/DR. [**Last Name (STitle) 605**] [**Telephone/Fax (1) 606**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Name: [**Last Name (LF) **], [**Name8 (MD) **] MD
+Location: [**Hospital1 **]
+INTERVENTIONAL PULMONARY
+Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 711**]
+Phone: [**Telephone/Fax (1) 2972**]
+**We are working on a follow up appointment with Dr. [**Last Name (STitle) **]
+within 2-4 weeks. You will be called at home with the
+appointment. If you have not heard from the office within 2 days
+or have any questions, please call the number above.**
+
+
+
+Completed by:[**2628-1-6**]
+
+DOC CLASS

@@ -1,0 +1,297 @@
+Chief Complaint:  dyspnea, cough
+   HPI:
+   Mr. [**Known patient lastname 1755**] is an 84 yo M with PMH of CVA w/residual weakness, CAD s/p
+   stent, h/o COPD, h/o aspiration PNA and chronic pleural effusion/LLL
+   collapse presenting with worsened dyspnea and cough over two weeks.  He
+   reports that symptoms started two weeks ago with increased dyspnea and
+   a "head cold" and progressed to a productive cough.  He denies any
+   fevers, does endorse 8 pound weight gain and some increased leg edema.
+   He has also been using his nebulizer treatments more frequently as well
+   increased from QHS to TID.
+   .
+   Of note he was recently admitted from [**Date range (1) 3779**] and treated with course
+   of Vanc/Zosyn for HAP/aspiration pneumonia.  In addition, his wife was
+   recently admitted with GPR bacteremia with growth of Corynebacterium
+   Diptheria on [**4-28**] blood culture bottles with concern from ID consult of
+   infection rather than contamination.
+   .
+   VS on arrival to the ED T99.4 BP 138/86 HR 84 RR 16  97% on 4L NC.  He
+   had a CXR which showed stable LLL effusion with stable LLL
+   consolidation.  He was given levofloxacin and flagyl to treat
+   aspiration pneumonia.  While in the ED he had acute episode of
+   tachycardia, likely Afib with rate in the 140's-150's with associated
+   drop in blood pressure to 101/37.  He was given 500ml NS and diltiazem
+   10mg IV x2, with improvement in HR to the 120's.  He was admitted to
+   the ICU [**2-25**] concern for persistent tachycardia with borderline blood
+   pressure.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Patient, Family / Friend, Medical records
+   Allergies:
+   Sulfasalazine
+   Unknown;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2789-12-17**] 01:15 AM
+   Other medications:
+   Amlodipine 5 mg Tablet PO DAILY
+   Multivitamin One (1) Tablet PO DAILY (Daily)
+   Acetaminophen 1000mg QHS
+   Omeprazole 20 mg PO DAILY
+   Clopidogrel 75 mg Tablet PO DAILY
+   Simvastatin 20 mg PO DAILY
+   Bicalutamide 50 mg PO DAILY
+   Tiotropium Bromide 18 mcg One (1) Cap Inhalation DAILY
+   Ditropan 10mg daily
+   FerrouSul 325mg daily
+   Glipizide 5 mg [**Hospital1 7**]
+   Ocuvite
+   zaroxyln 2.5mg daily
+   Wellbutrin 37.5mg [**Hospital1 7**]
+   Atrovent nebs TID
+   NPH 8 unis SC QAM
+   Past medical history:
+   Family history:
+   Social History:
+   1. Type 2 DM
+   2. Ulcerative colitis s/p ileostomy and colectomy
+   3. Hypertension
+   4. CAD s/p stent (90's)
+   5. s/p CVA X3 (94, 95, 96)
+   6. Prostate ca s/p XRT on Hormone therapy
+   7. Paget's disease
+   8. GERD
+   9. Esophageal ulcer and stricture
+   10. Venous stasis
+   11. Anxiety
+   12. Bladder Cancer secondary to prostate ca therapy
+   13. Macular Degeneration
+   14. Pulmonary Embolism [**2771**]
+   15. Anemia
+   16. Hyperlipidemia
+   17. Hearing Loss
+   18. Melanoma
+   NC
+   Occupation:
+   Drugs: denies
+   Tobacco: remote, quit in [**2741**]'s
+   Alcohol: rare
+   Other: lives in [**Hospital **] [**Hospital **] nursing home
+   Review of systems:
+   Flowsheet Data as of [**2789-12-17**] 05:18 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.9
+C (98.4
+   HR: 72 (64 - 132) bpm
+   BP: 104/36(52) {104/36(52) - 149/73(91)} mmHg
+   RR: 26 (11 - 30) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+             Total In:
+                                                                     18 mL
+                                                                     53 mL
+   PO:
+             TF:
+   IVF:
+                                                                     18 mL
+                                                                     53 mL
+   Blood products:
+   Total out:
+                                                                    170 mL
+                                                                    155 mL
+   Urine:
+                                                                    170 mL
+                                                                    155 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -152 mL
+                                                                   -103 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///28/
+   Physical Examination
+   VS: T98.3 HR 132 BP 149/64 RR 24 95% 3L NC
+   Gen: alert, resting comfortably in NAD
+   HEENT: NC AT, dry mucous membranes
+   CV: irregularly irregular
+   Lungs: breath sounds diminished at bases L> R, scattered ronchi, no
+   wheezing
+   Abd: distended, nontender, ileostomy, no rebound or guarding,
+   normoactive bowel sounds
+   Ext: 1+ pitting edema in RLE, trace LE edeam LLE, DP's palpable
+   bilaterally
+   Labs / Radiology
+   250 K/uL
+   9.8 g/dL
+   234 mg/dL
+   1.8 mg/dL
+   30 mg/dL
+   28 mEq/L
+   100 mEq/L
+   3.3 mEq/L
+   140 mEq/L
+   30.8 %
+   9.3 K/uL
+        [image002.jpg]
+                                  [**2787-1-26**]
+                         2:33 A11/22/[**2789**]  11:39 PM
+                                  [**2787-1-30**]
+                                   10:20 P
+                                  [**2787-1-31**]
+                                   1:20 P
+                                  [**2787-2-1**]
+                                   11:50 P
+                                  [**2787-2-2**]
+                                   1:20 A
+                                  [**2787-2-3**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2787-2-26**]
+                                   1:20 P
+                                  [**2787-2-26**]
+                                   11:20 P
+                                  [**2787-2-26**]
+                                   4:20 P
+   WBC
+                                     9.3
+   Hct
+                                    30.8
+   Plt
+                                     250
+   Cr
+                                     1.8
+   Glucose
+                                     234
+   Other labs: PT / PTT / INR:13.6/26.1/1.2, Differential-Neuts:88.8 %,
+   Lymph:5.6 %, Mono:4.3 %, Eos:1.1 %, Ca++:8.9 mg/dL, Mg++:1.3 mg/dL,
+   PO4:3.2 mg/dL
+   Fluid analysis / Other labs: Labs from ED:
+   Na 135 K5.3 (hemolyzed) Cl 93 HCO 30 BUN 34 Creat 2.1 Gluc 248
+   BNP 630
+   lactate 2.6
+   PTT 23.8 INR 1
+   .
+   [**12-16**] Blood Cultures: pending
+   Imaging: [**2789-12-16**] CXR: 1. Stable left basal effusion and left lower
+   lobe consolidation.
+   2. Atelectasis at the right lung base.
+   3. Increased density and trabeculation in the right humerus is
+   unchanged and most likely related to Paget's disease.
+   .
+   [**2789-12-4**] Spirometry:
+        Actual Pred %Pred
+   FVC   2.00  3.88  52
+   FEV1   1.08 2.40  45
+   MMF   0.41  1.98  21
+   FEV1/FVC 54 62    87
+   .
+   [**2788-8-29**] ECHO:
+   Left ventricular wall thickness, cavity size, and systolic function are
+   normal (LVEF>55%). increased left ventricular filling pressure
+   (PCWP>18mmHg). Mild (1+) mitral regurgitation is seen. There is mild
+   pulmonary artery systolic hypertension.
+   .
+   [**2789-10-23**] Chest CT:
+   1. Small-to-moderate left and very tiny right pleural effusion with
+   bibasilar atelectasis, more marked on the left with almost complete
+   collapse of the lower lobe and scattered air bronchograms, maybe
+   chronic. Similar changes are visible back to [**2786**].
+   2. Emphysema.
+   3. Severe Paget's disease of the thoracic spine could potentially
+   restrict excursion of the diaphragm.
+   4. Central bronchial wall thickening and calcifications, could be due
+   to relapsing polychondritis.
+   5. Previous granulomatous exposure.
+   6. Severe aortic and coronary artery calcifications.
+   7. Renal atrophy. Small-to-moderate hiatal hernia.
+   ECG: EKG [**2789-12-16**] 16:12: NSR at 95 bpm, RBBB, low voltatge, no change
+   c/w previous from [**2789-10-22**].
+   EKG [**2789-12-16**] 18:10: regular supraventricular tachycardia at 150bpm,
+   RBBB, no ST seg or T wave changes compared with baseline.
+   EKG [**2789-12-16**] 21:07 irregularly irregular at 124 bpm, RBBB
+   Assessment and Plan
+   Mr. [**Known patient lastname 1755**] is an 84 yo M with PMH of CVA w/residual weakness, CAD s/p
+   stent, h/o COPD, h/o aspiration PNA and chronic pleural effusion/LLL
+   collapse presenting with worsened dyspnea and cough over two weeks,
+   with new Afib w/RVR in the ED.
+   .
+   #Dyspnea/cough - ddx at this time includes new paroxysmal atrial
+   fibrillation vs viral respiratory tract infection.  Does not appear to
+   have COPD exacerbation based on exam.  No current evidence for new
+   pneumonia based on imaging, with normal WBC count and only low grade
+   temperature although is at high risk for PNA given chronic aspiration
+   and LLL collapse.  Given afib w/rvr and borderline hypotension as well
+   as 8lb weight gain, this seems more likley cause for change over the
+   past two weeks.
+   -start po dilt and titrate for rate control
+   -hold off on abx for now
+   -continue home COPD reg including spiriva/atrovent/albuterol prn
+   -aspiration precautions although per report pt has refused modified
+   diet in the past
+   -send sputum culture
+   -f/u blood cultures
+   -droplet precautions given wife w/Corynebacterium diptheria; touch base
+   w/ID re: relevance of this to his presentation/need to r/o
+   -r/o infuluenza
+   -urine legionella
+   .
+   #Afib w/RVR - new diagnosis for him and likely cause for presenting
+   symptoms.  Converted back to sinus rhythm shortly after arrival to the
+   floor.
+   -titrate dilt for HR control, currenlty back in sinus so may only need
+   low dose
+   -d/c amlodipine
+   -consider anticoagulation for PAF if recurrs
+   .
+   #CKD - appears to be at baseline renal function with creatinine 2.1.
+   -monitor creatinine
+   -continue metolazone
+   .
+   #Type 2 DM - no acute issuse
+   -monitor FSBG
+   -hold glyburide for now
+   -cover with insuling ss
+   .
+   # Hypertension - only on amlodipine as outpatient w/good bp
+   control/borderline hypotension w/afib w/rvr.  He was not restarted on
+   ACEI after his recent D/C
+   -d/c amlodipine to allow for titration of dilt for HR control
+   -continue to hold ACEI
+   -diuresis w/metolazone
+   .
+   #Sacral Decubitus Ulcer - likely result of immobility [**2-25**] CVA, not new
+   for him.
+   -wound care consult in the am
+   .
+   #Anemia - currently stable at ~30 w/no evidence of acute bleeding.
+   .
+   #Urinary incontinence - continue ditropan
+   ICU Care
+   Nutrition: regular
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2789-12-16**] 10:17 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: DNR/DNI
+   Disposition: likely c/o to floor
+
+
+DOC CLASS

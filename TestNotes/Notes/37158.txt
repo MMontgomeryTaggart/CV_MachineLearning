@@ -1,0 +1,273 @@
+Admission Date:  [**3186-12-12**]              Discharge Date:   [**3186-12-19**]
+
+Date of Birth:  [**3115-4-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6294**]
+Chief Complaint:
+s/p arrest
+
+Major Surgical or Invasive Procedure:
+Intubation
+Multiple defibrillations
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 14937**] is a 71 yo M with PMH significant for CHF (EF:
+20-25%), CAD s/p CABG, CKD, a-fib on coumadin, s/p ICD, presents
+after VF arrest.  Per the family the patient had been complaing
+of dizziness over the last few months.  He does have a history
+of VT per the wife with 2 episodes of syncope in [**Month (only) 1811**]. They
+also state that he has just not been himself over the last few
+months since he was cardioverted for his a-fib. He has been
+having frequent falls and syncopal episodes.  He has been
+closely followed by his cardiologist who had been titrating his
+medications including d/c spironolactone and decreasing his
+lisinopril.  He reportly underwent cardiac cath 3 months prior
+that showed occluded grafts, but collateral flow, no
+intervention was performed.  He had been having worsening
+function and unable to perform daily activities because of
+dizziness.  Today the patient was walking to his bedroom when he
+had a syncopal episode. His wife heard him fall and raced to his
+side and called 911. EMS arrived within 5-7 minutes and he was
+found to be in he was found to be in VF arrest and was shocked
+twice with return of spontaneous circulation.  He was taken to
+[**Hospital1 6935**].
+
+At [**Hospital1 6935**] ECG showed a LBBB. Cardiac enzymes: MBI 2%,
+Trop 0.16 and Cr. 6. Patient was intubated and sedated with
+propofol.  He was started on dopamine gtt for hypotension SBP
+70-90s and lidocaine gtt. ABG: 7.35/37.8/340/20.8 on Tv:500,
+RR:14, FiO2:60%, PEEP: 3. The patient was transferred to the
+[**Hospital1 22**] ED.
+
+In the ED: T: 97.8 BP: 87/62 HR: 118, the dopamine was stopped
+and he was started on levophed 0.15mcg/kg/min and neo
+2.5mcg/kg/min in the ED.  He was continued on lidocaine gtt
+4mg/min and given 1mg versed and 50mcg of fentanyl.  A code
+STEMI was called and given ASA 325mg and plavix 600mg.  Upon
+review the ECG that showed LBBB and discussion with the family
+regarding his PMH it was decided that he would not be cathed and
+would pursue medical management. CE: Trop 0.16 CK: 521  MB: 13
+MBI: 2.5. INR 3.9, WBC 15.3, Cr 5.3, Gap 20.  He had a CT-head
+that did not show acute abnormality and CXR that showed
+pulmonary edema.
+
+The patient was transferred to the CCU and cooling protocol was
+initiated.
+
+Unable to obtain ROS.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia
+2. CARDIAC HISTORY:
+CABG
+-PERCUTANEOUS CORONARY INTERVENTIONS: 3 months prior showed
+occluded grafts, but collateral flow. No intervetion per wife.
+- ICD
+- a-fib on coumadin
+- CHF (reported EF 20-25%)
+- h/o VT
+3. OTHER PAST MEDICAL HISTORY:
+CKD
+Gout
+
+Social History:
+Lives with his wife
+-[**Name (NI) 3826**] history: unable to obtain
+-ETOH: unable to obtain
+-Illicit drugs: unable to obtain
+
+Family History:
+Unable to obtain
+
+Physical Exam:
+VS: T=95.2...BP=97/77...HR=65...RR=17...O2 sat=92%
+
+GENERAL: intubated and sedated
+HEENT: Sclera anicteric. minimally reactive to light.
+Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+No xanthalesma.
+NECK: Supple with JVP difficult to assess given habitus.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis.
+transmitted vent sounds. CTA anteriorly, no crackles, wheezes or
+rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/ +2 edema. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+NEURO: patient sedated with no purposful movement
+PULSES:
+Right: Carotid 2+ Femoral 2+ DP dopplerable
+Left: Carotid 2+ Femoral 2+ DP dopplerable
+
+Pertinent Results:
+ADMISSION LABS [**3186-12-12**]:
+[**3186-12-12**] 12:04AM WBC-15.3* Hgb-11.5* Hct-36.7* Plt Ct-205
+[**3186-12-12**] 12:04AM Neuts-89.3* Lymphs-5.8* Monos-4.6 Eos-0.1
+Baso-0.3
+[**3186-12-12**] 12:04AM PT-37.3* PTT-36.9* INR(PT)-3.9*
+[**3186-12-12**] 12:04AM Glucose-119* UreaN-98* Creat-5.3* Na-141 K-4.4
+Cl-105 HCO3-16* AnGap-24*
+[**3186-12-12**] 12:04AM ALT-91* AST-94* LD(LDH)-416* CK(CPK)-521*
+AlkPhos-292* TotBili-0.6
+[**3186-12-12**] 12:04AM CK-MB-13* MB Indx-2.5
+[**3186-12-12**] 12:04AM cTropnT-0.16*
+[**3186-12-12**] 12:04AM Albumin-3.7 Calcium-9.3 Phos-5.9* Mg-2.0
+
+URINE:
+[**3186-12-12**] 05:16AM Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.014
+[**3186-12-12**] 05:16AM Blood-LG Nitrite-NEG Protein-150 Glucose-NEG
+Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM
+[**3186-12-12**] 05:16AM RBC->50 WBC-[**3-6**] Bacteri-MOD Yeast-NONE Epi-0-2
+[**3186-12-12**] 05:16AM Hours-RANDOM UreaN-430 Creat-114 Na-10
+
+MICRO:
+UCx - Staph species, ~1000/ml
+UCx - Citrobacter
+BCx - NGTD
+Sputum Cx - MSSA, mixed flora
+
+IMAGING:
+[**12-12**] ECHO:
+The left atrium is moderately dilated. The right atrium is
+moderately dilated. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is borderline
+dilated. There is severe regional left ventricular systolic
+dysfunction with inferior and inferolateral akinesis. There is
+moderate to severe hypokinesis of the remaining segments (LVEF
+<20%). The estimated cardiac index is depressed (<2.0L/min/m2).
+No masses or thrombi are seen in the left ventricle. The right
+ventricular cavity is markedly dilated with severe global free
+wall hypokinesis. There is abnormal diastolic septal
+motion/position consistent with right ventricular volume
+overload, as well as a conduction abnormality or RV apical
+pacing. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion and no aortic stenosis. Mild (1+)
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Moderate (2+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen. There is at least
+mild pulmonary artery systolic hypertension, athough this may be
+underestimated given severity of TR. There is no pericardial
+effusion.
+
+IMPRESSION: Dilated left ventricle with severe regional and
+global systolic dysfunction, c/w prior extensive inferior
+myocardial infarction and a superimposed process (or multivessel
+CAD). Markedly dilated right ventricle with severe global
+systolic dysfunction. Mild aortic regurgitation. Moderate mitral
+and tricuspid regurgitation. Depressed cardiac index and at
+least mild pulmonary hypertension.
+
+[**12-12**] CXR:
+ETT balloon hyperinflated. Low lung volumes, with possible mild
+vascular congestion. Moderate cardiomegaly.
+
+[**12-12**] CT head:
+No acute intracranial abnormality. No intracranial hemorrhage
+or loss of [**Doctor Last Name 14**]-white matter differentiation.
+
+[**12-13**] CXR:
+Development of pulmonary edema and left basilar atelectasis or
+consolidation and possibly pleural fluid
+
+[**12-15**] CT head:
+1. No evidence of intracranial hemorrhage, edema, large masses,
+mass effect, or large vascular territory infarction.
+2. Mucosal thickening in bilateral maxillary sinuses and
+sphenoid sinus.
+3. Interval increase in opacification of the right middle ear
+and mastoid air cells.
+4. Lipoma is noted within the right occipital region, unchanged
+from prior.
+5. Coiling of NG tube within the nasopharynx.
+
+[**12-18**] CXR:
+Moderate cardiomegaly is stable. Left transvenous pacemaker
+leads terminate in a standard position in the right atrium and
+right ventricle. Left IJ catheter tip is in unchanged position
+in the left brachiocephalic vein. Right central catheter tip is
+in the right atrium. Small bilateral pleural effusions, larger
+on the left side associated with atelectasis are unchanged.
+Difference in density in the bases is consistent with difference
+in redistribution of the pleural effusions. There is mild new
+pulmonary edema.  Right lower lobe opacity could be atelectasis,
+but pneumonia cannot be excluded.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 14937**] is a 71 yo M with PMH significant for CHF (EF:
+20-25%), CAD s/p CABG, CKD, a-fib on coumadin, s/p ICD, who
+presented after VT arrest.
+
+#. VT Arrest: The patient was brought in s/p shock x2 by EMS for
+VT. The rhythm was unclear at first and thought to be VF, so the
+patient was initiated on cooling protocol with Arctic Sun. He
+was intubated and sedated for several days. CT head and EEG were
+negative for intracranial events. The patient's ICD was
+interrogated, and it was found that he had several episodes of
+slow VT during the past few weeks that were below the threshold
+for pacing by his ICD. His pacer was reset to detect VT as a
+lower heart rate, but he continued to have episodes of VT
+despite Amiodarone, Lidocaine, and several shocks by his ICD as
+well as externally.  The patient was made DNR/DNI by his family
+on [**3186-12-18**]. He passed away at 10:55am on [**3186-12-19**] with his
+family by his bedside.
+
+# CORONARIES: The patient was continued on ASA 325mg and Lipitor
+20mg. BB and ACEi were held [**2-3**] to hypotension.
+
+# PUMP: Pt with severe CHF. He was dialyzed with CVVH x 2 days.
+
+#. Resp Distress: Pt was intubated for airway protection in the
+setting of VT arrest. Patient likely volume overloaded from CHF
+and pulm edema on CXR. He also developed VAP and was treated
+with Vanc/Zosyn/Cipro for 7 days.
+
+
+Medications on Admission:
+Imdur 30mg daily
+Coumadin
+Amiodarone 100mg daily
+Mexiletine 150mg TID
+ASA 81mg daily
+Lisinopril 10mg daily
+Colchicine 600mcg daily
+Demadex 50mg daily
+Lipitor 20mg daily
+Coreg 25mg [**Hospital1 **]
+Probenecid 500mg [**Hospital1 **]
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Ventricular Tachycardia
+
+
+Discharge Condition:
+Expired
+
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+
+
+
+
+DOC CLASS

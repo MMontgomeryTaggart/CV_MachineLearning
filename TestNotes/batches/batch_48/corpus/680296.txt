@@ -1,0 +1,198 @@
+CVICU
+   HPI:
+   HD4   POD 2-MI MV repair(30 mm SJ ring)/Chest wall reconstruction
+   Ejection Fraction:50-55
+   Hemoglobin A1c:5.7
+   Pre-Op Weight:132.94 lbs   60.3 kgs
+   Baseline Creatinine:0.5
+   Past Medical History:Mitral regurgitation/Prolapse,? Arrhythmia (took
+   Amiodarone [**2919**]-96),Osteoporosis (intolerance to
+   Fosamax),Gastroesophageal reflux disease,Thyroid Goiter,Sleep apnea
+   (uses CPAP),Meningioma [**2922**],Migraines,Congestive heart failure
+   Cataracts,Bronchitis (most recently [**9-15**]),History of hypokalemia
+   secondary to Ace Inhibitors
+   ----------------------------------------------------------------
+   Past Surgical History:s/p C-section,s/p Tonsillectomy
+   s/p Laparoscopy [**2929**] & [**2931**] (endometriosis/abd. mass)
+   ----------------------------------------------------------------
+   Medications at home: Tylenol PM, MVI, Prilosec
+   Events:
+   [**2935-12-13**] cathed-no obstructive CAD*NPO -OR in AM-MVr/R *needs preop
+   checklist/HCT in AM
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 4. Aspirin EC 5. Calcium Gluconate 6. Ciprofloxacin HCl
+   7. Dextrose 50%
+   8. DiphenhydrAMINE 9. Docusate Sodium 10. 2 11. Insulin 12. Ketorolac
+   13. Ketorolac 14. Magnesium Sulfate
+   15. Metoclopramide 16. Milk of Magnesia 17. Nitroglycerin 18.
+   Phenylephrine 19. Potassium Chloride
+   20. Ranitidine 21. Sodium Chloride 0.9% Flush 22. Vancomycin
+   24 Hour Events:
+ PA CATHETER - STOP [**2935-12-15**] 11:00 AM
+ ARTERIAL LINE - STOP [**2935-12-15**] 03:00 PM
+ URINE CULTURE - At [**2935-12-15**] 05:09 PM
+ BLOOD CULTURED - At [**2935-12-16**] 01:00 AM
+ URINE CULTURE - At [**2935-12-16**] 01:00 AM
+ FEVER - 101.2
+F - [**2935-12-16**] 01:00 AM
+   Post operative day:
+   POD#2 - MVRepair
+   Allergies:
+   Penicillins
+   Rash;
+   Nickel
+   Rash;
+   Statins-Hmg-Coa Reductase Inhibitors
+   mylagias;
+   Last dose of Antibiotics:
+   Vancomycin - [**2935-12-15**] 10:00 PM
+   Infusions:
+   Phenylephrine - 1.8 mcg/Kg/min
+   Other ICU medications:
+   Insulin - Regular - [**2935-12-15**] 12:25 PM
+   Other medications:
+   Flowsheet Data as of  [**2935-12-16**] 06:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**37**] a.m.
+   Tmax: 38.4
+C (101.2
+   T current: 37.7
+C (99.9
+   HR: 66 (61 - 84) bpm
+   BP: 93/47(58) {77/31(44) - 106/60(70)} mmHg
+   RR: 11 (10 - 26) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 70.4 kg (admission): 60.5 kg
+   Height: 65 Inch
+   CVP: 9 (2 - 9) mmHg
+   PAP: (30 mmHg) / (11 mmHg)
+   CO/CI (Thermodilution): () / (3.6 L/min/m2)
+   SVR: 927 dynes*sec/cm5
+   SV: 76 mL
+   SVI: 45 mL/m2
+   Total In:
+                                                                  3,071 mL
+                                                                    732 mL
+   PO:
+                                                                    480 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  2,591 mL
+                                                                    272 mL
+   Blood products:
+                                                                    460 mL
+   Total out:
+                                                                  2,388 mL
+                                                                    335 mL
+   Urine:
+                                                                  1,955 mL
+                                                                    265 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    683 mL
+                                                                    397 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 100%
+   ABG: 7.26/54/149/26/-3
+   Physical Examination
+   Labs / Radiology
+   112 K/uL
+   8.2 g/dL
+   87 mg/dL
+   0.5 mg/dL
+   26 mEq/L
+   4.4 mEq/L
+   15 mg/dL
+   108 mEq/L
+   137 mEq/L
+   24.3 %
+   10.7 K/uL
+        [image002.jpg]
+                             [**2935-12-15**]  03:00 AM
+                             [**2935-12-15**]  04:00 AM
+                             [**2935-12-15**]  04:12 AM
+                             [**2935-12-15**]  05:00 AM
+                             [**2935-12-15**]  05:25 AM
+                             [**2935-12-15**]  06:00 AM
+                             [**2935-12-15**]  09:16 AM
+                             [**2935-12-15**]  09:25 AM
+                             [**2935-12-15**]  11:58 PM
+                             [**2935-12-16**]  04:12 AM
+   WBC
+   13.1
+   13.6
+   10.7
+   Hct
+   33.3
+   29.6
+   24.2
+   24.3
+   Plt
+   174
+   133
+   112
+   Creatinine
+   0.5
+   0.4
+   0.5
+   TCO2
+   23
+   25
+   Glucose
+   95
+   97
+   90
+   94
+   132
+   87
+   Other labs: PT / PTT / INR:14.2/46.5/1.2, Differential-Neuts:88.3 %,
+   Lymph:7.8 %, Mono:3.2 %, Eos:0.5 %, Fibrinogen:156 mg/dL, Lactic
+   Acid:1.6 mmol/L, Ca:7.5 mg/dL, Mg:3.0 mg/dL, PO4:2.8 mg/dL
+   Assessment and Plan
+   VALVE REPAIR (ALL VALVES), PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   Assessment and Plan: 62F s/p MI MV repair(30 mm SJ ring)/Chest wall
+   reconstruction [**2935-12-14**]
+   Neurologic: Pain controlled, Cont epidural per pain service orders;
+   Cardiovascular: Beta-blocker, Statins
+   Pulmonary: OOB / IS / PT consult; Place CT's on water seal.
+   Gastrointestinal / Abdomen: standard bowel regimen
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO
+   Hematology: Check post-transfusion Hct this AM.
+   Endocrine: RISS
+   Infectious Disease: Cipro started for UTI.
+   Lines / Tubes / Drains: Foley, Chest tube - pleural
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**2935-12-14**] 08:36 PM
+   18 Gauge - [**2935-12-14**] 08:37 PM
+   20 Gauge - [**2935-12-14**] 08:38 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 31 minutes
+   Patient is critically ill
+
+
+DOC CLASS

@@ -1,0 +1,234 @@
+TITLE: CCU Progress Note
+   Chief Complaint:
+   24 Hour Events:
+   - Due to ongoing CP was sent to cath lab for repeat cath
+   - At cath had code blue. Responded to precordial thump + atropine
+   - At re-cath was found to have increased LAD stenosis which was stented
+   - Did well post cath. Mild stable hematoma at post cath check
+   - DCed HCTZ and lisinopril for pressure and renal protection
+   - Increased metoprolol to 12.5mg PO TID from [**Hospital1 7**]
+   - Had mult dropped beats on tele ?Mobitz II. Not caught on 12-lead
+   - patient this morning with continued [**1-23**] chest discomfort
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Eptifibatide (Integrilin) - 2 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2762-2-4**] 08:00 AM
+   Morphine Sulfate - [**2762-2-4**] 08:14 AM
+   Other medications:
+   Changes to medical and family history: none
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: II/X chest pain as above, + tenderness over cath
+   sites bilaterally
+   Flowsheet Data as of  [**2762-2-5**] 06:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 36.9
+C (98.4
+   HR: 58 (45 - 78) bpm
+   BP: 115/54(69) {92/48(61) - 171/114(135)} mmHg
+   RR: 18 (13 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 27 Inch
+             Total In:
+                                                                  3,802 mL
+                                                                    853 mL
+   PO:
+                                                                    360 mL
+             TF:
+   IVF:
+                                                                  3,442 mL
+                                                                    853 mL
+   Blood products:
+   Total out:
+                                                                  2,275 mL
+                                                                      0 mL
+   Urine:
+                                                                  2,275 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,527 mL
+                                                                    853 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: Well nourished, mildly anxious
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), no murmurs, rubs or gallops
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished), 2
+   large hematomas bilaterally that have not expanded beyond drawn black
+   lines  from [**2-4**]
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear  to
+   anterior auscultation
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace edema, Left: Trace edema
+   Skin:  Warm
+   Neurologic: Attentive, AAO x3, moves all 4 extremities, fluent speech
+   Labs / Radiology
+   237 K/uL
+   8.9 g/dL
+   243 mg/dL
+   1.6 mg/dL
+   29 mEq/L
+   3.9 mEq/L
+   21 mg/dL
+   98 mEq/L
+   134 mEq/L
+   25.9 %
+   8.6 K/uL
+        [image002.jpg]
+                             [**2762-2-4**]  05:09 AM
+                             [**2762-2-4**]  11:59 AM
+                             [**2762-2-5**]  12:10 AM
+   WBC
+   8.3
+   8.6
+   Hct
+   30.3
+   27.6
+   25.9
+   Plt
+   266
+   233
+   237
+   Cr
+   1.2
+   1.1
+   1.6
+   TropT
+   1.45
+   Glucose
+   162
+   243
+   Other labs: PT / PTT / INR:14.1/45.7/1.2, CK / CKMB /
+   Troponin-T:313/10/1.45, Ca++:8.9 mg/dL, Mg++:2.2 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   73 year old male with DM2, HTN, hyperlipedemia who presented with 10/10
+   substernal chest pain underwent successful PTCA and stenting of the LCX
+   with a 3.5x15mm Xience stent. Then transferred to the CCU in the
+   setting of persistent chest pain after cardiac catherization. Underwent
+   repeat cath with code blue on the table at which time he was found to
+   have LAD stenosis which was stented.
+   .
+   # NSTEMI/CAD - patient with 3 vessel disease with LMCA no angiography
+   apparent CAD, LAD with mid vessel 60 % stenosis, LCx with proximal
+   eccentric 80% hazy, mild luminal irregularities, RCA proximal 60 %
+   focal and distal 60%, mild luminal irregularities throughout. Patient
+   s/p LCX with a 3.5x15mm Xience stent with persistent chest pain which
+   led to re-cath on the following morning. At cath LAD was found to be
+   90% occluded and a DES was placed.
+   - cont Plavix, aspirin 325mg PO daily, atorvastatin 80 mg PO daily for
+   now for ACS
+   - Lipid panel: Cholest 111, Triglyc 209, HDL 32, LDLcalc 45 so at goal
+   - HbA1c pending for risk statification
+   - uptitrated beta blocker to 12.5mg PO TID but went back to [**Hospital1 7**] dosing
+   for bradycardia
+   - off IV heparin now, off IV nitro
+   - completed Integrillin drip
+   - telemetry monitoring overnight showed ? Mobitz II
+   - CK peaked at  729 and downtrending prior to second cath
+   .
+   # Pump- on cardiac catherization normal systolic function. No evidence
+   of heart failure on exam.  Patient denies symptoms such as orthopnea,
+   lower extremity edema.
+   - echo pending
+   - Holding lisinopril for renal protection after 2 caths and contrast CT
+   - will restart on discharge
+   .
+   # Rhythm - patient with NSR with Q waves in II, aVF which may be
+   consistent with previous infarct. Telemetry overnight demonstrates
+   episodes of bradycardia to high 40s with missed beats as well as
+   episodes of apnea.
+   - f/u repeat EKG
+   - continue telemetry monitoring
+   - Tele showed dropped beats concerning for vagal response. Not seen on
+   12 lead. Will continue to follow and lower Bblocker to [**Hospital1 7**] dosing as
+   above
+   .
+   #  Acute renal failure
+ Cr currently 1.6 up from previous baseline of
+   1.1 likely secondary to multiple cardiac catherization and CTA of chest
+   at OSH.
+   - renally dose medications
+   - avoid nephrotoxins
+   - cont mucormyst for post cath prophylaxis
+   .
+   #. Anemia: Downtrenditng HCT in the setting of volume load and s/p cath
+   with bilat groin hematomas.
+   - Trend [**Hospital1 7**] for now
+   - Femoral US pending
+   - Transfuse for HCT < 25.
+   .
+   # Diabetes - type II diabetes, non-insulin dependent
+   - hold oral hypoglycemics
+   - RISS
+   - Started glargine 10U SQ qAM for now
+   - A1c pending
+   .
+   # Hypertension - patient maintained on HCTZ and lisinopril as
+   outpatient
+   - holding lisinopril for renal protection
+   - holding HCTZ for renal protection
+   - beta blocker as above
+   .
+   # Pulmonary Nodules: Found on OSH CTA, concerning in setting of colon
+   cancer history. Rads recommended 3mo f/u.
+   .
+   # FEN - cardiac, diabetic diet
+   .
+   # PPx - heparin SQ, colace, senna, no indication for PPi
+   .
+   # Code - Full Code
+   .
+   # Dispo
+ call out to [**Hospital Ward Name 278**] 3 when bed available
+   .
+   # contact ([**Telephone/Fax (1) 5797**] [**First Name8 (NamePattern2) 1097**] [**Name (NI) 438**], [**Name (NI) **] (son) [**Telephone/Fax (1) 5798**]
+   called to give update last night
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2762-2-4**] 01:00 AM
+   20 Gauge - [**2762-2-4**] 01:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   nothing to add, agree with above
+   Physical Examination
+   nothing to add, agree with above
+   Medical Decision Making
+   nothing to add, agree with above,
+   Total time spent on patient care: 45 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) 928**]  on:[**2762-2-5**]
+   10:43 ------
+
+
+DOC CLASS

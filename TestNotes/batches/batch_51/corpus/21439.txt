@@ -1,0 +1,248 @@
+Admission Date:  [**3311-11-25**]              Discharge Date:   [**3311-11-29**]
+
+Date of Birth:  [**3271-7-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 463**]
+Chief Complaint:
+abdominal pain
+
+Major Surgical or Invasive Procedure:
+Pericardiocentesis
+Chemotherapy
+
+History of Present Illness:
+40 yo HIV+ male (diagnosed [**3309**], last CD4 366, VL 54,000, never
+on antiretroviral therapy), ?HBV, who presented to the ED [**11-25**]
+with a several day h/o abdominal pain worst in the RLQ, nausea,
+vomiting, and SOB/DOE.  Mr. [**Known patient lastname **] states that these symptoms
+appeared to begin abruptly, and denies any associated fever,
+chills, or night sweats prior to admission.  An abdominal CT
+scan performed in the ED incidentally noted a large pericardial
+effusion.  He was noted on exam to have elevated neck veins,
+tachycardia, and significant pulsus paradoxus.  Follow-up
+echocardiogram demonstrated EF >55%, with 1.5-2.2cm
+circumferential pericardial effusion with extesive stranding and
+likely loculation, and RV diastolic collapse.  He was taken to
+the cath lab for emergent pericardiocentesis, with drainage of
+600 cc of serosanginous fluid and placement of drainage
+catheter.  He stayed in the CCU until the drain was pulled, and
+then was d/c'ed to the floor.
+
+Past Medical History:
+HIV diagnosed 1 year ago (patient requested blood test after
+former partner found to have gonorrhea; STD screen negative at
+the time, but found to have seroconverted).  Unaware of having
+an acute retroviral conversion syndrome.  He reports negative
+prior HIV tests, perhaps 2 years prior.  HIV RF is MSM.  No
+opportunistic infections.  Has never been on antiretroviral
+therapy.  CD4 counts reportedly between 300-400, and viral loads
+reportedly between 50,000-100,000.
+Hepatitis A
+?HBV:  reports getting at least two vaccines for hepB after
+contracting [**Last Name (un) **], and believes that subsequent studies may have
+suggested HepB infection.
+
+
+Social History:
+in monogamous homosexual relationship.  No tobacco, rare EtOH.
+No IVDU.
+
+Family History:
+DM, CAD
+
+Physical Exam:
+T: 98.1  BP: 116/66  P: 70  R: 18  98%RA  pulsus 6
+Gen: alert and oriented pleasant male, sitting up and eating, in
+NAD
+HEENT: sclerae anicteric, conjunctivae not injected, MMM
+Lungs: decreased breath sounds at bilateral bases
+CV: RRR, no m/r/g.
+Abd: soft, nontender, nondistended.  +bs.
+Ext: no edema.
+
+Pertinent Results:
+PPD negative
+
+[**3311-11-24**] 08:42PM BLOOD WBC-5.6 RBC-4.92 Hgb-14.4 Hct-43.7 MCV-89
+MCH-29.3 MCHC-33.0 RDW-15.0 Plt Ct-148*
+[**3311-11-26**] 05:09AM BLOOD WBC-2.6*# RBC-4.30* Hgb-12.7* Hct-38.7*
+MCV-90 MCH-29.6 MCHC-32.8 RDW-15.2 Plt Ct-136*
+[**3311-11-27**] 05:51AM BLOOD WBC-2.6* RBC-4.08* Hgb-12.3* Hct-35.9*
+MCV-88 MCH-30.1 MCHC-34.2 RDW-15.2 Plt Ct-147*
+[**3311-11-28**] 06:58AM BLOOD WBC-2.6* RBC-4.03* Hgb-12.2* Hct-35.3*
+MCV-88 MCH-30.2 MCHC-34.4 RDW-15.0 Plt Ct-162
+[**3311-11-29**] 06:50AM BLOOD WBC-3.3* RBC-4.40* Hgb-13.1* Hct-38.8*
+MCV-88 MCH-29.9 MCHC-33.9 RDW-15.1 Plt Ct-172
+[**3311-11-25**] 10:00AM BLOOD PT-14.3* PTT-26.8 INR(PT)-1.3
+[**3311-11-25**] 06:44PM BLOOD ESR-28*
+[**3311-11-27**] 05:30PM BLOOD  WBC-2.6* Lymph-32 Abs [**Last Name (un) 491**]-832 CD3%-85
+Abs CD3-704 CD4%-24 Abs CD4-200* CD8%-61 Abs CD8-504
+CD4/CD8-0.4*
+[**3311-11-24**] 08:42PM BLOOD Glucose-103 UreaN-19 Creat-1.2 Na-136
+K-4.1 Cl-99 HCO3-27 AnGap-14
+[**3311-11-26**] 05:09AM BLOOD Glucose-90 UreaN-11 Creat-0.9 Na-139
+K-3.8 Cl-106 HCO3-29 AnGap-8
+[**3311-11-27**] 05:51AM BLOOD Glucose-84 UreaN-8 Creat-0.9 Na-140 K-3.9
+Cl-106 HCO3-29 AnGap-9
+[**3311-11-28**] 06:58AM BLOOD Glucose-85 UreaN-8 Creat-1.0 Na-140 K-4.2
+Cl-107 HCO3-29 AnGap-8
+[**3311-11-29**] 06:50AM BLOOD Glucose-90 UreaN-10 Creat-1.0 Na-140
+K-4.4 Cl-105 HCO3-31* AnGap-8
+[**3311-11-28**] 06:58AM BLOOD ALT-35 AST-30 AlkPhos-94 TotBili-0.6
+[**3311-11-25**] 10:00AM BLOOD CK(CPK)-44
+[**3311-11-24**] 08:42PM BLOOD ALT-46* AST-26 CK(CPK)-39 AlkPhos-100
+Amylase-29 TotBili-1.4
+[**3311-11-24**] 08:42PM BLOOD Lipase-15
+[**3311-11-25**] 10:00AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3311-11-24**] 08:42PM BLOOD CK-MB-2 cTropnT-<0.01
+[**3311-11-26**] 05:09AM BLOOD TotProt-6.2* Albumin-3.1* Globuln-3.1
+Calcium-7.9* Phos-2.8 Mg-1.7
+[**3311-11-29**] 06:50AM BLOOD Calcium-8.4 Phos-3.8 Mg-1.9 UricAcd-3.3*
+[**3311-11-25**] 06:44PM BLOOD [**Doctor First Name **]-NEGATIVE
+[**3311-11-26**] 05:09AM BLOOD PEP-NO SPECIFI
+
+[**3311-11-24**] 11:30PM URINE Color-Amber Appear-Clear Sp [**Last Name (un) **]-1.025
+[**3311-11-24**] 11:30PM URINE Blood-NEG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-TR Bilirub-SM Urobiln-8* pH-6.5 Leuks-NEG
+[**3311-11-24**] 11:30PM URINE RBC-0 WBC-0 Bacteri-RARE Yeast-NONE Epi-0
+[**3311-11-26**] 10:15AM URINE U-PEP-NO PROTEIN
+
+HIV-1 Viral Load/Ultrasensitive (Final [**3311-11-30**]):
+      46,400 copies/ml.
+LYME SEROLOGY (Final [**3311-11-26**]):
+      NO ANTIBODY TO B. BURGDORFERI DETECTED BY EIA
+
+Pericardial fluid:
+GRAM STAIN (Final [**3311-11-25**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+   FLUID CULTURE (Final [**3311-11-28**]):    NO GROWTH.
+   ANAEROBIC CULTURE (Final [**3311-12-1**]):
+      PRESUMPTIVE PROPIONIBACTERIUM ACNES.    RARE GROWTH.
+   ACID FAST CULTURE (Pending):
+   ACID FAST SMEAR (Final [**3311-11-26**]):
+    NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+   FUNGAL CULTURE (Final [**3311-12-10**]):    NO FUNGUS ISOLATED.
+[**3311-11-25**] 03:03PM OTHER BODY FLUID WBC-[**Numeric Identifier 1347**]* RBC-[**Numeric Identifier 34946**]*
+Polys-1* Lymphs-1* Monos-0 Macro-2* Other-96*
+[**3311-11-25**] 03:03PM OTHER BODY FLUID TotProt-5.3 Glucose-60
+LD(LDH)-[**3284**] Amylase-18 Albumin-2.8
+Cytology: Numerous atypical and degenerated lymphoid cells are
+present
+  singly.
+
+1.  Pericardial fluid cytospins (A):
+          Primary Effusion Lymphoma (see note)
+          Immunoperoxidase studies performed are not
+contributory due to a high background staining.
+Note: Primary effusion lymphoma is a form of high grade B cell
+lymphoma confined to serosal cavities. It typically occur in the
+setting of HIV infection, but can also be seen in other
+immunodeficiency states, and presents with pleural or
+pericardial effusions containing large anaplastic plasmacytic
+immunoblasts which are typically negative for CD20 and CD79a but
+positive for CD138. Typically there is no associated mass
+effect.
+2.  Cell block, pericardial fluid (B):
+          Atypical degenerate plasmacytoid cells consistent with
+necrotic primary effusion lymphoma (see note).
+
+CT abd ([**11-25**]): Appendix measuring at the upper limits of normal
+with likely wall enhancement related to phase of contrast.
+There is a low suspicion for appeniditis given other features
+including air in the lumen and lack of associated findings.
+Recommend clinical correlation. Large paracardial effusion
+associated pleural effusion, hepatic and venous congestion.
+Periportal adenopathy.  Small amount of free fluid in pelvis.
+
+CT chest ([**11-26**]): Interval decrease in size of pericardial
+effusion following pericardial drain placement, with a
+small-to-moderate amount of fluid persisting. Thickening of the
+pericardium with evidence of enhancement, in keeping with
+exudative effusion.  Increase in number but not size of multiple
+mediastinal lymph nodes, with adjacent stranding of mediastinal
+fat. These are nonspecific but may be inflammatory. Interval
+increase in size of right pleural effusion.  Bibasilar
+compressive atelectatic changes.  Nonspecific stranding of the
+mediastinal structures.
+
+ECHO [**11-26**]: Small pericardial effusion. No echocardiographic
+signs of tamponade.
+
+CXR [**11-28**]: Bilateral effusions; the left slightly smaller than
+yesterday.
+
+Brief Hospital Course:
+1)Pericardial effusion: Because of his tachycardia, elevated
+JVD, and RV collapse seen on echo, his effusion was drained
+emergently in the cath lab, and he was monitored in the CCU
+until the drain was pulled.  He never experienced any
+hemodynamic compromise.  The fluid cytology was consistent with
+Primary Effusion Lymphoma.  This lymphoma is associated with
+HHV-8, but the sample that was sent to the micro lab to test for
+this was lost.  He was evaluated by the Oncology serivce, who
+recommended chemo.  He received one dose of chemo (liposomal
+daunorubicin), which he tolerated well.  Tumor lysis labs were
+checked and were normal, and he was given allopurinol.  His
+pulsus paradoxus was monitored and was normal.  He had no
+evidence of reaccumulation of the pericardial fluid.
+
+2)Pleural effusions: These were seen on initial CT, and were
+monitored by CXR.  They were decreasing on size prior to d/c.
+He denied shortness of breath, and his oxygen saturation was
+normal on room air.
+
+3)ID:  He was begun on HAART per ID recommendations
+(emtricitabine, tenofovir, and kaletra).  His PPD was negative.
+His CD4 count was 200, and his viral load was 46,400.
+
+
+Medications on Admission:
+flonase prn
+
+Discharge Medications:
+1. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Lopinavir-Ritonavir 133.3-33.3 mg Capsule Sig: Three (3) Cap
+PO BID (2 times a day).
+Disp:*180 Cap(s)* Refills:*2*
+3. Emtricitabine 200 mg Capsule Sig: One (1) Capsule PO Q24H
+(every 24 hours).
+Disp:*30 Capsule(s)* Refills:*2*
+4. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Ketoconazole 2 % Cream Sig: One (1) Appl Topical  [**Hospital1 **] (2
+times a day).
+Disp:*1 tube* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Pericardial Effusion
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Continue HAART medications.
+
+Followup Instructions:
+Follow up with Dr. [**Last Name (STitle) 5699**] within 1-2 weeks.
+Follow up with Hematology/Oncology Clinic.
+
+
+
+
+
+DOC CLASS

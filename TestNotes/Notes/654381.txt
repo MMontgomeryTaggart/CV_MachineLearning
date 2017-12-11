@@ -1,0 +1,253 @@
+TITLE:
+   Chief Complaint:  fever and hypotension
+   HPI:
+   60 yo f with hx of MS, and recurrent UTIs, now presenting from NH to ER
+   with fever and hypotension. She was discharged about 1 week about from
+   [**Location (un) 76**] where she was treated for a UTI with ceftazidime. She was still
+   on abx with her PICC, but today developed fever to 103.5 and her BP was
+   in the 80s systolic (baseline is in 100s). She denies chills, cough,
+   SOB, rash, diarrhea/constipation, or dysuria. She states she has had
+   many UTIs, and has required a Foley for the last year due to [**Location (un) 3155**]
+   bladder. Her urine has high amounts of sediment and she had been
+   clogging off her Foley every 3 weeks until about a month ago when a
+   larger 22 french Foley was placed. At her NH she was given Tylenol
+   650mg before transfer. There her WBC was elevated to 19 and she had new
+   renal failure with a Cr 2.12 and Na or 129. Pt reports some nausea with
+   no emesis and poor PO intake for last few days with generalized
+   fatigue.
+   .
+   In the ER, pt was afebrile with VS 99 85 82/57 12 /97%RA. She was given
+   Zosyn and vancomycin and 3 liters of NS. BP improved to 90s before
+   transfer to the MICU. CXR without acute process. Urine was very
+   purulent. EKG WNL, despite elevated K.
+   .
+   Review of systems:
+   (+) Per HPI
+   (-) Denies chills, night sweats, headache, congestion. Denied cough,
+   shortness of breath. Denied chest pain or tightness, palpitations.
+   Denied vomiting, diarrhea, constipation or abdominal pain. No recent
+   change in bowel or bladder habits. No dysuria. No rashes
+   Patient admitted from: [**Hospital1 1**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Erythromycin (Oral) (Erythromycin Base)
+   Unknown;
+   Penicillins
+   Unknown;
+   Latex
+   Unknown;
+   Ciprofloxacin
+   localized rash
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   -Jevity tube feeds, 240ml boluses
+   -Lidocaine patch
+   -Iron 325mg
+   -MV liquid
+   -Gabapentin 300mg
+   -Fentanyl patch 30mcg Q72 hours
+   -Paxil 30mg
+   -Bisacodyl PRN
+   -Fleet enema PRN
+   -Mag citrate PRN
+   -Dialudid 4mg Q4H PRN
+   -Senna syrup Qday
+   -Tylenol 325mg Q4H
+   -Lorazepam 0.5mg Q6H PRN
+   -Chlorhexidine 10ml Q6H
+   -Compazine PRN
+   -Prevacid 30mg
+   -Calcium Carb 500mg TID
+   -Vit D 800mg Qday
+   -Methylphenid 5mg [**Hospital1 **] at 6am and 2pm
+   -Ceftazidine at [**Name (NI) 120**] (unclear her last dose)
+   Past medical history:
+   Family history:
+   Social History:
+   -Multiple sclerosis, dx in [**3468**]
+   -[**Year (4 digits) **] bladder
+   -s/p esophageal ca now s/p G-tube, and s/p chemo and radiation
+   -Anxiety
+   -Depression
+   -Recurrent Nephrolithiasis requiring prior nephrostomy and surgery
+   -Sacral ulcer
+   NC
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Lives in [**Location 1240**] NH of [**Location (un) 76**]. Denies any current or past
+   smoking
+   as well as alcohol use. She denies any illegal substance use as
+   well. No recent travel or past medical exposures.
+   Review of systems:
+   Flowsheet Data as of [**3480-9-1**] 12:32 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.4
+   Tcurrent: 36.3
+C (97.4
+   HR: 84 (84 - 91) bpm
+   BP: 107/62(72) {96/56(65) - 107/62(72)} mmHg
+   RR: 16 (16 - 21) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 64 Inch
+             Total In:
+                                                                  2,033 mL
+                                                                      8 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,033 mL
+                                                                      8 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,033 mL
+                                                                      8 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 96%
+   Physical Examination
+   Vitals: T: 95.6 BP: 102/58 P: 83 R: 12 O2: 99%RA
+   General: Alert, oriented, no acute distress
+   HEENT: Sclera anicteric, dry MM, oropharynx clear
+   Neck: stiff (baseline per pt), no LAD
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi
+   CV: Regular rate and rhythm, normal S1 + S2
+   Abdomen:  slight distention in the pelvic area, non-tender, bowel
+   sounds present, no rebound tenderness or guarding, no organomegaly
+   GU: Foley in place with thick white secretions
+   Ext: warm, well perfused, 2+ pulses, no edema,
+   NERUO: CN 2-12 intact except decrease in movement of neck muscles,
+   contracted arms and legs with increased tone, able to slightly squeeze
+   fingers, pain with moving limbs, A&O x 3, polite and cooperative
+   fluid analysis / Other labs:
+   Other Urine Chemistry:
+   Creat:1, Na:79, Osmolal:169
+   UA
+   >1000 WBC, Bacteria many, leuk mod, prot 30
+   lactate 0.7
+   126  92  39
+   --------------<  121
+   5.8  23  2.3
+   estGFR: 22/26
+   WBC 21.7
+   plts  268
+   hct  32.6
+    N:94.6 L:2.4 M:2.2 E:0.7 Bas:0.1
+   Imaging: UPRIGHT AP VIEW OF THE CHEST: Right-sided PICC tip terminates
+   within the lower aspect of the SVC. Cardiac and mediastinal contours
+   are unchanged, with cardiac silhouette top normal in size. Pulmonary
+   vascularity is normal, and the lungs are clear without focal
+   consolidation. No pleural effusions or pneumothorax is seen. The
+   osseous structures are unchanged.
+   IMPRESSION: No acute cardiopulmonary abnormality
+   Microbiology: blood cx - pending
+   ECG: NSR at 92 bpm, no ST changes
+   Assessment and Plan
+   60 yo f with hx of MS [**First Name (Titles) **] [**Last Name (Titles) 3155**] bladder with recent urosepsis,
+   now admitted with fever and hypotension in likely setting of urinary
+   tract infection.
+   .
+   # Sepsis/Hypotension/Leukocytosis: Pt with hypotension and fevers, WBC
+   of 21. Urine appears infected. Pt has a chronic Foley and has a hx of a
+   recent UTI. Also has a hx of urinary tract infections including renal
+   abscess from nephrolithiasis. Also has a PICC line that was placed at
+   least a week ago at an OSH, so at risk for line infection. CXR does not
+   show evidence of a pulmonary process. Also has a risk of sepsis due to
+   her sacral ulcer, which has recently worsened per pt. Had bacteremia
+   earlier this year with MRSA and proteus.
+   - aggressive IVF tonight
+   - f/u on blood cx, urine cx
+   - cx sacral wound
+   - CT scan of abd/pelvis to look for renal stones and infection (no
+   contrast due to ARF)
+   - consider central line placement if needed for pressors
+   - place second PIV
+   - remove PICC line and culture tip
+   - continue vanco/Zosyn for now due to prior sensitivities
+   - replace Foley tonight
+   - remove fentanyl patch for now due to hypotension
+   .
+   # Acute renal failure: Urine lytes FENa of 144, this is more consistent
+   with renal or post renal failure, however, unclear how much IVF pt had
+   been given by the time these labs were checked in the ER.  Pt likely
+   also has a prerenal component due to her sepsis. Has a hx of
+   nephrolithiasis and of high amount of urine sediment. Also appears to
+   have an active UTI that is worsening the renal function
+   - CT to look for hydronephrosis and stones
+   - ren ally dose meds
+   - monitor UO
+   - f/u on urine lytes
+   - consider a three way Foley if decreased UO, will need latex free
+   .
+   # Sacral ulcer: stage III vs stage IV ulcer on sacrum. [**Month (only) 11**] be
+   contributing to her current sepsis
+   - continue vanc and Zosyn for now
+   - wound cx
+   - wound nurse c/s
+   - obtain air mattress for prevention of further worsening
+   .
+   # Hyponatremia: Na of 126 on admission, was likely having hypovolemia
+   hyponatremia. Was 129 at NH earlier. Could be having SIADH vs sodium
+   loss from renal damage.
+   - getting NS IVF for now
+   - monitor Na [**Hospital1 **]
+   - monitor mental status
+   .
+   # Multiple Sclerosis: progressive disease, advanced, limits pts
+   mobility
+   - monitor for change in sx
+   - will c/s neuro if worsens
+   .
+   # Depression/Anxiety: stable
+   - continue home Paxil and Ritalin
+   - ativan PRN home dose
+   .
+   # Anemia: stable at baseline, per pt had recent transfusion a week ago
+   - monitor hct
+   - transfuse if <21
+   .
+   # Chronic pain:
+   - removed fentanyl patch for now due to hypotension
+   - will use PRN diluadid and tyelnol for pain
+   .
+   # Hyperkalemia: likely secondary to renal failure, no EKG changes
+   - will give dose of Kayexalate
+   - monitor K level
+   - monitor on tele
+   .
+   .
+   ICU Care
+   Nutrition:
+   Comments: tube feeds, will start renal tube feeds due to ARF
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3480-8-31**] 10:00 PM
+   22 Gauge - [**3480-8-31**] 10:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: ICU consent signed Comments: Patient and Daughter [**First Name4 (NamePattern1) 3813**]
+   [**Last Name (NamePattern1) **] in [**Location (un) 352**], NH
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

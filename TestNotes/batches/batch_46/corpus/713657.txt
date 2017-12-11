@@ -1,0 +1,173 @@
+Chief Complaint:  Anemia, blood loss
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Please see medicine team admission note for full details of admission.
+   The patient is an 83yo M with a past medical history of aortic stenosis
+   s/p bioprosthetic AVR, PAF on coumadin s/p TURP approximately 3 weeks
+   ago presenting with hematuria. The patient reports that 1 week prior to
+   presentation he passed 2 large blood clots with urination with small
+   amount of bleeding. He had no further episodes of gross hematuria until
+   the morning of [**3121-4-3**] when he experienced inability to urinate since
+   3AM with gross blood and clots. The patient presented to [**Hospital1 52**] ED where
+   he underwent foley placement with continuous bladder irrigation for
+   several hours and reported heamturia cleared. INR 1.6. He was sent home
+   on bactrim and foley in place with Urology follow up schedule for [**4-4**].
+   .
+   The patient represented to ED with recurrent hematuria from foley,
+   continued pain and decreased urine output. On arrival to ED, initial
+   vitals: T 97.7 HR 83 BP 145/62 98% on RA. He was found to have a HCT of
+   23.2. T&S sent. He was given ceftriaxone 1gm IV, morphine 4mg IVX2,
+   diluadid 1mg IV. Urology was consulted and the a rouche catheter was
+   placed with subsequent successful irrigation. INR found to be 3.1 and
+   Cr 1.8. 2U PRBC ordered.
+   .
+   He was then stable on the medical floor until approximately 9pm on
+   [**3121-4-4**] when he acutely felt ill with confusion, diaphoresis and
+   nausea.  He denies chest pain, shortness of breath or palpitations.  He
+   then became hypotensive with blood pressure in the 80s systolic.  He
+   was given a fluid bolus and blood pressure responded to the 90s-100s.
+   ECG was done which showed a RBBB and peaked T waves in V3-V6, otherwise
+   no ST or T wave changes.  His symptoms persisted. He was given a total
+   of 3 units of PRBCs since admission and HCT was 23 on repeat (unchanged
+   since admission).
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**3121-4-5**] 12:00 AM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   Aortic stenosis s/p Aortic valve replacement with [**Last Name (un) 8630**]-[**Doctor Last Name 6503**]
+   tissue heart valve [**3114**]
+   CAD s/p PCI to RPDA
+   Rheumatic fever
+   Paroxysmal atrial fibrillation
+   Hypertension
+   Hyperlipidemia
+   TIA 10-12 years ago
+   Benign prostatic hypertrophy
+   Subdural hematoma in [**3101**]
+   Status post cataract removal
+   Status post evacuation of a subdural hematoma
+   Occupation: Retired
+   Drugs: Denies
+   Tobacco: 25 pack-yrs, quite 25 yrs ago
+   Alcohol: 1 drink per day
+   Other:
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Nutritional Support: NPO, No(t) Tube feeds, No(t) Parenteral nutrition
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation, Lower abd/pelvic discomfort
+   Genitourinary: No(t) Dysuria, No(t) Foley, No(t) Dialysis, Hematuria
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: No(t) Hyperglycemia, No(t) History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,
+   No(t) Daytime somnolence
+   Allergy / Immunology: No(t) Immunocompromised, No(t) Influenza vaccine
+   Signs or concerns for abuse : No
+   Pain: [**5-5**] Moderate
+   Pain location: Lower abd/pelvic
+   Flowsheet Data as of [**3121-4-5**] 01:13 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**22**] AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 36.1
+C (96.9
+   HR: 85 (82 - 85) bpm
+   BP: 110/48(60) {104/46(60) - 122/93(100)} mmHg
+   RR: 20 (13 - 20) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 71 Inch
+                  Total In:
+                  595 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   595 mL
+   Total out:
+                                                                      0 mL
+                                                                    750 mL
+   Urine:
+   750 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -155 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, No(t) Overweight
+   / Obese, No(t) Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube
+   Lymphatic: Cervical WNL, No(t) Supraclavicular WNL, No(t) Cervical
+   adenopathy
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: Systolic, No(t)
+   Diastolic), Soft metalic heart sounds
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   (Percussion: Resonant : , No(t) Hyperresonant: , No(t) Dullness : ),
+   (Breath Sounds: Clear : , No(t) Crackles : , No(t) Bronchial: , No(t)
+   Wheezes : , No(t) Diminished: , No(t) Absent : , No(t) Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   Tender: Suprapubic tenderness, No(t) Obese
+   Extremities: No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting, Unable to stand
+   Skin:  Cool, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): ox3, Movement: Purposeful, No(t) Sedated, No(t)
+   Paralyzed, Tone: Normal
+   Labs / Radiology
+        [image002.jpg]
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   18 Gauge - [**3121-4-5**] 12:25 AM
+   20 Gauge - [**3121-4-5**] 12:26 AM
+   Comments:
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Coumadin)
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+
+
+DOC CLASS

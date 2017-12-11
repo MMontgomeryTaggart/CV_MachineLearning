@@ -1,0 +1,526 @@
+Admission Date:  [**2858-7-2**]              Discharge Date:   [**2858-7-12**]
+
+Date of Birth:  [**2792-5-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Mevacor / Bactrim / Dilantin Kapseal / Naprosyn / Clindamycin /
+Percocet / Quinine / Levofloxacin / Penicillins / Vicodin /
+latex gloves / Morphine / optiflux
+
+Attending:[**First Name3 (LF) 893**]
+Chief Complaint:
+melena
+
+Major Surgical or Invasive Procedure:
+1. Tunnelled Cath Placement
+2. Upper GI endoscopy
+3. Bone Scan
+4. Skin biopsy
+
+
+History of Present Illness:
+Mrs [**Known patient lastname 1395**] is a 66 yo woman with ESRD on HD, c/b calciphylaxis,
+afib on [**Known patient lastname **], who c/o generalized weakness x2-3 wks now
+presents with tarry stools and hypotension.  Pt states that she
+had a large, black, tarry BM this morning, then went to [**Known patient lastname 3292**]
+today and was feeling weaker than usual, requiring help with
+ambulating.  She was hypotensive and INR was found to be
+elevated to 19, therefore she was referred to the ED for further
+evaluation.  Pt [**Known patient lastname 3564**] other symptoms including fever, however
+does state that she has had watery diarrhea 4x/day for the last
+several days, also c/o decreased appetite.  She has also been
+feeling lightheaded.  She [**Known patient lastname 3564**] changes in her diet recently
+and does not think that she could have accidentally overdosed on
+her [**Known patient lastname **].
+.
+In the ED, initial vitals were: 97.5 104 80/23 18 100% 4L
+(baseline 3L), however sbps range from 70-90s at baseline and
+the pt was mentating well.  Exam was notable for melanotic,
+guiac + stool, gastric lavage showed no evidence of bleeding.
+Labs were notable for a crit of 20.2, INR was 19.2.  She was
+given pantoprazole, dilaudid, 2U PRBCs, 2 U FFP, 2 U fluids.  2
+18 gauge periph IVs were placed.  Chest xray was without
+effusion or consolidation, L-sided [**Known patient lastname 3292**] line in place.  She
+was seen by renal and GI in the ED who will continue to follow
+on the floor.
+.
+On the floor, pt is alert, oriented, c/o pain in legs, otherwise
+asmptomatic.
+.
+ROS:
+(+) Per HPI, also c/o chest congestion, worse DOE for the last
+[**1-31**] wks, pt only able to ambulate a few feet before becoming
+SOB.  She had one epidode of vomiting after taking meds last
+night.
+(-) [**Month/Day (3) **] fever, chills, night sweats, recent weight loss or
+gain. [**Month/Day (3) **] headache, sinus tenderness, rhinorrhea. Denied
+cough, shortness of breath. Denied chest pain or tightness,
+palpitations. Denied nausea, vomiting, diarrhea, constipation or
+abdominal pain. No recent change in bowel or bladder habits. No
+dysuria. Denied arthralgias or myalgias.
+
+
+Past Medical History:
+Cardiac:
+1. CAD s/p Taxus stent to mid RCA in [**2850**], 2 Cypher stents to
+mid LAD and proximal RCA in [**2851**]; 2 Taxus stents to mid and
+distal LAD (99% in-stent restenosis of mid LAD stent); NSTEMI in
+[**7-2**]
+2. CHF, EF 50-55% on echo in [**6-/2855**] Systolic and diastolic heart
+failure with mild mitral regurgitation and tricuspid
+regurgitation.
+3. PVD s/p bilateral fem-[**Doctor Last Name **] in [**2842**] (right), [**2849**] (left)
+4. Hypertension
+5. Atrial fibrillation noted on admission in [**8-3**]
+6. Dyslipidemia
+7. Syncope/Presyncopal episodes - This was evaluated as an
+inpaitent in [**8-3**] and as an opt with a KOH. No etiology has been
+found as of yet. One thought was that these episodes are her
+falling asleep since she has a h/o of OSA. She has had no tele
+changes in the past when she has had these episodes.
+
+Pulm:
+1. Severe Pulmonary Disease
+2. Asthma
+3. Severe COPD on home O2 3L
+4. OSA- CPAP at home 14 cm of water and 4 liters of oxygen
+5. Restrictive lung disease
+
+Other:
+1. Morbid obesity (BMI 54)
+2. Type 2 DM on insulin
+3. ESRD on HD since [**2857-1-29**] - 4x weekly [**Year (4 digits) 3292**]
+Tues/Thurs/Fri/Sat 9R 2 lumen tunnelled line
+4. Crohn's disease - not currently treated, not active dx [**2842**]
+5. Depression
+6. Gout
+7. Hypothyroidism
+8. GERD
+9. Chronic Anemia
+10. Restless Leg Syndrome
+11. Back pain/leg pain from degenerative disk disease of lower L
+spine, trochanteric bursitis, sciatica
+
+
+Social History:
+Lives on the [**Location (un) **] of a 3 family house with [**Age over 90 **] year old
+aunt and multiple cousins in Mission [**Doctor Last Name 27**]. Walks with walker.
+Quit smoking in [**2851**], smoked 2.5ppd x 40 years (100py history).
+Infrequent EtOH use (1drink/6 months), [**Year (4 digits) 3564**] other drug use.
+Retired from electronics plant.
+
+Family History:
+Per discharge summary: Sister: CAD s/p cath with 4 stents MI,
+DM, Brother: CAD s/p CABG x 4, MI, DM, ther: died at age 79 of
+an MI, multiple prior, DM, Father: [**Name (NI) 25370**] MI at 60.  She also
+has several family members with PVD.
+
+Physical Exam:
+On Admission:
+VS: Temp:97 BP: 109/45 HR:99 RR:12 O2sat 100% on RA
+GEN: pleasant, comfortable, NAD
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no
+supraclavicular or cervical lymphadenopathy, JVP not visualized
+CV: tachycardic, irregular, S1 and S2 wnl, no m/r/g
+RESP: End expiratory wheezes throughout, otherwise CTA
+BREASTS: large, nodules underlying errythematous patches, ttp
+ABD: obese, nd, +b/s, soft, nt, no masses or hepatosplenomegaly.
+ Surgical scar on right side.
+EXT: 1+ edema bilaterally.  Incision on R leg with stiches in
+place, mild surrounding errythema, ttp around lesion and in LE
+bilaterally, [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] throughout to light touch.
+SKIN: as above
+NEURO: AAOx3. Cn II-XII intact. Moves all extremities freely
+
+On Discharge:
+VS: 98.9, 96.8, 98-122/48-71, 84-110, 18-22, 93-99% 3L
+GEN: aox3. somnolant but arousable.
+CV: irregularly irregular, no m/r/g
+BREASTS: On left breast: tender indurated nodules underlying
+errythematous patches; On right breast: covered with dressing.
+ABD: obese, nd, +b/s, soft, nt, no masses or hepatosplenomegaly.
+Surgical scar on right side.
+EXT: no edema/cyanosis. Large black eschar overlying an
+erythematous base over right thigh; NEW INDURATED ERYTHEMA c/w
+EARLY LESION on LEFT THIGH
+SKIN: as above
+NEURO: AOx3. CN II-XII intact. Moves all extremities freely
+
+
+Pertinent Results:
+ADMISSION LABS:
+CBC with Diff:
+[**2858-7-2**] 04:25PM BLOOD WBC-11.4* RBC-2.26*# Hgb-6.6*# Hct-20.2*#
+MCV-89 MCH-29.3 MCHC-32.8 RDW-18.0* Plt Ct-495* Neuts-91.7*
+Lymphs-5.5* Monos-2.5 Eos-0.2 Baso-0.2
+CHEM:
+[**2858-7-2**] 04:25PM BLOOD Glucose-172* UreaN-44* Creat-3.2*# Na-135
+K-3.6 Cl-94* HCO3-25 AnGap-20 Calcium-8.9 Phos-2.7# Mg-1.7
+COAG:
+[**2858-7-2**] 12:48PM BLOOD PT-150* INR(PT)->19.2
+.
+DISCHARGE LABS:
+CBC:
+[**2858-7-11**] 07:47AM BLOOD WBC-10.7 RBC-3.19* Hgb-9.3* Hct-28.5*
+MCV-89 MCH-29.1 MCHC-32.6 RDW-16.9* Plt Ct-475*
+CHEM:
+[**2858-7-11**] 07:47AM BLOOD Glucose-91 UreaN-35* Creat-6.4* Na-137
+K-5.4* Cl-87* HCO3-24 AnGap-31* Calcium-9.6 Phos-4.7* Mg-2.3
+COAG:
+[**2858-7-11**] 05:15AM BLOOD PT-15.2* PTT-36.8* INR(PT)-1.3*
+.
+Other:
+[**2858-7-6**] 06:28AM BLOOD PTH-397*
+[**2858-7-7**] 10:40AM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2858-7-9**] 01:20PM BLOOD AT-115 ProtCFn-129* ProtSFn-34*
+ProtSAg-PND
+.
+MICRO:
+BLOOD CX [**7-2**], [**7-3**]: PENDING
+.
+STUDIES:
+CXR [**2858-7-2**]:
+FINDINGS: Hilar prominence and interstitial opacities likely
+reflect a degree of volume overload in the setting of renal
+dysfunction. Double-lumen left-sided central venous catheter is
+seen with tips at the cavoatrial junction and well within the
+right atrium. Cardiac size is top normal with normal
+cardiomediastinal silhouette. Unchanged right lung granuloma
+again seen.
+IMPRESSION: Mild volume overload
+.
+EGD [**2858-7-4**]:
+Procedure: The procedure, indications, preparation and potential
+complications were explained to the patient, who indicated her
+understanding and signed the corresponding consent forms. A
+physical exam was performed. A physical exam was performed prior
+to administering anesthesia. Supplemental oxygen was used. The
+patient was placed in the left lateral decubitus position and an
+endoscope was introduced through the mouth and advanced under
+direct visualization until the second part of the duodenum was
+reached. Careful visualization of the upper GI tract was
+performed. The vocal cords were visualized. The Z-line was noted
+at 39 centimeters.The diaphragmatic hiatus was noted at 40
+centimeters.The procedure was not difficult. The patient
+tolerated the procedure well. There were no complications.
+Findings: Esophagus: Normal esophagus.
+Stomach: Normal stomach.
+Duodenum: Normal duodenum.
+.
+Bone Scan ([**2858-7-8**])
+IMPRESSION: 1. Possible calciphylaxis vs. poor radionuclide
+washout in the
+bilateral distal lower extremities. 2. No evidence of
+calciphylaxis in the
+breasts. 3. Moderate increased uptake in the lesser trochanter
+of the left femur of uncertain etiology. 4. Stable heterogenous
+uptake in the thoracolumbar spine also consistent with
+degenerative changes.
+.
+Microbiology:
+Blood Cultures x2: Negative
+
+
+Brief Hospital Course:
+History:
+66 yo woman with hx ESRD on HD, afib, presenting with weakness,
+hypotension and melena concerning for GIB. INR at admission
+found to be >19. Pt was admitted to the ICU s/p 6U transfusion.
+Bleeding resolved with IV PPI. UGI endoscopy normal. Hct stable
+for 10days. Hospital course c/b with calciphylaxis (lower
+extremity) on sodium thiosulphate and [**Month/Day/Year **] (breast). Pain
+management has been challenging. She has been on IV dilaudid
+PCA, fentanyl patch and standing tylenol. D/ced to rehab on
+Lovenox for anticoagulation, sodium thiosulfate for
+calciphlaxis, po dilaudid, fentanyl patch and acetaminophen for
+pain.
+
+#. Calciphylaxis and [**Month/Day/Year **] Necrosis: Breast lesions biopy c/w
+[**Month/Day/Year **] necrosis. Lower extremity lesions c/w with
+calciphylaxis based on previus biopsy and bone scan. [**Month/Day/Year **]
+stopped upon admission. Calciphylaxis managed on sodium
+thiosulfate. This may need to be continued for another 6 weeks
+or more. *Please order this medication ahead of time as there is
+a national shortage(
+
+#. Chronic pain: Pain management had been challenging throughout
+hospital course. Pt continues to have pain despite 0.25-0.36mg
+dilaudid PCA q6mins, with 12.5-100mcg/hr fentanyl patch, and
+standing 1000mg tylenol q8hr/prn. Pain service and palliative
+care both involved in her care. We will continue her on
+gabapentin, tylenol 1000mg q8hr/prn, fentanyl patch 25mcg/hr
+q3days, and po dilaudid 2-4mg q3hrs upon discharge to rehab. She
+had been monitor for mental status and respiratory depression
+closely with medication adjustment. Please hold dilaudid if
+repiratory rate <10 or changes in mentation, or somnolance.
+.
+#. Afib, coagulopathy:
+Held [**Month/Day/Year **] on admission given GIB and supratherapeutic INR,
+which was reversed. [**Month/Day/Year **] was not restarted given [**Month/Day/Year **]
+necrosis on the breasts. Additionally, she reportedly had an
+adverse reaction to Plavix in the past. After much discussion
+with patient, family, pharmacy and renal, we decided to start
+her on Lovenox. The pharmacokinetics of this medication are
+unclear in [**Month/Day/Year 3292**] (and obesity). Accordingly, she will be
+dosed 80mg q48hr with trough anti10a monitoring prior to each
+dose. Goal anti10a level between 0.2-0.4. If there are problems
+running this test, please send test to [**Hospital1 4**].
+
+#. Acute Blood Loss anemia due to GI bleeding:
+Pt Hct drop of 15 points below most recent baseline. NGL in ED
+was negative. However, pt had reported melena, concerning for
+upper source. Elevated INR likely a contributing factor as
+supratherapeutic to 19 on admission. Her INR was reversed with
+FFP and vitamin K. She was transfused 2 units of units PRBC's in
+the ED and an additional 4 units while in the ICU. She was also
+started on IV PPI. GI was consulted, and EGD showed no active
+bleeding, presumed due to PPI therapy. She was started on
+Omeprazole 20mg [**Hospital1 **] and. Her Hct stabilized without any repeat
+bleeding throughout the rest of her course.
+
+#ESRD
+Hemodialysis was continued with consultation by Dr. [**First Name (STitle) 1518**],
+her nephrologist. Medications were renally dosed.
+
+#Constipation
+She was markedly constipated during her admission, finally
+having multiple BM's with large doses of PEG as well as colace,
+senna. This was due to the high-dose opiates she was receiving.
+
+TRANSFER OF CARE
+1. Continue sodium thiosulfate 3x a week 25mg IV over 30mins
+with Zofran after HD for treatment of calciphylaxis.
+2. Continue wound care the skin lesions to prevent
+superinfection. Pt is at high risk for bacteremia and sepsis.
+3. AVOID caustic [**Doctor Last Name 47**] and aggressive debridement of skin
+lesions given risk of bleeding from underlying arterial source.
+4. Continue to follow pain and titrate pain medication.
+5. CLOSE MONITORING for mental status changes and respiratory
+depression closely with pain medication adjustment.
+6. Continue to monitor for rebleeding from GI tract while on
+Lovenox.
+7. Continue PO omeprazole and transition to daily upon discharge
+from rehab or at next PCP [**Name Initial (PRE) **].
+8. Please hold dilaudid if repiratory rate <10 or changes in
+mentation, and somnolance.
+
+
+Medications on Admission:
+HYDROmorphone (Dilaudid) 4 mg PO/NG Q6H:PRN pain
+Ipratropium Bromide Neb 1 NEB IH Q6H
+Albuterol 0.083% Neb Soln 1 NEB IH Q6H
+Allopurinol 100 mg PO/NG DAILY
+Insulin SC (per Insulin Flowsheet)
+Levothyroxine Sodium 175 mcg PO/NG DAILY
+Acetaminophen 1000 mg PO/NG Q8H
+Metoprolol Tartrate 12.5 mg PO/NG [**Hospital1 **]
+Calcitriol 0.25 mcg PO DAILY
+Neomycin-Polymyxin-Bacitracin 1 Appl TP
+Doxercalciferol 7 mcg IV ONCE Duration: 1 Doses Order date:
+[**7-5**]
+Nephrocaps 1 CAP PO DAILY
+Omeprazole 20 mg PO BID
+Paroxetine 40 mg PO/NG DAILY
+Fluticasone Propionate NASAL 2 SPRY NU
+Polyethylene Glycol 17 g PO/NG DAILY:PRN
+Gabapentin 300 mg PO/NG QAM
+Gabapentin 600 mg PO/NG HS
+Simvastatin 40 mg PO/NG DAILY
+Sodium Chloride Nasal [**12-30**] SPRY NU TID:PRN dryness
+TraMADOL (Ultram) 50 mg PO Q4H:PRN pain
+sevelamer CARBONATE 800 mg PO TID W/MEALS Order date: [**7-5**] @
+0013
+
+Discharge Medications:
+1.  [**Doctor First Name **] bra
+One [**Doctor First Name **] Bra. [**Doctor First Name **] Medical Products  1-[**Numeric Identifier 25372**], the bra
+is latex free ,XX large order # H84107051.
+2. allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+4. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+5. gabapentin 300 mg Capsule Sig: One (1) Capsule PO QAM (once a
+day (in the morning)).
+6. levothyroxine 175 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. fluticasone 50 mcg/Actuation Spray, Suspension Sig: [**12-30**] spray
+Nasal once a day as needed.
+8. sevelamer carbonate 800 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+9. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. paroxetine HCl 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+11. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H
+(every 8 hours).
+12. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+13. sodium chloride 0.65 % Aerosol, Spray Sig: [**12-30**] Sprays Nasal
+TID (3 times a day) as needed for dryness.
+14. gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime).
+15. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+PO DAILY (Daily) as needed for constipation.
+16. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3
+times a day).
+17. senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for constipation.
+18. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+19. fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours): Up or down titrate as needed
+based on total dose of opiates.
+20. Ondansetron 4 mg IV Q8H:PRN nausea
+21. enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) injection
+Subcutaneous q48: Check anti-factor 10a levels prior to dose.
+Send to [**Hospital1 4**] if your lab does not run this value.
+22. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+23. Lantus 100 unit/mL Solution Sig: Eighteen (18) UNITS
+Subcutaneous at bedtime:  .
+24. Humalog 100 unit/mL Solution Sig: Sliding scale
+Subcutaneous breakfast, lunch, dinner, bedtime as needed for FS
+level.
+25. Sodium Thiosulfate 25mg  Sig: One (1) 25mg Intravenous every
+other day: 3x a week at end of HD.
+26. Please AVOID chemical debridement of skin lesions. [**Month (only) 115**] cause
+severe bleeding. Avoid tight dressing as it causes signicant
+pain.   Sig: [**12-30**]   once a day.
+27. Please titrate pain medicaiton dosage per patient need.
+Monitor for mental status changes with frequent MS checks.
+Monitor for respiratory rate and oxygenation.   Sig: Three (3)
+once a day.
+28. Dilaudid 2 mg Tablet Sig: 1-2 Tablets PO q3 hours as needed
+for pain: patient may decline if pain controlled This medicine
+is scheduled so as to avoid pain crisis. Hold if sedated or if
+patient declines. Start with 2mg dose. Please titrate dose and
+frequency to effect  .
+29. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+30. Sarna Anti-Itch 0.5-0.5 % Lotion Sig: One (1) application
+Topical four times a day as needed for itching.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1079**] for the Aged - MACU
+
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Upper GI bleed
+2. Calciphylaxis
+
+Secondary Diagnosis:
+1. End-stage Renal Disease
+2. Type 2 Diabetes Mellitus
+3. Obstructive Sleep Apnea on CPAP
+4. Atiral fibrillation
+5. Hypothyroidism
+6. Gout
+7. Rhinitis
+8. Hyperlipidemia
+9. depression
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. [**Known patient lastname 1395**],
+
+It was a pleasure taking care of you when you were admitted to
+[**Hospital1 4**] for gastrointestinal bleeding. At admission, we found that
+your INR was elevated at >19 and that your labs indicated that
+you had significant blood loss. We stopped your Warfarin
+(coudmadin), gave you blood, and treated you with intravenous
+proton pump inhibitor for a suspected gastric ulcer. An
+endoscopy was performed to assess the upper portion of your
+intestinal tract, but did not find any source of bleeding. You
+did not show any signs of further blood loss during your
+hospital course, and your labs showed a stable hematocrit for
+the past 10days.
+
+The second issue during your hospital course was your skin
+lesions on your Right breast and thigh. You had a biopsy of the
+lower extremity lesions from [**Month (only) 89**], which showed calciphylaxis.
+We also did a bone scan which was consistent with this
+diagnosis. Dermatology team biopsied your right breast lesion
+and found that it was consistent with [**Month (only) **] necrosis. There
+had been extensive discussion on which anticoagulation regimen
+we will send you home with. Since you are no longer able
+tolerate [**Month (only) **] and have a history of adverse reactions to
+plavix, we will discharge you on Lovenox for your
+anticoagulation. We treated you with sodium thiosulfate for your
+calciphylaxis, and you will continue on this as an outpatient.
+Pain management and palliative care were both involved for the
+management of your pain. We will send you to rehab with a pain
+management plan below, which may be adjusted and titrated
+according to your pain.
+
+The medication we stopped upon your admission was:
+1. Warfarin ([**Month (only) **]): we stopped this medication due to a
+elevated INR, as well as your skin lesions that were consistent
+with Warfarin necrosis.
+
+Upon discharge the new medication you will be continued on are:
+1. Lovenox 80mg every other day: this is a medication for
+anticoagulation. You will have your blood draw before getting
+the next dose to ensure that anti-10a level is within 0.2-0.4.
+2. Sodium Thiosulfate:  you will get 25mg of this medication
+after hemodialysis over a 30mins infusion period. You will
+receive Zofran during this infusion. This medication may cause
+hypotension, and you blood pressure should be monitored during
+this infusion.
+3. Fentanyl patch: you will go to rehab on 25mcg/hr of fentanyl
+patch that should be changed every 3 days. Please stop the patch
+if you feel lethargic, confused, or if your feel that you are
+not breathing well. This may be changed at rehab.
+4. Hydromorphone 2-4mg every 3 hrs: Please stop using it if you
+feel sleepy, woozy, lethargic or confused. You respiration and
+oxygenation needs to be monitored while on this medication. This
+may be changed at rehab. This dose may be readjusted at rehab.
+5. Senna, colace, miralax: these three medications are to help
+you move your bowel while on the pain medications.
+6. Sarna lotion and fexofenadine to help control your itching.
+
+Other medication changes:
+1. Gapapentin: we decreased this medication for 300mg qday. They
+may decided to restart you on your outpatient night-time dose.
+
+
+
+Followup Instructions:
+Please schedule a follow up with your primary care doctor [**First Name (Titles) 1206**] [**Last Name (Titles) 5546**]e from rehab
+
+Department: DERMATOLOGY
+When: MONDAY [**2858-7-22**] at 3:00 PM
+With: [**Doctor First Name **]-[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1399**], MD, PHD [**Telephone/Fax (1) 1400**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 61**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+Department: RADIOLOGY
+When: [**Hospital Ward Name **] [**2858-8-16**] at 9:05 AM
+With: RADIOLOGY [**Telephone/Fax (1) 351**]
+Building: [**Hospital6 355**] [**Location (un) 626**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+Department: [**Hospital Ward Name **] SURGERY
+When: [**Hospital Ward Name **] [**2858-8-23**] at 10:00 AM
+With:  [**Year (4 digits) **] LMOB (NHB) [**Telephone/Fax (1) 84**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) 68**]) [**Location (un) 83**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+
+Completed by:[**2858-7-12**]
+
+DOC CLASS

@@ -1,0 +1,287 @@
+Chief Complaint:  SOB
+   HPI:
+   Ms. [**Known patient lastname 3250**] is an 83 year old woman with diastolic heart failure, atrial
+   fibrillation, and thyroid cancer with pulmonary metastases who
+   presented to [**Hospital1 1**] on [**11-25**] with DOE, weight gain, orthopnea, and PND.
+   In the ED, she was hypotensive at 80/54 and was in rapid atrial
+   fibrillation with a HR in the 130's. She was treated [**Last Name (un) 3251**] esmolol,
+   neosynephrine, and digoxin and admitted to the CCU for further
+   management.
+   .
+   In the CCU, she was placed on a lasix drip
+   She was transferred to the cardiology floor on [**12-3**], where she later
+   developed hypercarbic respiratory failure and was placed on BiPAP. She
+   was readmitted to the CCU and has been intermittently on and off BiPAP
+   since that time. She was empirically started on vancomycin and zosyn
+   for possible HAP on [**12-4**].
+   Allergies:
+   Atorvastatin
+   muscle aches;
+   Celebrex (Oral) (Celecoxib)
+   GI bleed;
+   Last dose of Antibiotics:
+   Vancomycin - [**2948-12-4**] 10:15 PM
+   Piperacillin - [**2948-12-5**] 10:21 PM
+   Infusions:
+   Furosemide (Lasix) - 10 mg/hour
+   Other ICU medications:
+   Diltiazem - [**2948-12-5**] 10:21 PM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   CHF, diastolic
+   Thyroid cancer s/p cyberknife, has known pulmonary mets
+   Atrial fibrillation
+   Pulmonary hypertension
+   DM
+   Hyperlipidemia
+   Lymphedema of lower extremities
+   Goiter
+   GERD
+   Crohns
+   Cholelithiasis
+   Achalasia
+   OSA
+   h/o TAHBSO
+   s/p tonsillectomy and cataract surgery
+   Father with CAD
+   Occupation:
+   Drugs: none
+   Tobacco: remote smoking history
+   Alcohol: occasional alcohol consumption
+   Other: Widowed. Lives in [**Location 3081**], MA in an apartment by herself. Her
+   son, [**Name (NI) 3082**] leaves nearby, as do multiple grandchildren.
+   Review of systems:
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, Edema, No(t)
+   Tachycardia, Orthopnea
+   Respiratory: No(t) Cough, Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Diarrhea
+   Genitourinary: No(t) Dysuria
+   Flowsheet Data as of [**2948-12-5**] 10:45 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 37.3
+C (99.2
+   HR: 115 (92 - 121) bpm
+   BP: 93/44(54) {79/33(43) - 117/55(65)} mmHg
+   RR: 19 (10 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 58.6 kg (admission): 68 kg
+   Height: 61 Inch
+             Total In:
+                                                                    514 mL
+                                                                  1,025 mL
+   PO:
+             235 mL
+   TF:
+   IVF:
+                                                                    514 mL
+                                                                    790 mL
+   Blood products:
+   Total out:
+                                                                    475 mL
+                                                                  1,575 mL
+   Urine:
+                                                                    475 mL
+                                                                  1,575 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     39 mL
+                                                                   -550 mL
+   Respiratory
+   O2 Delivery Device: Bipap mask
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 300 (300 - 385) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 16
+   PEEP: 6 cmH2O
+   FiO2: 35%
+   PIP: 19 cmH2O
+   SpO2: 96%
+   ABG: ///39/
+   Ve: 5.7 L/min
+   Physical Examination
+   Vitals 99.6 114 86/45 23 91% on 40% facemask
+   General Pale elderly woman appearing uncomfortable but in no acute
+   respiratory distress
+   HEENT Conjunctiva pale, MMM
+   Neck JVP 12+cm +goiter
+   CV Tachycardiac irregular PMI displaced toward axilla II/VI blowing
+   systolic murmur at apex
+   Pulm Lungs with decreased breath sound at bases, with few rales R>L
+   bases. +dull to percussion at bases
+   Abd Soft nontender +bowel sounds
+   Extrem Warm with 2+ bilateral LE edema, full distal pulses
+   Neuro Alert and awake, moving all extremities
+   lines/tubes/drains Foley draining yellow urine. Right PICC.
+   Labs / Radiology
+   237 K/uL
+   9.2 g/dL
+   153 mg/dL
+   1.4 mg/dL
+   86 mg/dL
+   39 mEq/L
+   92 mEq/L
+   3.9 mEq/L
+   143 mEq/L
+   29.5 %
+   5.9 K/uL
+        [image002.jpg]
+                                  [**2945-11-29**]
+                          2:33 A1/7/[**2948**]  07:48 AM
+                                  [**2945-12-3**]
+                          10:20 P1/7/[**2948**]  04:59 PM
+                                  [**2945-12-4**]
+                          1:20 P1/7/[**2948**]  05:17 PM
+                                  [**2945-12-5**]
+                          11:50 P1/7/[**2948**]  05:19 PM
+                                  [**2945-12-6**]
+                          1:20 A1/7/[**2948**]  10:20 PM
+                                  [**2945-12-7**]
+                          7:20 P1/8/[**2948**]  05:31 AM
+                                  1//11/006
+                          1:23 P1/8/[**2948**]  08:12 AM
+                                  [**2945-12-30**]
+                          1:20 P1/8/[**2948**]  12:42 PM
+                                  [**2945-12-30**]
+                          11:20 P1/8/[**2948**]  04:52 PM
+                                  [**2945-12-30**]
+                          4:20 P1/8/[**2948**]  08:54 PM
+   WBC
+                                     7.2
+                                     6.6
+                                     5.9
+   Hct
+                                    30.2
+                                    30.9
+                                    29.5
+   Plt
+                                     [**Telephone/Fax (3) 3252**]
+   Cr
+                                     1.3
+                                     1.5
+                                     1.4
+   TC02
+                                     41
+   Glucose
+                                     129
+                                     108
+                                     98
+                                     130
+                                     177
+                                     149
+                                     149
+                                     153
+   Other labs: PT / PTT / INR:55.3/37.2/6.5, CK / CKMB / Troponin-T:32//,
+   ALT / AST:[**10-11**], Alk Phos / T Bili:62/1.4, Differential-Neuts:85.1 %,
+   Lymph:6.4 %, Mono:7.5 %, Eos:0.8 %, Fibrinogen:441 mg/dL, Lactic
+   Acid:1.3 mmol/L, Albumin:3.1 g/dL, LDH:192 IU/L, Ca++:8.8 mg/dL,
+   Mg++:2.5 mg/dL, PO4:4.4 mg/dL
+   Imaging: [**12-5**] CXR
+   There is little radiographic change, moderate cardiomegaly,
+   small-to-moderate right pleural effusion, small left pleural effusion,
+   as well as left lower lobe collapse are stable. Pulmonary vasculature
+   is borderline enlarged but there is no appreciable edema. Status of the
+   right lower lobe is difficult to assess, because of superimposition of
+   pleural opacity. Its radiographic appearance was similar on the CTA
+   scout [**11-27**] when it was collapsed. No pneumothorax.
+   [**12-5**] CT chest bilateral pleural effusions, +nodules c/w mets, ground
+   glass bilaterally (official read pending)
+   Microbiology: [**11-25**], [**11-27**] blood cultures no growth
+   [**12-5**] urine culture NGTD
+   [**12-5**] urine legionella pending
+   ECG: [**11-26**] TTE EF 70-75%, E/e'>15, Grade III/IV diastolic dysfunction,
+   markedly dilated RV with moderate global RV HK, 1+ AR, 2+ MR, [**11-29**]+ TR,
+   "significant" PR, moderate PA systolic HTN, no pericardial effusion
+   EKG
+   Assessment and Plan
+   This 83F with multiple medical comorbidities including atrial
+   fibrillation, CHF, and pulmonary metastases from thyroid cancer was
+   admitted with worsened dyspnea and weight gain.
+   1. Respiratory failure, with hypoxemia and hypercapnia
+   Her respiratory distress is very likely multifactorial, with
+   contributions from pulmonary edema (probably cardiogenic) and pleural
+   effusions. Poor rate control could be worsening her breathlessness. Her
+   lung mets might also be contributory, as could pulmonary hypertension.
+   Pna possible clinical evidence less compelling - though she does carry
+   dx of achalasia which would potentially increase her risk of
+   aspiration. Also think PE is less likely.
+   - Will continue diuresis on lasix drip with goal -1 to 2L daily as she
+   is still likely total body volume overloaded. She is currently
+   responding well to her lasix drip. Will hold off on adding
+   thiazide-type diuretic at this point. Will tolerate rise in creatinine
+   at this point as volume seems to be her primary problem. Renal
+   consulted in CCU, recommendations appreciated regarding
+   ?ultrafiltration
+   - If develops increasing respiratory distress will reattempt BiPAP as
+   tolerated. Per discussion with transferring team, patient had agreed to
+   limited trial of intubation if necessary. Intubation may be technically
+   difficult per anesthesiology.
+   - Ok to continue vancomycin and zosyn for now given recent temps and
+   respiratory distress, will attempt sputum gram stain and culture if she
+   can expectorate any sputum, check legionella urinary antigen though
+   probably low yield at this point.
+   - Follow I/O, daily weight, [**Hospital1 **] lytes
+   - Aspiration precautions
+   - Given coagulopathy will hold off on thoracentesis for now
+   2. CHF, diastolic, acute on chronic
+   Plan for diuresis and monitoring as above. Although her EF was measured
+   within the normal range, she does have at least moderate MR on her
+   echocardiogram which would decrease her effective forward output.
+   Optimizing rate control of her atrial fibrillation may also be helpful
+   allowing for increased filling time. Cardiology recommendations
+   appreciated.
+   3. Atrial fibrillation
+   Rate moderately well controlled on IV diltiazem; oral agents held in
+   setting of BiPAP. Will resume oral diltiazem and follow closely - her
+   absoption of PO meds may be decreased secondary to gut edema. Hold
+   anticoagulation given supratherapeutic INR today.
+   4. Fevers
+   Low grade temps, may be secondary to a pneumonia but in setting of
+   foley would also consider UTI. No obvious infection at her PICC site or
+   diarrhea to suggest C. difficile colitis.
+   - check blood, urine, and sputum cultures along with stool C. difficile
+   toxin if she has diarrhea
+   5. Elevated INR
+   Possible secondary to malnutrition and antibiotic decrease in vitamin K
+   levels. No evidence for DIC on labs. Repleted with vitamin K today.
+   Will trend INR daily, resume warfarin for INR<2.5.
+   6. Acute renal failure
+   Most likely due to diuresis leading to pre-renal state. Willing to
+   tolerate moderate rise in creatinine due to need for volume removal.
+   Urinalysis, check urine lytes.
+   7. Crohns
+   Continue home Pentasa.
+   8. DM
+   Cover with insulin sliding scale, qachs fingerstick target <150
+   FEN replete K>4, Mag>2. diabetic diet, low sodium
+   Access PICC, will place A line
+   Communication: with son HCP
+   [**Name (NI) 362**] [**Last Name (NamePattern1) 3207**] MD MPH [**Pager number 3208**] pgy-2
+   ICU Care
+   Nutrition:
+   Comments: diabetic
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2948-12-3**] 09:22 PM
+   22 Gauge - [**2948-12-5**] 02:00 PM
+   Prophylaxis:
+   DVT:  INR supratherapeutic
+   Stress ulcer: PPI
+   VAP:  aspiration precautions
+   Communication: ICU consent signed Comments:
+   Code status:  Short term intubation ok per recent family discussion.
+   Appreciate ethics and palliative care recs
+   Disposition:  ICU
+
+
+DOC CLASS

@@ -1,0 +1,219 @@
+Admission Date:  [**2796-2-16**]              Discharge Date:   [**2796-2-23**]
+
+Date of Birth:  [**2718-7-28**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2796-2-19**] Aortic Valve Replacement(27mm Porcine), Mitral Valve
+Replacement(29mm Tissue), Full Maze Procedure, Ligation of Left
+Atrial Appendage, and Aortic Root Enlargement with Pericardial
+Patch
+
+History of Present Illness:
+77-year-old woman with known aortic stenosis and aortic
+insufficiency as well as mitral regurgitation and mitral
+stenosis presents with worsening CHF symptoms.  She is well
+known to your practice and has been followed by you closely with
+serial echocardiograms, which have revealed worsening gradients
+and evidence of pulmonary hypertension.  She does complain
+significantly of dyspnea on exertion, orthopnea, and increasing
+fatigue.  She does deny any angina or syncope.
+
+
+Past Medical History:
+Aortic stenosis/insufficiency, mitral
+stenosis/regurgitation(most likely rheumatic), hypertension,
+elevated cholesterol, atrial fibrillation, stroke with mild
+right-sided weakness, and osteoarthritis.  She has undergone a
+hysterectomy and had a St. [**Male First Name (un) 262**] pacemaker placed in [**2784**].
+
+
+Social History:
+Mrs. [**Known patient lastname **] is retired.  She has a remote tobacco history.  Her
+last dental examination was five months ago.  She also denies
+use of any alcohol.  She is currently living with her husband.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+On examination, her heart rate is 60 and irregular, respiratory
+rate 18, blood pressure on the right 154/64 and on the left
+153/60.  She is 68 inches tall weighing 225 pounds.  She is in
+no apparent distress.  Skin was unremarkable as well as the
+HEENT examination.  Neck was supple with full range of motion.
+Lungs were clear bilaterally.  Heart was irregular in rate and
+rhythm with a mixed II/VI diastolic and systolic murmur. Abdomen
+was soft, nondistended, and nontender with positive bowel
+sounds.  Extremities were warm and well perfused with 1+
+peripheral.  No obvious varicosities were noted. Neurologically,
+she is grossly intact with mild right upper extremity weakness.
+She has 2+ plus bilateral femoral pulses and radial pulses and
+1+ bilateral DP and PT pulses.  The systolic murmur transmits to
+both carotids.
+
+
+Pertinent Results:
+[**2796-2-16**] WBC-8.3 RBC-4.37 Hgb-13.0 Hct-40.5 MCV-93 MCH-29.8
+MCHC-32.1 RDW-13.5 Plt Ct-307
+[**2796-2-16**] PT-16.7* PTT-25.6 INR(PT)-1.5*
+[**2796-2-16**] Glucose-103 UreaN-15 Creat-0.9 Na-144 K-4.5 Cl-102
+HCO3-34* [**2796-2-16**] Albumin-4.7 Calcium-10.0 Phos-3.7 Mg-2.3
+[**2796-2-16**] %HbA1c-5.9
+[**2796-2-19**] Intraop TEE:
+PREBYPASS
+1. The left atrium is markedly dilated and is elongated. A
+left-to-right shunt across the interatrial septum is seen at
+rest. Mod to severe left atrial contrast is noted.2. Overall
+left ventricular systolic function is normal (LVEF>55%). 3.
+Right ventricular chamber size and free wall motion are normal.
+4. There are simple atheroma in the aortic arch and descending
+thoracic aorta. 5. The aortic valve leaflets are moderately
+thickened with some calcification. There is severe aortic valve
+stenosis (area <0.8cm2) by continuity equation, area 1.1 by
+planimetry which is likely inaccurate due to calcification.
+Moderate to severe (3+) aortic regurgitation is seen. 6. The
+mitral valve leaflets are severely thickened/deformed. The
+mitral valve shows characteristic rheumatic deformity. There is
+mild mitral valve prolapse of the anterior leaflet and
+restriction of the posterior leaflet.. There is moderate
+valvular mitral stenosis (area 1.0-1.5cm2). Mild mitral
+regurgitation is seen.
+
+POSTBYPASS
+1. Patient is on no infusions and is being paced at 80 2. A
+tissue mitral valve is seen. It is well seated and functioning
+well. Trace central MR jet is seen, NO perivalvular leaks. Peak
+gradient 13, mean gradient 4 3. A tissue aortic valve is seen.
+It is well seated and functioning well. No periventricular leaks
+are noted. Peak gradient 11, mean gradient 5 4. Aortic contours
+are smooth after decannulation
+
+[**2796-2-22**] 07:05AM BLOOD WBC-11.3* RBC-3.13* Hgb-9.4* Hct-29.1*
+MCV-93 MCH-30.1 MCHC-32.4 RDW-14.0 Plt Ct-92*
+[**2796-2-22**] 07:05AM BLOOD PT-14.8* INR(PT)-1.3*
+[**2796-2-21**] 02:46AM BLOOD Glucose-115* UreaN-17 Creat-0.9 Na-138
+K-4.5 Cl-105 HCO3-27 AnGap-11
+[**2796-2-16**] 07:15PM BLOOD ALT-25 AST-32 LD(LDH)-241 AlkPhos-114
+TotBili-0.8
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname **] was admitted preoperatively for intravenous heparin
+and preoperative workup. Electrophysiologic interrogation of her
+permanent pacemaker revealed that she was pacemaker dependent
+with an underlying rhythm of 40 beats per minute, irregular and
+with prolonged pauses. The remainder of preoperative course was
+uneventful and she was cleared for surgery.  Given inpatient
+stay was greater than 24 hours prior to surgery, Vancomycin was
+given for perioperative antibiotic coverage. On [**2-19**], Dr.
+[**Last Name (STitle) **] performed aortic and mitral valve replacements, along
+with Full Maze procedure. For surgical details, please see
+operative note. Following surgery, she was brought to the
+cardiovascular intensive care unit for invasive monitoring.
+Within 24 hours, she awoke neurologically intact and was
+extubated without incident.  Her permanent pacemaker was
+interrogated.  She was weaned from her pressors and her chest
+tubes and wires were removed.  Coumadin was started given that
+she has a history of atrial fibrillation and she underwent a
+MAZE procedure.  She was transferred in stable condition to the
+surgical step down floor.  Mrs. [**Known patient lastname **] was aggressively
+diuresed.  She was seen in consultation by the physical therapy
+service.  By post-operative day three she was deemed ready by
+Dr. [**Last Name (STitle) **] for discharge to an acute care facility for further
+diuresis and rehab.
+
+Medications on Admission:
+Atenolol 50 mg q.a.m. and 25 mg q.p.m., Digoxin 0.25 mg daily,
+Lasix 80 mg daily, Levothyroxine 100 mcg daily, Lisinopril 20 mg
+daily, Simvastatin 10 mg daily, Combivent inhaler, Coumadin
+daily as directed, Aspirin 81 mg daily, Multivitamin daily, and
+Tylenol p.r.n. pain.
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Furosemide 10 mg/mL Solution Sig: One (1)  Injection [**Hospital1 **] (2
+times a day): 40mg IV Lasix [**Hospital1 **].
+Disp:*qs * Refills:*2*
+6. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+8. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Coumadin 4 mg Tablet Sig: One (1) Tablet PO once a day:
+titrate for an INR goal of [**1-9**] for atrial fibrillation.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Lifecare Center of [**Location **]
+
+Discharge Diagnosis:
+Aortic Stenosis/Aortic Insufffiency
+Mitral Stenosis/Regurgitation
+Chronic Diastolic Congestive Heart Failure
+Atrial Fibrillation
+Cerebrovascular Disease
+Hypertension
+Dyslipidemia
+Pacemaker In-Situ
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 3620**] at
+([**Telephone/Fax (1) 72**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks from date of
+surgery.
+6) No driving for 1 month or while taking narcotics for pain.
+7) Call with any questions or concerns.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **] in 1 month. ([**Telephone/Fax (1) 72**]
+Please follow-up with Dr. [**First Name8 (NamePattern2) 1917**] [**Last Name (NamePattern1) 264**] (PCP)in 2 weeks.
+[**Telephone/Fax (1) 172**]
+Please follow-up with Dr. [**First Name8 (NamePattern2) 1027**] [**Last Name (NamePattern1) 73**] (cardiology) in [**1-9**]
+weeks, call for appt
+
+
+
+Completed by:[**2796-2-22**]
+
+DOC CLASS

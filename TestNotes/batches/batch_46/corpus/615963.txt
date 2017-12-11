@@ -1,0 +1,251 @@
+24 Hour Events:
+   - CHF c/s for monday
+   - Plan to remove Swan on monday. CI 3.7 up from 2.7 on saturday.
+   - day [**12-22**] nafcillin
+   - Coffee ground emesis G + 11 am ; d/cd coumain and heparin. Placed NG
+   tube with 200 cc output to low suction. Hct stable 28.9 > 27.4 > 27.2
+   without transfusion.
+   - I/O - Goal 1-2 L negative. Continues to diurese well on Milrinone and
+   Lasix gtt. Neg. 1.9 L at 1800. Noted to be tachycardic at 2200 and dry,
+   so tapered lasix gtt from 15 mg/hr to 5 mg/hr
+   - Persistent nausea despite Zofran. D/cd Compazine, dulcolax for
+   concern of worsening ileus. Made npo.
+   - Noted leukocytosis with Am labs [**5-26**]. Added C diff, LFTs.
+   - Summary: Stable overnight. NGT placed after coffee-ground emesis,
+   200cc output to low suction but had persistent nausea on zofran, so
+   made NPO
+ Hct stable. KUB ordered for this AM to assess for ileus. I/O
+   goal achieved yesterday (1-2L neg), because of tachycardia at 2200,
+   tapered lasix gtt 15
+5. CXR ordered this AM for fluid status, CHF c/s
+   today, CI up to 3.7. Still on milrinone.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Nafcillin - [**3310-5-26**] 06:01 AM
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Milrinone - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3310-5-26**] 12:17 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3310-5-26**] 07:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.1
+C (97
+   HR: 100 (82 - 111) bpm
+   BP: 93/57(65) {78/36(49) - 111/68(74)} mmHg
+   RR: 18 (13 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 122.7 kg (admission): 119.3 kg
+   Height: 69 Inch
+    CVP: 6 (4 - 13)mmHg
+   PAP: (85 mmHg) / (25 mmHg)
+   CO/CI (Fick): (6.9 L/min) / (3 L/min/m2)
+   Mixed Venous O2% Sat: 59 - 67
+   Total In:
+                                                                  2,249 mL
+                                                                    574 mL
+   PO:
+                                                                    300 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  1,949 mL
+                                                                    454 mL
+   Blood products:
+   Total out:
+                                                                  4,150 mL
+                                                                    795 mL
+   Urine:
+                                                                  3,550 mL
+                                                                    195 mL
+   NG:
+                                                                    600 mL
+                                                                    600 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,901 mL
+                                                                   -221 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///25/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   237 K/uL
+   9.0
+   60 mg/dL
+   2.2 mg/dL
+   25 mEq/L
+   3.7 mEq/L
+   44 mg/dL
+   97 mEq/L
+   134 mEq/L
+   27.1 %
+   24.2 K/uL
+        [image002.jpg]
+                             [**3310-5-24**]  11:18 AM
+                             [**3310-5-24**]  04:01 PM
+                             [**3310-5-24**]  04:26 PM
+                             [**3310-5-25**]  03:41 AM
+                             [**3310-5-25**]  11:09 AM
+                             [**3310-5-25**]  04:10 PM
+                             [**3310-5-25**]  04:55 PM
+                             [**3310-5-25**]  06:03 PM
+                             [**3310-5-25**]  11:18 PM
+                             [**3310-5-26**]  05:38 AM
+   WBC
+   10.8
+   24.2
+   Hct
+   30
+   30
+   28.9
+   28.1
+   27.4
+   27.2
+   27.1
+   Plt
+   228
+   237
+   Cr
+   2.2
+   1.1
+   1.8
+   2.0
+   2.2
+   Glucose
+   115
+   471
+   103
+   60
+   Other labs: PT / PTT / INR:18.9/40.1/1.7, CK / CKMB /
+   Troponin-T:196/6/0.11, ALT / AST:147/27, Alk Phos / T Bili:59/2.4,
+   Amylase / Lipase:22/27, Differential-Neuts:81.1 %, Band:0.0 %,
+   Lymph:11.2 %, Mono:5.7 %, Eos:1.7 %, D-dimer:[**Numeric Identifier 5710**] ng/mL,
+   Fibrinogen:392 mg/dL, Lactic Acid:1.4 mmol/L, Albumin:3.0 g/dL, LDH:562
+   IU/L, Ca++:8.6 mg/dL, Mg++:2.1 mg/dL, PO4:4.7 mg/dL
+   Assessment and Plan
+   64M with nonischemic dilated cardiomyopathy (EF 25%), severe AS s/p
+   aortoplasty, rheumatic MS, DM, COPD, OSA & pulm HTN admitted to OSH
+   with DOE, transferred for further evaluation of AS and found to have
+   MSSA bacteremia, septic shock, and cardiogenic shock
+   # Chronic systolic heart failure:  The patient
+s signs of fluid
+   overload (lower extremity and dependent back edema, crackles) are
+   better today than previously and his net fluid status yesterday was
+   -2L.  However, his BP has been falling somewhat (MAPs in 50s now) and
+   HR is increasing (up to 110-120s). This suggests that he is either
+   over-diuresed, this is a reaction to his medications, or worse he is
+   septic (WBC was 24 this AM). We will need to be cautious with him
+   throughout the day and monitor his hemodynamic status.
+   -          Cont milrinone at 0.5 mcg/kg/min
+   -          d/c digoxin b/c of renal failure
+   -          Cont lasix at 5 mg/hour, increase today if necessary to
+   maintain fluid goals
+   -          Goal fluid status -500cc
+   -          Continue Metoprolol 12.5 mg po bid, to decrease that high HR
+   -          Continue to monitor hemodynamics
+   -          Goal MAP>60
+   -          Wedge today was 24.
+   -
+   # Atrial fibrillation:  Rate is getting high, still in afib. Will
+   potentially need cardioversion in the future, which might even improve
+   his cardiac output (thus decreasing the need for milrinone). If we
+   decide to do cardioversion sooner than 3 weeks, we may need an echo to
+   check for clot to prevent stroke.
+   - Continue to monitor on telemetry
+   - Beta-blocker for rate control, as above
+   - heparin and coumadin d/c
+ed because of hematemesis
+   # Leukocytosis. [**Month (only) 11**] need more aggressive antibiotics if his status
+   deteriorates, but at this time we will watch. We sent him for UA, UCx,
+   BCx, CXR (negative for PNA), and C.diff.
+   - f/u labs
+   # Hematemesis. Resolving. D/c NGT today.
+   -          IV PPI
+   # Pulmonary hypertension:  Pulmonary pressures elevated out of
+   proportion to what would be expected with aortic stenosis alone.
+   Patient with known severe COPD. Has body habitus concerning for OSA as
+   well, although has not be desaturating at night. Pulmonary consult
+   service following; will weigh in again once patient is more euvolemic
+   given that PCWP is still elevated.
+   -          Pulmonary recs
+   # Aortic stenosis:  s/p aortoplasty with minimal improvement in valve
+   area. Transaortic pressure gradient did improve by 30mmHG. Once more
+   medically stabilized, he may be a candidate for AVR.
+   # MSSA bacteremia:  Unclear source; surveillance culture remain
+   negative.
+    - Continue Nafcillin for 2 week course (day #1=[**3310-5-13**], day
+   #14=[**3310-5-27**])
+   .
+   # Liver failure:  Transaminitis resolving, synthetic function
+   improving. Likely [**2-10**] shock liver
+   - Avoid hepatotoxic medications
+   - Tylenol 2gm max/24 hrs
+   .
+   # ARF:  Creatinine trending down to 1.1, which suggests that the
+   decrease in his GFR previously was due to poor forward flow and renal
+   vein congestion (i.e. pre-renal ARF).
+   -          Expect improvement as milrinone helps forward flow
+   -          Closely monitor creatinine as we have increased Lasix gtt
+   # Anemia
+ Hct stable; unclear baseline; recent GIB w/ C-scope showing
+   colonic AVM that was cauterized
+   -          Trend hematocrit
+   -          Guaiac stools
+   .
+   # Low back pain:  Presumed [**2-10**] chronic lumbar back disease, but will
+   monitor for evidence of complication of bacteremia (epidural abscess)
+   - Tramadol
+   - Tylenol
+   # Thrombocytopenia:  Stable. Likely a component of shock, liver
+   failure, and bone marrow suppression from his bacteremia.
+   .
+   #DM
+ well-controlled
+   -cont basal, SS insulin
+   .
+   # Hyperlipidemia
+   -cont statin
+   .
+   #Access: Cordis/RIJ, PICC
+   #Nutrition: low Na/HH/DM diet replete lytes prn
+   # Code: FULL
+   #Dispo: CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3310-5-22**] 10:00 AM
+   PA Catheter - [**3310-5-23**] 04:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   11:16
+
+
+DOC CLASS

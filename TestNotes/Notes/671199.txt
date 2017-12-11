@@ -1,0 +1,186 @@
+CVICU
+   HPI:
+   51 year old male s/p AVR (23mm [**Doctor Last Name 1428**] pericardial, CABG x 3 (LIMA>LAD,
+   SVG>OM1, SVG>OM3) [**3173-11-7**]
+   PMHx:
+   tobacco abuse, MVA [**3171**], drinks 8 beers/day per family
+   Current medications:
+   1. 2. Acetaminophen 3. Amiodarone 4. Aspirin EC 5. Bisacodyl 6. Calcium
+   Gluconate 7. Carvedilol
+   8. Captopril 9. Dextrose 50% 10. Docusate Sodium 11. FoLIC Acid 12.
+   HYDROmorphone (Dilaudid) 13. Heparin
+   14. HydrALAzine 15. 16. Insulin 17. Magnesium Sulfate 18. Magnesium
+   Sulfate 19. Milk of Magnesia
+   20. Multivitamins 21. Potassium Chloride 22. Polyethylene Glycol 23.
+   Potassium Chloride 24. Ranitidine
+   25. Simvastatin 26. Sodium Chloride 0.9% Flush 27. Thiamine
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**3173-11-13**] 12:02 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3173-11-14**] 12:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3173-11-14**] 10:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**75**] a.m.
+   Tmax: 36.4
+C (97.6
+   T current: 36.4
+C (97.5
+   HR: 71 (54 - 71) bpm
+   BP: 135/73(83) {92/61(52) - 163/95(109)} mmHg
+   RR: 19 (13 - 22) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 77.4 kg (admission): 80.3 kg
+   Height: 69 Inch
+             Total In:
+                                                                  1,008 mL
+                                                                    460 mL
+   PO:
+                                                                    540 mL
+                                                                    360 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    468 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  2,840 mL
+                                                                  1,175 mL
+   Urine:
+                                                                  2,840 mL
+                                                                  1,175 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,832 mL
+                                                                   -715 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   326 K/uL
+   9.8 g/dL
+   80 mg/dL
+   0.6 mg/dL
+   28 mEq/L
+   4.5 mEq/L
+   10 mg/dL
+   100 mEq/L
+   135 mEq/L
+   30.5 %
+   9.0 K/uL
+        [image002.jpg]
+                            [**3173-11-11**]  02:26 AM
+                            [**3173-11-11**]  05:00 AM
+                            [**3173-11-11**]  02:43 PM
+                            [**3173-11-12**]  03:51 AM
+                            [**3173-11-13**]  02:38 AM
+                            [**3173-11-13**]  03:03 AM
+                            [**3173-11-13**]  12:00 PM
+                            [**3173-11-13**]  05:00 PM
+                            [**3173-11-14**]  12:00 AM
+                            [**3173-11-14**]  03:40 AM
+   WBC
+   7.9
+   8.1
+   9.0
+   9.0
+   Hct
+   28.0
+   29.2
+   33.6
+   30.5
+   Plt
+   [**Telephone/Fax (3) 9715**]26
+   Creatinine
+   0.7
+   0.6
+   0.6
+   0.6
+   0.6
+   Troponin T
+   0.14
+   TCO2
+   28
+   Glucose
+   259
+   104
+   148
+   88
+   131
+   105
+   99
+   80
+   Other labs: PT / PTT / INR:13.9/32.4/1.2, CK / CK-MB / Troponin
+   T:29//0.14, ALT / AST:13/33, Alk-Phos / T bili:52/0.7, Amylase /
+   Lipase:27/33, Fibrinogen:166 mg/dL, Lactic Acid:1.0 mmol/L, Albumin:2.9
+   g/dL, LDH:297 IU/L, Ca:8.7 mg/dL, Mg:2.0 mg/dL, PO4:4.8 mg/dL
+   Imaging: [**11-14**] sm right pl. effusion, sm. left
+   Microbiology: NGTD
+   ECG: SR 70s
+   Assessment and Plan
+   HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC, VENTRICULAR
+   TACHYCARDIA, SUSTAINED, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN),
+   CORONARY ARTERY BYPASS GRAFT (CABG), VALVE REPLACEMENT, AORTIC
+   BIOPROSTHETIC (AVR)
+   Assessment and Plan: 51 year old male s/p AVR (23mm [**Doctor Last Name 1428**]
+   pericardial, CABG x 3 (LIMA>LAD, SVG>OM1, SVG>OM3) [**3173-11-7**] extubated,
+   awaiting decision regarding ICD placement before transferring to the
+   floor
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Pain controlled on
+   dilaudid
+   Cardiovascular: Aspirin, Statins, On Amiodarone PO for V-tach arrest
+   (monitor QTC), EP evaluating for ICD placement.  Hypertension so
+   captopril increases. Echocardiogram pending.
+   Pulmonary: IS, OOB to chair, ambulate
+   Gastrointestinal / Abdomen: Bowel regimen
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, Self diuresis for goal of 1 L negative
+   daily.
+   Hematology: Hct stable
+   Endocrine: RISS
+   Infectious Disease: NGTD
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Consults: P.T., EP dept, Heart Failure
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3173-11-10**] 02:59 PM
+   18 Gauge - [**3173-11-13**] 03:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

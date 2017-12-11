@@ -1,0 +1,174 @@
+CVICU
+   HPI:
+   HD10
+   [**12-2**] POD 3
+   80M s/p AVR(#21 St.[**Male First Name (un) 629**] porcine)CABGx4(LIMA-LAD, SVG-OM, SVG-DIAG,
+   SVG-RCA) [**11-29**].
+   EF: 45%, Cr: 0.9 Wt: 81kg
+   PMH: HTN,^Chol,prostate ca.,GERD, Hiatal hernia, CVA'90s
+   PSH: L knee replacement'[**47**], Back surgery [**2737**], R cataract [**1-30**].
+   [**Last Name (un) 500**]: ASA81, Lopressor 50(2), Simvastatin 20, Prilosec 20 QOD, Detrol LA
+   4(1), last Plavix [**11-23**]
+   Chief complaint:
+   PMHx:
+   Current medications:
+   asa Furosemide Metoprolol Tartrate Ranitidine Simvastatin
+   24 Hour Events:
+ CHEST TUBE REMOVED - At [**2776-12-1**] 12:00 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2776-11-30**] 08:20 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2776-12-1**] 08:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2776-12-2**] 09:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**79**] a.m.
+   Tmax: 37.8
+C (100.1
+   T current: 36.6
+C (97.8
+   HR: 88 (82 - 97) bpm
+   BP: 105/52(65) {90/48(51) - 127/64(78)} mmHg
+   RR: 16 (16 - 24) insp/min
+   SPO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 94.8 kg (admission): 84.1 kg
+   Height: 69 Inch
+             Total In:
+                                                                    640 mL
+                                                                    170 mL
+   PO:
+             120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    460 mL
+                                                                     50 mL
+   Blood products:
+   Total out:
+                                                                  2,600 mL
+                                                                  1,025 mL
+   Urine:
+                                                                  2,450 mL
+                                                                  1,025 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,960 mL
+                                                                   -855 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 99%
+   ABG: ///30/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   102 K/uL
+   10.1 g/dL
+   120 mg/dL
+   0.9 mg/dL
+   30 mEq/L
+    3.2 mEq/L
+   17 mg/dL
+   100 mEq/L
+   135 mEq/L
+   26.6 %
+   11.1 K/uL
+        [image002.jpg]
+                             [**2776-11-30**]  01:51 AM
+                             [**2776-11-30**]  02:14 AM
+                             [**2776-11-30**]  04:26 AM
+                             [**2776-11-30**]  07:56 AM
+                             [**2776-11-30**]  08:18 PM
+                             [**2776-11-30**]  09:08 PM
+                            [**2776-12-1**]  12:00 AM
+                            [**2776-12-1**]  05:00 AM
+                            [**2776-12-2**]  02:00 AM
+                            [**2776-12-2**]  02:01 AM
+   WBC
+   7.0
+   13.2
+   11.0
+   11.1
+   Hct
+   26.0
+   31.3
+   28.5
+   26.6
+   Plt
+    70
+   107
+   109
+   102
+   Creatinine
+   0.7
+   0.6
+   0.9
+   0.9
+   TCO2
+   26
+   26
+   Glucose
+   99
+   107
+   120
+   130
+   120
+   Other labs: PT / PTT / INR:16.0/52.9/1.4, Differential-Neuts:66.0 %,
+   Band:2.0 %, Lymph:26.0 %, Mono:0.0 %, Eos:6.0 %, Fibrinogen:131 mg/dL,
+   Lactic Acid:2.3 mmol/L, Ca:7.9 mg/dL, Mg:1.8 mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+   ELECTROLYTE & FLUID DISORDER, OTHER, ATRIAL FIBRILLATION (AFIB),
+   HYPERGLYCEMIA, .H/O CVA (STROKE, CEREBRAL INFARCTION), OTHER ,
+   HYPOTENSION (NOT SHOCK)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Alert, awake,
+   responsive
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Hemodynamically stable
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal: Foley, Adequate UO
+   Hematology: Serial Hct, stable
+   Endocrine: RISS
+   Infectious Disease: stable
+   Lines / Tubes / Drains: Foley, Pacing wires
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults:
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2776-12-2**] 03:24 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 35 minutes
+
+
+DOC CLASS

@@ -1,0 +1,178 @@
+Admission Date:  [**3137-5-5**]       Discharge Date: [**3137-5-9**]
+
+Date of Birth:   [**3078-7-30**]       Sex:  M
+
+Service:  MEDICINE
+HISTORY OF PRESENT ILLNESS:  This is a 58 year old male with
+a very complicated previous medical history who was
+transferred to the [**Hospital1 170**] on
+[**3137-5-5**], from [**Hospital 118**] Rehabilitation for increasing
+lethargy, low grade temperatures and hypoxia.  He had been in
+prior to admission.  He was noted to have increasing lethargy
+over the few days and then on the day of admission his oxygen
+saturation decreased to the low 80% on his baseline four
+liters of oxygen.  He had a low grade temperature.  Notably
+he had had a PICC line placed recently.  Arterial blood gases
+at [**Hospital1 118**] showed pH 7.05, pCO2 76 and FIO2 95.  The FIO2 is
+unknown on the sample.  He was transferred to the [**Hospital3 **]
+only of feeling weak and of feeling very tired. He was
+disoriented.
+
+PAST MEDICAL HISTORY:
+1.  AIDS diagnosed in [**3128**].  Only opportunistic infection is
+apparently Candidal esophagitis.  He also has severe
+cardiomyopathy secondary to HIV.  His ejection fractions have
+been variously recorded at 30 to 40% and then 70% on a most
+recent echocardiogram.  He has severe right ventricular
+dilation and hypokinesis.
+2.  End stage renal disease on hemodialysis.
+3.  Chronic obstructive pulmonary disease on four liters home
+oxygen.
+4.  Pulmonary embolus and deep vein thrombosis in [**3127**].
+5.  Hepatitis B.
+6.  Hepatitis C.
+7.  Sustained ventricular tachycardia, status post ablation
+in [**3137-1-19**].
+8.  Pneumonia, some with Methicillin resistant Staphylococcus
+aureus, one requiring intubation
+9.  Pancreatitis.
+10. PPD positive.
+11. VRE positive.
+12. Methicillin resistant Staphylococcus aureus positive.
+13. History of intravenous drug use, on Methadone.
+14. Question of history of obstructive sleep apnea.
+
+MEDICATIONS ON ADMISSION:
+1.  Amiodarone 200 mg q.d.
+2.  Vitamin C 500 mg b.i.d.
+3.  Folate 1 mg q.d.
+4.  Epivir 25 mg q.d.
+5.  Prevacid 30 mg p.o. q.d.
+6.  Megace 400 mg q.d.
+7.  Multivitamin one q.d.
+8.  Senokot two at night.
+9.  Zoloft 50 mg q.d.
+10. Bactrim double strength one p.o. q.Tuesday, Thursday and
+Saturday.
+11. Zerit 20 mg q.d.
+12. Coumadin 2.5 mg q.d. with a goal INR 2.0 to 3.0.
+13. Zinc Sulfate 220 mg q.d.
+14. Albuterol and Atrovent nebulizers.
+15. Methadone 50 mg q.a.m.
+16. Valium 5 mg a day.
+17. Lactulose q.p.m.
+18. Colace 100 mg b.i.d.
+19. Percocet one p.o. q4hours prn
+20. Vancomycin one gram and 80 mg Gentamicin on [**3137-5-4**].
+
+ALLERGIES:  Thorazine causes anaphylaxis, H2 blockers cause
+thrombocytopenia.  Haldol, Clindamycin, Codeine and Stelazine
+all cause rashes.
+
+PHYSICAL EXAMINATION:  At the time of admission to the
+Medicine Intensive Care Unit, the patient is comfortable,
+sleeping, but arousible, cachectic man.  Temperature was
+97.4, blood pressure 112/48, pulse 99, respiratory rate 12,
+oxygen saturation 96% on 50% face mask. The pupils were 4.0
+millimeters bilaterally and reactive.  There is no jugular
+venous distention.  He had crackles at his lung bases. His
+heart was regular.  He had a II/VI systolic ejection murmur
+at the left upper sternal border.  His abdomen was soft,
+nontender, nondistended, normoactive bowel sounds.  Liver
+edge was one to two centimeters below the costal margin.
+There was no cyanosis, clubbing or edema.  He did not
+cooperate with neurologic examination but moved all four
+extremities.
+
+LABORATORY DATA:  At the time of admission, laboratories were
+notable for a white count 4.4 without a left shift,
+hematocrit 43.9 and platelets 87,000.  His Chem7 was 135,
+potassium 7.8, chloride 102, bicarbonate 15, blood urea
+nitrogen 64, creatinine 7.2 with a glucose of 95.  Arterial
+blood gases on two liters showed pH 7.09, pCO2 57 and pO2 60.
+
+Electrocardiogram had slightly peaked T waves in the lateral
+leads which was unchanged from baseline.  Chest x-ray showed
+mild pulmonary edema but no infiltrates.
+
+HOSPITAL COURSE:  The impression at the time of arrival to
+the Emergency Department was that this was a 58 year old man
+with complicated medical history presenting with acidosis,
+hyperkalemia, and lethargy.  He was treated with insulin,
+glucose, Kayexalate and taken to emergent hemodialysis.  At
+that time, he complained only of dyspnea and fatigue with a
+question of increase in his sputum production.  He was then
+admitted to the Medical Intensive Care Unit and was also
+placed on bilevel positive airway pressure and he should
+receive Vancomycin, Gentamicin and Levofloxacin, but these
+were discontinued after only one dose.  Cultures are negative
+to date.
+
+He improved rapidly with dialysis and BiPAP and his
+antibiotics were discontinued.  The pulmonary critical care
+team's overall impression was fluid overload versus
+bronchitis and felt that a possible left lower lobe process
+noted on chest x-ray was not pneumonia.  His temperature
+maximum during this hospitalization was 99.9.  On [**3137-5-8**],
+he was felt ready for transfer back to [**Hospital1 118**], however, a
+bed was not available and he was transferred to the floor.
+He complained only of feeling very weak (diffusely) but said
+that his breathing was improved about 50 to 60% of the way
+back to baseline.  A repeat chest x-ray showed improvement in
+the pulmonary edema.  It showed no infiltrate.
+
+At this time, his date of discharge is not clear.  An induced
+sputum for pneumocystis will be sent prior to discharge.
+However, it is felt clinically low probability that
+pneumocystis is involved in this presentation.
+
+DISCHARGE DIAGNOSES:
+1.  Profound metabolic acidosis, etiology unclear.
+2.  Concurrent respiratory acidosis.
+3.  Hyperkalemia secondary to acidosis.
+4.  Mental status changes secondary to multiple metabolic
+abnormalities, improved.
+5.  Severe chronic obstructive pulmonary disease.
+6.  End stage renal disease, on hemodialysis.
+7.  HIV/AIDS.
+8.  Cardiomyopathy.
+
+MEDICATIONS ON DISCHARGE:
+1.  Amiodarone 200 mg p.o. q.d.
+2.  Vitamin C 500 mg p.o. b.i.d.
+3.  Epivir 25 mg p.o. q.d.
+4.  Protonix 40 mg p.o. q.d.
+5.  Megace 400 mg p.o. q.d.
+6.  Multivitamin one tablet p.o. q.d.
+7.  Senokot two tablets p.o. q.h.s.
+8.  Zoloft 50 mg p.o. q.d.
+9.  Zerit 20 mg p.o. q.d.
+10. Coumadin 2.5 mg p.o. q.d. with a goal INR of 2.0 to 3.0.
+11. Zinc Sulfate 220 mg p.o. q.d.
+12. Albuterol and Atrovent nebulizers q.i.d. and q2hours
+p.r.n.
+13. Methadone 50 mg p.o. q.a.m.
+14. Lactulose 30 ccs p.o. b.i.d.
+15. Colace 100 mg p.o. b.i.d.
+16. Percocet one tablet p.o. q6hours p.r.n.
+17. Bactrim double strength one tablet p.o. q.Tuesday,
+Thursday, and Saturday.
+
+He will continue to be followed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10962**], M.D.  [**MD Number(1) **]
+
+Dictated By:[**Last Name (NamePattern1) 19957**]
+MEDQUIST36
+
+D:  [**3137-5-9**]  15:51
+T:  [**3137-5-9**]  16:07
+JOB#:  [**Job Number 19958**]
+
+
+
+
+DOC CLASS

@@ -1,0 +1,272 @@
+Chief Complaint: worsening respiratory status, [**Last Name (un) 2359**]
+   24 Hour Events:
+ ARTERIAL LINE - START [**3485-9-11**] 12:34 PM
+ PICC LINE - START [**3485-9-11**] 02:40 PM
+   maintained on BiPAP throughout day and night, desats to 70s without
+   positive pressure
+   TTE -> Normal global and regional biventricular systolic function.
+   Moderate pulmonary hypertension.
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientBenzocaine
+   Unknown; genera
+   Last dose of Antibiotics:
+   Vancomycin - [**3485-9-12**] 01:18 AM
+   Cefipime - [**3485-9-12**] 03:00 AM
+   Ciprofloxacin - [**3485-9-12**] 04:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever
+   Ear, Nose, Throat: No(t) Dry mouth
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, Dyspnea, No(t) Tachypnea, No(t) Wheeze,
+   dyspnea with mask at times, and when removed
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis
+   Genitourinary: Foley
+   Neurologic: No(t) Numbness / tingling, No(t) Headache
+   Psychiatric / Sleep: No(t) Agitated
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**3485-9-12**] 07:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 35.6
+C (96
+   HR: 83 (65 - 89) bpm
+   BP: 122/56(73) {106/55(70) - 122/65(77)} mmHg
+   RR: 31 (21 - 31) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+             Total In:
+                                                                    880 mL
+                                                                    450 mL
+   PO:
+                                                                     80 mL
+             TF:
+   IVF:
+                                                                    550 mL
+                                                                    450 mL
+   Blood products:
+                                                                    250 mL
+   Total out:
+                                                                  3,665 mL
+                                                                    220 mL
+   Urine:
+                                                                  1,315 mL
+                                                                    220 mL
+   NG:
+   Stool:
+                                                                    200 mL
+   Drains:
+                                                                  2,150 mL
+   Balance:
+                                                                 -2,785 mL
+                                                                    230 mL
+   Respiratory support
+   O2 Delivery Device: Bipap mask
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 541 (334 - 688) mL
+   PS : 8 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 24
+   PEEP: 10 cmH2O
+   FiO2: 100%
+   PIP: 19 cmH2O
+   SpO2: 97%
+   ABG: 7.33/52/157/29/0
+   Ve: 8.5 L/min
+   PaO2 / FiO2: 157
+   Physical Examination
+   General Appearance: No acute distress, Thin, chronically ill-appearing
+   Eyes / Conjunctiva: PERRL, Pupils dilated
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), No(t) S3,
+   No(t) S4, No(t) Rub, (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Crackles : anteriorly, left > right, essentially
+   unchanged from yesterday)
+   Abdominal: Soft, Non-tender, Distended, no fluid wave noted, but
+   significant distention, unchanged
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Musculoskeletal: Muscle wasting
+   Skin:  Not assessed, No(t) Rash:
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   116 K/uL
+   10.3 g/dL
+   238 mg/dL
+   2.1 mg/dL
+   29 mEq/L
+   4.1 mEq/L
+   49 mg/dL
+   100 mEq/L
+   138 mEq/L
+   31.4 %
+   10.5 K/uL
+        [image002.jpg]
+                             [**3485-9-10**]  06:43 PM
+                             [**3485-9-10**]  10:51 PM
+                             [**3485-9-11**]  01:04 AM
+                             [**3485-9-11**]  03:05 AM
+                             [**3485-9-11**]  05:23 AM
+                             [**3485-9-11**]  07:08 AM
+                             [**3485-9-11**]  12:34 PM
+                             [**3485-9-11**]  01:38 PM
+                             [**3485-9-11**]  03:21 PM
+                             [**3485-9-11**]  04:59 PM
+   WBC
+   15.0
+   10.5
+   Hct
+   33.0
+   31.4
+   Plt
+   149
+   116
+   Cr
+   2.1
+   2.0
+   2.1
+   TCO2
+   30
+   30
+   31
+   30
+   30
+   28
+   29
+   Glucose
+   222
+   220
+   203
+   238
+   Other labs: PT / PTT / INR:17.0/37.1/1.5, ALT / AST:[**8-5**], Alk Phos / T
+   Bili:48/1.4, Amylase / Lipase:47/19, Differential-Neuts:92.0 %,
+   Lymph:5.0 %, Mono:2.8 %, Eos:0.1 %, Lactic Acid:1.4 mmol/L, Albumin:4.5
+   g/dL, LDH:624 IU/L, Ca++:9.4 mg/dL, Mg++:1.9 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   47 yo woman with a history of chronic Hep C cirrhosis complicatied by
+   portal HTN and refractory ascites, DM, s/p failed TIPS procedure,
+   presented with abdominal ascites, bilateral leg edema, and found to
+   have an elevated creatinine and transferred to MICU to due worsening
+   respiratory status.
+   .
+   # Hypoxia - Patient with hypoxia overnight and new oxygen requirement.
+   Initially required 15L rebreather and 4L NC maintaining 02 sats at
+   92-93%. Given Lasix 40 mg IV x 1 prior to transfer.
+   Acute hypoxic event earlier on day of transfer to CCU likely due to
+   decreasing respiratory drive from methadone in setting of increased
+   pulmonary edema.  Repeat chest films yesterday suggestive of ARDS,
+   corroborated by normal TTE.  Etiology of ARDS includes HAP vs.
+   hepatopulmonary syndrome vs. SBP (less likely).  Pt maintained on BiPAP
+   throughout day and overnight, tolerated well, desats to 70s without
+   positive pressure.
+   - Continue BiPap as needed to maintain 02 Sats>92%, consider trial of
+   non-rebreather if chest film improved this AM
+   - check daily weight
+   - elevate head of bed >30 degrees.
+   - follow clinically with serial chest exams
+   - albuterol/ipratropium nebs q6h prn SOB or wheezing
+   - sparing use of diuretics due to HRS -> lasix 40 IV given this am
+   since Cr stable
+   - Will fluid restrict to 750 cc
+   - Will recheck ABG this afternoon and consider intubation if
+   respiratory status not improved
+   - continue vanc/cefepime for possible aspiration pneumonia
+   - check HIV serology
+   .
+   # ARF: Pt w/ Cr of 2.7 on admission from baseline of 1.2 in early [**Month (only) 91**],
+   now 2.0, from 1.9 yesterday. Currently undergoing treatment for HRS. No
+   hypertension. Last paracentesis [**9-8**] ~3L. Urine Na 21 on [**9-5**], urine
+   culture with contaminants. Potassium at time of transfer is 5.2.
+   - cont to monitor serum lytes [**Hospital1 **]
+   - Kayexalate PRN
+   - low potassium diet
+   - Continue [**Month (only) **]/mid/alb, goal creatinine 1.5
+   - monitor blood pressure
+   - daily creatinine
+   .
+   # HCV cirrhosis and ascites: Pt w/ chronic HCV and cirrhosis (Grade 1
+   varices and congestive gastropathy) that is usually managed by weekly
+   parascentesis, s/p failed TIPS ([**7-15**]). SBP (-) on [**9-8**]. Also has elevated
+   AFP=10.2. Para cx NG from [**9-8**]. Patent main portal vein and hepatic
+   vasculature. MELD 20.
+   - continue [**Month (only) **]/mild/albumin - patient appears to be benefitting
+   - continue lactulose
+   - TIPS to be done as outpatient.
+   - f/u on calorie count.
+   - f/u liver recs
+   .
+   # Diabetes. Patient reports that her diabetes is well controlled on
+   insulin at home.
+   - Continue Insulin.
+   .
+   FEN: No IVF, replete electrolytes as needed, low salt diet
+   .
+   Prophylaxis: Pneumoboots
+   .
+   Access: Picc, pvls
+   .
+   Code: Full (discussed with patient)
+   .
+   Communication: Patient and family
+   .
+   Disposition: pending clinical improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3485-9-10**] 06:44 PM
+   20 Gauge - [**3485-9-10**] 07:34 PM
+   Arterial Line - [**3485-9-11**] 12:34 PM
+   PICC Line - [**3485-9-11**] 02:40 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   CRITICAL CARE ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points:
+   She remains on BiPAP today with stable sats and no worsening tachypnea.
+   Creat down to 1.8 but CXR has not improved. I am worried about atypical
+   infection including PCP. [**Name10 (NameIs) **] will induce sputum for PCP today and
+   [**Name9 (PRE) 7929**] treat with steroids/ bactrim (dosed for creatinine
+   clearance). An HIV test will be obtained . if she should need
+   intubation, we will proceed with bronchoscopy and BAL. ? possibility of
+   eosioniphilic pneumonia despite lack of peripheral eos raised. Urine
+   will be screened for esopiniphils.
+   Remainder of plan as outlined above.
+   Patient is critically ill
+   Total time: 50 min
+   _________
+   [**First Name8 (NamePattern2) 1675**] [**Name8 (MD) 1676**],  MD
+   Division of Pulmonary, Critical Care and Sleep Medicine
+   [**Hospital1 702**]
+   [**Location (un) 3435**], KS-B23
+   [**Location (un) 165**], [**Numeric Identifier 2947**]
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1675**] [**Name8 (MD) 1676**], MD
+   on:[**3485-9-12**] 17:49 ------
+
+
+DOC CLASS

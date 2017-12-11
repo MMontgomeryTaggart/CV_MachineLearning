@@ -1,0 +1,167 @@
+Admission Date:  [**2910-12-14**]       Discharge Date:  [**2910-12-19**]
+
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 89 yaer old
+Portuguese speaking woman admitted for shortness of breath.
+She was recently discharged on [**2910-12-8**] with a
+resolving chronic obstructive pulmonary disease exacerbation
+and now presents again with shortness of breath.
+
+The patient received nebulizer treatments en route, with
+minimal improvement.  The patient says she normally sleeps on
+two pillows and does not have any problems with swelling of
+her feet.   She has not had a cough.  She also describes some
+pain in her back.  She denies chest pain or pain radiating to
+her jaw.
+
+PAST MEDICAL HISTORY:  1.  Coronary artery disease, status
+post coronary artery bypass grafting in [**2902**].  2.
+Hypertension.  3.  Chronic obstructive pulmonary disease.  4.
+Status post cholecystectomy.  5.  History of pulmonary
+embolism.  6.  Peripheral vascular disease.  7.  Chronic
+renal insufficiency.  8.  Diabetes mellitus.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Lisinopril 40 mg p.o.q.d.,
+Coumadin 5 mg p.o.q.h.s., Lasix 40 mg p.o.q.d., Isordil 30 mg
+p.o.t.i.d., aspirin 81 mg p.o.q.d., NPH 16 units q.a.m. and 6
+units q.p.m., regular insulin sliding scale, albuterol and
+Atrovent nebulizers, home oxygen, Lipitor 10 mg p.o.q.h.s.,
+diltiazem 120 mg p.o.b.i.d., Combivent, Prilosec 20 mg
+p.o.q.d., Meclizine 12.5 mg p.o.b.i.d., Paxil 10 mg p.o.q.d.,
+iron sulfate 325 mg p.o.t.i.d.
+
+SOCIAL HISTORY:  The patient is from [**Country 3537**] and lives
+with her daughter.
+
+PHYSICAL EXAMINATION:  On physical examination on admission,
+the patient had a temperature of 98.6, heart rate 110, blood
+pressure 153/90, respiratory rate 20 to 25 and oxygen
+saturation 98% on two liters.  General:  Awake and alert.
+Neck:  No jugular venous distention.  Chest:  Moderate
+end-expiratory wheezes with fair movement, not using
+accessory muscles.  Cardiovascular:  Regular rate and rhythm,
+normal S1 and S2, no S3 or S4, 1+ systolic murmur.  Abdomen:
+Soft, obese, nontender, nondistended.  Extremities:  Without
+edema.
+
+HOSPITAL COURSE:  The patient was initially worked up by the
+night float and was planned to be admitted to the medical
+floor, however, she began to have increasing shortness of
+breath during her time in the Emergency Room and she was
+eventually admitted to the Intensive Care Unit for
+observation.
+
+The patient was admitted to the Intensive Care Unit where,
+with her troponin, she ruled in for a non-Q wave myocardial
+infarction.  The patient also then had an episode of
+supraventricular tachycardia.  She was started on a diltiazem
+drip to control her heart rate.  Her Isordil was increased
+and she was placed on heparin for 48 hours.
+
+The patient had an echocardiogram, which showed 2+ mitral
+regurgitation, 1+ tricuspid regurgitation, mildly depressed
+left ventricular function with questionable hypokinetic
+septum and a small pericardial effusion; the mitral
+regurgitation was new since her echocardiogram in [**2910-6-1**].
+
+The patient's cardiac enzymes showed a CK going from 36 to 42
+to 159 and troponin 8.7 increasing up to 25.1.  Cardiology
+was consulted and made recommendations.  After 48 hours on
+intravenous heparin, she was switched to Plavix.
+Conservative management was chosen at this time, however, she
+is going to follow up with a dobutamine echocardiogram.
+
+The patient has poor functional status at baseline.  She says
+she lives in a [**Location (un) 9912**] apartment, however, she does not
+ever leave the apartment due to inability to climb stairs.
+
+The patient also began to have an increasing creatinine up to
+1.8 during admission, as well as a BUN which increased to 48.
+A renal ultrasound was done which showed no evidence of
+hydronephrosis and no stone.  Her renal function improved
+with intravenous fluids.
+
+The patient was also placed on Prednisone as well as Levaquin
+for a possible chronic obstructive pulmonary disease flare
+partially contributing to her shortness of breath.  She was
+placed on a Prednisone taper, which is to gradually taper
+over 12 days.
+
+The patient's chest x-rays during admission showed a tortuous
+aorta with an enlarged heart size, extensive pleural
+calcification and left hemithorax as well as a right lung
+which was grossly clear.  This was consistent with her prior
+chest x-rays.
+
+Cardiology was reconsulted and made recommendations for
+discharge medications, including switching Lopressor to
+atenolol, restarting the patient's ACE inhibitor now that her
+creatinine has come down, and switching over to Imdur.
+
+At this time, we are still waiting for the patient's primary
+care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 8395**], to tell us a little bit more
+about her history of pulmonary embolism.  She had been on
+Coumadin in the past, prior to admission, for a pulmonary
+embolism that occurred sometime around [**2909-6-1**].  The
+question is whether she needs chronic anticoagulation with
+Coumadin.  If she does, we will discharge her on aspirin and
+Coumadin.  However, if her primary care physician feels she
+no longer needs Coumadin, then we will discharge her instead
+on aspirin and Plavix.
+
+DISCHARGE STATUS:  The patient is being discharged to a
+rehabilitation facility.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE DIAGNOSES:
+1.  Non-Q wave myocardial infarction.
+2.  Chronic obstructive pulmonary disease exacerbation.
+3.  Coronary artery disease.
+4.  Peripheral vascular disease.
+5.  Diabetes mellitus.
+6.  Chronic renal insufficiency.
+
+FOLLOW-UP:  The patient is scheduled to have a dobutamine
+echocardiogram on [**2911-1-20**] at 9:45 a.m. on the
+seventh floor of the [**Hospital Ward Name 23**] Building.  The patient is
+instructed to please come early to that appointment.
+
+DISCHARGE MEDICATIONS:
+Imdur 60 mg p.o.q.d.
+Atenolol 25 mg p.o.q.d.
+NPH 6 units q.a.m. and 4 units q.p.m.
+Lisinopril 20 mg p.o.q.d.
+Heparin 5,000 units s.c.q.12h.
+Prednisone 30 mg p.o.q.d. times three days then discontinued
+on [**2910-12-22**].
+Protonix 40 mg p.o.q.d.
+Klonopin 0.5 to 1 mg p.o.q.d.
+Paxil 10 mg p.o.q.d.
+Colace 100 mg p.o.q.d.
+Plavix 75 mg p.o.q.d.
+Aspirin 325 mg p.o.q.d.
+Diltiazem 120 mg p.o.b.i.d.
+Meclizine 12.5 mg p.o.b.i.d.
+Lipitor 10 mg p.o.q.h.s.
+
+
+
+
+
+
+
+
+Dictated By:[**Dictator Info **]
+MEDQUIST36
+
+D:  [**2910-12-19**]  12:42
+T:  [**2910-12-19**]  13:08
+JOB#:  [**Job Number 11512**]
+
+
+DOC CLASS

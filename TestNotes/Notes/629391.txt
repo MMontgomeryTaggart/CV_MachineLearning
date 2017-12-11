@@ -1,0 +1,165 @@
+Chief Complaint: Back pain similar to prior episodes of sepsis
+   24 Hour Events:
+   -NSURG thinks it might be burnt out osteo - wanted CRP (NSRG thinks
+   tagged WBC will be positive in burnt out osteo as well as active).
+   Tagged scan today.
+   -CRP significantly elevated
+   -ID Recs - start micofungin in addition to daptomycin; repeat blood cx
+   in AM
+   -Prelim read of RUQ U/S - unchanged from prior
+   -Final read of lumbar spine CT - possible diskitis at L4-L5
+   Allergies:
+   Demerol (Oral) (Meperidine Hcl)
+   seizures;
+   Compazine (Oral) (Prochlorperazine Maleate)
+   Rash;
+   Reglan (Oral) (Metoclopramide Hcl)
+   Rash;
+   Betadine Surgi-Prep (Topical) (Povidone-Iodine)
+   blisters;
+   blisters/paper
+   Iodine; Iodine Containing
+   Hives; Nausea/V
+   Vancomycin
+   Rash; red man s
+   Last dose of Antibiotics:
+   Cefipime - [**3209-8-4**] 10:37 PM
+   Daptomycin - [**3209-8-5**] 12:43 AM
+   Micafungin - [**3209-8-5**] 02:39 AM
+   Infusions:
+   Norepinephrine - 0.04 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3209-8-4**] 10:33 PM
+   Hydromorphone (Dilaudid) - [**3209-8-5**] 12:33 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3209-8-5**] 06:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.4
+C (97.5
+   HR: 75 (62 - 95) bpm
+   BP: 92/53(62) {74/39(46) - 118/63(74)} mmHg
+   RR: 20 (14 - 30) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 60 kg (admission): 60 kg
+             Total In:
+                                                                  6,020 mL
+                                                                    239 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,020 mL
+                                                                    239 mL
+   Blood products:
+   Total out:
+                                                                  4,010 mL
+                                                                    400 mL
+   Urine:
+                                                                  1,510 mL
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,010 mL
+                                                                   -161 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///21/
+   Physical Examination
+   Labs / Radiology
+   145 K/uL
+   10.1 g/dL
+   126 mg/dL
+   0.5 mg/dL
+   21 mEq/L
+   3.4 mEq/L
+   8 mg/dL
+   106 mEq/L
+   136 mEq/L
+   28.2 %
+   2.7 K/uL
+        [image002.jpg]
+                             [**3209-8-4**]  07:47 AM
+                             [**3209-8-4**]  06:23 PM
+                             [**3209-8-5**]  02:19 AM
+   WBC
+   2.8
+   2.6
+   2.7
+   Hct
+   28.9
+   29.2
+   28.2
+   Plt
+   156
+   140
+   145
+   Cr
+   0.6
+   0.5
+   0.5
+   TropT
+   <0.01
+   Glucose
+   120
+   157
+   126
+   Other labs: CK / CKMB / Troponin-T:/2/<0.01, ALT / AST:64/29, Alk Phos
+   / T Bili:320/1.9, Differential-Neuts:81.5 %, Lymph:12.0 %, Mono:3.0 %,
+   Eos:3.2 %, LDH:149 IU/L, Ca++:8.4 mg/dL, Mg++:1.7 mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+   47 yo F with recurrent admissions fot line associated bacterimia now
+   presenting with severe back pain and sepsis requiring pressors.
+   .
+   # Sepsis/ hypoension/ fevers: likely line sepsis in this woman with
+   chronic central venous access.  No clear focal neuro deficits, although
+   cannot r/o diskitis at L4/L5.  Despite down-trending WBC, high-grade
+   fevers & hypotension poorly responsive to fluid requiring pressors
+   highly suggestive of sepsis. Line is the most likely cause given her
+   history,but cannot rule out disciitis and would apreciate further ID
+   and NSGY input on diagnosis and mgt. Urinary tract could also be
+   source.
+   - cefepime 2gm IV bid (no h/o ESBL), and daptomycin 6mg/kg IV daily
+   (h/o MRSE bacteremia, allergic to vancomycin)
+   - blood, urine, cultures
+   - trend wbc and temp
+   - aggressive fluid resuscitation
+   - levophed to maintain MAP>60
+   - RUQ US normal and biliary tree now unlikely infectious source despite
+   high Tbili.
+   - tagged read cell scan over CT guided Bx for discitis w/u
+   .
+   # Venous Thrombosis hx: failed coumadin in past, continue plavix
+   # FEN: No IVF, replete electrolytes, HOLD TPN
+   # Prophylaxis: Subcutaneous heparin
+   # Access: femoral hickman
+   # Code: confirmed full
+   # Communication: Patient
+   # Disposition: pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Tunneled (Hickman) Line - [**3209-8-4**] 05:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

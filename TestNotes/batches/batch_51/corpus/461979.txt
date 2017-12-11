@@ -1,0 +1,265 @@
+TITLE:
+   Chief Complaint:
+   HPI: 56 yo F w/ ESLD and renal insufficiency now p/w diffuse bleeding,
+   abd distension and hypotension. She was previously admitted to the MICU
+   for encephalopathy/access difficulties and then back to [**Hospital Ward Name 763**] 10 with Q3
+   lactulose. She had been relatively stable w/ SBPs in the 120 range and
+   A/Ox2-3. This morning she was noted to be more confused and oozing
+   blood from venous access sites, mouth and vagina. There was no blood in
+   rectal tube. Her abd was noted to be more distended. KUB showed
+   distention of the stomach and colon w/o air-fluid levels.
+   .
+   She was transferred to the MICU and NGT is placed which aspirates
+   blood. She is intubated and a cordis is placed for rapid resucitation.
+   She became hypotense to SBP 67. She was given 3U PRBCs, 4U FFP, 1U cryo
+   and started on dopamine drip. CVP was noted to be elevated to 30s and
+   heart was enlarged on CXR so stat echo was ordered and showed no
+   effusion but PASP 40-48 with a normal LVEF. She had EGD by GI which
+   showed diffuse oozing in the stomach which had stopped.
+   Allergies:
+   Tums (Oral) (Calcium Carbonate)
+   Rash;  itchines
+   Last dose of Antibiotics:
+   Meropenem - [**2864-11-14**] 04:55 PM
+   Infusions:
+   Propofol - 30 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   At time of transfer
+   Clotrimazole
+   Vit D 50K U
+   MVI
+   Sarna
+   Rifaximin 400mg TID
+   Femara
+   Octreotide 100mg SC Q8
+   Vit K 5mg QD
+   Lactulose 60mg Q3
+   Erythropoetin
+   Insulin
+   Pantoprazole 40mg Q12
+   Nifedipine 30mg QD
+   Past medical history:
+   Family history:
+   Social History:
+   1) HCV and autoimmune hepatitis leading to cirrhosis c/b:
+   -encephalopathy
+   -ascites, LE edema
+   -nonocclusive portal vein thrombosis for which she takes
+   Coumadin
+   -grade 1 varices in the lower third of the esophagus ([**12/2862**])
+   2) Left breast cancer dx [**2856**] s/p mastectomy and reconstruction,
+   with local recurrence s/p excision and XRT without recurrence on
+   Femara
+   3) Type 2 diabetes mellitus, on insulin x 30 years, last A1c 6.7
+   [**7-27**]
+   4)Hypertension
+   5) Chronic renal failure, baseline creatinine 1.6-1.8
+   6) CAD - cath [**6-25**] showed LAD mild diffuse dz
+   7) History of sarcoid
+   8) Osteopenia with borderline osteoporosis in spine and hip
+   9) Gastroesophageal reflux disease
+   10) Thickened rectal mucosal folds consistent with proctitis
+   diagnosed on last colonoscopy [**1-/2861**]
+   11) Reactive airway disease with seasonal symptoms
+   Divorced, lives alone in [**Location **], Daughter involved in care and is
+   HCP. Independent in ADL and IADLs prior to admission. No recent Etoh,
+   tobacco or illicit drug use.
+   Review of systems:
+   Flowsheet Data as of [**2864-11-14**] 05:36 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.7
+C (96.3
+   Tcurrent: 35.7
+C (96.2
+   HR: 109 (69 - 109) bpm
+   BP: 102/54(71) {28/18(22) - 107/54(338)} mmHg
+   RR: 19 (8 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 80 kg (admission): 80 kg
+   Height: 64 Inch
+   CVP: 29 (29 - 29)mmHg
+   Total In:
+                                                                     11 mL
+                                                                  1,006 mL
+   PO:
+   TF:
+                                                                      7 mL
+   IVF:
+                                                                      5 mL
+                                                                    256 mL
+   Blood products:
+                                                                    750 mL
+   Total out:
+                                                                      0 mL
+                                                                     64 mL
+   Urine:
+                                                                     64 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     11 mL
+                                                                    942 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   PIP: 17 cmH2O
+   SpO2: 97%
+   ABG: ///24/
+   Ve: 7.1 L/min
+   Physical Examination
+   Vitals - T: 95.6 BP: 120/50 HR: 99 RR: 1602 sat:
+   GENERAL:  Sedated, on vent.
+   HEENT:  Blood from nose and mouth, oozing from around L CVL.
+   CARDIAC:  RRR, No MRG
+   LUNG:  Crackles in LLL
+   ABDOMEN:  Distended, tympanitic, non-tender
+   EXT:  1+ pitting edema bilaterally, 1+ DP/PT pulses
+   DERM:  Large echymotic area on R forearm
+   Labs / Radiology
+   EKG:  <1mm ST depression in II, III, aVF. new TWI in V4-V6
+   .
+   CXR:  ETT properly placed, no e/o PNA
+   [**11-14**] Stat echo
+   There is mild symmetric left ventricular hypertrophy with normal cavity
+   size and global systolic function (LVEF>55%). Overall left ventricular
+   systolic function is normal (LVEF>55%). Right ventricular chamber size
+   and free wall motion are normal. The mitral valve leaflets are
+   structurally normal. There is moderate pulmonary artery systolic
+   hypertension. There is a trivial/physiologic pericardial effusion.
+   There are no echocardiographic signs of tamponade.
+   IMPRESSION: Trivial pericardial effusion without evidence of tamponade
+   physiology. Normal regional and global biventricular systolic function.
+   55 K/uL
+   7.8 g/dL
+   122 mg/dL
+   3.7 mg/dL
+   60 mg/dL
+   24 mEq/L
+   115 mEq/L
+   4.0 mEq/L
+   154 mEq/L
+   22.7 %
+   6.9 K/uL
+        [image002.jpg]
+                                  [**2860-12-20**]
+                         2:33 A11/24/[**2863**]  04:19 AM
+                                  [**2860-12-24**]
+                         10:20 P11/24/[**2863**]  02:47 PM
+                                  [**2860-12-25**]
+                         1:20 P11/24/[**2863**]  05:47 PM
+                                  [**2860-12-26**]
+                         11:50 P11/25/[**2863**]  04:39 AM
+                                  [**2860-12-27**]
+                         1:20 A11/25/[**2863**]  11:25 AM
+                                  [**2860-12-28**]
+                         7:20 P11/25/[**2863**]  04:53 PM
+                                  1//11/006
+                         1:23 P11/25/[**2863**]  08:31 PM
+                                  [**2861-1-20**]
+                         1:20 P11/27/[**2863**]  09:00 AM
+                                  [**2861-1-20**]
+                         11:20 P11/27/[**2863**]  11:55 AM
+                                  [**2861-1-20**]
+                         4:20 P11/27/[**2863**]  04:01 PM
+   WBC
+                                     7.1
+                                     7.5
+                                     9.3
+                                     6.9
+   Hct
+                                    21.1
+                                    20.0
+                                    19.2
+                                    22.8
+                                    24.1
+                                    24.1
+                                    23.7
+                                    18.7
+                                    25.9
+                                    22.7
+   Plt
+                                     88
+                                     82
+                                     63
+                                     55
+   Cr
+                                     1.2
+                                     1.8
+                                     2.4
+                                     2.5
+                                     2.1
+                                     3.7
+   TropT
+                                    0.24
+   Glucose
+                                     177
+                                     125
+                                     102
+                                     146
+                                     193
+                                     122
+   Other labs: PT / PTT / INR:20.9/37.6/1.9, CK / CKMB /
+   Troponin-T:798//0.24, ALT / AST:34/72, Alk Phos / T Bili:75/26.4,
+   Fibrinogen:147 mg/dL, Lactic Acid:3.2 mmol/L, Albumin:3.9 g/dL, LDH:356
+   IU/L, Ca++:10.7 mg/dL, Mg++:3.5 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+   Right arm hematoma
+   56 yo F w/ ESLD, ARF, bleeding and distended abdomen p/w hypotension.
+   #  Hypotension: No e/o cardiac failure, doubt PE as RV not blown out.
+   Could be in part pulmonary HTN but pt. not hypoxic. Cardiac enzymes
+   elevated likely [**1-21**] demand ischemia in settin of acute renal failure.
+   Differential would include blood loss, sepsis and HRS. Will start broad
+   spectrum Abx for abdominal source possibly bowel infarct, colitis or
+   SBP. Lactate 3.2 likely argues against sepsis in a pt. w/ severe
+   hepatic failure. Afebrile but hypothermic. SVO2 86 suggests adequately
+   volume resuscitated.
+   - Daptomycin given Hx of VRE
+   - Meropenem
+   - Metronidazole given distended colon  for c.diff
+   - dopamine titrate to MAP>60
+   - follow UOP
+   - Blood cultures
+   - CT abd w/ contrast
+   .
+   #Bleeding: Stopped for now. Nose packed, OGT draining bilious fluid w/o
+   gross blood, no blood in rectal tube. INR trending down appropriately
+   w/ factors. No varices seen on EGD.
+   - follow fibrinogen and replete w/ cryo
+   - follow INR
+   - trend Hct Q6 and Tx <25
+   - follow OGT output.
+   .
+   # ESLD: On transplant list, near top. Hepatology following, transplant
+   surgery following. Cr rising quickly appears to be HRS. Has gotten
+   factors and blood so will hold off on albumin for now.
+   - Lactulose/rifaximin
+   - needs liver transplant
+   - f/u hepatology recs
+   .
+   #DMII:
+   - SSI
+   - Finger sticks
+   .
+   #Hx of Breast CA: Holding Femara given clinical instability.
+   .
+   # FEN: IVFs / replete lytes prn / regular diet
+   # PPX: PPI, heparin SQ, bowel regimen
+   # ACCESS: PIV
+   # CODE:  Full confirmed
+   # CONTACT: [**Known patient firstname 1233**] [**Last Name (NamePattern1) 5151**] (daughter) [**Telephone/Fax (3) 10752**].
+   # DISPO: ICU
+
+
+DOC CLASS

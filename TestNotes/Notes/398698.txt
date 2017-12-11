@@ -1,0 +1,283 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - PEEP weaned to 8
+   - Seen by  Neuro for evaluation of hypoventilation - diaphragmatic
+   weakness vs midbrain lesion
+ with plan for EMG today at 1pm
+   - ARF thought secondary to contrast nephropathy; muddy brown casts in
+   urine
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3480-6-7**] 08:06 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3480-6-7**] 10:00 PM
+   Midazolam (Versed) - [**3480-6-8**] 02:21 AM
+   Fentanyl - [**3480-6-8**] 02:21 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3480-6-8**] 06:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.7
+C (98
+   HR: 91 (68 - 91) bpm
+   BP: 110/56(68) {110/46(61) - 134/64(79)} mmHg
+   RR: 23 (21 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+             Total In:
+                                                                    888 mL
+                                                                    330 mL
+   PO:
+             TF:
+                                                                    495 mL
+                                                                    264 mL
+   IVF:
+                                                                    393 mL
+                                                                     66 mL
+   Blood products:
+   Total out:
+                                                                    495 mL
+                                                                    222 mL
+   Urine:
+                                                                    495 mL
+                                                                    222 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    393 mL
+                                                                    108 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 450 (450 - 450) mL
+   PS : 10 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 18 cmH2O
+   Plateau: 19 cmH2O
+   SpO2: 96%
+   ABG: 7.27/39/99.[**Numeric Identifier 497**]/16/-8
+   Ve: 8.8 L/min
+   PaO2 / FiO2: 250
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: No(t) Clear : , Rhonchorous: )
+   Abdominal: Soft, No(t) Non-tender
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Non -purposeful, Tone:
+   Not assessed
+   Labs / Radiology
+   320 K/uL
+   8.7 g/dL
+   131 mg/dL
+   2.9 mg/dL
+   16 mEq/L
+   3.8 mEq/L
+   39 mg/dL
+   114 mEq/L
+   142 mEq/L
+   26.5 %
+   13.3 K/uL
+        [image002.jpg]
+                             [**3480-6-6**]  02:17 AM
+                             [**3480-6-6**]  11:00 AM
+                             [**3480-6-6**]  02:55 PM
+                             [**3480-6-6**]  11:44 PM
+                             [**3480-6-7**]  03:56 AM
+                             [**3480-6-7**]  04:08 AM
+                             [**3480-6-7**]  02:26 PM
+                             [**3480-6-8**]  02:46 AM
+                             [**3480-6-8**]  03:11 AM
+                             [**3480-6-8**]  05:38 AM
+   WBC
+   17.5
+   15.7
+   13.3
+   Hct
+   28.3
+   26.6
+   26.5
+   Plt
+   383
+   360
+   320
+   Cr
+   2.4
+   2.6
+   2.9
+   TropT
+   0.86
+   TCO2
+   20
+   19
+   17
+   16
+   16
+   17
+   19
+   Glucose
+   98
+   83
+   131
+   Other labs: PT / PTT / INR:16.3/28.5/1.5, CK / CKMB /
+   Troponin-T:8//0.86, ALT / AST:15/12, Alk Phos / T Bili:299/0.7,
+   Differential-Neuts:94.3 %, Lymph:2.8 %, Mono:1.7 %, Eos:0.8 %, Lactic
+   Acid:0.9 mmol/L, Albumin:1.8 g/dL, LDH:108 IU/L, Ca++:8.3 mg/dL,
+   Mg++:2.3 mg/dL, PO4:4.7 mg/dL
+   Imaging: Renal u/s: No hydronephrosis. Known L kidney mid-to upper pole
+   complex cystic lesion
+   Assessment and Plan
+   79 year-old man with recent aortic aneurysm repair ([**1-/3480**]),
+   complicated by ischemic bowel and sepsis with subsequent wound
+   dehiscence, also with h/o CAD s/p CABG who is transferred from the
+   medical floor for hypoxia and hypercapnia.
+   # Hypoxic/Hypercarbic respiratory failure: with severe hypercapnia and
+   significant respiratory acidosis requiring intubation at presentation.
+   [**Month (only) 47**] be secondary to an acute on chronic process with hypoxic
+   respiratory failure secondary to pleural effusions and compressive
+   atelectasis, and hypercapnic respiratory failure with question of
+   diaphragmatic weakness vs midbrain lesion. Also likely contribution
+   from medical-related mental status changes (was on remeron) and
+   abdominal wounds.  Off vancomycin, pip-tazo ([**Date range (1) 7814**]) given negative
+   cultures to date.
+   - ventilatory support: wean sedation as tolerated, SBP
+   - plan for EMG study today by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1592**]
+   - f/u bronch studies
+   - f/u blood culture, sputum cx
+   - Pleural effusion too small for [**Female First Name (un) 208**]
+   # Hypotension: BP in 70s episodically with baseline in 90-100, likely
+   in the setting of high PEEP (15), but has now resolved.  Baseline BP is
+   SBP in 90s.  Concern for sepsis is low.
+   - IVF as needed for MAP>60
+   - s/p 1 pRBC transfusion
+   # Leukocytosis:  improving, blood/sputum/stool/urine cx ngtd. Off
+   vanc/zosyn [**6-7**]
+   - monitor
+   # Anuric renal failure: U/O at 20 cc/hr. Cre 2.9 from 2.4 yesterday.
+   Thought to be [**2-9**] contrast nephropathy post CTA. Ddx includes
+   hypovolemia/prerenal (supported by FeNa<1) vs ATN (in setting of
+   hypoTN). Urine eos negative; U/A notable for 59 RBC and 19 WBC. Renal
+   u/s without hydronephrosis.
+   - F/u renal recs
+   - Repeat U/A
+   # CAD: ECG unchanged from prior. CABG in [**3463**]. Multiple PCI. No active
+   issues or complaints.  ECHO with LVEF of 40%, global hypokinesis. Trop
+   elevation likely in setting of renal failure; CK flat.
+   - continue aspirin, statin
+   - restart low-dose metoprolol given PVCs, hemodynamic stability
+   # Recent AAA repair, colectomy, wound infections: being followed by
+   surgery. Off vanc/zosyn as above.
+   - f/u surgery recs
+   # Hyperlipidemia:
+   - continue statin.
+   # HTN:
+   - restarted low-dose metoprolol with stable BP
+   # Cervical Myelopathy: Baseline. Continue pain control
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3480-6-8**] 02:00 AM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3480-6-4**] 04:30 PM
+   Arterial Line - [**3480-6-6**] 10:31 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   79-year-old man with recent aortic aneurysm repair ([**1-/3480**]),
+   complicated by ischemic bowel and sepsis with subsequent wound
+   dehiscence, also with h/o CAD s/p CABG. Echo demonstrates LV
+   hypokinesis, pulm regurg, normal RV. Self-extubated [**6-6**]- failed in
+   less than 1 hour due to resp failure with hypercapnia, hypopnea.
+   Events
+   Large volume purulent drainage of previously well-appearing left flank
+   surgical wound.
+   Exam: sedated, appears uncomforable with exam. PERRL, cta anterior,
+   RRR, hypoactive BS. Left flank wound draining large volume purulent
+   brown fluid. Area around wound indurated, tender. trace edema. no
+   rashes or joint inflammation.
+   Meds: hep sc, fent and versed bolus (approx 25mcg and 1mg q 2 hr,
+   respectively), prevacid, mvi, zosyn d7.
+   Data
+   WBC decreased to 13, bicarb 16, AG 13, hyperchloremic met acidosis
+   Cr 2.9 (rising from 1.3 [**6-4**]). Muddy brown casts on urine. Renal USG
+   unremarkable.
+   KEY ISSUES:
+   1.       Resp failure. Multifactorial, due to pleural effusions,
+   atelectasis, weakness, malnutrition.
+          Wean PEEP and repeat SBT if appropriate. Extubation seems
+   unlikely since we have not reversed underlying processes, and now
+   compounded by metabolic NAG acidosis.
+          Neuromuscular fellow, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1592**], to address possible
+   component of diaphragmatic dysfunction or brain stem component to
+   breathing pattern- EMG planned for today
+   2.       Wound abscess. Cx pending. Starting vanc/zosyn. (Had been on
+   vanc/zosyn [**6-1**]- [**6-7**] but stopped yesterday as BAL cx neg, no clear
+   source of infection.) WBC 12--> 19--> 13. Rectal exam to evaluate
+   purulent drainage from rectum as well. Vascular surgery aware.
+   3.       Pleural effusions: albumin 2.4, cardiomyopathy with EF 40%.
+   Optimize heart failure regimen.
+   4.       ARF: contrast nephropathy, ATN. Renal USG showed no hydro. No
+   indication for dialysis now.
+   5.       Hypotension, near baseline, with h/o severe vasculopathy.
+   6.       Sedation with fent/versed boluses
+   Total time spent:  45 minutes.
+   Patient is critically ill.
+   Addendum: family meeting.
+   Met with pt
+s wife to discuss current status and answer all questions
+   in detail.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 446**] [**Last Name (NamePattern1) **], MD
+   on:[**3480-6-8**] 21:21 ------
+   ------ Added by auto log oyt ------
+   Family meeting:
+   Met with pt
+s wife as well as Dr [**First Name4 (NamePattern1) 81**] [**Name (NI) 7821**], family friend, to
+   discuss very poor prognosis, multifactorial resp failure with profound
+   weakness and malnutrition. I asked her to think about whether he would
+   want to live for a long period on life support, and discuss it with her
+   children, particularly if his outcome is uncertain and may include a
+   poor functional status. I explained that he would not be able to
+   tolerate any further complications and that cardiac resuscitation would
+   be futile in his current state. She agreed to make him DNR. I told her
+   I hope that his sedation is less over the next days so she might be
+   able to discuss these issues directly with him.
+   40 minutes
+   ------ Protected Section Addendum Entered By:[**Name (NI) 446**] [**Last Name (NamePattern1) **], MD
+   on:[**3480-6-8**] 21:25 ------
+
+
+DOC CLASS

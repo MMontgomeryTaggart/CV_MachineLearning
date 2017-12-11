@@ -18,6 +18,7 @@ import re
 import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from os.path import expanduser
+import pickle
 
 def selectTopKFeatures(fullFeatures, featureNames, labels, k):
     selector = SelectKBest(chi2, k=k)
@@ -151,6 +152,8 @@ if __name__ == "__main__":
     print precision_recall_fscore_support(labels, predicted, average="binary")
     print "specificity: %.4f" % specificity(labels, predicted)
     print confusion_matrix(labels, predicted)
+
+    pickle.dump(model.best_estimator_, open("../FinalModels/SerializedModels/SVMNotDownsampledFinal.pkl", 'wb'))
 
     # # Get contingency info:
 

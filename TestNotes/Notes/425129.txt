@@ -1,0 +1,148 @@
+Chief Complaint: resp distress wih worseining pleural effusion, status
+   post tapping by IP
+   HPI:
+    62 yo f s/p Kidney/liver txp [**7-22**] now p/w SOB and low grade fever.
+   Right pleural effusion to be tapped by IP in am.
+   Post operative day:
+   Allergies:
+   Erythromycin Base
+   Unknown;
+   Indomethacin
+   Unknown;
+   Actonel (Oral) (Risedronate Sodium)
+   Unknown;
+   Reglan (Oral) (Metoclopramide Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Dextrose 50% - [**3119-10-7**] 12:11 AM
+   Other medications:
+   Furosemide 20'
+   Amlodipine 5'
+   Prednisone 5'
+   citalopram 60'
+   Levetiracetam 500"
+   MMF 250"
+   Nystatin 5""
+   Omeprazole 20'
+   Trimethoprim-Sulfamethoxazole 80-400'
+   Valganciclovir 450'
+   Senna 1"
+   Docusate Sodium 100"
+   Lidocaine 5 %(700 mg/patch)
+   Tacrolimus 3"
+   Meropenem 500""
+   Trazodone 50'
+   Insulin NPH 30'
+   Past medical history:
+   Family / Social  history:
+   NASH cirrhosis, esophageal varices, h/o encephalopathy, h/o ascites,
+   anemia, thrombocytopenia, ESRD [**3-17**] DM and contrast nephropathy, T2DM w/
+   retinopathy, nephropathy, and neuropathy, Cdiff, seizures, meningioma,
+   HTN, GERD, OSA, RLS, DJD of neck, dermoid cyst, right adrenal mass
+   PSH: CCY, Left oopherectomy, appy
+   Flowsheet Data as of  [**3119-10-7**] 01:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.2
+C (95.4
+   Tcurrent: 35.2
+C (95.4
+   HR: 64 (64 - 75) bpm
+   BP: 177/60(89) {156/60(89) - 177/124(130)} mmHg
+   RR: 18 (18 - 24) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             1,549 mL
+   PO:
+             TF:
+   IVF:
+   24 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,549 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   SpO2: 98%
+   ABG: ////
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic).
+   Restarted on home medication
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present), fistula
+   Right arm
+   Respiratory / Chest: (Breath Sounds: Clear : Left, Crackles : right,
+   lower >> upper, No(t) Wheezes : , Diminished: Right)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   456
+   9.7
+   82
+   0.7
+   27
+   4.7
+   17
+   103
+   139
+   30.4
+   3.3
+        [image002.jpg]
+   Icu admit: 7.27/64/132
+   Assessment and Plan
+   Assessment And Plan: 62 yo f s/p Kidney/liver txp [**7-22**] now p/w SOB and
+   low grade fever. Right pleural effusion to be tapped by IP in am.
+   Neurologic: a&o
+   Neuro checks Q: 4. Pain relatively well control on current regiment
+   Cardiovascular: stable, restart home amlodipine
+   Pulmonary: -02 nc in er. to fm once in icu. We will wean off oxygen to
+   nasal cannula
+   -Right pleural effusion to be tapped by IP in am
+   Gastrointestinal: npo overnight. Will start oral intake.
+   Renal: no f/c per transplant. watching uop. cr 0.7. We will try to
+   achieve negative balance as of last night.
+   Hematology: hct 30.7. Stable
+   Infectious Disease: meropenem for ESBL klebsiella will be continued
+   Endocrine: ssi, glucose 47 on admission, [**2-14**] amp d50 given. will
+   follow.
+   Fluids: 1/2 NS @ 80cc/h. To be KVO.
+   Electrolytes: lytes wnl
+   Nutrition: npo. ADAT post procedure when ok w/ primary team
+   General:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3119-10-7**] 12:09 AM
+   Prophylaxis:
+   DVT: [**Last Name (LF) **], [**First Name3 (LF) 167**] talk to the team about start SQ heparin
+   Stress ulcer: on omerpazol
+   VAP:  none needed
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  will consider sending to the floor after weaning from the
+   oxygen mask.
+   Total time spent: 32min
+
+
+DOC CLASS

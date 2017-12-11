@@ -1,0 +1,168 @@
+Chief Complaint: Lower GI bleed and NSTEMI
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   79 yo woman with CAD and re-do CABG (with only patent LIMA to LAD),
+   atrial fibrillation on coumadin admitted with bright red blood per
+   rectum in setting of INR 4.7.
+   24 Hour Events:
+ EKG - At [**3157-1-8**] 09:24 AM
+   Allergies:
+   Altace (Oral) (Ramipril)
+   Rash;
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3157-1-8**] 10:00 AM
+   Pantoprazole (Protonix) - [**3157-1-9**] 12:05 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3157-1-9**] 08:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**58**] AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 35.9
+C (96.7
+   HR: 89 (80 - 105) bpm
+   BP: 117/67(79) {90/46(58) - 127/89(92)} mmHg
+   RR: 19 (14 - 24) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                  1,384 mL
+                                                                     95 mL
+   PO:
+                                                                    730 mL
+             TF:
+   IVF:
+                                                                    254 mL
+                                                                     95 mL
+   Blood products:
+                                                                    400 mL
+   Total out:
+                                                                  1,733 mL
+                                                                  1,240 mL
+   Urine:
+                                                                  1,733 mL
+                                                                  1,240 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -349 mL
+                                                                 -1,145 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: No(t) Clear : , Crackles : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to):
+   person, place, time, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   10.1 g/dL
+   201 K/uL
+   93 mg/dL
+   1.5 mg/dL
+   28 mEq/L
+   4.1 mEq/L
+   27 mg/dL
+   104 mEq/L
+   142 mEq/L
+   31.0 %
+   13.0 K/uL
+        [image002.jpg]
+                             [**3157-1-7**]  11:26 PM
+                             [**3157-1-8**]  01:49 AM
+                             [**3157-1-8**]  05:29 AM
+                             [**3157-1-8**]  11:35 AM
+                             [**3157-1-8**]  07:51 PM
+                             [**3157-1-9**]  04:54 AM
+   WBC
+   12.5
+   13.0
+   Hct
+   26.6
+   29.6
+   31.6
+   31.6
+   31.0
+   Plt
+   186
+   201
+   Cr
+   1.3
+   1.5
+   TropT
+   0.46
+   1.80
+   1.37
+   1.18
+   Glucose
+   149
+   93
+   Other labs: PT / PTT / INR:15.6/22.9/1.4, CK / CKMB /
+   Troponin-T:305/16/1.18, Ca++:8.4 mg/dL, Mg++:1.4 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   79 yo female with CAD s/p CABG with only patent LIMA-LAD, severe COPD
+   admitted with likely lower GI bleed and NSTEMI.
+   #hematochezia
+   -goal Hct>30, will transfuse for goal Hct>30.  q6hr CBC, will likely
+   need lasix for volume overload
+   -will start prep for colonoscopy tomorrow, GI following
+   -on [**Hospital1 **] PPI although likely this is LGIB
+   -INR now 1.5 with vitamin K
+   -has large bore IV (16 gauge, 20 gauge)
+   #respiratory distress
+   -likely due to volume overload
+   -lasix for diuresis, will try CPAP as a bridge if needed
+   #NSTEMI
+   -in setting of anemia
+   -transfuse for Hct>30, active type and screen, q6hr CBC
+   -ASA on hold given GI bleed, on statin
+   -until pulmonary edema improved will hold on beta blocker
+   -CPAP if worsening hypoxemia
+   -her cardiologist is following here
+   #severe COPD
+   -continue flovent, using atrovent in lieu of spiriva
+    #atrial fibrillation
+   -metoprolol on hold for now, rate still well controlled
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3157-1-7**] 10:46 PM
+   16 Gauge - [**3157-1-7**] 10:47 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition :
+   Total time spent:
+
+
+DOC CLASS

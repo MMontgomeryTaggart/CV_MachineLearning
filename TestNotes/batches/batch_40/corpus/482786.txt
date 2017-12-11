@@ -1,0 +1,236 @@
+CVICU
+   HPI:
+   78 year old female POD # 10 from AVR(23 pericardial)/CABGx3(LIMA>LAD,
+   SVG>Diag, SVG>OM) complicated by respiratory failure requiring
+   re-intubation, atrial fibrilation, bradycardia and self-limiting pauses
+   and acute kidney failure.
+   Chief complaint:
+   PMHx:
+   HTN, ^chol, PVD, UTIs, DM, AS, CAD, gastric ulcer, OA, CKD, Obesity,
+   Anemia, Mrsa abdominal wall abscess, Bil dry/necrotic toe ulcers, s/p
+   cholecystectomy, s/p hernia repair
+   Meds on transfer: ASA 325', Furosemide 40', Diltiazem HCL 240', Heparin
+   SC 5000"', Citalopram 20', Lisinopril 10', Bactrim 1", NPH 20"
+   Current medications:
+   24 Hour Events:
+   Allergies:
+   Aspirin
+   Abdominal pain;
+   Iodine
+   Rash;
+   Penicillins
+   Rash;
+   Opioid Analgesics
+   Lightheadedness
+   Chocolate Flavor
+   Rash;
+   [**Location (un) **] Juice
+   Rash; Wheezing;
+   Benzodiazepines
+   Delirium
+   Agita
+   Red Dye
+   Hives;
+   Egg
+   Hives;
+   Gluten
+   Hives;
+   Tomato
+   Hives;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3149-3-5**] 01:16 PM
+   Vancomycin - [**3149-3-6**] 06:53 PM
+   Infusions:
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Heparin Sodium - 1,500 units/hour
+   Other ICU medications:
+   Hydralazine - [**3149-3-6**] 09:45 PM
+   Fentanyl - [**3149-3-7**] 01:16 AM
+   Lansoprazole (Prevacid) - [**3149-3-7**] 08:23 AM
+   Other medications:
+   Flowsheet Data as of  [**3149-3-7**] 12:16 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**50**] a.m.
+   Tmax: 37.2
+C (99
+   T current: 37.2
+C (99
+   HR: 57 (47 - 79) bpm
+   BP: 130/39(59) {114/31(48) - 172/48(77)} mmHg
+   RR: 20 (13 - 34) insp/min
+   SPO2: 97%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 125.3 kg (admission): 104.3 kg
+   Height: 63 Inch
+   CVP: 24 (23 - 74) mmHg
+   Total In:
+                                                                  1,409 mL
+                                                                    591 mL
+   PO:
+   Tube feeding:
+                                                                    840 mL
+                                                                    413 mL
+   IV Fluid:
+                                                                    569 mL
+                                                                    178 mL
+   Blood products:
+   Total out:
+                                                                     97 mL
+                                                                     50 mL
+   Urine:
+                                                                     97 mL
+                                                                     50 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,312 mL
+                                                                    541 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 367 (338 - 523) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 21
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 25 cmH2O
+   SPO2: 97%
+   ABG: 7.34/50/98.[**Numeric Identifier 18**]/24/0
+   Ve: 6.7 L/min
+   PaO2 / FiO2: 196
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)
+   Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : Bilateral diffusely, Diminished: at bases), (Sternum:
+   Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Obese
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities, Intermittently follows commands.
+   Labs / Radiology
+   207 K/uL
+   9.2 g/dL
+   184 mg/dL
+   3.5 mg/dL
+   24 mEq/L
+   4.3 mEq/L
+   100 mg/dL
+   96 mEq/L
+   132 mEq/L
+   27.7 %
+   16.0 K/uL
+        [image002.jpg]
+                             [**3149-3-5**]  12:00 PM
+                             [**3149-3-5**]  01:00 PM
+                             [**3149-3-5**]  02:00 PM
+                             [**3149-3-5**]  04:00 PM
+                             [**3149-3-5**]  06:00 PM
+                             [**3149-3-5**]  08:28 PM
+                             [**3149-3-6**]  12:55 AM
+                             [**3149-3-6**]  06:24 PM
+                             [**3149-3-7**]  03:23 AM
+                             [**3149-3-7**]  03:34 AM
+   WBC
+   13.0
+   16.0
+   Hct
+   27.8
+   27.7
+   Plt
+   196
+   207
+   Creatinine
+   2.9
+   3.5
+   TCO2
+   30
+   25
+   28
+   Glucose
+   142
+   157
+   160
+   159
+   160
+   137
+   149
+   184
+   Other labs: PT / PTT / INR:12.5/58.6/1.1, ALT / AST:[**10-9**], Alk-Phos / T
+   bili:67/1.4, Amylase / Lipase:37/18, Fibrinogen:240 mg/dL, Lactic
+   Acid:1.0 mmol/L, Albumin:4.2 g/dL, LDH:292 IU/L, Ca:9.1 mg/dL, Mg:2.8
+   mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**]), BRADYCARDIA, VALVE
+   REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), ANXIETY, IMPAIRED SKIN
+   INTEGRITY, CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan: 78 year old female POD # 10 from AVR(23
+   pericardial)/CABGx3(LIMA>LAD, SVG>Diag, SVG>OM) complicated by
+   respiratory failure requiring re-intubation, atrial fibrilation,
+   bradycardia and short pauses of self-limiting pauses and acute kidney
+   failure.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, On low dose fenatnyl
+   drip with adequate pain control. Intermittently follows commands.
+   Please avoid benzos. Celexa home dose. On Seroquel for post-op
+   agitation.
+   Cardiovascular: Aspirin, Full anticoagulation, Statins, HD stable.
+   Baseline bradycardia. Post-op AF, now SB with a few episodes of
+   self-limiting pauses. Still has external pacing wires, but only V-wires
+   work. Will f/u on EP recs, but pt may require a permanent pacemaker.
+   Please f/u on TTE done today.
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), Significant heavy
+   secretions. Will bronch today to clean up lungs and will send BAL
+   (although Abx started already). STAPH AUREUS COAG + in sputum from 2
+   days ago. On Vanco for presumed pneumonia. Will most likely require a
+   tracheostomy tube as unable to wean off the vent.
+   Gastrointestinal / Abdomen: Bowel regimen. No evidence of liver
+   dysfunction. Liver u/s demostrated ascites but no evidence of dilated
+   bile duct.
+   Nutrition: Tube feeding
+   Renal: Foley, Acute post-op renal failure. Oliguric/anuric with rising
+   BUN and Createnin. Will most likely need hemodyalysis, but no acute
+   indication for now. Discussed with Dr. [**Last Name (STitle) **] today this issue. We
+   decided that if there are no signs of kidney recovery within the next
+   two days we'll place a tunnled dialysis catheter.
+   Hematology: Serial Hct, Stable anemia. Monitor for now
+   Endocrine: RISS, Slightly hyperglycemic today. Please increase RISS for
+   a goal BG < 150
+   Infectious Disease: Check cultures, ? pneumonia with increasingly large
+   amount of thick secretions. Will bronch now and send BAL (pt already on
+   Vanco). Check vanco levels.
+   Lines / Tubes / Drains: Foley, ETT, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery, Nephrology, P.T.
+   Billing Diagnosis: Arrhythmia, (Respiratory distress: Failure),
+   (Pneumonia due to procedure), Post-op complication, Acute renal failure
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**3149-3-6**] 02:35 PM 35 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3149-2-27**] 01:47 PM
+   Multi Lumen - [**3149-3-2**] 04:15 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Heparin drip,)
+   Stress ulcer: PPI (Please change PPI to H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 40 minutes
+
+
+DOC CLASS

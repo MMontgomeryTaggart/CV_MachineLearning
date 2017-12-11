@@ -1,0 +1,285 @@
+Admission Date:  [**2603-10-7**]              Discharge Date:   [**2603-10-12**]
+
+Date of Birth:  [**2523-7-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2692**]
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+CARDIAC CATH:
+LV 147/2 LEDP 36
+AO 135/82 (MEAN 107)
+RV 53 3 REDP 11
+RA (Mean 10)
+Pulmonary HTN
+Right dominant
+LMCA normal
+LAD mild disease
+LCX mild disease
+RCA mild disease
+
+History of Present Illness:
+80 year old female with a past medical history notable for HTN,
+a resected acoustic neuroma, and no cardiac history who went to
+bathroom and thought she was going to pass out.  She says she
+had no strength, and decided to lay down.  She had nausea for an
+hour and her Neighbor took her blood pressure which was 110/90.
+Concomitantly she had a "chest ache" ([**8-16**]) with a dull L arm
+ache.  Concerned for MI, she took asa 81 mg x 4.  Her pain was
+non-radiating, non-exertional, and not relieved with rest.  She
+then went to the ER for further evaluation.  She reports no
+dyspnea,  sick contacts, antecedent illness, long trips, or calf
+pain.  She sees her PCP every four months.  On the floor she is
+chest pain free.  Her chest pain resolved after receiving
+medications at [**Location (un) 614**] (lopressor, nitroglycerin, morphine).
+.
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. S/he denies recent fevers, chills or
+rigors. S/he denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of paroxysmal
+nocturnal dyspnea, orthopnea, ankle edema, palpitations, and
+previous syncope.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: (-)diabetes, (-) Dyslipidemia,  (+)
+Hypertension
+2. CARDIAC HISTORY: None
+3. OTHER PAST MEDICAL HISTORY:
+RTHA x 3
+SBO x 2
+Acustic neuroma, left side (surgery) [**2589**], complicated with VP
+shunt
+
+Social History:
+Retired Nurse.
+-Tobacco history:  2.5 pack year history
+-ETOH:  2 [**First Name4 (NamePattern1) 397**] [**Last Name (NamePattern1) 7953**] shots nightly with ginerale.  Buys a handle
+of [**First Name4 (NamePattern1) 397**] [**Last Name (NamePattern1) 7953**] every 2 weeks.
+-Illicit drugs: denies
+
+Family History:
+Father: Stroke (80s), Mother: Aortic aneurysm
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+GENERAL: Elderly female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with no JVD.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. II/VI mid/late systolic murmur. No
+thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities.  Note scoliosis, and kyphosis.
+Resp were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: Cool extremities, cap refill 3 secs.  No femoral
+bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ DP 2+
+Left: Carotid 2+ Femoral 2+ DP 2+
+Neuro: L eye ptosis, with L facial droop.
+
+Pertinent Results:
+Admission Labs:
+[**2603-10-7**] 10:45PM   GLUCOSE-117* UREA N-23* CREAT-0.9 SODIUM-138
+POTASSIUM-4.4 CHLORIDE-103 TOTAL CO2-22 ANION GAP-17
+[**2603-10-7**] 10:45PM   CK-MB-32* MB INDX-13.3* cTropnT-1.34*
+[**2603-10-7**] 10:45PM   WBC-7.2 RBC-3.52* HGB-12.4 HCT-37.2 MCV-106*
+MCH-35.2* MCHC-33.3 RDW-13.7
+[**2603-10-7**] 10:45PM   PT-11.9 PTT-24.0 INR(PT)-1.0
+
+Studies:
+CARDIAC CATH [**10-7**]:
+LV 147/2 LEDP 36
+AO 135/82 (MEAN 107)
+RV 53 3 REDP 11
+RA (Mean 10)
+Pulmonary HTN
+Right dominant
+LMCA normal
+LAD mild disease
+LCX mild disease
+RCA mild disease
+
+ECHO [**10-8**]: EF40%, Mild regional left ventricular systolic
+dysfunction. In absence of obstructive coronary artery disease,
+these findings are most compatible with Takotsubo
+cardiomyopathy, although a distal LAD lesion may result in
+similar wall motion abnormalities.
+
+CXR [**10-8**]: Ventriculoperitoneal shunt. Massive thoracic scoliosis
+with
+subsequent asymmetry of the rib cage. Mild overinflation,
+increased reticular and vascular structures at the lung bases,
+suggesting a combination of potential mild pulmonary fibrosis
+and mild pulmonary edema. No evidence of pleural effusions. The
+size of the cardiac silhouette is at the upper range of normal.
+
+Cardiac MRI [**2603-10-11**]: Final results pending as of discharge.
+
+Skull XR [**10-11**]: No evidence of shunt displacement.
+
+Discharge Labs:
+
+[**2603-10-12**] 07:20AM BLOOD WBC-4.4 RBC-2.94* Hgb-10.4* Hct-30.7*
+MCV-104* MCH-35.4* MCHC-33.9 RDW-13.9 Plt Ct-227
+[**2603-10-12**] 07:20AM BLOOD Plt Ct-227
+[**2603-10-12**] 07:20AM BLOOD Glucose-87 UreaN-11 Creat-0.6 Na-141
+K-4.0 Cl-105 HCO3-28 AnGap-12
+
+Brief Hospital Course:
+80 year old female who presented to [**Hospital 7954**] hospital with
+malaise and substernal chest pain which resolved with
+administration of nitro, morphine, lopressor.  Based upon her
+ECG, ECHO and cardiac enzymes, the most likely diagnosis was
+prior distal LAD MI with recent onset myopericarditis.
+.
+# Chest Pain: Patient presented with chest pain, elevated
+cardiac enzymes, and diffuse ST elevations on EKG. Her chest
+pain resolved prior to admission; she had no recurrent symptoms.
+Her cardiac catheterization, as described above, showed mild
+disease but no occlusions and no intervention was necessary. She
+subsequently had a cardiac MRI which showed enhanced gadolinium
+uptake (near-transmural) in a coronary distribution (mid LAD),
+suggestive of an ischemic etiology for her apical hypokinesis
+seen on Echo; the pericardial effusion was stable. It was
+thought she had a prior distal LAD territory MI with recent
+myopericarditis (enhancement of pericardium and inflammation of
+myocardium on cardiac MR). Of note, the final read is not in OMR
+at time of discharge but was discussed between attendings. The
+final report will be sent to her new cardiologist.  She was
+discharged on Aspirin 81 mg daily, statin, beta-blocker, and
+ace-inhibitor. She was anticoagulated for prophylaxis of apical
+thrombus (and AF).
+
+# Atrial fibrilation: The patient developed afib with RVR 3 days
+after admission and spontaneously converted to SR. This was
+thought to be due to local irritation secondary to
+myopericarditis. She had an additional episode of RVR prior to
+dishcarge with conversion to SR after three doses of 5 mg IV
+lopressor.  She was asymptomatic and hemodynamically stable
+during these episodies.  She was discharged on Metoprolol
+Succinate XL 75 mg daily as well as Warfarin 2.5 mg daily with
+close follow-up of her INR.
+
+# Hypoxia: CXR showed pulmonary fibrosis and hypertension in the
+setting of no history of lung disease. Patient was weaned from
+O2 to room air.  Her hypoxia was discussed with her PCP with
+plan for an outpatient work up of her disease.
+
+# VP Shunt: Following the patient's cardiac MRI, a skull x-ray
+showed the shunt tip to be stable. Neurosurgery was consulted
+and the shunt was reprogrammed the day of the MRI.
+
+# HTN: BP remained stable throughout admission and was
+maintained on Metoprolol and Enalapril. Patient discharged on
+Metoprolol as above and Enalapril Maleate 10 mg daily.
+
+# Cornea transplant, Left eye: Patient maintained on home
+Predforte throughout admission.
+
+Patient remained full code throughout admission.
+
+Medications on Admission:
+predforte L eye 1 drop evenings
+Tylenol PM PRN insomnia
+Protonix 40 mg PO daily
+Vasotex 10 mg PO daily
+
+Discharge Medications:
+1. Outpatient Lab Work
+Please check INR on Friday [**10-14**] with results to Dr.
+[**Last Name (STitle) 7955**] at ([**Telephone/Fax (1) 7956**] in [**Location (un) 1095**] and fax to [**Telephone/Fax (1) 7957**]
+as well.
+2. prednisolone acetate 1 % Drops, Suspension Sig: One (1) Drop
+Ophthalmic DAILY (Daily): as directed.
+3. enalapril maleate 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. metoprolol succinate 50 mg Tablet Sustained Release 24 hr
+Sig: 1.5 Tablet Sustained Release 24 hrs PO once a day.
+Disp:*45 Tablet Sustained Release 24 hr(s)* Refills:*2*
+7. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+Disp:*30 Tablet(s)* Refills:*2*
+8. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Atrial Fibrillation with Rapid Ventricular Response
+Distant Myocardial Infarction
+Dressler's syndome
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Ms. [**Known patient lastname 7958**],
+You were admitted to the hospital because you had chest pain and
+changes on your heart imaging that were concerning.
+You had a cardiac MRI while you were here to further examine
+what was causing your pain. This showed an old heart attack and
+we think that the chest pain was caused by inflammation of your
+heart muscle. This has resolved but we have adjusted your
+medicines to prevent another heart attack. You should call Dr.
+[**Last Name (STitle) 7955**] if you have any more chest pain.
+.
+You also had a very fast irregular heart beat called atrial
+fibrillation. We started a long acting beta blocker, Metoprolol,
+to control your rhythm. Because atrial fibrillation increases
+your risk of a stroke, coumadin was started with a goal INR or
+2.0-3.0. You need to have your INR checked on Friday at [**Hospital1 **]
+[**Location (un) 614**] and Dr. [**Last Name (STitle) 7955**] will tell you how much coumadin to
+take from now on.
+.
+Please make the following changes to your medications:
+1. Start taking a baby aspirin to prevent another heart attack
+2. Start taking Metoprolol Succinate to keep your heart rhythm
+in normal sinus
+3. Start taking coumadin to prevent a stroke.
+4. Start taking Simvastatin to prevent and blockages in your
+coronary arteries.
+.
+
+
+Followup Instructions:
+Name: [**Last Name (STitle) **],[**Name8 (MD) 7959**] MD
+Location: SUBURBAN CARDIOLOGY
+Address: [**Location (un) 7960**], [**Location (un) **],[**Numeric Identifier 7961**]
+Phone: [**Telephone/Fax (1) 7962**]
+Appointment: Tuesday [**2603-10-18**] 11:45 am
+
+
+
+
+
+DOC CLASS

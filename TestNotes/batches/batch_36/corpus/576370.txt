@@ -1,0 +1,246 @@
+Chief Complaint:
+   24 Hour Events:
+   [**3274-12-16**] Events:
+   - Mental status back to baseline this afternoon
+   - NG, rectal and foley removed per patient request
+   - Monitoring for encephalopathy overnight
+   - Increase provigil to 200mg, discontinue rifaximin
+   - Pt became unresponsive at 4:30am while on CPAP, no evidence of
+   aspiration.  Replaced NGT, aspirated what looked like lactulose from
+   2am dose.  Gave additional dose and gave reglan to increase motility.
+   Ammonia level at 504
+   Allergies:
+   Amoxicillin
+   Rash;
+   Adhesive Bandage (Topical)
+   Rash;
+   Dicloxacillin
+   Unknown;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3274-12-14**] 10:01 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3274-12-17**] 06:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 35.8
+C (96.5
+   HR: 79 (67 - 99) bpm
+   BP: 110/63(75) {103/56(68) - 146/87(100)} mmHg
+   RR: 11 (10 - 20) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 71 kg (admission): 78 kg
+   Height: 66 Inch
+                  Total In:
+                                                                  5,512 mL
+                                                                    200 mL
+   PO:
+                                                                  3,500 mL
+                                                                    200 mL
+   TF:
+   IVF:
+                                                                  1,622 mL
+   Blood products:
+   Total out:
+                                                                  2,440 mL
+                                                                      0 mL
+   Urine:
+                                                                    490 mL
+   NG:
+   Stool:
+                                                                  1,950 mL
+   Drains:
+   Balance:
+                                                                  3,072 mL
+                                                                    200 mL
+   Respiratory support
+   O2 Delivery Device: CPAP mask
+   SpO2: 99%
+   ABG: ///21/
+   Physical Examination
+   Gen: somnolent, arousable to noxious stimuli only
+   HEENT: dry MM, + scleral icterus, NG tube in place
+   Pulm: CTA BL, no crackles or rhonchi.
+   CV: RRR, S1 & S2 regular without murmur
+   Abd: Distended, tympanitic, + shifting dullness, firm. Unable to
+   determine tenderness.
+   Ext: 2+ edema bilaterally
+   Neuro: Left pupil mildly more dilated than the right, chronic, moving
+   all extremities
+   Labs / Radiology
+   90 K/uL
+   8.0 g/dL
+   120 mg/dL
+   0.8 mg/dL
+   21 mEq/L
+   4.2 mEq/L
+   12 mg/dL
+   112 mEq/L
+   139 mEq/L
+   23.9 %
+   7.2 K/uL
+        [image002.jpg]
+                             [**3274-12-13**]  12:01 AM
+                             [**3274-12-13**]  05:40 AM
+                             [**3274-12-13**]  04:12 PM
+                             [**3274-12-13**]  06:18 PM
+                             [**3274-12-14**]  03:14 AM
+                             [**3274-12-15**]  05:38 PM
+                             [**3274-12-15**]  06:00 PM
+                             [**3274-12-16**]  04:15 AM
+                             [**3274-12-16**]  06:20 PM
+                             [**3274-12-17**]  04:13 AM
+   WBC
+   5.5
+   5.4
+   7.5
+   5.9
+   7.9
+   6.3
+   7.2
+   Hct
+   24.6
+   23.3
+   23.9
+   23.8
+   24.1
+   26.2
+   23.9
+   Plt
+   84
+   79
+   67
+   71
+   72
+   77
+   90
+   Cr
+   0.9
+   1.0
+   0.9
+   0.8
+   0.9
+   0.9
+   0.9
+   0.8
+   TCO2
+   25
+   Glucose
+   136
+   147
+   119
+   116
+   128
+   145
+   122
+   150
+   120
+   Other labs: PT / PTT / INR:24.2/48.9/2.4, CK / CKMB / Troponin-T:126//,
+   ALT / AST:34/77, Alk Phos / T Bili:143/3.4, Amylase / Lipase:70/57,
+   Lactic Acid:2.6 mmol/L, Albumin:3.1 g/dL, LDH:262 IU/L, Ca++:8.1 mg/dL,
+   Mg++:1.9 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   41 year old gentleman with a history of cirrhosis secondary to EtOH +
+   HCV, hx of SBP and portal and PAH, w/ recurrent episodes of
+   enceophalopathy presents with an episode of encephalopathy without
+   clear trigger.  He had no evidence of aspiration, vomiting, or
+   inability to protect his airway.  His mental status continues to
+   improve. .
+   .
+   # Recurrent encephalopathy.  Worse overnight with persistent episode of
+   encephalopathy.   Ammonia 504.
+   - Continue Lactulose with additional doses q1h until large stool output
+   - restart Rifaximin
+   - Continue Lactobacillus
+   - Start erythromycin PO for gut motility
+   - Continue SBP PPx w/ Cipro PO
+   - Continue Aspiration precautions.
+   - NGT back in place
+   - [**Month (only) 47**] require intubation if unable to protect airway or becomes
+   hypercarbic from OSA during the day
+   - Discuss other options with liver team
+   .
+   # ESLD. [**12-24**] EtOH and HCV. Ascites, peripheral edema, history of
+   spontaneous bacterial peritonitis, portal and pulmonary
+   hypertension, sleep apnea, and severe encephalopathy.
+   - Continue Lactulose as above.
+   - Continue Cipro for SBP ppx
+   - Continue Nadolol
+   - Continue spironolactone, lasix
+   - Follow liver recs
+   - Discussion about goals of care, transplant list
+   .
+   # Anemia: Known Grade II varices s/p banding without evidence active
+   bleeding and stable Hct. Chronically G+ stool, chronic. No clear
+   source.
+   - Active type and screen
+   - Hct [**Hospital1 7**]
+   - Guaiac stools
+   - PPI
+   .
+   # Thrombocytopenia: [**12-24**] liver disease. Platelets within baseline.
+   .
+   # Hypothyroidism: Continue levothyroxine 88mcg PO daily.
+   .
+   # Pulmonary HTN:  Holding iloprost and sildenafil while in the ICU.
+   .
+   # OSA:  [**Month (only) 47**] require intubation later today for hypercapnia.
+   .
+   # FEN: NPO for now except meds, No IVF, replete 'lytes prn
+   # PPX: pneumoboots, PO PPI, bowel regimen
+   # Access: 2 PIV
+   # Code: FULL
+   # Dispo: Monitor in the ICU for now
+   # Communication: [**Name (NI) 2147**] (mother) [**Telephone/Fax (1) 4944**] cell, [**Telephone/Fax (1) 4945**]
+ ESOPHAGEAL VARICES
+ HEPATIC ENCEPHALOPATHY
+ AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG,
+   AIRWAY CLEARANCE, COUGH)
+   ICU Care
+   Nutrition:
+   NPO for now
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3274-12-16**] 12:07 PM
+   Prophylaxis:
+   DVT:  pneumoboots
+   Stress ulcer:  PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  ICU for now
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 41M ESLD (HCV, EtOH), PHTN, recurrent
+   encephalopathy p/w same.
+   Exam notable for Tm 98.3 BP 127/77 HR 86 RR 10 with sat 99 on 2L NC.
+   Anisocoria (chronic). [**Month (only) **] BS B bases. Distended, +BS. 1+ edema. Labs
+   notable for WBC 7K, HCT 24, K+ 4.2, Cr 0.8, ammonia >500. CXR with
+   small volumes.
+   Agree with plan to treat encephalopathy with lactulose, acidophillus,
+   rifaximin and provigil. Will add erythromycin for motility. Continue
+   d/w liver team re other therapies and overall plan of care. Anemia is
+   stable, will follow [**Hospital1 7**]. Will hold off on intubation, but needs close
+   monitoring and frequent ABGs for borderline respiratory function.
+   Remainder of plan as outlined above.
+   Patient is critically ill
+   Total time: 40 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 442**] [**Last Name (NamePattern1) 759**], MD
+   on:[**3274-12-17**] 05:05 PM ------
+
+
+DOC CLASS

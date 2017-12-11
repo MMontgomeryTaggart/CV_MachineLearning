@@ -1,0 +1,265 @@
+Chief Complaint:
+   24 Hour Events:
+   - CTA with PE in R lung, no clot in IVC. CT showed evidence of right
+   heart strain. on heparin, PTT remained elevated overnight. LENIS read
+   as chronic R popiteal occulsion
+   - Echo without evidence of R heart strain
+   - TSH normal, T4 slightly low
+   -d/ced azithro
+   -Dr [**First Name (STitle) **], PCP emailed
+   Allergies:
+   Aspirin
+   irritates stoma
+   Niacin
+   Rash;
+   Rash;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2920-11-21**] 04:00 PM
+   Infusions:
+   Heparin Sodium - 1,350 units/hour
+   Other ICU medications:
+   Other medications:
+   Warfarin
+   Ultram
+   Lidocaine
+   Tylenol
+   Heparin IV
+   Mirapex
+   Pregabalin
+   Omeprazole
+   ISS
+   ceftriaxone
+   Colace
+   Senna
+   bisacodyl
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2920-11-22**] 06:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37
+C (98.6
+   HR: 60 (53 - 89) bpm
+   BP: 125/53(71) {89/42(53) - 137/94(88)} mmHg
+   RR: 29 (19 - 32) insp/min
+   SpO2: 94% (88-97)
+   Heart rhythm: 2nd AV W-M1 (Second degree AV Block Wenckebach - Mobitz1)
+             Total In:
+                                                                  2,155 mL
+                                                                     86 mL
+   PO:
+                                                                  1,800 mL
+             TF:
+   IVF:
+                                                                    355 mL
+                                                                     86 mL
+   Blood products:
+   Total out:
+                                                                  2,780 mL
+                                                                    480 mL
+   Urine:
+                                                                  2,780 mL
+                                                                    480 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -625 mL
+                                                                   -394 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: irreg S1S2 no m/r/g
+   Respiratory / Chest: good air movement CTA anteriorly
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   Obese. No CVA tenderness
+   Extremities: Right: 4+, Left: 4+, calves tender to palpation but not
+   painful with passive ankle motion
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Verbal stimuli, Oriented (to):
+   person, place, time, Movement: Purposeful, Tone: Normal, CN 2-12
+   intact. 4+/5 strength throughout
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   179 K/uL
+   9.9 g/dL
+   238 mg/dL
+   1.1 mg/dL
+   25 mEq/L
+   4.5 mEq/L
+   18 mg/dL
+   107 mEq/L
+   138 mEq/L
+   29.2 %
+   11.4 K/uL
+        [image002.jpg]
+   PTT 83, INR 1.3
+   BNP: 4339
+   Sputum rejected
+   [**11-20**] urine pending
+   [**11-20**] blood pending
+   Echo: LVEF > 55%, RV size and free wall NL, Trival MR.
+   CTA: prelim thrombus in R  main stem, lobar, segmental arteries with
+   evidence of R heart strain
+   CTA abd/pelvis: no IVC / venous clot. Tracte perichole fluid
+                            [**2920-11-21**]  12:08 AM
+                            [**2920-11-21**]  05:05 AM
+                            [**2920-11-22**]  05:00 AM
+   WBC
+   9.6
+   11.4
+   Hct
+   28.2
+   29.2
+   Plt
+   177
+   179
+   Cr
+   0.9
+   1.1
+   TropT
+   <0.01
+   <0.01
+   Glucose
+   126
+   238
+   Other labs: PT / PTT / INR:/150.0/, CK / CKMB / Troponin-T:43//<0.01,
+   Lactic Acid:1.6 mmol/L, Albumin:3.4 g/dL, Ca++:8.2 mg/dL, Mg++:1.6
+   mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+   68 year old female with a history of dilated cardiomyopathy s/p
+   resolution, htn, DM2 who presents with shortness of breath.
+   .
+   # SOB: Multifactorial. Given her presentation of acute shortness of
+   breath, and recent weight gain w/increasing edema, the main concernf
+   for etiology included DVT/PE, worsening heart failure secondary to
+   ischemic event or pulmonary infection. On exam there is no evidence of
+   infection other than in her urine. Cardiac enzymes are negative. On
+   LENIs appears to have chronic DVT in popliteal vein on R. Started
+   heparin drip night of admission.  CTA shows R lung PE and evidence of R
+   heart strain.  Echo with preserved EF, NL RV size and free wall motion.
+   Trival MR. [**Name13 (STitle) **] evidence of right heart strain. Theory is that PE is
+   subacute given increasing edema over last month. Increased heart
+   strain, possible UTI exacerbated strain on heart causing development of
+   new arrithymia and worsening SOB.
+   - f/u CTA final read
+   - supplemental O2, continue heparin and monitor coags
+   - started coumadin 5 mg today, trend INR
+   - hold antihypertensives given transient hypotension
+   - treat heart block as below
+   - d/ced azithro yesterday once clear lung process [**1-6**] PE. No longer
+   feel PNA likely
+   - cont CPAP at night
+   .
+   # hypotension: Known PE as above likely contributing. Sepsis from UTI
+   unlikely given no other SIRS physiology. Cardiac event unlikely given
+   neg CE.. Very unlikely to be secondary to sepsis given lack of white
+   count, fever and clinically stable. Also this could be somehow related
+   to her bradycardia and newly diagnosed 2^nd degree heart
+   block/Wenkeboch.
+   - treat possible CHF as above. Diuresis limited by low BP
+   - On CTX for possible UTI but U cult NG so far, asymptomatic. Check
+   Urine sediment today given overnight R flank pain (responded to
+   Tylenol), if neg d/c CTX as completing 3 day course anyway
+   - f/u sputum and urine cultures and f/u blood cultures
+   - hold BP meds for now
+   - IVF prn to maintain adequate MAPS, very preload dependent given PE.
+   .
+   # bradycardia/heart block: new Weinkeboch on ECG with 5:4 conduction,
+   3:2 this AM. Differential of new heart block includes progression of
+   calcific conduction system disease, ischemic event, valve abscess
+   (which seems unlikely), and medications. If she is asymptomatic, she
+   may not need further treatment for this. However if her current
+   symptoms can be attributed to her bradycardia, then she may be a
+   candidate for pacemaker. At this point, would work on ruling out other
+   etiologies of her presenting symptoms before considering pacer.
+   - tele monitoring
+   - hold metoprolol and amitiptyline
+   - if persistent, can consider EP consult
+   .
+   # UTI: evidence of UTI on U/A.  However, no leukocytosis or left shift.
+   Has complained of urinary frequency.  U culture NG to date
+   - ceftriaxone to be stoped after neg urine sediment.
+   - f/u urine culture
+   .
+   # ARF: patient in mild ARF with slight increase in Cr and elevated BUN.
+   Potential etiologies include worsening CHF due to bradycardia or other
+   etiology, hypotension in setting of infection. Creatinine improved
+   since admit with hydration overnight.
+   -PO intake to avoid fluid overload
+   - trend Cr
+   - once BP, she may need lasix given her edema
+   .
+   # Diabetes Mellitis: on glipizide, raloxifene as outpt.
+   - hold oral meds
+   - ISS
+   .
+   # Obstructive sleep apnea: has been noncompliant in past with CPAP due
+   to poorly fitting mask.
+   - CPAP
+   .
+   # Gastroesophageal reflux disease: cont PPI [**Hospital1 **]
+   .
+   # Anemia: at most recent baseline.
+   .
+   # restless legs: cont mirapex, ultram, lyrica
+   .
+   # osteoarthritis: calcium, vit D, hold raloxefene
+   .
+   # FEN: Diabetic, low Na diet.
+   .
+   # PPx: heparin sc. PPI.
+   .
+   # ACCESS: PIV x 2.
+   .
+   # CODE: FULL.
+   .
+   # COMM: [**Name (NI) 1583**] (brother) [**Telephone/Fax (1) 6961**], [**Name (NI) 516**] (sister) [**Telephone/Fax (3) 6962**]
+   .
+   # DISP: c/o to floor
+ HYPOTENSION (NOT SHOCK)
+ HEART BLOCK, COMPLETE (CHB)
+ DEEP VENOUS THROMBOSIS (DVT), LOWER EXTREMITY
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2920-11-20**] 09:51 PM
+   18 Gauge - [**2920-11-20**] 09:52 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   ------ Protected Section ------
+   Critical Care
+   Present for key portions of history and exam. Agree with Dr. [**Last Name (STitle) 3949**]
+   assessment and plan.  She is therapeutic on heparin and we are starting
+   coumadin. I think there are good reasons to consider life long anticoag
+   with no precipitant.  Should probably have repeat echo in 6 weeks.
+   Time spent 30 min
+   ------ Protected Section Addendum Entered By:[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 107**] [**Last Name (NamePattern1) 108**], MD
+   on:[**2920-11-22**] 14:16 ------
+
+
+DOC CLASS

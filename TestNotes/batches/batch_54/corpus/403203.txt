@@ -1,0 +1,203 @@
+CVICU
+   HPI:
+   [**5-7**] POD 2
+   78F s/p aortic valve replacement/coronary artery bypass grafting times
+   two (LIMA to LAD, L arm vein to OM1) [**5-5**]
+   Cre 1.0 Wt 88K EF 25 HgbA1C 5.8
+   PMH: DM, PVD, lipids, hypothyroidism, SVT s/p ablation, MRSA and VRE
+   positive, STSG to R TMA site [**2613-3-31**], R TMA [**10-3**], revision [**2612-12-29**], L
+   TMA [**2610**], L fem-[**Doctor Last Name 1020**] BPG [**2610**], R fem-[**Doctor Last Name 1020**] BPG [**10-3**], thyroidectomy
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Aspirin EC , Calcium Gluconate,  Dextrose 50% ,Docusate Sodium
+   ,Furosemide , Insulin , Magnesium Sulfate , Metoclopramide ,Metoprolol
+   Tartrate , Milk of Magnesia , Milrinone , Nitroglycerin , Ondansetron ,
+   Phenylephrine ,
+    Potassium Chloride , Propoxyphene Nap.-Apap (N-100) , Ranitidine ,
+   Sodium Chloride 0.9% Flush ,
+    Vancomycin , Vasopressin
+   24 Hour Events:
+ OR RECEIVED - At [**2613-5-5**] 04:47 PM
+ INVASIVE VENTILATION - START [**2613-5-5**] 04:51 PM
+ TRANSTHORACIC ECHO - At [**2613-5-5**] 05:24 PM
+ [**Location (un) 534**] LINE - START [**2613-5-5**] 06:25 PM
+ CCO PAC - START [**2613-5-5**] 06:26 PM
+ ARTERIAL LINE - START [**2613-5-5**] 06:26 PM
+ EKG - At [**2613-5-5**] 06:52 PM
+   Post operative day:
+   POD#1 s/p aortic valve replacement/coronary artery bypass grafting
+   times two (LIMA to LAD, L arm vein to OM1)
+   Allergies:
+   Vicodin (Oral) (Hydrocodone Bit/Acetaminophen)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2613-5-6**] 08:30 AM
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Milrinone - 0.125 mcg/Kg/min
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2613-5-5**] 06:40 PM
+   Dextrose 50% - [**2613-5-5**] 07:10 PM
+   Morphine Sulfate - [**2613-5-6**] 04:09 AM
+   Metoprolol - [**2613-5-6**] 08:30 AM
+   Insulin - Regular - [**2613-5-6**] 09:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2613-5-6**] 03:49 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**15**] a.m.
+   Tmax: 36.1
+C (97
+   T current: 36.1
+C (97
+   HR: 122 (101 - 122) bpm
+   BP: 96/56(69) {81/41(58) - 122/69(88)} mmHg
+   RR: 14 (0 - 24) insp/min
+   SPO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 67 Inch
+   CVP: 20 (9 - 20) mmHg
+   PAP: (43 mmHg) / (28 mmHg)
+   CO/CI (Fick): (3.6 L/min) / (1.8 L/min/m2)
+   CO/CI (CCO): (3.3 L/min) / (1.5 L/min/m2)
+   SvO2: 62%
+   Mixed Venous O2% sat: 55 - 70
+   Total In:
+                                                                  4,935 mL
+                                                                  5,622 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  3,210 mL
+                                                                  4,772 mL
+   Blood products:
+                                                                  1,700 mL
+                                                                    850 mL
+   Total out:
+                                                                  1,620 mL
+                                                                  1,605 mL
+   Urine:
+                                                                  1,260 mL
+                                                                    735 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,315 mL
+                                                                  4,017 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool, Face tent
+   SPO2: 100%
+   ABG: 7.41/40/138/28/1
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   226 K/uL
+   11.4 g/dL
+   72 mg/dL
+   0.7 mg/dL
+   28 mEq/L
+   3.8 mEq/L
+   11 mg/dL
+   106 mEq/L
+   141 mEq/L
+   34.2 %
+   11.1 K/uL
+        [image002.jpg]
+                             [**2613-5-5**]  09:22 PM
+                             [**2613-5-5**]  09:41 PM
+                             [**2613-5-6**]  12:37 AM
+                             [**2613-5-6**]  02:00 AM
+                             [**2613-5-6**]  02:13 AM
+                             [**2613-5-6**]  05:40 AM
+                             [**2613-5-6**]  07:53 AM
+                             [**2613-5-6**]  08:07 AM
+                             [**2613-5-6**]  02:31 PM
+                             [**2613-5-6**]  02:43 PM
+   WBC
+   11.4
+   11.1
+   Hct
+   26.6
+   30.3
+   28.7
+   34.2
+   Plt
+   228
+   226
+   Creatinine
+   0.7
+   TCO2
+   31
+   27
+   34
+   26
+   26
+   Glucose
+   138
+   94
+   81
+   85
+   106
+   72
+   Other labs: PT / PTT / INR:17.7/34.1/1.6, Differential-Neuts:91.2 %,
+   Lymph:5.9 %, Mono:2.6 %, Eos:0.2 %, Fibrinogen:101 mg/dL, Lactic
+   Acid:1.4 mmol/L, Mg:1.9 mg/dL
+   Imaging: CXR: Clear, all lines in place
+   Microbiology: neg
+   Assessment and Plan
+   .H/O AORTIC STENOSIS, CORONARY ARTERY BYPASS GRAFT (CABG), ALTERATION
+   IN ELIMINATION RELATED TO DIARRHEA, VALVE REPLACEMENT, AORTIC
+   BIOPROSTHETIC (AVR)
+   Assessment and Plan: Pt. extubated and alert, doing well postop.  Will
+   d/c Milrinone and attempt to wean Vasopressin.  Pt. is still requiring
+   fluid today.  Aggressive respiratory therapy.  Cont. present care.
+   Neurologic:
+   Cardiovascular: Aspirin, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, Adequate UO
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: Check cultures, all neg
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   [**First Name4 (NamePattern1) 534**] [**Last Name (NamePattern1) **] - [**2613-5-5**] 06:25 PM
+   CCO PAC - [**2613-5-5**] 06:26 PM
+   Arterial Line - [**2613-5-5**] 06:26 PM
+   16 Gauge - [**2613-5-5**] 06:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

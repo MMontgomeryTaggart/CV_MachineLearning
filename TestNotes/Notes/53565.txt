@@ -1,0 +1,380 @@
+Admission Date:  [**3289-7-20**]              Discharge Date:   [**3289-7-27**]
+
+Date of Birth:  [**3204-11-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+iodine dye
+
+Attending:[**First Name3 (LF) 87**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Tracheal intubation
+
+History of Present Illness:
+HPI: Mr. [**Known patient lastname 23491**] is 84M with history of CAD s/p 5V CABG ([**3273**]), 3V
+redo CABG in [**3283**] with porcine AVR, ischemic CM (EF 45%), HTN,
+HLD, R AKA amputation presents with dyspnea X 2-3 days to [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] Hospital. As per report, the patient has been getting
+more dyspneic with exertion, with his lasix recently increased
+by his cardiologist. Over the last three days, the patient
+reports having increasing edema, orthopnea, and DOE with
+ambulation from bed to bathroon. Denies any CP, no syncope,
+palpitations, or PRN. Does endorse throat pain, ?anginal
+equivalent. At [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] hospital he was in acute heart
+failure, with O2 saturations of 94% on 6L, trop 0.35. CXR
+notable for b/l effusions, pulmonary congestionwas given lasix.
+While there the patient received ASA 162 mg, Lasix 40 mg,
+rocephine 1 GM, and was started on heparin drip. Of note, in
+response to diuresis was noted to have systolic pressures dip
+into the 90s, at which point he was transferred to [**Hospital1 52**]. Of
+note patient had admission in [**4-21**] and diagnosed with meningioma
+and intracerebral aneurysms.
+In the ED, vitals were: 97.9 ??????F (36.6 ??????C), Pulse: 76, RR: 20,
+BP: 90/60, Rhythm: Sinus Rhythm, O2Sat: 96, O2Flow: 4L , Pain: 0
+
+The [**Name (NI) **] pt given ASA 325, Rocephin 1 gm for CXR from outside
+hospital showing possible PNA?, and Heparin 4200 unit bolus and
+Gtt @ 12U/kg/hr. ED cardiologist saw him here and noted
+hypotension to the 80s although the patient was mentating and
+had good urine output. An echocardiogram was done in the ED (by
+the cardiology fellow) which showed reduced EF from [**4-21**] and
+septal WMA consistent with possible missed anterior MI. In ED
+patient became hypotensive SBPs 70s and given 750 CC IVF bolus
+after no response dopamine was started. Later pt's 02 sat
+dropped to 80s, ?evolving EKG changes, non rebreather was tried
+which didnt work then pt was intubated. pt SBP dipped into the
+60s levofed was started in addition to dopamine
+
+
+Past Medical History:
+-HTN
+-HLD
+-CAD: s/p CABG x2 ([**3283**] - 3 vessel bypass w/ aortic valve
+replacement with porcine valve, [**3273**] - 5 vessel bypass)
+-Right AKA [**2-10**] gangrene 3 years ago
+-Left lower extremity bypass graft [**2-10**] peripheral vascular
+disease
+-Prostate Cancer - diagnosed in [**3237**], total prostatectomy, no
+chemotherapy or radiation
+-Remote left eye surgery, patient unable to recall what was done
+
+Social History:
+Patient lives with wife in a three floor building with his
+daughter and grandchildren living in the building. He recently
+moved into his daughter's house in [**Month (only) 193**]. The patient worked
+as an electrician. Retired 22 years ago. Smoked 1ppd in 20s and
+30s. Stopped 40 years ago. No alcohol abuse in past. Had not
+drank for many years. No elicit drug use.
+
+
+Family History:
+Brother - died in 50s from CHF
+Father - died in 70s from Prostate cancer
+Mother - died in 80s after hip fracture
+Denies history of neurologic disease such as seizures, brain
+tumors, or MS.
+
+Physical Exam:
+General: Intubated unresponsive.
+HEENT: NCAT, no scleral icterus noted, MMM, no lesions noted in
+
+oropharynx.
+Neck: No carotid bruits heard.
+Pulmonary: intubated
+Cardiac: third heart sound heard on exam, tachy
+Abdomen: soft, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: pulse appreciated in left foot by doppler, right
+leg AKA Ext warm
+Skin: No rashes or lesions noted.
+Neurologic:
+Mental Status: intubated
+
+
+Pertinent Results:
+[**3289-7-20**] 07:45PM   PT-11.6 PTT-51.9* INR(PT)-1.1
+[**3289-7-20**] 07:45PM   PLT COUNT-152
+[**3289-7-20**] 07:45PM   WBC-15.0* RBC-3.41* HGB-10.0* HCT-30.2*#
+MCV-89 MCH-29.2 MCHC-33.0 RDW-18.5*
+[**3289-7-20**] 07:45PM   WBC-15.0* RBC-3.41* HGB-10.0* HCT-30.2*#
+MCV-89 MCH-29.2 MCHC-33.0 RDW-18.5*
+[**3289-7-20**] 07:45PM   CALCIUM-8.2* PHOSPHATE-3.6 MAGNESIUM-2.2
+[**3289-7-20**] 07:45PM   cTropnT-0.59*
+[**3289-7-20**] 07:45PM   estGFR-Using this
+[**3289-7-20**] 07:45PM   GLUCOSE-110* UREA N-34* CREAT-1.2 SODIUM-128*
+POTASSIUM-3.3 CHLORIDE-95* TOTAL CO2-26 ANION GAP-10
+[**3289-7-20**] 09:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**3289-7-20**] 09:50PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) **]-1.004
+
+Brief Hospital Course:
+Assessment and Plan
+
+Assessment: Mr. [**Known patient lastname 23491**] is 84M with history of CAD s/p CABG x2,
+AVR in [**3283**], ischemic CM (EF 45% in [**4-21**]) p/w worsening dyspnea,
+worse EF 20% found to be in cardiogenic and septic shock, has
+strep bovis positive blood cultures concerning for prosthetic
+valve endocarditis.
+
+ACUTE ISSUES
+#Shock: Multifactorial: The initial presentation included a
+broad differential of cardiogenic shock, septic shock, and
+adrenal insuffiency. Cardiogenic shock in the setting of recent
+anterior MI causing hypokinesis of anterior wall and
+cardiomyopathy and poor outflow from the heart. Septic in
+setting of positive blood culutures growingout strep bovis.
+Source of infection could be prostetic aortic valve
+endocarditis, initially coming from gut vs mouth.
+
+      He was initially intubated after flash pulmonary edema
+ensued in the ED s/p fluid bolus for hypotension and then put on
+levophed and dopamine for pressor support while concominantly
+adding a lasix gtt for diuresis of pulmonary edema.  Stress dose
+steroids were also initiated as the patient was chronically on
+decadron for menigiomas.  A central line was placed for adequate
+pressor administration.  The patient's blood pressures and urine
+output were adequate and the dopamine and levophed were titrated
+off.  He then self-extubated without complications.  Shortly
+after, troponin and CK-MB were noted to be drastically elevated
+at 7.58 and 99.  However, because of goals of care (family did
+not want major surgery and interventions), no cardiac
+catheterization was undertaken.  And although there was evidence
+of septic shock on initial presentation as he met SIRS criteria
+and we had [**4-13**] BCx positive for Strep Gallalyticus, he
+clinically did not appear septic as there were no pressor
+requirements and no IVF was given.  The patient was initiated
+with ceftriaxone to treat his bacteremia and the steriods were
+tapered down to his home dose.  The central line was removed and
+a PICC line was placed for possibility of needing home IV
+antibiotics. ID was consulted and patient can go home on PO amox
+1 g [**Hospital1 9**] indefinitely because he is goign home on hospice.
+Before discharge, the PICC line was removed as no IV abx will be
+given at home.  Radiology called right before discharge and
+noted a possible infiltrate on latest CXR.  Patient was
+discharged on Levaquin (10 day regimen) for treatment of
+possible community acquired pneumonia.
+
+#End of Life Care: Pt's family wanted pt to be DNR DNI after pt
+was extubated. Pt's family wanted home hospice so we got
+palliative care involved.  He will be discharged on all oral
+medications to treat his presumptive bacteremia/endocarditis and
+pneumonia.  Hospice will initiate his home O2 requirement
+
+#Episodes of resp distress: The patient had multiple episodes of
+shortness of breath and anxiety after extubation.  Pt has tachy,
+HTN and incr RR and lower sats in the 80s when these occurred.
+It was felt to be episodes of flash pulmonary edema which
+responded to morphine, nitro dri, lasix. It is unclear why pt
+continues to have these episodes.  Possibly ACS related.  Likely
+a combination of anxiety, tachycardia/HTN causing increase in
+afterload, and ongoing ischemia which ultimately led to flash
+pulmonary edema.  Along with addition of Metoprolol 50 mg [**Hospital1 9**],
+we added captopril to decrease his flash pulmonary edema. We
+gave lasix PRN and morphine PRN for episodes of resp distress.
+To help with his anxiety and delerium we started him on zyprexa.
+
+# Rhythm: Pt had episodes where he had PVCs and also had
+episodes of atrial tachy and pt was started on amiodarone. Plan
+for amiodarone: 200 TID (day 1 was [**7-25**]) for 3 wks then 200
+daily starting on [**3289-8-15**].
+
+# Coronaries: Patient presenting with acute cardiac
+decompensation in setting of ischemic/septic embolic
+cardiomyopathy. He likely had a missed anterior MI vs septic
+embolic event with worsening EF new septal akinesis-dyskinesis.
+Family did not want any interventions did not want cath lab
+
+# [**Last Name (un) 68**]: Likely from CHF with intravascular low volume. His Cr
+improved around discharge.
+
+#Hyperglycemia Pt was put on Insulin sliding scale
+
+CHRONIC ISSUES:
+
+# meningiomas:
+At first we gave stress dose steroids in setting of shock then
+we he was better we   continued home decadron 3mg.
+
+#MCA aneurysms:
+During hospital stay we focused on the bigger issues:
+cardiogenic shock, septic shock. Pt was placed onhep drip for a
+couple of hours at the beginning of hospital stay bc of concern
+of possible MI. This was discontinued a couple of hours later as
+pt got worse and went into cardiogenic shock.
+
+#Anemia: HCT was around his baseline.
+
+TRANSITIONAL ISSUES
+-Amiodarone: Amiodarone 200 mg TID for 3 weeks (day 1: [**7-25**]) ,
+200 [**Hospital1 9**] (start on [**8-16**] for 2 weeks) then 200 mg daily after
+(start on [**8-31**])
+-f/u presumed endocarditis
+-f/u MCA aneurysms
+
+
+Medications on Admission:
+amlodipine 5 mg
+atorvastatin 10 mg
+docusate 100 mg daily
+ferrous sulfate 325 mg daily
+lorazepam 0.5 mg q6h PRN
+losartan 50 mg daily
+magnesium oxide 400 mg daily
+metoprolol 50 mg TID
+mirtazapine 30 mg qhs
+MVI daily
+ranitidine 150 mg [**Hospital1 9**]
+Lasix 40 mg daily
+Decadron 3 mg daily
+ASA 81 mg
+
+
+Discharge Medications:
+1. Amiodarone 200 mg PO TID
+RX *amiodarone 200 mg 1 tablet(s) by mouth three times a day
+Disp #*60 Tablet Refills:*0
+RX *amiodarone 200 mg 1 tablet(s) by mouth daily Disp #*30
+Tablet Refills:*0
+2. Amoxicillin 1000 mg PO Q12H
+RX *amoxicillin 500 mg 2 capsule(s) by mouth every 12 hours Disp
+#*30 Tablet Refills:*3
+3. Aspirin 81 mg PO DAILY
+RX *Adult Low Dose Aspirin 81 mg 1 tablet(s) by mouth daily Disp
+#*30 Tablet Refills:*0
+4. Dexamethasone 3 mg PO DAILY
+RX *DexPak 1.5 mg (51 tabs) 2 tablets(s) by mouth daily Disp
+#*30 Tablet Refills:*0
+5. Furosemide 80 mg PO DAILY
+Please start [**7-28**]
+RX *furosemide 80 mg 1 tablet(s) by mouth daily Disp #*30 Tablet
+Refills:*0
+6. Levofloxacin 750 mg PO Q48H Duration: 10 Days
+RX *Levaquin 750 mg 1 tablet(s) by mouth every 48 hours Disp #*5
+Tablet Refills:*0
+7. Lisinopril 5 mg PO DAILY
+RX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*30
+Tablet Refills:*0
+8. Metoprolol Succinate XL 150 mg PO DAILY
+Hold if BP <90 and HR <60
+RX *metoprolol succinate 100 mg 1.5 tablet(s) by mouth daily
+Disp #*30 Tablet Refills:*0
+9. Mirtazapine 30 mg PO HS
+RX *mirtazapine 30 mg 1 tablet(s) by mouth once at night Disp
+#*30 Tablet Refills:*0
+10. Morphine Sulfate (Concentrated Oral Soln) 5-10 mg PO Q2H:PRN
+anxiety, SOB, air hunger
+Sub-lingual
+RX *morphine concentrate 100 mg/5 mL (20 mg/mL) 0.25-.5 mL by
+mouth every 2 hours Disp #*6 Bottle Refills:*0
+11. OLANZapine (Disintegrating Tablet) 2.5 mg PO QHS
+RX *olanzapine 2.5 mg 1 tablet(s) by mouth at night Disp #*30
+Tablet Refills:*0
+12. OLANZapine (Disintegrating Tablet) 2.5 mg PO ONCE A DAY PRN
+anxiety
+RX *olanzapine 2.5 mg 1 tablet(s) by mouth once a day Disp #*30
+Tablet Refills:*0
+13. home oxygen
+dx: CHF
+rx: please take 2-5L NC titrate to comfort
+14. Ranitidine 150 mg PO BID
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **]
+
+Discharge Diagnosis:
+Primary: decompensated CHF, endocarditis
+Secondary: coronary artery disease,pneumonia
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+It was a pleasure taknig care of you here at [**Hospital1 52**]. You came to
+the hospital because you had shortness of breath. We did special
+imaging and saw that your heart wasnt squeezing well. You needed
+a breathing tube for a day and then you were able to breathe on
+your own. While you were here we found a bacteria growing in
+your blood and we treated you with IV antibiotics called
+ceftriaxone. It is most likely that the bacteria in your blood
+is from an infection in your heart called endocarditis. While
+you were here you also became agitated and upset at times and
+then became short of breath. We think you will start to feel
+more calm when you are home. We took a photo of your lungs the
+day befor eyou left and it showed you may have a new pneumonia.
+We are going to treat you for it with oral antibiotics because
+you are going home on hospice.
+
+Weigh yourself every morning, [**Name8 (MD) 15**] MD if weight goes up more
+than 3 lbs.
+
+We made the following changes to your antibiotics:
+please START amoxacillin 1 g [**Hospital1 9**] will likely be on indefinitely.
+This is for your infection of the heart
+please START amiodarone 200 three times a day which you will
+take for 3 wks then 200 daily starting on [**3289-8-15**] This is for
+your heart rate which can become fast at times
+Please start ZYPREXA
+please START levofloxacin 750 mg every other day for 10 days
+
+Followup Instructions:
+We have schedule cardiology and infectious disease appointments
+for you. You can cancel these appointments if you do not think
+they are necessary and if you find it is difficult to transport
+out of the house.
+
+Department: NEUROLOGY
+When: MONDAY [**3289-9-5**] at 1:30 PM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1007**] [**Name8 (MD) **], MD [**Telephone/Fax (1) 1008**]
+Building: SC [**Hospital Ward Name **] Clinical Ctr [**Location (un) 586**]
+Campus: EAST     Best Parking: [**Hospital Ward Name **] Garage
+
+Department: RADIOLOGY
+When: MONDAY [**3289-9-5**] at 11:55 AM
+With: RADIOLOGY MRI [**Telephone/Fax (1) 2568**]
+Building: SC [**Hospital Ward Name **] Clinical Ctr [**Location (un) 105**]
+Campus: EAST     Best Parking: [**Hospital Ward Name **] Garage
+
+Department: RADIOLOGY
+When: MONDAY [**3289-9-5**] at 11:15 AM
+With: RADIOLOGY MRI [**Telephone/Fax (1) 2568**]
+Building: SC [**Hospital Ward Name **] Clinical Ctr [**Location (un) 105**]
+Campus: EAST     Best Parking: [**Hospital Ward Name **] Garage
+We are working on a follow up appt with Dr. [**Last Name (STitle) **] in the
+week. You will be called at home with the appointment.   If you
+have not heard or have questions, please call [**Telephone/Fax (1) 83**].
+
+Department: INFECTIOUS DISEASE
+When: THURSDAY [**3289-9-1**] at 10:00 AM
+With: [**Name6 (MD) 706**] [**Name8 (MD) 707**], MD [**Telephone/Fax (1) 579**]
+Building: LM [**Hospital Ward Name 103**] Bldg ([**Last Name (NamePattern1) 104**]) Basement
+Campus: WEST     Best Parking: [**Hospital Ward Name 103**] Garage
+
+We are working on a follow up appt with Dr. [**Last Name (STitle) **] in the
+week. You will be called at home with the appointment.   If you
+have not heard or have questions, please call [**Telephone/Fax (1) 83**].
+
+Department: INFECTIOUS DISEASE
+When: THURSDAY [**3289-9-1**] at 10:00 AM
+With: [**Name6 (MD) 706**] [**Name8 (MD) 707**], MD [**Telephone/Fax (1) 579**]
+Building: LM [**Hospital Ward Name 103**] Bldg ([**Last Name (NamePattern1) 104**]) Basement
+Campus: WEST     Best Parking: [**Hospital Ward Name 103**] Garage
+
+
+
+
+
+DOC CLASS

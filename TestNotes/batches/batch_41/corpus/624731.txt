@@ -1,0 +1,66 @@
+HPI:
+   Chief complaint:
+   PMHx:
+   Current medications:
+   24 Hour Events:
+   Post operative day:
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**12**] a.m.
+   Respiratory support
+   Physical Examination
+   Labs / Radiology
+        [image002.jpg]
+   WBC
+   Hct
+   Plt
+   Creatinine
+   Troponin T
+   TCO2
+   Glucose
+   Imaging:
+   Microbiology:
+   ECG:
+   Assessment and Plan
+   Assessment and Plan:
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP bundle:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   Total time spent:
+   ------ Protected Section------
+   ------ Protected Section Error Entered By:[**Name (NI) 723**] [**Name8 (MD) 724**], MD
+   on:[**3310-5-11**] 10:02 ------
+
+
+DOC CLASS

@@ -1,0 +1,247 @@
+CVICU
+   HPI:
+   40M s/p emergent Replacement Ascending aorta/hemiarch (24 mm gelweave
+   graft), resuspension aortic valve [**4-30**], POD 5, with persistent abnormal
+   mental status of unclear etiology.
+   PMHx:
+   EF: 55%  Wt:150 kg  Cr: 1.3
+   PMH:HTN, s/p jaw surgery
+   [**Last Name (un) **]:none
+   Current medications:
+   1. 2. 20 gm Calcium Gluconate/ 500 mL D5W 3. 250 mL D5W 4.
+   Acetaminophen 5. Albuterol Inhaler
+   6. Aspirin EC 7. Aspirin 8. Calcium Gluconate 9. Chlorhexidine
+   Gluconate 0.12% Oral Rinse 10. Citrate Dextrose 3% (ACD-A) CRRT
+   11. Dextrose 50% 12. Docusate Sodium 13. Docusate Sodium (Liquid) 14.
+   Fentanyl Citrate 15. Heparin
+   16. HydrALAzine 17. Insulin 18. Ipratropium Bromide MDI 19. Labetalol
+   20. Magnesium Sulfate 21. Metoclopramide
+   22. Milk of Magnesia 23. Nitroglycerin 24. Potassium Chloride 10 mEq /
+   100 mL SW (CRRT Only) 25. Potassium Chloride
+   26. Prismasate (B22 K4)* 27. Prismasate (B32 K2) 28. Ranitidine 29.
+   Sodium CITRATE 4% 30. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+ BLOOD CULTURED - At [**3310-5-4**] 09:54 AM
+   Quinton cath cultured
+ CCO PAC - STOP [**3310-5-4**] 11:12 AM
+   - EEG: Prelim no sz activity
+   - Started on CVVH, minimal UOP
+   - Remains intubated, on Propofol and Labetalol gtts
+   - Lines changed Friday
+   Post operative day:
+   POD#5 - Bental
+   Allergies:
+   Calamine
+   Unknown;
+   Caladryl (Topical) (Pramoxine Hcl/Camphor/Calamine)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   KCl (CRRT) - 6 mEq./hour
+   Calcium Gluconate (CRRT) - 3.2 grams/hour
+   Propofol - 10 mcg/Kg/min
+   Labetalol - 2 mg/min
+   Other ICU medications:
+   Hydralazine - [**3310-5-4**] 02:00 PM
+   Heparin Sodium (Prophylaxis) - [**3310-5-4**] 10:51 PM
+   Flowsheet Data as of  [**3310-5-5**] 08:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**12**] a.m.
+   Tmax: 38.1
+C (100.6
+   T current: 37.1
+C (98.8
+   HR: 81 (80 - 94) bpm
+   BP: 119/58(74) {98/47(61) - 151/72(92)} mmHg
+   RR: 21 (19 - 26) insp/min
+   SPO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 161.8 kg (admission): 150 kg
+   Height: 75 Inch
+   CVP: 28 (27 - 28) mmHg
+   PAP: (42 mmHg) / (21 mmHg)
+   CO/CI (Fick): (6.5 L/min) / (2.4 L/min/m2)
+   CO/CI (CCO): (7.4 L/min) / (2.7 L/min/m2)
+   SvO2: 57%
+   Total In:
+                                                                  6,765 mL
+                                                                  2,964 mL
+   PO:
+   Tube feeding:
+                                                                     71 mL
+   IV Fluid:
+                                                                  6,765 mL
+                                                                  2,863 mL
+   Blood products:
+   Total out:
+                                                                  9,292 mL
+                                                                  3,569 mL
+   Urine:
+                                                                    120 mL
+                                                                     25 mL
+   NG:
+                                                                    600 mL
+                                                                    400 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,527 mL
+                                                                   -600 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 700 (700 - 700) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 60%
+   PIP: 41 cmH2O
+   Plateau: 29 cmH2O
+   SPO2: 94%
+   ABG: 7.45/44/125/28/6
+   Ve: 13.9 L/min
+   PaO2 / FiO2: 250
+   Physical Examination
+   General Appearance: Intubated
+   HEENT: PERRL, Pupils 2mm min reactive
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: Bilaterally), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Obese
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Responds to: Unresponsive), No(t) Moves all extremities,
+   (RLE: No movement), (LLE: No movement), opens eyes to voice at times,
+   not following commands, no withdrawal to pain in the LE, moves UE
+   sponateously
+   Labs / Radiology
+   246 K/uL
+   9.1 g/dL
+   115 mg/dL
+   4.9 mg/dL
+   28 mEq/L
+   4.4 mEq/L
+   55 mg/dL
+   96 mEq/L
+   138 mEq/L
+   26.5 %
+   15.2 K/uL
+        [image002.jpg]
+                             [**3310-5-3**]  10:58 PM
+                             [**3310-5-4**]  03:48 AM
+                             [**3310-5-4**]  04:25 AM
+                             [**3310-5-4**]  09:49 AM
+                             [**3310-5-4**]  02:23 PM
+                             [**3310-5-4**]  02:38 PM
+                             [**3310-5-4**]  05:57 PM
+                             [**3310-5-4**]  10:48 PM
+                             [**3310-5-5**]  03:32 AM
+                             [**3310-5-5**]  03:44 AM
+   WBC
+   16.5
+   15.9
+   15.2
+   Hct
+   27.5
+   27.4
+   26.5
+   Plt
+   149
+   175
+   246
+   Creatinine
+   5.2
+   5.3
+   4.9
+   TCO2
+   28
+   29
+   24
+   28
+   29
+   28
+   32
+   Glucose
+   119
+   108
+   89
+   119
+   102
+   115
+   Other labs: PT / PTT / INR:16.7/34.6/1.5, CK / CK-MB / Troponin
+   T:8701/19/0.10, ALT / AST:65/404, Alk-Phos / T bili:76/1.4, Amylase /
+   Lipase:77/113, Differential-Neuts:87.2 %, Lymph:7.3 %, Mono:4.9 %,
+   Eos:0.2 %, Fibrinogen:126 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:3.0
+   g/dL, LDH:914 IU/L, Ca:8.5 mg/dL, Mg:2.2 mg/dL, PO4:6.7 mg/dL
+   Imaging: CXR: wide mediastinum, cardiomegaly, no infiltrate
+   Microbiology: Sputum: Sparse GNR (OP flora)
+   Blood cx: P
+   Urine cx: P
+   R IJ tip: NG (final)
+   Assessment and Plan
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**]), ALTERED MENTAL STATUS (NOT
+   DELIRIUM), RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF), AORTIC
+   DISSECTION, HYPERGLYCEMIA, ALTERATION IN TISSUE PERFUSION, PAIN CONTROL
+   (ACUTE PAIN, CHRONIC PAIN)
+   Assessment and Plan: 40M s/p emergent Replacement Ascending
+   aorta/hemiarch (24 mm gelweave graft), resuspension aortic valve [**4-30**],
+   POD 5, with persistent abnormal mental status of unclear etiology, and
+   ARF requiring CVVH.
+   Neurologic: Neuro checks Q: 2 hr, Mental status has not improved, exam
+   difficult to localize, pt not moving his lower extremities. Neuro
+   following. EEG prelim w/o sz activity, f/u final read. Consider repeat
+   CT head vs MRI of brain today, will d/w Neuro most useful imaging
+   modality at this time. Minimize sedation, stop Propofol, use Fentanyl
+   PRN.
+   Cardiovascular: Swan d/c
+d yesterday, remains on labetalol gtt, .
+   Aspirin, Hydralazine PRN. Goal SBP 120.
+   Pulmonary: Cont ETT, (Ventilator mode: CMV), Changed to PS [**11-1**] 50%
+   this AM. Check ABG after 30 mins on this setting. Continue
+   albuterol/atrovent inhalers.
+   Gastrointestinal / Abdomen: Replace Dobhoff. Moving bowels. Guaiac all
+   stools.
+   Nutrition: Tube feeding, Restart TF once Dobhoff confirmed.
+   Renal: Foley, CVVH, Minimal UOP. Renal following. Remove 1 L per day
+   with CVVH.
+   Hematology: Stable anemia, no active bleeding. PLTs normal.
+   Endocrine: RISS, Adequate glycemic control. Goal BS < 150.
+   Infectious Disease: Check cultures, Had been having high fevers last
+   week, in last 24h Tmax 100.6 (on CVVH). WBC trending down. Repeat
+   sputum today. Previous sample with SPARSE GNRs, culture indicating OP
+   flora. Lines changed Friday. Will start Zosyn/Cipro  for sputum pending
+   further cx data and speciation.
+   Lines / Tubes / Drains: Foley, OGT, Dobhoff, ETT, Flexi-seal.
+   Wounds: Dry dressings
+   Imaging:  Possible CT head vs MRI today.
+   Fluids:
+   Consults: CT surgery, Neurology, Nephrology, P.T.
+   Billing Diagnosis: (Respiratory distress: Failure), Post-op
+   hypertension, Acute renal failure
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3310-5-5**] 06:00 AM 10 mL/hour
+   Comments:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3310-4-30**] 12:00 PM
+   Dialysis Catheter - [**3310-5-2**] 02:17 PM
+   Cordis/Introducer - [**3310-5-2**] 05:20 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+
+
+DOC CLASS

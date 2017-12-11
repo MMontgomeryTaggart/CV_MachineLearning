@@ -1,0 +1,138 @@
+*******************  Extra Trees Classifier Performance and Parameters with CUSTOM STOPWORDS *******************
+
+##### Extra Trees (Downsampled) ######
+Accuracy: 0.732
+F-Score: 0.606
+Precision (PPV): 0.449
+Recall (Sensitivity): 0.932
+Specificity: 0.675
+NPV: 0.972
+
+##### Extra Trees (Not Downsampled) ######
+Accuracy: 0.800
+F-Score: 0.643
+Precision (PPV): 0.531
+Recall (Sensitivity): 0.815
+Specificity: 0.796
+NPV: 0.938
+
+Parameters for downsampled and not downsampled:
+Number of Trees: 80
+Split Criterion: Gini
+N-Gram Range: 1-3
+Num Features: sqrt(vocabulary_size) which turned out to be 729 for the non-downsampled set and 533 for the downsampled set.
+
+Custom Stopword List: ['age','ago','also','already',
+                       'x','year', 'old', 'man', 'woman', 'ap',
+                        'am', 'pm', 'portable', 'pa', 'lat',
+                        'admitting', 'diagnosis', 'lateral',
+                        'bb','bp','c','daily','data','date','abd','abg',
+                        'mg','ast','av','ck','cm','cr','cv','cvp','cpk','cx','day','dp','ed','f','ffp'
+                         ,'hct','hd','icu','ii','id','ml','af','arf','bs',
+                         'cc','ccu','hr','ef','fen','hpi','l','k','r','ra','abx'
+                          'alk','phos','iv','ext','gi','iv','ivf','ni','ng','vs','vt','yo','yn',
+                          'zosyn','kg','abx','alk','alt','ckmb','ct','cta','p','pe','po','c','ck','ca'
+                          'q','cr','ni','ett','iv','g','h','j','k','l','z','x','c','v','b','n','m','i','ii',
+                          'iii','iv','kg','lll','lvh','mb','mcg','md','ml','xl','wnl','wgt',
+                          'q','w','e','r','t','y','u','i','o','p','first','gm','hcl','hs','hrs',
+                          'inr','mmm','mr','mri','mrsa','ms','lf','nl','ns','nsr','sh','nt','tf','tr'
+                          ,'wbc','plt','bcx','bph','bmp','mmhg','bps','sq','ld','ce','cbc','ckd',
+                          'cp','cxr','cva','cvicu','dm','dr','name','ep','er','gtt','iabp','cxr',
+                          'jvd','jvp','pt','kvo','lbs','na','nad','nd','nph','npo','osh']
+
+
+
+
+
+******************* Extra Trees Classifier Performance and Parameters with STOCK ENGLISH STOPWORDS *******************
+All parameters are the same as above except the stopwords and the number of features. The number of features
+is given below.
+
+##### Extra Trees (Downsampled) ######
+Num Features: sqrt(vocabulary_size) which turned out to be 536
+
+Accuracy: 0.767
+F-Score: 0.640
+Precision: 0.486
+Recall (Sensitivity): 0.938
+Specificity: 0.718
+NPV: 0.976
+
+##### Extra Trees (Not Downsampled) ######
+Num Features: sqrt(vocabulary_size) which turned out to be 731
+
+Accuracy: 0.812
+F-Score: 0.656
+Precision: 0.551
+Recall (Sensitivity): 0.808
+Specificity: 0.813
+NPV: 0.937
+
+
+
+
+
+
+*******************    Support Vector Machine Performance and Parameters  *******************
+
+##### SVM (Downsampled) ######
+Accuracy: 0.818
+F-Score: 0.674
+Precision (PPV): 0.559
+Recall (Sensitivity): 0.849
+Specificity: 0.809
+NPV: 0.950
+
+##### SVM (Not Downsampled) ######
+Accuracy: 0.871
+F-Score: 0.710
+Precision (PPV): 0.707
+Recall (Sensitivity): 0.712
+Specificity: 0.916
+NPV: 0.918
+
+Parameters for downsampled and not downsampled:
+N-Gram Range: 103
+Minimum Document Frequency: 0.001
+Maximum Document Frequency: .5
+Stop Words: "english"
+Number of Features: 100
+C: 1000
+Kernel: linear
+
+
+
+
+
+
+
+******************* Convolutional Neural Network Paramaters and Performance ******************
+
+##### CNN (Downsampled) ######
+Performance:
+Accuracy: 0.582
+F-Score: 0.395
+Precision: 0.290
+Recall (Sensitivity): 0.616
+Specificity: 0.572
+NPV: 0.840
+
+Parameters:
+Epochs: 12
+Batch Size: 8
+Word Embeddings: GloVe
+
+
+##### CNN (Not Downsampled) ######
+Performance:
+Accuracy: 0.679
+F-Score: 0.329
+Precision: 0.306
+Recall (Sensitivity): 0.356
+Specificity: 0.770
+NPV: 0.808
+
+Parameters:
+Epochs: 4
+Batch Size: 8
+Word Embeddings: GloVe

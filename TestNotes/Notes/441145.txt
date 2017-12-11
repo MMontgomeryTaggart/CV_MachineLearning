@@ -1,0 +1,240 @@
+SICU
+   HPI:
+   71F h/o of likely alcoholic cirrhosis, p/w acute on chronic kidney
+   injury, prob hepatorenal syndrome, developing severe neutropenia then
+   acute abdomen w/abd CT suggesting sigmoid diverticulitis with perf, s/p
+   surgical rsxn [**3175-9-23**] SBR, sigmoid colectomy, Hartmann end colostomy.
+   Patient had brief SICU course on [**10-9**] when was tachycardiac and
+   hypotensive. Treated with 500ml albumin and 500ml LR. Concern for
+   potential for respiratory distress given ESRD. Tx to SICU for w/u and
+   evaluation of potential shock -- cardiogenic vs. distributive/septic
+   PMHx:
+   * CKD with baseline 3.3-3.5, s/p AIN from cipro-induced renal failure.
+   Dialysis MWF
+   * macrocytic anemia
+   * CAD s/p silent MI 4 yrs ago
+   * HTN with diastolic CHF, TTE in [**3175-2-2**] showing EF>55%, with moderate
+   AS and mild LV enlargement
+   * cryptogenic cirrhosis with h/o ascites s/p TIPS
+   * psoriasis
+   * gout, on prednisone x 2 yrs, on allopurinol
+   * depression/anxiety
+   * T1NoMo inf. ductal breast ca, Left, dx 5 years ago s/p
+   lumpectomy and XRT/aromatase inhibitor; normal mammogram in
+   [**Month (only) 1127**]
+   * Lumbar DJD with L4/L5 radiculopathy (RLE) s/p ESI, last [**1-10**]
+   .
+   PSH: Midline incisional hernia repair with mesh, lap CCY, tubal
+   ligation, HD catheter placement, RFA right saphenous vein
+   Current medications:
+   Acetaminophen
+   Albumin 25% (12.5g / 50mL)
+   Fentanyl Patch
+   HYDROmorphone (Dilaudid)
+   Heparin
+   Insulin
+   Metoprolol Tartrate
+   Ondansetron
+   Pantoprazole
+   Potassium Chloride
+   PredniSONE
+   24 Hour Events:
+ EKG - At [**3175-10-28**] 03:48 PM
+   For N+V. MD [**First Name (Titles) 4947**] [**Last Name (Titles) 3339**] and to examine.
+ THORACENTESIS - At [**3175-10-28**] 07:00 PM
+   750cc removed; cultures sent
+   Allergies:
+   Sulfonamides
+   Rash; Nausea/[**Last Name (un) **]
+   Edecrin (Oral) (Ethacrynic Acid)
+   Rash;
+   Iodine
+   Unknown;
+   Cipro (Oral) (Ciprofloxacin Hcl)
+   Renal Toxicity;
+   Piroxicam
+   Renal Toxicity;
+   Questran (Oral) (Cholestyramine/Sucrose)
+   Rash;
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Abdominal pain;
+   Last dose of Antibiotics:
+   Meropenem - [**3175-10-27**] 10:13 PM
+   Linezolid - [**3175-10-28**] 12:15 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3175-10-28**] 08:07 PM
+   Heparin Sodium (Prophylaxis) - [**3175-10-28**] 08:07 PM
+   Hydromorphone (Dilaudid) - [**3175-10-28**] 11:43 PM
+   Metoprolol - [**3175-10-29**] 01:13 AM
+   Other medications:
+   Flowsheet Data as of  [**3175-10-29**] 04:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**78**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 35.8
+C (96.5
+   HR: 89 (89 - 151) bpm
+   BP: 117/49(64) {89/32(46) - 126/65(74)} mmHg
+   RR: 17 (17 - 31) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+             Total In:
+                                                                  3,063 mL
+                                                                    329 mL
+   PO:
+                                                                     30 mL
+             Tube feeding:
+                                                                    265 mL
+   IV Fluid:
+                                                                    558 mL
+                                                                     47 mL
+   Blood products:
+                                                                    330 mL
+   Total out:
+                                                                    900 mL
+                                                                     20 mL
+   Urine:
+                                                                     50 mL
+                                                                     20 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    750 mL
+   Balance:
+                                                                  2,163 mL
+                                                                    309 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 100%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: irreg rhythm
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Crackles : L > R base)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended, ostomy
+   functioning
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   133 K/uL
+   9.7 g/dL
+   119 mg/dL
+   2.0 mg/dL
+   27 mEq/L
+   3.5 mEq/L
+   63 mg/dL
+   98 mEq/L
+   137 mEq/L
+   28.9 %
+   10.5 K/uL
+        [image002.jpg]
+                            [**3175-10-26**]  09:39 PM
+                            [**3175-10-27**]  02:44 AM
+                            [**3175-10-27**]  11:31 AM
+                            [**3175-10-27**]  08:51 PM
+                            [**3175-10-28**]  03:28 AM
+                            [**3175-10-28**]  05:35 PM
+                            [**3175-10-29**]  02:28 AM
+   WBC
+   13.3
+   12.1
+   6.6
+   7.1
+   10.5
+   Hct
+   29.6
+   27.7
+   28.2
+   25.5
+   26.4
+   28.9
+   Plt
+   162
+   147
+   113
+   106
+   133
+   Creatinine
+   2.3
+   2.5
+   1.5
+   1.6
+   2.0
+   Troponin T
+   0.04
+   0.05
+   Glucose
+   126
+   106
+   108
+   125
+   119
+   Other labs: PT / PTT / INR:15.7/36.8/1.4, CK / CK-MB / Troponin
+   T:6//0.05, ALT / AST:9/40, Alk-Phos / T bili:381/1.8, Lactic Acid:2.5
+   mmol/L, Ca:8.4 mg/dL, Mg:2.2 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   ASCITES, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), TACHYCARDIA, OTHER,
+   HYPOTENSION (NOT SHOCK)
+   Assessment and Plan: 71F with cirrhosis, ARF due to AIN (on HD),
+   neutropenia, s/p SBR, sigmoid colectomy, Hartmann end colostomy, new
+   onset hypotension
+   .
+   PLAN:
+   Neurologic: neuro intact, pain well-controlled on fentanyl patch,
+   diluadid PRN, monitor MS
+   Cardiovascular: cardiac enzymes(-), c/s cards. Metoprolol 50 [**Hospital1 7**]. Last
+   echo EF>55%, with mod aortic stensois and mild LVH in [**2-10**]. Increase PO
+   lopressor to 50 TID as tolerated to limit need for IV dosing.
+   Pulmonary: NC O2, s/p IP tap 750 ml transudate, f/u cx
+   FEN/GI: Dobhoff in place but clogged
+ IR for new Dobhoff
+   (post-pyloric);  TF on hold, PPI
+   Renal: Acute on chronic renal failure. History of renal insufficiency
+   follow creatinine, electrolytes, Follow urine output, prn boluses of
+   albumin, HD MWF (albumin repletion with HD), plan for 2 L off today
+   with HD
+   Hematology: HCT 26.4 s/p 1 unit
+   Endocrine: RISS, adequate control.
+   Infectious Disease: MRSA, s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 600**]/fluc/linezolid;  cx(-) so far
+   Lines / Tubes / Drains: PICC, R HD line
+   Wounds: Abdominal wound clean dry, stoma
+   Consults: Transplant surgery
+   Billing Diagnosis: a fib
+   Prophylaxis:
+   DVT: Boots, SQH
+   Stress ulcer: PPI
+   VAP bundle: n/a
+   Code status: Full
+   Disposition: Floor
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3175-10-28**] 03:44 PM 62.5 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3175-10-26**] 03:53 PM
+   Dialysis Catheter - [**3175-10-26**] 04:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:  n/a
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 33 minutes
+
+
+DOC CLASS

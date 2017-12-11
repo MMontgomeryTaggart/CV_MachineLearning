@@ -1,0 +1,202 @@
+Admission Date:  [**2704-7-18**]              Discharge Date:   [**2704-7-26**]
+
+Date of Birth:  [**2658-10-25**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**7-21**] Minimally invasive (Endoscopic) Coronary Artery Bypass
+Graft x 1 (Left internal mammary artery to left anterior
+descending)
+[**2704-7-25**] stent to right coronary artery
+
+
+History of Present Illness:
+45 yo Cantonese speaking male with no past medical history
+admitted directly to cath lab from ETT lab with markedly
+positive ETT. Pt has been experiencing chest
+discomfort with exertion after eating for the past few months.
+
+Past Medical History:
+none
+
+Social History:
+works in computers
+Last Dental Exam: [**Month (only) **]/[**2703-9-23**]
+Lives with:wife
+[**Name (NI) **]:Asian
+Tobacco:quit 4 years ago, smoked for 20 yrs
+
+Family History:
+non-contributory
+
+Physical Exam:
+Pulse: 62     Resp: 18     O2 sat:  99
+B/P  130/88
+Height: 5'1"   Weight: 63.5 kg
+
+General: No acute distress
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x] no lymphadenopathy
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur no
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema none
+Varicosities: None [x]
+Neuro: Grossly intact nonfocal alert and oriented
+Pulses:
+Femoral      Right: +2   Left: +2
+DP           Right: +2   Left: +2
+PT           [**Name (NI) 647**]: +2   Left: +2
+Radial       Right: +2   Left: +2
+
+Carotid Bruit        Right: no bruit    Left: no bruit
+
+Pertinent Results:
+[**2704-7-18**] Cath: 1. Selective coronary angiography in this right
+dominant system demonstrated three vessel coronary artery
+disease.  The LMCA was without angiographic evidence of
+stenosis.  The LAD was a long vessel that wrapped around the
+aped.  There was a long 70% stenosis in the proximal and mid
+LAD.  The LCX had a 90% occlusion prior to a small caliber LPL
+branch.  The RCA was of anterior origin and had diffuse 80% mid
+and distal stenosis. 2. Resting hemodynamics limited to the
+central aortic pressure revealed normotension (130/70mmHg).
+There was no evidence of gradient across the aortic valve on
+carefull pullback of the angled pigtail catheter from the left
+ventricle to the ascending aorta. 3. Left ventriculography
+revealed no mitral regurgitation.  The LVEF was calculated to be
+65% with no evidence of wall motion abnormalities.
+[**2704-7-21**] Echo: No spontaneous echo contrast or thrombus is seen
+in the body of the left atrium/left atrial appendage or the body
+of the right atrium/right atrial appendage. A patent foramen
+ovale is present. Left ventricular wall thickness, cavity size,
+and global systolic function are normal (LVEF>55%). Regional
+left ventricular wall motion is normal. Right ventricular
+chamber size is normal. with normal free wall contractility.
+There are simple atheroma in the descending thoracic aorta. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic regurgitation. Trivial mitral
+regurgitation is seen. There is no pericardial effusion. After
+coronary graft was placed, there were no gignificant changes
+noted. Dr. [**Last Name (STitle) **] was notified in person of the results
+in the operating room at the time of the study.
+[**2704-7-23**] 07:00AM BLOOD WBC-12.6* RBC-3.58* Hgb-10.6* Hct-29.9*
+MCV-84 MCH-29.6 MCHC-35.4* RDW-13.0 Plt Ct-194
+[**2704-7-23**] 07:00AM BLOOD Glucose-129* UreaN-10 Creat-1.0 Na-141
+K-3.6 Cl-105 HCO3-29 AnGap-11
+
+Conclusions
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. A patent foramen ovale is
+present. Left ventricular wall thickness, cavity size, and
+global systolic function are normal (LVEF>55%). Regional left
+ventricular wall motion is normal. Right ventricular chamber
+size is normal. with normal free wall contractility. There are
+simple atheroma in the descending thoracic aorta. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. Trivial mitral
+regurgitation is seen. There is no pericardial effusion. After
+coronary graft was placed, there were no gignificant changes
+noted. Dr. [**Last Name (STitle) **] was notified in person of the results
+in the operating room at the time of the study.
+
+[**2704-7-26**] 05:05AM BLOOD WBC-9.8 RBC-3.32* Hgb-9.7* Hct-28.0*
+MCV-84 MCH-29.2 MCHC-34.7 RDW-12.7 Plt Ct-305
+[**2704-7-25**] 05:15AM BLOOD Glucose-137* UreaN-12 Creat-1.1 Na-139
+K-4.4 Cl-104 HCO3-29 AnGap-10
+[**2704-7-26**] 05:05AM BLOOD UreaN-11 Creat-1.0 K-4.7
+
+Brief Hospital Course:
+As mentioned in the HPI, Mr. [**Known patient lastname **] was brought to the cath lab on
+[**7-18**] where he was found to have multi-vessel coronary artery
+disease. Cardiac surgery was consulted as was appropriately
+worked-up for minimally invasive bypass surgery. On [**7-21**] he was
+brought to the operating room where he underwent a minimally
+invasive coronary artery bypass graft x 1. Please see operative
+report for surgical details. Following surgery he was
+transferred to the CVICU for invasive monitoring. Within 24
+hours he was weaned from sedation, awoke neurologically intact
+and extubated. On post-operative day one he was transferred to
+the telemetry floor for further care. Chest tube was removed per
+protocol.  The patient made excellent progress post-operatively.
+ On Monday, [**2704-7-25**] he was taken to the cath lab where he
+received a stent to the right coronary artery.  He was observed
+overnight without incident.  He was discharged to home with VNA
+services on POD 5.
+
+Medications on Admission:
+none
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever.
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO twice
+a day.
+Disp:*60 Tablet(s)* Refills:*2*
+7. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily). Tablet, Delayed
+Release (E.C.)(s)
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 289**] Homecare
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x 1,
+stent to right coronary artery
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 3620**] at
+([**Telephone/Fax (1) 72**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No driving while taking narcotics for pain.
+6) Call with any questions or concerns.
+
+Followup Instructions:
+Dr. [**First Name (STitle) **] in 4 weeks
+Dr. [**Last Name (STitle) **] in [**1-26**] weeks
+Dr. [**Last Name (STitle) 2547**] in [**12-25**] weeks
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**2704-7-26**]
+
+DOC CLASS

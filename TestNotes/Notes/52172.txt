@@ -1,0 +1,25 @@
+Admission Date:  [**2766-12-26**]       Discharge Date:  [**2767-1-9**]
+
+Date of Birth:   [**2692-2-10**]       Sex:  M
+
+Service:  ACOVE
+
+CORRECTION T0 DISCHARGE MEDICATIONS:  Metoclopramide 10 mg q
+6 per PEG.
+
+
+
+
+
+
+                            [**Name6 (MD) 375**] [**Name8 (MD) **], M.D.  [**MD Number(1) 3279**]
+
+Dictated By:[**Last Name (NamePattern1) 6292**]
+MEDQUIST36
+
+D:  [**2767-1-9**]  10:54
+T:  [**2767-1-9**]  11:36
+JOB#:  [**Job Number 19609**]
+
+
+DOC CLASS

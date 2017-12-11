@@ -1,0 +1,212 @@
+CVICU
+   HPI:
+   HD10
+   [**6-25**] POD 8
+   73M s/p urgentCABG x 3(LIMA-LAD,SVG-OM2,SVG-PDA)/AVR(21mm CE Magna)/
+   MVR(27mm Mosaic [**Company 1958**] Porcine) [**6-17**]
+   CEFTRIAXONE - uti F/u SENSITIVES
+   EF:55%, Cr:0.9 , wt:128 kgs, HbA1c: 7.1
+   PMH: DM2, ^chol, Depression, osteoarthritis, Prostate CA,Obesity
+   PSH: Bilat TKR, ORIF Rt femur [**2635-2-18**], Appy, lft shoulder surgery,
+   TURP
+   [**Last Name (un) **]: Metformin 1000", Lisinopril 20', Atorvastatin 80', HCTZ25', Cartia
+   XR 300', Ambien 10-hs, Paxil 40', Lorazepam 0.5 TID/prn, MVI,
+   Glucosamine, Oxycodone 5 Q3hr/prn, Enoxaparin 30", colace 100", Senna
+   8.6", CaCarbonate 500-tid, Vit D
+   [**6-18**] iabp removed, vasopressin no change, weaning levo and epi, changed
+   to fentanyl and versed, svo2 decreased - PRBC, pacing
+   [**6-19**] remains tenuous Epi/Levo up and down,Dobut 5mcg->improved
+   CI/SV02,Diuril/Lasix incr. uo. Cr to 3.2 from 2.9
+   [**6-20**]:Weaning Epi/Levo. Dobutamine started overnite 2'low
+   SVO2/BP->responds well. Tx 1u PRBC, HCT=26. HIT panel sent PLT ct
+   dropping.Sedation off. Not following commands.ATN->Cr rising. Lasix
+   GTT. goal 1-1.5L neg/24h
+   [**6-21**]: RAF->Amio/GTT.lyte repletion. Weaned GTTs->Levo off. Dobuta-down.
+   Heparin free swan floated. PLTs=8. Argatraban started. HIT PND.Heme
+   consulted. No sedation->allow to wake. Lasix gtt ^ for even bal.
+   [**6-24**]-RAF 180 w/ good BP. Amio->SR gtt on.DHT (prob stomach) placed-TF
+   BEGUN. Plan ext. in am.
+   Current medications:
+   Acetaminophen . Argatroban. Atorvastatin  Calcium GluconatChlorhexidine
+   Gluconate 0.12% Oral Rinse . Dextrose 50% . Docusate Sodium (Liquid) .
+   Famotidine Furosemide Insulin . Magnesium Sulfate . Metoprolol Tartrate
+   . Milk of Magnesia . Midazolam Nitroglycerin . OxycoDONE-Acetaminophen
+   Elixir . Paroxetine .
+   24 Hour Events:
+   Post operative day:
+   POD 8 MVR/CABG
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Argatroban - 1.25 mcg/Kg/min
+   Nitroglycerin - 1.5 mcg/Kg/min
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Midazolam (Versed) - [**2635-6-24**] 02:40 PM
+   Famotidine (Pepcid) - [**2635-6-24**] 09:00 PM
+   Metoprolol - [**2635-6-25**] 05:42 AM
+   Other medications:
+   Flowsheet Data as of  [**2635-6-25**] 09:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**38**] a.m.
+   Tmax: 37.2
+C (98.9
+   T current: 37
+C (98.6
+   HR: 84 (70 - 159) bpm
+   BP: 125/59(74) {112/54(68) - 152/75(96)} mmHg
+   RR: 21 (10 - 51) insp/min
+   SPO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 154.5 kg (admission): 129 kg
+   Height: 70 Inch
+   CVP: 21 (14 - 33) mmHg
+   Total In:
+                                                                  1,772 mL
+                                                                  1,171 mL
+   PO:
+   Tube feeding:
+                                                                    150 mL
+                                                                    250 mL
+   IV Fluid:
+                                                                  1,236 mL
+                                                                    771 mL
+   Blood products:
+                                                                    386 mL
+   Total out:
+                                                                  1,045 mL
+                                                                    450 mL
+   Urine:
+                                                                  1,045 mL
+                                                                    450 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    727 mL
+                                                                    721 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 422 (375 - 469) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 31
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 21 cmH2O
+   SPO2: 94%
+   ABG: 7.46/39/86/26/3
+   Ve: 12.9 L/min
+   PaO2 / FiO2: 172
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: sl at bases.), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, Obese
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   30 K/uL
+   8.5 g/dL
+   157 mg/dL
+   2.3 mg/dL
+   26 mEq/L
+   3.9 mEq/L
+   60 mg/dL
+   107 mEq/L
+   142 mEq/L
+   25.4 %
+   18.2 K/uL
+        [image002.jpg]
+                             [**2635-6-24**]  01:14 AM
+                             [**2635-6-24**]  03:11 AM
+                             [**2635-6-24**]  03:25 AM
+                             [**2635-6-24**]  09:53 AM
+                             [**2635-6-24**]  10:18 AM
+                             [**2635-6-24**]  05:30 PM
+                             [**2635-6-24**]  05:35 PM
+                             [**2635-6-24**]  10:57 PM
+                             [**2635-6-25**]  03:52 AM
+                             [**2635-6-25**]  04:05 AM
+   WBC
+   18.0
+   17.9
+   18.2
+   Hct
+   25.8
+   26.0
+   25.4
+   Plt
+   13
+   25
+   26
+   30
+   Creatinine
+   2.1
+   2.3
+   TCO2
+   27
+   29
+   27
+   28
+   26
+   29
+   Glucose
+   99
+   129
+   136
+   157
+   Other labs: PT / PTT / INR:37.9/56.0/4.1, ALT / AST:86/50, Alk-Phos / T
+   bili:64/1.9, Amylase / Lipase:182/346, Differential-Neuts:95.0 %,
+   Band:0.0 %, Lymph:2.0 %, Mono:1.0 %, Eos:2.0 %, Fibrinogen:280 mg/dL,
+   Lactic Acid:2.0 mmol/L, Albumin:4.0 g/dL, LDH:340 IU/L, Ca:8.2 mg/dL,
+   Mg:2.7 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   HYPERGLYCEMIA, CORONARY ARTERY BYPASS GRAFT (CABG), VALVE REPLACEMENT,
+   MITRAL MECHANICAL (MVR), VALVE REPLACEMENT, AORTIC MECHANICAL (AVR),
+   IMPAIRED PHYSICAL MOBILITY, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   Assessment and Plan: Stable CV. On CPAP [**5-31**]-sl. anxious-incr to 8PEEP
+   for size adjustment.
+   Neurologic: Neuro checks Q: 2 hr
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   Argatroban for ??HITT
+   Pulmonary: Extubate today, (Ventilator mode: CPAP + PS)
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding
+   Renal: Foley, Lasix prn
+   Endocrine: RISS
+   Lines / Tubes / Drains: Foley, Dobhoff, ETT
+   Wounds: Dry dressings
+   Fluids: Other
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**2635-6-24**] 04:30 PM 30 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2635-6-17**] 07:28 PM
+   20 Gauge - [**2635-6-22**] 10:01 AM
+   Multi Lumen - [**2635-6-22**] 11:22 AM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Argatroban (TM))
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

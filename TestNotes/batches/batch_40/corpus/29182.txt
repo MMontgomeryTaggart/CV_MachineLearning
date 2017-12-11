@@ -1,0 +1,431 @@
+Admission Date:  [**3017-10-18**]              Discharge Date:   [**3017-11-5**]
+
+Date of Birth:  [**2951-5-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:[**First Name3 (LF) 293**]
+Chief Complaint:
+Tachypnea
+
+Major Surgical or Invasive Procedure:
+IR-guided PICC placement
+Post-pyloric nasogastric tube placement.
+
+
+History of Present Illness:
+66 y.o. woman with complicated PMH including SLE, ESRD on HD,
+PVD, chronic atypical chest pain, and CVA, recently worked up
+for tachypnea and electrolyte abnormalities and discharged on
+[**3017-10-16**].  Subsequently went to HD the day after discharge, and
+was found to be tachypneic again on route and sent to ED again.
+No CP, no subjective SOB. Breathing slows down when asked to
+calm down.
+.
+ED course:  VS 95.8, HR 92, BP 138/100, RR 30, 90%RA. ABG with
+similar respiratory alkalosis as during recent admission. CXR
+with persistent moderate-sized right-sided pleural effusion with
+compression atelectasis. No evidence of fluid overload. Labs
+significant again for hypophosphatemia, also Hct of 20 and
+Lactate 4.0 (repeat down to 2.2). INR 6.2 (?on coumadin for IJ
+clot but not listed on DC summary med list). Pt was admitted for
+repeat workup of tachypnea.
+
+Past Medical History:
+1.  s/ p CVA ([**5-18**], with left facial drop)
+2.  HIT Ab + ([**3016**], s/p treatment with argatroban and Coumadin,
+PF4+ in [**4-19**])
+3.  TTP (s/p plasmapheresis *10)
+4.  ESRD on HD (first HD, [**3016-9-20**], HD three days/week), s/p
+5.  VRE septic thrombophlebitis in IJ ([**1-19**]) s/p linezolid)
+6.  C. difficile colitis with h/o failed flagyl
+7.  SLE (diagnosed [**3015**])
+8.  HTN
+9.  ACD (baseline Hct from [**Date range (1) 15964**], 26---37)
+10. Bowel and bladder incontinence
+11. Peripheral vascular disease
+12. Diverticulosis
+13. Peptic ulcer disease
+14. s/p Billroth II gastrectomy ([**3014**])
+15. Gout
+16. ETOH abuse
+17. Depression
+18. s/p hysterectomy
+
+
+Social History:
+She lives in a nursing home. Prior to going to the nursing home
+she was living alone. Her husband died 3 years ago. she has a
+son and [**Name2 (NI) 12747**]. Her son lives locally with his wife. they are
+supportive. used to work as [**Name8 (MD) **] RN. Smoked for 8 years about [**2-15**]
+cig a day. quit about 40 years ago. Alcohol states quit 1 year
+ago, previous heavy use.  Her daughter is her HCP.
+
+
+Family History:
+Unknown
+
+Physical Exam:
+Physical Exam:
+VS: Temp: 97.1 BP: 122 / 90 HR: 93 RR: 36 (decreases when
+sleeping to RR of 12) O2sat: could not be obtained by RNs (ABG
+in ED with pO2 of 114, repeat ABG on floor showed pO2 of 132)
+general: Somnolent but responsive, tachypneic but seems
+comfortable, NAD, complaining of being cold
+HEENT: PERLLA, EOMI, anicteric, no scleral icterus,
+lungs: CTA, decreased BS at bases
+heart: RR, S1 and S2 wnl, [**3-18**] holosystolic murmur at left
+sternal border, no rubs or gallops
+abdomen: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+extremities: no cyanosis. Left lower extremity edema up to the
+knee - no tenderness.
+skin/nails: no rashes/no jaundice/no splinters
+neuro: AAOx3. Persistant left side weakness -> residual from
+stroke. Sensation equal bilaterally. Lower extremity weakness
+bilaterally. Upper extremity weakness L>R. Able to MAE
+.
+Physical Exam on transfer to MICU:
+VS: t 96.9 oral, HR 84, BP 130/88, RR 18-32, sat 94% RA, FS 57
+General: sleepy but responsive, intermittently tachypneic during
+interview but seems comfortable, complaining of being cold, also
+with periodic lip-smacking
+HEENT: PERLLA, EOMI, anicteric, no scleral icterus,
+lungs: CTA, decreased BS at bases
+heart: reg, S1 and S2 wnl, 3/6 systolic murmur
+abdomen: +b/s, soft, non-tender, no hsm
+extremities: DP 1+ b/l, 1+ left lower extremity edema up to the
+knee skin: no rash
+neuro: AAOx3. Persistant left side weakness -> residual from CVA
+
+
+Pertinent Results:
+[**3017-10-18**] 02:59PM BLOOD WBC-2.9* RBC-2.41*# Hgb-7.9*# Hct-25.7*#
+MCV-107* MCH-32.7* MCHC-30.6* RDW-24.2* Plt Ct-PND
+[**3017-10-18**] 12:45AM BLOOD WBC-3.8* RBC-1.89* Hgb-6.2* Hct-20.4*
+MCV-108* MCH-33.0* MCHC-30.6* RDW-25.1* Plt Ct-111*
+[**3017-10-18**] 12:45AM BLOOD Neuts-60.6 Bands-0 Lymphs-34.8 Monos-3.5
+Eos-0.7 Baso-0.3
+[**3017-10-18**] 12:45AM BLOOD Hypochr-NORMAL Anisocy-3+ Poiklo-3+
+Macrocy-2+ Microcy-1+ Polychr-1+
+[**3017-10-18**] 12:45AM BLOOD PT-51.9* PTT-50.5* INR(PT)-6.2*
+[**3017-10-18**] 12:45AM BLOOD Glucose-74 UreaN-12 Creat-3.1* Na-131*
+K-4.4 Cl-107 HCO3-14* AnGap-14
+[**3017-10-18**] 12:45AM BLOOD Albumin-1.6* Calcium-7.4* Phos-1.2*
+Mg-1.5*
+[**3017-10-18**] 08:42AM BLOOD Type-ART pO2-160* pCO2-34* pH-7.39
+calTCO2-21 Base XS--3
+[**3017-10-18**] 04:04AM BLOOD Type-ART pO2-132* pCO2-14* pH-7.71*
+calTCO2-18* Base XS-1
+[**3017-10-17**] 05:17PM BLOOD Type-ART Temp-36 pO2-114* pCO2-12*
+pH-7.67* calTCO2-14* Base XS--2 Intubat-NOT INTUBA
+[**3017-10-18**] 04:04AM BLOOD Lactate-2.2*
+[**3017-10-17**] 05:17PM BLOOD Glucose-98 Lactate-4.0* Na-128* K-4.4
+Cl-107
+[**3017-10-17**] 05:17PM BLOOD Hgb-9.2* calcHCT-28 O2 Sat-98
+[**3017-10-17**] 05:17PM BLOOD freeCa-1.12
+.
+Results:
+CXR [**3017-10-17**]:
+1. Persistent moderate-sized right-sided pleural effusion with
+compression atelectasis. Underlying consolidation cannot be
+excluded.
+2. No evidence of fluid overload.
+.
+LE U/S [**3017-10-18**]:
+Occlusive left-sided DVT involving the left common femoral,
+superficial femoral and popliteal veins. Non-occlusive thrombus
+seen within the right common femoral vein, in the region of the
+junction with the greater saphenous vein.
+.
+CTA chest [**3017-10-18**]:
+1. Non-occlusive pulmonary embolus within the right upper lobe
+pulmonary artery, without associated findings to suggest
+infarct. .
+2. Small left and moderate right pleural effusions.
+3. 2-mm right upper lobe pulmonary nodule, for which no
+additional followup is required in a patient without a history
+of malignancy or increased risk for lung cancer.
+4. Anasarca.
+5. Ascending thoracic aorta diameter at upper limits of normal
+at 4 cm.
+.
+MRI/A Brain w/o contrast [**3017-10-19**]
+Limited examination secondary to motion artifact, however there
+is evidence of vascular signal in both internal carotids as well
+as the
+vertebrobasilar system, the distal branches are not completely
+visualized likely secondary to motion artifact and combination
+of atherosclerotic disease in the distal vascular branches.
+.
+Abdominal U/s complete [**3017-10-21**]
+1.  Markedly improved appearance in gallbladder wall edema from
+prior study of [**12-18**].
+2.  Interval development of fatty infiltration of the liver.
+Other forms of diffuse liver disease including cirrhosis,
+fibrosis, and possible long-term steroid use can result in this
+appearance.
+3.  Echogenic, atrophic kidneys.
+4.  Large right pleural effusion.
+.
+CT abdomen/pelvis [**3017-10-30**]
+1.  No evidence of retroperitoneal bleed.
+2.  Stable left renal hypodensity, which is too small to further
+characterize but likely a cyst.
+3.  Moderate right and small left pleural effusions which
+measure simple fluid density.  No evidence of pneumonia.
+.
+U/s RUE venous ultrasound [**3017-11-4**]
+Duplex and color Doppler demonstrate no right upper extremity
+DVT.
+Note of an occluded AV fistula within the right antecubital
+fossa.
+.
+
+
+Brief Hospital Course:
+66F h/o SLE, ESRD on HD, PVD, chronic atypical chest pain, and
+CVA, recently worked up for tachypnea and electrolyte
+abnormalities, admitted for tachypnea, and found to have PE/DVTs
+and coagulopathy.
+.
+# Hypoglycemia: During her inpatient stay she has had
+hypoglycemia in 20s and 40s. Hypoglycemia is likely
+multifactorial due to ESRD, s/p gatrectomy, and possible
+cirrhosis due to hx of ETOH abuse and poor oral intake.
+Insulinoma, although unlikely, was ruled out with normal insulin
+levels.  Patient was also treated with TPN and her hypoglycemia
+subsequently improved.  TPN was discontinued on [**3017-11-3**] with
+the placement of a post-pyloric NGT for continued feeding.  She
+additionally has had an increased appetite the last several days
+with the addtion of Megace.  No hypoglycemic events for some
+time prior to discharge.  Thus, will discharge on continued tube
+feeding and a regular diet with continued nutrition evaluation
+via qweek albumen levels.  Does not need fingersticks at this
+time, but would recommend checking one if patient becomes
+lethargic or somnolent for unclear reason.
+.
+# Tachypnea/Respiratory alkalosis: The patient was admitted for
+episodes of tachypnea, which was also the cause of a recent
+admission from which the patient had been recently discharged
+and worked up for possible etiologies. During her previous
+hospitalization, it was believed that her tachypnea was most
+likely of central origin, but a head CT did not reveal a cause.
+When the patient was admitted, her respiratory rate reached 30,
+and an ABG demonstrated a pH of 7.67 with pCO2 of 12, a pO2 of
+114 on oxygen by NC and a bicarb of 14. The patient's
+respiratory rate decreased when the patient was sleeping an a
+repeat ABG demonstrated pH 7.39 pCO2 34 pO2 160 HCO3 21. As
+anxiety was thought to be contributing to the patient's
+tachypnea, the patient was given ativan, and the respiratory
+rate remained normal during the remainder of her
+hospitalization. The patient's ativan dose was decreased to PRN
+as the patient became somnolent when taking the medication on a
+regular schedule. During the course of the patient's
+hospitalization, a head MRI/MRA and a repeat CT head did not
+suggest any other etiologies for the patient's repeated
+tachypnea. The patient was found to have a small PE (see below),
+which may have contributed to the initial tachypnea, but as the
+patient's O2 sats and HR were normal it was unclear why
+tachypnea caused by the PE would resolve with sleep.  Neuro
+suggested to consider long term EEG study to evaluate for
+central cause of tachypnea if further workup was wanted that
+revealed encephalopathy.  Tachypnea may be related to anxiety.
+Evidence in support of this is that the patient becomes less
+tachypneic when asked to breath slowly.  She was treated
+symptomatically with benzos at low dose prn for anxiety to
+prevent severe respiratory alkalosis from tachypnea.  Her
+electrolytes were additionally monitored on a daily to twice
+daily frequency without progression of her alkalosis.  On
+discharge will send with lorazepam low dose PRN.  We
+additionally started her on Megace as an appetite stimulant but
+would recommend discontinuing this if her respiratory alkalosis
+worsens.
+.
+# Coagulopathy: The patient was admitted with an INR of 6.2, PT
+of 51.9 and a PTT of 50.5. She has a history of coumadin use,
+but her coumadin was reportedly discontinued during a
+hospitalization [**3017-9-5**] for a chronic (>8month) septic
+thrombophlebitis of the left IJ vein, although it was restarted
+briefly during the patient's previous hospitalization in
+[**3017-10-9**].  The patient had a RUQ ultrasound that demonstrated new
+fatty infiltration of the liver. DIC labs did not show any
+evidence for DIC. Heme-onc was consulted and believed that the
+patient's coagulopathy could have been the result of the
+treatment with coumadin given during the patient's previous
+hospitalization, vancomycin dosing, nutritional deficiency (see
+below) or liver failure. Thus, coumadin was held until patient
+was therapeutic and was ultimately restarted prior to discharge.
+ No etiology mixed with coumadin in the setting of vancomycin
+and poor diet, with possible mild synthetic dysfunction of her
+liver.
+.
+# PE/DVT: The patient was found to have an enlarged left leg on
+admission. Ultrasound of the lower extremities revealed clots in
+both the left and the right leg and a CT chest revealed a PE.
+Because the patient's INR was already supratherapeutic (see
+above) treatment was not initiated, and the patient's tachypnea
+resolved spontaneously.  INR supratherapeutic, although clots
+developed in setting of supratherapeutic INR.  Anti-coagulation
+will be an issue given HIT.  Heme-onc is following, will follow
+recs as to anticoagulation when INR decreases.  Heme/Onc agrees
+with the possibility of an IVC filter given failure with
+therapeutic INR.  Pt received single-lumen midline for IV
+access; IR also placed an IVC filter. Current hematology
+recommendations for anticoagulation is low dose heparin 1mg
+Qday.  Goal INR [**2-15**].  Started on low dose coumadin with
+titration per facility protocol.
+.
+# Nutritional deficiency: The patient was found to have an
+albumin of 1.3. Nutrition was consulted and recommended
+supplementation that was added to the patient's diet. The
+patient was maintained on a normal diet and her diet was
+supplemented with thiamine. At the time of transfer, the patient
+and family agreed a feeding tube is needed and appropriate
+consultation is requried. Patient was evaluated by surgery, who
+felt she was a poor surgical candidate due to her nutritional
+status.  It was recommended that she get a post-pyloric NGT
+placed and that surgery be considered when albumin was greater
+than 2.  Thus, IR placed a feeding tube on [**3017-11-3**] and
+tubefeeding was started per Nutrition recs.  She should
+continued to have her albumen monitored weekly while at rehab
+and bring this information to her follow-up surgical appointment
+in approximately 3 weeks to determine if a PEG is needed & if
+she would heal properly.  She should additionally continue a
+regular renal diet and Megace.  If she takes adequate oral
+intake and meets a caloric goal of 1800 calories/day, would
+consider removing feeding tube sooner than at scheduled
+follow-up appointments.
+.
+# Hypophosphatemia: In the setting her of respiratory alkalosis,
+hypophosphatemia is likely due to transcellular shift.  However,
+phos improved with TPN.  Original concern was that she may not
+be absorbing neutraphos from gut. Thus, she was continued on
+phosphate supplementation with holding parameters.  Will be
+discharged to rehab with daily eletrolyte checks given concern
+for refeeding syndrome with continued nuetraphos with holding
+parameters.
+.
+# Anemia: Baseline hematocrit is 21-26. Hct on admission 20. Hct
+stable post 2U transfusion on [**10-29**].  Anemia studies suggest
+anemia of chronic disease plus element of hemolysis.  Unclear
+why patient would be hemolyzing.  Hct was slowly decreasing
+towards discharge, likely related to both continued blood draws
+and poor production [**2-14**] ESRD.  In the past has been fairly Epo
+resistant.  Followed by Renal throughout inpatient stay who
+suggested reinitiating epo at 10-15kU/rx so she does not become
+transfusion dependent.  The day of discharge iron studies were
+again checked and remained consistent with anemia of chronic
+disease with decrease iron and TIBC and elevated ferritin.  Will
+discharge with epo as suggested by Renal.  Should continue with
+TIweek HD and Hct monitoring at those sessions.  Would transfuse
+for Hct < 21.
+
+.
+# DVT in left brachial vein and subclavian vein & PE: Per last
+DC summary, a LUE U/S showed a subclavian and brachial DVT that
+possibly extends to the IJ. As there was evidence of clot as far
+back as [**3016**] (on a neck CT), it was felt that it did not need to
+be treated.  Patient has history of HIT, so is on coumadin for
+PE.  Started on low dose as described above.
+.
+# Hyponatremia: The patient was hyponatremic on admission, she
+was given IL NS and her hyponatremia resolved. Her electrolytes
+were monitored during the hospitalization but she had no futher
+sodium abnormalities.
+.
+# Renal failure:  She has known chronic renal failure secondary
+to SLE, on HD M/W/F.  She was continued on hemodialysis while
+inpatient and followed by the renal team.  Initially thought to
+be epo resistant, she was not continued on this - especially
+given concern for SLE related thrombophilia.  Given risk for
+transfusion-dependence, she was restarted on epo with her
+continued coumadin dosing.
+.
+# FEN: Regular diet with tubefeeding supplementation.
+Tubefeedins is Nutren Pulmonary per Nutrition.  Note, her
+tubefeeding doesn't need to be on Nutren Renal given that she is
+an HD pt and gets extra electrolytes dialyzed off.
+.
+# Code: full - daughter [**Name (NI) 9499**] HCP
+.
+Communication: daughter [**Name (NI) 9499**] [**Name (NI) 672**] [**Telephone/Fax (1) 15965**](home);
+[**Telephone/Fax (1) 15966**](husband cell)
+
+Medications on Admission:
+Discharge Medications from [**3017-10-16**]:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+2. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day) as needed for prn constipation.
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+5. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+
+PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID
+
+(2 times a day).
+9. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every
+
+6 hours): please take every six hours for the next 4 days, then
+
+take twice a day for one week, then take once a day for one
+week, then take every other day for one week, then take every
+third day for two weeks.
+.
+Medications on transfer to MICU:
+Metoprolol 25 mg PO TID
+Ascorbic Acid 500 mg PO BID
+Neutra-Phos 2 PKT PO TID
+Fluoxetine 20 mg PO DAILY
+Pantoprazole 40 mg PO Q24H
+FoLIC Acid 1 mg PO DAILY
+Senna 1 TAB PO BID:PRN
+Glucagon 1 mg IV ONCE Duration: 1 Doses, GIVE IM [**10-26**]
+Thiamine HCl 100 mg PO DAILY
+Lactulose 30 ml PO TID
+Vancomycin Oral Liquid 125 mg PO Q6H
+Lorazepam 0.25 mg PO BID
+.
+All: Heparin --> HIT
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 228**] & Rehab Center - [**Hospital1 229**]
+
+Discharge Diagnosis:
+Primary diagnoses:
+Pulmonary embolism
+Deep vein thrombosis
+hypophosphatemia
+.
+Secondary dianoses:
+end stage renal disease
+septic thrombophlebitis
+c.difficil colitis
+systemic lupus
+hypertension
+peripheral vascular disease
+peptic ulcer disease
+
+
+Discharge Condition:
+Stable
+
+
+
+
+
+DOC CLASS

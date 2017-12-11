@@ -1,0 +1,375 @@
+Admission Date:  [**3181-4-8**]              Discharge Date:   [**3181-4-21**]
+
+Date of Birth:  [**3122-8-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Oxycodone / Zanaflex
+
+Attending:[**First Name3 (LF) 682**]
+Chief Complaint:
+falls
+
+Major Surgical or Invasive Procedure:
+RIJ
+
+History of Present Illness:
+The patient is a 58 YO man with h/o PE (on coumadin), CAD, s/p L
+BKA, who has had multiple recent mechanical falls (pt reports 15
+falls over the past 5 days due to "right leg weakness"). He
+presented to the ED s/p another fall today. Pt reports "I just
+fell", but denies CP, SOB, LOC, or any pre-syncopal events. He
+does say he hit his head on the ground. After he fell, he was
+unable to get up and called his family. He was then taken to the
+ED. No reports of seizure activity. No fevers, chills, N/V/D.
+.
+In the [**Name (NI) **], pt was found to have diffuse ecchymoses, INR > 22.8,
+and hct of 28 (recent baseline 38.1). He underwent pan-CT, which
+revealed only buttock contusions. He was thought to have a R hip
+fracture clinically, however this was not seen on CT or XR. He
+had SBP in 70's, so was given 3L NS, and SBP improved to 100's.
+He had O2sat in 80's on RA, which increased to 90's on 100% NRB.
+He received naloxone, vitamin K 10mg PO, Vanc 1g IV, CTX 1g IV,
+Dexamethasone 10mg IV, 2 U FFP, and 1 U PRBC's. A right IJ was
+placed, and he was transferred to the MICU for further care.
+
+
+Past Medical History:
+hypercholesterolemia
+HTN,
+CAD s/p CABG,
+PVD,
+h/o CVA,
+total thyroidectomy for thyroid CA,
+appendectomy,
+b IH repair
+history of seizures
+PE [**12-31**] on coumadin
+
+PSH:
+R fem-DP ([**3171**]),
+R revision ([**3174**]),
+L fem-[**Doctor Last Name **] ([**3170**]),
+L re-do ([**3176**]),
+L SFA stent ([**10-29**])
+
+
+Social History:
+He denies alcohol use.
+He smokes for 20 pack years.
+
+
+Family History:
+non - contributary
+
+Physical Exam:
+Vitals: T 98.7 BP [**11/3134**] (104-130/55-72) HR 97 (94-102) R 14 O2
+96% 4lnc CVP 5-9 I/O [**Telephone/Fax (1) 16579**]
+Gen: lying comfortably in bed, NAD, diffuse ecchymoses over
+entire body
+HEENT: PERRL. OP clear. Lac on R side of forehead. L temporal
+ecchymoses.
+Neck: no obvious JVD, no LAD
+Cardio: RRR, nl S1S2, no m/r/g
+Resp: decreased BS bilaterally, no wheezes or crackles
+Abd: soft, nt, nd, +BS, diffuse ecchymoses
+Ext: s/p L BKA. RLE is warm, pedal pulses present. Radial pulses
+2+, Diffuse ecchymoses on upper ext bilaterally.
+Neuro: A&Ox3. Moves all ext. 4/5 strength RLE. 5/5 strength UE
+bilaterally.
+
+
+Pertinent Results:
+[**3181-4-8**] 02:15PM BLOOD WBC-10.9 RBC-3.18* Hgb-9.1*# Hct-28.0*#
+MCV-88 MCH-28.7 MCHC-32.5 RDW-17.1* Plt Ct-255
+[**3181-4-10**] 02:12AM BLOOD WBC-5.5 RBC-3.28* Hgb-9.6* Hct-28.2*
+MCV-86 MCH-29.3 MCHC-34.0 RDW-17.5* Plt Ct-160
+[**3181-4-8**] 02:15PM BLOOD PT->150* PTT-105.5* INR(PT)->22.8*
+[**3181-4-10**] 02:12AM BLOOD PT-15.6* PTT-32.7 INR(PT)-1.4*
+[**3181-4-10**] 02:12AM BLOOD Plt Ct-160
+[**3181-4-10**] 02:12AM BLOOD Glucose-113* UreaN-6 Creat-0.5 Na-136
+K-3.6 Cl-98 HCO3-32 AnGap-10
+[**3181-4-8**] 02:15PM BLOOD CK(CPK)-272*
+[**3181-4-8**] 09:58PM BLOOD ALT-16 AST-26 LD(LDH)-326* CK(CPK)-270*
+AlkPhos-105 Amylase-33 TotBili-0.8
+[**3181-4-9**] 04:12AM BLOOD CK(CPK)-228*
+[**3181-4-8**] 02:15PM BLOOD CK-MB-4 cTropnT-<0.01
+[**3181-4-8**] 09:58PM BLOOD CK-MB-4 cTropnT-<0.01
+[**3181-4-9**] 04:12AM BLOOD CK-MB-4 cTropnT-<0.01
+[**3181-4-8**] 09:58PM BLOOD Phenyto-28.0*
+[**3181-4-10**] 02:12AM BLOOD Phenyto-30.2*
+[**3181-4-9**] 11:17AM BLOOD freeCa-0.98*
+.
+R femur/hip XR: No evidence of fracture or dislocation.
+Degenerative changes of the hips.
+.
+CXR: There has been interval placement of right internal jugular
+approach central venous catheter, with catheter tip projecting
+over the distal SVC. There is no pneumothorax. Cardiac and
+mediastinal contours are unchanged. The right costophrenic angle
+is excluded on current radiograph. No focal areas of
+consolidation are seen. Note is made of sternotomy wires.
+.
+CT chest/abdomen/pelvis: Large contusions of the buttocks, right
+greater than left as well as smaller contusion of the left flank
+and lateral left chest. No other evidence of traumatic injury
+including no fracture. No change in slightly enlarged
+mediastinal lymph nodes. Small right renal cyst as well as small
+subcentimeter hypodense lesion of the right kidney, too small to
+definitively characterize. 17-mm hyperdense round lesion of the
+right kidney measures higher density than expected for simple
+cyst, but is unchanged compared to [**3179-10-30**] and may represent
+proteinaceous material within a cyst. Extensive [**Year (4 digits) 1092**]
+calcifications suggest history of diabetes.
+.
+CT head: No evidence of intracranial hemorrhage, mass effect, or
+fracture.
+.
+CT C-spine: No fracture. Mild degenerative changes of the
+cervical spine.
+.
+CT HEAD W/O CONTRAST  [**3181-4-12**]
+FINDINGS: No intracranial hemorrhage, mass, shift of normally
+midline structures, hydrocephalus or infarction are identified.
+No underlying fractures are identified. Paranasal sinuses and
+mastoid air cells are well aerated.
+IMPRESSION: No masses or infarction identified. No fracture.
+.
+EEG [**3181-4-14**]:
+This 24 hour video EEG telemetry captured occasional generalized
+spike and slow wave or polyspike and slow wave discharges in
+drowsiness and sleep. This finding suggest an underlying primary
+generalized epilepsy. No electrographic seizures or pushbutton
+activations were captured. The slow and disorganized background
+with bursts of generalized theta or delta frequency slowing
+suggest an encephalopathy. Infection, medications, and metabolic
+disturbances are among the most common causes.
+.
+BILAT UP EXT VEINS US  [**3181-4-19**]
+IMPRESSION: No evidence of upper extremity deep venous
+thrombosis.
+
+
+Brief Hospital Course:
+58 YO M with h/o PE (on coumadin), CAD s/p CABG, s/p L BKA, who
+presents s/p fall with elevated INR, anemia, hypotension, and
+hypoxia.
+.
+1) Hypotension: Likely [**2-27**] to dehydration from decreased PO
+intake and in the setting of blood loss. Resolved with 3u PRBC
+and fluids. CTA was negative for PE. CT
+chest/abdomen/pelvis/head negative for significant bleeding.
+His blood pressure had then remained stable while in the MICU
+and he was transferred to the medical floor.  He had an episode
+of hypotension on HD 6 also with sinus tachycardia.  EKG was
+stable and he re ruled out for MI by cardiac enzymes.  This was
+thought to be due to poor po intake and his BP and HR responded
+to IVFs.  With improvement in po intake, his blood pressure
+remained stable and his BB were restarted (BB for history of
+CAD).
+.
+2) Hypoxia: Pt reports being on home O2 (appears to have been on
+4L home O2 per last discharge in [**12-31**]). O2 requirement in past
+likely due to PE. CTA neg for new PE on this admission. Pt may
+also have been hypoxic [**2-27**] symptomatic anemia in setting of COPD
+(per CT read). Pt appeared to be at baseline on admission.  He
+may need outpatient PFTs.
+.
+3) Elevated INR: Pt has blood drawn by VNA, followed by
+"[**Hospital1 872**] Labs." He reports normal INR the week before
+admission. Ddx includes malnutrition in setting of elevated
+dilantin level. He was initially given Vit K and FFP to reverse
+INR. Home coumadin restarted [**4-9**] when INR < 3.0.  He also
+received heparin IV bridge.  His INR was subtherapeutic after
+several days of coumadin and his dose was increased.  At the end
+of his hospital admission, the only issue keeping him in the
+hospital was heparin IV dependence while await INR to return to
+therapeutic range.  He was discharged on enoxaparin, to be taken
+until his INR returned to therapeutic levels.  His INR will be
+checked by his VNA.
+.
+4) Seizure disorder: The patient has been taking dilantin for
+decades.  He was started on coumadin in [**12-31**] after a PE.
+Dilantin and coumadin often can interact and it was thought that
+this interaction may have led to the supratherapeutic level of
+dilantin.  His dilantin was held and his level was followed.  At
+one point during the hospital course, there was a question as to
+whether the patient had a seizure.  Neurology was involved and
+recommended and EEG.  The EEG did show some abnormalities
+although not seizure activity.  Neurology recommended
+discontinuing dilantin given drug interactions with coumadin and
+starting keppra.  Keppra was started and dilantin was
+dicontinued.  The change in medications was explained to the
+patient at the time of the change and at the time of discharge.
+He will have outpatient follow up with neurology.
+.
+5) Anemia: likely [**2-27**] diffuse ecchymoses in setting of
+supratherapeutic INR. Pt was guaiac negative, so GIB unlikely.
+Iron studies, B12, folate all WNL.
+.
+6) Frequent falls: pt with frequent falls at home (lives alone),
+likely mechanical in setting of worsening RLE ischemic
+neuropathy. Pt may have been pre-syncopal due to dehydration.
+He was evaluated by PT/OT and social work.  PT had initially
+recommended rehab placement but the patient refused despite our
+efforts to convince to go to rehab.  After several more days
+working with physical therapy, PT felt the patient was safe to
+go home with home physical therapy services.
+.
+7) CAD: The patient has a history of CAD.  EKG without ischemic
+changes and he ruled out for MI by cardiac enzymes.  Initially
+ASA and plavix were held given elevated INR and transfusion
+requirement but were restarted once INR therapeutic.  BB was
+also initially held as the patient was hypotensive but was
+restarted and titrated up to home dose once stable.
+.
+8) Communication: with patient.  The patient's medication
+changes were gone over with him in great detail.  The patient
+was taught to use enoxaparin subcutaneous injections by the
+nursing staff.  The keppra dose which was being titrated up was
+discussed with the patient and over the phone with VNA services.
+
+
+Medications on Admission:
+Confirmed with patient who provided a list.The patient was able
+to name most of his medications including doses and frequency
+from memory.
+-Aspirin 325 mg qd
+-Clopidogrel 75 mg qd
+-Gabapentin 800 mg q8h
+-Atorvastatin 20 mg qd
+-Levothyroxine 175 mcg qd
+-Dilantin (extended) 300mg tid, had been changed from 300qam and
+200qpm once coumadin was initiated
+-Clonazepam 1 mg tid
+-Warfarin 2 mg qhs
+-lopressor 25mg po TID
+Oxcarbazepine 150 mg qhs (pt denies, but in last d/c summary)
+Remeron 45 mg qhs (patient denies)
+-Foltx 2.5-25-2 mg qd
+Albuterol 90 mcg prn
+Atrovent prn
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO Q8H (every
+8 hours).
+4. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Levothyroxine 175 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+7. Warfarin 2 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime): Continue to have your INR checked and take as directed
+by you doctor.
+[**Last Name (Titles) **]:*12 Tablet(s)* Refills:*0*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+9. Albuterol Sulfate 0.083 % Solution Sig: One (1) treatment
+Inhalation every four (4) hours as needed for shortness of
+breath or wheezing.
+10. Ipratropium Bromide 0.02 % Solution Sig: One (1) treatment
+Inhalation every four (4) hours as needed for shortness of
+breath or wheezing.
+11. Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1) injection
+Subcutaneous Q12H (every 12 hours) for 14 days: You will need to
+take this this medication as directed until INR is therapeutic
+(per your primary doctor).
+[**Last Name (Titles) **]:*28 injection* Refills:*0*
+12. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO QAM (once
+a day (in the morning)) for 3 days.
+[**Last Name (Titles) **]:*6 Tablet(s)* Refills:*0*
+13. Levetiracetam 500 mg Tablet Sig: Three (3) Tablet PO QPM
+(once a day (in the evening)) for 3 days.
+[**Last Name (Titles) **]:*9 Tablet(s)* Refills:*0*
+14. Levetiracetam 500 mg Tablet Sig: Three (3) Tablet PO BID (2
+times a day).
+[**Last Name (Titles) **]:*180 Tablet(s)* Refills:*2* To be started after 3 day (once
+the other prescription for levetiracetam has been completed.
+15. Outpatient Lab Work
+INR check [**3181-4-23**], results to PCP.  [**Name10 (NameIs) **] PCP continue to adjust
+coumadin level as appropriate.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 118**] Homecare
+
+Discharge Diagnosis:
+Primary diagnosis:
+- supratherapeutic INR
+- dilantin toxicity
+- hypotention
+- hypoxia
+.
+Secondary diagnosis
+- Seizure disorder
+- history of PE [**12-31**]
+- Hypertension
+- Coronary artery disease
+
+
+Discharge Condition:
+Able to use wheel chair, respiratory status stable on O2 (uses
+home O2)
+
+
+Discharge Instructions:
+You were admitted with an elevated coumadin level and elevated
+dilantin level.  Your medications have been adjusted so that
+your medication levels will be therapeutic.  You will need to
+have your INR level checked regularly.
+
+Please take all your medications as directed. Your coumadin
+level has been increased to 6mg by mouth once daily.  You will
+need INR checks and have your primary doctor adjust your dose
+based on INR levels.  Dilantin has been discontinued.  You are
+not taking a new medication called keppra for your seizures.
+Keppra: take 1000mg by mouth each morning and 1500mg by mouth
+each evening x3 days.  Then change to 1500mg by mouth twice
+daily.
+Continue to use O2 at home as your are doing.
+
+Please go to all follow up appointments
+
+If you develop fever, chills, worsening shortness of breath,
+chest pain, seizures or any other symptom that concerns you,
+call you doctor or if unavailable, go to the emergency room.
+
+Followup Instructions:
+Talk with your primary physician about getting your PFTs
+checked.
+Continue to have yoru INR checked
+Work with physical therapey
+.
+CARDIOLOGY: You have a follow up appointment with Dr.[**Last Name (STitle) **] and
+[**Location (un) 16580**] on Friday [**3181-4-24**] at 10:30am. Their office has moved to
+the [**Hospital6 2863**], [**Doctor Last Name 3598**] building suite 430. If
+you have any questions please call ([**Telephone/Fax (1) 16581**]
+.
+[**Telephone/Fax (1) **] SURGERY: You have a follow up appointment with
+Provider: [**Name10 (NameIs) 1096**],[**First Name7 (NamePattern1) 1097**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] SURGERY (NHB)
+Date/Time:[**3181-4-27**] 2:30
+.
+PRIMARY CARE: You have a follow up appointment with you PCP [**Last Name (NamePattern4) **].
+[**Last Name (STitle) 16577**] on [**3181-4-28**] at 9:45. She will manage you coumadin and
+lovenox medications. You may call her at ([**Telephone/Fax (1) 16582**] if you
+have questions.
+
+.
+NEUROLOGY: You have a follow up appointmetn with Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) 9383**] on [**3181-6-3**] at 4:30 pm. You may call his office at
+([**Telephone/Fax (1) 16583**]
+
+
+
+
+
+DOC CLASS

@@ -1,0 +1,118 @@
+Admission Date:  [**2929-10-13**]     Discharge Date:  [**2929-10-18**]
+
+Date of Birth:   [**2870-9-25**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This is a 59-year-old male with
+hypertension, dyslipidemia, and family history of heart
+disease, who was in his usual state of health until the night
+prior to admission, when he noted sudden onset of chest
+pressure while at rest.  The pain did not radiate.  Was
+associated with shortness of breath and nausea, but no
+vomiting.  He was taken to the Urgent Care Clinic at [**Location (un) **]
+at which time EKG demonstrated inferior ST elevations and the
+systolic blood pressure was 80.  He was given aspirin,
+started on Heparin, and transferred to [**Hospital1 18**] Cardiac Cath
+Laboratory.
+
+In the Cath Laboratory, he was found to have a thrombotic
+occlusion of the left circumflex after OM-1, which is treated
+with a 3 x 13 mm stent.  He remained hypotensive requiring
+dobutamine and intra-aortic balloon pump for hemodynamic
+support.  Bedside echocardiogram demonstrated ejection
+fraction of 20-30%.
+
+While in the holding area, he developed atrial fibrillation
+with ventricular rates of 115 and had one episode of emesis,
+which his clopidogrel was regurgitated.  Dobutamine was
+subsequently weaned off.  He was transferred to the CCU in
+stable condition.
+
+PAST MEDICAL HISTORY:
+1. Dyslipidemia.
+2. Hypertension.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 98.2, blood
+pressure 130/99, heart rate 104 irregular, satting 100% on 4
+liters nasal cannula.  General:  This is an African American
+male in no apparent distress.  HEENT:  Normocephalic,
+atraumatic.  Oropharynx clear.  Extraocular movements are
+intact.  Neck is supple, no lymphadenopathy, no bruits, and
+unable to appreciate JVDs, patient lying flat.  Chest clear
+anteriorly.  Heart:  Irregular, intra-aortic balloon pump,
+mechanical murmurs, no rub or gallop appreciated.  Abdomen is
+soft, nontender, nondistended, positive bowel sounds.
+Extremities:  No clubbing, cyanosis, or edema.  Right groin
+with intra-aortic balloon pump.  Palpable pulses bilaterally
+dorsalis pedis.  Neurologic:  Alert and oriented times three,
+moving all four extremities, grossly intact.
+
+LABORATORIES:  CK of 113.
+
+EKG prior to intervention:  ST elevation in II, III, aVF with
+reciprocal changes in V1 through V3.
+
+HOSPITAL COURSE:
+1. ST elevation MI:  Patient was transferred to the CCU from
+the Cardiac Catheterization Laboratory on dobutamine and
+intra-aortic balloon pump.  These were eventually both weaned
+off, and the patient did well with a peak CK of 2577 and MB
+of 336.  The patient was continued on clopidogrel, beta
+blocker, ACE inhibitor, statin, and aspirin, and remained
+hemodynamically stable throughout the remainder of his
+hospital course.
+
+2. Atrial fibrillation:  The patient was noted to be in
+atrial fibrillation while in the holding area of the cardiac
+catheterization laboratory.  The patient was rate controlled
+with beta blocker and calcium-channel blocker, however, did
+not spontaneously revert.  Therefore, he was taken for
+electrocardioversion, which he tolerated well.  He was on
+Heparin and bridged to Coumadin, and will follow up in the
+Coumadin Clinic.
+
+3. Knee effusion:  The patient developed a knee effusion
+during his hospitalization.  He was without leukocytosis, and
+his anticoagulation was within normal limits.  It was
+therefore decided to treat this conservatively with NSAIDs,
+and the patient improved.
+
+DISCHARGE CONDITION:  Improved.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE DIAGNOSES:
+1. ST elevation myocardial infarction.
+2. Atrial fibrillation.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 mg p.o. q.d.
+2. Clopidogrel 75 mg p.o. q.d.
+3. Atorvastatin 10 mg p.o. q.d.
+4. Lisinopril 20 mg p.o. q.d.
+5. Metoprolol XL 100 mg p.o. q.d.
+6. Naproxen 250 mg two tablets t.i.d. x4 days.
+7. Warfarin 3 mg p.o. q.d.
+8. Furosemide 20 mg p.o. q.d.
+
+FOLLOW-UP PLANS:  The patient will follow up with Dr. [**Last Name (STitle) 11103**]
+on [**2929-10-20**] and with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in Electrophysiology
+on [**2929-11-8**].
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1505**], M.D.  [**MD Number(1) 9491**]
+
+Dictated By:[**Name8 (MD) 11104**]
+
+MEDQUIST36
+
+D:  [**2930-2-13**]  14:17
+T:  [**2930-2-14**]  06:53
+JOB#:  [**Job Number 11105**]
+
+
+DOC CLASS

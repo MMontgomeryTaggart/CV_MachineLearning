@@ -1,0 +1,324 @@
+Chief Complaint:  Unresponsive, GI bleed
+   HPI:
+   88 y/o F with PMHx of CAD, DM, Atrial Fib, Alzheimers, CVA in [**5-7**] on
+   coumadin who was found unresponsive and bradycardic at [**Hospital1 23**] this
+   morning.  She received atropine and had an LMA placed by EMS, BP 80/40
+   while en route to [**Hospital 2384**] hospital.  At [**Hospital1 2384**], she was found to
+   have blood around her mouth, BRBPR, hct of 27, creatinine 3.2 & INR of
+   10.5. Dopamine was started and she received 2 units of FFP.  She
+   underwent proper ETT intubation and initial ABG 7.3/38/200/19 before
+   family requested transfer to [**Hospital1 5**] ED.
+   .
+   In the ED, initial vs were: T 93 P 65 BP 122/72 R 14 O2 sat 100%.  Vent
+   AC Fi02 100% Vt 400, Peep 5, RR 16. Pt has a left femoral line placed
+   and had left EJ and PICC line in place from [**Hospital1 23**].  Pt received
+   another 2units of FFP at [**Hospital1 **] and repeat hct was 20. She received
+   Vanc/levo/flagyl for possible aspiration and dopamine was weaned prior
+   to transfer.
+   .
+   Pt was intubated and sedated on arrival to ICU.  After she was settled,
+   sBPs dropped from 87 to 70s, pt was given 2L NS IVF and started on
+   Dopamine.
+   .
+   Review of systems:  unable to obtain
+   Patient admitted from: [**Hospital1 5**] ER
+   History obtained from Family / Friend, Medical records
+   Allergies:
+   Thiazides
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Midazolam (Versed) - 2 mg/hour
+   Dopamine - 5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Warfarin unclear dose
+   Aspirin 81mg daily
+   Lipitor 40mg daily
+   Questran 1 packet tid
+   Prevacid 20mg daily
+   Metoprolol 25mg TID
+   Sodium Bicarb [**Hospital1 **]
+   Theravite daily
+   Tylenol prn
+   Benadryl prn
+   Past medical history:
+   Family history:
+   Social History:
+   Ischemic/embolic left hemispheric CVA in [**5-7**]
+   Atrial fibrillation, diagnosed [**5-7**] on Coumadin
+   Dysphagia, S/P PEG [**2757-5-14**]
+   Gastritis
+   Sinus bradycardia
+   Type 2 DM, diet-controlled
+   Benign Hypertension
+   CAD native Vessle
+   CKD Stage IV b/l Cr ~2.0
+   Alzheimer dementia with vascular components, baseline A&O x3, in
+   History of reactive RPR with a titer 1:4 & reactive treponemal antibody
+   test, treated with 3 IM injections of penicillin
+   Gout
+   Chronic venous stasis
+   Alcohol abuse
+   Anemia
+   Cataract surgery
+   Urinary tract infections (most recent [**5-7**])
+   Recent admission to [**Hospital1 2384**] for Aspiration PNA
+   NC
+   She previously lived alone, with her daughter living upstairs.
+   She was living at [**Hospital 838**] rehab since [**2757-5-18**] following her stroke and
+   most recently at [**Hospital 23**] Rehab. She is retired from nutritional
+   services at [**Hospital1 5**]. She denies cigarette use, has a history of alcohol
+   abuse. No history of illicit drug use.
+   Flowsheet Data as of [**2757-7-31**] 11:53 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 34
+C (93.2
+   Tcurrent: 34
+C (93.2
+   HR: 65 (63 - 65) bpm
+   BP: 73/46(51) {73/46(51) - 87/53(61)} mmHg
+   RR: 0 (0 - 31) insp/min
+   SpO2: 99%
+           Total In:
+           4,159 mL
+   PO:
+           TF:
+   IVF:
+   1,024 mL
+   Blood products:
+   135 mL
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  4,159 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 34 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 21.1 cmH2O/mL
+   SpO2: 99%
+   ABG: ///20/
+   Ve: 9.9 L/min
+   Physical Examination
+   Vitals: T: 93 BP: 87/53 (repeat sbp 70s) P: 61 R: 30 O2: 100%
+   General: sedated, minimal response to sternal rub
+   HEENT: blood in mouth, ETT and OG in place
+   Lungs: Audible airway secretions, moving air well bilaterally, no w/r
+   CV: RRR, difficult to appreciate any murmur over resp sounds
+   Abdomen: mildly distended, decreased bowel sounds
+   Ext: warm (bairhugger), diffuse pitting edema tracks to thighs
+   Derm: multiple skin tears
+   Labs / Radiology
+   161 K/uL
+   6.4 g/dL
+   127 mg/dL
+   2.6 mg/dL
+   109 mg/dL
+   20 mEq/L
+   105 mEq/L
+   3.4 mEq/L
+   141 mEq/L
+   20.3 %
+   11.6 K/uL
+        [image002.jpg]
+                                  [**2753-11-30**]
+                          2:33 A9/2/[**2756**]  08:45 AM
+                                  [**2753-12-4**]
+                                   10:20 P
+                                  [**2753-12-5**]
+                                   1:20 P
+                                  [**2753-12-6**]
+                                   11:50 P
+                                  [**2753-12-7**]
+                                   1:20 A
+                                  [**2753-12-8**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2753-12-31**]
+                                   1:20 P
+                                  [**2753-12-31**]
+                                   11:20 P
+                                  [**2753-12-31**]
+                                   4:20 P
+   WBC
+                                    11.6
+   Hct
+                                    20.3
+   Plt
+                                     161
+   Cr
+                                     2.6
+   Glucose
+                                     127
+   Other labs: Differential-Neuts:91.6 %, Lymph:4.2 %, Mono:3.5 %, Eos:0.3
+   %
+   Imaging: [**2757-6-3**] Colonoscopy revealed: Diverticulosis of the sigmoid
+   colon
+   Polyp in the proximal ascending colon
+   .
+   [**2757-5-30**] EGD revealed: There was a gastrostomy tube entry site in the
+   body of the stomach. The base of the site was flushed and seen clearly.
+   There were no ulcers or erosions present. The tip of the tube was
+   located in the distal duodenum/proximal jejunum.
+   Retained fluids in stomach There was bilious fluid in the duodenum and
+   no evidence of bleeding. Otherwise normal EGD to proximal jejunum
+   .
+   CT head [**2757-7-31**]: No fracture, hemorrhage, edema. Atrophy, small vessel
+   ischemic change. Right frontal previous hypodensity more hypodense and
+   better demarcated since [**2757-4-29**] suggesting encephalomalacia in a site
+   of prior infarction.
+   .
+   CT c-spine [**2757-7-31**]: No change from three months ago. No fracture. Severe
+   degenerative change.Given canal narrowing if there is concern for cord
+   injury, MRI is more sensitive.
+   CXR [**2757-7-31**]: prelim- ETT tube approx 2 cm above carina and right sided
+   pleural effusion tracks up lateral chest wall, cardiomegaly, hazy
+   opacity in right hila?
+   .
+   Microbiology: Urine/blood pending
+   ECG: .
+   EKG: NSR with hr in 60s with IVCD, TWI in II, III and AVF, isolated ST
+   elevation in v3, all essentially unchanged from prior tracings
+   Assessment and Plan
+   88 y/o F with PMHx of CAD, DM, Atrial Fib, Alzheimers, CVA in [**5-7**] on
+   coumadin who was found unresponsive and bradycardic, INR of 10 and
+   active upper/lower GI bleeds who was transferred from [**Hospital 2384**]
+   hospital intubated and on pressors.
+   .
+   # Respiratory Failure: Pt s/p CVA found down bradycardic and
+   hypotensive.  Unclear if underlying event was hypotension vs aspiration
+   of bloody gastric materials as bloody/brown secretions coming from
+   mouth and some frank blood being suctionned from ETT. Another
+   possibility is pulm hemorrhage.  Of note, pt was recently admitted with
+   Aspiration PNA treated with Ertapenem.
+   - check INR and tranfuse FFP aggressively
+   - recheck CXR now
+   - empiric Vanc/Zosyn for hosp organisms Asp PNA
+   - place a-line to follow ABG, likely wean FiO2
+   - continue to meet with family q24 re goals of care
+   - plan for bronch and adjustment of ETT placement
+   .
+   # Hypotension: Pt is hypovolemic likely due to GI bleed although also
+   possible additional component of sepsis given possible aspiration
+   event.   Elevated lactate at 3 on ABG and bloody secretions from mouth
+   and ETT.
+   - bolus NS IVF for MAP>65
+   - transfuse 2u prbcs now
+   - trend hct q6hrs
+   - monitor UOP, goal >30cc/hr
+   - trend lactate with resuscitation
+   .
+   # GI bleed/elevated INR: Pt with known diverticulosis and internal
+   hemorrhoids who presented after being found down with blood around her
+   mouth, INR of 10 and BRBPR now s/p 4units FFP with ongoing hypotension.
+   Baseline hct around 30 and hct currently at 20.  Pt is getting 2units
+   prbcs now and GI planning EGD in pm
+   - tranfuse 2units now for goal hct >25
+   - bolus IVF
+   - correct INR with FFP, Vit K 10mg now
+   - f/u GI recs likely EGD today
+   - maintain CVL, PIV and PICC
+   - maintain active type and cross for 4units
+   - t/b general surgery re upper GI bleed
+   .
+   # CAD/Elevated Troponin: EKGs appear at baseline, troponin leak likely
+   due to strain in setting hypotension, bradycardia and GI bleed.
+   - continue cycling CE
+   - holding ASA & Coumadin due to GI bleed
+   - monitor EKG daily
+   - holding BB & Statin due to GI bleed
+   .
+   # Acute Renal Failure: Pt with baseline creatinine in the 1.2-1.5
+   range, currently 2.6 with BUN>100.  Pt is hypovolemic due to GI bleed
+   but may also have a component of sepsis given possible aspiration.  Pt
+   with anasarca of unclear etiology, may be due to low albumin but with
+   check UA for proteinuria
+   - continue to bolus IVF
+   - monitor UOP, foley in place
+   - check UA, prot/creatinine
+   - renally dose all meds
+   .
+   # Elevated Anion Gap: Likely due to acute renal failure and lactic
+   acidosis.
+   - place a-line, trend ABGs
+   - empiric antiobiotics, trend lactate and bolus IVF
+   - resume sodium bicarb [**Hospital1 **] (home regimen) if acidosis does not respond
+   to resuscitation
+   .
+   # Afib s/p CVA: Pt with active GI bleed complicated by elevated INR
+   - holding coumadin and reversing INR with FFP/Vitamin K
+   - hold aspirin
+   - hold BB, currently bradycardic/hypotensive
+   .
+   # CT C-spine: question of soft tissue swelling per radiology, clear
+   asymmetry and possible neck hematoma.  Airway protected by ETT and will
+   continue to monitor for now
+   - reverse INR
+   - re-image neck with contrast when creatinine down
+   .
+   # Edema: Anasarca of likely due to poor nutrition status but also +2
+   protein in prior UA.
+   - check Albumin and UA with prot/creat ratio
+   .
+   # FEN: NPO with bolus IVF prn
+   - replete electrolytes aggressively
+   .
+   # Prophylaxis: Pneumoboots
+   .
+   # Access: Left Femoral Line, left EJ and PICC
+   - will need a-line and possible exchange for RIJ CVL ([**Month (only) 438**] risk
+   infection)
+   .
+   # Code: Confirmed FULL with family, plan to reassess daily based on
+   clinical progress
+   .
+   # Communication: Family, daughter/son
+   .
+   # Disposition: ICU for now.
+   ICU Care
+   Nutrition: NPO for now
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2757-7-31**] 10:00 AM
+   PICC Line - [**2757-7-31**] 10:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:  mouth care, HOB elevated, daily wake up
+   Code status: Full code- communication with family
+   Disposition: ICU
+   ------ Protected Section ------
+   I saw and examined the patient, and was physically present with the ICU
+   resident for the key portions of the services provided. I agree with
+   the note above, including the assessment and plan.  To that I would add
+   the following:  this is an 88 yo woman who is in the MICU with a GI
+   bleed in the setting of a INR of 10.  Has central access in place
+   will keep groin line due to question of neck hematoma.  Giving FFP,
+   pRBCs.  GI planning to do EGD today.  Will also plan on bronchoscopy
+   given blood from ETT.  Currently able to be weaned off pressors.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1736**] [**Name8 (MD) **], MD
+   on:[**2757-7-31**] 13:51 ------
+   Pt is critically ill. Time spent 50 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1736**] [**Name8 (MD) **], MD
+   on:[**2757-7-31**] 13:52 ------
+
+
+DOC CLASS

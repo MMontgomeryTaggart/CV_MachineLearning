@@ -1,0 +1,153 @@
+TITLE:
+   Chief Complaint:
+   HPI: Patient is a 62 yo female hx hodgkins lymphoma and breast CA
+   presents with dysphagia and found to have esophageal mass.  On Oncology
+   service found large food bolus on EGD, hypotensive during EGD so
+   transferred to MICU for intubation and EGD was hypotensive secondary to
+   propofol required dopamine.  Had EGD and food bolus removed doing much
+   better.  No need for stenting at this time.
+   24 Hour Events:No other events
+   Allergies:
+   Toprol Xl (Oral) (Metoprolol Succinate)
+   Wheezing; diffi
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**2627-3-14**] 08:00 PM
+   Propofol - [**2627-3-14**] 08:00 PM
+   Other medications:
+   levothyroxine 50mcg  qday
+   Na cl spray
+   Hydrocortisone 30mg iv q24
+   protonix 40mg  q 24
+   morphine 2m iv Q4hr prn
+   Zophran 4mg prn
+   Changes to medical and family history: Please see resident H+P no
+   changes
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: No complaints
+   Flowsheet Data as of  [**2627-3-15**] 09:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 99 (88 - 112) bpm
+   BP: 143/48(71) {60/41(46) - 177/89(130)} mmHg
+   RR: 20 (17 - 40) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                  1,506 mL
+                  PO:
+                  TF:
+   IVF:
+                                                                  1,506 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    800 mL
+   Urine:
+   800 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,506 mL
+                                                                   -800 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 0 (0 - 0) mL
+   RR (Set): 16
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 35 cmH2O
+   SpO2: 98%
+   ABG: ///25/
+   Ve: 7.5 L/min
+   Physical Examination Gen: NAD, HEENT: PERRL, EOMI, OP clear  Neck: JVP
+   flat, Lungs: Decreased BS at bases few rales left base.  CV: Diffuse LV
+   impulse,  tachy s1s2 III/VI SEM greatest at RUSB holosystolic, Abd:
+   +BS, Soft, NT, ND Ext: No c/c/e.  Neuro: No focal deficits.
+   Labs / Radiology: Chest x-ray
+   9.6 g/dL
+   355 K/uL
+   119 mg/dL
+   0.5 mg/dL
+   25 mEq/L
+   4.2 mEq/L
+   7 mg/dL
+   110 mEq/L
+   144 mEq/L
+   30.7 %
+   15.8 K/uL
+        [image002.jpg]
+                             [**2627-3-14**]  08:21 PM
+                             [**2627-3-15**]  02:57 AM
+   WBC
+   15.8
+   Hct
+   30.7
+   Plt
+   355
+   Cr
+   0.5
+   0.5
+   TropT
+   <0.01
+   Glucose
+   106
+   119
+   Other labs: CK / CKMB / Troponin-T:33//<0.01, Ca++:8.4 mg/dL, Mg++:1.7
+   mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   A/P: 62 year old female with a history of mantle radiation for HD and
+   multiple subsequent complications, presenting with worsening
+   dysphagia.
+   Food impaction:
+   -Resolved
+   Elevated WBC-S/p stress dose steroids will check port chest x-ray.
+   Esophageal cancer: The plan is for repeat EUS and stenting prior to the
+   more definitive procedure with GI/Dr. [**Last Name (STitle) 8655**]. Patient has been off
+   Plavix for 6 days at this point.
+   Coronary artery disease
+   Will need to restart home meds on floor
+   Hypothyroidism: has been unable to tolerate levothyroxine as well. Can
+   convert to IV formulation if necessary
+   - continue levothyroxine
+   Chronic pericarditis: patient on chronic steroids as an outpatient for
+   years, and now off for 6 (at least) days. Was on 7.5-15mg prednisone.
+   Will need to transition to prednisone
+   Anxiety:
+   - holding Venlafaxine will need it restarted
+   FEN:
+   - Clears
+   - will need to be slowly advanced.
+   .
+   Access: PIV
+    Code: Full
+   Dispo-transfere back to OMED
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2627-3-14**] 07:30 PM
+   20 Gauge - [**2627-3-14**] 08:54 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition :
+   Total time spent:
+
+
+DOC CLASS

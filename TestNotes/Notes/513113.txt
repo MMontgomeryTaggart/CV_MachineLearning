@@ -1,0 +1,248 @@
+Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**2771-10-3**] 02:58 PM
+ DIALYSIS CATHETER - START [**2771-10-3**] 06:59 PM
+ noted to developed hematoma at left HD line site with associated drop
+   in HCT of several points
+   Persistent pressor requirement
+   Allergies:
+   Univasc (Oral) (Moexipril Hcl)
+   Cough;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   leg cramps;
+   Vitamin E
+   epistaxis;
+   Ambien (Oral) (Zolpidem Tartrate)
+   disorientatio
+   Last dose of Antibiotics:
+   Vancomycin - [**2771-10-1**] 02:20 PM
+   Metronidazole - [**2771-10-2**] 10:00 AM
+   Piperacillin - [**2771-10-4**] 12:07 AM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Dopamine - 2.5 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2771-10-3**] 08:17 PM
+   Insulin - Regular - [**2771-10-3**] 11:07 PM
+   Other medications:
+   Changes to medical and family history:
+   None
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Pt intubated, sedated.
+   Flowsheet Data as of  [**2771-10-4**] 06:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.6
+C (97.9
+   HR: 72 (63 - 97) bpm
+   BP: 138/77(92) {80/47(54) - 157/86(100)} mmHg
+   RR: 15 (10 - 21) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+    CVP: 12 (7 - 17)mmHg
+   Total In:
+                                                                  2,377 mL
+                                                                  1,164 mL
+   PO:
+   TF:
+                                                                    554 mL
+                                                                    212 mL
+   IVF:
+                                                                    973 mL
+                                                                    176 mL
+   Blood products:
+                                                                    850 mL
+                                                                    725 mL
+   Total out:
+                                                                    102 mL
+                                                                     35 mL
+   Urine:
+                                                                    102 mL
+                                                                     35 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,275 mL
+                                                                  1,129 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 728 (491 - 760) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 16
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 40
+   PIP: 17 cmH2O
+   SpO2: 99%
+   ABG: 7.28/38/202/20/-7
+   Ve: 11.3 L/min
+   PaO2 / FiO2: 404
+   Physical Examination
+   General: Intubated, sedated, opens eyes to stimuli.
+   HEENT: small tender pink swelling on occiput, ttp on right mastoid
+   process. Thrush.  MMM.  conjunctiva not pale or injected. no scleral
+   icterus. Intubated. OGT in place
+   Neck: s/p radiation. No bruits. RIJ, s/p L IJ hemodialysis cathether
+   placement. + hematoma
+   Pulmonary: Ronchorous breath sounds bilat, forced respiration.
+   Cardiac: RR, nl S1 S2, no murmurs, rubs or gallops appreciated. Distant
+   Abdomen: s/p AAA repair scar. +BS. Soft.
+   Extremities: 1+ anasarca, left groin  hematoma.  Distal extremities
+   warm.
+   Skin: no rashes or lesions noted.
+   Neurologic: Intubated, sedated. Pupils constrict equally.  + corneal
+   reflex. Breathing on CPAP. Opens eyes to command, squeezing hands,
+   wiggling toes.  Nods yes to having pain.
+   Labs / Radiology
+   51 K/uL
+   10.7 g/dL
+   170 mg/dL
+   5.7 mg/dL
+   20 mEq/L
+   5.0 mEq/L
+   124 mg/dL
+   102 mEq/L
+   141 mEq/L
+   31.9 %
+   19.4 K/uL
+        [image002.jpg]
+                             [**2771-10-2**]  03:01 AM
+                             [**2771-10-2**]  01:20 PM
+                             [**2771-10-2**]  02:21 PM
+                             [**2771-10-2**]  05:05 PM
+                             [**2771-10-2**]  05:48 PM
+                             [**2771-10-3**]  03:03 AM
+                             [**2771-10-3**]  06:17 AM
+                             [**2771-10-3**]  12:31 PM
+                             [**2771-10-3**]  05:38 PM
+                             [**2771-10-4**]  12:44 AM
+   WBC
+   16.8
+   19.0
+   19.4
+   Hct
+   34.7
+   37.2
+   38.2
+   31.9
+   Plt
+   61
+   67
+   65
+   51
+   Cr
+   4.0
+   5.3
+   5.7
+   TropT
+   7.67
+   7.26
+   TCO2
+   18
+   19
+   17
+   19
+   Glucose
+   97
+   142
+   170
+   Other labs: PT / PTT / INR:18.4/39.2/1.7, CK / CKMB /
+   Troponin-T:68/26/7.26, ALT / AST:2530/636, Alk Phos / T Bili:125/2.9,
+   Amylase / Lipase:190/19, Differential-Neuts:96.7 %, Band:19.0 %,
+   Lymph:1.4 %, Mono:1.9 %, Eos:0.0 %, D-dimer:5634 ng/mL, Fibrinogen:233
+   mg/dL, Lactic Acid:1.6 mmol/L, LDH:905 IU/L, Ca++:7.7 mg/dL, Mg++:2.7
+   mg/dL, PO4:7.5 mg/dL
+   [**9-30**] Sputum: 2 species GNRs, not yet speciated.
+   Assessment and Plan
+   70yo man w/ severe COPD, h/o lung ca, CHF, HTN, who presented w/
+   question of GI bleed was stable, then developed sudden shock.  Question
+   of MI vs PE +/- sepsis.
+   # Shock: At this point presuming primary insult precipitating
+   cardiogenic shock was major MI.  [**Month (only) 56**] at this point be clouded picture
+   with possible component of a septic picture.  Pt still requiring
+   pressors, may be indicative of increased ventricular stretch in setting
+   of fluid overload from oliguria, placing patient outside of starling
+   curve.
+   -continue zosyn, monitor clinically and by CXR, if decompensates
+   consider broadening to double coverage for GNRs. Current plan is 7 day
+   course of zosyn, currently day 4.
+   - follow up cards recs, will discuss with them today recommendations
+   regarding when to start aspirin, increasing statin in setting of
+   recovering shock liver and guidance with starting BB and possibly ACEI
+   in setting of depressed EF, ? when to repeat TTE.
+   - Continue to hold BB while on dopamine
+   - Taper steroids to PO solumedrol (currently 20mg Q8)
+   -fluid removal with HD per renal, see below.
+   -wean pressors as tolerated after dialysis.
+   #Respiratory failure
+ Pt has c/o severe COPD, recently hospitalized
+   for exacerbation, however initially during presentation ventilation was
+   not a factor.  Intubated for airway protection in setting of
+   obtundation.  Had been oxygenating well, minute ventilation increased
+   in setting of acidosis.  Tried to decrease Fi02, increased A-a
+   gradient, likely fluid overload.  Better oxygenation on gas this
+   morning.
+   -continue daily wake ups, response this morning encouraging in terms of
+   mental status.
+   -minimize sedation
+   -Fluid removal as below.
+   -will tolerate relative hypoxemia given pt
+s known severe COPD.
+   -Will decrease Fi02 after dialysis, SBT, consider extubation in am,
+   will need to hold TF
+   #  ARF: likely acute on chronic due to shock/ATN, trying to now
+   maintain MAPS greater than 65.  Oliguric with persistently climbing
+   BUN/cr, with non-gap metabolic acidosis. Urine sediment with  muddy
+   brown casts consistent with ATN. Unclear if pt would regain much renal
+   function at this point.  Pt currently up 11L this admission.
+   -Appreciate renal involvement, goal to remove as much fluid as possible
+   using pressors as necessary to make this possible.
+   -tx 3 units FFP yesterday, had LIJ HD catheter place, required
+   transfusion of blood and platelets in this setting with significant
+   bleeding and hematoma formation.
+   -Monitor [**Hospital1 **] lytes, treat K as needed.
+   -minimize IVF given
+   -renally dose meds.
+   <I>## Elevated LFTs:</I> Suspect shock liver
+   -transaminases trending down, bili trending up, continue to follow
+   bili.
+   -caution with increasing statin.
+   # Coagulopathy: suspect [**3-6**] liver dysfunction and DIC
+   - d/w cards when to start asa again,
+   -monitor INR/CBC, give products when necessary for procedures or
+   bleeding.
+   # Thrombocytopenia.  Labs c/w DIC.
+   -Tx for platelets <50 or active bleeding.
+   <I>## COPD:</I>Continue steroids (tapering down today),  duonebs
+   .
+   <I>## HTN:</I>Continue to hold all antihypertensives
+   .
+   <I>## HL:</I>Continue statin, consider increasing
+   #Thrush
+ continue nystatin
+   ICU Care
+   Nutrition: TF
+   Glycemic Control:  ISS
+   Lines:
+   LIJ HD catheter [**2771-10-3**]
+   Multi Lumen - [**2771-9-30**] 05:23 PM
+   Prophylaxis:
+   DVT: Pneumoboots,
+   Stress ulcer: PPI
+   VAP:  Chlorhexidine and HOB elevation
+   Comments: lactulose for BM
+   Communication:  Comments: Brother [**Name (NI) **] [**Name (NI) 4716**]
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

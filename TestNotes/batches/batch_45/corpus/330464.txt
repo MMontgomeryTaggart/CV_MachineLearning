@@ -1,0 +1,281 @@
+Chief Complaint:
+   24 Hour Events:
+   Progressive extension of PR interval throughout the day - EP noted
+   patient with extremely poor prognosis requiring surgery - CT surgery
+   reported nothing to do esp without a finalized TEE report indicating
+   the presence of an abscess
+   Difficult sedation with patient frequently awake and requesting tube
+   removal
+   HD done [**11-10**]
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Vancomycin - [**2863-11-10**] 11:13 AM
+   Gentamicin - [**2863-11-10**] 11:14 AM
+   Metronidazole - [**2863-11-10**] 04:08 PM
+   Infusions:
+   Fentanyl - 150 mcg/hour
+   Midazolam (Versed) - 3 mg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2863-11-10**] 08:25 AM
+   Famotidine (Pepcid) - [**2863-11-10**] 08:00 PM
+   Fentanyl - [**2863-11-10**] 09:02 PM
+   Midazolam (Versed) - [**2863-11-10**] 09:02 PM
+   Other medications:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2863-11-11**] 05:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100
+   Tcurrent: 37.6
+C (99.7
+   HR: 76 (60 - 76) bpm
+   BP: 102/54(66) {79/42(21) - 114/68(77)} mmHg
+   RR: 14 (10 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 69.7 kg (admission): 69.7 kg
+   Height: 65 Inch
+             Total In:
+                                                                  1,525 mL
+                                                                    273 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,175 mL
+                                                                    213 mL
+   Blood products:
+   Total out:
+                                                                  1,000 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    525 mL
+                                                                    273 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: SIMV/PSV/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 498 (147 - 549) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 22 cmH2O
+   SpO2: 100%
+   ABG: ///30/
+   Ve: 7.1 L/min
+   Physical Examination
+   Gen: Intubated, sedated, awakes to voice, follows commands, NAD.
+   Eyes: PERRL, anisocoria less noticible today.
+   ENT: Normocephalic, atraumatic,
+   Neck: Supple, JVP at 6-7cm
+   CV: RRR, ?S3, ?S4 gallop and [**5-20**] SM heard throughout precordium,
+   loudest at LSB increases with expiration.
+   Resp:  Mild diffuse rales at bases bilaterally, poor air movement,
+   breathing comfortably  on vent.
+   Abd:  +BS, soft, nondistended, TTP diffusely, no rebound, liver edge
+   2cm below costal margin
+   Ext: LUE AV fistula with thrill.  No edema, good peripheral pulses, no
+   cyanosis
+   Labs / Radiology
+   150 K/uL
+   8.6 g/dL
+   72 mg/dL
+   4.8 mg/dL
+   30 mEq/L
+   4.1 mEq/L
+   10 mg/dL
+   106 mEq/L
+   143 mEq/L
+   26.1 %
+   3.1 K/uL
+        [image002.jpg]
+   N68, L22, M4.6, E4.0
+   Lactate 0.7
+   COAGs: 16.5/27.5/1.5
+                             [**2863-11-8**]  07:03 PM
+                             [**2863-11-9**]  03:27 AM
+                             [**2863-11-10**]  03:01 AM
+                             [**2863-11-11**]  03:04 AM
+   WBC
+   4.1
+   5.3
+   3.2
+   3.1
+   Hct
+   30.3
+   33.4
+   28.3
+   26.1
+   Plt
+   100
+   118
+   129
+   150
+   Cr
+   9.4
+   9.9
+   5.1
+   4.8
+   TropT
+   0.15
+   Glucose
+   85
+   91
+   90
+   72
+   Other labs: PT / PTT / INR:16.5/27.5/1.5, CK / CKMB /
+   Troponin-T:27//0.15, ALT / AST:[**9-6**], Alk Phos / T Bili:375/0.5,
+   Differential-Neuts:68.9 %, Lymph:22.2 %, Mono:4.6 %, Eos:4.0 %, Lactic
+   Acid:0.7 mmol/L, Albumin:3.0 g/dL, Ca++:7.5 mg/dL, Mg++:1.8 mg/dL,
+   PO4:2.2 mg/dL
+   EKG: widening PR interval, now approx 440, increased from
+   Assessment and Plan
+   31yo gentleman with h/o HIV not on HAART, ESRD on HD, and h/o coag neg
+   Staph endocarditis s/p MVR/AVR [**3-23**] admitted with fevers and diarrhea,
+   now w/ GPC POS BCx. Pt presents good clinical picture for bacterial
+   endocarditis.
+   # Bacterial Endocarditis:
+   Patient is immunocompromised and has a history of endocarditis.  Of
+   note, he has had prior recent admission in [**9-/2863**] with similar
+   symptoms.  TTE and TEE findings as well as S. viridans bacteremia new
+   PR prolongation on EKG are consistent with this diagnosis.  Other, ddx
+   for his fevers would include CMV colitis, viral gastroenteritis, C diff
+   colitis, or [**Doctor First Name **].  He responded appropriately to volume challenge and
+   his blood pressures have been stable in 90s/50s since presentation to
+   the MICU.  Although initially febrile, he was 94.8 and then 95.1 upon
+   presentation to the MICU.  Would also have concern for CNS process
+   given headaches and unequal pupils on exam, although clinical
+   presentation does not suggest bacterial meningitis.  Of note, LP done
+   [**9-/2863**] was negative.  CXR does not show infiltrate. EP consulted, and
+   believe he has a poor prognosis and requires surgical intervention.  CT
+   surgery consulted, and is waiting for final [**Doctor Last Name 1222**] from TEE before
+   deciding on course.
+   - F/u final read of TEE and discuss surgical plans with CT [**Doctor First Name 438**]
+   - Continue Vanc/gent and flagyl with renal dosing
+   - TID EKG
+   - f/u BCx and fungal cultures and speciation
+   - check CMV and stool C diff, O&P, stool Cx
+   - ID following, appreciate recs
+   - Pacer pads kept at bedside.
+   # Intubated for airway protection for multiple procedures.
+   - Extubation plan based on CT surgery assessment which will require the
+   final read on the TEE.
+   - VAP bundle
+   # Anisocoria - Planed to obtain MRI of head as has bacteremia and HIV
+   and focal neurological finding. MRI without gad given ESRD.  Pt was
+   unable to tolerate MRI.  Currently patient seems at high risk to leave
+   floor.
+   - Imaging is low priority, but will consider once cardiac issues have
+   been addressed.
+   # ESRD on HD:
+   - HD yesterday, further per renal.
+   - continue nephrocaps, phoslo, cinacalcet, and sevelamer
+   - monitor lytes closely
+   - appreciate renal input
+   # Oral thrush:
+   - nystatin swich and swallow, applying as swab while intubated
+   # HIV with CD 4 count of 34:
+   Not on HAART as he does not tolerate it.
+   - appreciate ID recs
+   - continue bactrim (currently on weekly bactrim, may need to adjust
+   dose per ID)
+   # Hyponatremia:  Resolved.  Likely was hypovolemic hyponatremia.
+   # Anemia: At baseline
+   - receiving Epo with dialysis
+   - monitor
+   # Thrombocytopenia: Current platelets 107, baseline 80-200
+   [**Month (only) 56**] be low in setting of acute infection.  Also may be secondary to
+   hepatosplenomegaly (chronic on his imaging).
+   - monitor
+   # Asthma:
+   - continue albuterol
+   # Elevated INR:
+   Unclear if nutritional or if he has coagulopathy.  His INR is at his
+   baseline.
+   - Vitamin K given today
+   -monitor
+   # HTN:
+   Of note, he has had problems with hypertension in the past but his
+   nephrologist reports that his BP has been increasingly easy to control
+   of late
+   - hold metoprolol while hypotensive
+   # Elevated Alk Phos:
+   Chronic.  Most likely from bone as bone alk phos was elevated when
+   checked in past.  Nephrologist planning on bone scan.
+   # HCV/HBV:
+   - LFTs at baseline.
+   .
+   # Chronic pain and h/o opioid dependance:
+   - contine methadone 40mg tid
+   # FEN: NPO while intubated, careful with IV fluids for pressure support
+   only as needed as he does not make urine. If needs to stay intubated,
+   will consider TF.
+   # Glycemic control
+   # Access
+ 2 PIVs, 18g , 20g will attempt to place another 18g line.
+   # PPx:  subQ heparin, famotidine while in ICU
+   # Code:  confirmed FULL
+   # Dispo:  ICU for now.
+   ------ Protected Section ------
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 31M HIV/AIDS, endocarditis c/b AVR/MVR,
+   diarrhea, fever, poor PO intake p/w fever and hypotension at HD.
+   Colitis on CT, high grade GPC bacteremia.   Intubated for TEE which
+   showed suspected aortic root abscess but no vegetations.  1^st degree
+   AV block continues to progress.  Cards/EP following
+ feels high
+   mortality without surgical intervention.  CT [**Doctor First Name 438**] evaluating for OR but
+   feel too risky and desire for medical mgmt unless hand forced by
+   precipitous decline .  Pt notes discomfort from ETT and LBP (chronic).
+   CT [**Doctor First Name 438**] following re: need for surgery.
+   Exam notable for:
+   Tmax: 37.8
+C (100
+   Tcurrent: 37.6
+C (99.7
+   HR: 76 (60 - 76) bpm
+   BP: 102/54(66) {79/42(21) - 114/68(77)} mmHg
+   RR: 14 (10 - 23) insp/min
+   SpO2: 100%
+   Intubated, lightly sedated, follows commands, answers questions.
+   Pupils
+ anisocoria resolved.
+   CV- loud aortic SEM
+   Lungs
+ (ant) rales lat bases
+   Abd benign bs+
+   Ext no c/c/e
+   31M HIV/AIDs, ESRD on hd, h/o endocarditis c/b AVR/MVR now with ?
+   recurrent endocarditis on replacement valves.  Covering echo card
+   personnel not able to clearly confirm or deny aortic root abscess.
+   Continuing to attempt clarification but might not be achievable until
+   tomorrow when Dr. [**First Name (STitle) **] (performing cardiologist) returns.  In
+   meantime, given progressive prolongation of pr interval (though have
+   not witnessed any dropped beats) maintain intubated, external pacer at
+   bedside.  EP and CT [**Doctor First Name 438**] following closely.   Follow up cx results,
+   repeat BCx daily with [**Hospital1 **] EKGs. Anisocoria
+ resolved.  Given severity
+   of illness, hold off on MRI for now.  Remainder of plan as outlined
+   above.
+   Patient is critically ill
+   Total time: 50 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 372**] [**Last Name (NamePattern1) 489**], MD
+   on:[**2863-11-11**] 03:39 PM ------
+
+
+DOC CLASS

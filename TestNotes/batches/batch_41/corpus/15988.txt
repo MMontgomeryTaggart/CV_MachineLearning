@@ -1,0 +1,122 @@
+Admission Date:  [**2714-9-1**]       Discharge Date:  [**2714-9-6**]
+
+Date of Birth:   [**2637-9-7**]       Sex:  M
+
+Service:  CCU MED
+
+ADMITTING DIAGNOSIS:  Ventricular tachycardia.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 76 year old
+male with a history of coronary artery disease, status post
+CABG in [**2693**] and [**2709**], AS status post DCC four weeks ago,
+history of nonsustained VT, multiple myeloma, prostate cancer
+and bladder cancer who developed new onset chest pain,
+shortness of breath and diaphoresis last night.  Called 911
+and was found in VT status post DCC.  In the E.R. chest pain
+resolved with nitroglycerin drip.  EKG with left bundle
+branch block unchanged from previous.  The patient was
+transferred here for cardiac catheterization.
+
+PAST MEDICAL HISTORY:  Prolonged PR interval, left bundle
+branch block, nonsustained VT, a-flutter.  Multiple myeloma
+being treated with thalidomide, stopped secondary to
+dizziness, trial of methylprednisolone.  Cholecystectomy.
+Coronary artery disease status post CABG in [**2693**] and [**2711**].
+Prostate cancer status post radiation therapy.  Bladder
+cancer.
+
+SOCIAL HISTORY:  The patient lives with his wife.  His son
+works at [**Hospital1 68**].  Denies alcohol, smoking.  Former business
+executive.
+
+ALLERGIES:  Penicillin causes knee swelling.
+
+PHYSICAL EXAMINATION:  Vital signs heart rate 80 to 90, blood
+pressure 127/75, respiratory rate low 20s, SPO2 100 percent
+on 2 liters.  HEENT normocephalic, atraumatic, moist mucous
+membranes.  Neck supple, no lymphadenopathy, JVD not
+elevated.  Pulmonary decreased breath sounds over the left
+base, no crackles, wheezing.  Cardiac S1, S2 normal, no
+murmurs, gallops or rubs.  Abdomen soft, nondistended,
+nontender.  Extremities no edema of lower extremities.  Neuro
+awake, alert and oriented times three.  Cranial nerves II-XII
+intact.
+
+LABORATORY DATA:  On admission EKG left bundle branch block,
+regular rhythm.  LFTs within normal limits.
+
+HOSPITAL COURSE:
+1.  Ventricular tachycardia.  The patient ruled out for MI
+with peak CK being 377 on this admission.  Ruled out for MI
+with three negative cardiac enzymes.  The patient was
+continued on aspirin, metoprolol, Lipitor.  Plavix was
+started.  Cardiac catheterization at this time showed no
+culprit lesion, although a thrombus may have formed in the
+old SVG and embolized distally.  The patient's MCA was found
+with 40 percent disease and LAD with 80 percent mid-disease
+with SVG to LAD, SVG to PDA with diffuse disease, SVG to RA
+to OM patent and LIMA to diagonal to LAD patent.  EP was
+consulted for the patient's ventricular tachycardia.
+Secondary to VT with left bundle branch block and LAD, the
+patient had an ICD placed.  Biventricular pacemaker was
+unable to be put in.  The patient was monitored for 24 hours
+and had no episodes of ICD being fired.  The patient's
+ejection fraction was 20 to 25 percent.  EP recommended to
+start amiodarone on the patient.  Amiodarone was started and
+will need to be titrated as an outpatient.
+
+2.  Hematology/oncology.  The patient has multiple myeloma.
+His primary oncologist was notified of this admission.  The
+patient started to become pansytopenic during this admission.
+However, his primary oncologist was aware and outpatient
+follow-up with his oncologist was made.  Otherwise the patient
+had no active issues during this admission.
+
+CONDITION ON DISCHARGE:  The patient was stable and
+discharged to home in room air.
+
+DISCHARGE STATUS:  The patient was discharged to home.
+
+DISCHARGE DIAGNOSES:
+1.  Sustained ventricular tachycardia.
+2.  Atrial flutter.
+3.  Multiple myeloma.
+4.  Coronary artery disease.
+5.  Prostate cancer.
+6.  Bladder cancer.
+
+DISCHARGE MEDICATIONS:
+1.  Atorvastatin 40 mg p.o. q.day.
+2.  Multivitamin one capsule p.o. q.day.
+3.  Metoprolol 50 mg p.o. b.i.d.
+4.  Amiodarone 400 mg p.o. q.day which is to be titrated
+downward.
+5.  Coumadin 5 mg p.o. q.h.s.
+6.  Aspirin 81 mg p.o. q.day.
+7.  Metformin 500 mg p.o. b.i.d.
+8.  Tricor 160 mg p.o. q.h.s.
+9.  Vasotec 2.5 mg p.o. q.day.
+10. Hydrochlorothiazide 25 mg p.o. q.day.
+11. Glipizide 10 mg p.o. q.day.
+
+FOLLOWUP:  The patient is to have followup in device clinic
+on [**2714-9-11**].  The patient is to call Dr. [**Last Name (STitle) **] for oncology
+followup.  The patient is to follow up with his PCP [**Last Name (NamePattern4) **] [**9-7**]
+and then follow up in Coumadin clinic as appropriate.
+
+
+
+
+
+
+                            [**Name6 (MD) 125**] [**Last Name (NamePattern4) 1879**], M.D.  [**MD Number(1) 2181**]
+
+Dictated By:[**Dictator Info **]
+MEDQUIST36
+
+D:  [**2714-10-1**]  08:41
+T:  [**2714-10-1**]  08:58
+JOB#:  [**Job Number 22199**]
+
+
+DOC CLASS

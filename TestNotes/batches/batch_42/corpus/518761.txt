@@ -1,0 +1,256 @@
+Chief Complaint:
+   24 Hour Events:
+ STOOL CULTURE - At [**3214-7-14**] 10:34 AM
+   r/o c.diff
+ WOUND CULTURE - At [**3214-7-14**] 10:35 AM
+   pt's PEG site
+ ULTRASOUND - At [**3214-7-14**] 04:46 PM
+   bedside US of abd
+ BLOOD CULTURED - At [**3214-7-14**] 05:30 PM
+ URINE CULTURE - At [**3214-7-14**] 05:30 PM
+ FEVER - 104.2
+C - [**3214-7-15**] 02:15 AM
+   Continued to spike fevers to 103s throughout the day with tachycardia
+   to 150s. Gave Coreg with HR down to 90s and BP down to 90s/50s.
+   Cultures including PEG site culture were sent again. Patient was
+   re-started on Vanc/Zosyn per ID recs. Pt also received an abdominal U/S
+   to assess for abscess underneath the PEG tube site but was
+   inconclusive. However in the evening began spiking to 104.5. Was placed
+   on cooling blanket, given ice cold saline bolus (500mL), one dose of
+   motrin 400mg and tylenol Q6H.   If necessary may need CT
+   Chest/Abd/Pelvis today per ID recs.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftazidime - [**3214-7-13**] 08:10 PM
+   Nafcillin - [**3214-7-13**] 10:02 PM
+   Vancomycin - [**3214-7-14**] 08:24 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3214-7-15**] 04:01 AM
+   Infusions:
+   Midazolam (Versed) - 8 mg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3214-7-14**] 12:14 PM
+   Heparin Sodium (Prophylaxis) - [**3214-7-15**] 04:01 AM
+   Midazolam (Versed) - [**3214-7-15**] 05:17 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3214-7-15**] 06:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 40.1
+C (104.2
+   Tcurrent: 39.9
+C (103.8
+   HR: 120 (97 - 150) bpm
+   BP: 100/62(63) {88/52(61) - 113/73(83)} mmHg
+   RR: 30 (14 - 45) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 142.4 kg (admission): 164 kg
+   Height: 74 Inch
+    CVP: 24 (8 - 24)mmHg
+   Total In:
+                                                                  3,830 mL
+                                                                  1,128 mL
+   PO:
+   TF:
+                                                                  1,046 mL
+                                                                    303 mL
+   IVF:
+                                                                  1,509 mL
+                                                                    575 mL
+   Blood products:
+   Total out:
+                                                                  1,835 mL
+                                                                    275 mL
+   Urine:
+                                                                  1,425 mL
+                                                                    275 mL
+   NG:
+                                                                     10 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,995 mL
+                                                                    853 mL
+   Respiratory support
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 16
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 16 cmH2O
+   Plateau: 13 cmH2O
+   SpO2: 100%
+   ABG: 7.39/28/203/16/-6
+   Ve: 18.3 L/min
+   PaO2 / FiO2: 508
+   Physical Examination
+   GEN: Obese. Lying in bed. Trached and on ventilator.
+   HEENT: NC/AT Diaphoretic
+   EXTREM: Cold and mottled with diffuse edema esp in dependent areas
+   (Scrotum)
+   NEURO: Sedated. Agitated occasionally when HR or fever increases
+   Labs / Radiology
+   291 K/uL
+   11.4 g/dL
+   229 mg/dL
+   1.3 mg/dL
+   16 mEq/L
+   4.4 mEq/L
+   77 mg/dL
+   111 mEq/L
+   141 mEq/L
+   34.7 %
+   21.8 K/uL
+        [image002.jpg]
+                             [**3214-7-13**]  07:28 PM
+                             [**3214-7-13**]  08:02 PM
+                             [**3214-7-13**]  10:33 PM
+                             [**3214-7-14**]  01:50 AM
+                             [**3214-7-14**]  02:18 AM
+                             [**3214-7-14**]  05:19 AM
+                             [**3214-7-14**]  07:55 PM
+                             [**3214-7-14**]  08:06 PM
+                             [**3214-7-15**]  03:22 AM
+                             [**3214-7-15**]  03:34 AM
+   WBC
+   20.3
+   21.8
+   Hct
+   35.6
+   34.7
+   Plt
+   296
+   291
+   Cr
+   0.9
+   1.0
+   1.0
+   1.3
+   TCO2
+   21
+   20
+   16
+   19
+   18
+   18
+   Glucose
+   171
+   202
+   168
+   229
+   Other labs: PT / PTT / INR:14.7/28.2/1.3, CK / CKMB /
+   Troponin-T:922/3/0.13, ALT / AST:25/35, Alk Phos / T Bili:139/0.6,
+   Amylase / Lipase:84/88, Differential-Neuts:81.6 %, Band:0.0 %,
+   Lymph:12.7 %, Mono:4.5 %, Eos:0.9 %, Fibrinogen:932 mg/dL, Lactic
+   Acid:1.8 mmol/L, Albumin:3.1 g/dL, LDH:425 IU/L, Ca++:8.4 mg/dL,
+   Mg++:2.2 mg/dL, PO4:3.5 mg/dL
+   CXR: Improved RLL infiltrates.
+   Assessment and Plan
+   50M s/p MI with CHF (EF 10%) who was admitted for respiratory distress
+   after being found down in his home. He has had a prolonged intubation,
+   now with trach since [**6-28**]. He is dependent on cardiac output for
+   renal function and renal function is exquisitely sensitive to changes
+   in perfusion. He has been continued to be difficult to wean from the
+   ventilator.
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **]). Pts failure likely
+   multifactorial.  Multi-lobar pneumonia is contributing, but likely now
+   mostly because of severe CHF (EF 10%). Has [**Last Name (un) 1424**]-[**Doctor Last Name 1425**] respirations
+   intermittently, with alkalemic blood gases.CXR today less concerning
+   for RLL infiltrate
+ may have been episode of aspiration. Sputum
+   cultures pending but previous grew MSSA and E.coli.
+   - F/u gram stains and cxs.
+   - Continue atrovent nebs prn.
+   - Abx (ceftazidime and nafcillin) were given for pos MSSA and E. coli
+   sputum cx. However due to concern for RLL infiltrate, in setting of
+   unusually high fever and rising WBC, started  vanc and zosyn [**3214-7-14**].
+   - Keep HOB elevated to decrease effects of obesity on ventilation.
+   # Fever: Has been febrile for his entire, extended MICU course.
+   However, recently been spiking to 103s and 104s which is higher than
+   previous fevers to 100s and 101s. WBC also up over last few days. New
+   RLL infiltrate being treated with Vanc/zosyn. Concern for abscess in
+   abdomen/pelvis as draining purulent discharge from PEG site. D/C
+   fentanyl patch as can have elevated fentanyl levels in setting of fever
+   if on patch. Also tried to wean off fentanyl as 1-10% of patients can
+   develop fever on this drug.  Still concern for infectious etiology,
+   however, so patient will be pan-CT
+d today to look for abscess.
+   -         Tylenol 650 q6 and cooling blanket for fever.
+   -          Sent stool for c. diff.
+   -                Sent swab from surrounding PEG for gram stain and cx.
+   -                F/u CT chest/Abd/pelvis today
+   -                Will check TSH as pt on levothyroxine and TSH not
+   checked recently.
+   -                Will also check LFTs to r/o hepatitis or gall bladder
+   disease as cause for fevers.
+   -                Will replace CVL and pull/culture old line
+    # Shock:  Likely a combination of septic shock and cardiogenic shock.
+   UOP has been good (consistently above 30cc/hr) but hypotension
+   continues (to low of 82/46). Pt is febrile, as above.
+   -         Keep CVPs in ~[**11-11**] with fluid as needed.
+   - Continue to monitor UOP. Increases with decreased HR and decreased
+   fever so likely treating the fever will help the UOP.
+Ventricular tachycardia: Intermittent. Up to 170s yesterday, likely
+   exacerbated by fever.
+   -          Carvedilol 25mg twice daily. Does help tachycardia
+   transiently but in setting of high fevers does not sustain effect.
+   -          Continue to monitor and use fluid boluses.
+   -          Consider loading with amiodarone if VT becomes sustained or
+   leads to hemodynamic instability.
+   -          Continue to treat fever and other comorbidities.
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE ON CHRONIC. Pt with severe
+   cardiomyopathy and EF of only 10%.
+   -          Continue with coreg at 25mg.
+ ATRIAL FIBRILLATION (AFIB).
+   - Carvedilol 25mg QD
+   - restarted coumadin at 5mg QD (home dose) [**3214-7-12**] however since may
+   need central line replaced today in order to culture the old one will
+   not give dose tonight and will transfer to heparin instead.
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)- After discussions
+   with renal is seems that his cardiac output is only barely enough to
+   maintain GFR. When his CO is higher, he can filter the burden of his
+   high levels of urea serves as a potent diuretic for free water. As a
+   result, when he is hymodynamically strong enough to have a GFR, he
+   rapidly diureses water and urea resulting in hypernatremia. Cr 1.3
+   today. Renal signed off yesterday but now Cr slightly increased at 1.3.
+   did receive 400mg motrin last night for fever which may be contributing
+   but more likely he is not perfusing his kidneys with increasingly high
+   fevers and tachycardia keeping his CO low.
+   - Holding lasix  as above
+   - Continue to monitor Cr, BUN, UOP.
+   # Hypernatremia: As above, related to urea diuresis when GFR is
+   possible. Na concentration is wnl range now.
+   -          Free water flushes decreased to 200 mL q 4 hrs.
+   -          Monitor electrolytes
+   -          Continue to put meds in D5W fluid.
+   # Concern for ileus: Pt previously had high residuals; no longer a
+   problem.  Pt [**Name2 (NI) 1779**] well.
+   - continue to monitor stools.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3214-7-14**] 07:14 PM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   Peripheral IV placed [**3214-7-15**]
+   Arterial Line - [**3214-7-7**] 01:08 PM
+   Multi Lumen - [**3214-7-7**] 04:39 PM
+   Prophylaxis:
+   DVT:  Pneumo boots
+   Stress ulcer:  PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition: ICU. Needs family meeting today to assess goals of care.
+
+
+DOC CLASS

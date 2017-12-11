@@ -1,0 +1,258 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ EKG - At [**3379-11-21**] 08:00 AM
+ PA CATHETER - STOP [**3379-11-21**] 12:35 PM
+ ULTRASOUND - At [**3379-11-21**] 01:30 PM
+   - oral surgery: to OR for extraction of teeth Monday [**3379-11-22**] 2pm, NPO
+   after midnight
+   - psych: standing haldol 5mg qAM and qHS, 2-5mg TID prn; consider
+   intubation/sedation if continued agitation
+   - Swan pulled, needs L subclavian line placed
+   - restarted Milrinone
+   - renal: continue Lasix
+   - ID: continue broad spectrum Abx while clinically unstable, check [**First Name9 (NamePattern2) **]
+   [**Last Name (un) 121**], continue PO Vanc until cdiff negative x3 (3rd sample sent today),
+   obtain TEE to r/o intracardiac abscess development, line changes if
+   possible, strongly favor operative intervention, abdominal imaging if
+   incr wbc and low grade temps without source
+   - ophtho: right afferent pupillary defect - MRI of optic nerves when pt
+   goes for MR head; intraretinal exudate in L eye - not active infection,
+   will re-examine later this week
+   - LE edema R>L, RLE LENI: no evidence of DVT
+   - Dobhoff placed, tube feeds started. held at 5am for procedure at 2pm.
+   - continues to have abdominal pain, ttp LUQ & LLQ, no rebound, given
+   Maalox
+   This AM, no SOB, CP, abdominal pain.
+   Allergies:
+   Penicillin G
+   Hallucinations;
+   Last dose of Antibiotics:
+   Nafcillin - [**3379-11-19**] 06:32 PM
+   Cefipime - [**3379-11-21**] 05:58 PM
+   Vancomycin - [**3379-11-21**] 10:00 PM
+   Metronidazole - [**3379-11-22**] 02:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3379-11-21**] 09:40 AM
+   Heparin Sodium (Prophylaxis) - [**3379-11-21**] 04:45 PM
+   Furosemide (Lasix) - [**3379-11-21**] 05:50 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3379-11-22**] 07:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 36.4
+C (97.6
+   HR: 106 (98 - 139) bpm
+   BP: 120/68(84) {84/48(60) - 139/82(101)} mmHg
+   RR: 12 (11 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 72 kg (admission): 63 kg
+   Height: 70 Inch
+    CVP: 4 (4 - 8)mmHg
+   PAP: (36 mmHg) / (17 mmHg)
+                                Total In:
+                                                                  1,959 mL
+                                                                    174 mL
+   PO:
+                                                                    780 mL
+                                TF:
+   IVF:
+                                                                  1,179 mL
+                                                                    174 mL
+   Blood products:
+   Total out:
+                                                                  2,610 mL
+                                                                    605 mL
+   Urine:
+                                                                  2,285 mL
+                                                                    605 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -651 mL
+                                                                   -431 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ////
+   Physical Examination
+   Gen: NAD, awake, answering appropriately
+   Neck: JVD difficult to assess, central line in place
+   Chest: lungs clear anteriorly
+   CV: RRR.  Nl S1, soft S2.  Holosystolic murmur best at apex.
+   Abd: soft, non distended non tender, ABS
+   Ext: 2+ pitting edema.  3^rd digit of left hand with necrotic lesion
+   nt, unchanged. Osler node on R great toe improved. Erythematous lesions
+   on extremities improving.
+   Neuro: PERRL, L sided facial droop and ptosis.  Able to lift upper
+   extremities to gravity.  Move toes of lower extremties, unable to raise
+   against gravity.  Sensation in upper and lower extremities intact
+   bilaterally
+   Labs / Radiology
+   454 K/uL
+   11.4 g/dL
+   98 mg/dL
+   1.0 mg/dL
+   19 mEq/L
+   4.3 mEq/L
+   27 mg/dL
+   107 mEq/L
+   137 mEq/L
+   35.4 %
+   15.3 K/uL
+        [image002.jpg]
+                             [**3379-11-19**]  04:56 PM
+                             [**3379-11-19**]  06:10 PM
+                             [**3379-11-20**]  05:24 AM
+                             [**3379-11-20**]  12:34 PM
+                             [**3379-11-20**]  12:37 PM
+                             [**3379-11-20**]  05:16 PM
+                             [**3379-11-20**]  05:21 PM
+                             [**3379-11-21**]  12:22 AM
+                             [**3379-11-21**]  05:17 AM
+                             [**3379-11-22**]  06:22 AM
+   WBC
+   13.9
+   14.7
+   20.7
+   15.3
+   Hct
+   34.3
+   35.9
+   47
+   39
+   39.5
+   35.4
+   Plt
+   362
+   363
+   381
+   454
+   Cr
+   1.4
+   1.3
+   1.0
+   TCO2
+   21
+   21
+   19
+   19
+   Glucose
+   103
+   92
+   98
+   Other labs: PT / PTT / INR:17.3/36.5/1.6, CK / CKMB /
+   Troponin-T:51/7/0.28, ALT / AST:27/27, Alk Phos / T Bili:50/0.3,
+   Amylase / Lipase:25/20, Differential-Neuts:92.1 %, Band:10.0 %,
+   Lymph:5.0 %, Mono:2.1 %, Eos:0.4 %, D-dimer:1765 ng/mL, Fibrinogen:650
+   mg/dL, Lactic Acid:0.8 mmol/L, Albumin:2.1 g/dL, LDH:381 IU/L, Ca++:7.6
+   mg/dL, Mg++:2.0 mg/dL, PO4:3.8 mg/dL
+   MICRO:
+   BCx: NGTD
+   UCx: negative x3
+   Cdiff: negative x2
+   R elbow tissue Cx: negative
+   [**11-21**] RLE LENI: (prelim)
+   No evidence of DVT
+   Assessment and Plan
+   49 M found to have staphlyococcus aureus bacterial endocarditis with
+   severe mitral regurgitation [**1-18**] mitral valve vegetations and flail
+   leaflet, course c/b sepsis, neurological deficits.
+    # Mitral valve staphylococcus aureus endocarditis/ Sepsis [**1-18**]
+   staphylococcus aureus bacteremia: BCx grew out MSSA. ECHO shows large
+   vegetation on mitral valve, possible small vegetation on aortic valve.
+   - continue daily surveillance cultures: last positive cx on [**11-14**]
+   - f/u cardiac surgery recs
+   - to OR today for teeth extraction
+   - TEE today to evaluate for abscess, aortic valve vegetation
+   - monitor for new embolic events: if abdominal pain worsens would
+   consider CT abdomen to evaluate for emboli to small bowel
+   - f/u ID recs
+ continue broadened Abx coverage, could narrow if no
+   positive Cx and pt stable, increase Cefepime to q12h dosing as renal
+   function has improved
+   # Loose stools: Pt has been having loose stools since admission. Cdiff
+   negative x2. Empirically treating with IV Flagyl and PO Vanc. WBC
+   improved from 20 to 15.
+   - f/u Cdiff #3
+   - add banana flakes to tube feeds
+   # Neurological deficits
+ Neurological deficits continue to improve.
+   - MRI head, optic nerves, and spine once patient stabilized
+   - repeat CT angio head/neck later this week to r/o mycotic aneurysm
+   - final treatment would be surgery
+   # Delirium
+ Pt agitated [**11-20**], requiring Haldol 19mg IV and Ativan 1mg
+   IV. Appropriate and calm on [**11-21**] with standing Haldol.
+   - f/u psych recs
+   - continue Haldol, Ativan; monitor for QTc prolongation, EPS,
+   akithesia, dystonia, TD, and NMS
+   # Respiratory Distress
+ Pt satting well on 4LNC.
+   - continue Lasix; good UOP with Lasix 20mg IV
+   - follow O2 requirement
+   #ARF
+ improvement in creatinine to 0.9 today (baseline 0.4).
+   Multifactorial etiology for ARF in setting of multiple renal infarcts,
+   recent gentamycin use, contrast load and low CO from MR.
+   [**Name14 (STitle) **] to monitor UOP, Cr
+   - renally dose all meds
+   #Olecranon bursistis s/p washout
+ no evidence of infection as per OR
+   report and initial gram stain. Wound vac in place
+   - f/u fluid cx - negative to date
+   #Hypotension
+ [**1-18**] to sepsis/ low cardiac output.  Pt weaned off
+   levophed [**11-15**].
+   - UOP has improved with milrinone, would continue
+   #Hypoalbuminemia
+ poor nutrition.  Dobhoff placed [**11-21**], Tube feeds
+   started.
+   # CORONARIES: no known CAD but heavy smoker
+   - plan for Cath tomorrow
+   - pre-medicate with Mucomyst and Bicarb gtt
+   - NPO after MN
+   # PUMP: Bedside ECHO done [**11-15**]. EF 55-60%.
+   # RHYTHM:  Sinus tachycardia likely [**1-18**] volume depletion and
+   bacteremia.
+   #ACCESS: Right IJ triple lumen catheter
+ placed [**11-15**]; replace with L
+   subclavian today
+   #PPX
+ heparin
+   # Code
+ full
+   #Access
+ RIJ -> switch to L subclavian
+   #Communication
+ wife
+   #Dispo
+ CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3379-11-18**] 04:32 PM
+   Cordis/Introducer - [**3379-11-19**] 06:39 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

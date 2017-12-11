@@ -1,0 +1,226 @@
+Chief Complaint:  OUTPATIENT CARDIOLOGIST: [**Doctor First Name 5571**] [**Doctor Last Name 5572**],
+   ([**Telephone/Fax (1) 5573**]
+   .
+   PCP:  [**First Name8 (NamePattern2) 539**] [**Last Name (NamePattern1) 5574**]
+   .
+   Chief Complaint: transfer for BiV Pacer placement
+   HPI:
+   49 y/o M w/ h/o dilated non-ischemic cardiomyopathy with EF 15-20%,
+   chronic atrial fibrillation who was undergoing placement of BiV
+   pacer/ICD at [**Hospital6 **].  Were able to place RA/RV leads, but
+   procedure was complicated by unsuccessful cannulation of coronary
+   sinus, and development of acute dyspnea thought to be pulmonary edema.
+   Patient was given nitro gtt, cefazolin 2grams, lasix 80mg IV lasix in
+   cath lab, amiodarone 400, cozaar 25, coreg 6.25 given at OSH.  Zofran
+   4mg IVx1.  Was on 2L NC prior to transfer.
+   .
+   On arrival to [**Hospital1 1**], patient was stable and without chest pain or
+   shortness of breath on 2L NC.  Generally patient describes being
+   symptomatic in his atrial fibrillation.  He was able to go for a 14
+   mile bike ride this past week, however.
+   .
+   At baseline, patient reports 2 pillow orthopnea, no LE edema, recent
+   weight gain, PND, palpitations, syncope or presyncope.
+   .
+   On review of systems, he denies any prior history of stroke, TIA, deep
+   venous thrombosis, pulmonary embolism, bleeding at the time of surgery,
+   myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+   He denies recent fevers, chills or rigors. He denies exertional buttock
+   or calf pain. All of the other review of systems were negative.
+   Allergies:
+   Beta-Adrenergic Blocking Agents
+   intolerance- un
+   Sotalol
+   intolerance- un
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 1 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   PAST MEDICAL HISTORY:
+   -Non-ischemic CMP (EF 15%)
+   -Chronic AFib - dx'd [**3198**], s/p multiple DC Cardioversions, and
+   unsuccessful PVI x2, has been intolerant of sotalol, amiodarone and
+   beta-blockers in past
+   -h/o AFib with aberrancy
+   -R knee surgery [**3186**]
+   -Possible Sleep Apnea
+   .
+   Cardiac Risk Factors: - Diabetes, Dyslipidemia, Hypertension
+   .
+   Pacemaker/ICD: Dual chamber pacer placed today.
+   --------------------
+   ALLERGIES: Beta-blockers, sotalol
+   .
+   CURRENT MEDICATIONS:
+   (as of last hospital stay)
+   Carvedilol 6.25mg daily
+   Losartan 25 mg tablet [**Hospital1 **]
+   Digoxin 125 mcg Tablet daily
+   Warfarin 5 mg Tablet as directed by Dr. [**Last Name (STitle) 5574**]
+   Aspirin 81 mg Tablet, Delayed Release (E.C.) daily
+   Furosemide 40 mg tablet daily
+   Multivitamins daily
+   Amiodarone 200 mg tablet [**Hospital1 **]
+   Fish Oil 1,000 mg 2 capsules [**Hospital1 **]
+   .
+   Pharmacy is: Target in [**Location (un) 1242**]: [**Telephone/Fax (1) 5575**]
+   .
+   Medications
+   (on Transfer)
+   Tylenol 650mg q4H PRN
+   Losartan 25mg daily
+   Digoxin 0.125mg daily
+   Carvedilol 6.25mg daily
+   Amiodarone 400mg daily
+   Lasix 40mg daily
+   cefazolin 2gm q8H
+   Nitroglycerin PRN
+   NC
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Patient is married with one son age 12 and a step daughter age
+   24. [**Name2 (NI) 810**] as an account manager for a financial company. Never smoked;
+   social ETOH; no illicits
+   Review of systems:
+   Constitutional: Fatigue, No(t) Weight loss
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, Orthopnea
+   Respiratory: No(t) Cough, Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, Nausea, No(t) Emesis, No(t)
+   Diarrhea, No(t) Constipation
+   Flowsheet Data as of [**3215-5-21**] 11:11 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 100 (91 - 100) bpm
+   BP: 133/63(80) {103/63(80) - 133/79(85)} mmHg
+   RR: 19 (16 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 71 Inch
+             Total In:
+             24 mL
+   PO:
+             TF:
+   IVF:
+   24 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                     24 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese, No(t) Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4, No(t)
+   Rub, (Murmur: No(t) Systolic, No(t) Diastolic), distant heart sounds
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Crackles : up 1/2 bilaterally)
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Tender: ,
+   Obese
+   Extremities: Right: Trace, Left: Trace
+   Musculoskeletal: No(t) Muscle wasting
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: Cr 1.0, BUN 29, Na 143, K 4.2, CO2 29, Cl
+   106, T. Bili 1.8, Albumin 3.0, Mg 2.1, CKMB 5.5, INR 2.2
+   Imaging: HOLTER from [**3214-12-6**] demonstrated:
+   1. Sinus rhythm from [**Date range (1) 5576**] and AF with controlled ventricular
+   rate 11-23-12/1/08.
+   .
+   2D-ECHOCARDIOGRAM performed on [**3215-5-20**] demonstrated:
+   1.  LV: EF of 20-25%, there was severe hypokinesis of the anterior,
+   basal-mid anteroseptal, basal-mid anterolateral and apical walls.
+   Severe MR [**First Name (Titles) **] [**Last Name (Titles) 5577**] of flow in portal vein.  Moderate TR.  Low
+   normal systolic function of the RV.  Estimated PA systolic BP of
+   35mmHg.
+   --------
+   Chest X-ray from OSH: c/w bilateral upper lob airspace disease c/w
+   aspiration pneumonitis/atelectasis.  Less likely pneumonia.
+   .
+   CXR on arrival: Dual chamber lead placement, no PTX, no e/o significant
+   volume overload, enlarged cardiac silhouette.
+   Microbiology: n/a
+   ECG: EKG [**11-29**] demonstrated: Sinus rhythm with atrial premature beats
+   and first degree A-V block. Left bundle-branch block. Compared to the
+   previous tracing of [**3214-9-5**] atrial fibrillation is absent and sinus
+   rhythm is now present and atrial premature beats are new.
+   .
+   EKG: atrial fibrillation with LBBB.  ST segments c/w hyperkalemia,
+   metabolic disturbances.  Precordial leads with ST Segments > 5mm.
+   Assessment and Plan
+   Patient is a 49 y/o M w/ h/o Dilated Cardiomyopathy, dual chamber pacer
+   who is transferred for mgmt of pulmonary edema and BiV pacer upgrade.
+   .
+   #. Dilated Cardiomyopathy (Acute on Chronic Systolic Heart Failure): EF
+   20%.  Planned for upgrade to BiV pacer/ICD tomorrow in OR.  Cardiac
+   surgery available if unable to place coronary sinus lead for epicardial
+   lead.  NPO aftermidnight.  Evidence of mild volume overload on exam.
+   - check labs on arrival
+   - follow UOP overnight, goal negative 0.5L
+   - continue carvedilol, losartan
+   - Cardiac Surgery aware
+   .
+   #. Afib: INR therapeutic, hold coumadin in preparation for OR in AM.
+   - heparin gtt PRN prior to lab
+   - aspirin, digoxin, amiodarone
+   - BiV pacer placement in AM.
+   .
+   #. Sleep Apnea:
+   - monitor O2 sats overnight.
+   .
+   #. FEN: Replete lytes prn, cardiac diet, NPO after 12am
+   .
+   #. Access:  PIVx2
+   .
+   #. PPx: INR therapeutic
+   .
+   #. Emergency contact:
+   .
+   #. Code:  full
+   .
+   #. Dispo: Pending resolution of above
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3215-5-21**] 09:54 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: Not indicated
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

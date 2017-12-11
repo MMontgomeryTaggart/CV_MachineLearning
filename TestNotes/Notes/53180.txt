@@ -1,0 +1,113 @@
+Admission Date:  [**2621-11-1**]     Discharge Date:  [**2621-11-23**]
+
+
+Service:  Surgery
+
+HISTORY OF PRESENT ILLNESS:  Ms. [**Known patient lastname 1589**] is an 85-year-old
+female who was transferred from rehabilitation to the [**Hospital1 992**] on [**2621-11-1**], for
+perfuse diarrhea associated with fevers.  Originally, this
+85-year-old female was underwent left total hip replacement
+secondary to a fracture in [**2621-9-29**].  She was
+discharged to rehabilitation where she was up until
+[**11-1**], the day when she was sent back to the Emergency
+Room at the [**Hospital1 170**] for
+evaluation due to her perfuse diarrhea and fevers.
+
+On presentation, the patient complained of abdominal pain and
+was noted to be hypotensive.  She was started empirically on
+vancomycin, levofloxacin, and Flagyl and resuscitated with
+6 units of crystalloid.  She remained hypotensive so she was
+started on dopamine.
+
+PAST MEDICAL HISTORY:   (Her other past medical history
+includes)
+1.  Urinary tract infections.
+2.  Depression.
+3.  Arthritis.
+4.  Gastroesophageal reflux disease.
+5.  Compression fracture of the lumbar disk.
+6.  Right breast cancer.
+7.  She is deaf in the left ear.
+8.  Hard of hearing in the right ear.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+HOSPITAL COURSE:  A CT scan of the abdomen showed diffuse
+colonic thickening, and the differential included ischemic
+versus infectious colitis.  With signs of peritonitis and
+sepsis, and because the patient was not improving she was
+brought to the operating room and underwent an emergent total
+abdominal colectomy and end-ileostomy.  Intraoperatively, the
+patient was found to have a large amount of fluid in the
+abdomen.  After the operation, she was transferred in a
+critical condition to the Intensive Care Unit, intubated, on
+pressors, and the antibiotics were ceftriaxone and Flagyl.
+
+On [**2621-11-5**], the patient self extubated herself.
+Antibiotics were continued as the patient continued to have
+persistent elevated white blood cell count and fevers.  She
+was doing reasonably well.  Total parenteral nutrition was
+started on [**11-6**], and the sample from the stool that was
+sent on [**2621-11-2**], was positive for Clostridium
+difficile colitis.  Of note, after the surgery subsequent
+stool samples tested negative for Clostridium difficile.
+
+During this time, the patient continued to have small
+temperatures and elevated white blood cell counts.
+Orthopaedics was consulted, and an ultrasound of the left hip
+revealed a fluid collection adjacent to the left femur
+fracture site.  Orthopaedics did not feel that this was
+evidence of infection, and it was most likely a resolving
+hematoma.
+
+On [**2621-11-8**], the patient developed tachypnea and
+dropped her saturations requiring reintubation.  She had a
+repeat CT of the abdomen which showed bilateral loculated
+pleural effusions and a thickened rectal stump.  She required
+pressor support again on and off.  The patient underwent an
+ultrasound-guided thoracentesis on [**11-9**] and
+approximately 500 cc of fluid were drained from her left
+pleural site.
+
+She continued on full support and on intravenous antibiotics,
+but despite this she never completely improved.  By
+[**2621-11-15**], it was decided among the clinical staff and
+the family that the patient would be extubated and made do
+not resuscitate/do not intubate and give her a chance to
+improve.
+
+The patient has been requiring nasal suction to raise
+secretions, and her saturations have been 80s to 90s with 60%
+face tent.  Her systolic blood pressure was between 80s to
+100s, and heart rates between 90s to 120s.  The patient was
+made comfort measures only on [**2621-11-19**], by the family
+and the clinical staff.  A morphine drip was started.
+Antibiotics and other medications were discontinued.  A Foley
+was kept to gravity with an average urine output of 30 cc to
+40 cc an hour.
+
+The son of the patient, Mr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 22426**], is the power of
+attorney.
+
+The patient was transferred to the Cardiothoracic Surgical
+Intensive Care Unit on [**2621-11-20**], and today she is
+being transferred to a rehabilitation facility to continue
+her care and comfort measures only protocol.
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 5485**]
+
+Dictated By:[**Last Name (NamePattern4) 22427**]
+
+MEDQUIST36
+
+D:  [**2621-11-22**]  19:43
+T:  [**2621-11-22**]  19:14
+JOB#:  [**Job Number 22428**]
+
+ (cclist)
+
+
+DOC CLASS

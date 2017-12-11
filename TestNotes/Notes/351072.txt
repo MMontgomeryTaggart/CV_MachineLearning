@@ -1,0 +1,198 @@
+Chief Complaint: Respiratory Failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Please see previous notes for details. Briefly, 60 year old man with
+   PMH DLBCL s/p MR-CHOP who presents with hypoxemic respiratory failure
+   and rapidly progressive right sided infiltrate.
+   24 Hour Events:
+   Central line placed
+   Pressors weaned, now on levophed alone
+   VATS biopsy - pathology just organizing pneumonitis with microbial
+   stains negative.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**3093-11-6**] 11:58 AM
+   Vancomycin - [**3093-11-7**] 09:02 AM
+   Ambisome - [**3093-11-7**] 10:00 PM
+   Metronidazole - [**3093-11-8**] 04:00 AM
+   Ciprofloxacin - [**3093-11-8**] 06:00 AM
+   Meropenem - [**3093-11-8**] 08:32 AM
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Norepinephrine - 0.08 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3093-11-7**] 06:18 PM
+   Enoxaparin (Lovenox) - [**3093-11-8**] 08:38 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3093-11-8**] 09:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 37.2
+C (99
+   HR: 79 (41 - 97) bpm
+   BP: 127/57(80) {73/47(62) - 152/75(100)} mmHg
+   RR: 24 (15 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+   CVP: 299 (0 - 302)mmHg
+   Total In:
+                                                                  3,854 mL
+                                                                  1,152 mL
+   PO:
+   TF:
+                                                                     94 mL
+   IVF:
+                                                                  3,498 mL
+                                                                    877 mL
+   Blood products:
+                                                                    266 mL
+   Total out:
+                                                                  1,351 mL
+                                                                    800 mL
+   Urine:
+                                                                  1,351 mL
+                                                                    800 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,503 mL
+                                                                    352 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: No Spon Resp
+   PIP: 16 cmH2O
+   Plateau: 12 cmH2O
+   Compliance: 64.3 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.34/46/85.[**Numeric Identifier 120**]/23/-1
+   Ve: 11 L/min
+   PaO2 / FiO2: 170
+   Physical Examination
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Rhonchorous: )
+   Abdominal: Soft, Non-tender
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   8.8 g/dL
+   216 K/uL
+   157 mg/dL
+   1.1 mg/dL
+   23 mEq/L
+   4.0 mEq/L
+   35 mg/dL
+   116 mEq/L
+   144 mEq/L
+   25.8 %
+   6.2 K/uL
+        [image002.jpg]
+                            [**3093-11-6**]  06:26 PM
+                            [**3093-11-6**]  09:32 PM
+                            [**3093-11-7**]  12:21 AM
+                            [**3093-11-7**]  04:26 AM
+                            [**3093-11-7**]  04:39 AM
+                            [**3093-11-7**]  11:10 AM
+                            [**3093-11-7**]  11:13 AM
+                            [**3093-11-7**]  05:07 PM
+                            [**3093-11-8**]  03:20 AM
+                            [**3093-11-8**]  03:25 AM
+   WBC
+   13.7
+   10.5
+   6.2
+   Hct
+   29.7
+   32.6
+   25.8
+   Plt
+   476
+   357
+   216
+   Cr
+   0.8
+   0.9
+   1.0
+   1.1
+   TropT
+   0.04
+   TCO2
+   21
+   21
+   22
+   22
+   25
+   26
+   Glucose
+   132
+   201
+   193
+   157
+   Other labs: PT / PTT / INR:18.0/35.6/1.6, CK / CKMB /
+   Troponin-T:24//0.04, ALT / AST:18/37, Alk Phos / T Bili:110/0.4,
+   Differential-Neuts:92.8 %, Lymph:3.6 %, Mono:2.9 %, Eos:0.2 %, Lactic
+   Acid:1.2 mmol/L, Albumin:2.2 g/dL, LDH:182 IU/L, Ca++:8.8 mg/dL,
+   Mg++:2.3 mg/dL, PO4:3.5 mg/dL
+   Imaging: CXR - Right costaphrenic angle cut off, but no obvious
+   pneumothorax, persistent RUL infiltrate, small b/l pleural effusions.
+   Assessment and Plan
+   60 year old man with PMH DLBCL, hypoxemic respiratory failure and now
+   ARF. Pathology from RUL infiltrate is inconclusive so will continue
+   broad spectrum antibiotics and steroids for now. With negative serology
+   and stains, fungal infection seems increasingly unlikely. Would like
+   to DC ambisome today (particularly in light of ARF). Continues with low
+   level pressor requirement but on sig. sedation. CVP running somewhat
+   low but  SVV wnl,
+   vascular pedicle width ~70mm on , grossly anasarcic on exam so doubt
+   utility of additional volume. Oxygenation remains an issue, would
+   continue low tidal volume ventilation
+   and minmize PEEP ([**12-24**] pneumothorax). Aim TBB even to slightly negative
+   today with goal CVP 4-6. Repeat chest CT today. Today is day 3 of 125
+   q6hrs of solumedrol,
+   will switch to 60mg prednisone in the morning. Further plans as per
+   resident note.
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**3093-11-8**] 03:00 AM 15 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3093-10-30**] 08:00 PM
+   Arterial Line - [**3093-11-4**] 08:24 AM
+   Multi Lumen - [**3093-11-7**] 03:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes
+   Patient is critically ill
+
+
+DOC CLASS

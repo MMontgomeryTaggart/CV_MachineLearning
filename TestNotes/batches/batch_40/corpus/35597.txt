@@ -1,0 +1,188 @@
+Admission Date:  [**3004-3-5**]              Discharge Date:   [**3004-3-9**]
+
+Date of Birth:  [**2927-9-17**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2999-3-5**] Coronary Artery Bypass Graft x 4 (Left internal mammary
+artery to left anterior descending artery, saphenous vein graft
+to diagonal, saphenous vein graft to obtuse marginal, saphenous
+vein graft to posterior descending artery)
+
+History of Present Illness:
+76 y/o male s/p abnormal stress test in [**3-4**] in which patient
+refused further work-up. Pt. underwent total knee replacement
+complicated by multiple pulmonary embolisms and myocardial
+infarction. Patient now reports dyspnea on exertion and fatigue.
+Finally underwent cardiac cath which revealed severe three
+vessel disease. Referred for cardiac surgery.
+
+Past Medical History:
+Hyperlipidemia, Myocardial Infarction, Multiple Pulmonary
+Emboli, Inguinal hernia, s/p Appendectomy, s/p Tonsillectomy,
+s/p Left total knee replacement
+
+Social History:
+Retired carpenter. Quit smoking 30 yrs ago after 1ppd x 20 yrs.
+Occasional ETOH use.
+
+Family History:
+Siblings with "heart surgery".
+
+Physical Exam:
+VS: 61 137/64 5'[**05**]" 200lbs
+Gen: No acute distress
+Skin: Unremarkable
+HEENT: Unremarkable
+Neck: Supple, full range of motion
+Chest: Cleart bilaterally
+Heart: Regular rate and rhythm, -murmur
+Abd: Soft, non-tender, non-distended, +Bowel sounds
+Ext: Warm, well-perfused, -edema
+Neuro: Grossly intact, alert and oriented x 3
+
+Pertinent Results:
+[**3004-3-5**] Echo: PRE-BYPASS: No atrial septal defect is seen by 2D
+or color Doppler. Left ventricular wall thicknesses and cavity
+size are normal. Regional left ventricular wall motion is
+normal. Overall left ventricular systolic function is low normal
+(LVEF 50-55%). Right ventricular chamber size and free wall
+motion are normal. There are simple atheroma in the aortic arch.
+There are simple atheroma in the descending thoracic aorta. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic stenosis. Trace aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. Mild (1+) mitral regurgitation is seen.
+There is no pericardial effusion. POST-BYPASS: The patient is A
+paced and on an infusion of phenylephrine. Biventricular
+function is preserved. The aorta is intact. Mitral regurgitation
+is now trivial. The remainder of the examination is unchanged.
+[**3004-3-7**] Echo: The left atrium is normal in size. Left
+ventricular wall thickness, cavity size, and global systolic
+function are normal (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. with normal free wall contractility. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. No aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+The estimated pulmonary artery systolic pressure is normal.
+There is a trivial/physiologic pericardial effusion.
+
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**3004-3-9**] 07:15AM    9.3 3.03* 9.0* 26.6* 88 29.7 33.9 15.3
+172#
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**3004-3-9**] 07:15AM        172#
+BASIC COAGULATION (FIBRINOGEN, DD, TT, REPTILASE, BT) Fibrino
+[**3004-3-5**] 02:12PM    261
+OR
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**3004-3-9**] 07:15AM    116* 25* 1.3* 138 3.9 101 28 13
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 6655**] was a same day admit and was brought directly to the
+operating room where he underwent a coronary artery bypass graft
+x 4. Please see operative report for surgical details. Following
+surgery he was transferred to the CVICU for invasive monitoring
+in stable condition. Within 24 hours he was weaned from
+sedation, awoke neurologically intact and extubated. On post-op
+day one he appeared to be doing well and was transferred to the
+telemetry floor for further care. Chest tubes and epicardial
+pacing wires we removed per protocol. A small to moderate
+pneumothorax was noted on the post chest tube pull Xray. It was
+followed serially and has been stable. The patient has been
+asymptomatic and oxygen saturations 92% on roomair. Will reamin
+on lsix for 7 days or until back to pre-op weight of 88kg.
+Patient was seen by physical therapy and rehab was recommended.
+
+
+Medications on Admission:
+Atenolol 100mg qd, Simvastatin 40mg qd, Aspirin 325mg qd,
+Ferrous Gluconate
+
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+Disp:*1 mdi* Refills:*2*
+6. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: [**2-1**]
+Puffs Inhalation Q6H (every 6 hours).
+Disp:*1 mdi* Refills:*2*
+7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed.
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+9. Ferrous Gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+10. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 7
+days.
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12
+hours) for 7 days.
+12. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+13. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name4 (NamePattern1) 1254**] [**Last Name (NamePattern1) **] - [**Location (un) 1185**]
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x 4
+Secondary: Hyperlipidemia, Myocardial Infarction, Multiple
+Pulmonary Emboli, Inguinal hernia, s/p Appendectomy, s/p
+Tonsillectomy, s/p Left total knee replacement
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+1) Monitor wounds for signs of infection. These include redness,
+drainage or increased pain. In the event that you have drainage
+from your sternal wound, please contact the [**Name2 (NI) 3620**] at ([**Telephone/Fax (1) 1774**].
+2) Report any fever greater then 100.5.
+3) Report any weight gain of 2 pounds in 24 hours or 5 pounds in
+1 week.
+4) No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry. Please shower daily. No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks from date of
+surgery.
+6) No driving for 1 month or while taking narcotics for pain.
+7) Call with any questions or concerns.
+
+Followup Instructions:
+please call and schedule the following appointments:
+Dr. [**Last Name (STitle) **] in 4 weeks [**Telephone/Fax (1) 181**]
+Dr. [**Last Name (STitle) 1174**] in [**1-31**] weeks cardiology
+Dr. [**First Name (STitle) **] in [**1-31**] weeks primary care
+
+
+
+Completed by:[**3004-3-9**]
+
+DOC CLASS

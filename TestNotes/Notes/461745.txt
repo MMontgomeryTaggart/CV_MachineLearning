@@ -1,0 +1,228 @@
+TITLE:
+   Chief Complaint:  SOB
+   HPI:
+   Please see [**Hospital1 11616**] admission note for full details.
+   Ms. [**Known patient lastname 749**] is a 68F with a PMH s/f COPD (frequent exacerbations), who
+   presents with one week of worsening cough and shortness of breath. The
+   patient reports that she has a chronic cough, of seven months duration
+   since her valve surgery, which is usually a dry hacking cough. This
+   cough, she states, has been evaluated at length without clear etiology.
+   Since Monday (~4 days ago), she has had new onset, gradually worsening
+   dyspnea, described as a feeling that "I can't catch my breath", and a
+   more productive cough. She states sputum is clear/black. ROS is notably
+   positive for congestion, wheezing, occasional paroxysmal nocturnal
+   dyspnea, and new three pillow orthopnea (over the past week). Her ROS
+   is notably negative for myalgias, sore throat, chest pain, LE edema,
+   nausea, vomiting, or diarrhea. She does note improvement in symptoms
+   after nebulizers at home and felt her Cough improved after antibiotics
+   were started. She has had sick contacts in her grandchildren, but
+   thinks that they did not have the flu (they were all vaccinated for
+   both seasonal and H1N1). Her PCP started her on moxifloxacin on one day
+   prior to admission for "bronchitis".
+   .
+   In the emergency department presenting vital signs were T=101.2,
+   BP=153/71, HR=134, RR=31, O2sat=83%RA. On exam, the ED resident reports
+   that she had diffuse wheezes. She was treated with albuterol/ipatropium
+   nebs, 125mg IV solumedrol, and levofloxacin. Her O2 sats improved to
+   100% on 2L and she appeared more comfortable. Labs were notable for a
+   creatinine of 1.6 (baseline 0.9), and a leukocytosis of 16.6. Urine and
+   blood cultures were not sent. A CXR showed no consolidation, though the
+   film was of poor quality.
+   .
+   On the floor, the patient was continued on levaquin to treat a RUL
+   pneumonia, and was started on IV Methylprednisolone and had a 2-3L NC
+   oxygen requirement.  Patient had continued to improve through the
+   morning of [**12-5**], but soon became tachypneic to the mid-30s, and was
+   placed on NRB.  ABG obtained was 7.49/40/69/31.  Patient had difficulty
+   speaking in complete sentences and was transferred to the MICU for
+   further management.
+   .
+   On arrival to the MICU, patient was breathing more comfortably and was
+   able to speak in full sentences.  The patient was weaned to 2L NC and
+   was started on Nebs and IV Methylprednisolone.  The patient denied any
+   Nausea, vomiting, diarrhea, chest pain, shortness of breath.  ROS
+   otherwise negative.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   HOME MEDICATIONS:
+   -MOXIFLOXACIN 400MG DAILY
+   -CODEINE-GUAIFENESIN 5-10cc q6hprn
+   -FLUTICASONE-SALMETEROL 250 mcg-50 mcg/Dose [**Hospital1 7**]
+   -FUROSEMIDE 80mg daily
+   -METHIMAZOLE 5mg daily
+   -METOPROLOL SUCCINATE 25mg daily
+   -DILTIAZEM 120mg daily
+   -PROMETHAZINE PRN
+   -POTASSIUM 10MEQ TID
+   -SIMVASTATIN 80 mg qhs
+   -TIOTROPIUM BROMIDE 18 mcg Capsule daily
+   -ASPIRIN 325 mg daily
+   .
+   TRANFER MEDICATIONS:
+   Heparin 5000 UNIT SC TID
+   Acetaminophen 650 mg PO/NG Q6H:PRN pain
+   Insulin SC  (per Insulin Flowsheet)
+   Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN sob/cough
+   Ipratropium Bromide Neb 1 NEB IH Q6H sob/cough
+   Aspirin 325 mg PO/NG DAILY
+   Methimazole 5 mg PO/NG DAILY
+   CefTAZidime 2 g IV Q12H
+   Metoprolol Succinate XL 25 mg PO DAILY
+   MethylPREDNISolone Sodium Succ 125 mg IV Q8H
+   Simvastatin 80 mg PO/NG DAILY
+   Diltiazem Extended-Release 120 mg PO DAILY
+   Vancomycin 1000 mg IV Q 24H
+   Past medical history:
+   Family history:
+   Social History:
+   #. Severe Aortic Stenosis s/p AVR in [**2-/2725**] with a bioprosthetic valve
+   #. Severe diastolic ventricular dysfunction.
+   #. History of post-op atrial fibrillation, now resolved
+   #. COPD- with frequent exacerbations
+   #. Breast CA s/p L mastectomy 20yrs ago, s/p XRT, LN resection.
+   #. Hyperlipidemia
+   #. Hyperthyroid (toxic multinodular goiter)
+   No family history of early MI
+   Retired, used to work in electronics company as tester. Denies alcohol
+   use. 20 pack year history of tobacco use, quit > 20 years ago, lives
+   with her daughter who helps her with her meds.
+   Review of systems:
+   Flowsheet Data as of [**2725-12-5**] 02:24 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 37.3
+C (99.1
+   HR: 78 (78 - 89) bpm
+   BP: 131/59(77) {117/49(68) - 131/59(77)} mmHg
+   RR: 20 (18 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: 1st AV (First degree AV Block)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    335 mL
+   Urine:
+   335 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -335 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: 7.44/43/86.[**Numeric Identifier 136**]//4
+   PaO2 / FiO2: 87
+   Physical Examination
+   GENERAL: NAD, Pt appears mildly SOB, Pleasant
+   HEENT: No conjunctival pallor. No scleral icterus. PERRLA/EOMI. MMM. OP
+   clear. Neck Supple, No LAD, No thyromegaly.
+   CARDIAC: Regular rhythm, tachycardic. Low pitched 2/6 systolic murmur
+   at RUSB, with pronounced S2, JVP ~6cm
+   LUNGS: Poor air movement, bibasilar wheezes.
+   ABDOMEN: NABS. Soft, NT, ND. No HSM
+   EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial
+   pulses.
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+        [image002.jpg]
+                                  [**2722-1-9**]
+                         2:33 A11/28/[**2725**]  01:42 PM
+                                  [**2722-1-13**]
+                                   10:20 P
+                                  [**2722-1-14**]
+                                   1:20 P
+                                  [**2722-1-15**]
+                                   11:50 P
+                                  [**2722-1-16**]
+                                   1:20 A
+                                  [**2722-1-17**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2722-2-9**]
+                                   1:20 P
+                                  [**2722-2-9**]
+                                   11:20 P
+                                  [**2722-2-9**]
+                                   4:20 P
+   TC02
+                                     30
+   Other labs: Lactic Acid:1.1 mmol/L
+   Assessment and Plan
+   68F with h/o COPD who presents with COPD exacerbation and RUL
+   Pneumonia.
+   .
+   #. Respiratory distress:  Acute Decompensated COPD Exacerbation with
+   RUL Pneumonia.  In the acute setting, the patient received Lasix 20mg
+   IV (unclear how much she diuresed to this), but was breathing
+   comfortably on transfer to the ICU.  The patient was treated for two
+   days with tamiflu, but was discontinued after a negative DFA for
+   Influenza.  The patient is able to complete full sentences and does not
+   appear to be labored in her breathing.  Repeat ABG shows
+   7.44/43/87/30.
+   - Solumedrol 125mg IV q8hrs
+   - Broaden coverage to Vanc/Ceftaz/Azithro
+   - Albuterol/Ipratropium nebs
+   .
+   # RUL Pneumonia:  Likely community acquired PNA.  Patient with
+   worsening RUL infiltrate on quinalone antibiotic.  As patient has
+   failed therapy, will broaden coverage.
+   - Switch to Vanc/Ceftaz
+   - Start Azithro for atypical coverage
+   - Send Sputum culture
+   .
+   #. Acute kidney injury- Likely pre-renal etiology.  Cr 1.5, b/l
+   1.3-1.5.
+   - Patient has been improving with fluids, will monitor for now.
+   .
+   #. H/o paroxsymal atrial fibrillation:  Currently in NSR.  The patient
+   had previously been anticoagulated, but was discontinued 3 months ago,
+   unclear reason why.  CHADS2 score is 2.
+   - Continue metoprolol and diltiazem
+   - Continue ASA 325mg daily
+   .
+   #. Hyperlipidemia - continue simvastatin
+   .
+   #. Hyperthyroid- toxic multinodular goiter- continue methimazole
+   .
+   FEN: NPO for now, will restart cardiac diet if patient is stable this
+   evening
+   .
+   PPX:
+   -DVT ppx with heparin sc
+   .
+   ACCESS: PIV's
+   .
+   CODE STATUS: Full code , Daughter [**Name (NI) 3796**] ([**Telephone/Fax (1) 11617**]
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2725-12-5**] 11:43 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

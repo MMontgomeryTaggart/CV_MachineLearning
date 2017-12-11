@@ -1,0 +1,191 @@
+Chief Complaint:  Unresponsive
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   61 yo male with CAD, CHF at home talking with his wife.
+   Abruptly became less responsive- head fell back and minimal respiratory
+   effort. No dysarthria/focal weakness
+   911 called. [**Name (NI) **] son lowered him to floor and began CPR for [**2-1**]
+   minutes, unclear if pt truly lost pulse. +urinary incontinence noted,
+   no tonic clonic mov'ts
+   Upon EMS arrival, pt beginning to respond. Had pulse, further VS not
+   available. Received fluids and had improving MS by the time he arrived
+   to ED.
+   In ED: Rectal temp 100, P95, 113/83, R13, 100% NRB. WBC 15. Head CT
+   unremarkable. UDS negative. Had asymmetric LE edema so obtained CTA
+   which was negative- wife later reported this has been chronic. Seen by
+   Neuro who felt primary epileptic foci unlikely. Received 2 liters
+   fluid, Vanc/CTX
+   Pt now more alert, but minimal memory of above events. Denies preceding
+   symptoms, including F/C/cough/CP/palpitations/SOB/TIA symptoms. No new
+   changes in medicines.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records, ICU housestaff
+   Allergies:
+   Penicillins
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   spironolactone 25 mg, lasix 80mg qd, sotalol , wellbutrin 100mg,
+   levothyroxine, simvastatin, digoxin, midodrine, lorazepam, clonipin,
+   ambien
+   Past medical history:
+   Family history:
+   Social History:
+   CAD s/p CABG 5vs '[**90**] anterior MI '[**90**]
+   CHF ef 25% [**2900**] Echo
+   Chronic non healing ulcer
+   Hypothyroidism
+   Hx afib but in NSR for years
+   Variable BP- on mitodrine
+   Hx massive UGIB in [**2900**]- long hospitalization c/b VAP, chronic resp
+   failure s/p trach
+   F died of MI at age 52
+   Occupation: Retired, used to work in computers
+   Drugs: non
+   Tobacco: [**5-4**] cigs daily
+   Alcohol: rare
+   Other: Married
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Orthopnea
+   Nutritional Support: No(t) NPO, No(t) Tube feeds, No(t) Parenteral
+   nutrition
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria, No(t) Foley, No(t) Dialysis, urin.
+   incontinence
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: No(t) Hyperglycemia, History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: Agitated, No(t) Suicidal, No(t) Delirious, No(t)
+   Daytime somnolence
+   Allergy / Immunology: No(t) Immunocompromised
+   Signs or concerns for abuse : No
+   Flowsheet Data as of [**2904-2-16**] 02:31 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.9
+C (98.5
+   HR: 81 (80 - 83) bpm
+   BP: 81/53(60) {81/53(60) - 84/55(63)} mmHg
+   RR: 16 (12 - 16) insp/min
+   SpO2: 98%
+   Heart rhythm: V Paced
+                  Total In:
+                  2,000 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    585 mL
+   Urine:
+   260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,415 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No(t) No acute distress, Overweight
+   / Obese, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube, edentulous
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical), (Breath
+   Sounds: Crackles : few scattered at bases, No(t) Wheezes : , No(t)
+   Diminished: , No(t) Absent : , No(t) Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender:
+   Extremities: Left: 2+, No(t) Cyanosis, No(t) Clubbing, LLE with brawny
+   edema with poor hygiene, plantar aspect with deep ulcer
+   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, No(t) Sedated, No(t) Paralyzed, Tone:
+   Normal, 5/5 strength
+   Labs / Radiology
+   388
+   40
+   93
+   1.2
+   27
+   27
+   4.1
+   134
+   15.2
+        [image002.jpg]
+   Other labs: PT / PTT / INR://17/25/1.5, CK / CKMB / Troponin-T://0.04
+   Fluid analysis / Other labs: dig 1.8
+   lactate 1.8
+   Urine and serum tox screen negative
+   U/A negative
+   Imaging: CTA: negative for PE, no significant parenchymal disease, tiny
+   effusions
+   Head CT: no acute process (prelim read)
+   Microbiology: Bd Culture pending
+   ECG: V-paced
+   Assessment and Plan
+   61 yo male with acute episode of unresponsiveness and confusion, though
+   improving. Unclear etiology. Given quick resolution, diff dx includes:
+   arrhythmia, TIA (though no other sx's pointing to this). Given pt's
+   medicine profile combining BP meds with midodrine and hx of labile BP,
+   possible he became briefly hypotensive.
+   *r/o MI; continue ASA/simvastatin
+   *Have PM/ICD interrogated in morning
+   *Echo if no significant arrhythmia
+   * EEG if cardiac w/u unrevealing
+   Left foot ulcer/cellulitis - ?OM given depth of wound
+   *On vanc coverage
+   Hypotension- Decreased since arrival here-
+   *received fluid resuscitation and will monitor
+   *Hold BP meds
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   18 Gauge - [**2904-2-16**] 12:44 AM
+   20 Gauge - [**2904-2-16**] 01:27 AM
+   Comments:
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 50 minutes
+   Patient is critically ill
+
+
+DOC CLASS

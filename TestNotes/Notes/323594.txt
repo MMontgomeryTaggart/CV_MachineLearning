@@ -1,0 +1,227 @@
+Chief Complaint: 59 year old Femalw with mental retardation with recent
+   dx of nodular sclerosing hodgkins lymphoma s/p chemo, admitted for
+   respiratory distress and mucus plugging now extubated.
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**2897-8-11**] 09:37 AM
+   Patient was successfully extubated yesterday. G tube had to be uplled
+   with extubated and new NG tube was placed. Potassium and phosphorus
+   were repleted yesterday. patient was started back this am on lopressor
+   PO (12.5 mg). noted to have drop in WBC yesterday. Patient recieved 20
+   mg IV lasix yesterday again to maintain diuresis goal of -1L.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Bactrim (SMX/TMP) - [**2897-8-9**] 07:58 PM
+   Acyclovir - [**2897-8-10**] 12:37 AM
+   Cefipime - [**2897-8-12**] 12:41 AM
+   Metronidazole - [**2897-8-12**] 12:54 AM
+   Vancomycin - [**2897-8-12**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Midazolam (Versed) - [**2897-8-11**] 08:45 PM
+   Fentanyl - [**2897-8-11**] 08:45 PM
+   Heparin Sodium (Prophylaxis) - [**2897-8-12**] 12:30 AM
+   Furosemide (Lasix) - [**2897-8-12**] 04:59 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2897-8-12**] 07:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.1
+   Tcurrent: 36
+C (96.8
+   HR: 58 (49 - 114) bpm
+   BP: 116/50(64) {101/37(55) - 143/96(132)} mmHg
+   RR: 23 (16 - 25) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,687 mL
+                                                                    918 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,527 mL
+                                                                    463 mL
+   Blood products:
+   Total out:
+                                                                  3,685 mL
+                                                                  3,190 mL
+   Urine:
+                                                                  3,685 mL
+                                                                  3,190 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,998 mL
+                                                                 -2,272 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 98%
+   ABG: ///25/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   65 K/uL
+   9.2 g/dL
+   138 mg/dL
+   0.3 mg/dL
+   25 mEq/L
+   3.2 mEq/L
+   11 mg/dL
+   117 mEq/L
+   147 mEq/L
+   26.1 %
+   0.1 K/uL
+        [image002.jpg]
+                             [**2897-8-8**]  04:02 AM
+                             [**2897-8-8**]  04:19 AM
+                             [**2897-8-9**]  03:43 AM
+                             [**2897-8-9**]  09:16 AM
+                             [**2897-8-9**]  06:47 PM
+                             [**2897-8-10**]  04:21 AM
+                             [**2897-8-10**]  11:33 PM
+                             [**2897-8-11**]  04:55 AM
+                             [**2897-8-11**]  04:20 PM
+                             [**2897-8-12**]  04:01 AM
+   WBC
+   9.7
+   2.3
+   3.4
+   7.3
+   4.3
+   0.6
+   0.1
+   Hct
+   24.8
+   20.5
+   21.7
+   27.2
+   26.5
+   29.9
+   26.1
+   Plt
+   [**Telephone/Fax (3) 5088**]
+   65
+   Cr
+   0.7
+   0.6
+   0.5
+   0.4
+   0.4
+   0.5
+   0.3
+   TCO2
+   20
+   Glucose
+   163
+   103
+   118
+   152
+   134
+   142
+   114
+   138
+   Other labs: PT / PTT / INR:14.2/28.9/1.2, CK / CKMB /
+   Troponin-T:[**7-7**]/<0.01, ALT / AST:19/19, Alk Phos / T Bili:124/0.2,
+   Differential-Neuts:90.5 %, Lymph:3.5 %, Mono:2.9 %, Eos:2.6 %, Lactic
+   Acid:0.9 mmol/L, Albumin:2.3 g/dL, LDH:119 IU/L, Ca++:8.1 mg/dL,
+   Mg++:1.6 mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+   59 y/o F with h/o mental retardation, recent dx of Nodular sclerosing
+   Hodgkins Lymphoma s/p chemo on [**2897-8-2**] presented with acute respiratory
+   distress likely due to aspiration & mucus plugging successfully
+   extubated yesterday.
+    # Initial Hypoxia: Likely due to aspiration & mucus plugging in the
+   setting of depressed mental status, coughing and emesis. Maintained
+   vent setting of [**4-8**] 40% FIO2 for over 24hs then successfully extubated.
+   Continue with nebs and suctioning prn. Will benefit from continuous
+   diuresis as appears to have anasarca and pulmonary edema secondary to
+   aggressive fluid repletion during episodes of hypotension.
+   - sedating meds d/c in the context of extubation
+   - continue regular suction & albuterol nebs
+   - continue to diurese pt with goal net negative 1-2L/day, 20mg IV lasix
+   usually enough to achieve this goal
+   # Fever: Will continue current antibiotics for now given positive
+   sputum and septic picture. Currently afebrile with low white blood cell
+   count.
+   - sputum culture - GRAM STAIN (Final [**2897-8-9**]):
+         >25 PMNs and <10 epithelial cells/100X field.
+         1+    (<1 per 1000X FIELD):   BUDDING YEAST WITH PSEUDOHYPHAE.
+      RESPIRATORY CULTURE (Final [**2897-8-11**]):
+         OROPHARYNGEAL FLORA ABSENT.
+         YEAST.    SPARSE GROWTH.
+         YEAST.    RARE GROWTH.  2ND TYPE.
+      FUNGAL CULTURE (Preliminary):
+   - wound culture WOUND CULTURE (Final [**2897-8-10**]):    No significant
+   growth.
+   -blood culture from [**8-7**] no growth to date
+   -urine culture no growth [**8-7**]
+   # Hodgkins Lymphoma: Pt is s/p EACoPP protocol on [**2897-5-14**] with
+   cytoxan, doxorubacin on day 1 and etoposide on days [**12-6**]. Pt has also
+   had pericardial tamponade s/p pericardiocentesis on [**2897-4-17**] and
+   pericardial window on [**2896-5-17**]. Pt initiated ICE chemo reg on
+   [**2897-8-2**].  WBC trending down after chemotherapy. Ideally should be
+   transfused for hct>30 to maintain oxygenation.
+   - continue Acyclovir & Bactrim ppx
+   - transfuse for  hct>30
+   -f/u WBC and HCT
+    # H/o megacolon/Diarrhea: Pt is s/p volvulous & sigmoid resection with
+   large dilated loops of colon visible on portable films.  She has
+   required intermittent rectal tubes, currently having alot of stool
+   output with recent C. Diff toxin + [**2897-6-1**] & [**2897-6-25**].  Has not had
+   issues with diarrhea for the last couple of days.
+    - tube feeds per nutrition recs
+   -  increase free water bolus as needed for hypernatremia, follow Na
+    -continue po vanco & IV flagy
+   - OG tube to intermittent suction
+   # Paroxysmal A-fib: Recent adm to ICU due to poor rate control (rates
+   of 160 with relative hypotension). decision to restart patient on low
+   dose beta blocker this morning, already on amiodarone with what appears
+   to be good rhythm contorl.
+   -continue amiodarone
+   -telemetry
+   - beta blocker restarted this AM, however HR in the 50s so may not
+   recieve
+   - repeak EKG as needed
+    # UA: Pt had positive UA on [**8-4**], Urine Cx + fungus 4000-6000 CFUs.
+   Received fluconazole 400mg x 1
+   - foley was changed out, UA from [**8-6**] was negative, urine culture
+   negative, UA not likely source of infection.
+    # F/E/N:
+   -now extubated
+   - replete lytes agressively
+   - patient can get D5W via NG tube if extubated for hypernatremia
+    # PPX: heparin SQ, PPI
+   # CODE: Intubate/DNR
+   # ACCESS: RIJ 3 lumen
+   # CONTACT: HCP - brother [**Name (NI) 3018**] [**Telephone/Fax (1) 3019**] (mobile) and [**Telephone/Fax (1) 3020**]
+   (home); brother also gave permission to speak with his wife [**Name (NI) **]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2897-8-8**] 01:57 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:
+
+
+DOC CLASS

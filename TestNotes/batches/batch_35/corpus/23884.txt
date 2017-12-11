@@ -1,0 +1,158 @@
+Admission Date:  [**3348-4-29**]              Discharge Date:   [**3348-5-3**]
+
+Date of Birth:  [**3300-8-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 139**]
+Chief Complaint:
+Recent Endocarditis, chest pain, fatigue.
+
+Major Surgical or Invasive Procedure:
+MV repair (28mm [**Doctor Last Name 1326**] band)/CABGx1(LIMA->LAD)[**3348-4-29**]
+
+
+History of Present Illness:
+47 year old male with recent strept endocarditis with known
+mitral valve prolapse. Underwent 4 weeks of intravenous
+antibiotic treatment. Subsequent blood cultures have been
+negative. He presents for surgical management of his mitral
+valve disease. Of note, cardiac catheterization was significant
+for left anterior descending and diagonal disease.
+
+Past Medical History:
+Hypercholesterolemia
+Coronary artery disease
+Past cerebrovascular accident
+Hypercholesterolemia
+
+Social History:
+Investment work from home. Lives with wife and 19 month old
+daughter.
+
+Family History:
+Mother with stroke at age 35. Father with coronary artery
+disease.
+
+Physical Exam:
+Pulse 88   BP: (R) 138/90 67"  Wt: 170
+Gen: Very anxious lying in bed
+Skin: Unremarkable
+HEENT: Unremarkable
+Neck: Supple
+Chest: Clear
+Heart: RRR, holosystolic murmur
+Abd: soft, nontender, nondistended, + bowel sounds
+Extremities: No edema, well perfused. Ecchymosis at right groin.
+2+ pulses
+
+Pertinent Results:
+[**3348-5-1**] 06:30AM BLOOD WBC-14.7* RBC-3.70* Hgb-10.4* Hct-30.1*
+MCV-81* MCH-28.2 MCHC-34.7 RDW-14.0 Plt Ct-143*
+[**3348-5-1**] 06:30AM BLOOD Glucose-123* UreaN-18 Creat-1.2 Na-139
+K-3.9 Cl-102 HCO3-28 AnGap-13
+
+[**3348-4-29**] CXR
+Postoperative appearance of the chest. Satisfactory position of
+lines and tubes.
+
+[**3348-5-1**] CXR
+Interval removal of an ET tube, Swan-Ganz catheter, and
+left-sided chest tube. Small left pleural effusion. No
+pneumothorax identified.
+
+[**3348-5-1**] EKG
+Baseline artifact, Sinus rhythm, Consider left atrial
+abnormality
+Prominent QRS voltage - consider left ventricular hypertrophy
+Inferolateral ST-T wave changes - Cannot exclude in part
+ischemia/injury but baseline artifact makes assessment
+difficult.
+
+
+[**Last Name (NamePattern4) 1766**]ospital Course:
+Mr. [**Known patient lastname 39888**] was admitted to [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 740**] [**Last Name (NamePattern1) **] [**First Name (Titles) **] [**Last Name (Titles) **]
+on [**3348-4-29**] for surgical management of his mitral valve disease.
+He was taken directly to the operating room where he underwent a
+mitral valve repair and coronary artery bypass grafting to one
+vessel. Postoperatively he was taken to the cardiac surgical
+intensive care unit for monitoring. On postoperative day one, he
+awoke neurologically intact and was extubated. On postoperative
+day two, he was transferred to the cardiac surgical step down
+unit for further recovery. Mr. [**Name13 (STitle) **] was gently diuresed
+towards his preoperative weight. The physical therapy service
+was consulted for assistance with his postoperative strength and
+mobility. Hi epicardial pacing wires and drains were removed per
+protocol. Beta blockade was titrated for optimal heart rate and
+blood pressure control. Mr. [**Known patient lastname 39888**] continued to make steady
+progress and was discharged home on postoperative day four. He
+will follow-up with Dr. [**Last Name (Prefixes) **], his cardiologist and his
+primary care physician as an outpatient.
+
+Medications on Admission:
+Lipitor
+Folgard
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+2. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours)
+for 7 days.
+Disp:*14 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO every [**2-28**]
+hours as needed.
+Disp:*120 Tablet(s)* Refills:*0*
+7. Hydromorphone HCl 2 mg Tablet Sig: One (1) Tablet PO Q2H
+(every 2 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 263**],VNA
+
+Discharge Diagnosis:
+Mitral valve prolapse.
+Coronary artery disease.
+
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs for 3 months.
+You should shower, let water flow over wounds, pat dry with a
+towel.
+Do not use lotions, creams, or powders on wounds.
+Call our office for sternal drainage, temp>101.5
+
+Followup Instructions:
+Make an appointment with Dr. [**First Name (STitle) **] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) 141**] for 4 weeks.
+
+
+
+Completed by:[**3348-5-3**]
+
+DOC CLASS

@@ -1,0 +1,241 @@
+Chief Complaint:
+   24 Hour Events:
+   [**8-8**]
+   -D/cd antibiotics
+   -lasix bolus and drip
+   - Attempted to extubate today but had apnic spells suggestive of
+   periodic breathing. Fluid overload could be playing a role in this. So
+   diuresed more aggressively
+   -Held tube feeds expecting extubation
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3250-8-8**] 08:10 PM
+   Infusions:
+   Furosemide (Lasix) - 10 mg/hour
+   Propofol - 20 mcg/Kg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**3250-8-8**] 11:25 AM
+   Heparin Sodium (Prophylaxis) - [**3250-8-9**] 06:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3250-8-9**] 06:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37.6
+C (99.6
+   HR: 91 (79 - 111) bpm
+   BP: 121/69(86) {93/57(69) - 159/91(114)} mmHg
+   RR: 17 (9 - 18) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 101.3 kg (admission): 102 kg
+   Height: 72 Inch
+    CVP: 236 (0 - 238)mmHg
+   Total In:
+                                                                  1,043 mL
+                                                                    162 mL
+   PO:
+   TF:
+                                                                     70 mL
+                                                                      3 mL
+   IVF:
+                                                                    693 mL
+                                                                    159 mL
+   Blood products:
+   Total out:
+                                                                  3,004 mL
+                                                                  1,145 mL
+   Urine:
+                                                                  3,004 mL
+                                                                  1,145 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,961 mL
+                                                                   -983 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: MMV/PSV/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 657 (475 - 841) mL
+   PS : 10 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 13
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 52
+   PIP: 15 cmH2O
+   SpO2: 95%
+   ABG: 7.37/52/116/29/3
+   Ve: 5.8 L/min
+   PaO2 / FiO2: 290
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   219 K/uL
+   7.9 g/dL
+   140 mg/dL
+   0.9 mg/dL
+   29 mEq/L
+   3.7 mEq/L
+   29 mg/dL
+   106 mEq/L
+   143 mEq/L
+   24.9 %
+   3.1 K/uL
+        [image002.jpg]
+                             [**3250-8-6**]  04:51 AM
+                             [**3250-8-6**]  05:09 AM
+                             [**3250-8-6**]  04:56 PM
+                             [**3250-8-6**]  05:38 PM
+                             [**3250-8-7**]  03:59 AM
+                             [**3250-8-7**]  04:22 AM
+                             [**3250-8-8**]  03:30 AM
+                             [**3250-8-8**]  04:54 PM
+                             [**3250-8-8**]  05:05 PM
+                             [**3250-8-9**]  03:31 AM
+   WBC
+   5.4
+   4.2
+   3.6
+   3.1
+   Hct
+   26.2
+   25.1
+   23.5
+   24.9
+   Plt
+   154
+   153
+   156
+   219
+   Cr
+   1.2
+   1.1
+   1.0
+   0.9
+   0.9
+   0.9
+   TCO2
+   31
+   30
+   32
+   31
+   Glucose
+   74
+   103
+   129
+   112
+   127
+   140
+   Other labs: PT / PTT / INR:17.1/29.8/1.5, CK / CKMB /
+   Troponin-T:216/11/0.05, ALT / AST:14/20, Alk Phos / T Bili:82/0.2,
+   Differential-Neuts:63.9 %, Lymph:23.5 %, Mono:7.6 %, Eos:4.2 %, Lactic
+   Acid:0.9 mmol/L, Albumin:2.5 g/dL, LDH:522 IU/L, Ca++:8.5 mg/dL,
+   Mg++:1.5 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+ CONSTIPATION (OBSTIPATION, FOS)
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ ATRIAL FIBRILLATION (AFIB)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ CARDIOMYOPATHY, OTHER
+ ANEMIA, OTHER
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ .H/O HEART FAILURE (CHF), SYSTOLIC, CHRONIC
+ .H/O CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS,
+   EMPHYSEMA) WITH ACUTE EXACERBATION
+ .H/O ATRIAL FIBRILLATION (AFIB)
+ .H/O ALCOHOL ABUSE
+   59 y/o male with PMH of systolic CHF, hx of transudative pleural
+   effusions, admitted with bradycardia and acute on chronic CHF initially
+   managed with fluid resulting in worsening heart failure transferred to
+   MICU for hypoxia.
+   # Dyspnea / Hypoxia
+ likely CHF exacerbation and CAP
+   - oxygenating and ventilating well on AC 550 x 18, PEEP 5, 40% FIO2
+   - Continues to diurese well.  Was negative ~2L yesterday
+   - will attempt to wean to PS this AM and extubate
+   - continue albuterol and ipratropium
+   - Completed his ceftriaxone for CAP yesterday
+   # Recurrent Left Pleural Effusion
+ was tapped in [**6-4**]
+   - continue to monitor for changes in CXR
+   - will check CT without contrast due to prior CT showing trapped lung
+   - Dr. [**First Name (STitle) 1936**] emailed IP/Thoracics on Monday re: Trapped lung
+   (decortication vs. pleuridesis), awaiting reply
+   # Systolic CHF
+   - unclear etiology (per cards, possibly some component of alcohol
+   cardiomyopathy and possibly some tachy-myopathy)
+   - will continue metoprolol and will continue to hold hydralazine, as
+   patient is normotensive
+   - will d/c lasix gtt and provide boluses as needed
+   - pt can possibly be started on an ACEi in the long term
+   # Alcohol Abuse
+ Reported h/o DTs with seizures, appears he is over
+   this window
+   - continue MVI, thiamine, and folate
+   - follow-up B12
+   - F/u social work recs
+ SW says that they will see the patient when he
+   is able to communicate
+    # Atrial Fibrillation
+   - HR still elevated
+   - Metoprolol to 125 mg TID; per PCP this has been a problem in the past
+   as well and he has required upto 300 mg
+   - will hold off on restarting diltiazem at this point
+   - pt not on coumadin per personal preference, on ASA
+   # ARF
+   - current creatinine 0.9
+ trending down
+   - continue to monitor UOP, BUN, and Cr
+   # Anemia
+   - pt
+s hematocrit is currently 24.9
+ will transfuse if Hct drops below
+   21
+   - guaiac stools
+   # Diabetes Mellitus Type II
+   - on ISS
+   # Chronic Obstructive Pulmonary Disease
+   - continue albuterol and ipratropium
+   # Hyponatremia / Hypochloremia
+   - hyponatremia resolved
+ will continue to monitor to see if it
+   corrects with diuresis
+   - will continue to check lytes
+   # Thrombocytopenia - resolving
+   - will continue to monitor platelet level
+   - will avoid medications that worsen
+   # Elevated INR
+   - will continue to monitor and trend
+   ICU Care
+   Nutrition: Tube Feeds
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3250-8-2**] 05:02 PM
+   Multi Lumen - [**3250-8-2**] 07:03 PM
+   Prophylaxis:
+   DVT: Heparin, SCD
+   Stress ulcer:  Lansoprazole
+   VAP:  HOB>30, Oral Care
+   Comments:
+   Communication: With Patient  Comments:
+   Code status: Full code
+   Disposition:  MICU
+
+
+DOC CLASS

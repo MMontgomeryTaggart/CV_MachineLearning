@@ -1,0 +1,194 @@
+Chief Complaint:
+   24 Hour Events:
+   - repleted thiamine to prevent Wernicke's, gave 1/2amp D50 for
+   hypoglycemia (likely starvation/EtOH)
+   - received 1U PRBC
+   Allergies:
+   Lisinopril
+   Angioedema;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2720-2-12**] 07:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 101 (85 - 114) bpm
+   BP: 112/56(69) {112/56(69) - 178/94(115)} mmHg
+   RR: 22 (11 - 22) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 63 Inch
+             Total In:
+                                                                  3,681 mL
+                                                                    469 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,681 mL
+                                                                    469 mL
+   Blood products:
+   Total out:
+                                                                    845 mL
+                                                                    520 mL
+   Urine:
+                                                                    845 mL
+                                                                    520 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,836 mL
+                                                                    -51 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: 7.37/21/155/11/-10
+   Physical Examination
+   General: Alert, oriented, no acute distress, no asterixis
+   HEENT: Icteric sclera, dry MM oropharynx clear
+   Neck: supple, JVP not elevated
+   Lungs: subtle inspiratory crackles at bases, otherwise CTA
+   CV: RRR, normal S1 + S2, no apprec murmurs
+   Abdomen:  soft, non-tender, non-distended, NABS, no rebound/guard
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Labs / Radiology
+   24 K/uL
+   7.4 g/dL
+   80 mg/dL
+   1.9 mg/dL
+   11 mEq/L
+   4.4 mEq/L
+   26 mg/dL
+   101 mEq/L
+   138 mEq/L
+   22.8 %
+   7.3 K/uL
+        [image002.jpg]
+                             [**2720-2-11**]  05:46 PM
+                             [**2720-2-11**]  09:25 PM
+                             [**2720-2-12**]  01:58 AM
+   WBC
+   7.1
+   7.3
+   Hct
+   24.2
+   22.8
+   Plt
+   28
+   24
+   Cr
+   2.1
+   1.9
+   TropT
+   0.10
+   TCO2
+   13
+   Glucose
+   52
+   112
+   80
+   Other labs: PT / PTT / INR:18.4/35.2/1.7, CK / CKMB /
+   Troponin-T:88//0.10, ALT / AST:50/135, Alk Phos / T Bili:138/3.1,
+   Lactic Acid:3.2 mmol/L, Albumin:3.4 g/dL, LDH:286 IU/L, Ca++:8.0 mg/dL,
+   Mg++:1.9 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   62 y/o F with Hep C & ETOH cirrhosis who presented with 1 day of BRBPR
+   and was found to have elevated anion gap, glucose 55 and ETOH level
+   145.
+   .
+   # Anion gap acidosis: Multiple possible etiologies for elevated gap.
+   Lactate elevated at 4.4, ETOH level 145 with serum osms of 340, urine
+   ketones positive.  Given h/o poor po intake, ETOH abuse and cirrhosis,
+   suspect this is due alcoholic/starvation ketoacidosis.  Lactate
+   improving after hydration.
+   - received thiamine 100mg IV followed by dextrose for low BS
+   - received banana bag followed by D5 1/2NS
+   - continue D5 1/2NS until nutritional status improves
+   - trend lactate and ABGs
+   - monitor MS
+   .
+   # BRBPR: Pt underwent EGD in [**12-7**] that revealed gastritis &
+   duodenitis, colonoscopy in [**9-7**] was normal.  Hct has been stable with
+   IVF and HD stable.  Suspect that may be a slow bleed due to gastritis
+   or possible hemorrhoids.  No frank melena on exam to suggest brisk
+   upper GI bleed.  INR elevated at 2.1 on presentation in setting of GI
+   bleed.
+   - NPO for now, apprec GI recs
+   - IV Protonix 40mg IV BID
+   - typed and crossed for 2u prbcs
+   - trend hct q6hrs, transfuse if acute hct drop or hct<21 (tx 1U PRBC on
+   [**2-11**])
+   - given thrombocytopenia and GI bleed, will trend plts
+   - admin Vitamin K 10mg po x 3 days
+   - PIV x 2
+   .
+   # ETOH level/withdrawl: Pt with poor nutrition status and long history
+   of ETOH abuse. She denies h/o withdrawal and current ETOH level of
+   145.  Will place on CIWA scale for now.  Required total of 4mg IV
+   Ativan [**2-11**] PM.
+   - CIWA scale
+   - Ativan 1mg q2hr prn CIWA >10
+   - Banana bag with MVI, folate, thiamine
+   .
+   # Cocaine Abuse: Pt with long history of substance abuse and tox screen
+   + for cocaine.  Pt has a h/o NSTEMI in setting of cocaine abuse. Pt
+   currently denying CP, EKGs unchanged from prior.
+   - cardiac enzymes negative
+   - monitor on telemetry
+   - no aspirin given thrombocytopenia and GI bleed
+   - SW consult in am
+   .
+   # Hypoglycemia: Pt reports poor po intake, concern for
+   alcoholic/starvation ketoacidosis given elevated gap and low BS.
+   - received thiamine 100mg IV to prevent Wernickes
+   - dextrose [**1-2**] amp after thiamine
+   -  D5 1/2NS IVF
+   - hold on insulin regimen
+   .
+   # Thrombocytopenia: likely due ETOH abuse, essentially at baseline.
+   However, given GI bleed, would consider plt transfusion if dropping hct
+   or plt count
+   - transfuse 1u plts prn
+   - f/u plt count
+   .
+   # FEN: NPO for now
+   - s/p Thiamine 100mg IV, banana bag and D5 1/2NS
+   - aggressive electrolyte repletion
+   .
+   # Prophylaxis: pneumoboots, PPI, bowel regimen
+   .
+   # Access: PIV x 2
+   .
+   # Code: full
+   .
+   # Communication: Patient
+   .
+   # Disposition: pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2720-2-11**] 04:57 PM
+   20 Gauge - [**2720-2-11**] 05:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

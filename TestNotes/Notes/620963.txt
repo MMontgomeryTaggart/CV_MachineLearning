@@ -1,0 +1,173 @@
+TITLE:  CCU INTERN PROGRESS NOTE
+   Chief Complaint: Afib with RVR
+   24 Hour Events:
+   Patient given 20mg IV Lasix upon arrival to the floor as she was felt
+   to have pulmonary edema secondary to volume overload in the setting of
+   atrial fibrillation.  She urinated approximately 1200ml and her
+   breathing improved.  She was transitioned from BiPap to facemask to
+   nasal cannula.  She continues to cough intermittently, and has improved
+   slightly with guaifenesin.
+   She was rate-controlled with a diltiazem drip and metoprolol 50mg po
+   qid.  She intially came with HR
+s in the 120
+s to 130
+s, now with HRs
+   in the 60
+s.  She feels slightly dizzy this morning when sitting up,
+   and her blood pressure is 81/51 at this time.
+   Allergies:
+   Zyban (Oral) (Bupropion Hcl)
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Infusions:
+   Diltiazem - 20 mg/hour
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3467-6-13**] 11:55 PM
+   Heparin Sodium - [**3467-6-14**] 01:14 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3467-6-14**] 06:19 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.8
+C (98.2
+   HR: 72 (66 - 129) bpm
+   BP: 94/51(62) {90/42(54) - 125/96(101)} mmHg
+   RR: 20 (16 - 24) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             1,170 mL
+   PO:
+             TF:
+   IVF:
+   170 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,510 mL
+   Urine:
+   1,260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -340 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula, Bipap mask
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 1,161 (1,161 - 1,161) mL
+   RR (Spontaneous): 26
+   PEEP: 5 cmH2O
+   *On nasal cannula at this time
+   FiO2: 0%
+   PIP: 20 cmH2O
+   SpO2: 94%
+   ABG: ////
+   Ve: 15 L/min
+   Physical Examination
+   GENERAL - well-appearing woman in NAD, Oriented x3, comfortable, Mood,
+   affect appropriate.
+   HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear,
+   Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No
+   xanthalesma.
+   NECK - supple, no thyromegaly, JVP ~8cm, no carotid bruits
+   LUNGS - bibasilary crackles, less than previous, no r/rh/wh, good air
+   movement, resp unlabored, no accessory muscle use
+   HEART - PMI located in 5th intercostal space, midclavicular line. RRR,
+   normal S1, S2. II/VI systolic murmur at RUSB no radiation. No thrills,
+   lifts. No S3 or S4.
+   ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding. Abd
+   aorta not enlarged by palpation. No abdominial bruits.
+   EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs), No
+   c/c/e. No femoral bruits.
+   SKIN - no rashes or lesions. No stasis dermatitis, ulcers, scars, or
+   xanthomas.
+   NEURO - awake, A&Ox3, CNs II-XII grossly intactsensation grossly intact
+   throughout, DTRs 2+ and symmetric, cerebellar exam intact, steady gait
+   Labs / Radiology
+        [image002.jpg]
+   Assessment and Plan
+   Mrs. [**Last Name (STitle) 7264**] M. [**Known patient lastname 7265**] is 71 year-old woman with pior history of
+   [**Doctor Last Name 3415**] disease, DM, HTN, dyslipidemia admitted for atrial fib/flutter
+   with RVR and respiratory distress.
+   .
+   #. Rhythm - Paient with Afib/flutter with RVR. She is asymptomatic and
+   has been maintaining her pressures. She failed 10 mg IV metoprolol x2,
+   successfuly converted to sinus rhythm after cardioversion for a few
+   seconds, but recurred.   Now she is rate-controlled with HR in the 60
+   on diltiazem drip and metoprolol 50mg po qid.
+   - Wean diltiazem drip as BP with MAPS in the 50
+s this am
+   - Increase Metoprolol 50 mg QID (double of home dose) to 75 mg
+   metoprolol QID; discussed with endocrine non-selective beta-blocker and
+   decided benefit would be minimal in short-term.
+   - Continue Heparin gtt for anticoagulation
+ likely transition to
+   Coumadin for chronic anticoagulation
+   - Patient less likely to benefit from cardioversion, and she was
+   briefly in sinus rhythm yesterday and reverted back to Afib
+   - ECHO today to r/o structural heart disease
+   - If no CAD, consider sotalol, flecainide, or propefenone for
+   anti-arrythmia as she may benefit from sinus rhythm
+will consult EP
+   today for their opinion
+   - Continue heparin gtt pending EP recs of cardioversion possibility
+   .
+   #. Respiratory Failure - Patient with acute pulmonary edema in the
+   setting of fluid overload in the ER and AFib with RVR.  Now with some
+   residual coughing but on nasal cannula.
+   - Diuresis prn with Lasix 20 mg IV for any recurrent SOB
+   - Treat cough with prn ipratropium nebs and guiafenesin cough syrup prn
+   - Rate control her as above
+   .
+   #. Pump - No signs of CHF.
+   .
+   #. CAD - No known CAD, and no evidence that Afib is from ischemia.
+   .
+   # [**Doctor Last Name 3415**] Disease - Patient with [**Doctor Last Name 3415**] disease that stopped methimazole
+   1 year ago. Her TSH has been progresively decreasing.  At this time her
+   TSH is low, but with normal T3, free T4, and total t4.  Endocrine
+   initially recommended methimazole due to low TSH, but felt that since
+   her thyroid hormone levels were normal, thyroid disease likely did not
+   precipitate her Afib.  She has been asymptomatic of any thyroid
+   disease.
+   - Appreciate endocrine recs
+   - Metoprolol as above, will likely also treat thyroid disease if this
+   is a precipitating factor
+   .
+   #. DM2 - Re-starting metformin at home-dose and will add ISS.
+   .
+   #. Hypertension - Pt on dilt and metoprolol for now. Holding enalapril
+   and HCTZ.
+   .
+   #. Smoking - Doing nicotine patch and social work.
+   .
+   #. Dyslipidemia - Continuing home-dose statin.
+   .
+   #. OA - Stable.
+   ICU Care
+   Nutrition: Cardiac/heart  healthy diet
+   Glycemic Control:  ISS and metformin
+   Lines:  PIV 18 Gauge - [**3467-6-14**] 12:00 AM
+   Prophylaxis:
+   DVT: on Heparin drip
+   Stress ulcer:
+   VAP:
+   Comments: -Pain management with tylenol
+   -Bowel regimen colace/senna
+   Communication:  [**Doctor First Name 425**] [**Telephone/Fax (1) 7270**] (home); [**Telephone/Fax (1) 7271**] (mobile)
+   Code status: Full code
+   Disposition: ICU now, to [**Hospital Ward Name 403**] 3 today
+
+
+DOC CLASS

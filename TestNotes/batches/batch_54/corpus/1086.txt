@@ -1,0 +1,113 @@
+Admission Date:  [**2781-11-1**]     Discharge Date:  [**2781-11-10**]
+
+Date of Birth:   [**2736-5-12**]     Sex:  M
+
+Service:
+CHIEF COMPLAINT:  Fever and neutropenia.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 45-year-old man
+with a history of HIV and Hodgkin's disease in remission with
+newly diagnosed non Hodgkin's lymphoma and a recent admission
+meningitis in [**Month (only) **].  Recently discharged to [**Hospital **]
+Rehab on [**2781-10-21**].  He returns with fever to 104.  He was
+started on Vancomycin, Ticarcillin at [**Hospital1 **] and
+transferred to Bed [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**First Name (Titles) **] [**Last Name (Titles) **].
+
+His lymphomatous meningitis in [**Month (only) **] resulted in Omaya being
+placed on [**10-14**].  He received intrathecal Ara-C on [**10-14**] and
+systemic non Hodgkin's lymphoma.  He developed a third nerve
+palsy and other cranial nerve deficits with lymphomatous
+meningitis.  Currently patient denies headache, neck
+stiffness, photophobia, cough, sore throat, nausea, vomiting,
+diarrhea, abdominal pain, dysuria and chest pain.  His only
+complaint other than fevers, increasing lower extremity
+weakness.
+
+He was initially admitted to the medical Intensive
+Care Unit.  His CSF was sampled and found to have no white
+cells, normal protein and glucose and negative gram stain.
+However, second CSF gram stain had gram positive cocci.
+Patient was started on Acyclovir, Ampicillin, Vancomycin and
+Ceftriaxone.
+
+PAST MEDICAL HISTORY:  Significant for non Hodgkin's lymphoma
+diagnosed [**9-2**] with renal and bone marrow involvement, HIV
+diagnosed in [**2766**], Hodgkin's disease in remission diagnosed
+[**2778**], tumor lysis syndrome [**9-2**], history of Cryptosporidium,
+history of lymphomatous meningitis and PCP [**Name Initial (PRE) 1050**].
+
+MEDICATIONS:  On admission include Bactrim single strength
+one tablet po q day, Didanosine 400 mg po q day, Lamivudine
+150 mg po bid, Stavudine 40 mg [**Hospital1 **] and Amprenavir 1200 mg [**Hospital1 **],
+Baclofen 5 mg tid, Nystatin swish and swallow 5 cc qid,
+Allopurinol 300 mg [**Hospital1 **], Morphine prn, Colace 100 mg po bid,
+Compazine prn, Thorazine syrup prn, Prevacid 30 mg po q day,
+Albuterol MDI one puff qid prn, Acyclovir 600 mg q 8 hours,
+Ritonavir 100 mg [**Hospital1 **].
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  He is a chemist.  Occasional alcohol use.
+Denies tobacco use.
+
+PHYSICAL EXAMINATION:  On admission his temperature was
+101.2, pulse 124, respirations 20, blood pressure 140/90.
+Generally he is awake and alert, in no acute distress.
+HEENT:  Extraocular movements full, mucus membranes were dry,
+sclera were anicteric.  Neck supple, no LAD.  Lungs with
+coarse breath sounds bilaterally.  Abdomen was soft, no
+tenderness, positive bowel sounds.  Cardiac exam as regular,
+tachycardic with no murmurs, rubs or gallops appreciated.
+Extremities were thin and warm with no edema.  Neurologic
+exam, he was alert and oriented times three with normal
+language and attention.  Cranial nerves significant for right
+third nerve palsy with ptosis left facial.  Motor exam, upper
+extremity was 4/5 strength distally and lower extremities
+were [**4-6**] throughout bilaterally.  Sensory exam, decreased
+distal sensation in both lower extremities and dysmetria on
+finger nose finger bilaterally.
+
+LABORATORY DATA:  On admission, white count 12.4, hematocrit
+28.2, platelet count 220,000, sodium 124, potassium 3.6,
+chloride 95, CO2 23, BUN 11, creatinine 0.3.  His LFTs were
+within normal limits.  Head CT showed no intracranial
+pathology, VP shunt in the right lateral ventricle.  Chest
+x-ray showed no evidence of pneumonia, no pneumothorax or no
+effusion.
+
+HOSPITAL COURSE:  The patient is a 45-year-old man with
+history of HIV, complicated by a lymphomatous meningitis,
+presenting with fever.  Hospital course was remarkable for
+steady progression and decline in his functioning and mental
+status.  He was continued on multiple antibiotics, started on
+Decadron as well as intrathecal chemotherapy.  He was briefly
+made NPO because of aspiration events.  He eventually
+developed a left lower lobe infiltrate, was continued on
+multiple antibiotics, remained full code initially and was
+followed closely by his family attending.
+
+ID was also involved, making multiple recommendations as was
+Hematology/oncology. However, inspite all of our efforts, the
+patient died on [**2781-11-10**]. Previous to this, he had been made
+DNR/DNI.
+
+DISCHARGE CONDITION:  Deceased.
+
+
+                          DR.[**Last Name (STitle) **],[**First Name3 (LF) 563**] 11-970
+
+
+
+Dictated By:[**Last Name (NamePattern1) 1188**]
+
+MEDQUIST36
+
+D:  [**2782-7-23**]  10:15
+T:  [**2782-7-26**]  12:24
+JOB#:  [**Job Number 6991**]
+
+
+
+
+
+DOC CLASS

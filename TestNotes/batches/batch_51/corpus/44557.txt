@@ -1,0 +1,286 @@
+Admission Date:  [**2961-11-19**]       Discharge Date:  [**2961-12-18**]
+
+Date of Birth:   [**2904-1-26**]       Sex:  M
+
+Service:
+
+DISCHARGE DIAGNOSES:  As above.
+1.  Renal failure.
+2.  Status post PEG.
+
+DISCHARGE MEDICATIONS:
+1.  Renagel 100 mg p.o. three times a day.
+2.  Phenatonyn 300 mg p.o. three times a day.
+3.  Hydralazine 50 mg three times a day.
+4.  Labetolol 600 mg p.o. twice a day.
+5.  Lantoprazole 30 mg q. day.
+6.  Risperidone 0.25 mg p.o. q. h.s.
+7.  Manoxitil 2.5 mg p.o. q. day.
+8.  Clonidine patch, transdermal q. Monday.
+9.  Amlodapine 10 mg p.o. q. day.
+10. Albuterol one q. six hours p.r.n.
+
+CONDITION ON DISCHARGE:   Stable, improved.
+
+DISCHARGE INSTRUCTIONS:
+1.  Follow-up appointment with primary care physician, [**Last Name (NamePattern4) **].
+[**First Name (STitle) 7068**], on Friday, [**1-15**], at 2 p.m., [**Telephone/Fax (1) **].
+2.  Dr. [**Last Name (STitle) 5001**], Infectious Disease on [**12-31**] at 9 a.m. at
+[**Telephone/Fax (1) **].
+3.  Dr. [**Last Name (STitle) 23120**] in Neurology on [**1-6**], at 4 p.m. at
+[**Telephone/Fax (1) **].
+4.  The patient was to contact new nephrologist closer to
+rehabilitation center and closer to patient's home for
+transfer of care.
+
+HISTORY OF PRESENT ILLNESS:   Mr. [**Known patient lastname **] is a 57 year old
+white male with a past medical history significant for HIV
+diagnosed in [**2951**] with a CD-4 count of 340 with a viral load
+of 364,000, in intermittent HAART therapy with non-compliance
+in the past two months, childhood epilepsy, qestionable
+chronic obstructive pulmonary disease and dysphagia secondary
+to hypertrophied cricopharyngeal muscle, who was transferred
+to [**Hospital1 509**] from [**Hospital6 5628**] with anemia, acute renal failure, hypoxic
+respiratory failure and respiratory distress resulting in
+emergent intubation.
+
+The patient initially presented with Infectious Disease
+Clinic with Dr. [**First Name (STitle) 23734**] on [**11-11**] and the patient was found to
+have a low hematocrit to 21.8 to a norm of 44.  Decrased
+platelets were to 88 from a norm of 158.  The patient was
+called the next day and directed to go the nearest Emergency
+Department for further work-up.
+
+On admission, the patient's hematocrit was noted to be 18
+with a creatinine of 4.2.
+
+On review of systems, the patient is reporting increased
+fatigue, weakness and muscle aches times three months,
+positive headaches status post recent fall with mild head
+trauma, no loss of consciousness.  At [**Hospital6 1919**],
+the patient was transfused to a hematocrit of 27.  GTP was
+ruled out with negative shistocytes on smear.  The patient
+was found to be hypoxic on hospital day number two and an
+arterial blood gases of 7.48, 28 and 55 on room air, and was
+intubated.  The patient was found to have bilateral
+infiltrates on chest x-ray likely secondary to infection
+versus congestive heart failure.
+
+The patient has a left femoral Quinton catheter placed on
+[**11-16**] and hemodialysis was initiated with significant
+improvement in ventilation and oxygenation.  Subsequently,
+the patient's hematocrit dropped again from 27 to 17.
+Abdominal and pelvic CT scan was done on [**11-18**] revealing a
+large retroperitoneal hematoma 9 by 7 centimeters.  The
+patient remained hemodynamically stable and was transfused to
+a hematocrit of 24 on transfer.
+
+At [**Hospital1 509**], the patient was
+started on treatment for empiric PCP and community acquired
+pneumonia with Bactrim.  The only positive cultures included
+Methicillin sensitivie Staphylococcus aureus in
+nasopharyungeal swabs and positive [**Female First Name (un) **] in sputum.  On
+[**11-13**] yeast.  On [**11-14**] blood cultures for Legionella, PCP,
+[**Name10 (NameIs) 20518**], CMV, Hepatitis B and parvo virus were all negative.
+Prednisone was started secondary to the patient's low PAO2.
+Cardiac, the patient had a CK of 147, MB 14.5, troponin 0.5,
+no acute ischemia was appreciated on the EKG.
+
+The patient had an echocardiogram on [**11-12**] with an ejection
+fraction of 45 to 50% with inferior mild hypokinesis.  No
+pulmonary hypertension, with normal left ventricular size.
+One plus mitral regurgitation and tricuspid regurgitation.
+The patient was then transferred to vent setting.  The
+patient with no spontaneous respirations on [**11-8**], PEEP of
+22.  The patient was total volume of 600 by 12, 60%.
+
+PHYSICAL EXAMINATION:   On examination, the patient had a
+temperature of 98.0 F.; blood pressure 156/80; pulse 64;
+respirations 12; saturation of 100% on aforementioned
+ventilator settings.  Generally, the patient was pale,
+cachectic, chronically ill appearing and looking older than
+stated age, grimcing to noxious stimuli.  HEENT:  Pupils are
+equal, round and reactive to light.  Extraocular muscles are
+intact.  Anciterc sclerae.  Oropharynx with mild thrush.  No
+epistaxis.  Neck:  The patient had a right IJ.  Lungs:  The
+patient had high pitched bronchial breath sounds in the right
+lower lobe.  Otherwise clear bilaterally with no crackls and
+no wheezing.  Cardiovascular is regular rate and rhythm with
+a II/VI systolic ejection murmur best appreciated in the left
+upper sternal border.  Abdominal examination:  The patient
+was mildly distended, soft, no masses, with some flank
+fullness, right greater than left with a persistent area of
+ecchymosis.  Extremities with no cyanosis, clubbing or edema.
+No rashes or bruises.  Warm and good pulses throughout.
+Neurological:  Toes were downgoing bilaterally, one plus deep
+tendon reflexes throughout.  Rectal:  The patient was guiac
+negative.
+
+LABORATORY:  On admission, white blood cell count of 4.6,
+hematocrit of 25.7, platelets of less than 40.  Coagulation
+studies were PT 12.9, PTT 25, INR 1.1.  Chem 7 was sodium of
+143, potassium of 4.2, chloride 107, bicarbonate 24, BUN of
+40, creatinine of 4.8, glucose of 92, calcium of 8.7,
+magnesium 2.1, phosphorus 5.2.  D-dimer greater than [**2958**].
+Fibrinogen 338.  CK and troponin were negative.
+
+Urinalysis with large blood, 100 protein, 100 glucose.
+
+ASSESSMENT:   The patient was admitted to the Medical
+Intensive Care Unit at [**Hospital1 509**]
+with issues of:  1) Anemia; 2) hypoxia; 3) acute renal
+failure.
+1.  Anemia:  The patient was transfused a total of 11 units
+of packed red blood cells at [**Hospital6 1919**].  He was
+found to have a retroperitoneal bleed on [**11-16**] secondary to
+dialysis catheter placement dropping the patient's
+hematocrit.
+2.  Acute renal failure:  Hemodialysis was initiated.  The
+patient had a creatinine of 4.2.
+3.  Infectious Disease:  The patient was treated for
+community acquired pneumonia.  The patient was started on
+Bactgrim, Zithromax, Ceftriaxone.
+4.  Pulmonary:  The patient was intubated secondary to
+hypoxia and respiratory distress.
+
+On admission, the patient's admission hematocrit was 25.2.
+The patient was transfused 4 units of packed red blood cells
+and appropriately bumped to a hematocrit of 34.9.  The
+patient's acute renal failure was thought to be new.  A renal
+consultation was obtained.  The patient arrived intubated.
+The patient had a bronchoscopy on [**2961-11-21**] showing copious
+thick secretions and on [**11-22**], showing a decrease in
+patient's secetions.  The patient had a head CT scan on [**11-20**]
+which was negative for bleed.
+
+HOSPITAL COURSE:
+1.  PULMONARY:  On patient's head CT scan the patient was
+found to have sinusitis and the patient was found to have
+infiltrate on chest x-ray and unclear whether secondary to
+congestive heart failure versus infection.  In light of this
+and the patient's sinusitis, the patient was started on a 14
+day course of Zosyn. The patient remained clnically
+successfully intubated in Intensive Care Unit.  The patient's
+respiratory status continued to immprove and the patient
+remained clinically stable until the morning of [**2961-12-7**],
+when he was found to be in respiratory distress and
+tachypenic.
+
+The chest x-ray showed a right sided opacity in the patient's
+right lung.   The patient was asymptomatic at this time and
+afebrile.  The patient was felt to be in frank pulmonary
+edema secondary to patient's hypertension.  The patient was
+placed on a Labetolol drip and Hydralazine.  The patient's
+subsequently improved after hemodialysis and the patient's
+respiratory status remained stable throughout hospital course
+to the time of discharge.
+
+2.  DYSPHAGIA:  The patient has cricopharuyngeal dysplasia,
+disphagia and hyperplasia for which the patient has received
+a PEG to receive gastric feeidng.  The patient was evaluated
+by Speech and Swallow who agreed with diagnosis of
+cricopharyngeal dysphagia.  The patient was cleared for a
+puree diet with small daily snacks of pureed food and liquids
+under supervised conditoins only and strict aspiration
+precautions.
+
+The patient only cleared for p.o. foods following strict
+swallow recommendations from Speech and Swallow including as
+follows:  The patient to take a bite of pureed food, hold in
+mouth and tilt chin towards chest wall, swallow hard three
+times and then take sip of thin liquids, hold in mouth, tuck
+in to chest, swallow hard two to three times, cough and
+swallow again.  Myometry surgery is recommended for this
+patient by Dr. [**First Name (STitle) **] [**Name (STitle) **] from ENT Surgery in one to two
+months, when patient's nutritional status improves.
+
+3.  NEUROLOGICALLY:  The patient was continued on Dilantin
+for childhood epilepsy.  Given the patient's new
+hemodialysis, the patient should have three Dilantin levels
+checked q. five days.  The patient will be continued on
+Dilantin dose of 300 three times a day followed by three
+Dilantin levels.  During hospital stay, the patient also had
+change in mental status.  For patient's change in mental
+status the patient was started on low dose Risperdol 0.5 mg
+q. h.s. This dose may be discontinued in the future if the
+patient clinically remains stable.  This dose should not be
+increased as it will lower the patient's seizure threshold.
+During the [**Hospital **] hospital course the patient was found to
+be somewhat sundown and somewhat deliriuos and most liely
+etioloyg of this was patient's hypertension.  Once the
+patient's blood pressure was under better control and the
+patient was on low dose Risperdol, mental status was much
+clearer.
+
+4.  INFECTIOUS DISEASE:  The patient's HIV status was that
+patient's HAART therapy will be started as an outpatient.
+The patient is to follow-up with Infectious Disease Clinic.
+
+5.   HYPERTENSION:  The patient suffered from malignant
+hypertension which was extremely challegnging to deal with
+throughout the [**Hospital **] hospital course.  The patient was
+tried on multiple medications which included hydralazine,
+Labetolol and Norvasc.  Finally, the patient's hypertension
+was under much improved control on a regimen of 50 mg of
+Hydralazine p.o. three times a day, Labetolol 600 mg p.o.
+twice a day and Minoxidil 2.5 mg p.o. q. day and Clonoidine
+patch transdermal q. week.
+
+6.  ACUTE RENAL FAILURE:  The patient was started on
+hemodialysis on Monday, Wednesday and Friday which he
+tolerated well.  A renal biopsy was delayed initailly because
+the patient had extermely difficult to control hypertension.
+A renal biopsy was done prior to discharge and was
+non-diagnostic.  Further immuno histo will be sent and change
+is most consistent with hypertensive nephropathy.  The
+patient will continued with4 lifetiem hemodialysis three
+times a week.
+
+7.  PAST MEDICAL HISTORY:  The patient has an HIV history
+diagnosed in [**2951**].  CD4 count of 300, viral load greater than
+350,000.  No anti-retrovirals in the last two months.
+History of hepatitis A and B, childhood epilepsy, status post
+hernia repair, depression, remote history of substance abuse,
+questionable chronic obstructive pulmonary disease,
+hypertrophy of cricopharyngeal muscle dysphagia.
+
+The patient's medications at home were Dilantin 200 mg twice
+a day.
+
+DISCHARGE MEDICATIONS:
+1.  Prednisone 20 q. day.
+2.  Dilantin 200 mg p.o. q. day.
+3.  Amphagel 30 q. day.
+4.  Morphine 2 mg q. two hours p.r.n.
+5.  Zithromycin 500 mg q. day.
+6.  Bactrim.
+7.  Ativan.
+8.  Ceftriaxone 1 gram q. day.
+9.  Protonix 40 mg q. day.
+10. Vanceril 12.5 mg twice a day.
+
+ALLERGIES:   The patient has no known drug allergies.
+
+FAMILY HISTORY:   The patient had a mother with hypertension
+and hypercholesterolemia.
+
+SOCIAL HISTORY:   The patient lives with mother.  [**Name (NI) **] has a
+1-1/2 to 2 pack per day somking history.  Disabled secondary
+to HIV.  Past unspecified substance abuse.
+
+The remainder of the patient's STAT discharge summary will be
+dictated later.  This part of one of two discharge summary.
+
+
+
+                            [**Name6 (MD) **] [**Last Name (NamePattern4) 18947**], M.D.  [**MD Number(1) 18948**]
+
+Dictated By:[**Last Name (NamePattern1) 23606**]
+MEDQUIST36
+
+D:  [**2961-12-18**]  16:16
+T:  [**2961-12-18**]  18:25
+JOB#:  [**Job Number 23735**]
+
+
+DOC CLASS

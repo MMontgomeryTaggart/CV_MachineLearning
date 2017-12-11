@@ -1,0 +1,241 @@
+Chief Complaint:
+   24 Hour Events:
+ EKG - At [**3079-7-30**] 01:00 AM
+   -vanc/ceftriaxone dc'ed; will dc acyclovir pending HSV cultures
+   - neuro said okay to d/c EEG, but would still like MRI brain b/c of
+   right sided weakness. Stroke protocol, no contrast.   Ordered for
+   today.
+   -EEG d/c'ed
+   - Psych said to give haldol PRN agitation, avoid
+   benzo's/anticholinergics. Page psych if need to determine capacity (as
+   right now he is amenable to workup)
+   - BP's in the 190's at 10pm. Gave hydralazine 20mg PO (takes this [**Hospital1 **]
+   at home). put on hydral 10mg IV Q6
+   - Labile blood sugars. at 6am, sugar of 90's, at 10pm, sugar of 417.
+   Gave humalog, lantus as [**First Name8 (NamePattern2) **] [**Last Name (un) 257**] recs. [**Last Name (un) 257**] also said if not eating
+   well, should consider starting D5NS (did not start tonight).
+   -then pressures still in >200's. labetalol 10mg IV. started on a drip.
+   Dripped was stopped this morning when pressures came down to 170 with
+   very low dose.
+   -PO labetolol started.
+   Allergies:
+   Codeine
+   Hives;
+   Last dose of Antibiotics:
+   Vancomycin - [**3079-7-28**] 07:50 PM
+   Ceftriaxone - [**3079-7-29**] 06:18 AM
+   Acyclovir - [**3079-7-29**] 08:00 PM
+   Infusions:
+   Labetalol - 1 mg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3079-7-30**] 12:23 AM
+   Hydralazine - [**3079-7-30**] 03:00 AM
+   Labetalol - [**3079-7-30**] 03:30 AM
+   Haloperidol (Haldol) - [**3079-7-30**] 04:45 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3079-7-30**] 07:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.8
+C (98.2
+   HR: 90 (87 - 96) bpm
+   BP: 185/107(127) {148/88(101) - 194/122(163)} mmHg
+   RR: 12 (7 - 19) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 72 kg (admission): 72 kg
+             Total In:
+                                                                  1,415 mL
+                                                                    129 mL
+   PO:
+                                                                  1,000 mL
+             TF:
+   IVF:
+                                                                    390 mL
+                                                                    129 mL
+   Blood products:
+   Total out:
+                                                                    933 mL
+                                                                    420 mL
+   Urine:
+                                                                    933 mL
+                                                                    420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    482 mL
+                                                                   -291 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ///33/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   276 K/uL
+   8.3 g/dL
+   186 mg/dL
+   7.1 mg/dL
+   33 mEq/L
+   3.6 mEq/L
+   16 mg/dL
+   97 mEq/L
+   139 mEq/L
+   25.1 %
+   7.4 K/uL
+        [image002.jpg]
+                             [**3079-7-25**]  09:17 PM
+                             [**3079-7-26**]  01:41 AM
+                             [**3079-7-26**]  03:31 AM
+                             [**3079-7-26**]  03:32 AM
+                             [**3079-7-27**]  03:26 AM
+                             [**3079-7-28**]  01:45 AM
+                             [**3079-7-29**]  02:50 AM
+                             [**3079-7-30**]  02:18 AM
+   WBC
+   10.5
+   11.1
+   10.5
+   10.1
+   6.7
+   7.4
+   Hct
+   24.8
+   22.7
+   21.2
+   23.8
+   25.9
+   25.1
+   Plt
+   327
+   318
+   288
+   285
+   302
+   276
+   Cr
+   9.4
+   5.4
+   7.8
+   9.7
+   5.2
+   7.1
+   TropT
+   0.36
+   TCO2
+   37
+   34
+   Glucose
+   535
+   134
+   276
+   95
+   38
+   186
+   Other labs: PT / PTT / INR:11.6/35.4/1.0, CK / CKMB /
+   Troponin-T:442/7/0.36, ALT / AST:14/31, Alk Phos / T Bili:73/0.3,
+   Differential-Neuts:76.3 %, Lymph:17.7 %, Mono:4.6 %, Eos:0.9 %, Lactic
+   Acid:1.0 mmol/L, Albumin:3.5 g/dL, LDH:513 IU/L, Ca++:8.4 mg/dL,
+   Mg++:1.9 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+ FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA)
+ HYPOGLYCEMIA
+ AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG,
+   AIRWAY CLEARANCE, COUGH)
+ HYPERTENSION, BENIGN
+ HYPERGLYCEMIA
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   This is a 24 yo male with type I DM, ESLD on HD, resistant HTN who
+   presents with hyperglycemia and emesis and found to have significantly
+   elevated blood pressures.
+   .
+   # Fever/Mental Status Changes/? delirium: Pt is was not speaking to
+   medical staff yesterday but today he is. However, he seems to be
+   laughing and crying anappropriately. Pt
+s mom says pt does not usually
+   cry while hospitalized. He does have a history of oppositional defiant
+   disorder. Was agitated and confused on admission. It is difficult to do
+   a neuro exam or get a sense of his mental status right now as he is not
+   cooperating. Head CT read neg for any acute IC process.  Still concern
+   for infection as febrile on admission, cultures negative and on broad
+   spectrum Abx. Pt does have history of TTP, but platelets not low. [**Month (only) 56**]
+   also have had some component of uremic encephalopathy.
+   - correct glucose and electrolyte abnormalities
+   - 1+ schistos on peripheral smear.
+   - HD today
+   - psych following
+   - neuro would like MRI, unable to get last night [**12-23**] pt unable to
+   follow commands and nsg concerned for safety alone c pt as he is very
+   labile
+   -LP shows no meningitis by cell counts. Initially on
+   vanc/ceftriaxone/acyclovir empirically pending cultures. vanc and
+   ceftriaxone dced. would continue acyclovir until negative pcr
+   -tsh wnl
+   # Hyperglycemia: Would be classified as HHS given no ketonemia, though
+   AG present. Possible etiologies include infection vs insulin
+   non-compliance. AG resolved after only 10 units of IM regularinsulin
+   with serum glucose ranging <70 to 200
+s over past day.
+   - check FSBS q2 hours
+   - [**Last Name (un) 257**] following- on lantus 4 units daily and [**Last Name (un) 257**] sliding scale
+   and conservative sliding scale
+   - blood, csf, and urine cxs to rule out infection
+   .
+   # Hypoglycemia: low BS this am. got [**11-22**] amp D50. ? whether insulin
+   should be decreased. Will f/[**Initials (NamePattern4) 10034**] [**Last Name (un) 257**] recs.
+   .
+   # Hypertension: BP 200's/100's on admission. Has run similarly high on
+   previous admissions. Attempting to titrating meds to SBP's in 150's.
+   However, still elevated.  BP goal 160
+   -had significant trouble c BP control yesterday. continue all home meds
+   and consider adding additional meds prn. currently written for
+   labetolol drip prn if sbps >180.  DC-ed metoprolol, now on clonidine
+   patch and labetolol 300 [**Hospital1 **], Norvasc, and lisinopril increased to 40.
+   Hydralazine DC-ed.
+   .
+   # ESRD on HD: HD on [**7-27**], took off 800cc.
+   - renal dialysis fellow aware pt in house
+   - cont nephrocaps
+   -add sevelamer per renal
+   -f/u renal recs
+   .
+   #Anemia: s/p 1 unit PRBC. Likely [**12-23**] chronic renal failure (baseline
+   about 25)
+   -hct at baseline, stable.
+   -epo after HD
+   .
+   #hematuria: most c/w foley trauma.
+   -UA c RBCs only. will f/u culture
+   -Foley DC-ed
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Tunneled (Hickman) Line - [**3079-7-25**] 08:13 PM
+   20 Gauge - [**3079-7-25**] 09:55 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  ICU this morning, likely call out this afternoon
+
+
+DOC CLASS

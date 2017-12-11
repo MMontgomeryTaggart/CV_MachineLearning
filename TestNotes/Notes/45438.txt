@@ -1,0 +1,125 @@
+Admission Date:  [**2679-12-25**]       Discharge Date:  [**2680-1-3**]
+
+Date of Birth:   [**2618-11-25**]       Sex:  M
+
+Service:
+
+ADMISSION DIAGNOSIS:  Coronary artery disease.
+
+DISCHARGE DIAGNOSIS:
+1.  Coronary artery disease.
+2.  Myocardial infarction.
+3.  Pulmonary edema.
+4.  Status post coronary artery bypass graft times three
+([**2679-12-25**]).
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 61-year-old
+male with known cardiac disease.  He developed a worsening
+angina and shortness of breath prior to his admission.  He
+has a history of an MI, catheterization and stenting of RCA.
+He failed a stress test on [**2679-9-22**] at [**Hospital6 767**]
+with multiterritorial inducible ischemia, submaximal work
+load.  The most recent catheterization was in [**11-2**].  He now
+presents for revascularization surgery.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Insulin-dependent diabetes mellitus.
+3.  Status post cervical fusion.
+4.  Status post stenting of the RCA.
+5.  Myocardial infarction.
+6.  Coronary artery disease.
+
+ADMISSION MEDICATIONS:
+1.  Aspirin.
+2.  Atenolol 100 mg q.d.
+3.  Imdur 60 mg q.d.
+4.  Lipitor 20 mg q.d.
+5.  Lisinopril 40 mg q.d.
+6.  Norvasc 5 mg q.d.
+7.  Prilosec 20 mg q.d.
+8.  Humalog 75/25 60 units q.a.m., 50 units q.p.m.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+PHYSICAL EXAMINATION ON ADMISSION:  General:  The patient was
+elderly and in no acute distress.  Vital signs:  The vital
+signs were stable, afebrile.  HEENT:  Normocephalic,
+atraumatic.  EOMI, PERRL, anicteric.  The throat was clear.
+The neck was supple, midline, with no masses or
+lymphadenopathy.  Chest:  Clear to auscultation bilaterally.
+Cardiovascular:  Regular rate and rhythm without murmurs,
+rubs, or gallops.  Abdomen:  Soft, nontender, nondistended,
+obese.  Extremities:  Warm, noncyanotic, nonedematous times
+four.  Neurological:  Grossly intact.
+
+HOSPITAL COURSE:  The patient was admitted for coronary
+artery bypass grafting.  The procedure was performed on
+[**2679-12-25**] without complication.  The patient was sent to the
+ICU postoperatively for close monitoring, being additionally
+maintained on Neo, insulin, Esmolol, and propofol drips.
+Abdominal distention prompted placement of a NG tube with a
+copious return.  The patient was tachycardiac on
+postoperative day number two which prompted Swan placement.
+He was extubated on postoperative day number two.
+
+The patient had clinical signs of respiratory difficulty on
+postoperative day number three with wheezing, shortness of
+breath, and mild diaphoresis.  There were no desaturation
+episodes or changes in respiration rate.  The patient was
+subsequently transferred to the floor where he continued to
+have intermittent episodes of respiratory difficulty which
+resolved with aggressive pulmonary toilet and nebulizer
+treatments of Albuterol and Atrovent.
+
+A mild amount of fibrinous drainage was seen to be draining
+from the sternal wound but this stopped on postoperative day
+number six with no further event.
+
+The patient was discharged to rehabilitation on postoperative
+day number nine, having done well with physical therapy, and
+adequate pain control on pain medications and tolerating a
+regular diet.
+
+DISCHARGE CONDITION:  Stable.
+
+DISPOSITION:  To rehabilitation.
+
+DIET:  Cardiac and diabetic.
+
+DISCHARGE MEDICATIONS:
+1.  Lasix 20 mg b.i.d. times seven days.
+2.  Potassium chloride 20 mEq b.i.d. times seven days.
+3.  Colace 100 mg b.i.d.
+4.  Aspirin q.d.
+5.  Percocet 5/325 one to two tablets q. four hours p.r.n.
+6.  Flovent 110 micrograms two puffs b.i.d.
+7.  Benadryl 25 mg q.h.s. p.r.n.
+8.  Atenolol 75 mg q.d.
+9.  Plavix 75 mg q.d.
+10. Albuterol nebulizers q. four hours p.r.n.
+
+DISCHARGE INSTRUCTIONS:   The patient is to follow-up with
+Cardiology in one to two weeks and address the need for
+continued diuresis as well as adjustment of cardiac
+medications at that time.
+
+The patient is to follow-up with Dr. [**Last Name (STitle) 17385**] in six weeks.
+The patient should continue aggressive physical therapy with
+strengthening as well as respiratory therapy including chest
+PT.
+
+
+
+               DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 02-358
+
+
+Dictated By:[**Last Name (NamePattern1) 18969**]
+MEDQUIST36
+
+D:  [**2680-1-13**]  01:56
+T:  [**2680-1-13**]  14:06
+JOB#:  [**Job Number 26334**]
+
+
+DOC CLASS

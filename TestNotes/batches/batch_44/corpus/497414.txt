@@ -1,0 +1,280 @@
+Chief Complaint: Afib with RVR
+   24 Hour Events: On arrival to the ICU the pt was given a 1L fluid bolus
+   and spont converted to sinus rhythm. Pt was started on amiodarone gtt
+   for atrial fibrillation, with the gtt she became bradycardic to the low
+   40s. Amiodarone was stopped. The pt had contined loose stools
+   overnight. She reverted back to a fib with rates in 110s and again
+   converted back with IVF. She was found to have blood cultures with GNR
+   and was started on flagyl for possible bowel source.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2897-5-24**] 09:58 PM
+   Cefipime - [**2897-5-25**] 02:00 AM
+   Metronidazole - [**2897-5-25**] 02:08 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2897-5-25**] 07:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 35.9
+C (96.7
+   HR: 72 (44 - 145) bpm
+   BP: 107/43(62) {77/42(55) - 112/76(82)} mmHg
+   RR: 22 (16 - 28) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+           Total In:
+                                                                  4,400 mL
+                                                                  1,599 mL
+   PO:
+           TF:
+   IVF:
+                                                                  2,076 mL
+                                                                  1,380 mL
+   Blood products:
+                                                                    155 mL
+                                                                    220 mL
+   Total out:
+                                                                  4,745 mL
+                                                                  1,060 mL
+   Urine:
+                                                                  1,895 mL
+                                                                  1,060 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -345 mL
+                                                                    539 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: No(t) Supraclavicular WNL, small R supraclavicular
+   adenopathy
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic), RRR
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bibasilar)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   62 K/uL
+   7.0 g/dL
+   134 mg/dL
+   0.2 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   6 mg/dL
+   110 mEq/L
+   137 mEq/L
+   22.4 %
+   0.1 K/uL
+        [image002.jpg]
+                             [**2897-5-19**]  03:08 AM
+                             [**2897-5-19**]  03:32 AM
+                             [**2897-5-19**]  05:33 AM
+                             [**2897-5-19**]  10:02 AM
+                             [**2897-5-19**]  12:37 PM
+                             [**2897-5-19**]  03:23 PM
+                             [**2897-5-19**]  06:18 PM
+                             [**2897-5-20**]  03:37 AM
+                             [**2897-5-24**]  10:01 PM
+                             [**2897-5-25**]  04:51 AM
+   WBC
+   3.3
+   5.5
+   6.9
+   0.1
+   Hct
+   22.2
+   27.4
+   25.8
+   22.4
+   Plt
+   199
+   237
+   256
+   62
+   Cr
+   0.2
+   0.3
+   0.2
+   0.2
+   0.2
+   TCO2
+   46
+   47
+   41
+   40
+   40
+   Glucose
+   118
+   162
+   158
+   156
+   134
+   Other labs: PT / PTT / INR:15.3/29.7/1.4, CK / CKMB /
+   Troponin-T:[**5-6**]/<0.01, ALT / AST:20/10, Alk Phos / T Bili:89/0.6,
+   D-dimer:752 ng/mL, Lactic Acid:0.7 mmol/L, Albumin:2.2 g/dL, LDH:125
+   IU/L, Ca++:7.6 mg/dL, Mg++:2.3 mg/dL, PO4:1.6 mg/dL
+   Imaging: [**5-24**] CXR - FINDINGS: Enlarged globular appearance of the
+   cardiac silhouette is
+   consistent with pericardial effusion from CT chest from [**2897-5-9**].
+   Mediastinal adenopathy is again appreciated without appreciable change.
+   There
+   is slight decrease in size of moderate bilateral effusions. No definite
+   focal
+   consolidation is identified to suggest pneumonia. Right PIC line tip
+   terminates in the distal SVC.
+   Microbiology: [**2897-5-24**] 9:15 am BLOOD CULTURE      Source: Line-picc.
+      Blood Culture, Routine (Preliminary):
+         GRAM NEGATIVE ROD(S).
+      Anaerobic Bottle Gram Stain (Final [**2897-5-25**]):
+         REPORTED BY PHONE TO [**First Name8 (NamePattern2) 3223**] [**Last Name (NamePattern1) 3224**] @ 1:25A [**2897-5-25**].
+         GRAM NEGATIVE RODS.
+      Aerobic Bottle Gram Stain (Final [**2897-5-25**]):    GRAM NEGATIVE RODS.
+   .
+   [**5-25**] Blood Cx - NGTD
+   Assessment and Plan
+   This is a 59F with mental retardation w/ recent dx of nodular
+   sclerosing hodgkins lymphoma s/p modified EACOP, ileus,  now with
+   febrile neutropenia and afib with RVR  in setting of GNR bacteremia.
+   .
+   # Atrial fibrillation with RVR: In the setting of fever, went into afib
+   with HRs as high as 180s and SBP in 80s. She has had difficult to
+   control afib in the past on max dose esmolol and diltiazem drips and
+   finally converted with amiodarone during her last ICU visit.  It is
+   likley that she has converted back into afib with RVR in the setting of
+   fever and possibly hypovolemia given her recent worsened ileus. Pt was
+   converted to NSR after receiving 1L NS upon arrival to the ICU. She was
+   started on an amiodarone gtt at 0.5mg/hr. Following the initiation of
+   the gtt she became bradycardiac with HR in the low 40s and the gtt was
+   discontinued. She converted back to Afib with RVR with HRs in the
+   110s-120s which broke again following IVF bolus. In this setting she
+   was found to have continued volume loss from diarrhea and a positive BC
+   with GNR.
+   - Given bradycardia with IV amiodarone infusion, transition to po
+   amiodarone load with goal of 7gm prior to transitioning to maintenance
+   dose. Will start 400mg [**Hospital1 **]. Pt received approx 90mg IV total yesterday
+   with a 0.5mg/min rate X 3 hours.
+   - Monitor ECG and specifically QTc
+   - no anticoagulation given hemopericardium
+   - continue metoprolol and uptitrate as BP allows
+   .
+   # Febrile neutropenia: Now s/p cytoxan, doxorubin, etoposide,
+   dexamethasone and procarbazine (last [**5-22**]). CXR unchanged, UA negative.
+   Blood cultures with
+ bottles GNR
+   - f/u cultures - GNR bacteremia
+   - Given pt
+s dilated colon and recent rectal tube placement
+ bowel
+   likely source for GNR bacteremia. Pt was started on flagyl
+   - C. diff to be sent this am
+   - continue cefepime and vancomycin as long as neutropenic
+   - Neutropenic precautions
+   - monitor PICC line
+   - continue GCSF
+    .
+   # Ileus/abdominal distention: Has this history, requires intermittent
+   rectal tube (now out given neutropenia). Last BM loose stool overnight
+   - Appreciate GI recs
+   - For now continue full liquids. Will continue to monitor abdomen and
+   for flatulence or BM
+   - repeat KUB daily to monitor dilated bowel
+   - Replete lytes aggressively, TSH wnl
+   - IVF to keep up with diarrhea and insensible losses
+   - Will need colonoscopy when counts are improved
+   .
+   # Hemopericardium: Moderate pericardial effusion per ECHO on [**5-10**]
+   without evidence of tamponade. Hemodynamically stable. If develops
+   persistent uncontrolled afib, discuss need to drain pericardial
+   effusion with cards.
+   - recheck ECHO
+   - Pulses following conversion to NSR - 4
+   .
+   # Hypoxia: Encasement of pulmonary artery and left main bronchus by
+   mediastinal mass per CT at NWH. Also with SVC compression on CT here
+   during last admission. Significant improvement in these symptoms
+   post-chemo as her tumor is likely very chemoresponsive. [**Month (only) 56**] also have
+   pericardial thrombus, but given hemopericardium, not able to start
+   heparin.  Also, has bilateral pleural effusions.
+   - Continue to monitor for decreased tumor burden, reduced PA
+   compression
+   - Continue steroids x total of 14 days
+   - Continue supplemental oxygen as needed, will wean as tolerated
+   .
+   # Lymphoma: NSHL as per pathology from supraclavicular LN biopsy. Stage
+   2b at least per OMR note. Completed one cycle of modified regimen with
+   cytoxan, etoposide and doxorubicin (C1D+10, procarbazine day +3 s/p 2
+   doses). TL labs stable.
+   - Continue decadron 20mg IV x14 days total, will discuss further
+   treatment with team (like due for next cycle 21 days after C1)
+   - Continue to monitor pericardial effusion as tumor shrinks
+   - Cont allopurinol for now, will discuss length of treatment with BMT
+   team
+   - Restarted Neupogen [**5-24**], was held during procarbazine but will hold
+   third dose of procarbazine today given rapid onset of neutropenia and
+   GI disease.
+   - PCP/HSV/VZV ppx to be started next week
+   - Continue to follow ANC daily
+   - Consider repeat CT Torso to further evaluate mediastinal mass/SVC
+   compression in future
+   .
+   # Anemia: Chronic, iron deficiency anemia. Now s/p chemo Will continue
+   to monitor.
+   - Maintain Hct >25, plt >75 given hemopericardium  - received 2U PRBC
+   and 1bag plts since transfer
+   .
+   # FEN: monitor lytes. neutropenic, liquid diet for now
+   .
+   # Proph: bowel regimen, PPI, pneumoboots
+   .
+   # CODE: FULL code, reversed from DNR/DNI in conjunction with Dr. [**First Name (STitle) 1382**]
+   [**Name (STitle) 3221**].
+   .
+   # ACCESS: peripheral; PICC replaced by IR
+   .
+   # DISPO: Pending above
+   .
+   # CONTACT: HCP - brother [**Name (NI) 3018**] [**Telephone/Fax (1) 3019**] (mobile) and [**Telephone/Fax (1) 3020**]
+   (home); brother also gave permission to speak with his wife [**Name (NI) **]
+   ICU Care
+   Nutrition:
+   Comments: regular
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2897-5-24**] 03:17 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:Transfer to floor
+
+
+DOC CLASS

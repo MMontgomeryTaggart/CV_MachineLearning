@@ -1,0 +1,141 @@
+CVICU
+   HPI:
+   HD2
+   45 yo admit w/unstable angina-cath 2 2vd EF lo normal
+   PMH:HTN, cyctic breast disease
+   [**Last Name (un) **]:atenolol100', HCTZ 25', omeprazole 20'
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 4. Atenolol 5. Atorvastatin 6. Heparin 7.
+   Hydrochlorothiazide 8. Insulin
+   9. Nitroglycerin 10. Omeprazole 11. Silver Sulfadiazine 1% Cream 12.
+   Sodium Chloride 0.9% Flush
+   13. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+   Admitted to ICU for unstable angina and NTG and Heparin gtt's.
+   Allergies:
+   Aspirin
+   Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 500 units/hour
+   Nitroglycerin - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2585-11-4**] 06:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**89**] a.m.
+   Tmax: 36.3
+C (97.4
+   T current: 36.3
+C (97.4
+   HR: 62 (61 - 64) bpm
+   BP: 123/69(81) {83/57(62) - 123/73(85)} mmHg
+   RR: 16 (16 - 19) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             116 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+   116 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    200 mL
+   Urine:
+   200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -84 mL
+   Respiratory support
+   SPO2: 98%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   175 K/uL
+   11.5 g/dL
+   94 mg/dL
+   0.7 mg/dL
+   26 mEq/L
+   3.8 mEq/L
+   13 mg/dL
+   101 mEq/L
+   136 mEq/L
+   33.0 %
+   7.2 K/uL
+        [image002.jpg]
+                            [**2585-11-3**]  11:33 PM
+   WBC
+   7.2
+   Hct
+   33.0
+   Plt
+   175
+   Creatinine
+   0.7
+   Troponin T
+   <0.01
+   Glucose
+   94
+   Other labs: PT / PTT / INR:12.6/26.7/1.1, CK / CK-MB / Troponin
+   T:45//<0.01, ALT / AST:14/18, Alk-Phos / T bili:62/0.3, Amylase /
+   Lipase:120/28, Albumin:4.1 g/dL, LDH:121 IU/L, Ca:10.1 mg/dL, Mg:1.8
+   mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   Assessment and Plan: 45 yo admit w/unstable angina-cath 2 2vd EF lo
+   normal
+   Neurologic: Pain controlled, Morphine PRN Chest Pain
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: cont oxygen via NC
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal: Foley, Adequate UO
+   Hematology: follow PTT per protocol
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley
+   Wounds: N/A
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Acute MI / Ischemia
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**2585-11-3**] 11:00 PM
+   20 Gauge - [**2585-11-4**] 12:15 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status:
+   Disposition: ICU
+   Total time spent: 31 minutes
+   Patient is critically ill
+
+
+DOC CLASS

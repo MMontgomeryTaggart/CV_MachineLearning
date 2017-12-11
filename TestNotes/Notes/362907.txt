@@ -1,0 +1,205 @@
+Chief Complaint:
+   24 Hour Events:
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3151-12-18**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3151-12-19**] 07:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.9
+C (98.5
+   HR: 83 (72 - 103) bpm
+   BP: 92/51(61) {81/35(45) - 135/74(84)} mmHg
+   RR: 22 (15 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  5,740 mL
+                                                                    926 mL
+   PO:
+                                                                  2,900 mL
+                                                                    500 mL
+   TF:
+   IVF:
+                                                                  2,750 mL
+                                                                    426 mL
+   Blood products:
+   Total out:
+                                                                  1,177 mL
+                                                                    250 mL
+   Urine:
+                                                                    727 mL
+                                                                    250 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,563 mL
+                                                                    676 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 94%
+   ABG: ///14/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   96 K/uL
+   9.5 g/dL
+   136 mg/dL
+   0.6 mg/dL
+   14 mEq/L
+   3.2 mEq/L
+   26 mg/dL
+   117 mEq/L
+   140 mEq/L
+   29.1 %
+   12.6 K/uL
+        [image002.jpg]
+                             [**3151-12-15**]  04:46 PM
+                             [**3151-12-15**]  10:56 PM
+                             [**3151-12-16**]  02:13 AM
+                             [**3151-12-16**]  04:29 AM
+                             [**3151-12-16**]  10:21 AM
+                             [**3151-12-17**]  03:49 AM
+                             [**3151-12-18**]  04:10 AM
+                             [**3151-12-19**]  03:28 AM
+   WBC
+   6.5
+   5.6
+   6.8
+   7.4
+   8.8
+   12.6
+   Hct
+   27.6
+   27.9
+   26.3
+   27.3
+   27.9
+   27.9
+   29.1
+   Plt
+   67
+   64
+   74
+   81
+   91
+   96
+   Cr
+   2.2
+   2.0
+   1.9
+   1.7
+   1.0
+   0.6
+   TCO2
+   17
+   Glucose
+   146
+   153
+   113
+   107
+   105
+   136
+   Other labs: PT / PTT / INR:23.0/45.0/2.2, CK / CKMB / Troponin-T:98//,
+   ALT / AST:75/224, Alk Phos / T Bili:260/11.6, Amylase / Lipase:203/,
+   Lactic Acid:2.5 mmol/L, Albumin:2.3 g/dL, LDH:271 IU/L, Ca++:7.6 mg/dL,
+   Mg++:2.0 mg/dL, PO4:1.7 mg/dL
+   Assessment and Plan
+   56 yoM w/ h/o EtOH cirrhosis; admitted after being found this morning
+   unrepsonsive in bed by roommate, in setting of possible EtOH withdrawal
+   and two weeks of reported hematemesis.
+   #. ALTERED MENTAL STATUS
+ initial insult likely HE, then exacerbated
+   by inability to clear Ativan. Now mental status clearing nicely,
+   patient is much more alert. Tolerating PO
+   -- cont lactulose (and rifaximin) given HE is most likely diagnosis
+   --continue aspiration precautions, advance diet carefully and with
+   supervision
+   --encourage PO intake
+   # HYPERCHLOREMIA: patient likely continues to be dehydrated. Will
+   switch to D5
+ NS today and encourage PO intake.
+   #. UGIB: patient has history of UGIB; has been scoped in past, no
+   evidence of bleed; c/f portal gastropathy. Report of hematemesis is
+   unconfirmed, patient had blood on his teeth only. Baseline Hct unclear,
+   has been stable.
+   -- maintain active T&S
+   -- PPI IV BID; sucralfate
+   -- liver recs
+ will likely scope
+   #. ARF: Likely pre-renal, resolved with IVF.
+   -- cont IVF boluses today until PO intake adequate
+   -- will hold lisinopril 20 mg QD and lasix 40 mg QD (home meds)
+   #. ALCOHOLIC HEPATITIS: AST:ALT > 2:1, elevated above baseline (AST
+   normally runs low 100's or less); concern for acute alcoholic hepatitis
+   on top of alcoholic cirrhosis.  Could not visualize portal vein on RUQ
+   US. Could also have some element of congestive hepatopathy.
+   -- f/u liver recs
+   -- cont lactulose/rifaximin
+   #. ELEVATED LIPASE: has h/o elevated lipase with prior episodes of poor
+   PO intake and emesis.  Pt was c/o abd pain prior to being found
+   unrepsonsive.
+   -- cont to trend
+   #. H/O ETOH ABUSE: last drink on [**12-11**]; drinks 1 bottle of wine per
+   night.  C/f increased ingestion recently.  Gave banana bag.
+   -- no need for CIWA currently
+   -- will place s/w consult today
+   #. HYPERLIPIDEMIA:
+   -- will hold home simvastatin given acute elevation in LFT's
+   #. NUTRITION: ADAT with aspiration precautions
+   #. CODE: Full
+   #. COMMUNICATION: [**First Name8 (NamePattern2) 7534**] [**Last Name (NamePattern1) 7535**], spouse [**Telephone/Fax (1) 7536**]; [**First Name8 (NamePattern2) 1706**] [**Name (NI) 3249**],
+   brother, HCP, [**Telephone/Fax (1) 7537**]
+   #. CONSENT: ICU & Blood consents signed by HCP brother, [**Name (NI) 1706**], on
+   admission
+   #. ACCESS: PIV 20g x 2
+   #. DISPO: ICU
+   ICU Care
+   Nutrition:
+   Comments: NPO; IVF - > will initiate TF
+s with transition to PO intake
+   as mental status improves
+   Glycemic Control: Comments: Not needed currently
+   Lines:
+   20 Gauge - [**3151-12-15**] 03:46 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   Communication: Family meeting held , ICU consent signed
+   Code status: Full code
+   Disposition: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3151-12-15**] 03:44 PM
+   18 Gauge - [**3151-12-16**] 10:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

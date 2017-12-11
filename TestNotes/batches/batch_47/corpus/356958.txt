@@ -1,0 +1,167 @@
+Chief Complaint:
+   24 Hour Events:
+   - Discontinued Clinda per ID recommendations
+   - Pt switched to PS ventilation and tolerating well
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2583-1-6**] 07:59 PM
+   Piperacillin - [**2583-1-8**] 06:40 AM
+   Levofloxacin - [**2583-1-9**] 12:05 AM
+   Clindamycin - [**2583-1-9**] 03:26 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2583-1-9**] 06:09 AM
+   Infusions:
+   Midazolam (Versed) - 2 mg/hour
+   Fentanyl - 50 mcg/hour
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   KCl (CRRT) - 3 mEq./hour
+   Other ICU medications:
+   Midazolam (Versed) - [**2583-1-9**] 04:29 AM
+   Fentanyl - [**2583-1-9**] 04:29 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2583-1-9**] 06:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.4
+C (97.6
+   HR: 109 (99 - 111) bpm
+   BP: 112/43(66) {92/39(57) - 146/63(92)} mmHg
+   RR: 22 (16 - 36) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 62.7 kg (admission): 52.7 kg
+   Height: 60 Inch
+    CVP: 12 (9 - 26)mmHg
+   Bladder pressure: 30 (30 - 30) mmHg
+   Total In:
+                                                                  7,854 mL
+                                                                  2,181 mL
+   PO:
+   TF:
+   IVF:
+                                                                  6,512 mL
+                                                                  1,847 mL
+   Blood products:
+   Total out:
+                                                                 11,411 mL
+                                                                  2,512 mL
+   Urine:
+                                                                    368 mL
+                                                                    158 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,557 mL
+                                                                   -331 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 310 (310 - 310) mL
+   Vt (Spontaneous): 447 (368 - 590) mL
+   PS : 20 cmH2O
+   RR (Set): 32
+   RR (Spontaneous): 19
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 31 cmH2O
+   Plateau: 36 cmH2O
+   SpO2: 99%
+   ABG: 7.40/48/92.[**Numeric Identifier 125**]/30/3
+   Ve: 9.5 L/min
+   PaO2 / FiO2: 232
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   149 K/uL
+   9.1 g/dL
+   150 mg/dL
+   1.1 mg/dL
+   30 mEq/L
+   3.8 mEq/L
+   19 mg/dL
+   99 mEq/L
+   137 mEq/L
+   25.5 %
+   15.3 K/uL
+        [image002.jpg]
+                             [**2583-1-8**]  01:53 AM
+                             [**2583-1-8**]  07:54 AM
+                             [**2583-1-8**]  08:36 AM
+                             [**2583-1-8**]  02:11 PM
+                             [**2583-1-8**]  02:19 PM
+                             [**2583-1-8**]  03:58 PM
+                             [**2583-1-8**]  07:59 PM
+                             [**2583-1-8**]  08:45 PM
+                             [**2583-1-9**]  03:36 AM
+                             [**2583-1-9**]  03:51 AM
+   WBC
+   18.8
+   15.3
+   Hct
+   26.2
+   25.5
+   Plt
+   111
+   149
+   Cr
+   1.1
+   1.1
+   1.1
+   1.1
+   TCO2
+   33
+   32
+   32
+   30
+   31
+   31
+   Glucose
+   126
+   142
+   146
+   150
+   Other labs: PT / PTT / INR:13.2/26.5/1.1, ALT / AST:850/727, Alk Phos /
+   T Bili:188/0.8, Amylase / Lipase:55/19, Differential-Neuts:92.6 %,
+   Band:2.0 %, Lymph:3.5 %, Mono:2.2 %, Eos:1.5 %, Fibrinogen:674 mg/dL,
+   Lactic Acid:1.6 mmol/L, LDH:753 IU/L, Ca++:7.4 mg/dL, Mg++:1.5 mg/dL,
+   PO4:2.3 mg/dL
+   Assessment and Plan
+ ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name 11**])
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ PNEUMONIA, OTHER
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**2583-1-9**] 01:16 AM 50 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2583-1-1**] 10:40 PM
+   Dialysis Catheter - [**2583-1-5**] 08:00 PM
+   Arterial Line - [**2583-1-6**] 06:53 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

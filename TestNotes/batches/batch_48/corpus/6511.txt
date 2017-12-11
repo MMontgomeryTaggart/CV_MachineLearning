@@ -1,0 +1,393 @@
+Admission Date:  [**3253-5-30**]              Discharge Date:   [**3253-6-23**]
+
+Date of Birth:  [**3185-11-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 682**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+bronchoscopy
+pericardial window
+T12 biopsy
+
+
+History of Present Illness:
+67 y/o female with a h/o right breast cancer in [**3245**] (s/p
+surgery, chemo, xrt) who presented to [**Hospital1 34**] ED with progressive
+shortness of breath over a few days. Echo reportedly revealed
+cardiac tamponade. Also had CT at OSH which revealed a moderate
+pericardial effusion, mult. pulm nodules c/w metastatic disease,
+right hilar adenopathy, 1cm area left aspect of T6 vert. body
+(?mets), T11-12 ?mets, and possible right lobe liver mets. She
+was then transferred to [**Hospital1 18**] for treatment.
+
+Past Medical History:
+Breast Cancer s/p right beast lumpectomy [**3245**] with chemo and xrt
+for 5 years
+Hypertension
+Hypercholesterolemia
+Gastroesophageal Reflux Disease
+Cataract
+Osteoporosis
+s/p Hysterectomy
+
+Social History:
+Remote tobacco use. Denies ETOH use.
+
+Family History:
+Mother had diabetes and breast cancer. Father had Alzheimer's
+disease.
+No family history of premature CAD.
+
+Physical Exam:
+Neuro: A&O x 3, MAE, non-focal
+HEENT: EOMI, PERRL, NC/AT, Anicteric sclera, OP benign
+Neck: Supple, FROM -JVD, -lymphadenopathy, -carotid bruit
+Lungs: CTAB -w/r/r
+Cor: RRR -c/r/m/g
+Abd: Soft, NT/ND, +BS
+Ext: Warm, well-perfused, -c/c/e
+
+Pertinent Results:
+Admission Labs:
+[**3253-5-30**] 07:05PM BLOOD WBC-9.5# RBC-3.18* Hgb-9.9* Hct-27.6*#
+MCV-87 MCH-31.1 MCHC-35.8* RDW-13.9 Plt Ct-436#
+[**3253-5-30**] 07:05PM BLOOD Neuts-80.2* Lymphs-13.1* Monos-6.2
+Eos-0.3 Baso-0.1
+[**3253-5-30**] 07:05PM BLOOD PT-14.0* PTT-25.3 INR(PT)-1.2*
+[**3253-5-30**] 07:05PM BLOOD Plt Ct-436#
+[**3253-5-31**] 03:02AM BLOOD Fibrino-419*
+[**3253-6-1**] 04:00AM BLOOD Fibrino-375
+[**3253-6-16**] 07:24AM BLOOD Ret Aut-3.4*
+[**3253-5-30**] 07:05PM BLOOD Glucose-102 UreaN-18 Creat-0.9 Na-135
+K-4.2 Cl-100 HCO3-23 AnGap-16
+[**3253-5-30**] 07:05PM BLOOD CK(CPK)-39
+[**3253-6-3**] 07:00AM BLOOD CK(CPK)-70
+[**3253-6-4**] 07:10AM BLOOD ALT-20 AST-20 CK(CPK)-71 AlkPhos-69
+TotBili-0.7
+[**3253-5-30**] 07:05PM BLOOD cTropnT-<0.01
+[**3253-6-3**] 07:00AM BLOOD CK-MB-3 cTropnT-0.02*
+[**3253-6-3**] 07:42PM BLOOD CK-MB-2 cTropnT-<0.01
+[**3253-6-4**] 07:10AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3253-6-15**] 04:55AM BLOOD proBNP-[**Numeric Identifier 16636**]*
+[**3253-6-19**] 12:36AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3253-5-30**] 07:05PM BLOOD Calcium-9.2 Phos-3.4 Mg-2.5
+[**3253-5-31**] 03:02AM BLOOD Calcium-9.0 Phos-3.5 Mg-2.2
+[**3253-6-4**] 07:10AM BLOOD %HbA1c-6.1*
+[**3253-6-4**] 07:10AM BLOOD Triglyc-126 HDL-32 CHOL/HD-3.7 LDLcalc-62
+LDLmeas-67
+[**3253-6-12**] 07:00AM BLOOD TSH-1.9
+[**3253-6-3**] 07:00AM BLOOD CEA-13* CA27.29-43*
+[**3253-6-12**] 07:00AM BLOOD Vanco-25.1*
+[**3253-5-30**] 09:27PM BLOOD Type-ART pO2-130* pCO2-55* pH-7.29*
+calTCO2-28 Base XS-0 Intubat-INTUBATED Vent-CONTROLLED
+[**3253-5-30**] 07:20PM BLOOD Lactate-1.1
+[**3253-5-30**] 09:27PM BLOOD Hgb-8.5* calcHCT-26
+
+Reports:
+[**3253-5-30**] Echo: Large pericardial effusion with invagination of
+right atrial wall and no doppler signs of suggestive of
+tamponade effects. These ar early signs of pericardial
+tamponade. Post pericardial window, small effusion with normal
+biventricular systolic function.
+.
+[**3253-6-1**]: No pneumothorax.  Previously noted possible
+pneumothorax was
+likely artifact.  Worsening atelectasis of retrocardiac left
+lower lobe and a small left pleural effusion.  Right lung clear.
+
+.
+[**3253-6-4**] Liver: 1) No discrete hepatic lesion identified.  Biopsy
+therefore not performed. 2)  Right pleural effusion.
+.
+Bronchial Washing:
+Pleural Fluid: ATYPICAL. Rare atypical epithelioid cells -
+cannot exclude carcinoma; numerous pulmonary macrophages,
+bronchial epithelial cells, and squamous cells.
+Bronchial Brushing:
+Bronchial brush: NEGATIVE FOR MALIGNANT CELLS. Numerous
+bronchial epithelial cells, squamous cells, and some pulmonary
+macrophages.
+.
+[**3253-6-5**] MRI,MRA head/neck: 1.  Evolving subacute infarction in
+the left posterior cerebral artery territory.  Small regions of
+hemorrhagic transformation.
+2.  No aneurysm, significant stenosis, or occlusion of the major
+vessels of the head and neck.
+.
+[**3253-6-5**] MR thoracic spine:1.  Likely metastatic lesion in the
+right side of the T12 vertebral body extending into the pedicle
+and lamina, as well as extending into the epidural space.  No
+evidence of signal abnormality in the thoracic cord.
+2.  Areas of signal abnormality in the T3, T7, and T10 vertebral
+bodies are most consistent with hemangiomas when correlated with
+the bone scan and CT findings.
+3.  Bilateral kidney cysts.  Please correlate with abdominal
+imaging.
+4.  Incompletely visualized left-sided lung masses, and
+reference should also be made to the CT of the torso for further
+evaluation of these.
+.
+[**3253-6-10**] CT Chest:
+CT CHEST WITHOUT IV CONTRAST: Non-dependent loculated left
+pleural effusion has evolved in the interval. Another area of
+loculated effusion is seen anteriorly in the left lung as well.
+In the left lower lobe, there are multiple peripheral masses.
+These are unchanged from the prior study. One of these has a
+small calcification (3, 32). These measure up to 1.8 x 1.7 cm
+(3, 34). In the left upper lobe, there are two nodules measuring
+1.4 x 1.6 cm, and a larger mass measuring 2.1 x 2.6 cm (3, 16).
+New areas of ground-glass rounded opacities are seen in the
+right upper lobe (3, 24) measuring up to 11 mm in size. Multiple
+smaller nodules are seen bilaterally measuring 2-3 mm in size.
+Nodule in the right lower lobe measures 9 mm (3, 45). Large
+pericardial effusion is unchanged.
+Evaluation for mediastinal and hilar adenopathy is limited on
+this non- contrast study. No enlarged hilar nodes are seen.
+There is no pneumothorax.
+CT ABDOMEN: Evaluation of intra-abdominal organs is limited due
+to the lack of intravenous contrast. Given this limitation,
+there is no renal stone seen on either side. The spleen,
+gallbladder, pancreas, and loops of bowel are grossly normal. No
+enlarged retroperitoneal or mesenteric lymph nodes are present.
+Small areas of low density in the liver are incompletely
+characterized but present in the left [**Last Name (un) **] (6 mm [**3-/3197**]) and in
+the right lobe ([**3-/3200**] two small lesions and a small lesion on
+[**3-/3202**]). Small low density lesions in the interpolar region of the
+right kidney are simple cysts.
+CT PELVIS: The bladder is not distended. There is no free fluid
+in the pelvis. Sigmoid colon is collapsed.
+BONE WINDOWS: Destruction of the vertebral body at T12 is again
+noted, as seen on a recent thoracic MR study of [**3253-6-5**].
+REFORMATTED IMAGES: Multiplanar reformatted images in the
+coronal and sagittal planes confirm the above findings.
+IMPRESSION: Multiple pulmonary masses and nodules in this
+patient with prior history of breast cancer and destructive
+lesion of right T12 vertebral body extending into the foramen
+and spinal canal at this level.
+.
+[**3253-6-10**] Echo: Conclusions:
+Left ventricular wall thicknesses and cavity size are normal.
+Right
+ventricular chamber size and free wall motion are normal. There
+is a small to moderate sized circumferential pericardial
+effusion without evidence of
+hemodynamic compromise.
+.
+[**3253-6-11**] CT Head: FINDINGS:
+There is no evidence of acute intracranial hemorrhage.
+Evolving left posterior cerebral territory infarct, in the
+subacute stage, is noted with gyriform enhancement.
+No abnormal foci of enhancement are noted in the brain
+parenchyma elsewhere, to suggest metastatic disease. The
+visualized portions of the paranasal sinuses are clear.
+No osseous lytic or sclerotic lesions are noted.
+IMPRESSION:
+1. No acute intracranial hemorrhage.
+2. Evolving left PCA territory subacute infarct.
+.
+[**3253-6-12**] T12 biopsy:
+FNA, T12 Vertebral Body:
+POSITIVE FOR MALIGNANT CELLS, consistent with metastatic
+poorly-differentiated adenocarcinoma.
+.
+[**3253-6-19**] CXR: The right internal jugular line was inserted with
+its tip terminating about 1 cm below the cavoatrial junction.
+The heart size is enlarged due to known pericardial effusion,
+unchanged compared to the recent previous study. The left lower
+lobe atelectasis and known left upper lung masses and nodules
+are unchanged. The chronic left fourth rib fracture is again
+noted.
+
+
+
+
+Brief Hospital Course:
+Discharge Summary:
+# Pericardial Effusion: As mentioned in the HPI, Ms. [**Known patient lastname **] was
+transferred from OSH with a pericardial effusion. Upon admission
+she had an Echocardiogram which showed a large pericardial
+effusion with early tamponade physiology. She was then
+emergently taken to the operating room where she underwent a
+pericardial window. Please see operative report for surgical
+details. Following surgery she was transferred to the CSRU for
+invasive monitoring in stable condition. Within 24 hours she was
+weaned from sedation, awoke neurologically intact and extubated.
+On post-operative day one she required transfusion of pRBC d/t
+low HCT. She was started on beta blockers in the setting of new
+onset Atrial Flutter and gentle diuresis was initiated. Oncology
+was also consulted for possible metastatic disease vs primary
+lung cancer.  On post-op day three her chest tube was removed
+and she was transferred to the telemetry floor for further care.
+On post-operative day four she was transferred to the medical
+service for continued care.  Pericardial window tissue culture-
+no growth, cytology: No malignancy identified.  However, on CT
+Torso done on [**6-10**], pericardial effusion was noted and reported
+as unchanged.  A stat bedside echo was done which showed a small
+to moderate sized circumferential pericardial effusion without
+evidence of hemodynamic compromise.  Pulsus remained between
+[**8-22**] and she was monitored closely.  Repeat echocardiogram on
+[**6-16**] showed stable pericardial effusion.  No signs/symptoms of
+tamponade on exam.
+.
+# Metastases: On the medical floor, pt had an extensive work up
+of her metastatic disease without a known primary. The CT scans
+at the OSH show multiple metastic lesions in lungs,
+spine(T6/11/12), and small lesion in liver. The heme/onc service
+was consulted and recommended bone scan, tumor markers, and a
+biopsy of tissue for diagnosis. Pt had tumor markers checked -
+CA 27.29: 43, CEA: 13.  Pt had Bone scan [**3253-6-4**] which showed
+lesions in L1 vertebral body and right posterior 5th rib
+concerning for metastatic disease. She had an MR thoracic spine
+shows T 12 met which does not break into cord, no conus or cord
+involvement seen. The interventional pulmonology service was
+consulted and attempted a biopsy of her lung mass. However the
+pathology results were indeterminate.  Bronchial washings did
+show Rare atypical epithelioid cells - carcinoma could not be
+excluded. Interventional radiology was consulted for CT guided
+transthoracic biopsy, however, when the patient went down for
+the procedure she was noted to be tachycardic and had INR of
+1.5.  Due to risk of PTX in unstable patient, the procedure was
+deferred.  Imaging of the T spine was reviewed with
+Neuroradiology who felt that tissue could be obtained from the
+T12 lesion.  On [**6-12**], neuroradiology performed biopsy of T12
+lesion.  Tissue was sent for receptor staining.  Receptor
+staining did not reveal the primary.  Oncology was involved
+throughout and based on the patient's other illnesses there were
+no available treatment options.  A family meeting was held on
+[**3253-6-19**] to discuss goals of care.  The patient was made DNR/DNI
+and expressed that she would like to be moved to a nursing home
+facility/hospice for further care.  Palliative care has also
+been involved while in house.
+.
+# s/p CVA: On the medical floor, pt was noted to have visual
+field defects. Pt had a CT of her head with a subacute infarct
+in the region of PCA- 4x6cm left occipital lobe. No metastasis
+were noted on CT.  The neurology service was consulted and
+recommended MRI/MRA of her head which showed vessels in the neck
+without stenoses, subacute infarct again visualized in region of
+PCA.  Pt had had recent TEE without signs of endocarditis and a
+repeat TTE which did not show clots. Pt had a lipid panel which
+showed LDL <70 without medications, ASA 325mg was continued.
+The issue of anticoagulation came up with regard to atrial
+fibrillation as well as discovery of segmental PEs.  A repeat CT
+head showed no acute intracranial hemorrhage and an evolving
+left PCA territory subacute infarct.  Per neurology
+recommendations, heparin gtt was started with low goal and close
+monitoring of mental status.  Neuro exam remained unchanged.
+
+# Optic neuropathy: Ophthalmology service was also consulted,
+possible retinal metastasis was visualized and it was determined
+that pt needed further retinal evaluation.  She was seen in
+house by Ophthomology.  An MRI orbit was done.  Report attached.
+.
+# C. diff: With regard to her C.difficile colitis- pt was
+initially continued on Flagyl, however, her white count
+continued to trend up. PO Vancomycin was added to her antibiotic
+regimen and her white count remained stable.  Diarrhea improved
+on abx.  Antibiotics were continued for C. diff as she remained
+on abx for pneumonia.
+.
+# Atrial fibrillation: With regard to her paroxysmal atrial
+fibrillation she had episodes of RVR in the 140's. She was
+initally rate controlled with Metoprolol but continued to have
+episodes. PO diltiazem was added to her regimen.  On [**6-10**], she
+was started on a diltiazem drip with minimal improvement in
+rate.  Cardiology was consulted on [**6-11**] and recommended starting
+amiodarone drip.  She converted to normal sinus rhythm on [**6-11**].
+Medications were changed to PO.  She remained on PO amiodarone
+(weaned from 400 [**Hospital1 **] to 200 [**Hospital1 **]) and beta blockers (weaned to
+25mg TID [**2-14**] low BP) with heart rates in the 100s-110s.  She was
+asymptomatic with rapid heart rates.
+.
+# Pleural effusion: With regard to her Left pleural effusion-
+lasix IV prn was used for diuresis.  She underwent thoracentesis
+in an effort to help tachypnea - but removing fluid did not
+improve RR or O2 sat.  She continued to require 4-5L O2.
+
+# PNA: Due to some fevers and elevated white count, there was
+concern for PNA.  Ground glass opacities were seen in RUL
+representing possible infection so she was started on
+Zosyn/Vancomycin, switched to Unasyn from Zosyn on [**6-12**].
+
+
+Medications on Admission:
+Atenolol 50mg qd, Protonix 40mg qd, HCTZ 25mg qd, Zocor 20mg qd
+
+Discharge Medications:
+1. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**1-14**] Sprays Nasal
+PRN (as needed).
+2. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+3. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q 2 HR PRN ().
+4. Morphine 10 mg/5 mL Solution Sig: 2.5-10 mg PO Q 2 HR PRN ().
+
+5. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+6. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed.
+7. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+9. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+10. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+11. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+neb Inhalation Q6H (every 6 hours) as needed.
+12. Vancomycin 250 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 576**] at Silver [**Doctor Last Name **] Commons
+
+Discharge Diagnosis:
+Metastatic carcinoma of unknown primary
+Atrial fibrillation with RVR
+Pericardial effusion with tamponade physiology
+C. Diff colitis
+Hospital acquired pneumonia
+Pulmonary embolus
+Oliguria
+Subacute CVA
+Pleural effusions
+Dyslipidemia
+
+
+Discharge Condition:
+Tachypneic.  HR 110s-120s.  O2sat 96-98% on 5L.
+
+
+Discharge Instructions:
+You were admitted to the hospital with pericardial tamponade
+which was relieved with surgery.  Metastatic lesions were found
+on CT scan and an extensive work up was done to determine where
+the primary site was, however no primary malignancy was found.
+You will be discharged to hospice care.
+
+You completed a 10 day course of IV antibiotics for possible
+pneumonia.
+
+Please take all medications as prescribed and given to you by
+the nursing facility.
+
+
+Followup Instructions:
+As determined by skilled nursing facility
+
+
+
+
+
+DOC CLASS

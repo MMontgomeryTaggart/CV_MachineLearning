@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="654725.txt">
+    <annotation>
+        <mention id="EHOST_Instance_310" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="6969" end="6997" />
+        <spannedText>active upper/lower GI bleeds</spannedText>
+        <creationDate>Wed Nov 01 09:08:05 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_325">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_310">
+        <hasSlotMention id="EHOST_Instance_325" />
+        <mentionClass id="bleeding_present">active upper/lower GI bleeds</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_311" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="7258" end="7282" />
+        <spannedText>bloody gastric materials</spannedText>
+        <creationDate>Wed Nov 01 09:08:16 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_326">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_311">
+        <hasSlotMention id="EHOST_Instance_326" />
+        <mentionClass id="bleeding_present">bloody gastric materials</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_312" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="7286" end="7330" />
+        <spannedText>bloody/brown secretions coming from mouth</spannedText>
+        <creationDate>Wed Nov 01 09:08:20 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_327">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_312">
+        <hasSlotMention id="EHOST_Instance_327" />
+        <mentionClass id="bleeding_present">bloody/brown secretions coming from mouth</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_313" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="7390" end="7420" />
+        <spannedText>possibility is pulm hemorrhage</spannedText>
+        <creationDate>Wed Nov 01 09:08:25 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_328">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_313">
+        <hasSlotMention id="EHOST_Instance_328" />
+        <mentionClass id="bleeding_present">possibility is pulm hemorrhage</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_314" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9071" end="9081" />
+        <spannedText># GI bleed</spannedText>
+        <creationDate>Wed Nov 01 09:08:39 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_329">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_314">
+        <hasSlotMention id="EHOST_Instance_329" />
+        <mentionClass id="bleeding_present"># GI bleed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_315" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9190" end="9220" />
+        <spannedText>with blood around her mouth</spannedText>
+        <creationDate>Wed Nov 01 09:08:47 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_330">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_315">
+        <hasSlotMention id="EHOST_Instance_330" />
+        <mentionClass id="bleeding_present">with blood around her mouth</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_316" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9236" end="9241" />
+        <spannedText>BRBPR</spannedText>
+        <creationDate>Wed Nov 01 09:08:51 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_331">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_316">
+        <hasSlotMention id="EHOST_Instance_331" />
+        <mentionClass id="bleeding_present">BRBPR</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_317" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9341" end="9372" />
+        <spannedText>no active source of bleeding</spannedText>
+        <creationDate>Wed Nov 01 09:08:58 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_332">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_317">
+        <hasSlotMention id="EHOST_Instance_332" />
+        <mentionClass id="bleeding_absent">no active source of bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_318" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9379" end="9400" />
+        <spannedText>not actively bleeding</spannedText>
+        <creationDate>Wed Nov 01 09:09:00 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_333">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_318">
+        <hasSlotMention id="EHOST_Instance_333" />
+        <mentionClass id="bleeding_absent">not actively bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_319" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9412" end="9428" />
+        <spannedText>guaiac pos stool</spannedText>
+        <creationDate>Wed Nov 01 09:09:02 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_334">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_319">
+        <hasSlotMention id="EHOST_Instance_334" />
+        <mentionClass id="bleeding_present">guaiac pos stool</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_320" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9935" end="9950" />
+        <spannedText>due to GI bleed</spannedText>
+        <creationDate>Wed Nov 01 09:09:08 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_335">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_320">
+        <hasSlotMention id="EHOST_Instance_335" />
+        <mentionClass id="bleeding_present">due to GI bleed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_321" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9976" end="9991" />
+        <spannedText>due to GI bleed</spannedText>
+        <creationDate>Wed Nov 01 09:09:10 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_336">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_321">
+        <hasSlotMention id="EHOST_Instance_336" />
+        <mentionClass id="bleeding_present">due to GI bleed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_322" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="9716" end="9724" />
+        <spannedText>GI bleed</spannedText>
+        <creationDate>Wed Nov 01 09:09:15 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_337">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_322">
+        <hasSlotMention id="EHOST_Instance_337" />
+        <mentionClass id="bleeding_present">GI bleed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_323" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="10414" end="10429" />
+        <spannedText>active GI bleed</spannedText>
+        <creationDate>Wed Nov 01 09:09:21 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_338">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_323">
+        <hasSlotMention id="EHOST_Instance_338" />
+        <mentionClass id="bleeding_present">active GI bleed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_324" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="11533" end="11542" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Wed Nov 01 09:09:31 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_339">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_340">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="present" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_324">
+        <hasSlotMention id="EHOST_Instance_339" />
+        <hasSlotMention id="EHOST_Instance_340" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

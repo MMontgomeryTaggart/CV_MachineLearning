@@ -1,0 +1,190 @@
+SICU
+   HPI:
+   HD7   POD 6-s/p aorto-[**Hospital1 **]-iliac graft repair of AAA
+   Ejection Fraction:60
+   Pre-Op Weight:239.86 lbs   108.8 kgs
+   Baseline Creatinine:1.4
+   TLD:rt IJ-PA:Day7
+   Foley:Day7
+   PMH: hypertension, hyperlipidemia, diabetes type 2, chronic renal
+   insufficency - atretic right kidney,severe COPD, morbid near-massive
+   obesity, smoker x50yrs, 8cm AAA, 5cm right common iliac artery
+   aneurysm, left common iliac aneurysm just under 3 cm
+   PSH: Lft renal artery stent [**3-7**], back surgery/[**3441**]
+   (cath [**3454-11-3**]- clean coronaries)
+   [**Last Name (un) **]: ATENOLOL 25', FUROSEMIDE 20', LISINOPRIL 10', LORAZEPAM 1',
+   METFORMIN 850", PAROXETINE 20', CRESTOR 20', ASPIRIN 81'
+   Current medications:
+   Acetaminophen, Albuterol Inhaler, Aspirin, Ciprofloxacin, Esmolol,
+   Fentanyl Citrate, Heparin, HydrALAzine, Insulin, Ipratropium Bromide
+   MDI, MetRONIDAZOLE, Midazolam, Pantoprazole, Paroxetine, Rosuvastatin
+   24 Hour Events:
+   Remains in ICU intubated and sedated, continue with ATN with Cr 3.8
+   On and off esmolol and NTG for b/p and heart rate management
+   TPN for nutrition
+   Tolerated CPAP and weaning of vent
+ SPUTUM CULTURE - At [**3454-11-12**] 12:16 PM
+   Allergies:
+   Chromium
+   dropped blood s
+   Last dose of Antibiotics:
+   Cefazolin - [**3454-11-10**] 11:12 AM
+   Ciprofloxacin - [**3454-11-12**] 12:30 PM
+   Infusions:
+   Midazolam (Versed) - 0.5 mg/hour
+   Fentanyl (Concentrate) - 75 mcg/hour
+   Esmolol - 25 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3454-11-12**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**3454-11-13**] 04:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3454-11-13**] 11:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**56**] a.m.
+   Tmax: 37.9
+C (100.3
+   T current: 36.7
+C (98.1
+   HR: 85 (77 - 86) bpm
+   BP: 123/56(74) {91/46(59) - 148/68(95)} mmHg
+   RR: 10 (7 - 15) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 119.6 kg (admission): 109.1 kg
+   Height: 72 Inch
+   CVP: 17 (13 - 175) mmHg
+   Total In:
+                                                                  2,113 mL
+                                                                    839 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  1,075 mL
+                                                                    272 mL
+   Blood products:
+   Total out:
+                                                                  2,355 mL
+                                                                  1,080 mL
+   Urine:
+                                                                  1,855 mL
+                                                                    880 mL
+   NG:
+                                                                    500 mL
+                                                                    200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -242 mL
+                                                                   -241 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV+ApnPres
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 816 (720 - 840) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 8
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 21
+   PIP: 28 cmH2O
+   SPO2: 98%
+   ABG: 7.30/52/108/24/-1
+   Ve: 8.4 L/min
+   PaO2 / FiO2: 216
+   Physical Examination
+   Labs / Radiology
+   164 K/uL
+   9.7 g/dL
+   163 mg/dL
+   4.1 mg/dL
+   24 mEq/L
+   4.2 mEq/L
+   64 mg/dL
+   108 mEq/L
+   142 mEq/L
+   29.0 %
+   8.3 K/uL
+        [image002.jpg]
+                            [**3454-11-12**]  03:02 AM
+                            [**3454-11-12**]  03:11 AM
+                            [**3454-11-12**]  10:11 AM
+                            [**3454-11-12**]  03:19 PM
+                            [**3454-11-12**]  03:31 PM
+                            [**3454-11-12**]  09:50 PM
+                            [**3454-11-13**]  02:57 AM
+                            [**3454-11-13**]  03:08 AM
+                            [**3454-11-13**]  06:23 AM
+                            [**3454-11-13**]  10:43 AM
+   WBC
+   7.6
+   8.3
+   Hct
+   28.3
+   27.9
+   29.0
+   Plt
+   125
+   164
+   Creatinine
+   3.8
+   3.8
+   4.1
+   TCO2
+   26
+   24
+   28
+   28
+   27
+   24
+   27
+   Glucose
+   155
+   163
+   Other labs: PT / PTT / INR:12.4/29.8/1.0, ALT / AST:5/208, Alk-Phos / T
+   bili:61/0.5, Amylase / Lipase:82/120, Differential-Neuts:87.9 %,
+   Lymph:7.5 %, Mono:4.4 %, Eos:0.1 %, Fibrinogen:146 mg/dL, Lactic
+   Acid:0.7 mmol/L, Albumin:2.6 g/dL, LDH:553 IU/L, Ca:8.5 mg/dL, Mg:2.7
+   mg/dL, PO4:5.0 mg/dL
+   Assessment and Plan
+   AORTIC ANEURYSM, ABDOMINAL WITHOUT RUPTURE (AAA), PAIN CONTROL (ACUTE
+   PAIN, CHRONIC PAIN)
+   Assessment and Plan:
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   TPN without Lipids - [**3454-11-12**] 04:02 PM 42 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol
+   Lines:
+   Arterial Line - [**3454-11-7**] 03:34 PM
+   Multi Lumen - [**3454-11-11**] 11:45 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+   Patient is critically ill
+
+
+DOC CLASS

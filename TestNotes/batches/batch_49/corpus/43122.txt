@@ -1,0 +1,367 @@
+Admission Date:  [**3478-8-4**]              Discharge Date:   [**3478-8-8**]
+
+Date of Birth:  [**3424-1-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1224**]
+Chief Complaint:
+epigastric/back pain, and nausea/vomiting
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization with bare metal stent to the diagonal
+artery
+
+
+History of Present Illness:
+Ms. [**Known patient lastname **] is a 54 yo F with HIV and Bipolar Disorder who
+presented to the [**Hospital1 4**] ED with epigastric/back pain, and
+nausea/vomiting.
+.
+The pt states she initially had N/V yesterday around 11 am. She
+continued to have nausea into today, but then at 2 pm she
+started to get severe [**11-10**] pain that felt like it would
+"explode" in her back which radiated to her epigastrium. She
+tried a lidocaine patch, percocet, and icy hot, but none of that
+helped. The pain started to radiate to her jaw and neck.
+Associated with the pain, the pt states she had tightness with
+her breathing and diaphoresis.
+Her vitals in the ED upon arrival were: T
+After she arrived, she was found to have concerning changes on
+EKG (ST elevations in V5 and V6 with reciprocal changes in the
+inferior leads (II, III, avF) for a STEMI. The ED started a
+heparin drip, integrillin, ASA 325 mg PO, and 5 mg of IV
+metoprolol x 1. She was loaded with 600 mg of plavix, and was
+sent to the cath lab.
+.
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. S/he denies recent fevers, chills or
+rigors. S/he denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+.
+
+
+Past Medical History:
+- HIV - diagnosed in [**3456**], most recent CD4 count 488 in [**Month (only) 89**]
+[**3477**]
+- Bipolar disorder
+- Fibromyalgia x 20 yrs
+- Secondary Cushings--[**3-5**] steroid injection ([**4-8**])
+- Scoliosis
+- Cervical radiculopathy
+- Gastric ulcers
+- Hiatal hernia
+- Seasonal allergies
+- Uterine fibroids
+- Abnormal PAP smears
+- s/p tubal ligation [**3451**]
+- s/p lumpectomy [**3442**]
+- history of syphillis
+- history of varicella
+- history of peri-rectal HSV2
+
+Social History:
+Immigrated to US in [**3455**] from [**Male First Name (un) 616**] and has lived in the
+[**Location (un) 100**] area since then.  She does not use EtOH, illicit drugs,
+or tobacco.
+.
+Per previous d/c summary [**3477-5-9**]:
+The patient lives with her son and partner in [**Location (un) 953**]. Per
+OMR, partner is apparently HIV positive and has a lot of health
+issues. Patient used to be very involved in HIV community
+outreach work but not anymore, which she believes is
+due to depression.  She is currently not married.  She has been
+married twice in the past.  Her first husband was HIV positive
+and they were diagnosed at the same time.  He was an IV drug
+abuser.  Her second husband was also HIV positive, who committed
+suicide in [**3472**]. She has a GED.
+
+
+Family History:
+Father had prostate CA, Mother- cervical CA
+Two brothers with AIDS
+Grandmother had DM, HTN
+Son with bipolar disorder, daughter with schizophrenia
+
+Physical Exam:
+VS: T=96.9 BP=129/80 HR=93 RR= 25 O2 sat= 97% on
+GENERAL: WDWN F in NAD. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 6 cm.
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills. No S3 or S4.
+LUNGS: No chest wall deformities. Resp were unlabored, no
+accessory muscle use. CTAB, no crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: radial 2+ Femoral 2+ DP 2+ PT 2+
+Left: radial 2+ Femoral 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**3478-8-8**] 06:10AM BLOOD WBC-7.8 RBC-3.92* Hgb-11.4* Hct-33.4*
+MCV-85 MCH-29.0 MCHC-34.0 RDW-16.6* Plt Ct-221
+[**3478-8-8**] 06:10AM BLOOD Glucose-97 UreaN-12 Creat-1.0 Na-142
+K-4.1 Cl-101 HCO3-29 AnGap-16
+[**3478-8-7**] 02:15AM BLOOD CK(CPK)-397*
+[**3478-8-6**] 05:38PM BLOOD CK(CPK)-506*
+[**3478-8-6**] 05:38PM BLOOD CK(CPK)-506*
+[**3478-8-4**] 10:28PM BLOOD CK(CPK)-2871*
+[**3478-8-6**] 05:38PM BLOOD CK-MB-7 cTropnT-2.55*
+[**3478-8-8**] 06:10AM BLOOD Calcium-9.8 Phos-4.5 Mg-2.0
+[**3478-8-6**] 05:27AM BLOOD %HbA1c-5.8 eAG-120
+.
+Cardiac catheterization [**3478-8-4**]:
+COMMENTS:
+1. Coronary angiography in this right dominant system
+demonstrated
+single and branch vessel CAD. The LMCA was patent. The LAD had a
+distal
+tubular 70% stenosis. There was a thrombotic total occlusion in
+a large
+proximal first diagonal branch with few collaterals from the
+RCA. The
+LCx was small without obstructive disease. The RCA had minimal
+disease.
+2. Limited resting hemodynamics revealed elevated left sided
+filling
+pressures with an LVEDP of 32 mmHg. There was mild systemic
+arterial
+systolic hypertension with an SBP of 140 mmHg.
+3. There was no pressure gradient on left heart pullback from
+left
+ventricle to ascending aorta to suggest aortic stenosis.
+4. Successful PTCA and stenting of D1 with a 2.5x23 mm Mini
+Vision bare
+metal stent which was postdilated with a 2.5x20mm NC quantum
+balloon.
+5. Successful closure of right femoral arteriotomy with 6F
+angioseal.
+
+FINAL DIAGNOSIS:
+1. Single and branch vessel CAD with STEMI due to D1 occlusion.
+2. Left ventricular diastolic dysfunction.
+3. Successful PCI of D1 with bare metal stent.
+4. Successful deployment of 6F angioseal at right femoral
+arteriotomy.
+.
+ECHO [**3478-8-6**]:
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. There is mild regional left ventricular systolic
+dysfunction with mid anterior/anterolateral hypokinesis. Right
+ventricular chamber size and free wall motion are normal. The
+aortic arch is mildly dilated. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic regurgitation. The mitral valve appears structurally
+normal with trivial mitral regurgitation. The estimated
+pulmonary artery systolic pressure is normal. There is no
+pericardial effusion.
+.
+ECG [**3478-8-8**]:
+Sinus rhythm. There is an early transition which is
+non-specific. Compared to the previous tracing there is no
+signifciant change.
+
+
+Brief Hospital Course:
+ASSESSMENT AND PLAN:
+54yoF with h/o HIV, fibromyalgia/spinal scoliosis and chronic
+pain who presented today to the [**Hospital1 4**] ED with a cc of nausea and
+vomiting. She was found to have + cardiac enzymes in the ED with
+ST elevations on EKG and is now s/p cardiac catheterization.
+.
+# STEMI/CAD: Pt with no previous CAD hx presents with STEMI now
+s/p cath. The pt was Plavix loaded with 300 mg, was given ASA
+325 mg, as well as a high dose statin, metoprolol 5 mg IV x 1,
+SLNTG, Integrillin. ASA 325 mg po daily and Plavix 75 mg po
+daily were continued throughout admission. Atorvastatin was
+decreased to 40 mg po QHS as HAART affects the cytP450 that
+metabolizes statins. She had an episode of CP responsive to SLNG
+and morphine after cath. She also had chest pain that varied
+with position and inpiration that responded to indomethacin;
+however, no pericardial effusion noted on Echo. She was started
+on metoprolol tartrate 12.5mg [**Hospital1 **], which was titrated up to 25mg
+[**Hospital1 **], and she was discharged on 50mg of metoprolol succinate.
+However, while she was bale to tolerate BBlockade well, her
+SBPs, which were in the 90s, did not tolerate addition of an
+ACEi. Pt developed a small inguinal hematoma after cath. Hct was
+closely followed. She received 1 unit pRBCs after which her
+Hct/Hgb bumped appropriately and was stable throughout the rest
+of admission.
+.
+# PUMP: Pt has no prior Dx of CHF. Echo showed EF 45-50% and
+mild regional LV systolic dysfunction. BBlocker started as noted
+above. ACEi held as noted above.
+.
+# RHYTHM: Pt monitored on tele throughout hospital stay. No
+arrhythmia noted.
+.
+# HIV: Home HAART regimen continued throughout admission:
+Lopinavir-Ritonavir 200-50 mg [**Hospital1 **] and Emtricitabine-Tenofovir
+200-300 mg daily. Last known CD4 is 488 from [**3477-7-2**].
+Atorvastatin dose adjusted as noted above.
+.
+# Gastric Ulcers: Pt is on omeprazole at home. Pt was initially
+started on pantoprazole 40 mg IV BID for now. She was switched
+to po ranitidine given the potential interaction between Plavix
+and PPIs.
+.
+# Bipolar Disorder: Home sertraline and bupropion continued
+throughout admission.
+
+
+Medications on Admission:
+Bupropion HCl 200 mg Sustained Release PO BID
+2. Emtricitabine-Tenofovir (Truvada) 200-300 mg Daily
+3. Darunavir (Prezista) 400 mg tabs, 2 tabs PO daily
+4. Ritonavir 100 mg PO daily
+5. Lamotrigine 200 mg PO QHS
+6. Lidoderm 5 %(700 mg/patch) Q24H
+7. Levothyroxine 25 mcg PO daily
+8. Lorazepam 1 mg PO HS
+9. Pregabalin 100 mg PO BID
+10. Promethazine 12.5 mg TID with meals
+11. Omeprazole 20 mg PO daily
+12. Sertraline 200 mg Daily
+13. Zolpidem 10 mg PO HS
+14. Oxycodone 10 mg PO BID
+15. Loratadine 10 mg PO daily
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 1 weeks: Then decrease to one tablet daily. Do not stop
+taking or miss [**First Name (Titles) 839**] [**Last Name (Titles) 838**] unless Dr. [**Last Name (STitle) 840**] tells you to. .
+Disp:*37 Tablet(s)* Refills:*2*
+3. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain:
+Take 5 minutes apart for chest pain, do not take more than 3
+tablets at one time!!!.
+Disp:*25 Tablet, Sublingual(s)* Refills:*0*
+4. Bupropion HCl 100 mg Tablet Sustained Release Sig: Two (2)
+Tablet Sustained Release PO BID (2 times a day).
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+6. Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet
+PO DAILY (Daily).
+7. Darunavir 400 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+8. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+9. Lamotrigine 100 mg Tablet Sig: Two (2) Tablet PO at bedtime.
+
+10. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+11. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for anxiety.
+13. Pregabalin 100 mg Capsule Sig: One (1) Capsule PO twice a
+day.
+14. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+15. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+16. Promethazine 25 mg Tablet Sig: 0.5 Tablet PO TID W/MEALS (3
+TIMES A DAY WITH MEALS).
+17. Zolpidem 10 mg Tablet Sig: One (1) Tablet PO once a day as
+needed for insomnia.
+18. Oxycodone 10 mg Tablet Sig: One (1) Tablet PO twice a day.
+19. Loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+20. Sertraline 100 mg Tablet Sig: Two (2) Tablet PO once a day.
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 100**] VNA
+
+Discharge Diagnosis:
+ST Elevation Myocardial Infarction
+HIV
+Bipolar disorder
+Fibromyalgia
+Pericarditis
+Anemia
+Thrombocytopenia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You had a heart attack and needed a cardiac catheterization and
+a bare metal stent to open a clogged artery. It is extremely
+important that you take Plavix every day for at least one month
+to prevent the stent from clotting off and causing another heart
+attack. You will take 2 tablets of Plavix every day for one
+week, then decrease to one tablet daily. Do not stop taking
+Plavix unless Dr. [**Last Name (STitle) 840**] tells you to, even if you have bleeding.
+You will also need to be on the following medicines to help your
+heart recover from the heart attack. These medicines are:
+1. Aspirin, enteric coated, 325 mg daily to take with the
+Plavix. Do not stop taking this medicine unless Dr. [**Last Name (STitle) 840**] tells
+you it is OK.
+2. Metoprolol to slow your heart rate and help your heart
+recover
+3. Atorvastatin to help prevent further blockages in your
+arteries. You will need to have liver function tests in 6 weeks
+and every 6 months to make sure it is not affecting your liver.
+4. Plavix: as noted above
+5. Nitroglycerin tablets to take under your tongue if your chest
+pain that brought you to the hospital returns. Sit down, take
+one tablet under your tongue and wait 5 minutes. If you still
+have chest pain you can take one more tablet but pls call 911 so
+you can get to the hospital.
+6. Stop taking Omeprazole, it interferes with Plavix.
+.
+You will see Dr. [**Last Name (STitle) 840**] in 5 weeks and will probably have a
+stress test to see if the other blocked heart artery needs to be
+fixed as well. You should continue taking your other medicines
+as before.
+
+Followup Instructions:
+Dr [**Last Name (STitle) 18827**]
+[**University/College 18828**]
+[**Location (un) 953**], [**Numeric Identifier 18829**]
+Phone: ([**Telephone/Fax (1) 18830**]
+Fax: ([**Telephone/Fax (1) 18831**]
+[**8-22**] at 3pm
+The office will try to get you an earlier appt and will call you
+at home.
+.
+Department: CARDIAC SERVICES
+When: TUESDAY [**3478-9-17**] at 9:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 113**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+
+
+Completed by:[**3478-8-14**]
+
+DOC CLASS

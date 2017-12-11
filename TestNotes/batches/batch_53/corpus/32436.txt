@@ -1,0 +1,640 @@
+Admission Date:  [**2903-11-5**]              Discharge Date:   [**2903-12-13**]
+
+Date of Birth:  [**2828-4-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sotalol / Lidocaine
+
+Attending:[**First Name3 (LF) 1735**]
+Chief Complaint:
+Shortness of breath, Bilateral arm pain and palpitations
+
+
+Major Surgical or Invasive Procedure:
+Peripheral arterial Catheterization
+Left brachial artery exploration and thrombus removal
+Left Lung thoracentesis
+
+
+History of Present Illness:
+Patient is a 75 year old female who presented to an outside
+hospital on [**2903-11-3**] with complaints of feeling her heart
+racing and pain running down both arms for about 1-2 hours prior
+to admission. She had associated nausea and vomiting at that
+time, and mild shortness of breath. She denied any chest pain,
+fevers, chills, back pain, abdominal pain, or diaphoresis. Her
+son had called 911 and en route to the hospital, she was given
+sublingual nitroglycerine x1 with good effect. Upon arrival to
+the emergency room she was found to be in atrial fibbrilation
+with rapid ventricular response to 153bpm. EKG was reported to
+have no ST segment elevations, but was notable for ST segment
+changes consistant with digitalis in the inferior leads.
+Patient's chest X-ray showed increased vascular markings
+consistant with congestive heart failure. She was given 325mg of
+ASA and dosed with Cardizem drip. Total CK was normal at 25,
+Troponin I of 0.1, BNP of 647. She was started on a heparin drip
+and admitted.
+
+During her admission, she developed some ST elevation which was
+thought to be related to demand ischemia. Her heart rate was
+well controlled on the Cardizem drip and she was loaded with
+digoxin. On [**11-5**] she developed a white count of 22.5k and
+worsening renal function (Creat 0.8->2.1), and steadly
+increasing tropoins (0.1 -> 1.75 -> 2.37 -> 2.53). Urinalysis
+showed brown granular casts with + blood, 10-25 WBCs and 2+
+bacteria for which she was given one dose of Levoquin 500mg on
+day of transfer. Echocardiogram showed an EF of 20% with all
+segments being akinetic except the base and inferior-lateral
+wall. She had a normal ECHO on [**2901-3-25**].  On day prior to
+admission at [**Hospital1 22**], patient was developing worsening renal
+failure, increasing O2 requirement, and impression was for
+cardiogenic shock.  She was started on dopamine and transfered
+to [**Hospital1 22**] for further management of her condition on [**2903-11-5**].
+.
+On review of symptoms, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, myalgias, joint
+pains, cough, hemoptysis, black stools or red stools. She denies
+recent fevers, chills or rigors. She denies exertional buttock
+or calf pain. All of the other review of systems were negative.
+
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, syncope or presyncope.
+
+
+Past Medical History:
+1. Afib with rapid ventricular response in [**2899**] - on digoxin,
+coumadin, lopressor
+2. COPD
+3. GERD s/p esophegeal dilitation in [**2901**]
+4. Alcoholic Hepatitis
+5. ? of MI 2 years ago
+
+
+Social History:
+Patient is a widowed female who lives with her son [**Name (NI) **]. She is
+capiable of performing her ADL at home.  Social history is
+significant for the absence of current tobacco use (quit 10
+years ago). She drinks 8-10 beers per day.
+
+Family History:
+Her father had a history of heart disease that started in his
+60s of unknown eitology. Her mother had CAD in her 70s and
+survived until her 90s.
+
+
+Physical Exam:
+VS: T 95.8, BP 92/38 , HR 94 , RR 21 , O2 94 % on NRB
+Gen: Elderly female in NAD, Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with JVP of [**7-1**] cm.
+CV: RR, normal S1, S2. No S4, no S3.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were labored using accessory muscles. Wheezes anteriorly,
+crackles at bases.
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Ext: No c/c/e. No femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 1+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 1+ DP
+
+
+Pertinent Results:
+ECHO [**2903-11-5**]:
+1. Severely depressed left ventricular systolic function
+consistent with Takotsubo type of cardiomyopathy with severe
+hypokinesis/akinesis of the mid to apical left ventricle.
+Elevated filling pressures.
+2. Apical thrombus maybe present.
+3. Apical to mid severe hypokinesis/akinesis of the RV.
+4. Small to moderate anterior echodense pericardial effusion.
+Echocardiographic signs of tamponade may be absent in the
+presence of elevated right sided pressures.
+5. Mild to moderate MR.
+6. Moderate TR.
+7. Moderate elevations of estimated pulmonary artery systolic
+pressure.
+
+ECHO [**2903-11-7**]:
+The right atrial pressure is indeterminate. Left ventricular
+wall thicknesses and cavity size are normal. There is moderate
+to severe regional left ventricular systolic dysfunction with
+near akinesis of the distal half of the inferior wall, septum
+and anterior wall. The apex is mildly aneurysmal and akinetic.
+The basal segments contract best (LVEF = 25 %). No masses or
+thrombi are seen in the left ventricle. The right ventricular
+cavity is mildly dilated. There is focal akinesis of the apical
+half of the free wall. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve appears structurally normal with
+trivial mitral regurgitation. Mild (1+) mitral regurgitation is
+seen. There is mild pulmonary artery systolic hypertension.
+There is an anterior space which most likely represents a fat
+pad.
+
+Compared with the prior study (images reviewed) of [**2903-11-5**],
+the severity of mitral and tricuspid regurgitation are now
+reduced. Biventricular systolic function is similar. These
+findings are most c/w coronary artery disease (mid-LAD
+infarction).
+The previously noted pericardial effusion is likely epicardial
+fat. No intraventricular thrombus is seen on review of the prior
+study.
+
+ECHO [**2903-11-20**]:
+The left atrium is normal in size. The right atrial pressure is
+indeterminate. Left ventricular wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%) Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. The right ventricular cavity is
+dilated. Right ventricular systolic function is borderline
+normal. [Intrinsic right ventricular systolic function is likely
+more depressed given the severity of tricuspid regurgitation.]
+There are three aortic valve leaflets. The aortic valve leaflets
+are mildly thickened. There is no aortic valve stenosis. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is moderate thickening of the mitral
+valve chordae. Moderate (2+) mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. Severe [4+]
+tricuspid regurgitation is seen. There is moderate to severe
+pulmonary artery systolic hypertension. There is an echo dense
+mass adherent to the apical visceral pericardium that may
+represent hematoma (was not apparent in the prior study). There
+is a small pericardial effusion. The pericardium may be
+thickened. There are no echocardiographic signs of tamponade.
+Echocardiographic signs of tamponade may be absent in the
+presence of elevated right sided pressures.
+
+Compared with the prior study (images reviewed) of [**2903-11-7**],
+left ventricular systolic function appears markedly improved
+(consistent with possible stress induced (Takotsubo)
+cardiomyopathy). Tricuspid regurgitation is now more prominent.
+Estimated pulmonary artery systolic pressure is now much higher
+(raising concern for a possible intercurrent process such as
+pulmonary embolus).
+
+CTA [**2903-11-25**]:
+1.  No evidence of pulmonary embolism.
+2.  Large bilateral pleural effusions with associated bibasilar
+atelectasis.
+3.  [**Hospital1 8**]-apical scarring.
+4.  5-mm right lung nodule which may be inflammatory or
+infectious. Attention
+should be paid to this area on follow-up exams.
+
+LOWER EXTREMITY VENOUS DOPPLER: BILATERAL- NO DVT
+
+PLEURAL FLUID (LEFT LUNG)- TRANSUDATIVE.  CYTOLOGY PENDING UPON
+DISCHARGE, PLEASE FOLLOW UP IN [**12-26**] WEEKS POST DISCHARGE.
+
+CT HEAD [**11-23**]: No evidence of hemorrhage or major vascular
+territorial
+infarction.
+
+CT C-SPINE [**11-20**]: Limited study due to patient motion.  No large
+fracture is identified.  No definite dislocation is present.
+Multilevel degenerative changes particularly at the C4/C5, C5/C6
+and C6/C7 levels.  Mild anterolisthesis of C4 over C5.  If there
+is high clinical suspicion for cervical spine fracture consider
+a repeat cervical spine CT scan.
+
+HIP X RAY: No acute fractures or dislocations.
+
+EKG: [**2903-11-8**] Atrial fibrillation with mean ventricular rate
+111. Low QRS voltage in the limb leads. Diffuse non-diagnostic
+repolarization abnormalities. Compared to previous tracing of
+[**2903-11-7**] multiple abnormalities persist without major change.
+
+[**2903-11-26**]: Atrial fibrillation, mean ventricular rate 95. Low QRS
+voltage in the limb leads. Diffuse non-diagnostic repolarization
+abnormalities. Compared to previous tracing of [**2903-11-23**] multiple
+abnormalities persist without major change.
+
+[**11-14**] Peripheral Arterial Cath:
+1. Successful PTCA of the 100% occluded left CFA, SFA and
+profunda femoral artery vir 4 french left brachial approach with
+a
+4.0x40mm baloon with restoration of good flow in the left cfa,
+profunda
+and sfa with slow flow to the shin. [**Name (NI) 844**] PT pulse at the
+end of
+the case.
+2. Left brachial artery thrombosis despite act 250 at sheath
+pull with
+loss of left radial pulse; patient going to OR now for left
+brachail
+exploration and thrombus removal.
+
+[**11-14**] Cardiac Cath:
+1.  Selective coronary angiography of this right dominant system
+
+revealed no angiographically apparent significant coronary
+artery
+disease.  The LMCA had no angiographically apparent significant
+stenoses.  The LAD had a proximal 30% lesion.  The LCX and RCA
+were
+without angiographically apparent flow-limiting stenoses.
+2.  Limited resting hemodynamics revealed mild systemic arterial
+
+hypotension of 85/43 mm Hg.  Left sided filling pressures were
+mildly
+elevated with LVEDp of 20 mm Hg.  There was no transvalvular
+gradient
+upon pullback of the catheter from LV to aorta.
+3. Left ventriculography was deferred.
+4. Arterial access was difficult to obtain on bilateral femoral
+arteries, even after multiple attempts under ultrasound and
+doppler
+guidance.  Arterial flow was obtained in the left femoral artery
+on
+multiple occassions with good arterial flow, but a wire could
+not
+successfully be passed into the iliac arteries.  Access was
+finally
+obtained on the left via the femoral artery.
+5. Distal aortagram revealed diffuse atherosclerotic disease of
+bilateral aortoiliac systems, with complete occlusion of the
+right iliac
+artery.  Distal vessels filled via collaterals.
+
+[**2903-11-11**] Renal Ultrasound:
+1.  No evidence of renal calculi or hydronephrosis bilaterally.
+2.  Hyperechoic interpolar lateral right renal lesion with
+vascular flow
+within it.  Ultrasound characteristics may be suggestive of a
+benign
+angiomyolipoma, however, a neoplasm cannot be excluded given
+internal
+vascularity. Further evaluation with dedicated MR examination is
+recommended if patient can tolerate.  Otherwise, non-contrast
+and contrast-enhanced CT examination can be considered.
+3.  Moderate left pleural effusion.
+
+[**2903-12-8**] Chest CT
+1. Collapse of the left lung with a very large pleural effusion.
+Large right pleural effusion with partial collapse of the right
+lower lobe. Collapsed left main stem bronchus with tracheal and
+bronchial secretions.
+
+2. 1 cm right lower lobe pulmonary artery aneurysm seen on the
+[**2903-11-25**] study is not well evaluated on this study.
+
+3. Multiple low-density lesions in the spleen, likely cysts from
+remote trauma or infarct.
+
+
+Brief Hospital Course:
+OVERALL SUMMARY OF COURSE OF ILLNESS
+78 year old woman with history of CAD, afib, smoking,
+alcoholism, GERD w/esophageal strictures, osteoporosis s/p hip
+fracture ([**2890**]), poor nutritional intake, presents as transfer
+from CCU after prolonged hospitalization at [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1864**]
+Hospital and [**Hospital1 **] for chest pain that included
+cardiac catherization (complicated by brachial artery
+thrombosis), heart failure, remeron-induced delirium, iatrogenic
+renal failure, and finding of an incidental mass of kidney.
+.
+The patient was in the midst of a 1-month long program
+supervised by her primary care doctor to improve her nutritional
+intake when, one morning in early [**Month (only) 528**] she developed nausea
+and pain up and down her arms.  Her son called an ambulance and
+the patient received nitroglycerin in transit with some relief
+of her symptoms.  Upon admission to the OSH, patient was in Afib
+with RVR and reported ST changes concerning for digitalis
+toxicity. She was started on aspirin, diltiazem drip, and
+heparin drip. She developed ST elevations thought secondary to
+demand ischemia. Her HR improved with diltiazem drip and she was
+loaded with digoxin.  She was felt to be in heart failure with
+and was aggressively diuresed with furosemide.
+.
+Shortly after admission to OSH, her WBC increased to 22,
+creatinine increased from .8 to 2.1, and troponins increased
+from .1 to 2.53. The patient was admitted to the ICU for her
+renal failure.  UA demonstrated 10-25 WBCs with 2+ bacteria and
+she was started on levofloxacin. Additionally, an echo
+demonstrated EF 20%, akinesis except base and inferior-lateral
+wall. She also became hypotensive and was started on dopamine.
+During the course of her stay, she pulled out her nasogastric
+tube and IVs, possibly representing alcohol withdrawal.
+.
+Per the patient's son's request, she was trasnferred via med
+flight to the [**Hospital1 22**] on [**11-5**] for further management.  She was
+transferred to the CCU team for further management of her CHF
+and likely cardiogenic shock. Her initial echo demonstrated a
+Takotsubo cardiomyopathy. Subsequent echos have demonstrated
+improvement in EF. She also underwent catheterization which
+demonstrated clean coronaries. She was transitioned from
+dopamine to dobutamine with the addition of a lasix gtt. She had
+a moderate diuresis with improvement in both her blood pressures
+and her creatinine. She has had occasional episodes of
+hypotension with low urine output for unclear reasons.
+Differential includes persistent CHF and poor PO intake.
+Regarding her atrial fibrillation, she was started initially on
+diltiazem gtt and was transitioned to oral metoprolol. Her vital
+signs have remained stable.
+
+As a complication of the catheterization, she developed a
+femoral thombus.  She underwent emergent thrombectomy and as a
+complication developed brachial thrombus as well.  She underwent
+a thrombectomy for the brachial thrombus.  Following surgical
+thrombectomy, the patient complained of pain her abdomen and was
+found to incidentally have a growth on her kidney on renal
+ultrasound.
+.
+While the abdominal pain resolved, the patient was felt to have
+a depressed appetite and was started on a trial of the
+antibiotic Remeron.  The single dose of remeron pushed the
+patient into a "demented state" and the patient has gradually
+improved back to baseline after withdrawal of the remeron. The
+patient's hospitalization was further complicated by a fall for
+which she had head imaging that was not concerning for an acute
+bleed.
+.
+Over the past week, the patient and family underwent
+consultation with palliative care physicians because of her
+overall failure to thrive and the patient was awaiting placement
+to a rehabiliation facility when she develoepd an elevated white
+count (13).  A chest x-ray showed a question of a consolidation
+and she was started on treatment for a presumed hospital
+acquired pneumonia.  The patient was transferred from the CCU
+team to the medicine service for continuing management.
+OTHER ISSUES DURING ADMISSION
+-Apical Thrombus Her echo on admission demonstrated a possible
+apical thrombus and she was maintained on anticoagulation for
+this (in addition to her atrial fibrillation)
+- E.coli UTI and possible pyelo - she was started levofloxacin
+on [**2903-11-5**] for an E.coli UTI and then transitioned to cipro.
+The patient developed abdominal pain and an elevated WBC on
+[**2903-11-1**] raising the concern for pyelonephritis; however her pain
+and leukocytosis improved. She received 10 day course of
+levo/cipro ([**2818-11-4**])
+- Nutrition assessment - Patient has been followed closely with
+nutrition and geriatrics regarding her decreased PO intake.
+Initial nutrition assessment on [**11-8**] recommended NGT with tube
+feeds, supplements, and a bedside speech and swallow on [**11-8**]
+demonstrated no aspiration but concerns of stricture causing her
+poor intake.  She received a short course of TPN ([**Date range (1) 7120**])
+for poor PO intake but after she pulled her NGT. This was
+discontinued and patient has been on a PO diet.
+- Acute renal failure - Patient was admitted with elevated
+creatinine. Her creatinine improved steadily with diuresis,
+making pre-renal renal failure secondary to poor forward flow
+most likely.
+- EtOH - Patient's malnutrition and many of her medical problems
+are thought most likely secondary to her alcoholism. She is
+pre-contemplative about abstaining from alcohol and states
+repeatedly that she wants beer or to go to the bar.
+- s/p fall and hypotension - On [**2903-11-20**], she triggered after
+she fell and also for hypotension with SBP in the 80s. An echo
+that day demonstrated elevated PA pressure concerning for PE.
+Differential for her fall and hypotension were concerning for
+PE, decreased PO, and infection. CTA chest was negative for PE.
+
+- thoracentesis on [**2903-11-27**] - Patient has been noted to have
+persistent bilateral pleural effusions and she underwent a
+thoracentesis on [**2903-11-27**] without complication.
+- altered mental status - On the day of transfer to medicine
+([**2903-12-4**]), patient developed hypoxia requiring 2L nasal canula
+and leukocytosis to 15, raising concern for hospital-acquired
+pneumonia. She was started on vanco/zosyn for treatment of
+presumed hospital acquired pneumonia.
+==============================
+SYSTEM SPECIFIC REVIEW
+==============================
+CARDIAC: She was seen and evaluated by the CCU team upon
+arrival. She was on Dopamine drip on arrival with systolic
+pressures in the mid 90s and heart rate in the 70s. She was
+saturating 95% on 100% O2 NRB. A swan-ganz catheter was placed
+and showed a wedge of 32 and a PA systolic in the low 50s.
+Cardiac index was below 2.0 initially. She was switched to
+Dobutamine and initial index was 2.04 and a SVR of 1300. Index
+rose to 2.9 and a SVR in the 800s on 4mcg of dobutamine.
+Echocardiography showed a decresed ejection fraction (30%) with
+distal akinesis of LV and RV. Also noted a mural thrombus. She
+was previously on anticoagulation via heparin drip for her
+atrial fibbrilation and that was continued.  Patient was
+transferred to the floor for management with plan for cardiac
+cath.  Cath was deferred initially due to increasing WBC count
+and flank pain concerning for possible pyelonephritis.  Ua c/w
+persistent UTI although not overly suggestive of pyelonephritis.
+ Renal USD was obtained that showed no evidence of perinephric
+abscess, stones or hydronephrosis.  Patient remained afebrile,
+and cardiac cath was performed on [**11-14**] demonstrating peripheral
+arterial disease without significant coronary disesase, she
+developed a brachial artery thrombus post procedure and required
+surgical exploration and successful removal of thrombus from the
+brachial artery.  Her initial two echocardiograms revealed a
+depressed LVEF and a Takatsubo pattern to her contractility,
+this resolved, also consitent with this entity.  Unclear as to
+whether this was associated to her ETOH use.  She developed
+pleural effusions which were large (especially on the left)
+during her stay and responded slowly to diuresis, she had a left
+thoracentesis and subsequently was sating 100% on room air,
+though this rapidly reaccumulated secondary to her low albumen
+and poor nutritional status.  She underwent a second
+thoracentesis with again good improvement in her respiratory
+status. In consultation with the pulmonary team, her pleural
+effusions were thought to be worsened by recurrent mucous
+plugging causing left lung collapse. Treatment with mucomyst,
+albuterol, and chest PT greatly improved her lung aeration.  CXR
+prior to discharge showed persistent bilateral effusions.  Her
+chronic atrial fibrillation was rate controlled with metoprolol
+throughout her course.  She had one episode of afib with RVR 2d
+prior to discharge which was quickly rate controlled with the
+administration of 10mg of IV diltiazem.  She was started on PO
+diltiazem with improved rate control and maintained this for the
+next 48hrs.  It was thought that this episode may have been
+secondary to either albuterol nebulizer treatments or the
+recently started ritalin dosing.  Given her lack of response in
+terms of appetite (although she was more alert and awake), it
+would be advisable to stop this medication should she experience
+another episode of rapid ventricular respose to her atrial
+fibrillation.
+.
+GU/Renal:  Patient initially with UTI (E-coli which was
+pan-sensitive), treated with Levofloxacin, treatment complete,
+follow up urine cultures neagtive.  Creatinine increased to 2.3
+upon admission, likely ATN, cardiogenic shock possibly post cath
+and contrast nephropathy in the setting of heart failure, with
+improvement of heart failure her renal function improved.
+Responded well to diuretics.   Renal USD demonstrated a probable
+angiomyolipoma and radiology recommneded rec'd CT abdomen or MRI
+for further evaluation, she should have this as a follow up as
+an outpatient in the future.  Her Cr was normal on d/c.
+.
+GI: Patient with poor PO intake (200 cal/day), and dysphagia,
+she states she doesn't eat because she has a poor appetite, not
+because of the dysphagia or because of dyspepsia or any other
+reason.  During hospitalization it was learned patient has
+history of esophageal dilation in past (x2).  Plan for
+outpatient evaluation.  As far as her diet, she was repeatedely
+encouraged to eat and with some encouragement she does make
+small steps and take in some PO and some ensure, her family
+members were helpful in this regard.  At home she takes in most
+of her calories from beer but here without beer she is not
+taking in much PO at all.  She wishes to go home and continue
+drinking despite encouragement of ETOH cessation from multiple
+physicians.  No signs of ETOH withdrawal during admission.  Both
+she and her family refused any more definitive treatment such as
+PEG or NGT for increased nutritional repletion. She was given
+TPN for approximately one week, however, began to exhibit signs
+of volume overload, therefore this was discontinued.
+Additionally, a family meeting was held on [**11-30**] attended by
+family, CCU team and palliative care. At that time, a decision
+was made to attempt a trial of PO for 10 days to determine if
+patient can replete her own nutrition.  Patient also had a trial
+of methylphenidate with minimal improvement in oral intake (but
+increased wakefulness and interaction with family and staff).
+Although her PO intake continues to be poor, her family believes
+that her PO intake might improve if she had additional physical
+therapy. She was evaluated by PT and OT who thought she was an
+adequate rehab candidate. She is recommended to go to rehab and
+follow her PO intake there. If her PO intake continues to be
+poor, she and her family will again need to consider the role
+for hospice.
+.
+Mental status: the patient had a waxing and [**Doctor Last Name 437**] mental status
+for the majority of her stay, she would become delerious
+(disoriented and somnolent) without any clear cause, toxic /
+metabolic causes were ruled out and appropriate head imaging was
+performed with no yield.  One episode may have been attributed
+to remeron use and this should be avoided in the future.  The
+patient was back to her baseline AOx3 with mild dementia upon
+discharge.  If she is able to abstain from alcohol for several
+months at home, the geriatrics service reccommended
+cognitive/memory evaluation as an outpatient at a later date.
+.
+Infectious disease: Prior to transfer to the medicine service,
+the patient developed an increasing productive cough with a
+leukocytosis. Given her [**Hospital 23895**] hospital stay, her CXR
+appearing and her clinical status, she will be treated for
+hospital acquired pneumonia with vancomycin and zosyn for a 7
+day course.  She completed this course on [**12-10**] and was afebrile
+for several days prior to discharge.
+
+Medications on Admission:
+1. ASA 81mg PO Daily
+2. Lopressor 25mg PO BID
+3. Digoxin 0.125mg PO Daily
+4. Thiamine 100mg PO Daily
+5. Folate 1mg PO Daily
+6. MVI 1 Tab PO Daily
+7. Protonix 40mg PO Daily
+8. COMbivent 2 puffs QID
+9. Warfarin 5mg PO 4xweek
+10. Advair 250/50 1 puff [**Hospital1 **]
+11. Levaquin 500mg PO x1
+12. NTG sl x3 PRN
+13. Solumedrol 80mg IV q8
+14. Cardizem IV @ 10mg/hr
+
+
+Discharge Medications:
+1. Thiamine HCl 100 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY
+(Daily).
+2. Folic Acid 1 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY (Daily).
+
+3. Acetaminophen 325 mg Tablet [**Hospital1 345**]: One (1) Tablet PO Q6H (every
+6 hours) as needed.
+4. Clopidogrel 75 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY
+(Daily).
+5. Aspirin 325 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY (Daily).
+6. Atorvastatin 20 mg Tablet [**Hospital1 345**]: One (1) Tablet PO DAILY
+(Daily).
+7. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension [**Hospital1 345**]:
+15-30 MLs PO QID (4 times a day) as needed.
+8. Ipratropium Bromide 0.02 % Solution [**Hospital1 345**]: One (1)  Inhalation
+Q6H (every 6 hours).
+9. Metoprolol Tartrate 25 mg Tablet [**Hospital1 345**]: One (1) Tablet PO TID
+(3 times a day).
+10. Docusate Sodium 100 mg Capsule [**Hospital1 345**]: One (1) Capsule PO BID
+(2 times a day).
+11. Ferrous Sulfate 325 mg (65 mg Iron) Tablet [**Hospital1 345**]: One (1)
+Tablet PO DAILY (Daily).
+12. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 345**]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+13. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) [**Last Name (STitle) 345**]: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+14. Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup [**Last Name (STitle) 345**]: Five
+(5) ML PO Q6H (every 6 hours) as needed.
+15. Furosemide 40 mg Tablet [**Last Name (STitle) 345**]: One (1) Tablet PO DAILY
+(Daily).
+16. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Last Name (STitle) 345**]: One (1)
+ Inhalation Q2H (every 2 hours) as needed.
+17. Methylphenidate 5 mg Tablet [**Last Name (STitle) 345**]: One (1) Tablet PO BID (2
+times a day).
+18. Acetylcysteine 20 % (200 mg/mL) Solution [**Last Name (STitle) 345**]: Five (5) ML
+Miscellaneous Q6H (every 6 hours): please mix with albuterol.
+19. Warfarin 2.5 mg Tablet [**Last Name (STitle) 345**]: One (1) Tablet PO at bedtime.
+20. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Last Name (STitle) 345**]: One (1)
+neb Inhalation Q6H (every 6 hours).
+21. Diltiazem HCl 30 mg Tablet [**Last Name (STitle) 345**]: One (1) Tablet PO QID (4
+times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Country Home and Nursing
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Acute on Chronic Systolic Congestive Heart Failure
+Atrial Fibrillation
+Delerium
+Malnutrition
+.
+Secondary Diangosis:
+ETOH abuse
+
+
+Discharge Condition:
+Stable, working with physical therapy and breathing room air
+
+
+Discharge Instructions:
+You were admitted to the hospital with a low blood pressure and
+decreased functioning of your heart.  You underwent a peripheral
+arterial catherization and other multiple diagnostic procedures
+and were initially found to have a decreased pumping function of
+your heart which eventually improved.  During your stay you had
+times during which you became somnolent and difficult to arouse,
+you underwent a very thorough workup that did not yield any
+positive results.  You had also were shown to have fluid around
+your lung. This fluid was removed with a needle. It is felt that
+your medical problems are stable enough for you to go to a rehab
+facility.
+.
+Please call your doctor or go to the emergency room if you have
+any chest pain, lightheadedness, shortness of breath, confusion
+or any other symptoms that worry you.
+.
+You should take your medications as prescribed and avoid alcohol
+use as this likely played a role in your malnutrition as well as
+your initial depressed cardiac function.
+.
+Please follow the instructions of the physicians and other
+medical staff at the rehab facility
+
+Followup Instructions:
+Please follow up with your primary care physician [**Last Name (NamePattern4) 21**]. [**Last Name (STitle) 23896**]
+within 10 days of your discharge from the hospital. The phone
+number for Dr.[**Name (NI) 23897**] office is [**Telephone/Fax (1) 23898**]
+
+Please follow up with your cardiologist within 4 weeks of your
+discharge from the hospital.
+
+
+
+Completed by:[**2903-12-19**]
+
+DOC CLASS

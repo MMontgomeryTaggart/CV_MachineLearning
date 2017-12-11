@@ -1,0 +1,185 @@
+CVICU
+   HPI:
+   HD3   POD 2-AVR(#23 CE Magna pericardial)
+   Ejection Fraction:55
+   Hemoglobin A1c:5.3
+   Pre-Op Weight:134.04 lbs   60.8 kgs
+   Baseline Creatinine:0.8
+   PMH: Aortic stenosis, Hypertension, [**Doctor Last Name 3415**] Disease, Hypertension,
+   Hypercholesterolemia, carotid stenosis, GERD, Spinal stenosis with
+   chronic right leg pain, Scoliosis
+   PSH: s/p laminectomy x2, s/p Rt Knee repair x3, s/p Rt Shoulder surgery
+   x2, left shoulder x1
+   [**Last Name (un) 500**]: LOTREL [**5-4**]', CELEBREX 200", CIALIS 5-prn, MAXZIDE 75-50- [**12-17**] tab
+   qd, VIT C 1,000', ASPIRIN 81', GLUCOSAMINE 500''', SIMVASTATIN 40'
+   Current medications:
+   Acetaminophen, Aspirin EC, Ciprofloxacin, Docusate Sodium, Insulin,
+   Metoprolol Tartrate, Oxycodone-Acetaminophen, Ranitidine
+   24 Hour Events:
+   Remained in ICU to monitor renal function
+   Transfused with PRBC for anemia
+   Allergies:
+   Atorvastatin
+   myalgias;
+   Last dose of Antibiotics:
+   Cefazolin - [**2783-8-10**] 02:55 PM
+   Ciprofloxacin - [**2783-8-10**] 08:22 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2783-8-11**] 09:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**85**] a.m.
+   Tmax: 37.7
+C (99.9
+   T current: 37.7
+C (99.9
+   HR: 83 (76 - 105) bpm
+   BP: 134/53(74) {85/35(48) - 157/74(95)} mmHg
+   RR: 26 (21 - 34) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 75 kg (admission): 60.8 kg
+   Height: 66 Inch
+                  Total In:
+                                                                  2,643 mL
+                                                                    760 mL
+   PO:
+                                                                    240 mL
+                                                                    660 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,503 mL
+   Blood products:
+                                                                    900 mL
+                                                                    100 mL
+   Total out:
+                                                                  1,980 mL
+                                                                  1,365 mL
+   Urine:
+                                                                  1,320 mL
+                                                                  1,115 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    663 mL
+                                                                   -605 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 100%
+   ABG: ///20/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   99 K/uL
+   10.0 g/dL
+   177 mg/dL
+   2.2 mg/dL
+   20 mEq/L
+   4.6 mEq/L
+   39 mg/dL
+   111 mEq/L
+   140 mEq/L
+   30.1 %
+   9.6 K/uL
+        [image002.jpg]
+                             [**2783-8-9**]  05:40 PM
+                             [**2783-8-9**]  06:27 PM
+                             [**2783-8-9**]  07:00 PM
+                             [**2783-8-10**]  12:49 AM
+                             [**2783-8-10**]  01:30 AM
+                             [**2783-8-10**]  01:35 AM
+                             [**2783-8-10**]  05:12 AM
+                             [**2783-8-10**]  01:24 PM
+                             [**2783-8-10**]  03:22 PM
+                             [**2783-8-11**]  05:46 AM
+   WBC
+   7.7
+   9.6
+   Hct
+   30.1
+   30.1
+   28.2
+   25.2
+   30.1
+   Plt
+   148
+   99
+   Creatinine
+   2.2
+   2.1
+   2.5
+   2.5
+   2.2
+   TCO2
+   21
+   19
+   20
+   20
+   Glucose
+   85
+   75
+   122
+   122
+   112
+   177
+   Other labs: PT / PTT / INR:13.3/31.3/1.1, ALT / AST:17/37, Alk-Phos / T
+   bili:41/0.5, Amylase / Lipase:337/61, Fibrinogen:191 mg/dL, Lactic
+   Acid:1.4 mmol/L, Albumin:2.3 g/dL, LDH:268 IU/L, Ca:8.7 mg/dL, Mg:2.7
+   mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), VALVE REPLACEMENT, AORTIC
+   BIOPROSTHETIC (AVR), AORTIC REGURGITATION (AORTIC INSUFFICIENCY),
+   ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING),
+   HYPERGLYCEMIA, HYPOTENSION (NOT SHOCK)
+    Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, percocet prn
+   Cardiovascular: Aspirin, Beta-blocker, statin stopped due to ^ amylase
+   and lipase, recheck lft [**8-12**] am
+   Pulmonary: IS, cough and deep breath, oob to chair, DC CT
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, acute renal failure with cr increased
+   postoperatively - possible dye induced nephropathy since cardiac cath
+   ([**8-4**]), will hold lasix monitor i/o goal fluid balance even, maintain
+   foley and trend Creatinine, renal following
+   Hematology: stable anemia
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: Cipro started for urine culture + - repeat u/a and
+   culture, wbc normal
+   Lines / Tubes / Drains: Foley, Chest tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**2783-8-9**] 12:25 PM
+   20 Gauge - [**2783-8-10**] 08:27 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

@@ -1,0 +1,207 @@
+Chief Complaint:
+   24 Hour Events:
+ MULTI LUMEN - START [**3388-1-10**] 02:05 PM
+ DIALYSIS CATHETER - STOP [**3388-1-10**] 05:00 PM
+   uncertain of insertion date
+   [**3388-1-10**]
+   - L IJ Placed
+   - R HD line removed by IR
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**3388-1-10**] 08:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3388-1-10**] 08:00 PM
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl - 50 mcg/hour
+   Norepinephrine - 0.15 mcg/Kg/min
+   Phenylephrine - 1 mcg/Kg/min
+   Other ICU medications:
+   Dextrose 50% - [**3388-1-10**] 12:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3388-1-11**] 07:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 96 (78 - 125) bpm
+   BP: 98/52(66) {64/41(50) - 153/86(108)} mmHg
+   RR: 14 (7 - 29) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+    CVP: 5 (4 - 11)mmHg
+   Total In:
+                                                                  2,085 mL
+                                                                    424 mL
+   PO:
+   TF:
+                                                                    120 mL
+                                                                     99 mL
+   IVF:
+                                                                  1,317 mL
+                                                                    275 mL
+   Blood products:
+                                                                    563 mL
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,085 mL
+                                                                    424 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/AutoFlow
+   Vt (Set): 550 (400 - 550) mL
+   Vt (Spontaneous): 334 (334 - 334) mL
+   PS : 12 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 19
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 25 cmH2O
+   Plateau: 18 cmH2O
+   SpO2: 96%
+   ABG: 7.43/37/106/24/0
+   Ve: 6.8 L/min
+   PaO2 / FiO2: 212
+   Physical Examination
+   General ill appearing, intubated and sedated
+   HEENT anicteric, dry mm
+   Neck no JVD
+   Pulm lungs with decreased breath sounds right hemithorax nearly to
+   apices, no rales/rhonchi
+   CV tachycardic regular s1 s2 no m/r/g
+   Abd distended +fluid wave nontender +bowel sounds
+   Extrem warm 1+ bilateral edema palpable distal pulses palmar erythema
+   +dupuytrens contractures
+   Neuro prior to intubation responds to voice able to answer yes/no
+   questions, no asterixis, moving all extremities
+   Labs / Radiology
+   95 K/uL
+   11.0 g/dL
+   93 mg/dL
+   4.2 mg/dL
+   24 mEq/L
+   3.8 mEq/L
+   24 mg/dL
+   110 mEq/L
+   144 mEq/L
+   33.2 %
+   14.6 K/uL
+        [image002.jpg]
+                             [**3388-1-9**]  11:20 PM
+                             [**3388-1-10**]  01:08 AM
+                             [**3388-1-10**]  03:38 AM
+                             [**3388-1-10**]  04:12 AM
+                             [**3388-1-10**]  09:30 AM
+                             [**3388-1-10**]  12:22 PM
+                             [**3388-1-10**]  08:46 PM
+                             [**3388-1-10**]  11:27 PM
+                             [**3388-1-11**]  03:55 AM
+                             [**3388-1-11**]  04:21 AM
+   WBC
+   20.1
+   14.6
+   Hct
+   36.3
+   33.2
+   Plt
+   197
+   95
+   Cr
+   3.4
+   4.2
+   TCO2
+   24
+   26
+   28
+   26
+   24
+   21
+   23
+   25
+   Glucose
+   82
+   69
+   60
+   93
+   Other labs: PT / PTT / INR:18.9/44.5/1.7, ALT / AST:26/32, Alk Phos / T
+   Bili:190/3.4, Differential-Neuts:85.5 %, Lymph:8.9 %, Mono:5.3 %,
+   Eos:0.2 %, Lactic Acid:2.2 mmol/L, Ca++:8.5 mg/dL, Mg++:1.7 mg/dL,
+   PO4:3.5 mg/dL
+   Assessment and Plan
+   65M with presumed EtOH cirrhosis transferred from OSH for management of
+   dyspnea and expedited workup for consideration of combined liver -
+   kidney transplant transferred to the MICU following increased
+   respiratory distress during HD
+   .
+   1. Respiratory distress:  Secondary to sepsis and right sided
+   effusion.  Currently on mechanical ventilation.  Will attempt to wean
+   as tolerated, however sedation discontinues this AM and the patient has
+   not aroused.
+   - Treat line sepsis as below
+   - Consider tapping hydrothorax in the future, though likely to recur
+   quickly
+   - Echo with bubble study done yesterday did not show obvious cause of
+   respiratory distress
+   .
+   2. Hypotension:  Likely secondary to septic shock.
+   - Continue vancomycin, dosed by level, and continue zosyn
+   - Removed HD line yesterday.  Left sided IJ will need to be pulled once
+   infection has cleared
+   - Continue daily blood cultures, follow other cultures.  Attempt to get
+   more culture information from OSH
+   - Fluid resuscitate CVP 8-12
+   - target MAP >65
+   - Will get TEE to rule out endocarditis
+   .
+   3. Confusion
+   Likely secondary to current infection exacerbated by hypoxia, as well
+   as hepatic encephalopathy.
+   - Treating infection as above
+   - Continue lactulose
+   .
+   4. Cirrhosis
+   - Holding diuretics and beta blockers in setting of hypotension
+   - Transplant workup per hepatology
+   - f/u liver recommendations
+   .
+   5. Renal failure thought sequelae of ATN post surgery [**11-2**]
+   - Per Renal will start CVVH through temporary HD catheter
+   - Renal transplant eval if stabilized and returns to medical floor
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+ IMPAIRED SKIN INTEGRITY
+ ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name 2**])
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**3388-1-10**] 04:00 PM 20 mL/hour
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3388-1-9**] 05:00 PM
+   Arterial Line - [**3388-1-9**] 08:35 PM
+   Multi Lumen - [**3388-1-10**] 02:05 PM
+   Prophylaxis:
+   DVT:  Pneumoboots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:  Full Code
+   Disposition:  Will be transferred from the CCU to the MICU today
+
+
+DOC CLASS

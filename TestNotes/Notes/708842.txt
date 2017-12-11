@@ -1,0 +1,176 @@
+Chief Complaint:
+   24 Hour Events:
+ BLOOD CULTURED - At [**2591-1-26**] 09:30 PM
+   - blood pressure has been stable since CCU transfer
+   Allergies:
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2591-1-27**] 06:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**92**] AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.6
+C (97.8
+   HR: 76 (74 - 76) bpm
+   BP: 120/44(63) {103/34(55) - 122/72(78)} mmHg
+   RR: 23 (18 - 30) insp/min
+   SpO2: 95%
+   Heart rhythm: A Flut (Atrial Flutter)
+                  Total In:
+                                                                  1,830 mL
+                                                                     60 mL
+   PO:
+                  60 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  1,710 mL
+                                                                    540 mL
+   Urine:
+                                                                    710 mL
+                                                                    540 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    120 mL
+                                                                   -480 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ////
+   Physical Examination
+   GENERAL:  Alert, NAD
+   HEENT: NC/AT.
+   NECK: Supple with no JVD noted.
+   CARDIAC: RRR, normal S1, S2. No m/r/g. No S3 or S4 appreciated.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Dry crackles noted throughout, most
+   notably in the lower lung fields bilaterally
+   ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits
+   appreciated.
+   EXTREMITIES: No cyanosis or clubbing noted. Slight pitting edema in the
+   ankles.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs / Radiology
+   260
+   11.5
+   2.1
+   28
+   3.9
+   59
+   103
+   141
+   36.0
+   9.9
+        [image002.jpg]
+                             [**2591-1-26**]  08:53 PM
+   TropT
+   0.56
+   Other labs: CK / CKMB / Troponin-T:114/2/0.56
+   Assessment and Plan
+   ASSESSMENT AND PLAN - 76 y/o M with PMHx s/f CAD, chronic systolic CHF,
+   CKD, who was admitted to [**Hospital1 1246**] for CHF exacerbation but developed
+   hypotension after diuresis. Now, being transferred to CCU for overnight
+   monitoring.
+   .
+   # Hypotension
+ Overdiuresis vs. infection vs. other causes.  Likely
+   related to overdiuresis, as it occurred in the setting of having
+   received metolazone and lasix. Furthermore, he appears dry on exam, and
+   his creatinine is above baseline.  Notably, his blood pressure has been
+   above 100 since arrival to the CCU.
+   - continue to monitor BP
+   - no additional fluid boluses at this time
+   - holding diuretics
+   - continue antihypertensives, with conservative holding parameters
+   - treating empirically for PNA with levofloxacin
+   - f/u blood cx
+   .
+   # Oxygen Requirement - CHF/fluid overload vs. PNA vs. some other lung
+   process.  Fluid overload does not seem as likely as pt's dyspnea has
+   improved with diuresis but O2 requirement remains. Of note, dry
+   crackles on exam very notable, but pt does not have any orthopnea.
+   Possibly, this represents interstitial lung disease.
+   - CT chest ordered for today, will f/u
+   - levofloxacin to empirically cover for PNA
+   .
+   # CORONARIES: Patient has known 3 vessel disease and numerous CAD risk
+   factors. Patient had increase in troponins, but not in CKMB. Tn has
+   since stabilized. Agree with [**Hospital1 1246**] assessment that this like likely [**12-28**]
+   demand and decreased clearance from CKD.
+   - Continue ASA, Plavix, Statin, beta blocker, ACE-I
+   - Continue telemetry
+   .
+   # PUMP: EF 30% on echo from this admission. Pt received lasix and
+   metolazone with good urine output initially. SOB has improved, and UOP
+   has since decreased. As above, pt is likely overdiuresed at this point.
+   - Cont lisinopril, Isosorbide mononitrate, nifedipine, metoprolol
+   - Holding HCTZ
+   .
+   # RHYTHM: Atrial flutter seen on EKG. Patient has known atrial flutter
+   but did not tolerate coumadin.
+   - Can uptitrate beta blocker for rate control if necessary
+   .
+   # Acute on Chronic Renal Failure - Creatinine did bump above baseline
+   in the setting of aggressive diuresis, likely pre-renal in the setting
+   of overdiuresis.
+   - can get urine lytes if Cr does not improve
+   - continue to trend creatinine
+   .
+   # DM 2 - Per [**Hospital1 1246**] notes, pt reportedly has labile blood glucose.
+   - continue regimen of [**11-27**] documented home NPH regimen
+   - Humalog sliding scale
+   .
+   # Peripheral vascular disease - Continue Pentoxifylline
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2591-1-26**] 05:50 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: DNI (do not intubate)
+   Disposition:Transfer to floor
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   Per housestaff
+   nothing to add
+   Physical Examination
+   Per housestaff
+   nothing to add
+   Medical Decision Making
+   Per housestaff
+   nothing to add
+   Above discussed extensively with patient.
+   Total time spent on patient care: 60 minutes.
+   Additional comments:
+   Diuresing well at this point
+   Will need to consider for ICD implantation if not all ready addressed
+   by her primary physician.
+   [**Name10 (NameIs) 928**] Protected Section Addendum Entered By:[**Name (NI) 98**] [**Name (NI) **],MD
+   on:[**2591-1-27**] 13:26 ------
+
+
+DOC CLASS

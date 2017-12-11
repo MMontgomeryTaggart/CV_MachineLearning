@@ -1,0 +1,140 @@
+Admission Date:  [**2645-12-1**]       Discharge Date:  [**2645-12-4**]
+
+Date of Birth:   [**2575-7-1**]       Sex:  M
+
+Service:  Urology
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 10335**] is a 70 year old
+male originally from the [**Location (un) 7394**] who was found to have
+enhancing lower pole lesion in the left kidney that was
+approximately 2.3 cm by 2.5 cm in diameter.  It was exophytic
+as seen on computerized tomography scan of the abdomen and
+pelvis.  Of note is that on the prior computerized tomography
+scan performed in [**2645-2-7**], the mass was also present
+but measured 1.7 cm and looked like a hemorrhagic cyst.
+However, it has grown since then.  In addition the patient
+was noted to have evidence of abdominal aortic aneurysm
+measuring 4.5 by 3.7 cm at the level of the left renal vein
+which was being followed by Vascular Surgery.  Different
+options were discussed with the patient and the decision was
+made to proceed with surgical intervention.  The patient was
+cleared by Vascular Surgery to proceed with nephrectomy.
+Also his last prostate specific antigen was 1 in [**2645-3-7**].
+On review of systems the patient notes nocturia approximately
+two to three times every two to three hours.  He also has a
+history of transurethral resection of the prostate, as well
+as a history of bladder stones and lithotripsy performed in
+[**2645-3-7**].  He also has a history of neck pain and back
+pain.  The rest of the review of systems was not remarkable.
+
+ALLERGIES:  Allergic to Methane,
+
+MEDICATIONS ON ADMISSION:  1.  Lipitor; 2.  Glucophage.
+
+PAST MEDICAL HISTORY:  1.  Diabetes; 2.  Abdominal aortic
+aneurysm; 3.  Nocturia; 4.  Benign prostatic hypertrophy; 5.
+History of neck and back pain; 6.  History of shingles.
+
+PAST SURGICAL HISTORY:  Open cholecystectomy in [**2635**].
+Transurethral resection of the prostate in [**2645**], lithotripsy
+treatment for kidney stones.
+
+SOCIAL HISTORY:  The patient has a history of smoking, no
+history of alcohol abuse.
+
+FAMILY HISTORY:  Unremarkable.
+
+PHYSICAL EXAMINATION:  Alert and oriented in no apparent
+distress.  Temperature is 98, blood pressure 147/52,
+heartrate 81, respiratory rate 16, 94% on room air.  Head,
+eyes, ears, nose and throat examination, within normal
+limits.  Heart examination, regular rate and rhythm, no
+murmurs.  Chest excision, clear to auscultation bilaterally.
+Abdominal examination, obese, soft, nontender, nondistended
+without any masses palpable.  Genitourinary examination
+showed normal scrotum, epididymis and testes without any
+lesion and normal urethral meatus.  Rectal examination
+revealed a prostate approximately 30 gm, normal to palpation,
+soft without any nodules.  Extremities, no evidence of edema.
+
+HOSPITAL COURSE:  Given clearance from Vascular Surgery
+because of the history of abdominal aneurysm and having
+discussed several options with the patient the decision was
+made to proceed with surgery.  On  [**2645-12-1**], the
+patient underwent left partial nephrectomy.  The procedure
+was without any complications.  There was 500 cc blood loss.
+The patient was transferred to the Post Anesthesia Care Unit
+in stable condition.  His blood pressure and heartrate
+remained stable.  The patient was then transferred to the
+Intensive Care Unit over night for closer observation and
+monitoring of his blood pressure.  He was continued on
+intravenous fluids.  He was making good urine.  His
+[**Location (un) 618**]-[**Location (un) 619**] drain was in place with serosanguinous
+discharge.  His Foley catheter remained in place.  His
+postoperative hematocrit was 32.6 with stable electrolytes.
+His pain was controlled with patient controlled anesthesia.
+He was also given Toradol with good relief.  A chest x-ray
+was performed postoperatively which showed no evidence of
+pneumothorax.  On postoperative day #1 the patient's fluids
+were slowly decreased.  His diet was advanced to sips, to
+clears which he tolerated well.  The patient was noted to
+have marginal oxygen saturation and respiratory care was
+consulted for nebulizer treatments.  He was transferred from
+the Intensive Care Unit to the regular floor on postoperative
+day #1.  On postoperative #2 he was noted to have a
+temperature of 101.2.  His incision remained clean, dry and
+intact.  There was noted to be a small area of redness
+posterior to the incision which was blanching and did not
+increase in size and was nontender.  The patient was started
+on p.o. Levaquin prophylactically.  In addition the patient
+was noted to be wheezing on pulmonary examination with a
+small amount of bibasilar crackles.  A chest x-ray was
+obtained on postoperative day #2 which showed cardiomegaly
+and small right pleural effusion without any other signs of
+volume overload.  His fluids were discontinued.  The
+patient's diet was advanced to regular which he tolerated
+well.  He had a bowel movement on postoperative day #3.  His
+[**Location (un) 618**]-[**Location (un) 619**] drain was removed on postoperative day #2.  His
+Foley catheter was removed at midnight on postoperative day
+#3 and he voided without difficulty.  The patient was
+ambulating and physical therapy was consulted.  The patient's
+pain medication was switched to oral.  The patient was
+discharged to home on postoperative day #3 in stable
+condition.
+
+DISCHARGE CONDITION:  Good.
+
+DISCHARGE DESTINATION:  Home.
+
+DISCHARGE DIAGNOSIS:
+1.  Left renal mass, status post left partial nephrectomy
+2.  Diabetes
+
+DISCHARGE MEDICATIONS:
+1.  Levaquin 500 mg p.o. q. day times seven days
+2.  Percocet one to two tablets p.o. q. 4-6 hours prn pain
+3.  Colace 100 mg p.o. b.i.d. prn constipation
+4.  Lopressor 25 mg p.o. b.i.d.
+5.  Lipitor
+6.  Glyburide
+
+DISCHARGE INSTRUCTIONS:
+1.  The patient is to see his surgeon, Dr. [**First Name4 (NamePattern1) 1696**] [**Last Name (NamePattern1) 2634**] in
+approximately one week.
+2.  The patient is to see his primary care physician in
+approximately one to two weeks.
+
+
+
+
+                            [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 10336**]
+
+Dictated By:[**Last Name (NamePattern1) 5508**]
+MEDQUIST36
+
+D:  [**2645-12-4**]  10:33
+T:  [**2645-12-4**]  11:35
+JOB#:  [**Job Number 10337**]
+
+
+DOC CLASS

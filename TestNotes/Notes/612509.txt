@@ -1,0 +1,199 @@
+Chief Complaint:
+   24 Hour Events:
+   [**6-16**]
+   - UE U/S negative for DVT
+   - Left arterial pulse undetectable on doppler. Vasc eval, likely
+   traumatic arterial thrombus from ABG and arterial line attempt and to
+   continue heparin gtt.
+   - Bedside TTE in ED read as global RV hypokinesis.
+   - D/w outpatient oncologist ([**First Name4 (NamePattern1) 1647**] [**Last Name (NamePattern1) 6494**] - Sturdy Mem Hospital).
+   Assuming patient is stable then ok to discuss further onc eval as an
+   oupt.
+   - Hypotensive with MAP high 50s improved to MAP 60s with 250 cc IVF
+   bolus and transient phenylephrine.
+   - Patient c/o of severe abdominal pain subacute in timing (had similar
+   pain during vascular admission)
+   - Converted to gtt sedation.
+   - Discussed with daughter and grand-daughter.  HCP/Aunt coming in from
+   NY tomorrow.
+   - PM LFTs trending down.
+   - CTA read - chronic right PE. Right subclavian artery thrombus. Large
+   mass at right base with invades the hemidiaphragm with cortical
+   disruption of the adjacent rib and bony destruction.
+   [**6-17**]
+   - did well on SBT for 40 mins but failed extubation, was re-intubated
+   about an hour later because of worsening mental status, rising pCO2,
+   and hypotension with SBP in 50s transiently. Was put on levophed.
+   - BP rose actually immediately after intubation, not sure why
+   - family notified of need for re-intubation
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3302-6-16**] 09:00 AM
+   Ceftazidime - [**3302-6-18**] 12:00 AM
+   Vancomycin - [**3302-6-18**] 05:30 AM
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl - 75 mcg/hour
+   Heparin Sodium - 600 units/hour
+   Norepinephrine - 0.06 mcg/Kg/min
+   Other ICU medications:
+   Dextrose 50% - [**3302-6-18**] 05:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3302-6-18**] 07:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.6
+C (97.8
+   HR: 89 (71 - 111) bpm
+   BP: 96/60(75) {60/41(50) - 110/68(86)} mmHg
+   RR: 12 (12 - 17) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 63.3 kg (admission): 63.3 kg
+   Height: 65 Inch
+             Total In:
+                                                                  2,201 mL
+                                                                    885 mL
+   PO:
+             TF:
+                                                                     69 mL
+                                                                    205 mL
+   IVF:
+                                                                  2,132 mL
+                                                                    655 mL
+   Blood products:
+   Total out:
+                                                                  1,630 mL
+                                                                    460 mL
+   Urine:
+                                                                  1,630 mL
+                                                                    460 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    571 mL
+                                                                    425 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 311 (213 - 311) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 50
+   RSBI Deferred: No Spon Resp
+   PIP: 23 cmH2O
+   Plateau: 18 cmH2O
+   SpO2: 100%
+   ABG: 7.39/40/162/22/0
+   Ve: 5.6 L/min
+   PaO2 / FiO2: 405
+   Physical Examination
+   General: elderly woman, intubated
+   HEENT: pupils reactive bilaterally
+   Neck: JVP not elevated
+   Lungs: Coarse breath sounds bilaterally
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   Ext: Warm, well perfused, 1+ pulses, right LE with well-healed thigh
+   incision, dry R ankle wound
+   Labs / Radiology
+   374 K/uL
+   9.6 g/dL
+   175 mg/dL
+   0.8 mg/dL
+   22 mEq/L
+   3.8 mEq/L
+   15 mg/dL
+   111 mEq/L
+   141 mEq/L
+   31.0 %
+   21.3 K/uL
+        [image002.jpg]
+                             [**3302-6-17**]  04:25 AM
+                             [**3302-6-17**]  04:36 AM
+                             [**3302-6-17**]  12:48 PM
+                             [**3302-6-17**]  02:13 PM
+                             [**3302-6-17**]  03:10 PM
+                             [**3302-6-17**]  03:23 PM
+                             [**3302-6-17**]  05:50 PM
+                             [**3302-6-17**]  10:30 PM
+                             [**3302-6-18**]  02:06 AM
+                             [**3302-6-18**]  06:03 AM
+   WBC
+   13.4
+   21.3
+   Hct
+   29.7
+   30
+   31.0
+   Plt
+   338
+   374
+   Cr
+   0.9
+   0.8
+   TropT
+   0.12
+   0.12
+   0.13
+   0.14
+   TCO2
+   25
+   26
+   27
+   25
+   25
+   Glucose
+   82
+   175
+   Other labs: PT / PTT / INR:13.5/48.6/1.2, CK / CKMB /
+   Troponin-T:16/9/0.14, ALT / AST:32/39, Alk Phos / T Bili:510/0.4,
+   Differential-Neuts:86.9 %, Lymph:8.5 %, Mono:3.8 %, Eos:0.6 %, Lactic
+   Acid:0.8 mmol/L, LDH:264 IU/L, Ca++:9.6 mg/dL, Mg++:1.8 mg/dL, PO4:3.0
+   mg/dL
+   Assessment and Plan
+ PERIPHERAL VASCULAR DISEASE (PVD) WITH CRITICAL LIMB ISCHEMIA
+ ALTERATION IN NUTRITION
+ CANCER (MALIGNANT NEOPLASM), LUNG
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ IMPAIRED HEALTH MAINTENANCE
+ [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Impaired circulation LUE
+ IMPAIRED SKIN INTEGRITY
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**])
+ ATRIAL FIBRILLATION (AFIB)
+ LEUKOCYTOSIS
+ HYPOTENSION (NOT SHOCK)
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3302-6-18**] 06:19 AM 30 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3302-6-16**] 02:53 AM
+   Arterial Line - [**3302-6-16**] 03:54 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,224 @@
+Chief Complaint:  Hematemesis
+   HPI:
+   Please consult prior notes for further details.  Briefly, this is a
+   71M with ESLD from UC/PSC, and a complicated hospital course with
+   several ICU stays, recent variceal banding who became tachycardic to
+   110 and experienced 1 cup of hematemesis this morning.  His blood
+   pressure transiently fell to systolic of 100s, but rose back up to 120s
+   after IV fluid bolus was started.  He was started on octreotide gtt,
+   pantoprazole gtt and transferred to MICU for further management.
+   .
+   Patient's other active issues include SBP, which grew multiple
+   organisms including [**Female First Name (un) 176**] species.  He was started on a course of
+   Vancomycin, meropenem, and caspofungin.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Penicillins
+   Unknown; itchin
+   Sulfa (Sulfonamides)
+   chills;
+   Last dose of Antibiotics:
+   Infusions:
+   Octreotide - 50 mcg/hour
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Other medications:
+   Vancomycin
+   Meropenem
+   Caspofungin
+   Past medical history:
+   Family history:
+   Social History:
+   # Cirrhosis due to PSC:
+   - dx [**2559**] (s/p multiple ERCPs; atypical cytology in [**2559**], repeat neg
+   for atypical cells in [**2561**] and [**2562**])
+   - portal htn, portal gastropathy, ascites, SBP [**2566-10-11**]
+   - no EGDs, but multiple ERCPs with limited views of normal esophagus
+   - on [**2566-11-24**] underwent cholangiogram & had PTC drain removed
+   # Recurrent mild intermittent cholangitis
+   # CAD s/p MI with PTCA in [**2548**] and CABG in [**2557**]
+   # Chronic systolic heart failure, EF 36%
+   # Ulcerative colitis x 10-15 years
+   # PSC -
+   # GERD
+   # h/o Lyme disease [**7-8**]
+   # Hypercholesterolemia
+   # Hypertension
+   # Raynaud's disease s/p multiple finger and toe amputations
+   # OSA
+   # Esophageal stricture
+   # Depression
+   # ADHD
+   Mother died of peritonitis. His father died from complications of heart
+   disease.
+   Occupation: retired carpenter
+   Drugs:
+   Tobacco: no tobacco history
+   Alcohol:  3 oz EtOH daily
+   for 50 yrs, until appx [**2564**]
+   Other: Lives with wife, 1 son.
+   Review of systems:
+   Constitutional: Fatigue
+   Ear, Nose, Throat: OG / NG tube
+   Cardiovascular: Tachycardia
+   Nutritional Support: Tube feeds
+   Respiratory: Tachypnea
+   Gastrointestinal: No(t) Abdominal pain, Nausea, Emesis, Hematemesis
+   Integumentary (skin): Jaundice
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2566-12-18**] 06:30 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.4
+C (95.8
+   Tcurrent: 35.4
+C (95.8
+   HR: 110 (110 - 110) bpm
+   BP: 112/50(67) {112/50(67) - 112/50(67)} mmHg
+   RR: 28 (28 - 29) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+           Total In:
+           2,015 mL
+   PO:
+           TF:
+   IVF:
+   2,002 mL
+   Blood products:
+   13 mL
+   Total out:
+                                                                      0 mL
+                                                                     15 mL
+   Urine:
+   15 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  2,000 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula, Venti mask
+   SpO2: 94%
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL, icteric
+   Head, Ears, Nose, Throat: Poor dentition
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Bronchial:
+   bilateral, Rhonchorous: right)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent, cool
+   Musculoskeletal: Muscle wasting
+   Skin:  Cool
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): person, Movement: Not assessed, Tone: Not
+   assessed
+   Labs / Radiology
+   8.3
+   109
+   1.2
+   45
+   21
+   116
+   4.1
+   148
+   25.3
+   22
+        [image002.jpg]
+   Other labs: PT / PTT / INR:32.6/54.2/3.4, Alk Phos / T Bili:/6.6
+   Assessment and Plan
+   71 y/o man with PSC complicated by cirrhosis with known esophageal
+   varices and multiple epidoses of UGIB and banding this admission,
+   polymicrobial SBP, now with recurrent UGIB.
+   .
+   # GI bleed: 3 point hematocrit drop since last night
+   -- If plan to pursue endoscopy, will need to reverse DNR/DNI status as
+   EGD will require intubation.  Family notified and wishes to defer code
+   status reversal discussion to Dr. [**Last Name (STitle) 2183**]
+   -- 3 units PRBC and 2 units FFP now
+   -- Serial INR, fibrinogen, CBC q6H
+   -- PRBC for Hct < 26, FFP for INR > 2.0, platelets if < 50
+   -- PPI, octreotide gtt
+   -- Maintain peripheral IV access in addition to TLC
+   .
+   # Persistent leukocytosis. Complicated history of peritonitis, ?
+   cholangitis, and esophagitis. Cdiff has been negative. Blood and urine
+   cultures negative. No PNA seen on CXR.
+   -- continue vanco/[**Last Name (un) 411**] to cover for aspiration pna and peritonitis
+   -- continue caspofungin for esophagitis and peritonitis with [**First Name5 (NamePattern1) 176**]
+   [**Last Name (NamePattern1) 1612**]
+   -- monitor fever curve, WBC
+   .
+   # ESLD/cirrhosis: On liver transplant list. Complicated by ascites,
+   portal gastropathy, and SBP. No clear history of encephalopathy.
+   -- ursodiol [**Hospital1 **], lactulose 30 mg daily
+   -- hold spironolactone/lasix, nadolol in setting of above
+   -- Continue lactulose
+   .
+   # Biliary strictures: Pull back cholangiography on [**11-24**] demonstrated
+   no obstruction. PTC drain removed by IR [**2566-11-24**]. Bili peaked [**11-27**],
+   decreasing now.
+   -- Trend LFTs to assess for complications of PTC removal (ie,
+   cholangitis)
+   .
+   # Hypernatremia - likely due to poor po intake
+   -- d5W x 1 liter overnight
+   -- trend Na
+   .
+   # Ulcerative colitis:
+   -- Continue outpatient Mesalamine.
+   .
+   # CAD s/p CABG:
+   -- continue statin. Holding ASA and BB in setting of bleed.
+   .
+   # Hyperlipidemia
+   -- Continue outpatient dose statin.
+   .
+   # Depression/ADHD:
+   -- Continue sertraline. Hold Ritalin.
+   .
+   # FEN: NPO for now.
+   .
+   # PPx:
+   -- pneumoboots, ppi, lactulose
+   .
+   # Access:
+   -- PIVs
+   .
+   # CODE:
+   -- full, confirmed with patient
+   .
+   # COMM:
+   -- with patient and wife, [**Name (NI) 6918**] [**Telephone/Fax (1) 6919**]
+   .
+   # DISP:
+   -- ICU
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2566-12-18**] 06:00 AM
+   18 Gauge - [**2566-12-18**] 06:00 AM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Family meeting held  Comments:
+   Code status: DNR / DNI
+   Disposition: ICU
+
+
+DOC CLASS

@@ -1,0 +1,322 @@
+Admission Date:  [**2931-10-16**]              Discharge Date:   [**2931-10-24**]
+
+Date of Birth:  [**2892-12-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1158**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catherization w/ stent placement to LAD for ST-elevation
+MI
+Transesophageal echocardiogram
+
+
+History of Present Illness:
+38yo male w/ no PMH or cardiac risk factors presented to OSH w/
+SSCP [**8-23**], SOB, diaphoresis. He was found to have ST depressions
+v2-v5 w/ hyperdynamic T waveforms in v2-v5 and possible ST
+elevations in avR. He was started on heparin gtt, intergrillin
+gtt, NTG paste, ASA 162, plavix load 300mg and sent to [**Hospital1 22**] for
+emergent cath. LHC w/ total occlusion of LAD prior to diag,
+clean coronaries otherwise w/ collaterals to LAD region. s/p
+successful PCI w/ cypher stent of LAD lesion w/ good flow post
+dilt injection. LV gram w/ EF 40%, pcwp 10, CI 1.69. pt was sent
+to ccu for further HD monitoring. Upon arrival to floor pt
+CP/SOB free.
+
+Past Medical History:
+No diabetes, hyperlipidemia, HTN
+
+Social History:
+Mechanic, single, no children, no hx of alcohol/tobacco/drug use
+
+
+Family History:
+No hx of MI, CVA, DM in 1st degree relatives
+
+Physical Exam:
+VS- T BP 106/68 HR 72 RR 10-12 MAP 76 Sat 98% 3L
+Gen NAD/A&Ox3
+HEENT no JVD, mmm
+CV RRR nl s1s2 no mrg
+Lungs CTAB, no w/r/r
+Abd soft nt nd nabs
+Ext no c/c/e, R groin w/ oozing
+Fem pulses 2+ w/o bruits
+2+ DP pulses
+
+
+Pertinent Results:
+Lipid panel showed 169/total, 76/trig, 43/HDL, and 111/LDL
+CPK peaked at [**2939**]
+PSA=23.1
+Hep B and Hep C panel negative
+Urine culture negative
+Blood culuture still pending at discharge but no growth after 3
+days.
+.
+Imaging Studies:
+ECG Study Date of [**2931-10-16**]  4:45:36 PM
+Sinus bradycardia. Prior anteroseptal myocardial infarction. No
+previous
+tracing available for comparison. Clinical correlation is
+suggested.
+.
+C.CATH Study Date of [**2931-10-16**]
+1. Selective coronary angiography of this right dominant system
+revealed
+a single vessel coronary disease.  The LMCA was of normal
+caliber and
+had good flow.  The LAD was a culprit vessel and had a proximal
+complete
+thrombotic occlusion before the take off of D1 with collaterals
+from the
+RCA. The LCX had no angiographically apparent disease.  The RCA
+was a
+dominant vessel without any evidence of obstructive disease.  It
+gave
+collaterals to the distal LAD.
+2. Resting hemodynamics revealed mildly elevated left sided
+filling
+pressure with an LVEDP of 21 mm Hg.  The cardiac index was
+depressed at
+1.69 l/min/m2.  Central aortic systolic pressure was in the
+range of 100
+mm Hg.
+3. Left ventriculography revealed no evidence of mitral
+regurgitation.
+The LVEF was depressed at 41% with anterioapical akinesis.
+4. Successful PTCA and stenting of the proximal LAD with a 3.0
+Cypher
+DES with restoration of normal flow. The final angiography
+showed TIMI
+III flow with no evidence of dissection, embolizatio or
+perforation.
+(See PTCA comments)
+.
+FINAL DIAGNOSIS:
+1. Thrombotic occlusion of proximal LAD.
+2. Severe systolic ventricular dysfunction.
+3. Depressed cardiac index with central aortic normotension.
+4. Mildly elevated left sided filling pressure.
+5. Successful PCI of the LAD
+.
+CHEST (PORTABLE AP)  [**2931-10-17**] 7:41 AM
+Heart size normal. Lungs clear. No pleural abnormality or
+evidence of central adenopathy. Granulomatous calcification
+noted in the left hilus and right lower paratracheal mediastinum
+without appreciable lymph node enlargement.
+.
+ECG Study Date of [**2931-10-17**]  9:06:30 AM
+Sinus rhythm. Prior anteroseptal myocardial infarction. Compared
+to the
+previous tracing of [**2931-10-16**] no diagnostic interim change.
+.
+BILAT LOWER EXT VEINS  [**2931-10-20**] 8:52 PM
+BILATERAL LOWER EXTREMITY ULTRASOUND: Grayscale and color
+Doppler son[**Name (NI) **] was performed of the right and left common
+femoral, superficial femoral, and popliteal veins. Normal
+waveforms, compressibility, flow, and augmentation are
+demonstrated. No intraluminal thrombus identified.
+.
+IMPRESSION: No DVT.
+.
+CT PELVIS W/CONTRAST  [**2931-10-21**] 6:11 PM
+CT ABD W&W/O C; CT PELVIS W/CONTRAST
+1. Fatty infiltration of the liver; otherwise no evidence of
+hepatic abnormality based on CT.
+.
+2. Soft tissue stranding seen along the extraperitoneal space
+along the right iliac vessels, likely hemorrhage related to
+presumed right-sided catheterization. This does not extend into
+the abdomen.
+.
+3. Heterogeneous enhancement of the prostate and seminal
+vesicles of uncertain significance--this is not a typical
+appearance for tumor, and may represent
+infection/abscess--please correlate clinically.
+.
+Transesophageal ECHO [**2931-10-23**]:
+Conclusions:
+There is mild regional left ventricular systolic dysfunction
+with hypokinesis  of the anterior wall, septum, and apex. Right
+ventricular chamber size and free wall motion are normal. The
+ascending, transverse and descending thoracic aorta are normal
+in diameter and free of atherosclerotic plaque. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion. No masses or vegetations are seen on the aortic
+valve. The mitral valve appears structurally normal with trivial
+mitral regurgitation. No mass or vegetation is seen on the
+mitral valve. No vegetation/mass is seen on the pulmonic valve.
+There is no pericardial effusion.
+.
+IMPRESSION: No evidence of endocarditis. Regional left
+ventricular systolic dysfunction.
+.
+[**2931-10-16**] 10:45PM   GLUCOSE-122* UREA N-14 CREAT-0.8 SODIUM-137
+POTASSIUM-4.5 CHLORIDE-106 TOTAL CO2-22 ANION GAP-14
+[**2931-10-16**] 10:45PM   ALT(SGPT)-50* AST(SGOT)-95* CK(CPK)-997* ALK
+PHOS-103 TOT BILI-0.5
+[**2931-10-16**] 10:45PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2931-10-16**] 10:45PM   CALCIUM-8.8 PHOSPHATE-3.9 MAGNESIUM-2.1
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] is a 38 year old male with no significant cardiac risk
+factors who presented with an anterior STEMI with a totally
+occluded LAD s/p cypher stent.  Post-cath was complicated by
+fever.
+.
+Cardiac:
+Patient presented to OSH with 8/10 SSCP, SOB and diaphoresis.
+He was found to have ST depressions v2-v5 w/ hyperdynamic T
+waveforms in v2-v5 and possible ST elevations in aVR.  He was
+started on heparin gtt, Integrilin gtt, NTG paste, ASA 162,
+Plavix load 300mg and sent to [**Hospital1 22**] for emergent cath. LHC
+showed total occlusion of LAD prior to diag, clean coronaries
+otherwise w/ collaterals to LAD region.  He underwent successful
+PCI with cypher stent of LAD lesion with good flow.  LV gram
+revealed EF 40%, PCWP 10, CI 1.69.  CPK peaked at [**2939**].  Post
+cath echo showed and EF of 40% with hypokinesis of the anterior
+septum, anterior free wall, and apex.
+Patient was started on a daily aspirin, Plavix, Toprol XL 25mg
+PO QD, Atorvastatin 80mg PO QD and Losartan Potassium 25mg PO QD
+due to ACEI cough.  Lipid panel showed 169/total, 76/trig,
+43/HDL, and 111/LDL.  The patient remained chest pain free after
+cath.
+.
+ID:
+Post cath course was complicated by a fever spike to 104F.
+Urine analysis was positive for a UTI with few bacteria and
+21-50 WBC and the patient was started on Levaquin.  Urine was
+negative for chlamydia and gonorrhea. Despite antibiotic
+treatment, the patient continued to spike fevers over the next
+two days and upon further questioning the patient reports having
+a recent skin infection.  He is a car mechanic and developed a
+pustular skin lesions with an erythematous base that began on
+his left hand after he cut himself on [**2931-10-5**].  He then
+developed 3 other similar lesions, one on his left arm, one on
+his right arm and one on his left knee.  The patient saw his PCP
+and cultures from the pustular lesions grew out MSSA.  The
+patient received a 3 day course of Rocephin and a one week
+course of Augmentin that he finished one day prior to current
+admission.
+.
+Patient was started on nafcillin per ID recs.  With a presumed
+history of bacteremia with staph aureus, the patient underwent a
+TEE to rule out endocarditis that was negative.  CT scan showed
+no liver abscess or other signs of infection and his hepatitis
+panel was negative.  Liver transaminases were transiently
+elevated, but this is more likely due to his recent MI than an
+acute liver infection.  Abdomen/pelvis CT imaging showed
+heterogeneous enhancement of the prostate and seminal vesicles
+that was concerning for tumor vs. infection.  His prostate was
+smooth and firm on exam without tenderness.  PSA, however, was
+elevated to 23.1 which may be from his infection or from
+possible prostate cancer/BPH.  The patient was discharged on a 3
+week course of DS bactrim [**Hospital1 **] for prostatits, and the team spoke
+with his PCP, [**Last Name (NamePattern4) 21**]. [**Last Name (STitle) 13986**], who asked to see the patient in her
+clinic in 3 weeks for further evaluation.
+.
+Patient will followup with PCP and cardiologist for [**Hospital 13987**]
+medical management.
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+5. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO BID (2 times a day) for 19 days.
+Disp:*38 Tablet(s)* Refills:*0*
+6. Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnoses:
+ST-elevation myocardial infarction s/p stent to LAD on [**2931-10-16**]
+Urinary tract infection
+Prostatitis
+Staphyloccoccus skin infection
+
+
+Discharge Condition:
+Stable, afebrile, ambulating independently
+
+
+Discharge Instructions:
+You were admitted for a myocardial infarction and had a stent
+placed in one of the main coronary arteries that supply blood to
+your heart. You were taken to the coronary care unit for close
+monitoring and remained stable for 72 hours after your heart
+attack. However, you developed a urinary tract infection likely
+due to the foley catheter placed during your procedure and were
+started on the antibiotic levoquin for a 3 day course. Despite
+antibiotic treatment, you still had persistent fevers which upon
+further questioning may have been due to the staphylococcus
+bacterial skin infection for which you were treated with
+antibiotics prior to admission. Nafcillin antibiotic was started
+to treat for possible skin infection which may have seeded to
+the blood and prostate. You had a echocardiogram of your heart
+to evaluate for bacterial growth on valves and it was normal.
+You will be discharged on a 3 week course of bactrim for
+treatment of UTI and prostatitis.
+.
+You were placed on atorvastatin, aspirin, plavix, and metoprolol
+after your heart attack. You should take plavix for at least 1
+year to prevent thrombus formation around your coronary artery
+stent stent.
+.
+Please return to the ED or call your PCP if you experience chest
+pain, shortness of breath, lightheadedness, dizziness, worsening
+of pain at your right groin catherization site.
+.
+Please limit your physical activities such as heavy lifting and
+running for the next 6 weeks to reduce strain on your heart. You
+should maintain a low salt, cardiac healthy diet, avoid smoking,
+and take all your medications as prescribed.
+
+Followup Instructions:
+You have an appointment with Dr. [**First Name8 (NamePattern2) 171**] [**Last Name (NamePattern1) 169**] on [**2931-11-12**] at
+3:15PM.  Please call him at [**Telephone/Fax (1) 172**] if you have any
+questions or need to reschedule.
+.
+You have an appointment with Dr. [**Last Name (STitle) 13988**] [**Name (STitle) 13986**] on [**2931-11-14**]
+at 10:15AM.  Please call her at [**Telephone/Fax (1) 172**] if you have any
+questions or need to reschedule
+.
+You should have a prostate serum antigen (PSA) checked in 1
+month for resolution of prostate infection and also to evaluate
+screening risk for cancer. Your PCP should evaluate risk for
+prostate cancer given elevated PSA level and CT pelvis finding
+of enlarged prostate, concerning for tumor.
+.
+You should have a follow up CT abdomen/pelvis in 3 weeks to
+evaluate the prostate, after completing antibiotic course.
+
+
+
+
+
+DOC CLASS

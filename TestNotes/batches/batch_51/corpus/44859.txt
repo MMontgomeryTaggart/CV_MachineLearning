@@ -1,0 +1,417 @@
+Admission Date:  [**2913-4-14**]              Discharge Date:   [**2913-4-20**]
+
+Date of Birth:  [**2853-6-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2014**]
+Chief Complaint:
+NSTEMI; ASA desensitization prior to cath
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization [**2913-4-17**]
+
+History of Present Illness:
+This is a 59 year-old female with a history of non ischemic
+dilated cardiomyopathy EF 20-25% followed by HF clinic at
+[**Hospital1 2046**] who was admitted to NEBH 3/309 with progressively
+worsening SOB since [**2913-1-9**], diaphoresis and chest pain.
+She was found to be in heart failure with elevated BNP and ruled
+in for NSTEMI with troponin I 5.97 peak, CK 212, CKMB 5.1 index
+2.4. She was diuresed, started on nitro gtt and heparin gtt and
+underwent cardiac cath [**2913-4-14**] with 2VD with 50% proximal and 50%
+mid LAD stenosis as well as 70-80% stenosis distal RCA. Heparin
+gtt d/c'd at 0800. Due to reaction of anaphylaxis with ASA she
+was transferred here for ASA desensitization and PCI. She report
+continued SOB and diaphoresis which has been present since
+[**Month (only) 728**] and was precipitaed by flu like illness. She denies any
+current chest pain buit has had intermittent epigastric
+discomfort typically relieved with maalox. She reports
+exertional dyspnea, PND, orthopnea. Symptoms have been
+progressive x months but acutely worsened 1 week prior to
+transfer one day after lasix dose decreased from 80 [**Hospital1 **] to daily
+ad dig stopped [**3-13**] concern for dig toxicity. ALso has had
+dietary indiscretion with poor PO intake but eating low sodium
+soup and saltines.
+.
+Echo at OSH: LV markedly dilated, severe global HK, EF 20-25%,
+[**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 24674**] dilated, RV mildly enlarged, RV fxn mildly impaired,
+RA mildly enlarged, Moderate MR, Mild-mod TR, small left pleural
+effusion.
+.
+On review of systems, report subjective fevers, diaphoresis,
+decreased PO intake, nausea and vomiting. Denies diarrhea, SOB,
+CP, palpitations.
+
+
+Past Medical History:
+Non ischemic Cardiomyopathy EF 20-25% diagnosed 14 years ago
+Asthma
+HTN
+Mitral valve regurgitation
+Sleep apnea
+Pulmonary HTN
+Hypothyroidism
+Depression/Anxiety
+.
+Cardiac Risk Factors: -Diabetes, Dyslipidemia, Hypertension
+.
+Percutaneous coronary intervention, [**2913-4-14**] anatomy as follows:
+Left main normal
+LAD gives rise to mod diag, 50% prox and 50% mid LAD stenosis
+Left circ 30% ostial stenosis
+RCA dominant. 70-80% stenosis distal RCA. run off very good
+.
+Pacemaker/ICD: pt has refused in past
+
+
+Social History:
+Patient is single. Works part time at library. Social history is
+significant for the absence of current tobacco use. There is no
+history of alcohol abuse.
+
+
+
+Family History:
+She has history of premature CAD with father having MI in 50s.
+
+Physical Exam:
+VS - T 98.2, HR 105, BP 109/47, RR 22, 100% on 3L NC
+Gen: WDWN middle aged female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple with JVP of [**11-20**] cm.
+CV: PMI laterally displaced. Tachy. reg. [**4-14**] holosystolic
+blowing urmur radiating to apex. Normal S1, S2.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Pt occasionally
+tachypneic with anxiety. Crackles in bases anteriorly.
+Abd: Soft, NT. Mildly distended with hepatomegaly 2-3cm below
+costal margin. No RUQ tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: No c/c/e. No femoral bruits. R femoral dsg CDI. Ext
+slightly mottled
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+.
+Pulses:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+Admission labs [**2913-4-14**]
+WBC-12.2* RBC-4.44 Hgb-12.4 Hct-37.6 MCV-85 MCH-28.0 MCHC-33.1
+RDW-15.3 Plt Ct-335
+PT-15.4* PTT-29.0 INR(PT)-1.4*
+Glucose-167* UreaN-18 Creat-1.0 Na-134 K-4.9 Cl-96 HCO3-29
+AnGap-14
+ALT-65* AST-40 LD(LDH)-311* CK(CPK)-120 AlkPhos-59 Amylase-26
+TotBili-0.4
+CK-MB-4 cTropnT-0.10* proBNP-7323*
+Albumin-4.0 Calcium-8.9 Phos-3.5 Mg-2.7* Cholest-137
+%HbA1c-7.8*
+Triglyc-174* HDL-26 CHOL/HD-5.3 LDLcalc-76
+Miscellaneous Labs
+[**2913-4-15**] TSH-2.1
+[**2913-4-16**]  CK-MB-6 cTropnT-0.06*
+[**2913-4-17**]  Glucose-149* UreaN-27* Creat-0.9 Na-132* K-3.9 Cl-95*
+HCO3-30 AnGap-11
+[**2913-4-17**]  PT-17.1* PTT-52.1* INR(PT)-1.5*
+[**2913-4-17**]  WBC-10.5 RBC-3.97* Hgb-11.4* Hct-33.4* MCV-84 MCH-28.7
+MCHC-34.1 RDW-15.5 Plt Ct-293
+[**2913-4-18**]  CK(CPK)-258*
+[**2913-4-18**]  CK-MB-6 proBNP-6482*
+[**2913-4-14**]  CK-MB-4 cTropnT-0.10* proBNP-7323*
+[**2913-4-14**]  %HbA1c-7.8*
+[**2913-4-14**] Triglyc-174* HDL-26 CHOL/HD-5.3 LDLcalc-76
+[**2913-4-15**] TSH-2.1
+[**2913-4-16**]  Digoxin-0.6*
+[**2913-4-15**] 10:15PM URINE RBC-24* WBC-10* Bacteri-NONE Yeast-NONE
+Epi-0
+[**2913-4-15**] 10:15PM URINE Blood-LG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+[**2913-4-15**] 10:15PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.009
+
+Discharge Labs
+[**2913-4-19**]  WBC-11.8* RBC-4.05* Hgb-11.5* Hct-33.7* MCV-83
+MCH-28.4 MCHC-34.2 RDW-15.7* Plt Ct-355
+[**2913-4-19**]  Glucose-214* UreaN-24* Creat-1.1 Na-132* K-4.7 Cl-92*
+HCO3-26 AnGap-19
+
+Reports/Imaging
+ECG [**2913-4-14**]: Sinus tachycardia. Left atrial enlargement.
+Occasional ventricular ectopy.  Left ventricular hypertrophy.
+Right axis deviation. Downsloping ST segment depression and T
+wave inversion in leads V4-V6 which may be left ventricular
+hypertrophy related. Lateral ischemia cannot be excluded. No
+previous tracing available for comparison. Clinical correlation
+of the right axis deviation and ST-T wave changes is suggested.
+
+
+CXR [**2913-4-15**]: REASON FOR EXAM: 59-year-old woman with CHF admitted
+with shortness of breath and chest pain, please evaluate for
+infiltrate or effusion.
+Since [**2910-3-17**], moderate left and small right pleural
+effusions are new with bibasilar opacity, likely atelectasis.
+Heart size is difficult to assess. There are no signs of edema.
+Scoliosis is unchanged.
+.
+Cardiac cath [**2913-4-17**] COMMENTS:
+1.  Selective coronary angiography revealed two vessel CAD.  The
+LM was angiographically normal. The LCX was angiographically
+normal.  The LAD had a mid 70-80% hazy lesion and the mid-distal
+LAD had a 70% lesion.  The RCA had moderate diffuse distal
+disease but the discrete lesion seen on Friday was clearly no
+longer evident.  There was evidence of distal embolization with
+slow flow in RPL.
+2.  Limited hemodynamics with BP 83/55 with HR 83 in sinus.  We
+gave
+500cc NS bolus.  Right heart cath was deferred.
+3. Stenting of LAD with Vision 3x8 and 3x12mm bare metal stents.
+
+4. Groin closure with Mynx device
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Severe cardiomyopathy with EF 20% and cardiac index 1.3 on
+Friday
+3. NSTEMI involving RCA territory.
+4. Stenting of LAD.
+
+Echo [**2913-4-18**]
+The left atrium is moderately dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is severely
+dilated. Overall left ventricular systolic function is severely
+depressed (LVEF= 20 %) secondary to akinesis of the entire
+interventricular septum and inferior free wall and severe
+hypokinesis of the anterior free wall and apex. The posterior
+wall contracts normally and the lateral wall is only mildly
+hypokinetic. Tissue Doppler imaging suggests an increased left
+ventricular filling pressure (PCWP>18mmHg). Transmitral Doppler
+and tissue velocity imaging are consistent with Grade III/IV
+(severe) LV diastolic dysfunction. There is no ventricular
+septal defect. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. The mitral valve
+leaflets do not fully coapt due to posterior and apical
+tethering of the leaflets. An eccentric, posteriorly directed
+jet of severe (4+) mitral regurgitation is seen. The left
+ventricular inflow pattern suggests a restrictive filling
+abnormality, with elevated left atrial pressure. Moderate to
+severe [3+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+IMPRESSION: severe, multifocal left ventricular contractile
+dysfunction with severe chamber enlargement, severe mitral
+regurgitation, preserved posterior wall contractile function,
+moderate pulmonary hypertension, and moderate-to-severe
+tricuspid regurgitation
+
+
+Brief Hospital Course:
+Patient is a 59F with non-ischemic dilated cardiomyopathy
+admitted with progressive SOB and intermittent CP with
+borderline elevated biomarkers at OSH transferred for ASA
+desensitization and PCI.
+.
+#. ASA desensitization: Patient completed ASA desensitization
+[**2913-4-15**] per protocol with solumedrol, benadryl and singulair
+prior to desensitization. She was subsequently continued on ASA
+325 PO daily which she tolerated. She did not have any adverse
+reactions to ASA desensitization.
+.
+#. CAD/Chest pain: Pt found to have 2VD on cardiac cath at OSH.
+She had echo without focal WMA so unclear if 2VD is true
+etiology of her current symptoms. EKG changes and elevated
+biomarkers may also be c/w strain. Since it was felt that her
+symptoms may benefit from intervention, she was taken to cath
+lab on [**2913-4-17**]. Her RCA was not found to be occluded at the time
+and findings were consistent with recent lysis and embolization
+of an RCA thrombus. The LAD, however, was found to have approx
+70%-80% stenosis. She had BMS x 2 to LAD. Subsequently, she was
+continued on ASA 325, plavix 75 daily, statin, imdur, beta
+blocker.
+.
+#. Pump: Pt has longstanding history of non-ischemic dilated CM
+of unknown etiology with EF 20-25% with severe global HK.
+Symptoms over last several months most c/w  decompensated
+systolic and diastolic heart failure. Possible exacerbating
+factors include medication changes (lasix dose decreased by
+half), dietary indiscretion and recent viral illness with
+increased demand. From echo here, it is also possible that her
+longstanding history of cardiomyopathy may have been ischemic
+after all, although it is difficult to tell now. She was
+diuresed for net negative 1-2 liters per day, intially with IV
+lasix 40 IV BID then with 80 lasix IV BID. We considered
+titrated heart failure therapy with Swan ganz catheter due to
+severity of elevated wedge and low CI at OSH cath but did not
+feel it was neccessary since she was responding well to lasix IV
+[**Date Range 838**] and was comfortable on room air with sats in mid 90s. Per
+notes, she is not candidate for heart transplant [**3-13**] pulm HTN
+and has refused ICD in past. Per OSH records she had elevated
+Dig level prior to admission. Dig level 0.6 here. Dig was
+restarted. She was continued on Aldactone, beta blocker, ACE.
+We attempted changing metoprolol to carvedilol but pt had
+increased wheezing with carvedilol so changed back to
+metoprolol. Diuretic regimen changed from furosemide to
+torsemide atr discharge for improved heart failure management
+and diuresis.
+.
+#.Leukocytosis: Pt had mild leukocytosis with complaints of
+urinary dysuria and mildly dirty UA. Foley catheter was d/c'd.
+Urine culture grew enterococcus but U/A negative and pt without
+symptoms so antibiotics were not started at discharge.
+Leukocytosis may have been partially related to steroids.
+.
+#. Rhythm: Sinus. Continued beta blocker.
+.
+#. Asthma: Pt has h/o increased bronchospasm with ASA in past.
+She tolerated ASA well without exacerbation of asthma symptoms.
+Continued outpatient regimen of advair, nebs, predisone 5mg PO
+daily.
+.
+#. Anxiety/Depression: Continued Celexa, valium, buspar
+.
+#. Hypothyrodism: Continued synthroid. TSH WNL
+.
+#. Code: Full
+
+
+Medications on Admission:
+Isosorbide 30mg PO BID
+Enalapril 20mg PO BID
+Spironolactone 25mg daily
+lasix 80mg [**Hospital1 **]
+toprol XL 12.5mg daily
+digoxin 0.125 mg daily
+buspar 30mg [**Hospital1 **]
+albuterol 2 puffs QID prn
+Citracal D 2 tabs Po BID
+prednisone 5mg daily
+levoxyl 50mcg daily
+lipitor 10mg daily
+effexor xr 300mg daily
+diazepam 5mg prn
+estradiol topical
+advair 250/50 [**Hospital1 **]
+prevacid 30mg daily
+colace 1 capsule [**Hospital1 **]
+temazepam 15mg qhs
+valium 5mg TID
+
+
+Discharge Medications:
+1. Buspirone 30 mg Tablet Sig: One (1) Tablet PO twice a day.
+2. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+3. Venlafaxine 150 mg Capsule, Sust. Release 24 hr Sig: Two (2)
+Capsule, Sust. Release 24 hr PO once a day.
+4. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Torsemide 20 mg Tablet Sig: Three (3) Tablet PO BID (2 times
+a day).
+Disp:*180 Tablet(s)* Refills:*2*
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Toprol XL 25 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+9. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs
+Inhalation four times a day as needed for shortness of breath or
+wheezing.
+11. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+13. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+14. Temazepam 15 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime) as needed.
+15. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+16. Enalapril Maleate 10 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+17. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+18. Isosorbide Dinitrate 30 mg Tablet Sig: One (1) Tablet PO
+once a day.
+19. GlipiZIDE 2.5 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Acute on Chronic Systolic Heart Failure
+Non ST Elevation Myocardial Infarction
+coronary Artery disease
+Severe Mitral Regurgitation
+Hyperglycemia
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted with a heart attack and had a catheterization
+at [**Hospital6 2018**] and was then transferred here for a stent
+and aspirin desensitization. You had another catheterization and
+2 bare metal stents were placed in your left anterior descending
+artery. You will need to take Plavix and aspirin every day for
+at least one month. Do not miss [**First Name (Titles) 839**] [**Last Name (Titles) 838**] or stop taking Plavix
+unless Dr. [**First Name (STitle) 205**] tells you to. We also changed some of your
+medicines for the heart failure. Your weight at discharge is 137
+pounds.
+Medication changes:
+1. Stop taking furosemide, take Torsemide 60 mg twice daily
+instead.
+2. Start taking Digoxin again at 0.125 mg daily
+3. Start Glipizide 2.5 mg daily
+4. You were started on Plavix to take every day for one month,
+do not miss [**First Name (Titles) 839**] [**Last Name (Titles) 838**] or stop taking Plavix unless Dr. [**First Name (STitle) 205**]
+tells you to.
+5. Your Atorvastatin was increased to 80 mg daily. You will need
+to get liver function tests checked in 6 weeks.
+6. Your nexium was changed to protonix. Please speak to Dr.
+[**First Name (STitle) 205**] about whether he wants you to continue with this medicine.
+
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs in one
+day or 6 pounds in 3 days.
+Adhere to 2 gm sodium diet
+Fluid Restriction:1.5 liters or about 6 cups.
+.
+Please call Dr. [**First Name (STitle) 205**] if you develop increasing nausea,
+heartburn, trouble breathing, chest pain, diaphoresis or any
+other concerning symptoms.
+
+Followup Instructions:
+Mammogram:
+Provider: [**Name10 (NameIs) 4202**] Phone:[**Telephone/Fax (1) 351**] Date/Time:[**2913-7-17**] 3:15
+Cardiology:
+Dr. [**First Name8 (NamePattern2) 2492**] [**Last Name (NamePattern1) 205**] Phone: [**Telephone/Fax (1) 113**] [**Hospital Ward Name 60**] clinical Center, [**Hospital Ward Name **], [**Location (un) **]. Date/time: Monday [**4-24**] at 2:30
+Primary Care:
+[**Last Name (LF) **],[**First Name3 (LF) **] R. Phone: [**Telephone/Fax (1) 18340**] Date/time: please call Dr.
+[**Last Name (STitle) 18339**] after you get home and make an appt to see him after
+you see Dr. [**First Name (STitle) 205**].
+
+
+
+Completed by:[**2913-4-20**]
+
+DOC CLASS

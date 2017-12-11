@@ -1,0 +1,614 @@
+Admission Date:  [**3202-9-24**]              Discharge Date:   [**3202-10-10**]
+
+Date of Birth:  [**3131-12-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Levofloxacin / Ace Inhibitors
+
+Attending:[**First Name3 (LF) 906**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+EGD, colonoscopy
+
+History of Present Illness:
+70 year old male with DM, dialated ischemic cadiomyopathy
+(EF=10%) s/p PCM/ICD, CAD s/p MI x 3 and CABG, aflutter s/p
+cardioversion on dabigatran, Stage III CKD, and DM, PVD s/p
+right 4th toe amputation on [**3202-7-21**].  He was most recently
+admitted on [**3202-8-20**] debridement of his right foot for an
+osteomyelitis from a right 4th digit ulcer.  He was discharged
+on [**8-27**] to [**Hospital3 **] with a PICC and a 6 week course of
+vancomycin.  On [**9-14**] the pt reportedly d/c'd his own PICC.  He
+was discharged from Rehab on [**3202-9-16**] on PO vancomycin because he
+had no IV access.  He left AMA.  He was doing well at home until
+2 days prior to admission when he started to be more "altered"
+according to his wife.  [**Name (NI) **] was not responding appropriately and
+speaking less.  He had decreased PO intake.  According to his
+wife, he "lives" for his food and so she always knows something
+is wrong when he loses his appetite.  She denies fevers, sweats
+in him.  She said his urine was very cloudy, but denies that he
+had reported dysuria.  He did not have increased frequency.  She
+was suspicious for a UTI because he had similar symptoms when he
+had a previous UTI.  Patient also started having diarrhea 2 days
+prior to admission.  He had an unspecified amount of diarrhea
+and the wife thought it was secondary to the vancomycin.
+.
+Of note, the patient was seen in podiatry clinic on [**9-20**] the pt
+was seen in podiatry clinic that notes that the right foot was
+"friable" but had "no signs of infection".
+.
+Here in the ER the pt presented altered, and reportedly without
+any localizing symptoms, just becoming increasingly altered with
+decreased PO intake over the preceding 3-4 days.  The pt's wife
+did report that the pt had abdominal pain, but the wife reported
+that this was chronic.  In the ER, the pt was 99.4*F, p91,
+90/56, r14, 100% on 3L, hypotensive, had "foul" urine, the pt's
+right foot was erythematous, and had [**Last Name (un) 94**], and was administered
+vancomycin, zosyn, and then D50, 10U regular insulin, calcium
+gluconate, and 30mg kayexalate.  A CT head, abdomen, and pelvis
+was performed which was unrevealing.  While in the ER, the pt
+began to have "shaking".  Per the pt's wife, the shaking is near
+baseline as the pt has a near constant tremor, and didn't
+particularly notice that it was particularly worse.  Regardless,
+a bedside EEG was performed, which revealed seizures.
+.
+On arrival to the MICU the pt was oriented only to person,
+essentially non-verbal.  The wife was [**Name (NI) 221**] and the HPI was
+reviewed.
+.
+Review of systems:
+Unable to assess given patient was not responding verbally to
+most questions
+
+Past Medical History:
+1.  CAD, multiple MIs, CABG ([**3192**]) ([**3192**]): SVG-PL, SVG-Diagonal
+and LIMA-LAD. He had a PTCA only of the mid Cx with an Apex OTW
+2.25x15 mm
+2.  Dilated ischemic cardiomyopathy with LVEF of 10%.
+3.  Atrial flutter, status post cardioversion [**3201-1-12**].
+4.  BiV ICD pacemaker.
+5.  Diabetes.
+6.  Dyslipidemia.
+7.  Hypertension.
+8.  Stage III chronic kidney disease secondary to hypertension
+and diabetes.
+9.  Retinopathy, neuropathy, and nephropathy from diabetes.
+10.  Left hip fracture with attempted surgery, which resulted in
+a cardiac arrest.
+11.  History of substance abuse.
+12.  History of pancreatitis.
+13.  GERD.
+14.  Colonic polyps.
+15.  [**7-22**] Right fourth toe amputation.
+16.  [**7-/3201**] ORIF left hip with persistent nonunion of his
+subtrochanteric femur fracture
+17.  Left eye vitrectomy
+18.  [**3202-8-16**]: RLE Balloon angioplasty of tibioperoneal trunk,
+Balloon angioplasty of the anterior tibialis artery.
+19.  [**3202-8-20**]: Debridement of wound down through subcutaneous
+tissue and including bone with placement of vacuum-assisted
+closure dressing.
+
+Social History:
+- Previously employed as cab driver, now retired. Lives at home
+with his wife.
+- Tobacco history: 40-50 pack year history, quit 15 years ago
+- ETOH: heavy use until [**3181**]
+- Illicit drugs: previous heroin/cocaine use
+
+Family History:
+Mother and father died in 70's-80s of cancer. Denies any family
+history of cardiac disease. No family history of early MI.
+
+Physical Exam:
+Vital signs: T97 P93 BP 116/47 RR 10 Sat 95%RA
+General: Alert, not oriented to person, place, time, or event,
+in no obvious painful distress, non-verbal.
+HEENT: Anisicoria, Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: foley with purulent light yellow urine.
+Ext: warm, well perfused, 2+ pulses, no clubbing.  To the right
+lower extremity the pt is s/p 4th toe amputation to the
+metatarsal head.  The wound is granulated with dried blood over
+it, with obvious exposed bone.  There is minimal erythema but
+there is extensive chronic skin changes of vascular
+insufficiency bilaterally.
+
+Pertinent Results:
+Admission Labs:
+[**3202-9-24**] 08:21PM BLOOD WBC-3.7* RBC-3.79* Hgb-9.7* Hct-27.9*
+MCV-74* MCH-25.6* MCHC-34.8 RDW-16.7* Plt Ct-222
+[**3202-9-24**] 08:21PM BLOOD Neuts-71.9* Lymphs-15.0* Monos-8.3
+Eos-4.3* Baso-0.4
+[**3202-9-24**] 12:30PM BLOOD PT-29.9* PTT-75.7* INR(PT)-2.9*
+[**3202-9-24**] 12:30PM BLOOD Glucose-76 UreaN-148* Creat-8.6*# Na-141
+K-7.0* Cl-102 HCO3-11* AnGap-35*
+[**3202-9-24**] 12:30PM BLOOD ALT-32 AST-36 CK(CPK)-384* AlkPhos-340*
+TotBili-0.4
+[**3202-9-24**] 12:30PM BLOOD CK-MB-9 cTropnT-0.21*
+[**3202-9-24**] 12:30PM BLOOD Calcium-9.5 Phos-12.4*# Mg-2.9*
+[**3202-9-24**] 08:21PM BLOOD Digoxin-1.3
+[**3202-9-24**] 10:34PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+.
+Urinalysis:
+[**3202-10-9**] 04:20PM URINE Color-Yellow Appear-Cloudy Sp [**Last Name (un) **]-1.016
+[**3202-10-9**] 04:20PM URINE Blood-MOD Nitrite-NEG Protein-100
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG
+[**3202-10-9**] 04:20PM URINE RBC-59* WBC->182* Bacteri-NONE Yeast-NONE
+Epi-0
+.
+Microbiology:
+Blood cultures x 2 [**3202-9-24**]: No growth
+Urine culture [**3202-9-24**]: YEAST. >100,000 ORGANISMS/ML
+Urine culture [**3202-9-26**]: No growth.
+Mycolytic blood cultures [**3202-9-27**] (preliminary):
+   BLOOD/FUNGAL CULTURE (Preliminary): NO FUNGUS ISOLATED.
+   BLOOD/AFB CULTURE (Preliminary): NO MYCOBACTERIA ISOLATED.
+Blood culture [**3202-9-28**]: No growth
+H. pylori antibody [**3202-9-30**]: Negative.
+Urine culture [**3202-10-3**]: <10,000 organisms/ml.
+Urine culture [**3202-10-9**]: pending
+.
+EEG [**3202-9-24**]: This telemetry from [**9-25**] showed a
+slow and encephalopathic background with some bursts of slowing
+and additional generalized blunted sharp waves. Some of these
+had a "triphasic" appearance. Early in the record, they could
+recur almost once a second, but this was brief and only for five
+to ten seconds at a time. After the first half an hour or so,
+sharp waves were significantly less frequent and not
+particularly rhythmic. They appeared likely to be part of the
+encephalopathy. There were no clearly epileptiform features.
+There were no focal abnormalities although it should be noted
+that encephalopathies may obscure focal findings.
+.
+CXR (portable AP) [**3202-9-24**]: Cardiomegaly, no signs of CHF or
+pneumonia.
+.
+CT Chest/Abdomen/Pelvis [**3202-9-24**]:
+1. No evidence of acute intra-abdominal process.
+2. Atherosclerotic disease of the aorta and branches.
+3. Incidental left extrarenal pelvis; mildly thickened bladder
+wall. Correlate for ladder infection.
+.
+CT Head [**3202-9-24**]: No acute intracranial process.
+.
+CT Head w/o constrast [**3202-9-27**]:
+1. No acute intracranial process detected. If an acute infarct
+is suspected, MRI is suggested for further evaluation.
+2. Chronic small vessel ischemic changes.
+.
+EGD [**3202-10-1**]: Normal mucosa in the whole esophagus. Abnormal
+mucosa in the stomach.  Normal mucosa in the whole duodenum.
+Otherwise normal EGD to third part of the duodenum
+.
+Colonoscopy [**3202-10-8**]: Normal mucosa in the whole colon. Normal
+colonoscopy to cecum.
+.
+CXR (portable AP) [**3202-10-9**]: In comparison to prior examination,
+there is now a new right-sided PICC line terminating in an
+unclear location behind the ICD wires. It is at least seen up
+until the mid SVC and is not seen in the right atrium. So we
+assume it is somewhere in between there. The rest of the
+examination is unchanged from prior study.
+
+Brief Hospital Course:
+70 yo man with a history of diabetes mellitus, systolic CHF
+(EF=10%) s/p pacemaker/ICD, CAD s/p MI x 3 and CABG, aflutter
+s/p cardioversion on dabigatran, Stage III CKD, PVD s/p right
+4th toe amputation on [**3202-7-21**] who presented with altered mental
+status, hypotension, and acute kidney injury and had a prolonged
+hospital course complicated by GI bleed.
+.
+# Melena: The patient did not present with any GI symptoms but
+in the midst of his hospital course he had multiple melanotic
+stools, requiring 2 units PRBCs. EGD showed only gastritis but
+no active bleeding. Colonoscopy was normal. Sedation during EGD
+and colonoscopy were managed by anesthesia due to the patient's
+history of intraoperative cardiac arrest. GI recommended capsule
+endoscopy, but the patient declined this procedure. Serology for
+H. pylori was negative.
+.
+The etiology of the patient's bleeding was thought to be related
+to accumulation of dabigatran in the setting of severe acute on
+chronic kidney injury. Aspirin was continued.  Plavix was
+stopped and dabigatran was held. Cardiology was consulted, and
+per cardiology and vascular surgery, Plavix is no longer needed.
+Following stabilization of the patient's hematocrit and negative
+EGD and colonoscopy, the risks and benefits of restarting
+dabigatran were discussed with the patient and his wife. The
+patient elected to restart dabigatran, which was restarted on
+[**3202-10-9**]. The patient will need to continue pantoprazole for at
+least 6-8 weeks.
+.
+# Hypotension: The patient presented with hypotension, which was
+most likely related to hypovolemia. He had decreased PO intake
+over the few days prior to admission, and his blood pressure
+improved with fluid boluses. He was initially covered broadly
+with vancomycin and Zosyn for possible urosepsis versus sepsis
+from osteomyelitis; however, he rapidly improved without any
+further evidence of sepsis.  CT abdomen/pelvis showed no
+evidence of acute intra-abdominal process. As the pt was not
+febrile, had no leukocytosis, no elevated lactate, and no
+localizing symptoms, antibiotics were narrowed just to
+vancomycin for the patient's osteomyelitis. Antihypertensives
+were initially held, but were all restarted during the [**Hospital **]
+hospital course, with the exception of torsemide, which was
+held.
+.
+# Acute on chronic kidney Injury: The patient presented with
+creatinine of 8.6 and signs of uremia. His creatnine improved
+rapidly with fluid resuscitation and remained stable at 1.0
+throughout the remainder of the [**Hospital **] hospital course.  The
+patient's acute kidney injury was though to be pre-renal in
+etiology, in the setting of poor PO intake, diuretics, and a
+potential infectious process. The patient was discharged off of
+torsemide, but this will need to be restarted in the future
+given the patient's very low ejection fraction.
+.
+# Toxic-metabolic encephalopathy: The patient had multiple
+reasons for altered mental status including sedating medications
+and uremia. His mental status improved with resolution of his
+renal failure, antibiotics, fluconazole for the yeast in his
+urine, and minimizing sedating medications. CT head was
+negative. 24hr EEG monitoring showed no clearly epileptiform
+features or electrographic seizures and all anti-seizure
+medications were stopped.
+.
+# Urinary Tract Infection: On admission, urine cultures grew
+>100,000 colonies of yeast. The patient, was treated with a
+7-day course of fluconazole with last dose given on [**10-4**]. The
+patient subsequently developed dysuria on [**3202-10-9**], at which time
+urinalysis was strongly suggestive of infection. The patient was
+started on empiric ceftriaxone pending culture data, with a plan
+to treat for 10 days (last day = [**3202-10-19**]). The patient's culture
+data at [**Hospital1 4**] will need to be followed to tailor antibiotic
+therapy and exclude resistent organisms. The phone number for
+the microbiology lab is [**Telephone/Fax (1) 7679**].
+.
+# Osteomyelitis, right foot: Prior to this admission, the
+patient was found to have gangrene of his right 4th toe, which
+was amputated on [**3202-7-21**]. This was complicated by osteomyelitis,
+for which the patient was discharged on vancomycin,
+ciprofloxacin, and Flagyl on [**3202-7-26**]. On [**3202-8-16**], he underwent
+balloon angioplasty of his right tibioperoneal trunk and
+anterior tibialis arteries. This was followed by operative
+debridgement of the amputation site and placement of a VAC
+device on [**3201-8-20**]. The patient was discharged on a 6-week course
+of vancomycin. However, he removed his PICC at rehab on [**3202-9-14**],
+and was without IV vancomycin until his current admission on
+[**3202-9-24**].
+.
+During this admission, the patient was followed by podiatry, who
+felt that the patient would benefit from an additional 2-3 weeks
+of antibiotics, which will be complete on [**3202-10-25**]. For wound
+care, the patient should continue daily silvadene dressing
+changes. Outpatient infectious disease, vascular surgery, and
+podiatry follow-up was arranged.
+.
+# Hyperkalemia: The patient presented with hyperkalemia in the
+setting of acute renal failure. His EKG demonstrated peaked
+T-waves. He was treated with insulin, calcium gluconate,
+kayexalate, dextrose in the ED. The patient's hyperkalemia
+improved with hydration and resolution of his renal failure.
+.
+# CAD, s/p multiple MIs, CABG ([**3192**]): The patient is s/p CABG
+with SVG-PL, SVG-Diagonal and LIMA-LAD. He also has a history of
+PTCA of the mid Cx with an Apex OTW 2.25x15 mm. He was continued
+on aspirin 81 mg daily, atorvastatin 40 mg daily.  All
+antihypertensives were initially held, but the patient was
+subsequently restarted on isosorbide mononitrate, metoprolol,
+and valsartan. In the setting of GI bleeding, Plavix was
+stopped. Cardiology was consulted, and confirmed that there was
+no coronary indication for Plavix at the present time. Per
+cardiology, the patient had been on Plavix due to the recent
+balloon angioplasy of his right lower extremity, and that per
+vascular surgery, he had completed his course.
+.
+# Dilated ischemic cardiomyopathy: LVEF of 10%. Digoxin was held
+initially because of acute kidney injury, and then resumed at
+every other day [**Year (4 digits) **] because of interaction with fluconazole.
+Digoxin was subsequently changed to daily [**Year (4 digits) **] at the time of
+discharge. The patient will need a digoxin level checked 1 week
+after discharge. Torsemide was held in the setting of acute
+renal failure and then continued to be held because of GI bleed.
+At the time of discharge, the patient appeared euvolemic, so
+torsemide was not restarted. Consideration should be given to
+restarting torsemide in the outpatient setting. The patient
+needs his fluid status monitored closely, and need a strict,
+low-sodium diet.
+.
+# Atrial flutter: Status post cardioversion [**3201-1-12**].
+Dabigatran was held initially because of GI bleeding, which was
+likely related to accumulated dabigatran in the setting of acute
+kidney injury. Dabigatran was restarted on [**3202-10-9**] after
+colonoscopy and EGD failed to identify a source of bleeding, and
+the patient's Hct had been stable for several days.
+.
+# Dyslipidemia: Continued atorvastatin.
+.
+# Peripheral vascular disease: The patient is s/p angioplasty of
+right tibioperoneal trunk and anterior tibialis artery on
+[**3202-8-16**]. Per vascular surgery, he only needed plavix for 1st
+month out from procedure. He will continue ASA 81mg daily.
+Plavix was stopped. Vascular follow-up was arranged.
+.
+# Diabetes mellitus: The patient was managed with NPH and a
+sliding scale. At the time of discharge, he had good glycemic
+control.
+.
+# Anemia: The patient was anemic throughout his hospitalization.
+There was an acute component from acute blood loss, requiring
+transfusion of 2 units PRBCs. However, there also appeared to be
+a chronic component that is likely due to chronic disease in the
+setting of osteomyelitis, plus a possible component of iron
+deficiency. The patient was started of ferrous sulfate 325 mg
+daily.
+.
+# Medication reconciliation: Medications started during this
+admission include pantoprazole, IV vancomycin, IV ceftriaxone,
+senna, and multivitamin. Plavix, gabapentin, oxycodone,
+oxycontin, and trazadone were stopped. The patient was also on
+oral vancomycin prior to admission, but there was no indication
+for this. He really needed IV vancomycin for his osteomyelitis.
+.
+# Code Status: FULL CODE.
+.
+TRANSITIONAL ISSUES:
+1. The patient was discharged off of torsemide. The patient's
+volume status should be monitored closely. The patient has a
+very low ejection fraction of 10% and diuretics should be
+resumed at the earlier sign of fluid accumulation. The patient's
+cardiologist can be [**Date Range 221**] at ([**Telephone/Fax (1) 563**] if there are any
+questions.
+2. The patient will need to be treated with IV vancomycin until
+[**3202-10-25**]. He will follow up with his infectious disease doctor
+on [**3202-10-14**], at which time the antibiotic course may need to be
+modified.
+3. While on vancomycin, the patinet will need to have weekly
+labs, including CBC/diff, BUN, Cr, vancomycin trough, ESR, CRP.
+Fax results to Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 164**], infectious disease, fax
+[**Telephone/Fax (1) 48**].
+4. The patient was diagnosed with a urine tract infection on the
+day prior to discharge. His urine culture is still pending, and
+he is being treated empirically with IV ceftriaxone for 10 days
+(last day = [**3202-10-19**]). Please call the microbiology lab at [**Hospital1 4**]
+on [**3202-10-11**] to find out the results of the culture. The micro lab
+can be reached at [**Telephone/Fax (1) 7679**].
+5. Check digoxin level on [**3202-10-16**] and adjust digoxin dose if
+necessary.
+6. PICC line care. Please discontinue PICC after IV antibiotics
+are complete.
+7. Daily dressing changes with silvedene for osteomyelitis of
+right 4th toe amputation site.
+
+Medications on Admission:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) q24.
+2. lorazepam 0.5 mg Tablet q4hr prn
+3. atorvastatin 40 mg Tablet q24
+4. digoxin 125 mcg q24
+5. gabapentin 100 mg PO Q8H
+6. isosorbide mononitrate 30 mg Tablet Extended Release PO DAILY
+7. metoprolol succinate 50 mg Tablet Extended Release PO DAILY
+8. torsemide 20 mg Tablet Sig: Three Tablets PO DAILY
+9. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS PRN
+10. valsartan 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+11. ascorbic acid 250 mg Tablet, One Tablet PO BID
+12. docusate sodium 100 mg Capsule Sig: One Capsule PO BID
+13. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical QID
+PRN
+14. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+15. oxycodone 10 mg Tablet ER 12hr One Tablet PO Q12H
+16. oxycodone 15 mg Tablet One Tablet PO Q4H PRN
+17. dabigatran etexilate 150 mg One Capsule PO BID
+18. glucagon 1 mg Q15MIN PRN
+19. Dextrose 50% IV PRN hypoglycemia
+20. NPH insulin human recomb 100 unit/mL Suspension Sig: 16U
+breakfast & 10U dinner.
+21. insulin regular human 100 unit/mL Solution Sig: sliding
+scale.
+22. Vancomycin 250mg PO BID
+23. Dulcolax
+24. Milk of mag
+25. potassium chloride 20mEq Daily
+
+Discharge Medications:
+1. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for anxiety.
+2. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Tablet(s)
+3. Dulcolax 5 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day as needed for
+constipation.
+4. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+6. digoxin 125 mcg Tablet Sig: One (1) Tablet PO once a day.
+7. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+8. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig:
+One (1) Tablet Extended Release 24 hr PO once a day.
+9. valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. ascorbic acid 250 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+11. senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as
+needed for constipation.
+12. dabigatran etexilate 150 mg Capsule Sig: One (1) Capsule PO
+BID (2 times a day).
+13. NPH insulin human recomb 100 unit/mL (3 mL) Insulin Pen Sig:
+as directed  Subcutaneous as directed: Takes 12 units in before
+breakfast and take 6 units before dinner.
+14. Humalog KwikPen 100 unit/mL Insulin Pen Sig: as directed
+Subcutaneous as directed: Please see attached insulin sliding
+scale.
+15. Vancomycin 1250 mg IV Q 24H
+16. ceftriaxone in dextrose,iso-os 1 gram/50 mL Piggyback Sig:
+One (1) gram Intravenous Q24H (every 24 hours) for 9 days: Last
+day = [**3202-10-19**].
+17. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO twice a day.
+18. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+19. silver sulfadiazine 1 % Cream Sig: One (1) application
+Topical once a day: Apply to amputation site on right foot with
+each dressing change.
+20. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+21. vancomycin in D5W 1.25 gram/250 mL Solution Sig: 1.25 grams
+Intravenous once a day for 2 weeks: Last dose = [**3202-10-27**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 505**] Healthcare & Rehabilitation Center - [**Location (un) 505**]
+
+Discharge Diagnosis:
+Primary:
+-acute on chronic kidney injury
+-hypotension
+-GI bleeding, manifested as melena, of unclear etiology
+-urinary tract infection x 2
+-osteomyelitis
+-hyperkalemia
+-peripheral vascular disease
+-s/p ampuation of right 4th toe
+-acute blood loss anemia
+-anemia of iron deficiency and chronic disease
+-atrial flutter
+.
+Secondary:
+-coronary artery disease
+-chronic systolic heart failure
+-diabetes mellitis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+You were came to the hospital with a change in your mental
+status, low blood pressures, and kidney failure. You were
+treated with hydration and antibiotics, with improvement in your
+kidney function and mental status.
+.
+Your course was also complicated by bleeding from your GI tract.
+You had an upper endoscopy and colonoscopy which showed some
+irritation of your stomach, but did not show why you were
+bleeding. It was thought that your dabigatran reached toxic
+levels due to your kidney failure, causing you to bleed.
+Dabigatran was restarted when your bleeding had resolved, your
+endoscopies were negative, and your kidney failure had improved.
+
+.
+You were also treaed for a urinary tract infection early in your
+admission. You developed another urinary tract infection just
+prior to discharge, and you were started on an antibiotic called
+ceftriaxone.
+.
+You were seen by the podiatry service for the infection at the
+site of your amputation. Your vancomycin was restarted, and
+follow-up with vascular surgery, podiatry, and infectious
+disease was arranged. You will need to have daily dressing
+changes at rehab.
+.
+Because of your heart failure, weigh yourself every morning,
+[**Name8 (MD) **] MD if weight goes up more than 3 lbs. You were discharged
+off of torsemide, but this may will likely need to restarted as
+your infection resolves, and especially if you start to
+reaccumulate fluid. Follow-up with your cardiologist was
+arranged.
+.
+Several changes were made to your medications, and you should
+see the attached medication list. Notable changes include:
+START IV vancomycin for bone infection.
+START ceftriaxone for urinary tract infection.
+START pantoprazole for stomach irritation.
+START iron for anemia.
+STOP Plavix.
+STOP torsemide for now, but this medication will likely need to
+be restarted soon.
+.
+Other medications that were started include senna and
+multivitamin. Other medications that were stopped include
+gabapentin, oxycodone, oxycontin, trazodone, miconazole powder,
+and oral vancomycin.
+.
+You will need to get some labs checked weekly and faxed to the
+infectious disease clinic while you are on vancomycin. You also
+need to get a digoxin level checked in 1 week to enzyme that you
+are on the appropriate dose.
+
+Followup Instructions:
+Check weekly CBC/diff, BUN, Cr, vancomycin trough, ESR, CRP,
+while on vancomycin. Fax results to Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 164**], [**Hospital1 4**], fax
+[**Telephone/Fax (1) 48**].
+.
+Check digoxin level on [**3202-10-16**].
+.
+Department: INFECTIOUS DISEASE
+When: MONDAY [**3202-10-14**] at 11:30 AM
+With: [**Name6 (MD) 3898**] [**Last Name (NamePattern4) 3899**], MD [**Telephone/Fax (1) 64**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) 68**]) Basement
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+.
+Department: PODIATRY
+When: THURSDAY [**3202-10-17**] at 8:05 AM
+With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 7170**], DPM [**Telephone/Fax (1) 1416**]
+Building: Ba [**Hospital Unit Name 7589**] ([**Hospital Ward Name 209**] Complex) [**Location (un) **]
+Campus: WEST     Best Parking: [**Street Address(1) 353**] Garage
+.
+Department: VASCULAR SURGERY
+When: THURSDAY [**3202-10-17**] at 11:00 AM
+With: VASCULAR LAB [**Telephone/Fax (1) 84**]
+Building: LM [**Hospital Unit Name 65**] [**Location (un) 83**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+.
+Department: VASCULAR SURGERY
+When: THURSDAY [**3202-10-17**] at 12:00 PM
+With: [**Last Name (LF) **], [**First Name3 (LF) 344**] [**Telephone/Fax (1) 84**]
+Building: LM [**Hospital Ward Name **] BLDG ([**Doctor First Name **]), [**Location (un) **] VASCULAR
+SURGERY (SB)
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+.
+Name: [**Last Name (LF) **],[**First Name3 (LF) 51**] A.
+Location: [**Hospital1 **] HEALTH CARE [**Location (un) **] - ADULT
+MEDICINE
+Address: 1000 [**Last Name (LF) **], [**First Name3 (LF) **],[**Numeric Identifier 5491**]
+Phone: [**Telephone/Fax (1) 507**]
+**Please discuss with the staff at the facility the need for a
+follow up appointment with your PCP when you are ready for
+discharge**
+.
+Department: CARDIAC SERVICES
+When: MONDAY [**3202-11-11**] at 11:30 AM
+With: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**Telephone/Fax (1) 113**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+.
+Specialty: gastroenterology, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 14382**]
+Location: RA [**Hospital Unit Name **] ([**Hospital Ward Name **]/[**Hospital Ward Name **] COMPLEX), [**Location (un) **]
+GI FELLOWS CLINIC (SB)
+Date and time: [**3202-11-13**] at 02:00p
+Phone number: ([**Telephone/Fax (1) 16182**]
+
+
+
+
+
+DOC CLASS

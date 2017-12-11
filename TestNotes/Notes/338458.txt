@@ -1,0 +1,159 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Allergies:
+   Dextromethorphan
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3090-12-10**] 06:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.1
+C (100.6
+   Tcurrent: 36.9
+C (98.5
+   HR: 93 (80 - 115) bpm
+   BP: 115/66(77) {94/52(60) - 139/75(89)} mmHg
+   RR: 22 (17 - 27) insp/min
+   SpO2: 94%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                    500 mL
+                                                                    500 mL
+   PO:
+             TF:
+   IVF:
+                                                                    500 mL
+                                                                    500 mL
+   Blood products:
+   Total out:
+                                                                  1,103 mL
+                                                                    555 mL
+   Urine:
+                                                                    650 mL
+                                                                    550 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    453 mL
+                                                                      5 mL
+   Balance:
+                                                                   -603 mL
+                                                                    -55 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: 7.49/35/112/32/3
+   Physical Examination
+   GENERAL: WDWN female in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   CARDIAC: irregularly irregualar, normal S1, S2. No murmurs or rubs.  No
+   thrills, lifts. No S3 or S4.
+   CHEST:  A pericardial drain is in place with serous to serosanguenous
+   fluid.  Resp were unlabored, no accessory muscle use. Anterior breath
+   sounds were clear.
+   ABDOMEN: Soft.  Mild hepatic tendernes without HSM.  Otherwise
+   non-tender and non-distended.
+   EXTREMITIES: No c/c/e.  Cath site was C/D/I without bruit.
+   SKIN: Mutiple small hemangiomas.  No petechia.
+   PULSES:
+   Right: DP 2+ PT 2+
+   Left: DP 2+ PT 2+
+   Labs / Radiology
+   404 K/uL
+   11.9 g/dL
+   115 mg/dL
+   0.7 mg/dL
+   32 mEq/L
+   3.7 mEq/L
+   9 mg/dL
+   100 mEq/L
+   139 mEq/L
+   34.0 %
+   10.6 K/uL
+        [image002.jpg]
+                            [**3090-12-9**]  05:46 PM
+                            [**3090-12-10**]  04:13 AM
+   WBC
+   10.6
+   Hct
+   34.0
+   Plt
+   404
+   Cr
+   0.7
+   TCO2
+   27
+   Glucose
+   115
+   Other labs: ALT / AST:96/49, Alk Phos / T Bili:174/0.7, LDH:139 IU/L,
+   Ca++:8.0 mg/dL, Mg++:2.2 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   70 F with HTN, HL presenting with pleuritic shoulder pain, presyncope,
+   nausea, found to have a pericardial effusion with tamponade.
+   .
+   PERICARDIAL EFFUSION:  Infectious or malignant causes seem most likely,
+   as these are the most common sources of pericardial effustion and she
+   has no history of radiation, renal failur or collagen vascular
+   disease.  Her family history of breast and ovarian cancer increase the
+   concern for malignant cause, however the acute onset and history of a
+   few weeks of fevers and elevated WBC would favor infectious etiology.
+   It is also possible that her recent episode of AF was related to
+   myocardial ischemia and that this represents a Dressler's syndrome, but
+   this seems less likely.
+   - Repeat echo in the morning to assess for resolution of effusion.
+   - Follow cultures, will add on viral cultures and cytology if possible.
+   - Will d/c drain once output decreased and effusion resolved.
+   - regarding malignancy workup, she is due for outpatient f/u to eval
+   for heme positive stools and needs a followup CT for resolution of
+   pulmonary nodules observed on last admission.
+   .
+   ATRIAL FIBRILLATION: Currently rate controlled with atenolol.
+   - metoprolol while inpatient
+   - anticoagulation would be contraindicated presently, hold ASA
+   .
+   ELEVATED LFTS: These are new from previosly normal values on last
+   admission and likely represent congestion from RV failure.  This could
+   also be related to infection or medciations.  There were no concerning
+   findings on abdominal ultrasound and she is not jaundiced on exam.
+   - will trend LFTs and expect resolution
+   .
+   HYPERTENSION: Will hold lisinopril and HCTZ given tamponade physiology
+   and restart as needed.
+   .
+   DEPRESSION: Continue Paxil
+   .
+   FEN:
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -Holding DVT ppx for now given bleeding risk.
+   -Pain managment with tylenol as needed
+   -Bowel regimen of colase/senna
+   CODE: Presumed full
+   DISPO: CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3090-12-9**] 06:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

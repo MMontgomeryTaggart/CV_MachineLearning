@@ -91,9 +91,9 @@ def getNotesAndClasses(corpusPath, truthPath, balanceClasses=False):
 myPath = os.path.dirname(os.path.realpath(__file__))
 baseDir = "./TensorBoardLogs/"
 runName = "Batch.8.Epochs.12"
-os.makedirs(baseDir + runName,)
+# os.makedirs(baseDir + runName,)
 
-cleanTexts, labels = getNotesAndClasses(CORPUS_TRAIN_PATH, GOLD_STANDARD_PATH, balanceClasses=True)
+cleanTexts, labels = getNotesAndClasses(CORPUS_TRAIN_PATH, GOLD_STANDARD_PATH, balanceClasses=False)
 #labels = np.where(numberLabels == 1, "Positive", "Negative")
 numLabels = 2
 
@@ -104,6 +104,7 @@ sequences = tokenizer.texts_to_sequences(cleanTexts)
 
 wordIndex = tokenizer.word_index
 print("Found %i words." % len(wordIndex))
+
 
 data = pad_sequences(sequences, maxlen=MAX_NUM_WORDS)
 #labels = to_categorical(np.asarray(labels))
@@ -170,8 +171,8 @@ tensorboardCallback = TensorBoard(log_dir=baseDir + runName)
 
 # happy learning!
 model.fit(xTrain, yTrain, validation_data=(xTest, yTest),
-          epochs=12, batch_size=8, callbacks=[tensorboardCallback])
-model.save("./SerializedModel/CNN.h5")
+          epochs=4, batch_size=8)#, callbacks=[tensorboardCallback])
+model.save("./SerializedModel/CNNNotDownsampled.h5")
 
 predictions = model.predict(xTest)
 reshapedPreds = np.reshape(np.where(predictions > .5, 1, 0), (predictions.shape[0],))

@@ -1,0 +1,214 @@
+Chief Complaint:
+   24 Hour Events:
+   - gave Vit K 5 mg po x1 for elevated INR
+   - Held mirtazapine for ? VT etiology
+   - EP recs - No procedure today.
+   -Start Mg Oxide 400 mg po BID and Aldactone 25 mg po daily. NPO MN in
+   case of procedure tommorow
+   - CT Surgery - Plan to f/u for AVR in 1 mo until recovered from hip fx.
+   - OSH records from [**Hospital1 594**] requested
+   - TTE - The estimated right atrial pressure is 10-20mmHg. LVEF >55%.
+   The right ventricular cavity is moderately dilated with moderate global
+   free wall hypokinesis. The aortic valve leaflets are severely
+   thickened/deformed. There is severe aortic valve stenosis (valve area
+   0.8-1.0cm2). No aortic regurgitation is seen. Mild to moderate ([**11-28**]+)
+   mitral regurgitation is seen. Moderate to severe [3+] tricuspid
+   regurgitation is seen. There is severe pulmonary artery systolic
+   hypertension. There is no pericardial effusion.
+   - 630 am [**4-28**] - Micro - One bottle positive for GPC in pairs and
+   clusters. Gave one dose Vancomycin.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3429-4-27**] 12:00 PM
+   Vancomycin - [**3429-4-28**] 06:54 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3429-4-27**] 07:59 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3429-4-28**] 07:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 36.7
+C (98
+   HR: 47 (46 - 53) bpm
+   BP: 145/47(72) {129/33(60) - 168/59(82)} mmHg
+   RR: 19 (14 - 27) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                  2,221 mL
+                                                                    440 mL
+   PO:
+                                                                    990 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                    160 mL
+                                                                    200 mL
+   Blood products:
+                                                                    271 mL
+   Total out:
+                                                                    752 mL
+                                                                    200 mL
+   Urine:
+                                                                    652 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,469 mL
+                                                                    240 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///27/
+   Physical Examination
+   GENERAL: Pleasant, fatigued appearing elderly woman in no
+   distress.
+   HEENT: Normocephalic. No scleral icterus. Dry mucous membranes. Neck
+   supple. No appreciable JVD. Skin tear left cheek.
+   SKIN:  Multiple eccymoses upper extremitites; dry, scaly,
+   hyperpigmented skin at dorsal surface of both hands
+   CARDIAC: Regular rhythm, normal rate. S1, S2. 3/6 SEM best
+   appreciated at LUSB, heard throughout, radiating to the carotids
+   LUNGS:  CTA bilaterally; no wheezes, rales, or rhonchi
+   ABDOMEN: NABS. Soft, NT, ND.
+   EXTREMITIES: No edema or calf pain, good perfusion, 2+ radial, dorsalis
+   pedis, posterior tibial pulses
+   NEURO: A&Ox3.
+   Labs / Radiology
+   486 K/uL
+   8.3 g/dL
+   100 mg/dL
+   1.0 mg/dL
+   27 mEq/L
+   4.8 mEq/L
+   23 mg/dL
+   99 mEq/L
+   134 mEq/L
+   25.5 %
+   9.7 K/uL
+        [image002.jpg]
+                             [**3429-4-27**]  04:20 AM
+                             [**3429-4-27**]  07:22 AM
+                             [**3429-4-27**]  04:10 PM
+                             [**3429-4-28**]  04:52 AM
+   WBC
+   10.0
+   9.7
+   Hct
+   27.1
+   25.5
+   Plt
+   479
+   486
+   Cr
+   0.9
+   1.0
+   1.0
+   1.0
+   TropT
+   <0.01
+   Glucose
+   [**Telephone/Fax (3) 7813**]00
+   Other labs: PT / PTT / INR:18.0/29.9/1.6, CK / CKMB /
+   Troponin-T:24//<0.01, ALT / AST:15/33, Alk Phos / T Bili:85/0.8,
+   Differential-Neuts:82.0 %, Lymph:12.4 %, Mono:3.7 %, Eos:1.7 %, Lactic
+   Acid:1.6 mmol/L, Albumin:3.2 g/dL, LDH:258 IU/L, Ca++:8.3 mg/dL,
+   Mg++:2.6 mg/dL, PO4:2.8 mg/dL
+   Assessment and Plan
+   79F with severe AS, afib on coumadin, and HTN who presents from rehab
+   for evaluation of seizure-like activity, found to have intermittent
+   runs of NSVT and admitted to the CCU for further management.
+   .
+   #. Runs of VT/RHYTHM:  Admitted to CCU for multiple runs of polymorphic
+   VT in ED requiring Mg and lidocaine gtt . No recurrent runs since
+   admission to the CCU. Has history of afib on coumadin, therapeutic INR.
+   Patient with known prolonged QT; reason for this is unknown, and reason
+   for progression to torsades also unknown. EP aware.
+   - Plan for pacer, however, will need to delay given possible bacteremia
+   - Replete lytes aggressively; goal Mg>2.2, K4.5-5.0
+   - Have pads in place
+   - Monitor on telemetry
+   - Avoid agents which may prolong QT- Holding mirtazapine given case
+   reports of mirtazapine-associated torsade de pointes
+   .
+   # AS: severe aortic valve stenosis (valve area 0.8-1.0cm2) on ECHO
+   yesterday. Still not totally clear whether symptoms of HF fully
+   attributable to AS. Will cont to optimize heart failure regimen at this
+   time. Pt has been seen by CT [**Doctor First Name 204**] who would like to hold off on AVR for
+   at least 1 month.
+   - Cont medical management of CHF as detailed below
+   - Need to determine when R/L heart cath will be done
+   .
+   # Bacteremia: Single bottle growing GPC
+s today. Pt given 1 dose vanco.
+   Possible this represents contamination but must also consider possible
+   sources
+recent femur instrumentation vs lines seem most likely.
+   -await final cx results
+   -cont Vancomycin for now
+   .
+   #. CORONARIES:  No known history of CAD history. CE neg x2
+   - Continue simvastatin
+   - Continue ASA 81mg PO daily
+   - Holding metoprolol given bradycardia
+   .
+   #. PUMP: ECHO showed lVEF >55.As noted above, unclear what role AS
+   playing in HF symptoms. Appears to be euvolemic at this time.
+   - Continue home dose of Lasix 40mg PO daily
+> goal of -500 today
+   - Daily weights, strict I/Os, fluid restriction
+   .
+   #. ? Seizure activity:  Unclear if pt actually had sz activity. No
+   further episodes since admission.
+    - Seizure precautions
+   - Monitor closely for repeat activity
+   - Follow culture data
+   .
+   #. UTI:  Urine with >100,000 gram neg rods.
+   - Cont ceftriaxone until sensitivities available
+   - Follow final urine culture
+   .
+   #. Anemia:  Hct today 25.5 which is trending down from low 30
+s which
+   is baseline.
+   -  Active T&S
+   - Guiac all stools
+   - Cont monitor daily Hct
+   .
+   #. HTN:  Blood pressure currently well controlled.
+   - Holding amlodipine at this time
+   .
+   # Hyperlipidemia:
+   - Continue statin per home regimen
+   .
+   #. s/p recent ORIF:  will likely need to return to rehab after
+   discharge
+   -  Tylenol standing for pain control
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3429-4-28**] 06:55 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

@@ -1,0 +1,214 @@
+SICU
+   HPI:
+   70 y/o p/w free air on CXR. S/P ex lap [**9-18**] for LOA and ventral hernia
+   repair with mesh. S/P 1 u PRBC intraop and 2 amps bicarb. Gr 1 view
+   with MAC 3.
+   Chief complaint:
+   Resperatory distress, and hypotension
+   PMHx:
+   PMHX: RCCA s/p nephrectomy [**3005**], Pancreatic mass, ENVAR AAA [**3018-8-25**],
+   CAD CABG X 4 [**3002**], appy,  Hx MI, Dyslipidemia, GERD, COPD, Ventral
+   hernia, mult pulmonary nodules, Right BKA, renal insuff(s/p nephrec)
+   Current medications:
+   1. 2. 1000 mL LR 3. 1000 mL LR 4. 1000 mL LR 5. Albumin 5% (25g /
+   500mL) 6. Calcium Gluconate
+   7. Chlorhexidine Gluconate 0.12% Oral Rinse 8. Fentanyl Citrate 9.
+   Fentanyl Citrate 10. HYDROmorphone (Dilaudid)
+   11. Haloperidol 12. Insulin 13. Levofloxacin 14. Meperidine 15.
+   Morphine Sulfate 16. Norepinephrine
+   17. Ondansetron 18. Pantoprazole 19. Propofol 20. Promethazine HCl 21.
+   Prochlorperazine 22. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+   Post operative day:
+   POD1:[**9-19**]: Low BP, recieved a bolus of IV fluid, suitched from NS to
+   LR, TTE Borderline. Seen by Renal team.recs to start Becarb drip,
+   possible CVVH in am?. Hct dropped from 28 to 22, recieved 2 UPRBC
+   Allergies:
+   Iodine
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3018-9-19**] 12:02 AM
+   Infusions:
+   Fentanyl - 75 mcg/hour
+   Norepinephrine - 0.06 mcg/Kg/min
+   Propofol - 10 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3018-9-20**] 07:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**21**] a.m.
+   Tmax: 38.1
+C (100.6
+   T current: 37.5
+C (99.5
+   HR: 105 (101 - 117) bpm
+   BP: 124/57(79) {80/45(60) - 142/65(143)} mmHg
+   RR: 25 (17 - 34) insp/min
+   SPO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 96.2 kg (admission): 90 kg
+   Height: 69 Inch
+   CVP: 5 (4 - 12) mmHg
+   PAP: (28 mmHg) / (15 mmHg)
+   PCWP: 10 (7 - 15) mmHg
+   CO/CI (Thermodilution): (6.97 L/min) / (3.4 L/min/m2)
+   SVR: 712 dynes*sec/cm5
+   PVR: 103 dynes*sec/cm5
+   SV: 66 mL
+   SVI: 32 mL/m2
+   Total In:
+                                                                  8,592 mL
+                                                                  1,752 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  7,333 mL
+                                                                    811 mL
+   Blood products:
+                                                                  1,000 mL
+                                                                    731 mL
+   Total out:
+                                                                  1,058 mL
+                                                                    555 mL
+   Urine:
+                                                                    463 mL
+                                                                    405 mL
+   NG:
+                                                                    150 mL
+   Stool:
+   Drains:
+                                                                    445 mL
+                                                                    150 mL
+   Balance:
+                                                                  7,534 mL
+                                                                  1,197 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 354 (354 - 734) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 34
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 54
+   PIP: 11 cmH2O
+   SPO2: 98%
+   ABG: 7.37/34/118/18/-4
+   Ve: 20 L/min
+   PaO2 / FiO2: 295
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)
+   Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Distended, Tender: To light palpation, Obese
+   Left Extremities: (Edema: 4+), (Pulse - Dorsalis pedis: Diminished)
+   Skin: Penis wound appers much better, no purulence any more
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   230 K/uL
+   7.8 g/dL
+   136 mg/dL
+   3.7 mg/dL
+   18 mEq/L
+   4.4 mEq/L
+   53 mg/dL
+   106 mEq/L
+   137 mEq/L
+   22.0 %
+   11.2 K/uL
+        [image002.jpg]
+                             [**3018-9-19**]  01:31 AM
+                             [**3018-9-19**]  01:42 AM
+                             [**3018-9-19**]  06:09 AM
+                             [**3018-9-19**]  10:16 AM
+                             [**3018-9-19**]  04:08 PM
+                             [**3018-9-19**]  04:22 PM
+                             [**3018-9-19**]  08:18 PM
+                             [**3018-9-20**]  01:40 AM
+                             [**3018-9-20**]  01:52 AM
+                             [**3018-9-20**]  03:35 AM
+   WBC
+   15.1
+   11.2
+   Hct
+   28.2
+   22.2
+   22.0
+   Plt
+   352
+   230
+   Creatinine
+   3.1
+   3.6
+   3.7
+   TCO2
+   20
+   17
+   13
+   18
+   18
+   20
+   Glucose
+   100
+   105
+   102
+   136
+   Other labs: PT / PTT / INR:15.4/32.0/1.4, ALT / AST:28/92, Alk-Phos / T
+   bili:170/4.4, Lactic Acid:1.5 mmol/L, Albumin:2.3 g/dL, Ca:8.0 mg/dL,
+   Mg:1.8 mg/dL, PO4:4.8 mg/dL
+   Assessment and Plan
+   .H/O ABDOMINAL PAIN (INCLUDING ABDOMINAL TENDERNESS), RENAL FAILURE,
+   CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY DISEASE), HERNIA,
+   VENTRAL / INCISIONAL
+   Assessment and Plan: 70 y/o p/w free air on CXR. S/P ex lap [**9-18**] for
+   LOA and ventral hernia repair with mesh. S/P 1 u PRBC intraop and 2
+   amps bicarb. Gr 1 view with MAC 3.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, D/c PPF. On Fent
+   gtt. Continue fent gtt. Pain is better controlled
+   Cardiovascular: No sign of sepsis. Was able to wean levophed. Try to
+   wean to off today. D/c PAC
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), Will keep intubated
+   one more day as patient is overall fluid overload
+   Gastrointestinal / Abdomen: No issues
+   Nutrition: TPN
+   Renal: Foley, Adequate UO, Acute on chronic RF stabilized with Cr 3.7
+   and U/O much improved.
+   Hematology: Serial Hct, Unstable unemia -- receiving 2 units PRBC
+   Endocrine: RISS, Glucose well controlled. Keep < 150
+   Infectious Disease: Check cultures, On Levo for loculated pleural
+   effusion and internal CBD stent
+   Lines / Tubes / Drains: Foley, ETT, Surgical drains (hemovac, JP)
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: General surgery
+   Billing Diagnosis: Post-op hypotension, Post-op complication, Acute
+   renal failure
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3018-9-19**] 04:30 PM 30 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PA Catheter - [**3018-9-18**] 11:05 PM
+   Arterial Line - [**3018-9-18**] 11:06 PM
+   PICC Line - [**3018-9-19**] 12:00 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 20 minutes
+   Patient is critically ill
+
+
+DOC CLASS

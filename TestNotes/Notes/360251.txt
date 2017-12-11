@@ -1,0 +1,200 @@
+CVICU
+   HPI:
+   [**1-5**] POD1 s/p AVR (23 mm tissue CE), CABG x 3 (LIMA to LAD, SVG to D1,
+   SVG to OM1)
+   PMH: hyperlipidemia, anemia, and non-Hodgkin lymphoma five months ago,
+   stage I left renal cell cancer, prostate cancer, obstructive sleep
+   apnea for which he uses a CPAP, history of scarlet fever as a
+   child, and chronic renal insufficiency with a baseline
+   creatinine of 1.3 to 1.4, EF 60%
+   PSH: liver biopsy six months ago, appendectomy, nasal septum repair,
+   cholecystectomy, left radical nephrectomy with regional
+   lymphadenectomy, and adrenalectomy, and neurolysis for ulnar
+   neuropathy in [**2866-7-14**].
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen, Aspirin EC , Calcium Gluconate , CefazoLIN , Dextrose
+   50% ,Docusate Sodium , FoLIC Acid , Gabapentin , Influenza Virus
+   Vaccine , Insulin,  Levothyroxine Sodium , Magnesium Sulfate ,
+   Metoclopramide , Milk of Magnesia , Morphine Sulfate,  Nitroglycerin ,
+   Oxycodone-Acetaminophen , Phenylephrine , Potassium Chloride,
+   Ranitidine
+   24. Simvastatin 25. Sodium Chloride 0.9% Flush 26.
+   Sulfameth/Trimethoprim DS 27. ValACYclovir
+   24 Hour Events:
+ PA CATHETER - START [**2868-1-4**] 07:00 PM
+ OR RECEIVED - At [**2868-1-4**] 07:00 PM
+ INVASIVE VENTILATION - START [**2868-1-4**] 07:00 PM
+ CORDIS/INTRODUCER - START [**2868-1-4**] 07:00 PM
+ ARTERIAL LINE - START [**2868-1-4**] 07:30 PM
+ EKG - At [**2868-1-4**] 08:50 PM
+ EXTUBATION - At [**2868-1-5**] 02:15 AM
+ INVASIVE VENTILATION - STOP [**2868-1-5**] 02:15 AM
+   Post operative day:
+   POD#1 - CABG x3,  AVR
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2868-1-5**] 10:00 AM
+   Infusions:
+   Other ICU medications:
+   Insulin - Regular - [**2868-1-5**] 02:47 AM
+   Morphine Sulfate - [**2868-1-5**] 04:15 AM
+   Other medications:
+   Flowsheet Data as of  [**2868-1-5**] 10:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**70**] a.m.
+   Tmax: 38
+C (100.4
+   T current: 37.8
+C (100
+   HR: 97 (66 - 97) bpm
+   BP: 102/53(69) {81/46(58) - 133/71(91)} mmHg
+   RR: 21 (6 - 22) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+   CVP: 1 (1 - 21) mmHg
+   PAP: (23 mmHg) / (7 mmHg)
+   CO/CI (Thermodilution): (5.68 L/min) / (2.7 L/min/m2)
+   SVR: 944 dynes*sec/cm5
+   SV: 65 mL
+   SVI: 31 mL/m2
+   Total In:
+                                                                  3,373 mL
+                                                                    638 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  3,373 mL
+                                                                    638 mL
+   Blood products:
+   Total out:
+                                                                    808 mL
+                                                                  1,255 mL
+   Urine:
+                                                                    578 mL
+                                                                  1,065 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     30 mL
+   Balance:
+                                                                  2,565 mL
+                                                                   -617 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   SPO2: 97%
+   ABG: 7.39/44/144/26/0
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   149 K/uL
+   10.5 g/dL
+   96
+   1.2 mg/dL
+   26 mEq/L
+   3.9 mEq/L
+   14 mg/dL
+   108 mEq/L
+   138 mEq/L
+   29.5 %
+   9.0 K/uL
+        [image002.jpg]
+                             [**2868-1-4**]  07:21 PM
+                             [**2868-1-4**]  07:25 PM
+                             [**2868-1-4**]  11:13 PM
+                             [**2868-1-4**]  11:33 PM
+                             [**2868-1-5**]  01:37 AM
+                             [**2868-1-5**]  05:10 AM
+                             [**2868-1-5**]  05:23 AM
+                             [**2868-1-5**]  07:40 AM
+                             [**2868-1-5**]  07:45 AM
+                             [**2868-1-5**]  09:00 AM
+   WBC
+   7.1
+   9.0
+   Hct
+   28.4
+   28.9
+   29.5
+   Plt
+   151
+   149
+   Creatinine
+   1.0
+   1.2
+   TCO2
+   25
+   27
+   26
+   Glucose
+   100
+   131
+   118
+   102
+   99
+   81
+   125
+   96
+   Other labs: PT / PTT / INR:14.6/43.6/1.3, Differential-Neuts:50.0 %,
+   Band:18.0 %, Lymph:11.0 %, Mono:10.0 %, Eos:0.0 %, Fibrinogen:165
+   mg/dL, Lactic Acid:2.8 mmol/L, Mg:2.8 mg/dL
+   Imaging: CXR: NAD, all lines in good position
+   Microbiology: all neg
+   Assessment and Plan
+   .H/O OBSTRUCTIVE SLEEP APNEA (OSA), CORONARY ARTERY BYPASS GRAFT
+   (CABG), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan: Pt. doing very well post op.  Will start Lopressor
+   and Lasix.  Will d/c leg drain and probably d/c chest tubes later
+   today.  Wean Neo and transfer to floor.
+   Neurologic:
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: all neg
+   Lines / Tubes / Drains: Foley, Surgical drains (hemovac, JP), Chest
+   tube - pleural , Chest tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**2868-1-4**] 07:00 PM
+   16 Gauge - [**2868-1-4**] 07:00 PM
+   Arterial Line - [**2868-1-4**] 07:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

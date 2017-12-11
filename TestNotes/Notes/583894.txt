@@ -1,0 +1,164 @@
+Chief Complaint:
+   24 Hour Events:
+   - Patient defervesed morning of [**3-30**]
+   - Levophed turned off in AM and pressures trended down slowly, received
+   1.5L IVF with unsatisfactory effect and lefophed restarted at low dose
+   in evening
+   - Continued to have adequate UOP
+   - Called about acute increase in RR to 20s followed by decreased sat to
+   85%. Nurse gave dose of clonazepam and patient slowed her RR with
+   improvement in sats
+   - Called that resp therapy had concern of new crackles, patient noted
+   to have loose cough, but could not bring up phlegm
+   - Patient delirious overnight with some hallucinations, verbally
+   redirected, got restraints
+   - Called at 2330 with tachycardia to 140s and desat to high 80s on 4L
+   NC, A-line placed and revealed BP higher than cuff, levophed decreased
+   - CXR was obtained after desats - worsening right lung field
+   - ABG obtained after A-line and had PaO2 = 50, redrawn and later showed
+   PaO2 = 148 on high flow O2 by mask.
+   - Fever spike to 101.1 at ~0300.
+   - NPO for now
+ ARTERIAL LINE - START [**3424-3-31**] 12:15 AM
+ BLOOD CULTURED - At [**3424-3-31**] 03:45 AM
+ URINE CULTURE - At [**3424-3-31**] 03:45 AM
+ FEVER - 101.1
+F - [**3424-3-31**] 03:00 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3424-3-30**] 10:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3424-3-31**] 12:30 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3424-3-30**] 08:15 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3424-3-31**] 07:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.1
+   Tcurrent: 38
+C (100.4
+   HR: 106 (70 - 137) bpm
+   BP: 92/53(67) {92/53(67) - 149/92(112)} mmHg
+   RR: 22 (12 - 31) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+    CVP: 61 (9 - 61)mmHg
+   Total In:
+                                                                  5,287 mL
+                                                                    299 mL
+   PO:
+                                                                  2,080 mL
+   TF:
+   IVF:
+                                                                  3,207 mL
+                                                                    299 mL
+   Blood products:
+   Total out:
+                                                                  5,166 mL
+                                                                  1,220 mL
+   Urine:
+                                                                  5,166 mL
+                                                                  1,220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    121 mL
+                                                                   -921 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 100%
+   ABG: 7.32/69/76.[**Numeric Identifier 287**]/33/5
+   PaO2 / FiO2: 76
+   Physical Examination
+   GEN: visibly tired, lying in bed with face mask
+   HEENT: EOMI, PERRL, oral mucosa slightly dry
+   NECK: Supple, no LAD
+   CARD: RR, nl S1, nl S2, no M/R/G
+   PULM: CTAB anteriorly
+   ABD: BS+, soft, NT, mildly distended, tympanitic
+   EXT: bipedal 1+ edema with trace BLE edema
+   NEURO: AO x 3
+   PSYCH: blunted affect
+   Labs / Radiology
+   152 K/uL
+   8.4 g/dL
+   109 mg/dL
+   0.2 mg/dL
+   33 mEq/L
+   3.5 mEq/L
+   4 mg/dL
+   102 mEq/L
+   138 mEq/L
+   24.5 %
+   9.6 K/uL
+        [image002.jpg]
+                             [**3424-3-29**]  03:30 AM
+                             [**3424-3-30**]  05:49 AM
+                             [**3424-3-30**]  06:16 AM
+                             [**3424-3-31**]  12:50 AM
+                             [**3424-3-31**]  12:59 AM
+                             [**3424-3-31**]  02:34 AM
+                             [**3424-3-31**]  06:39 AM
+   WBC
+   16.6
+   13.0
+   9.6
+   Hct
+   30.5
+   27.7
+   24.5
+   Plt
+   146
+   153
+   152
+   Cr
+   0.2
+   0.2
+   0.2
+   TCO2
+   34
+   35
+   35
+   37
+   Glucose
+   150
+   107
+   109
+   Other labs: PT / PTT / INR:15.2/36.3/1.3, Differential-Neuts:91.2 %,
+   Lymph:7.2 %, Mono:1.5 %, Eos:0.0 %, Lactic Acid:1.2 mmol/L, Ca++:8.1
+   mg/dL, Mg++:1.8 mg/dL, PO4:1.9 mg/dL
+   Assessment and Plan
+ DELIRIUM / CONFUSION
+ PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP)
+ HYPOXEMIA
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ ANXIETY
+ INEFFECTIVE COPING
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3424-3-28**] 07:24 PM
+   Arterial Line - [**3424-3-31**] 12:15 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+DOC CLASS

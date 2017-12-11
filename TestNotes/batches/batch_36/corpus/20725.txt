@@ -1,0 +1,204 @@
+Admission Date:  [**2607-4-20**]       Discharge Date:  [**2607-5-1**]
+
+Date of Birth:   [**2542-10-2**]       Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  This is a 65-year-old gentleman
+admitted to the CCU following catheterization for an ST
+elevation MI.  The patient was home at rest when 2:00 pm of
+admission noted acute onset of substernal chest pain
+associated with shortness of breath, nausea, vomiting,
+diaphoresis.  He presented to the [**Hospital1 **] Emergency Room at
+4:00 and noted to have ST elevations in V1 through V4 and
+reciprocal inferior depressions, given IV Nitroglycerin,
+morphine, Plavix, aspirin without resolution of the pain, and
+transferred emergently to [**Hospital1 68**] for cath.
+
+In the cath lab, his RA pressure was 14, PA 51/27, pulmonary
+wedge pressure 25.  He had a thrombotic occlusion in the
+proximal LAD and stenotic distal LAD about 90% which were
+treated with Hepacoat bare metal stents.  Also noted to have
+an 80% lesion of the mid left circumflex and co-dominant
+right RCA with proximal PDA lesion which was not intervened
+on.  The patient required dopamine and Neo drips, as well as
+intra-arterial balloon pump.  The patient had runs of VT and
+was started on lidocaine drip.  The patient had temporary
+pacing wires placed, rate of 60.  The patient was started on
+bivalirudin and low dose heparin for anticoagulation.  On
+admission to the CCU, the patient was pain-free and
+comfortable, and no shortness of breath, chest pain, cough,
+lightheadedness, on lido, dopa, neo, heparin, bivalirudin
+drips.
+
+PAST MEDICAL HISTORY:
+1. Diabetes.
+2. Hypertension.
+3. GI bleed, status post colonoscopy in [**2607-3-8**] with
+diverticulosis.  EGD in [**2605-2-5**] with gastritis.
+4. TIA, ?CVA with residual left-sided findings without any
+palsy.
+5. Hypercholesterolemia.
+
+ALLERGIES:  No known drug allergies.
+
+MEDS AT HOME:
+1. Insulin, lente, 25 in the am, 15 q pm, and regular sliding
+scale.
+2. Glucophage.
+3. Pravachol.
+4. Prilosec.
+
+SOCIAL HISTORY:  He is a retired police officer.  Greater
+than 40 pack year tobacco history.  He quit 7 years ago.  No
+alcohol or drugs.  Lives at home with his daughters.
+
+FAMILY HISTORY:  Noncontributory.
+
+PHYSICAL EXAM ON ADMISSION:  He is afebrile with an arterial
+blood pressure of 95/57, PA pressure 39/20, heart rate 110,
+respiratory rate 18, sats 94% on 2 liters.  In general, he
+was pleasant, alert, in no acute distress, with flattened bed
+with intra-arterial balloon pump in place.  Extraocular
+muscles were intact.  Pupils equal, round, reactive to light.
+No lymphadenopathy.  JVP at about 8 cm.  Regular,
+tachycardic.  Heart sounds obscured by the balloon pump.
+Lungs clear anteriorly.  Abdomen with normally active bowel
+sounds, soft, nontender.  The balloon pump was audible
+throughout.  Groin was negative by cath lab report.
+Extremities - no edema, 2+ distal pulses.  Sheath in the left
+groin.  Intra-arterial balloon pump in the right groin.  No
+hematoma or bruits.  Neuro exam was awake, alert and oriented
+x 3.  Cranial nerves - III was weak on the left.  Otherwise,
+cranial nerves were intact.
+
+LABS AT OUTSIDE HOSPITAL:  White count 10.4, hematocrit 44.7,
+platelets 179, INR 1.35, sodium 135, K 4.4, chloride 100,
+bicarb 23, BUN 20, creatinine 1.0, glucose 383, calcium 9.6.
+Cardiac cath results - Again, right atrial pressure 14, PA
+pressure 51/27, wedge pressure 25, cardiac output/cardiac
+index 4.2 and 2.2, SVR 1448.
+
+HOSPITAL COURSE:  This was a 65-year-old gentleman, with an
+ST elevation MI of the LAD, now admitted with cardiogenic
+shock.
+
+1) CAD:  He was stable after cath on bivalirudin and heparin.
+His enzymes were followed, and he was continued on aspirin,
+anticoagulation and Plavix for his recent stent.  He was also
+continued on his statin which was titrated to a maximal dose
+which he tolerated fine.  The patient remained chest pain
+free throughout the course of his stay, status post stent. He
+subsequently underwent stenting of the LCX and RCA.
+
+2) CARDIOGENIC SHOCK:  The patient initially came in under
+cardiogenic shock and was initially on Neo-Synephrine and
+dopamine drips, in addition to the interatrial balloon pump,
+which he tolerated well.  Eventually, these were weaned off,
+and the patient's blood pressures remained stable.
+Eventually, the patient had an echocardiogram which showed an
+ejection fraction of [**11-20**]%, and the patient was started on
+vasodilators and beta blockers for his cardiac regimen, as he was
+off pressors, and his blood pressure was stable.  He was
+initially started on low dose ACE and low dose Toprol XL, and
+was started on Coumadin for prophylaxis for LV thrombus, in
+light of his large MI and decreased wall motion abnormality.
+The patient will actually go home on Lovenox, as he will
+return for an ICD placement per the electrophysiology team
+secondary to his low EF and episodes of NSVT.
+
+3) ARRHYTHMIAS:  The patient did have a run of V. tach
+secondary to his MI.  He was otherwise stable, but then
+throughout the course of his stay he had recurrent episodes
+of NSVT, and plans were made per electrophysiology team to
+return in 3 week's time to have an ICD placed.
+
+4) ATRIAL FIBRILLATION:  This was new onset likely secondary
+to his MI and worsening heart failure.  The patient did have
+an episode of atrial tachycardia during the course of his
+stay which did respond to low dose beta blockers, and again
+the patient will return for ICD placement.  No plans for an
+EP study at this time.  The patient was also started and
+loaded on digoxin which he will continue.  VT post MI - he
+was initially on lido drip secondary to this and this was
+weaned, and the patient's VT remained stable.
+
+5) DIABETES:  Patient with poor glucose control throughout
+the course of his stay.  Eventually was restarted on his home
+regimen which was titrated up, and this can be continued to
+be monitored closely upon DC.
+
+For patient' atrial fibrillation, he was converted with
+amiodarone and milrinone which was eventually discontinued.
+Amiodarone was eventually weaned off as well, and the patient
+remained in sinus with occasional episodes of atrial
+tachycardia as described above.
+
+The patient was seen by physical therapy and recommended
+continued rehabilitation for deconditioning after his MI.
+The patient will go for cardiac rehab.
+
+6) ANEMIA:  The patient had a history of GI bleed and was
+transfused over the course of his stay to keep a goal
+hematocrit greater than 30.  This remained stable over the
+course of his stay.
+7. Thrombocytopenia: resolved after unfractionated heparin was
+discontinued.
+
+DISCHARGE CONDITION:  Good.  Patient ambulating without
+difficulty, not requiring oxygen.  Deconditioned requiring
+cardiac rehabilitation.
+
+DISCHARGE STATUS:  Discharge to cardiac rehab.
+
+DISCHARGE DIAGNOSES:
+1. ST elevation myocardial infarction.
+2. Arrhythmias - ventricular tachycardia, atrial tachycardia,
+paroxysmal atrial fibrillation, nonsustained ventricular
+tachycardia.
+3. Anemia.
+4. Diabetes mellitus
+5. Cardiogenic shock
+6. Thrombocytopenia.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 po qd.
+2. Plavix 75 mg po qd.
+3. Pantoprazole 40 mg po qd.
+4. Colace 100 mg po bid.
+5. Senna 1 tab po bid prn.
+6. Percocet 1-2 tabs po q 4-6 h prn.
+7. Digoxin 0.125 mg po qd.
+8. Lasix 20 mg po qd.
+9. Captopril 50 mg po tid.
+10.Atorvastatin 80 mg po qd.
+11.Toprol XL 25 mg po qd.
+12.Lovenox 80 mg subcu q 12.
+13.Insulin sliding scale and insulin, lente, 32 U in the
+morning and 24 U at night.
+
+DISCHARGE FOLLOW-UP:
+1. The patient is to return in 3 week's time for ICD
+placement.
+2. The patient is to follow-up with his PCP [**Last Name (NamePattern4) **] [**8-15**] days.
+3. The patient is to follow-up with his cardiologist in [**3-11**]
+week's time.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1525**], M.D.  [**MD Number(1) 1526**]
+
+Dictated By:[**Name8 (MD) **]
+MEDQUIST36
+
+D:  [**2607-4-30**]  14:16
+T:  [**2607-4-30**]  14:49
+JOB#:  [**Job Number 33443**]
+
+
+
+
+
+
+DOC CLASS

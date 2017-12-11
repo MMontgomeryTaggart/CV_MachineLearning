@@ -1,0 +1,157 @@
+Chief Complaint:
+   24 Hour Events:
+   - received neostigmine -> large bowel movement 4 minutes later, abdomen
+   softer
+   Allergies:
+   Penicillins
+   Rash;
+   Clindamycin
+   C Diff colitis;
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Rash;
+   Amiodarone
+   Shortness of br
+   Levaquin (Oral) (Levofloxacin)
+   tendon rupture
+   Iodine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Haloperidol (Haldol) - [**2780-1-26**] 12:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2780-1-26**] 07:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 36.2
+C (97.2
+   Tcurrent: 36.1
+C (97
+   HR: 84 (70 - 84) bpm
+   BP: 117/65(77) {82/47(56) - 117/65(102)} mmHg
+   RR: 23 (14 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: V Paced
+                  Total In:
+                                                                     23 mL
+                  PO:
+                  TF:
+   IVF:
+                                                                     23 mL
+   Blood products:
+   Total out:
+                                                                    730 mL
+                                                                    520 mL
+   Urine:
+                                                                    380 mL
+                                                                    520 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -707 mL
+                                                                   -520 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///30/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   247 K/uL
+   11.7 g/dL
+   118 mg/dL
+   1.2 mg/dL
+   30 mEq/L
+   4.0 mEq/L
+   62 mg/dL
+   102 mEq/L
+   141 mEq/L
+   36.6 %
+   8.8 K/uL
+        [image002.jpg]
+                             [**2780-1-20**]  07:50 PM
+                             [**2780-1-21**]  04:35 AM
+                             [**2780-1-26**]  02:35 AM
+   WBC
+   9.9
+   9.3
+   8.8
+   Hct
+   34.8
+   33.2
+   36.6
+   Plt
+   200
+   198
+   247
+   Cr
+   1.6
+   1.4
+   1.2
+   Glucose
+   145
+   135
+   118
+   Other labs: PT / PTT / INR:18.9//1.7, Ca++:9.2 mg/dL, Mg++:2.7 mg/dL,
+   PO4:3.2 mg/dL
+   Assessment and Plan
+ ANXIETY
+ CONSTIPATION (OBSTIPATION, FOS)
+ RESPIRATORY FAILURE, CHRONIC
+   84-year-old man with CAD s/p AICD, [**Hospital1 **]-V pacer, systolic CHF EF 30-35%,
+   who presents from [**Hospital3 **] with progressive SOB, abdominal
+   distension, and constipation for two weeks, now with working diagnosis
+   of acute colonic pseudo-obstruction syndrome, transferred to MICU for
+   neostigmine administration.
+   .
+   # Acute colonic pseudo-obstruction ([**Last Name (un) 1904**] syndrome):
+   - neostigmine 2 mg IV x 1
+   - atropine by bedside
+   - frequent vitals
+   - observe overnight
+   - f/u GI recs; ?colonoscopy tomorrow
+   .
+   # Tachypnea: with movement. On 5-6L of NC for the past few days, likely
+   from increased abdominal pressure. No evidence of volume overload.
+   - treat colonic pseudoobstruction as above
+   - continue supplemental oxygen as needed
+   .
+   # Other medical problems:
+   - continue current management
+   .
+   #) Prophylaxis: INR therapeutic, bowel regimen
+   .
+   #) FEN: [**Last Name (LF) **], [**First Name3 (LF) 167**] start TPN tomorrow
+   #) Code Status: Full code (confirmed with daughter)
+   #) Access: PIVs
+   #)Communicaiton: Daughter [**Name (NI) 544**] [**Telephone/Fax (1) 11539**]
+   #) Dispo: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2780-1-25**] 06:41 PM
+   20 Gauge - [**2780-1-25**] 07:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

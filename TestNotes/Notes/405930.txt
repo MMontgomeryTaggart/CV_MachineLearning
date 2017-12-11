@@ -1,0 +1,204 @@
+CVICU
+   HPI:
+   69M readmit for septic shock s/p Ao root enlargement/AVR(25 StJude
+   mech)CABGx4(LIMA-LAD, SVG-Diag, SVG-OM, SVG-AM)[**6-2**], chest open for
+   tamponade [**6-5**]
+   PMHx:
+   CM, DM, HTN, ^lipids, s/p MVA [**2635-4-8**] several rib fx, Morbid obesity,
+   Hypothyroidism, Chronic venous statis, Anemia
+   [**Last Name (un) **]: Lopressor 100", Insulin SC, Digoxin 0.125', Lasix 80', ASAEC 325',
+   MVI DAILY, Colace 100"-prn Senna 1 [**Hospital1 **]:PRN, synthroid 225', Simvastatin
+   80', GlyBURIDE 2.5', Coumadin 5/7.5/1/1/5/5
+   Current medications:
+   1. 2. 3. Acetaminophen 4. Albuterol 0.083% Neb Soln 5. Albuterol 0.083%
+   Neb Soln 6. Aspirin 7. Bisacodyl  8. Calcium Gluconate 9. Citalopram
+   Hydrobromide 10. Fluconazole 11. Furosemide 12. Heparin 13. Heparin
+   Flush (10 units/ml)
+   14. 15. 16. Insulin 17. Insulin 18. Ipratropium Bromide Neb 19.
+   Levothyroxine Sodium 20. Magnesium Sulfate 21. Metoprolol Tartrate 22.
+   Milk of Magnesia 23. Ondansetron 24. Penicillin G Potassium 25.
+   Potassium Chloride 26. Ranitidine (Liquid) 27. Rosuvastatin Calcium 28.
+   Sodium Chloride 0.9% Flush 29. Sodium Chloride 0.9% Flush  30. Warfarin
+   24 Hour Events:
+   - VAC dressing changed yesterday
+   - Diuresing well
+   - On heparin gtt b/c INR subtherapeutic for valve
+   - Rehab screening in process
+   Allergies:
+   Morphine Sulfate
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Penicillin G potassium - [**2635-7-28**] 07:40 AM
+   Infusions:
+   Heparin Sodium - 1,200 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2635-7-27**] 12:41 PM
+   Flowsheet Data as of  [**2635-7-28**] 10:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**38**] a.m.
+   Tmax: 37
+C (98.6
+   T current: 35.5
+C (95.9
+   HR: 74 (73 - 89) bpm
+   BP: 103/41(57) {96/33(47) - 129/61(71)} mmHg
+   RR: 18 (17 - 25) insp/min
+   SPO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 179.6 kg (admission): 177.2 kg
+   Height: 68 Inch
+             Total In:
+                                                                    652 mL
+                                                                    325 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    652 mL
+                                                                    325 mL
+   Blood products:
+   Total out:
+                                                                  1,757 mL
+                                                                  1,395 mL
+   Urine:
+                                                                  1,757 mL
+                                                                    745 mL
+   NG:
+   Stool:
+   Drains:
+   650 mL
+   Balance:
+                                                                 -1,105 mL
+                                                                 -1,070 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///35/
+   Physical Examination
+   General Appearance: No(t) No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: throughout), (Sternum: Stable )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+   Left Extremities: (Edema: 4+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Right Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Skin: improving cellulitis of the LLE
+   Neurologic: (Awake / Alert / Oriented: x 3), Moves all extremities
+   Labs / Radiology
+   347 K/uL
+   7.8 g/dL
+   95 mg/dL
+   0.7 mg/dL
+   35 mEq/L
+   3.9 mEq/L
+   22 mg/dL
+   98 mEq/L
+   138 mEq/L
+   24.5 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**2635-7-24**]  03:15 AM
+                             [**2635-7-24**]  03:35 AM
+                             [**2635-7-25**]  02:39 AM
+                             [**2635-7-26**]  02:31 AM
+                             [**2635-7-26**]  03:30 AM
+                             [**2635-7-26**]  04:00 AM
+                             [**2635-7-26**]  04:57 AM
+                             [**2635-7-26**]  03:25 PM
+                             [**2635-7-27**]  02:57 AM
+                             [**2635-7-28**]  04:57 AM
+   WBC
+   13.0
+   11.1
+   8.7
+   11.5
+   11.4
+   9.4
+   Hct
+   27.6
+   27.3
+   24.4
+   26.7
+   26.7
+   24.5
+   Plt
+   [**Telephone/Fax (2) 6966**]
+   Creatinine
+   0.6
+   0.7
+   0.7
+   0.7
+   0.7
+   0.7
+   TCO2
+   30
+   Glucose
+   97
+   84
+   112
+   204
+   154
+   117
+   90
+   95
+   Other labs: PT / PTT / INR:17.2/54.1/1.5, CK / CK-MB / Troponin
+   T:52//0.48, ALT / AST:38/34, Alk-Phos / T bili:114/0.9, Amylase /
+   Lipase:34/46, Differential-Neuts:96.3 %, Lymph:2.5 %, Mono:1.0 %,
+   Eos:0.1 %, Lactic Acid:1.6 mmol/L, Albumin:2.7 g/dL, LDH:241 IU/L,
+   Ca:8.5 mg/dL, Mg:1.8 mg/dL, PO4:3.1 mg/dL
+   Imaging: No recent radiology
+   Microbiology:
+   [**2635-7-27**]  MRSA SCREEN MRSA SCREEN-PENDING
+   [**2635-7-24**]  CATHETER TIP-IV WOUND CULTURE-FINAL INPATIENT : NG
+   [**2635-7-24**]  Blood Culture, Routine-PENDING
+   [**2635-7-24**]  Blood Culture, Routine-PENDING
+   [**2635-7-23**]  URINE CULTURE-FINAL INPATIENT: NG
+   [**2635-7-21**]  Blood Culture, Routine-FINAL: NG
+   [**2635-7-21**]  Blood Culture, Routine-FINAL: NG
+   Assessment and Plan
+   CONSTIPATION (OBSTIPATION, FOS), IMPAIRED SKIN INTEGRITY, WOUND
+   INFECTION
+   Assessment and Plan: 69M readmit for septic shock s/p Ao root
+   enlargement/AVR(25 StJude mech)CABGx4(LIMA-LAD, SVG-Diag, SVG-OM,
+   SVG-AM)[**6-2**], chest open for tamponade [**6-5**]
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   HD stable. Continue heparin gtt until INR is therapeutic, goal 2.5-3.5
+   for mechanical AVR.
+   Pulmonary: IS, Chest PT, cough, deep breathing. CPAP at night.
+   Gastrointestinal / Abdomen: Tolerating diet.
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, Creatinine 0.7, diuresing well.
+   Hematology: Stable anemia.
+   Endocrine: RISS, Continue Levoxyl. Adequate glycemic control, continue
+   RISS, goal BS,150.
+   Infectious Disease: WBC down. Afebrile. Continue course of Pen G x 4
+   weeks. F/U cx data.
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings, Wound vacuum
+   Imaging:
+   Fluids:
+   Consults: Vascular surgery, CT surgery, ID dept, P.T., O.T., Nutrition
+   Billing Diagnosis: Arrhythmia, (Shock: Septic)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2635-7-24**] 12:17 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Heparin drip, Coumadin (R))
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 32 minutes
+
+
+DOC CLASS

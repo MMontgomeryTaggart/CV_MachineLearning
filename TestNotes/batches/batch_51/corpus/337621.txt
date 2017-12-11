@@ -1,0 +1,254 @@
+Chief Complaint:  unresponsive
+   HPI:
+   45M h/o diabetes, ?renal disease, ?seizure found unresponsive at home
+   by a friend. Unclear medical history and no prior notes or family
+   contact information.
+   .
+   On EMS arrival, cool and unresponsive but with pulse and spontaneously
+   breathing. FSBG 19, given 1amp D50 and 1mg glucagon. Narcan without
+   improvement. BIBA to ED.
+   .
+   In the ED, vitals T 32.5, 65, 144/63, 17. Temp improved to 34.1 on bair
+   hugger. Labs notable for WBC 18.3 without bands, Hct 25.2, AG 14, BUN
+   129, Cre 6.5, LFTs with mild transaminitis, CK 467, MB/MBI 12/2.6, TnT
+   0.13, lactate 1.6, serum and urine tox screens negative. FSBG 109,
+   remained normoglycemic while in ED. U/A with mod bact, [**4-4**] WBC. Exam
+   'clamped down', cool, grossly edematous, no evidence trauma, no gag,
+   unresponsive to painful stimuli, shivering. ABG 7.26/60/156. Intubated
+   for airway protection (reportedly very difficult due to edema). Given
+   given ativan and started on propofol gtt for ?seizure history. CXR with
+   no acute process. CT head negative. Not placed in C-collar or spine
+   imaging series given no concern for traumatic injury. Covered with vanc
+   1gm IV, CTX 2gm IV. Admit to ICU.
+   .
+   ROS: Unable to perform due to intubation.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Medical records, EMS verbal report, ED notes
+   Patient unable to provide history: Sedated
+   Allergies:
+   Last dose of Antibiotics:
+   Vancomycin - [**3308-11-28**] 02:00 PM
+   Infusions:
+   Propofol - 20 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   ?
+   Past medical history:
+   Family history:
+   Social History:
+   Diabetes
+   Vascular disease
+   ?seizure history
+   ?renal disease
+   ?
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: ?
+   Review of systems:
+   Endocrine: No(t) Hyperglycemia
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**3308-11-28**] 04:36 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.1
+C (95.2
+   Tcurrent: 35.1
+C (95.2
+   HR: 67 (67 - 92) bpm
+   BP: 151/74(102) {129/63(79) - 151/74(102)} mmHg
+   RR: 14 (14 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             232 mL
+   PO:
+             TF:
+   IVF:
+   232 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  2,175 mL
+   Urine:
+   475 mL
+   NG:
+   100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                 -1,943 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 550) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 20
+   PIP: 12 cmH2O
+   SpO2: 100%
+   ABG: 7.35/45/230//0
+   Ve: 10.4 L/min
+   PaO2 / FiO2: 460
+   Physical Examination
+   General: Intubated, sedated
+   HEENT: pinpoint pupils, scleral edema, anicteric
+   Neck: supple, trachea midline, no thyromegaly or masses, no LAD
+   Cardiac: RRR, s1s2 normal, soft SEM RUSB, no r/g, unable to assess JVD
+   Pulmonary: diminished BS right base, crackles on left, no wheeze
+   Abdomen: +BS, soft, nontender, nondistended, no HSM
+   Extremities: warm, 2+ DP pulses, 1+ bilateral pitting tibial edema
+   Neuro: Unable to assess due to sedation
+   .
+   Further examination off propofol gtt revealed awake, alert, gagging on
+   ET tube, following all commands, moving all 4 extremities, denies pain
+   or SOB
+   Labs / Radiology
+   230
+   144 mg/dL
+   6.5
+   129
+   26
+   100 mEq/L
+   4.3 mEq/L
+   140 mEq/L
+   25.2
+   18.3
+        [image002.jpg]
+                                  [**3306-2-1**]
+                         2:33 A10/29/[**3308**]  01:12 PM
+                                  [**3306-2-5**]
+                                   10:20 P
+                                  [**3306-2-6**]
+                                   1:20 P
+                                  [**3306-2-7**]
+                                   11:50 P
+                                  [**3306-2-8**]
+                                   1:20 A
+                                  [**3306-2-9**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3306-3-4**]
+                                   1:20 P
+                                  [**3306-3-4**]
+                                   11:20 P
+                                  [**3306-3-4**]
+                                   4:20 P
+   TC02
+                                     26
+   Glucose
+                                     144
+   Other labs: PT / PTT / INR://1.0, CK / CKMB / Troponin-T:467//0.13,
+   Band:0, Lactic Acid:0.8 mmol/L, Albumin:4.4
+   Fluid analysis / Other labs: U/A with mod bact, [**4-4**] WBC.
+   Serum and urine tox screens negative.
+   Imaging: CXR: The ET tube has its tip approximately 45 mm from the
+   carina. The NG tube has its tip projected over the stomach. There is
+   apparent cardiomegaly which may partly be due to AP projection. The
+   lungs are clear.
+   .
+   CT head: There is no evidence for edema, hemorrhage, mass effect, or
+   territorial infarction. There is no shift of midline, and there is
+   preservation of the normal [**Doctor Last Name 707**]-white matter differentiation. The
+   ventricles and sulci are normal in caliber and configuration. There are
+   no fractures. There is mucosal thickening of the left and right
+   maxillary sinuses as well as the ethmoid sinuses and nasal passages,
+   which could be related to patient's intubated status. Patient is status
+   post right lens surgery. There are extensive vascular calcifications of
+   the carotid and vertebral arteries. IMPRESSION: No acute intracranial
+   process.
+   Microbiology: Blood and urine cultures pending
+   ECG: ECG: Sinus, 60bpm, LAD, no acute ST changes
+   Assessment and Plan
+   45M h/o diabetes, ?renal disease, ?seizure found unresponsive at home.
+   .
+   # Unresponsive: Most likely severe hypoglycemia, unclear what
+   outpatient medications patient is on (?sulfonurea, insulin) but
+   possibly renal failure could have been precipitant. Consider seizure
+   (perhaps in setting of hypoglycemia) or infectious source (CNS or
+   otherwise). Tox screens negative. Consider cardiac event as evidence
+   vascular disease on CT head and diabetic, also with mildly elevated CK
+   and TnT but which could be explained by immobilization and renal
+   failure, respectively.
+   - Continue rewarming
+   - Q1H fingersticks
+   - Vanc/CTX given in ED
+   - f/u culture results
+   - Check TSH, B12, RPR
+   - EEG to r/o seizure
+   - Consider LP and MR brain
+   - Continue propofol gtt
+   - Consider neuro consult should MS not improve
+   - ROMI with serial enzymes
+   .
+   # Respiratory failure: Intubated for airway protection. Likely
+   hypoventilating based on pre-intubation ABG. Wean vent as MS improves,
+   may be able to relatively rapidly extubate if MS recovers with
+   euglycemia and rewarming. ?airway edema and no cuff leak per
+   respiratory. Allow to diurese overnight and revisit extubation in AM.
+   .
+   # Acute renal failure: ?Chronic renal disease. Cre 6.5 on admission
+   with no baseline. UOP ~1L in the ED. ?obstruction due to prostate,
+   bladder stone, mass, other. No acute dialysis need based on lytes and
+   seems to be making urine. [**Month (only) 56**] have been down for some time so monitor
+   for rhabdo although CK not significantly elevated at present.
+   - Foley
+   - Urine lytes, eos
+   - Renal ultrasound
+   - Follow UOP closely
+   - Avoid nephrotoxins
+   - Consider renal consult
+   .
+   # Edema: Likely due to renal failure, although consider cardiogenic
+   source and CXR read as clear although appears to have increased
+   interstitial markings possibly consistent with CHF. Also consider
+   anaphylactic type reaction however would be less consistent with
+   presentation of hypoglycemia and hypothermia. Appears to be oxygenating
+   well. Check cuff leak and consider ENT to eval airway prior to
+   extubation. Appears to be autodiuresing, follow UOP.
+   .
+   # Diabetes: FS Q1h. Hold anti-hyperglycemic agents.
+   .
+   # ?Seizure history: Workup per above, attempt to contact family or
+   physicians for past medical history.
+   .
+   # Anemia: Unclear baseline, currently ~25. If h/o renal failure could
+   explain chronic anemia. No evidence of active bleeding presently.
+   - Repeat Hct for stability
+   - Guaiac all stools
+   - 2x PIV, T&S
+   .
+   # FEN: NPO x meds, replete 'lytes prn
+   # PPX: pneumoboots, PPI, bowel regimen
+   # Code: FULL presumed
+   # Dispo: ICU
+   # Communication: attempt to find family, as they have not been in and
+   he has no contact info
+   ICU Care
+   Nutrition:
+   Comments: NPO except medications
+   Glycemic Control: Comments: Q1H fingersticks
+   Lines:
+   18 Gauge - [**3308-11-28**] 02:00 PM
+   20 Gauge - [**3308-11-28**] 02:00 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP: Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+DOC CLASS

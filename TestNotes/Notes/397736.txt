@@ -1,0 +1,108 @@
+Cardiology Consult
+   Asked by MICU team to consult on this complex 69f to assist with
+   hemodynamic management.
+   HPI
+   69f admitted [**6-16**] from nursing home through [**Hospital1 5**] ER.  Her recent
+   history is notable for severe PVD s/p [**Name (NI) **] CFA
+ PT bypass on [**3302-4-18**],
+   wound infections & revisions, most recently [**6-12**].  Discharged to rehab
+   on [**6-15**], but immediately bounced back with mental status changes,
+   hypotension, hypoxemia, and rapid atrial fibrillation.  She was
+   intubated in the emergency room and admitted to the MICU.
+   Echo as below; CT-Angiogram showed RML arterial filling defect, ?
+   chronic PE, R subclavian artery occlusion, recurrent invasive lung
+   cancer.
+   Her course here has been notable for labile hemodynamics, seemingly
+   worse when extubated and improving when re-intubated (as happened
+   yesterday), after her extubation course degenerated with confusion,
+   unrepsonsiveness, and hyptonsion requiring dopamine and levophed..
+   No clear infectious etiology for her decompensation yet identified,
+   though broadly covered.
+   Currently intubated, unable to obtain a cardiac or general review of
+   systems.  Family reports that the patient has no known history of CAD,
+   do not think she has had ETT or cath previously.
+   PMH
+H/o lung cancer w/prior RLLectomy; recent imaging suggestive of recurrent metast
+atic disease.
+PAD as above
+T2DM
+Tyroid disease s/p thyroidectomy
+H/o orthostatic hypotension, on midodrine/florinef as outpatient
+   Echo ([**6-16**])
+ Limited study with biventricular dysfunction, LVEF 30%,
+   RV dysfunction/dilation, 2+ MR, [**2-28**]+ TR, no effusion
+   Telemetry
+ SR, 80s.
+   ECG
+ (From [**6-17**])
+ SR, borderline volts, diffuse nonspecific ST-TW
+   changes with some suggestion of RV strain.
+   Meds
+   Vanco/ceftax/zosyn
+   Versed/fentanyl
+   UFH at 600u/hr
+   Bowel meds
+   Dig 0.0625
+   Thyroid replacement
+   PPI
+   ** Not on midodrine or florinef, though was on these upon discharge
+   Laboratory data as per OMR.
+   Exam
+   Afebrile     HR  80s               BP 85/55 100 02 on Fi02 40%
+   HEENT unremarkable
+   JVP up to jaw
+   Lungs with decreased b/l bs
+   RR, soft systolic murmur at base
+   Abdomen soft, NT/ND
+   Mild edema in lower and upper extremities
+   Impression
+   Complex 69f with PAD s/p [**Month/Year (2) **] bypass, admitted with respiratory failure
+   and hypotension.  We are asked to comment on her described hemodynamic
+   lability post extubation, and whether any primary cardiac pathology may
+   be complicating her picture and/or limiting her liberation from the
+   ventilator.
+   Her ER TTE demonstrated new biventricular dysfunction and worsening MR
+   and TR; however, this was an incomplete study performed in the throes
+   of acute illness, and may not reflect her current cardiac status.
+   Notably, her CV02s (albeit from a leg line) are if anything high, and
+   her oxygenation has been reasonable.  This would argue against a
+   significant cardiogenic component to her hypotension.  Her exam now
+   seems more consistent with low-grade systemic inflammation than
+   congestive heart failure.
+   A PA-catheter may better characterize her filling pressures, although
+   we would be reluctant to pursue an invasive procedure in someone with
+   an overall very guarded prognosis.  A noninvasive instrument such as
+   the Vigileo device may be helpful.
+   Recommendations
+   Restart midodrine and florinef (as she was on these as an outpatient)
+   and wean levophed based on baseline hypotension
+   If still intubated on Tuesday, re-check TTE
+   Consider PA-catheter vs noninvasive CO/CI monitor
+   Case d/w Dr. [**Last Name (STitle) **].  Will staff on [**6-19**].
+   [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4079**], M.D.
+   Cardiology Fellow
+   x90493
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr(s). [**Name (NI) **] from [**3302-6-16**].
+   I would add the following remarks:
+   Patient with hypoventilation and hypotension periextubation.  While
+   there is some component of cardiovascular inefficiency, I beleive that
+   many parameters support the idea that vasodilation is a large component
+   of tissue hypoperfusion and the hypoventilation is not due to
+   cardiovascular compromise.  The fact that profound pulmonary edema is
+   not present and there is suggestion that mixed venous O2 may be high
+   are significant factors that I am considering.  I think the new wall
+   motion abnormalities on ECHO will ultimately prove to be transient
+   reactions to severe compromise and tissue level perfusion rather than
+   primary processes in and of themseleves.  As such, I would suggest
+   management to include return to medications as an outpatient that were
+   given to replace poor vasomotor tone as described by Dr. [**Last Name (STitle) **].
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) **], MD
+   on:[**3302-6-19**] 08:18 ------
+
+
+DOC CLASS

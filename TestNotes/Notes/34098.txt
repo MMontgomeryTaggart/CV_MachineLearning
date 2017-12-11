@@ -1,0 +1,371 @@
+Admission Date:  [**2897-4-15**]              Discharge Date:   [**2897-4-30**]
+
+Date of Birth:  [**2838-4-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 15035**]
+Chief Complaint:
+Hypoxia, tachypnea
+
+Major Surgical or Invasive Procedure:
+Pericardiocentesis [**2897-4-28**]
+Fine needle aspiration of axillary node [**2897-4-23**]
+
+
+History of Present Illness:
+She is a 58-year-old [**Last Name (un) 15479**] resident with mental retardation,
+COPD, and no reported past cardiac history who presents for
+examination of distended belly, anemia and noted to have large
+pericardial effusion. Given mental retardation, interview with
+patient is extremely limited, and pt. minimally able to report
+symptoms. Pt. was admitted to [**Hospital3 7831**] after ECHO for workup
+of shortness of breath revealed moderate pericardial effusion
+without tamponade. Repeat ECHO 24h later showed
+stable-to-improved effusion and was discharged with plans for
+f/u ECHO in 14d.
+.
+Today, she presented to ED from NH with short episode hypoxia
+with recovered with albuterol and 02 and started on
+levofloxacin. also had KUB given some abdominal distension which
+reportedly was concerning for ileus. she was transferred to
+[**Hospital1 22**] for evaluation of a distended belly in setting of previous
+volvulus. In ED, she had a distended abd with minimal TTP,
+normal LFTs, pancreatic enzymes, without leukocytosis. She was
+guaiac negative with VSS and received Abdominal CT shich showed
+large pericardial effusion and presacral, perihepatic fluid, but
+no acute abdominal process. Given large pericardial effusion
+without previous comparisons, pt. was admitted for planned f/u
+ECHO in the AM.
+.
+Spoke with pt.'s brother and wife who report that 8 weeks ago,
+she started to become pale, have increased shallow breathinig,
+low grade temps to 100-101, with some abdominal distension that
+has been ongoing. Concern for GERD, COPD, UTI, all diagnosed
+within this time period. UTI tx. with levaquin.
+she has had no bloody or black stools per family until she
+starte Fe So4.
+
+
+Past Medical History:
+- Mental retardation of unknown etiology.
+- DJD.
+- Bilateral knock knees (talus valgus, pes planus).
+- Neurodermatitis.
+- Psoriasis.
+- History of obesity.
+- Status post volvulus and colonic resection.
+- Status post left oophorectomy.
+- Fe deficiency anemia 28.5 at [**Hospital3 7831**] 1 week ago
+- GERD
+
+
+Social History:
+Social history is significant for the absence or EtoH use.
+Patient is a resident at [**Last Name (un) 15479**] Center.
+
+Family History:
+Father died of prostate cancer, CABG, MIs; he also had colon CA.
+maternal aunt with ovarian and breast cancer. MI and CAD
+throughout family on both sides.
+
+Physical Exam:
+VS - T 99.8 137/65 HR 101, 95%RA, no pulsus
+Gen: middle-aged woman, NAD, repititious and perseverative,
+follows commands. Oriented x 1.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pale, no with sublingual pallor, MMM
+Neck: unable to assess JVP as pt. will not allow herself to be
+reclined. at 45 degrees, JVP flat.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, borederline tachycardic, normal S1, S2. No m/r/g. No
+thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no wheezes or
+rhonchi. mild, occ. crackles at Right base.
+Abd: mildly distended, obese, with difficult abodminal exam as
+pt. denies belly pain but seems to grimace on palpation of
+RUQ>RLQ. No organomegaly noted in context of bodyhabitus and
+difficulty participating in exam. No abdominial bruits.
+Ext: 2+ pitting edema to knees (new per PA at bedside. No
+femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas. +
+hirsutism
+Pulses:
+Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ 2+ DP 2+ PT 2+
+Neuro: CN II-XII grossly intact, moving all 4 ext.
+spontaneously, follows commands.
+
+
+Pertinent Results:
+Echocardiogram [**2897-4-16**]
+Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF>55%). Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Right ventricular chamber size and free wall
+motion are normal. Trivial mitral regurgitation is seen. There
+is a moderate to large sized circumferential pericardial
+effusion. Stranding is visualized within the pericardial space
+c/w organization. There is substantial right atrial collapse and
+brief diastolic invagination of the right ventricular outflow
+tract (cine loops #15 and #28), consistent with low filling
+pressures or early tamponade.
+IMPRESSION: Moderate-to-large pericardial effusion with
+echocardiographic findings of early tamponade.
+.
+CT chest, abdomen & pelvis W/CONTRAST [**2897-4-22**]
+IMPRESSION:
+1. Diffuse lymphadenopathy in the axillary, supraclavicular and
+mediastinal regions. Pulmonary nodules in the left lung apex is
+also noted. This is concerning for a neoplastic process.
+Differential diagnosis includes primary lymphoma or lung
+neoplasm.
+2. Small pericardial effusion, decreased in size.
+3. Bilateral small pleural effusions.
+4. Splenic hypodensity.
+5. Multiple hepatic subcentimeter hypodensities which are too
+small to characterize.
+6. Cholelithiasis without evidence of cholecystitis.
+7. Diffuse colonic distention up to 12.2 cm. No evidence of
+obstruction.
+.
+Pericardial fluid:
+Three color gating is performed (light scatter vs. CD45) to
+optimize lymphocyte yield. CD45-bright, low-side scatter
+lymphoid cells comprise 23% of total analyzed events. Of these,
+B cells comprise approximately 15% of lymphoid-gated events and
+do not express aberrant antigens.  Surface immunoglobulin
+expression is extremely dim-to-absent, precluding evaluation of
+clonality. T cells comprise approximately 80% of lymphoid gated
+events, express mature lineage antigens, and have a
+helper-cytotoxic ratio of 5.0. Natural killer cells represent
+approximately 3% of lymphoid gated events. No expansion of
+CD34-immunoreactive events are identified in the "blast gate".
+Monocytic cells comprise 6% of total analyzed events.
+.
+Non-specific T cell dominant lymphoid profile; diagnostic
+immunophenotypic features of involvement by a
+lymphoproliferative disorder are not seen in specimen.
+Correlation with clinical findings and morphology (see 08-[**Numeric Identifier 27806**])
+is recommended.  Flow cytometry immunophenotyping may not detect
+all lymphomas due to topography, sampling or artifacts of sample
+preparation.
+.
+L axillary lymph node FNA
+Three color gating is performed (light scatter vs. CD45) to
+optimize lymphocyte yield. B cells comprise approximately 9% of
+lymphoid-gated events, are polyclonal, and do not express
+aberrant antigens.T cells comprise approximately 89% of lymphoid
+gated events and express mature lineage antigens (CD2,3,5,7).
+.
+Non-specific T cell dominant lymphoid profile; diagnostic
+immunophenotypic features of involvement by non-Hodgkin B-cell
+lymphoma are not seen in specimen.  Review of cytospin slide
+(1096V-[**4-24**]) shows predominantly blood with admixed lymphocytes
+and numerous degenerated cells precluding definitive morphologic
+assessment.  Correlation with clinical findings and morphology
+is recommended.  Flow cytometry immunophenotyping may not detect
+all lymphomas due to topography, sampling or artifacts of sample
+preparation.
+.
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2897-4-29**] 07:00AM    9.4 3.38* 8.2* 28.6* 85 24.3* 28.7* 16.3*
+389
+[**2897-4-28**] 07:00AM    9.8 3.21* 7.8* 26.8* 83 24.3* 29.2* 16.5*
+381
+[**2897-4-18**] 01:36AM    9.6 3.73* 9.0* 29.9* 80* 24.2* 30.1* 15.5
+410
+[**2897-4-17**] 06:00AM    7.1 3.27* 8.2* 27.0* 83 25.0* 30.2* 15.8*
+355
+[**2897-4-16**] 10:30AM    10.5 3.40* 8.2* 27.5* 81* 24.2* 29.9*
+15.7* 385
+[**2897-4-15**] 04:30PM    8.8 3.46* 8.5* 28.2* 82 24.5* 30.1* 15.7*
+381
+.
+DIFFERENTIAL           Neuts  Lymphs Monos Eos Baso
+[**2897-4-23**] 04:20AM    89.0*   5.5* 4.5 0.9 0.1
+[**2897-4-18**] 01:36AM    89.3*   5.6* 4.8 0.2 0.1
+[**2897-4-15**] 04:30PM    89.1*   4.7* 4.6 1.5 0.2
+.
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3
+[**2897-4-29**] 07:00AM    101 13 0.3* 144 3.8 109* 29
+[**2897-4-28**] 07:00AM    103 12 0.3* 141 3.6 107 26
+[**2897-4-18**] 01:36AM    155* 10 0.4 144 3.6 110* 26
+[**2897-4-17**] 03:50PM    109* 8 0.3* 143 3.9 109* 25
+[**2897-4-16**] 10:30AM    126* 9 0.4 138 3.9 103 28
+[**2897-4-15**] 04:30PM    117* 13 0.4 140 4.1 105 29
+.
+ENZYMES & BILIRUBIN ALT AST LD(LDH) AlkPhos Amylase TotBili
+[**2897-4-23**] 04:20AM  27  19  292     129*    14      0.5
+[**2897-4-15**] 04:30PM  14  14  245     134*            0.5
+.
+OTHER ENZYMES & BILIRUBINS Lipase
+[**2897-4-23**] 04:20AM         15
+.
+
+Brief Hospital Course:
+58 yo F with mental retardation & h/o volvulus s/p colonic
+resection admitted with hypoxia & abdominal distention, also
+repeat echocardiogram given newly diagnosed pericardial
+effusion.
+.
+# Pericardial Effusion: s/p pericardiocentesis when early signs
+of tamponade seen on echocardiogram. Bloody pericardial effusion
+~510cc's removed, ?malignancy. However no evidence of malignancy
+cells seen on flow cytometry as well as cytology. W/u already
+started at [**Hospital6 **] and so far studies negative
+except for elevated ESR, CRP & CA 125. Required overnight CCU
+stay after pericardial drain placed. Developed afib with RVR
+during stay. No evidence of reaccumulation of fluid seen on
+repeat echocardiogram or vital signs including nml pulsus.
+.
+# Atrial fibrillation with RVR: ?r/t pericardial effusion,
+worsened after pericardiocentesis during which time she stayed
+in the CCU given pericardial drain. She was treated with IV
+metoprolol, diltiazem then finally started on an emsolol drip
+for good control. This was weaned off with the onset of
+Verapamil which was uptitrated during stay. Metoprolol was also
+added for better rate control. The decision was made for no
+anticoagulation given bloody pericardial effusion, pt was
+continued on full strength aspirin.
+.
+# CT findings: Diffuse lymphadenopathy in the axillary,
+supraclavicular and mediastinal regions with pulmonary nodules
+in the left lung apex which were concering for neoplastic
+process. Pt underwent L axillary lymph node biopsy for concern
+of malignancy, ?Lung CA, lymphoma vs. other other cancers.
+However, pathology was not diagnostic. Pt with no prior
+colonoscopies or vaginal exams, however with nml mammograms &
+per report, last [**1-/2897**] nml. Guaiac negative stools during
+admission. Pt will need outpt evaluation for excisional lymph
+node biopsy vs mediastinoscopy for tissue diagnosis, if desired
+by the family.
+.
+# Abdominal distension: Appeared to be chronic, however worsened
+acutely during admission. No evidence of volvulus, cholecystitis
+or obstruction; imaging showed significant amounts of air with
+colonic distention, likely colonic ileus. Surgery was consulted
+and recommended endoscopic decompression per GI. However, GI
+recommended rectal tube placement with was effective in
+decompressing her abdomen. Pt initially made NPO, however
+resumed regular diet gradually. had no episodes of nausea or
+vomiting, however it was difficult to access abdominal pain. Per
+GI, pt will require intermittent decompression with rectal tube
+until ileus resolves. Also given possibility of malignancy, it's
+recommended that pt under colonoscopy as part of further workup.
+
+.
+# Microcytic anemia: c/w anemia of chronic disease; low retic
+count, however hematocrit stable. Guaiac negative stool x 1 in
+the ED. We continued iron supplementation, ?other stools
+guaiac'ed.
+.
+# Peripheral edema: Unclear if new, no evidence of chronic
+venous stasis and no significant ascites seen on CT despite
+abdominal distention. No evidence of proteinuria, however
+sl.lower albumin. ?heart failure, however no other evidence on
+PE. Liver function appears nml.
+.
+# Neurodermatitis: continued topicals
+# DJD: continued celecoxib & tylenol.
+.
+DNR/DNI
+
+Medications on Admission:
+- Multivitamin 1 tab
+- CaCo3 1250mg qdaily
+- Celebrex 100 mg twice a day
+- artifical tears PRN
+- Eucerin cream topical every day,
+- Vitamin E and Vitamin D ointments
+- Chlorhexidine topical
+- FeSo4 325 mg [**Hospital1 **]
+- started on levaquin 500mg at NH today given transient hypoxia
+.
+ALLERGIES: NKDA
+
+
+Discharge Medications:
+1. Calcium Carbonate 500 mg (1,250 mg) Tablet, Chewable Sig: One
+(1) Tablet, Chewable PO once a day.
+2. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+3. Celecoxib 100 mg Capsule Sig: One (1) Capsule PO bid ().
+4. Artificial Tear with Lanolin 0.1-0.1 % Ointment Sig: One (1)
+Appl Ophthalmic QID (4 times a day) as needed for dry eyes.
+5. Eucerin     Cream Sig: One (1) application Topical once a
+day.
+6. Glucosamine-Chondroitin Complx 500-400 mg Capsule Sig: Two
+(2) Capsule PO twice a day.
+7. Ferrous Sulfate 325 mg (65 mg Iron) Capsule, Sustained
+Release Sig: One (1) Capsule, Sustained Release PO twice a day.
+
+8. Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: 2.5
+Tablet Sustained Release 24 hrs PO once a day.
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig:
+One (1) nebs Inhalation Q6H (every 6 hours) as needed for
+wheezing, SOB.
+11. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for shortness of
+breath, wheezing.
+12. Verapamil 120 mg Tablet Sig: 1.5 Tablets PO Q8H (every 8
+hours).
+13. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Last Name (un) **] center
+
+Discharge Diagnosis:
+Pericardial tamponade s/p pericardiocentesis
+Atrial fibrillation with RVR
+Colonic ileus with abdominal distension s/p rectal decompression
+Mental retardation
+Degenerative joint disease
+s/p volvulus with colonic resection
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted with pericardial tamponade and you underwent
+draining of the fluid around your heart. Laboratory analysis of
+the fluid did not reveal a cause. You were also found to have
+multiple enlarged lymph nodes in your chest. You had a biopsy of
+one of these nodes that was not diagnostic. You should speak
+with your doctor about having an excisional biopsy of one of
+your lymph nodes.
+
+During your hospitalization, you had abdominal distention from
+an ileus that resolved with rectal tube decompression which
+should be continued intermittently as needed.
+.
+MEDICATION CHANGES:
+- start Toprol XL 125mg po daily, Verapamil 180mg po q8h
+- Aspirin 325mg po daily
+Continue to take your other medications as prescribed.
+.
+Please call your PCP or come to the ED if you develop chestpain,
+shortness of breath or any other worrisome symptoms.
+
+Followup Instructions:
+Please f/u with PCP at the residence within 1 week of discharge.
+You should discuss whether you should have a mediastinoscopy or
+excisional biopsy of one of your lymph nodes.
+
+
+
+Completed by:[**2897-4-30**]
+
+DOC CLASS

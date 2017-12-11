@@ -1,0 +1,199 @@
+CVICU
+   HPI:
+   HD31
+   [**7-13**] POD 7
+   s/p AVR (21 pericardial), MV repair (28mm ring), CABGx3 (LIMA to LAD,
+   SVG to Diag, SVG to PDA) [**7-6**]
+   Cre: 0.9 Wt: 95kgs HgbA1C: 6.4 EF: 45%
+   PMHx: HTN, ^lipids, Afib on Coumadin, CAD, CHF, DM Type II, PNA [**4-23**],
+   OSA on CPAP, Obesity, s/p appendectomy, s/p cholecystectomy, s/p hernia
+   repair, s/p stomach surgery for [**First Name9 (NamePattern2) 7246**]
+   [**Last Name (un) 500**]:Coumadin 5mg PO daily, Potassium chloride 10mEq PO daily, Lasix
+   40mg PO daily, MVI PPO daily, Digoxin 125mgc PO daily, Calcium 600mg PO
+   daily, Amlodipine 5 mg PO daily, Captopril 50mg PO daily, metformin
+   1000mg PO BID, Atenolol 50mg PO daily
+   Current medications:
+   Acetaminophen 3. Aspirin EC 4. Atorvastatin 5. Bisacodyl 6. Calcium
+   Gluconate 7. Dextrose 50%
+   8. Docusate Sodium 9. Heparin 10. Insulin 11. Insulin 12. Lidocaine
+   Jelly 2% 13. Magnesium Sulfate
+   14. Metoclopramide 15. Milk of Magnesia 16. Oxycodone-Acetaminophen 17.
+   Potassium Chloride 18. Ranitidine
+   19. Sodium Chloride 0.9% Flush 20. Sodium Chloride 0.9% Flush 21.
+   Vancomycin
+   24 Hour Events:
+   --No significant pacing requirements overnight.  Remains in Afib.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3481-7-13**] 08:08 AM
+   Infusions:
+   Heparin Sodium - 900 units/hour
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**3481-7-13**] 08:08 AM
+   Other medications:
+   Flowsheet Data as of  [**3481-7-13**] 09:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**83**] a.m.
+   Tmax: 36.3
+C (97.4
+   T current: 35.9
+C (96.7
+   HR: 85 (69 - 85) bpm
+   BP: 120/78(87) {103/48(65) - 133/92(107)} mmHg
+   RR: 17 (11 - 23) insp/min
+   SPO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 88.6 kg (admission): 84.7 kg
+   Height: 64 Inch
+             Total In:
+                                                                  1,151 mL
+                                                                    824 mL
+   PO:
+                                                                    750 mL
+                                                                    540 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    401 mL
+                                                                    284 mL
+   Blood products:
+   Total out:
+                                                                  2,030 mL
+                                                                  1,045 mL
+   Urine:
+                                                                  2,030 mL
+                                                                  1,045 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -879 mL
+                                                                   -221 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: L > R), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   180 K/uL
+   8.7 g/dL
+   118 mg/dL
+   0.6 mg/dL
+   29 mEq/L
+   4.1 mEq/L
+   15 mg/dL
+   100 mEq/L
+   135 mEq/L
+   27.7 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**3481-7-7**]  08:18 PM
+                             [**3481-7-8**]  02:08 AM
+                             [**3481-7-8**]  01:49 PM
+                             [**3481-7-9**]  02:18 AM
+                             [**3481-7-9**]  02:53 PM
+                             [**3481-7-10**]  02:08 AM
+                             [**3481-7-10**]  02:20 PM
+                             [**3481-7-11**]  05:57 AM
+                             [**3481-7-12**]  05:18 AM
+                             [**3481-7-13**]  03:28 AM
+   WBC
+   16.2
+   20.0
+   17.6
+   14.1
+   7.5
+   8.3
+   8.1
+   Hct
+   28.9
+   29.9
+   30.5
+   27.8
+   27.5
+   28.0
+   28.1
+   28.5
+   27.7
+   Plt
+   94
+   92
+   92
+   105
+   148
+   173
+   180
+   Creatinine
+   0.8
+   0.9
+   0.8
+   0.9
+   0.8
+   0.7
+   0.6
+   Glucose
+   144
+   106
+   88
+   162
+   87
+   89
+   118
+   Other labs: PT / PTT / INR:15.2/63.1/1.3, Fibrinogen:182 mg/dL, Lactic
+   Acid:3.1 mmol/L, Ca:9.3 mg/dL, Mg:2.1 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   HYPERGLYCEMIA, IMPAIRED PHYSICAL MOBILITY, PAIN CONTROL (ACUTE PAIN,
+   CHRONIC PAIN), IMPAIRED SKIN INTEGRITY, CORONARY ARTERY BYPASS GRAFT
+   (CABG)
+   Assessment and Plan:
+   Neurologic: Percocet PRN
+   Cardiovascular: Aspirin, Afib and brady / asystole -->  Cont to hold
+   B-blockers but remain on
+   Pulmonary: IS, OOB / PT [**Name (NI) **]
+   Gastrointestinal / Abdomen: Bowel regimen.
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO
+   Hematology: Mod anemia.
+   Endocrine: RISS
+   Infectious Disease: Check cultures, Awaiting final culture results.
+   Cont Vanco x 3 more days pending cx results.
+   Lines / Tubes / Drains: Foley
+   Wounds:
+   Imaging: None.
+   Fluids: KVO
+   Consults: CT surgery, EP dept
+   Billing Diagnosis: Arrhythmia, Post-op complication
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3481-7-13**] 06:42 AM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+   Patient is critically ill
+
+
+DOC CLASS

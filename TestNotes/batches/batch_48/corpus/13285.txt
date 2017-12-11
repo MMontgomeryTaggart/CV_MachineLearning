@@ -1,0 +1,392 @@
+Admission Date:  [**2742-9-11**]              Discharge Date:   [**2742-10-2**]
+
+Date of Birth:  [**2703-1-4**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Penicillins / Ceftazidime / Tegretol
+
+Attending:[**First Name3 (LF) 15230**]
+Chief Complaint:
+Generalized Tonic Clonic Seizure
+
+Major Surgical or Invasive Procedure:
+Left femoral venous line insertion.
+Left PICC insertion via interventional radiology (twice).
+
+
+History of Present Illness:
+39 year old with [**Doctor Last Name **] encephalitis s/p partial L
+hemispherectomy, refractory epilepsy s/p [**Doctor Last Name 15228**] placement, mental
+retardation, s/p tracheostomy, who is transferred from her group
+home for seizures. History excerpted from available OSH ED
+records and telephone conversation with group home and Dr.
+[**First Name (STitle) **], her outpatient epileptologist.
+.
+Group home reports that pt. had a 1 minute generalized tonic
+seizure at 7:30pm the day PTA, broken by swiping the vagal nerve
+stimulator. At 8PM she had a 5 minute GTC, which also stopped
+when they swiped her
+[**First Name (STitle) 15228**]. Several minutes later she had a third GTC (3 minutes long),
+and they gave a dose Phenobarbital. This was effective until 11
+PM, when she started having her normal partial seizures (R eye
+and R face twitching, R arm and leg tremors). She continued to
+have these every 10 minutes overnight. They did not intervene on
+these. This morning she had a fever of 99.6 axillary, and they
+decided to transfer her to the ED in [**Hospital1 909**].
+.
+At [**Hospital1 909**] she had [**11-28**] brief episodes of R face and eye
+twitching. She was given 15 mg PR Valium, and these episodes
+ceased. She had no GTC there. She was noted to have a fever
+there, so she was given CTX and Vancomycin. Dilantin level was
+checked and was 4.4, so she was given 500 mg Fosphenytoin. Her
+[**Month/Year (2) 15228**] magnet was swiped. She was transferred here for further
+care.
+.
+Of note, she had been admitted at [**Hospital1 909**] recently after a
+flurryof seizures. Her Dilantin was checked and was 35, and Dr.
+[**First Name (STitle) **] felt that Dilantin toxicity, with pro-convulsant effects,
+may be contributing, so her dose was lowered. It was rechecked
+in follow up and was actually subtherapeutic, so dose was
+increased again. It has not been rechecked since the last dose
+change.
+
+
+Past Medical History:
+1. [**Doctor Last Name **] encephalitis
+2. Epilepsy
+3. Partial left hemispherectomy at age 19 complicated by right
+hemiparesis and partial aphasia
+4. Mental retardation
+5. Left thoracolumbar scoliosis
+6. Vagal nerve stimulator
+7. Aspiration pneumonias in the past
+8. S/p PEG placement using T tube
+9. S/p tracheostomy
+10. MRSA line infection in the past
+11. Hx Urosepsis (enterococcus
+
+
+Social History:
+No history of tobacco, alcohol, illicit drug use. Lives in a
+group home
+
+Family History:
+Unremarkable.
+
+Physical Exam:
+T- 99.2 BP- 102/60 HR- 80 RR- 10 O2Sat- 99% on RA
+Gen: Lying in bed, eyes closed
+HEENT: NC/AT, moist oral mucosa
+Neck: trach in place, neck supple
+CV: RRR, Nl S1 and S2, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+aBd: +BS soft, nontender, PEG in place
+ext: no edema
+
+Discharge Examination:
+Tc: 95.4, HR: 56, BP: 109/55, RR: 15, Ox: 100% on 35%TM
+Gen. she is lying in bed with her eyes open.  Tracks with eyes
+around the room.
+Neuro: persistent right facial twitching.
+MS- follows commands such as raises left arm, tracks her turtle
+with her eyes.
+No verbalization
+CN's- tongue is extrudes at midline, disconjugate gaze with left
+exophoria, PERRL, no blink to threat on right.  Smiles when
+asked. There is right upper motor neuron facial weakness.
+Motor- She has spastic tone on the right with right hand flexor
+contracture. Lower extremities withdraw to tickle, more briskly
+on the left.  She is unable to participate in coordination or
+gait testing.
+Coordination- unable to participate
+
+Pertinent Results:
+[**2742-9-29**] 05:30AM BLOOD WBC-3.6* RBC-3.06* Hgb-9.7* Hct-29.7*
+MCV-97 MCH-31.8 MCHC-32.8 RDW-14.6 Plt Ct-223
+[**2742-9-11**] 04:40PM BLOOD WBC-5.6# RBC-3.92*# Hgb-12.3# Hct-36.5#
+MCV-93 MCH-31.3 MCHC-33.6 RDW-14.4 Plt Ct-294
+[**2742-9-26**] 04:57AM BLOOD Neuts-35.7* Bands-0 Lymphs-51.6*
+Monos-6.7 Eos-4.8* Baso-1.1
+[**2742-9-29**] 05:30AM BLOOD Glucose-83 UreaN-14 Creat-0.6 Na-140
+K-4.7 Cl-105 HCO3-27 AnGap-13
+[**2742-9-27**] 04:48AM BLOOD ALT-62* AST-53* AlkPhos-184* TotBili-0.1
+[**2742-9-14**] 03:57AM BLOOD ALT-45* AST-23 LD(LDH)-116 AlkPhos-184*
+Amylase-53 TotBili-0.2
+[**2742-9-26**] 04:57AM BLOOD Albumin-2.9* Calcium-8.5 Phos-3.0 Mg-1.9
+[**2742-10-1**] 01:00AM BLOOD Cortsol-8.0
+[**2742-9-30**] 05:33PM BLOOD Cortsol-29.0*
+[**2742-9-30**] 04:40PM BLOOD Cortsol-11.5
+[**2742-9-17**] 05:38AM BLOOD calTIBC-212* VitB12-1202* Folate-18.1
+Ferritn-48 TRF-163*
+[**2742-9-30**] 04:31AM BLOOD Phenoba-39.3 Phenyto-14.1
+
+EEG Study Date of [**2742-9-29**]
+IMPRESSION: This telemetry captured three pushbutton
+activations.
+Along with the pushbutton activations, routine sampling and
+spike and
+seizure detection programs continued to show persistent and
+frequent
+spike and slow wave epileptiform discharges arising from the
+entire left
+hemisphere in a multifocal fashion. Rarely, these discharges can
+be
+repetitive and rhythmic and sustained for several seconds. In
+addition,
+there was persistent mixed theta and delta frequency slowing
+seen over
+the entire left hemisphere suggestive of an underlying
+subcortical and
+cortical dysfunction in that region.
+
+EEG Study Date of [**2742-9-24**]
+IMPRESSION: This telemetry captured 10 pushbutton activations.
+In
+addition to the pushbutton activations, routine sampling and
+spike and
+seizure detection programs showed the presence of frequent spike
+and
+slow wave epileptiform discharges arising from the left
+hemisphere in a
+multifocal fashion. At times, these discharges were repetitive,
+rhythmic, and sustained suggestive of ongoing electrographic
+seizure
+activity. In addition, there was persistent mixed theta and
+delta
+frequency slowing seen over the entire left hemisphere on top of
+the
+otherwise slow and disorganized background rhythm. The slowing
+on the
+left is indicative of cortical and subcortical dysfunction in
+this
+region likely due to structural or destructive process. The slow
+and
+disorganized background rhythm is consistent with
+encephalopathy.
+
+Echo [**2742-9-22**]
+Conclusions:
+The left atrium is elongated. The estimated right atrial
+pressure is 0-5mmHg.  Left ventricular wall thicknesses are
+normal. The left ventricular cavity size  is normal. Overall
+left ventricular systolic function is normal (LVEF>55%).  Right
+ventricular chamber size and free wall motion are normal. The
+aortic  valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No  masses or vegetations are seen on
+the aortic valve. There are filamentous strands on the aortic
+leaflets consistent with Lambl's excresences (normal variant).
+Trace aortic regurgitation is seen. The mitral valve appears
+structurally normal with trivial mitral regurgitation. There is
+no mitral valve prolapse. No mass or vegetation is seen on the
+mitral valve. The estimated pulmonary artery systolic pressure
+is normal. No vegetation/mass is seen on the pulmonic valve.
+There is no pericardial effusion.
+
+EEG Study Date of [**2742-9-16**]
+IMPRESSION: This is an abnormal portable EEG due to the presence
+of
+frequent sharp and slow wave epileptiform discharges arising
+from the
+L>R temporal regions independently. In addition, there is
+persistent
+theta frequency slowing seen over the entire left hemisphere on
+top of a
+slow and disorganized background rhythm. Findings suggest
+multifocal
+potential areas for epileptogenesis. The focal slowing on the
+left is
+indicative of cortical and subcortical dysfunction in this
+region. The
+slow and disorganized background rhythm is consistent with
+encephalopathy. There were no repetitive or rhythmic discharges
+seen.
+There were no electrographic seizures noted.
+
+FDG BRAIN  [**2742-9-29**]
+INTERPRETATION:
+There is relatively increased [**Name (NI) 15231**] throughout the right
+cerebral
+hemisphere. The left hemisphere and cerebellum appear relatively
+decreased in terms of FDG avidity. No focal areas of increased
+uptake of FDG are present. There is a left parietal craniotomy
+defect and evidence of a left
+temporoparietal lobe resection. Ex-vacuo dilatation of the left
+lateral
+ventricle is consistent with remote resection. Mild shift of
+normally midline structures to the left is also noted.
+Physiologic FDG activity is present within the rectus muscles
+bilaterally.
+IMPRESSION: Unusual FDG brain scan showing asymmetric
+hemispheric activity with the right cerebral hemisphere
+significantly more active compared to the cerebellum and
+remaining left cerebral hemisphere.
+
+
+Brief Hospital Course:
+Ms. [**Known patient lastname **] is a 39 year old woman with history of [**Doctor Last Name **]
+encephalitis as a child who is status post partial L
+hemispherectomy and now with longstanding refractory epilepsy,
+s/p vagal nerve stimulator placement, mental retardation, s/p
+tracheostomy, who was transferred from her group home with
+episode of generalized tonic clonic seizure.
+
+1) Seizure:
+EEG revealed predominately left sided spike and wave discharges
+with some evidence for improvement with addition and titration
+of antiepileptic drugs. She continues to have right sided facial
+trwitching, but does not have spread to her right arm. Trigger
+was likely UTI, for which she initially received ceftriaxone.
+She was then loaded with dilantin 1gm, and given additional
+dosing for goal corrected level of 20. She was re-loaded with
+phenobarbital for goal levels of 40-50. Zonegran was added with
+evidence for clinical improvement in her episodes of
+unresponsiveness. Continued control of her seizures may proceed
+with the written protocol at her group home. Right facial
+twitching may continue, however right arm twitching should be
+treated with a swipe of her vagal nerve stmilator, and if no
+resolution given an extra dose of valium, then consider
+additional dose of phenobarbital. Given elevations in her serum
+levels of epilepsy drugs and addition of zonegran she may have
+transient alterations in her level of consciousness. Should
+sedation become a long term problem, Dr. [**First Name (STitle) **] should be
+contact[**Name (NI) **] to adjust her regimen accordingly.
+
+She underwent PET/CT for further characterization of brain
+function for consideration of further resection in the future
+should secondary generalization continue to be refractory to
+medical therapies.
+
+2) Line sepsis:
+Given difficult IV access and hypotension in the ED a femoral
+venous catheter was placed on admission. She later developed
+hypothermia and hypotension, with coagulase negative staph
+growing from blood cultures taken from femoral line. She was
+transferred back to the MICU and started on Vancomycin and
+Cefepime. Sputum obtained via deep suction grew pseudomonas, but
+this was not thought to be pathogenic. Echocardiogram did not
+reveal any valvular vegetations or effusion. Her blood pressures
+remained labile for 1 week following initial infection. There
+was considerable variation in measurements- an arterial line was
+attempted for invasive monitoring without success. Non-invasive
+measurements were at times consistent and did improve with
+stimulation such as deep suctioning of her tracheostomy. She did
+not require IV fluid boluses for four days prior to discharge.
+Her PICC line was discontinued prior to discharge.
+
+3) Urinary Tract infection-
+On admission UA weakly positive. Started on ceftriaxone, then
+changed to cefpodoxime per G tube. She later was treated with
+Cefepime and Vancomycin for her line infection, which is
+excellent coverage for her UTI.
+
+
+Medications on Admission:
+(from Epilepsy Clinic's [**9-9**] note)
+dilantin 75 mg per Gtube tid
+phenobarbital 60 mg per Gtube tid
+keppra 1500/1000/1500 mg per Gtube tid
+zyprexa 2.5 mg per Gtube [**Hospital1 12**]
+golytely 4 TBS via Gtube [**Hospital1 12**]
+colace 15 ml per Gtube [**Hospital1 12**]
+valium 10 mg per Gtube 1 hour prior to medical or GYN exam prn
+cortisporin ear drops 4 gtts each ear [**Hospital1 12**] prn
+prozac 20 mg per Gtube once daily
+prevacid 30 mg per Gtube once daily
+zyrtec 10 mg per Gtube once daily
+senna 2 tabs vis Gtube once daily
+albuterol nebs qid
+fleet enema prn
+extra phenobarb per seizure protocol
+diastat per seizure protocol
+[**Hospital1 15228**] settings: 1.25/30/500/14/1.1/1.5/60/500
+Model 102R SN: [**Numeric Identifier 15232**] implanted [**2741-1-13**]
+
+
+Discharge Medications:
+1. Phenytoin 100 mg/4 mL Suspension [**Month/Day/Year 38**]: One (1)  PO TID (3
+times a day).
+Disp:*90 tablets* Refills:*2*
+2. Keppra 500 mg Tablet [**Month/Day/Year 38**]: Three (3) Tablet PO twice a day:
+Give at 8am and 8pm.
+Disp:*180 Tablet(s)* Refills:*2*
+3. Keppra 500 mg Tablet [**Month/Day/Year 38**]: Two (2) Tablet PO once a day: to be
+given at noon. daily keppra regimen should be 1,500, 1,000,
+1,500.
+Disp:*60 Tablet(s)* Refills:*2*
+4. Docusate Sodium 50 mg/5 mL Liquid [**Month/Day/Year 38**]: One (1)  PO BID (2
+times a day).
+Disp:*60 tabs* Refills:*2*
+5. Fluoxetine 20 mg/5 mL Solution [**Month/Day/Year 38**]: One (1)  PO DAILY
+(Daily).
+6. Diazepam 5 mg Tablet [**Month/Day/Year 38**]: One (1) Tablet PO Q6H (every 6
+hours) as needed for seizure: right arm twitching lasting
+greater than five minutes.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Zonisamide 100 mg Capsule [**Month/Day/Year 38**]: Three (3) Capsule PO at
+bedtime.
+Disp:*90 Capsule(s)* Refills:*3*
+8. Phenobarbital 30 mg Tablet [**Month/Day/Year 38**]: Three (3) Tablet PO TID (3
+times a day).
+Disp:*270 Tablet(s)* Refills:*2*
+9. Miconazole Nitrate 2 % Powder [**Month/Day/Year 38**]: One (1) Appl Topical TID
+(3 times a day) as needed for rash.
+10. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 38**]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) 39**] DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+northeast residential
+
+Discharge Diagnosis:
+[**Doctor Last Name **] Encephalitis
+Intractable seizure disorder
+Central Line Sepsis
+
+
+Discharge Condition:
+focal seizures consisting of isolated right facial twitching.
+occasional right arm twitching. opens eyes to voice,
+disconjugate gaze with nystagmus. Follows simple axial and
+appendicular commands. withdraws both legs to tickle, but
+limited spontaneous movements of both legs.
+
+
+Discharge Instructions:
+You were admitted for increased seizure activity. You were
+started on new antiepileptic medications and treated for urinary
+tract infection and central venous line infection.
+
+RIGHT FACIAL TWITCHING WILL LIKELY CONTINUE. If there is right
+arm twitching that lasts for more than five minutes then swipe
+her vagal nerve stimulator with her magnet. If no resolution
+given an extra dose of valium, then consider additional dose of
+phenobarbital. Given elevations in her serum levels of epilepsy
+drugs and addition of zonegran she may have transient
+alterations in her level of consciousness. Should sedation
+become a long term problem, Dr. [**First Name (STitle) **] should be contact[**Name (NI) **] to
+adjust her regimen accordingly
+
+Continue to take all medications as outlined in this discharge
+worksheet.
+
+Contact Dr. [**First Name (STitle) **] or call 911 for any seizures lasting more than
+5 minutes and unresponsive to previously defined seizure
+protocol of [**First Name (STitle) 15228**] magnet swipes, phenobarbital dosing, or valium
+dose. Please call for any other concerning symptoms.
+
+Followup Instructions:
+You have an appointment to see your neurologist:
+[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 12936**], MD
+Date/Time: [**2742-10-9**] 11:00
+Office Phone: [**Telephone/Fax (1) 12019**]
+
+
+
+
+
+DOC CLASS

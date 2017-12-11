@@ -1,0 +1,248 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2677-10-24**] 08:32 AM
+   [**2677-10-24**]  Plan for d/c in AM --> f/u with EP in morning about whether
+   patient needs mexiletine and/or further monitoring as outpatient. Held
+   coumadin today
+   Patient feels fine, walked down halls yesterday without chest pain or
+   difficulty breathing. Denies shortness of breath, CP, nausea/vomiting,
+   dizziness. Still has dry cough. No events on telemetry
+   Allergies:
+   Sulfa (Sulfonamides)
+   Hives; Rash;
+   Morphine Sulfate
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2677-10-25**] 07:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.6
+C (97.8
+   HR: 64 (63 - 84) bpm
+   BP: 120/58(74) {92/42(55) - 132/61(74)} mmHg
+   RR: 20 (18 - 27) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 62.7 kg (admission): 64.7 kg
+   Height: 59 Inch
+                  Total In:
+                                                                    800 mL
+                  PO:
+                                                                    800 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  2,000 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,200 mL
+                                                                      0 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///30/
+   Physical Examination
+   General: NAD, AAO
+   HEENT: pupils equal, MMM, poor dentition, did not appreciate JVP
+   elevation
+   CVS: RRR, nml S1 and S2, 2/6 systolic cresc-decresc. Murmur at RUSB, no
+   rubs/gallops
+   Pulm: bibasilar crackles, diffuse inspiratory wheezes b/l
+   Abdomen: soft, NT, ND, b.s. present
+   Extremities: ecchymotic spots in RUE, no c/c/e
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   160 K/uL
+   10.2 g/dL
+   86 mg/dL
+   4.4 mg/dL
+   30 mEq/L
+   4.9 mEq/L
+   31 mg/dL
+   101 mEq/L
+   140 mEq/L
+   32.5 %
+   7.1 K/uL
+        [image002.jpg]
+                             [**2677-10-19**]  02:17 PM
+                             [**2677-10-19**]  05:51 PM
+                             [**2677-10-19**]  07:49 PM
+                             [**2677-10-20**]  02:03 AM
+                             [**2677-10-20**]  04:16 PM
+                             [**2677-10-21**]  03:37 AM
+                             [**2677-10-22**]  03:36 AM
+                             [**2677-10-23**]  06:09 AM
+                             [**2677-10-24**]  06:32 AM
+                             [**2677-10-25**]  04:49 AM
+   WBC
+   10.9
+   9.4
+   7.7
+   6.6
+   7.1
+   Hct
+   33.5
+   34.8
+   31.5
+   30.9
+   32.5
+   Plt
+   129
+   133
+   132
+   164
+   160
+   Cr
+   2.9
+   4.5
+   5.1
+   6.0
+   6.8
+   8.1
+   5.0
+   6.4
+   4.4
+   TropT
+   4.08
+   4.50
+   4.07
+   Glucose
+   167
+   154
+   134
+   171
+   110
+   105
+   97
+   91
+   86
+   Other labs: PT / PTT / INR:12.8/23.1/1.1, CK / CKMB /
+   Troponin-T:49/25/4.07, ALT / AST:19/31, Alk Phos / T Bili:/0.3,
+   Differential-Neuts:70.7 %, Lymph:19.9 %, Mono:6.0 %, Eos:2.8 %,
+   Albumin:3.1 g/dL, LDH:296 IU/L, Ca++:9.0 mg/dL, Mg++:2.1 mg/dL, PO4:2.1
+   mg/dL
+   Assessment and Plan
+   Ms. [**Known patient lastname 9907**] is a 69 yo woman with ESRD/HD secondary to DM and HTN, CHF,
+   afib, hx of TIA, presented to ED after syncopal episode.  In ED found
+   to have prolonged QTc with episodes of symptomatic TdP.   ECG changes
+   and troponin elevation while in CCU concerning for ACS versus ischemia
+   from torsades.
+   .
+   # RHYTHM: Syncope is due to TdP. QT prolongation and TdP of unclear
+   etiology. Unlikely to be purely medication-induced, given that
+   citalopram has been d/c
+ed for several days. Unlikely congenital QT
+   syndrome given patient age and lack of syncope hx and normal QT prior
+   to 2 wks ago. Currently in NSR, has hx of a-fib. Pt w/ two brief
+   episodes of TdP that self resolved, during HD on [**10-19**].
+   - will discontinue Celexa on discharge
+   - continue potassium and magnesium repletion prn to K=4.5-5.0, Mg>2.5
+   - consider isoproterenol and temp pacing if bradycardic or TdP recurs
+   - keep on cardiac monitor
+   - repeat EKG daily  to monitor prolonged QTc (620->537->488->469ms)
+   - Per EP, not candidate for ICD placement
+   - will restart warfarin today
+   - consider starting mexiletine 200 mg q8h (f/u with EP regarding dose)
+   - consider switching to verapamil ER 120 mg qdaily
+   - f/u with EP regarding recs regarding outpatient monitoring
+   - f/u with Dr. [**Last Name (STitle) 5068**] in one month
+   .
+   # PUMP:  TTE [**2677-10-19**] showed LVEF 20%. Extensive anterior, septal, and
+   apical akinesis with moderate-to-severe tricuspid regurgitation and at
+   least mild mitral regurgitation; moderate aortic stenosis;
+   mild-moderate aortic regurg; elevated left ventricular filling pressure
+   (PCWP>18mmHg).  Hypotension [**3-5**] dehydration or overdiuresis during HD
+   is possible (baseline SBP around 100). Pulmonary edema clinically and
+   on CXR on [**10-18**].
+   - continue verapamil (started [**10-23**])
+   - no ACE-I due to ESRD
+   - daily weights, I/O's
+   .
+   # CORONARIES: CE elevated - Peak Trop is 4.5, Peak CK 1044, MB 50 from
+   [**10-19**] PM. Enzyme elevations could be due to ischemia from torsades vs.
+   ACS. No ST elevation/depressions on EKG but anterior-septal Q
+s c/w
+   akinesis on echo. Patient denies any chest pain.  Dobutamine stress
+   test in [**2676-8-1**] was normal per pt. Cath [**10-23**] showed 80% LAD lesion p
+   1^st septal, D1 60%, mid-RCA 50%. DES placed in LAD.
+   - continue ASA 325 mg
+   - continue Plavix 75 mg
+   - continue simvastatin 40 mg
+   .
+   # ESRD: Patient is on M/W/F dialysis via AV graft. Has been oliguric,
+   creatinine 5.5, electrolytes stable.
+   - continue to monitor electrolytes, BUN, Cr to trend renal function
+   - will receive HD tomorrow at regular outpatient HD center (M/W/F
+   schedule)
+   - continue PhosLo and renal vitamins
+   .
+   # Nausea/vomiting: intermittent, has been ongoing issue at home. Could
+   be [**3-5**] GERD vs. diabetic gastroparesis. Increased cough with meals is
+   c/w GERD.
+   - will hold off Zofran, H2RA, or Reglan for now due to concern for QT
+   prolongation
+   .
+   # Hypothyroidism
+   - TSH 1.0
+   - continue levothyroxine at home dose
+   .
+   # DM2: not on any insulin or oral hypoglycemics at home.
+   Well-controlled, BS<200s at home.
+   - sliding-scale insulin for glycemic control
+   .
+   FEN:
+   - Renal, cardiac prudent, low-sodium, diabetic diet.
+   - will replete K+ PRN
+   - also will replete Mg+ as above
+   .
+   ACCESS: PIV's, AV graft in L arm
+   .
+   PROPHYLAXIS:
+   -DVT ppx
+  heparin SQ
+   -Pain management not necessary currently
+   -Bowel regimen with docusate/senna
+   .
+   CODE: full (confirmed)
+   .
+   COMM: Daughter [**Name2 (NI) **] ([**Telephone/Fax (1) 9908**] home, ([**Telephone/Fax (1) 9909**] cell
+   .
+   DISPO: CCU for now, likely d/c to home today
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2677-10-19**] 03:56 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

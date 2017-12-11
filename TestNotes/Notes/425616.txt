@@ -1,0 +1,224 @@
+TITLE:
+   Chief Complaint:  dyspnea, nausea
+   HPI:
+   67 y/o M with vague medical hx presents to the ED w/ complaint of
+   dyspnea and nausea with vomiting over last 3-4 days.  Pt is from former
+   Soviet Republic of [**State 847**], and arrived to US 1 month ago. Pt only
+   speaks Georgian and is accompanied by son-in-law who is bilingual and
+   provides medical hx. Pt had been experiencing increasing fatigue over
+   recent months and was encouraged to join family in US for support.
+   Since arrival 1 month ago, Pt has not sought out medical care. Since
+   arriving Pt has been noted to be fatigued, and alert and oriented but
+   seemingly "slow" mentally. Pt has been dyspneic at times, but worse
+   over past week, and over past 3-4 days Pt had nausea, vomiting. Taken
+   to private doctor by family, who drew labs and recommended that he go
+   to ED after finding lab abnormalities. Pt denies CP, recent fevers,
+   chills.
+   .
+   In the ED, initial vs were: T 98.5 P 108 BP 118/56 RR 18  O2 sat 98%
+   RA. Initial labs found the Pt to be hyperkalemic to 6.0, w/ a
+   creatinine of 15.4, and anemic to Hct 19.8. Pt was given ASA, calcium,
+   dextrose, insulin, vancomycin, zosyn, thiamine and transferred to the
+   CCU.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Family / Friend, Interpreter
+   [**Name (NI) 371**] unable to provide history: Language barrier
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   According to son in law, Pt has hx of stroke, shortness of breath and
+   cough which was treated with albuterol, and heart problems. [**Name (NI) **] will
+   attempt to obtain further diagnoses and medical records from [**State 847**]
+   unknown
+   Occupation:
+   Drugs: None
+   Tobacco: significant smoking history, not quantified
+   Alcohol: rare
+   Other:
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Orthopnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Diarrhea, No(t)
+   Constipation
+   Genitourinary: Foley
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Flowsheet Data as of [**2610-9-27**] 06:44 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.4
+   Tcurrent: 36.3
+C (97.4
+   HR: 72 (72 - 75) bpm
+   BP: 126/66(79) {126/43(67) - 136/66(79)} mmHg
+   RR: 17 (17 - 19) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    350 mL
+   Urine:
+   110 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -350 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///13/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended, No(t)
+   Tender:
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   230 K/uL
+   6.5 g/dL
+   91 mg/dL
+   15.0 mg/dL
+   152 mg/dL
+   13 mEq/L
+   111 mEq/L
+   6.4 mEq/L
+   143 mEq/L
+   20.4 %
+   6.0 K/uL
+        [image002.jpg]
+                                  [**2607-1-26**]
+                          2:33 A9/3/[**2610**]  04:43 PM
+                                  [**2607-1-30**]
+                                   10:20 P
+                                  [**2607-1-31**]
+                                   1:20 P
+                                  [**2607-2-1**]
+                                   11:50 P
+                                  [**2607-2-2**]
+                                   1:20 A
+                                  [**2607-2-3**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2607-2-26**]
+                                   1:20 P
+                                  [**2607-2-26**]
+                                   11:20 P
+                                  [**2607-2-26**]
+                                   4:20 P
+   WBC
+                                     6.0
+   Hct
+                                    20.4
+   Plt
+                                     230
+   Cr
+                                    15.0
+   Glucose
+                                     91
+   Other labs: CK / CKMB / Troponin-T:359//, Ca++:6.1 mg/dL, Mg++:2.7
+   mg/dL, PO4:10.6 mg/dL
+   Assessment and Plan
+   Assessment and Plan: This is a 67 yo M w/ vague past medical hx who
+   presented to the ED and was found to have acute kidney injury,
+   hyperkalemia, and anemia, of unclear etiology.
+   #acute kidney injury: Given hx of chronic fatigue over last few months,
+   anemia, and Pt's relative stability in context of highly elevated
+   BUN/Creatinine, suspect that Pt'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] likely represents acute worsening
+   of chronic renal insufficiency, rather than a completely new acute
+   event. Acute causes of creatinine elevation to this degree would
+   include sepsis, hypovolemic shock, renal infarct, TTP-HUS, none of
+   which appear consistent w/ the Pt's presentation.  If Pt has chronic
+   renal insufficiency, possible etiologies could be obstruction, likely
+   from benign prostatic hypertrophy, hypertension, diabetes mellitus,
+   renal artery stenosis. Other potential causes for Pt's acute kidney
+   injury which will be evaluated include multiple myeloma, goodpasture's
+   syndrome.
+   - Renal u/s to eval for hydronephrosis w/ doppler studies to eval for
+   renal artery stenosis
+   - Urine lytes, UPEP
+   - Serum [**Doctor First Name **], anti-GBM, ASO, CK, complement, Hgb A1C
+   - Will d/c Vancomycin and Zosyn as no evidence of acute infectious
+   process
+   - Renal consult
+   - Pt to IR for placement of temporary dialysis line and plan for
+   dialysis for Saturday. Will make NPO after midnight.
+   .
+   #Hyperkalemia
+   - Will recheck K on floor
+   - Kayexelate PRN
+   - Plan for HD on Saturday
+   - Serial EKGs
+   .
+   # Anemia: Most likely chronic and related to suspected chronic renal
+   failure, especially considering Pt's hx of medication to increase blood
+   counts. However, given Pt's age, tobacco hx, and lack of access to
+   routine medical care, other causes of anemia must be ruled out,
+   particularly malignancy
+   - SPEP, guiac all stools, iron studies, check smear, retic count,
+   hemolysis labs
+   - Pt will need age appropriate cancer screening as outpatient, or as
+   inpatient if medically unstable
+   .
+   #Hypocalcemia: Likely related to acute renal failure
+   - Will replete calcium PRN
+   .
+   # Abdominal distention: Pt's abdomen notably distended although
+   non-tender
+   - F/u LFTs
+   - Can consider CT scan of abdomen as inpt if clinically warranted
+   .
+   # FEN: No IVF, replete electrolytes, regular diet, NPO after midnite
+   .
+   # Prophylaxis: Subcutaneous heparin
+   .
+   # Access: peripherals
+   .
+   # Code: presumed full
+   .
+   # Communication: Patient, son-in-law
+   .
+   # Disposition: to CCU for MICU [**Location (un) **].
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2610-9-27**] 04:39 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: MICU on CCU floor
+
+
+DOC CLASS

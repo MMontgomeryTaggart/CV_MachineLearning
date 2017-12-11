@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="103.txt">
+    <annotation>
+        <mention id="EHOST_Instance_373" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="8977" end="8993" />
+        <spannedText>risk of bleeding</spannedText>
+        <creationDate>Thu Nov 02 11:35:25 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_377">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_373">
+        <hasSlotMention id="EHOST_Instance_377" />
+        <mentionClass id="bleeding_hypothetical">risk of bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_374" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="10669" end="10685" />
+        <spannedText>risk of bleeding</spannedText>
+        <creationDate>Thu Nov 02 11:35:47 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_378">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_374">
+        <hasSlotMention id="EHOST_Instance_378" />
+        <mentionClass id="bleeding_hypothetical">risk of bleeding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_375" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="12913" end="12922" />
+        <spannedText># s/p ICH</spannedText>
+        <creationDate>Thu Nov 02 11:36:03 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_379">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_375">
+        <hasSlotMention id="EHOST_Instance_379" />
+        <mentionClass id="bleeding_historical"># s/p ICH</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_376" />
+        <annotator id="eHOST_2010">Rashmee</annotator>
+        <span start="17391" end="17400" />
+        <spannedText>DOC CLASS</spannedText>
+        <creationDate>Thu Nov 02 11:36:26 MDT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_380">
+        <mentionSlot id="certainty" />
+        <stringSlotMentionValue value="definite" />
+    </stringSlotMention>
+    <stringSlotMention id="EHOST_Instance_381">
+        <mentionSlot id="present_or_absent" />
+        <stringSlotMentionValue value="absent" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_376">
+        <hasSlotMention id="EHOST_Instance_380" />
+        <hasSlotMention id="EHOST_Instance_381" />
+        <mentionClass id="doc_classification">DOC CLASS</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

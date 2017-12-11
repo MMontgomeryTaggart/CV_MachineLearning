@@ -1,0 +1,220 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - started Bumex 2 mg/d.  After discussion with family, it turns out
+   that was actually the patient's home dose; it was uptitrated from 1 to
+   2 mg/d by his rehab center a while ago.
+   - did not put out enough urine to Bumex, gave IV lasix boluses with
+   limited UOP response
+   - in increasing respiratory distress with increased oxygen requirement,
+   now on 6L NC
+   Allergies:
+   Indomethacin
+   GIB;
+   Ace Inhibitors
+   HYPERKALEMIA;
+   Anti-Inflam/Antiarth Agents Misc. Classf
+   GIB;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3372-12-11**] 12:26 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3372-12-13**] 06:37 PM
+   Insulin - Regular - [**3372-12-13**] 06:37 PM
+   Other medications:
+   Acetaminophen
+   Nifedipine CR 30mg
+   Isosorbide mononitrate ER 90mg
+   Senna
+   Colace
+   Bumetanide 2mg
+   Carvedilol 50mg [**Hospital1 **]
+   Atorvostatin
+   famotidine
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3372-12-14**] 06:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.3
+C (97.4
+   HR: 81 (71 - 93) bpm
+   BP: 113/60(74) {81/32(47) - 123/63(75)} mmHg
+   RR: 20 (9 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+                  Total In:
+                                                                  1,309 mL
+                                                                    120 mL
+   PO:
+                                                                    940 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    369 mL
+   Blood products:
+   Total out:
+                                                                    900 mL
+                                                                    455 mL
+   Urine:
+                                                                    900 mL
+                                                                    455 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    409 mL
+                                                                   -335 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///29/
+   Physical Examination
+   GENERAL: lying in bed, in mild respiratory distress
+   HEENT: Normocephalic, atraumatic. No conjunctival pallor. No scleral
+   icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No LAD, No
+   thyromegaly.
+   CARDIAC: Regular rhythm, normal rate. Normal S1, S2. 3/6 SEM at LUSB.
+   JVP at 10cm
+   LUNGS: tachypnea, using accessory muscle of respiration; diffuse
+   expiratory  wheeze with bibasilar rales
+   ABDOMEN: NABS. Soft, NT. Distended. No HSM
+   EXTREMITIES: +[**1-17**] PE to mid-ankles b/L.  no calf pain, 2+ dorsalis
+   pedis/ posterior tibial pulses.
+   SKIN: No rashes/lesions, ecchymoses.
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+   193 K/uL
+   9.3 g/dL
+   255 mg/dL
+   2.2 mg/dL
+   29 mEq/L
+   5.0 mEq/L
+   51 mg/dL
+   102 mEq/L
+   140 mEq/L
+   28.7 %
+   5.7 K/uL
+        [image002.jpg]
+                            [**3372-12-11**]  12:52 PM
+                            [**3372-12-11**]  01:09 PM
+                            [**3372-12-11**]  04:09 PM
+                            [**3372-12-12**]  06:41 AM
+                            [**3372-12-12**]  05:08 PM
+                            [**3372-12-13**]  12:26 AM
+                            [**3372-12-13**]  06:31 AM
+                            [**3372-12-14**]  03:57 AM
+   WBC
+   4.9
+   5.9
+   5.8
+   5.7
+   Hct
+   28.4
+   29.1
+   28.8
+   28.7
+   Plt
+   179
+   164
+   199
+   193
+   Cr
+   1.3
+   1.4
+   1.4
+   1.4
+   2.2
+   TropT
+   <0.01
+   0.03
+   0.76
+   0.97
+   0.86
+   TCO2
+   30
+   Glucose
+   196
+   93
+   118
+   185
+   255
+   Other labs: PT / PTT / INR:13.3/26.4/1.1, CK / CKMB /
+   Troponin-T:116/11/0.86, ALT / AST:[**12-29**], Alk Phos / T Bili:73/0.3,
+   Differential-Neuts:82.5 %, Lymph:11.0 %, Mono:5.6 %, Eos:0.7 %,
+   Albumin:3.4 g/dL, Ca++:8.7 mg/dL, Mg++:2.6 mg/dL, PO4:4.9 mg/dL
+   Assessment and Plan
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+   Mr [**Known patient lastname 10311**] is a [**Age over 90 363**] year-old man with a history of severe CAD s/p CABG x
+   2 and multiple PCIs, dCHF, DM, and CKD who presents with shortness of
+   breath and respiratory distress
+   # Respiratory failure:  Most likely acute on chronic CHF with elevated
+   JVP and peripheral edema with pulmonary edema on CXR.  Etiology of
+   exacerbation unknown: no evidence of recent ischemic event on admission
+   (CE negative x 3).  ECHO with increased aortic stenosis, EF 45-50%.
+   Possible component of chemical pneumonitis while down on field but no
+   signs of pulmonary infection: no leukocytosis/ fevers and sputum
+   sample/ flu negative.  s/p extubation with increased respiratory
+   distress, sating only 94% on 5-6LNC. Currently having poor response to
+   IV lasix and bumex.
+   - d/c bumex
+   - start chlorthalidone 500mg IV daily
+   - start lasix drip at 10mg/hr with 160mg IV bolus and titrate to
+   100cc/hr
+   - strict ins/out
+   .
+   # CAD s/p CABGx2 and multiple stents, currently on medical
+   mangagement:  Pt with substernal CP and back pain (anginal equivalent)
+   yesterday. EKG without acute changes. Newly CE + in the setting of
+   renal insufficiency.
+   - continue ASA, clopidogrel (?), atorvastatin
+   - transitioned back to home isosorbide (90mg q24hr)
+   # HTN: Currently controlled. Home regimen includes BB and CCB.
+   -          Restarted Carvedilol
+   -          Wean nitro drip and restart nifedipine now that pt is
+   tolerating NPO
+   #  Acute on Chronic kidney injury:  Increased creatinine with
+   aggressive diuresis: creatinine 2.2 from baseline of 1.3.  Has had
+   acute renal failure in setting of diuresis in past, including previous
+   admission for CHF exacerbation.
+   - trend creatinine
+   - continue diuresis
+   - renally dose meds
+   #  MDS/ Chronic Normocytic Anemia: Patient has known chronic anemia at
+   baseline thought [**2-17**] myelodysplasia. Followed by Heme as outpatient. On
+   Epo injections.
+   - trend hct
+   # Diabetes type 2:
+   - finger sticks qachs
+   - continue lantus and ISS
+   FEN:  tube feed recs
+   PPX:  SQH
+   ACCESS: PIV's
+   CODE STATUS: Full
+   EMERGENCY CONTACT:  wife [**Name (NI) 9053**] [**Telephone/Fax (1) 10305**]
+   [**Name2 (NI) **]OSITION:  CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3372-12-12**] 05:13 PM
+   20 Gauge - [**3372-12-12**] 10:09 PM
+   Prophylaxis:
+   DVT: ? not on heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

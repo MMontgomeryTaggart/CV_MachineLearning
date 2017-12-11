@@ -1,0 +1,366 @@
+TITLE:
+   Chief Complaint: respiratory failure, necrotizing myopathy, wound
+   infection, seizures
+   24 Hour Events:
+   - Neuro: load with 1.8g (20mg/kg) Keppra IV, then start keppra 1000mg
+   tonight for maintenance. Ativan prn szr activity. - Consider LP and MRI
+   to look for source of seizures. Then loaded IV fosphenytoin for
+   seizures. Pt became hypotensive (to 50s) during loading, so loading had
+   to be dc'ed.
+   - Family meeting: be sure to discuss any changes to patient's
+   management with his wife (including medication changes) as she is very
+   concerned that medication sensitivity is what led to his current
+   situation.
+   - In the evening, pt de-sat'ed to high 80s, came up to >95% with 50%
+   FiO2 (increased from 40%). Got a CXR (c/w fluid overload, relatively
+   unchanged from prior), and gave lasix 20mg IV x1, as patient was
+   positive for the day.
+   - Attempted to place A-line, unsuccessfully.
+   - Unable to do MRI [**1-27**] EEG electrodes on pt's head--will need to be
+   removed by EEG tech today.
+   - Started Acyclovir as empiric HSV encephalitis coverage.
+   - Plan for LP this AM. Pt is receiving 2U FFP to reverse INR.
+   Allergies:
+   Penicillins
+   Rash;
+   Hydrocodone
+   hallucinations;
+   Sulfa (Sulfonamide Antibiotics)
+   Unknown;
+   Haldol (Injection) (Haloperidol Lactate)
+   Unknown;
+   Vicodin (Oral) (Hydrocodone Bit/Acetaminophen)
+   Unknown;
+   Morphine
+   Hallucinations;
+   Atorvastatin
+   Myopathy;
+   Statins-Hmg-Coa Reductase Inhibitors
+   Myopathy;
+   Metoclopramide
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3073-12-13**] 01:30 PM
+   Cefipime - [**3073-12-16**] 04:17 AM
+   Acyclovir - [**3073-12-16**] 06:08 AM
+   Infusions:
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3073-12-15**] 06:30 PM
+   Heparin Sodium (Prophylaxis) - [**3073-12-16**] 12:14 AM
+   Furosemide (Lasix) - [**3073-12-16**] 12:30 AM
+   Fosphenytoin - [**3073-12-16**] 02:01 AM
+   Other medications:
+   Flowsheet Data as of  [**3073-12-16**] 07:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.8
+C (98.2
+   HR: 70 (51 - 85) bpm
+   BP: 104/44(59) {84/24(40) - 134/59(73)} mmHg
+   RR: 20 (12 - 31) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 102.5 kg (admission): 93.2 kg
+   Height: 70 Inch
+           Total In:
+                                                                  2,003 mL
+                                                                  1,303 mL
+   PO:
+           TF:
+                                                                  1,081 mL
+                                                                    399 mL
+   IVF:
+                                                                    339 mL
+                                                                    634 mL
+   Blood products:
+                                                                    113 mL
+                                                                     11 mL
+   Total out:
+                                                                  1,293 mL
+                                                                    660 mL
+   Urine:
+                                                                  1,293 mL
+                                                                    660 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    710 mL
+                                                                    643 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 534 (433 - 534) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 11
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 92
+   PIP: 21 cmH2O
+   SpO2: 100%
+   ABG: ///21/
+   Ve: 4 L/min
+   Physical Examination
+   Gen
+ Sedated, non-interactive, intubated in NAD, unresponsive to loud
+   stim
+   CV
+ RRR, no murmurs
+   PULM
+ CTA bilat
+   ABD
+soft, nt/nd, +bs
+   EXTR
+ [**12-27**]+ edema, surgical site without erythema/drainage today,
+   stumps dusky
+   Labs / Radiology
+   122 K/uL
+   8.4 g/dL
+   237 mg/dL
+   0.8 mg/dL
+   21 mEq/L
+   3.7 mEq/L
+   44 mg/dL
+   110 mEq/L
+   138 mEq/L
+   26.9 %
+   5.5 K/uL
+        [image002.jpg]
+                            [**3073-12-11**]  08:04 AM
+                            [**3073-12-11**]  05:13 PM
+                            [**3073-12-12**]  04:07 AM
+                            [**3073-12-12**]  03:38 PM
+                            [**3073-12-13**]  06:25 AM
+                            [**3073-12-13**]  08:30 AM
+                            [**3073-12-14**]  05:55 AM
+                            [**3073-12-15**]  06:06 AM
+                            [**3073-12-15**]  06:22 PM
+                            [**3073-12-16**]  05:02 AM
+   WBC
+   4.5
+   4.9
+   5.7
+   5.3
+   5.8
+   5.5
+   Hct
+   28.7
+   31.1
+   29.3
+   28.0
+   31.0
+   27.8
+   26.9
+   Plt
+   [**Telephone/Fax (3) **]58
+   149
+   122
+   Cr
+   0.7
+   0.7
+   0.7
+   0.7
+   0.7
+   0.9
+   0.8
+   TCO2
+   28
+   26
+   Glucose
+   [**Telephone/Fax (3) 12095**]28
+   172
+   146
+   237
+   Other labs: PT / PTT / INR:23.5/82.5/2.2, CK / CKMB /
+   Troponin-T:34/10/0.57, ALT / AST:[**5-4**], Alk Phos / T Bili:42/0.1,
+   Amylase / Lipase:27/25, Differential-Neuts:75.8 %, Band:0.0 %,
+   Lymph:18.4 %, Mono:4.5 %, Eos:1.2 %, Lactic Acid:0.6 mmol/L,
+   Albumin:2.1 g/dL, LDH:188 IU/L, Ca++:6.7 mg/dL, Mg++:1.7 mg/dL, PO4:2.0
+   mg/dL
+   Imaging: [**12-15**] CXR mild fluid overload, overall improved from prior
+   days
+   [**12-15**] CXR As compared to the previous radiograph, there is no relevant
+   change. The endotracheal tube is in unchanged position. Also unchanged
+   are the right-sided Port-A-Cath and the nasogastric tube. The
+   appearance of the cardiac silhouette is unchanged. Complete left lower
+   lobe atelectasis. Small bilateral pleural effusions. Mild interstitial
+   fluid accumulation potentially
+   suggesting edema. No newly occurred focal parenchymal opacities
+   suggesting
+   pneumonia.
+   Microbiology: None new
+   Assessment and Plan
+   65M admitted [**11-26**] for R LE BKA, with course c/b afib with RVR s/p
+   DCCVx1, hypotension, and hypercarbic respiratory failure, on [**12-5**]
+   prompting intubation and transient pressor support.  Pt was extubated
+   on 12/, but then had to be re-intubated on [**12-9**] due to recurrent
+   respiratory failure.
+   .
+   # hypercarbic respiratory failure - details of decompensation unclear.
+   pt has a chronic metabolic alkalosis on admission (no known COPD, OSA,
+   ? [**1-27**] respiratory acidosis [**1-27**] statin induced myopathy or MG).  ABG
+   during initial event consistent with hypoventilation (contributors
+   include his myopathy, and medications, though unclear if he received
+   dilaudid or ultram prior to intubation).  at present, he continues to
+   have some degree of hypoventilation despite 15cm of pressure support.
+   otherwise, his CXR and exam are consistent with volume overload, no
+   frank evidence of pneumonia.  feel PE is less likely given therapeutic
+   INR and on heparin gtt.  no evidence of aspiration per wife and pt is
+   handing his secretions effectively.  Currently most likely is. statin
+   induced myopathy.  Extubated on [**12-7**]. But had to be re-intubated [**12-10**]
+   for recurrent hypercarbic respiratory failure.
+   - close monitoring of volume status, holding diuresis for now given low
+   BPs
+   - PCO2 goal 50 to help retain bicarb
+   - s/p 5 day course of IVIG (last day [**12-15**])
+   - avoid sedating medications
+   - Continue Cellcept (changed to IV) and home prednisone, although
+   monitoring WBC (if less than 2.5, will need to decrease dose of
+   cellcept by
+   - f/u Neurology recs
+   - given pt
+s altered mental status and overall worse clinical status,
+   will not extubate today; continue weaning FiO2 and PEEP as tolerated
+   .
+   # Myoclonic Jerks:  Given 2mg Ativan initially per Neuro recs for
+   myoclonic jerks, with rapid resolution of symptoms (although pt very
+   somnolent for 1 day after).  Repeat 24 hour EEG showed runs of rhythmic
+   activity suggestive of non-convulsive seizures, increasingly organizing
+   throughout the day.  Neurology recommended initiating Keppra [**12-15**] with
+   maintenance [**Hospital1 **] dose, and is continuing 24 hour EEG monitoring to see
+   if medications are adequately controlling the pt
+s seizures.
+   - s/p IV loading with 20 mg/kg of Keppra; 1800mg loading dose
+   - Maintenance dose of Keppra 1000mg [**Hospital1 7**]
+   - f/u final results of 24 hour EEG
+   - f/u Neuro recs re: further workup of seizures
+   .
+   # Elevated PTT:  Uncertain why PTT increased from 50
+s to 150
+s over
+   the last 24 hours without any apparent cause.
+   - PM PTT today
+   - Consider a-line in case portacath is causing mis-read of PTT
+   .
+   # hypotension/relative hypothermia - normotensive presently, off
+   pressors since early this morning.   no frank evidence of sepsis
+   presently (lactate 0.7, leukocytosis improving without antibiotics,
+   LFTs wnl).  cardiology does not feel that hypotension is [**1-27**] decreased
+   EF.  ECG without STE.  ddx also includes hypovolemia, though grossly
+   anasaric, his HCT has trended down to 24, but responded to 2U PRBC
+   today.  R LE shows erythema/warmth c/w cellulitis and has purulent
+   drainage from site.  Swab from wound grew Pseudomononas resistant to
+   zosyn, sensitive to cefepime, meropenem, ceftaz.  Currently on
+   Vanc/[**Last Name (un) **].
+   - Hypotension yesterday could be due to over-diuresis, IVIG reaction or
+   sepsis.  Pt without fevers, cultures from [**12-10**] pending, will follow.
+   Less likely is occult bleeding, although pt
+s HCT has been trending
+   down over last 5 days, his baseline is 25-30 over last year, so pt is
+   at baseline. ? hemoconcentration earlier in week w. HCT 40.  Pt was
+   pre-treated prior to IVIG but will closely monitor pt before today
+   treatment.  Most likely etiology at this time is over-diuresis.
+   - On home prednisone 5mg daily.
+   - Continuing home Cellcept
+   - IVIG today (day [**4-29**])
+   - Continue levothyroxine based upon TSH, T4
+   - Following blood, urine cultures, wound culture. C. diff was negative.
+   - Continue Vanc/Cefepime; check Vanco level today and dose again per Rx
+   - vascular sx following
+   .
+   # PVD s/p R BKA. Most recent wound cxr growing Pseudomonas ([**12-6**]),
+   resistant to Meropenem, sensitive to Cefepime.
+   - Continue Cefepime
+   - Continue Vanc; check trough today and redose.
+   - Continue aspirin, plavix.
+   - prn ultram and dilaudid for pain
+   - vascular following
+   - RLE US did not show abscess.
+   .
+   # Mental Status:  Monitor. Avoid sedation.  More somnolent [**12-13**] with
+   myoclonic jerks.  Likely seizure, uncertain of cause.
+   - f/u Neuro
+   - CT head to r/o CVA vs septic emboli given acute mental status change
+   .
+   # atrial fibrillation - rate controlled presently with amiodarone and
+   metoprolol, and now therapeutic on coumadin.  will need outpt
+   cardiology f/u.
+   - On Metoprolol po 12.5mg tid through NG tube.
+   - On amiodarone 400mg daily x 7 days (day [**2-1**]) with d/c [**12-19**], then
+   200mg daily maintenance
+   - Increase coumadin to 4mg daily, monitoring daily INRs
+   .
+   # Hypernatremia:
+   - Continue free water flushes
+   - I/O goal even; hold Lasix given low BP
+   .
+   Non-active/Stable issues:
+   .
+   # metabolic acidosis
+ improved.
+   GAP = 12, albumin = 3.0.  lactate wnl.  received NaHCO3 x 1 today.  has
+   chronic metabolic alkalosis, possibly [**1-27**] myopathy, though unclear.
+   ddx also include bicarbonate loss [**1-27**] diarrhea, though not significant
+   presently, and volume resuscitation given elevated chloride, though
+   difficult to document exactly how much fluid pt has received.  Keep
+   pCO2 up in setting of high HCO3.
+   - infectious w/u as above
+   - ABG
+   .
+   # anemia, chronic disease -  per wife, receives chronic blood
+   transfusions.  at present, bumped appropriately to 2U PRBC 24->30, and
+   wound site c/d/i, no evidence of compartment syndrome on exam.  on
+   procrit as outpatient.  no evidence of hemolysis based on TBIL.
+   .
+   # leukocytosis - no clear evidence of infection presently, resolving
+   without antibiotics.  did have fever 101.8 post-op on [**12-2**], though
+   unclear if he has had recurrence.  R LE shows erythema c/w cellulitis
+   and has purulent drainage from site.  Swab from wound grew
+   Pseudomononas resistant to zosyn, sensitive to cefepime, meropenem,
+   ceftaz.  Per vascular surgery team, pt
+s wound also grew out VRE from
+   swab at OSH.  Most recent wound cxr growing Pseudomonas ([**12-6**]), res to
+   Meropenem, [**Last Name (un) 259**] to Cefepime.
+   - Continue cefepime
+   - infectious w/u as above
+   .
+   # CAD - continue aspirin, plavix.  unclear why he is not on an ACE.
+   - f/u cardiology recs if any.
+   .
+   # systolic CHF
+   - holding diuresis now given hypotension s/p diuresis yesterday ([**12-11**])
+   - daily weights.
+   .
+   # myasthenia [**Last Name (un) **] - no evidence of myasthenic crisis presently (lifts
+   heads, takes deep breath).  on cellcept/prednisone as an outpatient.
+   cellcept was previously held, but resumed during last admission to
+   [**Hospital1 17**] after discussion with pt's neurologist.  Per out-pt neurologist,
+   no history of myasthenia [**Last Name (un) **]
+pt has necrotizing myopathy, likely
+   statin-induced.
+   - continue prednisone and cell-cept
+   - IVIG x 5 days
+   .
+   # GERD - continue famotidine.
+   # hypothyroidism - continue synthroid.
+   .
+   # DM2 - covered with insulin gtt in SICU.
+   - cover with SSI.
+   .
+   # FEN: Tube feeds; free water flush 100mL q6h.
+   # Prophylaxis: Continue Coumadin; d/c SC Heparin once therapeutic on
+   Coumadin.
+   # Code:  FULL
+   # Communication: Patient, wife [**Name (NI) 4539**] (cell) [**Telephone/Fax (1) 11928**], (home)
+   [**Telephone/Fax (1) 11929**]
+ call to update her today.
+   .
+   Disposition: ICU for now, pending improved respiratory status
+
+
+DOC CLASS

@@ -1,0 +1,168 @@
+CVICU
+   HPI:
+   [**5-13**] POD 1
+   58M s/p Bilat. Mini MAZE w/ LAA resection [**5-12**]
+   EF:60% WT;109kg Cr:1.1 HgA1c:5.2
+   PMH:PAF,knee scope,T&A,appy
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen ,Amiodarone ,Aspirin EC ,Atorvastatin ,Calcium
+   Gluconate,Dextrose 50% ,Docusate Sodium,Ezetimibe ,Insulin ,Ketorolac
+   ,Magnesium Sulfate , Metoclopramide ,Milk of Magnesia ,Morphine
+   Sulfate,Oxycodone-Acetaminophen , Potassium Chloride ,Ranitidine,Sodium
+   Chloride 0.9% Flush ,Vancomycin
+   24 Hour Events:
+ ARTERIAL LINE - START [**2838-5-12**] 05:00 PM
+ OR RECEIVED - At [**2838-5-12**] 05:00 PM
+ MULTI LUMEN - START [**2838-5-12**] 05:00 PM
+ INTUBATION - At [**2838-5-12**] 05:16 PM
+ INVASIVE VENTILATION - START [**2838-5-12**] 05:16 PM
+ EKG - At [**2838-5-12**] 05:25 PM
+ EXTUBATION - At [**2838-5-12**] 09:50 PM
+   Post operative day:
+   POD#1 - Mini maze bilateral thoracotomies, LAA
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2838-5-13**] 09:05 AM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2838-5-13**] 06:29 AM
+   Other medications:
+   Flowsheet Data as of  [**2838-5-13**] 01:52 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**41**] a.m.
+   Tmax: 37.2
+C (99
+   T current: 37.2
+C (99
+   HR: 74 (55 - 78) bpm
+   BP: 111/60(81) {86/59(70) - 122/68(125)} mmHg
+   RR: 23 (14 - 30) insp/min
+   SPO2: 94%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Height: 67 Inch
+   CVP: 15 (8 - 20) mmHg
+   Total In:
+                                                                  4,119 mL
+                                                                  1,006 mL
+   PO:
+                                                                    240 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  4,119 mL
+                                                                    766 mL
+   Blood products:
+   Total out:
+                                                                    656 mL
+                                                                    964 mL
+   Urine:
+                                                                    271 mL
+                                                                    590 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,463 mL
+                                                                     42 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 94%
+   ABG: 7.38/38/91.[**Numeric Identifier 136**]/23/-1
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   211 K/uL
+   12.4 g/dL
+   107 mg/dL
+   0.9 mg/dL
+   23 mEq/L
+   4.0 mEq/L
+   20 mg/dL
+   107 mEq/L
+   139 mEq/L
+   36.6 %
+   13.0 K/uL
+        [image002.jpg]
+                             [**2838-5-12**]  05:35 PM
+                             [**2838-5-12**]  05:42 PM
+                             [**2838-5-12**]  09:23 PM
+                             [**2838-5-12**]  09:28 PM
+                             [**2838-5-13**]  03:32 AM
+                             [**2838-5-13**]  03:54 AM
+   WBC
+   15.4
+   13.0
+   Hct
+   38.4
+   37.3
+   36.6
+   Plt
+   253
+   211
+   Creatinine
+   1.0
+   0.9
+   TCO2
+   24
+   24
+   23
+   Glucose
+   115
+   101
+   107
+   Other labs: PT / PTT / INR:15.7/22.1/1.4, Mg:1.8 mg/dL
+   Imaging: CXR: lines in good position, no ptx.
+   Microbiology: neg
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), ATRIAL FIBRILLATION (AFIB)
+   Assessment and Plan: Pt. doing very well post op.  Paravertebral nerve
+   blocks done this AM.  Will d/c chest tubes and transfer to floor.
+   Start coumadin.  He is currently in SR.
+   Neurologic:
+   Cardiovascular: Aspirin, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: neg
+   Lines / Tubes / Drains: Foley, Chest tube - pleural
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: EP dept
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2838-5-12**] 05:00 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

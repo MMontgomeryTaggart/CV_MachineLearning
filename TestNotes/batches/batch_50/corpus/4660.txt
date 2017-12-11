@@ -1,0 +1,109 @@
+Admission Date:  [**2959-12-8**]       Discharge Date:  [**2959-12-22**]
+
+
+Service:
+
+CHIEF COMPLAINT:  Change in mental status.
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 86-year-old
+woman who was discharged earlier on the day of the 27th after
+an 11 day stay for a fall with no loss of consciousness but a
+rib fracture and a grade 3 splenic laceration. She was
+discharged to a short term rehab and when she arrived there
+she was noted to be febrile and minimally responsive with a
+low O2 saturation.  At that point the rehab facility tried a
+few different manipulations to increase the patient's oxygen
+saturation unsuccessfully and she was sent to [**Hospital1 341**] for evaluation.  In the Emergency
+Room chest x-ray revealed bilateral pleural effusion. These
+were new.  There was no increased in splenic hematoma or
+evidence of abscess on CT of the abdomen.  White blood cell
+count was 20 on admission which was notably increased from
+discharge.  On chest x-ray a retrocardiac opacity was found
+and the patient was started on Levaquin for a presumptive
+pneumonia.
+
+PHYSICAL EXAMINATION:  On admission vital signs, temperature
+101.6, heart rate 92, blood pressure 122/46, respiratory rate
+28, oxygen saturation 97% on five liters O2 nasal cannula.
+The patient was lethargic but arousable.  Cardiac exam,
+regular rate and rhythm, no murmurs, gallops or rubs.
+Pulmonary exam, she had decreased breath sounds at the left
+lower lobe.  Abdominal exam was benign.  Extremities were
+warm, no clubbing, cyanosis or edema.
+
+MEDICATIONS:  On admission, Zyprexa 7.5 mg po q d, Cardizem
+120 mg po q d, KCL, Hydrochlorothiazide 25 mg po q d, Ambien
+5 mg po q h.s. prn, Motrin 200 mg po q d and Xalatan drops.
+
+ALLERGIES:  No known drug allergies.
+
+PAST MEDICAL HISTORY:  Significant for depression,
+hypertension, dementia, history of UTI, a rib fracture and a
+recent grade 3 splenic laceration.
+
+LABORATORY DATA:  White count 19.5, hematocrit 32.1, platelet
+count 552,000.  Differential on the white count, neutrophils
+89, lymphs 5, monos 6.  SMA 7, sodium 132, potassium 5.7,
+chloride 97, CO2 25, BUN 23, creatinine 0.7, glucose 193.
+Repeat potassium was 3.6.  Urinalysis showed concentration
+1.030, large blood, protein 100, nitrate positive, [**3-26**]
+whites, [**3-26**] reds, 0-2 epis.  Chest x-ray was read as a left
+lower lobe infiltrate with a small pleural effusion.  ABG,
+7.50, 33, 90.  EKG showed no acute changes.
+
+The plan on admission was to start the patient on Levaquin,
+to obtain abdominal CT, rule out splenic abscess and then to
+proceed with antibiotic treatment for either a UTI or
+pneumonia.  The patient could have cultures drawn of blood,
+urine and sputum and the antibiotics would be tailored
+depending on those results.  The patient was initially
+admitted to the trauma surgery service.  She was treated with
+Levaquin and improved on hospital days #2 and 3 and on
+hospital day #4, [**12-20**].  She was transferred to the medicine
+service for further care.  At that time her clinical status
+was improving.  Her oxygen requirement was down to 2 liters
+nasal cannula with oxygen saturation of approximately 93%.
+Exam was substantially unchanged from admission.  White count
+had decreased to 13.6.  Hematocrit and platelet count were
+stable.  SMA 7 was unremarkable.  The sputum sample was
+consistent with contamination.  The CT of the abdomen
+obtained on admission showed bilateral pleural effusions,
+left greater than right, consolidation on the left, stable
+complex splenic laceration with decreased perihepatic fluid.
+On transfer to medicine the patient's treatment was continued
+with Levaquin.  No other changes were made in her care.  On
+hospital day #4, [**12-21**], the patient continued to improve, she
+remained afebrile, her oxygen was discontinued and she satted
+92-94% on room air.  Repeat LFTs were performed.  They all
+decreased from admit and thus the concern for abdominal
+processes was eased even more.  The urine culture grew out
+less than 10,000 CFUs, therefore the only source of infection
+left was the consolidation of the lungs.  Blood cultures grew
+no growth to date.  The patient will likely be discharged on
+[**2959-12-22**] to a short term rehab stay on a 14 day course of
+Levaquin of which she has already completed four days.  The
+patient is off oxygen.  Her mental status has returned to her
+baseline and she has been afebrile for greater than 48 hours.
+The patient is to be discharged on [**12-22**] to short term rehab
+facility in stable condition.
+
+DISCHARGE DIAGNOSIS:  Pneumonia.
+
+DISCHARGE MEDICATIONS:  Levaquin 500 mg po q d as the only
+change in her medicine compared with prior discharge
+information.
+
+
+
+
+                           DR.[**Last Name (STitle) 2366**],[**First Name3 (LF) **] 12-875
+
+Dictated By:[**Last Name (NamePattern1) 8129**]
+MEDQUIST36
+
+D:  [**2959-12-21**]  16:46
+T:  [**2959-12-21**]  17:20
+JOB#:  [**Job Number 19448**]
+
+
+DOC CLASS

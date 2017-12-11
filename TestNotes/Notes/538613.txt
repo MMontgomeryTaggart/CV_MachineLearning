@@ -1,0 +1,189 @@
+CVICU
+   HPI:
+   HD9
+   [**10-12**] POD 6
+   s/p CABG x4 (LIMA>LAD, SVG>Diag, SVG>RAMUS, SVG>OM) [**10-6**]
+   EF 60 Wt 60 cr 0.8-1
+   PMH DM, Stroke with residual L sided weakness, HTN, Hyperlipidemia,
+   GERD, Dementia, Recurrent UTI on macrobid ppx, urinary urgency
+   Recurrent falls, Iron deficiency anemia
+   [**Last Name (un) **] Alendronate 70 qweekly, Imipramine 20', Lisinopril 10', Toprol XL
+   50', MVI, Nitrofurantoin 100 3x/week MWF, Prilosec 20', Simvastatin
+   20', ASA 81', Calcium Carbonate 750"', Vitamin D3 800', Ferrous Sulfate
+   325', Aggrenox 200-25", Simethicone 80"", Glyburide 1.25',
+   Metformin 500', Glucovance 5-500"
+   Current medications:
+   Albuterol 0.083% Neb Soln,  Aspirin, Docusate Sodium (Liquid),
+   Furosemide, GlyBURIDE, Heparin, HydrALAzine, Insulin, Ipratropium
+   Bromide Neb, Lansoprazole Oral Disintegrating Tab, Metoprolol Tartrate,
+   Milk of Magnesia prn, Simvastatin
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**3149-10-11**] 06:33 PM
+   Post operative day:
+   POD#6 - c x 4
+   24 hour events: CPAP at night as at home, remained in ICU for clinical
+   monitoring
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3149-10-12**] 12:02 AM
+   Other medications:
+   Flowsheet Data as of  [**3149-10-12**] 09:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**52**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 36.7
+C (98.1
+   HR: 92 (83 - 97) bpm
+   BP: 127/42(62) {105/34(51) - 150/56(78)} mmHg
+   RR: 19 (19 - 31) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 64.8 kg (admission): 60 kg
+   Height: 64 Inch
+             Total In:
+                                                                  1,426 mL
+                                                                    124 mL
+   PO:
+                                                                    300 mL
+                                                                     30 mL
+   Tube feeding:
+                                                                    286 mL
+   IV Fluid:
+                                                                    840 mL
+                                                                     94 mL
+   Blood products:
+   Total out:
+                                                                  2,470 mL
+                                                                  1,025 mL
+   Urine:
+                                                                  2,470 mL
+                                                                  1,025 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,044 mL
+                                                                   -901 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 95%
+   ABG: 7.48/33/108/27/1
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   No(t) Moves all extremities, (LLE: Weakness), moves all extremeties
+   except LLE weaker than right
+   Labs / Radiology
+   473 K/uL
+   8.7 g/dL
+   96 mg/dL
+   1.0 mg/dL
+   27 mEq/L
+   5.2 mEq/L
+   25 mg/dL
+   104 mEq/L
+   139 mEq/L
+   26.1 %
+   14.4 K/uL
+        [image002.jpg]
+                            [**3149-10-10**]  03:03 AM
+                            [**3149-10-10**]  07:08 AM
+                            [**3149-10-10**]  12:21 PM
+                            [**3149-10-10**]  05:07 PM
+                            [**3149-10-11**]  04:50 AM
+                            [**3149-10-11**]  04:59 AM
+                            [**3149-10-11**]  12:22 PM
+                            [**3149-10-11**]  04:06 PM
+                            [**3149-10-12**]  03:15 AM
+                            [**3149-10-12**]  06:13 AM
+   WBC
+   14.4
+   14.4
+   Hct
+   25.5
+   26.1
+   Plt
+   374
+   473
+   Creatinine
+   1.1
+   1.0
+   TCO2
+   27
+   27
+   27
+   28
+   28
+   26
+   25
+   Glucose
+   94
+   92
+   115
+   109
+   96
+   Other labs: PT / PTT / INR:12.6/38.0/1.1, Fibrinogen:120 mg/dL, Lactic
+   Acid:3.4 mmol/L, Ca:9.3 mg/dL, Mg:2.8 mg/dL, PO4:3.7 mg/dL
+   Imaging: cxr [**10-10**] bilat effusions
+   Microbiology: urine [**10-5**] no growth
+   MRSA [**10-6**] no growth
+   Assessment and Plan
+   AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AROUSAL, ATTENTION, AND
+   COGNITION, IMPAIRED, BALANCE, IMPAIRED, COMMUNICATE FUNCTIONALLY,
+   INABILITY TO, EDUCATIONAL ACTIVITIES, INABILITY TO PARTICIPATE IN,
+   GAIT, IMPAIRED, KNOWLEDGE, IMPAIRED, MOTOR FUNCTION, IMPAIRED, MUSCLE
+   PERFORMACE, IMPAIRED, POSTURE, IMPAIRED, RESPIRATION / GAS EXCHANGE,
+   IMPAIRED, TRANSFERS, IMPAIRED, ANXIETY, PAIN CONTROL (ACUTE PAIN,
+   CHRONIC PAIN), .H/O DEMENTIA (INCLUDING ALZHEIMER'S, MULTI INFARCT)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, acetaminophen prn
+   pain, denies pain
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS, cough and deep breath, oob to chair, CPAP at night as
+   prior to admission
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, Speech and Swallow eval
+   Renal: continue lasix for goal 1000-[**Numeric Identifier 3869**] ml negative in 24 hours, 4 kg
+   up from preop weight, effusions noted on CXR [**10-10**], will recheck PA/LAT
+   [**10-13**]
+   Hematology: stable
+   Endocrine: RISS, goal BG < 150,  resume home glucovance
+   Infectious Disease: WBC 14 unchanged from [**10-11**], afebrile, will check
+   u/a and culture due to history of UTI and remove foley, continue to
+   monitor
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Consults: P.T., Nutrition, speech and swallow
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3149-10-12**] 09:11 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+DOC CLASS

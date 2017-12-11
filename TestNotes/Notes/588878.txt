@@ -1,0 +1,200 @@
+Chief Complaint: respiratory failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   No major clinical events.  Transfused.
+   Just back from OR -- able to complete endoscopic PEG.  No major events.
+   Patient unable to provide history: Sedated
+   Allergies:
+   Cholestyramine
+   ?erectile dysfc
+   Niacin
+   Hepatic toxicit
+   Iodine; Iodine Containing
+   Rash;
+   Ciprofloxacin
+   muscle weakness
+   Last dose of Antibiotics:
+   Tobramycin - [**2522-3-24**] 09:30 PM
+   Meropenem - [**2522-3-25**] 04:00 PM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2522-3-27**] 01:15 AM
+   Lorazepam (Ativan) - [**2522-3-27**] 08:14 AM
+   Heparin Sodium (Prophylaxis) - [**2522-3-27**] 08:15 AM
+   Other medications:
+   meds reviewed on rounds -- no abx
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2522-3-27**] 11:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.3
+C (99.2
+   HR: 74 (69 - 92) bpm
+   BP: 101/54(66) {84/41(51) - 134/84(93)} mmHg
+   RR: 9 (9 - 37) insp/min
+   SpO2: 100%
+   Heart rhythm: V Paced
+   Height: 64 Inch
+           Total In:
+                                                                    650 mL
+                                                                    321 mL
+   PO:
+           TF:
+                                                                    143 mL
+                                                                      1 mL
+   IVF:
+                                                                    340 mL
+                                                                    110 mL
+   Blood products:
+                                                                    108 mL
+                                                                     90 mL
+   Total out:
+                                                                    158 mL
+                                                                     75 mL
+   Urine:
+                                                                    158 mL
+                                                                     75 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    492 mL
+                                                                    246 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 449 (336 - 472) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 84
+   PIP: 21 cmH2O
+   SpO2: 100%
+   ABG: ///25/
+   Ve: 7.9 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   7.9 g/dL
+   426 K/uL
+   104 mg/dL
+   4.8 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   61 mg/dL
+   108 mEq/L
+   143 mEq/L
+   24.2 %
+   8.8 K/uL
+        [image002.jpg]
+                             [**2522-3-21**]  04:48 AM
+                             [**2522-3-21**]  07:30 PM
+                             [**2522-3-22**]  02:32 AM
+                             [**2522-3-23**]  02:35 AM
+                             [**2522-3-24**]  03:47 AM
+                             [**2522-3-24**]  08:36 AM
+                             [**2522-3-24**]  10:58 PM
+                             [**2522-3-25**]  03:02 AM
+                             [**2522-3-26**]  04:04 AM
+                             [**2522-3-27**]  03:21 AM
+   WBC
+   16.8
+   11.1
+   6.6
+   8.1
+   9.9
+   8.8
+   Hct
+   23.0
+   23.0
+   21.9
+   19.4
+   17.2
+   19.6
+   21.5
+   20.1
+   21.0
+   24.2
+   Plt
+   [**Telephone/Fax (3) 8005**]67
+   421
+   426
+   Cr
+   2.8
+   3.8
+   4.7
+   3.3
+   4.1
+   4.8
+   Glucose
+   104
+   85
+   92
+   84
+   61
+   104
+   Other labs: PT / PTT / INR:17.6/36.6/1.6, CK / CKMB /
+   Troponin-T:522/9/0.08, ALT / AST:60/73, Alk Phos / T Bili:211/2.3,
+   Amylase / Lipase:60/49, Differential-Neuts:90.0 %, Band:2.0 %,
+   Lymph:1.0 %, Mono:5.0 %, Eos:0.0 %, Fibrinogen:457 mg/dL, Lactic
+   Acid:1.4 mmol/L, Albumin:2.0 g/dL, LDH:437 IU/L, Ca++:8.1 mg/dL,
+   Mg++:2.0 mg/dL, PO4:6.1 mg/dL
+   Assessment and Plan
+   81-year-old man with resolved septic shock and treated VAP with
+   persistent respiratory failure, ARF/ESRD.  Proceed with weaning trials
+   as tolerated.  Anemia has been persistent but is finally beginning to
+   improve.  Now s/p trach and planned for open G today.  Hypotension
+   yesterday appears to have been hypovolemic.  He has now completed
+   treatment for Staph pneumonia and has completed an 8-day course for GNR
+   pneumonia.  Appreciate ID
+s help evaluating the yeast on cath tip; we
+   are holding on treatment.  Other issues as per ICU team note today.
+   Discussed with patient and wife.
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ BALANCE, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ TRANSFERS, IMPAIRED
+ VENTILATION, IMPAIRED
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ MALNUTRITION
+ HYPERGLYCEMIA
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name **])
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**2522-3-24**] 04:33 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   Patient is critically ill
+
+
+DOC CLASS

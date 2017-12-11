@@ -1,0 +1,190 @@
+Admission Date:  [**2748-3-8**]              Discharge Date:   [**2748-3-16**]
+
+Date of Birth:  [**2675-3-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 64**]
+Chief Complaint:
+Chest pain and dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2748-3-8**] - Mitral Valve Replacement(31mm CE Permount Pericardial
+Bioprosthetic Valve), CABGx1(vein graft to first obtuse
+marginal), and MAZE Procedure
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 6097**] is a 72 y/o man with a three year history of MR
+followed by serial echocardiograms at the [**Hospital6 6098**]. A
+recent echocardiogram in [**Month (only) 528**] revealed severe MR with a
+flail posterior leaflet. He was admitted to the VA and underwent
+a TEE which was stopped due to NSVT vs. SVT. Cardiac
+catheterization  in [**2748-1-4**] confirmed 4+ MR. Angiography
+revealed a 70% lesion in the circumflex and a 50% lesion in the
+LAD. Mr. [**Known patient lastname 6097**] was seen in clinic and now presents for surgical
+management of his coronary artery disease and mitral
+regurgitation.
+
+Past Medical History:
+MR, CAD, BPH, Hyperlipidemia, HTN, SVT vs. NSVT preoperatively,
+History of severe nose bleeds, Lipoma, s/p Appendectomy, s/p
+Tonsillectomy, s/p Umbilical Hernia repair
+
+Social History:
+Retired. Lives with wife in [**Name (NI) 388**]. Quit smoking in [**2688**] after
+[**1-5**] ppd starting in middle school.
+
+Family History:
+Brother with PPM/PTCA/Stent. Father with [**Name2 (NI) 6099**].
+
+Physical Exam:
+Vitals: BP 160-180/ 80, HR 45-50
+GEN: WDWN gentleman in NAD
+SKIN: Warm, dry, multiple nevi and small lipomas
+HEENT: NCAT, PERRL, Anicteric sclera, mild cataracts, OP benign
+NECK: Supple, no JVD
+LUNGS: Clear, mild kyphosis
+ABD: Benign, obese.
+NEURO: Nonfocal
+
+Pertinent Results:
+[**2748-3-16**] WBC-10.8 Hct-28.0* INR 1.9
+[**2748-3-15**] WBC-12.3* RBC-3.37* Hgb-10.6* Hct-30.4* MCV-90 MCH-31.5
+MCHC-34.9 RDW-13.3 Plt Ct-460*
+[**2748-3-16**] UreaN-18 Creat-1.2 K-5.3*
+[**2748-3-14**] BLOOD Calcium-8.7 Mg-2.6
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 6097**] was admitted to the [**Hospital1 22**] on [**2748-3-8**] for surgical
+management of his mitral valve and coronary artery disease. On
+the day of admission, he was taken to the operating room where a
+mitral valve replacement, coronary artery bypass grafting and a
+MAZE procedure were performed. The operation was uneventful but
+his operative course was complicated by traumatic foley
+placement secondary to his BPH. For surgical details, please see
+seperate operative note. He required flexibile cystoscopy for
+placement of foley and was started on a [**Doctor Last Name **] drip for
+hematuria. After the operation, he was brought to the CSRU for
+invasive monitoring. Given his history of SVT and Maze
+procedure, Amiodarone was resumed. Within 24 hours, he awoke
+neurologically intact and was extubated. Initially hypoxic, his
+oxygenation improved with diuresis. On postoperative day two, he
+transferred to the SDU. Low dose beta blockade was resumed and
+diuresis was continued. On postoperative day five, he
+experienced new onset slurred speech and left facial droop. His
+systolic BP at the time of neurologic event was in the 90's to
+low 100's. A stat head CT scan and MRI/MRA were obtained and the
+neurology service was consulted. Head MR found no evidence of
+acute infarction or abnormalities except slightly diminished
+flow signal within the right Sylvian middle cerebral artery
+branches compared to the left side,  while CT scan showed no
+intracranial hemorrhage or mass effect. Carotid noninvasive
+studies found no evidence of significant carotid stenoses and
+showed appropriate antegrade flow in the vertebral arteries. All
+afterload agents were temporarily discontinued including
+Amiodarone in order to maintain cerebral perfusion and avoid
+further hypotension. Warfarin anticoagulation was also
+initiated. Based on the above studies, the neurology service
+suspected a TIA secondary to decreased cerebral perfusion. His
+neurological status improved and returned to baseline within 24
+hours. Amiodarone and low dose betablockade were eventually
+resumed. Warfarin was dosed daily for a goal INR between 2.0 -
+2.5. He remained mostly in a normal sinus rhythm but
+intermittent paroxysmal atrial fibrillation versus SVT were
+noted on telemetry. The rest of his hospital course was
+uneventful and he was medically cleared for discharge to home on
+postoperative day eight. At discharge, his BP was 117/55 with a
+HR of 84. His oxygen sat was 98% on room air and his chest x-ray
+showed small bilateral pleural effusions. All surgical wounds
+were clean, dry and intact. He was voiding without difficulty
+and his hematuria had completely resolved. He will eventually
+need to follow up with Dr. [**Last Name (STitle) **] as an outpatient for
+diagnostic EP study in the near future.
+
+Medications on Admission:
+Amiodarone 400mg Qd
+Lopressor 25mg [**Hospital1 **]
+Aspirin 325mg QD
+HCTZ 25mg QD
+Fosinopril 40mg QD
+Serax 15mg QHS
+Fish oil
+Calcium
+Vitamins
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+3. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*2*
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO QPM: Take as
+directed by MD. Daily dose may vary according to INR.
+Disp:*30 Tablet(s)* Refills:*2*
+6. Senna Laxative 25 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+Disp:*60 Tablet(s)* Refills:*2*
+7. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 6-8 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Toprol XL 25 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 1115**] VNA
+
+Discharge Diagnosis:
+MR, CAD, Postop Atrial Fibrillation/SVT, Postop TIA, Hematuria,
+BPH, Hyperlipidemia, HTN, SVT vs. NSVT preoperatively, History
+of severe nose bleeds, Lipoma
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1) Monitor wounds for signs of infection. These include redness,
+drainage or increased pain.
+2) Report any fever greater then 100.5.
+3) Report any weight gain of 2 pounds in 24 hours or 5 pounds in
+1 week.
+4) You may wash you incisoin and pat dry. No swimming or bathing
+until it has healed.
+5) No lotions, creams or powders to wound until it has healed.
+6) No lifting greater then 10 pounds for 10 weeks.
+7) No driving for 1 month.
+8) Take Warfarin as directed. Followup with Dr. [**Last Name (STitle) 4429**] for
+dosing.
+
+[**Last Name (NamePattern4) 71**]p Instructions:
+Follow-up with Dr. [**Last Name (Prefixes) **] in [**4-7**] weeks, call for appt.
+Follow-up with Dr. [**Last Name (STitle) 4429**] for coumadin dosing.
+Follow-up with Dr. [**Last Name (STitle) **], call for appt.
+Follow up with Dr. [**Last Name (STitle) 6100**], call for appt
+
+
+
+Completed by:[**2748-4-2**]
+
+DOC CLASS

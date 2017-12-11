@@ -1,0 +1,391 @@
+Admission Date:  [**2863-3-16**]              Discharge Date:   [**2863-4-3**]
+
+Date of Birth:  [**2816-12-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim
+
+Attending:[**First Name3 (LF) 2498**]
+Chief Complaint:
+Dyspnea on Exertion
+
+Major Surgical or Invasive Procedure:
+Right and Left Heart Catheterization
+ICU Care with arterial cannulation, central venous cannulation
+Mechanical Ventilation
+
+History of Present Illness:
+46F s/p autologous BMT for NHL in [**2846**] with course complicated
+by radiation-induced pulmonary fibrosis and chemo-induced
+cardiomyopathy now on transtracheal O2 who presents with
+increasing dyspnea on exertion, tachycardia, and cough. Although
+OMR notes reveal prior complaints of DOE, patient reports
+worsening over the past 2-3 weeks. Denies pleuritic chest pain
+but does report some back pain with coughing. No exertional
+chest pain (but she feels unable to exert herself enough to know
+- no history of exertional CP). She was previously on 2L TTO at
+rest and increased to 4L with activity. She has now increased to
+3L at rest with >4L with activity (she reports she turns it up
+as high as she can and is still unable to exercise - she even
+gets short of breath brushing her teeth). She has previously had
+volume overload but not in a long while and denies pedal edema
+or orthopnea. She had pneumonia in [**4-23**] which presented with
+neck stiffness and wheezing - she denies these symptoms at
+present. Reports seasonal allergies without asthma. She has a
+dog at home and has lived in the same place with that dog for
+years. Previously worked as a field officer for NSTAR where she
+may have been exposed to hazardous fumes, but since [**4-23**] she has
+been on disability. Denies fevers.
+She reports tachycardia seems to have started with this
+worsening dyspnea as well.
+Saw pulmonologist in beginning of [**Month (only) **] who felt she was
+doing well. Seen by PT in early [**Month (only) **] as well - report states
+that she gets out of breath with exertion on treadmill but at
+that point she did not feel this was worse than previous and O2
+sat actually was better than previously.
+Of note patient is on hormone replacement therapy
+(Premarin/Provers) since it was decided that she should not have
+children post-chemo. She does not smoke. She has not had
+personal or family history of blood clots.
+
+
+Past Medical History:
+1.  Non-hodgkin's lymphocytic lymphoma: Diagnosed in [**2844**],
+treated with radiation and adriamycin, autologous bone marrow
+transplantation in [**2846**], one episode of congesive heart failure
+in the first one to two months after her transplantation, good
+recovery after that and cancer free since then.
+2.  IPF:  Developed SOB 2 years ago, likely related to full body
+irradiation, found to have bilateral pulmonary fibrosis and
+apical blebs.  Has been treated with prednisone and supplemental
+oxygen.  PFTs from [**2862-3-22**] demonstrated no change in restrictive
+pattern since [**2861-10-3**].
+3.  Systolic Heart Failure:  Diagnosed in [**2860**] at same time of
+IPF, likely due to Adriamycin treatment for NHL.  Echo from
+[**2862-3-13**] demonstrated mild to moderate global left ventricular
+hypokinesis (ejection fraction 40 percent) and moderate
+pulmonary artery systolic hypertension without R-ventricular
+abnormalities.  This was no change from a [**3-22**] echo.
+4.  Pulm HTN:  Echo from [**2862-3-13**] demonstrated moderate pulmonary
+artery systolic hypertension without R-ventricular abnormalities
+in size, structure, and contractile function.
+5.  Chronic anemia:  Thought to be related to her BMT in [**2846**].
+Labs in OMR since [**4-/2859**] demonstrate Hct ranging from 28.7 to
+34.3.
+.
+PSH:
+-None but currently being evaluated for lung vs heart/lung
+transplant at [**Hospital1 592**]
+
+Social History:
+General:  Is single, lives with family.  No children.  Works as
+field rep for NStar.
+Tobacco:  Quit smoking approximately four to five years ago.
+Smoked 10 cigs per day for 15 years, quit after hospitalization
+in [**2857**].
+EtOH:  Denies use
+Recreational drugs:  Denies use
+
+
+Family History:
+-Hypertension on her mother's side
+-Maternal grandmother: heart disease as well as diabetes
+
+Physical Exam:
+T 97.0 BP 145/124(?) HR 104 RR 18 Sat 98% on 2 L/min TTO
+Weight: 63 kg
+General: well-appearing
+HEENT: no scleral icterus; (+) transtracheal catheter
+Neck: JVP 7 cm, supple
+Chest: scatterred rales throughout left lung field; left-sided
+breath sounds also diminished; right lung field clear to
+auscultation
+CV: mildly tachycardic, regular; nl s1s2, no m/r/g
+Abdomen: soft, NTND, no HSM
+Extremities: warm, no edema, 2+ PT pulses
+Skin: no rashes/jaundice
+Neuro: alert, appropriate, CN 2-12 intact
+
+
+Pertinent Results:
+[**2863-3-16**] 01:30AM BLOOD WBC-9.2 RBC-3.57* Hgb-10.5* Hct-31.4*
+MCV-88 MCH-29.4 MCHC-33.4 RDW-13.5 Plt Ct-274
+[**2863-3-16**] 10:45AM BLOOD WBC-7.5 RBC-3.38* Hgb-9.6* Hct-29.0*
+MCV-86 MCH-28.3 MCHC-33.0 RDW-13.3 Plt Ct-233
+[**2863-3-31**] 02:13AM BLOOD WBC-33.1*# RBC-3.45* Hgb-10.4* Hct-31.0*
+MCV-90 MCH-30.0 MCHC-33.4 RDW-16.6* Plt Ct-70*
+[**2863-4-1**] 02:21AM BLOOD WBC-20.9* RBC-3.34* Hgb-10.2* Hct-30.0*
+MCV-90 MCH-30.5 MCHC-34.0 RDW-16.5* Plt Ct-77*
+[**2863-4-2**] 03:47AM BLOOD WBC-25.9* RBC-3.22* Hgb-9.8* Hct-29.8*
+MCV-93 MCH-30.5 MCHC-32.8 RDW-17.7* Plt Ct-83*
+[**2863-4-3**] 03:34AM BLOOD WBC-34.8* RBC-3.47* Hgb-10.5* Hct-32.8*
+MCV-95 MCH-30.4 MCHC-32.1 RDW-18.0* Plt Ct-88*
+[**2863-3-29**] 03:00AM BLOOD Neuts-71* Bands-10* Lymphs-12* Monos-4
+Eos-0 Baso-0 Atyps-2* Metas-1* Myelos-0 NRBC-17*
+[**2863-4-1**] 02:21AM BLOOD Neuts-79* Bands-1 Lymphs-7* Monos-7 Eos-0
+Baso-0 Atyps-0 Metas-5* Myelos-1* NRBC-63*
+[**2863-3-16**] 01:30AM BLOOD Plt Ct-274
+[**2863-3-16**] 02:30AM BLOOD PT-12.6 PTT-26.6 INR(PT)-1.1
+[**2863-4-3**] 03:34AM BLOOD PT-19.8* PTT-31.7 INR(PT)-1.8*
+[**2863-3-25**] 02:51PM BLOOD Fibrino-357
+[**2863-3-27**] 04:50PM BLOOD FDP-80-160*
+[**2863-4-3**] 06:06AM BLOOD FDP-40-80
+[**2863-3-16**] 01:30AM BLOOD Glucose-115* UreaN-23* Creat-1.1 Na-141
+K-4.2 Cl-99 HCO3-34* AnGap-12
+[**2863-3-16**] 10:45AM BLOOD Glucose-146* UreaN-20 Creat-0.9 Na-139
+K-3.8 Cl-102 HCO3-29 AnGap-12
+[**2863-3-17**] 07:40AM BLOOD Glucose-110* UreaN-15 Creat-0.9 Na-139
+K-4.4 Cl-100 HCO3-26 AnGap-17
+[**2863-4-2**] 03:47AM BLOOD Glucose-144* UreaN-88* Creat-3.2* Na-140
+K-4.4 Cl-113* HCO3-20* AnGap-11
+[**2863-4-3**] 03:34AM BLOOD Glucose-99 UreaN-99* Creat-4.4*# Na-135
+K-6.7* Cl-106 HCO3-16* AnGap-20
+[**2863-3-29**] 03:00AM BLOOD ALT-1855* AST-828* LD(LDH)-925*
+AlkPhos-74 TotBili-1.4
+[**2863-4-1**] 02:21AM BLOOD ALT-891* AST-243* LD(LDH)-1099*
+AlkPhos-182* TotBili-1.3
+[**2863-4-3**] 03:34AM BLOOD ALT-613* AST-533* LD(LDH)-2235*
+AlkPhos-243* TotBili-4.2*
+[**2863-3-16**] 01:30AM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**2863-3-16**] 10:45AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2863-3-16**] 05:38PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2863-3-18**] 07:20AM BLOOD proBNP-5249*
+[**2863-3-25**] 02:51PM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**2863-3-25**] 02:51PM BLOOD Hapto-161
+[**2863-3-26**] 09:06AM BLOOD Hapto-161
+[**2863-3-19**] 07:10AM BLOOD TSH-1.1
+[**2863-3-26**] 05:10AM BLOOD Cortsol-24.2*
+[**2863-3-26**] 05:22AM BLOOD Cortsol-30.1*
+[**2863-3-25**] 10:51AM BLOOD Glucose-126* Lactate-1.6
+[**2863-3-25**] 02:59PM BLOOD Lactate-6.5*
+[**2863-3-25**] 06:42PM BLOOD Glucose-235* Lactate-6.3*
+[**2863-3-26**] 01:45AM BLOOD Lactate-4.0*
+[**2863-3-31**] 12:30PM BLOOD Lactate-1.7
+[**2863-4-2**] 01:26PM BLOOD Lactate-2.5*
+[**2863-4-2**] 06:11PM BLOOD Lactate-2.4*
+[**2863-3-27**] 04:50PM BLOOD ASPERGILLUS GALACTOMANNAN ANTIGEN-
+TEST
+[**2863-3-19**] 08:47PM URINE RBC->1000 WBC-[**3-21**] Bacteri-FEW Yeast-NONE
+Epi-0
+[**2863-3-21**] 10:58PM URINE RBC->1000* WBC-59* Bacteri-NONE
+Yeast-NONE Epi-0
+[**2863-3-25**] 08:49AM URINE RBC-[**12-6**]* WBC-0-2 Bacteri-FEW Yeast-NONE
+Epi-0-2
+[**2863-3-19**] 08:47PM URINE Blood-LG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR
+[**2863-3-21**] 10:58PM URINE Blood-LG Nitrite-NEG Protein-100
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-TR
+
+MICROBIOLOGY
+
+[**2863-3-24**] 10:19 am SPUTUM      Source: Expectorated.
+
+                            **FINAL REPORT [**2863-3-30**]**
+
+   GRAM STAIN (Final [**2863-3-24**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CHAINS.
+
+   RESPIRATORY CULTURE (Final [**2863-3-30**]):
+      RARE GROWTH OROPHARYNGEAL FLORA.
+      ASPERGILLUS SPECIES.    RARE GROWTH.  NOT FLAVUS OR [**Country **].
+
+
+[**2863-4-1**] 1:10 pm SPUTUM      Source: Endotracheal.
+
+   GRAM STAIN (Final [**2863-4-1**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Preliminary):
+      OROPHARYNGEAL FLORA ABSENT.
+      YEAST.    SPARSE GROWTH.
+      MOLD.    RARE GROWTH.  SENT TO MYCOLOGY.
+
+REPORTS AND STUDIES
+
+[**2863-3-16**]
+1. No pulmonary embolism or aortic dissection. The coronary
+arteries arise from the normal expected anatomical location.
+
+2. Chronic pulmonary fibrosis as described above in
+predominately subpleural location, unchanged.
+
+ECHO [**2863-3-20**]
+The left atrium is normal in size. Left ventricular wall
+thicknesses and cavity size are normal. There is mild regional
+left ventricular systolic dysfunction with mild hypokinesis of
+the anteroseptum and inferior walls. Tissue Doppler imaging
+suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). The right ventricular cavity is moderately
+dilated with mild hypokinesis of the free wall. There is
+abnormal septal motion/position consistent with right
+ventricular pressure/volume overload. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Trivial mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. Moderate [2+]
+tricuspid regurgitation is seen. There is severe pulmonary
+artery systolic hypertension. The pulmonic valve is abnormal.
+The end-diastolic pulmonic regurgitation velocity is increased
+suggesting pulmonary artery diastolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2863-1-8**],
+subtle left ventricular regional wall hypokinesis was present,
+however, the right ventricle has increased in size with signs of
+pressure volume overload. Severe estimated pulmonary systolic
+hypertension is now present.
+
+ECHO [**2863-3-31**]
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thicknesses is normal with wmall cavity size.
+There is mild regional left ventricular systolic dysfunction
+with hypokinesis of the distal anterior wall and apex. The
+remaining segments contract normally (LVEF = 45%). The right
+ventricular cavity is markedly dilated with severe global free
+wall hypokinesis. There is abnormal septal motion/position
+consistent with right ventricular pressure/volume overload. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic stenosis. Trace aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is severe
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+Compared with the prior study (images reviewed) of [**2863-3-20**], the
+right ventricle is larger with more prominent free wall
+hypokinesis. An apical left ventricular wall motion abnormality
+is now present. The severity of tricuspid regurgitation is
+similar.
+
+C CATH [**2863-3-23**]
+1. Coronary arteries are normal.
+2. Hypovolemia.
+3. No significant change in cardiac output with volume
+challenge.
+3. Significant increase in cardiac output with little change in
+pulmonary artery pressures during 100% O2 (therefore, PVR
+decreased).
+4. Compared to baseline, significant increase in cardiac output
+and
+decrease in pulmonary artery pressures with nitric oxide
+therapy.
+5. Given low cardiac index would use caution if considering
+calcium
+channel blocker therapy.
+
+
+Brief Hospital Course:
+PULMONARY HYPERTENSION / BACTERIAL PNEUMONIA
+The patient was admitted with dyspnea on exertion. She underwent
+cardiac catheterization which revealed elevated pulmonary
+vascular resistance that did not significantly improve after
+vasodilator trial. She was trialed on sildenifil without
+benefit, and this was discontinued. After catheterization, she
+developed sepsis, meeting SIRS criteria with positive sputum
+gram stain with gram positive cocci. That culture ultimately
+grew aspergillus, discussed below.
+
+She developed respiratory distress with while septic, and was
+electively intubated without immediate complication.
+
+Her pulmonary disease was quite severe, and she was difficult to
+ventilate, requiring high pressures in a pressure control
+ventilation mode.
+
+CARDIAC ARREST / CARDIOGENIC SHOCK
+Unfortunately 3-4 hours after intubation, the patient became
+bradycardic and became pulseless in PEA arrest, and a code was
+called. She was given CPR and epinephrine x3 and atropine. A
+femoral code line was placed. She was briefly in what appeared
+to be VT and was shocked x1, and regained spontaneous
+circulation. She was initially hypertensive in the next few
+minutes but then became quite hypotensive, requiring vasopressor
+support, ultimately being maxed on 3 pressors. Over the next 72
+hours, pressors were slowly weaned, with the exception of severe
+hypotensive episode at 72h likely from hypoxia [**2-17**] cuff leak,
+from which she recoved.
+
+Echocardiogram showed severe pulmonary hypertension and right
+heart failure.
+
+RESPIRATORY FAILURE
+The patient remained intubated, and was on pressure control
+ventillation, with a PIP set initially at 45. This was attempted
+to be decreased, ended at PIP of 41, but still with elevated
+PEEPs.
+
+SEPSIS
+The presumption at time of first meeting SIRS criteria was that
+she had pneunomia. She was treated broadly with vancomycin and
+Zosyn, and caspofungin added later for aspergillus.
+
+One week after her arrest, she again became hypotensive and
+febrile, with presumption of infection. Sources included VAP,
+line infection, urine, or progression of aspergillus. SHe
+remained on her broad spectrum antibiotics, and her femoral line
+was promptly discontinued, but the patient rapidly before she
+became febrile, hypotensive requiring multiple vasopressor
+support, high FiO2, sedation and paralysis again.
+
+With her underlying severe pulmonary disease and recurrent
+severe septic episode, a family meeting was held, and the family
+via HCP decided to make the patient [**Name (NI) 2508**].
+
+ASPERGILLUS INFECTION
+The patient grew aspergillus from expectorated sputum prior to
+intubation, and was started on caspofungin.
+
+ACUTE RENAL FAILURE
+The patient went into renal failure after her cardiac arrest,
+likely ATN. She still maintained some concentrating capacity.
+
+EXPIRATION
+
+Within hours of the [**Name (NI) 2508**] decision, the patient died peacefully
+and quietly in the presence of her friends and family.
+
+
+Medications on Admission:
+Toprol 50 mg daily
+Mucinex 1200 mg [**Hospital1 **]
+aspirin 325 mg daily
+Premarin 0.625 mg daily
+Provera 2.5 mg daily
+Calcarb with D 600/200 mg 2 tabs daily
+MVI
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+PRIMARY
+Pulmonary Hypertension
+Pulmonary Fibrosis
+Cardiogenic Shock
+Acute Systolic Congestive Heart Failure
+Septic Shock
+Severe Sepsis
+Aspergillus pulmonary infection
+Cardiac Arrest
+
+SECONDARY
+History of: Non-Hodgkin's Lymphoma
+Anemia
+
+Discharge Condition:
+Expired
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(1) 2499**]
+
+
+
+DOC CLASS

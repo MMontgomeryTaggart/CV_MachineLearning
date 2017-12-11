@@ -1,0 +1,247 @@
+Admission Date:  [**2962-6-16**]              Discharge Date:   [**2962-6-22**]
+
+Date of Birth:  [**2897-1-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1487**]
+Chief Complaint:
+flail post. MV leaflet, mod.-severe MVP found on follow up echo.
+known MVP/MR [**First Name (Titles) **] [**Last Name (Titles) 10584**] of endocarditis in '[**48**].
+
+Major Surgical or Invasive Procedure:
+Mitral Valve repair (#34mm CE physio ring)[**6-16**]
+
+
+History of Present Illness:
+65yo male with known MVP/MR diagnosed '[**48**] after an [**Year (2 digits) 10584**] of
+endocarditis. He only admits to mild PND at high altitude. He
+now presents for surgical evaluation. Cardiac echo [**12-3**] reveals
+mod-severe MVP,3+MR with partial mitral post. flail leaflet.
+DR.[**Last Name (STitle) **] was consulted for MVrepair.
+
+Past Medical History:
+MVP/MR, hyperlipidemia, endocarditis'[**48**], GERD, RLL nodule, Left
+periaortic mass c/w esoph. cyst vs. bronchogenic cyst stable
+since '[**49**], right knee surgery, torn left rotator cuff, ?OSA
+
+Social History:
+retired engineer, denies tobacco, 2-3 beers/week.
+
+Family History:
+father with PPM at age [**Age over 90 **], brother and son with heart
+murmurs.lives in [**Location **] with wife.
+
+Physical Exam:
+Admission Physical Exam
+afebrile, Pulse:72, RR:14, BP:146/78, Ht:72",Wt:188lb
+General: A&Ox3, NAD
+HEENT: [**Last Name (un) **], NC/AT, carotids: neg. bruits/JVD
+CVS:RRR, Nl S1-S2, III/VI holosystolic murmur
+Lungs:CTA
+ABD:benign
+EXT:0 C/C/E, no varicosities
+
+Discharge EXAM
+T:99.1, P:81,BP:136/88, RR:18, O2SAT: 96%, Wt:85.9KG
+General:A&Ox3,NAD
+HEENT:AT/NC, [**Last Name (un) **]
+CVS:RRR
+Lungs:CTA
+ABD:benign
+EXT: neg. C/C/E
+
+Pertinent Results:
+[**2962-6-21**] 09:00PM BLOOD WBC-8.8 RBC-3.54* Hgb-11.2* Hct-31.6*
+MCV-89 MCH-31.7 MCHC-35.5* RDW-15.1 Plt Ct-242#
+[**2962-6-16**] 12:22PM BLOOD WBC-18.0*# RBC-3.62* Hgb-11.2*# Hct-32.4*
+MCV-90 MCH-31.0 MCHC-34.6 RDW-14.8 Plt Ct-159
+[**2962-6-20**] 02:40PM BLOOD Glucose-133* UreaN-16 Creat-0.8 Na-135
+K-3.9 Cl-101 HCO3-28 AnGap-10
+[**2962-6-16**] 01:18PM BLOOD UreaN-17 Creat-0.9 Cl-113* HCO3-24
+ Approved: FRI [**2962-6-18**] 2:59 PM
+
+
+[**2962-6-21**] 09:00PM BLOOD WBC-8.8 RBC-3.54* Hgb-11.2* Hct-31.6*
+MCV-89 MCH-31.7 MCHC-35.5* RDW-15.1 Plt Ct-242#
+[**2962-6-21**] 09:00PM BLOOD Plt Ct-242#
+[**2962-6-18**] 12:25AM BLOOD PT-15.9* PTT-29.3 INR(PT)-1.4*
+[**2962-6-20**] 02:40PM BLOOD Glucose-133* UreaN-16 Creat-0.8 Na-135
+K-3.9 Cl-101 HCO3-28 AnGap-10
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+[**Known patient lastname 27826**], [**Known patient firstname 863**] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) 3889**]       [**Hospital1 18**] [**Numeric Identifier 27827**]       Portable
+TTE (Focused views) Done [**2962-6-17**] at 4:17:57 PM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4021**]
+[**Location (un) 86**], [**Numeric Identifier 711**]  Status: Inpatient DOB: [**2897-1-16**]
+Age (years): 65 M  Hgt (in): 70
+BP (mm Hg): 118/65  Wgt (lb): 190
+HR (bpm): 83  BSA (m2): 2.04 m2
+Indication: LV function; status post mitral valev repair
+ICD-9 Codes: 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2962-6-17**] at 16:17    Interpret MD: [**First Name11 (Name Pattern1) 444**] [**Last Name (NamePattern4) **],
+MD
+Test Type: Portable TTE (Focused views) Son[**Name (NI) 918**]: [**First Name8 (NamePattern2) 2236**]
+[**Last Name (NamePattern1) **]
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008W033-0:00 Machine: Vivid [**8-1**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  *6.3 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *6.0 cm  <= 5.0 cm
+Left Ventricle - Ejection Fraction:  70%  >= 55%
+Left Ventricle - Peak Resting LVOT gradient:  *12 mm Hg  <= 10
+mm Hg
+Left Ventricle - Lateral Peak E':  *0.08 m/s  > 0.08 m/s
+Left Ventricle - Septal Peak E':  *0.05 m/s  > 0.08 m/s
+Left Ventricle - Ratio E/E':  *25  < 15
+Aortic Valve - Peak Velocity:  1.7 m/sec  <= 2.0 m/sec
+Mitral Valve - Mean Gradient:  5 mm Hg
+Mitral Valve - E Wave:  1.6 m/sec
+Mitral Valve - A Wave:  1.4 m/sec
+Mitral Valve - E/A ratio:  1.14
+Mitral Valve - E Wave deceleration time:  *260 ms  140-250 ms
+TR Gradient (+ RA = PASP):  *18 to 30 mm Hg  <= 25 mm Hg
+
+Findings
+LEFT VENTRICLE: Normal LV wall thickness, cavity size and
+regional/global systolic function (LVEF >55%). Mild resting LVOT
+gradient.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Mild (1+) AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Myxomatous
+mitral valve leaflets. Mitral valve annuloplasty ring.
+Well-seated mitral annular ring with normal gradient. [**Male First Name (un) **] of
+mitral valve leaflets. No MR.
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Normal tricuspid valve supporting structures. No TS. Mild [1+]
+TR. Borderline PA systolic hypertension.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - bandages,
+defibrillator pads or electrodes.
+Conclusions
+Left ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF 70%) There is a mild resting
+left ventricular outflow tract obstruction. Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. The mitral valve leaflets
+are myxomatous. A mitral valve annuloplasty ring is present. The
+mitral annular ring appears well seated and is not obstructing
+flow. There is systolic anterior motion of the mitral valve
+leaflets. No mitral regurgitation is seen. The tricuspid valve
+leaflets are mildly thickened. There is borderline pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+Compared with the findings of the prior study (images reviewed)
+of [**2962-6-3**], the mitral valve has been repaired (ring
+annuloplasty); however, there is now systolic anterior motion of
+the anterior mitral leaflet with mild left ventricular outflow
+tract obstruction.
+  Electronically signed by [**First Name11 (Name Pattern1) 444**] [**Last Name (NamePattern4) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2962-6-17**] 17:01
+
+
+
+Brief Hospital Course:
+On [**2962-6-16**] Mr [**Known patient lastname **] was taken to the OR where he underwent a
+Mitral Valve repair with #34mm CE physio ring. Please refer to
+DrKhabbaz's operative note for further details. Cross clamp
+time:49" Cardiopulmonary bypass time:64". He was transferred to
+the CVICU intubated on propofol and Neo to optimize his blood
+pressure and cardiac output. He was extubated without incident
+and tubes and lines were discontinued in a timely fashion. POD#1
+he had a near syncopal [**Known patient lastname 10584**] and was treated with volume for
+orthostatic hypotension. EKG changes postop were evident with ST
+elevations and a intermittent LBBB. Mr [**Known patient lastname **] was started on
+Ibuprofen for pericarditis. POD #2 he was doing well and
+transferred to the floor. Further tele monitoring revealed LBBB
+resolved. Beta blocker was optimized and he remains
+hemodynamically stable. On [**2962-6-22**] it was felt that Mr [**Known patient lastname **]
+was doing well and was ready to be discharged to home with VNA
+services.
+
+Medications on Admission:
+Lipitor 5(1),Aciphex 15(1), Lisinopril 40(1),Amoxicillin prn
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*1 30* Refills:*2*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*45 Tablet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed: 1 month only.
+Disp:*90 Tablet(s)* Refills:*0*
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+TBA
+
+Discharge Diagnosis:
+status post Mitral Valve repair (#34mm CE physio ring)
+PMH: MVP/MR,hyperlipidemia, endocarditis'[**48**], GERD, RLL nodule, L
+periaortic mass c/w esophageal cyst vs. bronchogenic cyst stable
+since '[**49**],torn left rotator cuff, ?OSA, right knee surgery
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 168**]
+
+
+Followup Instructions:
+wound clinic in 2 weeks
+Dr [**Last Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 168**]) please call for appointment
+
+Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in 1 week ([**Telephone/Fax (1) 27828**]) please call for
+appointment
+appointment
+
+Wound check appointment [**Hospital Ward Name 120**] 2 as instructed by nurse
+([**Telephone/Fax (1) 3023**])
+
+
+
+Completed by:[**2962-6-23**]
+
+DOC CLASS

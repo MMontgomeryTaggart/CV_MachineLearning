@@ -1,0 +1,299 @@
+Admission Date:  [**3445-3-27**]              Discharge Date:   [**3445-4-5**]
+
+Date of Birth:  [**3374-7-30**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1487**]
+Chief Complaint:
+DOE
+
+Major Surgical or Invasive Procedure:
+AVR ([**First Name8 (NamePattern2) **] [**Male First Name (un) 911**] epic porcine), Replacement Asc Aorta (28mm
+gelweave)[**3-27**]
+
+
+History of Present Illness:
+70 yo F with history of AS. Recently underwent cath which showed
+[**Location (un) 108**] 0.5. Referred for surgery.
+
+Past Medical History:
+AS, bronchitis, HTN, Hyperlipidemia, GERD, Arthritis
+
+Social History:
+retired
+Denies tobacco, etoh
+
+Family History:
+NC
+
+Physical Exam:
+HR 80 RR 14 BP 112/75
+NAD
+Lungs CTAB
+Heart RRR, harsh 4/6 SEM->carotids
+Abdomen benign, well healed [**First Name5 (NamePattern1) **]
+[**Last Name (NamePattern1) 912**] warm, trace BLE edema
+Superficial varicosities
+
+
+Pertinent Results:
+[**3445-3-30**] 03:42AM BLOOD
+
+PT-14.7* PTT-31.2 INR(PT)-1.3*
+
+[**3445-4-5**] 07:45AM BLOOD
+
+Glucose-124* UreaN-17 Creat-0.8 Na-140 K-3.9 Cl-102 HCO3-29
+AnGap-13
+
+[**3445-4-2**] 03:36AM BLOOD
+
+Calcium-8.6 Phos-3.8 Mg-2.3
+
+[**3445-4-2**] 09:14AM
+
+URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.009
+URINE Blood-MOD Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+URINE RBC-0 WBC-0 Bacteri-RARE Yeast-NONE Epi-0
+
+[**3445-4-2**] 9:14 am URINE      Source: CVS.
+
+URINE CULTURE (Final [**3445-4-4**]):
+
+KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..
+
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    64 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**3445-4-4**] 10:30 AM
+
+CHEST (PA & LAT)
+
+Pulmonary edema present on [**3-29**] has cleared, and the
+postoperative cardiomediastinal silhouette has comparable
+dimensions. Moderate right and small left pleural effusions have
+improved slightly since [**4-1**]. No pneumothorax
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  *6.5 cm  <= 5.2 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.8 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.3 cm
+Left Ventricle - Fractional Shortening:  0.31  >= 0.29
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Left Ventricle - Stroke Volume:  45 ml/beat
+Left Ventricle - Cardiac Output:  3.24 L/min
+Left Ventricle - Cardiac Index:  *1.79  >= 2.0 L/min/M2
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Sinus Level:  *3.8 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.8 cm  <= 3.0 cm
+Aorta - Ascending:  *4.5 cm  <= 3.4 cm
+Aorta - Arch:  *3.6 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.7 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *3.5 m/sec  <= 2.0 m/sec
+Aortic Valve - LVOT pk vel:  0.60 m/sec
+Aortic Valve - LVOT VTI:  13
+Aortic Valve - LVOT diam:  2.1 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+Mitral Valve - Peak Velocity:  1.1 m/sec
+Mitral Valve - Mean Gradient:  3 mm Hg
+Mitral Valve - Pressure Half Time:  124 ms
+Mitral Valve - MVA (P [**1-29**] T):  1.8 cm2
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. Mild spontaneous echo
+contrast in the body of the LA. Good (>20 cm/s) LAA ejection
+velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal
+interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Suboptimal technical quality, a focal LV wall motion abnormality
+cannot be fully excluded. Overall normal LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Moderately dilated ascending
+aorta. Mildly dilated aortic arch. Simple atheroma in aortic
+arch. Mildly dilated descending aorta. Complex (>4mm) atheroma
+in the descending thoracic aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severe AS (AoVA
+<0.8cm2). Mild to moderate ([**1-29**]+) AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Moderate mitral annular calcification. Moderate valvular MS (MVA
+1.0-1.5cm2) Mild to moderate ([**1-29**]+) MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. See Conclusions for post-bypass data The
+post-bypass study was performed while the patient was receiving
+vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+
+PRE-BYPASS:
+1. The left atrium is markedly dilated. Mild spontaneous echo
+contrast is seen in the body of the left atrium. No atrial
+septal defect is seen by 2D or color Doppler.
+2. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Overall left ventricular systolic function is
+normal (LVEF>55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The ascending aorta is moderately dilated. The aortic arch is
+mildly dilated. There are simple atheroma in the aortic arch.
+The descending thoracic aorta is mildly dilated. There are
+complex (>4mm) atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. There is severe aortic
+valve stenosis (area <0.8cm2). Mild to moderate ([**1-29**]+) aortic
+regurgitation is seen.
+6. There is mild valvular mitral stenosis (area 1.5-2.0cm2).
+Mild to moderate ([**1-29**]+) mitral regurgitation is seen.
+7. There is a trivial/physiologic pericardial effusion.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including Epinephrine and
+Phenylephrine and is being A paced.
+
+1. A bioprosthetic valve is well seated in the Aortic position.
+Leaflets open well. A mild paravalvular leak is noted from the
+Aorto-mitral junction site.This did not improve with protamine
+or correction of coagulopathy. Mean gradient is 10 mm of Hg.
+2. LV function is preserved. RV mildly hypokinetic that improved
+with inotropes.
+3. MS [**First Name (Titles) **] [**Last Name (Titles) 5480**] to be around 1.5 cm2, with a mean gradient of
+6 mm of Hg.
+4. Ascending aortic graft is noted.
+5. Other findings are unchanged
+
+
+Brief Hospital Course:
+She was taken to the operating room on [**3-27**] where she underwent
+an AVR and replacement of ascending aorta. She was transferred
+to the ICU in stable condition. She was extubated and weaned
+from her vasoactive drips on POD #3. She initially had a high
+ozygen requirement but improved over several days. She was also
+initially confused but also improved with time. She was ready
+for transfer to the floor on POD #6. She developed atrial
+fibrillation and was treated with increased beta blockade and
+amiodarone. She converted to sinus rhythm. No coumadin started.
+CT / Foley / PW out with no sequele. PT consult. Pt stable for
+home. Was treated fot UTI on cipro x 3 days
+
+Medications on Admission:
+Norvasc 5', Atenolol 25', Lipitor 20', Pepcid 10', ASA 325'
+Boniva once every month
+
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+2. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours)
+for 7 days.
+Disp:*14 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+3. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 5 days.
+Disp:*20 Capsule(s)* Refills:*0*
+4. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO Q12H (every
+12 hours) for 7 days.
+Disp:*42 Tablet(s)* Refills:*0*
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): TAPER AS FOLLOWS:
+400 [**Hospital1 **] x 7 days, then
+200 [**Hospital1 **] x 7 days, then
+200 QD there after.
+Disp:*120 Tablet(s)* Refills:*2*
+9. [**Last Name (un) 1705**]
+Norvasc 5', Atenolol 25', Lipitor 20', Pepcid 10', ASA 325'
+Boniva once every month
+10. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for 10 days.
+Disp:*30 Tablet(s)* Refills:*0*
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 1501**]
+
+Discharge Diagnosis:
+AS/ascending aortic aneurysm now s/p AVR/Ascending Aortic
+replacement
+UTI
+HTN, Hyperlipidemia, GERD, Arthritis
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds for 10 weeks.
+No driving until follow up with surgeon.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 19504**] 2 weeks
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] 2 weeks
+Dr. [**Last Name (STitle) **] 4 weeks
+
+
+
+Completed by:[**3445-4-5**]
+
+DOC CLASS

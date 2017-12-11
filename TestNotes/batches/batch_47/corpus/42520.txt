@@ -1,0 +1,331 @@
+Admission Date:  [**2511-6-22**]              Discharge Date:   [**2511-6-25**]
+
+Date of Birth:  [**2472-3-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Wellbutrin / High Dose Steroids
+
+Attending:[**Doctor First Name 711**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+39 year old woman with asthma and possible hypersensitivity
+pneumonitis who presents with shortness of breath. She has had
+6-7 years of progressively worsening SOB and has had an
+extensive prior workup (please refer to Dr.[**Name (NI) 653**] notes)
+including an open lung biopsy in [**10/2510**] which was initially
+thought to show sarcoidosis, but after re-review is more
+consistent with a hypersensitivity pneumonitis. She has had
+numerous prior ICU admissions for SOB and has been intubated in
+the past. She has had worsening SOB for the past several days,
+possibly worsened by the heat, and has been using her inhaler
+more frequently so came to the ED.
+.
+In the ED initial VS were: afebrile, HR 115, RR in the 30s, sats
+in the mid-80s which improved to 99% after a neb. On exam she
+was taking rapid shallow breaths with poor air movement so got 3
+back-to-back nebs with some improvement. She initially refused
+steroids due to h/o steroid psychosis. She was given 4g
+magnesium and 0.3mg 1:1000 subQ epi, and then agreed to take
+solumedrol 125mg IV. She also got 2mg lorazepam x3 for anxiety.
+VS prior to transfer were HR 134, BP 111/56, RR 27, 98% on a
+continuous neb.
+.
+On arrival to the MICU, patient is tachypneic and speaking in
+short sentences. Appears anxious and uncomfortable.
+
+
+Past Medical History:
+1. Asthma
+2. Possible inflammatory lung process such as hypersensitivity
+pneumonitis. (Had open lung biopsy in [**10/2510**] which was reviewed
+by [**Hospital1 4**] pathologists and showed undefined inflammatory process
+superimposed on normal lung,and poorly formed granulomas that
+seemed to be consistent with a hypersensitivity pneumonitis)
+3. History of positive PPD (the patient reports that it was
+borderline degree of induration for many years and has not
+received INH. She states the reason for no INH was a clear CXR
+4. PCOS
+5. Postpartum depression requiring psychiatric hospitalization
+6. Multiple miscarriages requiring D and C
+7. Status post multiple colposcopies and cervical LEEP procedure
+
+8. Meningitis in [**2510-12-28**]
+9. Status post tonsillectomy
+
+Social History:
+The patient is divorced and lives in a home with her 3 children.
+Works as a business analyst. Occasional etoh. Prior 1-1/2 pack
+per day smoking for 15 years, quit in [**2498**]. High likelihood of
+asbestos exposure according to the patient as she was a
+volunteer firefighter in the past. History of positive PPD. Has
+a dog, cat, a lizard and a hamster at home.
+
+
+Family History:
+Father alcoholic. [**Name2 (NI) **] family history of lung disease or DVTs.
+
+
+Physical Exam:
+ADMISSION EXAM:
+Vitals: 98.5, 147, 113/69, 25, 96% on continuous neb
+General: Alert, oriented x3, appears uncomfortable, speaking in
+short sentences, but intermittently comfortable
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Tachycardic but regular, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: No wheezing, no rales
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred, finger-to-nose intact
+.
+DISCHARGE EXAM:
+PE: T98.0  HR92  BP139/69  R18  O2sat97% RA
+Gen: anxious, well-appearing, speaking in full sentences
+CV: tachycardic, regular, no m/r/g
+Resp: poor inspiratory effort, clear, no wheezing
+Abd: soft, NT/ND
+Ext: warm and well-perfused, no c/c/e
+
+Pertinent Results:
+ADMISSION LABS:
+[**2511-6-22**] 11:00AM BLOOD WBC-8.8 RBC-5.01 Hgb-14.4 Hct-43.6 MCV-87
+MCH-28.8 MCHC-33.1 RDW-14.4 Plt Ct-370
+[**2511-6-22**] 11:00AM BLOOD Neuts-69.5 Lymphs-24.6 Monos-3.8 Eos-1.4
+Baso-0.7
+[**2511-6-22**] 11:00AM BLOOD Glucose-93 UreaN-11 Creat-0.9 Na-141
+K-4.5 Cl-106 HCO3-23 AnGap-17
+[**2511-6-22**] 11:00AM BLOOD Calcium-10.0 Phos-2.3* Mg-2.0
+.
+DISCHARGE LABS:
+[**2511-6-24**] 07:10AM BLOOD WBC-9.5 RBC-4.14* Hgb-11.9* Hct-36.1
+MCV-87 MCH-28.8 MCHC-33.0 RDW-14.8 Plt Ct-282
+[**2511-6-25**] 07:25AM BLOOD Glucose-90 UreaN-9 Creat-0.7 Na-142 K-4.1
+Cl-106 HCO3-24 AnGap-16
+[**2511-6-25**] 07:25AM BLOOD Calcium-9.0 Phos-3.5 Mg-1.8
+[**2511-6-24**] 07:10AM BLOOD TSH-2.0
+.
+IMAGING:
+CXR (PA and lateral) [**2511-6-23**]: Lung volumes are improved compared
+with prior.  There is no focal
+consolidation, pleural effusion, or pneumothorax.  Cardiac
+silhouette and mediastinal contours are normal.  Chain suture is
+again noted in the right mid lung. IMPRESSION:  Improved lung
+volumes without acute chest abnormality.
+
+EKG [**2511-6-24**]: Sinus tachycardia. Early R wave transition.
+Non-specific ST segment changes
+anteriorly. Broderline low voltage. No previous tracing
+available for
+comparison.
+
+***CT TRACHEA W/O C W/3D REND  [**2511-6-24**]:
+FINDINGS:  The lungs are clear, with evidence of prior wedge
+biopsy from the
+right upper and lower lobes.  A subpleural 2-mm nodule in the
+right upper lobe
+is unchanged from [**2508**].  The pleural surfaces are normal without
+effusion or
+pneumothorax.
+
+There is evidence of severe tracheobronchomalacia, with near
+complete and, in
+places, complete collapse of the trachea and bronchial tree
+during dynamic
+expiration.  At the level of the clavicular heads, the trachea
+measures 2.3 cm
+AP x 1.6 cm TV (314 mm2), which on dynamic expiration decreases
+to 1.1 cm AP x
+0.9 cm TV (56 mm2) (6; 9, 5; 14).  At the level of the aortic
+arch, the
+trachea measures 1.8 cm AP x 2.5 cm TV (350 mm2) on inspiration,
+which on
+dynamic expiration decreases to 0.6 cm AP x 1.2 cm TV (59 mm2).
+
+The right and left bronchi measure 1.3 and 1.4 cm, respectively,
+on the
+inspiratory phase (2; 27) which progresses to near-complete
+collapse,
+measuring less than 2 mm on dynamic expiration (5; 24).  The
+bronchus
+intermedius measures 6 mm on inspiration (2; 27) and 3 mm on
+expiration (5;
+28).
+
+The heart and great vessels are normal in size and
+configuration.  There is no
+pericardial effusion.  There is no central lymph node
+enlargement.
+
+Though this exam is not tailored for the evaluation of
+infradiaphragmatic
+structures, no abnormality is seen.  The size of the spleen
+measures at the
+upper limits of normal.
+
+There is a subacute nondisplaced fracture of lateral left sixth
+rib, new from
+[**2511-3-29**].
+
+IMPRESSION:
+1.  Severe tracheobronchomalacia with air trapping.
+2.  No lung parenchymal abnormality to suggest diagnosis of
+hypersensitivity
+pneumonitis or sarcoid.
+3.  Subacute fracture of the lateral left sixth rib.
+
+
+Brief Hospital Course:
+39 year old woman with asthma and possible hypersensitivity
+pneumonitis who presents with shortness of breath.
+
+Acute issues:
+# Tracheobronchomalacia (NEW DIAGNOSIS): Patient states symptoms
+are similar to prior asthma exacerbations  but no wheezing on
+exam and CXR shows no hyperinflation of lungs.  Pt initially
+admitted to the MICU, but soon transferred to the floor.
+Interventional pulmonology (Dr. [**Last Name (STitle) 183**] and pulmonology (Dr.
+[**Last Name (STitle) 652**] involved as outpatient care and inpatient advice.  CT
+Trachea performed and showed severe tracheobronchomalacia.
+Additional workup to be performed as an outpatient with possible
+stenting in a few weeks.
+
+Chronic issues:
+# Anxiety/Depression:  Continued citalopram, trazodone.
+
+# Sinus tachycardia: Likely related to anxiety.  No chest pain.
+VSS. EKG unremarkable.  Improved over the course of admission.
+
+Transitional issues:
+# Tracheobronchomalacia: extensive outpatient workup required
+prior to possible treatment. Appreciate excellent coordination
+of care by Dr. [**Last Name (STitle) 183**], Dr. [**Last Name (STitle) 652**], et. [**Doctor Last Name **].  See d/c paperwork for
+details.
+
+
+Medications on Admission:
+Preadmissions medications listed are incomplete and require
+futher investigation.  Information was obtained from webOMR
+MICU.
+1. Albuterol Inhaler [**12-29**] PUFF IH Q4-6HRS PRN shortness of breath
+or wheeze
+2. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation
+Inhalation [**Hospital1 **]
+3. ciclesonide *NF* unknown  Inhalation unknown
+4. Citalopram 10 mg PO DAILY
+5. ipratropium-albuterol *NF* unknown  Inhalation unknown PRN
+6. Methotrexate 15 mg PO QFRI
+7. Terbutaline Sulfate 5 mg PO BID
+8. traZODONE 75 mg PO QHS
+
+
+Discharge Medications:
+1. Albuterol Inhaler [**12-29**] PUFF IH Q4-6HRS PRN shortness of breath
+or wheeze
+2. Citalopram 10 mg PO DAILY
+3. Terbutaline Sulfate 5 mg PO BID
+4. traZODONE 75 mg PO QHS
+5. Methotrexate 15 mg PO QFRI
+6. Meds
+Please continue all previous medications as prescribed,
+including ciclesonide, ipratropium-albuterol PRN.  Unknown
+dosages.
+7. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation
+INHALATION [**Hospital1 **]
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Tracheobronomalacia
+Asthma
+
+
+Discharge Condition:
+Stable.  Continued feeling of chest tightness likely due to
+tracheobronchomalacia
+
+
+Discharge Instructions:
+Dear Ms. [**Known patient lastname 16804**],
+
+You were admitted to the hospital with shortness of breath.  A
+CT scan was performed looking at your breathing tubes.  It was
+found that you have severe tracheobronchomalacia that may
+require stenting.  The interventional pulmonologists, who
+specialize in problems like this, recommended additional
+follow-up and tests to be done outside of the hospital.  You
+will then see Dr. [**Last Name (STitle) 183**] again for discussion of treatment and
+options for your tracheobronchomalacia.
+
+Followup Instructions:
+Department: DIGESTIVE DISEASE CENTER
+When: MONDAY [**2511-6-29**] at 9:30 AM
+With: [**First Name11 (Name Pattern1) 2332**] [**Last Name (NamePattern4) 7557**], MD [**Telephone/Fax (1) 15**]
+Building: [**First Name8 (NamePattern2) **] [**Hospital Ward Name 790**] Building ([**Hospital Ward Name 642**]/[**Hospital Ward Name 643**] Complex) [**Location (un) 791**]
+Campus: EAST     Best Parking: Main Garage
+
+Name: Mallur, [**Last Name (un) 7188**] S. MD
+Location: [**Hospital1 4**] OTOLOARYNGOLOGY
+Address: [**Doctor First Name **], STE 6E, [**Location (un) **],[**Numeric Identifier 112**]
+Phone: [**Telephone/Fax (1) 2776**]
+Appt:  [**6-29**] at 1:45pm
+
+Name: [**Last Name (LF) **],[**First Name3 (LF) **]
+Address: [**Location (un) 16805**], EAST [**Hospital1 **],[**Numeric Identifier 16806**]
+Phone: [**Telephone/Fax (1) 16807**]
+Appt:  [**7-2**] at 9:45am
+
+Department: RADIOLOGY
+When: TUESDAY [**2511-7-7**] at 9:00 AM
+With: CAT SCAN [**Telephone/Fax (1) 2741**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 626**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+***PLEASE CALL TO CANCEL THIS APPT - THIS IS FOR THE CT SCAN
+THAT YOU HAD WHILE IN THE HOSPITAL - YOU SHOULD NOT HAVE ANOTHER
+SCAN
+
+Department: PULMONARY FUNCTION LAB
+When: TUESDAY [**2511-7-7**] at 10:00 AM
+With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 1346**]
+Building: GZ [**Hospital Ward Name 1347**] BUILDING (FELBEERG/[**Hospital Ward Name **] COMPLEX) [**Location (un) 1348**]
+Campus: EAST     Best Parking: Main Garage
+****PLEASE CALL DR.[**Doctor Last Name **] OFFICE TO CLARIFY IF YOU NEED THIS
+TEST: [**Telephone/Fax (1) 571**]
+
+Department: WEST SPECIALTIES CLINIC
+When: TUESDAY [**2511-7-7**] at 11:30 AM
+With: [**First Name8 (NamePattern2) 1342**] [**Name8 (MD) **], MD [**Telephone/Fax (1) 571**]
+Building: De [**Hospital1 **] Building ([**Hospital Ward Name 209**] Complex) [**Location (un) **]
+Campus: WEST     Best Parking: [**Street Address(1) 353**] Garage
+
+Department: PULMONARY FUNCTION LAB
+When: THURSDAY [**2511-7-16**] at 11:10 AM
+With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 1346**]
+Building: [**Hospital6 355**] [**Location (un) 116**]
+Campus: EAST Best Parking: [**Hospital Ward Name 60**] Garage
+
+Department: MEDICAL SPECIALTIES
+When: THURSDAY [**2511-7-16**] at 11:30 AM
+With: [**Name6 (MD) 317**] [**Name8 (MD) **], M.D. [**Telephone/Fax (1) 655**]
+Building: [**Hospital6 355**] [**Location (un) 116**]
+Campus: EAST Best Parking: [**Hospital Ward Name 60**] Garage
+
+
+
+
+
+DOC CLASS

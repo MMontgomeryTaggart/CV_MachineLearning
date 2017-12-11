@@ -1,0 +1,297 @@
+Admission Date:  [**2547-6-4**]              Discharge Date:   [**2547-6-7**]
+
+Date of Birth:  [**2490-5-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Drug Allergy Information on File
+
+Attending:[**First Name3 (LF) 215**]
+Chief Complaint:
+NSTEMI
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization, 2 stents to LAD and LCX
+
+
+History of Present Illness:
+Ms [**Name13 (STitle) 1892**] is a 57 year old woman with HLD, GERD, ? HTN who
+presented via EMS status post cardiac arrest to [**Location (un) **] and
+transferred to [**Hospital1 4**] for cardiac catheterization.
+.
+Per ED records, patient called EMS for substernal chest pain and
+shortness of breath.  On EMS arrival, patient was conscious but
+then she passed out.  She arrested infront of EMS and received 2
+shocks by AED.  She regained consciousness with reported normal
+mental status.  Enroute, she arrested again and was shocked
+again.  She got 300mg of amio by EMS.  Rhythm strips reportedly
+showed torsades.  At [**Location (un) **], she was again, awake, but
+intubated for airway protection.  She received aspirin 325mg,
+plavix 600mg, heparin gtt, amiodarone gtt and integrillin.  An
+ECG showed heart rate 63, STD in v1-3 with concern for posterior
+STEMI.
+.
+She was transferred to [**Hospital1 4**] for cath lab.  In cath lab, her she
+had proximal 95% LAD and mid 95% LCx oclusion that were stented.
+ She was also noted to have markedly elevated filling pressures
+and received lasix.
+.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, + Dyslipidemia, ?
+Hypertension
+2. CARDIAC HISTORY:
+-CABG:
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+-PACING/ICD:
+3. OTHER PAST MEDICAL HISTORY:
+HLD
+HTN
+GERD
+
+
+Social History:
++ smoking history
+
+Family History:
+family history of CAD
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+GENERAL: Intubated, sedated.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP elevated to mandible.
+CARDIAC: Distant heart sounds, regular rate, no
+murmurs/rubs/gallops appreciated.
+LUNGS: Anterior breath sounds clear.
+ABDOMEN: Obese. Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+Admission labs:
+[**2547-6-4**] 02:08AM BLOOD WBC-14.4* RBC-3.86* Hgb-11.6* Hct-36.1
+MCV-94 MCH-30.0 MCHC-32.1 RDW-13.0 Plt Ct-391
+[**2547-6-4**] 02:08AM BLOOD Neuts-89.3* Lymphs-7.7* Monos-2.7 Eos-0.2
+Baso-0.1
+[**2547-6-4**] 02:08AM BLOOD PT-13.1 PTT-65.7* INR(PT)-1.1
+[**2547-6-4**] 02:08AM BLOOD Glucose-194* UreaN-10 Creat-0.7 Na-141
+K-4.1 Cl-108 HCO3-23 AnGap-14
+[**2547-6-4**] 02:08AM BLOOD ALT-38 AST-46* LD(LDH)-272* AlkPhos-76
+TotBili-0.4
+[**2547-6-4**] 02:08AM BLOOD Albumin-3.8 Calcium-7.9* Phos-2.9 Mg-2.2
+Cholest-159
+[**2547-6-4**] 02:08AM BLOOD %HbA1c-6.0* eAG-126*
+[**2547-6-4**] 02:08AM BLOOD Triglyc-110 HDL-32 CHOL/HD-5.0
+LDLcalc-105 LDLmeas-112
+[**2547-6-4**] 02:08AM BLOOD TSH-1.4
+.
+Cardiac enzymes:
+[**2547-6-4**] 02:08AM BLOOD CK-MB-16* MB Indx-7.8* cTropnT-0.23*
+[**2547-6-4**] 02:08AM BLOOD ALT-38 AST-46* LD(LDH)-272* CK(CPK)-204*
+AlkPhos-76 TotBili-0.4
+[**2547-6-4**] 05:28AM BLOOD CK-MB-29* MB Indx-9.5*
+[**2547-6-4**] 05:28AM BLOOD CK(CPK)-305*
+[**2547-6-4**] 05:26PM BLOOD CK-MB-20* MB Indx-5.5 cTropnT-0.40*
+[**2547-6-4**] 05:26PM BLOOD CK(CPK)-364*
+[**2547-6-5**] 05:04AM BLOOD CK-MB-6
+[**2547-6-5**] 05:04AM BLOOD CK(CPK)-204*
+.
+Discharge labs
+[**2547-6-7**] 07:20AM BLOOD WBC-7.0 RBC-3.97* Hgb-11.6* Hct-36.1
+MCV-91 MCH-29.3 MCHC-32.2 RDW-12.7 Plt Ct-541*
+[**2547-6-7**] 07:20AM BLOOD Glucose-89 UreaN-12 Creat-0.7 Na-141
+K-4.4 Cl-103 HCO3-33* AnGap-9
+[**2547-6-7**] 07:20AM BLOOD Calcium-9.1 Phos-3.7 Mg-2.0
+
+CATH REPORT [**2547-6-4**]
+COMMENTS:
+1. Coronary angiography in this right-dominant system
+demonstrated
+two-vessel disease. The LMCA had no angiographically apparent
+disease.
+The LAd had a proximal 95% stenosis. The LCx had a 99% hazy
+stenosis
+just prior to the second obtuse marginal branch. The RCA had
+mild
+disease.
+2. Resting hemodynamics revealed elevated right- and left-sided
+filling
+pressures, with an RVEDP of 22 mm Hg and a PCWP of 25 mm Hg.
+There was
+mild pulmonary arterial systolic hypertension with a PASP of 41
+mm Hg.
+The cardiac index was high at 8.9 L/min/m2.
+3. Successful PTCA and stenting of the mid LCx with a 2.5 x 18mm
+Promus
+drug eluting stent which was postdilated to 3.0mm. Final
+angiography
+revealed no residual stenosis, no dissection, and TIMI 3 flow.
+(see PTCA
+comments for details)
+4. Successful POBA of the jailed OM with a 1.5mm Apex Flex
+balloon.
+5. Successful PTCA and stenting of the proximal LAD with a 2.5 x
+15mm
+Promus drug eluting stent which was postdilated to 3.0 mm. Final
+
+angiography revealed no residual stenosis, no dissection, and
+TIMI 3
+flow. (see PTCA comments for details)
+
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Elevated right- and left-sided filling pressures.
+3. Successful PTCA and stenting of the mid LCx.
+4. Successful POBA of the jailed OM.
+5. Successful PTCA and stenting of the proximal LAD.
+
+ECHO - TTE [**2547-6-5**]
+The left atrium is normal in size. The estimated right atrial
+pressure is 10-15mmHg. Left ventricular wall thicknesses and
+cavity size are normal. Due to suboptimal technical quality, a
+focal wall motion abnormality cannot be fully excluded. Overall
+left ventricular systolic function is normal (LVEF>55%). The
+estimated cardiac index is normal (>=2.5L/min/m2). Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. There is no mitral valve prolapse. The pulmonary
+artery systolic pressure could not be determined. There is a
+trivial/physiologic pericardial effusion.
+
+
+Brief Hospital Course:
+57 year old woman with HLD and family history of CAD transferred
+to [**Hospital1 4**] for cardiac catheterization.  She was shocked x3 by EMS
+for reported torsades.
+.
+# Coronary Artery Disease: Patient is status post cardiac
+catheterization on [**2547-6-4**] with two stents placed to proximal
+LAD and mid LCx.  She is status post cardiac arrest, shocked
+three times by EMS, likely ischemic in etiology.  She received
+integrillin and discharged on aspirin 325 mg PO daily, plavix
+150 mg PO daily x 2 weeks and 75 mg PO daily thereafter,
+simvastatin 40 mg PO QHS, and Toprol XL 50 mg PO QD.  The plavix
+dose was increased for the first two weeks given her
+thrombocytosis in house.  Pharmacy called and stated
+atorvastatin was not covered by pt's insurance, and so she was
+D/C'ed on simvastatin.  An echo prior to discharge showed normal
+global left ventricular systolic function with an EF of >55%.
+Patient was discharged with follow up to see cardiology at
+[**Location (un) 516**] to be arranged by PCP.
+.
+# Rhythm: Currently, patient is in sinus. Per report she had
+event of torsades, status post shock by EMS in the field.  Event
+was thought to be ischemic in nature.  Patient's electrolytes
+and tele were closely monitored.  No further intervention was
+done, and patient was started on metoprolol.
+.
+# Respiratory distress: Intubated at OSH for airway protection.
+Successfully extubated at [**Hospital1 4**] without any compications.
+.
+# GERD: Switched PPI to H2 blocker.
+.
+# Smoking cessation: Discussed with patient importance of
+smoking cessation and risk of MI with continued tobacco use.
+Patient aware, will follow up with PCP regarding this.
+
+
+Medications on Admission:
+simvastatin
+prilosec
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: 1-2 Tablets PO DAILY (Daily):
+Take two pills at once for the next two weeks (150 mg through
+[**2547-6-21**]).  Then take one pill a day after this.
+Disp:*45 Tablet(s)* Refills:*0*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*1 Disk with Device(s)* Refills:*0*
+6. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+
+NOTE: Pharmacy called a couple hours after pt's discharge.
+Fluticasone-Salmeterol and atorvastatin were unavailable on
+formulary, so she was changed to Flovent and simvastatin.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+ST elevation Myocardial Infarction
+
+
+Discharge Condition:
+A&OX3
+Self ambulatory
+
+
+Discharge Instructions:
+You were transferred to [**Hospital1 4**] because you had a heart attack and
+cardiac arrest.  Your cardiac arrest was because of your heart
+attack.  At [**Hospital1 4**] you underwent cardiac catheterization and had
+two stents placed to two coronary arteries.  We started you on
+several new medications.  We have started you on aspirin and
+plavix.
+
+IT IS VERY IMPORTANT THAT YOU TAKE ASPIRIN AND PLAVIX DAILY.  Do
+not skip these medications.  They are blood thinners and will
+prevent clot formation in your stents.
+
+IT IS VERY IMPORTANT THAT YOU STOP SMOKING.  Cigarettes can
+accelerate atherosclerosis and increases your risk of a heart
+attack.  You should talk to your doctor about quitting smoking.
+
+We have made the following changes to your medications:
+1. Start Plavix.  You should take plavix every day.  DO NOT MISS
+THIS [**Hospital1 1893**].  You should take this [**Hospital1 **] for at least 1
+year.  Your cardiologist will tell you how long to take this
+for.  For the next two weeks only through [**2547-6-21**], take two
+plavix at once. This will be a total of 150 mg once a day.
+Then, after two weeks beginning on [**2547-6-21**], take only one pill a
+day.  This will be 75 mg daily.
+2. Start Aspirin.  You should take aspirin every day.  DO NOT
+MISS [**First Name (Titles) 461**] [**Last Name (Titles) 1893**].
+3. Start Metoprolol.
+4. Switched Simvastatin to Lipitor.
+5. Switched Omeprazole to Ranitidine.
+6. Start Fluticasone/Salmeterol inhaler
+
+Followup Instructions:
+Please follow up with:
+1. PCP: [**Last Name (NamePattern4) **]. [**Last Name (STitle) 1894**] on Thursday, [**2547-6-8**] at 11:00 am.  His
+telephone number is [**0-0-**].
+He will schedule an appointment for you to see Cardiology at
+[**Location (un) 1895**] cardiology.
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 231**] MD, [**MD Number(3) 232**]
+
+Completed by:[**2547-6-7**]
+
+DOC CLASS

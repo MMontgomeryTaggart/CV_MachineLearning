@@ -1,0 +1,153 @@
+Admission Date:  [**3079-8-30**]              Discharge Date:   [**3079-9-7**]
+
+Date of Birth:  [**3024-1-11**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 64**]
+Chief Complaint:
+Severe aortic stenosis and insufficiency, aortic valve
+endocarditis, and CAD.
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement (homograft) and CABG x 1
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 846**] is a 55 yo M with a history of bicuspid aortic valve
+and aortic stenosis who presented 2 months ago with persistent
+cough and fevers. His eventual workup revealed aortic valve
+endocarditis from streptococcal viridans. His echocardiogram
+showed severe aortic stenosis with aortic insufficiency as well
+as a annular abscess with possible perforation into the left
+atrium. He had been placed on antibiotics consisting of
+intravenous penicillin. He now presents for aortic valve
+debridement and replacement with Bentall procedure using
+homograph. He also has coronary artery disease involving the
+left anterior descending artery for which he will also undergo
+coronary artery bypass grafting.
+
+Past Medical History:
+CAD
+Aortic stenosis
+AV endocarditis
+gout
+HTN
+
+Social History:
+Quit smoking in [**3063**], occasional use of EtOH, and never used IV
+drugs. He lives with his wife in [**Name (NI) 4767**].
+
+Family History:
+Father with CAD, MI at 33
+Brother with CABG at 49
+
+Physical Exam:
+At time of discharge:
+
+Afebrile, VSS
+A&O X 3, NAD
+RRR, no murmur appreciated
+Lungs CTAB, no w/r/r
+Sternal incision c/d/i
+Abd soft, NT/ND
+Ext without c/c/e
+
+Pertinent Results:
+[**3079-9-6**]: WBC-13.2* RBC-3.07* Hgb-9.2* Hct-26.8* MCV-87 MCH-29.9
+MCHC-34.3 RDW-15.5 Plt Ct-453*
+Glucose-82 UreaN-32* Creat-2.1* Na-136 K-5.0 Cl-102 HCO3-24
+AnGap-15
+[**3079-9-3**]: UreaN-24* Creat-2.9*
+[**3079-8-30**]: Glucose-95 UreaN-13 Creat-1.4* Na-136 K-4.8 Cl-101
+HCO3-25 AnGap-15
+ALT-9 AST-12 LD(LDH)-193 AlkPhos-57 Amylase-49 TotBili-0.2
+%HbA1c-6.3* [Hgb]-DONE [A1c]-DONE
+
+Aortic valve cultures: negative
+
+[**Last Name (NamePattern4) 2196**]ospital Course:
+On [**3079-8-30**] Mr. [**Known patient lastname 846**] was admitted to the cardiac surgery
+service under the care of Dr. [**Last Name (Prefixes) **]. He was taken to the
+OR on [**9-1**] for aortic valve replacement and CABG. For details of
+the procedure please see Dr. [**Last Name (STitle) **] [**Last Name (Prefixes) **] operative report.
+Post-operatively he did very well. He was extubated on the
+evening of POD 0 and weaned off of pressors by POD 2. He did
+experience ATN with a creatinine elevation to 2.9, for which the
+renal service was consulted. His creatinine trended down for the
+rest of his hospital stay, and was 2.1 at the time of discharge.
+The ID service was consulted as well in regards to his
+endocarditis. It was decided that Mr. [**Known patient lastname 846**] will finish a 4
+week course of PCN G. He was then transferred out of the ICU on
+POD 4 and continued to do well. His diet was advanced, he was
+tolerating po pain medication, and he was ambulating well with
+physical therapy. He was discharged home on POD 6 with
+instructions to f/u with his PCP, [**Name10 (NameIs) **], ID, and Dr. [**Last Name (Prefixes) **].
+
+Medications on Admission:
+ASA 81', PCN G, Atenolol 100', Diovan 80'
+
+Discharge Medications:
+1. Heparin Flush 100 unit/mL Kit Sig: Two (2) ml Intravenous
+once a day: 10 ml NS followed by 2 ml heparin flush daily to
+each lumen.
+Disp:*60 ml* Refills:*1*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Penicillin G Potassium 1,000,000 unit Recon Soln Sig: Four
+(4)  Injection every four (4) hours for 22 days.
+Disp:*qs qs* Refills:*0*
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed.
+Disp:*75 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 632**] VNA, [**Hospital1 627**]
+
+Discharge Diagnosis:
+Severe aortic stenosis and insufficiency
+Aortic valve endocarditis
+CAD
+HTN
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Call your doctor or go to the ER if you experience any of the
+following: severe pain, increasing nausea/emesis, shortness of
+breath, fevers >101.5, pus draining from your wound, or any
+other concerning symptoms. Do not drive if taking narcotics.
+
+
+[**Last Name (NamePattern4) 71**]p Instructions:
+Dr. [**Last Name (Prefixes) **] - please call for an appointment [**Telephone/Fax (1) 181**]
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2366**] (PCP) - please follow-up in [**2-10**] weeks
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5916**] (cardiology) - please follow-up in [**2-10**] weeks
+Dr. [**Last Name (STitle) 12175**] (ID) - please follow-up in 4 weeks
+
+
+
+
+
+DOC CLASS

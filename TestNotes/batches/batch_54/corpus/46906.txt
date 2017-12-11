@@ -1,0 +1,207 @@
+Admission Date:  [**3345-5-4**]              Discharge Date:   [**3345-5-10**]
+
+Date of Birth:  [**3287-4-17**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 18203**]
+Chief Complaint:
+asymptomatic/past avr now followed by serial echos, now with
+worsening stenosis/gradients
+
+Major Surgical or Invasive Procedure:
+AVR(#23 [**First Name8 (NamePattern2) **] [**Male First Name (un) 357**] Epic Supra)[**5-4**]
+
+
+History of Present Illness:
+57yoM s/p AVR/CABG in '[**35**] followed by echo now presents with
+worsening stenosis
+
+Past Medical History:
+AS s/p AVR(tissue), CAD s/p CABG(SVG-OM), HTN, ^chol, GERD,
+Schizophrenia, Depression, Tonsillectomy
+
+Social History:
+Lives alone. Does not work.
+Remote tobbacco- quit 30 years ago
+Rare ETOH
+
+Family History:
+noncontributory
+
+Physical Exam:
+Admission:
+VS HR 76  BP Rt104/60 Lft 100/64  RR 12    Ht 5'8"  Wt 195lbs
+Gen NAD
+Neuro A&Ox3 MAE, nonfocal exam
+Pulm CTA bilat
+CV RRR 4/6 SEM
+Abdm soft, NT/+BS
+Ext warm, well perfused. No edema. Rt LE incision mid thigh to
+ankle-clean. No varicosities
+Palpable pulses throughout
+
+Discharge:
+VS
+
+
+Pertinent Results:
+[**3345-5-9**] 05:35AM BLOOD
+
+WBC-10.8 RBC-3.49* Hgb-10.6* Hct-29.7* MCV-85 MCH-30.3
+MCHC-35.5* RDW-14.3 Plt Ct-342
+
+[**3345-5-5**] 01:18PM
+
+URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.016
+URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG
+Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+
+[**3345-5-5**] 10:44 am URINE      Source: Catheter.
+
+URINE CULTURE (Final [**3345-5-6**]):    NO GROWTH.
+
+[**3345-5-9**] 05:35AM BLOOD
+
+Glucose-112* UreaN-17 Creat-0.9 Na-138 K-4.2 Cl-105 HCO3-24
+AnGap-13
+
+[**3345-5-8**] 2:57 PM
+
+CHEST (PA & LAT)
+
+Cardiomediastinal contours are stable in the post-operative
+period. Bibasilar atelectatic changes have nearly resolved.
+Calcified granuloma is incidentally noted within the right mid
+lung. No definite pleural effusions are evident, and there is no
+evidence of pneumothorax. Right hemidiaphragm remains mildly
+elevated.
+
+IMPRESSION: Resolving bibasilar atelectasis
+
+[**3345-5-7**] 10:39 AM
+
+FEMORAL VASCULAR US RIGHT; FEMORAL VASCULAR US RIGHT PORT
+
+FINDINGS: Sagittal and transverse son[**Name (NI) 161**] analysis of the
+right groin demonstrate a 5 x 5 x 2 cm hematoma in the
+subcutaneous tissues. There are small branch vessels around the
+hematoma but there is no evidence of pseudoaneurysm or fistula
+formation. Doppler analysis of the common femoral artery and
+vein shows normal waveforms.
+
+IMPRESSION: Right groin hematoma with no evidence of
+pseudoaneurysm or fistula formation.
+
+
+Brief Hospital Course:
+Mr [**Known patient lastname 5893**] was a direct admission to the operating room on [**5-4**].
+At that time he had an AVR, please see OR report for details. In
+summary he had an AVR with #23 [**First Name8 (NamePattern2) **] [**Male First Name (un) 357**] Supra valve, his bypass
+time was 98 minutes with a crossclaamp time of 68 minutes. He
+did well in the immediate post-op period, and he was extubated
+on the day of surgery. On POD1 he remained hemodynamically
+stable and was transferred to the floors for continued care.
+Once on the floors he had an uneventful post-op course. His
+chest tubes and Epicardial wires were removed on POD 3 His
+activity level was advanced medicationsd tittrated and on POD 5
+it was decided he was ready for discharge home with visiting
+nurses.
+
+Medications on Admission:
+Lipitor 40'
+Digoxin 0.25'
+Depakote 250'
+Lisinopril 2.5'
+Lopressor 50"
+ASA 81'
+Clozapine 200'Omepprazole 20'
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day. Capsule, Delayed
+Release(E.C.)(s)
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Clozapine 100 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+7. Divalproex 250 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO DAILY (Daily).
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+9. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily) for
+7 days.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+12. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+13. Divalproex 250 mg Tablet Sustained Release 24 hr Sig: One
+(1) Tablet Sustained Release 24 hr PO HS (at bedtime).
+14. Clozapine 100 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+15. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+16. Guaifenesin 600 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO bid ().
+17. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed: prn.
+Disp:*30 Tablet(s)* Refills:*0*
+18. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+19. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+20. [**Last Name (un) 184**]
+lipitor 40', digoxin .25', depakote 250', lisinopril 25',
+lopressor 50'', asa 81', clozapine 200', omeprazole 20'.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1619**] VNA, [**Hospital1 1620**]
+
+Discharge Diagnosis:
+s/p redo sternotomy AVR(#23 [**First Name8 (NamePattern2) **] [**Male First Name (un) 357**] Epic Supra)[**5-4**]
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Keep wounds clean and dry. OK to shower, no bathing or swimming.
+Take all medications as prescribed.
+Call for any fever, redness or drainage from wounds.
+
+Followup Instructions:
+Wound clinic in 2 weeks
+Dr [**Last Name (STitle) **] in 4 weeks
+Dr [**First Name (STitle) 9023**] or [**Doctor Last Name 30305**] in [**4-13**] weeks
+
+
+
+Completed by:[**3345-5-9**]
+
+DOC CLASS

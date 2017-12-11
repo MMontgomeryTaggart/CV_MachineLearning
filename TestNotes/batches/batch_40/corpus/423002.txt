@@ -1,0 +1,176 @@
+Chief Complaint: seizures, resp failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   -
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Acyclovir - [**2909-8-9**] 02:09 AM
+   Vancomycin - [**2909-8-10**] 09:40 PM
+   Cefipime - [**2909-8-11**] 12:00 AM
+   Ampicillin - [**2909-8-11**] 08:00 AM
+   Infusions:
+   Heparin Sodium - 750 units/hour
+   Furosemide (Lasix) - 8 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2909-8-11**] 10:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.6
+C (99.6
+   HR: 83 (83 - 110) bpm
+   BP: 117/59(71) {79/33(46) - 117/69(80)} mmHg
+   RR: 27 (12 - 30) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 74.5 kg (admission): 48.1 kg
+   Height: 63 Inch
+             Total In:
+                                                                  3,126 mL
+                                                                  1,317 mL
+   PO:
+             TF:
+                                                                    722 mL
+                                                                    328 mL
+   IVF:
+                                                                  1,344 mL
+                                                                    470 mL
+   Blood products:
+   Total out:
+                                                                  4,758 mL
+                                                                  1,830 mL
+   Urine:
+                                                                  4,458 mL
+                                                                  1,580 mL
+   NG:
+   Stool:
+   250 mL
+   Drains:
+   Balance:
+                                                                 -1,632 mL
+                                                                   -513 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 299 (240 - 308) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 16
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 138
+   PIP: 15 cmH2O
+   SpO2: 97%
+   ABG: ///33/
+   Ve: 3.9 L/min
+   Physical Examination
+   Labs / Radiology
+   8.6 g/dL
+   159 K/uL
+   136 mg/dL
+   0.9 mg/dL
+   33 mEq/L
+   3.7 mEq/L
+   26 mg/dL
+   99 mEq/L
+   139 mEq/L
+   27.0 %
+   8.4 K/uL
+        [image002.jpg]
+                             [**2909-8-6**]  07:40 PM
+                             [**2909-8-7**]  05:33 AM
+                             [**2909-8-7**]  04:01 PM
+                             [**2909-8-8**]  02:52 AM
+                             [**2909-8-8**]  02:28 PM
+                             [**2909-8-9**]  03:44 AM
+                             [**2909-8-9**]  04:55 PM
+                             [**2909-8-10**]  05:24 AM
+                             [**2909-8-10**]  05:30 PM
+                             [**2909-8-11**]  05:49 AM
+   WBC
+   11.3
+   14.4
+   15.1
+   10.2
+   10.1
+   8.4
+   Hct
+   29.0
+   29.2
+   31.7
+   30.5
+   31.8
+   29.0
+   28.8
+   27.6
+   27.0
+   Plt
+   159
+   183
+   186
+   159
+   181
+   159
+   Cr
+   0.5
+   0.6
+   0.6
+   0.6
+   0.8
+   0.9
+   0.8
+   0.9
+   Glucose
+   144
+   149
+   144
+   128
+   115
+   123
+   120
+   136
+   Other labs: PT / PTT / INR:19.1/81.5/1.7, CK / CKMB /
+   Troponin-T:39/4/0.21, ALT / AST:17/27, Alk Phos / T Bili:167/0.5,
+   Differential-Neuts:80.3 %, Band:0.0 %, Lymph:11.8 %, Mono:5.3 %,
+   Eos:2.3 %, Fibrinogen:237 mg/dL, Lactic Acid:1.6 mmol/L, Albumin:2.6
+   g/dL, LDH:259 IU/L, Ca++:8.8 mg/dL, Mg++:1.8 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+ VALVE REPLACEMENT, AORTIC MECHANICAL (AVR)
+ DIABETES MELLITUS (DM), TYPE II
+ SEIZURE, WITHOUT STATUS EPILEPTICUS
+ RESPIRATORY FAILURE, CHRONIC
+ ATRIAL FIBRILLATION (AFIB)
+ IMPAIRED SKIN INTEGRITY
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2909-8-10**] 04:44 PM 30 mL/hour
+   Glycemic Control:
+   Lines:
+   Midline - [**2909-8-2**] 12:00 AM
+   PICC Line - [**2909-8-6**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP: HOB chlorhex
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition :ICU
+   Total time spent: 40 minutes
+   Patient is critically ill
+
+
+DOC CLASS

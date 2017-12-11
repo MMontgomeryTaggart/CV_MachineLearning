@@ -1,0 +1,377 @@
+Admission Date:  [**2581-9-17**]              Discharge Date:   [**2581-9-25**]
+
+Date of Birth:  [**2498-3-2**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Crestor / Iodine-Iodine Containing
+
+Attending:[**First Name3 (LF) 910**]
+Chief Complaint:
+Worsening shortness of breath.
+
+
+Major Surgical or Invasive Procedure:
+[**2581-9-18**]  TAVI CoreValve/ partial sternotomy ( [**Company 1525**] 26 mm)
+[**2581-9-21**]  Re-exploration for bleeding
+
+
+History of Present Illness:
+The patient is an 83-year-old woman with known aortic stenosis.
+She was evaluated in [**2577**] by Dr. [**Last Name (STitle) **] for consideration of
+aortic valve replacement.  At that time, he felt that she was
+not very symptomatic and that she had an extremely calcified
+aorta and that surgery was deferred due
+to prohibitively high risk.  The patient was minimally
+symptomatic at that time with the exception of one isolated
+event.  She returned to [**Hospital1 69**] six
+weeks ago with worsening shortness of breath, lightheadedness
+with exertion, and requiring two to three pills to sleep at
+night as well as a 10-lb weight loss over the last two months.
+She now is being referred for consideration of percutaneous
+aortic valve replacement.  Her [**State 525**] Heart Association Heart
+Failure Class is 2.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+-CABGx3 : [**2569**]
+MI x1 in [**2540**] and [**2569**]
+3. OTHER PAST MEDICAL HISTORY:
+Aortic stenosis with [**Location (un) 108**] 0.6cm2
+Hypothyrpodosm
+Dyslipidemia
+A fib on BB for rate control,not on anticoagulation
+HTN
+GERD
+Osteoarthritis
+S/P Right THR [**5-2**]
+s/p hysterectomy
+s/p cataract removal
+
+Social History:
+Pt lives with husband and both children are deceased. Denies
+smoking, drugs. Drinks 1.5oz scotch daily.
+
+
+Family History:
+Daughter died of MI at 34 yo. Uncle with 7 [**Name2 (NI) **] but alive in his
+90s. Sister with CABG in her 60s. Mom with MI at 78, dad at 45.
+
+
+Physical Exam:
+Physical Examination shows a well-developed and well-nourished
+woman appearing her stated age.  Her heart rate is 55 and
+irregular.  Blood pressure is 160/80.  Respiratory rate is 20.
+Height is 61 inches.  Weight is 97 pounds.  Skin is pale, warm,
+and dry with fair turgor with no lesions.  HEENT, normocephalic
+and atraumatic.  Pupils are equal, round, and reactive to light
+and accommodation.  Extraocular movements are intact. Oropharynx
+is within normal limits except that she is edentulous.  Neck is
+supple without lymphadenopathy, thyromegaly, or bruits.  Chest
+is clear to auscultation
+bilaterally.  Cardiac exam shows III/VI late peaking systolic
+murmur heard best at the right parasternal border.  Abdomen is
+soft, nontender, and nondistended.  Bowel sounds are present.
+Extremities show trace right lower extremity pedal edema.  Neuro
+exam is nonfocal.  Gait is steady.  Pulses are 2+ throughout
+including bounding pedal pulses
+
+Pertinent Results:
+[**2581-9-25**] 05:45AM BLOOD WBC-6.1 RBC-4.39 Hgb-13.5 Hct-39.2 MCV-89
+MCH-30.8 MCHC-34.5 RDW-14.8 Plt Ct-131*
+[**2581-9-24**] 05:30AM BLOOD WBC-5.7 RBC-4.25 Hgb-12.8 Hct-36.8 MCV-87
+MCH-30.1 MCHC-34.7 RDW-14.6 Plt Ct-129*
+[**2581-9-23**] 01:19AM BLOOD WBC-5.6 RBC-4.29 Hgb-12.9# Hct-36.5
+MCV-85 MCH-30.1 MCHC-35.3* RDW-14.6 Plt Ct-154
+[**2581-9-25**] 05:45AM BLOOD UreaN-12 Creat-0.6 Na-136 K-3.7 Cl-99
+HCO3-30 AnGap-11
+[**2581-9-24**] 05:30AM BLOOD Glucose-83 UreaN-12 Creat-0.6 Na-136
+K-3.4 Cl-97 HCO3-32 AnGap-10
+[**2581-9-23**] 01:19AM BLOOD Glucose-103* UreaN-12 Creat-0.6 Na-135
+K-3.8 Cl-94* HCO3-34* AnGap-11
+[**2581-9-22**] 02:58AM BLOOD Glucose-113* UreaN-18 Creat-0.7 Na-133
+K-4.7 Cl-98 HCO3-30 AnGap-10
+
+TTE [**9-19**]
+The left atrium is normal in size. The estimated right atrial
+pressure is 0-5 mmHg. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal.
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. The
+descending thoracic aorta is moderately dilated. An aortic
+CoreValve prosthesis is present. The transaortic gradient is
+normal for this prosthesis. No aortic regurgitation is seen. The
+mitral valve leaflets are moderately thickened. No mitral
+regurgitation is seen. There is at least mild-to-moderate
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+preserved global and regional function. Well-seated Corevalve
+prosthesis with normal gradient and no regurgitation. Mild to
+moderate pulmonary hypertension.
+The severity of mitral regurgitation is reduced (but not well
+seen on current study)
+
+TTE [**9-25**]
+LEFT ATRIUM: Normal LA size.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal IVC
+diameter (<=2.1cm) with >50% decrease with sniff (estimated RA
+pressure (0-5 mmHg).
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Suboptimal technical quality, a focal LV wall motion abnormality
+cannot be fully excluded. Overall normal LVEF (>55%). No resting
+LVOT gradient.
+RIGHT VENTRICLE: RV not well seen.
+AORTA: Normal aortic diameter at the sinus level. Mildly dilated
+ascending aorta. Normal aortic arch diameter.
+AORTIC VALVE: Aortic valve homograft (AVR). Thickened AVR
+leaflets. No AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. Mild functional MS due to MAC.
+Physiologic MR (within normal limits). [Due to acoustic
+shadowing, the severity of MR may be significantly
+UNDERestimated.]
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. No
+TR. Indeterminate PA systolic pressure.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+Conclusions
+The left atrium is normal in size. The estimated right atrial
+pressure is 0-5 mmHg. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. Overall left ventricular systolic
+function is normal (LVEF>55%). The ascending aorta is mildly
+dilated. The aortic valve appears to be a homograft. The
+prosthetic aortic valve leaflets are thickened. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is a very small (~5 mm) mobile structure
+attached/adjacent to the anterior mitral leaflet that may
+represent a loose chord. There is mild functional mitral
+stenosis (mean gradient 3 mmHg) due to mitral annular
+calcification. Physiologic mitral regurgitation is seen (within
+normal limits). [Due to acoustic shadowing, the severity of
+mitral regurgitation may be significantly UNDERestimated.] The
+tricuspid valve leaflets are mildly thickened. The pulmonary
+artery systolic pressure could not be determined. There is a
+trivial/physiologic pericardial effusion.
+Compared with the prior study (images reviewed) of [**2581-9-19**],
+findings are similar. The mobile structure associated with the
+anterior mitral leaflet is better visualized in the current
+study.
+
+
+Brief Hospital Course:
+83-year-old woman with known aortic stenosis. She was evaluated
+in [**2577**] by Dr. [**Last Name (STitle) **] for consideration of aortic valve
+replacement.  At that
+time, he felt that she was not very symptomatic and that she had
+an extremely calcified aorta and that surgery was deferred due
+to prohibitively high risk.  The patient was minimally
+symptomatic at that time with the exception of one isolated
+event. She recently returned to [**Hospital1 1155**] with worsening shortness of breath, lightheadedness with
+exertion, requiring two to three pills to sleep at night as well
+as a 10-lb weight loss over the last two months. She was
+evaluated for consideration of percutaneous aortic valve
+replacement.  Her [**State 525**] Heart Association Heart Failure Class
+was 2. Since she had severe peripheral vascular disease and an
+abdominal aortic aneurysm and very small subclavian arteries,
+she was deemed appropriate for alternative access. Alternative
+access in her case was chosen as direct aortic through an upper
+mini sternotomy approach.
+
+On [**9-18**] she was taken to the operating room and underwent a
+Transaortic [**Company 1525**] CoreValve placement using upper mini
+sternotomy and axillary artery cutdown and introduction of
+vascular access sheath aortography and right heart
+catheterization and left heart catheterization, balloon aortic
+valvuloplasty. See operative note for full details. Initially
+the patient did well - she was extubated and chest tubes were
+removed on POD 2. POD 3 she complained of some pain and had a
+hematocrit drop of 28->24. She initially responded to
+transfusion appropriately.  A chest x-ray showed a new fluid
+collection in the right hemithorax, close to where the chest
+tube inserted into the chest wall. A CT scan was done after
+appropriately pretreating her for her intravenous contrast
+allergy which showed that there was a copious amount of clot in
+the right hemithorax and the mediastinum superiorly with a
+question of extravasation right around the sternum on the right
+side. She was taken back to the operating room and underwent a
+mediastinal re-exploration and repair of bleeding right internal
+mammary artery and vein. There was a copious amount of clotted
+blood in the right hemithorax as well as non clotted blood. She
+once once again transferred to the CVICU in stable condition
+after evacuation. She was extubated later that day without
+incidence and remained hemodynamically stable on no pressors.
+Her chest tubes were once again removed and she was transferred
+to the floor.  Pacing wires were removed on POD 3 per cardiac
+surgery protocol.  Plavix was started per corevalve protocol.
+She had an echocardiogram on [**9-25**] which showed left atrium
+normal in size. The estimated right atrial pressure is 0-5 mmHg.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size normal. Overall left ventricular
+systolic function normal (LVEF>55%). The ascending aorta mildly
+dilated. The prosthetic aortic valve leaflets are thickened. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. There is a very small (~5 mm) mobile structure
+attached/adjacent to the anterior mitral leaflet that may
+represent a loose chord. There is mild functional mitral
+stenosis (mean gradient 3 mmHg) due to mitral annular
+calcification. Physiologic mitral regurgitation is seen (within
+normal limits). The tricuspid valve leaflets are mildly
+thickened. There was a  trivial/physiologic pericardial
+effusion. Compared with the prior study of [**2581-9-19**] findings
+were similar. The mobile structure associated with the anterior
+mitral leaflet were better visualized in the [**2581-9-25**] study. On
+POD 7 she was ambulating in the [**Doctor Last Name **] without difficulty,
+tolerating a full po diet and her incisions were healing well.
+It was felt she was safe for discharge home with visitng nurse
+services.  All appropriate follow up appointments were made.
+
+
+[**Doctor Last Name **] on Admission:
+[**Doctor Last Name **]:  Lipitor 80 mg tablet one p.o. daily, Lasix 20 mg
+tablet one p.o. daily, Levothyroxine 88 mcg tablet one p.o.
+daily, Metoprolol Tartrate 50 mg tablet one p.o. b.i.d.,
+Nifedipine XL 60 mg tablet one p.o. daily, Ascorbic Acid 500 mg
+tablet one p.o. daily, Aspirin
+81 mg tablet one p.o. daily, Vitamin D3 1000 unit capsule one
+p.o. daily, Coenzyme Q10 30 mg capsule one p.o. daily, and
+Multivitamin one p.o. daily.
+
+Allergies:  Crestor which causes myalgias and contrast dye which
+causes the room to spin.
+
+
+Discharge [**Doctor Last Name **]:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+2. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+3. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*30 Tablet(s)* Refills:*1*
+4. levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain. Tablet(s)
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+8. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+10. furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+11. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+12. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day for 7 days.
+Disp:*7 Tablet, ER Particles/Crystals(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1456**] VNA
+
+Discharge Diagnosis:
+Aortic stenosis
+Coronary artery disease
+Status post previous coronary artery bypass grafting x3 in [**2569**]
+non-ST-elevation myocardial infarction in [**2581-4-25**]
+Calcified aorta
+Hypertension
+dyslipidemia
+Myocardial infarction in [**2540**], [**2569**], and in [**2579-5-26**]
+Hypothyroidism
+Paroxysmal atrial fibrillation not on anticoagulation
+gastroesophageal reflux disease
+osteoarthritis
+Abdominal aortic aneurysm.
+Status post coronary artery bypass grafting in [**2569**] by Dr.
+[**Last Name (STitle) 1753**], status post right total hip replacement in [**2578-4-26**]
+status post hysterectomy
+status post cataract removal
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with Percocet
+Incisions:
+Sternal - healing well, no erythema or drainage + Sternal Click
+- sternum stable
+Trace Edema
+
+
+
+Discharge Instructions:
+Please shower daily including washing puncture sites in groins
+with mild soap, no baths or swimming for 1 week until groin
+sites are healed.
+Please NO lotions, cream, powder, or ointments to puncture sites
+in your groins
+
+Your [**Year (4 digits) 4915**]:
+Following TAVI, you will be taking anti-platelet [**Year (4 digits) 4915**] as
+prescribed by your doctor. [**First Name (Titles) **] [**Last Name (Titles) 4915**] could include
+aspirin, clopidrogel (Plavix), Coumadin, or a combination. You
+will remain on these for at least 3 months after your procedure.
+Please take the dose recommended by your doctor. You should not
+stop these [**Last Name (Titles) 4915**] unless instructed to do so by your
+cardiologist.
+You may experience shortness of breath as you recover. Your
+doctor may adjust your water pills (diuretics) to improve your
+shortness of breath.
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for one month, will be discussed at follow up
+appointment
+No lifting or pulling more than 10 pounds for 1 week, and then
+continue to take it easy for 1 month
+Please call with any questions or concerns [**Telephone/Fax (1) 168**]
+
+**Please call Integrated Aortic valve clinic in cardiac surgery
+office with any questions or concerns [**Telephone/Fax (1) 168**] or the NP[**Telephone/Fax (1) 31002**]. Answering service will contact on call person
+during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Surgeon: [**First Name8 (NamePattern2) 175**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 168**]
+Date/Time:[**2581-10-29**] 2:00
+
+Cardiologist:[**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 62**]
+Date/Time:[**2581-11-8**] 4:00 pm
+
+ECHOCARDIOGRAM Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2581-10-22**] 11:00
+
+Please call to schedule appointments with your
+Primary Care Dr. [**Last Name (STitle) **] in 4 weeks [**Telephone/Fax (1) 8617**]
+
+**Please call Integrated Aortic valve clinic in cardiac surgery
+office with any questions or concerns [**Telephone/Fax (1) 168**] or the NP[**Telephone/Fax (1) 31002**]. Answering service will contact on call person
+during off hours**
+
+
+
+Completed by:[**2581-9-25**]
+
+DOC CLASS

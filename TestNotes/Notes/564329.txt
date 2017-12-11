@@ -1,0 +1,280 @@
+Chief Complaint:
+   24 Hour Events:
+ DIALYSIS CATHETER - STOP [**2522-3-22**] 05:07 PM
+   Quinton 19.5 length
+ URINE CULTURE - At [**2522-3-23**] 12:30 AM
+ FEVER - 101.1
+F - [**2522-3-23**] 12:00 AM
+   [**3-22**] Events:
+   - renal removed HD line and tip sent for culture
+   - request placed for IR guided temp HD line with VIP port
+   - family meeting done and pt to be trach and PEG on tuesday
+   - patient may have severe antibodies excluding transfusion except in
+   settings of active hemolysis, red cross further tests pending, patient
+   is DAT (Coombs positive, and may have antibodys that hemolyze all blood
+   but his own)
+   - last Hct 19.4, no active ischemia
+   Allergies:
+   Cholestyramine
+   ?erectile dysfc
+   Niacin
+   Hepatic toxicit
+   Iodine; Iodine Containing
+   Rash;
+   Ciprofloxacin
+   muscle weakness
+   Last dose of Antibiotics:
+   Meropenem - [**2522-3-21**] 08:00 PM
+   Tobramycin - [**2522-3-21**] 08:30 PM
+   Vancomycin - [**2522-3-21**] 09:06 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2522-3-23**] 12:23 AM
+   Lorazepam (Ativan) - [**2522-3-23**] 05:23 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2522-3-23**] 06:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.1
+   Tcurrent: 37.6
+C (99.6
+   HR: 79 (73 - 95) bpm
+   BP: 86/70(74) {79/34(51) - 130/70(87)} mmHg
+   RR: 23 (21 - 31) insp/min
+   SpO2: 100%
+   Heart rhythm: V Paced
+   Height: 64 Inch
+    CVP: 0 (-4 - 256)mmHg
+   Total In:
+                                                                  1,786 mL
+                                                                    284 mL
+   PO:
+   TF:
+                                                                    841 mL
+                                                                    239 mL
+   IVF:
+                                                                    500 mL
+   Blood products:
+   Total out:
+                                                                  1,634 mL
+                                                                     57 mL
+   Urine:
+                                                                     34 mL
+                                                                     57 mL
+   NG:
+   Stool:
+                                                                  1,600 mL
+   Drains:
+   Balance:
+                                                                    152 mL
+                                                                    227 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 578 (480 - 578) mL
+   PS : 18 cmH2O
+   RR (Spontaneous): 30
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: RR >35
+   PIP: 18 cmH2O
+   SpO2: 100%
+   ABG: ///24/
+   Ve: 13.5 L/min
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: bilaterally), patient is continuing to RR 49, 20L MV,
+   Abdominal: Soft, Non-tender, hypoactive bowel sounds, significant
+   scrotal edema
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm, more jaundiced off
+   Neurologic: off sedation, patient following commands
+   Labs / Radiology
+   303 K/uL
+   6.5 g/dL
+   85 mg/dL
+   3.8 mg/dL
+   24 mEq/L
+   3.4 mEq/L
+   52 mg/dL
+   108 mEq/L
+   142 mEq/L
+   19.4 %
+   11.1 K/uL
+        [image002.jpg]
+                             [**2522-3-17**]  02:45 AM
+                             [**2522-3-18**]  05:52 AM
+                             [**2522-3-19**]  02:42 AM
+                             [**2522-3-20**]  03:21 AM
+                             [**2522-3-20**]  07:03 PM
+                             [**2522-3-21**]  03:27 AM
+                             [**2522-3-21**]  04:48 AM
+                             [**2522-3-21**]  07:30 PM
+                             [**2522-3-22**]  02:32 AM
+                             [**2522-3-23**]  02:35 AM
+   WBC
+   22.5
+   24.5
+   21.5
+   30.2
+   18.6
+   16.8
+   11.1
+   Hct
+   22.6
+   25.8
+   23.9
+   27.4
+   23.3
+   23.0
+   23.0
+   21.9
+   19.4
+   Plt
+   181
+   197
+   216
+   354
+   292
+   309
+   303
+   Cr
+   3.1
+   4.0
+   3.3
+   4.0
+   3.6
+   2.8
+   3.8
+   TCO2
+   23
+   Glucose
+   117
+   142
+   103
+   121
+   102
+   104
+   85
+   Other labs: PT / PTT / INR:16.9/32.9/1.5, CK / CKMB /
+   Troponin-T:522/9/0.08, ALT / AST:104/111, Alk Phos / T Bili:242/3.0,
+   Amylase / Lipase:60/52, Differential-Neuts:90.0 %, Band:2.0 %,
+   Lymph:1.0 %, Mono:5.0 %, Eos:0.0 %, Fibrinogen:457 mg/dL, Lactic
+   Acid:1.4 mmol/L, Albumin:2.5 g/dL, LDH:528 IU/L, Ca++:7.7 mg/dL,
+   Mg++:1.8 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   81M with significant heart dz EF 30%, p/w septic shock and multiorgan
+   failure from CAP PNA complicated by VAP and possible femoral line
+   infection.
+   .
+   PLAN:
+   ====
+   Septic Shock/Hypotension: Resolved hypotension. Pneumonia as probable
+   source with concurrent hypovolemia due to poor PO intake.  Patient was
+   addressed with River
+s Early Goal Directed Therapy. Admisison lactate
+   was not obtained in ED. APACHE IV score was  114 with a predicted
+   mortality of 77%.  Legionella urinary Ag negative. Sputum culture gram
+   negative rods and gram positive cocci in pairs. Patient was volume
+   resuscitated and came off pressors on [**3-14**]. Completed course of
+   azytromycin.  C diff negative, no diarrhea. Patient was zosyn for 9
+   days until got VAP.
+   - patient to complete 14 day course of vancomycin on [**3-24**].
+   .
+   VAP PNA/ Resp failure/ ARDS: from VAP from retained partial dentures.
+   Likely due to pulmonary infiltrates.  Patient with elevated WBC counts
+   and infiltrates on CXR. ARDS secondary to PNA. Initially improving and
+   now worsening because of possible VAP. Zosyn and meropenem stopped
+   [**3-19**]. restarted meropenem on [**3-21**] bc worsening hypotension and sepsis
+   -Patient has been on Vancomycin. Tobramycin was discontinued on [**3-19**]
+   but given worsening of patient, tobra restarted [**3-20**] for likely VAP.
+   VAP grew out citrobacter freundii sensitive to tobra/meropenem. Repeat
+   cultures same citrobacter. Differential includes leukocytosis caused by
+   infected HD line in femoral vein. Will complete 8 day course of
+   tobra/meropenem.
+    - cont tobra/meropenem, will continue until [**3-27**].
+   - cont PSV 12/5 trials, currently on PSV 17/5
+   - IP will trach/PEG on Tuesday ( will notify of severe anemia and
+   complication in transfusion)
+   .
+   Anemia
+ severe anemia, patient is DAT (super Coombs positive), has
+   many antibodies and will hemolyze donor blood. Should only transfuse in
+   emergency settings of active ischemia.
+   -          will notify IR for line placement and IP for [**Female First Name (un) 1120**] placement
+   -          will give iron now
+   Mental Status: awake, following commands. Initially, mental status did
+   not immediately return once sedation removed because of shock liver and
+   decreased metabolism of sedatives on initial presentation.
+   .
+   Coagulopathy: improving, Appears to be have been caused by shock liver.
+   Platlets stable, no evidence of DIC.
+   - following daily
+   - stool guaiac negative
+   Transaminitis: Likely due to shock liver in setting of distributive
+   picture with decreased EF. RUQ u/s shows known CBD dialation, s/p
+   chole. LFT
+s improving.
+   - will con
+t to monitor
+   CV: this does not appear to be ACS, although CK markedly elevated.
+   Most likely due to strain in setting of hypovolemia.  Patient without
+   EKG changes and anticipate increased Tn.
+   CAD: CABG [**2501**] with multiple PCI.  Continue ASA, statin, hold BB given
+   sepsis.
+   PUMP: EF 29%.  Off of pressors.
+   RHYTHM: CHB s/p DDD PCM,ICD in [**2515**]. Not on Warfarin.
+   -          Maintain on telemetry
+   Anuric, acute on chronic ARF/Uremia: Baseline Cr 2.3.  Patient in ARF
+   from acute tubular necrosis in setting of hypotension.  Patient was
+   given CVVH through L femoral line then HD. Renal pulled fem HD line
+   with resolution of leukocytosis, tip culture pending, but could suggest
+   line infection.
+           - Last HD [**3-21**]
+   - place IR HD line on Tuesday with VIP port, non-tunnelled since still
+   spiking ( will notify of severe anemia and complication in transfusion)
+   - renal given a dose of EPO, will discuss with renal re additional EPO
+   given transfusion problems and severe and worsening anemia
+   Hypoalbuminemia: decreased in the setting of sepsis
+   -          Tube feeds at 70cc/hr, at goal
+   FEN
+ tube feeds through OG tube
+   PPx
+ Hep SQ, PPI
+   -          Family
+ meeting done, they want trach/PEG and rehab
+   .
+   Dispo
+ case mgmt for rehab planning, MICU for now
+   - PT/OT consult placed [**3-23**]
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**2522-3-23**] 03:49 AM 35 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2522-3-10**] 10:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+DOC CLASS

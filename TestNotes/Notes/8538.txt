@@ -1,0 +1,427 @@
+Admission Date:  [**3073-11-26**]              Discharge Date:   [**3073-12-31**]
+
+Date of Birth:  [**3008-5-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Hydrocodone / Sulfa (Sulfonamide Antibiotics) /
+Haldol / Vicodin / Morphine / Atorvastatin / Statins-Hmg-Coa
+Reductase Inhibitors / Metoclopramide / Propofol
+
+Attending:[**First Name3 (LF) 2263**]
+Chief Complaint:
+Right lower extremity worsening ischemia and non-healing
+wounds.
+
+
+Major Surgical or Invasive Procedure:
+[**3073-12-1**] Right below knee amputation
+Intubation and mechanical ventilation
+Placement of left radial arterial line
+Direct Current Cardioversion
+
+History of Present Illness:
+65M with multiple medical problems s/p L SFA to AT bypass on
+[**9-1**] that failed and thrombectomy of the graft at that time,
+which was also unsuccessful, requiring multiple toe amputations
+and most recently a left BKA now presenting from nursing home
+Academy Manor with worsening ischemia and non-healing wounds on
+the RLE. Apparently he was being treated with Vancomycin 750
+q36hrs for his wound infections, but that was most recently
+switched to Linezolid as wound cultures came back with Vanc
+resistent enterococcus, as well as Morganella Morganii sp and
+Klebsiella.
+
+
+Past Medical History:
+#. H/o MRSA, VRE infections
+#. H/o ESBL in the urine in [**7-/3073**]
+#. Peripheral vascular disease
+#. Coronary artery disease: The patient reports a "massive heart
+attack" 16 years ago. No intervention at that time. He is
+recently s/p cardiac cath [**7-/3073**] with DES to Left circumflex,
+and POBA to D1
+#. Chronic systolic heart failure: Ischemic cardiomyopathy with
+regional hypokinesis. EF=45%. Patient reports frequent
+admissions for HF and dependence on lasix. He has been
+chronically on oxygen, 2-3L for approximately 2 months, which
+has not been weaned secondary to frequent hospitalizations.
+#. Statin induced immune-mediated necrotizing myopathy - on
+Cellcept and prednisone, history of weakness requiring
+intubation s/p treatment with IVIG as well as Rituxan.
+#. Hypertension
+#. Gastro-esophageal reflux disease
+#. Hypothyroidism
+#. Diabetes mellitus type 2
+#. Dyslipidemia
+#. chronic anemia
+
+PAST SURGIGAL HISTORY:
+#. Left superficial femoral artery to left anterior tibial
+bypass [**9-1**]
+#. Thrombectomy of graft [**10-1**],
+#. Multiple toe amps (1st toe Right foot, 1st/2nd/5th toe Left
+foot)
+#. Left BKA on [**9-23**], recently discharged
+
+
+Social History:
+Lives in a rehab facility. Has never smoked. At baseline the
+patient is quadriplegic, secondary to the necrotizing myopathy,
+although is able to feed himself if someone cuts up his food.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+On admission:
+Exam: 97.3 110 159/83 19 94/RA
+Gen: NAD
+Chest: decreased BS at bases bilaterally
+CV: RRR, -MRG
+Abd: soft/NT/ND, no pulsatile masses
+Ext: L BKA - with tiny pressure ulcer and mild drainage
+Right:
+
+Pulses:
+     Fem   [**Doctor Last Name **]   DP   PT
+R    palp  palp  BKA----
+L    palp  palp  BKA----
+
+At discharge:
+
+Pertinent Results:
+Micro:
+[**3073-11-27**], [**3073-12-10**] WOUND SWAB - pseudomonas.
+AMIKACIN--------------     4 S
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     8 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------     8 I
+PIPERACILLIN/TAZO----- =>128 R
+TOBRAMYCIN------------  =>16 R
+.
+[**3073-12-3**] STOOL CDIFF - negative x 1.
+.
+Urine cxr [**3073-12-6**]  KLEBSIELLA PNEUMONIAE
+     |
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   256 R
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     4 S
+TRIMETHOPRIM/SULFA----  =>16 R
+.
+[**12-10**] urine cxr - GNRs
+.
+Images:
+[**3073-12-12**] R LE US - no abscess
+[**3073-12-5**] UE LENI- No evidence of deep vein thrombosis in the
+right arm.
+[**3073-12-5**] CT HEAD - No intracranial hemorrhage or other acute
+intracranial abnormality.
+[**3073-11-27**] R LE art ext (rest) study - There is significant
+outflow arterial insufficiency at the level of the distal
+popliteal or proximal tibial artery.
+.
+EKG: [**3073-12-3**] 14:00, NSR, LAD, ?q's inferiorly, no STE/STD.  TWF
+V4-6, V1.
+.
+Path:
+Right lower extremity; below-the-knee amputation (A-J):
+Cutaneous ulceration, acute inflammation and necrosis.
+Calcified atherosclerosis.
+Histologically viable soft tissue margins. Bony margin, no
+diagnostic abnormality recognized.
+
+EEG:
+([**12-31**]): This is an abnormal video EEG study due to periodic
+generalized sharp and slow wave discharges with bifrontal
+predominance
+at 1-1.5 Hz frequency. These findings are suggestive of cortical
+irritability and potential for epileptogenesis. However, no
+electrographic seizures were seen during this recording. This
+telemetry
+captured one pushbutton activation but did not contain an
+electrographic
+seizure. Brief views of the background rhythm show a
+disorganized mixed
+theta/delta activity consistent with a moderate to severe
+encephalopathy. No areas of focal slowing were seen in this
+recording
+although encephalopathies may obscure focal findings.
+
+([**12-26**]): This 24-hour video EEG telemetry captured no pushbutton
+activations. No electrographic seizures or epileptiform
+discharges were
+seen. The background was very slow throughout the day's
+recording
+suggestive of a severe encephalopathy.
+
+([**12-25**]):  This is an abnormal video EEG study because of initial
+continuous periodic epileptiform discharges at 1.5-2 Hz
+consistent with
+non-convulsive status epilepticus. These abated after treatment
+with
+intravenous phenobarbital. After 7 p.m., there were no further
+definite
+electrographic seizures but periodic discharges occasionally
+recurred
+in brief runs at frequencies less than 1 Hz. Interictal
+background
+activity showed severe diffuse slowing and attenuation of faster
+frequencies consistent with a severe diffuse encephalopathy
+
+([**12-22**]): This 24 hour video EEG telemetry demonstrated
+generalized and
+bifrontal, spike and sharp wave discharges that evolved into
+periods of
+sustained, rhythmic discharges, consistent with an underlying
+non-convulsive status epilepticus. There were no apparent
+clinical
+manisfestations on video associated with the status epilepticus.
+
+MRI Head: No acute intracranial abnormality present. Pooled
+nasopharyngeal secretions and under-pneumatized mastoid air
+cells bilaterally.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 29651**] is a 65 year old man, with h/o PVD, CAD, DM2, s/p
+remote L BKA, and statin-induced immune-mediated necrotizing
+myopathy, who presented on [**11-26**], with a right LE
+ulcer/osteomyelitis to the vascular service.  He was started on
+IV linezolid, cipro, flagyl, and underwent right BKA on [**12-1**].
+His course has since been complicated by a. fib with RVR s/p
+DCCVx1, hypotension, hypercarbic respiratory failure on [**12-5**],
+prompting intubation and pressor support, as well as status
+epilepticus.
+.
+Course on Vascular Service
+.
+Post-operatively, in the PACU, the patient had hypotension
+96/40, with minimal oozing from wound; the patient recieved
+fluids and was transfused packed red cells, eventually started
+on Neo drip, with stabilization of BP, and was transferred back
+to [**Hospital Ward Name 120**] 5 VICU with Neo drip.  Over the next day, the patient's
+blood pressure was stable, and the Neo drip was weaned off. He
+was also started Hydromorphone IV for breakthrough pain. His
+Tmax was 101.0, and his R LE wound swab grew Pseduomonas. On
+[**12-3**] @ 0847AM, the pt was noted to have A. FIB with RVR 160s,
+SBP 95/60s->60/40, prompting re-starting the neo gtt and
+transfer to CVICU with cardiology consultation.  The pt received
+direct cardioversion x 1, and converted to NSR. He received IV
+amiodarone load x 24hrs, then coverted to oral dosing x 1 week.
+He was also started on heparin gtt, which was transitioned to
+oral comadin. Cardiac enzymes were obtained, and his troponin
+ranged from 0.40 to 0.53, with flat CK, MB peaked at 10. TTE was
+obtained without new focal wall motion abnormality. Cardiology
+did not think that the hypotension was [**1-27**] decreased EF. He was
+transferred back to the vascular floor service on [**12-4**].
+.
+On arrival to the floor, he was described as "lethargic, easy to
+arouse."  BP was 83/40, albumin hung, and BP increased. The pt
+was on 2L NC with O2sat 99%, although he was noted to be
+oliguric (180cc/24hr).
+.
+On [**12-5**], pt continued to be oliguric, with SBP in 80s, despite
+albumin and fluid boluses.  He triggered for ongoing oliguria
+and increasing somnolence.  He was placed on [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 591**], [**First Name3 (LF) **] ABG was
+drawn (7.05/81/43 @ 4AM); he was re-started on neo gtt, and then
+intubated for respiratory distress (no O2 sats in chart, time
+04:46AM on [**12-5**]).  His CVICU course is not documented, but he
+received 2U PRBC (HCT 27->34->27).  L UE LENI was obtained to
+r/o DVT.  Repeat TTE ordered (EF more depressed), heparin gtt
+stopped. Cardiology was re-consulted given worsening EF. He has
+been off antibiotics since [**3073-12-2**].
+.
+Course in MICU
+# Mental Status: Throughout the MICU course patient unresponsive
+thought to be secondary to anoxic brain injury. Found to be in
+non convulsive Status epilepticus which eventually resolved with
+AED however no improvement in mental status. MRI or LP without
+etiology for mental status changes. Eventually patient made CMO
+given extremely poor medical prognosis and very little hope of
+meaningful improvement in mental status.
+.
+# Hypercarbic respiratory failure - Although the details of the
+decompensation are unclear, the patient had a chronic metabolic
+alkalosis on admission--he has no known history of COPD or OSA,
+but likely due to hypoventilation, and resultant respiratory
+acidosis, caused by the necrotizing myopathy. His ABG
+(7.05/81/43) during the initial event was consistent with
+hypoventilation--likely contributors include myopathy (?
+exacerbation from being cellcept on admission to the vascular
+service), narcotic medications as well as aspiration (given
+known muscle weakness). His CXR and exam were additionally
+consistent with volume overload, without frank evidence of
+pneumonia. PE was thought to be less likely, given the pt's
+therapeutic INR and on heparin gtt. After admission to the MICU,
+the pt was treated with steroids and re-started on Cellcept
+(1000mg [**Hospital1 **]). Sedating medications were avoided. While
+intubated, the pt did best w. pH in 7.2-7.3 range and w. pCO2
+50s. Although the pt was extubated on [**12-7**], he had to be
+re-intubated on [**12-10**] for recurrent hypercarbic respiratory
+failure (ABG 7.14/78/56/28). Neurology consultation was
+obtained, who recommended a 5 day course of IVIG, as this had
+alleviated the patient's muscle weakness in the past and
+facilitated extubation. Despite these efforts, he was unable to
+be weaned off of the ventilator and ultimately the decision was
+made for CMO and the patient was extubated.
+.
+# Hypotension - The patient had several episodes of hypotension
+while admitted, including post-operatively, in the setting of
+A.fib w. RVR, after diuresis, and while being treated with AEDs
+for status epilepticus (see below). He had no evidence of frank
+sepsis (lactate 0.7 and stable, leukocytosis improved initially
+without antibiotics, LFTs WNL, afebrile), although his right LE
+showed erythema and warmth c/w cellulitis as well as purulent
+drainage from the surgical wound. A wound culture grew
+Pseudomononas with sensitivities as noted above. During his MICU
+stay, the patient was treated with Vanc and Cefepime (plan for 3
+week course, ending on [**3074-1-2**] and [**3073-12-30**], respectively). The
+pt's most prolonged period of hypotension occurred in the
+setting of AED titration (with Keppra, Dilantin, and Phenobarb).
+He had to be maintained on Levophed while these drugs were
+initiated and titrated. He was also started on stress-dose
+steroids (hydrocort 50mg Q6hr), given concern for hypoadrenalism
+[**1-27**] chronic steroid use. Hydrocort was weaned and patient was
+weaned from pressor support, however intermittently reguired
+pressor support throughout MICU course. Pressors were removed
+after patient made CMO.
+.
+# Status Epilepticus: After being re-intubated on [**12-10**], the
+pt's mental status did not seem to recover. Prior to
+(re-)intubation, his mental status had been waxing and [**Doctor Last Name 681**],
+but at times the pt was alert and able to follow commands.
+After intubation, he was very somnolent, unresponsive to all but
+painful stimuli. During the weekend of [**1-3**], the pt was
+noted to have  myoclonic jerks of his extremities. Given this,
+an EEG was obtained, which showed runs of rhythmic activity
+suggestive of non-convulsive seizures (see report above). Per
+Neurology's recommendations, Keppra, then Dilantin and, lastly,
+Phenobarbital were started. Phenobarbital was bolused with the
+goal level of 25-30. Eventually status epilepticus resolved.
+Patient continued to be monitored during MICU course on
+continuous EEG video monitoring. Further during MICU course he
+underwent an LP (WBC 1, RBC 1, 0% polys, 52% lymphs) and an MRI
+brain (no epileptogenic focus), which were both essentially
+unrevealing of an etiology for the pt's seizures. CSF protein
+electrophoresis showed no oligoclonal banding. HSV, VZV, and [**Male First Name (un) 2292**]
+negative.
+.
+# Acidosis: The pt's bicarb gradually trended downwards in the 7
+days between [**12-12**] to [**12-20**] (28 -> 15). Gap = 10, albumin = 2.1.
+Lactate WNL (1.2). This was likely a mixed acidosis??????with the
+pt's chronic respiratory acidosis,  LE ischemia, septic
+physiology from his wound infection, and uremia [**1-27**] ARF (see
+below) all contributing.  He was cont'd on Vanc/Cefepime, stress
+dose steroids, and weaned off of pressors.  Renal was consulted,
+who initiated CVVH, with improvement in acidosis. Eventually
+hemodialysis was attempted. However prior to permanent HD line
+placement the patient was made CMO given very poor prognosis and
+likely anoxic brain injury and unlikely return of meaningful
+mental status.
+.
+# Acute renal failure: The pt had rising Cr (peak 1.6 on [**12-20**])
+and decreasing urine output over [**12-16**] to [**12-20**]. Urine lytes
+showed FeNa = 2, which is non-specific but c/w ATN; rare Eos and
+also muddy brown casts in urine. Suspect ATN, given preceding
+hypotensive episodes. Renal was consulted, and initiated the pt
+on CVVH. Patient eventually underwent dialysis however given
+very poor prognosis permanent HD line was not placed and patient
+made CMO.
+.
+# PVD s/p R BKA, distant L BKA - His right LE wound cxr grew
+Pseudomonas ([**12-6**]), resistant to Meropenem, sensitive to
+Cefepime. Vascular surgery followed the patient and he was
+continued on aspirin and plavix.
+.
+# Atrial fibrillation - After transfer to the MICU, his rate
+controlled with amiodarone 200mg Qd s/p amiodarone loading (IV
+loading, then 400mg x 7 days) and metoprolol 12.5mg TID.
+.
+# CAD - Continue aspirin, plavix.
+.
+# Systolic CHF: Held diuresis now given hypotension s/p diuresis
+with lasix on [**12-11**]. Daily weights were followed. Eventually
+CVVH was started and patient was bridged to HD as above.
+
+
+Medications on Admission:
+Plavix 75 mg mg qd
+RISS
+Synthroid 88mcg QD
+lisinopril 5mg QD
+glucophage 500mg QD
+lopressor 25mg [**Hospital1 **]
+prednisone 5mg QD
+flomax 0.4mg QD
+effexor xr 75mg QD
+albuterol neb PRN
+ipratropium neb PRN
+prilosec 40mg QD
+Kdur 40mEq [**Hospital1 **]
+Vit B12 SQ QSun
+colace 100mg [**Hospital1 **]
+ferrous sulfate 325mg QD
+lasix 20mg QD
+calcium carbonate 500mg [**Hospital1 **] (cellcept 1000mg [**Hospital1 **] held for
+anemia)
+procrit Qweek
+
+At transfer to MICU:
+Warfarin 5 mg PO/NG
+HYDROmorphone (Dilaudid) 0.125 mg IV Q3H:PRN pain
+Furosemide 20 mg IV ONCE
+Acetaminophen 325-650 mg PO/NG Q6H:PRN pain or fever
+Insulin DRIP
+Ipratropium Bromide MDI 6 PUFF IH QID
+Albuterol Inhaler [**6-4**] PUFF IH Q6H  12
+Propofol 5-20 mcg/kg/min IV DRIP TITRATE TO effect
+Metoprolol Tartrate 6.25 mg PO/NG [**Hospital1 **]
+Amiodarone 400 mg PO/NG [**Hospital1 **] Duration: 7 Days  [**12-5**] @ 0735 View
+Famotidine 20 mg PO/NG Q12H  [**12-5**] @ 0735 View
+TraMADOL (Ultram) 50 mg PO Q6H:PRN pain  [**12-5**] @ 0735 [**Name6 (MD) **]
+Warfarin  MD to order daily dose PO/NG DAILY16  [**12-5**] @ 0735
+View
+Gabapentin 600 mg PO/NG TID  [**12-5**] @ 0735 View
+Aspirin 81 mg PO/NG DAILY  [**12-5**] @ 0735 View
+Venlafaxine XR 75 mg PO DAILY  [**12-5**] @ 0735 View
+Tamsulosin 0.4 mg PO HS  [**12-5**] @ 0735 View
+PredniSONE 5 mg PO/NG DAILY  [**12-5**] @ 0735 View
+Levothyroxine Sodium 88 mcg PO/NG DAILY  [**12-5**] @ 0735 View
+Clopidogrel 75 mg PO/NG DAILY
+
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+
+
+
+DOC CLASS
