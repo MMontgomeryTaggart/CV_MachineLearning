@@ -1,15 +1,12 @@
+import pickle
 import numpy as np
 import pandas as pd
-import pickle
-from Scoring import printScores
-import re
-import nltk
-from nltk import WordNetLemmatizer
 
 TRAINING_PATH = "/Users/shah/Box Sync/MIMC_v2/Corpus_TrainTest/"
 TRAINING_TRUTH_PATH = "/Users/shah/Box Sync/MIMC_v2/Gold Standard/DocumentClasses.txt"
 CORPUS_PATH = "/Users/shah/Developer/ShahNLP/TestNotes/Notes/"
 TRUTH_PATH = "/Users/shah/Developer/ShahNLP/TestNotes/TestDocumentClasses.txt"
+
 
 def getNotesAndClasses(corpusPath, truthPath, balanceClasses=False):
     truthData = pd.read_csv(truthPath, dtype={"notes": np.str, "classes": np.int}, delimiter='\t',
@@ -34,28 +31,14 @@ def getNotesAndClasses(corpusPath, truthPath, balanceClasses=False):
         noteNames = allNotes
         noteClasses = labels
 
-    noteBodies = []
 
-    for name in noteNames:
-        with open(corpusPath + name + ".txt") as inFile:
-            noteBodies.append(inFile.read())
-    return np.array(noteBodies), noteClasses.astype(int)
+    return np.array(noteNames), noteClasses.astype(int)
 
-def tokenizer(text):
-    tokens = [word for sent in nltk.sent_tokenize(text) for word in nltk.word_tokenize(sent)]
-    filtered_tokens = [token for token in tokens if re.search('(^[a-zA-Z]+$)', token)]
-    a = []
-    for i in filtered_tokens:
-        a.append(WordNetLemmatizer().lemmatize(i, 'v'))
-    return a
-    #return filtered_tokens
 
-notes, labels = getNotesAndClasses(CORPUS_PATH, TRUTH_PATH, balanceClasses=False)
+trainingNames, trainingClasses = getNotesAndClasses(TRAINING_PATH, TRAINING_TRUTH_PATH)
+trainingDSNames, trainingDSClasses = getNotesAndClasses(TRAINING_PATH, TRAINING_TRUTH_PATH, balanceClasses=True)
+testNames, testClasses = getNotesAndClasses(CORPUS_PATH, TRUTH_PATH)
 
-model = pickle.load(open("./SerializedModels/SVMFinal.pkl"))
-
-predictions = model.predict(notes)
-
-pickle.dump(predictions, open("./ErrorAnalysis/Predictions/SVM_DS_Test_Predictions.pkl", 'wb'))
-printScores(labels, predictions)
-
+pickle.dump({"names" : trainingNames, "classes" : trainingClasses}, open("./Predictions/TrainingNamesAndClasses.pkl", "wb"))
+pickle.dump({"names" : trainingDSNames, "classes" : trainingDSClasses}, open("./Predictions/TrainingDSNamesAndClasses.pkl", "wb"))
+pickle.dump({"names" : testNames, "classes" : testClasses}, open("./Predictions/TestNamesAndClasses.pkl", "wb"))

@@ -10,7 +10,8 @@ from sklearn.ensemble import RandomForestClassifier,ExtraTreesClassifier
 from nltk.stem.wordnet import WordNetLemmatizer
 from Scoring import printScores
 
-TRAINING_PATH = ""
+TRAINING_PATH = "/Users/shah/Box Sync/MIMC_v2/Corpus_TrainTest/"
+TRAINING_TRUTH_PATH = "/Users/shah/Box Sync/MIMC_v2/Gold Standard/DocumentClasses.txt"
 CORPUS_PATH = "/Users/shah/Developer/ShahNLP/TestNotes/Notes/"
 TRUTH_PATH = "/Users/shah/Developer/ShahNLP/TestNotes/TestDocumentClasses.txt"
 
@@ -76,14 +77,14 @@ cachedStopWords = stopwords.words("english") + ['age','ago','also','already',
                                                ]
 
 
-corpusList, labels = getNotesAndClasses(CORPUS_PATH, TRUTH_PATH)
-vocab = pkl.load(open("./SerializedModels/ExtraTreesVocabularyNotDownsampledEnglishStopOnly.pkl", "rb"))
+corpusList, labels = getNotesAndClasses(CORPUS_PATH, TRUTH_PATH, balanceClasses=False)
+vocab = pkl.load(open("./SerializedModels/ExtraTreesVocabularyEnglishStopOnlyFinal.pkl", "rb"))
 print("Number of vocab terms: %i" % len(vocab))
 
 ### before one
 
 cv = TfidfVectorizer(lowercase=True,
-                     ngram_range=(1, 3), preprocessor=None, stop_words=cachedStopWords,
+                     ngram_range=(1, 3), preprocessor=None, stop_words="english",
                      strip_accents=None, tokenizer=tokenize, vocabulary=vocab)
 X = cv.fit_transform(corpusList)
 print(X.shape)
@@ -119,8 +120,9 @@ print(X.shape)
 
 
 
-model = pkl.load(open("./SerializedModels/ExtraTreesNotDownsampledEnglishStopOnly.pkl", 'rb'))
+model = pkl.load(open("./SerializedModels/ExtraTreesEnglishStopOnlyFinal.pkl", 'rb'))
 y_pred = model.predict(X)
 
+pkl.dump(y_pred, open("./ErrorAnalysis/Predictions/ET_DS_Test_Predictions.pkl", 'wb'))
 
 printScores(Y, y_pred)

@@ -4,11 +4,15 @@ import numpy as np
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 import keras
+import pickle
 from Scoring import printScores
 
+TRAINING_PATH = "/Users/shah/Box Sync/MIMC_v2/Corpus_TrainTest/"
+TRAINING_TRUTH_PATH = "/Users/shah/Box Sync/MIMC_v2/Gold Standard/DocumentClasses.txt"
+
 MAX_NUM_WORDS = 2000
-CORPUS_PATH = "/Users/shah/Developer/ShahNLP/TestNotes/Notes/"
-TRUTH_PATH = "/Users/shah/Developer/ShahNLP/TestNotes/TestDocumentClasses.txt"
+TEST_CORPUS_PATH = "/Users/shah/Developer/ShahNLP/TestNotes/Notes/"
+TEST_TRUTH_PATH = "/Users/shah/Developer/ShahNLP/TestNotes/TestDocumentClasses.txt"
 MODEL_PATH = "./SerializedModels/CNNNotDownsampledFinal.h5"
 GOLD_STANDARD_PATH = "/Users/shah/Box Sync/MIMC_v2/Gold Standard/DocumentClasses.txt"
 CORPUS_TRAIN_PATH = "/Users/shah/Box Sync/MIMC_v2/Corpus_TrainTest/"
@@ -49,7 +53,7 @@ myPath = os.path.dirname(os.path.realpath(__file__))
 # runName = "Batch.8.Epochs.12"
 # os.makedirs(baseDir + runName,)
 
-cleanTexts, labels = getNotesAndClasses(CORPUS_PATH, TRUTH_PATH)
+cleanTexts, labels = getNotesAndClasses(CORPUS_TRAIN_PATH, GOLD_STANDARD_PATH, balanceClasses=False)
 trainTexts, trainLabels = getNotesAndClasses(CORPUS_TRAIN_PATH, GOLD_STANDARD_PATH, balanceClasses=False)
 #labels = np.where(numberLabels == 1, "Positive", "Negative")
 numLabels = 2
@@ -72,5 +76,7 @@ model = keras.models.load_model(MODEL_PATH)
 
 rawPredictions = model.predict(x_test)
 predictions = np.reshape(np.where(rawPredictions > .5, 1, 0), (rawPredictions.shape[0],))
+
+pickle.dump(predictions, open("./ErrorAnalysis/Predictions/CNN_Training_Predictions.pkl", 'wb'))
 
 printScores(labels, predictions)

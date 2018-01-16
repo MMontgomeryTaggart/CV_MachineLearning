@@ -1,0 +1,21 @@
+Documents were sorted into groups based on their class and whether they contained any of the selected 100 tokens.
+
+classes:
+0: bleeding negative, no vocab words
+1: bleeding negative, with vocab words
+2: bleeding positive, no vocab words
+3: bleeding positive, with vocab words
+
+The indices of the counts correspond with the class index numbers above:
+
+Training:
+Groups Counts: [14, 751, 0, 225]
+
+TrainingDS:
+Groups Counts: [4, 221, 0, 225]
+
+Test:
+Groups Counts: [10, 504, 0, 146]
+
+Test DS:
+Groups Counts: [10, 504, 0, 146]

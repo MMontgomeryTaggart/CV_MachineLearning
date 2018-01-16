@@ -1,0 +1,1471 @@
+DocumentName	TrueDocumentClass	AnnotationText	PredictedAnnotationClass	Target	Modifier(s)	DocLength	AnnotationStart	AnnotationEnd
+19493	0
+574243	0
+44122	0	Multiple mechanical falls leading to subarachnoid hemorrhage Hysterectomy (	1	hemorrhage	[]	22055	2415	2490
+44122	0	Hypothyroid Depression GIB secondary to peptic ulcer/angioectasia	1	GIB	[]	22055	2639	2704
+44122	0	No evidence of retroperitoneal hematoma. 	0	hematoma	[u'No evidence']	22055	7744	7785
+368139	0
+10513	0
+612509	0
+35789	0
+490826	0	# hx GI bleed:	0	bleed	[u'hx']	9312	8122	8136
+43273	0
+403203	0
+706163	0
+590053	1	Hep subq, PPI for Hx GIB. 	0	GIB	[u'Hx']	6513	6021	6048
+353549	0
+48906	0
+636610	1	Last Hct 27, stool guaiac positive. . 	1	guaiac positive	[]	9781	8768	8812
+44607	0
+497414	1
+343866	0
+25060	0	Hx of subdural hematoma after being mugged (approximately 10 years ago) ?	0	hematoma	[u'Hx of', u'ago']	16141	2664	2737
+25060	0	Prior GIB history per records from CCC (patient denies) s/p double hernia repair . 	0	GIB	[u'Prior']	16141	2763	2846
+25060	0	No hematoma.	0	hematoma	[u'No']	16141	4275	4287
+25060	0	Thoracentesis on last admission removed 2L fluid which was bloody exudate.	1	bloody	[]	16141	9874	9948
+581589	0
+698772	1	Chief Complaint: Hematemesis and [**Last Name (un)	1	Hematemesis	[u'Chief Complaint:']	8012	0	50
+698772	1	**] 82 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA s/p repair, who was transferred from OSH with lower GI bleed. 	0	bleed	[u'history of']	8012	54	196
+698772	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 82 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA s/p repair, who was transferred from OSH with lower GI bleed. 	1	MELENA	[]	8012	5867	6059
+698772	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 82 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA s/p repair, who was transferred from OSH with lower GI bleed. 	1	BLEED	[]	8012	5867	6059
+698772	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 82 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA s/p repair, who was transferred from OSH with lower GI bleed. 	1	BLEED	[]	8012	5867	6059
+698772	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 82 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA s/p repair, who was transferred from OSH with lower GI bleed. 	0	bleed	[u'history of']	8012	5867	6059
+698772	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 82 year old male with a history of CAD (S/P CABG), ESRD on HD, AAA s/p repair, who was transferred from OSH with lower GI bleed. 	1	GIB	[]	8012	5867	6059
+698772	1	GI Bleed Hemodynamically stable.	1	Bleed	[]	8012	6059	6094
+698772	1	- Attempt SBT again after dialysis - Extubate if passed SBT CAD Stable - Hold ASA, BB in the setting of GI bleed - Continue statin Back and hip pain - Continue tramadol, oxazepam as BP tolerates. 	0	bleed	[u'if']	8012	6848	7068
+25698	0
+605953	0
+54289	0
+703226	0
+730388	1	52 yo male with ALS, chronically vent dependent with G tube, presents with severe constipation, hematemesis and sepsis # Sepsis:	1	hematemesis	[u'presents with']	9102	6031	6165
+730388	1	Also, consider c.diff - Lactulose 30 ml QID, titrate to BM - prn enemas - NPO - appreciate surgery recs - monitor abdominal exam # Hematemesis: 	0	Hematemesis	[u'monitor']	9102	7418	7581
+730388	1	Has history of bleed around G tube site.	0	bleed	[u'history of']	9102	7581	7621
+487384	0	- continue to trend platelets - platelet count not low enough for bleeding complications at this point but will be cautious of complications if platelet count continues to drop # Bioprosthetic Mitral Valve: Goal INR	0	bleeding	[u'not']	8507	7621	7848
+564485	0
+561241	0
+441679	1	Small hemoperitoneum overlying liver 	1	hemoperitoneum	[]	5679	665	705
+441679	1	Potassium Phosphate 24 Hour Events: Allergies: Ticlid (Oral) (Ticlopidine Hcl) melena; Lipitor (Oral) (Atorvastatin Calcium) hx of causing g Last dose of Antibiotics: Infusions: Other ICU medications: Famotidine (Pepcid) -	1	melena	[]	5679	1239	1491
+441679	1	Ecchymosis over L flank 	1	Ecchymosis	[]	5679	3272	3299
+441679	1	x 3), Follows simple commands, Moves all extremities Labs / Radiology 213 mg/dL 1.2 mg/dL 21 mEq/L 4.0 mEq/L 30 mg/dL 108 mEq/L 139 mEq/L 26.6 % [image002.jpg] [**2578-11-27**] 06:47 PM Hct 26.6 Creatinine 1.2 Troponin T 0.14 Glucose 213 Other labs: PT / PTT / INR:13.6/20.9/1.2, CK / CK-MB / Troponin T:166/10/0.14, Ca:8.2 mg/dL, Mg:1.9 mg/dL, PO4:3.5 mg/dL Assessment and Plan ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING), TRAUMA, S/P Assessment and Plan:	1	BLEEDING	[]	5679	3545	4128
+441679	1	x 3), Follows simple commands, Moves all extremities Labs / Radiology 213 mg/dL 1.2 mg/dL 21 mEq/L 4.0 mEq/L 30 mg/dL 108 mEq/L 139 mEq/L 26.6 % [image002.jpg] [**2578-11-27**] 06:47 PM Hct 26.6 Creatinine 1.2 Troponin T 0.14 Glucose 213 Other labs: PT / PTT / INR:13.6/20.9/1.2, CK / CK-MB / Troponin T:166/10/0.14, Ca:8.2 mg/dL, Mg:1.9 mg/dL, PO4:3.5 mg/dL Assessment and Plan ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING), TRAUMA, S/P Assessment and Plan:	1	BLOOD LOSS	[]	5679	3545	4128
+441679	1	x 3), Follows simple commands, Moves all extremities Labs / Radiology 213 mg/dL 1.2 mg/dL 21 mEq/L 4.0 mEq/L 30 mg/dL 108 mEq/L 139 mEq/L 26.6 % [image002.jpg] [**2578-11-27**] 06:47 PM Hct 26.6 Creatinine 1.2 Troponin T 0.14 Glucose 213 Other labs: PT / PTT / INR:13.6/20.9/1.2, CK / CK-MB / Troponin T:166/10/0.14, Ca:8.2 mg/dL, Mg:1.9 mg/dL, PO4:3.5 mg/dL Assessment and Plan ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING), TRAUMA, S/P Assessment and Plan:	1	HEMORRHAGE	[]	5679	3545	4128
+441679	1	Rec'd ntg x 3, trop elevated to 0.14, not cantidate for anticoagulation given active bleeding, on metoprolol 5 mg IV q6. 	0	bleeding	[u'not']	5679	4389	4514
+44515	1	The patient had no nausea, vomiting, abdominal pain, or hematemesis. 	0	hematemesis	[u'no']	6853	856	926
+44515	1	A tagged red blood cell scan showed an active hepatic flexure bleed. 	1	bleed	[]	6853	1263	1333
+44515	1	[**10-21**] showed an active hepatic flexure bleed. 	1	bleed	[]	6853	3610	3663
+44515	1	**] showed multiple diverticula in the entire colon, three polyps in the ascending colon (status post polypectomy), and no active bleeding. 	0	bleeding	[u'no']	6853	3986	4127
+44515	1	GASTROINTESTINAL BLEED ISSUES: 	1	BLEED	[]	6853	4256	4288
+44515	1	Gastrointestinal bleed localized to the hepatic flexure with a tagged red blood cell scan. 	1	bleed	[]	6853	4288	4380
+44515	1	The family declined any surgery or other heroic measures, and she continued to have bleeding after transfer out of the Intensive Care Unit, requiring four to six transfusions per day. 	1	bleeding	[]	6853	4639	4824
+44515	1	The bleeding had slowed by [	1	bleeding	[]	6853	4824	4852
+44515	1	After having a family discussion with both of her daughters and the attending, her daughters understood that she would likely continue to bleed at home but there may be no other noninvasive interventions possible in the hospital. 	0	bleed	[u'possible']	6853	4865	5096
+44515	1	The patient's blood pressure medications were held in the setting of an active bleed. 	1	bleed	[]	6853	5795	5882
+44515	1	The patient to remain do not resuscitate/do not intubate, and her family understood her risk at home of continued bleeding. 	0	bleeding	[u'not']	6853	6079	6204
+629391	0
+18394	0
+591	0	There is no acute intracranial hemorrhage. 	0	hemorrhage	[u'no']	20532	8755	8798
+591	0	No acute intracranial hemorrhage. 	0	hemorrhage	[u'No']	20532	9318	9352
+591	0	Stools were guaiac positive.	1	guaiac positive	[]	20532	12642	12670
+591	0	Head CT showed no acute intracranial hemorrhage but did show a new and more conspicuous area of left frontal hypodensity, which may represent acute infarction.	0	hemorrhage	[u'no']	20532	14702	14861
+1086	0
+323594	0
+6294	0	She was monitored in the Intensive Care Unit overnight without any evidence of bleeding. 	0	bleeding	[u'without']	3385	1640	1730
+17559	0
+49860	1	Emergent mediastinal exploration and evacuation of pericardial tamponade and control of hemorrhage. 	1	hemorrhage	[]	11007	574	679
+24833	0	Open abdomen developed small but persistent area of bleeding lateral and slightly superior to the fistula.	1	bleeding	[]	15458	13673	13779
+433201	0
+460114	0
+407656	1	- No role for valvuloplasty at this time until acute vegetation resolved # Respiratory failure: Likely multifactorial with contributions from severe COPD, atelectasis, hemorrhage, edema and HAP s/p full course of vanc/zosyn. 	0	hemorrhage	[u'No']	8466	6008	6246
+407656	1	Possible sources include continued bloody secretions, guaiaic positive stools, hemolysis from valve vegetation. 	0	bloody	[u'Possible']	8466	7128	7244
+682566	0
+420523	1	She was being treated with heparin for her SVC, with PTT in the 150s developed spontaneous bleeding everywhere 24 Hour Events: BLOOD CULTURED	1	bleeding	[]	7408	371	519
+420523	1	Her biliary drain initially drained bilious then bloody fluid without change in her abdominal exam.	1	bloody	[]	7408	1168	1270
+420523	1	She was also noted to have dark red blood, coffee grounds and sm clots via ogt, in setting coagulopathy with PTT of 150s on heparin which she was getting for SVC syndrome. 	1	coffee ground	[]	7408	1271	1452
+420523	1	Given coffee grounds, tube feeds held and NPH while NPO.	1	coffee ground	[]	7408	1515	1574
+54038	0	Groin: no hematoma Neuro: sedated on intubation Pertinent Results: WBC-10.9 RBC-3.98*	0	hematoma	[u'no']	9774	1916	2003
+673871	0	Not on anti-coagulation given history of severe GI bleed. 	0	bleed	[u'history of']	10007	7495	7557
+29132	0
+2540	1	Guaiac + with brown stool.	1	Guaiac +	[]	12866	1344	1370
+2540	1	HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, MMM, OP Clear 	0	epistaxis	[u'no']	12866	2345	2425
+2540	1	No ecchymoses. 	0	ecchymoses	[u'No']	12866	3084	3102
+2540	1	Other etiologies: sepsis, hypovolemia from acute bleed.	1	bleed	[]	12866	6413	6468
+2540	1	CTA report is stable AAA, no acute bleed, but stool brown and guiac positive in ED.	0	bleed	[u'no']	12866	6624	6707
+2540	1	CTA report is stable AAA, no acute bleed, but stool brown and guiac positive in ED.	0	guiac positive	[u'no']	12866	6624	6707
+2540	1	GI was consulted and performed EGD for concern for GI bleed, that only showed gastritis. 	1	bleed	[]	12866	7119	7208
+2540	1	There was no clear source of bleeding found.	0	bleeding	[u'no']	12866	11806	11850
+2540	1	You will need to have a colonoscopy done in approximately one month to evaluate for sources of bleeding. 	1	bleeding	[]	12866	12029	12135
+572526	0	No sign of active bleeding.	0	bleeding	[u'No']	6534	4903	4930
+444593	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 	1	GIB	[]	7060	6187	6244
+444593	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 	1	MELENA	[]	7060	6187	6244
+444593	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 	1	BLEED	[]	7060	6187	6244
+444593	1	GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) 	1	BLEED	[]	7060	6187	6244
+444593	1	No e/o acute clinically significant bleeding.	0	bleeding	[u'No e/o']	7060	6369	6417
+444593	1	Most likely she has some degree of gastritis and inflammation in the setting of her acute presentation accounting for her emesis being guaiac positive.	1	guaiac positive	[]	7060	6418	6575
+476143	0	CT with improved subdural hematoma on L -on thiamine and MVI #hypoglycemia -given	1	hematoma	[]	6955	4693	4783
+52305	0
+412914	0
+494024	1	I would emphasize and add the following points: 63F dCHF, severe PHTN s/p PFO closure, AF, DM, UC, LGIB, falls at home. 	1	LGIB	[]	1313	166	295
+494024	1	Soft +BS. 2+ edema c large ecchymosis LLE.	1	ecchymosis	[]	1313	464	506
+494024	1	Agree with plan to manage blood loss anemia with PPI, serial HCT q6h, GI eval and plain films of L leg; no e/o rapid GIB or UC flare.	1	blood loss	[]	1313	618	754
+494024	1	Agree with plan to manage blood loss anemia with PPI, serial HCT q6h, GI eval and plain films of L leg; no e/o rapid GIB or UC flare.	0	GIB	[u'no e/o']	1313	618	754
+609248	0
+10138	1	The patient's immediate postoperative course was complicated by brisk bleeding via her chest tubes. 	1	bleeding	[]	8054	3624	3725
+607397	0
+356771	1	Chief Complaint: GIB,	1	GIB	[u'Chief Complaint:']	9265	10	31
+356771	1	Absent Musculoskeletal: Muscle wasting Skin: Warm, multiple, confluent ecchymoses on LE, back Neurologic:	1	ecchymoses	[]	9265	3184	3299
+356771	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) RESPIRATORY FAILURE, ACUTE (	1	BLEED	[]	9265	4866	4941
+356771	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) RESPIRATORY FAILURE, ACUTE (	1	BLEED	[]	9265	4866	4941
+356771	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) RESPIRATORY FAILURE, ACUTE (	1	GIB	[]	9265	4866	4941
+356771	1	IMPAIRED SKIN INTEGRITY 82 year old female with CAD s/p CABG and AVR, AF, and COPD on home oxygen, presenting from OSH for management of GI bleed, and hypercarbic respiratory failure, with failure to extubate x3 while admitted. 	1	bleed	[]	9265	5004	5244
+356771	1	# Gastrointestinal Bleeding: 	1	Bleeding	[]	9265	6363	6393
+356771	1	c/s obtained who agreeded that bleeding was not an acute issue and emergent scope not indicated inless GIB worsened. 	1	bleeding	[]	9265	6451	6574
+356771	1	c/s obtained who agreeded that bleeding was not an acute issue and emergent scope not indicated inless GIB worsened. 	0	GIB	[u'not']	9265	6451	6574
+356771	1	- Continue to trend plts - Transfuse for platelets < 20 or <50 if actively bleeding - Holding ASA and anticoagulation. 	0	bleeding	[u'if']	9265	7440	7568
+356771	1	Currently not anticoagulated after GI bleed prior to presentation. 	0	bleed	[u'not']	9265	8269	8339
+356771	1	ongoing GI bleed #Back Wound: Patient with stage II ulcer on back from burn injury at 	1	bleed	[]	9265	8611	8703
+609714	0
+700288	0	TFTs stable and SDH resolving. 	1	SDH	[]	5940	3997	4029
+700288	0	# History of SDH: Found on head CT in [	0	SDH	[u'History of']	5940	5081	5121
+24880	0
+617643	0
+103	0	R ICH s/p MVA	1	ICH	[]	17400	2303	2316
+103	0	Given her age and risk of bleeding it was decided to continue her on aspirin 325mg PO Daily, but not to start plavix or warfarin at this time. 	0	bleeding	[u'risk of']	17400	8959	9103
+103	0	Given her age and risk of bleeding it was decided to continue her on aspirin 325mg PO Daily, but not to start plavix or warfarin at this time. 	0	bleeding	[u'risk of']	17400	10651	10795
+103	0	# s/p ICH on the [**2915	1	ICH	[]	17400	12913	12937
+103	0	Pt is on Keppra and no clear reason other than previous ICH. 	0	ICH	[u'previous']	17400	12944	13006
+103	0	**2918**] R ICH s/p MVA [	1	ICH	[]	17400	15538	15563
+103	0	Please have the patient evaluated by a neurologist for risk of seizure given that she is on Keppra and there was no clear indication in her history other than distant ICH s/p MVA many years prior. . 	0	ICH	[u'history']	17400	16865	17064
+401656	0
+461745	0
+488963	1	mg/dL, Mg++:1.9 mg/dL, PO4:3.0 mg/dL Assessment and Plan: 84 year old woman with history of GERD, presents with melena. . 	0	melena	[u'history of', u'presents with']	6708	3279	3413
+488963	1	# Melena:	1	Melena	[]	6708	3413	3422
+488963	1	No further melena. 	0	melena	[u'No']	6708	3885	3907
+488963	1	- Hold aspirin for now given above bleeding - Rule-out MI, serial EKGs - PPI as above. 	1	bleeding	[]	6708	4530	4626
+488963	1	- Continue statin, Lisinopril, Metoprolol - Hold Isosorbide given concern for bleeding . 	1	bleeding	[]	6708	4626	4724
+488963	1	- Hold on reversing with Vit K, if pt has additional melena, consider Vit K - D/w GI what INR threshold they will tolerate for EGD (likely < 1.7) . 	0	melena	[u'if']	6708	4901	5061
+488963	1	- Hold lasix given concern for GIB 	1	GIB	[]	6708	5196	5234
+488963	1	84 year-old woman with h/o GERD presented with 3 episodes of melena yesterday. 	0	melena	[u'episodes of', u'h/o']	6708	6062	6145
+488963	1	No stool in MICU, no evidence of further bleeding.	0	bleeding	[u'no evidence']	6708	6415	6465
+585236	0
+568322	0
+654701	0
+25975	1	The decreased hematocrit prompted a CT abdomen and pelvis to be obtained which demonstrated active bleeding from the anterior liver causing a large hematoma in the right upper quadrant with extension of the hematoma into the pelvis.	1	bleeding	[]	11960	3416	3648
+25975	1	The decreased hematocrit prompted a CT abdomen and pelvis to be obtained which demonstrated active bleeding from the anterior liver causing a large hematoma in the right upper quadrant with extension of the hematoma into the pelvis.	1	hematoma	[]	11960	3416	3648
+25975	1	The decreased hematocrit prompted a CT abdomen and pelvis to be obtained which demonstrated active bleeding from the anterior liver causing a large hematoma in the right upper quadrant with extension of the hematoma into the pelvis.	1	hematoma	[]	11960	3416	3648
+25975	1	There was evidence of mass backed by the hematoma displacing the liver more centrally.	1	hematoma	[]	11960	3649	3735
+25975	1	There was successful coiling of the bleeding vessel using two 0.018/0.5 cm straight coils.	1	bleeding	[]	11960	4221	4311
+25975	1	Parenchymal hematoma is also less likely. 	1	hematoma	[]	11960	4949	4991
+25975	1	On [**2626-3-13**], the patient went to the OR for an end to side roux-en-y hepaticojejunostomy over a 5 French feeding tube; evacuation of subcapsular hematoma performed by Dr. [**First Name8 (NamePattern2)	1	hematoma	[]	11960	6540	6747
+25975	1	*2626-3-13**], end to side roux-en-y hepaticojejunostomy over a 5 French feeding tube and evacuation of subcapsular hematoma.	1	hematoma	[]	11960	10790	10923
+25975	1	Secondary diagnoses subcapsular hematoma of the liver, hypertension. 	1	hematoma	[]	11960	11599	11695
+628470	0	**], Alk Phos / T Bili:258/1.0, Lactic Acid:1.4 mmol/L, Albumin:3.2 g/dL, LDH:157 IU/L, Ca++:8.4 mg/dL, Mg++:2.6 mg/dL, PO4:4.1 mg/dL Assessment and Plan 85 yo M with h/o CHF (EF 20%), acute on chronic (stage IV) renal failure, recent GIB (h/o AVMs), in MICU with shock and respiratory failure. 	0	GIB	[u'h/o']	7084	4090	4406
+47224	1	Repeat EGD to evaluate clips History of Present Illness: 63-year-old gentleman with history of diastolic CHF, chronic kidney disease stage III, hypertension, hyperlipidemia, and history of upper GIB from AV malformation in [**2728**] who presented to the ED on evening of admission with shortness of breath for one week.	0	GIB	[u'history of']	11827	433	755
+47224	1	GI saw the patient and plans for upper endoscopy and colonoscopy tomorrow, as they are uncertain where the bleeding is coming from.	1	bleeding	[]	11827	1750	1881
+47224	1	/o ugi bleed from AV malformation seen on endoscopy 08. 	1	bleed	[]	11827	3205	3261
+47224	1	Acute upper GI bleeding. 	1	bleeding	[]	11827	5950	5976
+47224	1	Presented with dyspnea and found to have HCT of 15.4 in setting of guaiac positive stools and known bleeding disorder (VWD). 	1	bleeding	[u'found to have']	11827	5976	6102
+47224	1	Presented with dyspnea and found to have HCT of 15.4 in setting of guaiac positive stools and known bleeding disorder (VWD). 	1	guaiac positive	[u'found to have']	11827	5976	6102
+47224	1	He underwent EGD which showed bleeding at the duodenal bulb with hemoclip placement. 	1	bleeding	[]	11827	6102	6188
+47224	1	**12-29**] which did not show persistent bleeding. 	0	bleeding	[u'did not show']	11827	6526	6577
+47224	1	An impacted clip was seen, and surgical and GI consultants felt that this could be observed unless bleeding recurred.	1	bleeding	[]	11827	6577	6694
+47224	1	IVIG was initiated in addition to the factor VIII, given persistent bleeding and lack of hemostasis at the GI site.	1	bleeding	[]	11827	7253	7368
+47224	1	Creatinine was variable during admission with ACEI and furosemide held at times given blood loss and use of contrast for angiography. 	1	blood loss	[]	11827	7615	7750
+47224	1	**] VNA Discharge Diagnosis: Gastrointestinal bleeding Acute blood loss anemia 	1	bleeding	[]	11827	9008	9088
+47224	1	**] VNA Discharge Diagnosis: Gastrointestinal bleeding Acute blood loss anemia 	1	blood loss	[]	11827	9008	9088
+47224	1	As you know you were admitted with new anemia, and were found to be bleeding from your duodenum or small intestine.	1	bleeding	[]	11827	9428	9543
+47224	1	You had several procedures, including endoscopies to clip the area that was bleeding and an angiogram to embolize the bleeding. 	1	bleeding	[]	11827	9544	9673
+47224	1	You had several procedures, including endoscopies to clip the area that was bleeding and an angiogram to embolize the bleeding. 	1	bleeding	[]	11827	9544	9673
+47224	1	The combination seemed to help you stop bleeding. 	1	bleeding	[]	11827	9851	9902
+47224	1	Your Lasix and Lisinopril were initially held due to your bleeding.	1	bleeding	[]	11827	10123	10190
+404747	0	He additionally denies shortness of breath, chest pain, bloody stool, diarrhea.	0	bloody	[u'denies']	10064	1643	1725
+602170	1	Microbiology: Urine culture: pending Blood culture pending Assessment and Plan 76 yo male with COPD, MS, DM, CAD s/p ankle repair with post-op hypotension from acute blood loss anemia and UTI/SIRS 1.	1	blood loss	[]	6149	5026	5240
+45449	1	*] is an 81 year old female found to have a newly discovered thoracic aortic aneurysm during preoperative evaluation for possible D&C for questionable uterine bleeding.	0	bleeding	[u'found to have', u'possible']	5925	584	752
+45449	1	Of note, the etiology of her bleeding turned out to be hemorrhoids, not uterine. 	1	bleeding	[]	5925	1100	1182
+45449	1	Subsequent CT scan showed a moderate amount retroperitoneal hemorrhage.	1	hemorrhage	[]	5925	2957	3028
+45449	1	Thoracic Aortic Aneurysm Postop Anemia with Retroperitoneal Bleed 	1	Bleed	[]	5925	5357	5423
+2166	1	hemoptysis s/	1	hemoptysis	[]	18690	253	266
+2166	1	exercise, and possible LHC for progressive shortness of breath who was found to have hemoptysis of 150 cc during RHC after SGC was inflated. 	0	hemoptysis	[u'possible', u'found to have']	18690	598	740
+2166	1	On review of system, pt reports dyspnea on exertion, cough, hemoptysis. . 	1	hemoptysis	[]	18690	1440	1514
+2166	1	She denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, black stools or red stools.	0	bleeding	[u'history of']	18690	1514	1686
+2166	1	She denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, black stools or red stools.	0	red stool	[u'history of']	18690	1514	1686
+2166	1	OTHER PAST MEDICAL HISTORY: asthma COPD Significant Nosebleed	0	bleed	[u'HISTORY']	18690	2419	2480
+2166	1	Exercise portion of the hemodynamic assessment was aborted following development of self-limited hemoptysis, likely due to rupture of a small right upper or middle lobe pulmonary arteriole and secondary pulmonary hemorrhage following inflation of the SGC balloon after the Swan-Ganz catheter had migrated more distally during calibration of the transducer system while the patient was sitting upright on the exercise ergometer and thus not amenable to fluoroscopic evaluation. 	1	hemorrhage	[]	18690	4511	4989
+2166	1	Exercise portion of the hemodynamic assessment was aborted following development of self-limited hemoptysis, likely due to rupture of a small right upper or middle lobe pulmonary arteriole and secondary pulmonary hemorrhage following inflation of the SGC balloon after the Swan-Ganz catheter had migrated more distally during calibration of the transducer system while the patient was sitting upright on the exercise ergometer and thus not amenable to fluoroscopic evaluation. 	1	hemoptysis	[]	18690	4511	4989
+2166	1	If CT is going to be performed for hemoptysis, this finding will be evaluated at that time. 	0	hemoptysis	[u'If']	18690	5409	5501
+2166	1	Possible right neck hematoma.	0	hematoma	[u'Possible']	18690	5504	5533
+2166	1	Partially thrombosed pseudoaneurysm in right middle lobe medial segment pulmonary artery with localized surrounding hemorrhage, but no active extravasation. 2.	1	hemorrhage	[]	18690	5596	5755
+2166	1	During catheterization, she developed hemoptysis of 150 cc after the Swan Ganz Catheter was inflated and was subsequently found to have partially thrombosed pseudoaneurysm in RML pulmonary artery.	1	hemoptysis	[]	18690	8565	8761
+2166	1	THe exercise portion of planned RHC was aborted secondary to hemoptysis as below.	1	hemoptysis	[]	18690	8967	9048
+2166	1	#HEMOPTYSIS:	1	HEMOPTYSIS	[]	18690	9366	9378
+2166	1	Pt had hemoptysis of 150 cc during RHC procedure after the SGC balloon was inflated and was admitted to the CCU for monitoring.	1	hemoptysis	[]	18690	9379	9506
+2166	1	At this time it was decided that coil embolization of the pseudoaneurysm by IR to prevent future bleeds was appropriate.	1	bleed	[]	18690	10441	10561
+2166	1	She also had a small amount of hemoptysis that was attributed to the infarct.	1	hemoptysis	[]	18690	11036	11113
+2166	1	Anticoagulation is being deferred until after results of CTA for risk of hemoptysis. 	0	hemoptysis	[u'risk of']	18690	12957	13044
+578479	1	/O GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) 	1	BLEED	[]	4768	4429	4481
+578479	1	/O GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) 	1	GIB	[]	4768	4429	4481
+578479	1	/O GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) 	1	BLEED	[]	4768	4429	4481
+387603	0
+47166	0	She tolerated this procedure well and received 3,000 Crystalloid and estimated blood loss of 400 and urine output of 640. 	1	blood loss	[]	8752	3835	3958
+564329	0
+341968	0
+22544	0
+389100	0
+533668	1	Gi bleed HPI: 24 Hour Events: 	1	bleed	[]	5129	17	54
+533668	1	man with GI bleed and lower abdominal pain, concern for possible ischemic colitis. 	0	bleed	[u'possible']	5129	4298	4387
+581314	0
+37796	0
+519888	0	: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube Cardiovascular:	0	Epistaxis	[u'No']	6444	956	1029
+47368	0	- acute on chronic SDH,	1	SDH	[]	15455	2845	2868
+47368	0	CT without any evidence of acute bleed.	0	bleed	[u'without']	15455	8554	8593
+47368	0	Coumadin was reinitiated to maintain his INR in the therapeutic range, his INR was monitored and he had no further evidence of bleeding. . 	0	bleeding	[u'no']	15455	8721	8860
+562744	0	The patient was treated conservatively, and was not anticoagulated due to risk of bleeding in the post-operative period. 	0	bleeding	[u'risk of']	9136	5890	6017
+562744	0	No clear bleeding, but patient on heparin post op, so may have surgical bleed. 	0	bleeding	[u'No']	9136	8047	8130
+562744	0	No clear bleeding, but patient on heparin post op, so may have surgical bleed. 	0	bleed	[u'No']	9136	8047	8130
+50467	0	He reports 10 pound weight loss and new onset paroxysmal nocturnal dyspnea and orthopnea as well as episodic loose melena.	1	melena	[]	14089	1192	1314
+50467	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	14089	1917	2129
+50467	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	14089	1917	2129
+50467	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	14089	1917	2129
+50467	0	HTN Atrial fibrilation not on coumadin because of prior SDH dCHF COPD GERD 	0	SDH	[u'prior']	14089	2484	2559
+50467	0	Not on coumadin because of a prior SDH. . 	0	SDH	[u'prior']	14089	10149	10191
+24750	0	There is no acute intracranial hemorrhage, shift of normally midline structures, or hydrocephalus.	0	hemorrhage	[u'no']	8066	4627	4725
+24750	0	No acute intracranial hemorrhage. . 	0	hemorrhage	[u'No']	8066	4926	4962
+7261	0
+625219	0	No intracranial hemorrhage or large vascular territory infarction.	0	hemorrhage	[u'No']	8293	6010	6079
+625219	0	No e/o active bleeding, monitor. 	0	bleeding	[u'No e/o']	8293	7087	7123
+363419	1	GIB: 	1	GIB	[]	5633	4689	4695
+363419	1	Some blood in his mouth and per partner some hematemesis recently. 	1	hematemesis	[]	5633	4695	4766
+363419	1	No signs of active bleeding, HCT stable. 	0	bleeding	[u'No']	5633	4766	4812
+488788	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) SEPSIS WITHOUT ORGAN DYSFUNCTION PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED	1	BLEED	[]	4293	3825	3945
+488788	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) SEPSIS WITHOUT ORGAN DYSFUNCTION PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED	1	BLEED	[]	4293	3825	3945
+488788	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) SEPSIS WITHOUT ORGAN DYSFUNCTION PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED	1	GIB	[]	4293	3825	3945
+36925	0	current Cardiac: (+)ve: None (-)ve: chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope, presyncope General: (+)ve: Difficulty hearing (-)ve: fevers, chills, rigors, dysuria, hematuria, myalgias, joint pains, cough, hemoptysis, black stools, red stools, exertional buttock pain, calf pain 	0	hematuria	[u'(-)']	19776	2427	2775
+36925	0	current Cardiac: (+)ve: None (-)ve: chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope, presyncope General: (+)ve: Difficulty hearing (-)ve: fevers, chills, rigors, dysuria, hematuria, myalgias, joint pains, cough, hemoptysis, black stools, red stools, exertional buttock pain, calf pain 	0	hemoptysis	[u'(-)']	19776	2427	2775
+36925	0	current Cardiac: (+)ve: None (-)ve: chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope, presyncope General: (+)ve: Difficulty hearing (-)ve: fevers, chills, rigors, dysuria, hematuria, myalgias, joint pains, cough, hemoptysis, black stools, red stools, exertional buttock pain, calf pain 	0	red stool	[u'(-)']	19776	2427	2775
+41997	0
+634549	0
+505227	0	*] stim -IVF -guaiac +stools, brown noted -given 2 amps of bicarb -oliguric -abx renally dosed, allopurinol dcd . 	1	guaiac +	[]	7198	1673	1808
+526126	0	- No acute bleed so no indication for reverasal ICU Care Nutrition: NPO given mental status Glycemic Control: Insulin sliding scale Lines: Multi Lumen -	0	bleed	[u'No']	5649	5062	5242
+625849	0
+528417	0
+695801	1	He has clear evidence of multilobar pneumonia and now with persistent hemoptysis 1)Pneumonia-	1	hemoptysis	[u'now with']	5837	4518	4617
+695801	1	With hemoptysis does expand the differential as well. 	1	hemoptysis	[]	5837	4712	4769
+485548	1	Differential-Neuts:94.4 %, Lymph:3.0 %, Mono:2.2 %, Eos:0.3 %, Lactic Acid:1.1 mmol/L, Albumin:3.5 g/dL, LDH:283 IU/L, Ca++:9.7 mg/dL, Mg++:2.0 mg/dL, PO4:2.4 mg/dL Assessment and Plan 63 yo female with severe diastolic CHF, pulm HTN, afib, ulcerative colitis, and recent lower GI bleed p/w acute dyspnea and hypoxia, hypotensive on pressors who was transferred from [**Hospital1 **]. . 	1	bleed	[]	9125	3643	4054
+485548	1	PE possible but no CP, tachycardia (on beta blocker), or hemoptysis; she does have chronic LLE edema, now ?	0	hemoptysis	[u'no']	9125	4433	4543
+485548	1	L>R (same leg as hematoma).	1	hematoma	[]	9125	4543	4573
+485548	1	Pt does have known colitis with guaiac positive stools and planned for outpatient scoping; stable Hct suggests that this is more a slow bleed. 	1	bleed	[]	9125	5632	5785
+485548	1	Pt does have known colitis with guaiac positive stools and planned for outpatient scoping; stable Hct suggests that this is more a slow bleed. 	1	guaiac positive	[]	9125	5632	5785
+485548	1	# Hematochezia/ulcerative colitis:	1	Hematochezia	[]	9125	6183	6217
+485548	1	Recent admission for anemia; thought to have recurrent lower GI angioectasia bleeding. 	0	bleeding	[u'Recent admission']	9125	6218	6309
+485548	1	Pt currently with guaiac positive dark stools but stable Hct since last discharge. 	1	guaiac positive	[]	9125	6309	6398
+485548	1	Hematochezia most c/w LGIB again rather than UGIB.	1	Hematochezia	[]	9125	6398	6448
+485548	1	Hematochezia most c/w LGIB again rather than UGIB.	1	LGIB	[]	9125	6398	6448
+485548	1	Stable with slow ventricular response; not anticoagulated secondary to GI bleeding - hold metoprolol for now in setting of hypotension and pressor . 	0	bleeding	[u'not']	9125	7914	8076
+615963	1	[**12-22**] nafcillin - Coffee ground emesis G + 11 am ; d/cd coumain and heparin.	1	G +	[]	9317	117	202
+615963	1	[**12-22**] nafcillin - Coffee ground emesis G + 11 am ; d/cd coumain and heparin.	1	Coffee ground	[]	9317	117	202
+615963	1	NGT placed after coffee-ground emesis, 200cc output to low suction but had persistent nausea on zofran, so made NPO Hct stable.	1	coffee-ground	[]	9317	719	853
+615963	1	If we decide to do cardioversion sooner than 3 weeks, we may need an echo to check for clot to prevent stroke. - Continue to monitor on telemetry - Beta-blocker for rate control, as above - heparin and coumadin d/c ed because of hematemesis # Leukocytosis.	0	hematemesis	[u'monitor']	9317	6496	6770
+615963	1	- f/u labs # Hematemesis.	1	Hematemesis	[]	9317	6961	6989
+615963	1	- Closely monitor creatinine as we have increased Lasix gtt # Anemia Hct stable; unclear baseline; recent GIB w/ C-scope showing colonic AVM that was cauterized - Trend hematocrit - Guaiac stools . 	0	GIB	[u'monitor']	9317	8264	8508
+20552	0
+576067	0
+561999	0	# Pericardial Effusion: unknown etiology- possibilities include post viral, malignant, autoimmune, infectious, hemorrhagic (unlikely). 	0	hemorrhag	[u'unlikely']	5097	3678	3819
+20411	0
+625996	0
+712806	0
+711290	0
+21439	0
+631098	0
+368694	0
+730695	0
+32906	0
+526383	0
+592869	0
+32194	0
+636872	0	# Anemia: baseline hct~27, at baseline today with signs/symptoms of bleeding. . 	1	bleeding	[]	9207	7921	8010
+54376	0
+14499	0
+622610	0
+356958	0
+54071	0
+373024	1	Patient was initially admitted from OSH with encephalopathy and hepatorenal syndrome requiring dialysis, s/p respiratory failure (extubated [**3-29**]) and s/p paracentesis complicated by intraabdominal bleed, awaiting liver/kidney transplant, desated to day in the setting of unresponsiveness. . 	1	bleed	[]	8500	4784	5102
+373024	1	ongoing infection, electrolye, renal failure, other DD include seizure, IC bleed, IC infection --> continue lactulose, increasing dose today to 60 mg qid to see if she wakes up --> q4 neuro checks . 	1	bleed	[]	8500	6437	6654
+658791	0
+530545	0
+26210	1	Lavage (+) in CCU with coffee grounds.	1	coffee ground	[]	8655	1512	1550
+26210	1	Was monitored for her GI bleed for several days prior to operation due to the need for systemic heparinization. 	0	bleed	[u'monitor']	8655	1645	1759
+26210	1	She needs to stay in house because of the 3VD to monitor - On ASA, statin, BBlocker (titrated down for hypotension) - if BP can tolerate, consider adding on Lisinopril - holding heparin and integrilin in setting of GI bleed . 	0	bleed	[u'if']	8655	4418	4645
+26210	1	**] - low central pressures - probably indicative of GI bleed or dehydration. 	1	bleed	[]	8655	4779	4857
+26210	1	# GIB: - EGD from [**1-15	1	GIB	[]	8655	4921	4946
+26210	1	- probably a result from the combination of heparin, integrilin, ASA, 300mg Plavix - Lavage returned dark blood; Guaiac positive, but no frank blood on glove - patient Hct 34 at OSH; 18.5 here at [**Hospital1 22**] found after cath -	1	Guaiac positive	[]	8655	5209	5442
+26210	1	# Syncope: - likely from GIB/MI .	1	GIB	[]	8655	5635	5668
+23933	0
+723275	0
+21898	0	2+ refelexes throughout, downgoing babinski blt Groin: no hematoma, no bleeding Pertinent Results: 	0	hematoma	[u'no']	7515	1900	2001
+21898	0	2+ refelexes throughout, downgoing babinski blt Groin: no hematoma, no bleeding Pertinent Results: 	0	bleeding	[u'no']	7515	1900	2001
+21898	0	There is no intracranial hemorrhage, mass effect, or shift of normally midline structures.	0	hemorrhage	[u'no']	7515	3686	3776
+704662	1	Other labs: CK / CKMB / Troponin-T:65//, Ca++:8.4 mg/dL, Mg++:1.8 mg/dL Assessment and Plan 80M with HTN, HL, CAD, DM, and PVD s/p right LE stenting complicated by left groin hematoma. . 	1	hematoma	[]	4951	2797	2999
+704662	1	# Groin hematoma: Currently hemodynamically stable. -- Watch for hypotension/tachycardia. -- transfuse	1	hematoma	[]	4951	2999	3107
+704662	1	bleed once stabilized -- continue ASA/Plavix, holding coumadin for now -- ultrasound for aneurysm -- if RP bleed present and continued blood loss, will contact IR, consider bleeding scan. 	1	bleed	[]	4951	3275	3478
+704662	1	bleed once stabilized -- continue ASA/Plavix, holding coumadin for now -- ultrasound for aneurysm -- if RP bleed present and continued blood loss, will contact IR, consider bleeding scan. 	0	bleed	[u'if']	4951	3275	3478
+704662	1	bleed once stabilized -- continue ASA/Plavix, holding coumadin for now -- ultrasound for aneurysm -- if RP bleed present and continued blood loss, will contact IR, consider bleeding scan. 	0	bleeding	[u'if']	4951	3275	3478
+704662	1	bleed once stabilized -- continue ASA/Plavix, holding coumadin for now -- ultrasound for aneurysm -- if RP bleed present and continued blood loss, will contact IR, consider bleeding scan. 	0	blood loss	[u'if']	4951	3275	3478
+633522	1	The patient had 250cc of blood loss during the procedure and was mildly hypotensive. 	1	blood loss	[]	7941	1527	1617
+633522	1	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. 	0	hemoptysis	[u'history of']	7941	3402	3625
+633522	1	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. 	0	bleeding	[u'history of']	7941	3402	3625
+633522	1	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. 	0	red stool	[u'history of']	7941	3402	3625
+583404	0
+640251	0
+423541	1	# Anemia: Hct dropped from 30.9 pre-procedure to 24.8 post-procedure which is out of proportion to what would be an expected blood loss from cath. 	1	blood loss	[]	7593	6217	6371
+423541	1	Concern for retroperitoneal bleed. 	1	bleed	[]	7593	6371	6407
+381821	1	, PO4:2.9 mg/dL Assessment and Plan 62 year old woman with severe diastolic CHF and R systolic HF admitted for hypoxia, diarrhea, and hypotension with long hospital course complicated by volume overload (ongoing), worsening renal failure (ongoing), GI bleeding (stable), PFO repair with endovascular device, transferred from cardiology floor to CCU for Ultrafiltration after failing to increase UOP on aggressive diuretic regimen with very active LGIB overnight. 	1	LGIB	[]	8438	4282	4772
+381821	1	, PO4:2.9 mg/dL Assessment and Plan 62 year old woman with severe diastolic CHF and R systolic HF admitted for hypoxia, diarrhea, and hypotension with long hospital course complicated by volume overload (ongoing), worsening renal failure (ongoing), GI bleeding (stable), PFO repair with endovascular device, transferred from cardiology floor to CCU for Ultrafiltration after failing to increase UOP on aggressive diuretic regimen with very active LGIB overnight. 	1	bleeding	[]	8438	4282	4772
+381821	1	Likely secondary to poor forward flow from heart failure; urine microscopy not suggestive of ATN - UF as above, with aggressive diuresis - No need for dialysis now as electrolytes wnl - Renally dose meds and avoid nephrotoxins - Renal is following # GI BLEEDING: History of UC.	0	BLEEDING	[u'No']	8438	6066	6364
+381821	1	Most likely precipitant for bleed is CHF.	1	bleed	[]	8438	6410	6451
+532963	0	The CT scan is more consistent with alveolar hemorrhage, casting some doubt on the diagnosis of S. pneumonia, although we might expect this patient to have a somewhat atypical presentation given the severity of his underlying lung disease. 	1	hemorrhage	[]	7981	4955	5208
+52172	0
+34013	0	ischemic event/bleed UNDERLYING MEDICAL CONDITION: 77 year old woman	1	bleed	[]	13503	4860	4934
+34013	0	ischemic event/bleed CONTRAINDICATIONS FOR IV CONTRAST: 	1	bleed	[]	13503	4984	5043
+34013	0	No hemorrhage, mass effect, or midline shift. 	0	hemorrhage	[u'No']	13503	5252	5300
+34013	0	Please evaluate for ischemic event or hemorrhage. 	1	hemorrhage	[]	13503	5386	5437
+34013	0	There is no hemorrhage, edema, mass effect, or shift of normally midline structures.	0	hemorrhage	[u'no']	13503	5832	5916
+40643	0	No retroperitoneal hematoma. 	0	hematoma	[u'No']	11958	4701	4730
+40643	0	Geriatrics was consulted and felt this was likely due to her colonic stricture that was diagnosed a year prior after a lower GI bleed episode.	0	bleed	[u'prior']	11958	8040	8182
+315423	0
+8538	0	No intracranial hemorrhage or other acute intracranial abnormality. 	0	hemorrhage	[u'No']	17044	4014	4082
+554339	0	At this time, risks continue to outweigh benefits for anticoagulation given concern of hemorrhagic transformation/necrosis. 	1	hemorrhag	[]	12112	9351	9481
+388080	0
+4917	1	On surgical eval, a large hematoma was found. 	1	hematoma	[]	12067	4543	4590
+4917	1	Also had ultrasound of site which showed superficial hematoma.	1	hematoma	[]	12067	4774	4836
+4917	1	[**Name (NI) 3623**] Pt initially had large hct drop on admission secondary to fluid administration and blood loss. 	1	blood loss	[]	12067	5426	5543
+4917	1	On day of admission, u/s performed to evaluate hematoma at incision site. 	1	hematoma	[]	12067	5623	5698
+4917	1	Hematoma found, but superficial. 	1	Hematoma	[]	12067	5698	5731
+4917	1	Ortho consulted, they felt that there was no indication for removal of hematoma. 	0	hematoma	[u'no']	12067	5731	5812
+4917	1	IF HCT decreases, ultrasound should be done to verify if pt has bleeding into humerus fx. . 	0	bleeding	[u'if']	12067	5876	5968
+4917	1	If the hematocrit is worsening please check ultrasound of right shoulder for enlarging hematoma. 	0	hematoma	[u'If']	12067	10669	10766
+4917	1	If significantly worsening, please check ultrasound of shoulder to make sure hematoma not worsening. 	0	hematoma	[u'If']	12067	11587	11689
+4660	0	There was no increased in splenic hematoma or evidence of abscess on CT of the abdomen. 	0	hematoma	[u'no']	4911	780	869
+519898	0	Conjunctival edema Ear, Nose, Throat: No(t) Dry mouth, Epistaxis, OG / NG tube Cardiovascular:	0	Epistaxis	[u'No']	7582	1424	1524
+690213	0
+633362	1	Assessment and Plan PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), AORTIC REGURGITATION (AORTIC INSUFFICIENCY), ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING), HYPERGLYCEMIA, HYPOTENSION (NOT SHOCK) Assessment and Plan: 	1	HEMORRHAGE	[]	6357	4807	5102
+633362	1	Assessment and Plan PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), AORTIC REGURGITATION (AORTIC INSUFFICIENCY), ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING), HYPERGLYCEMIA, HYPOTENSION (NOT SHOCK) Assessment and Plan: 	1	BLEEDING	[]	6357	4807	5102
+633362	1	Assessment and Plan PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), AORTIC REGURGITATION (AORTIC INSUFFICIENCY), ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING), HYPERGLYCEMIA, HYPOTENSION (NOT SHOCK) Assessment and Plan: 	1	BLOOD LOSS	[]	6357	4807	5102
+326541	0
+581720	0
+352974	0
+1305	0	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	10811	1369	1582
+1305	0	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	10811	1369	1582
+1305	0	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	10811	1369	1582
+23750	1	p feeding jejunostomy respiratory failure ARDS aspiration pneumonitis pulmonary fibrosis rapid atrial fibrillation blood loss anemia requiring RBC transfusion depression anxiety Discharge Condition: requiring mechanical ventilation. 	1	blood loss	[]	7465	6877	7113
+42281	0
+518761	0
+50954	1	He required pressors and fluid for blood pressure management and returned to the operating room on post operative day one for bleeding and removal of clot.	1	bleeding	[]	11319	7349	7504
+712347	0
+672017	0	# AFib: continue amiodarone; not on anticoagulation given h/o GI bleed . 	0	bleed	[u'h/o']	8568	7591	7671
+672017	0	# h/o DVTs: - monitor exam given h/o line-associated and unprovoked DVTs in the past - not on anticoagulation given h/o GI bleed . 	0	bleed	[u'h/o']	8568	7732	7878
+633229	1	, GI bleed HPI: 	1	bleed	[]	12625	30	52
+633229	1	BRBPR, hct of 27, creatinine 3.2 & INR of 10.5.	1	BRBPR	[]	12625	409	459
+633229	1	Retained fluids in stomach There was bilious fluid in the duodenum and no evidence of bleeding.	0	bleeding	[u'no evidence']	12625	6404	6502
+633229	1	**]: No fracture, hemorrhage, edema.	0	hemorrhage	[u'No']	12625	6572	6608
+633229	1	[**5-7**] on coumadin who was found unresponsive and bradycardic, INR of 10 and active upper/lower GI bleeds who was transferred from [**Hospital 2384	1	bleed	[]	12625	7464	7620
+633229	1	Unclear if underlying event was hypotension vs aspiration of bloody gastric materials as bloody/brown secretions coming from mouth and some frank blood being suctionned from ETT.	0	bloody	[u'vs']	12625	7749	7933
+633229	1	Unclear if underlying event was hypotension vs aspiration of bloody gastric materials as bloody/brown secretions coming from mouth and some frank blood being suctionned from ETT.	0	bloody	[u'vs']	12625	7749	7933
+633229	1	Another possibility is pulm hemorrhage. 	1	hemorrhage	[]	12625	7934	7978
+633229	1	Pt is hypovolemic likely due to GI bleed although also possible additional component of sepsis given possible aspiration event. 	0	bleed	[u'possible', u'possible']	12625	8357	8493
+633229	1	Elevated lactate at 3 on ABG and bloody secretions from mouth and ETT. 	1	bloody	[]	12625	8493	8570
+633229	1	# GI bleed/elevated INR: Pt with known diverticulosis and internal hemorrhoids who presented after being found down with blood around her mouth, INR of 10 and BRBPR now s/p 4units FFP with ongoing hypotension. 	1	bleed	[]	12625	8723	8942
+633229	1	# GI bleed/elevated INR: Pt with known diverticulosis and internal hemorrhoids who presented after being found down with blood around her mouth, INR of 10 and BRBPR now s/p 4units FFP with ongoing hypotension. 	1	BRBPR	[]	12625	8723	8942
+633229	1	10mg now - f/u GI recs likely EGD today - maintain CVL, PIV and PICC - maintain active type and cross for 4units - t/b general surgery re upper GI bleed . 	1	bleed	[]	12625	9141	9314
+633229	1	EKGs appear at baseline, troponin leak likely due to strain in setting hypotension, bradycardia and GI bleed. 	1	bleed	[]	12625	9339	9455
+633229	1	- continue cycling CE - holding ASA & Coumadin due to GI bleed - monitor EKG daily - holding BB & Statin due to GI bleed . 	0	bleed	[u'monitor']	12625	9455	9593
+633229	1	- continue cycling CE - holding ASA & Coumadin due to GI bleed - monitor EKG daily - holding BB & Statin due to GI bleed . 	1	bleed	[]	12625	9455	9593
+633229	1	Pt is hypovolemic due to GI bleed but may also have a component of sepsis given possible aspiration. 	0	bleed	[u'possible']	12625	9698	9803
+633229	1	Pt with active GI bleed complicated by elevated INR - holding coumadin and reversing INR with FFP/Vitamin K - hold aspirin - hold BB, currently bradycardic/hypotensive . 	1	bleed	[]	12625	10329	10514
+633229	1	# CT C-spine: question of soft tissue swelling per radiology, clear asymmetry and possible neck hematoma. 	0	hematoma	[u'possible']	12625	10514	10624
+633229	1	this is an 88 yo woman who is in the MICU with a GI bleed in the setting of a INR of 10. 	1	bleed	[]	12625	11982	12075
+633229	1	Has central access in place will keep groin line due to question of neck hematoma. 	1	hematoma	[]	12625	12075	12162
+401764	0
+27590	0	These findings may be due to increased pericardial effusion and mediastinal bleeding.	1	bleeding	[]	7762	2621	2706
+46906	1	**] analysis of the right groin demonstrate a 5 x 5 x 2 cm hematoma in the subcutaneous tissues.	1	hematoma	[]	6603	2259	2355
+46906	1	There are small branch vessels around the hematoma but there is no evidence of pseudoaneurysm or fistula formation.	1	hematoma	[]	6603	2356	2471
+46906	1	Right groin hematoma with no evidence of pseudoaneurysm or fistula formation. 	1	hematoma	[]	6603	2564	2644
+24	1	No hemorrhage, shift, mass effect, or evidence of hydrocephalus.	0	hemorrhage	[u'No']	19682	7989	8053
+24	1	The 2 arterial puncture was tamponaded and there was no hematoma.	0	hematoma	[u'no']	19682	12984	13049
+24	1	Coumadin has been discontinued because you had significnant bleeding from arterial punctures from attempted central line insertion.	1	bleeding	[]	19682	19097	19228
+23566	1	**]: EF 45%, no MR, anterolateral, apical and inferoapical akinesis CO 4.6, CI 2.89 LVEDP 33, RA 13, PCW 22, PA 42/21 Left-dominant system Normal LMCA, 95% distal LAD, 70% OM2, small and non-dominant RCA ROS: occasional BRBPR with guaiac positive stool, no hematuria/hemetemesis Past Medical History: 	0	BRBPR	[u'non-']	13020	1630	1934
+23566	1	**]: EF 45%, no MR, anterolateral, apical and inferoapical akinesis CO 4.6, CI 2.89 LVEDP 33, RA 13, PCW 22, PA 42/21 Left-dominant system Normal LMCA, 95% distal LAD, 70% OM2, small and non-dominant RCA ROS: occasional BRBPR with guaiac positive stool, no hematuria/hemetemesis Past Medical History: 	0	hematuria	[u'no']	13020	1630	1934
+23566	1	**]: EF 45%, no MR, anterolateral, apical and inferoapical akinesis CO 4.6, CI 2.89 LVEDP 33, RA 13, PCW 22, PA 42/21 Left-dominant system Normal LMCA, 95% distal LAD, 70% OM2, small and non-dominant RCA ROS: occasional BRBPR with guaiac positive stool, no hematuria/hemetemesis Past Medical History: 	0	guaiac positive	[u'non-']	13020	1630	1934
+23566	1	Anorectal carcinoma with guaiac positive stool Social History: 	1	guaiac positive	[]	13020	2035	2099
+23566	1	M/R/G Lungs - CTAB Abdomen - Soft, NT, no masses or hepatosplenomegaly, active BS Ext - No C/C/E, right groin no hematoma or bruits, +2 d. pedis 	0	hematoma	[u'no']	13020	2615	2760
+23566	1	However, the patient developed a subsequent voluminous GI bleed and required 2 units of blood.	1	bleed	[]	13020	6944	7038
+23566	1	He had reported bright red blood per rectum as an outpatient given his history of rectal carcinoma.	1	blood per rectum	[]	13020	7039	7138
+23566	1	Gastrointestinal bleed -	1	bleed	[]	13020	8241	8265
+23566	1	The morning after presentation on aggrastat and heparin as well as plavix, the patient developed a large acute GIB with bright red blood per rectum.	1	GIB	[]	13020	8266	8414
+23566	1	The morning after presentation on aggrastat and heparin as well as plavix, the patient developed a large acute GIB with bright red blood per rectum.	1	blood per rectum	[]	13020	8266	8414
+23566	1	However, we felt that his GI bleed was either from recurrent anorectal carcinoma or radiation proctitis.	1	bleed	[]	13020	8829	8933
+23566	1	- The patient thereafter, reported no GI bleeds and remained hemodynamically stable. 	0	bleed	[u'no']	13020	9045	9131
+23566	1	lower Gi bleed Discharge Condition: 	1	bleed	[]	13020	12180	12218
+557598	0	GI bleed; 	1	bleed	[]	11937	994	1007
+667667	0
+6471	0	Rectal bleeding status post colonoscopy one month ago, benign polyps removed. 	0	bleeding	[u'ago']	4696	1351	1432
+16848	0	*], he underwent an MRI/MRA of his brain which revealed linear focus in his left cerebellar hemisphere of late subacute chronic hemorrhage. 	1	hemorrhage	[]	8158	2104	2245
+390961	1	TO BLOOD LOSS (	1	BLOOD LOSS	[]	5535	4920	4935
+390961	1	HEMORRHAGE, BLEEDING) not checking labs per family WOUND DEHISCENCE sternal wound infection RESPIRATORY FAILURE cont mech vent via trache ATRIAL FIBRILLATION (AFIB) with RVR rate better controlled cont amiodarone DNR/I. Family wants to optimize pts comfort. 	1	HEMORRHAGE	[]	5535	4935	5215
+390961	1	HEMORRHAGE, BLEEDING) not checking labs per family WOUND DEHISCENCE sternal wound infection RESPIRATORY FAILURE cont mech vent via trache ATRIAL FIBRILLATION (AFIB) with RVR rate better controlled cont amiodarone DNR/I. Family wants to optimize pts comfort. 	1	BLEEDING	[]	5535	4935	5215
+52221	0	She denies current smoking (remote history), alcohol or drug use Family History: Father died at age 57 of CHF Mother died at age 49 of cerebral bleed Sister is eight yrs younger and has no known med problems Physical Exam: 	0	bleed	[u'History']	16913	3051	3279
+320468	0
+28960	0
+7753	0
+7752	0	Right groin catheterization site no hematoma. 	0	hematoma	[u'no']	7755	2264	2310
+7752	0	He had a head CT that showed no hemorrhage and only old chronic infarcts. 	0	hemorrhage	[u'no']	7755	5422	5497
+588878	0
+571746	0
+20904	1	Major Surgical or Invasive Procedure: left craniotomy evacuation SDH History of Present Illness: 	1	SDH	[]	8553	290	389
+20904	1	Large mixed density subdural hematoma along the left convextiy likely representing an acute on chronic process.	1	hematoma	[]	8553	2669	2780
+20904	1	There is considerable mass effect secondary to the hematoma with rightward shift of normally midline structures and associated subfalcine and uncal herniation.	1	hematoma	[]	8553	2781	2940
+20904	1	As above, there is a large subdural hematoma with acute component, layering over the left cerebral convexity.	1	hematoma	[]	8553	3017	3126
+20904	1	At the time of this note, the pt. had already undergone craniotomy and evacuation of the hematoma. 	1	hematoma	[]	8553	3389	3489
+20904	1	The pt was admitted through the emergency department after CT scan revealed SDH on the left. 	1	SDH	[]	8553	3661	3755
+20904	1	Given his poor mental status combined with the appearance of the SDH on CT he was taken to the OR emergently for evacuation. 	1	SDH	[]	8553	3755	3881
+20904	1	He did have hematuria possibly [**1-4**] traumatic foley insertion. 	1	hematuria	[]	8553	4077	4146
+20904	1	[**Hospital 9285**] Rehab & Skilled Care Center Discharge Diagnosis: left craniotomy for SDH Discharge Condition: NEUROLOGICALLY stable Discharge Instructions: ?????? 	1	SDH	[]	8553	6607	6779
+374665	0	Additionally, it is difficult to assess how much of this lesion represents abscess, underlying hematoma, or component of known duodenal diverticulum.	1	hematoma	[]	11297	5987	6148
+53550	1	**] Mitral and tricuspid regurgitation Pulmonary hypertension Hx of neurocardiogenic syncope, orthostatic hypotension Renal insuffiency Small intracerebral hemorrhage per referring records-Hx unknown to patient 	0	hemorrhage	[u'Hx of']	13888	2740	2951
+53550	1	Lactate was rising, likely in setting of poor perfusion and also question of abdominal compartment syndrome, potentially from intrapelvic bleed post-procedurally. 	1	bleed	[]	13888	10093	10257
+50852	0
+722222	0
+366892	0
+549333	0
+641739	1	*3494-8-23**] 02:17 PM [**3494-8-23**] -pt lysed on [**8-22**]. -weaned down sedation and vent with hopes to extubate -still with bloody stools -serial HCTs, stable 33.9 to 30.5 -[**Month/Day (1) 5487	1	bloody	[]	6903	77	295
+641739	1	Given recent GI bleeding due to crohn's disease, concern for use of TPA would be GI bleed and intracranial hemorrhage. 	1	hemorrhage	[]	6903	4412	4535
+641739	1	Given recent GI bleeding due to crohn's disease, concern for use of TPA would be GI bleed and intracranial hemorrhage. 	1	bleeding	[]	6903	4412	4535
+641739	1	Given recent GI bleeding due to crohn's disease, concern for use of TPA would be GI bleed and intracranial hemorrhage. 	1	bleed	[]	6903	4412	4535
+641739	1	He was observed in the MICU for GI bleed, but did not requiring blood transfusiosn. 	1	bleed	[]	6903	5238	5329
+641739	1	Now with marroon colored stool in setting of s/p lysis and being on heparin drip. 	1	red stool	[u'Now with']	6903	5496	5584
+391388	0
+45833	0	Currently denies any diarrhea, BRBPR, melena.	0	BRBPR	[u'denies']	9399	1616	1661
+45833	0	Currently denies any diarrhea, BRBPR, melena.	0	melena	[u'denies']	9399	1616	1661
+52818	0	He vomited twice and denies any frank blood, coffee grounds or different colored material. 	0	coffee ground	[u'denies']	15828	2067	2159
+14062	0
+367626	0	*] head CT to rule out evolving infarct vs. conversion to hemorrhagic stroke. 	0	hemorrhag	[u'vs']	7198	3668	3752
+367626	0	If BP very labile consider d/c heparin given risk for bleed. 	0	bleed	[u'If']	7198	3946	4010
+341955	0
+427528	0
+11379	1	Her multiple trauma included a subarachnoid hemorrhage with intraparenchymal blood. 	1	hemorrhage	[]	2265	384	469
+11379	1	She had a repeat CT of the chest, which showed blood in the chest and with aortic disruption and intraparenchymal bleed in the spleen. 	1	bleed	[]	2265	1012	1148
+50671	0	-Incarcerated paraesophageal hernia s/p laparoscopic repair with fundoplication in [**10-6**]; associated gastric outlet obstruction resolved with surgical repair -Lower gastrointestinal bleed secondary to hemorrhoids and colonic polyps, admit [**2906-11-14	1	bleed	[]	15069	1512	1769
+50671	0	Off coumadin [**2-1**] significant bleeding issues. 	1	bleeding	[]	15069	1945	1997
+50671	0	[**2-1**] significant bleeding issues. 	1	bleeding	[]	15069	8762	8801
+50671	0	[**10-6**], complicated by gastric out let symdrome s /p surgical repair history of lower GI bleed [**2-1**] hemmroids and colonic polyps [**11-4**] history of hypertension with symmertical LVH history of AF, converted NSR, anticoagulated d/c'd [	0	bleed	[u'history of']	15069	13395	13642
+50671	0	] GI bleed history of dyslipdemia history of DM2, insulin dependant history of posterior paraiatal infract by MRA?Mhronic periventricular microvascular disease carotid disease of pericavenerous& cavernous ICA 60-70%,s/p bilateral CEA's history of peripheral vascular diasease s/p left toe amputation post-operative anemia requiring blood transfusions Atrial fibrillation Discharge Condition: stable Discharge Instructions: - walk essential distances untill FU with Dr.	1	bleed	[]	15069	13649	14121
+13150	0	Radiological pattern is consistent with respiratory bronchiolitis (in a smoker), hypersensitivity pneumonitis, or acute viral infection such as viral, less likely pulmonary hemorrhage. 	1	hemorrhage	[]	11539	5690	5875
+337621	0	There is no evidence for edema, hemorrhage, mass effect, or territorial infarction.	0	hemorrhage	[u'no evidence']	9577	5456	5542
+337621	0	No evidence of active bleeding presently. 	0	bleeding	[u'No evidence']	9577	8737	8782
+468166	0	Denies abdominal pain, hemoptysis, black or red stools. 	0	hemoptysis	[u'Denies']	12972	1905	1964
+468166	0	Denies abdominal pain, hemoptysis, black or red stools. 	0	red stool	[u'Denies']	12972	1905	1964
+468166	0	He reports a history of bleeding and bruising of unknown etiology, states he has had bleeding of his nose and gums previously which resolved without intervention. 	0	bleeding	[u'history of']	12972	1964	2136
+468166	0	He reports a history of bleeding and bruising of unknown etiology, states he has had bleeding of his nose and gums previously which resolved without intervention. 	0	bleeding	[u'history of']	12972	1964	2136
+468166	0	Pt reports history of easy bleeding & bruising.	0	bleeding	[u'history of']	12972	10852	10902
+3244	0
+32436	0	On review of symptoms, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	29625	2447	2628
+32436	0	On review of symptoms, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	29625	2447	2628
+32436	0	There is an echo dense mass adherent to the apical visceral pericardium that may represent hematoma (was not apparent in the prior study).	1	hematoma	[]	29625	7217	7355
+32436	0	No evidence of hemorrhage or major vascular territorial infarction. 	0	hemorrhage	[u'No evidence']	29625	8481	8550
+32436	0	The patient's hospitalization was further complicated by a fall for which she had head imaging that was not concerning for an acute bleed. . 	0	bleed	[u'not']	29625	15644	15785
+704583	1	Soft, new ostomy in place, no evidence of bleed, nontender Extrem: RUE>	0	bleed	[u'no evidence']	5280	2414	2488
+704583	1	Leucovorin presenting with nausea, vomiting and acute renal failure, now with bleeding from ostomy, hypotension and GNR bacteremia. . 	1	bleeding	[u'now with']	5280	3221	3367
+704583	1	Thought to have bleed from ostomy site. 	1	bleed	[]	5280	4431	4474
+704583	1	# H/O PE/SVC syndrome/port-related clots: Fondaparinux on hold due to dramatic decline in renal function and recent bleeding. 	0	bleeding	[u'H/O']	5280	4553	4683
+695735	0
+592597	0	- Prelim CT head and C-spine was neg for acute ICH, edema or fracture 	1	ICH	[]	11634	228	301
+592597	0	No evidence of acute intracranial hemorrhage or major territorial infarct is apparent.	0	hemorrhage	[u'No evidence']	11634	5816	5905
+592597	0	CT head neg for ICH. 	1	ICH	[]	11634	9582	9604
+369267	1	62 y/o F with Hep C & ETOH cirrhosis who presented with 1 day of BRBPR and was found to have elevated anion gap, glucose 55 and ETOH level 145. . 	1	BRBPR	[u'presented with']	6132	3060	3218
+369267	1	# BRBPR:	1	BRBPR	[]	6132	3750	3758
+369267	1	Suspect that may be a slow bleed due to gastritis or possible hemorrhoids. 	0	bleed	[u'possible']	6132	3917	3996
+369267	1	No frank melena on exam to suggest brisk upper GI bleed. 	0	bleed	[u'No']	6132	3996	4057
+369267	1	No frank melena on exam to suggest brisk upper GI bleed. 	0	melena	[u'No']	6132	3996	4057
+369267	1	INR elevated at 2.1 on presentation in setting of GI bleed. 	1	bleed	[]	6132	4057	4123
+369267	1	[**2-11**]) - given thrombocytopenia and GI bleed, will trend plts - admin Vitamin K 10mg po	1	bleed	[]	6132	4296	4394
+369267	1	- cardiac enzymes negative - monitor on telemetry - no aspirin given thrombocytopenia and GI bleed - SW consult in am . 	0	bleed	[u'no']	6132	4959	5094
+369267	1	However, given GI bleed, would consider plt transfusion if dropping hct or plt count - transfuse 1u plts prn - f/u plt count . 	1	bleed	[]	6132	5440	5582
+460198	1	# Heme: Early anemia and thrombocytopenia are likely components due to blood loss from open fasciotomy, contributory factors include dilution from large volume IV repletion. 	1	blood loss	[]	10569	6570	6751
+460198	1	Had melenotic/frankly bloody bm [	1	bloody	[]	10569	7447	7483
+460198	1	**1-5**] bleeding concerns. 	1	bleeding	[]	10569	8802	8831
+556917	0	He denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	8087	1841	2034
+556917	0	He denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	8087	1841	2034
+556917	0	He denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	8087	1841	2034
+556917	0	Cough Organ system ROS normal Constitutional, ENT, Gastrointestinal, Endocrine, Hematology / Lymphatic, Genitourinary, Integumentary Signs and symptoms absent Recent fevers, Chills, Rigors, Hemoptysis, Black / red stool ROS Details:	1	red stool	[]	8087	3565	3815
+556917	0	Cough Organ system ROS normal Constitutional, ENT, Gastrointestinal, Endocrine, Hematology / Lymphatic, Genitourinary, Integumentary Signs and symptoms absent Recent fevers, Chills, Rigors, Hemoptysis, Black / red stool ROS Details:	1	Hemoptysis	[]	8087	3565	3815
+556917	0	His wife died many years ago after cerebral hemorrhage and ensuing coma. 	1	hemorrhage	[]	8087	4202	4279
+348290	1	Of note, patient has been having very bloody secretions since [**10-26**] bronch deferred given stable from a respiratory standpoint and likely scope/suctioning trauma given anticoagulation. 	1	bloody	[]	10170	5903	6105
+348290	1	Tolerating tube feeds at goal with reglan for promotility - bowel regimen - ultram only at low dose with turns, caution with opioids, cont reglan > Anemia: H/o UGIB/coffee grounds. 	0	coffee ground	[u'H/o']	10170	7925	8143
+348290	1	Noted to have coffee grounds in NG suctioning on [	1	coffee ground	[]	10170	8143	8196
+348290	1	Now with decreased hct of unclear source, but having hemoptysis.	1	hemoptysis	[u'Now with']	10170	8256	8320
+348290	1	- Serial Hcts - Po ppi - hold aspirin, plavix; consider resuming aspirin in future if hct/ bleed remains stable - Transfuse for Hct goal >25 - > LUE/RLE DVT. 	0	bleed	[u'if']	10170	8471	8684
+348290	1	**], based on dry weight (concern for bleeding) 	1	bleeding	[]	10170	8842	8896
+482786	0
+429944	1	HD2 POD 1-Redo CABG/AVR cancelled 2'GIB 	1	GIB	[]	6299	17	62
+429944	1	**] NSTEMI in setting of GIB 	1	GIB	[]	6299	321	353
+429944	1	CRI Atrial Fibrillation noted only once in chart(and not by primary); pt unsure of this diagnosis although does recall being on Warfarin, which was stopped with GIB in [	0	GIB	[u'not']	6299	453	631
+429944	1	POD#1 - Cancelled CABG/AVR d/t UGI bleed 	1	bleed	[]	6299	2316	2360
+429944	1	Assessment and Plan GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB), CHEST PAIN Assessment and Plan: Neurologic: Cardiovascular: Pulmonary: Gastrointestinal / Abdomen: Nutrition: Renal: Hematology: Endocrine: Infectious Disease: Lines / Tubes / Drains: Wounds: Imaging: Fluids: Consults: ICU Care Nutrition: Glycemic Control: Regular insulin sliding scale Lines: Arterial Line - [**3075-8-16	1	BLEED	[]	6299	5580	6033
+429944	1	Assessment and Plan GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB), CHEST PAIN Assessment and Plan: Neurologic: Cardiovascular: Pulmonary: Gastrointestinal / Abdomen: Nutrition: Renal: Hematology: Endocrine: Infectious Disease: Lines / Tubes / Drains: Wounds: Imaging: Fluids: Consults: ICU Care Nutrition: Glycemic Control: Regular insulin sliding scale Lines: Arterial Line - [**3075-8-16	1	BLEED	[]	6299	5580	6033
+429944	1	Assessment and Plan GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB), CHEST PAIN Assessment and Plan: Neurologic: Cardiovascular: Pulmonary: Gastrointestinal / Abdomen: Nutrition: Renal: Hematology: Endocrine: Infectious Disease: Lines / Tubes / Drains: Wounds: Imaging: Fluids: Consults: ICU Care Nutrition: Glycemic Control: Regular insulin sliding scale Lines: Arterial Line - [**3075-8-16	1	GIB	[]	6299	5580	6033
+452610	0
+721721	0
+35520	0
+22154	0	*] colored stools, dk urine. 	1	red stool	[]	15696	1901	1931
+22154	0	- A fib with RVR - hyperkalemia s/p aldactone - pulmonary nodule on chest CT, not amenable to VATS - pulmonary infiltrate on chest CT - hypertension - hypothyroidism - diabetes mellitus - H/o upper and lower GI bleeding in [**3255	0	bleeding	[u'H/o']	15696	2723	2953
+22154	0	No evidence of intracranial hemorrhage, edema or abnormal areas of post- contrast enhancement. 	0	hemorrhage	[u'No evidence']	15696	5634	5731
+22154	0	An ultrasound was negative for a fluid collection or hematoma. 	0	hematoma	[u'negative']	15696	8358	8422
+28521	0
+12718	0
+697209	0
+645826	0
+472018	0
+564044	1	*2566-11-17**] 10:30 PM ENDOSCOPY - At [**2566-11-17**] 11:00 PM - on presentation vomitting blood and hematochezia 	1	vomitting blood	[]	7538	61	184
+564044	1	*2566-11-17**] 10:30 PM ENDOSCOPY - At [**2566-11-17**] 11:00 PM - on presentation vomitting blood and hematochezia 	1	hematochezia	[]	7538	61	184
+564044	1	Cr 0.8 to 1.0 EGD: varices in distal third of esophogal with stimata of bleeding. 	1	bleeding	[]	7538	3458	3571
+564044	1	# GI bleeding: EGD performed on arrival to the ICU demonstrated cherry red spots (stigmata of recent bleeding).	1	bleeding	[]	7538	4182	4296
+564044	1	# GI bleeding: EGD performed on arrival to the ICU demonstrated cherry red spots (stigmata of recent bleeding).	1	bleeding	[]	7538	4182	4296
+564044	1	40 mg iv bid - maintain active type & cross - 2 18g pivs - serial hcts (2 u given on arrival to [**Hospital1 **], next hct with AM labs at 0400) - cipro for sbp prophlyaxis in setting of variceal bleeding - reverse coagulopathy for INR ~ 1.5 (got FFP 2 U with procedure, repeat with AM labs) . 	0	bleeding	[u'vs']	7538	4422	4743
+564044	1	# Hypotension: Related to blood loss as above.	1	blood loss	[]	7538	4743	4789
+564044	1	Could also reflect stress from GI bleeding.	1	bleeding	[]	7538	5759	5805
+564044	1	# anemia: Related to GI bleeding as above. . 	1	bleeding	[]	7538	6102	6153
+564044	1	- restart statin in AM when taking meds - send cardiac enzymes with AM labs, if positive likely demand in setting of hypotension & anemia - hold aspirin for now until bleeding stabilized . 	0	bleeding	[u'if']	7538	6326	6530
+564044	1	# FEN: npo for now with sips, clears in AM if no signs of further bleeding, replete lytes prn . 	0	bleeding	[u'no', u'now with']	7538	6614	6719
+564044	1	icu care until stable hct CIRRHOSIS OF LIVER, OTHER ESOPHAGEAL VARICES CHOLANGITIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	BLEEDING	[]	7538	6995	7145
+564044	1	icu care until stable hct CIRRHOSIS OF LIVER, OTHER ESOPHAGEAL VARICES CHOLANGITIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	BLOOD LOSS	[]	7538	6995	7145
+564044	1	icu care until stable hct CIRRHOSIS OF LIVER, OTHER ESOPHAGEAL VARICES CHOLANGITIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	HEMORRHAGE	[]	7538	6995	7145
+676767	0
+20054	0	**] Medical Center for a questionable large gastrointestinal bleed. 	1	bleed	[]	11213	489	558
+20054	0	No evidence of acute blood loss noted on examination. 	0	blood loss	[u'No evidence']	11213	9774	9829
+450760	0	Allergies: Indomethacin GIB; Ace Inhibitors HYPERKALEMIA; Anti-Inflam/Antiarth Agents Misc.	1	GIB	[]	7157	423	529
+450760	0	Classf GIB; Last dose of Antibiotics: Levofloxacin - [	1	GIB	[]	7157	530	593
+450760	0	No rashes/lesions, ecchymoses. 	0	ecchymoses	[u'No']	7157	3207	3241
+484286	0	No clear place for bleeding, but sheath removed.	0	bleeding	[u'No']	7885	6503	6551
+484286	0	No hematoma, back pain baseline, no change. 	0	hematoma	[u'No']	7885	6552	6602
+563872	1	, ESLD s/p recent MICU stay for variceal bleed and SBP represented to the MICU with recurrent bleed.	1	bleed	[]	5932	240	343
+563872	1	, ESLD s/p recent MICU stay for variceal bleed and SBP represented to the MICU with recurrent bleed.	1	bleed	[]	5932	240	343
+563872	1	but no evidence of active bleed.	0	bleed	[u'no evidence']	5932	388	420
+563872	1	mg/dL Assessment and Plan 71yo man with PSC, ESLD, variceal bleeding	1	bleeding	[]	5932	4377	4451
+563872	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) Has been stable since his second banding 2 days ago.	0	BLEED	[u'ago']	5932	4625	4726
+563872	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) Has been stable since his second banding 2 days ago.	0	GIB	[u'ago']	5932	4625	4726
+563872	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) Has been stable since his second banding 2 days ago.	0	BLEED	[u'ago']	5932	4625	4726
+617503	0
+533997	0
+16147	0
+536372	0
+425129	0
+698209	0
+437992	1	**1-5**] bleeding concerns. 	1	bleeding	[]	11361	6051	6080
+437992	1	Had melenotic/frankly bloody bm	1	bloody	[]	11361	7000	7031
+437992	1	Melena/bloody BM suspect Oozing in the setting of DIC, ?	1	Melena	[]	11361	7150	7207
+437992	1	Melena/bloody BM suspect Oozing in the setting of DIC, ?	1	bloody	[]	11361	7150	7207
+437992	1	[**1-5**] gastritis or stress ulcer in the setting of vented patient only on H2, patient had explosive BM o/n which was not frankly bloody. 	0	bloody	[u'not']	11361	7207	7355
+437992	1	NG lavage clear, no acute bleeding - IV protonix does NOT interfere with plavix - Giving vit K, FFP, f/u on INR - BM regimen - get TPN for nutriention, PICC placement. . 	0	bleeding	[u'no']	11361	7470	7658
+437992	1	# Heme: Early anemia and thrombocytopenia are likely components due to blood loss from open fasciotomy, contributory factors include dilution from large volume IV repletion. 	1	blood loss	[]	11361	9109	9290
+437992	1	- Transfuse FFP if INR continues to rise or bleeding continues, goal INR < 1.5 - appreciate and follow - heme-onc regarding the anemia/thrombocytopenia. 	0	bleeding	[u'if']	11361	9842	10007
+666293	0
+16323	0
+4548	0	Denies vomiting, heartburn, diarrhea, constipation, BRBPR, melena, or abdominal pain.	0	melena	[u'Denies']	9879	1778	1863
+4548	0	Denies vomiting, heartburn, diarrhea, constipation, BRBPR, melena, or abdominal pain.	0	BRBPR	[u'Denies']	9879	1778	1863
+13532	1	Coumadin recently discontinued for hematuria secondary to the patient's bladder carcinoma. 	1	hematuria	[]	8557	3054	3145
+13532	1	hematuria in the immediate post procedure time thought secondary to the bladder cancer and use of Aggrastat. 	1	hematuria	[]	8557	4829	4939
+373010	0
+351072	0
+358277	1	Chief Complaint: Hematemesis HPI: 	1	Hematemesis	[u'Chief Complaint:']	7388	0	41
+358277	1	Briefly, this is a 71M with ESLD from UC/PSC, and a complicated hospital course with several ICU stays, recent variceal banding who became tachycardic to 110 and experienced 1 cup of hematemesis this morning. 	1	hematemesis	[]	7388	90	309
+358277	1	Abdominal pain, Nausea, Emesis, Hematemesis Integumentary (skin):	1	Hematemesis	[]	7388	2507	2575
+358277	1	# GI bleed: 3 point hematocrit drop since last night -- If plan to pursue endoscopy, will need to reverse DNR/DNI status as EGD will require intubation. 	1	bleed	[]	7388	4863	5023
+358277	1	Holding ASA and BB in setting of bleed. . 	1	bleed	[]	7388	6571	6619
+413389	0
+518345	0	DDx include pneumonia, pulmonary edema, intracranial event such as CVA or hemorrhage although not seen on CT scan. 	0	hemorrhage	[u'DDx']	7098	5157	5280
+43122	1	On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	14212	1412	1626
+43122	1	On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	14212	1412	1626
+43122	1	On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	14212	1412	1626
+43122	1	Pt developed a small inguinal hematoma after cath.	1	hematoma	[]	14212	7821	7871
+43122	1	*] tells you to, even if you have bleeding. 	0	bleeding	[u'if']	14212	12343	12387
+531093	0
+357516	0
+356381	0
+37646	0
+624051	0
+412848	0
+12877	1	The calf site of the right groin is without any hematoma or oozing of blood. 	0	hematoma	[u'without']	9265	4178	4256
+12877	1	As soon as she reached the floor, she had a large episode of coffee-ground and bright red blood emesis. 	1	coffee-ground	[u'episode of']	9265	5696	5800
+12877	1	Upper GI bleed most likely secondary to gastritis/ulcer. 	1	bleed	[]	9265	8113	8170
+45177	0
+416334	0
+457901	0
+708664	0
+556177	0	Art line placed with difficulty and multiple attempts on both right and L arms -Lasix drip titrated to 100 cc/hour, but held overnight due to pressures, consider restarting in AM -Fluid restricted to 1.2 L Allergies: Atorvastatin muscle aches; Celebrex (Oral) (Celecoxib) GI bleed; 	1	bleed	[]	8735	136	448
+1870	0	Per report, the patient was found by her daughter at home with coffee-ground emesis (per EMS) last night around 21:30, pale.	1	coffee-ground	[]	10531	650	774
+1870	0	Gastritis with h/o GIB in [**2808**]/[**2809	0	GIB	[u'h/o']	10531	1783	1827
+550602	0
+13285	0
+357662	1	LDH:284 IU/L, Ca++:8.9 mg/dL, Mg++:2.0 mg/dL, PO4:2.6 mg/dL Assessment and Plan 82 year old female with CAD s/p CABG and AVR, AF, and COPD on home oxygen, presenting from OSH for management of GI bleed, and hypercarbic respiratory failure, with failure to extubate x3 while admitted. 	1	bleed	[]	9125	4847	5146
+357662	1	# Gastrointestinal Bleeding: 	1	Bleeding	[]	9125	5710	5740
+357662	1	GIU c/s obtained who agreeded that bleeding was not an acute issue and emergent scope not indicated inless GIB worsened. 	0	GIB	[u'not']	9125	5808	5938
+357662	1	GIU c/s obtained who agreeded that bleeding was not an acute issue and emergent scope not indicated inless GIB worsened. 	1	bleeding	[]	9125	5808	5938
+357662	1	PPI was discontinued for this reason; however, had to be restarted today in setting of potential GI bleed.	1	bleed	[]	9125	6482	6594
+357662	1	- Daily PLT check - Transfuse for platelets < 50 or active bleeding - Consider restarting anticoagulation for AF once procedures over and platelets recover. - Consider heme consult if platelets continue to downtrend - Restart tube feeds with predosing of Zofran from nausea - Guaiac all stools - Will need scope if bleeds with tube feeds # Atrial Fibrillation:	0	bleeding	[u'Transfuse']	9125	6795	7179
+357662	1	- Daily PLT check - Transfuse for platelets < 50 or active bleeding - Consider restarting anticoagulation for AF once procedures over and platelets recover. - Consider heme consult if platelets continue to downtrend - Restart tube feeds with predosing of Zofran from nausea - Guaiac all stools - Will need scope if bleeds with tube feeds # Atrial Fibrillation:	0	bleed	[u'if']	9125	6795	7179
+357662	1	Currently not anticoagulated after GI bleed prior to presentation. 	0	bleed	[u'not']	9125	7300	7370
+357662	1	- will change back to po dilt and carvediolol with tube feeds, titrate up as necessary - Consider restarting coumadin once platelets stable and no evidence of ongoing GI bleed - Holding tykosin and digoxin # Coronary Artery Disease: s/p CABG (LIMA to LAD and SVG to RCA). 	0	bleed	[u'no evidence']	9125	7370	7660
+357662	1	ongoing GI bleed # Aortic Valve Replacement (bioprosthetic): Not anticoagulated. 	1	bleed	[]	9125	7783	7871
+50455	0	There is a left parietal subgaleal hematoma present.	1	hematoma	[]	13240	5153	5205
+44974	0
+396444	1	53 yo male with a day of n/v and diarrhea and drop in his HCT with hypotension (systolics to 88mmHg) in the ED and report of guiac + and NG lavage + for blood with new onset acute on chronic renal failure . 	1	guiac +	[]	4916	3384	3600
+396444	1	53 yo male with a day of n/v and diarrhea and drop in his HCT with hypotension (systolics to 88mmHg) in the ED and report of guiac + and NG lavage + for blood with new onset acute on chronic renal failure . 	1	NG lavage +	[]	4916	3384	3600
+357960	0
+6363	0
+505901	1	None SpO2: 93% ABG: ///27/ Physical Examination GEN: A+Ox3, pleasant, NAD HEENT: MMM, R facial hematoma with ecchymoses NECK:	1	ecchymoses	[]	6620	2245	2388
+505901	1	None SpO2: 93% ABG: ///27/ Physical Examination GEN: A+Ox3, pleasant, NAD HEENT: MMM, R facial hematoma with ecchymoses NECK:	1	hematoma	[]	6620	2245	2388
+667299	0
+696957	0
+23884	1	Ecchymosis at right groin. 	1	Ecchymosis	[]	5321	1385	1412
+366912	0
+8479	1	Hematuria:	1	Hematuria	[]	16263	11413	11423
+699945	0	**] following PMHx: PMH::CAD, AS,PVD,DM europathy/retinopathy/nephropathy,hyperlipidemia, HT, glaucoma, hx of pericardial effusion w tamponade, CHF,anemia, agranulcytosis, recurrent pleural effusion s/p thoracentesis w chronic left pleural effusion,ESRD on HD, hx of GI bleed, chronic constipation, hx of CVA, s/p left forefoot amputation, cataract surgery,umbilical hernia, tonsillectomy, RT CEA [**Last Name (un)	0	bleed	[u'hx of']	7378	306	744
+352920	1	HD2 readmit for GI bleed - BRBBR hct drop 31 to 24 64M s/p OPCABx4(LIMA->LAD, SVG->[**Last Name (LF)	1	bleed	[]	4640	17	123
+352920	1	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) Assessment and Plan:	1	HEMORRHAGE	[]	4640	3730	3818
+352920	1	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) Assessment and Plan:	1	BLEEDING	[]	4640	3730	3818
+352920	1	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) Assessment and Plan:	1	BLOOD LOSS	[]	4640	3730	3818
+352920	1	to have BRBPR. 	1	BRBPR	[]	4640	3877	3893
+6407	0
+43678	1	There is no evidence of acute intracranial hemorrhage, mass effect, shift of midline structures, or loss of [**Doctor Last Name **]-white differentiation.	0	hemorrhage	[u'no evidence']	12802	4146	4300
+43678	1	# Rectal bleeding- BRBPR s/p PR lactulose in ICU.	1	bleeding	[]	12802	7643	7692
+43678	1	# Rectal bleeding- BRBPR s/p PR lactulose in ICU.	1	BRBPR	[]	12802	7643	7692
+43678	1	Bleeding to soak 2 chucks.	1	Bleeding	[]	12802	7693	7719
+43678	1	Currently hemodynamically stable with no repeat guaiac positive stools in unit. 	0	guaiac positive	[u'no']	12802	7841	7922
+43678	1	**] showing grade 2 hemorrhoids and no rectal varies, minimal blood loss precipitated by lactulose enema. 	0	blood loss	[u'no']	12802	8305	8412
+380746	0	No hematoma c/o back pain, but has h/o back pain and disc disease Allergies: 	0	hematoma	[u'No']	3175	150	236
+483798	1	yo female with severe diastolic CHF, pulm HTN, afib, ulcerative colitis, and recent lower GI bleed p/w acute dyspnea and hypoxia, hypotensive on pressors who was transferred from [**Hospital1 **]. . 	1	bleed	[]	8652	4018	4229
+483798	1	PE possible but no CP, tachycardia (on beta blocker), or hemoptysis; she does have chronic LLE edema, now ?	0	hemoptysis	[u'no']	8652	4608	4718
+483798	1	L>R (same leg as hematoma).	1	hematoma	[]	8652	4718	4748
+483798	1	Pt does have known colitis with guaiac positive stools and planned for outpatient scoping; stable Hct suggests that this is more a slow bleed. 	1	bleed	[]	8652	5697	5850
+483798	1	Pt does have known colitis with guaiac positive stools and planned for outpatient scoping; stable Hct suggests that this is more a slow bleed. 	1	guaiac positive	[]	8652	5697	5850
+483798	1	# Hematochezia:	1	Hematochezia	[]	8652	6201	6216
+483798	1	Recent admission for anemia; thought to have recurrent lower GI angioectasia bleeding. 	0	bleeding	[u'Recent admission']	8652	6217	6308
+483798	1	Pt currently with guaiac positive dark stools but stable Hct since last discharge. 	1	guaiac positive	[]	8652	6308	6395
+483798	1	Most c/w LGIB again rather than UGIB. 	1	LGIB	[]	8652	6395	6439
+483798	1	Stable with slow ventricular response; not anticoagulated secondary to GI bleeding - hold metoprolol for now in setting of hypotension and pressor . 	0	bleeding	[u'not']	8652	7539	7701
+49361	0	Of note is that on the prior computerized tomography scan performed in [**2645-2-7**], the mass was also present but measured 1.7 cm and looked like a hemorrhagic cyst. 	0	hemorrhag	[u'prior']	6222	482	651
+49361	0	There was 500 cc blood loss. 	1	blood loss	[]	6222	3046	3075
+27904	0
+655791	0
+610493	0
+28959	0
+503378	0
+449737	1	Supple with RIJ in place with surrounding ecchymoses and hematoma CARDIAC: normal S1, S2.	1	hematoma	[]	8580	2511	2603
+449737	1	Supple with RIJ in place with surrounding ecchymoses and hematoma CARDIAC: normal S1, S2.	1	ecchymoses	[]	8580	2511	2603
+523580	0
+576370	0	p banding without evidence active bleeding and stable Hct.	0	bleeding	[u'without']	8009	5545	5606
+517585	0
+37158	0	No intracranial hemorrhage or loss of [**Doctor Last Name 14**]-white matter differentiation. 	0	hemorrhage	[u'No']	10026	6912	7007
+37158	0	No evidence of intracranial hemorrhage, edema, large masses, mass effect, or large vascular territory infarction. 	0	hemorrhage	[u'No evidence']	10026	7153	7267
+370532	1	Mild stable hematoma at post cath check - DCed HCTZ and lisinopril for pressure and renal protection 	1	hematoma	[]	8348	293	400
+370532	1	Diminished), 2 large hematomas bilaterally that have not expanded beyond drawn black lines from [	1	hematoma	[]	8348	2922	3026
+370532	1	Downtrenditng HCT in the setting of volume load and s/p cath with bilat groin hematomas. 	1	hematoma	[]	8348	6390	6485
+10473	0	Former alcoholic S/P Macular repair Alcohol withdrawl syndrome GI bleeding Social History: Golf course attendant; married; current smoker 1ppd	1	bleeding	[]	8241	1219	1363
+321185	0
+699836	1	Lower GI bleed and NSTEMI 	1	bleed	[]	5352	17	46
+699836	1	HPI: 79 yo woman with CAD and re-do CABG (with only patent LIMA to LAD), atrial fibrillation on coumadin admitted with bright red blood per rectum in setting of INR 4.7. 	1	blood per rectum	[]	5352	246	428
+699836	1	yo female with CAD s/p CABG with only patent LIMA-LAD, severe COPD admitted with likely lower GI bleed and NSTEMI. 	1	bleed	[]	5352	4088	4209
+699836	1	#hematochezia -goal Hct>30, will transfuse for goal Hct>30. 	1	hematochezia	[]	5352	4209	4273
+699836	1	] PPI although likely this is LGIB -INR now 1.5 with vitamin K -has	1	LGIB	[]	5352	4410	4483
+699836	1	large bore IV (16 gauge, 20 gauge) #respiratory distress -likely due to volume overload -lasix for diuresis, will try CPAP as a bridge if needed #NSTEMI -in setting of anemia -transfuse for Hct>30, active type and screen, q6hr CBC -ASA on hold given GI bleed, on statin 	0	bleed	[u'transfuse']	5352	4484	4778
+347408	0	No rashes/lesions, ecchymoses. 	0	ecchymoses	[u'No']	8084	3125	3159
+347408	0	No acute hemmorrhage on CT head, multiple hypodensities sound chronic.	0	hemmorrhage	[u'No']	8084	5147	5220
+35241	0
+347561	0
+347229	0
+544385	1	# Abdominal Hematoma: Will hold off on draining based on improvement. 	1	Hematoma	[]	8992	6334	6407
+583319	0	RR decreased for respiratory alkalosis History obtained from Medical records Patient unable to provide history: Sedated Allergies: Aspirin rectal bleeding Penicillins Rash; Hives; Sulfonamides aseptic menigi Biaxin (Oral) (Clarithromycin) Diarrhea; Levaquin (Oral) (Levofloxacin) Rash; Cefzil (Oral) (Cefprozil) Rash; Motrin (Oral) (Ibuprofen) aseptic meningi Erythromycin Base Rash; 	0	bleeding	[u'history']	7669	426	870
+583319	0	Anemia: Drop in Hct yesterday with several possible etiologies including ongoing hemolysis, blood loss during tracheostomy. 	0	blood loss	[u'possible']	7669	6674	6807
+2878	0
+4928	0
+29182	0	No evidence of retroperitoneal bleed. 	0	bleed	[u'No evidence']	18074	6773	6811
+484739	0
+28451	0	Soft tissue stranding seen along the extraperitoneal space along the right iliac vessels, likely hemorrhage related to presumed right-sided catheterization.	1	hemorrhage	[]	12688	4326	4482
+39515	0
+45896	1	-Hemoptysis (	1	Hemoptysis	[]	11860	2514	2527
+45896	1	R abdominal wall hernia +, guaiac positive, no rebound tenderness or guarding. 	1	guaiac positive	[]	11860	3349	3428
+405557	0
+450732	0	GIB hx. --	1	GIB	[]	8169	6461	6474
+53565	0
+702347	0
+38741	0	Pt seen in [**Hospital **] clinic on [**8-25**], doing well overall, with reports of drainage being increasingly bloody but decreased in amount since the time of his initial discharge. . 	1	bloody	[]	9459	1535	1723
+579644	0	- Urine Na c/w hepatorenal syndrome, stopped diuretics, started octreotide and midrodrine, gave additional post-tap albumin - discussed worsening renal failure with Renal consult who has signed off, will re-consult tomorrow - family meeting planned for 4pm Monday - started nystatin swish and swallow for thrush History obtained from Medical records Allergies: Aspirin rectal bleeding Penicillins Rash; Hives; Sulfonamides aseptic menigi Biaxin (Oral) (Clarithromycin) Diarrhea; Levaquin (Oral) (Levofloxacin) Rash; Cefzil (Oral) (Cefprozil) Rash; Motrin (Oral) (Ibuprofen) aseptic meningi Erythromycin Base Rash; 	0	bleeding	[u'History']	10658	46	732
+579644	0	**2-7**] - Trend, transfuse FFP PRN bleeding # Hyperbilirubinemia: likely multifactorial from underlying liver disease, acute illness, as well as contribution from hemolysis. 	0	bleeding	[u'transfuse']	10658	8993	9178
+27215	0	On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	11634	1813	2027
+27215	0	On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	11634	1813	2027
+27215	0	On review of systems, s/he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	11634	1813	2027
+732450	0
+15454	0
+588192	0
+42284	0
+310115	0
+375025	1	-Ct contrast concerning for atypical pneumonia vs. alveolar hemorrhage -gave prednisone 60mg once -started	0	hemorrhage	[u'vs']	8209	196	308
+375025	1	Extensive bilateral consolidations, right more than left, of high density that might be consistent with multifocal hemorrhage.	1	hemorrhage	[]	8209	4623	4755
+375025	1	Hemorrhagic pneumonia might be considered in appropriate clinical setup. 	1	Hemorrhag	[]	8209	4848	4927
+375025	1	Bilateral grossly unchanged pleural effusions, high in density that might also contain an element of hemorrhage. 	1	hemorrhage	[]	8209	5032	5154
+375025	1	#Cough primary pulmonary process given alveolar infiltrartes vs. alveolar hemorrhage seen on CT -continue	0	hemorrhage	[u'vs']	8209	5595	5706
+375025	1	# Bleeding / Anemia - pt with HCT of 26 - concern for RP bleed related to cath vs GI bleed from external hemorrhoid.	0	bleed	[u'vs']	8209	7004	7123
+375025	1	# Bleeding / Anemia - pt with HCT of 26 - concern for RP bleed related to cath vs GI bleed from external hemorrhoid.	0	bleed	[u'vs']	8209	7004	7123
+375025	1	# Bleeding / Anemia - pt with HCT of 26 - concern for RP bleed related to cath vs GI bleed from external hemorrhoid.	0	Bleeding	[u'vs']	8209	7004	7123
+375025	1	did CT which showed no RP bleed but showed blood-dense bilat pleural effusions and question of pulmonary hemorrhage. 	0	hemorrhage	[u'no']	8209	7155	7278
+375025	1	did CT which showed no RP bleed but showed blood-dense bilat pleural effusions and question of pulmonary hemorrhage. 	0	bleed	[u'no']	8209	7155	7278
+375025	1	# Blood stools: likely hemorrhoidal bleeding given many prior negative colonoscopies and lack of current abd pain. 	1	bleeding	[]	8209	7538	7657
+558312	0
+598994	0
+518838	1	*3216-5-6**] 12:30 PM pt tolerated procedure well, had one episode of decreased hr to 50's bp stable in the 130's... procedure quickly finished which found no evidence of bleed Needs small bowel follow through per GI Transfused 1 unit for HCT 28 BP + HR stable Outpatient colonoscopy [	0	bleed	[u'no evidence', u'episode of']	7075	54	360
+518838	1	**] without source of bleeding H pylori sent 	0	bleeding	[u'without']	7075	367	418
+518838	1	h/o colon CA s/p colectomy, recent upper GI bleed presents with acute blood loss anemia and NSTEMI. . 	0	blood loss	[u'presents with', u'h/o']	7075	4709	4820
+518838	1	h/o colon CA s/p colectomy, recent upper GI bleed presents with acute blood loss anemia and NSTEMI. . 	0	bleed	[u'h/o']	7075	4709	4820
+518838	1	# Acute blood loss anemia: Recent identification of duodenal ulcer treated with PPI (no biopsy/H. pylori performed), now here with guaiac positive stool and continued melena. 	1	blood loss	[]	7075	4820	5005
+518838	1	# Acute blood loss anemia: Recent identification of duodenal ulcer treated with PPI (no biopsy/H. pylori performed), now here with guaiac positive stool and continued melena. 	0	guaiac positive	[u'here with', u'no']	7075	4820	5005
+518838	1	# Acute blood loss anemia: Recent identification of duodenal ulcer treated with PPI (no biopsy/H. pylori performed), now here with guaiac positive stool and continued melena. 	0	melena	[u'here with', u'no']	7075	4820	5005
+518838	1	EGD without obvious source of bleeding. 	0	bleeding	[u'without']	7075	5005	5046
+518838	1	- no anticoagulation given recent GIB: hold asa + coumadin - transfuse to Hct>30 	0	GIB	[u'no']	7075	5602	5689
+518838	1	Previously on anticoagulation, being held w/ gi bleeding. . 	0	bleeding	[u'Previous']	7075	5824	5893
+518838	1	# Hypertension: Currently normotensive, hold ACEi + BB for now in setting of acute GI bleed. . 	1	bleed	[]	7075	5893	5997
+518838	1	**3216-5-6**] 03:20 AM Prophylaxis: DVT: boots Stress ulcer: pantoprazole iv bid VAP: na Comments: Communication: Comments: Code status: Full code Disposition: icu ------ Protected Section ------ Physical Exam GEN: appears younger than stated age, friendly and speaking in full sentences HEENT: ~ 1 cm superficial split in distal tongue tip w/ mild bleeding. 	1	bleeding	[]	7075	6238	6641
+647378	0
+653128	0	##. Non-Ichemic CMY:	0	Ich	[u'Non-']	10035	7958	7978
+672131	0
+45438	0
+34098	1	she has had no bloody or black stools per family until she starte Fe So4. 	0	bloody	[u'no']	15030	2060	2136
+34098	1	Bloody pericardial effusion ~510cc's removed, ?malignancy.	1	Bloody	[]	15030	9086	9144
+34098	1	The decision was made for no anticoagulation given bloody pericardial effusion, pt was continued on full strength aspirin. . 	0	bloody	[u'no']	15030	9936	10061
+7616	1	History of guaiac positive stools in the past but no record on this admission. 	0	guaiac positive	[u'History of', u'in the past']	17565	3267	3350
+7611	0	Right groin without hematoma. 	0	hematoma	[u'without']	9179	2158	2189
+398632	1	if 1 PM Hct does not remain stable - d/c SQ heparin if 1 PM Hct low - transfuse for Hct <23 or active bleeding #.	0	bleeding	[u'transfuse']	8600	7158	7280
+398632	1	No signs of bleeding. 	0	bleeding	[u'No']	8600	8189	8217
+49037	0
+8656	0	**2851-11-6**], history of systolic congestive heart failure with ejection fraction of 35% [**2855-2-6**], history of diabetes type 2 insulin-dependent with neuropathy and retinopathy, history of vitreous hemorrhage with vitrectomy. 	0	hemorrhage	[u'history of']	7395	1264	1498
+8656	0	Right groin is clean, dry and intact without hematoma.	0	hematoma	[u'without']	7395	1945	1999
+8656	0	History of vitreous hemorrhage, status post vitrectomy. 	0	hemorrhage	[u'History of']	7395	6509	6566
+31576	0
+21343	0	There is no evidence of intracranial hemorrhage, mass effect, or shift of midline structures.	0	hemorrhage	[u'no evidence']	7883	2397	2490
+21343	0	Head CT scan showed no evidence of infarction or bleed.	0	bleed	[u'no evidence']	7883	4347	4402
+362907	1	56 yoM w/ h/o EtOH cirrhosis; admitted after being found this morning unrepsonsive in bed by roommate, in setting of possible EtOH withdrawal and two weeks of reported hematemesis. 	0	hematemesis	[u'possible']	6484	3394	3584
+362907	1	UGIB: patient has history of UGIB; has been scoped in past, no evidence of bleed; c/f portal gastropathy.	0	bleed	[u'no evidence']	6484	4073	4181
+362907	1	Report of hematemesis is unconfirmed, patient had blood on his teeth only.	1	hematemesis	[]	6484	4182	4259
+607375	1	*] Events / History of present illness: s/p R groin hematoma evacuation 	0	hematoma	[u'History of']	2788	125	203
+607375	1	TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH) - will wean to extubate today HEMORRHAGE/HEMATOMA, PROCEDURE-RELATED (E.G., CATH, PACEMAKER, ICD BLEED) -	1	HEMATOMA	[]	2788	2325	2509
+607375	1	TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH) - will wean to extubate today HEMORRHAGE/HEMATOMA, PROCEDURE-RELATED (E.G., CATH, PACEMAKER, ICD BLEED) -	1	BLEED	[]	2788	2325	2509
+607375	1	TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH) - will wean to extubate today HEMORRHAGE/HEMATOMA, PROCEDURE-RELATED (E.G., CATH, PACEMAKER, ICD BLEED) -	1	HEMORRHAGE	[]	2788	2325	2509
+20606	0
+10359	0
+548005	0
+405930	1
+24786	0
+123	1	**], at which time he underwent colonoscopy for bleeding polyps, which was complicated by valve perforation of the cecum. 	1	bleeding	[]	11390	582	705
+123	1	He had no chest pain, shortness of breath, or light headedness, no melena, no hematochezia, no nausea, vomiting, or abdominal pain, no fevers, chills, or rash. 	0	hematochezia	[u'no']	11390	1272	1433
+123	1	He had no chest pain, shortness of breath, or light headedness, no melena, no hematochezia, no nausea, vomiting, or abdominal pain, no fevers, chills, or rash. 	0	melena	[u'no']	11390	1272	1433
+123	1	Gastrointestinal consultation was obtained and they recommended deferring colonoscopy, as the patient has been through multiple recent colonoscopies without any lesions noted, and that there was no evidence of an acute bleed. 	0	bleed	[u'no evidence']	11390	6002	6229
+123	1	The aspirin was held in the setting of GI bleed. 	1	bleed	[]	11390	7838	7887
+27770	0
+3407	0	-paced, not on anticoag due to h/o hemorrhagic stroke, CKD -1.8-2ish, now up 2.4 after lasix gtt, holding, good uop 	0	hemorrhag	[u'h/o']	7690	3072	3188
+3407	0	is contraindicated due to her past history of hemorrhagic stroke. . 	0	hemorrhag	[u'history of']	7690	5562	5630
+457283	0
+662671	1	Chief Complaint: HPI: 80 yom with hx of recent bioprosthetic MVR 6 weeks ago who presented to the hospital with painless rectal bleeding last night. 	1	bleeding	[u'Chief Complaint:']	6251	0	159
+662671	1	Patient reports he got up around 12am last night and went to the bathroom and noted a large amount of bright red blood per rectum.	1	blood per rectum	[]	6251	159	295
+662671	1	Stool guaiac positive red, purplish color.	1	guaiac positive	[]	6251	614	659
+662671	1	At about 4pm, he began to have episodes of hematochezia and blood pressure began to drop in to the 80s and then 70s systolic. 	1	hematochezia	[u'episodes of']	6251	877	1010
+662671	1	The patient reports +LH today with his episdoes of hematochezia. 	1	hematochezia	[]	6251	1282	1348
+662671	1	he denies any recent chest pain, SOB, N/V, coffee ground emesis, hematemesis, melena or abdominal pain. 	0	coffee ground	[u'denies']	6251	1348	1461
+662671	1	he denies any recent chest pain, SOB, N/V, coffee ground emesis, hematemesis, melena or abdominal pain. 	0	hematemesis	[u'denies']	6251	1348	1461
+662671	1	he denies any recent chest pain, SOB, N/V, coffee ground emesis, hematemesis, melena or abdominal pain. 	0	melena	[u'denies']	6251	1348	1461
+662671	1	This is an 80 yom with PMH of HTN and s/p bioprosthetic MVR who presented with BRBPR now with severe hematochezia with resultant hypotension who has been transferred to the MICU. . 	0	BRBPR	[u'PMH', u'presented with']	6251	5183	5376
+662671	1	This is an 80 yom with PMH of HTN and s/p bioprosthetic MVR who presented with BRBPR now with severe hematochezia with resultant hypotension who has been transferred to the MICU. . 	0	hematochezia	[u'PMH', u'now with']	6251	5183	5376
+662671	1	# Hematochezia: Likely from known diverticulosis of the entire colon. 	1	Hematochezia	[]	6251	5376	5449
+662671	1	will cont to transfuse as patient continues with active bleeding. 	0	bleeding	[u'transfuse']	6251	5496	5566
+662671	1	- transfuse 1uPRBC per hour while bleeding - check HCT now - 1L IVF now, wide open - f/u GI consult . 	0	bleeding	[u'transfuse']	6251	5651	5768
+33128	0	Bleeding, new or increased drainage from incision or white, yellow or green drainage from incisions ??	1	Bleeding	[]	7659	7073	7175
+33128	0	Bleeding from groin puncture site Followup Instructions: 	1	Bleeding	[]	7659	7235	7293
+582799	0	He was noted to be anemic with guaiac positive stools during last admission. 	1	guaiac positive	[]	11509	8955	9036
+553409	1	DIC labs with Mon am labs for spreading hematoma.	1	hematoma	[]	12271	281	330
+553409	1	[**2840-1-23**] 04:26 AM WBC 9.1 9.3 8.6 8.5 Hct 28.9 28.3 28.2 26.6 28.5 Plt 72 73 67 70 Cr 1.1 1.0 0.9 0.8 0.9 TCO2 40 43 44 43 Glucose 193 155 163 170 126 125 Other labs: PT / PTT / INR:12.7/29.5/1.1, CK / CKMB / Troponin-T:36/2/0.20, ALT / AST:[**8-24**], Alk Phos / T Bili:43/0.3, Differential-Neuts:90.5 %, Band:0.0 %, Lymph:4.7 %, Mono:4.5 %, Eos:0.2 %, Fibrinogen:105 mg/dL, Lactic Acid:0.9 mmol/L, Albumin:3.5 g/dL, LDH:284 IU/L, Ca++:8.6 mg/dL, Mg++:2.2 mg/dL, PO4:3.4 mg/dL Assessment and Plan Impression: 82 year old female with CAD s/p CABG and AVR, AF, and COPD on home oxygen, presenting from OSH for management of GI bleed, and hypercarbic respiratory failure, with failure to extubate x2 while admitted. 	1	bleed	[]	12271	4408	5265
+553409	1	Gastrointestinal Bleeding: HCT stable at 28 x3 days. 	1	Bleeding	[]	12271	6561	6617
+553409	1	No EGD only evidence for GI bleed is guaiac positive stool on admission.	0	guaiac positive	[u'No']	12271	6617	6692
+553409	1	No EGD only evidence for GI bleed is guaiac positive stool on admission.	0	bleed	[u'No']	12271	6617	6692
+553409	1	Also has large ecchymosis surrounding L upper leg. 	1	ecchymosis	[]	12271	6723	6777
+553409	1	- transfusion goal > 25 - PO PPI daily - monitoring hematoma.	0	hematoma	[u'monitor']	12271	6854	6921
+553409	1	Low threshold to CT for RP bleed if HCT keeps dropping. 	1	bleed	[]	12271	6922	6984
+553409	1	- daily PLT check - transfuse for platelets < 50 or active bleeding - consider restarting anticoagulation for AF. 	0	bleeding	[u'transfuse']	12271	7184	7307
+553409	1	Currently not anticoagulated after GI bleed, but has been stable in Hct x3 days. 	0	bleed	[u'not']	12271	7387	7474
+553409	1	p CABG/AVR c/b L diaphragm paralysis, a-fib, COPD on home O2 (chronic CO2 retainer) admitted initially to OSH with bradycardia, HOTN, unresponsiveness, ARF (atn), GIB and acute on chronic hypercarbic resp failure.	1	GIB	[]	12271	9096	9318
+553409	1	*] for management of GIB. 	1	GIB	[]	12271	9353	9380
+553409	1	* arf * anemia GIB Groin hematoma 	1	GIB	[]	12271	10275	10337
+553409	1	* arf * anemia GIB Groin hematoma 	1	hematoma	[]	12271	10275	10337
+553409	1	Hct stable and suspect multifactorial etiology of anemia with probable slow GIB, hematoma, phlebotomy all factors. 	1	GIB	[]	12271	11281	11400
+553409	1	Hct stable and suspect multifactorial etiology of anemia with probable slow GIB, hematoma, phlebotomy all factors. 	1	hematoma	[]	12271	11281	11400
+553409	1	Monitor hematoma on groin and back. 	0	hematoma	[u'Monitor']	12271	11457	11497
+553409	1	Follow h/h, keeping active T and C. IF hct drops again will scan for RP bleed (had fem linme at OSH) 	0	bleed	[u'IF']	12271	11497	11609
+346727	0	w/no evidence of acute bleeding. . 	0	bleeding	[u'no evidence']	11216	10770	10811
+571748	0	: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube Cardiovascular:	0	Epistaxis	[u'No']	7335	2303	2376
+649350	0
+2069	0
+324854	0
+657140	0
+531908	0
+4970	0	Legal blindness with retinal hemorrhages. 	1	hemorrhage	[]	13005	2722	2765
+652547	1	**1-5**] bleeding concerns. 	1	bleeding	[]	10944	5302	5331
+652547	1	- discontinue metoprolol as in the setting of shock her BP will not tolerate - continue amiodarone load for rhythm control - holding AC at this time given bleeding issue . 	0	bleeding	[u'not']	10944	6223	6410
+652547	1	Had melenotic/frankly bloody bm [	1	bloody	[]	10944	7193	7229
+652547	1	# Heme: Early anemia and thrombocytopenia are likely components due to blood loss from open fasciotomy, contributory factors include dilution from large volume IV repletion. 	1	blood loss	[]	10944	8730	8911
+652547	1	- Transfuse FFP if INR rise or bleeding continues, goal INR < 1.5 - appreciate and follow - heme-onc regarding the anemia/thrombocytopenia. 	0	bleeding	[u'if']	10944	9315	9464
+696561	0
+22567	0	There was extensive ecchymosis on right side of abdomen and flank.	1	ecchymosis	[]	10305	7424	7490
+22567	0	*] if nausea, vomiting, inability to take medication, redness/bleeding from incision, jaundice, or confusion Labs every Monday and Thursday for cbc, chem 10, ast,alt, alk phos, t.bili, albumin and trough prograf level.	0	bleeding	[u'if']	10305	9106	9324
+425916	0
+1921	0
+386937	0
+344321	0
+540908	0	**] with hemorrhagic conversion, started on ASA at that time, DM 2, HTN, MVR	1	hemorrhag	[]	7565	279	358
+391523	0	#Anemia Hct stable over several days; unclear baseline; recent GIB w/ C-scope showing colonic AVM that was cauterized -daily hct . 	1	GIB	[]	8199	6773	6917
+713627	0
+606255	0
+458946	0
+637254	0	CT with signs of anoxic brain injury without hemorrhage or shift.	0	hemorrhage	[u'without']	9659	6259	6327
+650379	0
+21462	1	She was seen at an outside hospital, underwent an MRI, which showed a worsening subdural hematoma and she was transferred to this facility for further management. 	1	hematoma	[]	3482	540	704
+21462	1	Remarkable for hypertension; a left stroke in [**2979**], seizure history, diabetes, dementia, and right subdural hematoma. 	0	hematoma	[u'history']	3482	727	852
+21462	1	She was brought to the operating room where she underwent a right frontal and parietal burr hole and craniotomy with the evacuation of subdural hematoma as well as placement of subdural drain. 	1	hematoma	[]	3482	1761	1954
+490717	0
+362997	0
+730788	1	GI Bleed:	1	Bleed	[]	4795	3290	3299
+730788	1	Hematemesis and maroon stools with h/o erosive gastritis, although NG lavage in ED negative.	1	maroon stool	[]	4795	3300	3395
+730788	1	Hematemesis and maroon stools with h/o erosive gastritis, although NG lavage in ED negative.	1	Hematemesis	[]	4795	3300	3395
+730788	1	Heavy ETOH use and ongoing Coumadin may have both contributed to upper GI bleed.	1	bleed	[]	4795	3396	3479
+730788	1	HTN: - Holding all anti-hypertensives in setting of current GIB #.	1	GIB	[]	4795	4195	4267
+35856	0
+460449	0	Start lopressor Pulmonary: IS, Discontinue chest tube(s), OOB and CPT Gastrointestinal / Abdomen: Nutrition: Regular diet Renal: Foley, Adequate UO, Lasix now for acute fluid overload Hematology: Serial Hct, No evidence of bleeding Endocrine: RISS,	0	bleeding	[u'No evidence']	7067	5904	6170
+492012	0	**] neuro, old brain hemorrhage on MRI, L arm tremor, chronically elevated CK, sleep apnea on home CPAP, s/	1	hemorrhage	[]	6696	321	434
+464786	1	Bloody eye on right Head, Ears, Nose, Throat:	1	Bloody	[]	10568	3378	3426
+464786	1	# UGIB: Patient was noted to have a small amount of bright red blood in his NG tube on [**1-1**], NG lavage did not demonstrate an active bleed. 	0	bleed	[u'not']	10568	9237	9389
+464786	1	Hct stable despite small GIB noted on [	1	GIB	[]	10568	9994	10036
+38197	0
+337810	0
+419943	0
+507667	0
+54303	0	CT of head with craniotomy on the left, no acute bleeding. 	0	bleeding	[u'no']	11684	999	1059
+54303	0	No acute intracranial hemorrhage.	0	hemorrhage	[u'No']	11684	4633	4666
+54303	0	The pt also underwent a CT head which ruled out a mass effect or bleed.	1	bleed	[]	11684	5583	5654
+54303	0	-Substance abuse with h/o DTs -Bipolar disorder -Multiple suicide attempts -s/p subdural hematoma in '[**67	0	hematoma	[u'h/o']	11684	10362	10469
+25326	0
+358800	0	FiO2: 383 Physical Examination General Appearance: No acute distress Cardiovascular: (Rhythm: Regular) Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA bilateral : , Diminished: bilateral bases), Small hematoma at superior margin of sternotomy incision Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present Left Extremities:	0	hematoma	[u'No']	6231	3209	3584
+358800	0	Dry dressings, will con t to follow exam of sternotomy hematoma is currently stable Imaging: none Fluids:	1	hematoma	[]	6231	5661	5776
+460186	0
+35517	0
+726306	0
+7407	0	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	11353	1851	2064
+7407	0	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	11353	1851	2064
+7407	0	On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	11353	1851	2064
+7407	0	feet wrapped in dressing, no exudate or bleeding. 	0	bleeding	[u'no']	11353	3508	3558
+7407	0	stable, no ecchymosis or hematoma at pacer site or left chest site. 	0	ecchymosis	[u'no']	11353	9523	9593
+7407	0	stable, no ecchymosis or hematoma at pacer site or left chest site. 	0	hematoma	[u'no']	11353	9523	9593
+669068	0	Left groin 2+ pulse, no bruit or hematoma. 	0	hematoma	[u'no']	1501	1158	1205
+620963	0
+469950	0	Patient denies chest pain or dyspnea, endorses some constipation but no black/bloody stools, dysuria or abdominal pain. 	0	bloody	[u'no']	11558	1330	1456
+539573	0
+379314	0
+529526	0
+623314	0
+693255	0
+593023	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. 	0	red stool	[u'history of']	8449	1242	1464
+593023	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. 	0	hemoptysis	[u'history of']	8449	1242	1464
+593023	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. 	0	bleeding	[u'history of']	8449	1242	1464
+428393	1	#hematuria: most c/w foley trauma. 	1	hematuria	[]	8398	7952	7990
+7402	0	Postoperative blood loss anemia, corrected. 	1	blood loss	[]	6214	5890	5962
+686897	0	Hypoxemic respiratory failure: Likely secondary to pulmonary edema secondary to acute congestive heart failure, although hemorrhage, aspiration pneumonia, ARDS also on differential. 	1	hemorrhage	[]	11289	9137	9328
+686897	0	CT torso without evidence of intraabdominal bleed. 	0	bleed	[u'without']	11289	9818	9870
+686897	0	Has had guaiac + stools.	1	guaiac +	[]	11289	9870	9897
+619189	0	CHEST WALL: with R-sided chest tube; minimal oozing, bloody output ABDOMEN: Soft, ND.	1	bloody	[]	11342	4635	4723
+619189	0	- CXR with side port in chest wall, fine by Thoracics unless develops airleak - repeat CXR; obtain daily CXR - follow chest tube output - monitor Hct as chest tube output bloody . 	0	bloody	[u'monitor']	11342	8909	9107
+654381	0
+347178	0	No signs or symptoms of active bleeding. 	0	bleeding	[u'No']	7499	5963	6007
+347178	0	No signs or symptoms of active bleeding. 	0	bleeding	[u'No']	7499	6144	6188
+37802	0	Upper mediastinal contour has normal postoperative appearance with no indication of recurrent localized bleeding. 	0	bleeding	[u'no']	12096	3721	3835
+632443	0
+323430	0	[**3-3**] EF of 50% & severe LVH Atrial fibrillation previously on Coumadin (until GI bleed [**6-3**]), failed cardioversion s/p Pacemaker placement	0	bleed	[u'previous']	9709	2774	2933
+323430	0	mouth, No(t) Epistaxis Cardiovascular:	0	Epistaxis	[u'No']	9709	3472	3513
+323430	0	no anticoagulation given recent GI bleed #.	0	bleed	[u'no']	9709	9145	9191
+10679	0	He remained intubated until postoperative day #1 due to slightly excess amounts of postoperative bleeding and coagulopathy, which were corrected over the first 12 to 18 hours. 	1	bleeding	[]	9876	2264	2441
+34351	0
+7798	0
+444264	0
+323135	0
+428782	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	7012	1019	1240
+428782	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	7012	1019	1240
+428782	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	7012	1019	1240
+359608	1	pt developed temp of 101.7- blood stopped, given tylenol x 1 g and benadryl x 25mg IV - pt became confused, likely in withdrawl, DTs, given valium, 60mg over 2 hours, required leather restraints, HR still in 130s; then valium 10mg Q30minutes PRN ordered since pt still restless - CTA showed psuedoanuresym near duodenum, may be source of bleeding, radiology recommends embolizing vessel before pancrease bx - hct after 1.75 units pRBCs 31.1 - now valium decreased to 10mg Q1hour 24 Hour Events: ENDOSCOPY - At [**3177-2-5**] 12:00 PM FEVER - 101.8 F - [**3177-2-5**] 08:00 PM Allergies: No Known Drug Allergies Last dose of Antibiotics: Infusions: Other ICU medications: Diazepam (Valium) - [**3177-2-6**] 06:30 AM Other medications: Changes to medical and family history: Review of systems is unchanged from admission except as noted below Review of systems: Flowsheet Data as of 	1	bleeding	[]	5208	88	1033
+359608	1	EGD results do not reveal a site of bleeding. 	0	bleeding	[u'not']	5208	4133	4180
+359608	1	Multiple potential causes including small bowel or colonic bleeding. 	1	bleeding	[]	5208	4180	4255
+359608	1	Nonetheless the patient is not showing active signs of bleeding at this point. 	0	bleeding	[u'not']	5208	4255	4338
+669549	0	Not on anti-coagulation given history of severe GI bleed. 	0	bleed	[u'history of']	6723	5166	5228
+44869	0	Bleeding gums/nose 	1	Bleeding	[]	12071	1083	1102
+44869	0	[]WNL [-]SOB [-]Pleuritic pain [-]Hemoptysis 	1	Hemoptysis	[]	12071	1236	1281
+44869	0	q am[-]Constipation [-]Hematemesis [-]Hematochezia [-]Melena 	1	Hematemesis	[]	12071	1439	1500
+44869	0	q am[-]Constipation [-]Hematemesis [-]Hematochezia [-]Melena 	1	Hematochezia	[]	12071	1439	1500
+44869	0	q am[-]Constipation [-]Hematemesis [-]Hematochezia [-]Melena 	1	Melena	[]	12071	1439	1500
+44869	0	-Heme/Lymph: [X]WNL []Bleeding []Bruising []Lymphadenopathy -GU: [X]WNL []Incontinence/Retention []Dysuria []Hematuria []Discharge []Menorrhagia -Skin: [X]WNL []Rash []Pruritus -Endocrine:	1	Hematuria	[]	12071	1500	1688
+44869	0	-Heme/Lymph: [X]WNL []Bleeding []Bruising []Lymphadenopathy -GU: [X]WNL []Incontinence/Retention []Dysuria []Hematuria []Discharge []Menorrhagia -Skin: [X]WNL []Rash []Pruritus -Endocrine:	1	Bleeding	[]	12071	1500	1688
+664889	0
+49930	1	O/W negative for HA, URI sxs, chest pain, orthopnea, PND, palpatations, melena, hematochezia, dysuria, hesitancy. 	0	hematochezia	[u'negative']	17893	1829	1945
+49930	1	O/W negative for HA, URI sxs, chest pain, orthopnea, PND, palpatations, melena, hematochezia, dysuria, hesitancy. 	0	melena	[u'negative']	17893	1829	1945
+49930	1	Susceptibility artifacts are present indicating prior hemorrhage.	0	hemorrhage	[u'prior']	17893	8516	8581
+49930	1	Dysphagia started 9 years ago after intubation for blood loss s/t GYN surgery, but it worsening priot to admission and while in-house. 	1	blood loss	[]	17893	11474	11610
+596724	0	Scant bleeding noted at cath site.	1	bleeding	[]	7697	999	1036
+596724	0	Renally dose meds - goal 500 cc + today # Cirrhosis/G positive stools:	1	G positive	[]	7697	6495	6571
+596724	0	GIB. 	1	GIB	[]	7697	7274	7282
+602906	0
+630092	0	- will clarify why patient is not on aspirin (likely related to history of GIB) - will also clarify why patient is not on a BB (likely because of COPD) and statin # Lower back pain: - continue fentanyl patch 	0	GIB	[u'history of']	7465	6520	6746
+20725	0	GI bleed, status post colonoscopy in [**2607-3-8	1	bleed	[]	7971	1608	1656
+20725	0	No hematoma or bruits. 	0	hematoma	[u'No']	7971	2937	2961
+20725	0	The patient had a history of GI bleed and was transfused over the course of his stay to keep a goal hematocrit greater than 30. 	0	bleed	[u'history of']	7971	6293	6422
+562922	0
+10311	0
+529959	0	R groin with ecchymosis over previous cath site Labs / Radiology 109 K/uL 8.0 g/dL 	1	ecchymosis	[]	5991	2864	2962
+9568	0
+397504	0
+502880	0	No evidence of bleeding at this time. 	0	bleeding	[u'No evidence']	6068	3963	4005
+555630	0	Sclera anicteric, pupils pinpoint, ETT in place, disconjugate gaze improved, subconjunctival hemorrhages b/l Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly; PEG tube in place Ext: Warm, well perfused, 2+ pulses with edema to midcalf Labs / Radiology 	1	hemorrhage	[]	7363	2674	3156
+25553	0
+489805	0	# h/o CAD s/p CABG: Not on aspirin, presumably because of concern for bleeding while on coumadin.	0	bleeding	[u'Not']	7597	5971	6071
+16348	0
+461979	1	Chief Complaint: HPI: 56 yo F w/ ESLD and renal insufficiency now p/w diffuse bleeding, 	1	bleeding	[u'Chief Complaint:']	10309	10	104
+461979	1	Right arm hematoma 56 yo F w/ ESLD, ARF, bleeding and distended	1	hematoma	[]	10309	8493	8559
+461979	1	Right arm hematoma 56 yo F w/ ESLD, ARF, bleeding and distended	1	bleeding	[]	10309	8493	8559
+461979	1	Differential would include blood loss, sepsis and HRS.	1	blood loss	[]	10309	8812	8866
+461979	1	#Bleeding: Stopped for now.	1	Bleeding	[]	10309	9322	9349
+3723	0	*], pt was found to have diffuse ecchymoses, INR > 22.8, and hct of 28 (recent baseline 38.1).	1	ecchymoses	[u'found to have']	14912	846	940
+3723	0	Gen: lying comfortably in bed, NAD, diffuse ecchymoses over entire body HEENT: PERRL.	1	ecchymoses	[]	14912	1991	2076
+3723	0	L temporal ecchymoses. 	1	ecchymoses	[]	14912	2114	2137
+3723	0	Abd: soft, nt, nd, +BS, diffuse ecchymoses Ext: s/p L BKA.	1	ecchymoses	[]	14912	2252	2310
+3723	0	Radial pulses 2+, Diffuse ecchymoses on upper ext bilaterally. 	1	ecchymoses	[]	14912	2346	2409
+3723	0	No evidence of intracranial hemorrhage, mass effect, or fracture. . 	0	hemorrhage	[u'No evidence']	14912	4630	4698
+3723	0	No intracranial hemorrhage, mass, shift of normally midline structures, hydrocephalus or infarction are identified. 	0	hemorrhage	[u'No']	14912	4822	4938
+3723	0	*] to dehydration from decreased PO intake and in the setting of blood loss.	1	blood loss	[]	14912	5911	5987
+3723	0	CT chest/abdomen/pelvis/head negative for significant bleeding. 	0	bleeding	[u'negative']	14912	6047	6111
+3723	0	*] diffuse ecchymoses in setting of supratherapeutic INR.	1	ecchymoses	[]	14912	8509	8566
+3723	0	Pt was guaiac negative, so GIB unlikely. 	0	GIB	[u'negative', u'unlikely']	14912	8567	8608
+4681	0
+654725	1	COAGULOPATHY HYPOTHERMIA HYPOTENSION (NOT SHOCK) GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) RESPIRATORY FAILURE, ACUTE (	0	GIB	[u'NOT']	11542	6622	6757
+654725	1	COAGULOPATHY HYPOTHERMIA HYPOTENSION (NOT SHOCK) GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) RESPIRATORY FAILURE, ACUTE (	0	BLEED	[u'NOT']	11542	6622	6757
+654725	1	COAGULOPATHY HYPOTHERMIA HYPOTENSION (NOT SHOCK) GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) RESPIRATORY FAILURE, ACUTE (	0	MELENA	[u'NOT']	11542	6622	6757
+654725	1	COAGULOPATHY HYPOTHERMIA HYPOTENSION (NOT SHOCK) GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB) RESPIRATORY FAILURE, ACUTE (	0	BLEED	[u'NOT']	11542	6622	6757
+654725	1	[**5-7**] on coumadin who was found unresponsive and bradycardic, INR of 10 and active upper/lower GI bleeds who was transferred from [**Hospital 2384	1	bleed	[]	11542	6883	7039
+654725	1	Unclear if underlying event was hypotension vs aspiration of bloody gastric materials as bloody/brown secretions coming from mouth and some frank blood being suctionned from ETT.	0	bloody	[u'vs']	11542	7194	7378
+654725	1	Unclear if underlying event was hypotension vs aspiration of bloody gastric materials as bloody/brown secretions coming from mouth and some frank blood being suctionned from ETT.	0	bloody	[u'vs']	11542	7194	7378
+654725	1	Another possibility is pulm hemorrhage. 	1	hemorrhage	[]	11542	7379	7423
+654725	1	# GI bleed/elevated INR: Pt with known diverticulosis and internal hemorrhoids who presented after being found down with blood around her mouth, INR of 10 and BRBPR now s/p 4units FFP with ongoing hypotension. 	1	bleed	[]	11542	9071	9290
+654725	1	# GI bleed/elevated INR: Pt with known diverticulosis and internal hemorrhoids who presented after being found down with blood around her mouth, INR of 10 and BRBPR now s/p 4units FFP with ongoing hypotension. 	1	BRBPR	[]	11542	9071	9290
+654725	1	EGD with no active source of bleeding. 	0	bleeding	[u'no']	11542	9332	9377
+654725	1	- not actively bleeding, does have guaiac pos stool - maintain active type and screen - will not transfuse now in the setting of volume overload.	0	guaiac pos	[u'not']	11542	9377	9528
+654725	1	- not actively bleeding, does have guaiac pos stool - maintain active type and screen - will not transfuse now in the setting of volume overload.	0	bleeding	[u'not']	11542	9377	9528
+654725	1	EKGs appear at baseline, troponin leak likely due to strain in setting hypotension, bradycardia and GI bleed. 	1	bleed	[]	11542	9613	9729
+654725	1	pt appears to have had an NSTEMI/Demand ischemia - holding ASA & Coumadin due to GI bleed - holding BB & Statin due to GI bleed . 	1	bleed	[]	11542	9855	10000
+654725	1	pt appears to have had an NSTEMI/Demand ischemia - holding ASA & Coumadin due to GI bleed - holding BB & Statin due to GI bleed . 	1	bleed	[]	11542	9855	10000
+654725	1	Pt with active GI bleed complicated by elevated INR - holding coumadin, check INR today; last INR was 1.4 - hold aspirin - hold BB, hypotensive, req pressors . 	1	bleed	[]	11542	10406	10581
+36257	0
+439535	1	The patient was started on a Heparin gtt for concern of PE despite guaiac positivity (no bolus) and was transferred to the ICU for further monitoring. 	1	guaiac pos	[]	10999	366	526
+439535	1	# Hypoxic Respiratory failure: Initially thought to be PE and patient was started on Heparin despite guaiac positivity. 	1	guaiac pos	[]	10999	8432	8556
+439535	1	- Intubate, initial ARDSnet ventilatory settings - Bronchoscopy to evaluate for hemorrhage, obtain BAL - D/C Heparin gtt - Broaden antibiotics to Vanc/Cipro/Cefepime (expanded GI and GNR coverage) - Q2 MDIs PRN - Obtain ABG/place Aline - Sedation with Fentanyl/Midazolam - BNP & Echo to evaluate for heart failure - EKG, Cardiac Enzymes - Repeat DFA 	1	hemorrhage	[]	10999	8737	9120
+441145	0
+43145	0
+592864	1	# Anemia Hct stable over several days; unclear baseline; recent GIB w/ C-scope showing colonic AVM that was cauterized -daily hct . 	1	GIB	[]	7837	6300	6445
+592864	1	Had recent Gi bleed but [**2-10**] colonic AVM which was cauterized therefore at low risk to re-bleed - restart BB when hemodynamically stable - start heparin gtt for now, hold coumadin until medically stable - trend INR . 	1	bleed	[]	7837	6879	7120
+592864	1	Had recent Gi bleed but [**2-10**] colonic AVM which was cauterized therefore at low risk to re-bleed - restart BB when hemodynamically stable - start heparin gtt for now, hold coumadin until medically stable - trend INR . 	1	bleed	[]	7837	6879	7120
+520764	0
+602153	0	Aspirin rectal bleeding Penicillins Rash; Hives; Sulfonamides aseptic menigi Biaxin (Oral) (Clarithromycin) Diarrhea; Levaquin (Oral) (Levofloxacin) Rash; Cefzil (Oral) (Cefprozil) Rash; Motrin (Oral) (Ibuprofen) aseptic meningi Erythromycin Base Rash; Last dose of Antibiotics: Metronidazole -	1	bleeding	[]	8730	548	893
+330464	0
+649849	1	[**11-27**], right groin site had increased swelling and hematoma, reeval for hematoma. 	1	hematoma	[]	8957	5949	6041
+649849	1	[**11-27**], right groin site had increased swelling and hematoma, reeval for hematoma. 	1	hematoma	[]	8957	5949	6041
+649849	1	If suspect re-bleed, will R-CT of R leg, surgery onboard. 	0	bleed	[u'If']	8957	6190	6251
+649849	1	No heparin after hematoma development on [	0	hematoma	[u'No']	8957	6658	6700
+379832	1	bleed I saw and examined the patient, and was physically present with the ICU Resident for key portions of the services provided. 	1	bleed	[]	5774	31	168
+379832	1	Cont G+ stools, evolving into frank melena. 	1	melena	[]	5774	732	779
+379832	1	ETOH abuse hernia repair prior GIB hypercholesterolemia father MI@68 mother breast cancer@52 Occupation: retired teacher Drugs: denies Tobacco: nonsmoker Alcohol: social w/ h/o heavy Other: Married w/ children Review of systems: Constitutional: Fatigue Cardiovascular: Edema, Orthopnea Respiratory: Dyspnea 	0	GIB	[u'prior']	5774	1452	1804
+379832	1	Gastrointestinal: melena 	1	melena	[]	5774	1804	1832
+379832	1	Tone: Not assessed Labs / Radiology 266 K/uL 26.4 % 8.5 g/dL 3.8 K/uL [image002.jpg] [**2861-4-4**] 07:32 PM WBC 3.8 Hct 26.4 Plt 266 Other labs: Differential-Neuts:75.2 %, Lymph:10.7 %, Mono:11.1 %, Eos:2.4 % Assessment and Plan 62F with GIB in setting of severe biventricular failure with recent correction of PFO	0	GIB	[u'Not']	5774	3805	4307
+379832	1	Two regions in colon with oozing c/w source of bleeding, also bleeding lesion noted in 	1	bleeding	[]	5774	4434	4527
+379832	1	Two regions in colon with oozing c/w source of bleeding, also bleeding lesion noted in 	1	bleeding	[]	5774	4434	4527
+379832	1	GI bleed - - setting of aspirin and plavix for PFO placement - Cardiology consulted re: anticoag - feels need to continue treatement given risk of coagulation in setting of PFO s/p occlusive device - serial hct - hemodynamically stable - check ekg 	0	bleed	[u'risk of']	5774	4587	4856
+379832	1	- maintain 2 preriph IV - cont PPI - GI following Anemia secondary to blood loss - transfuse to hct of 30 CHF - biventricular -lasix and diuril drips on hold secondary to bleeding -careful fluid balance, follow sats Respiratory -extubated successfully in PACU. 	1	blood loss	[]	5774	4856	5145
+379832	1	- maintain 2 preriph IV - cont PPI - GI following Anemia secondary to blood loss - transfuse to hct of 30 CHF - biventricular -lasix and diuril drips on hold secondary to bleeding -careful fluid balance, follow sats Respiratory -extubated successfully in PACU. 	0	bleeding	[u'transfuse']	5774	4856	5145
+379832	1	UF Patient is critically ill with signficant threat of rebleed and significant anemia related to blood loss. 	1	blood loss	[]	5774	5284	5400
+685529	0
+671199	0
+45864	1	While in house, early in her stay, the patient experienced bright red blood per rectum for which she was treated with vitamin K and underwent a colonoscopy which showed internal hemorrhoids and diverticulosis in the sigmoid and descending colon; otherwise a normal study. 	1	blood per rectum	[]	5923	1427	1700
+458983	0	Patient high risk for bleeding with further anticoagulation and pain free at this time. 	1	bleeding	[]	7899	4751	4848
+391298	0	# Anemia Hct stable over several days; unclear baseline; recent GIB w/ C-scope showing colonic AVM that was cauterized -daily hct . 	1	GIB	[]	8295	6724	6869
+391298	0	Had recent Gi bleed but [**2-10**] colonic AVM which was cauterized therefore at low risk to re-bleed - restart BB when hemodynamically stable - start heparin gtt for now, hold coumadin until medically stable - trend INR . 	1	bleed	[]	8295	7303	7544
+391298	0	Had recent Gi bleed but [**2-10**] colonic AVM which was cauterized therefore at low risk to re-bleed - restart BB when hemodynamically stable - start heparin gtt for now, hold coumadin until medically stable - trend INR . 	1	bleed	[]	8295	7303	7544
+513192	0
+48871	1	*] - Laparoscopic right colectomy complicated by anastomotic bleed requiring exploratory laparoscopy	1	bleed	[]	12702	1314	1414
+48871	1	*] - Laparoscopic right colectomy complicated by anastomotic bleed requiring exploratory laparoscopy	1	bleed	[]	12702	10606	10706
+704392	0
+654820	0
+671201	0	/O RETROPERITONEAL BLEED (RP BLEED) , PROCEDURE-RELATED, .H	1	BLEED	[]	6697	5505	5567
+671201	0	/O RETROPERITONEAL BLEED (RP BLEED) , PROCEDURE-RELATED, .H	1	BLEED	[]	6697	5505	5567
+626544	0
+338458	0	FEN: ACCESS: PIV's PROPHYLAXIS: -Holding DVT ppx for now given bleeding risk. 	1	bleeding	[]	5443	5013	5103
+44818	0
+491779	0
+28943	0
+3186	0
+406380	0
+604543	0	Stable anemia, no active bleeding.	0	bleeding	[u'no']	8840	7523	7557
+41213	0	Mom with cerebral hemorrhage at 48 yo.	1	hemorrhage	[]	15633	2096	2134
+695619	0
+35226	0
+564547	1	Chief Complaint: BRBPR & DOE HPI: 64	1	BRBPR	[u'Chief Complaint:']	7604	0	43
+564547	1	y/o M with PMHx of Diastolic Heart Failure, OSA/Pulm HTN, Severe COPD on home O2, Afib s/p AV-junction ablation and PCM placement who presents with DOE and BRBPR.	0	BRBPR	[u'presents with', u'PMH']	7604	44	212
+564547	1	His last bloody	1	bloody	[]	7604	499	514
+564547	1	He denied any emesis or hematemesis, though developped some nausea after getting oral care in the unit. . 	0	hematemesis	[u'denied']	7604	1158	1276
+564547	1	# GI Bleed:	1	Bleed	[]	7604	4813	4824
+564547	1	Pt presenting with 3-4 days of dark stools and BRBPR, hct drop to Pt now receiving first unit of prbcs -	1	BRBPR	[u'presenting with']	7604	4825	4935
+564547	1	Pt denies mucosal bleeding, hematuria and hemoptysis. 	0	bleeding	[u'denies']	7604	5593	5651
+564547	1	Pt denies mucosal bleeding, hematuria and hemoptysis. 	0	hemoptysis	[u'denies']	7604	5593	5651
+564547	1	Pt denies mucosal bleeding, hematuria and hemoptysis. 	0	hematuria	[u'denies']	7604	5593	5651
+564547	1	# Diastolic Dysfunction: Pt with known diastolic dysfunction presenting with significant hct drop and GI bleed, now being aggressively resuscitated with blood products. 	1	bleed	[u'presenting with']	7604	6121	6297
+564547	1	Pt is likely pre-renal due to hypovolemia from blood loss. 	1	blood loss	[]	7604	6586	6646
+564547	1	Elevated BUN may also be due to upper GI bleed. 	1	bleed	[]	7604	6646	6698
+695344	0
+18899	1	gastrointestinal bleed [	1	bleed	[]	9637	1540	1564
+18899	1	The patient was positive for heartburn treated with antacids, positive nocturia times four, negative for transient ischemic attack, negative for cerebrovascular accident, negative for hematochezia, negative for palpitations. 	0	hematochezia	[u'negative']	9637	1980	2206
+18899	1	The patient had increased chest tube drainage on the morning of postoperative day one and was moderately hemodynamically stable and chest x-ray showed mediastinal left pleural apex hematoma. 	1	hematoma	[]	9637	4184	4376
+18899	1	He was taken for reexploration for increased chest tube output and hematoma left chest. 	1	hematoma	[]	9637	4376	4465
+18899	1	The patient was taken back to the Operating Room for bleeding and upon reexploration clot in the left pleural space was found and left internal mammary coronary artery side branch was found to have mild bleeding. 	1	bleeding	[]	9637	4465	4679
+18899	1	The patient was taken back to the Operating Room for bleeding and upon reexploration clot in the left pleural space was found and left internal mammary coronary artery side branch was found to have mild bleeding. 	1	bleeding	[u'found to have']	9637	4465	4679
+18899	1	Status post reoperation for bleeding. 	1	bleeding	[]	9637	9274	9312
+593402	0	[**3221-6-9**] 09:00 PM Other medications: Changes to medical and family history: n/a Review of systems is unchanged from admission except as noted below Review of systems: c/o nausea, 2 episodes brown, non-bloody emesis O/N attributed to dinner not agreeing with me; now feels fine; no f/c, abd pain, diarrhea, melena, hematochezia Flowsheet Data as of [	0	melena	[u'no']	6156	543	921
+593402	0	[**3221-6-9**] 09:00 PM Other medications: Changes to medical and family history: n/a Review of systems is unchanged from admission except as noted below Review of systems: c/o nausea, 2 episodes brown, non-bloody emesis O/N attributed to dinner not agreeing with me; now feels fine; no f/c, abd pain, diarrhea, melena, hematochezia Flowsheet Data as of [	0	hematochezia	[u'no']	6156	543	921
+637189	1	G-tube bleeding-bleeding upon residual check.	1	bleeding	[]	8892	6737	6782
+637189	1	G-tube bleeding-bleeding upon residual check.	1	bleeding	[]	8892	6737	6782
+637189	1	Likely secondary chronic disease and blood loss from blood draws and procedure. 	1	blood loss	[]	8892	7861	7945
+637189	1	Also has neck hematoma where IJ was attempted and has guaiac positive stools. 	1	guaiac positive	[]	8892	7945	8027
+637189	1	Also has neck hematoma where IJ was attempted and has guaiac positive stools. 	1	hematoma	[]	8892	7945	8027
+9764	0
+661641	0
+522403	1	*] yo man with recent GI Bleed due to duodenal ulcer- not bleeding- covered by clot.	0	bleeding	[u'not']	5409	247	334
+522403	1	*] yo man with recent GI Bleed due to duodenal ulcer- not bleeding- covered by clot.	1	Bleed	[]	5409	247	334
+522403	1	Noted recurrent melena and chest pain.	1	melena	[]	5409	360	401
+522403	1	GI Bleed- duodenal ulcer recently diagnosed [**3216-4-16**] CAD NSTEMI 1 year ago, no intervention CHF:	0	Bleed	[u'ago']	5409	837	946
+522403	1	Abdominal pain, No(t) Nausea, No(t) Emesis, melena 	0	melena	[u'No']	5409	1404	1461
+522403	1	GI Bleed 	1	Bleed	[]	5409	4357	4369
+522403	1	*] not benefit from scope as no e/o of continued bleed PPI NPO for now CAD, elevated cardiac enzymes holding asa and beta blocker continue trending enzymes and ECG Afib rate in good control HTN 	0	bleed	[u'no e/o']	5409	4427	4648
+522403	1	Critically ill with recent GI Bleed and cardiac ischemia. 	1	Bleed	[]	5409	5111	5172
+522403	1	Protected Section ------ Error: forgot to include chief complaint: GI Bleed. 	1	Bleed	[u'chief complaint:']	5409	5179	5262
+329188	0
+530743	1	am GIB: at 2am [**9-20**]-HCT 22.2 received 2units pRBCs and left femoral trauma line placed. 	1	GIB	[]	7902	87	189
+530743	1	u HCTs after transfusions showed HCT of 25.7 2units pRBCs; HCT increased from 25.7 to 31.5 to 32.4 and then decreased to 29.4 O/N. No hematemesis or melena O/N. Surgery was consulted and saw the pt; surgery rec ed platelets giving recent ASA/[**Name (NI)	0	melena	[u'No']	7902	191	457
+530743	1	u HCTs after transfusions showed HCT of 25.7 2units pRBCs; HCT increased from 25.7 to 31.5 to 32.4 and then decreased to 29.4 O/N. No hematemesis or melena O/N. Surgery was consulted and saw the pt; surgery rec ed platelets giving recent ASA/[**Name (NI)	0	hematemesis	[u'No']	7902	191	457
+530743	1	**Year (4 digits) 1454**], admitted with upper GI bleed. 	1	bleed	[]	7902	5124	5187
+530743	1	#GI Bleed: s/	1	Bleed	[]	7902	5187	5203
+530743	1	p EGD with cauterization/injection of active bleeding ulcer	1	bleeding	[]	7902	5203	5262
+530743	1	**] and ASA before admission, holding for GIB.	1	GIB	[]	7902	5855	5901
+530743	1	[**1-18**] to GIB until HCT stabilize. -	1	GIB	[]	7902	6125	6168
+530743	1	- hold all anti hypertensives during acute bleed - will provide anti-hypertensives (eg: hydralazine) PRN #	1	bleed	[]	7902	6293	6405
+642658	0
+708842	0
+578265	1	/O HEART FAILURE (CHF), SYSTOLIC, ACUTE AORTIC STENOSIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) .H	1	BLEEDING	[]	4802	4383	4506
+578265	1	/O HEART FAILURE (CHF), SYSTOLIC, ACUTE AORTIC STENOSIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) .H	1	HEMORRHAGE	[]	4802	4383	4506
+578265	1	/O HEART FAILURE (CHF), SYSTOLIC, ACUTE AORTIC STENOSIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) .H	1	BLOOD LOSS	[]	4802	4383	4506
+578265	1	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	BLEEDING	[]	4802	4506	4574
+578265	1	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	BLOOD LOSS	[]	4802	4506	4574
+578265	1	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	HEMORRHAGE	[]	4802	4506	4574
+20972	1	On [**4-14**] she went for PVI, but it was complicated by oropharnygeal bleeding [	1	bleeding	[]	15261	7806	7888
+20972	1	She was doing well and called out to the floor in stable condition, without any more bleeding.	0	bleeding	[u'without']	15261	8093	8187
+9922	0
+527336	0
+425616	0
+714614	0	[**12/3441**], h/o GI bleed	0	bleed	[u'h/o']	6735	941	968
+44452	1	*3202-7-21**] who presented with altered mental status, hypotension, and acute kidney injury and had a prolonged hospital course complicated by GI bleed. . 	1	bleed	[u'presented with']	27655	9064	9220
+44452	1	# Melena:	1	Melena	[]	27655	9220	9229
+44452	1	EGD showed only gastritis but no active bleeding.	0	bleeding	[u'no']	27655	9378	9427
+44452	1	The etiology of the patient's bleeding was thought to be related to accumulation of dabigatran in the setting of severe acute on chronic kidney injury.	1	bleeding	[]	27655	9692	9843
+44452	1	In the setting of GI bleeding, Plavix was stopped.	1	bleeding	[]	27655	14576	14626
+44452	1	Torsemide was held in the setting of acute renal failure and then continued to be held because of GI bleed. 	1	bleed	[]	27655	15281	15389
+44452	1	Dabigatran was held initially because of GI bleeding, which was likely related to accumulated dabigatran in the setting of acute kidney injury.	1	bleeding	[]	27655	15713	15856
+44452	1	**] after colonoscopy and EGD failed to identify a source of bleeding, and the patient's Hct had been stable for several days. . 	1	bleeding	[]	27655	15897	16026
+44452	1	There was an acute component from acute blood loss, requiring transfusion of 2 units PRBCs.	1	blood loss	[]	27655	16572	16663
+44452	1	-GI bleeding, manifested as melena, of unclear etiology -urinary tract infection	1	melena	[]	27655	22278	22358
+44452	1	-GI bleeding, manifested as melena, of unclear etiology -urinary tract infection	1	bleeding	[]	27655	22278	22358
+44452	1	-peripheral vascular disease -s/p ampuation of right 4th toe -acute blood loss anemia -anemia of iron deficiency and chronic disease 	1	blood loss	[]	27655	22392	22525
+44452	1	Your course was also complicated by bleeding from your GI tract. 	1	bleeding	[]	27655	23048	23113
+44452	1	You had an upper endoscopy and colonoscopy which showed some irritation of your stomach, but did not show why you were bleeding.	0	bleeding	[u'did not show']	27655	23113	23241
+44452	1	It was thought that your dabigatran reached toxic levels due to your kidney failure, causing you to bleed. 	1	bleed	[]	27655	23242	23349
+44452	1	Dabigatran was restarted when your bleeding had resolved, your endoscopies were negative, and your kidney failure had improved. . 	1	bleeding	[]	27655	23349	23480
+608231	0
+652742	0
+512391	0	No e/o gross hemorrhage at present, although pt could have blood in ant neck collection. 	0	hemorrhage	[u'No e/o']	8365	7221	7314
+538613	0
+567947	0	*] polyp, LGI bleed N/C Occupation: retired Drugs: no Tobacco: never Alcohol:	1	bleed	[]	6133	1657	1749
+538611	0
+586761	0	- F/U daily coags and correct INR with vitamin K if has signs of bleeding or requires procedure. 	0	bleeding	[u'if']	13157	10454	10557
+29196	0	During her hospital course, she had episodes of small amounts of hemoptysis.	1	hemoptysis	[u'episodes of']	31095	20265	20341
+29196	0	The patient's hematocrit dring this time decreased from 18.0 to 9.0, possibly from intrabdominal hemorrhage from perforated bowel as a result of bowel ischemia.	1	hemorrhage	[]	31095	29975	30135
+548857	0
+360251	0
+702891	0
+598416	0
+397736	0
+529459	0	Cdiff negative Sternal wound - 2+ G + cocci in pairs and clusters Urine NG Assessment and Plan 	0	G +	[u'negative']	6781	5693	5803
+673718	0
+16288	0
+698612	0	**] prefers no heparin bridge due to concern for bleeding, so coumadin will begin tonight at 2.5mg -	0	bleeding	[u'no']	9547	547	653
+415821	0
+615576	1	- goal 500 cc + today # Cirrhosis/G positive stools: - Likely [**2-21	1	G positive	[]	6849	5695	5767
+615576	1	GIB. 	1	GIB	[]	6849	6435	6443
+9111	1	**] Re-exploration for bleeding History of Present Illness: 	1	bleeding	[]	16503	423	486
+9111	1	She was taken back to the operating room and underwent a mediastinal re-exploration and repair of bleeding right internal mammary artery and vein.	1	bleeding	[]	16503	9226	9372
+549227	0
+592618	0
+39941	0	- He denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	17982	1780	1972
+39941	0	- He denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	17982	1780	1972
+39941	0	- He denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	17982	1780	1972
+391065	1	ANXIETY HYPOTENSION (NOT SHOCK) ELECTROLYTE & FLUID DISORDER, OTHER TACHYCARDIA, OTHER ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN) WOUND DEHISCENCE CELLULITIS RESPIRATORY FAILURE, ACUTE (	0	BLOOD LOSS	[u'NOT']	4767	4073	4345
+391065	1	ANXIETY HYPOTENSION (NOT SHOCK) ELECTROLYTE & FLUID DISORDER, OTHER TACHYCARDIA, OTHER ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN) WOUND DEHISCENCE CELLULITIS RESPIRATORY FAILURE, ACUTE (	0	HEMORRHAGE	[u'NOT']	4767	4073	4345
+391065	1	ANXIETY HYPOTENSION (NOT SHOCK) ELECTROLYTE & FLUID DISORDER, OTHER TACHYCARDIA, OTHER ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN) WOUND DEHISCENCE CELLULITIS RESPIRATORY FAILURE, ACUTE (	0	BLEEDING	[u'NOT']	4767	4073	4345
+732166	0	No gross bleeding, and no clearly identified intrabdominal source of blood on CT overnight, though increased density of abdominal fluid raised question of a slow bleed however examination of fluid with diagnostic tap did not indicate significant bleeding.	0	bleeding	[u'not']	9042	5735	6002
+732166	0	No gross bleeding, and no clearly identified intrabdominal source of blood on CT overnight, though increased density of abdominal fluid raised question of a slow bleed however examination of fluid with diagnostic tap did not indicate significant bleeding.	0	bleeding	[u'No']	9042	5735	6002
+732166	0	No gross bleeding, and no clearly identified intrabdominal source of blood on CT overnight, though increased density of abdominal fluid raised question of a slow bleed however examination of fluid with diagnostic tap did not indicate significant bleeding.	0	bleed	[u'no']	9042	5735	6002
+732166	0	Could have slow GIB eg [**1-21**] gastritis.	1	GIB	[]	9042	6061	6105
+732166	0	Unlikely to be large pulmonary hemorrhage - guiac stools, monitor closely for any evidence of bleeding - holding heparin for now - look for fluid in lung by ultrasound - check q6h hcts - transfuse hct>25 - continue PPI 	0	hemorrhage	[u'Unlikely']	9042	6106	6349
+732166	0	Unlikely to be large pulmonary hemorrhage - guiac stools, monitor closely for any evidence of bleeding - holding heparin for now - look for fluid in lung by ultrasound - check q6h hcts - transfuse hct>25 - continue PPI 	0	bleeding	[u'monitor']	9042	6106	6349
+732166	0	- follow up final CT abdomen read (no overt RP bleed on wet read) 	0	bleed	[u'no']	9042	6349	6418
+732166	0	- Holding heparin for now given concern for bleeding . 	1	bleeding	[]	9042	8420	8481
+707283	0
+36215	0
+601040	0
+13419	0
+353973	0
+353972	0
+51377	0
+605647	0	No evidence of bleed.	0	bleed	[u'No evidence']	8832	6883	6904
+605647	0	Anemia: worsening Hct but no evidence of active bleeding at this point, could be dilutional from renal failure 	0	bleeding	[u'no evidence']	8832	7733	7850
+605647	0	> Liver failure with Esoph Varices: recent GI bleed no evidence of underlying encephalopathy as a an etiology - back on lactulose/rifax [**5-24**] - supportive therapy for coagulopathy 	1	bleed	[]	8832	7850	8048
+481327	0
+341695	0
+700971	0
+688320	0
+15988	0
+574280	0
+507125	0	**], with re-op for chest wall hematoma 	1	hematoma	[]	2182	259	302
+507125	0	man with lengthy hospital course for management of his significant PAD, s/p peripheral revascularization and re-op for bleeding, now with what appears to be hemodynamically tolerated slow VT. 	1	bleeding	[]	2182	1085	1289
+710993	0	*] - Continue Levothyroxine 125mcg PO daily # Gastric varices: Not likely bleeding as no blood in stomach after Dobhoff placement. 	0	bleeding	[u'Not']	8204	7570	7714
+537604	0	Decub Line site bleeding ICU Care 	1	bleeding	[]	6490	5983	6033
+47652	0	Denies fevers, chills, nausea, vomiting, abdominal pain, headache. +bloody sputum x2. 	0	bloody	[u'Denies']	13643	584	671
+47652	0	Chest CT was obtained which showed Interstitial Lung Disease; findings consistent with idiopathic pulmonary fibrosis with possible superimposed infection and/or alveolar hemorrhage. 	0	hemorrhage	[u'possible']	13643	9793	9976
+47652	0	failure of unknown etiology and brief hemoptysis a Pulmonary consult was ordered. 	1	hemoptysis	[]	13643	10004	10087
+47652	0	Per their opinion alveolar hemorrhage was very unlikely, and hemoptysis likely secondary to an underlying PNA. 	0	hemoptysis	[u'unlikely']	13643	10087	10199
+47652	0	Per their opinion alveolar hemorrhage was very unlikely, and hemoptysis likely secondary to an underlying PNA. 	0	hemorrhage	[u'unlikely']	13643	10087	10199
+47652	0	please call PCP or go to ED if suffering from persisting fever greater than 101.4, chest pain, shortness of breath, severe nausea and vomitting, inability to tolerate food or liquids, black stools, blood in stools, vomit with visible blood or coffee grounds, Followup Instructions: 	0	coffee ground	[u'if']	13643	12858	13141
+422119	1	Chief Complaint: 24 Hour Events: Given patients occasional blood per rectum	1	blood per rectum	[u'Chief Complaint:']	4876	10	91
+422119	1	He had several bowel movements yesterday [**2-17**] sucralfate enemas, does not know if they were bloody.	0	bloody	[u'if']	4876	594	705
+422119	1	[**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) ACUTE CORONARY SYNDROME (ACS, UNSTABLE ANGINA, CORONARY ISCHEMIA) DIABETES MELLITUS (DM), TYPE II PARKINSON'S DISEASE RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY DISEASE) 	1	GIB	[]	4876	4316	4623
+422119	1	[**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) ACUTE CORONARY SYNDROME (ACS, UNSTABLE ANGINA, CORONARY ISCHEMIA) DIABETES MELLITUS (DM), TYPE II PARKINSON'S DISEASE RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY DISEASE) 	1	BLEED	[]	4876	4316	4623
+422119	1	[**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) ACUTE CORONARY SYNDROME (ACS, UNSTABLE ANGINA, CORONARY ISCHEMIA) DIABETES MELLITUS (DM), TYPE II PARKINSON'S DISEASE RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY DISEASE) 	1	BLEED	[]	4876	4316	4623
+379288	0	Signs and symptoms absent Recent fevers, Chills, Rigors, Hemoptysis, Black / red stool, Bleeding during surgery, Joint pains, Myalgias Physical Exam Date and time of exam: [**2864-2-25**] at 12:23 pm General appearance: normal Vital signs: per other: metavision Height: 65 Inch, 165 cm BP right arm: 122 / 47	1	red stool	[]	7912	2562	2897
+379288	0	Signs and symptoms absent Recent fevers, Chills, Rigors, Hemoptysis, Black / red stool, Bleeding during surgery, Joint pains, Myalgias Physical Exam Date and time of exam: [**2864-2-25**] at 12:23 pm General appearance: normal Vital signs: per other: metavision Height: 65 Inch, 165 cm BP right arm: 122 / 47	1	Hemoptysis	[]	7912	2562	2897
+379288	0	Signs and symptoms absent Recent fevers, Chills, Rigors, Hemoptysis, Black / red stool, Bleeding during surgery, Joint pains, Myalgias Physical Exam Date and time of exam: [**2864-2-25**] at 12:23 pm General appearance: normal Vital signs: per other: metavision Height: 65 Inch, 165 cm BP right arm: 122 / 47	1	Bleeding	[]	7912	2562	2897
+349904	0
+507714	1	CK / CKMB / Troponin-T:106/5/0.08, Differential-Neuts:78.0 %, Band:2.0 %, Lymph:13.0 %, Mono:5.0 %, Eos:0.0 %, Fibrinogen:202 mg/dL, Lactic Acid:0.8 mmol/L, Ca++:8.0 mg/dL, Mg++:2.2 mg/dL, PO4:3.2 mg/dL Assessment and Plan 78 F with MMP including dHF, OSA, s/p trach, HTN, DM, atrial fibrillation on warfarin, history of LGIB	0	LGIB	[u'history of']	8195	3870	4213
+507714	1	**] presents with rectal bleeding. . 	1	bleeding	[u'presents with']	8195	4249	4295
+507714	1	# BRBPR - likely etiology is diverticulosis given similar presentation in [**2908*	1	BRBPR	[]	8195	4295	4380
+507714	1	Patient initially went emergently to angio but no bleed was identified.	0	bleed	[u'no']	8195	4589	4663
+507714	1	Yesterday, she received a colonoscopy which showed old blood, multiple diverticuli but no clear source of bleed.	0	bleed	[u'no']	8195	4664	4779
+507714	1	Remains with stable HCT x24hrs post-bleed. 	1	bleed	[]	8195	4827	4876
+507714	1	heparin given magnitude of bleed. 	1	bleed	[]	8195	6822	6859
+45514	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, cough, hemoptysis, black stools or red stools.	0	hemoptysis	[u'history of']	11049	2213	2412
+45514	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, cough, hemoptysis, black stools or red stools.	0	bleeding	[u'history of']	11049	2213	2412
+45514	0	On review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, cough, hemoptysis, black stools or red stools.	0	red stool	[u'history of']	11049	2213	2412
+44859	0
+14512	0
+624731	0
+6511	1	Small regions of hemorrhagic transformation. 	1	hemorrhag	[]	16754	4273	4318
+6511	1	There is no evidence of acute intracranial hemorrhage. 	0	hemorrhage	[u'no evidence']	16754	7501	7556
+6511	1	No acute intracranial hemorrhage. 	0	hemorrhage	[u'No']	16754	7899	7933
+6511	1	A repeat CT head showed no acute intracranial hemorrhage and an evolving left PCA territory subacute infarct. 	0	hemorrhage	[u'no']	16754	12592	12703
+646404	0
+593253	0
+580516	0	No hematoma c/o back pain, but has h/o back pain and disc disease S:	0	hematoma	[u'No']	4601	150	224
+580516	0	Small stable hematoma. 	1	hematoma	[]	4601	2600	2626
+9484	0	Past Medical History: Coronary Artery Disease, History of MI Hypertension Hyperlipidemia Menieres Disease/Vertigo Questionable History of Hepatitis Chronic Pruritis Hemorrhoids - History of BRBPR 	0	BRBPR	[u'History of']	5204	1228	1424
+707584	1	*] is a 76 year old man with multiple medical problems, including prosthetic aortic valve and recent MSSA bacteremia, presenting with supratherapeutic INR and GI bleeding, in critical condition. . 	1	bleeding	[u'presenting with']	6534	3166	3378
+707584	1	# GI BLEED:	1	BLEED	[]	6534	3378	3390
+707584	1	Patient with prior episodes of erosive gastritis and GI Bleed, also with known diverticulosis, AAA and history of paroxysmal atrial fibrillation.	0	Bleed	[u'episodes of', u'prior']	6534	3391	3542
+707584	1	Given degree of bleeding however and excessive anticoagulation for prosthetic valve makes most likely diagnosis mucosal bleed vs diverticular bleed, especially in light of unrevealing diagnosis in the past.	0	bleed	[u'vs', u'in the past']	6534	3646	3862
+707584	1	Given degree of bleeding however and excessive anticoagulation for prosthetic valve makes most likely diagnosis mucosal bleed vs diverticular bleed, especially in light of unrevealing diagnosis in the past.	0	bleed	[u'vs', u'in the past']	6534	3646	3862
+707584	1	Given degree of bleeding however and excessive anticoagulation for prosthetic valve makes most likely diagnosis mucosal bleed vs diverticular bleed, especially in light of unrevealing diagnosis in the past.	0	bleeding	[u'vs', u'in the past']	6534	3646	3862
+707584	1	Highly unlikely for such slow bleed to represent aortoenteric fistula. 	0	bleed	[u'unlikely']	6534	3863	3940
+707584	1	No response to 2 units of PRBC and still with melena 	0	melena	[u'No']	6534	3940	3996
+707584	1	If actively bleeding, will need FFP --	0	bleeding	[u'If']	6534	4380	4421
+707584	1	-- Hold warfarin -- Goal INR 2.5 to 3.5 given mechanical valve at aortic position with atrial fibrillation, however given propensity to bleed may require tighter goal of near 3.0 -- FFP PRN for bleeding . 	1	bleeding	[]	6534	5141	5364
+707584	1	-- Hold warfarin -- Goal INR 2.5 to 3.5 given mechanical valve at aortic position with atrial fibrillation, however given propensity to bleed may require tighter goal of near 3.0 -- FFP PRN for bleeding . 	1	bleed	[]	6534	5141	5364
+707584	1	# DIASTOLIC HEART FAILURE: Appears only mildly volume up, however with significant blood loss will hold off on diuresis --	1	blood loss	[]	6534	5364	5493
+707584	1	As above, avoid tachycardia -- Hold diuretics, antihypertensives during acute bleeding. . 	1	bleeding	[]	6534	5494	5593
+507015	0
+355680	0
+679658	0
+398698	0
+7733	0
+45105	1	**] Chief Complaint: melena Major Surgical or Invasive Procedure: 1.	1	melena	[u'Chief Complaint:']	22246	357	426
+45105	1	Exam was notable for melanotic, guiac + stool, gastric lavage showed no evidence of bleeding. 	0	bleeding	[u'no evidence']	22246	1596	1690
+45105	1	Exam was notable for melanotic, guiac + stool, gastric lavage showed no evidence of bleeding. 	1	guiac +	[]	22246	1596	1690
+45105	1	Negative Brief Hospital Course: History: 66 yo woman with hx ESRD on HD, afib, presenting with weakness, hypotension and melena concerning for GIB.	0	GIB	[u'hx', u'presenting with']	22246	8943	9092
+45105	1	Negative Brief Hospital Course: History: 66 yo woman with hx ESRD on HD, afib, presenting with weakness, hypotension and melena concerning for GIB.	0	melena	[u'hx', u'presenting with']	22246	8943	9092
+45105	1	Bleeding resolved with IV PPI.	1	Bleeding	[]	22246	9174	9204
+45105	1	*] on admission given GIB and supratherapeutic INR, which was reversed.	1	GIB	[]	22246	10703	10774
+45105	1	Acute Blood Loss anemia due to GI bleeding: Pt Hct drop of 15 points below most recent baseline.	1	bleeding	[]	22246	11353	11449
+45105	1	Acute Blood Loss anemia due to GI bleeding: Pt Hct drop of 15 points below most recent baseline.	1	Blood Loss	[]	22246	11353	11449
+45105	1	However, pt had reported melena, concerning for upper source.	1	melena	[]	22246	11474	11535
+45105	1	GI was consulted, and EGD showed no active bleeding, presumed due to PPI therapy.	0	bleeding	[u'no']	22246	11792	11873
+45105	1	Her Hct stabilized without any repeat bleeding throughout the rest of her course. 	0	bleeding	[u'without']	22246	11931	12014
+45105	1	**] and aggressive debridement of skin lesions given risk of bleeding from underlying arterial source. 4.	0	bleeding	[u'risk of']	22246	12640	12745
+45105	1	**] cause severe bleeding.	1	bleeding	[]	22246	16599	16625
+45105	1	Upper GI bleed 2.	1	bleed	[]	22246	17498	17515
+45105	1	[**Hospital1 4**] for gastrointestinal bleeding.	1	bleeding	[]	22246	18017	18065
+45105	1	At admission, we found that your INR was elevated at >19 and that your labs indicated that you had significant blood loss.	1	blood loss	[]	22246	18066	18188
+45105	1	An endoscopy was performed to assess the upper portion of your intestinal tract, but did not find any source of bleeding.	0	bleeding	[u'not']	22246	18329	18450
+45105	1	You did not show any signs of further blood loss during your hospital course, and your labs showed a stable hematocrit for the past 10days. 	0	blood loss	[u'did not show']	22246	18451	18592
+53932	0
+426	0	Rt rectus femoris intramuscular hematoma - [	1	hematoma	[]	14548	1642	1686
+426	0	Rt rectus femoris intramuscular hematoma - [	1	hematoma	[]	14548	3224	3268
+31659	0
+349138	0
+576555	1	Mr. [**Known patient lastname 7528**] is an 88M with CAD, afib on warfarin, AS, and h/o GIB who presented on [**3-1**] with melena x2.	0	GIB	[u'h/o']	6994	41	178
+576555	1	Mr. [**Known patient lastname 7528**] is an 88M with CAD, afib on warfarin, AS, and h/o GIB who presented on [**3-1**] with melena x2.	0	melena	[u'h/o']	6994	41	178
+576555	1	He was trace guiac positive on rectal exam.	1	guiac positive	[]	6994	223	266
+576555	1	He had some recent dysuria and hematuria. 	1	hematuria	[]	6994	1200	1248
+576555	1	**] Hematuria, h/o TURP Arthritis Gout GIB Dementia n/c Occupation: retired pharmacist Drugs: Tobacco: none Alcohol: none Other: lives with daughter Review of systems: As above Flowsheet Data as of [**3055-3-3**] 09:00 AM Vital Signs Hemodynamic monitoring Fluid Balance 24 hours Since 12 AM Total In: PO: TF: IVF: Blood products: 	0	GIB	[u'h/o']	6994	2035	2609
+576555	1	**] Hematuria, h/o TURP Arthritis Gout GIB Dementia n/c Occupation: retired pharmacist Drugs: Tobacco: none Alcohol: none Other: lives with daughter Review of systems: As above Flowsheet Data as of [**3055-3-3**] 09:00 AM Vital Signs Hemodynamic monitoring Fluid Balance 24 hours Since 12 AM Total In: PO: TF: IVF: Blood products: 	1	Hematuria	[]	6994	2035	2609
+576555	1	This 88M with h/o afib on warfarin, CAD, AS, and GIV presents with melena x2 and is transferred to the MICU for further management of hypotension. . 	0	melena	[u'h/o', u'presents with']	6994	4214	4375
+576555	1	Anemia, h/o GIB and hematuria 	0	hematuria	[u'h/o']	6994	5576	5609
+576555	1	Anemia, h/o GIB and hematuria 	0	GIB	[u'h/o']	6994	5576	5609
+576555	1	No further gross bleeding over hematuria overnight, Hct ~stable since transfusion yesterday AM - Type and cross,	0	hematuria	[u'No']	6994	5609	5727
+576555	1	No further gross bleeding over hematuria overnight, Hct ~stable since transfusion yesterday AM - Type and cross,	0	bleeding	[u'No']	6994	5609	5727
+576555	1	CAD Not on antiplatelet agents as an outpatient presumably given GIB Continue pravastatin. 	0	GIB	[u'Not']	6994	6247	6347
+576555	1	No plans to restart anticoagulation given h/o bleeding. 	0	bleeding	[u'h/o']	6994	6413	6475
+35597	0
+698410	0
+32565	0	Wound site was hemostatic with no bleeding. 	0	bleeding	[u'no']	12220	8614	8659
+675917	0	No hematoma, no bruit, dressing c/d/i. 	0	hematoma	[u'No']	6003	3018	3060
+688141	0
+713151	0
+572984	0
+24130	0	She had no rashes, ecchymosis or jaundice.	0	ecchymosis	[u'no']	7432	2586	2628
+591621	0
+713657	1	Chief Complaint: Anemia, blood loss 	1	blood loss	[u'Chief Complaint:']	7446	0	40
+713657	1	approximately 3 weeks ago presenting with hematuria.	1	hematuria	[u'presenting with']	7446	445	500
+713657	1	The patient reports that 1 week prior to presentation he passed 2 large blood clots with urination with small amount of bleeding.	0	bleeding	[u'prior']	7446	501	636
+713657	1	He had no further episodes of gross hematuria until the morning of [*	0	hematuria	[u'episodes of', u'no']	7446	637	709
+713657	1	The patient represented to ED with recurrent hematuria from foley, continued pain and decreased urine output.	1	hematuria	[]	7446	1091	1203
+713657	1	Rheumatic fever Paroxysmal atrial fibrillation Hypertension Hyperlipidemia TIA 10-12 years ago Benign prostatic hypertrophy Subdural hematoma in [**3101	1	hematoma	[]	7446	2685	2855
+713657	1	**] Status post cataract removal Status post evacuation of a subdural hematoma Occupation:	1	hematoma	[]	7446	2855	2954
+713657	1	Dry mouth, No(t) Epistaxis, No(t) OG / NG tube Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema, No(t) Tachycardia, No(t) Orthopnea 	0	Epistaxis	[u'No']	7446	3219	3377
+713657	1	Genitourinary: No(t) Dysuria, No(t) Foley, No(t) Dialysis, Hematuria Musculoskeletal	0	Hematuria	[u'No']	7446	3663	3750
+596239	1	HYPERTENSION, BENIGN ANXIETY NAUSEA / VOMITING ELECTROLYTE & FLUID DISORDER, OTHER TACHYCARDIA, OTHER ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN) WOUND DEHISCENCE CELLULITIS RESPIRATORY FAILURE, ACUTE (	1	BLEEDING	[]	6278	5638	5926
+596239	1	HYPERTENSION, BENIGN ANXIETY NAUSEA / VOMITING ELECTROLYTE & FLUID DISORDER, OTHER TACHYCARDIA, OTHER ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN) WOUND DEHISCENCE CELLULITIS RESPIRATORY FAILURE, ACUTE (	1	HEMORRHAGE	[]	6278	5638	5926
+596239	1	HYPERTENSION, BENIGN ANXIETY NAUSEA / VOMITING ELECTROLYTE & FLUID DISORDER, OTHER TACHYCARDIA, OTHER ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN) WOUND DEHISCENCE CELLULITIS RESPIRATORY FAILURE, ACUTE (	1	BLOOD LOSS	[]	6278	5638	5926
+580769	0
+688784	0
+321681	1	[**10-10**] presented with chief compliant of hematemesis. 	1	hematemesis	[u'presented with']	10414	187	249
+321681	1	shortly thereafter reports of vomiting blood. 	1	vomiting blood	[]	10414	338	385
+321681	1	**] for platelet count 51 in setting of hemoptysis. 	1	hemoptysis	[]	10414	1445	1501
+321681	1	Secretions less bloody. 	1	bloody	[]	10414	1723	1750
+321681	1	Allergies: Univasc Cough; Lipitor leg cramps; Vitamin E epistaxis; 	1	epistaxis	[]	10414	1750	1832
+321681	1	Punctate hemorrhages in conjunctiva. 	1	hemorrhage	[]	10414	4448	4488
+321681	1	7.26 TCO2 21 18 19 17 Glucose 107 103 97 142 Other labs: PT / PTT / INR:20.7/39.2/1.9, CK / CKMB / Troponin-T:68/26/7.26, ALT / AST:2530/636, Alk Phos / T Bili:125/2.9, Amylase / Lipase:190/19, Differential-Neuts:96.7 %, Band:19.0 %, Lymph:1.4 %, Mono:1.9 %, Eos:0.0 %, D-dimer:6308 ng/mL, Fibrinogen:222 mg/dL, Lactic Acid:1.6 mmol/L, LDH:905 IU/L, Ca++:7.6 mg/dL, Mg++:2.5 mg/dL, PO4:7.6 mg/dL Assessment and Plan 70 yr old man with severe COPD on (steroids high dose), HTN, CHF, lung cancer s/p resection, AAA with extensive AA graft who developed acute cardiogenic shock and hemoptysis; etiology unclear but most likely etiology is cardiogenic shock most likely [**3-6**] MI. 1) Shock: Unclear initial etiology PE vs primary cardiac process.	0	hemoptysis	[u'vs']	10414	5672	6493
+321681	1	[**3-6**] significant hemoptysis.	1	hemoptysis	[]	10414	6698	6734
+321681	1	No e/o active bleeding (persistent but improved mild bloody secretions in the ETT suction.)	0	bloody	[u'No e/o']	10414	8170	8264
+321681	1	No e/o active bleeding (persistent but improved mild bloody secretions in the ETT suction.)	0	bleeding	[u'No e/o']	10414	8170	8264
+658572	0	- MRI head and spine once patient stabilized - repeat CT angio head/neck in 2 weeks to r/o mycotic aneurysm - final treatment would be surgery, however remains high risk of hemorrhagic conversion (approx 50%) - f/u neuro recs. 	0	hemorrhag	[u'risk of']	8361	6463	6705
+680296	0
+35687	0
+44777	0	This medicine makes it more likely for you to have minor bleeding such as a nosebleed or bleeding gums, this is normal.	1	bleed	[]	19494	17276	17395
+44777	0	This medicine makes it more likely for you to have minor bleeding such as a nosebleed or bleeding gums, this is normal.	1	bleeding	[]	19494	17276	17395
+44777	0	This medicine makes it more likely for you to have minor bleeding such as a nosebleed or bleeding gums, this is normal.	1	bleeding	[]	19494	17276	17395
+44777	0	A major bleeding event would be dark or bloody stools, fatigue and trouble breathing.	1	bloody	[]	19494	17396	17481
+44777	0	A major bleeding event would be dark or bloody stools, fatigue and trouble breathing.	1	bleeding	[]	19494	17396	17481
+16595	0
+587035	0
+44557	1	**11-18**] revealing a large retroperitoneal hematoma 9 by 7 centimeters. 	1	hematoma	[]	12899	3159	3234
+44557	1	No epistaxis. 	0	epistaxis	[u'No']	12899	4821	4836
+44557	1	The patient was mildly distended, soft, no masses, with some flank fullness, right greater than left with a persistent area of ecchymosis. 	0	ecchymosis	[u'no']	12899	5177	5317
+44557	1	He was found to have a retroperitoneal bleed on [**11-16**] secondary to dialysis catheter placement dropping the patient's hematocrit. 	1	bleed	[u'found to have']	12899	6291	6427
+44557	1	**11-20**] which was negative for bleed. 	0	bleed	[u'negative']	12899	7233	7275
+526301	0
+583023	0	No clear source of blood loss, vitals stable. 	0	blood loss	[u'No']	4461	3569	3618
+581961	0
+26860	0
+695877	1	The mass was friable and bleeding spontaneously on contact.	1	bleeding	[]	8640	229	291
+695877	1	No evidence of bleeding was noted. 	0	bleeding	[u'No evidence']	8640	450	488
+695877	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) SEPSIS WITHOUT ORGAN DYSFUNCTION PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED	1	BLEED	[]	8640	4454	4574
+695877	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) SEPSIS WITHOUT ORGAN DYSFUNCTION PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED	1	BLEED	[]	8640	4454	4574
+695877	1	GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) SEPSIS WITHOUT ORGAN DYSFUNCTION PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED	1	GIB	[]	8640	4454	4574
+695877	1	63 y/o F w/ decompensated Stage IV CHF admitted for inotropic-assisted diuresis, with ICU course c/b hypercarbic respiratory failure requiring intubation, superimposed sepsis, GI bleeding requiring transfusion, persistent pressor requirement now found to have likely malignancy on push enteroscopy. . 	1	bleeding	[]	8640	4682	5001
+695877	1	Plan for EGD for biopsy once acute bleeding stopped. 	1	bleeding	[]	8640	5257	5313
+562154	0
+35660	1	**] Area VNA Discharge Diagnosis: Gastrointestinal bleed cholesystecomy 	1	bleed	[]	10570	9451	9524
+42520	0
+34968	1	/p Tricuspid repair Tachy-brady syndrome, s/p Permanent pacemeker implantation Polymyositis Postop Bleeding,	1	Bleeding	[]	11868	9712	9820
+546974	1	Upper GI bleed: coffee grounds in the NG tube.	1	bleed	[]	8723	6722	6768
+546974	1	Upper GI bleed: coffee grounds in the NG tube.	1	coffee ground	[]	8723	6722	6768
+546974	1	Hct has remained stable - Hct goal < 23 or active bleeding. 	1	bleeding	[]	8723	6854	6924
+712673	0
+324548	0	Head CT: no evidence of hemorrhage, edema, or mass CXR: 	0	hemorrhage	[u'no evidence']	7632	4959	5024
+324548	0	Continue PD as removing volume is beneficial for pressures - Head CT was neg for bleed -	1	bleed	[]	7632	5990	6084
+717166	0
+49875	0
+723258	0
+559677	0
+16002	0
+551363	0
+549827	0
+373798	0
+569339	1	- LGI bleed: still has diarrhea, outpt GI	1	bleed	[]	5052	4358	4399
+717002	1	24 Hour Events: [**5-6**] bronch: minimal white frothy secretions bilaterally with scant hemoptysis -stopped lasix as met goal neg ~1L and had some tachycardia 	1	hemoptysis	[]	7638	168	341
+403439	0
+520294	0
+16183	0	She had no history of gastrointestinal bleed. 	0	bleed	[u'history of']	7627	1365	1412
+16183	0	No history of claudication, anemia or bleeding problems. 	0	bleeding	[u'history of']	7627	1463	1521
+518308	0	Transfuse for bleeding, > 30 #hyperkalemia on admit resolved with kayexalate 	0	bleeding	[u'Transfuse']	9122	7858	7941
+518308	0	cll, reactive, infectious, now back to prior levels per OSH labs - Antibx as above - Pan cx - d/c NGTand replace with OG given risk of sinusitis - Skin care - Check C diff # CKD cr at baseline, good urine output #anemia hct near baseline - keep active t and s, - transfuse for active bleed or hct < 24 #CLL 	0	bleed	[u'transfuse']	9122	8056	8407
+33683	1	No history of bleeding problems. 	0	bleeding	[u'history of']	16408	1652	1687
+33683	1	# Persistent Hematuria Started after placing foley on admission and thought likely [**1-5**] traumatic foley + anticoagulation + UTI. 	1	Hematuria	[]	16408	10217	10352
+33683	1	Pt slowly had clearing of his urine with treatment of UTI, but then on HOD#5 had recurrence of dark hematuria (no clots) likely [**1-5**] supratherapeutic PTT of 106.8.	1	hematuria	[]	16408	10352	10520
+33683	1	When heparin was held the hematuria resolved and was not present at the time of discharge.	1	hematuria	[]	16408	10632	10722
+33683	1	[**State 26893**]; LIMA to midLAD, SVG to midLCX, SVG to D2 # Atrial fibrillation with RVR - digoxin and BB started for rate control - consider DCCV after antiacoag x1mo - first noted in [**3426**] but not on coumadin before # E.Coli UTI and bacteremia, pan-sensitive - cipro was continued for 14 days # Multiple prominent mediastinal lymph nodes - largest node in the prevascular space measures 22 x 12 mm - left lower lobe and lingular atelectasis; given hx history of smoking followup is recommended in six # Persistent Hematuria - likely [**1-5**] traumatic foley + anticoagulation + UTI --> resolved by time of d/c . 	0	Hematuria	[u'history of']	16408	13378	14000
+33683	1	- It is very important that you go to your doctors office and have a lab draw on Monday [**2-25**] to have your INR checked and your coumadin dose adjusted - If you have recurrence of hematuria or continue to have difficulty initiating urination, have a stream or frequesnt visits to the bathroom at night you should set up an appointment with a urologist. . 	0	hematuria	[u'If']	16408	15142	15501
+33683	1	- It is very important that you go to your doctors office and have a lab draw on Monday [**2-25**] to have your INR checked and your coumadin dose adjusted - If you have recurrence of hematuria or continue to have difficulty initiating urination, have a stream or frequesnt visits to the bathroom at night you should set up an appointment with a urologist. 	0	hematuria	[u'If']	16408	16037	16399
+2188	0
+12182	0
+552472	1	Wt 87.2 Cr 0.9-1.2 PMH Rectal bleeding - fissure, Migraines, BPH, Depression, Tonsillectomy 	0	bleeding	[u'PMH']	8017	123	224
+404473	1	She was taken to emergent pericardiocentesis, where ~610 cc of bloody fluid was drained, with immediate improvement in RHC hemodynamics (initial equalization of pressures, pericardial pressure ~35 mm Hg --	1	bloody	[]	1699	629	843
+404473	1	Cardiac tamponade, etiology of bloody effusion most likely [**2-20**] malignancy 2.	1	bloody	[]	1699	1061	1150
+536133	0
+496073	1
+662501	0
+575970	1	y/o F with PMHx of biventricular heart failure and moderate pulm hypertension presents with pleuritic chest pain, hypoxia and DOE transferred to the MICU for hemoptysis following thoracentesis. 	0	hemoptysis	[u'PMH', u'presents with']	6330	4602	4803
+575970	1	Will not start anticoagulation in the setting of acute bleed. 	0	bleed	[u'not']	6330	5310	5378
+433020	1	# Elevated Intracranial Pressure: ICP at goal <10; attributed to malabsorptive hydrocephalus following intracranial bleeding.	1	bleeding	[]	8562	6915	7043
+433020	1	# Scalp hematoma: No evidence of active bleed or infection. 	0	bleed	[u'No evidence']	8562	7790	7853
+433020	1	# Scalp hematoma: No evidence of active bleed or infection. 	1	hematoma	[]	8562	7790	7853
+672613	0	Less likely is occult bleeding, although pt s HCT has been trending down over last 5 days, his baseline is 25-30 over last year, so pt is at baseline. ?	1	bleeding	[]	14204	9798	9956
+346363	0
+47403	0
+569480	0
+53180	1	Orthopaedics did not feel that this was evidence of infection, and it was most likely a resolving hematoma. 	0	hematoma	[u'not']	4502	2568	2677
+361000	0	p vit K yest and today, monitor for any sign of downtrending Hct or clinical bleeding -monitor INR 	0	bleeding	[u'monitor for']	5513	4869	4977
+17103	0
+52041	0	as well rate controlled - coumadin has been held because of diverticular bleed requiring hemicolectomy - 6.	1	bleed	[]	10412	6247	6354
+52041	0	- cont beta blocker and statin - not on aspirin or plavix, unclear when last stent was put in, but possibly stopped because of bleed. 	0	bleed	[u'not']	10412	6462	6596
+52041	0	HCT was stable with no evidence of bleeding. 	0	bleeding	[u'no evidence']	10412	6972	7017
+52041	0	If you develop any worrisome symptoms such as abdominal pain, pain at the site of biopsy, bleeding, blood in your urine, pain with urination, [**Month/Year (2)	0	bleeding	[u'If']	10412	9770	9929
+513113	1	*2771-10-3**] 06:59 PM noted to developed hematoma at left HD line site with associated drop in HCT of several points Persistent pressor requirement Allergies: Univasc (Oral) (Moexipril Hcl) Cough; Lipitor (Oral) (Atorvastatin Calcium) leg cramps; Vitamin E epistaxis; Ambien (Oral) (Zolpidem Tartrate) disorientatio 	1	epistaxis	[]	8948	112	466
+513113	1	*2771-10-3**] 06:59 PM noted to developed hematoma at left HD line site with associated drop in HCT of several points Persistent pressor requirement Allergies: Univasc (Oral) (Moexipril Hcl) Cough; Lipitor (Oral) (Atorvastatin Calcium) leg cramps; Vitamin E epistaxis; Ambien (Oral) (Zolpidem Tartrate) disorientatio 	1	hematoma	[]	8948	112	466
+513113	1	+ hematoma Pulmonary: Ronchorous breath sounds bilat, forced respiration. 	1	hematoma	[]	8948	3328	3408
+513113	1	Extremities: 1+ anasarca, left groin hematoma. 	1	hematoma	[]	8948	3527	3576
+513113	1	Assessment and Plan 70yo man w/ severe COPD, h/o lung ca, CHF, HTN, who presented w/ question of GI bleed was stable, then developed sudden shock. 	0	bleed	[u'h/o', u'presented w/']	8948	5202	5356
+513113	1	FFP yesterday, had LIJ HD catheter place, required transfusion of blood and platelets in this setting with significant bleeding and hematoma formation. 	1	hematoma	[]	8948	7639	7800
+513113	1	FFP yesterday, had LIJ HD catheter place, required transfusion of blood and platelets in this setting with significant bleeding and hematoma formation. 	1	bleeding	[]	8948	7639	7800
+513113	1	# Coagulopathy: suspect [**3-6**] liver dysfunction and DIC - d/w cards when to start asa again, -monitor INR/CBC, give products when necessary for procedures or bleeding. 	0	bleeding	[u'monitor']	8948	8064	8248
+513113	1	-Tx for platelets <50 or active bleeding. 	1	bleeding	[]	8948	8286	8331
+20864	0
+368132	1	He presented with profound coagulopathy (INR >20) and marked GIB.	1	GIB	[u'presented with']	1437	341	409
+368132	1	His Hct has been stable for 24 hours, without clinical bleeding. 	0	bleeding	[u'without']	1437	494	563
+368132	1	man with GI bleed in the setting of profound coagulopathy. 	1	bleed	[]	1437	680	742
+368132	1	Bleed appears to have stabilized, with stable Hct and no clinical bleeding for 24 hours. 	1	Bleed	[]	1437	742	835
+368132	1	Bleed appears to have stabilized, with stable Hct and no clinical bleeding for 24 hours. 	0	bleeding	[u'no']	1437	742	835
+421051	1	2 small maroon-colored BM; no BRBPR. 	0	BRBPR	[u'no']	7626	240	280
+421051	1	2 small maroon-colored BM; no BRBPR. 	1	red BM	[]	7626	240	280
+421051	1	con CT scan prelim read of abd/pelvis showed b/l pleural effusions without retroperitonal or intraperitoneal bleed; radiologist read as nodule potentially consistent with diverticulitis. 	0	bleed	[u'without']	7626	284	478
+421051	1	Subsequently, he underwent a tagged RBC study performed this AM, which was negative for bleed. 	0	bleed	[u'negative']	7626	478	580
+421051	1	No evidence of retroperitoneal hematoma. 	0	hematoma	[u'No evidence']	7626	3737	3781
+421051	1	Assessment and Plan GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) Assessment and Plan: 78 year old male with a past medical history significant for DM, HTN, atrial fibrillation on coumadin, hx 	1	BLEED	[]	7626	4258	4461
+421051	1	Assessment and Plan GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) Assessment and Plan: 78 year old male with a past medical history significant for DM, HTN, atrial fibrillation on coumadin, hx 	1	BLEED	[]	7626	4258	4461
+421051	1	Assessment and Plan GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB) Assessment and Plan: 78 year old male with a past medical history significant for DM, HTN, atrial fibrillation on coumadin, hx 	1	GIB	[]	7626	4258	4461
+421051	1	/p recent ex-lap for small bowel obstruction with evidence of lower GI bleed. 	1	bleed	[]	7626	4500	4584
+421051	1	Lower GI Bleed: known diverticular disease, given neg NG lavage in ED upper GI	1	Bleed	[]	7626	4588	4669
+421051	1	bleed less likely.	1	bleed	[]	7626	4670	4688
+421051	1	RBC scan and maroon-colored stool suggests non-brisk bleed, and stabilization of Hct suggests resolution of active bleed. 	0	bleed	[u'non-']	7626	4763	4894
+421051	1	RBC scan and maroon-colored stool suggests non-brisk bleed, and stabilization of Hct suggests resolution of active bleed. 	1	red stool	[]	7626	4763	4894
+421051	1	RBC scan and maroon-colored stool suggests non-brisk bleed, and stabilization of Hct suggests resolution of active bleed. 	0	bleed	[u'non-']	7626	4763	4894
+421051	1	- Transfuse to keep HCT >28 - Continue PPI daily - F/u surgery and GI recs 2) Acute Blood Loss Anemia on Chronic Anemia:	0	Blood Loss	[u'Transfuse']	7626	4913	5042
+421051	1	GI bleed, but baseline HCT 25-30 likely due to ESRD and anemia of chronic disease. 	1	bleed	[]	7626	5043	5132
+421051	1	--Continue to hold warfarin, aspirin and BB held in setting of bleed. 	1	bleed	[]	7626	6520	6593
+421051	1	7) HTN: --Continue to hold antihypertensives in setting GI bleed 8) Dyslipidemia: --Continue simvastatin # Secondary hyperparathyroidism: cont cinacelcet - unclear why also on paricalcitol will need to speak to Radius # S/P lysis of adhesions: cont to control pain, use iv morphine prn # FEN:NPO # Prophylaxis: pneumoboots, ppi # Access: peripherals and central line -- subclavian central line appears to be from last discharge [	1	bleed	[]	7626	6593	7053
+450276	1	[**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS Right arm hematoma HEPATIC ENCEPHALOPATHY HYPERTENSION, BENIGN ELECTROLYTE & FLUID DISORDER,	1	hematoma	[]	5524	4957	5116
+544137	0
+555787	0
+684551	0	Patient has no lower back pain that would be evidence of RP bleed. 	0	bleed	[u'no']	7656	5639	5710
+731795	1	No good records on findings during EGD today, however, no note of active bleeding -continue to trend CBC/HCTs , no evidence of any active GIB at this time - continue IV PPI	0	bleeding	[u'no']	10568	8300	8487
+731795	1	No good records on findings during EGD today, however, no note of active bleeding -continue to trend CBC/HCTs , no evidence of any active GIB at this time - continue IV PPI	0	GIB	[u'no evidence']	10568	8300	8487
+731795	1	# Prophylaxis: Pneumoboots, if no active bleeding and Hct stable,	0	bleeding	[u'no']	10568	9709	9774
+391020	0
+570785	0
+369142	0
+578264	0	/O HEART FAILURE (CHF), SYSTOLIC, ACUTE AORTIC STENOSIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) .H	1	HEMORRHAGE	[]	4744	4325	4448
+578264	0	/O HEART FAILURE (CHF), SYSTOLIC, ACUTE AORTIC STENOSIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) .H	1	BLOOD LOSS	[]	4744	4325	4448
+578264	0	/O HEART FAILURE (CHF), SYSTOLIC, ACUTE AORTIC STENOSIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) .H	1	BLEEDING	[]	4744	4325	4448
+578264	0	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	BLOOD LOSS	[]	4744	4448	4516
+578264	0	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	HEMORRHAGE	[]	4744	4448	4516
+578264	0	/O ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	BLEEDING	[]	4744	4448	4516
+458451	0
+444794	1	- change from lovenox to sub-cutaneous heparin 5000 units per neuro due to concern for possible septic thrombus that could bleed, pt has h/o bleeding with lovenox - TEE to evaluate for clots/vegetations on Monday . 	0	bleeding	[u'h/o']	9107	7082	7312
+444794	1	- change from lovenox to sub-cutaneous heparin 5000 units per neuro due to concern for possible septic thrombus that could bleed, pt has h/o bleeding with lovenox - TEE to evaluate for clots/vegetations on Monday . 	0	bleed	[u'possible']	9107	7082	7312
+43155	0
+1440	0	Chest: lungs CTAB, 4-5 cm purple ecchymosis just superior to left nipple CV: RRR, no MRG Abdomen: surgical scars consistent with history; soft, ND/NT, no HSM, +BS GU: foley in place, draining yellow urine Ext: warm, well-perfused, non-palpable distal pulses, no edema or ulcers MSK: able to flex and abduct L thigh to 30 deg w/ mild pain. 	1	ecchymosis	[]	17367	2690	3029
+26118	1	MR, CAD, BPH, Hyperlipidemia, HTN, SVT vs. NSVT preoperatively, History of severe nose bleeds, Lipoma, s/	0	bleed	[u'History of']	7536	1195	1300
+26118	1	He required flexibile cystoscopy for placement of foley and was started on a [**Doctor Last Name **] drip for hematuria.	1	hematuria	[]	7536	2642	2762
+26118	1	Head MR found no evidence of acute infarction or abnormalities except slightly diminished flow signal within the right Sylvian middle cerebral artery branches compared to the left side, while CT scan showed no intracranial hemorrhage or mass effect.	0	hemorrhage	[u'no']	7536	3402	3652
+26118	1	He was voiding without difficulty and his hematuria had completely resolved.	0	hematuria	[u'without']	7536	4737	4813
+26118	1	**] VNA Discharge Diagnosis: MR, CAD, Postop Atrial Fibrillation/SVT, Postop TIA, Hematuria, BPH, Hyperlipidemia, HTN, SVT vs. NSVT preoperatively, History of severe nose bleeds, Lipoma Discharge Condition: Good Discharge Instructions: 	0	Hematuria	[u'vs']	7536	6404	6645
+26118	1	**] VNA Discharge Diagnosis: MR, CAD, Postop Atrial Fibrillation/SVT, Postop TIA, Hematuria, BPH, Hyperlipidemia, HTN, SVT vs. NSVT preoperatively, History of severe nose bleeds, Lipoma Discharge Condition: Good Discharge Instructions: 	0	bleed	[u'History of']	7536	6404	6645
+386760	0	Left upper extremity hematoma. 	1	hematoma	[]	8955	3280	3317
+460013	1	# Heme: Early anemia and thrombocytopenia are likely components due to blood loss from open fasciotomy, contributory factors include dilution from large volume IV repletion. 	1	blood loss	[]	12457	6839	7020
+460013	1	Had melanotic/frankly bloody bm [	1	bloody	[]	12457	7907	7943
+460013	1	ACE pressure dressing appears to have stemmed blood loss somewhat. 	1	blood loss	[]	12457	8479	8552
+460013	1	**1-5**] bleeding concerns. 	1	bleeding	[]	12457	9973	10002
+414511	1	There is no hemorrhage, no midline shift and the basilar cisterns are preserved.	0	hemorrhage	[u'no']	19472	5577	5660
+414511	1	Hematuria - Resolved.	1	Hematuria	[]	19472	9083	9104
+414511	1	There is no hemorrhage, no midline shift and the basilar cisterns are preserved.	0	hemorrhage	[u'no']	19472	15309	15392
+414511	1	Hematuria - Resolved.	1	Hematuria	[]	19472	18815	18836
+406280	1	EXTREMITIES: no C/C/E, incision in right groin moist but clean, L fem no hematoma, bruit.	0	hematoma	[u'no']	8339	3076	3168
+406280	1	R leg dressing staples intact, healing but with expanding surrounding hematoma.	1	hematoma	[]	8339	3169	3251
+589299	1	Likely BLOOD LOSS and INFLAMMATION as dual contributors - Gastroocult + NGT secretions, now on [**Hospital1 **] PPI - Tranfusion support as needed . 	1	BLOOD LOSS	[]	5047	4414	4575
+596275	1	**] URINE URINE CULTURE-FINAL {YEAST} [**3105-3-13**] CATHETER TIP-IV WOUND CULTURE-FINAL NGTD [**3105-3-12**] BLOOD CULTURE Blood Culture, Routine-PENDING NGTD [**3105-3-12**] BLOOD CULTURE Blood Culture, Routine-PENDING NGTD Assessment and Plan 73F s/p CABG on [**12-24**] complicated by sternal wound infxn, a-fib, and respiratory failure requiring trach/PEG returns with bleeding from her tracheostomy site and later developed loculated left pleural effusion and persistent leukocytosis on tobramycin, tigecycline, and vancomycin. 	1	bleeding	[]	12131	6553	7119
+596275	1	Continues to be hypotensive, but no active signs of bleeding.	0	bleeding	[u'no']	12131	11180	11241
+595921	0
+346494	0
+423002	0
+343494	0	Nutrition: NPO Renal: Foley, Adequate UO Hematology: Serial Hct, -blood loss anemia --> currently stable, no e/o ongoing blood loss --> hold off on tranfusion at this time--> repeat hct at 1pm. 	0	blood loss	[u'no e/o']	5668	4750	4959
+343494	0	Nutrition: NPO Renal: Foley, Adequate UO Hematology: Serial Hct, -blood loss anemia --> currently stable, no e/o ongoing blood loss --> hold off on tranfusion at this time--> repeat hct at 1pm. 	1	blood loss	[]	5668	4750	4959
+27195	0
+452375	0
+583894	0
+640845	0
+351552	1	*2566-11-17**] 10:30 PM ENDOSCOPY - At [**2566-11-17**] 11:00 PM - on presentation vomitting blood and hematochezia 	1	vomitting blood	[]	3868	61	184
+351552	1	*2566-11-17**] 10:30 PM ENDOSCOPY - At [**2566-11-17**] 11:00 PM - on presentation vomitting blood and hematochezia 	1	hematochezia	[]	3868	61	184
+351552	1	Bili:87/4.4, Differential-Neuts:88.5 %, Lymph:6.6 %, Mono:4.6 %, Eos:0.2 %, Lactic Acid:1.3 mmol/L, Albumin:2.4 g/dL, LDH:151 IU/L, Ca++:7.3 mg/dL, Mg++:1.7 mg/dL, PO4:5.0 mg/dL Assessment and Plan CIRRHOSIS OF LIVER, OTHER ESOPHAGEAL VARICES CHOLANGITIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	HEMORRHAGE	[]	3868	3144	3475
+351552	1	Bili:87/4.4, Differential-Neuts:88.5 %, Lymph:6.6 %, Mono:4.6 %, Eos:0.2 %, Lactic Acid:1.3 mmol/L, Albumin:2.4 g/dL, LDH:151 IU/L, Ca++:7.3 mg/dL, Mg++:1.7 mg/dL, PO4:5.0 mg/dL Assessment and Plan CIRRHOSIS OF LIVER, OTHER ESOPHAGEAL VARICES CHOLANGITIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	BLOOD LOSS	[]	3868	3144	3475
+351552	1	Bili:87/4.4, Differential-Neuts:88.5 %, Lymph:6.6 %, Mono:4.6 %, Eos:0.2 %, Lactic Acid:1.3 mmol/L, Albumin:2.4 g/dL, LDH:151 IU/L, Ca++:7.3 mg/dL, Mg++:1.7 mg/dL, PO4:5.0 mg/dL Assessment and Plan CIRRHOSIS OF LIVER, OTHER ESOPHAGEAL VARICES CHOLANGITIS ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING) 	1	BLEEDING	[]	3868	3144	3475
+545014	0
+687805	0
+1364	1	Of note, patient has undergone a right TPT/PT lesion with atherectomy on [**2526-6-19**] complicated by groin hematoma with extension into penis and scrotum.	1	hematoma	[]	10862	1366	1523
+1364	1	GU: + ecchymosis pubic symphysis to scrotum, foley in place Pertinent Results: 	1	ecchymosis	[]	10862	2912	2993
+1364	1	This was thought to be due to both dehydration and ? post-obstructive component from groin hematoma (patient with history of peripheral cath/intervention).	1	hematoma	[]	10862	6093	6248
+1364	1	# Groin hematoma Patient with known groin hematoma following recent peripheral revascularization procedure.	1	hematoma	[]	10862	6464	6571
+1364	1	# Groin hematoma Patient with known groin hematoma following recent peripheral revascularization procedure.	1	hematoma	[]	10862	6464	6571
+7741	0
+330684	0
+514713	0	He does report bloody sputum which has been ongoing for many months. 	1	bloody	[]	7246	1494	1567
+514713	0	Patient admitted from: [**Hospital1 52**] ER History obtained from Patient, Medical records Allergies: Compazine (Injection) (Prochlorperazine Edisylate) Unknown; Codeine Unknown; Atenolol bradycardia; Last dose of Antibiotics: Infusions: Other ICU medications: Other medications: Past medical history: Family history: Social History: Malignant Hypertension Pulmonary Embolus s/p IVC filter, not anticoagulated [**2-25**] poor compliance Polysubstance abuse - on Methadone Hepatitis C - undetectable HCV RNA since [**3-30**] COPD GERD PTSD Anxiety/Depression Antisocial Personality Disorder VitB 12 deficiency NC Occupation: Disability Drugs: History of Heroin abuse on methadone Tobacco: History of tobacco use, none in 10 years Alcohol: None currently Other: Review of systems: Respiratory: No(t) Cough, bloody sputum 	0	bloody	[u'No']	7246	1768	2693
+36810	0
+450585	0

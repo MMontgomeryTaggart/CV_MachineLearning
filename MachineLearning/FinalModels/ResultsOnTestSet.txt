@@ -136,3 +136,20 @@ Parameters:
 Epochs: 4
 Batch Size: 8
 Word Embeddings: GloVe
+
+*************** PyConText ********************
+Test Results:
+Accuracy: 0.861
+F-Score: 0.743
+Precision: 0.627
+Recall (Sensitivity): 0.911
+Specificity: 0.846
+NPV: 0.971
+
+TrainingResults:
+Accuracy: 0.894
+F-Score: 0.798
+Precision: 0.703
+Recall (Sensitivity): 0.924
+Specificity: 0.885
+NPV: 0.976

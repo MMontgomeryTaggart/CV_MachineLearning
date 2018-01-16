@@ -1,12 +1,23 @@
-Results from running the models on the training set.
+Results from running the models on the training set. Downsampled models were evaluated on the same set of downsampled
+training notes.
 
 *******************  Extra Trees Classifier Performance and Parameters with CUSTOM STOPWORDS *******************
 
 ##### Extra Trees (Downsampled) ######
-
+Accuracy: 0.851
+F-Score: 0.870
+Precision: 0.771
+Recall (Sensitivity): 1.000
+Specificity: 0.702
+NPV: 1.000
 
 ##### Extra Trees (Not Downsampled) ######
-
+Accuracy: 0.834
+F-Score: 0.726
+Precision: 0.582
+Recall (Sensitivity): 0.964
+Specificity: 0.796
+NPV: 0.987
 
 Parameters for downsampled and not downsampled:
 Number of Trees: 80
@@ -42,11 +53,23 @@ is given below.
 
 ##### Extra Trees (Downsampled) ######
 Num Features: sqrt(vocabulary_size) which turned out to be 536
-
+Accuracy: 0.878
+F-Score: 0.891
+Precision: 0.806
+Recall (Sensitivity): 0.996
+Specificity: 0.760
+NPV: 0.994
 
 
 ##### Extra Trees (Not Downsampled) ######
 Num Features: sqrt(vocabulary_size) which turned out to be 731
+Accuracy: 0.847
+F-Score: 0.745
+Precision: 0.601
+Recall (Sensitivity): 0.978
+Specificity: 0.809
+NPV: 0.992
+
 
 
 
@@ -58,10 +81,20 @@ Num Features: sqrt(vocabulary_size) which turned out to be 731
 *******************    Support Vector Machine Performance and Parameters  *******************
 
 ##### SVM (Downsampled) ######
-
+Accuracy: 0.922
+F-Score: 0.920
+Precision: 0.948
+Recall (Sensitivity): 0.893
+Specificity: 0.951
+NPV: 0.899
 
 ##### SVM (Not Downsampled) ######
-
+Accuracy: 0.928
+F-Score: 0.826
+Precision: 0.923
+Recall (Sensitivity): 0.747
+Specificity: 0.982
+NPV: 0.929
 
 Parameters for downsampled and not downsampled:
 N-Gram Range: 103
@@ -82,7 +115,12 @@ Kernel: linear
 
 ##### CNN (Downsampled) ######
 Performance:
-
+Accuracy: 0.924
+F-Score: 0.925
+Precision: 0.921
+Recall (Sensitivity): 0.929
+Specificity: 0.920
+NPV: 0.928
 
 Parameters:
 Epochs: 12
@@ -92,7 +130,12 @@ Word Embeddings: GloVe
 
 ##### CNN (Not Downsampled) ######
 Performance:
-
+Accuracy: 0.892
+F-Score: 0.753
+Precision: 0.784
+Recall (Sensitivity): 0.724
+Specificity: 0.941
+NPV: 0.921
 
 Parameters:
 Epochs: 4
